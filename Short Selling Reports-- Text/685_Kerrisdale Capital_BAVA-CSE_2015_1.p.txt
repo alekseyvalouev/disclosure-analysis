@@ -1,0 +1,5637 @@
+Bavarian Nordic A/S (OMX: BAVA, OTC: BVNRY) is a $1.3B Danish vaccine-maker whose 
+
+
+stock price has recently surged (up 63% YTD) thanks to excitement over its putative prostate- 
+
+
+cancer treatment, Prostvac-VF, a therapeutic vaccine currently undergoing a Phase III clinical 
+
+
+trial. Bavarian Nordic touts its earlier Phase II study of Prostvac as showing the “most 
+
+
+pronounced survival to date in prostate cancer,” with an 8.5-month improvement in median 
+
+
+overall survival, handily outperforming blockbuster drugs like Zytiga and Xtandi. The 
+
+
+announcement in March that Bristol-Myers Squibb was paying $60mm upfront for an exclusive 
+
+
+option to license and commercialize the vaccine gave investors great confidence that, despite 
+
+
+the uncertainty surrounding any clinical trial, Prostvac is likely to succeed. 
+
+
+
+
+
+This confidence is misplaced. The often cited 8.5-month improvement is an illusion: treatment- 
+
+
+arm survival was unexceptional relative to the results of other trials in similar patient 
+
+
+populations, while placebo-arm survival was anomalously poor. This strikingly bad placebo 
+
+
+performance likely had several causes, but one important one was age: relative to men who 
+
+
+received Prostvac, those who received a placebo were much older – indeed, older than any 
+
+
+group we have come across in any prostate-cancer clinical trial. Researchers have clearly and 
+
+
+consistently found – as common sense would suggest – that elderly men with prostate cancer, 
+
+
+compared to their younger counterparts, do in fact live substantially less long. Comparing an 
+
+
+unexceptional treatment group to an anomalously bad placebo group is a good way to show a 
+
+
+strong benefit where none truly exists. 
+
+
+
+
+
+More recent efforts to demonstrate improved survival in patients receiving both Prostvac and the 
+
+
+cancer drug Yervoy only further underscore Prostvac’s inefficacy. In a 30-patient trial with no 
+
+
+control group, across a range of Yervoy dose levels, median survival was 31.6 months – 
+
+
+compared to the ~30-month survival seen over and over again in the control groups of other 
+
+
+late-stage prostate-cancer studies, a negligible “improvement.” Given that Yervoy itself clearly 
+
+
+has some standalone anti-tumor activity and has been shown to extend survival by (a non–
+
+
+statistically significant) 1.2 months even in post-chemo prostate-cancer patients, Prostvac’s 
+
+
+combination-therapy data look even less impressive. The natural conclusion is that any 
+
+
+apparent benefit comes from Yervoy; Prostvac itself accomplishes nothing. 
+
+
+
+
+
+This finding should come as no surprise: the history of therapeutic cancer vaccines is two 
+
+
+decades of unmitigated failure. We expect nothing different from Bavarian Nordic. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August 2015 
+
+
+
+
+
+Bavarian Nordic (BAVA DC/BVNRY) 
+Dendreon 2.0? 
+
+
+Ineffective Cancer Vaccine Masked by Misleading Data 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC 
+(“Kerrisdale”), other research contributors, and others with whom we have shared our research 
+(the “Authors”) have short positions in and may own option interests on the stock of the 
+Company covered herein (Bavarian Nordic) and stand to realize gains in the event that the price 
+of the stock decreases. Following publication, the Authors may transact in the securities of the 
+Company. The Authors have obtained all information herein from sources they believe to be 
+accurate and reliable. However, such information is presented “as is”, without warranty of any 
+kind – whether express or implied – and without any representation as to the results obtained 
+from its use.  All expressions of opinion are subject to change without notice, and the Authors do 
+not undertake to update this report or any information contained herein. Please read our full legal 
+
+
+disclaimer at the end of this report.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+I. INVESTMENT HIGHLIGHTS ........................................................................................................ 3 
+
+
+II. COMPANY OVERVIEW ................................................................................................................. 10 
+
+
+III. PROSTVAC’S CLINICAL TRIAL RESULTS ARE WEAK ............................................................. 13 
+
+
+The Phase II Trial Was Flawed and Shows No Meaningful Benefit ....................................................................... 14 
+Early-Stage Combination-Therapy Data Further Demonstrate Prostvac’s Inefficacy......................................... 22 
+Prostvac Does Not Slow Disease Progression or Elicit Significant Immune Responses ................................... 24 
+
+
+IV. THERAPEUTIC CANCER VACCINES HAVE A LONG HISTORY OF FAILURE ................... 30 
+
+
+Tolerance and Immunosuppression Impede Vaccine Efficacy................................................................................ 34 
+Checkpoint Inhibitors Will Not Be Prostvac’s Salvation .......................................................................................... 36 
+Vector Immunodominance Likely Contributes to Prostvac’s Weak Immunogenicity ........................................ 37 
+Age Degrades the Capabilities of the Immune System .............................................................................................. 38 
+Prostvac’s Numerous Flaws Easily Explain Its Weak Clinical Results ................................................................... 39 
+
+
+V. EVEN IF PROSTVAC SUCCEEDS, IT HAS LIMITED COMMERCIAL POTENTIAL ............ 40 
+
+
+VI. BAVARIAN NORDIC’S CORE SMALLPOX-VACCINE BUSINESS IS AT RISK ....................... 43 
+
+
+VII. CONCLUSION ................................................................................................................................ 46 
+
+
+VIII. REFERENCES ................................................................................................................................. 47 
+
+
+FULL LEGAL DISCLAIMER ................................................................................................................... 51
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 3 
+
+
+
+
+
+
+
+
+I. Investment Highlights 
+
+
+
+
+
+ Prostvac’s purported 8.5-month survival benefit is an artifact of a bad control. In 
+
+
+Prostvac’s Phase II study, which began in late 2003, the Prostvac group lived for 25.1 
+
+
+months; the placebo group lived for 16.6 months. For the relevant subset of patients – 
+
+
+men with metastatic, castration-resistant prostate cancer (mCRPC) who are minimally 
+
+
+symptomatic or asymptomatic – 25.1 months is an unremarkable outcome. For instance, 
+
+
+in the TAX-327 study, initiated back in March 2000, men with minimal symptoms had 
+
+
+median survival of 25.6 months (1). More recent studies have yielded even better 
+
+
+results: the control groups in trials for tasquinimod (2), abiraterone (3), enzalutamide (4), 
+
+
+and orteronel (5), with enrollment start dates ranging from 2007 to 2010, survived 30.4, 
+
+
+30.3, 30.2, and 29.5 months in trials, respectively. 
+
+
+
+
+
+Since there is nothing special about Prostvac’s treatment-group performance, the 
+
+
+purported benefit comes entirely from the anomalously bad performance of the placebo 
+
+
+group. The original paper conceded that, applying a popular predictive model to a set of 
+
+
+baseline prognostic factors, the treatment group had a 2.1-month survival “head start” 
+
+
+(6), and an accompanying editorial (7) further noted (emphasis added): 
+
+
+
+
+
+[I]t is of concern that the control group had a median overall survival lower than 
+
+
+that predicted by the Halabi et al. model (16.6 months actual compared with 20.4 
+
+
+months predicted). The reasons for this discrepancy are not at all clear, 
+
+
+particularly given the eligibility criteria designed to select lower-risk patients. 
+
+
+
+
+
+We hypothesize that an important source for this discrepancy is age: the median age in 
+
+
+the Prostvac group was 71.5 years, while in the placebo group it was 79. We have found 
+
+
+no group in any other prostate-cancer trial with an age distribution skewed so far to the 
+
+
+right. The original paper’s authors dismiss this massive imbalance (favoring the Prostvac 
+
+
+group) with the claim that “age is not a significant prognostic factor in prostate cancer,” 
+
+
+citing the predictive model published in 2003 by Susan Halabi et al. (8), but this claim is 
+
+
+wrong. Halabi’s model was based on data from men with a relatively narrow range of 
+
+
+ages, over which small differences may not matter.  
+
+
+
+
+
+By contrast, a study focusing specifically on elderly mCRPC patients (aged 75 years and 
+
+
+older) showed that those in relatively good condition experience median survival of 17.5 
+
+
+months (9) – very similar to the outcome for the Prostvac placebo group and 
+
+
+approximately 10 months worse than that for younger men with similar disease 
+
+
+characteristics (1) (10). Another publication showed that mCRPC patients aged 85 years 
+
+
+or older have 5-year survival rates that are less than a third of those for younger men 
+
+
+aged 65-74 (9), while a 2006 study by Halabi et al. noted that 60-to-69-year-olds 
+
+
+experienced survival similar to that of 70-to-79-year-olds but lived almost twice as long
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 4 
+
+
+
+
+
+as 80-to-89-year-olds, who constituted roughly half of the Prostvac Phase II placebo 
+
+
+group (10). 
+
+
+
+
+
+In short, age does affect overall survival even for men with late-stage prostate cancer, 
+
+
+likely explaining, at least in part, the Prostvac placebo group’s unusually bad 
+
+
+performance. Regardless of the cause, though, there is no reason to expect such a bad 
+
+
+control to recur in the larger Phase III study, set to finish in late 2016 or beyond; thus, 
+
+
+there is no reason to expect Prostvac to show any benefit. The treatment will fail. 
+
+
+
+
+
+ Early combination-therapy data confirm the absence of a meaningful survival 
+
+
+benefit. Although Prostvac’s Phase II study is inarguably the centerpiece of Bavarian 
+
+
+Nordic’s case for the treatment’s efficacy, the company has recently touted a second, 
+
+
+more recent study as demonstrating even greater potential benefits. In this Phase I trial 
+
+
+– which had no control group – patients received the same dose of Prostvac and a range 
+
+
+of doses of Yervoy (ipilimumab), an immune checkpoint inhibitor produced by Bristol-
+
+
+Myers (11) (12). Across all doses, median overall survival was 31.6 months. Bavarian 
+
+
+Nordic likes to portray this as a marked improvement over the Phase II trial’s 25.1-month 
+
+
+survival, but in reality all comparable mCRPC trials have produced similar results for 
+
+
+many years, even in placebo groups, stemming from better overall medical care and the 
+
+
+wide range of other life-extending drugs available to trial participants once their condition 
+
+
+deteriorates. Bavarian Nordic also likes to benchmark this survival result to the 
+
+
+aforementioned Halabi 2003 predictive model, but this model, drawing on 15-year-old 
+
+
+data, is now badly out of line with current clinical outcomes; indeed, it has since been 
+
+
+superseded by an updated version that gives more optimistic predictions (13). 
+
+
+
+
+
+One striking illustration of both the inaccuracy of the Halabi 2003 predictive model and 
+
+
+the mediocrity of the Prostvac/Yervoy data comes from a 2013 paper by Omlin et al. 
+
+
+examining overall survival for all men with mCRPC participating in any clinical trial from 
+
+
+2003 to 2011 at one particular healthcare institution: the UK’s Royal Marsden Hospital 
+
+
+(14). Men with no prior history of chemotherapy (termed “chemotherapy-naïve”) 
+
+
+experienced median overall survival of 30.6 months, almost identical to the 
+
+
+Prostvac/Yervoy result; meanwhile, the Halabi model predicted median survival of only 
+
+
+21 months, 31% worse than the actual outcome. 
+
+
+
+
+
+Below we take a graph from the Omlin paper, plotting percentage survival against time 
+
+
+from referral (measured in months) for chemo-naïve Royal Marsden mCRPC patients, 
+
+
+and superimpose a graph from Bavarian Nordic, plotting the same metrics for 
+
+
+Prostvac/Yervoy combination-therapy patients. The survival curves are stunningly 
+
+
+similar, especially considering the small size of the combination trial. Thus, using the 
+
+
+Royal Marsden data as a surrogate “control” shows that the Prostvac recipients exhibit 
+
+
+no advantage whatsoever. Consistent with the Phase II trial when taking into account 
+
+
+age and other prognostic factors, Prostvac, even in combination with Yervoy, appears to 
+
+
+accomplish nothing. Moreover, as the dark blue curve toward the left shows, the Halabi 
+
+
+2003 model is simply not a relevant reference point anymore: it badly underestimates
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 5 
+
+
+
+
+
+expected survival, especially beyond the first year. It’s ludicrous for Bavarian Nordic to 
+
+
+congratulate itself for clearing such a low bar. 
+
+
+
+
+
+ 
+Source: Bavarian Nordic April 2015 investor presentation, Omlin et al. 2013 (14), Kerrisdale analysis 
+
+
+
+
+
+Another relevant point of comparison is tasquinimod, a drug previously under 
+
+
+development for mCRPC by Active Biotech and Ipsen. In a 201-patient Phase II trial, 
+
+
+median overall survival was 33.4 months in the treatment group and 30.4 months in the 
+
+
+placebo group, a statistically significant difference (2). In April, however, tasquinimod 
+
+
+development was suspended when a 1,200-patient Phase III trial failed to show any 
+
+
+survival benefit over placebo. If tasquinimod, despite its track record of 33.4 months of 
+
+
+expected survival, can’t reliably outperform placebo, then Prostvac, with markedly less 
+
+
+impressive results under its belt heading into Phase III, is bound to fail. 
+
+
+
+
+
+ The Prostvac goalposts keep moving. Back in 1999 when researchers conducted the 
+
+
+first human trial of Prostvac, they highlighted that one of the six subjects saw his serum 
+
+
+prostate-specific antigen (PSA), a widely used marker of prostate-cancer progression, 
+
+
+plateau at a low level for months (15). In a 2000 follow-up, the highlight again was stable 
+
+
+PSA levels and an apparent absence of disease progression in some patients (16). Thus 
+
+
+the 125-patient Phase II trial had as its primary end point “progression-free survival,” i.e. 
+
+
+time elapsed without the cancer becoming significantly worse. But these observations of 
+
+
+supposedly improved disease progression – made without reference to any control 
+
+
+group – disappeared with larger sample size, and Prostvac failed to deliver the benefit it 
+
+
+was supposed to. Overall, Prostvac has shown no ability to shrink tumors or prevent 
+
+
+PSA increases. The strange theory that Prostvac improves overall survival but not 
+
+
+
+http://www.bavarian-nordic.com/media/188526/150415-needham-en.pdf
+
+http://www.activebiotech.com/press-releases?pressid=1911619
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 6 
+
+
+
+
+
+progression-free survival (or any other tangible measure of disease) was only cobbled 
+
+
+together after the study was over.  
+
+
+
+
+
+Though some advocates suggest that an absence of progression benefit coupled with a 
+
+
+real overall-survival benefit is typical of immunotherapy in general, this is false. The 
+
+
+immune-checkpoint inhibitor ipilimumab, for instance – which failed to demonstrate a 
+
+
+significant overall-survival increase in a large Phase III prostate-cancer study – did show 
+
+
+a statistically significant 30% reduction in progression risk, and large PSA declines were 
+
+
+2.5x more frequent for ipilimumab patients than for placebo patients (17). To be sure, 
+
+
+Dendreon’s prostate-cancer vaccine Provenge has a profile similar to Prostvac’s: a 
+
+
+purported small survival benefit with no improvement in progression or other indicators 
+
+
+of disease. But Provenge is not a happy precedent: despite its FDA approval in 2010, 
+
+
+many clinicians harbored serious doubts about the evidence of its efficacy, and this 
+
+
+pervasive skepticism (which continues to this day) was a key factor in Provenge’s 
+
+
+commercial failure and Dendreon’s 2014 bankruptcy filing. 
+
+
+
+
+
+ Therapeutic cancer vaccines have a long history of failure. Harnessing the immune 
+
+
+system to battle cancer is an exciting approach that, for certain patient populations, is 
+
+
+finally starting to bear fruit. Sophisticated immunotherapies like checkpoint inhibitors and 
+
+
+adoptive cell transfer have enjoyed some dramatic clinical successes. But simplistic 
+
+
+therapeutic vaccines like Prostvac are another matter entirely; time and again, they have 
+
+
+been tremendous disappointments. One review, published in 2004, compiled results 
+
+
+from many different studies involving different cancers and different types of vaccines 
+
+
+and concluded that “the overwhelming majority (>96%) of patients in the studies 
+
+
+evaluated who received vaccine therapy for their underlying cancer did not exhibit 
+
+
+objective evidence of cancer regression.” An updated review, published in 2011 under 
+
+
+the title, “Therapeutic Cancer Vaccines: Are We There Yet?" looked at studies released 
+
+
+in the intervening years and found the same 96% failure rate (18). A review by different 
+
+
+authors, published in 2014 and focusing specifically on prostate-cancer vaccines, 
+
+
+compiled 41 studies performed from 2000 to 2012 using a wide range of vaccine 
+
+
+approaches, from viral vectors to plasmids to peptides, and including 1,100 patients in 
+
+
+the aggregate – of whom only four enjoyed any tangible improvement in tumor burden. 
+
+
+The authors summarize: “Vaccinations yielded immunological responses, but no study 
+
+
+showed evidence for clinically relevant therapeutic improvement” (19). (In the case of 
+
+
+Prostvac, the data are even less impressive, since even the immunological responses 
+
+
+have been modest and inconsistent (20).) 
+
+
+
+
+
+Companies large and small have attempted to defy this track record of failure, only to fall 
+
+
+flat on their faces: 
+
+
+
+
+
+ In 2008, Cell Genesys had to terminate two Phase III trials for its GVAX prostate-
+
+
+cancer vaccine when it became clear that the treatment conferred no survival benefit; 
+
+
+after its stock price collapsed, the company was forced to sell itself. 
+
+
+
+http://www.bloomberg.com/news/articles/2014-11-10/dendreon-files-for-chapter-11-bankruptcy-protection
+
+http://www.sec.gov/Archives/edgar/data/865231/000129993308005210/exhibit1.htm
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 7 
+
+
+
+
+
+ In 2012, Oxford BioMedica abandoned its TroVax prostate-cancer vaccine as a 
+
+
+result of several factors: difficulties enrolling trial participants; a vast increase in the 
+
+
+number of life-extending treatment options (like enzalutamide, abiraterone, and 
+
+
+radium-223) available to men with late-stage prostate cancer; and early results for 
+
+
+TroVax that gave no sign of meaningful efficacy (21). 
+
+
+ In 2013, GlaxoSmithKline announced that its Phase III trial of a melanoma vaccine 
+
+
+had failed to extend disease-free survival in its targeted patient population. 
+
+
+ In 2014: 
+
+
+o Merck discontinued development of its non–small-cell lung-cancer vaccine 
+
+
+tecemotide after it repeatedly failed to show any beneficial effect on overall 
+
+
+survival or disease progression. 
+
+
+o GlaxoSmithKline abandoned the Phase III trial of its non–small-cell lung-
+
+
+cancer vaccine after it failed to show any benefit. 
+
+
+
+
+
+While Bristol-Myers’ willingness to pay $60mm upfront for an exclusive option on 
+
+
+Prostvac was undoubtedly a vote of confidence – albeit on a very small scale, and with 
+
+
+overall deal economics that imply a low probability of success – it would certainly not be 
+
+
+the first time a large pharmaceutical company stumbled in this field. Moreover, the 
+
+
+Bristol-Myers deal serves to cap any potential upside for Bavarian Nordic, since, in 
+
+
+exchange for a series of additional payments that could total $915mm (but are likely to 
+
+
+be substantially lower even if Prostvac succeeds), it has already traded away the vast 
+
+
+majority of any future Prostvac revenue. 
+
+
+
+
+
+There is nothing special or innovative about Prostvac that would enable it to break the 
+
+
+consistent pattern of failed cancer vaccines; to the contrary, the Prostvac concept is 20 
+
+
+years old. The entire approach of simply administering tumor-associated antigens and 
+
+
+hoping for an effective immune response is a dead end. 
+
+
+
+
+
+ The scientific literature furnishes a multitude of convincing explanations for the 
+
+
+failure of cancer vaccines. Why do therapeutic cancer vaccines fail to help patients 
+
+
+even though they sometimes trigger a measurable immune response? One key factor is 
+
+
+tolerance: the immune system has several mechanisms designed to prevent 
+
+
+autoimmune attacks on self antigens like PSA, and the vast majority of nascent T cells 
+
+
+targeting such antigens are killed before they ever exit the thymus. Another important 
+
+
+factor is what scientists call the immunosuppressive tumor microenvironment. Tumors 
+
+
+(and the immune system itself via negative-feedback mechanisms (22)) blunt incipient T-
+
+
+cell attacks in myriad ways. One paper provided the following head-spinning overview 
+
+
+(23): 
+
+
+
+
+
+Multiple layers of immune suppression are operational in the tumor environment, 
+
+
+including other co-inhibitory molecules expressed on T cells such as PD-1/PD-
+
+
+L1, Tim-3, and LAG-3, Tregs, myeloid-derived suppressor cells, and soluble 
+
+
+immunosuppressive mediators such as IDO (indoleamine 2,3-dioxygenase), 
+
+
+
+http://www.oxfordbiomedica.co.uk/press-releases/oxford-biomedica-announces-update-on-trovax-r-development-strategy/
+
+http://www.fiercebiotech.com/press-releases/investigational-mage-a3-antigen-specific-cancer-immunotherapeutic-does-not
+
+http://www.prnewswire.com/news-releases/merck-kgaa-discontinues-clinical-development-program-of-tecemotide-as-a-monotherapy-in-stage-iii-non-small-cell-lung-cancer-274891191.html
+
+http://us.gsk.com/en-us/media/press-releases/2014/update-on-phase-iii-clinical-trial-of-investigational-mage-a3-antigen-specific-cancer-immunotherapeutic-in-non-small-cell-lung-cancer/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 8 
+
+
+
+
+
+arginase, prostaglandin E2 (PGE2), IL-6, IL-10, VEGF, and other cytokines and 
+
+
+chemokines. 
+
+
+
+
+
+This list does not even include the possibility of “immune escape” as tumors evolve to 
+
+
+downregulate the antigens that T cells have targeted. For example, even if Prostvac 
+
+
+were to spark an initially effective immune response keyed on cells expressing PSA, the 
+
+
+cancer might simply stop expressing PSA over time. This effect has been directly 
+
+
+observed in a murine model of prostate cancer: researchers injected antigen-specific T 
+
+
+cells into the mice and observed them killing off antigen-positive tumor cells, but this only 
+
+
+led to the outgrowth of antigen-negative tumor cells and had no impact on the overall 
+
+
+progression of the tumor (24). 
+
+
+
+
+
+Even the formidable challenges of immunosuppression and immune escape – which 
+
+
+have foiled treatments far more robust than Prostvac – presuppose that T cells actually 
+
+
+manage to traffic into the tumor, another major difficulty. They also presuppose that the 
+
+
+immune system targets the desired recombinant antigen rather than simply focusing on 
+
+
+the viral vector itself. Yet research suggests that T-cell responses to recombinant viral 
+
+
+vectors – i.e. the viruses themselves, not their payload of foreign antigens (PSA in the 
+
+
+case of Prostvac) – can be 20 to 30 times more intense than responses to the foreign 
+
+
+antigens (25). This finding, an instance of the broader phenomenon of 
+
+
+“immunodominance,” is consistent with Prostvac data showing derisory PSA-specific T-
+
+
+cell responses in vaccinated patients (22); by contrast, typical responses to the vaccinia 
+
+
+virus itself, one of the vectors for Prostvac, are an order of magnitude stronger. The 
+
+
+immune system is fighting the vaccine far more diligently than it is attempting to fight the 
+
+
+cancer. 
+
+
+
+
+
+Finally, since prostate cancer is primarily a disease of older men, Prostvac also faces 
+
+
+the problem of “immunosenescence”: immune responses across the board tend to 
+
+
+deteriorate with age. Indeed, even conventional prophylactic vaccines like the flu vaccine 
+
+
+are much less effective in elderly populations (26). Therapeutic cancer vaccines 
+
+
+attempting to overcome strong barriers to autoimmunity and target “self” antigens like 
+
+
+PSA are unlikely to fare any better. 
+
+
+
+
+
+In short, a wide array of mechanisms limits the potential effectiveness of therapeutic 
+
+
+cancer vaccines, including tolerance, immunosuppression, immunodominance, and, for 
+
+
+prostate cancer, immunosenescence. Prostvac is a weak agent that fails to address 
+
+
+these daunting challenges, so it should be no surprise that it can’t. 
+
+
+
+
+
+ Bavarian Nordic’s core business is at risk. While market enthusiasm for Bavarian 
+
+
+Nordic centers on Prostvac, the company’s only material revenue source in the past 
+
+
+several years has been the sale of Imvamune, a weaker form of the conventional 
+
+
+smallpox vaccine intended for people with compromised immune systems, to the US 
+
+
+government for its “strategic national stockpile.” Notwithstanding the vaccine’s high cost 
+
+
+and unknown efficacy – the objects of criticism from some of the world’s leading
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 9 
+
+
+
+
+
+smallpox experts, including the World Health Organization – the government appears 
+
+
+committed to working with Bavarian Nordic to finalize a new, longer-lasting freeze-dried 
+
+
+version. But given the likely dramatic increase in shelf life and thus dramatic decline in 
+
+
+the need for future replenishment, revenue from the freeze-dried vaccine will effectively 
+
+
+be non-recurring, putting this business’s sustainability in doubt. Moreover, recently 
+
+
+published research not only demonstrated the similarity of the liquid and freeze-dried 
+
+
+formulations but also showed that, with a different route of administration (intradermal 
+
+
+rather than subcutaneous), only 20% of the conventional dose could achieve the same 
+
+
+level of protection, implying that the Strategic National Stockpile could purchase 5x less 
+
+
+material from Bavarian Nordic yet cover the same target population (63). At best, this 
+
+
+discovery will damage the company’s bargaining position; at worst, it will decimate its 
+
+
+future revenue. 
+
+
+
+
+
+Investors have come to view Bavarian Nordic as a de-risked bet on a very promising agent, with 
+
+
+the purported 8.5-month survival improvement at the heart of the long thesis. One sell-side firm 
+
+
+has gushed, “A significant Phase II survival benefit suggests PROSTVAC immunotherapy has 
+
+
+the potential to revolutionise prostate cancer treatment.” But Prostvac will revolutionize nothing. 
+
+
+After taking into account the profound flaws of the Phase II trial as well as the weakness of the 
+
+
+early combination-therapy results, it’s clear that Prostvac is just as ineffective as every other 
+
+
+failed cancer vaccine. Bavarian Nordic did not stumble onto the magical key to making this 
+
+
+doomed approach work; it merely got lucky with a statistical fluke.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 10 
+
+
+
+
+
+II. Company Overview  
+
+
+
+
+
+Bavarian Nordic: Capitalization and Financial Results 
+
+
+
+
+
+Bavarian Nordic Share Price, 1998-2015 
+
+
+ 
+Source: Capital IQ, Kerrisdale analysis 
+
+
+
+
+
+Bavarian Nordic is a small vaccine manufacturer based in Kvistgård, Denmark. Founded in 
+
+
+1994 and taken public in 1998 at a price of DKK 235 per share, Bavarian Nordic was the second 
+
+
+biotechnology company created by the Danish businessman Asger Aamund. (The first, 
+
+
+NeuroSearch A/S, founded in 1989, never brought a single product to market, lost almost 100% 
+
+
+of its equity value, and in 2012 commenced self-liquidation. Aamund has since called it “a 
+
+
+smoking ruin.”) Originally focused on using the attenuated viral strain called modified vaccinia 
+
+
+Ankara (MVA) as a delivery vector in treatments for pancreatic cancer, melanoma, breast 
+
+
+cancer, and HIV, Bavarian Nordic shifted its R&D in the wake of the September 11 attacks 
+
+
+toward marketing MVA (under the name Imvamune) as a gentler version of the conventional 
+
+
+Capitalization Financial results (USD)*
+
+
+DKK USD 2013 2014 2015†
+
+
+Share price 321.00    47.53$    Revenue 216$      217$      142$      
+
+
+Shares O/S (mm) 27.7       27.7       EBIT 6            3            -            
+
+
+Market cap (mm) 8,902     1,318$    Cash/securities‡ 98          159        213        
+
+
+Source: company filings, Capital IQ, Kerrisdale analysis
+
+
+* Revenue/EBIT converted from DKK at average exchange rates; cash converted at EOP rates.
+
+
+† Revenue in dollars based on Needham presentation, 4/15/15.
+
+
+‡ 2015 cash based on guided “cash preparedness” less DKK 11mm credit line (converted at spot FX rate).
+
+
+ 0
+
+
+ 100
+
+
+ 200
+
+
+ 300
+
+
+ 400
+
+
+ 500
+
+
+ 600
+
+
+ 700
+
+
+N
+o
+
+
+v
+-9
+
+
+8
+
+
+N
+o
+
+
+v
+-0
+
+
+1
+
+
+N
+o
+
+
+v
+-0
+
+
+4
+
+
+N
+o
+
+
+v
+-0
+
+
+7
+
+
+N
+o
+
+
+v
+-1
+
+
+0
+
+
+N
+o
+
+
+v
+-1
+
+
+3
+
+
+S
+h
+a
+re
+
+
+ p
+ri
+c
+e
+ (
+
+
+D
+K
+
+
+K
+)
+
+
+
+http://neurosearch.com/Default.aspx
+
+https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fpolitiken.dk%2Foekonomi%2Fvirksomheder%2FECE2530529%2Febola-epidemien-i-vestafrika-redder-asger-aamund%2F&edit-text=&act=url
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 11 
+
+
+
+
+
+smallpox vaccine for emergency use by those with compromised immune systems. (Variola, the 
+
+
+virus that causes smallpox, is not actually used in the modern smallpox vaccine; its less 
+
+
+dangerous cousin vaccinia is. But even vaccinia can cause adverse reactions.) Ultimately the 
+
+
+US government enlisted Bavarian Nordic to supply the Strategic National Stockpile with 28 
+
+
+million doses of Imvamune (a fraction of the Stockpile’s holdings of the conventional smallpox 
+
+
+vaccine) under a set of contracts that expired at the end of 2014. These contracts have been 
+
+
+the company’s only material source of revenue to date. (While Imvamune is Bavarian Nordic’s 
+
+
+sole commercial success, it may remain forever unknown if it’s actually a clinical success; as 
+
+
+the Centers for Disease Control explained in a recent set of guidelines “for smallpox vaccine 
+
+
+use in a postevent vaccination program,” “The efficacy of Imvamune against smallpox is 
+
+
+unproven and cannot be tested clinically because of the global eradication of the disease in 
+
+
+humans.”) 
+
+
+
+
+
+Since inception, Bavarian Nordic had hoped to use its version of MVA as a vehicle for 
+
+
+therapeutic cancer vaccines but made little progress on its own. In 2008, however, it announced 
+
+
+a partnership with the US National Cancer Institute under which it acquired the rights to a 
+
+
+prostate cancer vaccine candidate: Prostvac. In 2011, it also acquired a related experimental 
+
+
+agent, CVAC-301 (previously known as Panvac). Both vaccines use regular vaccinia (along with 
+
+
+fowlpox booster shots), not MVA, and trace their roots to Therion Biologics, a defunct 
+
+
+Massachusetts-based firm that filed for Chapter 7 bankruptcy in 2006 after announcing two 
+
+
+major failures back to back. First, Therion said, Prostvac “did not meet its primary efficacy 
+
+
+endpoint of improving progression-free survival” in its Phase II trial; then, Panvac, in a Phase III 
+
+
+trial for advanced pancreatic cancer, “did not meet its primary efficacy endpoint of improving 
+
+
+overall survival compared with palliative chemotherapy or best supportive care.” Therion put 
+
+
+itself up for sale but found no buyers. In February 2007, the National Cancer Institute took back 
+
+
+the rights to the vaccines before re-licensing Prostvac to Bavarian Nordic a year later. 
+
+
+
+
+
+Upon licensing Prostvac, BAVA quickly announced that, despite the vaccine’s failure to meet its 
+
+
+primary endpoint of progression-free survival, “mature” data showed “a statistically significant 
+
+
+longer median overall survival,” so it was moving forward to Phase III. In 2010, Bavarian Nordic 
+
+
+indicated that it was in discussions to find a large partner to help fund the development of 
+
+
+Prostvac, but in March 2011 management announced that it had judged all of its offers 
+
+
+unattractive and would go it alone by raising additional capital. By the end of the year, the 
+
+
+company’s stock price had declined 85% from where it started. Danish newspapers frequently 
+
+
+reported on the dire financial condition of Asger Aamund, the company’s founder and chairman, 
+
+
+especially when the leveraged investment vehicle through which he owned a large stake 
+
+
+reported negative equity starting in 2011, surviving only via the forbearance of Aamund’s 
+
+
+bankers. (As the stock price recovered Aamund stepped down from the chairman role and, in 
+
+
+January 2015 – prior to the Bristol-Myers announcement – his vehicle sold all of its shares.) 
+
+
+
+
+
+Despite this checkered history, Bavarian Nordic got a new lease on life in late 2014 when it 
+
+
+announced a deal with Johnson & Johnson to supply an MVA-based boost to complement the 
+
+
+experimental adenovirus-based Ebola vaccine that a J&J unit had been developing. The deal 
+
+
+included $45mm in license and milestone payments, approximately $100mm in exchange for 
+
+
+
+http://www.cdc.gov/mmwr/preview/mmwrhtml/rr6402a1.htm
+
+http://www.prnewswire.co.uk/news-releases/bavarian-nordic-announces-partnership-with-national-cancer-institute-in-the-us-and-obtains-rights-to-a-new-vaccine-candidate-153116295.html
+
+http://www.bionity.com/en/news/134749/bavarian-nordic-obtains-rights-to-new-cancer-vaccine-product-candidates.html
+
+http://www.law360.com/articles/13954/cancer-vaccine-co-files-for-chapter-7
+
+http://www.prnewswire.com/news-releases/therion-reports-results-of-phase-3-panvac-vf-trial-and-announces-plans-for-company-sale-56997582.html
+
+https://globenewswire.com/news-release/2008/10/07/34300/0/en/Bavarian-Nordic-announces-positive-mature-Phase-II-results-from-newly-acquired-prostate-cancer-vaccine.html?print=1
+
+http://www.reuters.com/article/2011/03/10/bavariannordic-idUSLDE72909O20110310
+
+http://ekstrabladet.dk/flash/dkkendte/article4091568.ece
+
+http://globenewswire.com/news-release/2015/01/27/700116/0/en/Bavarian-Nordic-A-S-Major-Shareholder-Announcement.html
+
+http://www.bloomberg.com/article/2014-10-22/a9EcLC3fUxCQ.html
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 12 
+
+
+
+
+
+millions of doses to be delivered in 2015, and a $43 million equity investment to replenish 
+
+
+Bavarian Nordic’s coffers. But while this Ebola transaction has helped keep Bavarian Nordic 
+
+
+afloat despite the temporary lapsing of its crucial US smallpox contract in 2015 (since restored 
+
+
+by a recently announced new order for deliveries in 2016-17), it is unlikely to contribute much to 
+
+
+Bavarian Nordic’s long-term value. After all, the West African Ebola outbreak, while not 
+
+
+completely resolved, has already subsided dramatically, raising questions about whether 
+
+
+ongoing Phase III trials of the two most promising vaccine candidates, which have substantial 
+
+
+development head starts over J&J’s candidate and do not require the complexities of a 
+
+
+secondary boost, can even be completed. Moreover, Bavarian Nordic is not even the only small 
+
+
+company offering MVA-based Ebola-vaccine boosts: Emergent BioSolutions is already working 
+
+
+with GlaxoSmithKline on a similar project using its own version of MVA, which might be easier 
+
+
+to manufacture than Bavarian Nordic’s. Thus, the notion that Bavarian Nordic will get rich off of 
+
+
+mass Ebola vaccinations is now looking less realistic than ever. 
+
+
+
+
+
+But before the Ebola hype could fizzle (though after Bavarian Nordic’s founder, ex-chairman, 
+
+
+and former largest shareholder sold a massive stake), Bavarian Nordic announced its 
+
+
+partnership with Bristol-Myers Squibb, putting the spotlight squarely on the putative prostate-
+
+
+cancer treatment Prostvac. Shareholders have benefited from undiscriminating market 
+
+
+enthusiasm for anything related to cancer immunotherapy. But “immunotherapy” is a broad term 
+
+
+that encompasses both highly effective agents, like checkpoint inhibitors in melanoma, and 
+
+
+totally ineffective agents, like simplistic therapeutic vaccines that have never had a meaningful 
+
+
+clinical impact on any cancer over decades of research. Prostvac belongs to the latter category. 
+
+
+As we will demonstrate, its vaunted Phase II survival benefit is meaningless, and other small-
+
+
+scale trials confirm Prostvac’s inefficacy. 
+
+
+
+http://www.nasdaq.com/press-release/bavarian-nordic-receives-order-for-imvamune-smallpox-vaccine-from-the-us-government-valued-at-usd-20150707-00016
+
+http://www.reuters.com/article/2015/04/10/us-health-ebola-vaccine-idUSKBN0N11BI20150410
+
+http://www.reuters.com/article/2015/03/16/health-ebola-vaccine-idUSL6N0WI24Z20150316
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 13 
+
+
+
+
+
+III. Prostvac’s Clinical Trial Results Are Weak 
+
+
+
+
+
+Bavarian Nordic typically presents its Prostvac results to investors in the following way: 
+
+
+
+
+
+ 
+Source: Bavarian Nordic April 2015 presentation, slide 22 
+
+
+
+
+
+Both graphs plot overall survival against time: the percentage of patients still alive a given 
+
+
+number of months after the commencement of the trial. In the graph on the left, the red line 
+
+
+shows overall survival (OS) for the Prostvac treatment group, with a median OS of 25.1 months; 
+
+
+the light blue line shows OS for the placebo group, which initially received “empty” (non-
+
+
+recombinant) vaccinia and fowlpox injections, with a median OS of 16.6 months. The difference 
+
+
+in median OS, a standard measure of treatment efficacy, is 8.5 months, although the survival 
+
+
+curves only begin to separate a year after randomization. The graph on the right, based on a 
+
+
+more recent study, shows OS for patients who received both Prostvac and a range of doses of 
+
+
+the checkpoint inhibitor ipilimumab; there was no control group, but the implied message is that 
+
+
+the Prostvac/ipi combination is 6.5 months (31.6 – 25.1) better than Prostvac alone, which is 
+
+
+itself supposedly 8.5 months better than placebo.  
+
+
+
+
+
+But there is less to these results than meets the eye. Compared to similar patients in a host of 
+
+
+other prostate-cancer trials, neither the Prostvac group in the Phase II study nor the Prostvac/ipi 
+
+
+recipients in the Phase I study survived particularly long. (Moreover, there was no sign of a 
+
+
+clinical benefit other than the purported survival advantage.) The OS figures only look good in 
+
+
+comparison to the Phase II placebo group, which was substantially sicker and older and 
+
+
+sustained a surprisingly high death rate. Setting aside this uninformative and misleading 
+
+
+benchmark, there is no evidence that Prostvac helps patients. 
+
+
+ 
+
+
+
+http://www.bavarian-nordic.com/media/188526/150415-needham-en.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 14 
+
+
+
+
+
+The Phase II Trial Was Flawed and Shows No Meaningful Benefit 
+
+
+
+
+
+The core idea of Prostvac is to expose the patient’s immune system to prostate-specific antigen 
+
+
+(PSA) – a protein almost exclusively expressed by prostate cells and used as a biomarker of 
+
+
+prostate cancer – in conjunction with a mild viral infection. Initial efforts (15) involved only the 
+
+
+vaccinia virus, engineered to carry the gene for PSA, but by the time of the Phase II trial 
+
+
+researchers had made several additions: 
+
+
+ a series of follow-up boosts using a different recombinant virus, fowlpox, also 
+
+
+engineered to express PSA; 
+
+
+ for both the vaccinia and fowlpox vectors, genes encoding a grab bag of proteins 
+
+
+(dubbed “TRICOM”) intended to further stimulate immune responses, including the 
+
+
+CD28 (costimulatory) and CTLA-4 (co-inhibitory) ligand B7-1 and the adhesion 
+
+
+molecules ICAM-1 and LFA-3; and 
+
+
+ an adjuvant, granulocyte macrophage colony–stimulating factor (GM-CSF), thought 
+
+
+to provide yet more immune stimulation. 
+
+
+
+
+
+The hope is that these components will combine to generate an effective T-cell response aimed 
+
+
+specifically at PSA-expressing tumor cells.* (With a treatment this complex – vaccinia-PSA-
+
+
+TRICOM + fowlpox-PSA-TRICOM + GM-CSF – the trial was bound to be difficult to interpret, 
+
+
+since any effect identified might stem from PSA, TRICOM, GM-CSF, or any combination 
+
+
+thereof, not just the preferred causal pathway of PSA.) A natural hypothesis is that the sought-
+
+
+after T-cell response, even if it fell short of eliminating tumors, might at least slow down the 
+
+
+progression of the disease, and that is indeed what the Prostvac Phase II trial, initiated in 2003, 
+
+
+was designed to assess (6): 
+
+
+
+
+
+The planned primary end point was PFS [progression-free survival] defined as 
+
+
+identification of two or more new sites of bone metastasis on the bone scan compared 
+
+
+with the baseline scan, or an increase in the sum of measurable target lymph node 
+
+
+metastasis on CT scan by >20% according to Response Evaluation Criteria in Solid 
+
+
+Tumors (RECIST) criteria compared with baseline. Patients who developed clinical signs 
+
+
+or symptoms of progression but who did not meet the radiologic criteria were also 
+
+
+considered to have progressed at the discretion of the investigator. 
+
+
+
+
+
+But Prostvac did not meaningfully improve progression-free survival: median PFS in the 
+
+
+treatment arm was 3.8 months, essentially identical to the placebo arm’s 3.7 months, and by six 
+
+
+months the percentage of the treatment arm that had progressed was actually slightly higher 
+
+
+(worse) than that of the placebo arm. These results, analyzed under the aegis of Prostvac’s 
+
+
+“initial industrial sponsor” Therion, helped drive the company into bankruptcy, but, many months 
+
+
+later, Prostvac rose from the ashes, as a 2008 newspaper article explained: 
+
+
+
+
+
+
+
+
+* There is an additional hope that initial success in killing PSA-expressing cells will lead to the release of 
+
+
+other tumor-associated antigens that will in turn generate their own immune responses, leading to so-
+
+
+called antigen spread beyond PSA alone. 
+
+
+
+http://www.bizjournals.com/boston/stories/2008/10/27/newscolumn3.html?page=all
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 15 
+
+
+
+
+
+Therion shut down in 2006 after disappointing clinical trial results from a cancer vaccine 
+
+
+that didn’t pass late-stage clinical trials. 
+
+
+
+
+
+Investors pulled the plug. But Prostvac’s Phase II trial results were still pending. Much of 
+
+
+its technology was developed by both Therion and the National Cancer Institute, to 
+
+
+which the Prostvac rights reverted after NCI sued Therion’s investors. Danish company 
+
+
+Bavarian Nordic got to claim all the glory instead. Financial details weren’t disclosed, but 
+
+
+Bavarian Nordic licensed the drug not too long ago from the National Cancer Institute. 
+
+
+
+
+
+Bavarian Nordic took the initial study results and called patients from the trial to see who 
+
+
+had survived over the past four years. That data follow-up led to the good news 
+
+
+announced earlier this month. 
+
+
+
+
+
+As a result of the trial’s disjointed management, researchers had no information about 
+
+
+treatments received by the patients after they went “off study”; an imbalance in those 
+
+
+treatments, like a greater fraction of Prostvac-group members than placebo-group members 
+
+
+going on to take the life-extending chemotherapeutic agent docetaxel, could easily have 
+
+
+distorted overall-survival comparisons. Moreover, once study participants saw their disease 
+
+
+progress, they were unblinded with respect to group membership, after which 19 of the 40 
+
+
+patients in the placebo group opted to try Prostvac. Thus, while the original progression-free-
+
+
+survival criterion used a “clean” comparison of Prostvac to no Prostvac, the overall-survival 
+
+
+analysis compared a treatment group, all of which received Prostvac, to a “placebo” group, half 
+
+
+of which had also received the treatment. If Prostvac did indeed enhance survival, the 
+
+
+anomalously bad survival of the placebo arm would be even more mysterious, since half of its 
+
+
+members actually received the treatment only a few months later than their peers in the other 
+
+
+arm. 
+
+
+
+
+
+In reality, though, Prostvac’s OS results were not impressive. The trial only enrolled men with 
+
+
+mCRPC who were minimally symptomatic or asymptomatic, meaning, among other things, that 
+
+
+they had not previously received chemotherapy, had no visceral metastases, had Gleason 
+
+
+scores (a histological measure of cancer severity) less than 8, and so on; in short, they were in 
+
+
+relatively good condition. Below we take the survival results from another trial in a similar 
+
+
+population – the Phase III, placebo-controlled study of abiraterone (Zytiga) in “asymptomatic or 
+
+
+mildly symptomatic patients with chemotherapy-naive prostate cancer” (3) – and superimpose 
+
+
+them over the OS graph from the Prostvac Phase II paper. Not only does the abiraterone arm, 
+
+
+with median OS of 34.7 months, dramatically and consistently outperform the Prostvac arm; so 
+
+
+too does the abiraterone study’s placebo arm, with median OS of 30.3 months. Meanwhile, the 
+
+
+Prostvac-trial placebo group looks terrible relative to the corresponding group in the abiraterone, 
+
+
+dying off at a much higher rate.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 16 
+
+
+
+
+
+Overall Survival: Abiraterone & Control vs. Prostvac & Control 
+
+
+ 
+Source: Ryan et al. 2015 (3), Kantoff et al. 2010 (6), Kerrisdale analysis 
+
+
+
+
+
+But it’s not just abiraterone (and its placebo group) that makes Prostvac look bad. Below we 
+
+
+compile survival data from a range of major studies involving minimally symptomatic, primarily 
+
+
+chemotherapy-naïve men with mCRPC. The Prostvac treatment arm is clearly nothing special, 
+
+
+even relative to older studies. For example, minimally symptomatic men enrolled in the TAX-327 
+
+
+study of docetaxel (initiated back in 2000) had median OS of 25.6 months, while even placebo 
+
+
+groups in somewhat more recent studies of tasquinimod, orteronel, and enzalutamide had 
+
+
+median OS of ~30 months. Without an anomalously bad control group to make it look better, 
+
+
+Prostvac on its own would appear no better than a typical placebo (and perhaps slightly worse). 
+
+
+Even worse, several of the treatments that outperformed Prostvac in comparable minimally 
+
+
+symptomatic populations – GVAX, tasquinimod, and orteronel – failed to meet OS endpoints in 
+
+
+Phase III trials, while Provenge is a controversial commercial flop. Prostvac’s failure to outshine 
+
+
+treatments that themselves have been abandoned as failures is obviously a bad omen for its 
+
+
+own Phase III success. 
+
+
+
+
+
+With respect to Provenge, while the headline performance of the sipuleucel-T (Provenge) 
+
+
+placebo group – median OS of 21.7 months – is somewhat worse than that of the Prostvac 
+
+
+treatment group, the Provenge data are themselves still hotly debated, and some have argued 
+
+
+that the “placebo” regimen (which entailed the removal of white blood cells from circulation) 
+
+
+actually harmed patients, reducing their overall survival (27). If so, the Provenge “placebo” 
+
+
+group would clearly be an inappropriate benchmark since it would be easy to beat. Even setting 
+
+
+aside that hypothesis, the Provenge trial participants had worse baseline disease characteristics 
+
+
+than the Prostvac trial participants. For instance, 18% had previously gone through 
+
+
+chemotherapy (0% for Prostvac), implying a more advanced disease state, and 25% had
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 17 
+
+
+
+
+
+Gleason scores greater than 7 (0% for Prostvac), implying more aggressive tumors (27). Thus, 
+
+
+the fact that the Prostvac treatment group’s median OS was slightly higher than the Provenge 
+
+
+placebo group’s says very little, given that the former was clearly in better health to begin with. 
+
+
+
+
+
+Similarly, the headline results for GVAX showed 20.7 months of median OS for the treatment 
+
+
+group and 21.7 months for the docetaxel control, worse than the results for the Prostvac 
+
+
+treatment group. However, 47% of these patients had Gleason scores of 8 or higher, and 13% 
+
+
+had visceral metastases, both of which predict poor survival. When researchers looked only at 
+
+
+men with relatively good prognoses (predicted survival greater than 18 months based on the 
+
+
+Halabi 2003 model), median OS for GVAX approached 30 months, and even the placebo group 
+
+
+enjoyed median OS of 27.1 months. As with the Provenge data, while the headline figures for 
+
+
+GVAX may appear to put Prostvac in a positive light, closer scrutiny and proper apples-to-
+
+
+apples comparisons reveal a consistent story: patients treated with Prostvac experience 
+
+
+unremarkable outcomes, little different from similar patients treated with placebo. 
+
+
+
+
+
+Median Overall Survival in Men with Minimally Symptomatic mCRPC 
+
+
+
+
+
+Source: studies noted in “Ref” column, Kerrisdale analysis 
+
+
+
+
+
+The Halabi 2003 model, which incorporates performance status, Gleason score, lactate 
+
+
+dehydrogenase levels, alkaline phosphatase levels, PSA levels, hemoglobin levels, and the 
+
+
+presence of visceral disease, is an important part of how Bavarian Nordic presents the data on 
+
+
+Topic of study
+
+
+Year 
+
+
+initiated Treatment group
+
+
+Median 
+
+
+OS n Ref
+
+
+Prostvac-VF + GM-CSF 25.1 82
+
+
+Vaccinia/fowlpox + saline 16.6 40
+
+
+All minimally symptomatic men 25.6 110
+
+
+3-weekly docetaxel + pred. 28.4 29
+
+
+Weekly docetaxel + pred. 25.9 33
+
+
+Mitoxantrone + pred. 22.0 48
+
+
+Royal Marsden trial participants 2003 Various investigational agents 30.5 238 14
+
+
+Sipuleucel-T 25.8 341
+
+
+Placebo 21.7 171
+
+
+Sipuleucel-T + docetaxel 28.5 195
+
+
+Placebo + docetaxel 27.1 86
+
+
+GVAX (predicted survival > 18mo) 29.7 ~132
+
+
+Docetaxel + pred. (predicted survival > 18mo) 27.1 ~132
+
+
+Queen Elizabeth Hospital, men 
+
+
+with CRPC found upon 
+
+
+diagnosis to have metastases
+
+
+2006 Various (59% chemotherapy) 38.7 78 64
+
+
+Tasquinimod 33.4 134
+
+
+Placebo 30.4 67
+
+
+Abiraterone acetate + pred. 34.7 546
+
+
+Placebo + pred. 30.3 542
+
+
+Orteronel + pred. 31.4 781
+
+
+Placebo + pred. 29.5 779
+
+
+Enzalutamide 32.4 872
+
+
+Placebo 30.2 845
+Enzalutamide (Xtandi) 2010 4
+
+
+2010Orteronel 5
+
+
+27GVAX 2004
+
+
+2Tasquinimod 2007
+
+
+Abiraterone (Zytiga) 2009 3
+
+
+28, 292003Sipuleucel-T (Provenge)
+
+
+Prostvac 2003 6
+
+
+1Docetaxel (Taxotere) 2000
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 18 
+
+
+
+
+
+Prostvac, and it can be a useful summary of key prognostic factors; patients with lower Halabi-
+
+
+predicted survival do in fact tend to die sooner. But it’s a flawed and out-of-date benchmark, as 
+
+
+its creators readily admit (13), and in real-world patient groups, survival typically exceeds what 
+
+
+the model forecasts, sometimes by a large margin. Below we highlight the difference between 
+
+
+forecasted and actual median OS in several mCRPC studies that provide these data: 
+
+
+
+
+
+Predicted and Actual Survival in mCRPC 
+
+
+
+
+
+Source: Kantoff et al. 2010 (6), Kantoff et al. 2010 (28), Higano et al. 2009 (29), Omlin et al. 2013 (14), Kerrisdale 
+
+
+analysis 
+
+
+
+
+
+For patients treated in clinical trials at the Royal Marsden Hospital, including many who received 
+
+
+experimental agents that proved to be ineffective, median OS exceeded the Halabi 2003 
+
+
+forecast by 9.5 months. By contrast, the Prostvac treatment group only outperformed the model 
+
+
+by 2.6 months – the worst of any treatment group. Both the GVAX treatment and placebo 
+
+
+groups enjoyed substantially better relative performance compared to Prostvac – yet the GVAX 
+
+
+trial was a complete failure.  
+
+
+
+
+
+What stands out from this table once more is the unusually bad outcome in the Prostvac 
+
+
+placebo group – the only one that actually did worse than the otherwise overly conservative 
+
+
+Halabi 2003 model predicted. Ordinarily, randomization alone is supposed to roughly equalize 
+
+
+the baseline patient characteristics in a well-run clinical trial, leaving no important imbalances 
+
+
+between arms. In the Prostvac trial, however, randomization apparently didn’t do the trick, 
+
+
+resulting in a “head start” for the treatment group, according to the Halabi 2003 model, of 2.1 
+
+
+months. However, this model understates the true magnitude of the “head start,” because it 
+
+
+neglects a key element: age. 
+
+
+
+
+
+Below we return to the same set of mCRPC studies already reviewed and compile median ages 
+
+
+for the treatment and control groups. (When sub-group ages are not available, we show the 
+
+
+figures for the overall populations.) Across all non-Prostvac studies, the median of the median 
+
+
+ages is 71 years, right in line with the median age in the Prostvac treatment group. However, 
+
+
+the Prostvac control group is a major outlier at 79 years old. No other group is anywhere close, 
+
+
+and no other study has anything like the 7.5-year discrepancy in median age between treatment 
+
+
+and control arms seen in the Prostvac study; the second-largest gap, in the sipuleucel-T trial, is 
+
+
+only 2 years, and it favors the placebo arm, not the treatment arm. The opposite is true for 
+
+
+Prostvac: younger patients disproportionately received the vaccine. 
+
+
+
+
+
+
+
+
+Prostvac Sipuleucel-T GVAX
+
+
+Treatment Placebo Treatment Placebo Treatment Placebo
+
+
+Median OS in months:
+
+
+Halabi-predicted 22.5 20.4 20.3 21.2 16.0 16.0 21.0
+
+
+Actual 25.1 16.6 25.8 21.7 20.7 21.7 30.5
+
+
+Difference 2.6 (3.8) 5.5 0.5 4.7 5.7 9.5
+
+
+Royal 
+
+
+Marsden
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 19 
+
+
+
+
+
+
+
+
+
+
+
+Median Overall Survival in Men with Minimally Symptomatic mCRPC 
+
+
+
+
+
+Source: studies noted in “Ref” column, Kerrisdale analysis 
+
+
+
+
+
+The Prostvac Phase II paper acknowledges the age imbalance but dismisses its importance 
+
+
+with a brief phrase – “age is not a significant prognostic factor in prostate cancer” – and a 
+
+
+citation to the Halabi 2003 model. To be sure, this model does not make use of age in order to 
+
+
+predict survival. However, as we have already seen, the Halabi 2003 model is outdated, 
+
+
+drawing on clinical trials conducted between 1992 and 1998, and, like any model, it does not 
+
+
+capture all the relevant factors. Furthermore, the learning sample used to construct the model 
+
+
+suffers from a fairly narrow age range, with an interquartile range (IQR) of 65 to 75. This is 
+
+
+similar to (albeit younger than) the Prostvac treatment group’s IQR of 67 to 79 but looks quite 
+
+
+different from the control group’s IQR of 72 to 83, with a 7-to-8-year shift in the elderly direction. 
+
+
+In other words, the data on which the Halabi 2003 model was built come from a substantially 
+
+
+younger population than the Prostvac control group, making it hazardous to extrapolate from 
+
+
+one to the other. 
+
+
+
+
+
+Topic of study Treatment group
+
+
+Median 
+
+
+age 
+
+
+(yrs)* Ref
+
+
+Prostvac-VF + GM-CSF 71.5
+
+
+Vaccinia/fowlpox + saline 79
+
+
+3-weekly docetaxel + pred. 68
+
+
+Weekly docetaxel + pred. 69
+
+
+Mitoxantrone + pred. 68
+
+
+Royal Marsden trial participants Various investigational agents 67.2 14
+
+
+Sipuleucel-T 72
+
+
+Placebo 70
+
+
+GVAX 71
+
+
+Docetaxel 71
+
+
+Queen Elizabeth Hospital Various 67.8 64
+
+
+Tasquinimod 72.3
+
+
+Placebo 73.2
+
+
+Abiraterone acetate + pred. 71.0
+
+
+Placebo + pred. 70.0
+
+
+Orteronel + pred. 71.0
+
+
+Placebo + pred. 72.0
+
+
+Enzalutamide 72.0
+
+
+Placebo 71.0
+
+
+* Number of decimal points shown based on presentation in original publication.
+
+
+† Median not disclosed; age shown is mean.
+
+
+Enzalutamide (Xtandi) 4
+
+
+30Docetaxel (Taxotere)
+
+
+28Sipuleucel-T (Provenge)
+
+
+Abiraterone (Zytiga) 32
+
+
+Orteronel 5
+
+
+GVAX 31
+
+
+Tasquinimod† 2
+
+
+Prostvac 6
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 20 
+
+
+
+
+
+Although there aren’t many studies that specifically examine the relationship between age and 
+
+
+survival in mCRPC, the available evidence makes it clear that, as common sense would dictate, 
+
+
+elderly men with mCRPC tend to have fewer years ahead of them than their younger 
+
+
+counterparts. One of the most direct illustrations comes from a retrospective study reviewing 
+
+
+“the clinical files of 175 patients aged ≥ 75 yr with CRPC treated with first-line docetaxel in nine 
+
+
+French tertiary care cancer centres from 2000 to 2007” (30). Median age was 78 years; notably, 
+
+
+then, a study specifically focused on “elderly patients” actually had a median age one year 
+
+
+younger than that of the Prostvac control group. Median OS among these elderly patients on 
+
+
+docetaxel was 15 months – very different from the ~25 to 30 months seen in mainstream 
+
+
+studies but similar to the 16.6 months seen in the Prostvac control group. Better still, when 
+
+
+researchers disaggregated survival based on “performance status” – a simple measure of 
+
+
+patient health in which 0 means “fully active,” 1 indicates restrictions on “physically strenuous” 
+
+
+activity only, 2 and 3 indicate wider-ranging restrictions, and 4 means death – they found that 
+
+
+elderly patients with performance statuses of 0 or 1 had median OS of 17.5 months, slightly 
+
+
+higher than the Prostvac control group, 100% of which had a performance status of 0 or 1. 
+
+
+Similarly, elderly patients without visceral disease had median OS of 16.4 months, almost 
+
+
+identical to the Prostvac control group, 100% of which likewise lacked visceral disease. Below 
+
+
+we combine the survival curve from the Prostvac control group (in blue) with the survival curve 
+
+
+from the retrospective French study for men 75 and older with performance status of 0 or 1 (in 
+
+
+red-orange). The curves are effectively indistinguishable.  
+
+
+
+
+
+Median Overall Survival: Prostvac Phase II Study vs. Elderly Patients on Docetaxel 
+
+
+
+
+
+Source: Kantoff et al. 2010 (6), Italiano et al. 2009 (30), Kerrisdale analysis 
+
+
+ 
+
+
+
+http://ecog-acrin.org/resources/ecog-performance-status
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 21 
+
+
+
+
+
+These data are consistent with other lines of evidence clearly demonstrating that age is, in fact, 
+
+
+a prognostic factor in mCRPC. One recent publication, based on detailed registry data from 
+
+
+2000 to 2009, showed that survival rates for men with metastatic prostate cancer clearly do 
+
+
+differ by age; for instance, comparing men 85 or older with those aged 65-74 and looking out 
+
+
+five years from diagnosis, the older men are less than a third as likely to still be alive (9).  
+
+
+
+
+
+Metastatic Prostate Cancer: 5-Year Survival Probability by Age Group 
+
+
+ 
+Source: Howlader 2014 (9), Kerrisdale analysis 
+
+
+
+
+
+A 2006 study by Halabi et al. came to a similar conclusion (10), noting that “[t]he results of this 
+
+
+analysis support the hypothesis that older men [with mCRPC] have a worse prognosis than their 
+
+
+younger counterparts,” with 60-to-69-year-olds enjoying similar survival to 70-79-year-olds – 
+
+
+likely accounting for the misperception in other studies that age doesn’t matter – but surviving 
+
+
+almost twice as long as 80-89-year-olds (who constituted roughly half of the Prostvac Phase II 
+
+
+placebo group). Below we summarize additional data points on median OS among elderly men 
+
+
+with mCRPC. While each study has its limitations, together they paint a fairly consistent picture, 
+
+
+especially the older studies: median OS in the mid-teens, with a potential improvement indicated 
+
+
+in the large-scale abiraterone trial.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 22 
+
+
+
+
+
+Median Overall Survival in Elderly Men with mCRPC 
+
+
+
+
+
+ 
+Source: studies noted in “Ref” column, Kerrisdale analysis 
+
+
+
+
+
+In sum, the results of the Prostvac Phase II study are badly confounded by age differences, and 
+
+
+the likely magnitude of the age impact could well be so large as to eliminate any apparent 
+
+
+benefit of Prostvac over placebo. Rather than measure the efficacy of Prostvac, the study 
+
+
+actually measured the survival advantage of being younger rather than older. In the COU-AA-
+
+
+302 trial for abiraterone, for instance, younger (<75 years old) men on abiraterone experienced 
+
+
+median OS 6.7 months higher than their older counterparts, while men on placebo saw a 5.3-
+
+
+month benefit from age alone. Alternatively, consider again the results of the subgroup analysis 
+
+
+from the main Provenge Phase III study, initiated around the same time as the Prostvac Phase 
+
+
+II study: placebo recipients who went on take docetaxel had median OS of 27.1 months. 
+
+
+Meanwhile, based on the French study, elderly men in good condition taking docetaxel have 
+
+
+median OS of only 17.5 months. This implies an almost 10-month advantage in median 
+
+
+overall survival based purely on an age difference comparable to that observed in the 
+
+
+Prostvac Phase II study. Thus Prostvac’s apparent 8.5-month survival benefit plausibly stems 
+
+
+entirely from the age imbalance, with no room left over for Prostvac itself to have any benefit. 
+
+
+
+
+
+While this age-based hypothesis is compelling and makes sense of the otherwise bizarre 
+
+
+underperformance of the Prostvac control group, the explanation for this underperformance is 
+
+
+less important than the indisputable fact that the control group represents an uninformative 
+
+
+benchmark. Beating such an anomalously bad result is not much of an achievement. If the 
+
+
+treatment group’s overall survival were itself more impressive, standing out relative to other 
+
+
+comparable studies, then the weakness of the control group might not matter; in reality, though, 
+
+
+the treatment group shows no meaningful advantage over other studies’ placebo arms, let alone 
+
+
+patients who received clearly beneficial drugs like abiraterone and enzalutamide. There is 
+
+
+simply nothing there to see. Prostvac does not enhance survival. 
+
+
+
+
+
+Early-Stage Combination-Therapy Data Further Demonstrate Prostvac’s Inefficacy 
+
+
+
+
+
+Though Prostvac’s Phase III results will only be available in late 2016 or 2017, we already have 
+
+
+additional confirmation of its inefficacy via the very combination study that Bavarian Nordic touts 
+
+
+Population
+
+
+Age 
+
+
+cutoff
+
+
+Median 
+
+
+age
+
+
+Year 
+
+
+initiated Treatment
+
+
+Median 
+
+
+OS n Ref
+
+
+9 French tertiary-care 
+
+
+cancer centres ≥75 78 2000 Docetaxel
+15
+
+
+175 30
+
+
+3-weekly docetaxel 18.9 68
+
+
+Weekly docetaxel 16.1 71
+
+
+Mitoxantrone 12.5 68
+
+
+5 Japanese hospitals ≥75 77 2005 Docetaxel 15.5 20 65
+
+
+3 Australian hospitals ≥80 83 2006 Docetaxel 13.4 20 66
+
+
+79 Abiraterone 28.6 185
+
+
+79 Placebo (initially) 25.6 165
+
+
+67
+
+
+68
+
+
+TAX-327 clinical trial 2000≥75 not stated
+
+
+2009COU-AA-302 clinical trial ≥75
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 23 
+
+
+
+
+
+as demonstrating its promise. In that study, 30 patients received both Prostvac and the 
+
+
+checkpoint inhibitor ipilimumab (Yervoy), with different sub-groups receiving 1, 3, 5, and 10 
+
+
+mg/kg doses of ipilimumab. There was no placebo or other comparison group, and, given the 
+
+
+small sample size, “[t]here was no significant difference in overall survival on the basis of dose” 
+
+
+(13), although Bavarian Nordic likes to ignore such statistical niceties and highlight the 37.2-
+
+
+month median OS in the 15-person cohort receiving the highest ipilimumab dose. Across all 
+
+
+doses, however, the median OS was only 31.6 months, a result that, while superior to the 
+
+
+Prostvac-only Phase II study, looks pedestrian relative to the other large mCRPC trials already 
+
+
+reviewed and is worse, for example, than what tasquinimod achieved in a much larger Phase II 
+
+
+study. (Tasquinimod’s developer has since announced that the drug failed to outperform 
+
+
+placebo in an even larger Phase III.) 
+
+
+
+
+
+Below we superimpose the survival curve from the Prostvac/ipilimumab trial over the data 
+
+
+generated by all clinical-trial participants at the UK’s Royal Marsden Hospital from 2003 to 2011. 
+
+
+Relative to this historical control, the Prostvac combination data have nothing to recommend 
+
+
+them. Moreover, the graph again underscores the irrelevance of the Halabi 2003 model as a 
+
+
+baseline for expected survival since it badly underestimates real-world outcomes. 
+
+
+
+
+
+
+
+
+Prostvac/Ipilimumab Survival Data Compared to Royal Marsden Historical Control 
+
+
+
+
+
+Source: Bavarian Nordic April 2015 investor presentation, Omlin et al. 2013 (14), Kerrisdale analysis 
+
+
+
+
+
+Even if the combination trial had produced better results, the obvious question would be to what 
+
+
+degree those results were attributable to Prostvac or to ipilimumab. While ipilimumab has so far 
+
+
+produced disappointing survival outcomes in post-chemotherapy mCRPC (19), the drug is 
+
+
+indisputably biologically active (leading to immune-related adverse effects) and has well-
+
+
+established efficacy in melanoma; many prostate-cancer researchers and clinicians continue to 
+
+
+
+http://www.bavarian-nordic.com/media/188526/150415-needham-en.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 24 
+
+
+
+
+
+hold out hope that it will prove to increase survival in the right patient subset, such as men with 
+
+
+earlier-stage disease or no visceral metastases. (Among those with “favourable prognostic 
+
+
+features” in the post-chemotherapy ipilimumab-monotherapy trial, median OS for the treatment 
+
+
+group exceeded that for the placebo group by 6.9 months.) Thus Prostvac/ipilimumab 
+
+
+combination therapy might ultimately work simply because ipilimumab might work in prostate 
+
+
+cancer, not because Prostvac itself has any effect. Indeed, not only was median OS 
+
+
+unimpressive; the combination therapy also failed to elicit a meaningful immune response to 
+
+
+Prostvac’s targeted antigen, PSA. Of nine evaluable patients, only two demonstrated any 
+
+
+detectable increase in their T-cell immune response to PSA, of which one was close to the 
+
+
+lower bound of detectability. In fact, one patient who showed a T-cell response to PSA prior to 
+
+
+vaccination saw a decline in the magnitude of his response after vaccination (13). As we will 
+
+
+detail further, numerous other Prostvac studies reveal the same type of negligible and 
+
+
+inconsistent immune response to PSA, calling into question Prostvac’s entire raison d'être. Even 
+
+
+if Prostvac performed as intended, it would likely still fail to help patients, but it appears to fall 
+
+
+short of even that low standard.  
+
+
+
+
+
+Interestingly, there is a clear precedent for the failure of a vaccine to add any value in 
+
+
+combination with a checkpoint inhibitor: the Phase III trial of ipilimumab for melanoma (32). That 
+
+
+study contained three arms: 1) ipilimumab plus gp100, a peptide vaccine targeted at a 
+
+
+melanoma-associated glycoprotein; 2) ipilimumab alone; and 3) gp100 alone. While vaccine-
+
+
+only patients experienced median OS of 6.4 months, ipilimumab-only patients saw 10.1 months, 
+
+
+while ipilimumab/vaccine combination patients saw an almost identical 10.0 months. In short, 
+
+
+the vaccine contributed nothing whatsoever to the efficacy of ipilimumab in melanoma, just as 
+
+
+Prostvac appears to contribute nothing in prostate cancer. 
+
+
+
+
+
+Prostvac Does Not Slow Disease Progression or Elicit Significant Immune 
+
+
+Responses 
+
+
+
+
+
+Since the purpose of Prostvac is to trigger an immune response to the patient’s cancer, 
+
+
+centered (at least initially) on the tumor-associated antigen PSA, it would seem logical to expect 
+
+
+the treatment to slow down disease progression. However, as previously discussed, the Phase 
+
+
+II study failed to show any improvement in progression-free survival. A smaller Phase II study, 
+
+
+pairing Prostvac with docetaxel, produced similar results: the 14 patients in the Prostvac-only 
+
+
+group saw median time to progression of 1.8 months, while the 14 patients in the 
+
+
+Prostvac/docetaxel combination group saw median time to progression of 3.2 months, almost 
+
+
+identical to the 3.7 months experienced by a historical control using docetaxel only on the same 
+
+
+dose and schedule and in a similar patient population at the same institution where the trial was 
+
+
+conducted (33). In other words, Prostvac plus docetaxel led to the same time to progression as 
+
+
+would be expected for docetaxel alone, consistent with Prostvac’s failure to improve 
+
+
+progression-free survival in the larger Phase II study. Moreover, in a 2011 review of several 
+
+
+different prostate-cancer treatments that analyzed changes in the growth rate of circulating PSA 
+
+
+levels, under the theory that effective treatments would tend to cause PSA measurements to
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 25 
+
+
+
+
+
+increase more slowly (even if they didn’t cause PSA to actually decline), researchers found that 
+
+
+Prostvac again failed to have any measurable impact (34) (bold added): 
+
+
+
+
+
+Thus, the data...show that successive chemotherapy regimens have achieved greater 
+
+
+efficacy as evidenced by both greater reductions in g [PSA growth rate], and a greater 
+
+
+number of patients achieving a complete PSA response. Such an effect, however, was 
+
+
+not observed with the PSA-TRICOM vaccine where on-study g values were not 
+
+
+statistically different (t-test, P = 0.46), from pre-enrollment g values for patients 
+
+
+receiving vaccine. 
+
+
+
+
+
+Not only was the change in PSA growth rate induced by Prostvac not statistically significant; it 
+
+
+was indistinguishable from zero, with the log daily growth rate going from -2.0 to -2.1. While the 
+
+
+authors, taking Prostvac’s putative 8.5-month survival benefit at face value, cast about for some 
+
+
+plausible explanation of the inconsistency between, on the one hand, the vaccine’s strange 
+
+
+inability to at least slow down increases in PSA levels and, on the other hand, its apparent 
+
+
+clinical efficacy, Occam’s razor dictates a simpler conclusion: Prostvac is ineffective across the 
+
+
+board. It doesn’t slow down PSA growth, just like it doesn’t slow down other measures of 
+
+
+disease progression, just like it doesn’t actually enhance overall survival outside of one distorted 
+
+
+and misleading Phase II study. 
+
+
+
+
+
+Furthermore, notwithstanding strained rhetoric to the contrary, Prostvac barely elicits any 
+
+
+measurable immune responses. This runs counter to its entire proposed mechanism of action: 
+
+
+in the words of one study, Prostvac “is a novel vector-based vaccine designed to generate a 
+
+
+robust immune response against prostate-specific antigen (PSA)-expressing tumor cells” (22). 
+
+
+Prostvac advocates readily admit that the vaccine does not induce a humoral immune response 
+
+
+to PSA, with almost no patients generating anti-PSA antibodies. (This is itself somewhat 
+
+
+peculiar: even Provenge, a dendritic-cell vaccine that targets prostatic acid phosphatase (PAP), 
+
+
+not PSA, has been shown to cause a two-fold or greater increase in PSA-specific antibodies in 
+
+
+39% of patients (35).) However, they argue that there is “clear evidence of immune responses 
+
+
+to PSA in the majority of patients post-vaccination” – specifically, T-cell responses. 
+
+
+
+
+
+But on closer inspection, those responses amount to very little. Below we show the key table 
+
+
+from a recent review paper summarizing T-cell responses to Prostvac across a number of 
+
+
+different small studies (22).
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 26 
+
+
+
+
+
+
+
+
+First, consider the “percentage of patients with PSA+ ELISPOT,” which refers to the fraction of 
+
+
+evaluated patients who demonstrate a meaningful level of PSA-specific T cells post-vaccination. 
+
+
+(Requiring at least a 2-fold increase in the ELISPOT assay is fairly conventional, although some 
+
+
+researchers argue for stricter and more rigorous rules (36) (37).) Across six different patient 
+
+
+groups, the fraction of individuals who experienced any PSA-specific T-cell response ranged 
+
+
+from 11% to 74%, averaging just 57% in aggregate; equivalently, 43% experienced no change 
+
+
+in PSA-specific T-cell levels. By the standards of ordinary prophylactic vaccines, this is a 
+
+
+stunningly weak result. 
+
+
+
+
+
+Even for the patients who did record an increase in PSA-specific T cells, the absolute 
+
+
+magnitude of the response was tiny. While the table draws attention to the five-fold median 
+
+
+increase in PSA-specific T cells (among the slender majority of patients experiencing an 
+
+
+increase), which might sound impressive, it is a large increase off of a very low baseline. The 
+
+
+median level of post-vaccine PSA-specific T cells is only 30 per million PBMCs (peripheral blood 
+
+
+mononuclear cells). For reference, the following chart depicts the T-cell responses that were 
+
+
+obtained by unsuccessful viral-vector vaccines for several major infectious diseases (38). The 
+
+
+figures range from a low of 195 per million to a high of 5,090 per million, one to two orders of 
+
+
+magnitude higher than the PSA-specific response elicited by Prostvac (in the fraction of patients 
+
+
+who experienced any meaningful response at all).
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 27 
+
+
+
+
+
+Immunogenicity of Prostvac vs. Other T-Cell-Inducing Vaccines 
+
+
+
+
+
+
+
+
+Source: Gilbert 2011 (38), Kerrisdale analysis 
+
+
+Includes all viral-vector vaccines from Gilbert 2011 Table 1 (and thus excludes DNA and BCG vaccines and sip-T). 
+
+
+
+
+
+Indeed, analysts looking at ELISPOT results to assess T-cell-based treatments typically expect 
+
+
+hundreds or thousands of spots per million PBMCs, not the minuscule 30 seen with Prostvac; in 
+
+
+fact, some researchers regard 25 per million as the lower limit of detection, and others require 
+
+
+more than 50 or 55 spots before regarding responses as meaningful (36) (37). When used as a 
+
+
+smallpox vaccine, vaccinia virus itself – the vector for the Prostvac prime injection – causes a 
+
+
+median specific T-cell response of ~300 per million PBMCs (39). Thus, the typical vaccinia-
+
+
+specific T-cell response is at least 10x larger than the typical PSA-specific T-cell response 
+
+
+caused by Prostvac. It is counterintuitive, to say the least, to suggest that such a tiny immune 
+
+
+response, 10 or 100 times weaker than what typical vaccines produce, could overcome the 
+
+
+manifold immunosuppressive mechanisms associated with cancer and confer any clinical 
+
+
+benefit.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 28 
+
+
+
+
+
+
+
+
+This phenomenon has not escaped the notice of other researchers. A recent review paper on 
+
+
+cancer vaccines made the same point using a slightly different metric, explicitly calling out 
+
+
+Prostvac along the way and dubbing results of its ilk “disheartening” (emphasis added) (69): 
+
+
+
+
+
+Two of the most effective human viral vaccines, YF-vax for yellow fever and Dryvax for 
+
+
+small pox induce a CD8 T-cell population of around 5-30% of the entire CD8 
+
+
+population in the peripheral blood....In comparison to these viral vaccine regimes in 
+
+
+healthy hosts, current cancer vaccines only induce around a 2-fold to 10-fold increase in 
+
+
+antigen specific T-cells. Prostvac...increased the number of PSA specific T-cells in 
+
+
+patients by on average 5-fold to produce 30 vaccine specific cells per million PBMCs. 
+
+
+This number is around 0.03% of the total CD8 T-cell population. 
+
+
+
+
+
+Consider another data point from a recent study published in Science: a single non–small-cell–
+
+
+lung-cancer (NSCLC) patient who enjoyed an “exceptional response” to pembrolizumab, an 
+
+
+anti-PD-1 checkpoint inhibitor. Trying to determine what drove this response, researchers 
+
+
+discovered a large increase in CD8+ T cells targeting a particular patient-specific mutation in the 
+
+
+HERC1 gene. After administration of pembrolizumab, these mutation-targeting T cells expanded 
+
+
+to 400-440 per million PBMCs within the first several weeks of treatment – 13 to 15 times higher 
+
+
+than the maximum PSA-specific immune response generated by Prostvac. 256 days after 
+
+
+treatment, the researchers wrote, “this T cell response returned to levels just above 
+
+
+background” (40). But the minimum magnitude of this T-cell response, characterized as “just 
+
+
+above background,” was equal to the maximum T-cell response seen with Prostvac (30 per 
+
+
+million). This case study reveals the hollowness of some of the excuses made for Prostvac’s 
+
+
+derisory immunogenicity, like the notion that perhaps the sought-after PSA-specific T cells 
+
+
+migrate into tumors and thus evade detection in the peripheral blood. This NSCLC patient 
+
+
+clearly benefited from pembrolizumab and clearly mounted a tumor-specific T-cell response, 
+
+
+and this response was fully detectable in multiple blood samples. 
+
+
+
+
+
+Specific T-Cell Response in NSCLC Patient Benefiting from Pembrolizumab 
+
+
+
+
+
+ 
+Source: Rizvi 2015 (40), Kerrisdale analysis
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 29 
+
+
+
+
+
+All of this evidence is consistent: 
+
+
+ Prostvac does not improve progression-free survival. 
+
+
+ Prostvac does not cause PSA levels to decline. 
+
+
+ Prostvac does not reduce the rate of increase in PSA levels. 
+
+
+ Prostvac does not trigger the production of PSA-specific antibodies. 
+
+
+ Prostvac fails to elicit any measurable PSA-specific T-cell response in a large fraction of 
+
+
+patients and only elicits a minuscule immune response in the others. 
+
+
+ Prostvac does not produce noticeably better overall survival than what’s seen with 
+
+
+placebo in numerous other mCRPC trials. 
+
+
+ Prostvac only appears to enhance overall survival when compared with an anomalously 
+
+
+poor placebo group, likely because of imbalances in age and other prognostic factors. 
+
+
+
+
+
+In short, Prostvac is ineffective across the board. It’s worthless. 
+
+
+
+
+
+There’s nothing remarkable about this conclusion: time after time, similar approaches to 
+
+
+therapeutic vaccines for cancer have failed. Simply loading up a viral vector with a tumor-
+
+
+associated antigen – in particular, a normal self-antigen that the immune system has spent 
+
+
+decades “learning” to tolerate, unlike the mutated, often patient-specific tumor neoantigens to 
+
+
+which checkpoint inhibitors appear to unleash responses – has never worked, and scientists 
+
+
+now understand the many reasons why such approaches cannot succeed. There is no good 
+
+
+reason to believe that Prostvac will be an exception to this pattern.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 30 
+
+
+
+
+
+IV. Therapeutic Cancer Vaccines Have a Long History of 
+
+
+Failure 
+
+
+
+
+
+Eleven years ago, Steven A. Rosenberg and two co-authors took stock of cancer 
+
+
+immunotherapy research and noted that the vaccine approach, which had initially generated a 
+
+
+lot of excitement, did not seem to be panning out (41): 
+
+
+
+
+
+Great progress has been made in the field of tumor immunology in the past decade, but 
+
+
+optimism about the clinical application of currently available cancer vaccine approaches 
+
+
+is based more on surrogate endpoints than on clinical tumor regression. In our cancer 
+
+
+vaccine trials of 440 patients, the objective response rate was low (2.6%), and 
+
+
+comparable to the results obtained by others.  
+
+
+
+
+
+... In the field of cancer immunotherapy, most enthusiasm has been directed at the use 
+
+
+of cancer vaccines—active immunizations designed to treat growing tumors. A recent 
+
+
+review of dendritic cell vaccines mentioned 98 published studies involving over 1,000 
+
+
+patients. A tabulation in 2003 listed 216 ongoing vaccine clinical trials in cancer patients. 
+
+
+These studies were conducted, and others are underway, despite the absence of 
+
+
+convincing animal data that cancer vaccines used alone can affect invasive, 
+
+
+vascularized tumors. 
+
+
+
+
+
+...[I]nvestigators have been enthusiastic about the use of active immunization for 
+
+
+patients with solid tumors because of an over-reliance on surrogate and subjective 
+
+
+endpoints, such as histologic evidence of tumor necrosis or lymphocyte infiltration, rather 
+
+
+than objective cancer regressions. Thus, despite the absence of any significant 
+
+
+proportion of patients who achieved clinical responses, many cancer vaccine trials have 
+
+
+been optimistically reported because surrogate or subjective endpoints were achieved. 
+
+
+
+
+
+In light of these very large numbers of patients treated with vaccines and the 
+
+
+exceedingly low objective response rates reported for the cancer types included in Table 
+
+
+5, a reevaluation of future directions for cancer immunotherapy trials would be valuable. 
+
+
+
+
+
+Rosenberg is today regarded as one of the great pioneers of effective cancer immunotherapy, 
+
+
+and he and his collaborators have achieved stunning clinical results, including apparent cures, 
+
+
+using non-vaccine immunotherapies like adoptive cell transfers. In stark contrast, the vaccine 
+
+
+approach has continued to flounder. In 2011, Rosenberg’s group reviewed post-2004 vaccine 
+
+
+data and again found them lacking. Below we reproduce a key table showing the paucity of 
+
+
+objective responses (i.e. tumor shrinkage or elimination) across a wide array of vaccine types 
+
+
+(peptide, dendritic cell, virus, protein, tumor cell, and plasmid DNA) and a wide range of cancer 
+
+
+types (melanoma, prostate, kidney, lung, breast, brain, esophagus, urothelial, gynecologic, 
+
+
+thyroid, prostate, colorectal, mesothelioma, and head and neck):
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 31 
+
+
+
+
+
+ 
+Source: Klebanoff 2011 (20)
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 32 
+
+
+
+
+
+Evidence of improvement in overall survival was also difficult to find, with no results in 
+
+
+melanoma, kidney, or lung cancer and questionable results in prostate cancer: 
+
+
+
+
+
+ 
+Source: Klebanoff 2011 (20) 
+
+
+
+
+
+As the authors argue, the apparent success of sipuleucel-T (Provenge) may be illusory: 
+
+
+
+
+
+This pattern of increased survival in the absence of objective responses or a delay in 
+
+
+time to progression runs counter to previous experience with conventional cytotoxic 
+
+
+chemotherapies where either disease regression or stabilization of disease was 
+
+
+correlated with improvements in overall survival. As such, these findings have been met 
+
+
+with caution and reserve among some investigators.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 33 
+
+
+
+
+
+They point out that sipuleucel-T patients tended to receive docetaxel earlier and more frequently 
+
+
+than placebo patients and that, relative to the TAX-327 median OS for minimally symptomatic 
+
+
+men of 25.6 months, the 25.8 months achieved by sipuleucel-T does not look like an 
+
+
+improvement. They go on to criticize the Prostvac trial on similar grounds: 
+
+
+
+
+
+In a separate prostate cancer vaccine trial using a heterologous prime-boost regimen 
+
+
+with recombinant pox-viruses encoding PSA, a significant improvement in overall 
+
+
+survival was also observed, although the study’s primary end-point of improved time to 
+
+
+progression was not met. However, several confounding factors with this trial have been 
+
+
+brought to attention. Specifically, there were apparent imbalances between the two 
+
+
+groups such that survival in the control arm was far less than would be predicted based 
+
+
+on established nomograms. Additionally, no information regarding subsequent therapies 
+
+
+such as docetaxel was reported, limiting the ability to determine the extent to which 
+
+
+differences in outcome may be attributed to the effects of the experimental vaccines 
+
+
+versus those of established therapies. 
+
+
+
+
+
+This skepticism toward simplistic therapeutic cancer vaccines like Prostvac is not some fringe 
+
+
+viewpoint; it’s widely shared. In a recent review entitled “Vaccines and Melanoma,” the authors 
+
+
+summarize the history of the field with the phrase, “Previous vaccine approaches in melanoma: 
+
+
+some promise, but limited clinical activity,” noting that “vaccines have resulted in the induction of 
+
+
+immune responses, although clinical benefit has not been clearly documented” (42). In another 
+
+
+influential publication, entitled “Oncology Meets Immunology: The Cancer-Immunity Cycle,” the 
+
+
+authors write (59): 
+
+
+
+
+
+Attempts to activate or introduce cancer antigen-specific T cells, as well as stimulate the 
+
+
+proliferation of these cells over the last 20 years, have led to mostly no, minimal or 
+
+
+modest appreciable anticancer immune responses. The majority of these efforts involved 
+
+
+the use of therapeutic vaccines...[T]he prospects for vaccine-based approaches used 
+
+
+alone are likely to be limited. 
+
+
+
+
+
+The authors held out hope for new data, noting that “[a] large, monovalent antigen trial (using 
+
+
+the C-T antigen MAGE-A3) is currently under way, yet it is not clear that any one candidate will 
+
+
+necessarily generate robust T cell responses in all patients.” This caution was justified: that 
+
+
+MAGE-A3 trial, conducted by GlaxoSmithKline, was ultimately ended in 2014 when it became 
+
+
+clear that the vaccine didn’t outperform placebo on any of three co-primary endpoints.   
+
+
+
+
+
+The failure of vaccines has extended to prostate cancer just as it has to other cancer types. A 
+
+
+2014 review entitled “Inefficacy of Therapeutic Cancer Vaccines and Proposed Improvements: 
+
+
+Casus of Prostate Cancer” explained that, in the aggregate, “therapeutic vaccines trigger 
+
+
+anticancer immune response” (although Prostvac is an outlier in that regard) yet “therapeutic 
+
+
+vaccination yields no clinically relevant anticancer effect” (21). Below we reproduce the authors’ 
+
+
+summary of the therapeutic results from a host of different prostate-cancer vaccines targeting a 
+
+
+number of different antigens; in short, there were almost no objective responses, consistent with 
+
+
+the results in other cancers. 
+
+
+
+http://us.gsk.com/en-us/media/press-releases/2014/update-on-phase-iii-clinical-trial-of-investigational-mage-a3-antigen-specific-cancer-immunotherapeutic-in-non-small-cell-lung-cancer/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 34 
+
+
+
+
+
+
+
+
+ 
+Source: Jacobs 2014 (21) 
+
+
+
+
+
+Against this highly consistent backdrop of failure, the inefficacy of Prostvac makes perfect 
+
+
+sense; after all, the treatment dates back to at least 1995 and in no way improves on the highly 
+
+
+similar failed approaches reviewed above. It was part of the same wave of (in retrospect) 
+
+
+unjustified enthusiasm that Rosenberg et al. were sharply and publicly criticizing by 2004. 
+
+
+Indeed, Therion Biologics, the company driven into bankruptcy by the failure of Prostvac and its 
+
+
+sister therapy Panvac, initially planned to treat a wide range of cancers. In 1998 it announced a 
+
+
+partnership with the large vaccine-maker Pasteur Mérieux Connaught (now part of Sanofi) “to 
+
+
+develop and market vaccines for colorectal [and] lung cancers and melanoma”; Therion also 
+
+
+worked on a prophylactic HIV vaccine. None of these lines of research yielded anything 
+
+
+valuable. Similarly, Bavarian Nordic’s cancer immunotherapy work beginning in the late 1990s 
+
+
+initially focused on using the MVA vector in vaccines for melanoma and breast cancer; again, 
+
+
+these efforts never bore fruit. Bavarian Nordic and Therion never had any special insight into 
+
+
+prostate cancer that would logically allow Prostvac to succeed where so many other vaccines 
+
+
+failed; to the contrary, prostate cancer was just one of several cancers they hoped to address 
+
+
+with the same basic, misguided strategy.  
+
+
+
+
+
+Tolerance and Immunosuppression Impede Vaccine Efficacy 
+
+
+
+
+
+Why have vaccines failed to live up to ’90s-era expectations? As researchers now understand in 
+
+
+ever greater detail, the ability of cancer to outmaneuver the immune system is not incidental; 
+
+
+indeed, “evading immune destruction” is now regarded as an “emerging hallmark of cancer” 
+
+
+(43). A popular immunology textbook gives a useful basic overview (44): 
+
+
+ 
+
+
+
+http://web.archive.org/web/20060513040434/http:/www.therion.com/news/pressSingle.asp?id=513
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 35 
+
+
+
+
+
+Immune responses frequently fail to prevent the growth of tumors. There may be 
+
+
+several reasons that anti-tumor immunity is unable to eradicate transformed cells. First, 
+
+
+many tumors have specialized mechanisms for evading host immune responses. ... 
+
+
+Second, tumor cells are derived from host cells and resemble normal cells in many 
+
+
+respects. Therefore, many tumors tend to be weakly immunogenic. ... Many 
+
+
+spontaneous tumors induce weak or even undetectable immunity. This may be because 
+
+
+the tumors that grow have undergone mutations that reduce their ability to stimulate 
+
+
+strong immune responses. ... Third, the rapid growth and spread of a tumor may 
+
+
+overwhelm the capacity of the immune system to effectively control the tumor, which 
+
+
+requires that all the malignant cells be eliminated. 
+
+
+
+
+
+In the case of Prostvac, tolerance to PSA is likely a major hurdle. The immune system has 
+
+
+several mechanisms to prevent potentially dangerous self-reactive T cells from proliferating, 
+
+
+including central deletion within the thymus and peripheral policing via regulatory T cells (Tregs). 
+
+
+Furthermore, any surviving PSA-specific T cells presented with PSA by dendritic cells prior to 
+
+
+vaccination likely received no co-stimulation, potentially putting them into the unresponsive, 
+
+
+non-functional state of anergy. This tolerizing process, playing out over a period of decades, is 
+
+
+unlikely to be reversed in a period of weeks by a small injection of PSA-expressing poxvirus. 
+
+
+
+
+
+Even if Prostvac did elicit a strong response from functional T cells – which the data do not 
+
+
+suggest it does – it would have to contend with the formidable challenges of the 
+
+
+immunosuppressive tumor microenvironment. The diagram below, taken from a review of the 
+
+
+“mechanisms of T cell dysfunction” in chronic infections and cancer summarizes some of the 
+
+
+key barriers to successful T-cell responses, including myeloid-derived suppressor cells, Tregs, 
+
+
+inhibitory cytokines like interleukin-10 and TGF-β, unusual physiological conditions like hypoxia 
+
+
+and low pH, and immunosuppressive signaling pathways involving inhibitory receptors like PD-
+
+
+1, TIM-3, CTLA-4, and LAG-3 (45). Furthermore, recent research suggests that at least some of 
+
+
+these immunosuppressive mechanisms are themselves driven by the influx of T cells into the 
+
+
+tumor as part of a self-regulatory negative feedback loop (24). Prostvac has no means of 
+
+
+overcoming all of these problems, which have bested far more robust therapies, including far 
+
+
+more immunogenic vaccines. In the words of the title of one 2005 paper by Rosenberg et al., 
+
+
+“Tumor progression can occur despite the induction of very high levels of self/tumor antigen-
+
+
+specific CD8+ T cells in patients with melanoma” (46). Prostvac does not even induce high 
+
+
+levels of antigen-specific T cells, so its ability to positively impact tumor progression is even 
+
+
+more dubious.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 36 
+
+
+
+
+
+ 
+Source: Schietinger and Greenberg 2014 (45) 
+
+
+
+
+
+Even if Prostvac were to trigger PSA-targeted tumor-cell killing, it would likely still fail to have a 
+
+
+major clinical benefit. Such killing would in effect be “artificial selection” for tumor cells 
+
+
+expressing little or no PSA, as well as tumor cells downregulating the MHC class I molecules 
+
+
+that serve to present intracellular antigens to T cells. For Prostvac, this “antigen drift” – i.e. 
+
+
+tumor evolution toward reduced presentation of specific antigens targeted by T cells, enabling 
+
+
+malignant cells to “hide” from the immune system – would be an especially attractive 
+
+
+evolutionary strategy since PSA, the antigen in question, is not functionally important to tumor 
+
+
+growth; indeed, some evidence suggests that PSA expression is lower in more aggressive 
+
+
+tumors compared to less aggressive ones (70). However, since Prostvac has no impact on 
+
+
+circulating PSA levels, it appears that the treatment never gets to the point of causing the death 
+
+
+of enough PSA-expressing tumor cells to promote the outgrowth of non-PSA-expressing 
+
+
+mutants, so this potential barrier to Prostvac’s efficacy is likely purely hypothetical. The 
+
+
+treatment is so weak that it fails at a much earlier stage. 
+
+
+
+
+
+Checkpoint Inhibitors Will Not Be Prostvac’s Salvation 
+
+
+
+
+
+Perhaps tacitly recognizing the inefficacy of Prostvac as a standalone agent, Bavarian Nordic 
+
+
+and its supporters talk up the potential of pairing Prostvac with checkpoint inhibitors like 
+
+
+ipilimumab. While the metaphor of checkpoint inhibitors “taking your foot off the brake” and 
+
+
+vaccines like Prostvac “putting your foot on the gas” is intuitively appealing, an accumulating 
+
+
+body of evidence strongly suggests that these approaches have no real synergies. (Recall the 
+
+
+ipilimumab melanoma trial, in which ipilimumab coupled with a peptide vaccine performed
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 37 
+
+
+
+
+
+identically to ipilimumab alone.) Indeed, as already discussed, the survival data from the 
+
+
+Prostvac/ipilimumab Phase I study show no clear benefit. 
+
+
+
+
+
+Why don’t checkpoint inhibitors gain strength from simple vaccines? The reason appears to be 
+
+
+that the T-cell responses unleashed by these drugs target unusual “neoantigens” – proteins 
+
+
+expressed by tumor cells but not by normal cells, resulting from mutations within the tumor that 
+
+
+are often unique to individual patients; they do not target antigens like PSA, which may be 
+
+
+specific to a certain cell type but are normal, non-mutated proteins to which the immune system 
+
+
+has built up a strong tolerance. Indeed, patients whose tumors bear higher mutational loads 
+
+
+tend to respond better to checkpoint inhibitors than those with less mutated tumors, and 
+
+
+researchers have developed advanced techniques for predicting the mutant proteins mostly 
+
+
+likely to trigger robust T-cell responses (47) (48) (49) (50) (51). A therapeutic vaccine based on 
+
+
+particular patient-specific neoantigens (ideally multiple in order to make it more difficult for the 
+
+
+tumor to “escape” by evolving lower expression or presentation of a single targeted antigen) 
+
+
+could perhaps work well with checkpoint inhibitors; future research will shed light on this 
+
+
+possibility. But given the increasingly clear-cut evidence that checkpoint inhibitors achieve their 
+
+
+effects by easing the restraints on T cells targeting unique, mutated neoantigens – not normal, 
+
+
+non-mutated antigens like PSA, viewed by the immune system as “self” and protected from 
+
+
+attack by multiple tolerance mechanisms – there is no reason to expect that a first-generation 
+
+
+vaccine like Prostvac will add value to the likes of Yervoy or Keytruda. Putting your foot on the 
+
+
+gas in a parked car doesn’t get you anywhere. 
+
+
+
+
+
+Vector Immunodominance Likely Contributes to Prostvac’s Weak Immunogenicity 
+
+
+
+
+
+As previously noted, while tolerance and various forms of immunosuppression would badly blunt 
+
+
+the impact of even a more successful version of Prostvac, Prostvac actually induces a 
+
+
+detectable T-cell response in only about half of patients. And when a response is induced, it’s, 
+
+
+charitably speaking, modest. We suspect that one reason for this feeble and inconsistent 
+
+
+response is immunodominance, a phenomenon in which the immune system selectively focuses 
+
+
+its anti-pathogen efforts on a very narrow subset of possible antigens (and possible epitopes of 
+
+
+those antigens). When Prostvac’s recombinant poxviruses infect patients’ antigen-presenting 
+
+
+cells, those cells will process and display many different viral antigens, not just the PSA that the 
+
+
+vaccine is intended to elicit a response to. The immune system may likely end up targeting 
+
+
+vaccinia or fowlpox components to the exclusion or near exclusion of PSA. 
+
+
+
+
+
+Since available data on Prostvac don’t compare responses to PSA with responses to the viral 
+
+
+vectors themselves, we don’t know to what degree vector immunodominance affects vaccine 
+
+
+efficacy in this instance. But the literature furnishes a number of informative precedents. In one 
+
+
+study using a mouse model, researchers modified the vaccinia virus to express a particular 
+
+
+foreign gene, then quantified the immune responses to the virus relative to the protein encoded 
+
+
+by the inserted gene. As the authors wrote, “The total number of CD8 T cells responding to [the 
+
+
+foreign protein] were approximately 20- to 30-fold lower than the number responding to the 
+
+
+[vaccinia virus] vector. … These data bring to light the impressive magnitude of the specific
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 38 
+
+
+
+
+
+immune response elicited by the [recombinant vaccinia] backbone compared to that directed 
+
+
+against the inserted gene” (Harrington, 2002). A human study using modified vaccinia Ankara 
+
+
+(MVA), a weakened form of vaccinia, came to a similar conclusion, finding that “the vaccine-
+
+
+driven CTL [cytotoxic T lymphocyte] hierarchy is dominated by poxviral-specific responses” – 
+
+
+that is, responses to the poxvirus vector, not to the products of the inserted foreign gene that the 
+
+
+vaccine was intended to mobilize the immune system against. “Ultimately,” conclude the 
+
+
+researchers, “the efficiency with which vaccinia and other large viruses (such as adenoviruses) 
+
+
+generate CTL responses” – i.e. responses to the viruses themselves – “may limit their success 
+
+
+as backbone delivery vectors in recombinant vaccine strategies” (Smith, 2005). Summarizing 
+
+
+these and other results, a 2014 paper explains (Bell, 2014): 
+
+
+
+
+
+Live virus vaccines have proven to be effective for driving CD8 + T-cell responses for 
+
+
+therapy to treat a variety of diseases, making them appealing as vectors for antigen-
+
+
+specific immunotherapy. One of the major limitations to their efficacy, however, is the 
+
+
+induction of immunity to vector antigens rather than recombinant target antigens. 
+
+
+Competition between embedded and endogenous virus antigens limits the effectiveness 
+
+
+of the vaccine response, decreasing their potential as antigen-specific therapy. 
+
+
+
+
+
+For many patients, therefore, Prostvac likely functions more as an accidental smallpox vaccine 
+
+
+than a prostate-cancer vaccine, inducing immunity to endogenous vaccinia and fowlpox 
+
+
+antigens, not PSA. It has no way of circumventing the challenge of immunodominance. 
+
+
+
+
+
+Age Degrades the Capabilities of the Immune System 
+
+
+
+
+
+The immunosuppressive tumor microenvironment poses a major challenge to any therapeutic 
+
+
+cancer vaccine, while immunodominance affects those that employ viral vectors. But prostate 
+
+
+cancer is a disease of older men (the average age at diagnosis is 66), which brings an 
+
+
+additional problem to bear: immunosenescence. Simply put, the elderly tend to have less 
+
+
+functional immune systems than the young. In particular, as one review notes, “In the older 
+
+
+adult, the benefits of vaccination to prevent infectious diseases are limited, because of the 
+
+
+adaptive immune system’s inability to generate protective immunity” (28). Aging is associated 
+
+
+with a higher threshold for T-cell responsiveness, greater expression of inhibitory T-cell 
+
+
+receptors, lower expression of co-stimulatory molecules, and reduced antigen presentation and 
+
+
+T-cell proliferation; as one consequence, according to another review, “Even in years in which 
+
+
+the influenza vaccine is well matched and efficacious in young people, efficacy in the elderly can 
+
+
+be <20%” (54). Meanwhile, key populations of regulatory T cells, which suppress immune 
+
+
+responses to their specific antigen targets, accumulate with age (55). 
+
+
+
+
+
+Given all the deficits of immune-system functionality that build up with age, a therapeutic cancer 
+
+
+vaccine aimed at older men automatically faces an unusually slim chance of success. Such 
+
+
+vaccines already struggle to induce clinically beneficial T-cell responses; more Tregs, stronger 
+
+
+negative feedback loops, and reduced proliferative capacity can’t help. 
+
+
+ 
+
+
+
+http://www.cancer.org/cancer/prostatecancer/detailedguide/prostate-cancer-key-statistics
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 39 
+
+
+
+
+
+Prostvac’s Numerous Flaws Easily Explain Its Weak Clinical Results 
+
+
+
+
+
+In multiple ways, Prostvac is a profoundly suboptimal candidate for a therapeutic cancer 
+
+
+vaccine: 
+
+
+ It targets a normal, non-mutated “self” antigen, continuously secreted into the circulation 
+
+
+for decades of patients’ lives, and thus can’t have an impact unless it breaks pre-existing 
+
+
+tolerance; 
+
+
+ It uses large, complex viruses as vectors, raising the likelihood that the immune 
+
+
+response elicited focuses on components of the viruses and largely ignores the inserted 
+
+
+antigen; and 
+
+
+ It aims to treat older men, whose immune systems tend to be compromised in ways that 
+
+
+specifically reduce the probability of a meaningful T-cell response to a “self” antigen 
+
+
+(likely subject to protection from regulatory T cells). 
+
+
+
+
+
+Given the abysmal track record of therapeutic cancer vaccines that didn’t suffer from all of these 
+
+
+disadvantages, it should be no surprise whatsoever that the available data on Prostvac, when 
+
+
+interpreted rationally rather than optimistically, indicate no clinical benefit. While Bristol-Myers 
+
+
+Squibb’s apparent support for Prostvac may seem to validate its approach, this would hardly be 
+
+
+the first time in recent history that a large pharmaceutical company failed to beat the odds in the 
+
+
+field of cancer vaccines. As an April 2015 review on “T cell exclusion, immune privilege, and the 
+
+
+tumor microenvironment” gently points out, GlaxoSmithKline should have known better than to 
+
+
+expect success from its lung-cancer vaccine program (56): 
+
+
+
+
+
+Unambiguous evidence for the inability in humans of a systemic immune response to 
+
+
+eliminate immunogenic cancer cells was provided by Boon’s studies [published in 
+
+
+1991]…of the antigens that elicit specific CD8+ T cell responses in melanoma patients. 
+
+
+Cloned CD8+ T cells from a melanoma patient were used to identify the antigen 
+
+
+expressed by that patient’s cancer: MAGE-A1. The explicit demonstration of the 
+
+
+coexistence of a progressing melanoma with melanoma-specific T cells in this patient 
+
+
+implicitly raised the question of why the T cells did not control the growth of the cancer. 
+
+
+Immunoediting, or the elimination of immunogenic cancer cells, could be excluded, 
+
+
+which left the possibility of immune suppression by the tumor microenvironment (TME). 
+
+
+Despite this evidence that the presence of antigen-specific CD8+ T cells alone may not 
+
+
+be sufficient for the control of cancer, a major pharmaceutical company recently 
+
+
+conducted phase III trials in patients with non–small cell lung cancer (NSCLC) of the 
+
+
+clinical efficacy of vaccination with the MAGE-A3 antigen (MAGRIT, NCT00480025). 
+
+
+The study did not meet its primary end point of extending disease-free survival and was 
+
+
+discontinued in 2014. 
+
+
+
+
+
+We expect the same failure and disappointment from Prostvac.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 40 
+
+
+
+
+
+V. Even If Prostvac Succeeds, It Has Limited Commercial 
+
+
+Potential 
+
+
+
+
+
+While the scientific evidence and clinical data strongly establish Prostvac’s inefficacy, it’s worth 
+
+
+noting that the deal with Bristol-Myers Squibb has already removed much of the possible upside 
+
+
+for Bavarian Nordic even if Prostvac were to succeed. The product on the market most similar to 
+
+
+Prostvac – a therapeutic vaccine targeting a prostate cancer-associated antigen – is Provenge, 
+
+
+owned by Dendreon prior to its bankruptcy and now owned by Valeant. Since receiving FDA 
+
+
+approval in 2010, Provenge peaked at $325mm of revenue in 2012 and now generates 
+
+
+approximately $300mm: 
+
+
+
+
+
+Provenge Sales, 2010-2015 
+
+
+
+
+
+
+
+
+Source: company filings, Kerrisdale analysis 
+
+
+
+
+
+To be sure, Provenge had problems that Prostvac doesn’t share, in particular the need for the 
+
+
+complex and costly leukapheresis required to create each “personalized” dose. But Prostvac 
+
+
+has its own logistical headache: its use of live viral vectors could be difficult to manage at 
+
+
+oncology clinics treating old and immunosuppressed patients (like those on chemotherapy). 
+
+
+Furthermore, Provenge’s practical shortcomings are just one factor behind its disappointing 
+
+
+sales; many doctors also simply doubted whether the concept of a treatment that modestly 
+
+
+extended overall survival without having any other tangible effect on conventional markers of 
+
+
+disease really made sense. Prostvac would suffer from the exact same problem. In light of the 
+
+
+availability of proven, effective oral drugs like Zytiga and Xtandi, which both prolong survival and 
+
+
+clearly impact disease progression, Prostvac has little appeal. Thus, while a single dose of 
+
+
+Prostvac would certainly be cheaper than one of Provenge, Prostvac’s revenue in the aggregate 
+
+
+should at best be similar to Provenge’s.  
+
+
+
+
+
+Under the Bristol-Myers deal, however, Bavarian Nordic will only receive “double-digit” 
+
+
+percentage royalties on future Prostvac sales, typically estimated at 15-25%. The deal also 
+
+
+includes a complex set of contingent milestone payments, with a headline maximum value of 
+
+
+$975mm. However, the likely payout even if Prostvac succeeds is far lower, as the company 
+
+
+and sell-side analysts acknowledge. The $975mm figure includes $60 upfront, $80mm upon 
+
+
+Bristol-Myers’ exercise of its licensing option, $50mm for positive Phase III data, an additional 
+
+
+variable payment based on the Phase III survival results ($180mm if they replicate the Phase II 
+
+
+8.5-month median-OS difference), up to $110mm based on regulatory approvals across multiple 
+
+
+jurisdictions, and up to $495mm in sales-based milestones based on a series of revenue 
+
+
+2010 2011 2012 2013 2014* 2015**
+
+
+Dendreon product revenue 48$       214$     325$     284$     304$     296$     
+
+
+*Estimated based on growth rate in first nine months of 2014.
+
+
+**2015 Q2 Provenge sales reported by Valeant, annualized.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 41 
+
+
+
+
+
+targets. But even most Prostvac believers don’t expect Phase III results as (superficially) good 
+
+
+as the Phase II results, so the actual data-driven payment would be less than $180mm. 
+
+
+Similarly, while Bavarian Nordic hasn’t disclosed what is required to achieve the maximum 
+
+
+$495mm sales-based milestone payment, similar licensing deals reserve these maximum 
+
+
+payments for blockbuster outcomes that, again, even company supporters don’t expect. 
+
+
+Approval-driven milestones may also fall short of the maximum depending on the pace at which 
+
+
+foreign regulators move and the possibility that a full payout would require label expansion 
+
+
+beyond mCRPC. 
+
+
+
+
+
+As a result, and in line with standard sell-side estimates, we assume realistic milestone totals of 
+
+
+$400 to $500mm conditional on Prostvac success. In total, using generous price-to-peak-sales 
+
+
+multiples of 5-7x, we find that the value of Prostvac even if it succeeds cannot justify Bavarian 
+
+
+Nordic’s current market cap, much less offer meaningful upside: 
+
+
+
+
+
+Illustrative Analysis of Prostvac Value 
+to Bavarian Nordic 
+
+
+Conditional on Success 
+
+
+
+
+
+
+
+
+Source: Kerrisdale analysis 
+
+
+
+
+
+From Bristol-Myers’s perspective, the company is paying $60mm upfront; if Prostvac succeeds, 
+
+
+it will (based on the arithmetic above) acquire an asset worth $1.1 to $3.0B (75%-85% of peak 
+
+
+sales of $300-500mm capitalized at sales multiples of 5-7x) less $400-500mm of milestone 
+
+
+payments owed to Bavarian Nordic. For that net value, conditional on success, of $0.7B to 
+
+
+$2.5B – obviously a wide range – Bristol-Myers has paid just $60mm. This “option premium” in 
+
+
+effect implies a break-even probability of success of just 2-8%. Applying those same success 
+
+
+probabilities to Bavarian Nordic would result in expected Prostvac values of at most $110mm – 
+
+
+a factor of 12 less than the company’s current market cap.  
+
+
+
+
+
+Low High
+
+
+($mm )
+
+
+Prostvac peak sales 300$     500$     
+
+
+BN share (%) 15% 25%
+
+
+BN share ($) 45$       125$     
+
+
+Value to peak sales 5x 7x
+
+
+Value of peak sales 225$     875$     
+
+
+Value of milestones 400       500       
+
+
+Total value 625$     1,375$  
+
+
+Note: BN market cap 1,318$ 1,318$
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 42 
+
+
+
+
+
+Illustrative Analysis of Prostvac’s Value 
+to Bristol-Myers Squibb 
+
+
+
+
+
+
+
+
+Source: Kerrisdale analysis 
+
+
+
+
+
+In today’s crowded, highly competitive prostate-cancer market, even a successful version of 
+
+
+Prostvac would struggle to gain traction, and the Bristol-Myers deal has already capped the 
+
+
+upside for Bavarian Nordic at or substantially below its current market cap. In reality, the 
+
+
+situation is even worse: Prostvac is not a mildly effective treatment that will face stiff competition 
+
+
+but an ineffective treatment that likely won’t make it past Phase III. 
+
+
+
+
+
+Low High
+
+
+Conditional on success:
+
+
+($mm )
+
+
+Prostvac peak sales 300$     500$     
+
+
+BMS share (%) 75% 85%
+
+
+BMS share ($) 225$     425$     
+
+
+Value to peak sales 5x 7x
+
+
+Value of peak sales 1,125$  2,975$  
+
+
+Less: milestones 400       500       
+
+
+Net value to BMS 725$     2,475$  
+
+
+BMS option premium 60$       60$       
+
+
+Implied P(success) 8% 2%
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 43 
+
+
+
+
+
+VI. Bavarian Nordic’s Core Smallpox-Vaccine Business Is at 
+
+
+Risk 
+
+
+
+
+
+Although the exuberance surrounding Bavarian Nordic clearly centers on Prostvac, the 
+
+
+company’s core business – selling its form of modified vaccinia Ankara as a smallpox vaccine 
+
+
+for immunocompromised populations to the US’s Strategic National Stockpile – has served as a 
+
+
+key source of cash and perceived value floor. Today, Bavarian Nordic’s long-term contract with 
+
+
+the US government has lapsed, but the company recently received a $133mm order that could 
+
+
+serve as the first step toward a new contract for a freeze-dried (lyophilized) version of the same 
+
+
+vaccine with an extended shelf life of ~10 or more years, far higher than the ~2-year shelf life of 
+
+
+the existing ~20-million dose stockpile. This extension in shelf life, though necessary for 
+
+
+Bavarian Nordic to keep the overseers of the Strategic National Stockpile happy, would 
+
+
+obviously have a major negative effect on the value of this contract and makes the resulting 
+
+
+revenue far less “recurring.” Furthermore, while some analysts dream of higher prices and more 
+
+
+doses under a new contract, a recent Department of Health and Human Services budget 
+
+
+document indicates that the government is only planning to spend $132mm per year on 3 to 5 
+
+
+million doses of freeze-dried vaccine going forward, no better than historical levels and 
+
+
+consistent with the size of the new order, and there is no indication of any interest in a larger 
+
+
+stockpile. Below we show an illustrative analysis of the vaccine’s overall value based on the 
+
+
+following simple assumptions: 
+
+
+ A 20-million dose stockpile maintained via five-year cycles of four million doses per year, 
+
+
+with the first cycle starting in 2016, then next in 2026, etc., out to 2100;  
+
+
+ 3% annual inflation in the price per dose; 
+
+
+ A 35% EBIT margin, equal to Bavarian Nordic’s 2014 EBIT margin excluding the drag 
+
+
+from the money-losing Cancer Immunotherapy segment; 
+
+
+ A 22% Danish corporate tax rate; and 
+
+
+ An 8% discount rate. 
+
+
+
+
+
+Under these assumptions, the value of Imvamune is only $397mm, just 30% of Bavarian 
+
+
+Nordic’s market cap. Thus, while Imvamune does arguably establish a floor for Bavarian 
+
+
+Nordic’s value, it is 70% below the current stock price.  
+
+
+ 
+
+
+
+http://www.hhs.gov/sites/default/files/budget/fy2016/fy2016-public-health-social-services-emergency-budget-justification.pdf
+
+http://www.hhs.gov/sites/default/files/budget/fy2016/fy2016-public-health-social-services-emergency-budget-justification.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 44 
+
+
+
+
+
+Illustrative Analysis of Imvamune (Smallpox Vaccine) Value 
+
+
+
+
+
+
+
+
+Source: Kerrisdale analysis 
+
+
+
+
+
+In addition, while Bavarian Nordic appears to be entrenched as an alternative smallpox-vaccine 
+
+
+provider today, Imvamune is in fact a controversial product in the biosecurity community. In 
+
+
+2014, two highly respected authorities on smallpox who had served as directors of the World 
+
+
+Health Organization Global Smallpox Eradication Program wrote critically of the wastefulness 
+
+
+and riskiness of Imvamune (57) (emphasis added): 
+
+
+
+
+
+Which vaccines should be available for emergency use? The WHO Scientific Advisory 
+Group of Experts (SAGE) met in November 2013 to provide advice to member countries 
+as to which smallpox vaccines should be included in a stockpile and how they should be 
+used in case of an outbreak. SAGE recommended that the vaccines should be 
+lyophilized (to maximize shelf-life of stockpiles), they should be capable of being 
+administered by bifurcated needles (to allow reduction of the dose needed for traditional 
+scratch vaccination), and they should produce a visible major cutaneous reaction as a 
+correlate of protection. Only the 2 licensed vaccines, ACAM2000 and LC16m8, meet 
+these stipulations. SAGE recommended that if neither of these vaccines was available, 
+countries should use locally produced vaccines like those used during eradication, which 
+met WHO standards of potency, purity, and stability. 
+ 
+SAGE observed, in passing, that a recently developed vaccine, Imvamune (known 
+as Imvanex in Europe), is not recommended until more information is available 
+regarding its efficacy and safety and until it is produced as a lyophilized product. 
+ 
+...[Imvamune] is substantially more expensive and requires the administration of 2 doses 
+of vaccine by syringe and needle. Full protection is not obtained until 14 days after the 
+second dose. The vaccine is stable for only 2 years at –20°C. More concerning is the 
+fact that fewer than 7,000 people have been vaccinated. Reported adverse reactions are 
+few, but, even so, incomplete studies indicate possible risks of myocardial effects. There 
+is no apparent programmatic use for the vaccine at this time. 
+
+
+ 
+The authors conclude that, given the availability of “2 excellent replicating strains of freeze-dried 
+vaccine virus that are highly protective, whose shelf life is 10 years or more, and whose cost is 
+
+
+2016 2017 2018 2019 2020 2021 … 2100
+
+
+Doses (mm) 4           4           4           4           4           -            4           
+
+
+Price per dose 33$       34$       35$       36$       37$       38$       395$     
+
+
+Revenue ($mm) 132$     136$     140$     144$     149$     -$          1,581$  
+
+
+EBIT margin 35% 35% 35% 35% 35% 35% 35%
+
+
+EBIT ($mm) 46$       48$       49$       50$       52$       -$          553$     
+
+
+Tax rate 22% 22% 22% 22% 22% 22% 22%
+
+
+Net income 36$       37$       38$       39$       41$       -$          432$     
+
+
+NPV of net income 33$       32$       30$       29$       28$       -$          1$         
+
+
+Discount rate 8%
+
+
+Net present value ($mm) 397$
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 45 
+
+
+
+
+
+about $3 per dose” – one of which, produced by the Japanese firm Kaketsuken, is a “gentler” 
+attenuated version likely suitable for immunocompromised patients (58) – there is no reason to 
+fund less proven, more speculative products like Bavarian Nordic’s Imvamune. 
+
+
+ 
+Not only is Kaketsuken’s attenuated strain, which is ~10 times cheaper than Bavarian Nordic’s, 
+a threat to Imvamune’s long-term role in the Strategic National Stockpile; so too is the MVA 
+variant produced by Emergent BioSolutions, a company with strong relationships in biodefense 
+and large existing contracts for stockpiled anthrax countermeasures. Earlier in the year, 
+Emergent announced an agreement to use its strain of MVA as an experimental boost for 
+GlaxoSmithKline’s candidate Ebola vaccine. While Emergent had previously hoped to use MVA 
+as a vector for a tuberculosis vaccine (which failed), there is no reason why it can’t respond to 
+any future government RFPs for attenuated smallpox vaccines, threatening Bavarian Nordic’s 
+franchise. 
+ 
+Finally, based on a recently published paper (whose authors include Bavarian Nordic’s CEO) – 
+the same paper used to demonstrate the equivalence of the freeze-dried and liquid formulations 
+– the Strategic National Stockpile already possesses far more effective doses than ever 
+envisioned, because it turns out that intradermal administration requires at most one-fifth the 
+quantity of virus as subcutaneous administration to induce the same immune response (63). 
+The paper’s abstract makes the point very clearly: “ID [intradermal] vaccination could be used, 
+increasing the number of available doses in the SNS 5-fold (i.e., from 20 million to 100 million 
+doses).” The logical conclusion is that, if the government previously believed 20 million “doses” 
+were adequate, it can now achieve the same desired population coverage at one-fifth the price. 
+It will be difficult for Bavarian Nordic to sustain its revenue in light of this new information; if one 
+discovered that one-fifth the usual amount of sunscreen conferred the same degree of 
+protection, one would not keep buying the same volume of sunscreen. 
+ 
+Overall, Imvamune has only modest value and faces economic risks from shelf-life extension 
+and reduced order sizes and competitive risks from comparable or superior alternative vaccines. 
+Bavarian Nordic’s only successful product in its 20-year history is low in innovation, high in cost, 
+unknown in efficacy, and unlikely ever to be used in real life.  
+  
+
+
+
+http://globenewswire.com/news-release/2015/03/16/715410/10124754/en/Emergent-BioSolutions-Signs-Agreements-With-Oxford-University-GlaxoSmithKline-and-NIAID-for-the-Production-of-an-MVA-Ebola-Zaire-Vaccine-Candidate.html
+
+http://www.reuters.com/article/2013/02/04/us-tb-vaccine-idUSBRE9130F820130204
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 46 
+
+
+
+
+
+VII. Conclusion 
+
+
+
+
+
+Bavarian Nordic’s stock price has appreciated dramatically thanks to widespread excitement 
+
+
+about cancer immunotherapy compounded by a succession of thrilling headlines following the 
+
+
+Bristol-Myers Squibb announcement. But Prostvac is a failed, 20-year-old product that has only 
+
+
+managed to look promising thanks to a misleading statistical fluke in its Phase II data coupled 
+
+
+with the absence of any meaningful point of reference in its combination trial with ipilimumab. An 
+
+
+abundance of scientific literature clearly shows that treatments like Prostvac have never worked, 
+
+
+and Prostvac itself is an unusually ineffective agent even within the profoundly futile category of 
+
+
+therapeutic cancer vaccines. It will join the likes of GVAX, Stimuvax, and MAGE-A3 in the 
+
+
+annals of predictable clinical disappointment. Meanwhile, Bavarian Nordic’s smallpox vaccine 
+
+
+can justify only a small fraction of the company’s current valuation, and BAVA has no track 
+
+
+record of productive R&D to fall back on. Current shareholders will come to envy Bavarian 
+
+
+Nordic’s founder and former chairman, who sold out before the current hype had a chance to 
+
+
+evaporate.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 47 
+
+
+
+
+
+VIII. References 
+
+
+
+
+
+1. Treatment of Hormone-Refractory Prostate Cancer with Docetaxel or Mitoxantrone: 
+
+
+Relationships between Prostate-Specific Antigen, Pain, and Quality of Life Response and 
+
+
+Survival in the TAX-327 Study. Berthold, Dominik R. 2008, Clinical Cancer Research, pp. 
+
+
+2763-2767. 
+
+
+2. Long-term Survival and Biomarker Correlates of Tasquinimod Efficacy in a Multicenter 
+
+
+Randomized Study of Men with Minimally Symptomatic Metastatic Castration-Resistant Prostate 
+
+
+Cancer. Armstrong, A.J. 2013, Clinical Cancer Research, Vol. 19, p. 6891. 
+
+
+3. Abiraterone acetate plus prednisone versus placebo plus prednisone in chemotherapy-naive 
+
+
+men with metastatic castration-resistant prostate cancer (COU-AA-302): final overall survival 
+
+
+analysis of a randomised, double-blind, placebo-controlled phase 3 study. Ryan, CJ. 2, 2015, 
+
+
+Lancet Oncology, Vol. 16, pp. 152-60. 
+
+
+4. Enzalutamide in Metastatic Prostate Cancer before Chemotherapy. Beer, Tomasz M. 2014, 
+
+
+New England Journal of Medicine, Vol. 371, pp. 424-433. 
+
+
+5. Orteronel plus prednisone in patients with chemotherapy-naive metastatic castration-resistant 
+
+
+prostate cancer (ELM-PC 4): a double-blind, multicentre, phase 3, randomised, placebo-
+
+
+controlled trial. Saad, Fred. 3, 2015, The Lancet Oncology, Vol. 16, pp. 338-348. 
+
+
+6. Overall Survival Analysis of a Phase II Randomized. Kantoff, Philip W. 7, 2010, Journal of 
+
+
+Clinical Oncology, Vol. 28, pp. 1099-1105. 
+
+
+7. Developing Immunotherapy As Legitimate Therapy. Small, Eric J. and Fong, Lawrence. 7, 
+
+
+2010, Journal of Clinical Oncology, Vol. 28, pp. 1085-1087. 
+
+
+8. Prognostic Model for Predicting Survival in Men With Hormone-Refractory Metastatic 
+
+
+Prostate Cancer. Halabi, Susan. 7, April 1, 2003, Journal of Clinical Oncology, Vol. 21, pp. 
+
+
+1232-1237. 
+
+
+9. Docetaxel-Based Chemotherapy in Elderly Patients (Age 75 and Older) with Castration-
+
+
+Resistant Prostate Cancer. Italiano, Antoine. European Urology, Vol. 55, pp. 1368-1376. 
+
+
+10. FDA Division of Clinical Evaluation and Pharmacology/Toxicology. BLA 125197, 
+
+
+Sipuleucel-T: . 2010. 
+
+
+11. Providing Clinicians and Patients With Actual Prognosis: Cancer. Howlader, Nadia, et al., 
+
+
+et al. 2014, Journal of the National Cancer Institute Monographs, Vol. 49, pp. 255-264. 
+
+
+12. Clinical Outcomes by Age in Men With Hormone Refractory Prostate Cancer: A Pooled 
+
+
+Analysis of 8 Cancer and Leukemia Group B (CALGB) Studies. Halabi, Susan, et al., et al. 1, 
+
+
+July 2006, The Journal of Urology, Vol. 176, pp. 81-86. 
+
+
+13. Ipilimumab and a poxviral vaccine targeting prostate-specific antigen in metastatic 
+
+
+castration-resistant prostate cancer: a phase 1 dose-escalation trial. Madan, Ravi A. 2012, The 
+
+
+Lancet Oncology, Vol. 13, pp. 501-508. 
+
+
+14. A combination trial of vaccine plus ipilimumab in metastatic castration-resistant prostate 
+
+
+cancer patients: immune correlates. Jochems, Caroline. 2014, Cancer Immunology, 
+
+
+Immunotherapy, Vol. 63, pp. 407-418. 
+
+
+15. Updated Prognostic Model for Predicting Overall Survival in First-Line Chemotherapy for 
+
+
+Patients with Metastatic Castration-Resistant Prostate Cancer. Halabi, Susan. March 1, 2014, 
+
+
+Journal of Clinical Oncology, Vol. 32, pp. 671-677.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 48 
+
+
+
+
+
+16. Improved Survival in a Cohort of Trial Participants with Metastatic Castration-resistant 
+
+
+Prostate Cancer Demonstrates the Need for Updated Prognostic Nomograms. Omlin, Aurelius. 
+
+
+300-306, 2013, European Urology, Vol. 64. 
+
+
+17. Recombinant vaccinia-PSA (PROSTVAC) can induce a prostate-specific immune response 
+
+
+in androgen-modulated human prostate cancer. Sanda, M.G. 1999, Urology, Vol. 53, pp. 260-
+
+
+266. 
+
+
+18. A Phase I Trial of a Recombinant Vaccinia Virus Expressing Prostate-specific Antigen in 
+
+
+Advanced Prostate Cancer. Eder, Joseph Paul. 2000, Vol. 6. 
+
+
+19. Ipilimumab versus placebo after radiotherapy in patients with metastatic castration-resistant 
+
+
+prostate cancer that had progressed after docetaxel chemotherapy (CA184-043): a multicentre, 
+
+
+randomised, double-blind, phase 3 trial. Kwon, Eugene D. 7, 2014, Vol. 15, pp. 700-712. 
+
+
+20. Therapeutic cancer vaccines: are we there yet? Klebanoff, Christopher A. 1, January 
+
+
+2011, Immunological Reviews, Vol. 239, pp. 27-44. 
+
+
+21. Inefficacy of Therapeutic Cancer Vaccines and Proposed Improvements. Casus of Prostate 
+
+
+Cancer. Jacobs, John J.L. 2014, Anticancer Research, Vol. 34, pp. 2689-2700. 
+
+
+22. Immune impact induced by PROSTVAC (PSA-TRICOM), a therapeutic vaccine for prostate 
+
+
+cancer. Gulley, JL. 2, February 2014, Cancer Immunology Research, Vol. 2, pp. 133-141. 
+
+
+23. Clinical Efficacy of TroVax in the Treatment of Progressive Castration-resistant Prostate 
+
+
+Cancer. Amato, Robert J. and Stepankiw, Mika. 2012, Clinical Medicine Insights: Oncology, 
+
+
+Vol. 6, pp. 67-73. 
+
+
+24. Up-Regulation of PD-L1, IDO, and Tregs in the Melanoma Tumor Microenvironment Is 
+
+
+Driven by CD8+ T Cells. Spranger, Stefani. 200, August 2013, Science Translational Medicine, 
+
+
+Vol. 5, p. 200ra116. 
+
+
+25. CTLA-4 and PD-1/PD-L1 Blockade: New Immunotherapeutic Modalities with Durable 
+
+
+Clinical Benefit in Melanoma Patients. Ott, Patrick A. October 2013, Clinical Cancer Research, 
+
+
+Vol. 19, pp. 5300-5309. 
+
+
+26. CD8+ T-cell Responses Rapidly Select for Antigen-Negative Tumor Cells in the Prostate. 
+
+
+Bak, S. Peter. September 2013, Cancer Immunology Research, Vol. 1, pp. 393-401. 
+
+
+27. Recombinant vaccinia virus-induced T-cell immunity: quantitation of the response to the 
+
+
+virus vector and the foreign epitope. Harrington, LE. 7, April 2002, Journal of Virology, Vol. 76, 
+
+
+pp. 3329-3337. 
+
+
+28. Understanding immunosenescence to improve responses to vaccines. Goronzy, Jörg J 
+
+
+and Weyand, Cornelia M. 2013, Nature Immunology, Vol. 14, pp. 428-436. 
+
+
+29. Interdisciplinary Critique of Sipuleucel-T as Immunotherapy in Castration-Resistant Prostate 
+
+
+Cancer. Huber, Marie L. 2012, Journal of the National Cancer Institute, Vol. 104, pp. 273-279. 
+
+
+30. Sipuleucel-T Immunotherapy for Castration-Resistant Prostate Cancer. Kantoff, Philip W. 
+
+
+5, 2010, New England Journal of Medicine, Vol. 363, pp. 411-422. 
+
+
+31. A phase III trial of GVAX immunotherapy for prostate cancer versus docetaxel plus 
+
+
+prednisone in asymptomatic, castration-resistant prostate cancer (CRPC). Higano, C. Orlando, 
+
+
+FL : s.n., 2009. 2009 Genitourinary Cancers Symposium. 
+
+
+32. Improved Survival with Ipilimumab in Patients with Metastatic Melanoma. Hodi, F. Stephen. 
+
+
+August 19, 2010, New England Journal of Medicine, Vol. 363, pp. 711-723.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 49 
+
+
+
+
+
+33. A Randomized Phase II Study of Concurrent Docetaxel Plus Vaccine Versus Vaccine Alone 
+
+
+in Metastatic Androgen-Independent Prostate Cancer. Arlen, Philip M. 4, 2006, Clinical Cancer 
+
+
+Research, Vol. 12, pp. 1260-1269. 
+
+
+34. Tumor Regression and Growth Rates Determined in Five Intramural NCI Prostate Cancer 
+
+
+Trials: The Growth Rate Constant as an Indicator of Therapeutic Efficacy. Stein, Wilfred D. 
+
+
+2011, Clinical Cancer Research, Vol. 17, pp. 907-917. 
+
+
+35. Humoral Immune Response against Non-Targeted Tumor Antigens after Treatment with 
+
+
+Sipuleucel-T and Its Association with Improved Clinical Outcome. GuhaThakurta, Debraj. 
+
+
+2015, Clinical Cancer Research. 
+
+
+36. Response definition criteria for ELISPOT assays revisited. Moodie, Z. 10, 2010, Cancer 
+
+
+Immunology, Immunotherapy, Vol. 59, pp. 1489-1501. 
+
+
+37. ELISpot for measuring human immune responses to vaccines. Slota, Meredith. 3, 2011, 
+
+
+Expert Rev Vaccines, Vol. 10, pp. 299-306. 
+
+
+38. T-cell-inducing vaccines – what's the future. Gilbert, Sarah C. 2011, Immunology, Vol. 135, 
+
+
+pp. 19-26. 
+
+
+39. Comparison of the safety and immunogenicity of ACAM1000, ACAM2000 and Dryvax® in 
+
+
+healthy vaccinia-naive adults. Frey, Sharon E. 2009, Vaccine, Vol. 27, pp. 1637-1644. 
+
+
+40. Mutational landscape determines sensitivity to PD-1 blockade in non-small cell lung cancer. 
+
+
+Rizvi, Naiyer A. 6230, April 2015, Science, Vol. 348, pp. 124-128. 
+
+
+41. Cancer immunotherapy: moving beyond current vaccines. Rosenberg, Steven A. 9, 2004, 
+
+
+Vol. 10, pp. 909-915. 
+
+
+42. Vaccines and Melanoma. Ott, Patrick A. 2014, Hematol Oncol Clin N Am. 
+
+
+43. Hallmarks of Cancer: The Next Generation. Hanahan, Douglas and Weinberg, Robert A. 
+
+
+5, March 4, 2011, Cell, Vol. 144, pp. 646-674. 
+
+
+44. Abbas, Abul K., Lichtman, Andrew H. and Pillai, Shiv. Cellular and Molecular 
+
+
+Immunology. 8th. Philadelphia : Elsevier Saunders, 2015. 
+
+
+45. Tolerance and exhaustion: defining mechanisms of T cell dysfunction. Schietinger, Andrea 
+
+
+and Greenberg, Philip D. 2, February 2014, Trends in Immunology, Vol. 35, pp. 51-60. 
+
+
+46. Tumor Progression Can Occur despite the Induction of Very High Levels of Self/Tumor 
+
+
+Antigen-Specific CD8+ T Cells in Patients with Melanoma. Rosenberg, Steven A. 9, November 
+
+
+1, 2005, Journal of Immunology, Vol. 175, pp. 6169-6176. 
+
+
+47. High-throughput epitope discovery reveals frequent recognition of neo-antigens by CD4+ T 
+
+
+cells in human melanoma. Linnemann, Carsten. 2015, Nature Medicine, Vol. 21, pp. 81-85. 
+
+
+48. A vaccine targeting mutant IDH1 induces antitumour immunity. Schumacher, Theresa. 
+
+
+7514, 2014, Nature, Vol. 512, pp. 324-327. 
+
+
+49. Mutant MHC class II epitopes drive therapeutic immune responses to cancer. Kreiter, 
+
+
+Sebastian. 2015, Nature, Vol. 520. 
+
+
+50. Tumor Exome Analysis Reveals Neoantigen-Specific T-Cell Reactivity in an Ipilimumab-
+
+
+Responsive Melanoma. van Rooij, Nienke. 32, 2013, Journal of Clinical Oncology, Vol. 31. 
+
+
+51. Neoantigens in cancer immunotherapy. Schumacher, Ton N. and Schreiber, Robert D. 
+
+
+6230, 2015, Science, Vol. 348, pp. 69-74. 
+
+
+52. Immunodominance of poxviral-specific CTL in a human trial of recombinant-modified 
+
+
+vaccinia Ankara. Smith, CL. 12, 2005, Journal of Immunology, Vol. 175, pp. 8431-8437.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 50 
+
+
+
+
+
+53. A CD8 T-Cell Epitope Variant Enhances Immune Targeting to a Recombinant Picornavirus 
+
+
+Vaccine Antigen. Bell, Michael P. 7, 2014, Viral Immunology, Vol. 27, pp. 361-366. 
+
+
+54. Immunosenescence and novel vaccination strategies for the elderly. Dorrington, Michael G 
+
+
+and Bowdish, Dawn M.E. June 2013, Frontiers in Immunology, Vol. 4, pp. 1-10. 
+
+
+55. Regulatory T Cells and the Immune Aging Process: A Mini-Review . Jagger, Ann, et al., et 
+
+
+al. 2014, Gerontology, Vol. 60, pp. 130–137. 
+
+
+56. T cell exclusion, immune privilege, and the tumor microenvironment. Joyce, Johanna A. 
+
+
+and Fearon, Douglas T. 6230, April 2015, Science, Vol. 348. 
+
+
+57. The Smallpox Threat: A Time to Reconsider Global Policy. Henderson, D.A. and Arita, 
+
+
+Isao. 3, 2014, Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science, Vol. 
+
+
+12. 
+
+
+58. Safety of attenuated smallpox vaccine LC16m8 in immunodeficient mice. Yokote, Hiroyuki. 
+
+
+2014, Clinical Vaccine Immunology. 
+
+
+59. Oncology Meets Immunology: The Cancer-Immunity Cycle. Chen, Daniel S. and Mellman, 
+
+
+Ira. July 25, 2013, Immunity, Vol. 39, pp. 1-10. 
+
+
+60. Docetaxel plus Prednisone or Mitoxatrone plus Prednisone for Advanced Prostate Cancer. 
+
+
+Tannock, Ian F. 2004, New England Journal of Medicine, Vol. 351, pp. 1502-1512. 
+
+
+61. A Phase 3 Trial of GVAX Immunotherapy for Prostate Cancer vs. Docetaxel plus 
+
+
+Prednisone in Asymptomatic, Castration-Resistant Prostate Cancer (CRPC). Higano, C.  
+
+
+62. Abiraterone in Metastatic Prostate Cancer without Previous Chemotherapy. Ryan, Charles 
+
+
+J. 2013, New England Journal of Medicine, Vol. 368, pp. 138-148. 
+
+
+63. Comparison of lyophilized versus liquid modified vaccinia Ankara (MVA) formulations and 
+
+
+subcutaneous versus intradermal routes of administration in healthy vaccinia-naïve subjects. 
+
+
+Frey, Sharon E., et al. 2015, Vaccine (in press). 
+
+
+64. Shifting paradigms in the estimation of survival for castration-resistant prostate cancer: A 
+
+
+tertiary academic center experience. Afshar, Mehran, et al. 2015, Urologic Oncology, Vol. 33. 
+
+
+65. Feasibility of Tri-Weekly Docetaxel-Based Chemotherapy for Elderly Patients (Age 75 and 
+
+
+Older) with Castration-Resistant Prostate Cancer. Takaha, Natsuki, et al. 2011, Urologia 
+
+
+Internationalis, Vol. 87, pp. 263-269. 
+
+
+66. Docetaxel in very elderly men with metastatic castration-resistant prostate cancer. Wong, 
+
+
+Hui-li, et al. 2015, Prostate International. 
+
+
+67. Tolerability and efficacy of docetaxel in older men with metastatic castrate-resistant prostate 
+
+
+cancer (mCRPC) in the TAX 327 trial. Horgan, Anne M., et al. April 2014, Vol. 5, pp. 119-126. 
+
+
+68. Efficacy and Safety of Abiraterone Acetate in Elderly (≥75 Years) Chemotherapy-Naïve 
+
+
+Patients with Metastatic Castration-Resistant Prostate Cancer. Smith, Matthew R., et al. 2015, 
+
+
+Journal of Urology. 
+
+
+69. The role of active vaccination in cancer immunotherapy: lessons from clinical trials. Kissick, 
+
+
+Haydn T, and Sanda, Martin G. 2015, Current Opinion in Immunology, Vol. 35, pp. 15-22. 
+
+
+70. Immunophenotypic Characterization of 225 Prostate Adenocarcinomas with Intermediate or 
+
+
+High Gleason Scores. Goldstein, Neal S. 2002, American Journal of Clinical Pathology, Vol. 
+
+
+117, pp. 471-477.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 51 
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale"), others that contributed research to this report and others that we have 
+
+
+shared our research with (collectively, the “Authors”) have short positions in and may own 
+
+
+options on the stock of the company covered herein (Bavarian Nordic) and stand to realize 
+
+
+gains in the event that the price of the stock decreases. Following publication of the report, the 
+
+
+Authors may transact in the securities of the company covered herein. All content in this report 
+
+
+represent the opinions of Kerrisdale. The Authors have obtained all information herein from 
+
+
+sources they believe to be accurate and reliable. However, such information is presented “as 
+
+
+is”, without warranty of any kind – whether express or implied. The Authors make no 
+
+
+representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
+
+
+information or with regard to the results obtained from its use. All expressions of opinion are 
+
+
+subject to change without notice, and the Authors do not undertake to update or supplement this 
+
+
+report or any information contained herein. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. It is not a recommendation to buy or sell any securities, including the securities of 
+
+
+Bavarian Nordic A/S. Also, this document does not in any way constitute an offer or solicitation 
+
+
+of an offer to buy or sell any security in any jurisdiction in which such an offer would be unlawful 
+
+
+under the securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of BAVA and have positions in financial 
+
+
+derivatives that reference this security and stand to potentially realize gains in the event that the 
+
+
+market valuation of the company’s common equity is higher than prior to the original publication 
+
+
+date. These affiliates, officers, and individuals shall have no obligation to inform any investor 
+
+
+about their historical, current, and future trading activities. In addition, the Authors may benefit
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 52 
+
+
+
+
+
+from any change in the valuation of any other companies, securities, or commodities discussed 
+
+
+in this document. Analysts who prepared this report are compensated based upon (among other 
+
+
+factors) the overall profitability of the Authors’ operations and their affiliates. The compensation 
+
+
+structure for the Authors’ analysts is generally a derivative of their effectiveness in generating 
+
+
+and communicating new investment ideas and the performance of recommended strategies for 
+
+
+the Authors. This could represent a potential conflict of interest in the statements and opinions 
+
+
+in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

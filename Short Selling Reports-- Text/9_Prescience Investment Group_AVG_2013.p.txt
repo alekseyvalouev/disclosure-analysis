@@ -1,0 +1,1182 @@
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 1/25
+
+
+AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine,
+Signals Steep Downside
+Jan. 31, 2013 1:51 PM ET30 comments
+by: Prescience Investment Group
+
+
+AVG Technologies' (NYSE:AVG) Platform business (i.e. the internet search product),
+including its browser toolbar, has been its most successful program to monetize its
+user base and has been AVG's primary growth engine, having grown from 8% of
+sales in 2008 to 45% of sales in 2012. We believe this revenue stream is in jeopardy.
+Google (NASDAQ:GOOG), AVG's primary search partner and currently the source of
+substantially all of AVG's Platform-derived revenue, is on the verge of announcing an
+update to its toolbar policy, something that has not been widely followed or discussed
+by market participants. Furthermore, few, if any, analysts on the street appear to be
+aware of the upcoming changes; if they are, they have decided not to publish or
+update their models accordingly. We believe that current consensus revenue and profit
+projections for AVG are severely inflated.
+Imminent changes to Google's policies could dramatically lower the rate at which users
+install the AVG toolbar and consent to its default search option, at least slowing, but
+more likely severely reversing growth in AVG's Platform business.
+The market appears to have misunderstood the significance of AVG's recent
+partnership with Yahoo (YHOO), with the stock rallying close to 50% on the news. We
+believe this partnership was formed in desperation and anticipation of imminent
+Google toolbar policy updates. While AVG has added Yahoo as a backup monetization
+partner, Yahoo's ability to generate revenue for its partners is far below Google's, and
+if the day comes that it has to flex its reliance on Yahoo search, AVG's revenue will
+likely contract in a major way.
+
+
+We believe the equity is highly overvalued at current levels, with an intrinsic value
+of $8.50-$10/share, 30-40% below current trading levels.
+
+
+Introduction
+
+
+In the past decade, Internet search engines became one of the main revenue sources for
+software developers. The tremendous jump in search-engine advertising created a
+revenue stream for many software companies using the profit-sharing model. This model
+of directing users to search engines allowed many software developers to transition to a
+freeware model and helped them to grow. AVG is one of these developers.
+
+
+
+https://seekingalpha.com/symbol/AVG
+
+https://seekingalpha.com/symbol/GOOG
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 2/25
+
+
+AVG produces a suite of software security products, some of which generate Subscription
+Revenue and others that are distributed for free (i.e. freeware). AVG's hope is that its
+users download the internet search-based products (AVG Secure Search) that it bundles
+with its security products, so as to monetize its user base. In the event that an AVG user
+uses AVG's secure search functionality and clicks on a Google or Yahoo ad or sponsored
+link, the user generates money for that search engine, which is shared with AVG. AVG's
+Platform-derived Revenue is revenue AVG earns from its contracts with search engine
+providers.
+
+
+Historically, AVG worked exclusively with one search engine provider at a time - either
+Google or Yahoo. It had an exclusive revenue share agreement with Yahoo from February
+2008 to November 2010, and in November 2010 switched to begin working exclusively
+with Google. That contract expired in November 2012; in negotiating for a contract
+renewal with Google in Q42012, AVG sought non-exclusivity, was granted it, executed the
+new contract, and went on to engage in a second revenue-sharing agreement with Yahoo.
+
+
+Subscription Revenue accounted for ~55% of 2012 sales. AVG's Platform business (i.e.
+the internet search product), including its browser toolbar, has been its most successful
+program to monetize its user base and has been AVG's growth engine, having grown
+from 8% of sales in 2008 to 45% of sales in 2012.
+
+
+The immense success of the Platform business can be attributed to a very high rate of
+toolbar attachment to platform users; and, that, in hand, can be attributed to what seems
+to be questionable business practices. As we will demonstrate in the sections that follow,
+AVG appears relentlessly focused on growth, but at the expense of the user's experience.
+
+
+AVG Toolbar and Default Search
+
+
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId6.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 3/25
+
+
+Below is a screen shot taken from one step in the process of installing an AVG antivirus
+program. It is a user's consent screen, which if clicked through hastily, enables AVG to
+install its toolbar and Secure Search program on the user's PC.
+
+
+Figure 2: Install Process
+
+
+Note that all the features are "opt-out"; in other words, the boxes are already checked
+such that the default is to install AVG Search. In many instances, AVG Security Toolbar is
+often installed unexpectedly, as mentioned in this recent public rant on ZDnet.com. The
+author states the following:
+
+
+
+http://www.zdnet.com/avg-security-toolbar-is-the-worst-foistware-ive-ever-seen-7000001055/
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId7.jpg
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 4/25
+
+
+I recently installed a software (PowerISO) and without consent it installed AVG
+toolbar and other software on my system which has completely modified my
+computer without my knowledge.
+
+
+My browser (Chrome) now goes to your AVG homepage and Google search has
+also been replaced by AVG. The same is happening in Firefox and Internet Explorer.
+This has caused me hours in productivity and unnecessary frustration. The same is
+also happening after I uninstalled your toolbar (from inside Program and features)
+
+
+I did NOT want this and modifying my computer like this is totally unacceptable. Your
+call yourself a anti-virus company while in fact the behavior is exactly that of a mal-
+ware which hijacks your browser and causes problems.
+
+
+This is the type of software that sneaks onto users' computers because they hit the
+"Next" button without reading. Some would argue that this is their fault, and while I
+understand that point, it's still completely unacceptable to have checkboxes like this
+one checked by default…. You had the audacity to change my settings in the first
+place just because I was tricked into clicking a shady checkbox, why should I have
+to read a FAQ and manually revert them after? Do you have no respect for your
+user's time? I'm sure the programmer who wrote the program to change my settings
+in the first place could definitely write a uninstaller to revert them too. But you would
+not do that. It's a shame that of all the unscrupulous companies who would use such
+ploys, an anti-virus company like AVG is doing it instead! I'm sorry but this is just too
+fishy.
+
+
+Even though the user's consent to install the AVG toolbar or default search is obtained
+during the installation process (in the user clicking the 'next' button), thousands of
+complaints litter the internet regarding AVG requiring the user to opt-out. It is thought of as
+a questionable practice. Many users, either pressed for time or not having an
+understanding of what they are truly installing, unwittingly click the "next" button to
+complete the antivirus installation.
+
+
+Although the uninstall seems easy enough, thousands more complaints litter the internet
+complaining that default search has nested in their browsers and cannot be removed
+(Google search "AVG Default Search" or visit RipOffReport). Furthermore, even when a
+user goes to uninstall, AVG recommends that its default search remain on your system -
+another opt-out! This is a last ditch effort to hold on to the user. But what for?
+
+
+Figure 3: Uninstall Process
+
+
+
+https://www.google.com/webhp?sourceid=chrome-instant%26ion=1%26ie=UTF-8
+
+https://www.ripoffreport.com/Search/avg.aspx
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 5/25
+
+
+Why try to hold onto the user at this stage, when he/she is requesting an uninstall? When
+searching a common key word such as "Kim Kardashian" you'll notice a key difference
+between an AVG Search and a Google Search:
+
+
+Figure 4: AVG Secure Search (isearch.avg.com)Figure 4: AVG Secure Search
+(isearch.avg.com) 
+
+
+AVG search has three sponsored ads at the top and three sponsored ads at the bottom of
+the search results page, a total of six sponsored Ads. Typically, Google displays only two
+or three sponsored ad listings, contained in a yellow, highlighted area.
+
+
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId13.jpg
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId14.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 6/25
+
+
+Figure 5: AVG Secure Search results (note the three sponsored ads at top and three
+at bottom)
+
+
+AVG's sponsored links are not contained in a highlighted box, potentially a clever trick to
+present sponsored ads as organic search results.
+
+
+Based on a study conducted by Search Engine Watch, 53% of Organic Search clicks go to
+the first link. Search engine users overwhelmingly click on organic search results on
+Google and Bing by a margin of 94% to 6%. By presenting them in the manner Google
+displays organic search results, AVG appears to be trying to dupe its users into clicking
+into the sponsored links, for which it would be compensated.
+
+
+Not Just a Checkbox: Opt-outs Have Reliable Effects on User Outcomes
+
+
+AVG and others in the toolbar industry rely on users skipping over the pre-ticked
+checkboxes to achieve their desired install rates. They do it because it works. After all, if
+opt-ins snared users at rates similar to opt-out, why wouldn't they avoid the issue and
+default to opt-in?
+
+
+
+http://searchenginewatch.com/article/2215868/53-of-Organic-Search-Clicks-Go-to-First-Link-Study
+
+http://searchenginewatch.com/article/2200730/Organic-vs.-Paid-Search-Results-Organic-Wins-94-of-Time
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId16.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 7/25
+
+
+At nearly every opportunity, consumers will "opt-in" at rates far less than those at which
+they "opt-out." This well-known behavioral phenomenon appears in many contexts and
+has been the basis of consumer protection laws and FTC enforcement actions - from
+overdraft fees to cell phone billing to online, post-transaction marketing. Opt-ins are the
+legal default in many arenas for the purpose of consumer protection.
+
+
+Further evidence of the importance of opt-in vs. opt-out in decision psychology is
+observed in the following:
+
+
+1. Email: It is well known in email marketing that "opt-out" lists perform far worse - in
+terms of emails opened and quantity of unsubscribe requests received - as compared
+with "opt-in" lists, as opt-out recipients never explicitly requested to receive the
+messages. The gold standard in email is "double opt-in": First the user must request to
+be subscribed to a list, and must later confirm his desire once more.
+
+
+2. Banking: Despite aggressive promotion and, to some, misleading marketing
+campaigns, only 33% of consumers opted in to overdraft protection once the Federal
+Reserve began to require it.
+
+
+3. Organ Donation: Even the most ethically fraught of decisions, such as whether to
+donate your organs, is heavily influenced by the default choice, whether it is opt-out or
+opt-in. Quoting an article published in Science Magazine, Dan Ariely, author of
+Predictably Irrational, discussed what he called one of his favorite graphs in all of
+social science:
+
+
+Figure 6: Rates of Consent to Organ Donation, Opt-Out vs. Opt-In
+
+
+
+http://mashable.com/2011/11/28/mailing-list-performance/
+
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2000954
+
+http://www.nytimes.com/2009/09/27/business/economy/27view.html
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId23.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 8/25
+
+
+AVG's rate of toolbar attachment to platform users is likely to crater if it is mandated to
+make opt-in the default, as opposed to opt-out. If the company were confident that users
+desired its toolbar and default search, it would happily default to opt-in, from opt-out, in
+light of the damage to its brand equity that is resulting from thousands of documented user
+complaints.
+
+
+"Don't be Evil" - Google Toolbar Policy Update Coming on Feb 1
+
+
+The slogan "Don't be evil" is ingrained in Google's DNA and is evident in the continuous
+evolution of its policies and algorithms, a devotion to constantly improving the user
+experience. It frequently updates its search services (e.g. Panda and Penguin updates),
+policies, and AdSense products. Very recently on Google's Q4 earnings call, Nikesh
+Arora, Senior Vice President, stated that during the fourth quarter of 2012 Google made
+changes in policy and enforcement that improved CPCs and search quality:
+
+
+These enforcements had the effect of reducing ad clicks on the sites of certain
+AdSense for search partners. These policy updates are part of our ongoing work to
+improve user experiences on Google and on site in terms of using Google Search.
+Since these policies improve the experience of both users and advertisers, we firmly
+believe they are good for our business in the long-term… we've always had a policy.
+The policy has been that we want to make sure that whatever ads are presented in
+whatever way our traffic is routed to ads, it is done in the best interest of the user
+and we began to notice that they were sites and pages whereas we had too many
+ads in a page, so it became more restrictive and updated our policies for better
+enforcement and that has resulted in higher quality results for end users, it has
+reduced in some cases the monetization that some of our partners are seeing
+as a result of this enforcement and hence you are seeing the impact on the
+numbers. We just announced this policy in the past quarter that we just went
+through, so you are going to see the impact over the next few quarters. We've
+also implemented more stringent policies around downloadable apps, and that's why
+I think both those effects are going to stay with us for the year, but we think in the
+long-term is the right answer for us, it's the right answer for users and it's right
+answer for advertisers, so we think it's a good thing to do.
+
+
+We should note that many companies have built their entire business models on
+monetizing Google search results. Although Google's best intention is to improve the user
+experience, sometimes this comes at the expense of its search or AdSense partners. One
+such partner, Local.com (NASDAQ:LOCM), was significantly negatively impacted by the
+
+
+
+http://en.wikipedia.org/wiki/Don
+
+http://www.brickmarketing.com/blog/panda-penguin-updates.htm
+
+https://seekingalpha.com/article/1126031-google-s-ceo-discusses-q4-2012-results-earnings-call-transcript
+
+https://seekingalpha.com/symbol/LOCM
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 9/25
+
+
+above-mentioned policy changes, as reported in a press release distributed on January
+24, 2013; the company revised its fourth-quarter guidance to revenue of $20.9M, versus
+prior guidance of $22-23m, and adjusted EPS of ($0.04), versus prior guidance of $0.00.
+The reduction in second-half growth was attributed to "unexpected revenue per click
+(RPC) declines from our main ad partner coupled with previously announced fourth-
+quarter ad policy changes." Local.com was impacted significantly, and per Google, may be
+impacted for the next several quarters.
+
+
+Google policy changes can have nasty consequences for companies reliant on Google-
+sourced revenue that get caught in the crosshairs. Given its seemingly questionable
+business practices in getting users of its antivirus products to download the hard-to-get-
+rid-of, revenue-generating AVG toolbar, might AVG be one of those companies?
+Undoubtedly, yes. Might AVG's primary growth engine, its Platform search business, be
+put to the test? Absolutely, yes.
+
+
+Google is on the verge of announcing an update to its toolbar policy, something that has
+not been widely followed or discussed. We first learned of this from a Bloomberg article
+published on December 16, 2012. The article contends that Babylon and Perion
+(NASDAQ:PERI), two Israeli companies whose businesses highly depend on monetization
+of the Google Toolbar, would be negatively impacted by the impending policy update:
+
+
+Calcalist reported today companies such as Babylon and Perion Network may see a
+negative impact from Google's effort to keep companies from stealthily adding
+options to users' toolbars when they download software."
+
+
+We learned of the date of the toolbar policy change, February 1, 2013, in reading another
+Bloomberg piece, in which Perion CEO Josef Mandelbaum stated, "Perion was asked to
+make the changes, which come into force Feb. 1, to guarantee transparency." The Google
+Toolbar policy change was even brought up during Yahoo's Q412 earnings conference call
+by Jason Helfstein at Oppenheimer & Co.:
+
+
+…I want to ask about Google's pending Toolbar change. It would seem that's
+probably a positive benefit to Yahoo! and Bing with respect to how the policies are
+different. So can you comment if there's any expectation for a lift for that?
+
+
+Yahoo CEO Marissa Mayer rightly responded, "On the Toolbar change from Google, we'd
+be remiss to offer comment on another company's product, so I'm not going to comment
+further there." Piecing all the excerpts together, we know that the Google Toolbar policy
+
+
+
+http://ir.local.com/phoenix.zhtml?c=181515%26p=irol-newsArticle%26ID=1777511%26highlight=
+
+http://www.bloomberg.com/news/2012-12-16/babylon-plunges-to-8-month-low-on-google-report-tel-aviv-mover.html
+
+https://seekingalpha.com/symbol/PERI
+
+http://www.businessweek.com/news/2013-01-13/perion-ceo-says-google-won-t-hit-sales-israel-overnight
+
+https://seekingalpha.com/article/1139141-yahoo-management-discusses-q4-2012-results-earnings-call-transcript
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 10/25
+
+
+change is coming and that it will most likely reduce new installs, given that it will force
+"transparency" and is designed to keep companies from "stealthily" adding toolbars; we
+also know it will take effect on February 1, 2013.
+
+
+Google's policy updates are aimed at increasing transparency for users that download
+3rd-party software. Although it is not clear exactly what the rule changes will look like, we
+do know they are intended to enrich the user experience. We also know that amongst the
+biggest sources of user complaints are the dubious methods used by companies such as
+AVG to ensure their default search and toolbar extensions get installed. Looking at the
+Mozilla Firefox support site, many are labeling AVG's default search as malware. As
+previously discussed, because they are all "opt-out" (i.e. users manually have to uncheck
+the install boxes), and most users usually zoom through the installation process, scores of
+them have unexpectedly installed unwanted toolbars and have had their internet browser's
+homepage hijacked. And many users have documented their complaints that these
+companies have made it incredibly challenging to remove the toolbars.
+
+
+I got this AVG nightmare after installing Firefox . I wasted 4 hours of my life trying to
+disable it. I did a regedit, and removed it from my system, and it still hijacked my
+internet explorer. After countless hours, and support from the entire internet
+community, i was able to disable it from hijacking my browser, but could not remove
+it somehow, the avg search engine remove button is disabled.I can remove anything
+but I can't remove the Avg search engine WTF??? any way to disable it, Go to
+Control panel- internet options- manage add ons-select AVG search engine- right
+click, disable it. if you can remove it, do It!!! THERE ARE SOME MANY FREE
+ANTIVIRUS SOFTWARE OUT THERE, DO NOT DOWNLOAD AVG, IT IS A
+FREAKIN' VIRUS!!!!!! i also DELETED firefox, until they can figure out how to
+manage their freakin' malware extensions.
+
+
+Like Babylon and Perion's, AVG's growth ambitions are wholly dependent on its ability to
+monetize the Google Toolbar. But in December 2012, AVG's stock price significantly
+appreciated when it announced a search partnership agreement had been executed with
+Yahoo. On the associated conference call, management stated that it simply looked at this
+deal as "derisking revenue concentration" but that it wouldn't "necessarily add any
+incremental revenue":
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 11/25
+
+
+…the search diversification strategy allows us to diversify at a user level. It's not
+necessarily tied to geos, meaning that I can have 2 or 3 providers within any given
+geo. And so with that, it would mean that we would decide which search to distribute
+to any given customer. Now it's important to note that we won't mix the search
+results so that they get a mixed feed. They will either be, at this point in time, either a
+Yahoo! customer … or a Google customer exclusively.
+
+
+Since November 2010, AVG has used Google exclusively; and, it is widely recognized that
+Google's payout ratio in search is second to none. In fact, AVG itself saw its revenue per
+active platform user double when it switched from Yahoo to Google as its search partner
+back in November 2010, jumping from $0.51 in 2010 to $0.94 in 2011 (AVG 20F,
+12/31/2011, p.61). One expects a transition back to Yahoo to work similarly in reverse.
+
+
+Second-sourcing an inferior Yahoo search product with lower monetization rates goes
+against industry trends. AVG is preparing for Google toolbar policy changes, and we
+believe it is desperate for a solution to what is likely to manifest itself as a steep dive in the
+expected revenue growth rate. We believe a more correct market response to the
+announcement of a deal with Yahoo is hard-selling, not bidding up, AVG stock, right when
+the company's prospects are subject to greatest levels of uncertainty.
+
+
+Google's policy updates are aimed at increasing transparency for users that download
+3rd-party software. Although it is not clear exactly what the rule changes will look like, we
+do know they are intended to enrich the user experience. We also know that amongst the
+biggest sources of user complaints are the dubious methods used by companies such as
+AVG to ensure their default search and toolbar extensions get installed. Looking at the
+Mozilla Firefox support site, many are labeling AVG's default search as malware. As
+previously discussed, because they are all "opt-out" (i.e. users manually have to uncheck
+the install boxes), and most users usually zoom through the installation process, scores of
+them have unexpectedly installed unwanted toolbars and have had their internet browser's
+homepage hijacked. And many users have documented their complaints that these
+companies have made it incredibly challenging to remove the toolbars.
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 12/25
+
+
+I got this AVG nightmare after installing Firefox . I wasted 4 hours of my life trying to
+disable it. I did a regedit, and removed it from my system, and it still hijacked my
+internet explorer. After countless hours, and support from the entire internet
+community, i was able to disable it from hijacking my browser, but could not remove
+it somehow, the avg search engine remove button is disabled.I can remove anything
+but I can't remove the Avg search engine WTF??? any way to disable it, Go to
+Control panel- internet options- manage add ons-select AVG search engine- right
+click, disable it. if you can remove it, do It!!! THERE ARE SOME MANY FREE
+ANTIVIRUS SOFTWARE OUT THERE, DO NOT DOWNLOAD AVG, IT IS A
+FREAKIN' VIRUS!!!!!! i also DELETED firefox, until they can figure out how to
+manage their freakin' malware extensions.
+
+
+What if the GOOG policy were to move to more consent based, opt-in versus "opt-
+out"
+
+
+If the GOOG policy updates mandate the toolbar companies adjust their methods of
+obtaining user consent from opt-out to opt-in, AVG's new user installs would be
+dramatically impacted and search traffic would fall precipitously. Further, if the internet
+community regards these toolbars and "hijacked home pages" as malware, why would
+anyone install them? Imagine, if an internet user is looking to download free AVG anti-
+virus software, why would he or she want to install 3rd-party search tools? All browsers
+including Firefox, Chrome and Internet Explorer have search already built into the address
+bar. Why install a cumbersome 3rd-party search when there is no value-add? An opt-out
+policy is likely to impact new user installs by at least 50%. This would have significant
+impact on AVG (whose fastest growing segment is its search-related Platform business),
+BBYL.IT (almost all its business is search) and PERI (more than 60% of sales from
+search).
+
+
+Perion's CEO has come out and said these policy updates won't impact the company.
+However, AVG and BBYL.IT management have said nothing. Since the new GOOG policy
+changes will be announced Feb 1, 2013, no one knows exactly what will. But we have
+collected a great amount of data, and are confident in our assessment that the impact is
+likely to be a big negative for these companies, especially given what we have assessed
+throughout this report as questionable, user-damaging business practices - exactly what
+Google intends to put a halt to. I revert to the example of LOCM, which although in the
+display business, was hurt by the display ad policy update recently enforced by GOOG. I
+am sure LOCM was given pre-warning by Google of the new policy changes coming down
+the hatch prior to implementation (in fact, it revealed as much in its Q312 earnings
+
+
+
+http://www.bloomberg.com/news/2013-01-13/perion-ceo-says-google-won-t-hit-sales-israel-overnight.html
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 13/25
+
+
+announcement and Q312 10Q, warning of changes by its key traffic and monetization
+partner, Google). This would have given the company ample time to prepare etc, and yet
+still, it missed guidance.
+
+
+Eventually all of these companies will either bust or figure out a way to work with new
+Google policies. But down the road, these policies are bound to get updated again, and
+then these companies will be impacted again.
+
+
+Regardless, we are in the now, and right now we know Google's desire for its partners is
+to be more transparent (whether or not an "opt-out" model is rolled out) with the users of
+its products, and from that perspective, whatever comes is highly likely to impact the
+growth engines of many of these companies in the short-term.
+
+
+AVG's Revenue Growth Expectations Warrant Reduction of 40%-50%
+
+
+Should the upcoming policy changes materialize as we expect, there are two scenarios
+that could play out for AVG:
+
+
+1. Policy changes do take place, and AVG sticks with Google as a revenue partner, but
+fewer downloaders install the toolbar as a result of the switch to opt-in.
+
+
+2. Policy changes do take place, and AVG switches to Yahoo as a partner as a result.
+Yahoo will then allow current practices (opt-out) to continue, and it will monetize each
+search at rates 50% that of Google.
+
+
+In either case, we expect both revenue and EBITDA are likely to fall short of consensus
+estimates. Per Bloomberg, consensus estimates of 2013 sales and EBITDA are
+approximately $403M and $117M, respectively. JPM projects that 2013 Platform Revenue
+(revenue from search monetization) will be $195M. These figures do not take into account
+the likely effects of the Feb 1, 2013, Google policy changes, and few of the analysts on
+the street appear to be aware of the upcoming changes; if they are, have decided not to
+publish or update their models. As noted above, Jason Helfstein at Oppenheimer & Co.
+raised the issue of these changes on the recent Q412 Yahoo earnings call, but,
+unfortunately, he does not cover AVG.
+
+
+We've derived our revenue projections for the two above scenarios using the below critical
+assumptions:
+
+
+(1) Quarterly churn rate for the current install base (installed prior to Feb 1, 2013): It
+is true that, even with the new policy change, AVG can rely on the existing installed base
+of users to maintain some portion of its platform revenue stream. Unfortunately, churn
+rates in the toolbar industry are exceedingly high. Guy Malachi, Chief Geek at Conduit, a
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 14/25
+
+
+large privately-held toolbar vendor, estimated in an answer on Quora that the typical
+lifespan of a toolbar is around two months on the low end to just over a year on the high
+end. A toolbar lifespan of just over a year translates to roughly a 35%/quarter churn rate.
+For conservatism, we'll assume a quarterly churn rate for existing customers of less than
+15%.
+
+
+(2) Quarterly churn rate for new users (installed after Feb 1, 2013): Because the new
+Google Toolbar policies are more transparent and consent-based, users who specifically
+opt-in to install the AVG Toolbar would more likely remain users longer. As a result, one
+would expect lower churn as compared with today's installed base of opt-out users who
+may have installed the toolbar unknowingly. We therefore apply a lower churn rate to new,
+opt-in users. The model assumes a quarterly churn rate of less than 8% for these new
+users going forward.
+
+
+(3) Opt-in rate: The opt-in rate is measured as a percentage of the total new installs: the
+fraction of the total users installing the software that also choose to install the toolbar. To
+be conservative, we estimate an opt-in rate of 65%. In reality, this figure will likely be far
+lower.
+
+
+(4) Google monetization versus Yahoo: It is well known in the industry that Yahoo
+generates significantly less revenue on average for its search traffic than does Google (we
+have heard that Yahoo monetizes at ~50% less than Google, and perhaps worse in
+international markets). There are a number of reasons for this, including a lower average
+cost per click. The model assumes Yahoo monetizes at a rate that is 50% of what Google
+achieves.
+
+
+Using the above assumptions and running sensitivity analysis on the opt-in rate and
+Yahoo's level of monetization (as compared with Google's), we estimate 2013 Platform-
+derived revenue ($MM):
+
+
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId31.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 15/25
+
+
+Scenarios A and B both yield a revenue projection substantially lower than JP Morgan's
+forecast for 2013 platform revenue. The key drivers, unsurprisingly, are the change in opt-
+in rates and the gap between Yahoo's and Google's monetization capability. For scenarios
+A and B, the model predicts a range for 2013 revenue of between $36M and $75M,
+respectively, again using conservative assumptions. At the low end (Scenario B), AVG
+remains with Google as a search partner, but suffers reduced toolbar installs as the opt-in
+rate could be closer to 25% (or less) due to new policy changes. At the high end (Scenario
+A), if AVG decides to maintain its search traffic by switching to Yahoo as a search partner-
+allowing it to maintain default install rates via opt-out vs. opt-in-its monetization rate could
+decline ~50% compared with Google. At a 65% opt-in rate and monetization = 50% of
+today's level, revenue hit $75M.
+
+
+No matter whether the upper or lower bound seems more likely-be it $36M (opt-in =25%
+and monetization = 100%) or $75M (opt-in = 65% and monetization = 50%) - the
+company's platform revenue could significantly miss JPM's 2013 estimates, which we
+assume are representative of the street's consensus. We suspect AVG management may
+have conducted a similar scenario analysis and thus announced the surprising Yahoo
+search partnership in Dec 2012.
+
+
+JPM estimates that 2013 revenues for AVG's subscription and platform base business are
+approximately $212M and $195M respectively for a total topline of $407M. We estimate
+the 2013 revenue range between $248M and $287M. Current consensus 2013 EBITDA
+margins = 29% and EV/EBITDA = 7.39x. Applying the consensus EBITDA margin and
+multiple to our revenue projections results in an estimated EBITDA range of between
+$71M and $83M, and enterprise value between $530M and $614M. Thus, the implied
+market capitalization and target price would between $399M and $569M, or
+$7.34/share and $10.28/share respectively.
+
+
+The current share price is $14.65. Based on the Google policy change on Feb 1, 2013 and
+coming browser changes (see appendix), we believe the shares should be trading
+between $7.34 and $10.28. We encourage the reader to conduct his or her analysis. The
+figures are summarized below.
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 16/25
+
+
+Appendix 1: It's Not Just Opt-Out vs. Opt-in: AVG is Being Evicted from its Market
+Opportunities
+
+
+Beyond Google's forthcoming switch to potentially make users explicitly "opt-in" to
+download associated toolbars, other browser and operating system changes might
+similarly diminish install and retention rates.
+
+
+A recent article in ZDNet lays out the coming changes. First, "[b]eginning with Internet
+Explorer 9, new toolbars and other add-ons are disabled by default. You must specifically
+enable them before they're active." Similarly, "Mozilla Firefox has a similar add-on
+approval feature."
+
+
+More worrisome for toolbar vendors, Chrome 25, released in beta on Jan 14, 2013, makes
+several highly significant changes to how extensions can be installed/activated.
+
+
+1. Previously, it had been possible for 3rd-party applications (like AVG) to silently install
+extensions into Chrome on Windows using the registry. As Google's blog notes, "[T]his
+feature has been widely abused by third parties to silently install extensions into
+Chrome without proper acknowledgment from users." As a result, such silent installs
+will now be disallowed.
+
+
+2. New extensions installed by 3rd-party programs will be disabled by default.
+Users now have to click on chrome menu, where they are presented with the option to
+
+
+
+https://static.seekingalpha.com/uploads/2013/2/7/saupload_valuation.png
+
+http://www.zdnet.com/a-close-look-at-how-oracle-installs-deceptive-software-with-java-updates-7000010038/
+
+http://blog.chromium.org/2012/12/no-more-silent-extension-installs.html
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 17/25
+
+
+enable the extension or remove it from their computer.
+
+
+3. In addition, all extensions previously installed using external deployment options
+will be automatically disabled. Chrome will show a one-time prompt to allow the re-
+enabling of any of the extensions:
+
+
+In 2012, Chrome became the most popular browser worldwide (and continues to gain
+marketshare):
+
+
+
+http://gs.statcounter.com/
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId36.png
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId37.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 18/25
+
+
+Given how complex it is today for users to remove AVG's toolbars (6-9 specific steps) vs.
+a one-click uninstall, it's hard to imagine that these changes won't impact the rates at
+which users install and keep the company's platform toolbars running.
+
+
+Appendix 2: More Complaints
+
+
+
+http://www.avg.com/us-en/secure-search-uninstall
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId39.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 19/25
+
+
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId42.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 20/25
+
+
+Disclosure: I am short AVG. I wrote this article myself, and it expresses my own opinions.
+I am not receiving compensation for it. I have no business relationship with any company
+whose stock is mentioned in this article.
+
+
+ Like this article
+
+
+
+https://seekingalpha.com/symbol/AVG
+
+https://static.seekingalpha.com/uploads/2013/1/330007_13596562979880_rId41.png
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 21/25
+
+
+Comments (30)
+
+
+Left Banker, Contributor
+AVG is one of the sleaziest of the internet's bottom-feeders. Their entire business model is based on deception and
+trickery to (1) get users to install their trashware, and then (2) make it exceptionally difficult to remove. I speak from
+experience, having once clicked through a "next" and found myself saddled with this piece of garbage. I'm a fairly
+sophisticated user and I found it a major PITA to get rid of it.
+
+
+They cannot go broke too soon in my estimation. Sorry for anyone who is invested in the company but, as a computer
+user, I would cheer their demise and applaud Goggle's policy in hastening it.
+
+
+31 Jan 2013, 03:53 PM
+
+
+no one really
+About damn time Google flexed some muscle. How about doing in the Ask tool bar while they're at it?
+
+
+31 Jan 2013, 04:20 PM
+
+
+divtra
+I believe Chrome changes will affect all toolbars including Ask one, that is you will have to manually enable
+them.
+
+
+This is a great change, as I hate removing those toolbars from my friends and relatives computers.
+
+
+01 Feb 2013, 03:42 AM
+
+
+Joshua Heller
+Thank you for the well researched article. I have learned my lesson the hard (or maybe I should just say annoyed)
+clicking thru 'freeware' too fast.
+
+
+I suspect that alot of the users (maybe not AVG since it is security software) are also children who just click thru this
+stuff to get to the game they want to play or program they want to use.
+
+
+31 Jan 2013, 04:51 PM
+
+
+Futurist
+Very interesting article. Well researched. Thanks for showing me a different side of the search engine business.
+
+
+01 Feb 2013, 08:04 AM
+
+
+JeffreyLangBoyd
+http://cnet.co/W7pWY2
+
+
+Those bias hacks at CNET rate it 5 stars. Those users are almost equally as bad rating it at 4 stars. Wonder why that
+didn't make it into your analysis???
+
+
+01 Feb 2013, 10:12 AM
+
+
+
+https://seekingalpha.com/author/left-banker
+
+https://seekingalpha.com/user/2238831
+
+https://seekingalpha.com/user/720962
+
+https://seekingalpha.com/user/697570
+
+https://seekingalpha.com/user/334134
+
+https://seekingalpha.com/user/679075
+
+http://cnet.co/W7pWY2
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 22/25
+
+
+Syarzhuk
+CNET rates the actual antivirus, which is not bad. But most people get the free version, so AVG doesn't
+receive any money for it directly.
+
+
+01 Feb 2013, 01:16 PM
+
+
+AquaResearch, Contributor
+test
+
+
+01 Feb 2013, 10:49 AM
+
+
+AquaResearch, Contributor
+So what was the policy update?
+
+
+01 Feb 2013, 10:50 AM
+
+
+G13Man
+un-installed AVG 
+saved book marks 
+un installed browser 
+re installed browser 
+re installed bookmarks 
+re installed AVG with out the extra crap 
+I can not believe how redundent so many tool bars are  
+and how many so many people have .. 
+It defeats hi def screens and means we should have gone for more lines rather then just width...
+
+
+01 Feb 2013, 05:09 PM
+
+
+pone
+Can the author please post Google's new toolbar policy and give an executive summary of its content?
+
+
+02 Feb 2013, 01:04 AM
+
+
+bullandbearmash
+AVG does not fit into the world of Windows 7 and beyond. MS Security essentials does a much better job.
+
+
+AVG is very difficult to remove and to do so, must be done with a registry editor in Windows desktop.
+
+
+02 Feb 2013, 08:19 AM
+
+
+JeffreyLangBoyd
+AVG is packaged with Windows 8. At end of trial it automatically converts to free version so users have an
+additional level of protection. Those sleazes at MSFT are integrating mal-ware with their operating system!
+
+
+
+https://seekingalpha.com/user/869252
+
+https://seekingalpha.com/author/aquaresearch
+
+https://seekingalpha.com/author/aquaresearch
+
+https://seekingalpha.com/user/3507731
+
+https://seekingalpha.com/user/261261
+
+https://seekingalpha.com/user/3090741
+
+https://seekingalpha.com/user/679075
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 23/25
+
+
+How about a hearty salute to the "evil" company that totally disrupted other providers by giving away their
+software? While we are at it, can someone tell me how many providers are rated spectacular by CNET?
+
+
+02 Feb 2013, 11:47 AM
+
+
+Hanson So, Contributor
+Why is there heavy volume on the calls for March 12th? 1600 contracts today?
+
+
+04 Feb 2013, 03:50 PM
+
+
+Hanson So, Contributor
+SEC filing ammendment: http://1.usa.gov/11MXHyn
+
+
+05 Feb 2013, 01:21 AM
+
+
+Hanson So, Contributor
+As of 12/31/12 - according to Bloomberg - Intel has sold off 3,289,027 shares in AVG which is close to a 5% in their
+holdings - Intel is planning to install their competitor's anti virus technology into their chips.
+
+
+05 Feb 2013, 01:21 AM
+
+
+JeffreyLangBoyd
+Intel acquired McAfee (for over $7 billion) early in 2011. Probably overpaid.  
+AVG's regulatory filings talk about how they are no longer receiving information on competitive plans. Longer
+term one would sure think Intel would sell but it is a very small investment for them.
+
+
+05 Feb 2013, 12:13 PM
+
+
+Hanson So, Contributor
+Stock already down 4% on feb 1st - wish I bought puts. Hat off to the founder.
+
+
+05 Feb 2013, 07:45 AM
+
+
+ncyrilthottam
+Insightful article. Very well researched and written.
+
+
+05 Feb 2013, 08:52 AM
+
+
+jgaeth
+The Ripoff Report needs to be taken with a grain of salt. Complaints are relatively high for "freeware". Look at Norton
+and McAfee, their complaints are 3 - 5 times higher than AVG.
+
+
+05 Feb 2013, 12:58 PM
+
+
+Value Bulldog, Contributor
+
+
+
+https://seekingalpha.com/author/hanson-so
+
+https://seekingalpha.com/author/hanson-so
+
+http://1.usa.gov/11MXHyn
+
+https://seekingalpha.com/author/hanson-so
+
+https://seekingalpha.com/user/679075
+
+https://seekingalpha.com/author/hanson-so
+
+https://seekingalpha.com/user/949401
+
+https://seekingalpha.com/user/1094015
+
+https://seekingalpha.com/author/value-bulldog
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 24/25
+
+
+Interesting article. I don't understand your table though. If hypothetically Yahoo monetized at 100% of Google (no ill
+effect there) and 95% of users opted in (vs. the assumption that 95% don't opt out today, once again no ill effect
+there) shouldn't the platform revenue be $195M, or unchanged from the current estimate? The top left corner of your
+table starts at -31%.
+
+
+Also, it seems like the company will have to choose between lowering monetization with Yahoo, or adopting Google's
+new policies, but not both.
+
+
+05 Feb 2013, 07:26 PM
+
+
+evenutter
+If you pay attention when you install anything free you should know, as Milton Freedman said, "there is no free lunch"
+That should be a cue that you need to opt out of a few things. I felt like I was taking advantage of the company by
+opting out, but I did it anyway. I haven't had a virus in years since I've had their product. I love it, and I've been
+thinking of buying they're optimizing software. God knows Windows needs a good clean up from time to time. As for
+buying the stock, could be a deal to buy, but I'm not eager to buy so close to the QES. I figure it could go either way.
+
+
+10 Feb 2013, 08:37 PM
+
+
+JeffreyLangBoyd
+Well, I don't know what the share price will do tomorrow but the desperate and evil folks at AVG appear to be doing
+o.k.
+
+
+21 Feb 2013, 06:41 PM
+
+
+evenutter
+I made 22% in less that two weeks by getting in on the 11th and out on the 27th. The shortest turnover yet.
+
+
+06 Mar 2013, 02:59 PM
+
+
+JeffreyLangBoyd
+Congratulations. Going against the grain when people are spreading untruths is a good strategy in my opinion
+but it usually takes longer than this time. Thank you Prescience Point!
+
+
+06 Mar 2013, 07:30 PM
+
+
+New Investor25
+This looks like a squeeze coming. Your article took the short interest from 700k to 8+ million.
+
+
+Earnings were outstanding and more growth to come. Its gonna hurt.
+
+
+25 Apr 2013, 02:25 PM
+
+
+JeffreyLangBoyd
+It is good to see Prescience Point take a big hit from yet another bad call. Normally, I don't like to see anyone
+lose money but when it comes to people who accuse others of unethical and illegal behavior while engaging
+
+
+
+https://seekingalpha.com/user/868173
+
+https://seekingalpha.com/user/679075
+
+https://seekingalpha.com/user/868173
+
+https://seekingalpha.com/user/679075
+
+https://seekingalpha.com/user/1029443
+
+https://seekingalpha.com/user/679075
+5/22/2018 AVG: Feb 1st Google Policy Updates Threaten AVG's Growth Engine, Signals Steep Downside - AVG Technologies (NYSE:AVG) | Seeki…
+
+
+https://seekingalpha.com/article/1147451-avg-feb-1st-google-policy-updates-threaten-avgs-growth-engine-signals-steep-downside 25/25
+
+
+in worse behavior I make an exception.
+
+
+We all make mistakes and we all sometimes question certain practices where we have incomplete information
+but when that information comes out, I would like to think I say yes, I was mistaken and I take it back. Not so
+with Prescience Point.
+
+
+26 Apr 2013, 11:04 AM
+
+
+New Investor25
+I see a $30 PT on this one 
+http://bit.ly/Yhgl3f
+
+
+02 May 2013, 11:35 AM
+
+
+Nishkama Capital LLC, Contributor
+As I expected, AVG's subscription revenue offset weakness in search and unlike what the bears expected, search
+results are still growing. Moreover, the company specifically stated that revenue per search went UP in the Q which
+implies that the deal they have with YHOO is comparable to GOOG. the company also increased FCF guidance for
+the year. I believe the bears have now gotten their catalyst. they have seen what a full quarter of the google policy
+change has done to the search business and it is nowhere near as bad as they thought it would be. Moreover, I think
+part of the deceleration in search is temporary as the company had an email campaign in q1 to drive that part of the
+business and will likely do another email campaign in q3. The company also likely promoted subscription products vs
+search to users which is what you want them to be doing. again the deceleration in the Q was NOT revenue per
+search but the number of searches, which is more in the company's control and related to what products it choses to
+promote to its users. In summary, I still think the high short interest is unwarranted. the company is transitioning to a
+more predictable subscription business and this transition will accelerate as mobile products start to get monetized
+next year. the transition should result in a higher multiple. the only negative i see is that the revenue guidance
+appears more back end loaded, but I also think that q3 revenue guidance is very conservative. The implied EBIT
+margin guidance also appears very conservative relative to what they have been doing. The company has a history of
+beating its guidance significantly and with a new CEO they probably even had an even higher incentive to make sure
+expectations are set low. EPS at less 8x EV/FCF for a business that is still growing nicely, it is difficult to understand
+what shorts are thinking. Would be interested to hear from bears on where I am wrong.
+
+
+02 Aug 2013, 08:20 AM
+
+
+ciolan
+For now the bulls, not bears, think you are wrong, as per -8% premarket. I am long and I believe, but others
+are weaker / got in just for the earnings ride.
+
+
+02 Aug 2013, 09:21 AM
+
+
+
+https://seekingalpha.com/user/1029443
+
+http://bit.ly/Yhgl3f
+
+https://seekingalpha.com/author/nishkama-capital-llc
+
+https://seekingalpha.com/user/2568741

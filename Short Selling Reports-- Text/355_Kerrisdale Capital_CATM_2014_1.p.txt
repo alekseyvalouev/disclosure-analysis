@@ -1,0 +1,2706 @@
+May 2014 
+
+
+
+
+
+Cardtronics, Inc. (CATM) 
+ Aggressive Accounting and Secular Decline Drive 40-70% Downside  
+
+
+
+
+
+We are short shares of Cardtronics (CATM), the largest non-bank owner and operator of ATMs, 
+primarily in the US and UK. CATM’s core business is installing ATMs inside brick-and-mortar retailers 
+like 7-Eleven and CVS, where high foot traffic generates withdrawals that in turn generate surcharge 
+fees (paid by consumers) and interchange fees (paid by card-issuing banks). In addition, banks 
+sometimes pay CATM to put their brands on its devices or to offer surcharge-free withdrawals to their 
+customers. 
+ 
+Despite its exclusive focus on the secularly declining ATM market, CATM trades at the rich valuation of 
+a high-growth firm, with trailing and forward P/E ratios of 37x and 26x, respectively, 53% higher than 
+the S&P 500 median. Moreover, we believe that CATM has inflated its earnings via aggressive 
+accounting. It depreciates its ATMs over much longer periods than its competitors do – more than eight 
+years rather than five years – thereby understating expenses. Applying a five-year average life to 
+CATM’s assets would have reduced EPS in 2013 from $0.86 to just $0.19. 
+ 
+While CATM’s press releases paint an optimistic picture of organic growth, its SEC filings show that 
+domestic same-store transaction growth has slowed markedly, from 3.8% in Q1 2012 to just 0.4% in 
+Q1 2014. A recently released Federal Reserve study confirms that total ATM withdrawals in the US are 
+already declining. Essentially, CATM is a concentrated bet on paper currency and retail foot traffic – 
+stunningly at odds with the direction in which the world is moving. CATM management has distracted 
+investors from these relentless secular trends through an aggressive roll-up strategy that has 
+consumed more than 100% of its free cash flow over the past three years. But diminishing returns have 
+pushed RoA from 8.9% in 2010 to 4.3% in 2013, and new ATMs have come on at 41% lower per-unit 
+gross profitability than legacy ATMs.  
+ 
+Making matters worse, CATM also faces an existential threat as its largest merchant relationship, 7-
+Eleven – which we estimate accounts for ~40% of its earnings – comes up for renewal in 2017. A sister 
+company of 7-Eleven’s that operates all of the chain’s ATMs in Japan is rapidly expanding in the US 
+and openly pursuing the contract. If it succeeds, it would be catastrophic for CATM.  
+ 
+In light of its numerous risks, and based on comparable firms’ far lower valuations along with our DCF 
+analysis, we believe that CATM’s fair value is only $9-$19 per share, or 40-70% below the current 
+stock price. 
+ 
+ 
+ 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC 
+("Kerrisdale"), other research contributors, and others with whom we have shared our research 
+(the “Authors”) have short positions in and may own option interests on the stock of the 
+Company covered herein (Cardtronics, Inc.) and stand to realize gains in the event that the 
+price of the stock declines. Following publication, the Authors may transact in the securities of 
+the Company. The Authors have obtained all information herein from sources they believe to 
+be accurate and reliable. However, such information is presented “as is”, without warranty of 
+any kind – whether express or implied. The Authors of this report make no representation, 
+express or implied, as to the accuracy, timeliness, or completeness of any such information or 
+with regard to the results obtained from its use. All expressions of opinion are subject to 
+change without notice, and the Authors do not undertake to update this report or any 
+information contained herein. Please read our full legal disclaimer at the end of the report. 
+
+
+ 
+
+
+
+http://www.frbservices.org/files/communications/pdf/research/2013_payments_study_summary.pdf
+Table Of Contents 
+I. INVESTMENT HIGHLIGHTS ................................................................................................. 3 
+
+
+II. SITUATION OVERVIEW ........................................................................................................ 5 
+
+
+III. SAME-STORE TRANSACTION GROWTH HAS SLOWED SHARPLY AND 
+SURPRISED MANAGEMENT .................................................................................................... 10 
+
+
+IV. THE ATM SECTOR IS IN SECULAR DECLINE ................................................................ 12 
+
+
+US ATM TRANSACTIONS ARE FALLING, AND OPERATORS FEAR WORSE TO COME ....................... 13 
+THE DECLINING RELEVANCE OF CASH AND ATMS IS A GLOBAL PHENOMENON .......................... 15 
+
+
+V. CATM’S ROLL-UP STRATEGY HAS CONSUMED ALL OF ITS CASH FLOW AND 
+GENERATED FALLING RETURNS .......................................................................................... 17 
+
+
+M&A ACCOUNTS FOR ALMOST 100% OF UNIT GROWTH, AND ORGANIC GROWTH HAS 
+TURNED NEGATIVE ....................................................................................................................................... 19 
+NEW AND ACQUIRED ATMS ARE 41% LESS PROFITABLE THAN CATM’S LEGACY ATMS ............ 21 
+
+
+VI. AGGRESSIVE ACCOUNTING DRIVES OVERSTATED EARNINGS ............................. 23 
+
+
+FOCUS ON “ADJUSTED” EPS OBSCURES FLATLINING GAAP EARNINGS .......................................... 23 
+CATM IS DEPRECIATING ITS ASSETS TOO SLOWLY, INFLATING EARNINGS BY 50-70% ................ 24 
+CATM HAS CONSISTENTLY UNDERESTIMATED ITS CAPITAL-EXPENDITURE REQUIREMENTS ... 28 
+ROUTINE LOSSES ON DISPOSAL CONFIRM OVERMARKED ASSETS ...................................................... 29 
+
+
+VII. CATM’S LARGEST CUSTOMER AND A THIRD OF ITS PROFITS FACE A SEVERE 
+COMPETITIVE THREAT ........................................................................................................... 31 
+
+
+7-ELEVEN ATMS ARE DISPROPORTIONATELY PROFITABLE, COMPOUNDING THE LONG-TERM 
+THREAT ............................................................................................................................................................. 33 
+
+
+VIII. STRETCHED VALUATION POINTS TO >50% DOWNSIDE ....................................... 35 
+
+
+COMPARABLE-COMPANY MULTIPLES ARE 30-40% LOWER THAN CATM’S ....................................... 35 
+ADJUSTED FOR NORMALIZED DEPRECIATION, GAAP EARNINGS POWER INDICATES SHARPLY 
+LOWER PRICE ................................................................................................................................................... 36 
+DCF ANALYSIS WITH MODESTLY DECLINING TRANSACTION VOLUMES IMPLIES ~70% 
+DOWNSIDE ....................................................................................................................................................... 37 
+FUTURE M&A IS UNLIKELY TO CREATE MATERIAL VALUE ................................................................. 39 
+
+
+IX. CONCLUSION ........................................................................................................................ 41 
+
+
+X. FULL LEGAL DISCLAIMER .................................................................................................. 42 
+
+
+
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 2
+I. Investment Highlights 
+
+
+• Roll-up strategy yields declining returns on capital while organic growth
+deteriorates. After a three-year hiatus, CATM has re-embarked on an acquisition spree,
+gobbling up 13 companies in the last three years. From 2011 to 2013, CATM spent more
+than 100% of its free cash flow on acquisitions. Meanwhile, “same-store” transaction
+volume at its US ATMs has slowed drastically to 0.4%, net growth in ATMs (excluding
+acquired units) turned negative in 2013, and average revenue per withdrawal fell three
+years in a row. In its 2013 Q1 10-Q, management guided to a “more normal range of 3-
+5%” same-store transaction growth. In reality, growth was -1.0%, 2.7%, 1.7%, 1.7%, and
+0.4% over the past five quarters, never even reaching the low end of the range. CATM
+has deflected investors away from these weak organic numbers by promoting its
+aggressive roll-up strategy.  However, this strategy has generated diminishing returns:
+CATM’s return on invested capital dropped from 14.5% in 2010 to 9.1% in 2013, and its
+return on assets fell from 8.9% to 4.3%, representing declines of 37% and 52%.
+
+
+• Aggressive accounting overstates true earnings power. Despite the simplicity of its
+business, CATM management and sell-side analysts focus on “adjusted” earnings rather
+than GAAP. But the spread between GAAP and “adjusted” has grown wider with every
+passing year: while adjusted EPS grew 93% from 2010 to 2013, GAAP EPS fell 10%,
+from $0.96 to $0.86, even after adding back a UK tax charge. “Adjusted” numbers that
+exclude transaction expenses, stock-based compensation, and amortization costs let
+management off the hook for the real costs of its M&A-driven strategy. Furthermore, we
+believe that CATM’s capital expenditures are dominated by maintenance and
+replacement costs, not growth investments. Yet CATM appears to be exaggerating its
+earnings by aggressively assuming long average lives for its ATMs. If CATM assumed a
+five-year life, in line with its peers’ accounting, then depreciation in 2013 would be $44
+million higher, cutting GAAP EPS from $0.86 to just $0.19. Reinforcing the case against
+CATM’s inadequate depreciation are the facts that (1) it consistently sells used
+machines for less than their carrying values, and (2) it repeatedly underestimates near-
+term capital-expenditure requirements.
+
+
+• ATM usage is declining at an accelerating pace – a secular trend that is only
+getting started. Though CATM management and sell-side analysts pour scorn on the
+straw-man argument that cash will vanish overnight, the utility of ATMs need not go to
+zero for CATM’s value to be dramatically impaired. In the US, Federal Reserve data
+confirm that declining ATM usage is already a reality, not some far-off forecast: cash
+withdrawals grew at a 0.3% CAGR from 2003 to 2009 but fell at a 1.1% CAGR from
+2009 to 2012. Given population growth, this implies that per-capita withdrawals have
+been declining since at least 2003, and the decline is now accelerating. It’s no wonder,
+then, that independent ATM deployers, CATM’s competitors, rate “declining
+transactions” and “ATM saturation” as their top two concerns. Overseas trends are
+similar: ATM withdrawals are declining in the eurozone, countries like Sweden and
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 3 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000021/catm-20130331x10q.htm
+
+http://www.kahunaatm.com/assets/files/2014_IAD_Survey_Report.pdf
+Australia are increasingly becoming cashless, and groups like the Gates Foundation are 
+pushing for the rapid adoption of electronic payments in developing nations. Despite 
+CATM’s valiant attempts to use M&A to paper over these trends, CATM is a 
+concentrated bet on paper currency and retail foot traffic. We view CATM’s aggressive 
+shift toward M&A as a tacit admission that it faces secular decline in its existing 
+operations and hopes to escape the inevitable by paying up for growth.  
+ 
+
+
+• Upcoming contract expiration puts largest customer – and 24% of revenue – at 
+risk. In 2007, CATM acquired 7-Eleven’s US ATM fleet in a transformational deal that 
+made the convenience-store chain CATM’s largest customer. Since then, however, the 
+Japanese ATM operator Seven Bank – almost 50% owned by 7-Eleven’s Japanese 
+parent company, Seven & i Holdings – has entered the US market by outbidding CATM 
+on two acquisitions, with a clear long-term goal of replacing CATM as 7-Eleven’s ATM 
+partner. Seven Bank already serves in this role in Japan. Given CATM’s outsized 
+exposure to this single merchant, constituting 24% of its 2013 pro forma revenue and, by 
+our estimates, 40% of earnings, the loss of 7-Eleven would be devastating. Even if 
+CATM manages to extend the contract in 2017, the genie is out of the bottle: over the 
+long term, Seven & i wants to bring the ATM business back into the fold, and CATM is at 
+its mercy. 
+ 
+
+
+• Premium valuation unwarranted given enormous near-term and long-term risk. 
+Adjusted for capital structure, CATM trades at a massive premium to DirectCash, its 
+leading Canadian competitor, as well as to firms like NCR and Deluxe that are similarly 
+exposed to the secular decline in paper-based payments (but are seeking to diversify 
+instead of doubling down like CATM). DirectCash trades at 8.2x EV/EBITA, while CATM 
+trades at a lofty 13.4x – 64% higher. Averaging together a wider peer group suggests 
+that CATM should be valued at 9.3x EV/EBITA, implying a share price of $19, 41% lower 
+than the current price. From a longer-term perspective, our bottoms-up DCF, which 
+extrapolates CATM’s profit drivers in a world with modestly declining per-ATM 
+transaction volumes, produces a fair value of just $9 per share, 72% below the current 
+stock price. Thus CATM’s stock appears to price in many years of rapid growth while 
+completely neglecting the risks of deteriorating profitability, client attrition, overstated 
+earnings, and long-term obsolescence.  
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 4
+II. Situation Overview 
+ 
+Below is a snapshot of CATM’s valuation metrics and a reconciliation from reported earnings to 
+management’s “adjusted” earnings, as well as our estimates of the impact of normalizing 
+depreciation expense based on a shorter average ATM life. 
+ 
+Capitalization & Multiples Earnings: Reported and “Adjusted” 
+($mm ) ($mm ) 2013 20141
+
+
+Share price $32.08 Revenues 876.5 1,000.0
+Diluted shares (mm): Cost of revenues 595.3 667.5
+
+
+Shares outstanding 44.5 Gross profit 281.2 332.5
+Dilutive effect of options 0.2 Opex excl. D&A 102.8 110.0
+Non-vested RSUs 0.9 EBITDA 178.4 222.5
+
+
+Fully diluted shares 45.6 Depreciation 68.5 75.8
+Diluted market cap $1,461.5 Amortization 27.3 34.0
+Debt at face value: EBIT 82.6 112.8
+
+
+8.25% senior sub notes 191.6 Plus:
+Convertible senior notes 287.5 Amortization 27.3 34.0
+Revolving credit facility 73.2 Stock-based comp 12.3 14.7
+Equipment financing notes 0.9 Acquisition-related exp. 15.4 5.5
+
+
+Gross debt 553.2 Loss on disposal of assets 2.8 -
+Less: cash 60.7 Other adjustments 9.2 -
+
+
+Net debt 492.6 Noncontrolling interests 2.4 -1.2
+Enterprise value $1,954.1 Total adjustments 69.4 53.0
+
+
+“Adjusted” EBIT(3) 152.0 165.8
+Trading multiples $ Multiple Cash interest expense 21.1 16.6
+EV/EBITDA “Adjusted” pre-tax income(3) 130.9 149.2
+
+
+2013 reported 178.4 11.0 Taxes at LT cash tax rate 44.8 47.8
+2014 guidance 222.5 8.8 “Adjusted” net income(3) 86.2 101.4
+
+
+P/E “Adjusted” EPS(3) $1.93 $2.27
+2013 reported $0.52 61.7 Increased depreciation @ 5-yr avg life:
+2013 adj. for tax item2 $0.86 37.4 Pre-tax 43.6 62.8
+2014 guidance (GAAP) $1.22 26.3 After-tax per share impact -$0.66 -$0.95
+
+
+1. Based on 2014 Q1 guidance.
+
+
+2. $15.5mm impact of entity restructuring in the UK.
+
+
+3. The company's reported Adjusted EBIT, Net Income and EPS exclude amortization.  
+ 
+Source: CATM 2013 10-K, 2014 Q1 10-Q, 2014 Q1 earnings release, Kerrisdale analysis 
+ 
+Below is a five-year summary of CATM’s financial results. Although revenue has increased 
+rapidly, driven by the total size of the ATM fleet, the vast majority of this growth has been 
+acquired. Organic growth in units (stemming, for example, from developing relationships with 
+new retailers) has been modest, same-store transaction growth has decelerated sharply, and 
+revenue per withdrawal has fallen for years.  
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 5 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000019/catm-20140331x10q.htm
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+Historical Financial & Operational Overview
+
+
+2009 2010 2011 2012 2013
+Revenues 493 532 625 780 876
+Cost of revenues 344 360 420 536 595
+Gross profit 149 172 204 244 281
+Operating expenses 106 105 127 154 199
+EBIT 43 66 77 91 83
+
+
+EPS $0.13 $0.96 $1.58 $0.96 $0.52
+EPS ex. tax items $0.13 $0.96 $0.75 $0.96 $0.86
+
+
+Profitability
+Gross margin 30.2% 32.3% 32.7% 31.3% 32.1%
+EBIT margin 8.7% 12.5% 12.4% 11.6% 9.4%
+Return on assets ex. tax items 1.1% 8.9% 5.7% 5.9% 4.3%
+
+
+ATM statistics
+Ending machine count1 32,413 33,116 48,105 56,395 66,984
+
+
+% growth 1.1% 2.2% 45.3% 17.2% 18.8%
+% organic growth 1.1% 1.9% 3.5% 4.2% -0.6%
+
+
+Revenue per withdrawal $1.99 $2.04 $1.84 $1.64 $1.59
+% growth -4.6% 2.8% -10.0% -10.8% -3.0%
+
+
+Same-store withdrawals %Δ2 not discl. 2.0% 3.8% 6.3% 1.1%
+
+
+1. ATM operations only (excludes managed services).
+
+
+2. Domestic ATMs only.  
+ 
+Source: CATM 2009 10-K, 2010 10-K, 2011 10-K, 2012 10-K, 2013 10-K, Kerrisdale analysis 
+ 
+Relative to other firms with large exposures to paper-based payment media, CATM is a clear 
+outlier on valuation. On an EV/EBITA basis – even without adjusting for CATM’s understated 
+depreciation expense – it trades at a 64% premium to its closest comparable, a Canada-based 
+multinational ATM operator called DirectCash. Compared to other firms like Brink’s (an armored 
+courier), Deluxe (a check printer), and NCR (an ATM manufacturer), the results are similar, 
+implying 41% downside to CATM’s stock price. 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 6 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012310020695/c97161e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000143774911001268/catm_10k-123110.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785612000003/catm2011form10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000009/catm-20121231x10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+CATM Trades at an Unjustified Premium Relative to Peers
+CATM Peers DCI1 BCO DLX NCR
+
+
+($B )
+Market cap $1,462 $2,415 $274 $1,245 $2,765 $5,374
+Net debt 493 1,107 191 279 513 3,443
+
+
+Enterprise value $1,954 $3,521 $465 $1,524 $3,278 $8,817
+2014 EBITA ($mm)2, 3 146 380 57 137 387 937
+EV / EBITA 13.4x 9.3x 8.2x 11.1x 8.5x 9.4x
+
+
+CATM implied stock  price $18.86 $15.29 $24.68 $16.24 $19.24
+CATM equity downside (41%) (52%) (23%) (49%) (40%)
+
+
+Memo: P/E 2014 26.3x 15.7x NM 22.9x 13.6x 10.6x
+
+
+1. Canadian dollars.
+
+
+2. CATM EBITA based on company guidance net of stock-based compensation.
+
+
+3. Peer EBITA based on consensus EBIT plus company-projected amortization or, w hen unavailable,
+
+
+2013 actual amortization.  
+ 
+Source: Capital IQ, CATM 2014 Q1 earnings release, DCI 2013 financial statements, BCO 2013 10-K, DLX 2013 10-
+K, NCR 2013 10-K, Kerrisdale analysis 
+ 
+Our DCF analysis, which assumes a modest 1% annual decline in same-store transaction 
+volumes, suggests even more downside, with a fair-value stock price of just $9. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 7 
+
+
+ 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+
+http://www.directcash.net/media/uploads/documents/press/DirectCash%20Financial%20Statements%202013%20-%20Final.pdf
+
+http://www.sec.gov/Archives/edgar/data/78890/000007889014000004/form_10-k.htm
+
+http://www.sec.gov/Archives/edgar/data/70866/000007086614000011/ncr201310-k.htm%23s909BA22E28C9975D9896DDF55FDDD163
+
+http://www.sec.gov/Archives/edgar/data/70866/000007086614000011/ncr201310-k.htm%23s909BA22E28C9975D9896DDF55FDDD163
+
+http://www.sec.gov/Archives/edgar/data/27996/000002799614000013/a2013123110-k.htm
+Kerrisdale Illustrative DCF Analysis: Summary
+2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+
+Key drivers
+Revenue per withdrawal $1.59 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61
+Per ATM per month:
+
+
+Withdrawals (#) 708 705 698 691 684 677 670 664 657
+Revenue $1,127 $1,138 $1,127 $1,115 $1,104 $1,093 $1,082 $1,071 $1,061
+Cost of revenues 744 760 752 747 741 736 731 726 721
+
+
+Gross profit $383 $378 $375 $369 $363 $357 $351 $345 $339
+Organic ATM unit growth 3% 3% 3% 3% 3% 3% 3% 3%
+Average ATM life (years) 5.5 5.5 5.5 5.5 5.5 5.5 5.5 5.5
+SG&A as a % of revenue 10% 10% 10% 10% 10% 10% 10% 10% 10%
+
+
+Outputs
+($mm )
+Revenues 876 993 1,017 1,039 1,061 1,085 1,109 1,134 1,159
+Cost of revenues1 595 669 686 703 720 738 757 776 796
+
+
+Gross profit 281 324 331 336 341 347 352 358 364
+Gross margin 32% 33% 33% 32% 32% 32% 32% 32% 31%
+
+
+SG&A1 87 99 101 104 106 108 111 113 116
+EBITDA 194 224 229 232 235 238 242 245 248
+EBITDA margin 22% 23% 23% 22% 22% 22% 22% 22% 21%
+
+
+Adjusted depreciation 94 103 106 109 112 116 119 123
+Operating profit 131 127 127 126 126 126 126 125
+
+
+Income tax 36 41 40 40 40 40 40 40
+NOPAT 94 86 86 86 86 86 85 85
+
+
+Less: growth capex 12 17 17 18 19 19 20 20
+Unlevered free cash flow 82 69 69 68 67 67 66 65
+Note: total capex 77 106 120 123 127 131 135 139 143
+Note: ATMs (end of period) 66,984 70,305 72,415 74,587 76,825 79,129 81,503 83,948 86,467
+
+
+Discount rate 8.0%
+Terminal growth rate -1.0%
+
+
+Terminal value 938
+Implied EV/EBITA 7.5
+
+
+PV of terminal value 522
+PV of interim FCF 385
+Total PV 907
+Less: net debt at FV 502
+FV of equity 405
+Diluted shares 45
+FV of equity per share $9.04
+
+
+Downside -72%
+
+
+1. Cost of revenues and SG&A include stock-based compensation.  
+Source: CATM filings, Kerrisdale analysis 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 8
+While the comparable and DCF analyses above take CATM’s current level of earnings as their 
+starting point, the company’s heavy reliance on 7-Eleven renders that assumption optimistic. 
+The convenience-store chain generates 24% of CATM’s revenue, and based on information on 
+ATM counts from 7-Eleven we estimate that its ATMs generate twice as much revenue per unit 
+as CATM’s overall average. As a result of ATM-level fixed costs, this means that 7-Eleven must 
+generate a disproportionate amount of earnings relative to revenue – approximately 40% of 
+CATM’s total, according to our calculations. Even if CATM doesn’t lose the contract entirely to 
+7-Eleven’s sister firm Seven Bank (or another competitor), the existence of a serious challenger 
+gives 7-Eleven an excellent opportunity to renegotiate the agreement on terms more adverse to 
+CATM. 
+ 
+Another factor distorting CATM’s current reported earnings is its aggressive approach to 
+accounting for depreciation. While other large ATM operators almost uniformly depreciate their 
+assets over a five-year average useful life, CATM appears to assume a much more aggressive 
+eight-to-nine-year schedule, giving an enormous boost to stated earnings. The company’s 
+assumptions weren’t always so aggressive: in 2006 it depreciated property and equipment over 
+“three to seven years,” but by 2013 the time frame had quietly extended to “three to ten years.” 
+With a host of technology and regulatory changes (along with normal wear and tear) forcing 
+ATM upgrades, replacement costs are very large and very real, yet CATM is implying that its 
+current fleet will last for a decade.  
+ 
+When analyzing CATM, we are reminded of the pay-phone industry. In the mid-1990s, pay 
+phones generated $7 billion in annual revenue, and premier operators like Davel 
+Communications were busy buying up smaller competitors. Even after it was clear that mobile 
+phones posed a major threat to the industry, management insisted that pay phones were as 
+important as ever. But all of Davel’s major rivals went out of business, and Davel itself saw its 
+stock price decline from ~$30 in early 1998 to ~$0 by 2000. Even if the ATM sector somehow 
+avoids its fate, CATM is still overvalued; if it doesn’t, investors will look back with wonder at the 
+price they were willing to pay for a firm like this.  
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 9 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012907001823/h45050e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1031927/000091205701509234/0000912057-01-509234.txt
+III. Same-Store Transaction Growth Has Slowed Sharply and 
+Surprised Management 
+ 
+Tucked away in its 10-Qs and 10-Ks – though not discussed in its earnings releases – CATM 
+discloses same-store year-over-year growth in transaction volumes at its domestic ATMs. For 
+CATM, same-store transaction growth is the highest-margin source of incremental volume 
+because, unlike installing new ATMs or buying competitors, it doesn’t require additional capital. 
+ 
+Unfortunately for CATM, same-store transaction growth has fallen sharply in recent quarters, 
+apparently taking management by surprise. Though the data points may not be perfectly 
+commensurable over time since CATM has altered its definition of “same store,” the trend is 
+clear: growth has slowed. 
+ 
+In early 2012, CATM enjoyed very strong year-over-year same-store growth as a result of 
+unusually warm weather along with cash withdrawals funded by tax refunds loaded onto H&R 
+Block prepaid cards. (H&R Block had not used CATM’s surcharge-free Allpoint network in the 
+prior year.) Furthermore, the leap day lengthened the first quarter. All of this set up a difficult 
+comparison for CATM in 1Q13, and, sure enough, same-store growth was negative. Initially, in 
+its 10-Q commentary, management attributed the decline in growth to these temporary factors 
+and stated confidently that “[i]n the second quarter and throughout the remainder of 2013, we 
+expect that [sic] our domestic same-store transaction growth to resume to a more normal 
+range of 3-5%” (emphasis added). 
+
+
+-2%
+
+
+0%
+
+
+2%
+
+
+4%
+
+
+6%
+
+
+8%
+
+
+10%
+
+
+12%
+
+
+M
+ar
+
+
+-1
+1
+
+
+Ju
+n-
+
+
+11
+
+
+S
+ep
+
+
+-1
+1
+
+
+D
+ec
+
+
+-1
+1
+
+
+M
+ar
+
+
+-1
+2
+
+
+Ju
+n-
+
+
+12
+
+
+S
+ep
+
+
+-1
+2
+
+
+D
+ec
+
+
+-1
+2
+
+
+M
+ar
+
+
+-1
+3
+
+
+Ju
+n-
+
+
+13
+
+
+S
+ep
+
+
+-1
+3
+
+
+D
+ec
+
+
+-1
+3
+
+
+M
+ar
+
+
+-1
+4
+
+
+Same-Store Cash Withdrawal Transactions at CATM’s 
+Domestic ATMs: Year-over-Year Growth
+
+
+Actual “Normal range” per mgmt, 1Q13
+ 
+
+
+Note: missing quarterly values (2011 Q4, 2012 Q2, 2012 Q4, 2013 Q4) are interpolated based on stated year-to-date 
+figures. 
+Source: CATM 2010 Q1 – 2014 Q1 10-Qs, 2010-13 10-Ks, Kerrisdale analysis 
+  
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 10 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000021/catm-20130331x10q.htm
+Over the next three quarters, however, growth never reached even the low end of this “more 
+normal range,” and for the year it averaged just 1.1%, by far the lowest full-year result since 
+CATM began disclosing the metric in 2010. In its second-quarter 10-Q commentary, 
+management quietly dropped any reference to a “more normal range,” saying instead (emphasis 
+added): 
+ 
+
+
+We expect that [sic] our domestic same-store transaction growth rate to remain 
+relatively consistent with our second quarter rate throughout the remainder of 2013. 
+
+
+ 
+But this forecast too was wrong. Growth in the second quarter was 2.7%, but in the third quarter 
+and the second half it averaged just 1.7%. By the third quarter, management had again silently 
+moved the goalposts, projecting (accurately this time) that growth would “remain relatively 
+consistent with our third quarter rate during the fourth quarter of 2013” without acknowledging 
+that growth had repeatedly underperformed prior expectations. Finally, in the 2013 10-K, 
+management replaced its original talk of a “normal range of 3-5%” growth – set forth just a few 
+months earlier – with something vaguer and less ambitious: 
+ 
+
+
+We expect to continue to see a moderate rate of increase in the number of cash 
+withdrawal transactions being conducted on our domestic ATMs.   
+
+
+ 
+Not only did management fail to acknowledge these serial disappointments but it also provided 
+no clear explanation for them. In all of the Qs and the 10-K, the company blames, in part, 
+“decreased consumer spending,” but it’s difficult to understand what this could mean. In the 
+aggregate, US consumer spending has increased, not decreased: real personal consumption 
+expenditures grew 2.0% in 2013. This excuse doesn’t hold up to scrutiny. 
+ 
+In the recently reported first quarter of 2014, same-store transaction growth slowed even further 
+to just 0.4%, which CATM blamed on “adverse weather conditions” (notwithstanding what 
+should have been an easy comp) and characterized as “still slightly below where we believe the 
+rate will be for the remainder of 2014.” Gone is any reference to lower consumer spending, but, 
+whatever the rationalization, the trend remains weak. 
+ 
+Overall, CATM’s surprise declines in same-store transaction growth, coupled with its weakening 
+organic unit growth and falling per-ATM gross profits, paint a picture of deteriorating core 
+fundamentals. Management has attempted to mask this deterioration by engaging in an 
+acquisition spree, eating up all of its free cash flow in the process, yet this has in turn led to 
+lower returns on capital. With these sorts of underlying trends, CATM does not deserve its 
+optimistic premium valuation. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 11 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000027/catm-20130630x10q.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000034/catm-20130930x10q.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/0001277856-14-000002-index.htm
+
+https://www.bea.gov/newsreleases/xls/glance.xls
+IV. The ATM Sector Is in Secular Decline 
+ 
+Given investor enthusiasm for the mega-trend of growth in non-cash payment methods – as 
+expressed in the valuation of companies like Square, Visa, and MasterCard – as well as the 
+ever rising importance of online commerce, it’s surprising that analysts have expressed so little 
+skepticism about CATM’s long-term prospects. After all, CATM’s entire raison d’être is supplying 
+paper currency at brick-and-mortar merchant locations. But management has successfully 
+convinced investors that, in the words of a company white paper, “its naysayers 
+notwithstanding, cash remains as relevant today as it was half a century ago.” On its 1Q14 
+earnings call, CATM’s CEO declared that “the prognosis for cash is that it remains a dominant 
+and very healthy player in the payment infrastructure for many years to come.” 
+ 
+This sunny outlook is wholly inconsistent with the facts, which depict an industry in the early 
+stages of a massive secular decline. Defiant, “common sense” claims about the perennial 
+appeal of paper currency remind us of another sector: independent pay-phone operators. Like 
+ATM operators, these companies aimed to install their devices in a wide range of high-traffic 
+retail locations, and some engaged in large-scale M&A to consolidate the market. In 1996, US 
+payphone calls generated $7 billion in annual revenue. By the late ’90s, doubts had cropped up 
+about the long-term viability of the sector in a world of mobile phones, but many experts 
+dismissed such talk as scare-mongering (emphasis added): 
+ 
+
+
+…the increasing use of cellular phone has prompted speculation over whether pay 
+phones will become obsolete. Robert D. Hill, chief executive of Davel [the leading 
+independent operator], pours water over that suggestion, noting that the growth of 
+pagers has actually spurred pay-phone use. (MarketWatch, 10/7/1997) 
+
+
+ 
+“There will always be the need for pay phones,” said Fred Volt, an analyst with the 
+Yankee Group consulting firm. “If you don’t believe me, go to an airport or a mall and 
+see how many people are on them.” (Dow Jones, 11/2/1999)  
+
+
+ 
+Volt was right: pay phones haven’t gone away, and many people still rely on them. But that 
+didn’t stop the number of phones in the country from declining by 74% from its 1999 peak to 
+2009, and it didn’t stop Davel’s stock price from going to zero: 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 12 
+
+
+ 
+
+
+
+http://origin.library.constantcontact.com/download/get/file/1103604999126-325/Cash+Usage+Trends_Nov+2013_Final.pdf
+
+http://seekingalpha.com/article/2192463-cardtronics-catm-ceo-steve-rathgaber-on-q1-2014-results-earnings-call-transcript?part=single
+
+http://seekingalpha.com/article/2192463-cardtronics-catm-ceo-steve-rathgaber-on-q1-2014-results-earnings-call-transcript?part=single
+
+http://www.sec.gov/Archives/edgar/data/1031927/000091205701509234/0000912057-01-509234.txt
+
+http://www.marketwatch.com/story/pay-phone-deregulation-begins-1997-10-07
+
+http://news.google.com/newspapers?nid=1955&dat=19991102&id=FUAlAAAAIBAJ&sjid=VqMFAAAAIBAJ&pg=1251,432959
+
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-301823A1.pdf
+$0
+
+
+$5
+
+
+$10
+
+
+$15
+
+
+$20
+
+
+$25
+
+
+$30
+
+
+$35
+
+
+Mar-96 Mar-97 Mar-98 Mar-99 Mar-00 Mar-01
+
+
+P
+ric
+
+
+e 
+p
+
+
+er
+ S
+
+
+ha
+re
+
+
+ (
+H
+
+
+ig
+h-
+
+
+to
+-L
+
+
+o
+w
+
+
+ R
+an
+
+
+g
+e)
+
+
+Davel Communications, Inc.: Stock Price, 1996-2001
+
+
+ 
+Source: Davel 1998, 1999, 2000, and 2001 10-Ks 
+ 
+Operators in the ATM industry are equally as optimistic, and the secular trends are similarly 
+foreboding. 
+ 
+US ATM Transactions Are Falling, and Operators Fear Worse to Come 
+ 
+According to the recently released 2013 Federal Reserve Payments Study, US ATM withdrawal 
+transactions decreased at a 1.1% CAGR over the three-year period from 2009 to 2012. 
+(Although withdrawal volume in dollars increased at a modest 1.2% pace – far below the 4% 
+growth rate of nominal GDP and nominal personal consumption expenditures – what matters 
+most for CATM is the number of transactions: surcharge and interchange fees are primarily 
+based on counts and not values.) Over the same period, the U.S. population grew 0.8%, 
+implying a 2%-per-year decline in per capita withdrawals. Meanwhile, noncash payments, 
+consisting of primarily credit- and debit-card transactions that are the primary alternatives to 
+cash increased at an almost 8% CAGR. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 13 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1072881/0000950131-99-002325.txt
+
+http://www.sec.gov/Archives/edgar/data/1072881/000101684300000260/0001016843-00-000260.txt
+
+http://www.sec.gov/Archives/edgar/data/1072881/000101684301000265/0001016843-01-000265-0001.txt
+
+http://www.sec.gov/Archives/edgar/data/1072881/000095015202002576/l91616ae10-k.txt
+
+http://www.frbservices.org/files/communications/pdf/research/2013_payments_study_summary.pdf
+US ATM Withdrawals Have Already Begun to Decline
+Values CAGR
+
+
+2003 2009 2012 2003-09 2009-12
+(Numbers in billions )
+Noncash payments ex. checks 44.1 83.6 104.5 11.2% 7.7%
+ATM cash withdrawals 5.9 6.0 5.8 0.3% -1.1%
+Checks paid 37.3 24.5 18.3 -6.8% -9.3%
+
+
+Population (millions) 290.1 306.8 313.9 0.9% 0.8%
+
+
+ATM withdrawals per capita 20.3 19.6 18.5 -0.7% -1.9%  
+ 
+Source: 2013 Federal Reserve Payments Study, Kerrisdale analysis 
+ 
+Notably, while withdrawals were already in decline on a per-capita basis from 2003 to 2009, the 
+drop has accelerated over the past several years to the point where aggregate withdrawal 
+counts have now begun to decline. The ongoing weakness in CATM’s same-store transaction 
+volumes indicates that, even with its high-traffic retailer relationships, it is not immune from this 
+broad industry trend. 
+ 
+To be sure, CATM’s competitors are well-attuned to this ominously accelerating decline. In a 
+2013 study conducted by the Government Accountability Office, the ATM operators surveyed 
+said that, over the past five years, ATM revenues have decreased, while costs have risen. “The 
+most frequently cited reason the operators gave for the decreased revenues was declining 
+transaction volumes,” including both surcharged and non-surcharged transactions (emphasis 
+added).  “Similarly,” the study goes on, “of the ten financial operators that addressed future 
+revenue trends in our survey, seven indicated they anticipate a decline, due primarily to fewer 
+transactions” (emphasis added).  
+ 
+Similar sentiments are expressed in the 2014 U.S. Independent ATM Deployer Survey 
+sponsored by the industry association ATMIA and the consultancy Kahuna ATM Solutions. 
+When 92 deployers were asked the question, “What are your biggest non-
+legislative/compliance/network fears, worries and concerns regarding the health of the ATM 
+industry?” the two most popular responses, and the two most likely to rank as the number-one 
+concern, were “Declining Transactions” and “ATM Saturation.” (“Keeping up with Changing 
+Technology” was number three, further underscoring the ongoing upward pressure on capex.) 
+Concerns about declining volumes actually got worse since the prior year’s survey:  
+  
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 14 
+
+
+ 
+
+
+
+http://www.frbservices.org/files/communications/pdf/research/2013_payments_study_summary.pdf
+
+http://www.gao.gov/assets/660/653723.pdf
+
+http://www.kahunaatm.com/assets/files/2014_IAD_Survey_Report.pdf
+Declining Transactions, Rising Concern
+% of respondents naming as top-three fear:
+
+
+2013 2014
+“Declining Transactions” 36.1% → 44.5%
+“ATM Saturation” 34.2% → 40.2%  
+ 
+Source: 2013 and 2014 U.S. Independent Deployer Surveys, Kerrisdale analysis 
+ 
+These smaller operators are confirming that what the Fed data says is correct: transactions are 
+falling at an accelerating rate. While CATM contends that cash is just as relevant today as it was 
+fifty years ago, consumer behavior is pointing in the opposite direction, which will subject 
+organic growth to severe and continuing pressure. 
+ 
+ 
+The Declining Relevance of Cash and ATMs Is a Global Phenomenon 
+ 
+Some CATM boosters might argue that the company’s international expansion opportunities will 
+overshadow weakness in the domestic market. With the US contributing 87% of “adjusted” EBIT 
+in 1Q14, however, it’s clear that local trends will loom large. Moreover, ATMs are becoming less 
+important all across the world, not just in the US: 
+ 
+
+
+• United Kingdom: According to the UK ATM network LINK, the total number of cash 
+withdrawals grew at a 0.2% CAGR over the past five years and declined by 0.5% in 
+2013. 
+
+
+• Canada: According to the Canadian Bankers Association, the number of cash 
+withdrawals has declined every year since at least 2005, shrinking at a 3% CAGR. 
+
+
+• Eurozone: According to the European Central Bank, while ATM cash withdrawals grew 
+almost 2% per year from 2008 to 2010, they have since declined at 0.4% per year 
+through 2012.  
+
+
+• Sweden: With its efficient and technologically advanced retail payment system, Sweden 
+is among the most “cashless” nations in the world. A 2013 study by the Swedish central 
+bank notes that this shift has been relatively rapid. After rising every year from 1950 to 
+2007, total cash in circulation has fallen every year since. Meanwhile, “[t]he number of 
+ATM withdrawals and the total value of withdrawals rose until the start of the 2000s, but 
+has declined over the past ten years. … The total value of withdrawals fell by almost 30 
+percent between 2004 and 2011.” Nor is this decline slowing: the president of Bankomat 
+AB, Sweden’s leading ATM operator, said  in September 2013 that “the number of 
+withdrawals at ATMs decreases by 6-8 percent every year.”  
+
+
+• Japan: For Seven Bank, daily average transactions per ATM in its Japanese operations 
+were down 2% year-over-year for the nine months ended 12/31/13, the latest in a string 
+of weak numbers. Indeed, one motivation for the company’s US expansion may be the 
+onset of weak same-store trends in its home market. 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 15 
+
+
+ 
+
+
+
+http://www.kahunaatm.com/assets/files/2013%20IAD%20Survey%20Report,%20FINAL_021213.pdf
+
+http://www.kahunaatm.com/assets/files/2014_IAD_Survey_Report.pdf
+
+http://www.link.co.uk/AboutLINK/Statistics/Pages/Statistics.aspx
+
+http://www.cba.ca/contents/files/statistics/stat_abmstat_db219_en.pdf
+
+http://sdw.ecb.europa.eu/reports.do?node=1000004051
+
+http://www.riksbank.se/Documents/Rapporter/Riksbanksstudie/2013/rap_riksbanksstudie_The_Swedish_retailpayment_market_130605_eng.pdf
+
+http://www.thelocal.se/20130913/50228
+
+http://www.sevenbank.co.jp/english/ir/pdf/2014/20140207_E2_PR.pdf
+• Australia: According to the Australian Payments Clearing Association, ATM withdrawals 
+declined by 5% in 2013 alone and were down 7% from their 2008 peak. Meanwhile, 
+credit- and debit-card transactions continue to grow steadily.  
+
+
+• Even in emerging markets where data is scarcer and banking systems less developed, 
+cash is coming under fire from both the public and private sectors. For example, the 
+Better than Cash Alliance – funded by the Gates Foundation, the U.S. Agency for 
+International Development, Citigroup, Visa, and MasterCard, among others – is pushing 
+to accelerate the shift from paper and coins toward digital payments, arguing that it will 
+increase efficiency, transparency, and security. 
+
+
+ 
+Given this weak global backdrop, it’s easy to sympathize with the owners of foreign ATM 
+operators who have sold their businesses to CATM in recent years: they get to cash out before 
+the secular woes facing the sector become too obvious. CATM, on the other hand, has levered 
+up to fund these purchases, effectively doubling down on a shrinking market. The stark contrast 
+between the story told by the data and the one set forth by CATM management casts doubt on 
+investors’ rosy long-term outlook and the company’s premium valuation. 
+ 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 16 
+
+
+ 
+
+
+
+http://www.apca.com.au/payment-statistics/transaction-statistics/cards
+
+http://betterthancash.org/about/our-members/
+V. CATM’s Roll-Up Strategy Has Consumed All of Its Cash 
+Flow and Generated Falling Returns 
+ 
+CATM has long been a serial acquirer: from 2001 to 2008, for example, it completed 16 
+acquisitions and increased the size of its ATM portfolio from 3,339 units to 33,755. For almost 
+three years, though, coinciding with the financial crisis, CATM halted its M&A and focused on 
+optimizing its existing business. But starting in 2011, it resumed its acquisition spree, gobbling 
+up another 13 firms. Since 2011, CATM has spent more than 100% of its free cash flow on 
+acquisitions and took on high-cost convertible and subordinated leverage to fund the remainder. 
+ 
+CATM Has Spent All of Its Free Cash Flow on Acquisitions
+
+
+2009 2010 2011 2012 2013 2011-13
+($mm )
+Cash from operations 75 105 113 136 184 433
+Less: capex1 26 51 67 93 77 237
+
+
+Free cash flow 49 55 46 44 106 196
+Acquisitions - - 168 21 190 378
+
+
+FCF net of acquisitions 49 55 -121 23 -83 -182
+
+
+1. Includes payments for intangible assets (exclusive license agreements, etc.).  
+ 
+In fact, analyzing as far as public data permits, CATM has almost never generated more cash 
+flow from operations than it has spent on capex and acquisitions. 2009 and 2010 (and, to a far 
+lesser extent, 2012) were the exceptions; in every other year, CATM has posted negative FCF 
+net of acquisitions and has thus required an influx of external capital. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 17
+-150
+
+
+-100
+
+
+-50
+
+
+0
+
+
+50
+
+
+100
+
+
+150
+
+
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+
+$ 
+m
+
+
+m
+CATM: Free Cash Flow Net of Acquisitions, 2001-13
+
+
+ 
+ 
+Source: CATM 2006-13 10-Ks, S-1 filed 3/10/04, Kerrisdale analysis 
+ 
+In principle, there is nothing inherently wrong with a business that, for a time, spends more on 
+acquisitions than it generates in free cash flow. Examining CATM’s results, though, it’s clear that 
+the resumption of M&A has led to steadily declining returns on capital, as shown in the table 
+below. CATM’s return on assets, for example, has fallen from 9% in 2010 to just 2% in 2013. 
+While the low level in 2013 was partially driven by the impact of a tax-related restructuring in the 
+company’s UK operations, ROA fell dramatically even when adjusting for this item, from 9% to 
+4%. Looking at EBIT relative to average assets – a measure of return on invested capital that 
+abstracts from the business’s changing mix of debt and equity – confirms the sizable decline in 
+profitability. 
+ 
+CATM’s Profitability Has Declined Sharply as Acquistions Have Ramped Up
+
+
+2010 2011 2012 2013 ’10-13 Δ
+Return on assets 9.0% 12.0% 5.8% 2.3% -75%
+Return on assets, adj. for UK tax items 8.9% 5.7% 5.9% 4.3% -52%
+EBIT to average assets 14.5% 13.2% 12.2% 9.1% -37%
+EBITDA to average gross assets 17.2% 15.9% 15.5% 12.6% -27%
+“Adjusted” EBITDA to average gross assets 18.0% 17.4% 16.9% 15.5% -14%  
+ 
+Source: CATM 2012-13 10-Ks, Kerrisdale analysis 
+ 
+While CATM management and sell-side analysts prefer to focus on “adjusted” earnings 
+measures that exclude expenses like intangible-asset amortization, these metrics treat 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 18 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012904001152/h12528sv1.htm
+acquisitions as if they are free and thus fail to address the crucial question of how much 
+earnings power the company has been able to generate per dollar invested, whether in organic 
+opportunities or in M&A. To get at this issue, we compute gross assets by adding back 
+accumulated depreciation, amortization, and goodwill impairment, thereby estimating the total 
+cumulative cash invested in the business. This permits an apples-to-apples calculation using 
+EBITDA, since depreciation and amortization are excluded consistently from both numerator 
+and denominator. But returns on capital computed in this fashion follow a trend similar to that of 
+the other measures, deteriorating year after year. Even if we give CATM full credit for its 
+“adjusted” EBITDA figure, the fact remains that the post-2010 roll-up strategy has yielded 
+diminishing marginal returns that are becoming ever-less attractive on an absolute basis.  
+ 
+ 
+M&A Accounts for Almost 100% of Unit Growth, and Organic Growth 
+Has Turned Negative 
+ 
+To increase the size of its ATM fleet, CATM has two basic options: 
+ 
+
+
+• Organic growth: sign up new merchant partners or install ATMs at new stores opened up 
+by existing partners 
+
+
+• M&A: buy competing ATM operators 
+ 
+M&A is likely to be a less profitable source of growth: CATM must pay a control premium, incur 
+sizable acquisition-related expenses (over $15mm in 2013), and often compete with other 
+buyers. By contrast, putting an ATM in, say, a new Walgreens does cost money but entails 
+fewer frictions and should generate higher returns. Since 2011, we estimate that 93% of 
+CATM’s rapid increase in ATM units has come from acquisitions, not organic growth: 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 19
+CATM Depends on M&A to Grow Its ATM Fleet
+2010 2011 2012 2013
+
+
+A t Total ATMs (Q4 average) 33,807 44,633 55,988 67,002
+B Less: total excl. units acquired LTM 33,807 33,958 46,518 55,630
+
+
+C = A t −B Implied ATMs acquired LTM - 10,675 9,470 11,372
+
+
+B ATMs excl. LTM acquired 33,807 33,958 46,518 55,630
+A t−1 Less: prior-year total ATMs1 33,165 32,798 44,633 55,988
+
+
+D = B−A t−1 Implied ATMs added organically 642 1,160 1,885 -358
+
+
+ATM added:
+C Via M&A - 10,675 9,470 11,372
+D Organically 642 1,160 1,885 -358
+
+
+C+D Total 642 11,835 11,355 11,014
+% growth in ATMs:
+
+
+C/A t−1 Via M&A 0.0% 32.5% 21.2% 20.3%
+D/A t−1 Organically 1.9% 3.5% 4.2% -0.6%
+
+
+(C+D)/A t−1 Total 1.9% 36.1% 25.4% 19.7%
+
+
+1. Because of a change in CATM’s ATM classif ications, the 2011 prior-year total does not
+equal the total as reported in 2010.
+
+
+Source: CATM 2010 Q4/2011 Q4/2012 Q4/2013 Q4 earnings releases, Kerrisdale analysis 
+
+
+We believe investors now face an especially precarious situation since organic ATM growth 
+turned slightly negative in 2013. While this was partially driven by the removal of unprofitable 
+machines in Mexico, organic growth was weak across the board, slowing year-over-year in 
+every geographic market: 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 20 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000117184311000390/newsrelease.htm
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=645863
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=738941
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=823989
+-600
+
+
+-400
+
+
+-200
+
+
+-
+
+
+200
+
+
+400
+
+
+600
+
+
+800
+
+
+1,000
+
+
+United States United Kingdom Mexico Canada
+
+
+O
+ra
+
+
+ng
+ic
+
+
+ c
+na
+
+
+g
+e 
+
+
+in
+ u
+
+
+ni
+ts
+
+
+Organic Growth in ATMs by Market, 2012 vs. 2013
+
+
+2012 2013
+ 
+
+
+Note: 2013 organic growth in Canada was -2 units. 
+Source: CATM 2013 Q4 earnings release, Kerrisdale analysis 
+ 
+CATM has clearly become more reliant on acquisitions to increase the size of its ATM fleet. Yet 
+this strategy has come at the price of weaker returns on capital. Management may have judged 
+that, given the gloomy outlook for organic growth, M&A is the only way left to expand, but there 
+is no reason for shareholders to reward this desperate strategy with a premium valuation. 
+ 
+ 
+New and Acquired ATMs Are 41% Less Profitable than CATM’s 
+Legacy ATMs 
+ 
+Because CATM has acquired so many different companies over the last three years, parsing its 
+results is challenging. The company does provide operating metrics that exclude the impact of 
+recent acquisitions, but as time goes on, the chain breaks: investors can observe the impact of 
+2013’s acquisitions on 2013’s results but not the impact of, say, 2011’s acquisitions, which 
+blend in with pre-existing assets. To assess the quality of CATM’s growth strategy, however, it 
+is important to know how the profitability of its new ATMs, added primarily via M&A, compares 
+to the profitability of its “legacy” ATMs. 
+ 
+It’s clear that overall unit profitability has declined significantly. In 2011, excluding the impact of 
+acquisitions, gross profit per ATM (excluding depreciation and amortization) was $472 per 
+month; by 2013 Q4, it had fallen 20% to $376 per month. Cash withdrawals per ATM, a key 
+driver of revenue and profits, had also declined by 5%. But if we make the simplifying 
+assumption that the legacy ATMs’ operating metrics remained constant during the period, 
+thereby attributing all of the change to the added ATMs, the comparison is even starker: new 
+and acquired ATMs are on average 41% less profitable than CATM’s legacy ATMs. 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 21 
+
+
+ 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=823989
+CATM’s New ATMs Are Substantially Less Profitable
+Average number of transacting ATMs:
+
+
+A 2014 Q1 average 67,818
+B Less: legacy ATMs (= 2011 total excl. M&A) 33,556
+
+
+C = A−B Implied new & acquired ATMs 34,262
+Gross profit per ATM per month:
+
+
+D 2014 Q1 average (stated) $375
+E Legacy (stated) $472
+
+
+Implied gross profit per year:
+F = A x D x 12 2014 Q1 total ($mm) 305
+G = B x E x 12 Less: legacy total ($mm) 190
+
+
+H = F−G Implied gross profit from new & acquired ($mm) 115
+I = (H/C)/12 Gross profit per ATM per month, new & acquired ATMs $280
+
+
+I/E−1 % change vs. legacy level -41%  
+ 
+Source: CATM 2011 Q4 and 2013 Q4 releases, Kerrisdale analysis 
+ 
+Of course, it’s possible that the new and acquired ATMs are somewhat more profitable than this 
+analysis suggests, but since the aggregate numbers still have to tie out, that would in turn imply 
+that CATM’s legacy ATMs are themselves becoming less profitable. Either way, the implications 
+for CATM’s future earnings are ominous. 
+ 
+This result is not surprising given the realities of CATM’s ATM footprint. CATM already has 
+relationships with many of the largest retailers in the US and UK and generates incremental 
+revenue from branding relationships with many of the largest banks. As a result, it will be difficult 
+to replicate the economics of its existing model since new units will tend to be far less attractive 
+than existing ones: rather than signing an account like Costco or Target, it is stuck with marginal 
+franchises like Tedeschi Food Shops (for which competition from smaller ATM operators will 
+also be fiercer). The figures above indicate that this diminishing-returns effect has already 
+begun to set in, and it should only get worse as the company adds more and more low-
+profitability units. 
+ 
+ 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 22 
+
+
+ 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=645863
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=823989
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=831751
+VI. Aggressive Accounting Drives Overstated Earnings 
+ 
+Focus on “Adjusted” EPS Obscures Flatlining GAAP Earnings 
+ 
+Like many other highly acquisitive firms, CATM prefers to discuss “adjusted” earnings rather 
+than acknowledge recurring costs like intangible-asset amortization and acquisition-related 
+expenses. The discrepancy between GAAP and adjusted earnings has only gotten wider over 
+time: while adjusted earnings smoothly and steadily rise, actual GAAP earnings oscillate around 
+what is at best a flat trend. Though successive tax-related restructurings in the UK are 
+responsible for some of the volatility, the same pattern is clear even when adjusting for these 
+items. 
+ 
+
+
+
+
+
+$0.00
+
+
+$0.50
+
+
+$1.00
+
+
+$1.50
+
+
+$2.00
+
+
+$2.50
+
+
+2010 2011 2012 2013
+
+
+Diluted EPS: GAAP vs. “Adjusted”
+
+
+“Adjusted” GAAP GAAP adj. for tax items
+ 
+
+
+Source: CATM 2012-13 10-Ks, Kerrisdale analysis 
+ 
+As GAAP and adjusted earnings have diverged – 2013 adjusted EPS of $1.93 was more than 
+double tax-adjusted GAAP EPS of $0.86, let alone actual reported GAAP EPS of $0.52 – the 
+sell side has been forced to zero on in the adjusted figures alone. Otherwise, the valuation 
+metrics would become too lofty to justify: on an adjusted basis, CATM trades at a rich but 
+plausible 16.6x trailing (2013) earnings, while on a GAAP basis (again adjusting for the unusual 
+tax charge) it trades at a staggering 37.4x. This is a shockingly expensive price especially when 
+considering that reported earnings, as documented below, are themselves suspect. 
+ 
+We recognize that excluding amortization is a sensible practice if one is trying to approximate 
+current actual cash flow at the company. Free cash flow per share, for instance, more closely 
+approximates adjusted EPS than GAAP EPS. However, given that we believe that ATMs are in 
+secular decline, analysts ought to assign a low multiple to the adjusted EPS or EBIT figures. If 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 23
+using GAAP EPS and EBIT, a higher valuation multiple can be justified since amortization 
+expense helps incorporate the real costs of a growth-through-acquisition business model. What 
+we disagree with is the practice of applying market or above-market valuation multiples to 
+adjusted EPS or EBIT figures that conveniently exclude acquisition-related expenses such as 
+amortization of intangible assets.  
+ 
+Sadly for CATM shareholders, these “adjusted” numbers are not purely for external 
+consumption: according to the latest proxy statement, CATM’s executive bonuses are based 
+primarily on growth in revenue, “adjusted” operating income, and “adjusted” earnings per share. 
+All of these measures can be increased simply by buying enough companies, whether or not the 
+underlying transactions are economically sound, since management faces no penalty for tying 
+up investor capital but gets to claim full credit for all of the added revenues – as if they cost 
+nothing. In effect, this compensation structure incents empire-building rather than true economic 
+profitability.  
+ 
+ 
+CATM Is Depreciating Its Assets Too Slowly, Inflating Earnings by 50-
+70% 
+ 
+In some businesses, depreciation is more of an accounting entry than an economic reality, and 
+analysts rightly disregard it. But in the ATM industry, depreciation is quite real: moving parts 
+wear out, receipt printers jam, computing hardware becomes obsolete, and, on occasion, 
+thieves tie ATMs to their SUVs and try to yank them off their moorings. Furthermore, while ATM 
+technology may seem simple, a host of regulatory and operational rule changes have compelled 
+upgrades in recent years. As an industry journal put it in a recent piece entitled “ATM Deployers 
+Face ‘Perfect Storm’ of Obsolescence”: 
+ 
+
+
+Independent ATM operators will soon have to upgrade, replace or abandon their newly 
+obsolete machines. 
+ 
+The nation's fleet of cash machines is becoming outmoded because of the upcoming 
+shift to EMV-chip cards, the decision to abandon a key Windows operating system, and 
+issues raised by the Americans with Disabilities Act and the Payment Card Industry data 
+security standards. 
+ 
+But that “perfect storm” of adversity’s nothing new for America’s independent ATM 
+deployers. 
+ 
+…“If we go back to the last decade, we had Y2K, and then back to stasis. We had triple 
+DES [security] migration. Stasis. Then it was ADA upgrades. Stasis,” [Rob] Evans 
+[director of industry marketing for an ATM manufacturer] says. “Now we're looking at 
+EMV and the double whammy of being able to support chip cards along with, oh, by the 
+way, if you are on a Windows XP platform, you might want to get off of that because 
+Microsoft is discontinuing the operating system.” 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 24 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000015/catm-20140410xdef14a.htm
+
+http://nypost.com/2014/01/03/thief-fails-at-stealing-atm-chained-to-suv/
+
+http://www.isoandagent.com/news/ATM-Deployers-Face-Perfect-Storm-of-Obsolescence-3016560-1.html
+But despite this long history of ATM obsolescence, CATM has adopted an unusually – and 
+increasingly – aggressive policy for depreciation accounting. While large peers, including 
+companies that CATM ultimately purchased, tend to depreciate their ATM equipment over five 
+years, CATM appears to assume useful lives that are 40-80% longer, leading to overstated 
+earnings. Meanwhile, actual capital expenditures have continually exceeded both GAAP 
+depreciation and the company’s own initial guidance, and asset disposals have consistently 
+generated losses, further calling into question CATM’s optimistic accounting. 
+ 
+Strangely, CATM does not directly disclose the average useful life it assumes for its ATM 
+equipment. Instead, its latest 10-K provides a very wide range for property and equipment as a 
+whole (emphasis added): 
+ 
+
+
+Property and equipment are stated at cost, and depreciation is calculated using the 
+straight-line method over estimated useful lives ranging from three to ten years. 
+
+
+ 
+Going back further in time, CATM previously didn’t extend its depreciation as far out as ten 
+years. Originally, the range was much narrower (emphasis added): 
+ 
+
+
+• 2006: “three to seven years” 
+• 2007: “three to seven years” 
+• 2008: “three to seven years” 
+• 2009: “three to seven years” 
+• 2010: “three to eight years” 
+• 2011: “three to eight years” 
+• 2012: “three to ten years” 
+• 2013: “three to ten years” 
+
+
+ 
+This quiet yet substantial protraction of the depreciation schedule is readily visible in the 
+financial statements themselves. By comparing the gross carrying value of CATM’s property 
+and equipment – i.e. the balance before accumulated depreciation – to the level of annual 
+depreciation expense, we can estimate the effective average life of these assets. This 
+calculation, admittedly somewhat imprecise, indicates that the change in 10-K language 
+documented above reflects a real shift: the assumed average life has increased from ~7 years 
+in 2010 to ~9 years based on 2014 guidance. Since “ATM equipment and related costs” 
+constitute 85% of CATM’s property and equipment, CATM is implicitly claiming that, despite the 
+incoming wave of technological change, its machines will last almost a decade. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 25 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012907001823/h45050e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012908002025/h55283e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000136231009003829/c82331e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012310020695/c97161e10vk.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000143774911001268/catm_10k-123110.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785612000003/catm2011form10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000009/catm-20121231x10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+CATM Is Assuming Longer and Longer Average Lives for Its ATMs
+2009 2010 2011 2012 2013 20141
+
+
+($mm )
+A Depreciation expense 37 40 46 59 66 74
+
+
+Gross property & equipment:
+End-of-period carrying value 253 291 362 460 632 737
+
+
+B Average carrying value (est.) 272 327 411 546 685
+B / A Implied average life (years) 6.8 7.1 7.0 8.3 9.2
+
+
+1. Based on CATM’s 2014 guidance. Depreciation expense is assumed to be ~96% of total
+depreciation and accretion, consistent w ith 2013 results. 2014 EOP gross P&E is set equal to
+the 2013 EOP value plus capex at the midpoint of guidance.  
+
+
+ 
+Source: CATM 2011-13 10-Ks, 2014 Q1 earnings release, Kerrisdale analysis 
+ 
+The lack of a comparable publicly traded ATM operator in the US makes it difficult for investors 
+to realize just how aggressive CATM’s accounting is. Below we compile the available 
+information on how a range of domestic and international competitors have accounted for 
+depreciation. Large players – including those that CATM has acquired – uniformly assume a 
+useful life of only five years for their ATMs, far shorter than what CATM assumes. While a few 
+smaller companies also had aggressive policies, the ATM-weighted average assumed useful life 
+is still just over five years: 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 26 
+
+
+ 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+CATM's Depreciation Policy Is a Clear Outlier
+
+
+Company Asset
+
+
+Assumed 
+useful life 
+
+
+(yrs)
+No. of 
+ATMs Period Countries1
+
+
+Cardtronics all P&E 3 to 10 66,984 12/31/13 US, GB, CA, DE, MX
+
+
+DirectCash Payments ATM equip. 5 20,333 12/31/13 CA, AU, NZ, GB, MX
+Seven Bank ATMs 5 18,123 3/31/13 JP, US
+E*TRADE Access Inc. ATM equip. 5 13,000 9/30/05 US
+Access to Money ATMs 3 to 5 10,382 12/31/10 US
+Cardpoint ATMs 5 to 7 7,900 6/30/13 GB, DE
+Customers ATMs 8 5,708 6/30/11 AU, NZ
+Global Axcess ATMs 10 4,900 12/31/12 US
+EDC ATM equip. 5 3,600 6/30/11 US
+Bank Machine ATMs & related 5 to 7 1,000 3/31/05 GB
+Global Cash Access ATM equip. 5 n/d 12/31/13 US
+
+
+Total/weighted average 5.5 84,946
+
+
+1. Using ISO country codes (GB = United Kingdom, CA = Canada, DE = Germany, MX = Mexico,
+AU = Australia, NZ = New  Zealand).  
+
+
+ 
+Sources: CATM 2013 10-K, DirectCash 2013 financial statements, Seven Bank 2013 annual report, CATM S-4 filed 
+1/20/06 (E*TRADE and Bank Machine), Access to Money 2010 10-K, CATM 8-K filed 10/15/13 (Cardpoint), 
+Customers 2011 annual report, Global Axcess 2012 10-K, CATM 8-K filed 10/3/11 (EDC) 
+ 
+What would CATM’s earnings look like if it adopted a more realistic depreciation policy, in line 
+with its peers? Even though depreciation is not one of CATM’s largest expenses, the impact 
+would still be enormous. We estimate that a five-year useful life for property and equipment, 
+consistent with the expectations of other ATM operators, would have reduced 2013 “adjusted” 
+EPS by 34%, while 2014 “adjusted” EPS, based on CATM’s guidance, would drop by 42%. 
+Looking at GAAP EPS instead of CATM’s “adjusted” concept, earnings would fall even more 
+dramatically (even when adding back a tax-related charge that skewed GAAP EPS last year): 
+75% in 2013 and 80% in 2014. Equivalently, EPS is overstated by ~50-70%. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 27 
+
+
+ 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+
+http://www.directcash.net/media/uploads/documents/press/DirectCash%20Financial%20Statements%202013%20-%20Final.pdf
+
+http://www.sevenbank.co.jp/english/ir/pdf/2013/20130920_E1_AR.pdf
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012906000472/h30820sv4.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012906000472/h30820sv4.htm%23317
+
+http://www.sec.gov/Archives/edgar/data/749254/000114420411017646/v215172_10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000032/0001277856-13-000032-index.htm
+
+http://www.dcpayments.com.au/assets/php/process.download.php?d=551
+
+http://www.sec.gov/Archives/edgar/data/852570/000114420413019295/v337094_10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785611000018/0001277856-11-000018-index.htm
+Illustrative Impact of Normalized Depreciation
+2013 2014
+
+
+($mm )
+Average gross P&E 546 685
+Assumed useful life (years) 5 5
+
+
+Normalized depreciation expense 109 137
+CATM deprecation expense 66 74
+
+
+Incremental depreciation required 44 63
+
+
+Effective tax rate 32% 32%
+Diluted shares 44.6 44.8
+EPS impact -$0.66 -$0.95
+
+
+%Δ to “adjusted” EPS -34% -42%
+%Δ to GAAP EPS 1 -78% -78%
+
+
+1. 2013 GAAP EPS excludes negative impact of tax charge.  
+ 
+Source: CATM 2013 10-K, 2013 Q4 earnings release, Kerrisdale analysis 
+ 
+CATM’s anomalous under-depreciation is not just a matter of accounting. Since ATM 
+depreciation is very economically meaningful, understating it makes the long-term profitability of 
+the business look much better than it really is. The rosy asset-life expectations embedded in 
+CATM’s results are belied by the pessimism of the many large-scale ATM operators surveyed in 
+a recent study by the US Government Accountability Office (emphasis added): 
+ 
+
+
+…our survey results showed that 18 out of 25 financial institution operators anticipate 
+ATM costs will increase in the future. The main drivers cited for these future 
+increases are further investments in new and enhanced ATM terminals or upgrades 
+that will be needed in order to comply with new or enhanced industry wide data security 
+standards. The community bankers and one independent firm we interviewed expressed 
+similar views that ATM costs will continue to rise. 
+
+
+ 
+With these increased equipment costs lying ahead, CATM’s accounting stands out as especially 
+aggressive. Because its assumptions are such outliers, just moving toward peer levels would 
+push reported earnings down dramatically. 
+
+
+
+
+
+CATM Has Consistently Underestimated Its Capital-Expenditure 
+Requirements 
+ 
+Of course, it’s always possible that CATM’s ATM fleet really will defy the odds and outlast its 
+competitors’; management should naturally have a more accurate view of asset lives than 
+outside observers. However, CATM’s track record for forecasting its capital expenditures is 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 28 
+
+
+ 
+
+
+
+http://www.gao.gov/assets/660/653723.pdf
+weak, and the error is always in one direction, as shown in the graph below: capex turns out to 
+be higher than originally estimated. But reported depreciation never rises enough to catch up.  
+
+
+0
+
+
+20
+
+
+40
+
+
+60
+
+
+80
+
+
+100
+
+
+120
+
+
+2010 2011 2012 2013 2014
+
+
+$ 
+m
+
+
+m
+
+
+CATM Capital Expenditures: Actual and Previously Forecasted
+
+
+Capex, actual
+
+
+Capex, guidance at start of  
+year
+
+
+Capex, updated guidance
+
+
+Depreciation, reported
+
+
+Note: 2014 depreciation based on CATM guidance. Guidance based on mid-point of stated range. 
+Source: CATM 2012-13 10-Ks, 2009 Q4/2010 Q4/2011 Q4/2012 Q4/2013 Q4/2014 Q1 earnings releases, Kerrisdale 
+analysis 
+
+
+In the first quarter of this year, the pattern has already appeared again: management’s original 
+capex guidance was $95.0 to $100.0 million but is now $100.0 to $110.0 million, attributed in 
+part to “timing of contract renewals that may involve a hardware refresh.” In other words, 
+merchant partners want CATM to replace outdated machines with more advanced models on 
+CATM’s dime, implying more spending than originally projected. 
+
+
+This history of underestimated capex implies that CATM management has failed to anticipate 
+the cash costs of maintaining its ATM fleet, casting doubt on the validity of its depreciation 
+assumptions. 
+
+
+Routine Losses on Disposal Confirm Overmarked Assets 
+
+
+Another signal of CATM’s under-depreciation is its history of asset disposals. From time to time, 
+when CATM prunes its portfolio of ATMs or ends its relationship with a merchant, it gets rid of 
+the used devices. If it were, on average, depreciating the devices accurately, then gains and 
+losses should roughly offset. But in reality, CATM has posted losses on disposal every year, 
+totaling $14mm from 2009 to 2013. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 29 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=444307
+
+http://www.sec.gov/Archives/edgar/data/1277856/000117184311000390/newsrelease.htm
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=645863
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=738941
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=823989
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+
+http://seekingalpha.com/article/2192463-cardtronics-catm-ceo-steve-rathgaber-on-q1-2014-results-earnings-call-transcript?part=single
+CATM Consistently Loses Money on Asset Disposals
+
+
+2009 2010 2011 2012 2013 Total
+($mm )
+Loss on disposal of assets 6.0 2.6 1.0 1.8 2.8 14.2  
+ 
+Source: CATM 2011-13 10-Ks 
+ 
+These losses again suggest that CATM is overestimating the value of its physical assets by 
+adopting an aggressive depreciation policy that substantially inflates its reported earnings.  
+ 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 30
+VII. CATM’s Largest Customer and a Third of Its Profits Face 
+a Severe Competitive Threat 
+ 
+In addition to the chronic difficulties that CATM will endure from its weakening core business 
+model, dependence on M&A, and secular decline, it also faces a significant risk over the next 
+few years: the potential loss of its largest customer (7-Eleven) to an affiliated firm called Seven 
+Bank. Though the 7-Eleven brand was created in the US, the company is now owned by a 
+publicly traded Japanese firm called Seven & i Holdings Co., which in turn owns 45.8% of 
+Seven Bank, itself a publicly traded Japanese firm. Though technically a deposit-taking bank, 
+Seven is primarily an ATM operator, with over 90% of its revenue coming from ATM-related fees 
+and, as of 12/31/13, 93% of its 19,065 Japanese ATMs located in Seven & i group stores. 
+ 
+Established in 2001, Seven Bank was originally confined to Japan, but in September 2012 it 
+entered the US market by buying a small operator called FCTI, characterizing the acquisition as 
+“an important first step for Seven Bank in effecting a full-scale entry into ATM service markets 
+overseas.” Then, in August 2013, FCTI purchased out of bankruptcy the ATM business of 
+Global Axcess. (According to its court filings, Global Axcess’s bankruptcy came about precisely 
+because “the contracts with [its] two largest merchants were set to expire.” The company was 
+“able to renew the contracts but on term much less favorable” than before. Then, it lost its third 
+largest merchant to a competitor.) Today, via FCTI, Seven Bank owns over 7,000 ATMs in the 
+US.  
+ 
+Given the close relationship between 7-Eleven’s Japanese parent and Seven Bank – even the 
+companies’ logos are almost identical – the obvious question is whether Seven Bank will seek 
+to take over 7-Eleven’s US ATMs from CATM, which has operated them since 2007. Since the 
+contract expires on June 1, 2017 – only three years from now – and accounted for 24% of pro 
+forma (M&A-adjusted) 2013 revenue (source: CATM 2013 10-K) this is, for CATM, a matter of 
+increasingly pressing importance. 
+ 
+Seven Bank’s management has not been particularly shy about its long-term intentions. In 
+November 2012, it said the following in a Q&A document attached to an earnings release 
+(emphasis added): 
+ 
+
+
+Q1 What possibility is there of Seven Bank installing ATMs in 7-Eleven stores in the 
+United States? 
+ 
+A1 A leading ATM operator in the United States has been installing ATMs in U.S. 7-
+Eleven stores. Seven Bank will work hard to ensure that 7-Eleven and its 
+customers choose FCTI ATMs when this leading company negotiates a contract 
+extension with 7-Eleven. At the moment, that is all I can say about this matter. As of 
+today, no decision has been made. 
+
+
+
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 31 
+
+
+ 
+
+
+
+http://www.7andi.com/dbps_data/_template_/_user_/_SITE_/localhost/_res/en/ir/library/ar/pdf/2013_all.pdf
+
+http://www.sevenbank.co.jp/english/ir/pdf/2014/20140207_E2_PR.pdf
+
+http://www.sevenbank.co.jp/english/ir/pdf/2012/20120906_E1.pdf
+
+http://www.sevenbank.co.jp/english/ir/pdf/2013/2013080702.pdf
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+
+http://www.sevenbank.co.jp/english/ir/pdf/2012/20121115_E1_QA.pdf
+In November 2013, it reiterated its interest in the US 7-Eleven opportunity: 
+
+
+ Q3 I believe that ATMs have already been installed at 7-Eleven stores in North 
+America, so how are you planning to differentiate Seven Bank ATM services from 
+your rivals’? Also, what expectations do consumers and owners of 7-Eleven stores in 
+America have of Seven Bank ATMs? 
+
+
+A3 What 7-Eleven stores in the United States want to see is a contribution in terms 
+of, for example, services which increase the number of customers coming into the 
+stores, and they also want a better revenue environment. We believe that the key to 
+differentiation lies in responding rigorously to such demands. We think it is also 
+necessary to prioritize two-way communication, so as to fully understand what the 
+other side wants. … 
+
+
+Seven Bank’s latest annual report also emphasizes the importance of US expansion to its 
+strategic ambitions “over the next 10 years” (emphasis added): 
+
+
+First, we will study the operating methods of FCTI as our second business model, 
+and then we intend to roll out a wide-ranging scheme for further expansion. 
+
+
+Threatening as this sort of rhetoric may seem, sell-side analysts have downplayed the 
+importance of the Seven Bank threat, arguing that, with its much larger existing US ATM 
+network, CATM is in a strong position to outbid Seven in 2017 or even enter into an early 
+renewal. One analyst has argued that CATM has already put pressure on Seven’s 
+economics: 
+
+
+CATM will not make Seven Bank’s US expansion painless. We note that Seven 
+Bank has paid a mid-teens EBITDA multiple for both recent US ATM fleet 
+acquisitions (FCTI in September, 2012 and Global Axcess in September, 2013), 
+which is effectively double market rates. Our independent checks indicate that 
+CATM may have had a hand in bidding up the prices of these assets. 
+
+
+While this approach may enable CATM to beat back smaller players, we would argue that, 
+for an acquisition-driven company, causing transaction multiples to double is a dangerous 
+long-term strategy. To be sure, CATM may well win the 7-Eleven contract and extend the 
+relationship for another few years. Then again, given Seven Bank’s avowed long-term 
+intentions and intimate relationship with 7-Eleven’s parent, it’s difficult to see how the state 
+of affairs won’t impact Cardtronic’s long-term profitability. If nothing else, Seven Bank’s 
+presence in the US gives 7-Eleven a huge club to wield in future negotiations to tamp down 
+CATM’s margins. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 32 
+
+
+
+http://www.sevenbank.co.jp/english/ir/pdf/2013/20131125_E1.pdf
+
+http://www.sevenbank.co.jp/english/ir/pdf/2013/20130920_E1_AR.pdf
+Though de-installing CATM’s machines and replacing them with another provider’s would 
+be disruptive to 7-Eleven, there is certainly precedent: after a long-running legal dispute 
+with CATM over proper revenue-sharing, Duane Reade (CATM’s fifth-largest customer in in 
+2008) terminated its contract with CATM, extracted a $1 million settlement from the 
+company, and spent five months replacing CATM’s equipment with Chase’s. Moreover, 7-
+Eleven is not CATM’s only concentration risk: CATM’s other top-five merchants account for 
+another 17% of its pro forma revenue and also, on average, expire in three years. This 
+recurring risk of customer loss and less lucrative contract renewals only exacerbates the 
+fundamental problems with CATM’s model. 
+ 
+ 
+7-Eleven ATMs Are Disproportionately Profitable, Compounding the 
+Long-Term Threat 
+ 
+CATM discloses that 7-Eleven accounts for 24% of its pro forma revenues but does not 
+estimate its contribution to profits. Based on the available data, we estimate that the 7-Eleven 
+fleet is likely to be much more profitable than CATM’s typical ATMs, putting CATM at risk of 
+losing not just a quarter of its revenue but a third or more of its earnings. According to 7-
+Eleven’s store locator, there are 8,176 domestic stores with ATMs. This represents just 12% of 
+CATM’s 1Q14 ATM count (excluding managed services) yet generates approximately twice as 
+much of CATM’s total revenue, implying that 7-Eleven ATMs produce about two times as much 
+revenue as CATM’s average.  
+ 
+Estimated Revenue per 7-Eleven ATM
+Pro forma revenue, 2013 ($mm) 939.0
+
+
+Of which: 7-Eleven (%) 24.0%
+Implied: 7-Eleven ($mm) 225.4
+
+
+7-Eleven US ATMs (#) 8,176
+Implied revenue per ATM per month $2,297
+Overall avg rev. per ATM per mo, 2013 $1,127
+
+
+7-Eleven revenue as mult. of avg 2.0x  
+ 
+Source: CATM 2013 10-K, 7-Eleven store locator, Kerrisdale analysis 
+ 
+While we lack the information to assess precisely the profit margin achieved on this far higher 
+revenue per ATM, we use management’s own comments to estimate it. CATM has indicated 
+that “the majority of merchant commissions, vault cash rental expense, and other costs of cash,” 
+constituting 69% of the total cost of ATM operating revenues, vary with transaction volume. 
+These line items constitute 46% of ATM operating revenues (excluding managed services). If 
+we apply this ratio to the revenues generated from 7-Eleven and assume that the remainder of 
+the costs are fixed, we estimate that 7-Eleven constitutes 41% of CATM’s adjusted 
+EBITDA. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 33 
+
+
+ 
+
+
+
+https://www.nycourts.gov/courts/ad1/calendar/appsmots/2012/August/2012_08_07_dec.pdf
+
+http://www.sec.gov/Archives/edgar/data/1277856/000095012310020695/c97161e10vk.htm
+
+https://www.7-eleven.com/Home/Locator
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000002/catm-20131231x10k.htm
+Illustrative Analysis of 7-Eleven ATM Profitability
+Per ATM per month
+
+
+Overall1 7-Eleven
+Revenues $1,127 $2,297
+Cost of revenues:
+
+
+Variable 516 1,052
+Fixed 228 228
+
+
+Total 744 1,280
+Gross profit $383 $1,017
+
+
+Multiple of overall average 2.7x
+
+
+7-Eleven ATMs 8,176
+7-Eleven gross profit per year ($mm) 99.8
+
+
+7-Eleven % of total gross profit 30%
+7-Eleven % of total adj. EBITDA 41%
+
+
+Assumptions
+Variable % of total costs 69% 69%
+Variable cost as % of revenue 46% 46%
+
+
+1. 2013 average.
+2. Based on CATM 1Q14 updated guidance for FY2014.  
+ 
+Source: CATM 2013 10-K, 2014 Q1 earnings release, Kerrisdale analysis 
+ 
+With such an enormous fraction of CATM’s earnings power tied to a single relationship that is so 
+demonstrably at risk, it’s foolhardy to pay a premium multiple on profits that could decline by 
+almost half in just a few years. This is even more true in light of the fact that CATM’s reported 
+earnings appear to be artificially inflated by aggressive accounting. 
+ 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 34 
+
+
+ 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+VIII. Stretched Valuation Points to >50% Downside
+
+
+Comparable-Company Multiples Are 30-40% Lower than CATM’s 
+
+
+One factor that has enabled CATM to sustain a high valuation despite the host of concerns 
+identified above is the absence of close comparables in the US. However, there is a similar 
+publicly traded firm listed in Canada: DirectCash (TSX:DCI), which operates more than 20,000 
+ATMs in Canada, Australia, New Zealand, Mexico, and the UK. Moreover, a number of US-
+listed firms, while not in precisely the same industry, face similar business risks: outsized 
+exposure to paper-based payment media, which they often aim to overcome via deal-making. 
+This group includes Brink’s Company (BCO), an armored-car operator and ATM-maintenance 
+provider; NCR (NCR), the leading ATM manufacturer; and Deluxe Corporation (DLX), the top 
+supplier of paper checks. 
+
+
+To normalize for differing capital structures and business models, we focus on EV relative to 
+EBITA – i.e. EBIT plus intangible-asset amortization or, equivalently, EBITDA less depreciation. 
+As intuition would suggest, these stocks trade at relatively modest EV/EBITA multiples, 
+reflecting market concerns about their long-term prospects, notwithstanding current rates of 
+growth. CATM is a clear outlier, with an EV/EBITA multiple 44% higher than its peer average 
+and 64% higher than that of its closest comparable, DirectCash. Applying these multiples to 
+CATM would imply ~40% downside relative to the current stock price. Note that these figures 
+don’t penalize CATM for its aggressively protracted depreciation schedule. Nor do they account 
+for the risk that the 7-Eleven relationship will be lost. 
+
+
+CATM Trades at an Unjustified Premium Relative to Peers
+CATM Peers DCI1 BCO DLX NCR
+
+
+($B )
+Market cap $1,462 $2,415 $274 $1,245 $2,765 $5,374
+Net debt 493 1,107 191 279 513 3,443
+
+
+Enterprise value $1,954 $3,521 $465 $1,524 $3,278 $8,817
+2014 EBITA ($mm)2, 3 146 380 57 137 387 937
+EV / EBITA 13.4x 9.3x 8.2x 11.1x 8.5x 9.4x
+
+
+CATM implied stock  price $18.86 $15.29 $24.68 $16.24 $19.24
+CATM equity downside (41%) (52%) (23%) (49%) (40%)
+
+
+Memo: P/E 2014 26.3x 15.7x NM 22.9x 13.6x 10.6x
+
+
+1. Canadian dollars.
+
+
+2. CATM EBITA based on company guidance net of stock-based compensation.
+
+
+3. Peer EBITA based on consensus EBIT plus company-projected amortization or, w hen unavailable,
+
+
+2013 actual amortization.
+
+
+Source: Capital IQ, CATM 2014 Q1 earnings release, DCI 2013 financial statements, BCO 2013 10-K, DLX 2013 10-
+K, NCR 2013 10-K, Kerrisdale analysis 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 35 
+
+
+
+http://ir.cardtronics.com/releasedetail.cfm?ReleaseID=845319
+
+http://www.directcash.net/media/uploads/documents/press/DirectCash%20Financial%20Statements%202013%20-%20Final.pdf
+
+http://www.sec.gov/Archives/edgar/data/78890/000007889014000004/form_10-k.htm
+
+http://www.sec.gov/Archives/edgar/data/70866/000007086614000011/ncr201310-k.htm
+
+http://www.sec.gov/Archives/edgar/data/70866/000007086614000011/ncr201310-k.htm
+
+http://www.sec.gov/Archives/edgar/data/27996/000002799614000013/a2013123110-k.htm
+This comparison shows that once investors begin to question long-term growth, multiples can 
+compress dramatically even before metrics like revenue start to decline visibly. Given the 
+underlying trends in CATM’s business, including weak organic growth and declining returns on 
+capital, there is no reason for the company to trade at such a massive premium to similarly 
+challenged peers. 
+
+
+Adjusted for Normalized Depreciation, GAAP Earnings Power 
+Indicates Sharply Lower Price 
+
+
+Even if we give CATM credit for the non-cash (albeit recurring) nature of its amortization 
+expense, the company’s guidance for 2014 earnings do not support its current lofty stock price, 
+especially when considering its understated depreciation expense. At the mid-point of CATM’s 
+2014 guidance range, diluted EPS excluding the negative impact of amortization would be 
+$1.71.
+
+
+CATM 2014 Guidance Excluding Amortization
+Low High Mid
+
+
+($mm )
+GAAP net income 53.6 55.8 54.7
+Plus: amortization of intangible assets 34.0 34.0 34.0
+Less: tax impact of amortization (@ 35%) -11.9 -11.9 -11.9
+
+
+GAAP net income excl. amortization 75.7 77.9 76.8
+Diluted shares 44.8 44.8 44.8
+Diluted EPS $1.20 $1.25 $1.22
+Diluted EPS excl. amortization $1.69 $1.74 $1.71
+
+
+Source: CATM 2014 Q1 earnings release, Kerrisdale analysis 
+
+
+Below we show the values per share that result from applying a range of P/E multiples to this 
+level of EPS, adjusted to true up depreciation based on a range of assumed average useful 
+lives for property and equipment. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 36
+Fair Value Based on Depreciation-Adjusted EPS
+Useful life (years)
+5.0 6.0 7.0
+
+
+EPS baseline $1.71 $1.71 $1.71
+Depreciation adjustment 0.95 0.61 0.36
+
+
+Depreciation-adj. EPS $0.76 $1.11 $1.35
+P/E multiple:
+
+
+10.0x $7.61 $11.07 $13.55
+12.0x $9.13 $13.29 $16.26
+14.0x $10.65 $15.50 $18.96
+16.0x $12.17 $17.71 $21.67  
+
+
+ 
+Source: Kerrisdale analysis 
+ 
+For useful lives of 5-7 years and P/E multiples of 10x-16x – below or in line with the market 
+average, as befits its weak secular outlook – CATM’s fair value per share would be $8-$22, 32-
+76% below the current stock price. This simple analysis serves to reinforce the conclusion that 
+CATM is highly overvalued. 
+ 
+ 
+DCF Analysis with Modestly Declining Transaction Volumes Implies 
+~70% Downside 
+ 
+Though comparison with related firms sheds some light on CATM’s irrational overvaluation, a 
+full DCF analysis throws into relief just how much current shareholders are implicitly relying on 
+unachievable same-store transaction growth and stupendous amounts of value-creating M&A to 
+justify the current stock price. To illustrate the importance of even an extremely modest but 
+ongoing decline in per-ATM transaction volume, we construct a DCF analysis with the following 
+simple core assumptions: 
+ 
+
+
+• Starting in 2015, withdrawals per ATM start declining by 1% per year. 
+• Variable expenses, in line recent experience, constitute 46% of ATM operating revenue 
+
+
+(excluding managed services). 
+• Economic depreciation is based on an average asset life of 5.5 years. 
+• Organic ATM unit growth is 3% per year. 
+• The tax rate is CATM’s stated “long-term, cross-jurisdictional effective cash tax rate of 
+
+
+32%.” 
+ 
+With these downright mild assumptions, CATM’s equity value is massively lower than its current 
+stock price – by a stunning 72%: 
+
+
+  
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 37
+Kerrisdale Illustrative DCF Analysis: Summary
+2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+
+Key drivers
+Revenue per withdrawal $1.59 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61 $1.61
+Per ATM per month:
+
+
+Withdrawals (#) 708 705 698 691 684 677 670 664 657
+Revenue $1,127 $1,138 $1,127 $1,115 $1,104 $1,093 $1,082 $1,071 $1,061
+Cost of revenues 744 760 752 747 741 736 731 726 721
+
+
+Gross profit $383 $378 $375 $369 $363 $357 $351 $345 $339
+Organic ATM unit growth 3% 3% 3% 3% 3% 3% 3% 3%
+Average ATM life (years) 5.5 5.5 5.5 5.5 5.5 5.5 5.5 5.5
+SG&A as a % of revenue 10% 10% 10% 10% 10% 10% 10% 10% 10%
+
+
+Outputs
+($mm )
+Revenues 876 993 1,017 1,039 1,061 1,085 1,109 1,134 1,159
+Cost of revenues1 595 669 686 703 720 738 757 776 796
+
+
+Gross profit 281 324 331 336 341 347 352 358 364
+Gross margin 32% 33% 33% 32% 32% 32% 32% 32% 31%
+
+
+SG&A1 87 99 101 104 106 108 111 113 116
+EBITDA 194 224 229 232 235 238 242 245 248
+EBITDA margin 22% 23% 23% 22% 22% 22% 22% 22% 21%
+
+
+Adjusted depreciation 94 103 106 109 112 116 119 123
+Operating profit 131 127 127 126 126 126 126 125
+
+
+Income tax 36 41 40 40 40 40 40 40
+NOPAT 94 86 86 86 86 86 85 85
+
+
+Less: growth capex 12 17 17 18 19 19 20 20
+Unlevered free cash flow 82 69 69 68 67 67 66 65
+Note: total capex 77 106 120 123 127 131 135 139 143
+Note: ATMs (end of period) 66,984 70,305 72,415 74,587 76,825 79,129 81,503 83,948 86,467
+
+
+Discount rate 8.0%
+Terminal growth rate -1.0%
+
+
+Terminal value 938
+Implied EV/EBITA 7.5
+
+
+PV of terminal value 522
+PV of interim FCF 385
+Total PV 907
+Less: net debt at FV 502
+FV of equity 405
+Diluted shares 45
+FV of equity per share $9.04
+
+
+Downside -72%
+
+
+1. Cost of revenues and SG&A include stock-based compensation.
+
+
+Source: CATM filings, Kerrisdale analysis 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 38
+This illustration reveals just how levered CATM’s value is to transaction growth, along with blue-
+sky dreams of endless large accretive acquisitions at bargain prices. In a world where the US’s 
+payment system comes anywhere near the level of sophistication of Sweden’s, CATM investors 
+cannot justify anything close to the current stock price. The nearer-term risks surrounding the 7-
+Eleven contract only multiply the magnitude of the overvaluation. 
+
+
+Future M&A Is Unlikely to Create Material Value 
+
+
+Some CATM boosters point to future acquisition opportunities as a source of upside, apparently 
+unperturbed by the trend of declining profitability that has coincided with the company’s latest 
+round of deals. Based on our DCF analysis, however, CATM has been paying more for ATMs 
+via M&A than the long-term fundamentals would justify. For example, in CATM’s last major 
+purchase, Cardpoint, it paid $153 million for a business with 7,900 ATMs, or $19,367 per ATM. 
+This valuation is roughly consistent with the median of the transactions analyzed by 
+PricewaterhouseCoopers in its “independent expert’s report” on DirectCash’s acquisition of an 
+Australian firm called Customer Limited. PwC found that in past transactions the median 
+enterprise value paid per ATM (a metric it characterized as “an industry rule of thumb”) was 
+$20,900. 
+
+
+Yet if we adjust our DCF to set organic growth in ATM units to 0%, we find that the fair value EV 
+per ATM given CATM’s business model is just ~$12,500, 35% lower than what CATM paid for 
+Cardpoint and 40% lower than the median price in past transactions. In other words, the more 
+acquisitions CATM does at these sorts of prices, the more value it destroys, because it is paying 
+more than the operations are worth. The long-term decline in transaction volumes and the need 
+to frequently replace and upgrade obsolete units make M&A a drastically worse option 
+economically than organic growth in units. Yet organic growth is precisely where CATM has 
+faltered over the past several years. 
+
+
+Even if we ignore the prospect of secularly declining ATM transactions and take for granted 
+CATM’s inflated stock price, CATM is just not buying earnings cheaply enough to generate a 
+huge increase in economic value. As shown below, it purchased Cardpoint at an EV/EBITA 
+multiple of 8.5x. Even if it could draw down the rest of its $375mm revolving credit facility to 
+purchase additional businesses at this same multiple, and even if the market (wrongly) valued 
+the resulting incremental earnings at CATM’s higher EV/EBITA multiple of 13.4x, then it would 
+only add about $4 per share to CATM’s equity value. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 39 
+
+
+
+http://ir.cardtronics.com/common/download/download.cfm?companyid=CATM&fileid=682707&filekey=2bc39aa4-5be2-4d4d-b95b-3d4cf4341faa&filename=cardtronics_acquisition_of_cardpoint_limited_08-07-13.pdf
+
+http://www.dcpayments.com.au/assets/php/process.download.php?d=579
+Limited Upside from M&A
+($mm )
+Precedent transaction
+
+
+A Cardpoint EBITA, 2012 18
+B Cardpoint purchase price 153
+
+
+C = B/A EV/EBITA paid 8.5x
+
+
+Illustrative M&A capacity
+Revolving credit facility:
+
+
+Total capacity 375
+Less: outstanding amount 73
+
+
+D Undrawn amount 302
+
+
+C EV/EBITA paid 8.5x
+E = D/C EBITA acquired 35
+
+
+F CATM current EV/EBITA 13.4x
+G = F x E Value of acquired EBITA @ CATM mult. 476
+
+
+D Less: amount paid 302
+G−D Value created by M&A 174
+
+
+Fully diluted CATM shares 46
+Value created per share $3.83
+
+
+Source: CATM Cardpoint presentation, 8-K/A filed 10/15/13 (Cardpoint financials and pro formas), 2014 Q1 10-Q, 
+Kerrisdale analysis 
+
+
+We view this analysis as extremely generous. From a long-term perspective, these acquired 
+earnings streams are likely to shrink, not grow, which will impair both their standalone fair value 
+and the valuation that investors ultimately ascribe to CATM. What matters fundamentally is not 
+this sort of financial engineering – buying in the private market for a low multiple and hoping to 
+be valued in the public market at a high multiple – but whether the businesses acquired are 
+actually worth more than the purchase price. If we adopt this more rational perspective, then 
+CATM’s M&A is likely value-destructive; even if we don’t, the total “value”-creation potential 
+given CATM’s existing financial resources is still modest.  
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 40 
+
+
+
+http://ir.cardtronics.com/common/download/download.cfm?companyid=CATM&fileid=682707&filekey=2bc39aa4-5be2-4d4d-b95b-3d4cf4341faa&filename=cardtronics_acquisition_of_cardpoint_limited_08-07-13.pdf
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785613000032/0001277856-13-000032-index.htm
+
+http://www.sec.gov/Archives/edgar/data/1277856/000127785614000019/catm-20140331x10q.htm
+IX. Conclusion
+
+
+CATM is a pure-play operator in a sector that faces decades of decline. By engaging in serial 
+acquisitions over the past three years, it has masked the deterioration of its underlying business 
+and diluted both its return on capital and its profitability per ATM. Through anomalously 
+aggressive assumptions about the useful lives of its assets, it has inflated its reported earnings 
+by as much as 50-70%, while distracting analysts from the true costs of an M&A driven growth 
+strategy by honing in on “adjusted” non-GAAP earnings. With domestic same-store transaction 
+growth barely positive and industry data pointing toward declining volumes across the planet, 
+CATM would need to create incredible value via M&A in order to come close to rationalizing the 
+current stock price. However, CATM is acquiring other ATM operators at healthy multiples from 
+sellers that are only too happy to unload businesses that are increasingly being made obsolete 
+by increased credit card usage, online payment systems and multiple other secular trends. On 
+these grounds, CATM has 40-70% downside without even considering the looming risk that it 
+will lose its largest merchant relationship, contributing more than 40% of current earnings. 
+Investors who believe that cash is as important now as it was 50 years ago are welcome to 
+hang on, but those with a more realistic outlook should get out before it’s too late. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 41
+X. Full Legal Disclaimer 
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+(collectively "Kerrisdale"), others that contributed research to this report and others that we have 
+shared our research with (collectively, the “Authors”) have short positions in and own options on 
+the stock of the company covered herein (Cardtronics, Inc.) and stand to realize gains in the 
+event that the price of the stock declines. Following publication of the report, the Authors may 
+transact in the securities of the company covered herein. All content in this report represent the 
+opinions of Kerrisdale. The Authors have obtained all information herein from sources they 
+believe to be accurate and reliable. However, such information is presented “as is”, without 
+warranty of any kind – whether express or implied. The Authors make no representation, 
+express or implied, as to the accuracy, timeliness, or completeness of any such information or 
+with regard to the results obtained from its use. All expressions of opinion are subject to change 
+without notice, and the Authors do not undertake to update or supplement this report or any 
+information contained herein. 
+
+
+This document is for informational purposes only and it is not intended as an official 
+confirmation of any transaction. All market prices, data and other information are not warranted 
+as to completeness or accuracy and are subject to change without notice. The information 
+included in this document is based upon selected public market data and reflects prevailing 
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+as indicative, preliminary and for illustrative purposes only. 
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+in this document at any time. As of the original publication date of this document, investors 
+should assume that the Authors are short shares of CATM and have positions in financial 
+derivatives that reference this security and stand to potentially realize gains in the event that the 
+market valuation of the company’s common equity is lower than prior to the original publication 
+date. These affiliates, officers, and individuals shall have no obligation to inform any investor 
+about their historical, current, and future trading activities. In addition, the Authors may benefit 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 42
+from any change in the valuation of any other companies, securities, or commodities discussed 
+in this document. Analysts who prepared this report are compensated based upon (among other 
+factors) the overall profitability of the Authors’ operations and their affiliates. The compensation 
+structure for the Authors’ analysts is generally a derivative of their effectiveness in generating 
+and communicating new investment ideas and the performance of recommended strategies for 
+the Authors. This could represent a potential conflict of interest in the statements and opinions 
+in the Authors’ documents. 
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+looking statements, which would include any statements that are not statements of historical 
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+judgment of the relevant markets prior to making any investment decision. 
+
+
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 43

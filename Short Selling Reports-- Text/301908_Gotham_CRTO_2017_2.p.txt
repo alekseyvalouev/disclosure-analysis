@@ -1,0 +1,1159 @@
+GOTHAM CITY RESEARCH LLC www.gothamcityresearch.com info@gothamcityresearch.com 
+ 
+
+
+GOTHAM CITY RESEARCH LLC 
+
+
+
+
+
+Criteo SA (NASDAQ: CRTO):  
+
+
+The True Fraudster in the Adtech Industry? 
+
+
+
+
+
+ Gotham City Research was initially skeptical of the skeptics: how bad could Criteo be? 
+ Aren’t all adtech vendors fleecing clients? Perhaps Criteo is the cleanest dirty shirt? 
+ We tuned out other opinions, and conducted our own systematic analysis. 
+
+
+The results surprised us. According to our analysis of websites using Criteo: 
+
+
+ Over 50% of websites using Criteo are of suspect quality. 
+ Criteos is NOT “just as bad” as its peers: Criteo is twice as bad. 
+ This explains why Criteo refuses to disclose to clients where ads are placed. 
+
+
+
+
+
+Criteo’s leadership responded to allegations of defrauding its customers, by taunting us on twitter: 
+
+
+
+
+
+The above tweet was subsequently deleted. Criteo has not denied any specific claims found in the 
+Method Media Intelligence Report, released last Friday. We infer that the MMI allegations are correct.
+Page 2 of 19 
+ 
+
+
+Disclaimer: 
+
+
+By reading this report, you agree that use of GOTHAM CITY RESEARCH LLC’s research is at your own risk. 
+In no event will you hold GOTHAM CITY RESEARCH LLC or any affiliated party liable for any direct or 
+indirect trading losses caused by any information in this report. This report is not investment advice or a 
+recommendation or solicitation to buy any securities. GOTHAM CITY RESEARCH LLC is not registered as an 
+investment advisor in any jurisdiction. Gotham City Research LLC is not affiliated or associated with 
+Gotham Asset Management, LLC or any of its affiliates. 
+
+
+You agree to do your own research and due diligence before making any investment decision with respect 
+to securities covered herein. You represent to GOTHAM CITY RESEARCH LLC that you have sufficient 
+investment sophistication to critically assess the information, analysis and opinions in this report. You 
+further agree that you will not communicate the contents of this report to any other person unless that 
+person has agreed to be bound by these same terms of service.  
+
+
+You should assume that as of the publication date of this report, GOTHAM CITY RESEARCH LLC stands to 
+profit in the event the issuer’s stock declines. We may buy, sell, cover or otherwise change the form or 
+substance of its position in the issuer. GOTHAM CITY RESEARCH LLC disclaims any obligation to notify the 
+market of any such changes. 
+
+
+Our research and report includes forward-looking statements, estimates, projections, and opinions 
+prepared with respect to, among other things, certain accounting, legal, and regulatory issues the issuer 
+faces and the potential impact of those issues on its future business, financial condition and results of 
+operations, as well as more generally, the issuer’s anticipated operating performance, access to capital 
+markets, market conditions, assets and liabilities. Such statements, estimates, projections and opinions 
+may prove to be substantially inaccurate and are inherently subject to significant risks and uncertainties 
+beyond GOTHAM CITY RESEARCH LLC’s control. 
+
+
+Our research and report expresses our opinions, which we have based upon generally available 
+information, field research, inferences and deductions through our due diligence and analytical process. 
+GOTHAM CITY RESEARCH LLC believes all information contained herein is accurate and reliable, and has 
+been obtained from sources we believe to be accurate and reliable.  
+
+
+However, such information is presented “as is,” without warranty of any kind, whether express or implied. 
+GOTHAM CITY RESEARCH LLC, makes no representation, express or implied, as to the accuracy, timeliness, 
+or completeness of any such information or with regard to the results to be obtained from its use.  All 
+expressions of opinion are subject to change without notice, and GOTHAM CITY RESEARCH LLC is not 
+obligated to update or supplement any reports or any of the information, analysis and opinion contained 
+in them. 
+
+
+You should assume that this report, as well as additional material not included in this report, has and/or 
+will be submitted to various regulators.
+Page 3 of 19 
+ 
+
+
+Table of Contents 
+
+
+I. Disclaimer 
+II. Summary 
+
+
+III. Criteo is worse than its peers based on our study of its websites 
+IV. Clients can cut 50%+ spending on Criteo without hurting sales  
+V. Criteo peer: 54.8% of Criteo’s clicks have no attributable source 
+
+
+VI. Industry estimates for fraudulent traffic: between 20% to 43%+ 
+VII. Criteo is targeting less sophisticated clients & ARPU is declining 
+
+
+VIII. Criteo has not disputed any of our or MMI’s specific claims 
+IX. What is a suspect website: our assumptions and methodology 
+X. End Notes
+Page 4 of 19 
+ 
+
+
+GOTHAM CITY RESEARCH LLC 
+
+
+a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GOTHAM CITY RESEARCH’S OPINIONS: 
+
+
+ Over 50% of Criteo’s revenues originate from suspect 
+sources (e.g. clickbots, fake/low quality websites, etc). 
+
+
+ Criteo takes credit for clients’ sales it did not contribute to, 
+and in some cases, that never actually occurred. 
+
+
+ Clients will leave or demand reimbursements from Criteo, 
+due to brand safety & revenue misattribution concerns.  
+
+
+ Sales & profits will decline because of Criteo’s behavior, 
+leading to a 67%-77% decline in its share price.  
+
+
+GOTHAM CITY RESEARCH’S OBSERVATIONS  
+
+
+ 49.9%-56.2% of Criteo ads seem to be displayed on 
+suspect websites, per our analysis of 513,000+ websites. 
+
+
+ 28.7% of Criteos peers’ ads seem to be displayed on 
+suspect websites, implying that Criteo is twice as bad. 
+
+
+ 963 malicious URLs/files have been detected/associated 
+with Criteo domains/IP addresses. 
+
+
+ 400+ websites containing Criteo code may display content 
+that violates Criteo’s Advertising Guidelines.  
+
+
+ 24%-33% of disclosed business partners/suppliers, have 
+proven ties to click fraud, adware/malware/viruses, etc. 
+
+
+ CRTO’s reported 2015 click through rate does not reconcile 
+with the calculated product of its components. 
+
+
+ A search for “Criteo malware” on the google search engine 
+returns 326,000 search results. 
+
+
+ Criteo’s business has barely changed since 2011 (95%-
+100% of revenues is retargeting), yet CRTO presents itself 
+differently every year (i.e. its business description). 
+
+
+ Criteo’s revenue exposure to Apple was disclosed to be 
+20% last week, not 8% as believed just weeks before. 
+
+
+ A 5%-10% decline in Criteo revenue leads to a 29%-44% 
+decline in net income, based on our calculations. 
+
+
+ Apple, Facebook, Trade Desk, & Europe’s recent privacy 
+enhancing initiatives seem harmful to business models 
+that spy on users and stalk them wherever they browse. 
+
+
+Company: Criteo SA 
+
+
+Business: Ad Retargeting 
+(95%-100% of revenue) 
+
+
+Ticker: CRTO 
+
+
+Exchange: NASDAQ 
+
+
+CEO: Eric Eichmann 
+(based in New York) 
+
+
+Headquarters: France 
+
+
+Price target: $12.50 per 
+share 
+
+
+Market cap: $2.72B 
+
+
+52-week high: $55.39 
+
+
+52-week low: $33.09 
+
+
+Shares outstanding: 
+65.3M 
+
+
+‘14-‘17 net margins: 4.7% 
+
+
+H1 ‘17 ARPU Decline: -6% 
+
+
+Auditor: Deloitte & 
+Associés (France) 
+
+
+Insider selling 2017 YTD: 
+1.1M shares sold in 2017  
+
+
+Executive Departures: 
+
+
++18 executives, including 
+2 founders, have left since 
+2013.
+Page 5 of 19 
+ 
+
+
+Criteo is worse than its peers based on our study of its websites 
+
+
+Criteo: the ”true fraudster in the Ad tech industry” or a better company than Google, Facebook, etc? 
+
+
+On the one hand, Criteo, the ad targeting firm, portrays itself in investor presentations as a better 
+company than Google, Facebook, Amazon, Alibaba (though in a tiny footnote shown below, Criteo 
+prefaces this claim with “based solely on Criteo’s qualitative assessment”)1: 
+
+
+
+
+
+On the other hand, the Method Media Intelligence (“MMI”) report we released last week, details evidence 
+that Criteo committed ad fraud against an actual and recent client2. The report seems to confirm what 
+everyone else had long suspected – but couldn’t quite prove – about Criteo and its business practices.  
+
+
+MMI is not alone in exposing Criteo: Harvard Business School Professor and ad fraud specialist, Ben 
+Edelman, has been warning about Criteo since 20153 (note that Professor Edelman had warned about 
+Blinkx plc, a notorious ad fraud company, for years before finally receiving vindication in 2014). One of 
+Criteo’s direct competitors went as far as to call Criteo “the true fraudster in the Ad tech industry.”  4  
+
+
+Who is correct? While the MMI report impressed us – parts of it reminded us of Ben Edelman’s Blinkx 
+research – the report did not address the question of materiality: what percentage of Criteo’s 
+domains/clicks/revenue are derived from suspect websites? In other words, what percentage of Criteo 
+websites would its clients NOT want their ads displayed (recall, Criteo does not disclose where its ads are 
+displayed, to its clients)? This is the central question, as Criteo charges its clients on a per click basis, 
+without regard to the quality of the website or its traffic. The purpose of this first Gotham City Research 
+report is to detail our systematic study of websites using Criteo, and its surprising results.
+Page 6 of 19 
+ 
+
+
+We believe Criteo is incentivized to drive fake traffic because more clicks = more revenue for Criteo 
+
+
+How does Criteo get paid by its clients? What do they purchase from suppliers? Why is Criteo the only 
+vendor amongst its peers paid on a click-based model?5 According to Shailin Dhar of Method Media 
+Intelligence6: 
+
+
+Since Criteo buys ad-space but sells clicks, buying on a CPM and selling on a CPC, this model 
+naturally optimizes towards buying ads on sites with high click rates. Sites with relatively high 
+CTR’s, however, are anomalous to normal web traffic patterns on the internet. 
+
+
+Based on our investigation, the above description of Criteo’s business model appears to be correct. CRTO 
+gets paid for clicks, so the company is incentivized to place ads on suspect sites, where fake traffic (and 
+therefore fake clicks) are abundant. Criteo and its clients’ incentives seem misaligned: clients only want 
+human clicks, whereas Criteo does not care, so long as clients are in the dark. So how bad is Criteo exactly?  
+
+
+Over 54% of websites using Criteo are suspect – both currently and historically 
+
+
+Gotham City Research evaluated several different service providers that collected and stored websites 
+using Criteo (and their metadata). We found a database with information on nearly 1 million websites 
+using Criteo and/or its peers’. According to our analysis, over 54% of the websites using Criteo are of 
+suspect quality7: 
+
+
+
+
+
+We detail our assumptions & approach underlying the study in the “What is a suspect website: our 
+assumptions and methodology” section found in this report. 
+
+
+We observed the following: 
+
+
+ Over 50% of ‘live’ and historical websites using Criteo are suspect.  
+ Clients would not pay to have their ads displayed on these websites, as these websites may pose 
+
+
+reputational and brand safety concerns. 
+ The data suggests that Criteo has failed to reduce its clients’ exposure to fake traffic and clicks. 
+
+
+
+
+
+Is Criteo a beneficiary of ad fraud, perpetrator, or both? Criteo exhibits qualities of a repeat offender:  
+
+
+“Criteo systematically buys adware injection inventory on the very sites where the advertisers 
+already have reached the users on the advertiser’s own sites – I have caught this dozens of 
+times for clients  each time Criteo apologizes – but each time they do it again” 8  
+
+
+– Ben Edelman, Harvard Business School Professor 
+
+
+Present All history
+Suspect websites 72,506 288,274
+
+
+All websites 132,048 513,395
+% of suspect websites 54.9% 56.2%
+Page 7 of 19 
+ 
+
+
+Over 50% of websites using Criteo are suspect versus 28% for its peers – Criteo is twice as bad 
+
+
+The prevailing belief in the industry seems “everyone is doing it” – that is, all digital ad companies are 
+benefitting from and/or committing ad fraud. Before conducting this systematic analysis, we thought so 
+as well. To our surprise – the data indicates that Criteo is actually nearly twice as bad as its peers9: 
+
+
+
+
+
+Observations: 
+
+
+ Our results are within range of industry level estimates of ad fraud (our Criteo number is on the 
+higher end of the range, whereas the peers’ average is in-within industry averages). See the 
+“Industry estimates for fraudulent traffic: between 20% to 43%+” section for more information. 
+
+
+ Our estimate of Criteo’s ad fraud exposure is similar to a competitor’s estimate. See “Criteo peer: 
+54.8% of Criteo’s clicks have no attributable source” section for more information. 
+
+
+ Criteo’s reliance on a click based model – a nonstandard practice vs its peers – may encourage 
+the company to be more aggressive in attracting or being willfully ignorant of suspect traffic. 
+
+
+ Criteo’s peers’ exposure to suspect websites is within a relatively tight 25%-33% range: 
+
+
+
+
+
+”Criteo is the true fraudster in the Ad tech industry” 
+
+
+Is the claim that Criteo is the “true fraudster” a fair claim? Is it backed by evidence? Let’s recap: 
+
+
+ Over 50% of websites using Criteo are suspect versus 28% for its peers – Criteo is twice as bad. 
+ Pattern of apologizing and repeating dubious business practices, as documented by Ben Edelman. 
+ Meanwhile, Criteo makes sensationalistic claims about being better than Google, Facebook, etc. 
+ Management seems more obsessed with intraday movements in its stock price than its clients10: 
+
+
+
+
+
+Peers Criteo
+Suspect websites 170,692 72,506
+
+
+Total websites 607,466 132,048
+% of suspect websites 28.1% 54.9%
+
+
+Sizmek Steelhouse Blinkx Adroll Trade Desk Rocket Fuel
+Perfect 
+
+
+Audience
+MOAT Rubicon AVERAGE
+
+
+% of suspect websites 33.71% 26.02% 26.07% 30.77% 25.38% 23.22% 37.23% 29.25% 27.24% 28.77%
+Page 8 of 19 
+ 
+
+
+Clients can cut 50%+ spending on Criteo without hurting sales 
+
+
+Criteo’s clients’ are not getting what they paid for (because they are not reaching humans) 
+
+
+"Advertisers, and importantly their agencies, need to know where their advertising and their investments 
+are actually going." – Jason Kint, President of Digital Content Next 
+
+
+If over 50% of Criteo websites are of suspect quality, then its clients are not getting what they thought 
+they were paying for. This means that they can reduce their spending on Criteo by over 50% without 
+impacting their sales. Furthermore, we believe that clients could reduce their total spend to Criteo by well 
+over 50%, if they were to only pay for the publishers/websites of their choosing. 
+
+
+Gotham City Research is not making a mere theoretical claim: several large advertisers recently reduced 
+digital ad spending by 40%-90% or more without negatively impacting sales. For example: 
+
+
+
+
+
+Proctor and Gamble1 
+
+
+ Proctor and Gamble’s digital ad spend dropped $140 million or 41% year-over-year, and sales still 
+grew 2% over that same period, beating both analysts’ predictions and P&G’s competition. 
+
+
+ P&G ran ads on 1,459 sites between January and May 2016, that number dropped to 978 sites in 
+the same period in 2017 – a decline of 33% in sites featuring P&G ads year-over-year. 
+
+
+ P&G ran ads on 712 of the same websites between 2016 and 2017, including Yahoo News, 
+BuzzFeed and Reuters, among others. But it reduced spend on 560 of them, according to 
+MediaRadar, a 79% drop in spending from 2016. 
+
+
+ Proctor and Gamble has been vocal in demanding greater transparency from digital media 
+suppliers. 
+
+
+Unilever2 
+
+
+ Unilever digital ad spend dropped 59% year-over-year between January and May of 2017 
+compared with the same period a year ago. 
+
+
+ Unilever is advertising on 11% fewer sites this year for a total of 540. For the sites where it ran 
+ads during both time frames, it reduced spend by 57% on 155. 
+
+
+ Unilever has been vocal in demanding greater transparency from digital media suppliers. 
+
+
+
+
+
+% Reduction Impact 
+ADVERTISER in Spend on sales
+
+
+Proctor & Gamble -41% None
+Unilever -59% None
+
+
+Chase Bank -99% None
+Restoration Hardware -100% None
+
+
+Uber -100% None
+Page 9 of 19 
+ 
+
+
+Chase Bank3 
+
+
+ Chase Bank had ads on 400,000 websites, and then reduced the number to just 5,000 sites.  No 
+impact on sales. 
+
+
+ Only 3% of the 400,000 sites led to activity beyond an impression.  
+ Of the 3%, more than 50% were sites that Chase did not want to advertise on. 
+
+
+Restoration Hardware4 
+
+
+ Restoration Hardware found that 98% of its sales came from 22 out of 3,200 search words.  
+ Of those 22 words, 21 words were misspellings of Restoration Hardware. 
+ They cancelled spending on all 3,200 words. 
+
+
+Uber5 
+
+
+ Uber paid Fetch Media more than $82.5 million for its ad effort between 2015 and the first 
+quarter of 2017. 
+
+
+ When Uber suspended the mobile ad effort, they saw “no material drop in total installations” 
+ Uber sued Fetch alleging ad fraud.  
+ Uber says Fetch purchased nonexistent, nonviewable or fraudulent ads and concealed those 
+
+
+facts from Uber. 
+
+
+According to ad fraud expert Dr. Augustine Fou6: 
+
+
+ “If you don’t have 100% measurement or very detailed reports…  you’re NOT getting what you 
+paid for.” 
+
+
+ “Ad Fraud diverts ad spend to fraudsters.” 
+
+
+Of course, Criteo management prefers spending time heckling journalists rather than meeting the needs 
+of its clients7:
+Page 10 of 19 
+ 
+
+
+Criteo peer: 54.8% of Criteo’s clicks have no attributable source 
+
+
+One of Criteo’s direct competitors alleges that more than half of Criteo’s clicks are of suspect quality 
+
+
+Through an extensive analysis of web logs consisting of more than 5.5 billion rows and 21 terabytes of 
+data for 99 e-tail clients, one of Criteo’s direct competitors, Steelhouse, claimed the following1: 
+
+
+ “More than half (54.8%) of Criteo’s clicks have no attributable source” which is “more than six 
+times the industry average.” 
+
+
+ Only 3.6% of Criteo’s “users” are responsible for 25% of its clicks. 
+ “44.9% of Criteo’s apparent clicks are from users clicking the same advertisement within a 30-
+
+
+minute period. 
+ Additional comments: 
+
+
+
+
+
+Criteo’s competitors’ claim that 54.8% of clicks have no attributable sources seems consistent with our 
+finding that over 50% of websites using Criteo are suspect: 
+
+
+
+
+
+Because Criteo’s peer made the above claims in the context of litigation, they should be considered with 
+a healthy dose of skepticism. That being said, their findings, Gotham City Research’s findings, Method 
+Media Intelligence’s findings, and industry level estimates – all align to similar estimates and conclusions.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Present All history
+Suspect websites 72,506 288,274
+
+
+All websites 132,048 513,395
+% of suspect websites 54.9% 56.2%
+Page 11 of 19 
+ 
+
+
+Industry estimates for fraudulent traffic: between 20% to 43%+ 
+
+
+External estimates validate Gotham City Research’s study of Criteo and its Peers 
+
+
+Gotham City Research gathered recent industry estimates for ad fraud (as a percentage of total ad spend, 
+or equivalent) and found them in line with our own calculations1:   
+
+
+
+
+
+Observations: 
+
+
+ The average of the industry estimates are close to our calculation of the percentage of suspect 
+websites for Criteo’s peers 32% versus 29%: 
+
+
+
+
+
+
+
+
+ Our estimate of over 50% suspect traffic for Criteo is higher than the industry average of 32%: 
+
+
+
+
+
+
+
+
+ A 5%-10% decline in Criteo revenue leads to a 29%-44% decline in net income, based on Criteo’s 
+operating leverage:2 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Source Fraud Rate% 
+Marketing.Science 43%
+
+
+The&Partnership, m/SIX, Adloox 20%
+Pixalate 36%
+
+
+AppLift and Forensiq 34%
+ Imperva Incapsula Bot Traffic Report 29%
+
+
+AVERAGE 32%
+
+
+Sizmek Steelhouse Blinkx Adroll Trade Desk Rocket Fuel
+Perfect 
+
+
+Audience
+MOAT Rubicon AVERAGE
+
+
+33.71% 26.02% 26.07% 30.77% 25.38% 23.22% 37.23% 29.25% 27.24% 28.77%
+
+
+Peers Criteo
+Suspect websites 170,692 72,506
+
+
+Total websites 607,466 132,048
+% of suspect websites 28.1% 54.9%
+
+
+Change in revenue -5% -10% -20% -30% -40% -50%
+Change in EBITDA -22% -31% -50% -68% -87% -105%
+Change in net income -29% -44% -74% -104% -134% -164%
+Page 12 of 19 
+ 
+
+
+Criteo is targeting less sophisticated clients & ARPU is declining 
+
+
+Criteo is targeting less sophisticated clients because the bigger advertisers are catching on 
+ 
+
+
+As we demonstrated earlier, the more seasoned advertisers are not only demanding greater transparency, 
+but spending considerably less money on digital ad spend. We suspect that Criteo has and continues to 
+struggle to attract and retain larger clients. Instead, it’s been focusing on less sophisticated, smaller 
+companies, as validated by the decline in ARPU since 2014 (Average Revenue per User, i.e. Clients)1: 
+
+
+
+
+
+
+
+
+Criteo’s SEC filings change in disclosures also points to targeting less sophisticated customers 
+
+
+Since 2014 CRTO has been targeting less sophisticated customers, which they refer to as “midmarket 
+customers”2:  
+
+
+While we intend to grow our client base across all client segments, we expect midmarket 
+customers to continue to increase their contribution in the mix of our total client base. 
+
+
+ 
+In 2016 10-K CRTO explicitly stated that profitability could decline because of higher share of revenue 
+from midmarket clients, which are less profitable than large clients:3 
+
+
+2016 10-K:  
+ 
+In addition, as our business expands, we may not be able to maintain our current profitability 
+margin or to achieve our long-term profitability margin target. For example, our midmarket 
+business is currently less profitable than our large client business, and, as a result, if the size of 
+our midmarket business continues to grow as a proportion of our overall business, our 
+profitability may be negatively affected. 
+
+
+ -------------------- 
+For example, the size of our midmarket business has grown significantly as a proportion of our 
+overall business, and we expect it to continue to do so in the future. As our business shifts toward 
+the midmarket segment, there are several additional risks to our business, including risks relating 
+to the financial stability of our clients in the midmarket segment and our ability to collect from 
+such clients. In addition, since our midmarket business is comprised of thousands of smaller 
+clients which require significant resources to support, it is currently less profitable than our large 
+client business.  
+
+
+ -------------------- 
+In addition, over time we have added an increasing number of midmarket clients that generate a 
+lower revenue per client than large clients on average, and may continue to add a significant 
+number of midmarket clients in the future. Therefore, there is not necessarily a direct correlation 
+between a change in clients in a particular period and an increase or decrease in our revenue. 
+
+
+USD '000 2011 2012 2013 2014 2015 2016 H1 2016 H1 2017
+Revenue $199,706 $349,358 $589,400 $988,249 $1,323,169 $1,799,146 $808,454 $1,058,689
+Traffic acquisition costs -$109,979 -$202,668 -$351,750 -$585,492 -$789,152 -$1,068,911 -$479,724 -$628,893
+Revenue ex. TAC $89,728 $146,691 $237,651 $402,757 $534,017 $730,235 $328,730 $429,796
+Clients 1,638 3,297 5,072 7,190 10,198 14,468 11,874 16,370
+ARPU $142 $141 $161 $152 $146 $73 $69
+Average revenue ex TAC per client $59 $57 $66 $61 $59 $30 $28
+Page 13 of 19 
+ 
+
+
+ -------------------- 
+While we intend to grow our client base across all categories, we expect midmarket customers to 
+continue to increase their contribution in the mix of our total client base. 
+
+
+ 
+According to the numbers disclosed by management during calls with analysts, the share of midmarket 
+segment in total revenue ex TAC increased from “close to 25%” in Q4 2015 to 32% in Q1 2017:4 
+
+
+
+
+
+Source: call transcripts 
+ 
+
+
+2014 20-F: 
+
+
+We intend to continue growing our client base, both in the large client and the midmarket 
+segments. During 2014, we invested significantly to capture the midmarket opportunity and 
+intend to continue investing in this promising market segment.  
+ 
+2015 10-K: 
+ 
+We intend to continue growing our client base, both in the large client and the midmarket 
+segments. During 2014 and 2015, we invested significantly to capture the midmarket 
+opportunity and intend to continue investing in this promising market segment. In particular, we 
+plan to expand our midmarket presence in the Americas, Europe, the Middle East and Africa, or 
+EMEA, and Japan, as well as to launch midmarket operations in new geographies, including in 
+South-East Asia and China. 
+------------------- 
+This growth in the number of clients using our solution has been driven by a number of factors, 
+including our global footprint expansion, our continued development of large clients in the retail, 
+travel and classifieds industry verticals, our strong commercial success with midmarket clients 
+and our penetration into new industry verticals. We believe that our ability to increase the 
+number of clients using our solution is a leading indicator of our ability to grow revenue over 
+time. We expect to continue to focus our attention and investment on further growing our client 
+base across all regions and client segments. While we intend to grow our client base across all 
+client segments, we expect midmarket customers to continue to increase their contribution in the 
+mix of our total client base.
+Page 14 of 19 
+ 
+
+
+Criteo has not disputed the claims found in the MMI Report 
+
+
+Criteo has offered no response to any of the detailed allegations made by Method Media Intelligence 
+
+
+Last week, we released Method Media Intelligence’s Criteo Report, which claimed1: 
+
+
+
+
+
+Criteo has declined to directly address these criticisms. Perhaps this is because the company claimed last 
+year2:  
+
+
+“We make money only when our clients do, because our business model is fully aligned to 
+driving their sales.” 
+
+
+Criteo’s claim is clearly falsified by the Method Media Intelligence Report, as the retailer described in 
+the report did not make money at all from the Criteo campaign.
+Page 15 of 19 
+ 
+
+
+When Which-50 asked Criteo about the above claims, they responded with the following meaningless 
+response to Which-503: 
+
+
+ “Whilst Criteo does not comment on individual cases, we would like to reaffirm that Criteo’s 
+goal has always been to serve as a trusted partner and ensure a high quality, brand-safe 
+environment for our community of more than 15,000 advertising clients. When advertising 
+with Criteo, brand safety covers both the appropriateness of the site content and the integrity of 
+the traffic the site generates. We are committed to detecting and combating fraud in digital 
+marketing through numerous internal and external prevention methods.  
+
+
+Our proprietary targeting and bidding engine has built-in detection of signals that indicate 
+non-human activity. We have a dedicated operations team who constantly monitors the 
+extensive reporting from our systems to pick up suspicious click activity which could indicate 
+fraud. When such activity is uncovered we immediately reimburse affected clients. Criteo also 
+employs a robust blacklist process to enforce our brand safety guidelines. Our publisher 
+account teams regularly review advertiser performance metrics on publisher sites to spot 
+suspicious trends, and terminate any sites that may be generating invalid 
+traffic. Criteo continuously enhances its protection by adding any new fraudulent agents or 
+suspect behaviour types to our detection tools. In addition, we are a member of TAG 
+(Trustworthy Accountability Group) and work with leading third-party vendors to assess any 
+additional protection they can offer to our own tools and processes to prevent fraud and non-
+human traffic.”
+Page 16 of 19 
+ 
+
+
+What is a suspect website: our assumptions and methodology 
+
+
+Real websites visited by real people tend to be recognizable 
+
+
+How is one to define what a suspect website is? For the purposes of our study, we defined a suspect 
+website as a website with an extremely high likelihood or certainty of fake traffic. Fake traffic means non-
+human traffic. We mean websites that seem to be ”fraud sites” as shown below1: 
+
+
+
+
+
+Filmvilag.org is an excellent example of highly trafficked fake Criteo website, full of only ads2:
+Page 17 of 19 
+ 
+
+
+Our Approach 
+
+
+Given that we have defined and given an example of a ‘suspect website’, how then does one systematically 
+determine what is and what is not a “suspect website”? After manually looking through many Criteo 
+website, we determined that fake websites tend to have little to no information about themselves – like 
+a filmvilag shown on the prior page. So we created a simple 17 factor model that only showed us Criteo 
+websites with exactly zero out of the 17 factors, from the following categories3:  
+
+
+
+
+
+Specifically, websites lacking all the following markers: 
+
+
+ Social media presence   
+ Contact information  
+ Hiring/Employer information  
+ Names of people tied to the website 
+ Multimedia  
+ Geographic information  
+
+
+Comments: 
+
+
+ We applied the same assumptions and methodology to Criteo as we did to its peers. 
+ We used all available data for Criteo and its peers (e.g. 6 years’ of criteo data) 
+ We assumed that if x% of websites are suspect, then x% of clicks are suspect, for all x. Same 
+
+
+applies to revenue, as Criteo revenues are click based. This may be conservative, as there is 
+evidence to suggest that click clustering, browser hijacking, etc. lead to nonlinear effects.  
+
+
+ The sample size seems sufficient given that the peers’ exposure to suspect websites is within 
+a relatively tight 25%-33% range. 
+
+
+Observations:  
+
+
+ Criteo appears closely linked to publishers that promote the spread of known malware. 
+ Criteo links to and places ads on publisher sites that have millions of non-human visits. 
+ Criteo links to and displays clients’ ads on publisher sites that contain content that appear to 
+
+
+violate its own advertising guidelines. 
+ 
+
+
+
+
+
+
+
+
+What is a suspect website?
+Social Media Presence NO
+
+
+Contact Information NO
+People NO
+
+
+Multimedia NO
+Geographic information NO
+Page 18 of 19 
+ 
+
+
+END NOTES 
+
+
+Criteo is worse than its peers based on our study of its websites 
+
+
+1. http://criteo.investorroom.com/download/CRTO+Q2+2017+Financial+Results+Presentation_FIN
+AL+%28Aug%29.pdf 
+
+
+2. https://gothamcityresearch.com/2017/09/15/criteo-sa-nasdaq-crto-is-criteo-malware-and-why-
+does-criteo-refuse-to-reveal-to-its-clients-where-their-ads-are-placed-part-i/ 
+
+
+3. http://www.benedelman.org/presentations/ukinvestorshow-apr15.pdf 
+4. CASE NO. 2:16-CV-04207 SVW (MRWx): Opposition to Criteo S.A.’s motion to dismiss amended 
+
+
+counterclaims and strike affirmative defenses. Date: November 7, 2016 
+5. https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-
+
+
+adware-criteo-settles-click-fraud-litigation 
+6. https://gothamcityresearch.com/2017/09/15/criteo-sa-nasdaq-crto-is-criteo-malware-and-why-
+
+
+does-criteo-refuse-to-reveal-to-its-clients-where-their-ads-are-placed-part-i/ 
+7. Builtwith.com, Publicwww 
+8. https://www.shareprophets.com/views/11709/explosive-ben-edelman-uk-investor-show-video-
+
+
+he-nails-blinkx-again 
+9. Builtwith.com, Publicwww 
+10. https://twitter.com/edlassalle/status/908797861248331776 (the tweet has been deleted) 
+
+
+Criteo’s clients can cut 50%-60% spending without hurting sales  
+
+
+1. http://adage.com/article/cmo-strategy/p-g-slashe/309936/ 
+2. http://www.businessinsider.com/two-of-the-worlds-biggest-brands-are-cutting-back-on-on-
+
+
+digital-ads-2017-6 
+3. https://www.nytimes.com/2017/03/29/business/chase-ads-youtube-fake-news-offensive-
+
+
+videos.html?mcubz=0 
+4. Restoration Hardware earnings 
+5. https://www.wsj.com/articles/uber-sues-mobile-agency-alleging-ad-fraud-1505787048 
+6. https://www.linkedin.com/in/augustinefou/ 
+7. https://twitter.com/edlassalle/status/908801145145053184 
+
+
+Criteo peer: 54.8% of Criteo’s clicks have no attributable source 
+
+
+1. CASE NO. 2:16-CV-04207 SVW (MRWx): Answer and counterclaims of defendant Steel House, 
+Inc. to Criteo S.A.’s complaint and demand for jury trial. Action Filed: June 13, 2016 
+
+
+Industry estimates for fraudulent traffic: between 20% to 43%+ 
+
+
+1. Sources: 
+a. https://www.slideshare.net/augustinefou/mobile-display-fraud-case-study 
+b. https://www.axios.com/nearly-20-of-digital-ad-spend-could-be-fraud-2318152243.html 
+c. http://blog.pixalate.com/q1-2017-programmatic-mobile-ad-fraud-rates
+Page 19 of 19 
+ 
+
+
+d. https://www.ampower.me/article/Mobile-Advertising/A-Third-of-Mobile-Traffic-is-At-
+Risk-of-Fraud-11-
+277109?eqs=SzhNeVdEU2hMQTJXMlg5VmlRci9WWTVkYllKUFBSdjdZN3FRaUU1UDlOOE
+VBUFc4dDNOS0N3PT0= 
+
+
+e. https://www.scmagazine.com/bad-bot-bad-bot--29-percent-of-web-traffic-from-
+malicious-bots/article/529816/ 
+
+
+2. SEC filings and Gotham assumptions 
+
+
+Criteo is targeting less sophisticated clients, per ARPU trends 
+
+
+1. Criteo’s SEC filings 
+2. 2015 10-K 
+3. 2016 10-K 
+4. Criteo’s call transcripts for the period from Q4 2015 to Q1 2017 
+
+
+Criteo has not disputed any of our or MMI’s specific claims 
+
+
+1. https://gothamcityresearch.com/2017/09/15/criteo-sa-nasdaq-crto-is-criteo-malware-and-why-
+does-criteo-refuse-to-reveal-to-its-clients-where-their-ads-are-placed-part-i/ 
+
+
+2. https://which-50.com/criteo-reacts-fury-ad-fraud-allegations-resurface/ 
+3. https://which-50.com/questions-criteo-june/ 
+
+
+What is a suspect website: our assumptions and methodology 
+
+
+1. https://www.linkedin.com/in/augustinefou/detail/treasury/position:106271/?entityUrn=urn%3
+Ali%3Afs_treasuryMedia%3A(ACoAAAABSdwBS5CnGuw-
+YsiigzkjyfdjsEVRgKY%2C1492651699719) 
+
+
+2. http://filmvilag.org/ 
+3. Builtwith.com

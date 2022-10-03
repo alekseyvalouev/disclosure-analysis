@@ -1,0 +1,1377 @@
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 1/23
+
+
+Mellanox: End Of Romley Upgrade Signals Steep Downside
+Sep. 10, 2012 8:30 AM ET29 comments
+by: Kerrisdale Capital Management
+
+
+We believe that shares of Mellanox Technologies, Ltd. (NASDAQ:MLNX) are highly
+overvalued, not only because it is a semiconductor company operating in a small and
+technologically fast-changing niche trading at an absurdly high valuation, but, equally as
+important, the Intel CPU chip upgrade cycle which fueled its past few quarters of atypical
+growth is about to plateau, and then sharply decline.
+
+
+Investors apparently misunderstand the cyclical nature of Mellanox's 56 GB/s "FDR"
+Infiniband business and have mistakenly extrapolated the recent uptick in Q1/Q2 growth
+into a long-term trend. As the upgrade cycle for Intel's Romley CPU plays out, Mellanox's
+FDR revenue could plateau in Q4 2012 and sharply reverse in 2013. When this occurs,
+the 50%+ quarter-over-quarter growth that investors have come to expect will be a thing of
+the past. As Mellanox's lead product (54% of Q2 2012 revenue), FDR has been tailored
+specially for the Romley CPU system, meaning that FDR revenues probably tie very
+closely to Romley CPU shipments. Using this assumption and FDR revenue estimates, we
+estimate that quarter-on-quarter growth of the base business, excluding FDR-related
+revenue, was only 0.7% in Q2 2012. Non-existent growth in the core business hardly
+justifies the 50% share price bounce (from $65 to $95) that Mellanox experienced after its
+second quarter earnings release, let alone the further increase to $110 in the past two
+months.
+
+
+Unfortunately for most investors, the cyclical nature of the tech hardware business is
+rarely modeled by analysts, who prefer straight-line forecasts and sky-high, AMZN-like
+valuation multiples for whichever business is in vogue at the time. But while they lavish
+Mellanox with unbounded praise in their qualitative analysis, most analysts have actually
+modeled a material growth slowdown in 2013. As such, we believe that investors in MLNX
+are currently playing with fire and would be wise to avoid shares at the current
+astronomical valuation level.
+
+
+As for the notion that MLNX may be acquired, we may explain in future articles that the
+idea of an acquisition is preposterous at prices anywhere close to the current trading
+levels. A scan of the tech landscape tells us that of the few strategic buyers that might
+exist, most couldn't afford MLNX's current valuation (such as ELX, QLGC, HPQ). Those
+that can would prefer higher-margin branded products and services (ORCL and IBM), or
+have already made their Infiniband investments (NASDAQ:INTC). Others would likely
+
+
+
+https://seekingalpha.com/symbol/MLNX
+
+https://seekingalpha.com/symbol/AMZN
+
+https://seekingalpha.com/symbol/ELX
+
+https://seekingalpha.com/symbol/QLGC
+
+https://seekingalpha.com/symbol/HPQ
+
+https://seekingalpha.com/symbol/ORCL
+
+https://seekingalpha.com/symbol/IBM
+
+https://seekingalpha.com/symbol/INTC
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 2/23
+
+
+allocate internal resources to create a next-generation rival product instead of overpaying
+for a risky acquisition (NASDAQ:BCOM). Since Infiniband remains a small niche market
+confined to high-end supercomputing, no rational buyer would consider acquiring MLNX
+for a $5+ billion valuation, in our opinion.
+
+
+Notwithstanding its current share price bubble, we believe that Mellanox has built itself a
+niche business and achieved a big win through the Romley upgrade cycle. But high-speed
+computing is a cutthroat space and Mellanox still faces competitive risks from all sides
+(e.g. Intel's Infiniband and Cray interconnect, 40GB/s low-latency Ethernet, etc.). Since
+high-tech hardware is such a cyclical, competitive space, almost all peer companies trade
+below 10x Forward EV/EBITDA and many trade below 5x. Mellanox's 28x FY12E EBITDA
+is in another stratosphere, and as frequently occurs in the tech space, we expect shares
+to sharply snap back at the slightest earnings waver. Make no mistake about it: this is a
+momentum-driven growth stock and its shares can only levitate at these prices while the
+company delivers spectacular growth numbers. Even Mellanox can only defy gravity for so
+long.
+
+
+THE ROMLEY UPGRADE CYCLE HAS DRIVEN SHORT-TERM GROWTH
+
+
+Mellanox provides premium Infiniband chips used in high-performance computer ("HPC")
+clusters. Infiniband is a hardware interconnection tool that allows stacks of databases,
+servers, and computers to 'talk' to one another. While most commercial servers are
+perfectly content with 1G/s or 10G/s Ethernet interconnection, a small niche of specialized
+HPC clusters prefer the higher speed and low latency of Infiniband, of which MLNX is the
+leading supplier, and are willing to pay the higher prices associated with it. In particular,
+Intel's Romley CPU core, which was released in 1Q 2012, included Mellanox's products
+as among its preferred interconnection tools; therefore, as has been the case over the last
+few quarters, each time that an HPC cluster upgrades to the Romley core, many will
+purchase the FDR interconnectors as well.
+
+
+We believe that investors do not fully appreciate the cyclicality of Mellanox's business.
+Intel's supercomputer processing units, the industry standard, undergo predictable product
+cycles. Sales will ramp for three to four quarters before plateauing for a quarter or two.
+CPU motherboard sales then fall sharply ahead of a new product launch since customers
+won't pay top-dollar for soon-to-be outdated technology. Because Mellanox's FDR
+Infiniband chips are usually purchased alongside high-end CPUs, Mellanox's sales cycle
+should track closely to the Romley cycle. In fact, since much of Mellanox's FDR customers
+represent the highest-end of the supercomputing market, we would actually expect the
+FDR cycle to have a shorter duration than the overall Romley cycle.
+
+
+
+https://seekingalpha.com/symbol/BCOM
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 3/23
+
+
+This is because those willing to pay the extra costs for FDR over Ethernet were probably
+also the first in line for the upgrade in Q1 and Q2 2012. Therefore, we expect that
+Mellanox's temporary Romley-related uplift will be gone by Q4 2012 or Q1 2013,
+potentially eliminating up to half of Mellanox's revenue in the quarters ahead of the
+next server CPU launch. Since most analysts have merely assumed straight-line quarter-
+over-quarter growth, we believe that Mellanox could materially miss estimates during Q4
+2012 or FY 2013 earnings reports.
+
+
+Below is a chart of Intel's Romley server upgrade trajectory, as compared with historical
+high-end HPC server cycles.
+
+
+As we can see, the Romley server ramp will probably plateau within the next few quarters.
+Then Romley purchases should plummet.
+
+
+The most recent 10Q discloses FDR-related and non-FDR-related revenue in Q1 2012
+and Q2 2012. Growth in non-FDR related revenue was essentially flat in Q2 2012
+compared to Q1. As previously discussed, a majority of FDR revenue is tied to the Romley
+CPU system.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1356104/000110465912054182/a12-13314_110q.htm
+
+https://static.seekingalpha.com/uploads/2012/9/7/559143-13470578279202678-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 4/23
+
+
+Deutsche Bank acknowledges the impact of the Romley release by stating, "Anticipation
+of the Romley release led to some pent-up demand for Mellanox's products, which at least
+partly explains the 111% YoY increase in revenues in Q2 2012" (DB September 4th, 2012
+Research Report). Even more worryingly for Mellanox, Intel has indicated that Romley
+uptake may have spiked more quickly than previous cycles. INTC stated that "one month
+after launch, Romley has shipped nearly twice the volume of Nehalem at the same point in
+its ramp" (Q1 2012 Earnings Call).
+
+
+The chart below shows revenue estimates using Wall Street consensus. We've also
+overlaid grey circles to represent how we expect the Romley product cycle to play out.
+Notice that analysts only have a 3% slowdown forecasted for Q1 2013. Compare that to
+the expected Romley product cycle in our graph above and you have the recipe for a big
+earnings miss.
+
+
+Sources: CapitalIQ, Bloomberg, Company filings 
+(1) The number of available estimates for Q1 2013 and onwards decreased from twelve to
+nine.
+
+
+Despite their flourishing compliments and extraordinary target prices, Wall Street analysts
+generally agree that the recent uptick in revenue growth cannot be sustained. Analysts
+expect MLNX to revert to single-digit top-line growth by Q4 2012. This type of growth
+profile hardly justifies Mellanox's current 9.0x 2012E revenue (26.7x EBITDA) valuation
+multiple. For comparative purposes, Facebook (NASDAQ:FB) has a 6.3x 2012E revenue
+multiple, Apple (NASDAQ:AAPL) is about 3.5x, and Broadcom is 2.4x.
+
+
+
+https://seekingalpha.com/article/505221-intel-s-ceo-discusses-q1-2012-results-earnings-call-transcript?part=single
+
+https://seekingalpha.com/symbol/FB
+
+https://seekingalpha.com/symbol/AAPL
+
+https://static.seekingalpha.com/uploads/2012/9/7/559143-13470610294910064-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 5/23
+
+
+Tellingly, Mellanox management only offers guidance for one quarter out (Q3 revenue
+guidance of $150-$155m). Perhaps this is because they don't want to alert the Street to a
+potential contraction as the Romley cycle ebbs. Here is an excerpt from the Q2 2012
+Earnings Call:
+
+
+<Equity Analyst>: "As we think about our models for December then, the December
+quarter, should we think in terms of there having been a lot of one-time business in
+the September quarter or should we think about growth again sequentially in the
+December quarter?"
+
+
+<Eyal Waldman, Mellanox CEO>: "Sure. So, we can't give you any guidance for the
+December quarter."
+
+
+It's unusual for companies to provide guidance only one quarter ahead, and comments
+such as this indicate that management is in no hurry to open the kimono.
+
+
+VERY FEW BUSINESSES ACTUALLY REQUIRE 56 GB/S SPEED
+
+
+When it comes to purchasing CPU server processors, IT purchasing managers are
+practical. The vast majority of corporations are more than satisfied with less-costly 10GB/s
+Ethernet. Plenty of data centers even run at speeds of 1GB/s without any disruptions.
+
+
+As such, the type of customer that is willing to spend hundreds of thousands, or even
+millions, of dollars to upgrade their server clusters every 2-3 years is few and far between.
+The high-end of the supercomputing market might include high-frequency trading, military
+applications, cutting edge physics and some web 2.0 / cloud computing companies, but
+most clusters don't need ultra-fast low-latency performance. While we acknowledge that
+the overall high-performance computing market is expanding (7.5%/year according to the
+HPC Advisory Council), this is an ongoing secular shift rather than a sudden step-change,
+as the precipitous shift in Mellanox's valuation would indicate.
+
+
+40GB/S LOW-LATENCY ETHERNET: "NOT AS FAR AWAY AS YOU MIGHT THINK"
+
+
+As we've previously alluded to, Ethernet is significantly cheaper than Infiniband. According
+to HP's website, a 40GB/s Infiniband adaptor costs $1,295 while a 10GB/s Ethernet
+adaptor costs $699 and a 1GB/s Ethernet adaptor will run you only $229. That price
+differential is especially significant considering that a standard HP ProLiant server starts at
+only $858. Given this context, we believe that only deep-pocketed, price insensitive
+customers are willing to pay for Infiniband over Ethernet. That may soon change should
+40GB/s Ethernet networks become widely deployed, causing some high-performance
+
+
+
+https://seekingalpha.com/article/731101-mellanox-technologies-ceo-discusses-q2-2012-results-earnings-call-transcript
+
+http://www.hpcadvisorycouncil.com/pdf/vendor_content/IDC_slides_111019.pdf
+
+http://h30094.www3.hp.com/product.asp?sku=10385869&mfg_part=649281-B21&pagemode=ca
+
+http://h30094.www3.hp.com/product.asp?mfg_partno=652503-B21&jumpid=in_r2910_tsg_serveroptions%2F652503b21%2Fheasmith_vplazaola
+
+http://h30094.www3.hp.com/product/sku/10427375/mfg_partno/652497-B21&jumpid=in_r3924_us%2Fen%2FSASS-SMB-PS%2FCustomerViewed%2FOverview%2FSelect%2FSMB-PS%3AServer+options%3ANICs+for+servers%3AGigabit+NICs%2F652497-B21%2F652503-B21
+
+http://h71016.www7.hp.com/dstore/SubFamMatrix.asp?oi=E9CED&BEID=19701&ProductLineId=431&LowPrice=%24858%2E00&SBLID=&FamilyId=3309&LowBaseId=36191
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 6/23
+
+
+computing customers to switch to Ethernet. But Ethernet networks typically have higher-
+latency than Infiniband, latency being the other measure of speed along with bandwidth.
+However, if 40GB/s low-latency Ethernet networks become widely deployed, that could
+result in even more HPC customers might switch from Infiniband. On their August 9th Q4
+2012 earnings call, Emulex, a maker of fiber channel and Ethernet connectors, announced
+its intention to create low-latency 40GB/s and 100GB/s Ethernet products:
+
+
+Customers have asked us to provide a low-cost alternative to InfiniBand that
+could be used to converge LANs, SANs and HPC workloads while allowing IT
+managers to leverage a common set of tools and practices in the data center. We
+see the opportunity to drive the second major phase of network convergence by
+combining HPC and IP networks on a single wire with software designed networking
+tools leveraging low latency 40gb Ethernet... Our investment in high-speed 40gb
+and 100gb Ethernet ASICs… will allow us to very effectively tap into the rapidly
+growing high performance computing opportunity. This strategy isn't just about
+pointing into the future as we're starting to make announcements in this space now. 
+- Emulex President and COO, Q4 2012 Call
+
+
+Emulex goes on to mention that they've had numerous customers in the "web and cloud
+space" inquire about an alternative to native Infiniband, which is costly and cumbersome.
+They also note that, "We're not seeing InfiniBand so much in the storage space," which
+Mellanox claims is roughly one third of their total addressable market (3.4m of 11.8m
+endpoints).
+
+
+Emulex currently trades below 1x 2012E revenue and around 4x EBITDA, which doesn't
+bode well for MLNX's future valuation should 40GB/s Ethernet displace a portion of
+Infiniband's market share.
+
+
+IS INFINIBAND EVEN THE HPC INTERCONNECT TECHNOLOGY OF THE FUTURE?
+
+
+Semiconductors are a very fickle business. Brief product life cycles exist thanks to the
+continued proof of Moore's Law. This year's hero could be the next year's zero. At the
+moment, Mellanox is only one of two suppliers that make silicon for InfiniBand switches
+and adaptors, the other being QLogic's former Infiniband business. QLogic has historically
+lagged behind Mellanox's technology, and thus decided to sell its InfiniBand business to
+Intel for $125m in January 2012. Intel was one of the original developers of Infiniband
+silicon in the early 2000s, but it then switched its focus to Ethernet technologies. QLogic's
+Infiniband can only achieve 40GB/s, putting them a cycle behind on the technology curve.
+But many analysts believe that Intel's next CPU core (i.e. Romley's successor) may be
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2012/09/Emulex-Corporation-Q4-2012-Earnings-Call-Aug-09-2012-1.pdf
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 7/23
+
+
+able to bundle its in-house InfiniBand interconnection technology with its next generation
+server CPUs. Should this occur, high-performance computing clusters would have little
+reason to purchase high-priced interconnectors from Mellanox during the next product life
+cycle.
+
+
+Additionally, if lower-cost Ethernet can be created to run at around low latency 40GB/s,
+many cost-conscious datacenters could efficiently operate without a proprietary Infiniband
+network. For an enterprise surrounded by such near-term technological risks, Mellanox
+currently trades at a completely unjustifiable multiple. That's especially the case given that
+once the Romley CPU upgrade cycle abates, we expect Mellanox's growth to materially
+slow over the next few quarters. Once the market foresees this, Mellanox's astronomical
+valuation multiples will quickly fall back to Earth.
+
+
+HIGHLY INFLATED VALUATION IS UNJUSTIFIED
+
+
+Below is a summary of MLNX's valuation:
+
+
+We would propose a thought exercise to any investor. Go ahead and check the valuation
+multiples for your current investments through Yahoo Finance, Bloomberg or a similar
+portal. We would guess that most are priced well below MLNX. As the Facebook IPO
+demonstrated, even disruptive monopolistic businesses are not good investments at
+inflated valuations, let alone single-product technological components suppliers.
+
+
+For additional perspective, we've indexed the historical trailing EV/EBITDA multiple for an
+index of semiconductor and interconnector companies:
+
+
+As the chart below shows, the industry generally has traded well below 10x trailing
+EV/EBITDA for the past 2 years:
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 8/23
+
+
+Index includes Intel, Broadcom, QLogic, Emulex, Qualcomm, Texas Instruments,
+Broadcom, Microchip Technology, Marvel Technology, Brocade, ON Semiconductor, and
+Advanced Micro Devices  
+Source: CapitalIQ
+
+
+Mellanox currently trades at 71x LTM EBITDA and 26x FY12E EBITDA, both well outside
+the range of our chart.
+
+
+A SOBER ANALYSIS: WHAT'S IT WORTH?
+
+
+According to the industry-sponsored mouthpiece, the HPC Advisory Council, annual HPC
+interconnect revenue will reach $2bn by 2014. This trade group forecasts that Infiniband
+will have 43% of this market (vs. Ethernet and proprietary interconnectors).
+
+
+While the industry analysts that we've spoken to believe that the $2bn market figure might
+be too high, we'll be generous and use that figure to create an 'everything-goes-right' peak
+valuation target for Mellanox. Assigning Infiniband a 45% market share, in line with HPC's
+estimate, would infer overall Infiniband revenue of $900m/year by 2014. If Mellanox
+dominates the market with 90% share, MLNX could theoretically achieve about $200m of
+revenue and $60m EBITDA per quarter, or $240m of 2014 EBITDA (using a charitable
+30% EBITDA margin). Since this is a peak EBITDA target two years forward, we would
+generally assign a multiple below the industry peer average of 9x. But even if we use a
+
+
+
+http://www.hpcadvisorycouncil.com/pdf/vendor_content/IDC_slides_111019.pdf
+
+https://static.seekingalpha.com/uploads/2012/9/7/559143-13470638489662864-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 9/23
+
+
+princely 10-12x 2014E EBITDA multiple range, which is beyond the top-end of the
+industry's trading range, the business would only be worth $2.7-3.0bn or
+$60-$70/share.
+
+
+This is not our estimate of the fair value. Rather, it is the highest valuation we could
+reasonably fathom should Mellanox execute perfectly over the next two years. This would
+not only be a herculean task in and of itself; it would require Intel to fail to generate its own
+Infiniband alternative to MLNX's technology and would also require Infiniband to maintain
+its current market share relative to other technologies. We don't see how a rational
+investor could possibly accept the risk-reward trade-off of MLNX's current share price of
+$110 in light of these significant downsides.
+
+
+MELLANOX'S VALUATION APPEARS UNSUSTAINABLE RELATIVE TO SELECTED
+PEERS
+
+
+Below is a table comparing Mellanox's valuation to other comparable companies in the
+Ethernet and Fibre Channel semiconductor sub-sector, as well as the general
+semiconductor sector.
+
+
+We think the best long-term comparables for Mellanox are the Ethernet/Fibre channel
+companies, Emulex and QLogic. Infiniband is currently experiencing a resurgence much
+like Ethernet did from 2006-2009. We can use historical valuations from that period to give
+us a sneak-peak into what the future might hold for Mellanox. The forward EBITDA
+multiples for ELX and QLGC briefly hovered near 10x in 2007 before reverting to the 5x -
+8x range following the financial crisis. Based on this analysis and the trading range of our
+
+
+
+https://static.seekingalpha.com/uploads/2012/9/7/559143-1347062397864704-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 10/23
+
+
+comparable index, we are comfortable assigning Mellanox a 10-12x FY14E EBITDA
+multiple, which we feel more than compensates Mellanox for its current technological lead.
+The prudent investor would of course only purchase or hold shares at a substantial
+discount to our 'peak value' case of $60-70/share.
+
+
+We believe that Mellanox's valuation multiple will revert to levels much closer to its peer
+group once investors realize that Infiniband is susceptible to technological risks just like
+Ethernet was a few years ago and fibre networks were before that.
+
+
+WE'VE SEEN THIS MOVIE BEFORE...
+
+
+As we might expound upon in a future article, the tendency for investors to mistakenly
+over-extrapolate a few quarters of growth is a recurring theme in the tech hardware
+industry. We would direct investors to study the share price corrections of Sycamore in
+1999-2000 (optical switches for fiber networks), STEC in 2009 (solid state drives), or
+Acme Packet in 2011 (session boarder controllers for 4G-LTE). Time and time again, the
+market shows a tendency to project recent quarterly growth into a long-term trend. But
+frequently, growth will ebb following a short-term earnings spike as the product cycle
+peaks, new entrants emerge and the technological landscape shifts. The key for a rational
+investor is to understand why the market's mispricing exists and compare that to historical
+precedents.
+
+
+MLNX shares nearly tripled from $35 to $90 following the Q1 and Q2 earnings reports,
+reports we believe were driven to the upside by a short-term Romley upgrade cycle.
+MLNX's stock was then boosted from $90 to $110 on July rumors of a buy-out by Oracle
+
+
+
+http://www.globes.co.il/serveen/globes/docview.asp?did=1000769252%26fid=1725
+
+https://static.seekingalpha.com/uploads/2012/9/7/559143-1347067227325966-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 11/23
+
+
+or IBM. Never mind that Oracle and IBM are extremely unlikely to pay $5bn+ for an
+inconsequential supplier (MLNX sales to Oracle were $18.3m in 2011). But fanciful rumors
+such as these are taken as legitimate news stories during investment frenzies. These
+frenzies have been buffeted by irresponsible analyst price targets and an extraordinarily
+busy PR department at Mellanox. So far in 2012, the company has created no fewer than
+55 press releases, most of which contain unsubstantial, promotional headlines. We find it
+interesting that for the majority of the press releases, the company does not file
+corresponding 8-Ks, indicating that the news is a non-material event. Just in the last few
+weeks, Mellanox has flooded investors with convoluted product headlines such as:
+
+
+"Mellanox InfiniBand and Ethernet Interconnect Solutions Incorporated Within
+Microsoft Windows Server 2012 Enable the Highest Performance for Cloud,
+Database and Storage Infrastructures" - Sept 4th 2012
+
+
+"Mellanox 40 Gigabit Ethernet Solutions Deliver Record Virtualization Performance
+Over VMware ESXi 5.1" - Aug 28th 2012
+
+
+"Mellanox's Hardware-Based I/O Virtualization Solution Over VMware ESXi 5.1
+Enables Industry's Highest Performance in Virtualized Data Centers" - Aug 28th
+2012
+
+
+"Mellanox Introduces New RDMA-Based Virtual SAN Software Appliance Delivering
+6X Higher Performance than Fibre Channel SAN Hardware" - Aug 27th 2012
+
+
+What we view as more revealing than these press releases is the fact that MLNX
+conducted a secondary offering in late 2011 at prices 70% lower than current levels.
+
+
+IF MELLANOX IS UNDERVALUED AT $110/SHARE, WHY WAS THE COMPANY
+SELLING SHARES AT $31.75
+
+
+On September 20th, 2011, MLNX diluted shareholders by about 10% by issuing 3m
+shares (plus a 450k greenshoe) at $31.75, netting MLNX $90.7m in gross proceeds. The
+company did not disclose a specific use of proceeds, instead using boilerplate 'general
+corporate purposes' language. Since the company had $102m of cash at the time and was
+cash flow positive, MLNX does not appear to have had a good reason for diluting
+shareholders. It is telling when a debt-free, cash flow positive business dilutes existing
+shareholders by nearly 10%. Perhaps management decided to take advantage of what it
+considered to be a frothy valuation at $31.75/share. Today, at prices 3.5 times higher than
+the September 2011 valuation, MLNX's share price is no longer frothy; it is downright silly.
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 12/23
+
+
+THE 800 POUND GORILLA: INTEL
+
+
+The markets in which we operate are extremely competitive and are characterized
+by rapid technological change, continuously evolving customer requirements and
+fluctuating average selling prices. We may not be able to compete successfully
+against current or potential competitors.  
+- MLNX 2011 Annual Report
+
+
+As Seeking Alpha contributor "Infitialis" adeptly summarized in his report, Intel has
+recently positioned itself to re-enter the interconnector market with three acquisitions in
+the past thirteen months: QLogic's Infiniband, Cray's proprietary interconnectors, and
+Fulcrum Microsystem's Ethernet. We believe that this holistic approach to interconnector
+technology (i.e. more than just Infiniband) could allow Intel to offer a bundled
+CPU+interconnector offering when the successor to Romley is released.
+
+
+At the moment, Intel appears to have made a strategic decision to delay direct competition
+with Mellanox during the Romley release. Instead, Intel is probably attempting to skip a
+product cycle and leapfrog Mellanox with a bundled offering. We believe that this week's
+Intel Developer Forum might provide a glimpse into Intel's interconnector future. At the
+current price levels, we believe MLNX shares could sell off sharply should Intel make any
+interconnector-related announcements.
+
+
+THE INTEL DEVELOPER FORUM
+
+
+Much like the Apple product forums made infamous by Steve Jobs, Intel hosts a biannual
+Intel Developer Forum (IDF) to discuss its latest technological advances and product
+updates. The next IDF will be held September 11 - 13th and key items on the agenda
+include next-generation CPUs, smartphone/tablet processors, and Windows 8 integration.
+But what intrigues us with respect to Mellanox is Intel's scheduled presentation dedicated
+to interconnector technology entitled, "HPC Fabric Performance Overview." According to
+the agenda, "This session covers the architecture of the recently acquired Intel True Scale
+Fabric [QLogic's Infiniband]." We would not be surprised to hear Intel hint at its next-
+generation interconnector technology, be it Infiniband or a Cray-related proprietary mode.
+If Intel can bundle its next-generation CPU with in-house interconnector adaptors and
+switches, Mellanox could lose most of its FDR-related revenues in 2014 when the
+successor to Romley is launched.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1356104/000104746912001634/a2207576z10-k.htm
+
+https://seekingalpha.com/article/843191-mellanox-bubble-to-burst-with-intel-foray-possibly-threatening-existence?source=yahoo
+
+http://seattletimes.com/html/businesstechnology/2018061675_cray25.html
+
+http://newsroom.intel.com/community/intel_newsroom/blog/2011/07/19/intel-to-acquire-fulcrum-microsystems
+
+http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/idf-2012-san-francisco.html
+
+https://intel.activeevents.com/sf12/scheduler/catalog/catalog.jsp?sy=23074
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 13/23
+
+
+Comments (29)
+
+
+We'll end this section with a quote from Scott Fulton, a journalist for the cloud computing
+website ReadWriteWeb, who remarked, "If anyone can compete with Mellanox using a
+QLogic product line, it's Intel."
+
+
+CLOSING REMARKS
+
+
+In summary, we congratulate Mellanox for creating an exciting technology and building an
+impressive customer base. But the high-technology semiconductor business is extremely
+cyclical and the "alliances" developed with the OEMs during Mellanox's temporary
+technological lead will count for little as competitors emerge. Low-cost, low-latency
+Ethernet or a bundled Intel CPU+Infiniband motherboard could very well disrupt
+Mellanox's near-monopoly within the next few years. Even more ominously for investors,
+the recent surge in quarterly revenue growth is probably a fleeting event. Once the
+Romley upgrade cycle plays out, Mellanox's FDR chip sales (54% of total revenue in Q2)
+should sharply reverse. If this causes an earnings miss in Q4 2012 or early 2013, MLNX's
+share price should quickly correct itself far lower than today's $110 trading level.
+
+
+Disclosure: The author is short MLNX. The author wrote this article themselves, and it
+expresses their own opinions. The author is not receiving compensation for it. The author
+has no business relationship with any company whose stock is mentioned in this article.
+
+
+Additional disclosure: Read our full disclaimer at kerrisdalecap.com/legal-disclaimer-3. I
+am short and own options on MLNX and stand to realize gains in the event that the price
+of the stock declines. To the best of my knowledge, all information in this article is
+accurate and reliable, but I present the information "as is". I will not necessarily update or
+supplement this article in the future. Following publication, I may transact in securities of
+the company covered herein.
+
+
+ Like this article
+
+
+Ashraf Eassa, Contributor
+Thoroughly researched. Well done. It takes a lot more to present a great short argument than it does to present a
+great long argument.
+
+
++1 follower to you.
+
+
+10 Sep 2012, 08:43 AM
+
+
+
+http://www.readwriteweb.com/cloud/2012/01/infiniband-acquisition-puts-in.php
+
+http://kerrisdalecap.com/legal-disclaimer-3
+
+https://seekingalpha.com/author/ashraf-eassa
+
+https://seekingalpha.com/user/1013039
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 14/23
+
+
+themario
+I hope Cramer doesn't read your article. He rings the gong everytime someone mentions his favorite company.
+According to him it will hit 200 by years end and we all know Cramer is never wrong.
+
+
+10 Sep 2012, 08:58 AM
+
+
+Ashraf Eassa, Contributor
+Cramer is not a technology buff, so I can understand his confusion. But see, I don't think even he believes
+that MLNX is worth its insane multiples. It's just fun to talk about these momo plays.
+
+
+I will probably initiate a short position today.
+
+
+10 Sep 2012, 09:09 AM
+
+
+Pinocchio1
+"I am short and own options on MLNX and stand to realize gains in the event that the price of the stock declines."
+
+
+It's disgusting how a person with personal intrest manages to dro[ a stock by 20%, due to the lack of common info on
+this technology
+
+
+I hope you would squeezed out of your home 
+The shorts which create panic and gain from it like Einhorn, Citron and the writer here... are why we want to  
+Disallow shorts !!! they have nothing to do with the otigins and purpose of the stock market, and it's role in the
+economy. It's the main play of market manipulation
+
+
+OCCUPY WALL ST !!!
+
+
+10 Sep 2012, 09:42 AM
+
+
+Ashraf Eassa, Contributor
+He's just exposing the horribly overvalued nature of the stock.
+
+
+10 Sep 2012, 09:46 AM
+
+
+Pinocchio1
+As a Data Center architect... a guy who know the insides of these technologies... I'll tell you that this guy has
+no clue what he is talking about. 
+The need for these super highways are a necessary link to the faster and higher digital volumes. 
+Both MSFT and ORCL had projects in this area and due to MLNX advantage they stopped their projects and
+conceded to MLNX as a monopoly in this area. Implied is the moat around the technology.
+
+
+It's positioning is not as central as CSCO, but still it's a necessary technology with no competition.  
+He draws comparisons to other internet technologies but has no clue of what he is talking about. The entry in
+these other areas was trivial. The innovation nice but not exceptional (the vision is what was exceptional, but
+this implies a shorted life span or market leading)
+
+
+This is a financial person doing a brain surgery (technically speaking). these financial analysis types have no
+clue clue about real productive economy. If they were so good, how come they needed our bailout money and
+
+
+
+https://seekingalpha.com/user/1013039
+
+https://seekingalpha.com/author/ashraf-eassa
+
+https://seekingalpha.com/user/1065059
+
+https://seekingalpha.com/author/ashraf-eassa
+
+https://seekingalpha.com/user/1065059
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 15/23
+
+
+how come they trade under book value.
+
+
+The problem is that the real professional have real jobs and don't spend their time writing articles for the
+economic media. 
+Do you think for 1 moment that Uncle Ben is better than Bezos/Cook or any other leading CEOs? think again.
+a guy who print 2 types of paper, money and Treasuries and buy these papers from himself to himself... and
+the whole world is waiting now until Thursday to hear his wisdom. As if his moving papers from 1 pocket to
+another ever created 1 job. just another example to the bias towards the financial sector... Jamie Dimon with
+his sharp hair loses 7 billion $ and Bloomberg TV treat him like a God.
+
+
+10 Sep 2012, 10:15 AM
+
+
+hakujin
+you do realize INTC is also buliding out a 100GB infiniband rival don't you? have you read this article here:
+http://seekingalpha.co...
+
+
+since you claim to have the technical know-how to gauge this cap, I encourage you to refute the author or the
+comments. I look forward to your reply.
+
+
+10 Sep 2012, 10:25 AM
+
+
+Ashraf Eassa, Contributor
+It's all about valuation.
+
+
+10 Sep 2012, 10:26 AM
+
+
+Akram's Razor, Marketplace Contributor
+Actually this piece is great, if anything they were too soft on mellanox. Listen to a recent hpc wire interview
+with the cray ceo about why they sold their interconnect hardware biz to intel. Intel's direction is without a
+doubt to bring the interconnect closer to the processor and they have been buying assets to pursue this
+strategy. If cray is willing to sell them the hardware and license it back to maintain their edge it says a lot
+about the future direction of this biz. And if the only buyer of interconnect assets is intel that says something.
+
+
+10 Sep 2012, 11:03 AM
+
+
+Pinocchio1
+I don't have the time to respond to the whole thing... but just in the area of valuation, an example of bending
+the facts... playing with words to lead reader in a very specific direction.
+
+
+MLNX TTM pe is about 50.
+
+
+"50%+ quarter-over-quarter growth that investors have come to expect" 
+If we expected 50% growth Q/Q this will give a forward earning of ~$8 or forward pe of 13 to a company
+growing at 500% clip, right? do you realize the PEG on this one? It's better than AAPL's, without the
+limitations of size... AAPl cannot grow 10 times it current size, MLNX can. there is no roof over their growth. 
+SO we DON"t actually "expect" 50% Q/Q, right? If we did the stock would be at $200+ or $400 ?
+
+
+
+https://seekingalpha.com/user/2620701
+
+https://seekingalpha.com/a/i2lz
+
+https://seekingalpha.com/author/ashraf-eassa
+
+https://seekingalpha.com/author/akram-s-razor
+
+https://seekingalpha.com/checkout?slug=akram-s-razor&source=comment_author_tag
+
+https://seekingalpha.com/user/1065059
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 16/23
+
+
+Another thing is the writer does mention that the specific technology is only 1/2 of the income and
+immediately forgets about the other half. As if we are dealing with Arena (a 1 drug pharma) 
+Forgets that the engineers who created both halves are still WORKING there (as opposed to writing articles
+to push their shorts). 
+Working on the next generation, and by the time Intel will/might? produce their product... who knows.
+
+
+"But fanciful rumors such as these are taken as legitimate news" 
+The guy spreads a rumor, disputes it 2 minutes later, in order to discredit MLNX (fancy dancing with words,
+borderline criminal in this case - because of the short) 
+who is talking about an Oracle take-over? and you know what - some big companies spent bigger money on
+less valuable assets. Ask MSFT (skype and others), HPQ (I for get whom), ORCL (SUN)
+
+
+By the way - Oracle is one of the biggest strategic customers, and if buying SUN made sense, so would
+MLNX, a lot more sense, to anyone who understands the technologies - buying SUN would have made more
+sense for EMC than for ORCL, but not really a good purchase for ANYONE... without geting too deep into it.
+SUN was on the DEC trail to nowhere for 10 years. Too mant parallel weak chips with diminishing returns
+limitation on computing power... instead of making stronger chips like INTC, HPQ
+
+
+http://bit.ly/QzAoph
+
+
+Small details, who cares, I am just trying to make a buck on my shorts
+
+
+That's it - I don't have time to pull out every rock from this well. 
+Initiate all the shorts you want - but my advice - pull them before next earnings (or maybe even before 4 pm
+today - watch the graph carefully)
+
+
+This guy has a long way to go before becoming the next Cramer
+
+
+10 Sep 2012, 11:25 AM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Pinocchio,
+
+
+Thanks for your thoughts. We always appreciate the chance to defend our views.
+
+
+We agree with you that the need for high-speed data centers is growing and we acknowledge that by
+referencing the HPC Advisory Council’s 7.5% figure. But that doesn’t mean MLNX is a good investment no
+matter what the price.
+
+
+Frankly, we aren’t sure MLNX can grow at all after around Q4 2012, much less achieve an attractive P/E/G.
+Since the highest-end of the supercomputing market (i.e. Mellanox’s FDR customers) is usually first-in-line to
+upgrade their CPUs, we could see a scenario where FDR revenue begins to tail off with the projected
+slowdown in the Romley cycle (see our first chart). Remember, these HPC clusters only need to upgrade
+once.
+
+
+Ultimately, none of us can know with certainty whether Mellanox beats Intel to the next-generation
+interconnector. But we do expect that the next upgrade cycle won’t occur until late 2013 at the very earliest.
+This leaves several quarters (Q4 2012 – late 2013) where MLNX could see FDR-related revenue falling
+
+
+
+https://seekingalpha.com/symbol/sun
+
+http://bit.ly/QzAoph
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 17/23
+
+
+without yet having its next-generation product in place. Also consider that a 100GB/s+ interconnector is only
+useful if you have a processor system that can utilize that speed, so MLNX might also be constrained by
+whenever Intel (or another semiconductor company) releases a next-generation CPU. 
+According to the 2011 10K, Oracle is no longer such as large customer. As we mentioned, Mellanox’s 2011
+sales to Oracle were only $18.3m, or 7% of Mellanox’s total sales. This percentage actually fell from 8% in the
+prior year. Ultimately, we don’t think that Oracle would pay $6bn for an $18m supplier who is only expected to
+achieve $531m in 2012. That would imply an 11x+ revenue multiple. For comparison, the forward multiple on
+the Sun deal was about 0.5x. You could well be correct that’s the some type of strategic value there, we just
+don’t think the numbers add up at this price.
+
+
+We aren’t sure of your TTM P/E source, but if you go through the past four quarters and calculate the diluted
+EPS figures from the 10Qs/10K, you should be able to roughly back into our EPS figure. Using Friday’s MLNX
+closing price as your numerator should yield the P/E figures we’ve referenced.
+
+
+10 Sep 2012, 01:11 PM
+
+
+Akram's Razor, Marketplace Contributor
+I dont have time to respond to the whole thing....but there are about 99 holes in your argument.
+
+
+1) Intel's purchases are across the whole spectrum, but what is more important than intel buying is whose
+selling. Cray's interconnect business is critical to what they do, and qlogic is a san focused company. What
+you have here is outright acknowledgement that to improve performance ie lower latency and energy
+efficiency you need tighter integration with the processor and only intel can provide that...also look at amd's
+acquistition. These moves raise major long-term business viability concerns, and at even 20x earnings that's
+a major concern over a 5yr period.
+
+
+2) Anytime oracle is invested in anything there are rumors of buyout, but your comparables stink. Skype was
+about buying a user base, sun isn't some niche interconnect business, and hpq buys are nowhere
+close....services, cloud, mobile os, data center software etc
+
+
+3) Look at stec and acme packet and come back and tell me you should not be worried at this price. The stec
+story is really concerning if your a mlnx investor because they are focused on the same customer base, were
+selling the same performance driven enterprise focused bell and whistle, had a big customer in emc and a
+splurge in orders, was loved by the sell side, and collapsed just as quickly as it exploded. We can debate
+mlnx all day at 40-50, but up here there is no debate. Name one soic that has focused on small hardware
+component niche that has ever retained a bloated valuation for more than 18 months over the last decade.
+Just one would suffice. Now name the flame outs....do a little homework there are plenty.
+
+
+10 Sep 2012, 01:56 PM
+
+
+Pinocchio1
+My TTM pe is from cnbc.com 
+http://bit.ly/S4PTCs
+
+
+I'll give you 5% share dilution in the last year 
+http://bit.ly/S4PTCv
+
+
+
+https://seekingalpha.com/author/akram-s-razor
+
+https://seekingalpha.com/checkout?slug=akram-s-razor&source=comment_author_tag
+
+https://seekingalpha.com/user/1065059
+
+http://bit.ly/S4PTCs
+
+http://bit.ly/S4PTCv
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 18/23
+
+
+The rest of my forward calculations were just reflecting on your words on "our expectations" to show that no
+one is expecting what you say we expect.
+
+
+Additionally, there are analysts just like yourself who differ
+
+
+http://bit.ly/S4PTCx
+
+
+http://bit.ly/QAnUxF
+
+
+According to them - you might be squeezed 
+So, why don't you analysts get together and figure it out.  
+Seriously, Do some real work to justify your position, your influence, how you effect people's future. I am
+serious.  
+If I evaluated the analysts as an industry in this situation, the differences between you are unacceptable.
+Some or all of you MUST be very wrong. It's an F for the industry. And you have to understand that you are
+dealing with people's pensions, take some responsibility.
+
+
+Also, your opinion has less weight with me, because you have an agenda which aligns with what you write.
+
+
+Like Cory Johnson says on Bloomberg West (one of the few analysts whom I respect) - it's not that the
+"company missed analyst expectations" like is commonly stated on TV. Cory says "it's the analysts who
+missed reality, again"
+
+
+You have your ideas and you acted on them, fair enough.  
+I think you ignore a whole suite of SW integration tools which were not factored in the last earnings, you don't
+mention recent heavy contracts including China, alliances etc.  
+and also, other analysts who explained why MLNX have a 2-3 year lead over competition, which is huge in
+this space. Considering MLNX proven record of innovation and time-to-market of their products. 
+They have a much better horizon than what you describe, and the 2 analysts presented seem to agree with
+me (2 most recent in google search "MLNX price target"... not hand picked)
+
+
+I once wrote here - Jimmy the Greek set the lines in Las Vegas Sports - and allowed you to bet against his
+opinion. On ANY game. 
+Take any analyst, maybe with a few exceptions, and have them post earning lines for every stock in Vegas,
+and let us choose the spots where we want to bet against you... imagine what will happen
+
+
+Regarding analysts' level of knowledge. I have met and was interviewed by analysts in my life, regarding my
+company. Our 45 minute conversations were... mmm... worthless. it takes a lot longer to describe to someone
+technical road-maps, comparisons to competition, describe current marketing pipeline, company
+performance, management quality, margins, and how many geniuses you have in the company (in this
+industry 1 exceptional brain is worth hundreds of average ones - unlike most industries) - the things that
+actually matter.
+
+
+Did you actually sit with MLNX? with their competitors? their customers? or you just "read about it" from
+others like yourself
+
+
+10 Sep 2012, 05:33 PM
+
+
+
+http://bit.ly/S4PTCx
+
+http://bit.ly/QAnUxF
+
+https://seekingalpha.com/user/1065059
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 19/23
+
+
+Pinocchio1
+Didn't MSFT just had a 6B write off in the last Q report?  
+skype brought user base for WHAT? for Bing? 
+For Office?  
+What's MSFT's user-base without skype? 800M Windows users? mas o menos?
+
+
+I also spent the energy deserved here, and probably would have had 99 responses to your 99 unspoken
+issues. 
+I'll go long, you go short. good luck
+
+
+10 Sep 2012, 05:56 PM
+
+
+Akram's Razor, Marketplace Contributor
+Yes, msft wrote down aquantive but i guess details are not that important to you. Don't really see your point
+either on skype as you don't seem to get the difference between consumer targetted aplications and
+enterprise hardware markets I was making. A killer consumer tech could have a ten year life cycle versus
+hardware biz with much shorter life cycles. You come off as an overly defensive employee. And the
+competition in this space is NOT huge. That's one of the reasons things are going so well for mlnx. Infiniband
+has never been a very easy place to be and why for example qlogic exited as a lot of time and resources are
+spent pursuing business that incrementally was not moving the needle. In mlnx case i don't think the bear
+case is about 'competition' in the traditional sense, but rather about the type of competition that renders you
+totally obselete. Intel makes the processor so if you are an interconnect specialist it is hard to claim you can
+compete on performance if the team making the next processor is also working with the team making the
+interconnect. Sorry, but thats the logic of cray whose entire model has been hardware architecture
+differentiation in hpc selling their interconnect business while mantaining exclusivity and access to the
+architecture so they can design solutions around it.
+
+
+The sell side work on this company is such crap it doesnt even warrant discussion. Targets at 140-150 or
+whatever are such a joke if you got any experience investing in tech hardware you know the script already.
+Mlnx's is much more likely to go through a boom bust type of revenue sequence then some gradual climb
+over the next several years.
+
+
+12 Sep 2012, 03:48 AM
+
+
+Pinocchio1
+I don't work for MLNX. I work in the telecom data centers design where we need the speed on the backbone. 
+and 
+I don't appreciate analysts 
+That's all
+
+
+2 years ago I read an article about "the wonder of china" by some shmanalyst in here SA. I put in 40K on 10
+different recommendations, and escaped 3 months later with ONLY a 20K loss (some companies are not
+even listed any more - an "oil drilling company" which had 2 employees in a studio appartement in Chow
+Main).
+
+
+Form that point onwards I distrust and dislike shmanalysts. I trust them even less than my car mechanic
+
+
+
+https://seekingalpha.com/user/1065059
+
+https://seekingalpha.com/author/akram-s-razor
+
+https://seekingalpha.com/checkout?slug=akram-s-razor&source=comment_author_tag
+
+https://seekingalpha.com/user/1065059
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 20/23
+
+
+Regarding a high-beta ride I agree. 
+Regarding competition in this area - I disagree.
+
+
+Yesterday MLNX CEO stated they have 3 years ahead with no competition. Maybe yes, maybe no. But I am
+certain that the CEO is better informed than the analyst, but also have liabilities attached to such statements.
+Time to place some liability on analysts too (throw away the disclaimers and start playing the real-life-field)
+
+
+As far as agenda? of course the CEO has an agenda (he has long options), but so does the analyst (short
+options).
+
+
+The thing is, too often SA became a platform for questionable moves.  
+and sometimes criminals. It's time to clean up this place, and generally make the analyst-space a lot more
+responsible and liable.
+
+
+Finally, do yourself a favor and don't go short on MLNX. There are much better risk-adjusted investments
+around.  
+Want a hint? look for heavy contango derivatives and short them. You'll have a contango on your side... this is
+a present for you for your fine comments.
+
+
+Until next time...
+
+
+12 Sep 2012, 09:04 AM
+
+
+davidgrant
+Those who short based mainly on valuation typically lose. You only want to short momentum stocks after they
+have cracked.
+
+
+17 Oct 2012, 12:26 AM
+
+
+edp2005
+Who said speed traders fly under the radar? They are meeting Tuesday 11 at High-Frequency Trading Happy Hour,
+their monthly networking get-together. More info: http://bit.ly/TG1ZX6
+
+
+10 Sep 2012, 12:12 PM
+
+
+kite_rider
+Nice to see the detailed analysis in this article. The only issue I take with it is that it implies that 40Gb low latency
+Ethernet is a threat. However, it appears to me that MLNX is actually very competitive in this space with it's current
+ConnectX-3 product.
+
+
+10 Sep 2012, 02:50 PM
+
+
+Pinocchio1
+Took less than I thought 
+2 weeks later... eat your shorts 
+Now? or wait another 5 weeks and eat your whole closet (Oct 25 - earnings)?
+
+
+
+https://seekingalpha.com/user/525951
+
+https://seekingalpha.com/user/552481
+
+http://bit.ly/TG1ZX6
+
+https://seekingalpha.com/user/945821
+
+https://seekingalpha.com/user/1065059
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 21/23
+
+
+And soon - HLF, NUS, QCOR. SPPI... very soon.
+
+
+Shorts make me sick, they should be outlawed.  
+They have nothing to do with the intended goals for having a stock market.
+
+
+22 Sep 2012, 03:48 AM
+
+
+Akram's Razor, Marketplace Contributor
+You are sad. Even sadder that you are in the market with these views.Its the promoters, thieves, and fast
+money scamsters that shud make you sick. The people who are comofrtable telling you there business is
+great while they dump stock ahead of an upcoming warning. The ones who will cook the books just to show
+they beat an estimate
+
+
+22 Sep 2012, 08:00 AM
+
+
+Pinocchio1
+oooohhhh your MLNX shorts are biting you? getting nasty here?
+
+
+http://bit.ly/OMneHt 
+Click on the Insiders tab
+
+
+The CEO has 0.5% of the company which has a 5B cap. The top 4 insiders hold about $20-25M each.  
+So 3 of them are smart and put aside $2M for their kids' future, like any reasonable person would do. 
+The 4th insider BOUGHT $10M worth of stocks... because the 3 others forgot to tell him their company is going down
+in flames, but they did tell you, now did they?
+
+
+Your analyst here didn't tell you about the 4th founder... oops. 
+Why don't you do some research before burning away your money?
+
+
+Your "insider reasoning" shows only one things - you have no clue about managing personal financing, you never
+heard that the 1st 2M are VERY important, even if you sacrifies 80% of making 4M in the future. AND you don't do
+your own research !!!
+
+
+Well, that was an expansive lesson. And sure, you and your analyst know things that the SEC doesn't about MLNX
+cooking their books. 
+When Comverse cooked their books, they got caught... It's harder than you think (outside China and Russia).  
+There are so many trolls out there kicking every stone.  
+Every time a stock drops by 2%, any stock, there are dozens of trolls reading every word every insider said or wrote in
+the last 2 years, going through every K-8 K-4 K-10 K-whatever looking for a reason to sue. You just don't understand
+basics...  
+I hate these trolls, they are ugly, but their vulture-job is nature's clean-up
+
+
+You better get out of the stock market, because you'll be homeless before you know it. You put money on a single
+analyst's opinion... ahhh
+
+
+And by the way.... you missed a tip I gave you, about the only holding you'll ever need, because you are so caught up
+in your ego. 
+SO... one more time, and for the last time - find a strong contango and make it work for you.  
+
+
+
+https://seekingalpha.com/author/akram-s-razor
+
+https://seekingalpha.com/checkout?slug=akram-s-razor&source=comment_author_tag
+
+https://seekingalpha.com/user/1065059
+
+http://bit.ly/OMneHt
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 22/23
+
+
+pick up this tip I tossed you, research, develop the mechanism and maybe you too can average doubling your $ every
+year. 
+In general the yearly returns are about  
+100% + 5X the S&P 
+YTD it's 170% up because the market is up 16%.  
+(and... make sure it's all LONG positions - if the market drops by >40% you don't have to sell your home) 
+Now.. Let's see what is stronger in you, ego? vanity? common sense? listening? mmm...
+
+
+Do some research... maybe one day you'll invite me to the most expansive restaurant in NYC
+
+
+BTW - I have a Math PhD, and when my options matured in 2001 I sold all of them on the 1st hour, because you don't
+hold such a slice of your money in a single position. You just DON'T. And I couldn't care less about what any analysts
+shmanalysts kids will write about this...
+
+
+Just like one of the main holders of FB did. It doesn't matter where FB goes, or what analysts made of his sale - he is
+set for life, his kids are, his grand-kids are and their grand-kids too. and it has nothing to do with where FB goes in the
+next 10 years.  
+And it doesn't matter how many grand-grand-grand kids they'll have either.  
+He is just very smart. And within 1 month no one will remember this transaction nor what the analysts wrote about it.
+
+
+23 Sep 2012, 12:14 AM
+
+
+Christopher Wallace, Contributor
+Isn't customer concentration an important issue for MLNX? How susceptible are they to losing a major customer to
+Intel, now that has its own Infinband product?
+
+
+24 Sep 2012, 08:32 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  They're susceptible to losing virtually all their customers to Intel if Intel comes out with its
+own viable integrated interconnect solution. At this point, MLNX's technology is in the lead, so MLNX is the
+go-to solution for Infiniband. But one of the problems with its current valuation is that analysts are assuming
+this will always be the case, which we don't think will be true. Equally as important, the overall market for
+Infiniband is just not big enough to justify the current valuation. It's a small niche market exclusive to high
+performance computing and a small select number of non-HPC server clusters that need very fast speeds.
+Most others are fine with the current Ethernet solutions. The growth we've been seeing is due to the Romley
+upgrade cycle, and not due to some suddenly new secular growth trend in Infiniband's end markets.
+
+
+25 Sep 2012, 09:46 AM
+
+
+Valuable Insights, Contributor
+Congrats, you nailed this call. Should feel proud when you get it right for the right reason.
+
+
+17 Oct 2012, 05:33 PM
+
+
+DoubleOak Equity Research, Contributor
+
+
+
+https://seekingalpha.com/author/christopher-wallace
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/author/valuable-insights
+
+https://seekingalpha.com/author/doubleoak-equity-research
+5/23/2018 Mellanox: End Of Romley Upgrade Signals Steep Downside - Mellanox Technologies, Ltd. (NASDAQ:MLNX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside 23/23
+
+
+Great call.
+
+
+17 Oct 2012, 05:37 PM
+
+
+ASB Capital, Contributor
+I followed Kerrisdale in, and I've been very pleased to see the short thesis start to play out. Where is everyone else
+closing their shorts? My first thoughts are to buy the position back now in the high 70s, take profits and give MLNX
+some credit for being a good, honest business. But my second thoughts are to wait for another group of traders to
+come in and start shorting now after the restriction, and buy from them.
+
+
+Thoughts?
+
+
+20 Oct 2012, 10:58 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  We're still short. The stock trades at 5x 2012 revenue and has forecasted sequentially
+declining revenue in Q4. I think it remains attractive on the short side.
+
+
+22 Oct 2012, 10:15 AM
+
+
+ASB Capital, Contributor
+Great call, Sahm and Kerrisdale. I owe y'all a bottle of wine or something. This is at least the second time I've
+followed you in to a short and done well.
+
+
+To repay the favor, I want to tell you a long I'm getting interested in. It's chip manufacturer in a highly cyclical part of
+the business whose share price is falling and has about a quarter of its market cap as cash on the books. Ticker
+symbol is MLNX.
+
+
+24 Jan 2013, 07:53 AM
+
+
+
+https://seekingalpha.com/author/asb-capital
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/author/asb-capital

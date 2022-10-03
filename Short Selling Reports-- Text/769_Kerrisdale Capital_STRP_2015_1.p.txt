@@ -1,0 +1,3931 @@
+As we discussed a year ago in our original report on Globalstar, the stock market has a sad 
+
+
+history of gullibly buying into grandiose narratives about spectrum value. In Straight Path (NYSE 
+
+
+MKT: STRP), the latest and, in some ways, most egregious example of this phenomenon, the 
+
+
+market has found an unlikely object for its enthusiasm: a company with only seven employees 
+
+
+and $426,000 of annual core revenue headed by a 29-year-old whose previous job was serving 
+
+
+as the rabbi of a 50-person synagogue in the Bronx – a far cry from telecom. 
+
+
+
+
+
+Despite these obvious red flags, Straight Path trades at an almost $600 million market cap 
+
+
+because investors regard it as a play on “5G,” the nebulous label applied to the next generation 
+
+
+of cellular technology after 4G LTE. Though still years away from standardization, let alone 
+
+
+commercial release, 5G might include (as just one component) the ability to use extremely high, 
+
+
+“millimeter-wave” (mmWave) frequencies that are currently relegated to niche, non-mobile use 
+
+
+cases as a result of their very poor propagation. Straight Path holds a large portfolio of spectrum 
+
+
+licenses (primarily in the 39GHz band), supposedly making the company an enormous 
+
+
+beneficiary of the move toward mmWave technology. In 2015 alone, Straight Path’s stock price 
+
+
+has appreciated 151%, with the latest move up triggered by Verizon’s marketing announcement 
+
+
+in September that it would launch 5G “field trials” next year. 
+
+
+
+
+
+But mmWave is just one small subset of 5G, and Straight Path’s spectrum is just one minuscule 
+
+
+fraction of the gargantuan amount of mmWave bandwidth likely to be available, much of it for 
+
+
+free. For example, telecom regulators from the Americas, including the FCC, are already 
+
+
+considering rezoning almost 34 gigahertz of mmWave spectrum for mobile use, and that total is 
+
+
+likely to grow. Straight Path’s 39GHz portfolio – with less than 0.7 GHz of average bandwidth 
+
+
+nationwide – is thus a tiny fraction of the pending supply. Not only is the portfolio nothing 
+
+
+special; it also has the distinct disadvantage of being fragmented and non-contiguous. Though 
+
+
+one sell-side bull has characterized the future of Straight Path’s spectrum as “[p]erhaps…no 
+
+
+different than Manhattan real estate,” a more appropriate analogue would be a few small, 
+
+
+scattered plots of undeveloped land in the middle of the world’s largest desert.  
+
+
+
+
+
+Moreover, though even widespread deployment of mmWave frequencies would still fail to 
+
+
+generate real value for Straight Path, such deployment is unlikely to ever take place. While 
+
+
+complex multi-antenna arrays may help to overcome weak propagation in a cost-effective way – 
+
+
+itself an open question – mmWave transmissions still won’t be able to go through walls or over 
+
+
+hills, severely limiting their usefulness, and will require extremely dense and thus very 
+
+
+expensive networks. There is no straight path here – just a winding, dusty road to failure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 2015 
+
+
+
+
+
+Straight Path Communications Inc. (STRP) 
+The Next Generation of Overblown Spectrum Hype 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC 
+(“Kerrisdale”), other research contributors, and others with whom we have shared our research 
+(the “Authors”) have short positions in and own option interests on the stock of Straight Path 
+Communications Inc. (the “Company”) and stand to realize gains in the event that the price of the 
+stock decreases. Following publication, the Authors may transact in the securities of the 
+Company. The Authors have obtained all information herein from sources they believe to be 
+accurate and reliable. However, such information is presented “as is,” without warranty of any 
+kind – whether express or implied – and without any representation as to the results obtained 
+from its use.  All expressions of opinion are subject to change without notice, and the Authors do 
+not undertake to update this report or any information contained herein. Please read our full legal 
+
+
+disclaimer at the end of this report. 
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2014/10/Globalstar-GSAT.pdf
+
+http://riverdalepress.com/stories/New-rabbi-takes-helm-at-Kingsbridge-temple,42939
+
+http://www.verizon.com/about/news/verizon-sets-roadmap-5g-technology-us-field-trials-start-2016
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+I. INVESTMENT HIGHLIGHTS ........................................................................................................ 3 
+
+
+II. COMPANY OVERVIEW ................................................................................................................... 7 
+
+
+III. 5G IS NOT NEAR AND DOES NOT REQUIRE MMWAVE ....................................................... 10 
+
+
+IV. STRAIGHT PATH’S SPECTRUM IS A SMALL SLICE OF THE ENORMOUS MMWAVE 
+PIE.................................................................................................................................................... 15 
+
+
+V. LARGE-SCALE MMWAVE NETWORKS MAY NEVER BE COMMERCIALLY VIABLE ........ 20 
+
+
+VI. VALUATION PRECEDENTS AND BENCHMARKS DEMONSTRATE THAT STRAIGHT 
+PATH IS WORTH VERY LITTLE ................................................................................................. 24 
+
+
+FULL LEGAL DISCLAIMER ................................................................................................................... 30
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 3 
+
+
+
+
+
+
+
+
+I. Investment Highlights 
+
+
+ 
+5G ≠ mmWave. Straight Path enthusiasts tend to mix up distinct concepts, speaking as if every 
+
+
+new announcement about “5G” – like Verizon’s – necessarily involves mmWave. But many key 
+
+
+aspects of the nascent 5G vision have nothing to do with high-frequency spectrum at all. New 
+
+
+air interfaces and massive MIMO, for instance, are technologies that can greatly enhance 
+
+
+throughput in the bands already used for 3G and 4G, as well as low-frequency bands to be 
+
+
+rolled out in the future, like the 600MHz band, which FCC Chairman Tom Wheeler described in 
+
+
+August as “a prime candidate for deployment of a wide-area 5G coverage layer.” In early 
+
+
+October, the Chinese equipment vendor Huawei and the Japanese carrier NTT DOCOMO 
+
+
+“announced…the world’s first successful large-scale field trial of 5G new radio access 
+
+
+technologies,” including Sparse Code Multiple Access and Filtered OFDM, achieving peak 
+
+
+downlink throughput of 3.6 gigabits per second (Gbps). But this trial didn’t use mmWave: the 
+
+
+press release clearly states that it used “the sub-6GHz frequency band.” Indeed, the first 
+
+
+commercial deployments of 5G – whenever they occur – are widely expected to use 
+
+
+conventional bands, not mmWave. 
+
+
+
+
+
+5G is also about far more than just higher throughput for smartphones. Key players see it 
+
+
+primarily as a platform for communicating with large numbers of distributed sensors (the 
+
+
+“Internet of Things”) and other machines, like driverless cars, that may require extremely low 
+
+
+latencies and high reliability but not necessarily large quantities of data. (Driverless cars, for 
+
+
+instance, are not going to be watching lots of ultra-high-resolution video.) For these crucial and 
+
+
+novel use cases at the heart of 5G planning, mmWave is irrelevant. Indeed, Verizon’s own 
+
+
+promotional video about its 5G efforts emphasizes the Internet of Things and features the 
+
+
+company’s vice president of network planning stating (at 0:54) that “people have enough 
+
+
+throughput for the kinds of services they’re performing today on the mobile network” – hardly an 
+
+
+indication that enormous amounts of mmWave bandwidth will come in handy any time soon. 
+
+
+
+
+
+Straight Path’s spectrum is just one tiny drop in the mmWave bucket. Straight Path likes to 
+
+
+point out (see slide 6) that it holds “96% of active 39GHz FCC licenses”; credulous listeners 
+
+
+interpret this as a monopoly on “5G spectrum.” Yet the company’s 828 39GHz licenses 
+
+
+comprise just 34% of the total 2,450 licenses that were up for bid at the FCC’s 2000 auction. 
+
+
+The explanation is that so many of the companies that attempted to use the 39GHz band gave 
+
+
+up, went out of business entirely, or ran into trouble with the FCC that large numbers of licenses 
+
+
+across the country were voluntarily canceled or forcibly terminated. (Indeed, Straight Path itself, 
+
+
+in its previous identity as IDT Spectrum, canceled 298 of its 39GHz licenses in 2010 – almost a 
+
+
+third of the portfolio it had acquired out of the Winstar bankruptcy.) Based on the FCC’s recently 
+
+
+released Notice of Proposed Rulemaking (NPRM), these unused licensed will ultimately be re-
+
+
+auctioned to the public, thereby completely circumventing Straight Path. 
+
+
+
+
+
+But the future sale of a large amount of 39GHz spectrum not held by Straight Path is just a 
+
+
+small part of a very large problem: the only reason to use mmWave bands at all is because 
+
+
+
+https://www.fcc.gov/blog/leading-towards-next-generation-5g-mobile-services
+
+http://www.fiercewireless.com/tech/press-releases/huawei-and-docomo-collaboration-succeeds-worlds-first-large-scale-field-tri
+
+http://www.fiercewireless.com/tech/press-releases/huawei-and-docomo-collaboration-succeeds-worlds-first-large-scale-field-tri
+
+https://www.youtube.com/watch?v=VgGuCfD918o
+
+http://spathinc.com/spci/downloads/presentations/Straight%20Path%20-%20Investor%20Presentation%20-%20April%202015-Aegis1.pdf
+
+http://wireless.fcc.gov/auctions/default.htm?job=auction_summary&id=30
+
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-138A1.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 4 
+
+
+
+
+
+there is so much spectrum available there. Without this vast supply, research into mmWave 
+
+
+mobile broadband might be an interesting academic problem but would be an obvious 
+
+
+commercial non-starter given all the immense and as yet unsolved technical difficulties. The 
+
+
+only practical reason to bother is the prospect of accessing huge blocks of spectrum, which 
+
+
+regulators around the world are beginning the process of freeing up. From a technological 
+
+
+perspective, there is nothing special about Straight Path’s 39GHz band as opposed to the many 
+
+
+other mmWave bands, including several that either are or are likely to become unlicensed and 
+
+
+thus free to use. 
+
+
+
+
+
+The chart below illustrates the size (in gigahertz of bandwidth) of the mmWave bands most 
+
+
+likely to be repurposed for mobile use in the medium term, putting Straight Path’s holdings in 
+
+
+perspective: 
+
+
+
+
+
+  
+CITEL/CEPT/APT/RCC are regional regulatory bodies for the Americas/Europe/Asia/Eurasia, 
+
+
+respectively. 
+
+
+Note: “FCC NPRM bands” includes the 60GHz band (57-64 GHz) already available for unlicensed use. 
+
+
+Source: DIGITALEUROPE summary of regional proposals, mmWave NPRM, Kerrisdale analysis 
+
+
+
+
+
+Above, on the left, we show the aggregate amount of high-frequency bandwidth proposed for 
+
+
+consideration as future homes for mobile broadband by various regional regulatory bodies, 
+
+
+including CITEL, the Inter-American Telecommunication Commission, of which the FCC is a 
+
+
+member. These proposals will be further discussed at the upcoming World Radiocommunication 
+
+
+Conference (WRC) in November and finalized in 2019. We also show the total size of the bands 
+
+
+in the FCC’s recent NPRM, including the existing 60GHz band, already available for unlicensed 
+
+
+use, including mobile. But these bands are only the first step – FCC Chairman Tom Wheeler 
+
+
+has already publicly pledged to consider others in the near future. With 20 to 30 GHz in sight, 
+
+
+Straight Path’s nationwide average of 817 MHz, including 691 MHz in the 39GHz band and 126 
+
+
+MHz in the LMDS band, looks trivially small. (Even that total is overstated since much of the 
+
+
+LMDS band is excluded from both the NPRM and the international proposals.) Far from a 
+
+
+
+http://www.digitaleurope.org/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&EntryId=1021&PortalId=0&TabId=353
+
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-138A1.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 5 
+
+
+
+
+
+mmWave monopoly, Straight Path’s holdings amount to a drop in the bucket. Anyone interested 
+
+
+in using mmWave spectrum will have an embarrassment of riches. 
+
+
+
+
+
+Moreover, the supply is likely to grow further, from tens to hundreds of gigahertz, a point ably 
+
+
+made in 2011 by two of the mmWave researchers then at Samsung, one of whom went on to 
+
+
+become Straight Path’s chief technology officer. They argued that there was 252 GHz of readily 
+
+
+usable bandwidth between 3 and 300 GHz, and that even if only 40% could be unlocked for 
+
+
+mobile networks, it would amount to “more than 200 times the spectrum currently allocated for 
+
+
+this purpose below 3GHz.” 
+
+
+
+
+
+ 
+Source: “Millimeter-wave Mobile Broadband: Unleashing 3-300GHz Spectrum” 
+
+
+
+
+
+Indeed, one of the benefits of mmWave technology that the Samsung mmWave group has often 
+
+
+pointed out is that there’s so much spectrum for the taking that even exclusive access will be 
+
+
+incredibly cheap – potentially good news for carriers and consumers but not spectrum owners 
+
+
+like Straight Path. 
+
+
+
+
+
+In keeping with the absence of any compelling reason to prefer Straight Path’s spectrum to 
+
+
+other similar bands, recent 5G demos have focused elsewhere. For example, back in July 2014, 
+
+
+Ericsson, in collaboration with NTT DOCOMO and SK Telecom, demonstrated 5Gbps speeds 
+
+
+using the 15GHz band. In March, NTT DOCOMO and Nokia achieved a speed of 4.5 Gbps 
+
+
+using the 70GHz band. In April, at the Brooklyn 5G Summit, Nokia demonstrated “a 10 Gbps 
+
+
+
+http://wcnc2011.ieee-wcnc.org/tut/t1.pdf
+
+http://wcnc2011.ieee-wcnc.org/tut/t1.pdf
+
+http://www.ericsson.com/news/1810070
+
+https://www.nttdocomo.co.jp/english/info/media_center/pr/2015/0302_03.html
+
+http://networks.nokia.com/be/news-events/press-room/press-releases/nokia-networks-showcases-5g-speed-of-10gbps-with-ni-at-the-brooklyn-5g-summit
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 6 
+
+
+
+
+
+peak rate system over the air at 73 GHz.” Consumer products using the large, unlicensed 
+
+
+60GHz band via the WiGig protocol already exist. In short, mmWave spectrum will be a 
+
+
+commodity in vast supply, and Straight Path has nothing special to offer. In fact, because 
+
+
+Straight Path’s 39GHz holdings consist of scattered 50MHz units, not the very wide contiguous 
+
+
+channels sought after by industry participants, it’s difficult to see how, without significant favors 
+
+
+granted by the FCC, it will ever be practical to use its spectrum for 5G. 
+
+
+
+
+
+mmWave spectrum has fundamental limitations that, even if technology improves, will 
+
+
+sharply restrict its usefulness. To be sure, major companies have developed prototypes and 
+
+
+simulations showing that sophisticated antenna arrays using very wide bandwidths can 
+
+
+overcome some of the propagation problems of the mmWave bands. But it’s a long way from 
+
+
+large, clunky prototypes to real-world networks and user devices. In particular, even if signals 
+
+
+can reliably achieve targeted ranges on the order of hundreds of meters, they will still suffer 
+
+
+from enormous losses when going from outside to indoors – orders of magnitude worse than 
+
+
+conventional cellular frequencies, many of which already struggle with in-building penetration. 
+
+
+Since approximately 80% of cellular usage is indoors (almost always using signals transmitted 
+
+
+from outside), the practical applications of mmWave technology will be few and far between. 
+
+
+mmWave handsets also face severe challenges since the user’s head and fingers can easily 
+
+
+block the narrow beams used by mmWave signals, potentially requiring multiple duplicate 
+
+
+antenna arrays on different sides of the handset. High power consumption is also a problem. 
+
+
+Perhaps most dauntingly, mmWave networks will require extremely high base-station densities, 
+
+
+thousands of times higher than existing networks, implying enormously costly and time-
+
+
+consuming buildouts for no clear economic benefit. It’s no wonder that the CEO of one Hong 
+
+
+Kong-based carrier dismissed 5G as the creation of “equipment vendors…asking us to plow 
+
+
+more money in there for a purpose that is not yet entirely clear….You don’t need that much 
+
+
+bandwidth.” 
+
+
+
+
+
+Valuation precedents and benchmarks imply that Straight Path’s spectrum is worth >90% 
+
+
+less than its current market cap. Even if we ignore the shortcomings of Straight Path’s 
+
+
+spectrum, the likelihood that mmWave networks will simply never be deployed on a large scale, 
+
+
+and the vast supply of highly similar competing spectrum, Straight Path is still worth very little. 
+
+
+For example, based on the price at which Level 3, a large, savvy telecom firm, was willing to sell 
+
+
+39GHz and LMDS licenses in 2012 – just $203,000 for more than 46 billion MHz-pops – Straight 
+
+
+Path’s entire portfolio is worth just $1 million. Attempting to extrapolate from dollar-per-MHz-pop 
+
+
+levels paid for conventional cellular spectrum but adjusting for the vastly higher cost of 
+
+
+deploying the extremely dense network that mmWave would require generates an estimated 
+
+
+value of approximately $40mm – more than 90% below the current market cap. Simply put, 
+
+
+Straight Path is a bubble, driven by hype, misconceptions, and wishful thinking. 
+
+
+ 
+
+
+
+http://solutions.amdocs.com/rs/amdocs1/images/Amdocs_2015_State_of_RAN.pdf?mkt_tok=3RkMMJWWfF9wsRols6nLZKXonjHpfsX64uwtX6O%2BlMI%2F0ER3fOvrPUfGjI4DRMdhI%2BSLDwEYGJlv6SgFTLTCMa9qyLgFWxM%3D
+
+http://www.mobileworldlive.com/ceo-spotlight/ceo-spotlight-douglas-li-smartone/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 7 
+
+
+
+
+
+II. Company Overview 
+
+
+
+
+
+Straight Path: Capitalization and Financial Results 
+
+
+
+
+
+Straight Path’s origins date back to the FCC’s auctions in 1998-2000 of large blocks of spectrum 
+
+
+in what are now known as the LMDS (Local Multipoint Distribution Service) and 39GHz bands. 
+
+
+The FCC viewed this high-frequency spectrum as a platform “to create robust competition to the 
+
+
+local telephone companies” by allowing new players to transmit voice calls and data wirelessly 
+
+
+(via line-of-sight links between fixed antennas) rather than using local phone lines. Winstar 
+
+
+Communications, founded in 1990, was one of those players, a “Wall Street darling” that spent 
+
+
+billions of dollars affixing microwave dishes to office buildings in order to make use of the high-
+
+
+frequency spectrum it had purchased. But, despite Winstar’s claims that its so-called “Wireless 
+
+
+Fiber” was superior to actual optical fiber – claims Straight Path has repeated – very few paying 
+
+
+customers were convinced, and Winstar filed for bankruptcy protection in 2001. 
+
+
+
+
+
+However, IDT, a New Jersey-based telecom company founded by Howard Jonas, bought 
+
+
+Winstar’s operating assets – including its 39GHz and LMDS spectrum – for $42.5 million in a 
+
+
+transaction that Jonas described in the official press release like so: 
+
+
+
+
+
+This is an incredible deal. It might not top the Dutch settlers buying the Island of 
+
+
+Manhattan for twenty four dollars, but it comes pretty close. 
+
+
+
+
+
+But IDT had no more luck than Winstar at making money from mmWave, and by 2004 it had 
+
+
+largely discontinued its efforts. (It even unsuccessfully sued Blackstone and other advisors 
+
+
+involved in the Wintrust bankruptcy for, according to Law360, “costing IDT more than $300 
+
+
+million” by misrepresenting Winstar’s financial condition.) Nonetheless, after forming a new 
+
+
+entity, IDT Spectrum, to own the Winstar licenses, IDT attempted to take it public, filing an S-1 
+
+
+in 2005. The S-1 spoke of how “the continuing deployment of 3G services [would]…cause the 
+
+
+demand for bandwidth by mobile wireless customers to increase steadily” and described IDT 
+
+
+Spectrum as “well positioned to provide a single source of fixed wireless spectrum solutions 
+
+
+across a variety of geographic areas and bandwidth requirements.” By the end of the year, 
+
+
+however, IDT “postponed” the Spectrum IPO, citing “market conditions” and the availability of 
+
+
+alternative funding sources but reiterating that the company was still “developing a fixed 
+
+
+Capitalization Financial results ($mm)
+
+
+Share price 47.58$      FY ended 7/31
+
+
+Fully diluted shares (mm): 2013 2014 2015
+
+
+Shares O/S 12.1          Spectrum segment:
+
+
+Unvested restricted shares 0.4            Revenue 0.5$      0.4$      0.4$      
+
+
+Dilutive effect of options 0.0            Expenses 1.4        0.9        2.1        
+
+
+Total 12.5          Op. income (0.9)$     (0.5)$     (1.6)$     
+
+
+Market cap ($mm) 594$         IP seg. op. income (1.7)$     (0.2)$     1.9$      
+
+
+Source: company filings, Capital IQ, Kerrisdale analysis
+
+
+
+https://transition.fcc.gov/Bureaus/Wireless/News_Releases/2000/nrwl0014.html
+
+http://www.nytimes.com/2002/01/28/business/28WINS.html?pagewanted=all
+
+http://ir.idt.net/profiles/investor/ResLibraryView.asp?ResLibraryID=1286&GoTopage=45&Category=30&BzID=566
+
+http://www.law360.com/articles/616075/3rd-circ-shuts-down-idt-suit-over-42-5m-winstar-deal
+
+http://www.sec.gov/Archives/edgar/data/1336526/000119312505175887/ds1.htm
+
+http://ir.idt.net/profiles/investor/ResLibraryView.asp?ResLibraryID=13521&GoTopage=19&Category=30&BzID=566
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 8 
+
+
+
+
+
+wireless network platform that will integrate its wireless spectrum with its operational 
+
+
+management capabilities.” 
+
+
+
+
+
+But that didn’t come to pass. By late 2006, IDT had closed its Spectrum operations; its CEO at 
+
+
+the time, James Courter, noted that “it became clear that the United States is moving a little bit 
+
+
+more slowly towards second and third and even fourth generation cellular devices. And 
+
+
+therefore those carriers such as…Sprint and others, T-Mobile, that would use this spectrum, 
+
+
+don’t really need it at the present time” 1 – presaging likely future disappointment about 5G. Still, 
+
+
+the company held out hope that demand might materialize beyond the following 18 months. 
+
+
+
+
+
+That didn’t happen either. In late 2007, a questioner on an earnings call asked Jonas, in his role 
+
+
+as chairman, why he no longer highlighted IDT’s spectrum holdings (emphasis added): 
+
+
+
+
+
+<Q - Clayton Moran>: Okay. One more question. You mentioned a bunch of assets in 
+
+
+your prepared remarks; you didn't mention anything about the spectrum, you are not 
+
+
+optimistic there anymore? Can you give us your thoughts? 
+
+
+
+
+
+<A - Howard Jonas>: Yeah. Well, we have two big piles of spectrum. One is the 39-
+
+
+gigahertz that we have all across the country, and the other one is the 28-gigahertz that 
+
+
+we have in the major cities. We are seeing activity in the 28-gigahertz band because 
+
+
+there is a lot of equipment that's made for that band and so forth. So, I believe we have 
+
+
+entered into a contract with NextLink to do some leasing, and I believe we've entered 
+
+
+into something with Hughes in a joint venture. We are not having the same success in 
+
+
+the 39-gigahertz field, because there's not like the equipment out there to really use to 
+
+
+do it. We are working with universities, we are looking at new applications, I mean some 
+
+
+of them seem nuts, like you can irradiate bugs from airplanes that are attacking plants – 
+
+
+I don't think that's going to be where we wind up going. But, I would say, I am not – don't 
+
+
+think that that's one of the great hidden values of the company. But that's what I am 
+
+
+saying today, I mean we are working on developing it.2 
+
+
+
+
+
+Within six years, IDT’s spectrum had gone from a bargain on par with the 17th-century 
+
+
+“purchase” of Manhattan to a multi-hundred-million-dollar embarrassment, the best use of which 
+
+
+might be irradiating bugs from airplanes. In 2009 a press release announced, “IDT Spectrum 
+
+
+Puts FCC License Holdings Up for Sale”: 
+
+
+
+
+
+ID Spectrum…said today that it is accepting offers for its portfolio of 38 GHz3 and 28-31 
+
+
+GHz spectrum licenses. … “Networks nationwide are straining to accommodate new 
+
+
+bandwidth intensive applications. Our licenses enable scalable and cost effective 
+
+
+wireless backhaul and last mile solutions,” said Michael Rapaport, President of IDT 
+
+
+Spectrum. The deadline for offers to be submitted is Thursday, November 12, 2009. 
+
+
+                                                
+1 Source: Bloomberg transcript of IDT’s FY2006 Q4 earnings call. 
+2 Source: Bloomberg transcript of IDT’s 10/29/2007 business-update call. 
+3 The 39GHz band, which goes from 38.6 to 40.0 GHz, is sometimes referred to as the 38GHz band. 
+
+
+
+http://www.bloomberg.com/apps/news?pid=conewsstory&tkr=IDC:GR&sid=a6SqMYD.h3nE
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 9 
+
+
+
+
+
+
+
+
+But there were no buyers. IDT’s CFO put a positive spin on it: “Although the auction generated 
+
+
+no bids, we continue in discussions with interested parties.”4  
+
+
+
+
+
+What happened next became the subject of litigation between IDT and Michael Rapaport, the 
+
+
+former head of IDT Spectrum. In Rapaport’s version of events, IDT had given up, “written down 
+
+
+the value of these licenses to zero on its balance sheet and expressed no interest in renewing 
+
+
+the licenses, which were set to expire in October 2010.”5 But Rapaport insisted that the licenses 
+
+
+“could be worth millions of dollars.” Though, according to Rapaport, “[t]he Jonases [Howard and 
+
+
+his son Shmuel, IDT’s chief operating officer] were initially skeptical about the future value of 
+
+
+Spectrum’s licenses,” they agreed to attempt to renew some of the licenses, splitting the 
+
+
+regulatory costs with Rapaport personally in exchange for ceding to Rapaport a percentage of 
+
+
+any future “proceeds generated by sales or leases of such licenses”6 – ranging from 12.5% for 
+
+
+“Schedule A” licenses (one in each market) to 49% for “Schedule B” licenses (additional 
+
+
+spectrum in higher-end markets). As to the remaining “Schedule C” licenses – some 298 in total 
+
+
+– IDT allowed them to lapse. 
+
+
+
+
+
+Rapaport, who claimed he was “the only IDT employee spending any significant amount of time 
+
+
+working on the Spectrum portfolio,”7 began generating small amounts of revenue from spectrum 
+
+
+leases and collecting his share of the proceeds via an entity he named Spectrum Holdings 
+
+
+Technologies, LLC. In late 2011, he hit it big, convincing the carrier MetroPCS (since acquired 
+
+
+by T-Mobile) to buy hundreds of megahertz in New York, Las Vegas, San Francisco, and 
+
+
+Orlando for $6.8 million. According to Rapaport, once IDT realized that it would now be on the 
+
+
+hook for a million-dollar payout under the terms of its deal with him, IDT reneged and cut him 
+
+
+loose. By mid-2012, Davidi Jonas – Howard Jonas’s son and Shmuel Jonas’s brother – took 
+
+
+over as head of IDT Spectrum. 
+
+
+
+
+
+Before that, however, in early 2012, Rapaport negotiated the purchase of additional 39GHz and 
+
+
+LMDS licenses from LICT Corporation and Level 3 Communications. Although these licenses 
+
+
+were on the verge of expiration, Rapaport – and presumably the sellers – knew that it might be 
+
+
+possible to meet the relevant build-out requirements quickly and at relatively low cost and thus 
+
+
+secure renewal. Still, the sellers placed little value on the spectrum: LICT sold its licenses for no 
+
+
+money upfront but a share of any future proceeds, while Level 3 sold its licenses – amounting to 
+
+
+46 billion MHz-pops – for just $203,000, a price of approximately $0.000004 per MHz-pop. 
+
+
+
+
+
+But the legal buyer in these purchases was Spectrum Holdings, not IDT. As Rapaport’s dispute 
+
+
+with his ex-employer intensified – Rapaport alleged that Davidi Jonas was “dispatched…to loiter 
+
+
+an entire day outside of [Rapaport’s] house with no purpose other than to intimidate [him]” and 
+
+
+                                                
+4 Source: Bloomberg transcript of IDT’s FY2010 Q1 earnings call. 
+5 Source: IDT Corporation et al. v. Rapaport et al., Case 2:13-cv-00634, Document 15-7 (Rapaport 
+
+
+declaration) p. 2. 
+6 Source: IDT Corporation et al. v. Rapaport et al., Case 2:13-cv-00634, Document 1 (IDT complaint), p. 
+
+
+17. 
+7 Source: Rapaport declaration, p. 4.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 10 
+
+
+
+
+
+“told [him] that IDT would ‘fight dirty’”8 – he refused to hand over the licenses that IDT claimed 
+
+
+were rightfully the company’s, not his. Under a June 2013 settlement, IDT gave Rapaport $1.5 
+
+
+million plus 50% of the proceeds from certain licenses up to a cap of $3.25 million; in exchange, 
+
+
+Rapaport’s Spectrum Holdings assigned to IDT the disputed licenses from LICT and Level 3. (In 
+
+
+its financial statements, Straight Path values these licenses – 33% of its total license count – at 
+
+
+$350,000.)  
+
+
+
+
+
+In May 2013, IDT filed to spin off its high-frequency spectrum holdings into a new company, 
+
+
+Straight Path Communications, led by Davidi Jonas. Straight Path also included a wholly 
+
+
+unrelated asset: a portfolio of soon-to-expire patents that the company claimed a host of deep-
+
+
+pocketed technology firms were infringing upon. But after recovering $18 million in gross 
+
+
+settlement receipts, Straight Path suffered a major legal setback in late 2014 when the Patent 
+
+
+and Trademark Office’s Trial and Appeal Board invalidated many parts of a key patent; 
+
+
+additional patents are also being challenged. Thus Straight Path’s patent-troll strategy – the 
+
+
+company’s only source of positive cash flow historically – has ground to a halt, although accrual 
+
+
+accounting has spread the recognition of its past victories across multiple quarters. While 
+
+
+Straight Path does lease some of its spectrum to a small handful of customers for backhaul and 
+
+
+fixed wireless connectivity, that operation generates only a few hundred thousand dollars of 
+
+
+annual revenue; its expenses are 5x higher. But the market no longer cares about Straight 
+
+
+Path’s IP or its actual spectrum-lease business; the story it has bought into is all about 5G, 
+
+
+which is therefore our focus in what follows. 
+
+
+
+
+
+III. 5G Is Not Near and Does Not Require mmWave 
+
+
+
+
+
+Our answer to the 5G question is, “Hell, we just rolled out LTE in the last 36 months!” For God’s 
+
+
+sake, let us sweat that for a while and utilize that! 
+
+
+—Dave Mayo, T-Mobile SVP of technology, September 20159 
+
+
+
+
+
+5G is not all about bands above 6 GHz; bands below 6 GHz are just as, if not more, important.  
+
+
+—Ofcom (UK telecom regulator), April 2015 
+
+
+
+
+
+Anyone that claims today to know the details surrounding 5G is either a clairvoyant, a liar, or a 
+
+
+little bit of both.  The truth is that while there are a number of generally accepted principles 
+
+
+regarding the requirements of 5G, no one knows for certain when those requirements will be 
+
+
+implemented (Phase 1 or Phase 2), or the detailed technical specifications regarding how they 
+
+
+will be implemented. 
+
+
+—Signals Research Group, September 2015 
+
+
+
+
+
+By 2020 the global investment in LTE will amount to something like $1 trillion, with physical 
+
+
+infrastructure, spectrum licenses, software and service. LTE will have had many significant 
+
+
+                                                
+8 Rapaport declaration, p. 16. 
+9 Source: Tower and Small Cell Summit 2015 at ~25:55. 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1005731/000121390013002233/f8k050613ex99i_idt.htm
+
+http://stakeholders.ofcom.org.uk/binaries/consultations/above-6ghz/5G_CFI_Update_and_Next_Steps.pdf
+
+http://signalsresearch.com/issue/looking-further-ahead-to-5-5g/
+
+https://www.youtube.com/watch?v=X3mdOr6zh4E
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 11 
+
+
+
+
+
+updates, and be on Release 16. Why would the CFO of an MNO [mobile network operator] want 
+
+
+to obsolete that? What is the financial case for an upgrade? Why can’t we sweat that asset, 
+
+
+rather than scrapping it? I fear we are in danger of creating a very expensive white elephant: a 
+
+
+compromise that does not actually deliver any compelling advantages or business case. 
+
+
+ —Rupert Baines, technology strategy and marketing consultant at Real Wireless, April 
+
+
+2015 
+
+
+
+
+
+While 5G is often discussed in the context of the higher frequencies, existing “traditional” mobile 
+
+
+frequencies may also be candidates for employing a next generation of technology. Moreover, 
+
+
+the term “5G” sometimes appears to be used to describe an evolution from the existing 
+
+
+technology (4G) to a more advanced version – but in reality the technologies for above-24 GHz 
+
+
+spectrum may involve radical departures from existing ones. 
+
+
+
+
+
+While it is important to explore the potential for use of the above-24 GHz bands, the 
+
+
+Commission and industry will need to overcome substantial hurdles before the spectrum can 
+
+
+potentially be used for mobile commercial use. Technological breakthroughs and major 
+
+
+investments will be necessary before these frequencies are commercially viable. By contrast, 
+
+
+the know-how to deploy mobile operations using more traditional mobile frequencies already 
+
+
+exists… 
+
+
+—Verizon, January 2015 
+
+
+
+
+
+Rather than focusing principally on the mmW bands above 30 GHz, the Commission would be 
+
+
+better served by a focus on bands below 6 GHz and subsequently 10-30 GHz, with bands 
+
+
+above 30 GHz being phased in over time…Systems will need to be engineered for the mass 
+
+
+market, and the state of the art is yet to make significant headway beyond laboratory 
+
+
+prototypes…It is premature to address what licensing and regulatory mechanisms are most 
+
+
+appropriate for 5G systems, especially mmW spectrum, given the substantial technical 
+
+
+development that needs to be done. 
+
+
+—Ericsson, January 2015 
+
+
+
+
+
+I would say, people are expecting that the U.S. is going to be populated with 5G cell sites by 
+
+
+2020, whatever they're having I would like to have some of it, but I don't think that's a realistic 
+
+
+expectation. 
+
+
+—Davidi Jonas, Straight Path CEO, June 201510 
+
+
+
+
+
+
+
+
+Before we discuss the technological and economic problems facing Straight Path’s spectrum, 
+
+
+it’s important to distinguish between 5G marketing and lobbying, on the one hand, and reality, 
+
+
+on the other. The telecom industry has a long history of forecasting imminent triumphs and 
+
+
+disasters, only to experience far less dramatic outcomes. One study outlined the story of 3G: 
+
+
+
+
+
+                                                
+10 Source: Bloomberg transcript of Straight Path FY2015 Q3 earnings call. 
+
+
+
+http://www.lightreading.com/mobile/5g/5g-just-an-expensive-new-interface/a/d-id/714882
+
+http://www.lightreading.com/mobile/5g/5g-just-an-expensive-new-interface/a/d-id/714882
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013803
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013857
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=0CEoQFjAJahUKEwj_osWYmcfIAhWLaz4KHZzWCXo&url=http%3A%2F%2Fwww.scirp.org%2Fjournal%2FPaperDownload.aspx%3FpaperID%3D21931&usg=AFQjCNELoFwP3nHQx_rwwzlOloA4x6Kq2w&sig2=5p8xtZ3SS2sl5l1v5JS9jQ
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 12 
+
+
+
+
+
+In the late 1990s and early 2000s, many hailed the then upcoming allocations of 3G 
+
+
+spectrum as a revolutionizing step in telecommunications. Fueled by the success of the 
+
+
+Internet, 3G promised to take “mobile telephony beyond just voice … giving people a 
+
+
+whole range of new exciting services down to their mobile phone” … The anticipated 
+
+
+significance of 3G initially led to exuberantly high spectrum valuations. … 
+
+
+
+
+
+With 3G reaching mass markets, analysts quickly began speculating [about]…when 3G 
+
+
+would become the dominant technology. … Recent data on 3G penetration rates 
+
+
+demonstrate that these and many other statements and forecasts were far too optimistic 
+
+
+as actual 3G penetration rates fell significantly short from most of these claims. … The 
+
+
+December 2009 US 3G penetration rate was 26.1 percent, which is less than one third of 
+
+
+the number forecasted for the US by various analysts for 2010. 
+
+
+
+
+
+Eventually, the popularity of smartphones led to more widespread usage of 3G and now 4G, 
+
+
+but, relative to the early optimism about deployments, these technologies arrived more than a 
+
+
+decade late. When industry players now talk about 5G timelines, it’s important to parse their 
+
+
+language carefully: “beyond 2020” may sound soon, but the interval between completed 
+
+
+technical standards and real-life commercial build-outs has typically been many, many years. 
+
+
+LTE Advanced, for instance, dates back to at least 2009, but capacity-enhancing features like 
+
+
+carrier aggregation have barely begun to be used. 
+
+
+
+
+
+The same disconnect between rhetoric and reality characterizes discourse about the so-called 
+
+
+spectrum crunch. In 2010, an FCC technical paper suggested that mobile data usage was 
+
+
+growing so rapidly that “an additional 275 MHz of spectrum will be needed…in 2014,” beyond 
+
+
+the 547 MHz estimated to be already available in 2009. These projections assumed steady 
+
+
+network densification, with cell sites reaching almost 345,000 by 2014, but concluded that 
+
+
+infrastructure alone wouldn’t be enough. In reality, data from the wireless industry group CTIA 
+
+
+show that the number of cell sites in 2014 fell short of these projections by 14%, and large 
+
+
+amounts of the 547 MHz of spectrum allocated in 2009 have only just started to be deployed or 
+
+
+are still unused today, in particular the large 2.5GHz band largely controlled by Sprint. 
+
+
+Nonetheless, even with fewer cell sites and much less spectrum in use than expected, the 
+
+
+spectrum “deficit” never materialized. A combination of Wi-Fi usage, better spectral efficiency, 
+
+
+consumer price elasticity, and faulty projection methodologies, among other factors, have belied 
+
+
+the doomsaying. 
+
+
+
+
+
+Even today, with smartphones nearly universal, CTIA figures indicate that growth in cellular data 
+
+
+usage has decelerated sharply, from 120% in 2013 to just 26% in 2014. Moreover, with large 
+
+
+stores of available spectrum still unused, including DISH’s ~75 MHz, the carriers’ recently 
+
+
+acquired AWS-3 licenses, the virgin 100MHz in the 3.5GHz small-cell band, the 600MHz band 
+
+
+scheduled for auction next year, the unlicensed 5GHz band expected to be used by the 
+
+
+controversial LTE-U and LAA technologies, and Sprint’s still largely fallow 2.5GHz holdings, 
+
+
+there are hundreds of untouched megahertz available. In the words of two telecom analysts, 
+
+
+“Spectrum exhaust is simply not on the horizon.” Both 4G LTE technology itself and the existing 
+
+
+
+http://download.broadband.gov/plan/fcc-staff-technical-paper-mobile-broadband-benefits-of-additional-spectrum.pdf
+
+http://www.ctia.org/your-wireless-life/how-wireless-works/annual-wireless-industry-survey
+
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2418364&download=yes
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 13 
+
+
+
+
+
+wireless spectrum inventory will work perfectly well for many years to come – perhaps 
+
+
+indefinitely. 
+
+
+
+
+
+If that’s the case, then why is the industry talking about 5G and mmWave at all? One reason is 
+
+
+intra-sector self-interest: equipment vendors, especially newer entrants, would always like 
+
+
+carriers to buy more sophisticated, more expensive next-generation infrastructure and thus must 
+
+
+pitch the next big thing. Another reason is politics: ceteris paribus, the mobile industry would 
+
+
+always prefer the option of more spectrum and therefore constantly competes with other groups, 
+
+
+like the satellite industry, to convince regulators that its spectrum needs are more pressing than 
+
+
+theirs. Indeed, the timing of the recent wave of 5G demonstrations is likely linked to the 
+
+
+upcoming global regulatory conference WRC-15, which will help to define the agenda for the 
+
+
+next major conference, WRC-19, where the FCC and its international peers will begin to 
+
+
+reallocate high-frequency spectrum. The more enticing the 5G vision, the more likely regulators 
+
+
+will be to favor mobile interests over satellite interests; the more dire the forecasts of spectrum 
+
+
+scarcity, the more generous the allocations. This political process does not tend to foster even-
+
+
+handed analysis. “We probably have enough spectrum already, but we wouldn’t mind some 
+
+
+more!” makes for an underwhelming rallying cry. 
+
+
+
+
+
+Indeed, novel spectrum is just one part – arguably a small one – of the industry’s early plans for 
+
+
+5G. As wireless service revenues have, in the aggregate, stopped growing, and ARPUs have 
+
+
+declined, a compelling financial rationale for deploying a costly new network just to provide an 
+
+
+enhanced version of the now familiar consumer mobile-broadband experience is difficult to 
+
+
+imagine. Instead, operators hope to broaden their addressable market by serving connected 
+
+
+machines – for example, remote-controlled industrial equipment or autonomous vehicles. Such 
+
+
+use cases have little in common with looking at Instagram on an iPhone. The challenge is less a 
+
+
+lack of bandwidth than high latencies, inadequate reliability, an uncertain business model, and 
+
+
+other orthogonal issues. Connecting with far-flung sensors and devices won’t require gigabits 
+
+
+per second of throughput but likely will require good, cost-effective signal propagation; mmWave 
+
+
+is pointless on the first count and worthless on the second. Even for conventional mobile 
+
+
+broadband – looking at Instagram on an iPhone – improvements like massive MIMO (using 
+
+
+large numbers of coordinated antenna elements to simultaneously transmit signals) can improve 
+
+
+throughput using existing spectrum, as well as greenfields like the 3.5GHz band. 
+
+
+
+
+
+In response to the FCC’s Notice of Inquiry regarding mmWave spectrum, commenter after 
+
+
+commenter pointed out that 5G, when it comes, will come to low-band spectrum first. AT&T, for 
+
+
+instance, spoke of the “ample lead time for 5G deployment” and said, diplomatically, “As the 
+
+
+earliest form of 5G will occur in frequency bands below 6 GHz, the near-term spectrum need for 
+
+
+5G is not only the spectrum above 24 GHz, but also the spectrum located below 6 GHz.” T-
+
+
+Mobile noted that “LTE is still in the early stages of its lifecycle, which for cellular technologies 
+
+
+has historically been approximately 20 years from launch to peak penetration” and urged the 
+
+
+FCC to focus on freeing up more sub-1GHz spectrum. Verizon was similarly tepid – albeit 
+
+
+politely so – about any near-term application for mmWave spectrum in a world where LTE and 
+
+
+conventional bands still have a long way to go. Indeed, by far the most enthusiastic supporters 
+
+
+of mmWave 5G are incumbent license-holders like Straight Path, who hope to profit from it, and 
+
+
+
+http://www.slideshare.net/JanDawson2/us-wireless-market-trends-q2-2015
+
+http://apps.fcc.gov/ecfs/comment/view?id=60001017887
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013816
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 14 
+
+
+
+
+
+academic and industry researchers, who view it as an interesting technical problem but are 
+
+
+removed from direct market pressures. More practical-minded operators have barely started to 
+
+
+think about low-band 5G – which is still years away from having a technical definition – let alone 
+
+
+the far more exotic possibilities of centimeter-wave 5G or millimeter-wave 5G. Straight Path 
+
+
+bulls who expect anything more than marketing and demos in the foreseeable future will be 
+
+
+sorely disappointed. 
+
+
+
+
+
+Indeed, it’s unclear whether the core value proposition of mmWave 5G – “gigabit mobility,” as 
+
+
+Straight Path puts it – will even resonate with consumers. In Wi-Fi, for instance, depending on 
+
+
+the access point and user device, gigabit speeds are already possible in the 5GHz band using 
+
+
+the 802.11ac protocol – but this improvement has hardly caused a step change in Wi-Fi uptake 
+
+
+or gotten much mass-market attention. Consider some simple arithmetic. According to Ericsson, 
+
+
+in North America, data traffic per active smartphone totaled 2.4 gigabytes per month or 
+
+
+approximately 80 megabytes per day. Assuming an average US LTE speed of 10 Mbps (based 
+
+
+on OpenSignal data), this implies a total of 63 seconds per day spent downloading mobile data. 
+
+
+If speeds rose to 1 Gbps, that time would drop to just 0.6 second per day, thus saving the 
+
+
+average users about a minute per day. But even if we value time at a rate of $100,000 per year, 
+
+
+a minute is still only worth $0.19; a minute per day would be just $69 per year. To achieve those 
+
+
+savings with mmWave 5G would require inventing new radio technology and deploying orders 
+
+
+of magnitude more base stations than currently exist, and it would still likely falter in areas with 
+
+
+trees, hills, or severe rain, not to mention when going from outdoors to indoors. To be sure, data 
+
+
+usage will likely continue to increase, but not at an astronomical rate – Ericsson, for instance, 
+
+
+only expects usage to reach 14 GB per month by 2020. Downloading a billion bits in a second is 
+
+
+great, but it doesn’t do much good when users are only interested in downloading that many bits 
+
+
+in a month. Carrier commentary and advertising about the importance of consistently good 
+
+
+throughput rather than simply exciting-sounding peak throughput represent an oblique 
+
+
+acknowledgement of this point: today, ever higher download speeds per se generate little 
+
+
+incremental value for consumers. 
+
+
+
+
+
+Straight Path has happily cast itself as the royal road to 5G, with the move to “gigabit mobility” in 
+
+
+the mmWave depicted as thrilling and inevitable. But it will be likely be the 2030s before 5G truly 
+
+
+exists on a large scale, and even later, if ever, before the mmWave version of 5G comes into 
+
+
+being in the few places where it might make economic sense. With all this “ample lead time,” in 
+
+
+the words of AT&T, global regulators will have the luxury of studying and rewriting rules for large 
+
+
+swaths of high-band spectrum well before it becomes commercially relevant – creating an 
+
+
+unprecedented wave of spectrum supply that will dwarf Straight Path’s holdings. 
+
+
+ 
+
+
+
+http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015-rnam-appendices.pdf
+
+http://opensignal.com/reports/2015/09/state-of-lte-q3-2015/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 15 
+
+
+
+
+
+IV. Straight Path’s Spectrum Is a Small Slice of the 
+
+
+Enormous mmWave Pie 
+
+
+
+
+
+The use of millimeter wave bands will open the door to an abundance of spectrum…[L]arge 
+
+
+chunks of spectrum are available… 
+
+
+—Nokia, February 2015 
+
+
+
+
+
+ Enormous blocks of spectrum [are] available for short range outdoor or indoor access 
+
+
+—Alcatel-Lucent, May 2015 
+
+
+
+
+
+The high interest in millimetre wave bands has risen due to the enormous amount of bandwidth 
+
+
+that lies in this part of the electromagnetic spectrum. With respect to the present regulatory 
+
+
+status, typically V-band offers 7 GHz bandwidth of contiguous spectrum (57 - 64 GHz), 
+
+
+extendable to 9 GHz whenever also the 64 - 66 GHz is open for fixed services, and E-band 
+
+
+provides two times 5 GHz bandwidth, namely 10 GHz aggregate spectrum (71 - 76 GHz and 81 
+
+
+- 86 GHz). Similarly, at frequency bands above 100 GHz, there are blocks of plentiful spectrum, 
+
+
+which could be allowed for extra bandwidth for future broadband wireless transmission services. 
+
+
+… The millimetre wave frequency range provides massive and underutilized spectrum… 
+
+
+—European Telecommunications Standards Institute (ETSI) millimetre Wave 
+
+
+Transmission Industry Specification Group, August 2015 
+
+
+
+
+
+[A]bove 6 GHz, sharing of the spectrum may become easier due to the limited range of the 
+
+
+systems and this could be further improved by the use of advanced antenna techniques with 
+
+
+greater directionality. 
+
+
+—Ofcom, January 2015 
+
+
+
+
+
+The technologies being developed for advanced mobile applications in frequencies above 24 
+
+
+GHz could allow opportunities for reuse of spectrum and for spectrum sharing that are not 
+
+
+possible at lower frequencies with current technology. In principle, tightly packed base stations 
+
+
+with dynamic beamforming capabilities should be able to share the same channels without 
+
+
+causing mutual interference by pointing their beams in non-interfering directions. 
+
+
+—FCC Notice of Inquiry, October 2014 
+
+
+
+
+
+
+
+
+Spectrum bulls often liken spectrum to a natural resource in fixed, finite supply; scarcity, they 
+
+
+believe, is what gives it such great value. While this scarcity is as much a product of technology 
+
+
+and regulation as of physics, it’s true that the low-band spectrum most efficiently used by 
+
+
+existing systems is limited in quantity. But mmWave spectrum is a different story altogether. In 
+
+
+high bands, regulatory allocations contain hundreds of times more bandwidth than they do in 
+
+
+low bands, which helps to compensate for the inherent propagation challenges of higher 
+
+
+frequencies. Straight Path’s favored 39GHz band is indeed wide, but so are many of the other 
+
+
+mmWave bands under consideration for future mobile usage by global policymakers, and these 
+
+
+bands in the aggregate are very large indeed. 
+
+
+
+http://apps.fcc.gov/ecfs/document/view?id=60001030536
+
+http://apps.fcc.gov/ecfs/document/view?id=60001046959
+
+http://www.etsi.org/deliver/etsi_gs/mWT/001_099/002/01.01.01_60/gs_mWT002v010101p.pdf
+
+http://www.etsi.org/deliver/etsi_gs/mWT/001_099/002/01.01.01_60/gs_mWT002v010101p.pdf
+
+http://stakeholders.ofcom.org.uk/binaries/consultations/above-6ghz/summary/spectrum_above_6_GHz_CFI.pdf
+
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-14-154A1.pdf
+
+http://bits.blogs.nytimes.com/2012/05/31/qa-marty-cooper-spectrum-sharing/
+
+http://bits.blogs.nytimes.com/2012/05/31/qa-marty-cooper-spectrum-sharing/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 16 
+
+
+
+
+
+
+
+
+Consider the bands that the US is proposing for study at WRC-19, according to an August blog 
+
+
+post by FCC Chairman Tom Wheeler. Together, they amount to 22 GHz of spectrum, with the 
+
+
+largest individual piece by far being the 59.3-71.0GHz band, with almost 12 contiguous GHz: 
+
+
+
+
+
+mmWave Bands Tentatively 
+Proposed by the FCC 
+
+
+
+
+
+Source: FCC, Kerrisdale analysis 
+
+
+Start 
+
+
+(GHz) 
+
+
+End 
+
+
+(GHz) 
+
+
+Bandwidth 
+
+
+(GHz) 
+
+
+27.5 29.5 2.0 
+
+
+37.0 40.5 3.5 
+
+
+47.2 50.2 3.0 
+
+
+50.4 52.6 2.2 
+
+
+59.3 71.0 11.7 
+
+
+ Total 22.2 
+
+
+
+
+
+Only a subset of those bands was included in the FCC’s recent NPRM, which proposed 
+
+
+aggregate bandwidth of 10.85 GHz for mobile use, on top of the 7 GHz already available in the 
+
+
+unlicensed 60GHz band. But, in response to complaints from some FCC commissioners that 
+
+
+even more spectrum should be considered – at least another 12.5 GHz, according to 
+
+
+Commissioner Ajit Pai – Chairman Wheeler has pledged a “follow-on proceeding” in the coming 
+
+
+months to go further still.11 
+
+
+
+
+
+But the story doesn’t stop there. Everyone agrees that the ideal outcome for 5G would be global 
+
+
+harmonization of potential mmWave bands, and given how early it is relative to any plausible 
+
+
+timeline for commercial deployments of mmWave 5G, international regulatory agencies aim to 
+
+
+be open-minded rather than prematurely anoint any one band as the answer. Different regional 
+
+
+regulatory groups have devised their own proposals based on different criteria, but in every 
+
+
+case they’re looking at tens of gigahertz, multiples of what Straight Path has to offer. The chart 
+
+
+below illustrates the proposals graphically. (CITEL is the regional organization for telecom 
+
+
+regulators in the Americas; CEPT, Europe; APT, the Asia-Pacific region; and RCC, Central 
+
+
+Asia/Eurasia, including Russia.)  
+
+
+
+
+
+                                                
+11 October 22, 2015, FCC open meeting, ~88:43 (“There are many spectrum alternatives that we can 
+
+
+pursue. We will pursue more of them after the WRC meeting, as has been indicated. … It [5G success] 
+
+
+requires continued development of other spectrum, which is what we’re going to do in the follow-on 
+
+
+proceeding”). 
+
+
+
+https://www.fcc.gov/blog/leading-towards-next-generation-5g-mobile-services
+
+https://www.fcc.gov/blog/leading-towards-next-generation-5g-mobile-services
+
+https://www.fcc.gov/blog/leading-towards-next-generation-5g-mobile-services
+
+https://www.fcc.gov/article/fcc-15-138a5
+
+https://www.fcc.gov/events/open-commission-meeting-october-2015
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 17 
+
+
+
+
+
+mmWave Bands Tentatively Proposed by Regional Regulatory Bodies 
+
+
+ 
+Source: DIGITALEUROPE summary of regional proposals, FCC NPRM, Kerrisdale analysis 
+
+
+
+
+
+By 2019, when the WRC-19 conference takes place, the hope is that, after studying many of 
+
+
+these bands, regulators can reach consensus about which are the most plausible targets for 5G 
+
+
+developments, taking into account not just technological constraints but also alternative 
+
+
+spectrum uses, which vary from country to country. Nonetheless, a few important themes 
+
+
+emerge from the work that’s already been done: 
+
+
+
+
+
+1) Very large bandwidths are likely to be opened up for mobile services. The graph below 
+summarizes the aggregate size of each regional group’s proposed bands, juxtaposed 
+with Straight Path’s combined 39GHz and LMDS holdings (measured as a nationwide 
+average). With ~30 GHz on the agenda everywhere, all of Straight Path’s MHz-pops no 
+longer look especially impressive. 
+ 
+
+
+ 
+Source: DIGITALEUROPE summary of regional proposals, FCC NPRM, Kerrisdale analysis 
+
+
+
+
+
+2) Straight Path’s bands are not supported by a global consensus. Global harmonization is 
+important in part because of cost: both device makers like Apple and equipment vendors 
+
+
+20
+
+
+CITEL
+
+
+30 4010 50 60 70 80 90
+
+
+CEPT
+
+
+APT
+
+
+RCC
+
+
+Straight Path
+
+
+Frequency (GHz)
+
+
+FCC NPRM
+
+
+proposed for mobile use
+
+
+already available (unlicensed)
+
+
+mentioned in Notice of Inquiry (potential future NPRM)
+
+
+proposed by Commissioner Pai
+
+
+100 110
+
+
+0
+5
+
+
+10
+15
+20
+25
+30
+35
+40
+
+
+CITEL
+bands
+
+
+CEPT
+bands
+
+
+APT
+bands
+
+
+RCC
+bands
+
+
+FCC
+NPRM
+bands
+
+
+STRP
+portfolio
+
+
+B
+a
+
+
+n
+d
+
+
+w
+id
+
+
+th
+ (
+
+
+G
+H
+
+
+z
+)
+
+
+Total mmWave Bandwidth under 
+Consideration for Mobile Use
+
+
+
+http://www.digitaleurope.org/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&EntryId=1021&PortalId=0&TabId=353
+
+https://www.fcc.gov/document/fcc-promotes-higher-frequency-spectrum-future-wireless-technology-0
+
+http://www.digitaleurope.org/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&EntryId=1021&PortalId=0&TabId=353
+
+https://www.fcc.gov/document/fcc-promotes-higher-frequency-spectrum-future-wireless-technology-0
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 18 
+
+
+
+
+
+like Ericsson enjoy economies of scale when they can use the same components across 
+the world, and carriers and consumers enjoy the benefits. Some of the proposed 
+mmWave bands do enjoy global backing already, including (with some small variations 
+from region to region) 31.8-33.4 GHz, ~45-50 GHz, and ~66-76 GHz. By contrast, 
+Straight Path’s most important band – 39GHz, which represents 85% of its MHz-pops – 
+is fully included in just one proposal (CITEL’s), only partially included in two (APT’s and 
+RCC’s), and entirely absent from CEPT’s. Similarly, one piece of the LMDS band, which 
+is split into three non-contiguous pieces, is not in any region’s proposal, while the other 
+two are largely absent outside of CITEL. To be sure, Straight Path’s bands could still be 
+designated as global mmWave mobility bands in the future – just as bands missing from 
+the FCC’s initial NPRM could easily come into play in follow-up rulemakings – but the 
+fact that many regulatory groups across the world simply don’t view Straight Path’s 
+bands as compelling priorities gives the lie to the notion that they are somehow essential 
+for 5G. On the contrary, they are at best just one minor piece of the puzzle. 
+
+
+
+
+
+While the exact details of the bands repurposed for mmWave mobility will remain undefined for 
+
+
+years to come, it’s already clear that regulators are explicitly trying to make this spectrum 
+
+
+abundant, not scarce, and their initial proposals reflect that intention. With so much competing 
+
+
+spectrum supply, Straight Path will have no bargaining power. Why bother negotiating with a 
+
+
+rent-seeking incumbent in the 39GHz band when so many other similar bands will be available? 
+
+
+Indeed, even in that band, Straight Path won’t have a monopoly, since the FCC will likely seek 
+
+
+to re-auction the many expired and unused licenses in markets across the country. And with a 
+
+
+potential lack of global support, the 39GHz band will be even less attractive. 
+
+
+
+
+
+Furthermore, the raw number of gigahertz in the mmWave bands actually understates the true 
+
+
+abundance of spectrum. Current research suggests that, even with complicated techniques like 
+
+
+beamforming and adaptive antenna arrays, the practical range of mmWave signals will be on 
+
+
+the order of 100 meters. While short ranges and narrow beams present major challenges, they 
+
+
+also have a key benefit: the ability to reuse the same spectrum over and over again within a 
+
+
+small physical area. In principle, two mmWave base stations operated by two different carriers 
+
+
+could be fairly close together and run on the same exact channel without even “noticing” each 
+
+
+other.  
+
+
+
+
+
+This state of affairs differs greatly from the lower-band status quo, in which nearby base stations 
+
+
+on the same channel would greatly interfere with each other, making exclusive control over 
+
+
+individual spectrum blocks in particular locations the most natural solution. AT&T and Verizon’s 
+
+
+networks would not work very well if the cell towers of each were trying to use, say, the 700MHz 
+
+
+C Block simultaneously in the same town, especially because they radiate energy in every 
+
+
+direction. By contrast, mmWave systems will need to direct energy in a more focused way within 
+
+
+a small space, so there’s no good reason why AT&T and Verizon couldn’t use the same exact 
+
+
+frequencies within a region as large as, say, a city, as long as the base stations weren’t on top 
+
+
+of each other. Such considerations are precisely why regulators are seriously considering 
+
+
+making large swaths of mmWave spectrum either unlicensed, lightly licensed, or shared. The 
+
+
+physical characteristics of mmWave systems greatly reduce the value of legally guaranteed, 
+
+
+wide-area exclusivity and make less conventional models more practical. In the words of 
+
+
+
+https://www.youtube.com/watch?v=TBwyIswSwS8
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 19 
+
+
+
+
+
+Gerhard Fettweis, a German academic in the field of wireless communications who holds a 
+
+
+Vodafone-sponsored professorship and heads 5G Lab Germany:  
+
+
+
+
+
+Obviously, if we go to these frequencies we can also change the licensing game 
+
+
+completely. … We can…go and have Vodafone and Telefónica using exactly the same 
+
+
+frequency band. All they need is a certain spacing apart, little more than 10 
+
+
+meters…Then there’s no reason why we cannot just have the same frequency band. So 
+
+
+forget about frequency auctioning of “your spectrum only.” You can then have really 
+
+
+shared access. We only need somebody to manage to make sure that the base stations 
+
+
+are far enough apart in space. 
+
+
+
+
+
+Multiple gigahertz-wide bands, each of which can likely host multiple operators within a given 
+
+
+market (assuming some degree of coordination), are about as far away from spectrum scarcity 
+
+
+as one can get, making exclusive control over any individual slice of spectrum – like Straight 
+
+
+Path’s – relatively unimportant. While carriers have traditionally shied away from unlicensed 
+
+
+spectrum, the drumbeat of support for LTE-U and related technologies like LAA – which tie 
+
+
+together licensed, low-frequency spectrum and the 5GHz unlicensed band to enhance downlink 
+
+
+throughput – demonstrates that carriers are open to different approaches. One compelling 
+
+
+option for mmWave 5G would be to tie together reliable baseline coverage in a low band with 
+
+
+vast capacity in the unlicensed 60GHz band – currently 7 GHz wide and likely to expand to 14 
+
+
+GHz under the FCC’s future rule. With so much bandwidth operating over such short distances, 
+
+
+carriers could achieve extremely high throughput while suffering few ill effects from the 
+
+
+unplanned interference than can be more problematic in unlicensed bands with better 
+
+
+propagation. Straight Path insists that carriers will want the certainty of exclusive, licensed 
+
+
+spectrum even in the exotic territory of mmWave, but this low-band logic just doesn’t apply with 
+
+
+the same force. Even if it did, carriers will likely have a very rich menu of licensed mmWave 
+
+
+spectrum to choose from. If scarcity fosters high valuations at low frequencies, then radical 
+
+
+abundance will generate unprecedented cheapness at high frequencies. 
+
+
+
+
+
+Finally, while the FCC’s 5G preparations have focused on mmWave spectrum between 24 and 
+
+
+roughly 71 GHz, some researchers also believe that even higher frequencies can work for 
+
+
+mobile applications – potentially better than lower-frequency mmWave. For instance, the 
+
+
+aforementioned Professor Fettweis has argued that we can harvest hundreds of gigahertz 
+
+
+above 100 GHz, where propagation is not much worse than it is in the “lower mmWave” but 
+
+
+antenna elements can be significantly smaller, enabling easier and more cost-effective 
+
+
+miniaturization. Such research is far from commercialization, but it highlights an unfavorable 
+
+
+dynamic for Straight Path: by the time mmWave technology is good enough to be economically 
+
+
+viable, it’s reasonable to expect that it will soon work at 120GHz as well as it works at 39GHz, 
+
+
+further obliterating any suggestion of spectrum scarcity. 
+
+
+ 
+
+
+
+http://5glab.de/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 20 
+
+
+
+
+
+V. Large-Scale mmWave Networks May Never Be 
+
+
+Commercially Viable 
+
+
+
+
+
+After reflecting on the week that I just spent at the Small Cell Forum, it’s clear that the view on 
+
+
+outdoor small cells really hasn’t changed much.  Everyone now has a bit of pilot and trial 
+
+
+experience under their belt, and we’re all still saying mass deployment is 12 months away, just 
+
+
+as we have been saying for the past 3 years. However, during this time period no real outdoor 
+
+
+volume deployments have occurred, and those few plans that had been announced have largely 
+
+
+stalled and been delayed. 
+
+
+—Greg Friesen, DragonWave VP of product management, June 2015 
+
+
+
+
+
+[W]hatever licensing regimes we adopt should take into account the fact that signals from 
+
+
+carriers’ outdoor base stations will rarely be able to penetrate into the interiors of buildings, 
+
+
+where around 75 percent of cellular data usage occurs today. 
+
+
+—FCC Notice of Inquiry, October 2014 
+
+
+
+
+
+Up through 4G, each generation of mobile technology has been able to balance subscriber 
+
+
+growth against the shrinking of inter-site distances and, at the same time, provide increasing 
+
+
+data rates to users both individually and in the aggregate. … However, it is not clear that 
+
+
+deployments in higher frequency bands, especially those above 24 GHz, can provide the same 
+
+
+advantages of capturing ever increasing numbers of users… 
+
+
+—Ericsson, January 2015 
+
+
+
+
+
+Even if mmWave 5G one day becomes widespread, Straight Path’s spectrum will still have little 
+
+
+value given the massive amount of competing spectrum and the relative ease of sharing the 
+
+
+same channel among multiple operators. But it’s also important to realize that, notwithstanding 
+
+
+the current level of R&D aimed at rendering mmWave bands practically usable for mobile 
+
+
+services, it’s likely that, even if mmWave mobility is feasible, it still won’t be economical and thus 
+
+
+will never be widely deployed, making Straight Path’s potential value negligible. 
+
+
+
+
+
+mmWave optimists have focused on overcoming the challenges of propagation, where the 
+
+
+problem is that mmWave signals transmitted between a pair of standard antennas can only 
+
+
+travel over very short distances. The usual workaround in backhaul applications, where each 
+
+
+endpoint is fixed, is to use highly directional antennas manually aimed straight at each other. 
+
+
+But this obviously doesn’t work when at least one of the endpoints is small and mobile, like a 
+
+
+smartphone. However, by using a sophisticated mixture of hardware and software, researchers 
+
+
+have shown with early-stage demos, prototypes, and simulations that multi-antenna arrays can 
+
+
+provide a similar degree of directivity. The devices used in these tests are very much not ready 
+
+
+for prime time – in one, for instance, the smartphone proxy is a large, bulky trolley – but they 
+
+
+serve as a proof of concept, showing that there’s at least a chance that this approach could 
+
+
+work in mass-market products. 
+
+
+ 
+
+
+
+http://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2015/06/29/405798-rethinking-small-cells.htm
+
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-14-154A1.pdf
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013857
+
+https://www.youtube.com/watch?v=ow9hIIVg7VY
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 21 
+
+
+
+
+
+But would it actually make economic sense? Even with complex engineering, mmWave cells are 
+
+
+expected to have radii on the order of just 100 meters – dramatically smaller than for 
+
+
+conventional cellular systems. Worse still, because usable mmWave signals require narrow 
+
+
+beams and tend to reflect rather than diffract, any obstructions would be far more damaging 
+
+
+than they would be for lower-frequency signals, calling for high levels of redundancy to mitigate 
+
+
+against outages. As a result, mmWave systems demand enormously high cell densities. Base 
+
+
+stations need to be packed very close together, and each one needs power, backhaul, 
+
+
+computational resources, and permission to use a given physical location, all at the mercy of 
+
+
+local stakeholders including, in particular, a patchwork of municipal governments and utility 
+
+
+companies. 
+
+
+
+
+
+In other words, mmWave takes the laundry list of problems that have prevented normal small 
+
+
+cells from ever living up to expectations and tacks on many more. Wireless industry observers 
+
+
+have long predicted that cellular networks, which are today heavily reliant on traditional large 
+
+
+(“macro”) towers, will evolve toward a small-cell architecture, with compact radio equipment 
+
+
+located on sites like lamp posts and utility poles, greatly enhancing capacity while using normal 
+
+
+low-band frequencies. In 2012, AT&T even announced that it would deploy 40,000 small cells 
+
+
+by the end of 2014. In reality, though, AT&T quietly gave up on that plan after deploying, 
+
+
+according to industry experts, only a few thousand. Finding and getting rights to 40,000 usable 
+
+
+locations at a low enough cost in a short enough time to justify the investment – especially 
+
+
+relative to more conventional macro capex – proved to be impossible. 
+
+
+
+
+
+To be sure, the small-cell approach hasn’t been abandoned, but few regard earlier projections 
+
+
+of millions of cells across the country as realistic for the foreseeable future, and even Sprint’s 
+
+
+more recent plan to roll out tens of thousands of sites has been dubbed “very aggressive, even 
+
+
+in a three-year period.”12 But while dense small-cell deployments complement macro sites to 
+
+
+add capacity in conventional frequencies, they’re non-negotiable necessities in mmWave, where 
+
+
+macro-style wide-area propagation is impossible. If carriers can’t make the math work to deploy 
+
+
+large numbers of small cells using familiar bands with relatively good propagation, how can they 
+
+
+possibly justify even larger numbers using exotic frequencies and complex, likely costly 
+
+
+equipment (which doesn’t even exist in commercial form today)? For mmWave to work, a small-
+
+
+cell architecture must already be in place – but once such an architecture is in place in lower 
+
+
+bands, it will significantly improve network performance on its own, further calling into question 
+
+
+any incremental ROI on adding mmWave on top. 
+
+
+
+
+
+But the cost associated with high cell densities is just one of the practical problems with 
+
+
+mmWave. One of the best summaries comes from Ericsson, the world’s largest telecom 
+
+
+equipment vendor and hence a firm with about as much mobile-network expertise as anyone in 
+
+
+the world. Ericsson’s detailed comments on the FCC’s mmWave Notice of Inquiry read like a 
+
+
+horror story for mobile-operator CFOs: 
+
+
+
+
+
+                                                
+12 Source: Dave Jones, SVP of mobile infrastructure at Zayo Group, at the 2015 Tower & Small Cell 
+
+
+Summit (~51:00). 
+
+
+
+http://www.fiercewireless.com/story/att-expand-lte-network-300m-pops-deploy-least-40000-small-cells/2012-11-07
+
+http://www.fiercewireless.com/story/att-drops-goal-deploying-40000-small-cells-end-2015-citing-benefits-leap-de/2015-03-05
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013857
+
+https://www.youtube.com/watch?v=U3dg-ijyuXg
+
+https://www.youtube.com/watch?v=U3dg-ijyuXg
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 22 
+
+
+
+
+
+[I]n the nearer term, the Commission should focus on spectrum above 10 GHz (rather 
+
+
+than above 24 GHz) as today’s evolving technology can more easily transition to these 
+
+
+frequencies. The radio environment at higher frequencies is simply very different, and it 
+
+
+gets more “different” as the frequency increases. … 
+
+
+
+
+
+A much denser site grid may be needed, limiting the economic benefits of deployment 
+
+
+within areas that are capable of generating traffic. …  
+
+
+
+
+
+Propagation limitations will greatly limit non-line-of-sight (“NLOS”) coverage, especially 
+
+
+between indoor and outdoor locations and in rural and suburban areas…LOS coverage 
+
+
+will be possible, but obstructions and vegetation will pose difficulties in reception. … 
+
+
+
+
+
+High directivity for mobile antenna systems will have to be achieved by arrays of many 
+
+
+elements. This is by no means a trivial task, and current research and development 
+
+
+efforts are just beginning. … 
+
+
+
+
+
+[T]he random orientation of handheld user equipment, limits on EIRP [i.e. power levels] 
+
+
+in proximity to the human body, and blockage of the signal by parts of the human body 
+
+
+require compensation at the base station’s receive antenna. … 
+
+
+
+
+
+In outdoor environments, the system is unlikely to provide ubiquitous coverage—for 
+
+
+example, it will be difficult to account for losses through vehicles…Even communications 
+
+
+through a window may require higher power than an outdoor-to-outdoor link because of 
+
+
+high attenuation through windows as well as wells. In addition, commercial buildings 
+
+
+often have windows that are metallized, which will further attenuate signals. … 
+
+
+
+
+
+Handsets, to some degree, can overcome obstacles in their path by finding other signal 
+
+
+paths to close the link; however, outage probabilities for high data rates will likely be 
+
+
+significant, because buildings, foliage and atmospheric conditions can affect propagation 
+
+
+characteristics with significant attenuation in comparison to bands below 3 GHz. … 
+
+
+
+
+
+There are fundamental physical differences that require completely different approaches 
+
+
+rather than tweaks, such as the path loss, which is proportional to the square of the 
+
+
+frequency. As a result, when the frequency is increased by a factor of ten or more, the 
+
+
+design of the circuity and antennas is not simply scaled up or down a bit, as may be the 
+
+
+case when there is a more moderate increase in frequency; the design needs to be 
+
+
+fundamentally reexamined. … 
+
+
+
+
+
+NLOS outdoor to indoor coverage cannot be obtained in a satisfactory manner at 
+
+
+frequency bands above 24 GHz. … 
+
+
+
+
+
+Obstructions can cause problems with coverage, for example down side streets, behind 
+
+
+large trees, inside a car, or behind a large truck or bus. Nomadic obstructions such a
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 23 
+
+
+
+
+
+parked truck will cause sporadic dropouts…[A] single building, some trees or a truck or 
+
+
+bus obstructing the path might break the connection. … 
+
+
+
+
+
+Coverage over and beyond a hill will likely not be possible. … 
+
+
+
+
+
+In sum, in addition to requiring a dense small-cell architecture that has not proven to be 
+
+
+economically compelling using conventional cellular bands, mmWave networks will face severe 
+
+
+difficulties achieving things that users today largely take for granted, like providing service 
+
+
+irrespective of how they hold their phones, whether they’re standing behind a hill, or whether 
+
+
+there’s a truck or bush nearby. Perhaps most fatally, while existing cellular systems almost 
+
+
+entirely provide coverage to indoor users via outdoor cell towers, mmWave signals generally 
+
+
+won’t be able to penetrate walls or even common types of glass, narrowly circumscribing their 
+
+
+usefulness or requiring costly building-by-building indoor deployments, a model that cannot 
+
+
+scale to large areas. Beyond a small handful of high-density outdoor events like the recent 
+
+
+papal visit in Philadelphia – which was well-served by conventional cellular and Wi-Fi systems – 
+
+
+the vast majority of cellular data consumption occurs indoors. The entire rationale for traveling 
+
+
+down the long, difficult path of fundamentally reexamining all aspects of radio engineering to 
+
+
+enable mmWave mobile networks is to provide very high data rates – but those data rates will 
+
+
+fizzle out and often drop to zero in precisely the places they’re needed.  
+
+
+
+
+
+It’s easy to dismiss these profound limitations by just asserting that R&D will address them 
+
+
+somehow down the road. But while the basic outlines of how to compensate for weak mmWave 
+
+
+propagation in free space are already known – use a lot of coordinated antenna elements – the 
+
+
+failure of mmWave signals to penetrate most building materials is simply a physical fact, as is 
+
+
+the likelihood that a user’s head or fingers will disrupt narrow mmWave beams. There are no 
+
+
+practical, ready-to-hand solutions to these problems, and they are so fundamental that it’s 
+
+
+difficult to imagine any. At the recent Texas Wireless Summit in mid-October, leading mmWave 
+
+
+expert Robert W. Heath, Jr., a professor of electrical and computer engineering at the University 
+
+
+of Texas at Austin, spoke frankly about these issues (starting at ~10:25): 
+
+
+
+
+
+[T]hat main signal path…can be blocked by buildings. You know, you’re in Manhattan? 
+
+
+There’s a lot of buildings around! … Boy, people can block the signal too, depending on 
+
+
+which frequency you’re operating at. We tend to either scatter or absorb a ton of 
+
+
+mmWave frequency. It actually even depends on clothing – I mean, wearing a wool 
+
+
+sweater is hugely different than a synthetic shirt. But anyways, basically people block the 
+
+
+signal. So if you have, like, a low transmitter/receiver, people walking around: your 
+
+
+signal’s going to be blocked, like, all the time. 
+
+
+
+
+
+By the way, we block the signal ourselves. I could be communicating with this base 
+
+
+station right here, I turn my back to talk to someone over here – I just blocked my best 
+
+
+propagation path. My SNR [signal-to-noise ratio] goes down 25 dB [decibels]. I get 
+
+
+nothing now. So. We block our own signal. And then it goes to the extreme that in fact 
+
+
+we can even block the antenna elements on our hand. Everyone remembers this Apple 
+
+
+“antenna-gate,” but this is a big issue at mmWave because, even though you have an 
+
+
+
+http://www.verizonwireless.com/news/article/2015/09/verizon-prepares-for-historic-papal-visit.html
+
+http://corporate.comcast.com/comcast-voices/comcasts-hometown-response-to-world-meeting-of-families-and-papal-visit
+
+https://www.youtube.com/watch?v=hpp-efPnCEU
+
+https://en.wikipedia.org/wiki/IPhone_4#Antenna
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 24 
+
+
+
+
+
+array of antennas, that array is not very big. You could very easily just happen to cover it 
+
+
+with your thumb. … 
+
+
+
+
+
+So what can you do here? The Samsung approach…is to actually have two arrays, and 
+
+
+that’s a great idea. … Of course, if you turn that [device] landscape to watch a YouTube 
+
+
+video, you just blocked both antennas. [Audience laughter.] So what are the other 
+
+
+solutions here? The one I was thinking about recently is this…You could have a little, 
+
+
+like, shock, or a buzzer or something, that tells the user, “Get your finger off the 
+
+
+antenna!” [Audience laughter.] I mean, I don’t know! But, in all seriousness, this is going 
+
+
+to affect a lot of how we use the technology, because no more can we kind of use it 
+
+
+everywhere – now we have to be mindful of where our fingers are, where the base 
+
+
+station is. I mean, something silly like this – this could kill it. If the typical user…can’t 
+
+
+figure out how to get the iPad working, man, it’s going to be dead. 
+
+
+
+
+
+What rational actor would have the appetite to spend enormous sums of money building out a 
+
+
+large-scale mmWave network using completely new, untested technology to provide at best 
+
+
+inconsistent and unreliable – and at worse nonexistent – service indoors, in suburbs, near trees, 
+
+
+or in cities with too many or too few buildings? With such a daunting, operationally difficult, and 
+
+
+expensive project, how much room would there be in the budget to pay for spectrum? To 
+
+
+achieve any economic return, the underlying spectrum has to be trivial in cost, undercutting the 
+
+
+purported value of Straight Path’s licenses. 
+
+
+
+
+
+The bull case for Straight Path is built entirely on the success of mmWave 5G. But 5G is likely 
+
+
+decades away from peak deployment and has no inherent need for mmWave, which in turn 
+
+
+faces so many staggering economic and technological limitations that it may never come to 
+
+
+fruition at all, like so many other hyped-up concepts in telecom. Even if mmWave 5G does 
+
+
+succeed, there will be so much available spectrum that incumbents like Straight Path will have 
+
+
+no bargaining power and little to offer.  
+
+
+
+
+
+VI. Valuation Precedents and Benchmarks Demonstrate that 
+
+
+Straight Path Is Worth Very Little 
+
+
+
+
+
+The typical bull case for Straight Path takes the company’s 256 billion MHz-pops – the sum of 
+
+
+bandwidth times population for each market for which it holds a license – and applies some 
+
+
+price per MHz-pop derived from cellular bands, less an arbitrary discount. The dream is that, 
+
+
+although such high-frequency spectrum has typically traded for prices per MHz-pop that are 
+
+
+several orders of magnitude lower than what carriers have paid for lower-band spectrum, that’s 
+
+
+just because mmWave bands weren’t yet authorized for mobile use and didn’t have the right 
+
+
+technology. Now that regulators are moving toward favorable rules and researchers are 
+
+
+developing new kinds of equipment, Straight Path bulls contend, mmWave spectrum prices will 
+
+
+begin to converge with those of conventional bands.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 25 
+
+
+
+
+
+By seeking to map the value of normal cellular bands onto Straight Path, bulls are applying a 
+
+
+radically incorrect model, ignoring basic first principles. But before explaining why, it’s worth 
+
+
+reviewing just how inexpensive mmWave spectrum is. In 2008, for example, the United 
+
+
+Kingdom auctioned off three GHz of spectrum in the 40.5-43.5GHz band – similar to Straight 
+
+
+Path’s 39GHz band, but with roughly twice the bandwidth. A firm called UK Broadband 
+
+
+purchased rights to 2 GHz in this band for just £120,000. Not £120 million -- £120 thousand. Nor 
+
+
+was this price an incredible bargain; by 2009, the firm, which had sought to use the spectrum for 
+
+
+wireless broadband, had already given up on much of its plans. 
+
+
+
+
+
+Similarly, in 2012, as noted in the Company Overview section above, Level 3 Communications, 
+
+
+the large telecom infrastructure firm, sold its portfolio of mmWave spectrum, inherited via an 
+
+
+acquisition, to Spectrum Holdings Technologies, an entity controlled by the former head of IDT 
+
+
+Spectrum, the unit that later became the core of Straight Path. These licenses account for 
+
+
+almost a third of Straight Path’s total holdings today. The price, revealed in legal documents 
+
+
+filed as part of litigation between IDT and the former executive,13 was just $203,000 for licenses 
+
+
+covering, according to our license-by-license calculations, 32 billion MHz-pops in the 39GHz 
+
+
+band and 14 billion in the LMDS band, for a total of 46 billion MHz-pops. The arithmetic is as 
+
+
+simple as it is striking – $203,000 divided by 46 billion MHz-pops implies a price per MHz-pop of 
+
+
+$0.000004. Obviously, applying such a low benchmark to Straight Path indicates that its 
+
+
+portfolio is worth very little. To be precise, 256 billion MHz-pops x $0.000004 yields an 
+
+
+aggregate value of just over $1 million. Even if this calculation were off by a factor of 10, 
+
+
+Straight Path’s stock would still have 98% downside.  
+
+
+
+
+
+Bulls will insist that such a comparison is unfair, even though it involves a relatively recent and 
+
+
+relatively large transaction between knowledgeable parties. After all, that price likely only 
+
+
+contemplated the niche use cases of fixed wireless broadband and wireless backhaul, not the 
+
+
+much larger market for mobile broadband that regulators might ultimately open up for Straight 
+
+
+Path. Spectrum for mobile broadband changes hands for prices measured in dollars per MHz-
+
+
+pop, not tiny fractions of a cent. Why shouldn’t the same ultimately apply to Straight Path’s 
+
+
+spectrum? 
+
+
+
+
+
+The answer is that a band’s frequency has a large impact on its cost of deployment, with the 
+
+
+number of required infrastructure nodes rising exponentially with frequency. As a result, 
+
+
+operators historically pay less for high-frequency spectrum than for low-frequency spectrum, 
+
+
+because it’s cheaper, less difficult, and less time-consuming to build out low-frequency 
+
+
+networks. A recent real-world example of this effect comes from Canada. In March 2015, the 
+
+
+Canadian operator Telus purchased spectrum in the AWS-3 band – centered roughly at 2 GHz 
+
+
+– for ~$2/MHz-pop at auction. Very shortly thereafter, in May, the same company purchased 
+
+
+spectrum in the 2.5GHz band – centered roughly at 2.6GHz – for just $0.36 per MHz-pop at 
+
+
+auction. The frequency was only 30% higher, yet the price was more than 80% lower. What 
+
+
+                                                
+13 See e.g. IDT Corporation et al. v. Rapaport et al., Case 2:13-cv-00634, Document 1 (IDT complaint) p. 
+
+
+30 (reference to “the $203,000 [he] paid to Level 3”). 
+
+
+
+http://www.telecompaper.com/news/ofcom-awards-radio-spectrum-licences-to-10-companies--590142
+
+http://www.ispreview.co.uk/story/2009/03/18/now-uk-wireless-broadband-isp-to-be-discontinued.html
+
+http://www.policytracker.com/headlines/canadian-aws-3-spectrum-sells-for-us-1.7-billion
+
+http://frankrayal.com/2015/05/15/2600-mhz-canada-spectrum-auction-overview/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 26 
+
+
+
+
+
+would the price have been for mobile spectrum whose frequency was not 30% but 20 times 
+
+
+higher? Almost zero. 
+
+
+
+
+
+Even if we charitably assume that antenna arrays and beamforming can overcome the 
+
+
+enormous challenges of mmWave propagation, it’s clear that mmWave networks will need huge 
+
+
+numbers of nodes even to cover small areas with the multi-Gbps throughputs expected of 5G. 
+
+
+One of the most useful analyses in this regard comes from Nokia’s comments on the FCC’s 
+
+
+NOI, which include, in Table 2, estimates (derived from a simulation) of the relationship between 
+
+
+radio node density per unit area, average user throughput, cell-edge throughput, and outage 
+
+
+probability, factoring in the presence or absence of foliage, which has a large impact of system 
+
+
+performance. With foliage, achieving a high cell-edge throughput and a low probability of service 
+
+
+interruption – consistent with the widely discussed 5G design principle of creating a more 
+
+
+consistent and uniform user experience – would require approximately 187 radio nodes per 
+
+
+square kilometer. By contrast, based on CTIA data, the US has 298,055 cell sites covering an 
+
+
+area of 9.8 million square kilometers, for a density of just 0.03 nodes per square kilometer. In 
+
+
+other words, mmWave could require a network more than 6,000x denser (187 / 0.03 = 6,233) 
+
+
+than existing cellular networks. If we assume a benchmark valuation of $1/MHz-pop for non-
+
+
+standard cellular spectrum at ~2GHz – in line with what Verizon has reportedly been willing to 
+
+
+pay – then we estimate that a best-case valuation of Straight Path’s portfolio, at a much higher 
+
+
+frequency and requiring a much more dense network, not to mention a fundamental rethinking 
+
+
+of many aspects of mobile technology, would be only a few tens of millions of dollars in the 
+
+
+future – more than 90% lower than where it trades today. 
+
+
+
+
+
+Illustrative Valuation of Straight Path’s 
+Spectrum Based on Cellular Benchmarks 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis 
+
+
+
+
+
+Of course, this valuation only factors in the decreased utility of any similarly high-frequency 
+
+
+band relative to conventional cellular bands. It makes no adjustment for the availability of large 
+
+
+swaths of competing spectrum, much of it unlicensed, or the incremental cost of using exotic 
+
+
+hardware and software to cope with the challenges of mmWave. Nor does it adjust for the 
+
+
+impracticality of covering indoor locations via outdoor cell sites – the standard model for almost 
+
+
+all existing network deployments – which would imply a dramatically higher node density than 
+
+
+that assumed above, given that the 187 nodes/sq. km. figure was based on a simulated outdoor 
+
+
+network. Thus we regard this valuation as highly generous on multiple fronts – even if we ignore 
+
+
+the high probability that Straight Path’s spectrum will simply never be used for mobile service at 
+
+
+all. 
+
+
+STRP MHz-pops (B) 255.7       
+
+
+Assumed price per MHz-pop @ 2 GHz 1.00$       
+
+
+Network density adjustment factor 6,233.3    
+
+
+Adjusted price per MHz-pop @ 39 GHz 0.00016$ 
+
+
+STRP illustrative valuation ($mm) 41.0$       
+
+
+Equity downside -93%
+
+
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013826
+
+http://www.ctia.org/your-wireless-life/how-wireless-works/annual-wireless-industry-survey
+
+http://www.ft.com/intl/cms/s/0/b5e2e9f0-b686-11e4-95dc-00144feab7de.html#axzz3p1gXWJJp
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 27 
+
+
+
+
+
+
+
+
+We also neglect an important Straight Path–specific issue: its lack of large blocks of contiguous 
+
+
+spectrum. Many industry participants have highlighted the importance of contiguous spectrum in 
+
+
+mmWave bands, since, again, the only rationale for engaging in the necessary R&D is to obtain 
+
+
+large bandwidths of many hundreds of megahertz; some even call for gigahertz-wide channels, 
+
+
+as already exist in the 60GHz band. While Straight Path’s holdings in its favored 39GHz band 
+
+
+do add up to hundreds of megahertz in total, the band plan consists of paired 50MHz units 
+
+
+separated by 700 MHz from each other. While the details vary from market to market, Straight 
+
+
+Path generally does not have rights to large, contiguous blocks. Instead, it has scattered bits 
+
+
+and pieces, often separated by channels formerly owned by companies that are now defunct.  
+
+
+
+
+
+The table below provides a summary of the top 30 markets, ranked by population.  While 
+
+
+Samsung has called for at least 500 MHz of contiguous mmWave bandwidth to achieve 
+
+
+targeted 5G performance, and the regional telecom regulatory body in the Americas, CITEL, 
+
+
+has noted that “[c]ontiguous wide system bandwidth (approximately 500 MHz to 1 GHz or more) 
+
+
+will be considered as a critical factor for efficient delivery of ultra-high end user bit rates,” 
+
+
+Straight Path has, on average, less than 200 MHz of contiguous bandwidth in the largest 
+
+
+markets. 
+
+
+ 
+
+
+
+http://apps.fcc.gov/ecfs/document/view?id=60001013807
+
+http://www.ntia.doc.gov/files/ntia/publications/p2r-4000-10k-6ghz_i.docx
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 28 
+
+
+
+
+
+Straight Path 39GHz Portfolio: Maximum Contiguous Bandwidth 
+by Market 
+
+
+
+
+
+Source: FCC Universal Licensing System, Kerrisdale analysis 
+
+
+
+
+
+Although few equity-market participants have noticed that Straight Path’s lack of large, 
+
+
+contiguous bandwidth could render it useless for 5G mobile service, Straight Path has certainly 
+
+
+noticed. As a result, it’s hoping to convince the FCC to let it engage in a reshuffling of the 
+
+
+licenses in each market in order to make its holdings more contiguous. It’s far too early to know 
+
+
+whether the FCC will prove amenable to this request for special treatment – effectively a 
+
+
+39GHz bandwidth
+
+
+Pop. 
+
+
+rank Market Total
+
+
+Max. 
+
+
+contiguous
+
+
+1 NYC-Long Is. NY-NJ-CT-PA-MA-VT 800           150           
+
+
+2 LA-Riverside-Orange Cnty CA-AZ 800           150           
+
+
+3 Chicago-Gary-Kenosha IL-IN-WI 1,000        200           
+
+
+4 San Fran.-Oakland-San Jose CA 600           100           
+
+
+5 Wash.-Balt. DC-MD-VA-WV-PA 1,000        200           
+
+
+6 Dallas-Fort Worth TX-AR-OK 900           250           
+
+
+7 Boston-Worcester MA-NH-RI-VT 800           200           
+
+
+8 Phil.-Atl. City PA-NJ-DE-MD 700           150           
+
+
+9 Houston-Galveston-Brazoria TX 900           200           
+
+
+10 Detroit-Ann Arbor-Flint MI 800           150           
+
+
+11 Atlanta GA-AL-NC 800           150           
+
+
+12 Miami-Fort Lauderdale FL 1,000        300           
+
+
+13 Minneapolis-St. Paul MN-WI-IA 1,000        200           
+
+
+14 Seattle-Tacoma-Bremerton WA 900           350           
+
+
+15 Denver-Boulder CO-KS-NE 900           250           
+
+
+16 Cleveland-Akron OH-PA 800           150           
+
+
+17 Orlando FL 700           200           
+
+
+18 Phoenix-Mesa AZ-NM 900           200           
+
+
+19 Puerto Rico-US Virgin Islands 700           200           
+
+
+20 St. Louis MO-IL 1,100        300           
+
+
+21 Indianapolis IN-IL 900           350           
+
+
+22 Portland-Salem OR-WA 900           150           
+
+
+23 San Diego CA 800           150           
+
+
+24 Pittsburgh PA-WV 700           200           
+
+
+25 Nashville TN-KY 600           250           
+
+
+26 Tampa-St. Petersburg FL 1,000        200           
+
+
+27 Sacramento-Yolo CA 500           100           
+
+
+28 Kansas City MO-KS 800           150           
+
+
+29 San Antonio TX 900           150           
+
+
+30 Columbus OH 800           150           
+
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAAahUKEwiFgf2X887IAhXQoogKHRmxDGI&url=http%3A%2F%2Fwireless.fcc.gov%2Fuls%2Findex.htm%3Fjob%3Dhome&usg=AFQjCNHk_YgSYsNf7KYyLiyUK3mawhaZDg&sig2=WDcsyqg9Sbaz0MKTb2jdXg
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 29 
+
+
+
+
+
+subsidy for a legacy license holder whose aspirational business model is to hoard unused 
+
+
+spectrum in hopes of cornering the market. But the risk is asymmetrically negative for Straight 
+
+
+Path. If it does get permission to reshuffle its licenses and assemble as much contiguous 
+
+
+bandwidth as it can, it still faces all the other problems we’ve examined, from the enormous 
+
+
+supply of other mmWave spectrum to the great practical difficulties of building an effective 
+
+
+mmWave network to the simple fact that operators are nowhere near considering major 5G 
+
+
+build-outs, let alone anything as exotic as mmWave 5G. But if Straight Path does not get special 
+
+
+favors from the FCC, then its hopes of being the poster child for mmWave 5G are simply 
+
+
+doomed from the start; its contiguous bandwidth is wholly inadequate. Straight Path will 
+
+
+certainly be very busy lobbying for years to come.  
+
+
+
+
+
+VII. Conclusion 
+
+
+
+
+
+The notion that a company as silly as Straight Path – a 7-person patent troll cum spectrum play, 
+
+
+with the former role having already run its course and the latter premised on an exotic frequency 
+
+
+band that has driven almost everyone who ever touched it into bankruptcy or failure – is worth 
+
+
+almost $600 million defies common sense. Investors have been swept up in 5G hype that is, in 
+
+
+reality, a mixture of marketing fluff and regulatory lobbying, much of which has nothing to do 
+
+
+with mmWave bands at all. In all the excitement, they have overlooked the utter lack of 
+
+
+mmWave spectrum scarcity, the enormous barriers to cost-effective mmWave networks (going 
+
+
+beyond merely weak propagation and extending to issues as fundamental as being able to 
+
+
+access indoor locations from outdoor cell sites), and the entire concept that network operators 
+
+
+are not going to completely overhaul the status quo at enormous cost unless that strategy 
+
+
+presents a compelling return on investment. Looking at prices per MHz-pop as if all frequencies 
+
+
+behaved the same way violates economic logic. To repeat Ericsson’s basic point, “The radio 
+
+
+environment at higher frequencies is simply very different,” and with orders-of-magnitude 
+
+
+differences in basic network parameters, like cell density, there will naturally be orders-of-
+
+
+magnitude differences in spectrum prices. 
+
+
+
+
+
+At an even more fundamental level, supply and demand govern the price of spectrum as surely 
+
+
+as they govern the price of any commodity. With low demand, given the great difficulties of 
+
+
+practical mmWave deployments, and extremely high supply, given all the spectrum that will be 
+
+
+available in the next several years and beyond, mmWave spectrum will never fetch a high price. 
+
+
+Straight Path’s valuation is irrational and unsustainable.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 30 
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale"), others that contributed research to this report and others that we have 
+
+
+shared our research with (collectively, the “Authors”) have short positions in and may own 
+
+
+options on the stock of Straight Path Communications Inc. (“Straight Path”) and stand to realize 
+
+
+gains in the event that the price of the stock decreases. Following publication of the report, the 
+
+
+Authors may transact in the securities of the company covered herein. All content in this report 
+
+
+represent the opinions of Kerrisdale. The Authors have obtained all information herein from 
+
+
+sources they believe to be accurate and reliable. However, such information is presented “as 
+
+
+is,” without warranty of any kind – whether express or implied. The Authors make no 
+
+
+representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
+
+
+information or with regard to the results obtained from its use. All expressions of opinion are 
+
+
+subject to change without notice, and the Authors do not undertake to update or supplement this 
+
+
+report or any information contained herein. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+
+
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of Straight Path and have positions in financial 
+
+
+derivatives that reference this security and stand to potentially realize gains in the event that the 
+
+
+market valuation of the company’s common equity is lower than prior to the original publication 
+
+
+date. These affiliates, officers, and individuals shall have no obligation to inform any investor or 
+
+
+viewer of this report about their historical, current, and future trading activities. In addition, the 
+
+
+Authors may benefit from any change in the valuation of any other companies, securities, or
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 31 
+
+
+
+
+
+commodities discussed in this document. Analysts who prepared this report are compensated 
+
+
+based upon (among other factors) the overall profitability of the Authors’ operations and their 
+
+
+affiliates. The compensation structure for the Authors’ analysts is generally a derivative of their 
+
+
+effectiveness in generating and communicating new investment ideas and the performance of 
+
+
+recommended strategies for the Authors. This could represent a potential conflict of interest in 
+
+
+the statements and opinions in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

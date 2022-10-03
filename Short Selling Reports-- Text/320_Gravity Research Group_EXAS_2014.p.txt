@@ -1,0 +1,4205 @@
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 1/67
+
+
+EXAS: Testing Negative For Future Revenue
+Apr. 30, 2014 1:16 PM ET189 comments
+by: Gravity Research
+
+
+Summary
+
+
+CMS will reimburse EXAS 70-80% less for Cologuard than EXAS has told investors.
+This will leave EXAS with negative gross margins-- making Cologuard unsellable.
+
+
+EXAS' projected ~$500 reimbursement rate relies on CMS using a crosswalk
+analysis that calculates reimbursement based on cost of the components of the test.
+
+
+Instead, CMS will use a gap-fill process relying on cost-effectiveness data. Our
+model shows reimbursement of $100-$150/test, and CMS publications show that a
+test dominating Cologuard was cost-effective at $179-$247/test.
+
+
+Visit gravityresearchgroup.com/reports to download a PDF version of the full report and
+accompanying appendix
+
+
+Exact Sciences Corporation (NASDAQ:EXAS) is an extremely timely and compelling
+short, with an imminent catalyst that we believe will cause shares to plummet as much as
+75% in the near future. EXAS has one product in its pipeline, Cologuard, which is a non-
+invasive test for colorectal cancer that requires patients to deposit fecal matter into a jar,
+administer a preservative to the feces, and ship the jar to EXAS' laboratory, where EXAS
+evaluates the feces and diagnoses for colorectal cancer ("CRC"). Cologuard combines an
+existing non-invasive test, the fecal immunochemical test ("FIT"), with additional tests for
+DNA markers to increase sensitivity  to cancer and large polyps at the cost of specificity .
+In our discussions with investors, we have found that the consensus is that the current
+bear thesis for EXAS is predicated on a failure for EXAS in marketing Cologuard (similar
+to its predecessors, PreGen-Plus and ColoSure), while bulls believe Cologuard will
+achieve substantial market penetration. While we are very skeptical of Cologuard's
+marketability, we view that as immaterial to our thesis and already well-covered by others,
+and we will refrain from making it a focal point of this report. We have no doubt that
+Cologuard will be approved by the FDA. However, we also believe that investors will soon
+find that FDA approval is a meaningless victory.
+
+
+Soon after the FDA decision (potentially even the same day), the Centers for
+Medicare and Medicaid Services ("CMS") will announce its preliminary National
+Coverage Determination ("NCD") for Cologuard. We believe the eventual CMS
+
+
+1 2
+
+
+
+http://gravityresearchgroup.com/reports
+
+https://seekingalpha.com/symbol/EXAS
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 2/67
+
+
+national reimbursement limit for Cologuard will be below EXAS' gross cost per test
+- effectively making Cologuard unsellable for EXAS. Based on extensive diligence and
+consultations with industry experts (including a former senior CMS employee), we are
+confident that CMS and its Medicare Administrative Contractors ("MACs") will establish a
+reimbursement rate for Cologuard that is at least 70-80% lower than the ~$500 rate EXAS
+has projected to investors due to CMS using a gap-fill process to price the test, rather than
+the crosswalk analysis EXAS has repeatedly claimed will be used. We spoke with EXAS
+Management and IR regarding this. We also think there is a meaningful probability that
+CMS may simply decide to issue a negative NCD and refuse to cover Cologuard, as CMS
+did in 2009 with the CT colonography ("CTC") when it became clear that while CT
+colonographies were capable of diagnosing cancer and allowing physicians to detect
+polyps, they were far from being cost-effective at the reimbursement prices required to
+make the test economical for practitioners.
+
+
+There are two methods for CMS to determine reimbursement rates for diagnostic
+laboratory tests: crosswalk analysis and gap-fill. A crosswalk analysis is a cost-stacking
+approach where CMS adds up the reimbursements for the various components of a
+procedure/test to arrive at a reimbursement rate for the procedure/test. Crosswalk
+analyses are intended for procedures/tests that represent logical combinations of pre-
+approved procedures/tests that are already in use. The gap-fill process involves assigning
+a new test code and allowing MACs to establish carrier-specific reimbursement rates for
+the first year of coverage. Gap-fill reimbursement rates depend heavily on cost-
+effectiveness data, when it is available, and FITs serve as an excellent and relevant
+precedent for Cologuard.
+
+
+In 2003, CMS evaluated FITs after Enterix (a pioneer in the FIT space) requested
+reimbursement from CMS of $28 per FIT. CMS priced FITs using the gap-fill process, and
+commissioned a cost-effectiveness study from the Agency for Healthcare Research and
+Quality ("AHRQ", an HHS subsidiary), yielding a range of cost-effective prices (-$4.22 to
+$29.02) based on a range of inputted assumptions. The assumptions used to produce the
+prices at the very top and bottom of that cost-effective range were overly optimistic and
+pessimistic, respectively, and included sensitivity and specificity figures outside the range
+of appropriately-powered published results. Ultimately, CMS issued a national
+reimbursement limit for the test of approximately $22, which reflected the top of the cost-
+effective range for published results.
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 3/67
+
+
+To justify its ~$500 price target, EXAS requires CMS to price Cologuard's reimbursement
+using a crosswalk analysis. That is, EXAS added up CMS reimbursements for the
+separate test components within Cologuard, and arrived at a total sum of approximately
+$500. Analysts have inputted reimbursements ranging from approximately $300 to $500
+into their models, and used those assumptions to churn out valuations in the $15/share to
+$25/share range for EXAS.  This analysis is completely flawed, and we are confident that
+CMS will base its reimbursement rate off of a cost-effectiveness analysis instead. As we
+confirmed with a former senior CMS employee with more than a decade of
+experience working on CMS reimbursements and policies, the assumption that
+CMS will use a crosswalk analysis is fundamentally wrong for two reasons:
+
+
+1) The DNA tests contained within Cologuard, which account for over 95% of the value in
+EXAS' hypothetical crosswalk analysis, were explicitly banned by the Department of
+Health and Human Services ("HHS", parent bureau of CMS) in 2012 from being
+reimbursed as diagnostic tests (as they would be used in Cologuard). See below for
+relevant text from the HHS memorandum (emphasis added):
+
+
+"The Social Security Act provides that no Medicare payment may be made for
+expenses incurred for items or services that are not reasonable and necessary for
+the diagnosis or treatment of illness or injury or to improve the functioning of a
+malformed body member. Consistent with this, Medicare does not pay for preventive
+screening tests except for those specifically authorized by statute (e.g., prostate-
+specific antigen test). Since CMS considers predictive tests to be screening
+tests, genetic tests for this purpose are not covered by Medicare."
+
+
+While certain DNA tests for cancerous markers are covered by CMS, due to the
+expensive nature of such tests, they are almost exclusively used as "companion
+diagnostics" for patients who have already been diagnosed with cancer in order to
+determine proper treatments - they are NOT approved to diagnose cancer itself in
+normal, asymptomatic patients, and it is well-known that they are not cost-effective
+for such purposes. For instance, the most expensive component of Cologuard is the
+KRAS test (currently sold as therascreen KRAS PCR Kit). This test is being reimbursed by
+Medicare, but only for patients who are already known to have colorectal cancer, in order
+to determine whether or not EGFR inhibitors (such as cetuximab and panitumumab) would
+be appropriate treatments.  It is NOT reimbursed as a diagnostic tool for patients without
+symptoms to determine whether or not they should be referred for a colonoscopy. We
+encourage investors to visit the MolDX website to review further information regarding
+caveats for genetic test reimbursements.
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+
+https://oig.hhs.gov/oei/reports/oei-07-11-00011.pdf
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 4/67
+
+
+The genetic tests EXAS uses within Cologuard (KRAS, NDRG4, and BMP3) are not new
+or novel, and CMS is not permitted to reimburse for any of those tests individually as
+screens for colorectal cancer. It makes no sense for HHS to contradict itself by suddenly
+electing to make an exception for Cologuard, and this would open the gates for companies
+to push for the dozens of existing genetic tests to be independently approved for
+screening for various cancers.
+
+
+2) Calculating the reimbursement rate via crosswalk analysis has no relation at all to the
+true value of Cologuard. Crosswalks are only used in cases where the test components
+are used together in practice, and combining them represents a logical, cost-effective
+combination. That is not the case for the DNA tests within Cologuard - none of which are
+currently being reimbursed as screening tests for CRC. Again, the DNA tests within
+Cologuard that EXAS is seeking reimbursements for are only used in practice to check for
+specific mutations within patients who are already known to have cancer, in order to
+determine proper courses of treatment.
+
+
+Given that Cologuard is a screening test for CRC, it is especially ridiculous to assume that
+CMS will price Cologuard via crosswalk as opposed to using gap-fill (cost-effectiveness).
+First, there are numerous alternative tests spanning a wide range of
+sensitivities/specificities available to screen for CRC which allow for an easy cost-
+effectiveness analysis. Second, CMS has consistently relied on established cost-
+effectiveness models in order to determine appropriate reimbursement rates for CRC
+screening tests. CMS has commissioned a cost-effectiveness report for every single CRC
+diagnostic test it has reviewed in the past decade. Finally, pricing Cologuard using a
+crosswalk would open the floodgates for biotech companies to stack on as many
+expensive DNA tests as possible without regard to practicality or efficiency.
+
+
+Imagine if a competitor created a new test that combined a dozen random DNA tests for
+markers linked to different types of cancer, and then asked for a $5,000/test
+reimbursement from CMS based on a crosswalk analysis of those tests. Would this new
+test be able to detect (to an extent) different types of cancer without harming patients?
+Sure, but only to a very limited extent - most cases of cancer would be missed, since
+specific DNA markers are typically found in a relatively small portion of total patients with
+any given type of cancer. Would the new test be a cost-effective use of healthcare dollars?
+Not at all. Cologuard can be boiled down to a combination of FIT (a CRC test with a CMS
+national reimbursement limit of $21.70) with additional DNA marker tests (KRAS, NDRG4,
+and BMP3). As we will show in this paper, the incremental value of those additional DNA
+tests does not even come close to justifying EXAS' asking price. Breaking out the
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 5/67
+
+
+sensitivity of the FIT by itself based on the DeeP-C results, we find that at least 80% of the
+total sensitivity to cancer provided by Cologuard can be directly attributed to Cologuard's
+embedded FIT (which carries a national reimbursement limit of $21.70). To put it
+simplistically, 80% of Cologuard's cancer detection ability is already available for $21.70
+per test. EXAS is claiming that it will be reimbursed an additional $450+ per test for the
+20% of the cancer sensitivity provided by the DNA tests, simply because those DNA tests
+are ordinarily billed that much, despite that fact that those prices are associated with
+completely different uses that affect a much smaller patient population.
+
+
+We believe that CMS will price Cologuard using the gap-fill process instead of crosswalk,
+meaning that MACs will calculate reimbursement rates largely based on a cost-
+effectiveness analysis commissioned by CMS. A prior cost-effectiveness report
+published by CMS shows that a theoretical test dominating Cologuard in every
+single aspect of sensitivity and specificity, many of them by a wide margin,
+warranted a reimbursement rate of $179 - $247/test.  Therefore, Cologuard cannot
+possibly achieve a reimbursement higher than $247/test. We have constructed an
+internal cost-effectiveness model based on thorough assessment of published
+colorectal cancer ("CRC") detection cost-effectiveness modeling, and our model
+shows that the most likely cost-effective reimbursement price will be between $100
+and $150 per Cologuard test: approximately 70-80% less than EXAS' proposed rate.
+However, a complex model is not even necessary to see that this is the case - it is clear
+from published CMS data that we will discuss in this paper that even a $150/test
+reimbursement rate for Cologuard is a major stretch. We also find it very telling that EXAS
+has been unable to find any partners for Cologuard and has not published its own cost-
+effectiveness study for Cologuard, despite purportedly "working" on one since 2011.
+
+
+Cologuard is EXAS' second attempt at getting CMS approval for a CRC test. CMS
+previously reviewed Cologuard's predecessor, PreGen-Plus, which was a different fecal
+test for CRC that also relied on DNA markers. CMS rejected it due to lack of FDA approval
+- but not before commissioning a cost-effectiveness analysis showing that the cost-
+effective price for PreGen-Plus would be $34 to $60 per test - well below the $300/test
+that EXAS was asking for. Let's assume that $300 was representative of the
+reimbursements for the DNA test components of PreGen-Plus. While CMS technically did
+not use gap-fill to price PreGen-Plus because it was rejected, ask yourself this: do you
+think CMS would have been willing to reimburse $300/test, when cost-effectiveness
+showed that the test was only worth $34-$60/test? Do you think CMS will reimburse at
+$500/test for Cologuard, when cost-effectiveness modeling shows that the test is only
+
+
+7
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 6/67
+
+
+worth $100-$150? Exactly. Using a crosswalk analysis in the case of Cologuard is
+especially inappropriate given the huge discrepancy between the cost-effective
+price for Cologuard and the price calculated using a crosswalk.
+
+
+Due to the high gross costs associated with its Cologuard test (estimated by sell-side
+analysts to be between $150-$250 per test, and implied to be $165+/test, based on EXAS
+executives' comments during earnings calls and EXAS' 2013 Investor Fact Sheet ), EXAS
+needs to achieve reimbursements in excess of $150 to even turn a profit. To put it
+bluntly, we believe that following FDA approval, EXAS will be unable to sell its
+Cologuard test at a gross profit. Barring any new radical developments in its
+pipeline, this leaves EXAS worth little more than the cash on its balance sheet (a
+little over $3/share).
+
+
+Again, the two problems with a crosswalk analysis are that 1) such a reimbursement rate
+has no relation at all to the true value of the EXAS DNA test and 2) the DNA tests
+contained within Cologuard are explicitly banned from being reimbursed as diagnostic
+tests for patients with no symptoms (as they would be used in Cologuard). A crosswalk
+analysis ignores the actual cancer detection rate or prevalence of type 1/type 2 errors
+(sensitivity and specificity) and completely ignores the other currently available methods
+for colorectal cancer detection. Crosswalk pricing is only applicable in cases where
+the proposed test/procedure represents a logical combination of other
+reimbursable tests/procedures that would be used in conjunction with each other
+during the ordinary course of care, which is not the case for Cologuard's DNA
+marker tests. While genetic tests could technically be used to detect cancer, using them
+for such a purpose is not cost-effective. The reimbursement rates for KRAS, NDRG4, and
+BMP3 (the DNA marker components of Cologuard) were set by MACs for detecting
+mutations in patients already known to have cancer, in order to determine the proper
+treatments. EXAS' proposed crosswalk analysis takes the reimbursement rates for the
+DNA tests contained within Cologuard completely out of the context of established
+reimbursement rates. In addition, performing cost-effectiveness analyses to
+determine coverage/reimbursement rates for colorectal cancer screening tests has
+been CMS policy for the past decade. Every single innovation within colorectal cancer
+screening that came up for CMS review regarding National Coverage Determination has
+been subject to an extensive cost-review paper ordered by CMS - this includes a report on
+Fecal Immunochemical Tests commissioned in 2003, a report on Cologuard's predecessor
+PreGen-Plus commissioned in 2007, and a report on CT colonographies commissioned in
+2009. We strongly encourage investors to review the relevant papers, which we have
+posted in the Appendix to this report.
+
+
+8
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 7/67
+
+
+On top of all this, EXAS has misrepresented the relative benefit of Cologuard. EXAS'
+pivotal DeeP-C trial results are extremely misleading when comparing Cologuard with
+FITs, because EXAS used a high cut-off level (100 ng/mL) for hemoglobin levels in the
+FITs it was comparing Cologuard to, which made the FITs seem less capable of
+diagnosing cancer/large polyps than they really are. FITs work by measuring levels of
+human hemoglobin in a fecal sample provided by the patient and comparing them to a
+predetermined "cut-off level" to determine whether or not a patient should be referred for a
+colonoscopy. The presence of human hemoglobin in feces indicates bleeding in the
+colorectal passage, which could be caused by polyps and/or cancer. The higher the cut-off
+level, the more likely the FIT will miss cases of advanced adenomas or cancer, and the
+less likely the FIT will show false positives. The lower the cut-off level, the more likely the
+FIT will catch advanced adenomas or cancer, but the more likely the FIT will also show
+false positives for patients who do not have CRC or advanced adenomas. In this report,
+we show that a well-powered 2012 trial using the exact same brand of FIT as EXAS
+used in the DeeP-C trial showed that adjusting the cut-off point for that FIT down to
+50 ng/mL as opposed to the 100 ng/mL level EXAS used in DeeP-C accounted for
+nearly all of the difference in sensitivity between the FIT and Cologuard observed in
+DeeP-C, while maintaining superior specificity. Because EXAS took so long to develop
+and get Cologuard approved, technological advancements in the machines responsible for
+interpreting FITs have allowed FITs to achieve comparable results to Cologuard.
+
+
+Finally, we think the addressable market for Cologuard is approximately 70% smaller than
+EXAS claims, and is in decline. A paper published on March 17, 2014 shows that the
+majority of patients (approximately 70%) using FITs/FOBTs are also concurrently having
+colonoscopies every 10 years, and used the non-invasive tests as a secondary detection
+test for CRC. The author explicitly stated that "dramatic declines in incidence in recent
+years have been largely attributed to the uptick in colonoscopy, because it is the only test
+for which use increased from 2000 to 2010; use of fecal immunochemical testing and
+sigmoidoscopy declined during that time period." Given the price point EXAS is
+targeting, no payer would be willing to cover their test in tandem with colonoscopies,
+unless the colonoscopy were medically necessary based on the results of a Cologuard
+test. As a result, we believe the true addressable market would be those patients who are
+exclusively using FITs/FOBTs: approximately 2.7mm patients. Assuming 30% market
+share (as EXAS Management has), we arrive at 810,000 patients. Assuming uniform
+discrete distribution over three years, this comes out to 270,000 patients per year. Even if
+EXAS were to achieve its theoretical reimbursement of $500/test (which we view as
+impossible), peak revenue would only be $135mm/year (compared to the billion dollar
+market that bulls and analysts are predicting).
+
+
+
+http://onlinelibrary.wiley.com/doi/10.3322/caac.21220/full
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 8/67
+
+
+We believe that the unfavorable CMS reimbursement decision will be followed by EXAS
+unsuccessfully attempting to convince private insurers to pay a price above its gross
+costs. While we, like many others, also believe that adoption by patients would be low
+regardless of reimbursement and that both patient compliance/acceptance and total
+market size for Cologuard are grossly overestimated,  these issue are ultimately
+irrelevant. These issues are secondary to the much larger problem: a failure to achieve a
+reimbursement price in excess of the gross cost of each Cologuard test. We believe this
+will prevent the test (regardless of how many patients want to use it) from ever generating
+a profit.
+
+
+CMS CRC Screening Precedents, and How CMS Will Get to $100-$150/Test
+
+
+First, it is helpful to review how EXAS arrives at its proposed reimbursement price. EXAS
+claims that CMS will use a crosswalk analysis summing the reimbursements of the
+different elements of Cologuard in order to calculate Cologuard's reimbursement price.
+Below is a reproduction of a table from a recent EXAS investor presentation (included in
+the Appendix to this report) showing how EXAS arrived at a theoretical price of ~$500/test
+for Cologuard:
+
+
+This analysis is completely irrational - by claiming that CMS will calculate reimbursement
+based on a crosswalk analysis, EXAS/analysts are effectively claiming that the
+reimbursement rate for the test is merely a sum-of-the-parts calculation and has no
+relation at all to the actual cancer/polyps detection rate or sensitivity/specificity
+(prevalence of type 1/type 2 errors). That type of policy would encourage EXAS and other
+companies to bundle as many DNA tests as possible to drive up the cost, regardless of
+end benefit to patients. It makes no sense, and this is not how CMS calculates
+reimbursements for colorectal cancer diagnostic tests! As we highlighted in the
+Summary section, the US Department of Health and Human Services (parent agency to
+CMS) has explicitly stated that Medicare will not cover genetic tests as a screening test
+for patients without signs or symptoms (emphasis added):
+
+
+9
+
+
+10
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 9/67
+
+
+"The Social Security Act provides that no Medicare payment may be made for
+expenses incurred for items or services that are not reasonable and necessary for
+the diagnosis or treatment of illness or injury or to improve the functioning of a
+malformed body member. Consistent with this, Medicare does not pay for preventive
+screening tests except for those specifically authorized by statute (e.g., prostate-
+specific antigen test). Since CMS considers predictive tests to be screening
+tests, genetic tests for this purpose are not covered by Medicare. However,
+genetic tests used to diagnose or determine treatment in the presence of signs and
+symptoms of disease can be covered by Medicare."
+
+
+The CEO of EXAS, Kevin Conroy, would have investors believe he is doing CMS a huge
+favor by asking for reimbursement based on a crosswalk analysis (emphasis added):
+
+
+"Our test is so…fortunately, a very straightforward test with a limited number of
+biomarkers in it. And we, unlike other new molecular tests, are not looking to be
+reimbursed based upon the value of an algorithm, rather we are looking to be
+reimbursed for these specific codes, which have been fortunately listed in these
+Tier 1 and Tier 2 codes that have been created. So I think that is part of thought
+process on the part of CMS."
+
+
+-EXAS CEO Kevin Conroy, Q3 2013 Earnings Call
+
+
+Unfortunately for Kevin, the CMS process for reimbursing CRC diagnostic tests is much
+more sophisticated than merely adding up component prices, and value plays a major role
+in CMS decisions when it can be accurately determined.
+
+
+Every time CMS has been approached to make a National Coverage Determination
+("NCD") for a new CRC detection test in the past decade, it has commissioned a report
+from the Agency for Healthcare Research and Quality ("AHRQ", a Department of Health
+and Human Services subsidiary). The AHRQ reports evaluate the cost-effectiveness of the
+proposed test, and determine the appropriate price for the test, such that the test would lie
+on the efficient frontier of available tests.  Tests evaluated by AHRQ include the FIT, a
+prior iteration of EXAS' DNA stool-based test (PreGen-Plus), and CT colonographies. We
+have provided all of the relevant reports in our Appendix to this report posted on
+gravityresearchgroup.com.
+
+
+1. Fecal Immunochemical Test (FIT): CMS commissioned a cost-effectiveness report
+from AHRQ in 2003 to determine the appropriate reimbursement rate for FIT tests. The
+original creator of FIT tests, Enterix, proposed a price of $28/test. At the time, the
+
+
+11
+
+
+
+http://gravityresearchgroup.com/
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 10/67
+
+
+sensitivity and specificity of FITs were significantly better than the sensitivity and
+specificity of FOBTs (the primary non-colonoscopy alternative). In its request, CMS
+explicitly asked AHRQ to 1) compare FIT to FOBT in terms of cancers detected,
+cancer deaths averted, and costs, 2) Assess cost-effectiveness, and 3) estimate
+reimbursement levels of FIT at which cost-effectiveness would be equal to FOBT at
+current Medicare reimbursement. The AHRQ report showed that the appropriate
+reimbursement rate (threshold price where the cost-effectiveness of FIT would be
+equal to the cost-effectiveness of FOBT) for FIT was between -$4.22 and $29.02,
+depending on assumptions/modeling. The assumptions used to produce the prices at
+the top and bottom of that cost-effective range were overly optimistic and pessimistic,
+respectively, and included sensitivity and specificity figures outside the range of
+appropriately-powered published results. Based on the cost-effectiveness study, local
+CMS carriers set a median reimbursement of approximately $22 (which ultimately
+became the national limit): well below the reimbursement rate Enterix was asking for,
+but within the range presented in the AHRQ report.
+
+
+2. PreGen-Plus: CMS commissioned a cost-effectiveness report from AHRQ in 2007 to
+determine the appropriate reimbursement rate for PreGen-Plus, for which EXAS was
+requesting $300/test. AHRQ modeled out that the cost-effective price for PreGen-Plus
+would be $34 to $60 per test - well below what EXAS was asking for. Ultimately, CMS
+elected not to cover the test due to lack of FDA approval. However, because one of the
+aims of this paper was to determine the cost-effective price for ColoSure (PreGen-
+Plus' successor) even though the performance of ColoSure was unknown at the time,
+the paper also included an analysis for a wide range of potential sensitivities and
+specificities - including theoretical diagnostic tests that completely dominate
+Cologuard.
+
+
+3. CT Colonography: CMS commissioned a cost-effectiveness report from AHRQ in
+2009 to determine the appropriate reimbursement rate for CT colonographies. The
+study showed that CT colonographies could be cost-effective at per-test cost of $108
+to $205 per scan (well below the $488 average cost per test cited in the study).
+Ultimately, CMS decided not to cover CT colonographies due to "lack of sufficient
+clinical evidence". However, at the time, two separate large-scale studies confirming
+CT colonographies as an effective method of diagnosing CRC had been completed:
+the Department of Defense study (which enrolled 1,233 subjects) and the National CT
+Colonography Trial (which enrolled approximately 2,600 subjects). As we confirmed
+in discussions with a former senior CMS employee, it is clear that CMS' real
+reason for rejecting CT colonographies almost certainly stemmed from the fact
+that the cost-effectiveness of CT colonographies had been shown in the cost-
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 11/67
+
+
+effectiveness paper commissioned by CMS to be significantly below the average
+cost per CT colonography test. As a result, we believe there is a meaningful
+probability that Cologuard will suffer the same fate as CTCs.
+
+
+There are already numerous tests (FIT, FOBT, sigmoidoscopy, colonoscopy, etc.) available
+to test for colorectal cancer and precancerous polyps. The availability of these tests
+makes it possible to produce reliable cost-effectiveness analyses that focus on
+comparative cost-effectiveness with other solutions, rather than being forced to attempt to
+quantify the value of extra years of human life. In cost-effectiveness analyses, these
+existing diagnostic tests for CRC make up the cost-efficient frontier, which is quantified as
+the tests which provide the highest life-years gained for equivalent total cost. The cost-
+effectiveness analysis is performed using three well-established models (the MISCAN-
+Colon, SimCRC, and CRC-SPIN models) that are used for calculating cost-benefit of the
+CRC detection test. Below is a graphical depiction of the cost-efficient frontier used in
+AHRQ papers for colorectal cancer detection tests. Note that actual placement of different
+tests/combinations of tests will vary depending on the model used:
+
+
+The graph above shows the cost-effectiveness of each test/combination of tests. Each
+point in the graph represents a different diagnostic test/procedure or combination of
+diagnostic tests/procedures, and the cost-effectiveness of each test is measured as the
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 12/67
+
+
+life-years gained in exchange for total additional costs. "No screening" yields zero benefit
+in life years (hence the Y-coordinate is zero) and carries significant cost due to the costs
+associated with treating colon cancer.
+
+
+Within the efficient frontier graph, the (x,y) coordinates for each test are determined by the
+test's benefit in terms of life-years (that is, how many life-years patients using the test gain
+on average) and the total costs of the tests (including costs subsequent to the test). The
+total costs include not only the cost of the test, but also the cost of resulting
+procedures/events (including for Type 1 and Type 2 errors), such as colonoscopies, polyp
+removals, potential complications, and treatments for colon cancer. In the case of a Type 1
+error (a false positive), the test incorrectly determines that the patient has colorectal
+cancer, and requires a colonoscopy to find and remove the malignant polyp and assess
+what further treatment may be required. The rate of Type 1 errors is calculated as: 100% -
+(specificity). For instance, the specificity of the FITs used in EXAS' DeeP-C trial was 95%,
+while the specificity of Cologuard in the same trial was 87%. The rate of Type 1 errors is
+therefore 5% in FITs and 13% in Cologuard, based on the DeeP-C trial results. Lower
+specificity means increased probability of unnecessary colonoscopies, increasing the
+effective cost of the test. Cologuard's low specificity (high rate of Type 1 errors)
+relative to all other testing options is the key reason that, despite having high
+cancer/polyp sensitivity (low rate of Type 2 errors) relative to existing non-invasive
+tests, it is not cost-effective for CMS to pay anything near the premium EXAS is
+claiming the test deserves.
+
+
+In the AHRQ studies we reviewed, the top right point of the efficient frontier (maximum life-
+years gained) was either colonoscopies or flexible sigmoidoscopies every five years,
+combined with FOBTs every year, while the bottom left point of the efficient frontier is
+FOBTs once each year. A separate cost-effectiveness graph is produced for each of the
+three accepted models: MISCAN-Colon, SimCRC, and CRC-SPIN. The models each have
+slight nuances that affect the discounted costs per life-year, including 1) the value of
+detecting pre-cancerous polyps and 2) the "dwell time" estimates (that is, how long it takes
+for pre-cancerous adenomas to evolve into cancer). It is impossible to know how fast the
+progression from precancerous adenomas to cancer actually occurs, because reaching
+such a conclusion would require identifying such polyps 10+ years in advance of them
+turning cancerous and monitoring those specific polyps in a large population for decades,
+which is impractical and unethical in real life. Higher dwell time, lack of polyp bifurcation
+(keeping it such that every polyp is capable of becoming cancerous, rather than only
+certain polyps being capable of becoming cancerous), and continuous modeling of
+adenomas (compared to discrete modeling) all increase the life-years per dollar gained
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 13/67
+
+
+through CRC diagnostic tests, but lower the incremental benefit of increased screening
+frequency. Below are comparative summaries of the three models used for calculating
+cost-effectiveness of CRC screening methods:
+
+
+1. MISCAN-Colon: This model assumes that there are two types of adenomas:
+progressive adenomas (which can progress to cancer) and non-progressive adenomas
+(which can never progress to cancer). In this model, the dwell time is estimated to be
+approximately 10 years, on average, before clinical diagnosis (significantly shorter
+than in the other two models). MISCAN assumes a distribution of adenomas
+throughout the colorectal passage that is the same as the distribution of colorectal
+cancer cases, which causes an increased percent of adenomas (approximately 30%)
+to be located in the rectal passage, compared to the 8-10% suggested by data from
+autopsy studies. This causes MISCAN-Colon to estimate higher cost-effectiveness for
+testing strategies involving sigmoidoscopy when compared to SimCRC and CRC-
+SPIN, due to a modeling a larger proportion of adenomas being within the reach of the
+sigmoidscope.
+
+
+2. SimCRC: This model assumes that all adenomas have the ability to progress to
+cancer, though most will not during the lifespan of an individual. In this model, the
+dwell time is estimated to be approximately 22 years, on average, before clinical
+diagnosis (close to the CRC-SPIN estimate, and significantly longer than in the
+MISCAN model). Contrary to the MISCAN model, SimCRC assumes that
+approximately 8-10% of adenomas are located within the rectum, decreasing the cost-
+effectiveness of testing strategies involving sigmoidoscopies.
+
+
+3. CRC-SPIN: This model assumes that all adenomas have the ability to progress to
+cancer, though most will not during the lifespan of an individual. CRC-SPIN also
+models continuous size of adenomas, rather than discrete stages of adenoma size that
+are used in the MISCAN and SimCRC models. In this model, the dwell time is
+estimated to be approximately 25 years, on average, before clinical diagnosis (close to
+the SIM-CRC estimate, and significantly longer than in the MISCAN model). Contrary
+to the MISCAN model, CRC-SPIN assumes that approximately 8-10% of adenomas
+are located within the rectum, decreasing the cost-effectiveness of testing strategies
+involving sigmoidoscopies.
+
+
+For each of the three models, there are three major inputs: sensitivity (probability of
+detecting cancer/adenoma among patients who have cancer/adenoma) to different sizes
+of pre-cancerous polyps, sensitivity to colorectal cancer, and specificity (probability of
+positive reading being correct, rather than a false positive). Sensitivity to pre-cancerous
+polyps can be sub-divided into sensitivity to polyps less than 5 mm, sensitivity to polyps
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 14/67
+
+
+between 5 mm & 10 mm, and sensitivity to polyps greater than 10 mm. When EXAS was
+seeking CMS coverage for the first iteration of its test (PreGen-Plus), AHRQ published a
+cost-effectiveness paper for CMS that modeled the maximum cost-effective prices for
+numerous ranges of sensitivity and specificity for precancerous polyps and CRC, since, at
+the time, it was not clear what the actual sensitivity and specificity for PreGen-Plus and its
+successor (ColoSure) were. That paper, along with other similar cost-effectiveness papers
+written by authors of that paper, provides a maximum cost-effective price of $247 for a test
+that completely dominates Cologuard in every respect (and by a wide margin in most of
+them). See below for a table summarizing the cost-effective prices collected from
+published papers commissioned by CMS regarding potential new diagnostic tests for CRC
+(the dominant test is Test E, although Test F is also a dominant test):
+
+
+The stool-based DNA test ("sDNA") figures from the above table can be verified through
+the tables on pages 28 and 37 of the file labeled CMS Cost-Effectiveness Report - sDNA
+in the Appendix to this report. Again, this was a cost-effectiveness study requested by
+CMS in order to determine proper pricing. As it states in the report, the sensitivity and
+specificity figures provided in the table above are the only independent inputs for
+each test when computing cost-effectiveness. There are no other confounding
+variables impacting cost effectiveness that we are leaving out that would obscure the data.
+As such, even without building an independent model, one can review the table and gain a
+very good sense of the range of reimbursements Cologuard can realistically expect.
+
+
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_2.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 15/67
+
+
+The fact that the maximum reimbursement price for Test E, as determined by AHRQ, is
+$247/test implies that the maximum reimbursement price for Cologuard will be lower,
+since Test E is equal to or superior to Cologuard in every single measure. How much
+lower will Cologuard's reimbursement be? Take a look at Test G: sDNA (v2.0) has much
+more similar characteristics to Cologuard, with lower sensitivity for small adenomas,
+higher sensitivity for large adenomas, and slightly lower sensitivity for colorectal cancer,
+and slightly lower specificity, yet has a maximum reimbursement of $41! We can say
+with certainty that the reimbursement rate for Cologuard will be below $247/test.
+Given that the sDNA (v2.0) test is much closer to having similar
+sensitivity/specificity figures than Test E, we believe that Cologuard's
+reimbursement rate will be closer to $41 than to $247-based on our internal model;
+we believe that the ultimate reimbursement will be, at best, between $100 and $150.
+However, compared with the data provided by precedent CMS publications in the above
+table, even our estimates appear very optimistic. Bulls may argue that some of the data
+used in the cost-efficient price modeling is old, and that inputs have changed. This is
+correct, but the changes in inputs all adversely affect the cost-effective reimbursement for
+Cologuard! The maximum reimbursement will be even lower using current data than using
+the data previously used in the AHRQ models, because 1) CMS reimbursement rates
+have declined since the AHRQ paper was published, 2) the sensitivity and specificity of
+FIT was shown to be higher in every single measure through the DeeP-C trial than the
+authors of prior cost-effectiveness papers assumed it to be, and 3) advances in the ability
+of FIT processing machines to reliably detect lower levels of hemoglobin make them
+nearly as effective as Cologuard, with a CMS reimbursement rate of $21.70 (see next
+section for more on this). See below:
+
+
+As a result, the cost-effective pricing for Cologuard today is even lower than it would have
+been when the AHRQ papers were written. Again, the published papers show
+definitively that the cost-effective price for Cologuard is between $17 and $247, and
+our internal modeling produces a likely reimbursement price between $100 and
+$150 per test, which is generous when compared to the published figures for tests
+with comparable specificity and sensitivity figures.
+
+
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_3.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 16/67
+
+
+We have found in the course of our research that many investors appear to have a gross
+misperception of CMS reimbursement rates for alternatives to Cologuard (other CRC
+screening tests). For instance, a short-seller estimated the cost of colonoscopies at
+$2,777, based on commercially available data in a Seeking Alpha article.  However, this
+is way too high. In reality, colonoscopies and sigmoidoscopies, which offer the highest
+available sensitivity and specificity to cancer and large adenomas (well in excess of
+Cologuard on all measures), are only reimbursed $100-$700 by CMS. EXAS is proposing
+a reimbursement rate within this range for an inferior test that would require a colonoscopy
+to verify positive test results. See below for 2014 CMS reimbursements of variations of the
+two procedures:
+
+
+Why Cologuard is Not as Remarkable as Investors May Think
+
+
+Cologuard is merely combining a currently-available non-invasive test (NYSE:FIT) with
+extra tests for DNA markers. However, the DNA markers provide only marginal
+incremental benefit, and, in fact, sabotage the specificity of the test. See below for a
+
+
+12
+
+
+
+https://seekingalpha.com/article/1571592-exact-sciences-flushing-down-the-drain-2-of-5
+
+https://seekingalpha.com/symbol/FIT
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_4.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 17/67
+
+
+performance and price breakdown of the FIT and the supplemental tests included in
+Cologuard, based on the results of the DeeP-C trial:
+
+
+Cologuard's Biggest Contribution: Cost
+
+
+The above chart shows what percentage of sensitivity, specificity, and cost can be
+allocated to the FIT within Cologuard versus Cologuard's supplemental DNA markers, and
+is scaled to 100% (that is, the total sensitivity/specificity of Cologuard are not actually
+100%, but the chart shows the percent contribution of FIT and EXAS' supplemental
+markers). The figures used are based on EXAS' proposed cost for Cologuard and the
+results of its DeeP-C trial. It is true that Cologuard nearly doubles the sensitivity to
+precancerous polyps, but precancerous polyps are a secondary characteristic of
+diagnostic tests - the most important factor (obviously) is the test's ability to detect
+colorectal cancer.
+
+
+Cologuard's DNA tests have a very limited impact on sensitivity to cancer (the more
+important sensitivity measure), and actually negatively impact the specificity by roughly
+8%. Further, this graph plainly shows that the proposed increase in cost far outweighs the
+increased benefit. EXAS is estimating reimbursement for Cologuard at $476.83 in a recent
+investor presentation. EXAS is asking for a 2,000%+ premium to FIT, while providing
+much lower relative increases in terms of sensitivity and a negative impact on specificity.
+
+
+Returning to the point we discussed in the Summary, we believe that even the
+above breakdown graph is egregiously overestimating Cologuard's relative value
+over available FITs, because EXAS chose an artificially high cut-off rate (100 ng/mL)
+for positive FIT readings in its pivotal trial. A trial published in the American Journal of
+Gastroenterology (Wijkerslooth et al) showed that lowering the cut-off rate from 100 ng/mL
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 18/67
+
+
+(which EXAS used in its trial) to 50 ng/mL would have reproduced nearly the entire
+difference between Cologuard and the comparator FIT EXAS used in its trial. Compare
+the sensitivities and specificities for the 50 ng/mL FIT with Cologuard in the table below
+(see outlined sections):
+
+
+As the above table shows, Wijkerslooth et al produced very similar results to the reference
+FIT in EXAS' DeeP-C trial results using a cut-off for positive results of 100 ng/mL, with all
+figures within 1% of each other, except for sensitivity to advanced adenomas (which
+showed a 5% difference). Reducing the cut-off level for the FIT from 100 ng/mL of
+hemoglobin to 50 ng/mL, we find that the sensitivities and specificities for the FIT are
+within spitting distance of Cologuard. Adjusting the contribution chart from the prior page
+to reflect the Wijkerslooth et al results for a 50 ng/mL cut-off for positive results, we find
+that the FIT is capable of producing 83% of the sensitivity to large polyps and 95% of the
+sensitivity to colorectal cancer when compared to Cologuard:
+
+
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_6.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 19/67
+
+
+The link between the reduction in hemoglobin cut-off levels and increased
+sensitivity/decreased specificity should be obvious, and makes perfect sense: as the FIT
+cut-off declines, the test becomes more sensitive to hemoglobin in stool samples.
+However, hemoglobin is not necessarily attributable to cancer or advanced adenomas
+(though most of the time, it is), and as a result, the specificity decreases when the cut-off
+level is reduced. We further confirmed the link and the ability to improve sensitivity using
+FIT beyond the levels achieved in DeeP-C through other published studies. Below is a
+table taken from a meta-analysis published in February 2014 that compiled completed
+trials to provide a more complete picture of the relationship between cut-off values for FITs
+and sensitivity and specificity:
+
+
+Source: Ann Intern Med. 2014; 160(3):171-181 (Link)
+
+
+As the outlined section in the table above shows, comparing the sensitivities and
+specificities for different cut-off ranges (from >50 µg/g to <20 µg/g) showed increases in
+sensitivity and decreases in specificity at each step, with sensitivity increasing by nearly
+1/3 when comparing the highest cut-off range with the lowest cut-off range. This is
+consistent with the results from Wijkerslooth et al. When reviewing the table above, please
+note that the units were all converted to µg/g, and the exact conversion rates will differ
+depending on the exact brand of FIT used, some of which use varying amounts of buffer
+solution. Below is a breakout of the different trials included in the meta-analysis results
+outlined above:
+
+
+
+http://annals.org/article.aspx?articleid=1819122
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_8.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 20/67
+
+
+Based on our review of available literature, the trials used in this meta-analysis represent
+a comprehensive summary of significant trials evaluating FIT to date. Note that the OC-
+Light (outlined above) used the lowest cut-off values. We produced a table showing that,
+based off of significant cumulative studies with a more than double the patient pool of the
+DeeP-C trial, OC-Light appears to achieve sensitivity to CRC that is nearly as high as
+Cologuard with superior sensitivity. OC-Light's superior sensitivity performance in the
+trials is clearly attributable to the fact that it used the lowest cut-off values:
+
+
+Bull Counterpoints and Our Preemptive Rebuttals
+
+
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_9.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 21/67
+
+
+Bull Counterpoint #1: But Cologuard Will Drive Increased Compliance, Which Will
+Drive Higher Cost-Effectiveness!
+
+
+In order to help justify its ridiculous reimbursement target, EXAS has also pushed the
+notion that compliance with its stool-based test will be greater than existing non-invasive
+solutions, owing to a "compliance engine" that it intends to build out involving mailings and
+calls to patients who have received stool kits to increase the rate at which those patients
+return stool samples. It is virtually certain that, when (or if) EXAS publishes the cost-
+effectiveness analysis it claims to have produced, the analysis will rely heavily on
+Cologuard having significantly higher compliance than alternatives in order to justify high
+reimbursement rates. However, there are three reasons we believe this will not help drive
+higher reimbursements from anyone:
+
+
+1) EXAS' benchmark DeeP-C trial results completely betray the "higher compliance"
+conviction - if anything, everyone should be assuming that compliance with
+Cologuard will be LOWER than compliance with existing FITs. This is plainly shown in
+the article discussing the DeeP-C results published recently in the New England Journal of
+Medicine. On page 4 of the article, Figure 1 shows a breakdown of the enrollment and
+outcomes from the trial. Within the chart, you can see that of the 11,016 eligible
+participants enrolled in the trial, 687 Cologuard samples provided by patients were
+excluded because of leakages in shipping, failure to receive specimens from participants,
+or due to technical failure. Of the 11,016 participants, 34 had FITs excluded from the
+results due to insufficient hemoglobin sample. To put it together, this means that within the
+DeeP-C trial, patients using Cologuard were 20x more likely to fail to return the test
+or have an unsuccessful test than patients using FIT. See below for the relevant
+diagram from the NEJM article:
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 22/67
+
+
+On top of that, multiple authors responsible for modeling out the cost-effective prices of
+colorectal cancer detection methods in prior cost-effectiveness paper commissioned by
+CMS stated in a 2010 paper that they believe adherence to stool DNA tests (Cologuard)
+was unlikely to be greater than adherence to existing tests due to the fact that both tests
+are non-invasive.  We agree, and though the authors did not comment on this, we
+believe that the "ick" factor increases exponentially with a test such as Cologuard, where
+patients are forced to handle/ship a meaningful amount of feces, as opposed to trace
+amounts of feces that can be brushed onto a sheet. This is likely to adversely impact
+compliance rates.
+
+
+2) The 70% compliance rate at Kaiser Permanente that EXAS claims to investors it
+can replicate is completely implausible, because the primary driver of the increased
+compliance at Kaiser Permanente that EXAS cites was the fact that the insurance
+company was preemptively sending out test kits to at-risk patients - NOT additional
+calling/mailing after patients received the test kits. EXAS' claims that it will be able to
+
+
+13
+
+
+
+https://static.seekingalpha.com/uploads/2014/4/15604502_13988647981788_11.png
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 23/67
+
+
+achieve increased compliance rates due to its "compliance engine" from the national
+average of 59.1%  to 70% by pointing to the success experienced by Kaiser
+Permanente's success are extremely misleading. The increased compliance was largely
+driven by the fact that patients were mailed initial tests, which is something EXAS would
+have no power to do. In order to participate in such a system (which would involve mailing
+out tests to all customers), payers would have to have financial incentive - but there would
+be none if the price of Cologuard already reflects the benefit of higher compliance and
+EXAS is pocketing the incremental benefit!
+
+
+3) Historical precedents show that CMS refuses to reimburse for non-lab
+procedures (including a compliance engine) under its clinical diagnostic laboratory
+fee schedule; therefore, any actual benefit derived from the "compliance engine"
+will not be reflected in reimbursement prices. For instance, there are numerous multi-
+analyte assays that require algorithmic analyses - meaning that after the assays are
+completed, algorithms are run to analyze the results and to reach the appropriate
+conclusion. Despite the fact that algorithm analyses are required to yield actionable
+results, CMS declined to reimburse for the algorithmic analyses, because "Medicare does
+not recognize a calculated or algorithmically derived rate or result as a clinical laboratory
+test". Similarly, EXAS' proposed "compliance engine" is not going to be acknowledged as
+a clinical laboratory test. Below is CMS' commentary from its preliminary decision for
+Multi-Analyte Assays with Algorithmic Analyses ("MAAAs"). Emphasis added:
+
+
+"CMS Preliminary Payment Decision
+
+
+CMS uses other codes for payment of the underlying clinical laboratory tests on
+which the MAAA is done and does not recommend separately pricing the MAAAs
+codes.
+
+
+Rationale
+
+
+A MAAA is a numeric score(s) or a probability (i.e., "p-score") based on the results of
+laboratory tests and, in some cases, patient information. Medicare does not
+recognize a calculated or algorithmically derived rate or result as a clinical
+laboratory test since the calculated or algorithmically derived rate or result alone
+does not indicate the presence or absence of a substance or organism in the body.
+Medicare uses other codes for payment of the underlying clinical laboratory tests on
+which the MAAA is done and we continue to recommend not separately pricing the
+MAAAs codes."
+
+
+14
+
+
+15
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 24/67
+
+
+Bull Counterpoint #2: But Given Imaging is getting reimbursed ~$1,000/test for
+PillCam Colon 2! Therefore, $500/test for Cologuard is not unreasonable.
+
+
+PillCam Colon 2 ("PillCam") is completely different from Cologuard. PillCam is only
+reimbursed for patients who are unable to have conclusive colonoscopies, and is in
+fact, only indicated for such patients by the FDA.  For such patients, there is no other
+currently-available method backed by significant clinical results that is capable of locating
+adenomas/polyps throughout patients' entire colons. Colonoscopies are the gold standard
+for locating and removing polyps, and there are no generally accepted alternatives with
+clear prices for patients who were unable to receive complete colonoscopies. As a result,
+using an efficient market pricing model to determine the fair price based on alternatives
+does not work. On the other hand, Cologuard is one of several methods of merely
+diagnosing patients with colorectal cancer and precancerous polyps. Cologuard does not
+identify polyp locations, while PillCam does.
+
+
+Second, the reimbursement decision for Cologuard must come via a national coverage
+determination ("NCD") from CMS, where CMS sets a national limit for reimbursements for
+Cologuard. This is the case for all clinical diagnostic laboratory procedures. PillCam is not
+a clinical diagnostic laboratory procedure, and is reimbursed on a local coverage
+determination basis, with no NCD from CMS.
+
+
+Bull Counterpoint #3: But the CRC Detection Market is Large, and Some Payers Will
+Pay $500/Test Regardless of the CMS Decision!
+
+
+Even ignoring the "ick" factor of Cologuard and the difficulties EXAS will run into marketing
+the test due to its impracticality compared with alternatives, the addressable market for
+Cologuard is approximately 70% smaller than EXAS claims and is in decline. A paper
+published on March 17, 2014 shows that the vast majority of patients (approximately 70%)
+using FOBTs/FITs are also concurrently having colonoscopies every 10 years and used
+the non-invasive test as a secondary diagnostic test for CRC. See below for the relevant
+table:
+
+
+16
+
+
+
+http://onlinelibrary.wiley.com/doi/10.3322/caac.21220/pdf
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 25/67
+
+
+The author of the paper stated that "dramatic declines in incidence in recent years have
+been largely attributed to the uptick in colonoscopy because it is the only test for which
+use increased from 2000 to 2010; use of fecal immunochemical testing and
+sigmoidoscopy declined during that time period." Given the price point EXAS is
+targeting, no payer would be willing to cover their test in tandem with colonoscopies. As a
+result, we believe the true addressable market would be approximately 2.7mm patients.
+Assuming EXAS can achieve its proposed 30% market share among those patients, we
+arrive at 810,000 patients. Assuming uniform discrete distribution over three years, we
+arrive at 270,000 patients per year. Even if EXAS were to achieve its theoretical
+reimbursement of $500/test (which is highly improbable), peak revenue would only be
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 26/67
+
+
+$135mm/year. At a more realistic estimate of $150/test, that figure falls to total peak
+revenue of only $40.5mm/year. This is a somewhat pointless exercise, though, because
+$150/test would represent a negative gross margin for EXAS.
+
+
+EXAS' Gross Margins
+
+
+Below are two quotations from 2013 earnings calls discussing expected pricing and
+margins (emphasis added):
+
+
+Q2 2013 Earnings Call:
+
+
+"Yes, Brian, that's very, very consistent with how you should think about it and how
+we've thought about it. What we've always said is we expect gross margins 65% or
+better at launch -- not at launch, excuse me, but at a run rate. And so you could
+expect over time us to get to that -- so let's say, by year 3, us to be able to
+attain that 65% -- with some modest inefficiencies as we approach that. So as
+we get closer to launch, we'll be discussing that in more detail. But the best way to
+think about it is still consistent with what we've said about that 65% gross margin
+once it is penetrated into year 3, and approaching that, it would be modest
+inefficiencies, but not far from that."
+
+
+-EXAS CFO
+
+
+Q3 2013 Earnings Call:
+
+
+"At the end of September, CMS released 2014 National Limitation Amounts or NLAs
+for Tier 1 molecular pathology codes. It has yet to issue final payment rates for Tier 2
+codes. Cologuard contains components in both tiers. CMS issued a rate for KRAS
+testing at $199. It had previously issued its rate for FIT testing at $22. Together,
+these 2 codes amount to $221. In addition, we believe that the agency will eventually
+issue rates for the detection of methylated DNA. Presently, Cahaba, a regional
+Medicare administrative contractor, has priced single-methylated variant detection at
+$140. Cologuard has 2 methylation markers: NDRG4, and BMP3. Assuming CMS
+sets the National Limitation Amount for a single-methylated variant at $140,
+the total reimbursed value of Cologuard would be $501. The final payment level
+will be determined by HAPG."
+
+
+-EXAS CEO
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 27/67
+
+
+Combining the two comments, we get to a peak run-rate gross cost per test of
+approximately $175. Using a lower target reimbursement price ($476.83) from a January
+2014 investor presentation (see below), we arrive at a peak-efficiency gross cost of
+$166.89 per test:
+
+
+Conclusion
+
+
+As we discussed in the Summary, the root of the mispricing of EXAS equity is the
+misconception by analysts and shareholders that Cologuard will be reimbursed based on
+the cost of its DNA test components as opposed to the cost-effectiveness of Cologuard.
+Despite Management's insistence that CMS will use a crosswalk analysis to price
+Cologuard, we believe that EXAS has been well-aware for a long time that the
+reimbursement rates for Cologuard will depend heavily on cost-effectiveness studies.
+EXAS has previously acknowledged that cost-effectiveness was critical to achieving its
+target reimbursements: see below for an excerpt from EXAS' 2010 Letter to Shareholders:
+
+
+"Among the most important marketing activities during 2011 will be the initiation of
+studies that will measure Cologuard's cost effectiveness. These studies are
+important to our efforts to achieve the desired reimbursement level for the test. If we
+can demonstrate a significant economic influence on the prevention, diagnosis and
+care of colorectal cancer, the reimbursement rate for the test should reflect that
+contribution."
+
+
+In the same letter, EXAS assigned a $500 price target to Cologuard:
+
+
+17
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 28/67
+
+
+"Our market analysis also has helped us value the market opportunity we're
+pursuing. There are at least 80 million Americans who are at average risk of colon
+cancer and eligible for screening today. Assuming a 30 percent penetration rate and
+current reimbursement rates, we estimate the market for our screening test to be
+$1.2 billion."
+
+
+Multiplying 80 million by 30%, we get 24 million patients. Dividing $1.2 billion by 24 million,
+we get an average price of $500 per test. It seems that Management believed, at the time,
+that Cologuard would perform well enough in the DeeP-C trial to elicit a $500/test
+reimbursement.
+
+
+Unfortunately, EXAS reported its unfavorable top line results in April 2013, and after
+reporting the data, EXAS stock dropped approximately 20% over the next few trading
+days. The primary endpoint targets were 85% cancer sensitivity, 50% pre-cancerous
+polyps sensitivity, and 90% specificity. The reported Deep-C results show that Cologuard
+achieved 92% cancer sensitivity, 42% detection of pre-cancerous polyps, and 87%
+specificity - effectively missing two out of three primary endpoints. However, we do not
+think this will preclude Cologuard from being approved by the FDA. We do, on the other
+hand, believe that it will make it impossible for Cologuard to achieve the reimbursement
+rate investors are expecting.
+
+
+Prior articles published on EXAS have scratched the surface regarding EXAS' problems,
+but have largely ignored or incorrectly addressed the elephant in the room: reimbursement
+rates. For instance, the article published by Reed Research values EXAS at $8-9, based
+on the assumption of a price of $300/test, which the author got from a prior CMS paper.
+It is likely that the author was referring to the following excerpt when stating that the study
+"gave a range of between $200 to $300 for a 3-year interval test":
+
+
+"The threshold costs of the DNA stool test version 1.1 at 3-yearly intervals were…
+$237-$302 if the DNA stool test had perfect test parameters."
+
+
+However, the $237-$302 range is for tests with perfect test parameters! That is, the
+test would have 100% sensitivity to cancer and all large adenomas, and 100% specificity.
+Cologuard is far from perfect, and the $237-$302 range represents a cap on how much
+EXAS could get reimbursed if it were perfect - not a range of likely reimbursement prices!
+While we commend the author for his work, the article overestimates the potential range of
+prices for Cologuard.
+
+
+18
+
+
+19
+
+
+20
+
+
+
+https://seekingalpha.com/article/2134693-exact-sciences-is-a-near-term-short-due-to-risks-and-assumptions-about-its-future-business
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 29/67
+
+
+Because Cologuard is a non-invasive diagnostic test that provides useful metrics and
+poses no potential threat to patients, there is no reason for the FDA not to approve
+Cologuard - determining practicality and cost-effectiveness is not within the FDA's
+wheelhouse. However, we also think that Cologuard is as close as you can get to a
+guaranteed flop, with reimbursements at least 70-80% lower than EXAS has
+communicated to investors, and little doctor or patient interest in selecting this test over
+other non-invasive alternatives due to the cost and the "ick" factor. The conventional fecal
+immunochemical test (FIT) requires patients to use a brush to scrape fecal samples onto a
+card that is then mailed back and processed by a lab. Cologuard requires patients to
+return a minimum of 8 grams of fecal matter in a container, as well as a separate fecal
+sample for hemoglobin sampling, and offers sensitivity and specificity that are comparable
+to existing FITs. We doubt any patients will be rushing to try to get test kits.
+
+
+Marketability aside, we believe that following imminent FDA approval, it is very likely that
+EXAS will be unable to sell its Cologuard test at a profit on a gross basis. We think it is
+very telling that EXAS has been unable to find any partners and has not published a cost-
+effectiveness study for Cologuard, despite purportedly "working" on one since 2011.
+Barring any new radical developments in its pipeline, we believe EXAS is worth nothing
+more than the cash on its balance sheet (a little more than $3/share). We rate the stock a
+"Strong Sell", and we are short. EXAS shareholders are encouraged to reach out to us
+at info@gravityresearchgroup.com with any questions you may have regarding
+EXAS or the content of this report.
+
+
+1 Sensitivity is the rate of correct positive readings; if sensitivity is 90%, then, on
+average, 90% of the positive cases would be correctly interpreted as positive, while
+10% of positive cases would be incorrectly interpreted as negative.
+
+
+2 Specificity is the inverse rate of false positive readings; if specificity is 90%, then,
+on average, 10% of the negative cases would be incorrectly interpreted as positive.
+
+
+3 The exception is Maxim Capital, which was rightfully suspicious regarding EXAS'
+prospects, and has issued a Sell rating on EXAS with a current price target of $8.
+
+
+4 Link
+
+
+5 Link
+
+
+6 Link
+
+
+7 See CMS CRC Screening Precedents, and How CMS Will Get to $100-$150/Test
+
+
+
+https://seekingalpha.com/symbol/FIT
+
+https://oig.hhs.gov/oei/reports/oei-07-11-00011.pdf
+
+http://www.palmettogba.com/palmetto/MolDX.nsf/DocsCat/MolDx%20Website~MolDx~Browse%20By%20Topic~Covered%20Tests~978QP82338?open&navmenu=Browse%5eBy%5eTopic%7c%7c%7c%7c
+
+http://www.palmettogba.com/palmetto/MolDX.nsf/DocsCatHome/MolDx
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 30/67
+
+
+Comments (189)
+
+
+8 Link
+
+
+9 Link
+
+
+10 Link
+
+
+11 Links to all reports can also be found here: Link
+
+
+12 Link
+
+
+13 Ann Intern Med. 2010 September 21; 153(6): 368-377
+
+
+14 CA Cancer J. Clin. 2014;64:104-117
+
+
+15 Link
+
+
+16 Link
+
+
+17 Link
+
+
+18 Id.
+
+
+19 Link
+
+
+20 Id. (see bottom of p. 6 of the link above)
+
+
+Disclosure: I am short EXAS. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+ Like this article
+
+
+PSalerno, Contributor
+Heheh... I was sure the reimbursement would be lower, and even wrote that many times in my comments contesting
+the bulls' arguments. The test is only slightly superior to competitors.
+
+
+30 Apr 2014, 01:29 PM 
+
+
+User 24503613
+"The test is only slightly superior to competitors." - Due diligence on SA at its finest.
+
+
+30 Apr 2014, 03:24 PM 
+
+
+
+http://www.exactsciences.com/investor/ESC%2013726%20Fact%20Sheet%5b12%5d.pdf
+
+https://seekingalpha.com/article/1567942-exact-sciences-the-rotten-sniff-test-1-of-5
+
+https://oig.hhs.gov/oei/reports/oei-07-11-00011.pdf
+
+http://cisnet.cancer.gov/colorectal/highlights/cms_report.html
+
+https://seekingalpha.com/article/1571592-exact-sciences-flushing-down-the-drain-2-of-5
+
+http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/ClinicalLabFeeSched/Downloads/CLFS-CY2013-Preliminary-Payment-Determinations.pdf
+
+http://www.givenimaging.com/en-us/Innovative-Solutions/Capsule-Endoscopy/pillcam-colon/Pages/COLON-Press-release.aspx
+
+http://investor.exactsciences.com/2010AR/shareholder_letter/index.html
+
+https://www.cms.gov/Medicare/Coverage/DeterminationProcess/downloads/id52TA.pdf
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/24503613
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 31/67
+
+
+PSalerno, Contributor
+Slightly superior, not enough to justify the $500 reimbursement.  
+What is your problem ? Were you long ?
+
+
+30 Apr 2014, 03:28 PM 
+
+
+Ulysses Benjamin Dover
+PSalerno, I know your ID is a cover used to do comments on articles, but please spare us the silliness. Go
+back to scaring people into buying gold or something.
+
+
+01 May 2014, 12:54 AM 
+
+
+PSalerno, Contributor
+WOW ! You know my ID better than myself ! I will ask you some information in the future !
+
+
+01 May 2014, 01:48 AM 
+
+
+Energy-Trader
+The stock has rallied from $11.96 to OVER $21.00 since this article was published by SA. They (and you)
+have clearly been WRONG!
+
+
+25 Aug 2014, 12:53 PM 
+
+
+PSalerno, Contributor
+I did not short the stock at 11.96, I did from above 17 to 15. The goal is to make money, I am wrong if I lose
+money, if I make money I am right.
+
+
+25 Aug 2014, 02:50 PM 
+
+
+Energy-Trader
+Your reading comprehension is terribly poor.
+
+
+26 Aug 2014, 02:19 PM 
+
+
+PSalerno, Contributor
+My goal is to generate returns, not reading what you think about a company
+
+
+26 Aug 2014, 03:54 PM 
+
+
+Energy-Trader
+You've clearly MISSED THE ENTIRE MOVE IN EXAS since May. 
++108%
+
+
+27 Aug 2014, 04:29 PM 
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/70107
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 32/67
+
+
+PSalerno, Contributor
+There are so many moves in the market, no need to take huge risk with a stock like Exas which is trading on
+hopes, without any earnings.
+
+
+27 Aug 2014, 06:01 PM 
+
+
+Energy-Trader
+Like I said, you obviously are "new" to how the Biotech sector works. 
+I suggest that you stick to paper-trading or if you have investment capital.... Mutual Funds where
+professionals manage money.
+
+
+Your comments about EXAS over the last 10-11 months have been incredibly naïve and ignorant.
+
+
+27 Aug 2014, 07:49 PM 
+
+
+PSalerno, Contributor
+I did not ask you any suggestion. I do not need, because, as I said, MYGN did better than EXAS (112.5%
+versus 100%) did it faster (3 months time versus 4) and did it carrying less risk because of lower valuation
+and actual earnings. Why should I be invested in EXAS having done better with MYGN ? EXAS is trading om
+emotion, everything about the product and the company was known 1-2 years ago ( the approval of
+Cologuard was predictable for those with medical knowledge), but nevertheless the stock was quite volatile
+trading from 11 to 22. If the general market sentiment, now positive, will change to negative the stock could
+shrink back again. This is why I traded this stock from a short side after the recent new high and after 1 year
+of underperformance compared to the SP index or NDX.
+
+
+28 Aug 2014, 01:45 AM 
+
+
+PSalerno, Contributor
+Additionally, there is still a lot of uncertainty about the reimbursement entity for CG, and about the sales
+volume. These things will be decided by other people, not by us, we have our forecast, but they can be both
+wrong. With MYGN I had more confidence about my forecast as it was supported by more elements. As a
+professional trader doing this for living, I place my bets where I see more probability of success, not less. 
+Finally, in my previous comments few months ago I predicted a very large trading range for EXAS from $2-to
+$25 with 1 year time frame and we are still at 22 inside my range, so my prediction was correct. This stock is
+volatile and this year had also a downtrend from 14.7 to 10.7
+
+
+28 Aug 2014, 01:53 AM 
+
+
+PSalerno, Contributor
+Another reason why I do not invest in EXAS is that compared to MYGN EXAS shows less volume, and I need
+more liquid stock to go in and out because I invest large amount of money, not few thousands dollars as you
+think, but I will not tell you how much. So your comments are useless, (you did not even advice to take profit
+before the recent 70% correction) but I have to reply because I have 72 followers.
+
+
+28 Aug 2014, 02:23 AM 
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 33/67
+
+
+Energy-Trader
+You've never shorted the stock of EXAS.
+
+
+28 Aug 2014, 10:23 AM 
+
+
+Energy-Trader
+You are not a professional trader.
+
+
+28 Aug 2014, 10:23 AM 
+
+
+Energy-Trader
+
+
+EXAS trades several million shares a day. 
+Large enough for some of the biggest Fund managers in the world like Chase Coleman of the Tiger Global
+Fund . . . which has $8 BILLION under management.
+
+
+28 Aug 2014, 10:25 AM 
+
+
+PSalerno, Contributor
+You cannot know what I do, but you see I correctly called 2 times the entry and exit point to short the stock.
+You never did it because you lack any skill in stock trading.
+
+
+28 Aug 2014, 04:29 PM 
+
+
+PSalerno, Contributor
+Trading is the only thing i do for living, so I actually AM a prof trader.
+
+
+28 Aug 2014, 04:29 PM 
+
+
+PSalerno, Contributor
+Wrong- Not enough for me especially options. The long term average volume is just around 1 million shares a
+day, not as you say several million, very rarely the volume reaches 2 million, around 30 days in the last 356
+days. So clearly you don't know what you are talking about, averybody can see you are wrong just looking the
+chart.
+
+
+28 Aug 2014, 04:38 PM 
+
+
+PSalerno, Contributor
+I did not care fund managers, I care about me. FOR ME an average of 1 million shares is not enough,
+especially from a short point of view, because I need to go in and out very quickly. I consider Exas a short
+term trading, not a long term holding.
+
+
+29 Aug 2014, 11:26 AM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 34/67
+
+
+You can talk what you want, but when I told EXAS was not liquid enough for me, I was talking about OPTION
+volume, because, as I told many times, I ALWAYS used options to short this stock. 
+So your comment about stock volume was inappropriate and not properly correlated to my argument.  
+I was the one rising the issue about liquidity, and you did not understand limiting the issue to the stock volume
+and avoiding what was the most relevant factor, the option volume.  
+So may be you need to take an English as a First Language course.
+
+
+29 Aug 2014, 11:35 AM 
+
+
+Energy-Trader
+You are too FUNNY!
+
+
+For some reason, there is enough liquidity in EXAS for the $8 Billion Dollar Tiger Global Fund run by Chase
+Coleman to buy 2 million shares. But not enough liquidity for our clown from Hungary.
+
+
+30 Aug 2014, 03:12 PM 
+
+
+Energy-Trader
+You should really stop posting about EXAS. 
+You've missed a 108% move in the stock since May, have NEVER owned a single share.... and no absolutely
+NOTHING about the Company!
+
+
+30 Aug 2014, 03:14 PM 
+
+
+PSalerno, Contributor
+Yes, for the reason I have explained above. If you do not understand that using options for short term trading
+is different and needs more liquidity, it is not my problem. There are seminars where these things are
+explained more extensively, I suggest you to participate.
+
+
+30 Aug 2014, 04:45 PM 
+
+
+PSalerno, Contributor
+You do not tell me what I have to do. I will keep posting about this stock as it is one of my favourite trading
+vehicles. I prefer to trade this stock from the short side.
+
+
+30 Aug 2014, 04:53 PM 
+
+
+Joe Cor
+what about the fact that the Affordable Care Actis predicated on wellness and prevention to alleviate the future osts of
+catastrophic illness ?
+
+
+A Colonoscopy costs twice as much and is fully covered for patients over 50 years of age.
+
+
+30 Apr 2014, 01:48 PM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/575798
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 35/67
+
+
+Colonscopy has more limited indication and compliance. So it is normal that it is reimbursed even if more expensive.
+The article is well done.
+
+
+30 Apr 2014, 02:01 PM 
+
+
+defiance
+Colonoscopy has more limited indication? It is used, and reimbursed as a CRC screening test, as is FIT.
+
+
+Since Colonoscopy is used less it warrants higher reimbursement? The point of the article is cost effective
+screening. Is colonoscopy cost effective at $1500 - $2000 per test?
+
+
+30 Apr 2014, 02:28 PM 
+
+
+PSalerno, Contributor
+Yes it is cost effective as I told above because pf more limited indications and compliance. Additionally it is
+often associated with surgery. It is a totally different thing.
+
+
+30 Apr 2014, 02:35 PM 
+
+
+defiance
+With regards to indication, colonoscopy is used as a screening test, so for this use, the indication is over 50
+years old, same as any other CRC screen. The reason screening tests have any cost effectiveness is
+because they can detect disease before it becomes very expensive to treat. Cost effectiveness of a screening
+test is independent of the compliance. Fewer screened, fewer cancers found, less savings.
+
+
+30 Apr 2014, 02:45 PM 
+
+
+PSalerno, Contributor
+Colonscopy is not a first choice screening, it is a second step after FIT, FOBT or DNA test.  
+If Cologuard is positive, you have to performe a colonscopy as well.  
+During colonscopy the surgeon can make a biopsy, can remove a polyp. Colonscopy is part of the therapy,
+not just a screening.
+
+
+30 Apr 2014, 02:51 PM 
+
+
+defiance
+Colonoscopy is frequently used as a front-line screen, ie. not as a referral from a positive FOBT/FIT screen.
+As such, it is no cheaper as a screen than it is as a treatment. Most of those colonoscopies treat nothing.
+
+
+30 Apr 2014, 03:20 PM 
+
+
+PSalerno, Contributor
+Defiance - Try again you are on improving path. May be you will get the point that doctors are trying to reduce
+colonscopy as first choice screening and this is why there are other tests (fecal test). These tests must cost a
+lot less than colonscopy because colonscopy must be done anyway if fecal tests are positive.  
+BOTTOM LINE is : Fecal test WILL NEVER BE A SUBSTITUTE of colonscopy.
+
+
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 36/67
+
+
+01 May 2014, 01:53 AM 
+
+
+defiance
+"1) The DNA tests contained within Cologuard, which account for over 95% of the value in EXAS' hypothetical
+crosswalk analysis, were explicitly banned by the Department of Health and Human Services"
+
+
+and
+
+
+"Since CMS considers predictive tests to be screening tests, genetic tests for this purpose are not covered by
+Medicare."
+
+
+These comments refer to genetic screening for predictive markers. Cologuard does not use these, instead it looks for
+mutated and methylated DNA contained in diseased cells shed from the lining of the colon. It does not predict a
+genetic predisposition to CRC, it finds CRC and polyps that are soon to become CRC.
+
+
+30 Apr 2014, 02:10 PM 
+
+
+PSalerno, Contributor
+This comment is correct, in the article the term "predictive" is misleading, but the conclusion is pretty much
+the same.
+
+
+30 Apr 2014, 02:14 PM 
+
+
+User 24503613
+An SA article against EXAS is telling me to short. I'm going to buy. Sweet. I saved you guys a few thousand
+characters of writing!
+
+
+30 Apr 2014, 03:23 PM 
+
+
+Energy-Trader
+More brilliant "twisted" rubbish from PSalerno. 
+Shocker!
+
+
+30 Apr 2014, 05:09 PM 
+
+
+PSalerno, Contributor
+I know you are a frustrated long, so I will not shot on the red-cross.  
+I told in the past EXAS was not a good investment, but you had to learn it in the hard way.
+
+
+01 May 2014, 01:55 AM 
+
+
+Energy-Trader
+You are WRONG again PSalerno!
+
+
+EXAS just received their National Coverage Determination for Cologuard and $502 reimbursement pricing
+yesterday!
+
+
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/24503613
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 37/67
+
+
+Stock is +26% in pre-market. 
+You and your "short" friends are in a world of hurt! 
+New Highs!
+
+
+10 Oct 2014, 07:21 AM 
+
+
+PSalerno, Contributor
+The reimbursement was higher than I thought, but I did not make any bet on this outcome. The time to short
+and to cover were when I declared it in my previous comments.
+
+
+10 Oct 2014, 09:43 AM 
+
+
+Whitney Tilson, Contributor
+Great analysis -- kudos! I love shorts like this one, in which there are many ways to win.
+
+
+30 Apr 2014, 03:08 PM 
+
+
+Energy-Trader
+Mr. Tilson....
+
+
+For full-disclosure purposes, have you had a short position in the last 5 trading days in EXAS?
+
+
+30 Apr 2014, 05:12 PM 
+
+
+Energy-Trader
+No response from Mr. Tilson about having a short position in EXAS before this article was published. Just
+crickets....
+
+
+01 May 2014, 11:07 AM 
+
+
+yogabagaba
+Mr. Tilson, why have you avoided the question in regards to whether you have an established short position in
+EXAS?
+
+
+Also, would you care to elaborate on the numerous ways in which "there are many ways to win" shorting
+Exact Sciences? I am all ears on your plethora of pathways!
+
+
+01 May 2014, 09:09 PM 
+
+
+PSalerno, Contributor
+The question did not deserve an answer, not every question deserves an answer. People must be able to
+read and use their brain before making those questions.
+
+
+02 May 2014, 03:03 AM 
+
+
+Energy-Trader
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/whitney-tilson
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 38/67
+
+
+Why is there a double-standard here.... where SEC broker-dealers are bound by Regulation Full Disclosure,
+and blogs like this don't have to disclose anything?
+
+
+Mr. Tilson was asked whether or not he had a short position in EXAS. 
+It's a simple question and easily answered.
+
+
+The FACT that he has remained silent speaks volumes.
+
+
+02 May 2014, 10:11 AM 
+
+
+Keubiko, Contributor
+>>Mr. Tilson was asked whether or not he had a short position in EXAS. 
+It's a simple question and easily answered.<<
+
+
+What makes you think he has a duty to disclose his fund's positioning to anonymous people on the internet?
+Just because he posted a comment?
+
+
+You have posted a comment so please forward your trading statements to keubiko@yahoo.com. If not, the
+silence will speak volumes.
+
+
+I'm sure if you invest in his fund he'd be happy to talk to you about the current positioning.
+
+
+02 May 2014, 11:27 AM 
+
+
+yogabagaba
+more like you're going to lose big! devalued investor
+
+
+16 Aug 2014, 06:06 PM 
+
+
+Energy-Trader
+In late July, Whitney Tilson told various financial media wire-services that he is even more confident in his
+large short position in HerbaLife. Sure seems to me that Mr. Tilson could easily answer my question. Or does
+he simply use the media to his advantage only when he wants to?
+
+
+Kind of like when Travis Cocke of Southpaw Partners posted a 5-Part Series as "Alpha Exposure" explaining
+why EXAS was such a great short last Summer (July 2013) and only had a value of "...less than $3 per share"
+because it would not receive FDA or CMS approval.
+
+
+The stock is 50% higher now and as we all know, and Cologuard has in fact achieved FDA and CMS
+approval.
+
+
+20 Aug 2014, 10:11 AM 
+
+
+Energy-Trader
+Mr. Tilson..... how are you doing in shares of EXAS today? 
+The stock is +80% since you commented about how you "love shorts like this one."
+
+
+25 Aug 2014, 12:52 PM 
+
+
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 39/67
+
+
+morlockx15
+EXAS is a dead man walking. $500 a test? Streamlining the colonoscopy process should bring the cost of each
+procedure down to $2,000 or less. In Mexico, one can be had for $700.
+
+
+30 Apr 2014, 03:15 PM 
+
+
+PSalerno, Contributor
+Nevertheless the stock could go higher short term to around 14.
+
+
+30 Apr 2014, 03:23 PM 
+
+
+NB MD
+Colonoscopy is first line screening test for CRC. I could see the USPTFS come out and say that Cologuard could be
+considered first line in the coming years once it proves itself.
+
+
+Everyone is concerned about the CMS value but the point is screening starts at age 50. That leaves 15 years of
+screening prior to the 65 year age when Medicare will start. CRC screening is recommended to age 75 so the majority
+of screening occurs before patients become Medicare eligible. I know private insurers use CMS as a guide but don't
+anticipate the reimbursement value will be the same for the private insurers.
+
+
+30 Apr 2014, 05:34 PM 
+
+
+defiance
+"Cologuard ... offers sensitivity and specificity that are comparable to existing FITs."
+
+
+Untrue. Cologuard's cancer sensitivity is comparable to colonoscopy. Cologuard's pre-cancer sensitivity is vastly
+superior to FIT.
+
+
+30 Apr 2014, 05:47 PM 
+
+
+defiance
+"Due to the high gross costs associated with its Cologuard test (estimated by sell-side analysts to be between
+$150-$250 per test, and implied to be $165+/test, based on EXAS executives' comments during earnings calls and
+EXAS' 2013 Investor Fact Sheet8)"
+
+
+EXAS executives have quoted test cost at $100 per. 
+The EXAS' 2013 Investor Fact Sheet (reference 8) does not give any information about test cost.
+
+
+30 Apr 2014, 05:58 PM 
+
+
+Energy-Trader
+True.
+
+
+Gravity Research Group conveniently took the 65% gross margin figure out of context by applying it to the
+$476 crosswalk pricing that the CEO has pointed out in recent conference calls. The fact of the matter is that
+no analyst on the Street is modeling for anything above the $300 price point that the Company has guided to
+for years.
+
+
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/18666962
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 40/67
+
+
+65% of $300 is $195. 
+Thus, the costs for Cologuard (at peak sales) are roughly $105 per test and not the $165 that the author has
+mistakenly claimed. If you can actually find an analyst on the Street that covers the Company and is modeling
+for $476 pricing, you have found a Unicorn.
+
+
+There are none. 
+Period.
+
+
+30 Apr 2014, 11:57 PM 
+
+
+Really..
+You are completely wrong. The 65% gross margin was provided by Management in calls and they were
+obviously referring to their own forecasted price for Cologuard, not some random analyst prices. Plus you are
+wrong about the analyst projections, Ladenburg, Wedbush, and Canaccord are all projecting Cologuard
+prices in the $400-$500 range. If you actually had access to sell-side research, you would know this.
+
+
+01 May 2014, 05:21 PM 
+
+
+Energy-Trader
+You are completely wrong. 
+If you look at the spreadsheets of Baird, Jefferies, Benchmark, Mizuho, William Blair, etc. they all use $300 in
+their modeling.
+
+
+01 May 2014, 06:33 PM 
+
+
+Biotech Vet, Contributor
+Almost every assumption and conclusion here can be strongly questioned. Kudos for a well-researched article, It's
+nice to see a well argued thesis. Since to rebut every point would take as long as the original, I’ll start by responding
+to a few.
+
+
+When CMS decided to not reimburse CTC, they did it based on price, as you suggest, but it was never explicitly
+stated. The real reason, which I heard from someone on the panel, was that it cost almost as much as a screening
+colonoscopy and since a positive would lead to a referral for a optical colo anyway, it was deemed cost ineffective.
+Had the price been significantly cheaper it would likely have been approved. Cologuard is significantly cheaper.
+
+
+You quoted CMS as stating "The Social Security Act provides that no Medicare payment may be made for expenses
+incurred for items or services that are not reasonable and necessary for the diagnosis or treatment of illness or injury
+or to improve the functioning of a malformed body member. Consistent with this, Medicare does not pay for preventive
+screening tests except for those specifically authorized by statute (e.g., prostate-specific antigen test).” What you
+conveniently neglected to point out is that, like a PSA test, colorectal cancer screening is specifically authorized by
+statute for approved tests like colonoscopy fecal blood and sigmoidoscopy. So, the only way your conclusion is valid
+is if you think CMS will not endorse reimbursement of Cologuard like it did for CTC.
+
+
+The calculation of cost-effectiveness is very tricky and relies upon numerous assumptions. The previously
+commissioned CMS study you reference is old (2007). One problem that bedevils all the comparisons to FIT, and
+indeed even to colonoscopy, is that Cologuard has a truly ground-breaking strength in its sensitivity to sessile serrated
+
+
+
+https://seekingalpha.com/user/6013951
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/biotech-vet
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 41/67
+
+
+adenomas. These adenomas have only recently been shown to be the source for 30-35% of all CRCs. FIT doesn’t
+detect these. In fact, recent data show that there is a huge variance between the rates at which colonoscopists detect
+these with detection rates for some approaching 0%. This changes how one performs simulations of the efficient
+frontiers and cost-effectiveness. Indeed, it is one reason I think this test is a huge improvement over FIT. Similar
+arguments can be made for the equal sensitivity of Cologuard, but not FIT and not colonoscopy to proximal and distal
+lesions.
+
+
+To say that the “perfect” sDNA test would only garner a reimbursement of around $237 (in 2007 mind you), and
+therefore Cologuard could never be reimbursed higher is a preposterous argument because the imperfect
+colonoscopies and especially sigmoidoscopies already cost significantly more than that. These are complicated
+arguments, and also were performed at a time when the importance of sessile serrated adenomas were not
+appreciated.
+
+
+I’ll stop here, but it is almost pointless arguing further since we’ll have the real answer very soon.
+
+
+30 Apr 2014, 06:13 PM 
+
+
+Gravity Research, Contributor
+Author’s reply »  Hi Biotech Vet,
+
+
+Thank you for your thoughtful response. We appreciated hearing what you had to say, although we
+vehemently disagree with your statement that “Almost every assumption and conclusion here can be strongly
+questioned.” :) See below for our response to the points you have raised:
+
+
+Regarding the CTC, it seems you may have misinterpreted our point. We completely agree with your point
+regarding the “real reason” why CTC was rejected—it is exactly what we are saying in our report! CTC was
+rejected because it was deemed cost ineffective. You followed up with “Had the price been significantly
+cheaper it would likely have been approved. Cologuard is significantly cheaper.” While we agree that the CTC
+would have been approved at a lower price, Cologuard is not cheaper. See the CMS CTC Cost-Effectiveness
+Report: http://go.cms.gov/1hUX5m7. Here is the relevant text:
+
+
+“We assumed a per-test CMS payment of $488 for CT colonography (the national average CMS payment for
+an abdominal CT, a pelvic CT, and image processing) and assumed that the test would be performed every
+five years with individuals with a lesion 6mm or larger referred for colonoscopy.” –p. 6
+
+
+EXAS is asking for a comparable price, and this is why we think there is a very meaningful probability that
+Cologuard will be rejected just as the CT colonography was. Also note that EXAS is requesting that
+Cologuard be covered for use once every 3 years, which effectively makes the long-term base cost of
+screening 67% higher than CTCs once every five years.
+
+
+Your second point regarding the HHS memorandum is also correct, but you are missing our point. We
+included the memo to show that genetic tests are not permitted for preventive screening. We strongly believe
+that this effectively precludes CMS from using a crosswalk to price Cologuard. It is HHS policy to explicitly not
+allow genetic tests to be used for screening among asymptomatic patients—so why would they simply sum
+up the costs to calculate reimbursement for Cologuard? Doing this without basing the reimbursement on cost-
+effectiveness makes no sense and essentially defies the HHS policy. Our core points are that 1) there is going
+to be a cost-effectiveness paper published and 2) the results will not be favorable for EXAS because cost-
+
+
+
+https://seekingalpha.com/author/gravity-research
+
+http://go.cms.gov/1hUX5m7
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 42/67
+
+
+effectiveness data shows that the reimbursement is going to be much lower the $500 rate Management is
+looking for.
+
+
+Your comment regarding sessile serrated polyps shows that you have done serious research on colorectal
+cancer screening. We like that. However, we respectfully disagree with you on whether or not it will impact on
+the cost-effectiveness calculations from CMS. We spent an inordinate amount of time working with cost-
+effectiveness models, and none of them incorporate sessile serrated polyps! As a refresher, there are three
+accepted cost-effectiveness models for CRC testing: MiSCAN, SIM-CRC, and CRC-SPiN. We provided
+descriptions of the assumptions and differences between the three in the report. You can also read up on
+them here (http://1.usa.gov/1hUX5m9) and in the prior CMS cost-effectiveness reports.
+
+
+You are correct in stating that sessile serrated adenomas are a relatively new development in the CRC
+screening space. Unfortunately, this is the reason why it will not impact the CMS cost-effectiveness
+calculations for Cologuard. While it is true that some studies have shown 20-30% of cancer is caused by
+sessile serrated polyps, the unknown factor is what percent of sessile serrated polyps evolve into cancer,
+which is required to determine the value of detecting sessile serrated polyps. We believe SSAs are certainly
+something that deserves further research, but they are not at the point where there is sufficient clinical
+evidence to use them as an input when calculating the cost-effective prices of CRC screening tests.
+
+
+Regarding your point about the “perfect” sDNA test, we think you’re again misinterpreting our main point,
+which is that this should serve as a guideline for where investors can expect the CMS cost-effective prices for
+Cologuard to wind up. Based on cost-effectiveness modeling and the published CMS papers we referenced,
+we think $150/test is really the top of the range for Cologuard on a cost-effectiveness basis. We think we have
+provided a fairly compelling argument for why this is the case. It is true that the precedent CMS papers are
+several years old now, but the cost-effectiveness models have stayed the same, and the inputs have become
+worse for Cologuard—for instance, the sensitivity of FITs has improved significantly through the use of lower
+Hg cut-off levels, and Medicare reimbursements for existing CRC screening tests have declined.
+
+
+The CMS decision could come any day now, and we are looking forward to it. Best of luck to you, and feel
+free to reach out to us at info@gravityresearchgr... if you have any further comments or questions.
+
+
+30 Apr 2014, 11:21 PM 
+
+
+Energy-Trader
+Too funny!
+
+
+One-third of all sessile serrated polyps turn into full blown cancer. 
+Yet, you completely dismiss such a FACT from any kind of cost-effectiveness modeling. How convenient.
+
+
+30 Apr 2014, 11:50 PM 
+
+
+Biotech Vet, Contributor
+I really appreciate you backing up your arguments with facts and links rather than the vituperative comments
+that don't engender discussion.
+
+
+
+http://1.usa.gov/1hUX5m9
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/biotech-vet
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 43/67
+
+
+You can't possibly compare the price of CTC to Cologuard. The calculations CMS performed were based
+upon the assumption (i.e. $488 ) that CTC would cost as much as colonoscopy (which at the time was
+reimbursed as $500 and $650 with polypectomy). With co-pays that price is significantly higher. The problem
+with CTC was the recommended screening interval was too short (5 years) to be non-dominated. The real
+question for Exact is what will the total reimbursement be. Don't forget that as pointed out by another
+commentator, there is a 15 year period between 50-65 before Medicare payments kick in. There are also
+issues of non-medical costs (i.e. lost work, ability to work day of procedure etc.) that can significantly impact
+overall costs. Numerous papers discuss these issues. All of this however is irrelevant on some level to the
+main question. Since CMS decided to not cover CTC, and you claim this is equally costly, then the only
+conclusion one can draw from your argument is that CMS will like-wise not cover Cologuard. Do you really
+think this will be the case? You claim that is a probable outcome, but you are saying this on the basis of
+almost zero information since the arguments for CTC cost were based upon well-established CT procedures
+with long reimbursement histories. This is a completely new product. Therefore, the only important question is
+what will the overall reimbursement be.
+
+
+As far as modeling SSA's maybe you have worked with these models, however you maybe haven't read the
+models in details. There are a huge number of assumptions in these models involved in the natural history of
+the progressions. All the models you reference include assumptions about all CRCs arising from adenomas. It
+is a simple thing to modify the assumptions to include data on SSAs and rerun the model. As a matter of fact,
+the models are updated regularly. For instance, the SimCRC model model allows for heterogeneity in growth
+and progression rates across multiple adenomas within an individual. This is an easy parameter to tweak for
+incorporation of SSAs and the sensitivities to SSAs for FIT and Cologuard. Unfortunately, there is probably
+not enough good data on the lack of detection of SSAs in many colonoscopies to include this, but certainly it
+could also be included as an adjustable parameter. It is true that sDNA was well past the efficient frontier of
+FIT as studied in the most recent paper (but before the data from Cologuard) http://1.usa.gov/1rJTtVe 
+However, adjusting the adherence rates and overall performance showed that with improvements, many of
+which Cologuard and Exact may make, this test can be pushed onto the efficient frontier as shown by
+simulations in the paper. Further, that paper also makes some unrealistic assumptions about adherence to
+fecal blood testing.  
+In short, you make a weak argument from this perspective that these models can't incorporate SSA data.
+
+
+Lots of DNA screening tests are now covered by Medicaid including all the pre-natal tests from Sequenom
+and Verinata and Ariosa for aneuploidy. Therefore your blanket statement that "It is HHS policy to explicitly
+not allow genetic tests to be used for screening among asymptomatic patients" is simply not true. On today's
+cc the CEO claimed he was quite confident that there would be a cross-walk approach used. So an investor
+has to believe your biased (large short position) opinion versus that of the biased CEO (long) who has quite a
+few more legal ramifications to what he says on a conference call than you do on a web site. This is not to
+say you might not be right. But, certainly, Conroy has way more information vis a vis the CMS thinking and
+discussions than you do. Therefore, when he says this publicly on a CC I think this has weight.
+
+
+01 May 2014, 03:39 PM 
+
+
+Seeking Bull
+
+
+
+http://1.usa.gov/1rJTtVe
+
+https://seekingalpha.com/user/8761771
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 44/67
+
+
+Very well articulated biotech vet. Thank you. The article is no doubt well researched and well written and exhaustive in
+its length. Perhaps the authors believe that adding volume adds credibility to their arguments? In any event, thank you
+again. The test will be recognized as a very valuable tool in both effectiveness and cost containment moving forward
+by the FDA, CMS and doctors. It may take a while, but the long term prognosis is not in doubt here.
+
+
+30 Apr 2014, 08:05 PM 
+
+
+colonyt
+I am a colon rectal surgeon. Your analysis is rubbish,you have no clinical in this field.all your analysis is paper based.
+The average pateint refuses to have colonoscopy unless there a long lecture about the risk of colon cancer.The price
+of colonoscopy based on reimbusement of cms is not sustainable for any endoscopy practice.it is subsidied by private
+insurance to a major extent.Colonoscopy is test performed by at least 10000 endoscopist ,at least half are not skilled
+to perform it.We conscious physician are looking for an alternative test acceptable to average person,reliable with no
+risk for the average pateint
+
+
+30 Apr 2014, 08:55 PM 
+
+
+morlockx15
+How many people who would otherwise get a colonoscopy now choose the Cologuard instead? That has to
+be a negative in the long run.
+
+
+30 Apr 2014, 10:02 PM 
+
+
+User 23168173
+How many baseball players would play in the minors if they could play in the majors? None! If everyone that
+should have a colonoscopy had one, this product would not exist. This product is solely for people who do not
+have a colonoscopy. Once they take this test and find a potential crc then they will also have a colonoscopy.
+Cologuard is here to increase the number of people who have colonoscoies.
+
+
+30 Apr 2014, 11:39 PM 
+
+
+enigma_mttrrnd
+While I do not have a bone in this fight, other SA users please note that this ID has one comment, newly
+created and given the elementary communication skills, I highly doubt the credentials of colonyt. Furthermore,
+I find it highly unlikely any self-respecting surgeon would use accusatory language. Good luck to all investors.
+
+
+01 May 2014, 08:05 AM 
+
+
+Seeking Bull
+My advice to you is to be careful when judging a book by its cover. While his/her English is rough, the
+comments made are spot on. And remember, there are many foreign doctors practicing in america - I know a
+great many of them. The arguments made about patients refusing colonoscopy and CMS reimbursement are
+accurate. If I had to rely solely on CMS reimbursement, I would not be able to practice.
+
+
+01 May 2014, 08:29 AM 
+
+
+
+https://seekingalpha.com/user/13733992
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/user/23168173
+
+https://seekingalpha.com/user/5385531
+
+https://seekingalpha.com/user/8761771
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 45/67
+
+
+enigma_mttrrnd
+For sure - however it is the tone of the entire body and the relatively new account created just to comment on
+this. Keep in mind, comments are not visible to guests, only to members. Therefore, this means that there is a
+HIGH CHANCE a member could have created this account. I can easily retort that I am a Medical Director
+and agree with the author (I am not, and I neither agree or disagree with the author because I do not have a
+background in valuations).
+
+
+Overall, to me this type of commenting pattern is more fitting for Yahoo Message Boards. If the alleged doctor
+provided citable data refuting any points of this article, I would have given it more credence. I find your
+comments very detailed and informative, as you have substantial retorts and a quick glance at your profile
+further solidifies your integrity in my view.
+
+
+The purpose of the warning was to advice anyone skimming through the comments to take extra care. I like
+reading highly commented articles, as I find I learn a lot from them in a relatively short period - hence why I
+was going through the comments here.
+
+
+01 May 2014, 08:39 AM 
+
+
+enigma_mttrrnd
+also I would like to add that the science behind EXAS is sound (I do have a background in Science :)) - and
+its test is no doubt intriguing. The valuations and financials which are a key facet of any product are another
+dimension that I am learning on.  
+Good Luck
+
+
+01 May 2014, 08:41 AM 
+
+
+morlockx15
+But it might have the opposite effect. I know of one person who is putting off a colonoscopy because he wants
+to wait for the cologuard test. People who absolutely refuse colonoscopy despite the pleas from doctors to get
+one are unlikely to agree to a cologuard test with its large "ick" factor.
+
+
+01 May 2014, 09:38 AM 
+
+
+Energy-Trader
+I must say that I find it kind of ironic that your "reply" above questions a poster with a Profile that shows only a
+single comment . . . meanwhile, you have no problem with the "author" of this article (Gravity Research
+Group) not having to disclose who they are. Have you even visited the website for Gravity Research Group?
+It's about as anonymous as you can be. No names. No address. No contact info. Zero!
+
+
+Let's face facts.
+
+
+The "anonymous" author policy of Seeking Alpha and the lack of full-disclosure that it facilitates is a complete
+joke. These articles are like the Tabloid rags that I see when I am standing in the check-out line at my local
+grocery store. But the real interesting thing, is how SA has absolutely no problem doing business this way.
+
+
+Gee, why do you think that is???
+
+
+
+https://seekingalpha.com/user/5385531
+
+https://seekingalpha.com/user/5385531
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 46/67
+
+
+01 May 2014, 06:44 PM 
+
+
+Energy-Trader
+A negative for who??? 
+More positive tests for ColoGuard will generate more need for Colonoscopy.
+
+
+13 May 2014, 09:31 AM 
+
+
+Ulysses Benjamin Dover
+you can stop reading at "only one product in the pipeline." That is not true, see upcoming seminar with various
+presentations for proximate cancers.
+
+
+Also, FDA has already indicated crosswalk approach which is why Conroy is saying it. Expect a price around $400 a
+test.
+
+
+These hit pieces are becoming tiresome and desperate. Company has made slow steady progression for five years
+without hyping. Institutional hands are very strong, including recent demand for shares by Goldman Sachs, Baird and
+William Blair A-list clients.
+
+
+When the short-squeeze begins it will be up sharply. The shorts are trying to bail themselves out and/or get shares
+cheaper because they know the company's bright future.
+
+
+This manipulation is shameful, possibly criminal and SA ought to reconsider its editorial standards, as Barron's
+pointed out a few week ago.
+
+
+01 May 2014, 12:27 AM 
+
+
+Ulysses Benjamin Dover
+2) "Calculating the reimbursement rate via crosswalk analysis has no relation at all to the true value of Cologuard."
+
+
+That's actually true. Cologuard is worth far more to CMS than even $500 per test as it will literally save BILLIONS of
+dollars in cancer treatments over the first decade.
+
+
+Funny use of charts by the way. Apparently you are relying on some people's mediocre math skills to not know you
+are analyzing your charts wrong. Good thing the FDA panel that voted 10-0 to approve understands stats.
+
+
+Also a point. CMS agreed, eagerly, to review in parallel Cologuard with FDA. That is a rarity. Only a few percent of
+products get that. I wonder why? You should cover now instead of waiting, it'll help you cut your losses.
+
+
+One last thing, do you really think you're smarter than Baird, Goldman Sachs and William Blair??? If so, you're nuts.
+Go sell something, that's where your skill ends.
+
+
+01 May 2014, 12:52 AM 
+
+
+Seeking Bull
+Well stated UBD
+
+
+01 May 2014, 08:29 AM 
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/70107
+
+https://seekingalpha.com/user/70107
+
+https://seekingalpha.com/user/8761771
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 47/67
+
+
+NB MD
+I am a physician at a large academic center here in the US and have conversations about colon cancer screening on
+a daily basis with patients. With that background, I do know that most patient would want to defer a colonoscopy for
+Cologuard any day for the cost and the inconvenience of a colonoscopy which causes people to miss a day a work,
+find a ride to and from the hospital/clinic, do the prep the night before (Which is what every patient hates and this is
+why they don't want to do the procedure).
+
+
+There is already a large amount of buzz in the medical community pertaining to this test and medical professionals
+will be ordering this on a daily basis based on patient and provider preference. There are complications associated
+with invasive tests and medicine is moving towards noninvasive studies. This is another one on the list that will have a
+significant role in CRC screening.
+
+
+01 May 2014, 08:57 AM 
+
+
+morlockx15
+Doctor- in your opinion , are these patients who would otherwise undergo the colonoscopy procedure if the
+Cologuard was NOT an option? That is a key question. The EXAS assumption is that the test would draw
+patients out of the pool of those who absolutely refuse colonoscopy. But I think the test will mainly draw
+patients out of the pool who would get one- but reluctantly. And that is a big pool. If so, the test will NOT be
+embraced by HMOs.
+
+
+01 May 2014, 03:46 PM 
+
+
+NB MD
+This will draw from the new crowd, who has never had a colonoscopy and are turning 50 soon and do not
+wish to have one so will use the every 3 year cologuard screen. This will also draw from the crowd that is a bit
+older and higher risk to undergo colonoscopy as well as patients who were undergoing routine screening with
+FIT. As you can see, this will be a very successful test.
+
+
+01 May 2014, 04:44 PM 
+
+
+morlockx15
+I disagree absolutely. You are being disingenuous, or hold a long position. The efficacy numbers do not
+support its replacing colonoscopy, and will delay the detection of cancers. In the aggregate it will wind up
+costing HMO's more money.
+
+
+02 May 2014, 10:00 AM 
+
+
+Energy-Trader
+You are operating from a poor knowledge base. 
+ColoGuard was never designed to replace colonoscopy.
+
+
+It was designed to replace FIT and those that are unable to undergo colonoscopy, or Irritable Bowel
+Syndrome sufferers where optical colonoscopy is virtually worthless in its effectiveness because the colon is
+so inflamed.
+
+
+
+https://seekingalpha.com/user/18666962
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/user/18666962
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 48/67
+
+
+02 May 2014, 10:14 AM 
+
+
+PSalerno, Contributor
+NB has some point, as Cologuard will be succesful, because colonscopy for screening in low risk people is
+problematic, and FIT is less sensitive, but problem is price.
+
+
+02 May 2014, 10:19 AM 
+
+
+Energy-Trader
+ColoGuard outperformed FIT in the detection of Stage 1 and Stage 2 cancers by 94% to 70%.
+
+
+This significant performance difference for curable stage cancer, highlights the superiority of ColoGuard over
+the FIT test.
+
+
+02 May 2014, 11:28 AM 
+
+
+PSalerno, Contributor
+Last study published on March 19th showed 92% versus 73.8%. If FIT is performed every 2 years this
+outperformance becomes less relevant.
+
+
+02 May 2014, 12:22 PM 
+
+
+morlockx15
+The only way it will succeed is if it DOES replace a significant number of colonoscopies. If you think it will be
+successful as a screening test at 7-8 times the cost of FIT, you are delusional.
+
+
+02 May 2014, 02:25 PM 
+
+
+Energy-Trader
+You obviously do not even begin to understand how vastly SUPERIOR ColoGuard is to FIT. Just checking the
+AUC and ROC curves will tell you that. But my guess is that you don't even know what those are.
+
+
+08 May 2014, 07:19 PM 
+
+
+Energy-Trader
+Wrong again Salerno.
+
+
+08 May 2014, 07:19 PM 
+
+
+PSalerno, Contributor
+Energy- If you read the link you provided, you will understand that I am correct.
+
+
+09 May 2014, 01:26 AM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/14373022
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 49/67
+
+
+The problem is not Cologuard versus colonscopy, but Cologuard versus FIT. Cologuard is more sensitive (92% versus
+73.8%) but not enough to justify $4-500 payment compared to $23. If you perform FIT every 2 year you can even
+improve the result. There is no saving as if Cologuard is positive you have to perform a colonscopy in any case. Many
+do not go to colonscopy just for screening for the problems outlined, so where is the saving ?
+
+
+01 May 2014, 09:09 AM 
+
+
+defiance
+"if Cologuard is positive you have to perform a colonscopy"
+
+
+If Cologuard is negative, you do not have to perform a colonoscopy.
+
+
+01 May 2014, 12:03 PM 
+
+
+PSalerno, Contributor
+You do not have to perform a colonscopy if you are not at risk and Cologuard's priced at 4-500 is too much
+compared to 23 price of FIT. Not enough the few more cx detected to justify the expense, at least for the
+insurers. Individuals can do differently, but there is a limit to what insurers can pay. They pay PSA because it
+is cheap, not because it is useful.
+
+
+01 May 2014, 12:45 PM 
+
+
+allday
+One very important issue that NB MD alludes to -- colonoscopy has an appreciable mortality rate, and this is an
+extremely influential parameter in any decision analytic model that might be the basis for a cost-effectiveness
+analysis. (i.e. if you choose the low end of estimates you get very different incremental cost effectiveness ratios
+associated with your intervention). The estimates range from 0.003% to 0.02%. These are not "cheap" deaths either --
+they are often from sepsis after perforations, usually with preceding complicated surgical procedures. Cologuard itself,
+I suspect, has a direct attributable mortality rate approaching zero, except for the very rare "death via extremely large
+bowel movement."
+
+
+01 May 2014, 09:40 AM 
+
+
+PSalerno, Contributor
+Again: the error everybody is making is to compare Cologuard with colonscopy. 
+Cologuard must be compared with other fecal tests even for cost-effectiveness.
+
+
+01 May 2014, 09:50 AM 
+
+
+morlockx15
+I disagree somewhat. The only reason to embrace the cologuard test if it can reduce the number of
+colonocopies performed, or catch cancers early enough to have a net positive effect on costs. There is every
+indication that it won't.
+
+
+02 May 2014, 10:03 AM 
+
+
+
+https://seekingalpha.com/user/796049
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/6024811
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/14373022
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 50/67
+
+
+PSalerno, Contributor
+Colonscopies can be reduced even with FIT alone, but not much because people do not undergo to
+colonscopy easily if they have not problem. They will go to colonscopy only AFTER another less invasive test
+identified some problem. Now Cologuard is better than FIT for sensitivity, the problem is price. 4-500 dollars
+versus 23. And people should repeat the screaning test every 3 years (2 for FIT). Colonscopy for screening is
+suggested every 5-10 years, even one time in entire life, it depends on specific situations.
+
+
+02 May 2014, 10:15 AM 
+
+
+Energy-Trader
+You sound like you are completely oblivious to the fact that ColoGuard detects 69% of high-grade dysplasia,
+something that FIT is terribly poor at. Do you even know what HGD is?
+
+
+Are you aware that colonoscopy has great difficulty detecting sessile serrated polyps on the descending
+portion of the colon? Do you even know why that is?
+
+
+02 May 2014, 10:16 AM 
+
+
+PSalerno, Contributor
+Dysplasia and polyps are not cancer and do not require an urgent intervention, so people can repeat the FIT
+every 2 years and get results almost identical to cologuard performed every 3 years with a cost of $23 every 2
+years which is well below than 4-500 every 3 years. I do not think it is better, just that insurer will not pay that
+amount of money. Personally, as individual, I will pay something more to get cologuard, but the insurers think
+differently.
+
+
+02 May 2014, 10:26 AM 
+
+
+Energy-Trader
+Sorry Mr. Salerno but you do not have very good command of the facts regarding colon cancer.
+
+
+High Grade Dysplasia is a pre-cancer that is on the cusp of turning into full blown cancer. ColoGuard totally
+outperforms FIT in this category. The sensitivity by ColoGuard in the FDA clinical trial detecting HGD was
+69.2% while FIT was only 46.2%
+
+
+You might want to familiarize yourself with the facts here:
+
+
+http://1.usa.gov/1iLslzK
+
+
+02 May 2014, 11:36 AM 
+
+
+PSalerno, Contributor
+You confirmed what I said, that dysplasia is not cancer but pre-cancer.
+
+
+02 May 2014, 12:24 PM 
+
+
+Energy-Trader
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+http://1.usa.gov/1iLslzK
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 51/67
+
+
+Wrong. 
+You have no idea what you are talking about when it comes to HGD.
+
+
+You also have no idea what you are talking about when it comes to private payers. The insurers will be
+MANDATED to PAY for ColoGuard under the USPSTF.
+
+
+12 May 2014, 12:34 PM 
+
+
+PSalerno, Contributor
+I Know very well, as I was a surgeon and had to address that problem on a daily basis. 
+As for the reimbursement there is no indication that they will be mandated to pay $500. EXAS will be lucky to
+get $200.
+
+
+12 May 2014, 12:49 PM 
+
+
+Energy-Trader
+Again.... you have no idea what you are talking about.
+
+
+12 May 2014, 06:09 PM 
+
+
+Energy-Trader
+EXAS trading at $12.10 and Green. 
+Gravity Research and Whitney Tilson in epic fail mode again.
+
+
+01 May 2014, 11:06 AM 
+
+
+NB MD
+FIT is not in the picture no more now that cologuard is an option. I have never used FIT as a screening tool as the
+sensitivity is horrible for a screening tool, you will miss 1/4 of patients with CRC and you are catching cases too late.
+Cologuard improves in both these points in leaps and bounds and because of this, FIT will likely no longer be used or
+recommended.
+
+
+01 May 2014, 11:07 AM 
+
+
+PSalerno, Contributor
+NB- Recently FIT has improved and if made every 2 years instead of 3 it can miss significantly less than 1/4
+CRC. The price is important here: 23 versus 500. This is why the author is guessing a reimbursement of 100-
+150, in line with what I wrote in my comments months ago.
+
+
+01 May 2014, 11:21 AM 
+
+
+PSalerno, Contributor
+In my above comment I called for a short term upside to 14 (may be just 13), but long term I see a possible price
+below $2, may be $1.5. It depends on reimbursement. EXAS will be lucky to get $200-250. The company is burning
+cash 35-52M every year and always issuing new shares making their number double every 4 years. I invest in
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/18666962
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 52/67
+
+
+company rising free cash and buying back their shares, the exact contrary. Long should ask themselves why the
+company sold new shares BEFORE the reimbursement's amount was public.
+
+
+01 May 2014, 11:13 AM 
+
+
+Energy-Trader
+Why are you even here posting about a Company you have no interest in Salerno? Are you short?
+
+
+Name a single life science or biotech company that is in the pre-FDA approval phase that is generating free
+cash flow and buying back their own stock?
+
+
+You can't. 
+Because there is NONE.
+
+
+Which then begs the question, why are you even here commenting on a Company with your 157th post . . .
+that doesn't meet your investment parameters?
+
+
+01 May 2014, 12:30 PM 
+
+
+PSalerno, Contributor
+Currently I am not short, but probably will be pretty soon. Having time I could write an article about EXAS like
+I did with Amarin explaining their mistakes to the bull and why the stock crashed. It is easier to do after the
+stock crashed, but in the meantime I post comments on it like I did with Amarin.
+
+
+01 May 2014, 12:50 PM 
+
+
+vireo
+Why did EXAS sell new shares before the CMS decision? Because it's expensive to get a new blockbuster
+test on the market. Their plan to be ready for the launch requires significant investment in people and
+equipment. That they've increased their sales force is telling in its confidence, but that would have increased
+their burn rate into the red. Hence they issued now. 
+Let's see: 140 sales people visiting 6 doctors offices a day, for three months, and most offices are multi-doctor
+practices. That nets them exposure to north of 55k doctors, all of whom have already been identified,
+quantified, and now targeted. 
+Plus ads.
+
+
+01 May 2014, 01:21 PM 
+
+
+Energy-Trader
+You are wasting your time. 
+It's pretty clear that you haven't listened to a single quarterly conference call or investor conference
+presentation by the CEO. You have no idea what it requires to commercially launch a cancer screening test.
+
+
+01 May 2014, 01:23 PM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/24027453
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 53/67
+
+
+They have 133 M cash, so could have waited a little bit if they were confident about the reimbursement.
+Reality is they sold now to have a better price.
+
+
+01 May 2014, 02:20 PM 
+
+
+Energy-Trader
+The Reality is that you are wrong again kid. 
+For some reason, you can't even get the basics right.
+
+
+The company ended Q1 with $116 million and they raised $137.7 million on April 9th in a secondary offering.
+That adds up to $253.7 million.
+
+
+01 May 2014, 06:37 PM 
+
+
+PSalerno, Contributor
+No I am not wrong, I was speaking about the Q4 because that was the last data when the public offering was
+decided. At that time the compay had 133M cash, so it was not so urgent to get another 137.7 M.  
+The company decided to anticipate the sale because after the reimbursement they will get a worse price.. 
+I am already been here and I know how things work. May be other need more time to understand, like with
+Amarin.
+
+
+02 May 2014, 02:38 AM 
+
+
+Energy-Trader
+Wrong.
+
+
+In your earlier post, you indicated that EXAS had $133 million in cash. 
+You said nothing about that being a end of Q4 number. 
+Face it, you do not have a very good command of 
+basic fundamental facts.
+
+
+They have 253.7 million in cash. 
+Period.
+
+
+02 May 2014, 10:19 AM 
+
+
+PSalerno, Contributor
+I was talking BEFORE the new share issuance. Q1 results were released few days ago, so your
+understanding is very limited. My point was that EXAS issued new share BEFORE the decision related to
+reimbursement, because of fear the share could plummet, as it happened. At that time the cash was 133M. I
+DO NOT CARE WHAT THE CASH IS NOW: IT IS IRRELEVANT TO MY POINT.
+
+
+09 May 2014, 01:30 AM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 54/67
+
+
+With $133M cash they could have postponed the share offering until the reimbursement entity was declared,
+because 133M cash was more than enough for current expenditure. Instead they offered new shares before,
+fearing the stock could move down, like it did in fact. I hope now it is clear enough.
+
+
+09 May 2014, 01:55 AM 
+
+
+Energy-Trader
+Interestingly enough, the stock closed at $12.56 today after the quarterly conference call. +4.63%
+
+
+And for some strange reason, the stock was being "pushed down" to $10.80 and -$1.20 from the previous day's close
+. . . fifteen minutes before the Conference Call even STARTED.
+
+
+Gee, I wonder who did all of that selling? 
+Was it the "shorts" who were trying to "paint the tape" and make things look bad? 
+The stock immediately turned during the conference call and climbed all the way back up to as high as $12.79
+
+
+Another great "short" idea from Whitney Tilson and his friends? 
+What a joke these clowns are.
+
+
+01 May 2014, 06:48 PM 
+
+
+Energy-Trader
+Anyone interested in who Gravity Research is???
+
+
+Gravity Research has directly accused at least two major companies that they "cover" of wrongdoing. Avanir was
+accused of illegal off-label marketing of one of it's drugs. Montage Technology Group Ltd. was accused of grossly
+overstating it's revenue and using a shell company to fabricate financial results.
+
+
+Both accusations caused big temporary drops in each of the company's share price, but in neither case was the
+supposed "wrongdoing" ever established or even seriously pursued, in court or out.
+
+
+This caused one editor (Leo Sun at Investor Guide) to offer the following opinion of Gravity's analysis in a article
+entitled: "Are Investors Overreacting to Market Rumor about Avanir?"
+
+
+"But first, I urge investors to take this charge with a grain of salt. Gravity Research is an organization led by a former
+analyst at Muddy Waters, a firm best known for shorting Chinese companies and Silicon Valley startups. Both Gravity
+Research and Muddy Waters are not registered investment organizations — they are research firms which also hold
+short positions in the stocks that they cover. They often use investment blogging networks to spread their opinions
+across the Internet.
+
+
+Many analysts voiced their support of Avanir after Gravity Research’s article. Wedbush’s Greg Wade, who maintains
+his $8 price target on the stock, calls the article an obvious attempt at profiting from an already established short
+position."
+
+
+01 May 2014, 08:01 PM 
+
+
+PSalerno, Contributor
+May be you should focus more on the fact that the stock is down. We were correct and you were wrong.
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 55/67
+
+
+09 May 2014, 01:31 AM 
+
+
+Energy-Trader
+The stock was trading around $1.50 when the new management team came on board in April of 2009. They
+have executed their business plan with tremendous acumen. You have no idea what is in the "pipeline" with
+EXAS. Zero clue.
+
+
+12 May 2014, 12:36 PM 
+
+
+Energy-Trader
+This article is full of erroneous claims and outright lies.
+
+
+For example, anyone that has read the Deep C clinical trial data knows full well that the embedded FIT test in
+ColoGuard DID NOT ACCOUNT FOR 80% of the assays sensitivity performance. That is a flat out lie.
+
+
+12 May 2014, 12:39 PM 
+
+
+PSalerno, Contributor
+Unfortunately for you, you did not recommend the stock at 1.5, you recommended the stock above 14, and it went
+down !
+
+
+12 May 2014, 12:41 PM 
+
+
+Energy-Trader
+For anyone that is interested in an intellectually HONEST research article on EXAS, they should check-out today's
+Seeking Alpha article on EXAS by a gentleman named "Biotech Maven".
+
+
+He refutes the lies that Gravity Research published about EXAS on SA recently. 
+Step by step.
+
+
+12 May 2014, 07:57 PM 
+
+
+frank paxman
+Every colonoscopy carries risk. For significant portions of the population with pre-existing conditions, the risks are
+higher and, in some cases, difficult to overcome. A test that may provide reasonably accurate indications should be a
+welcome event.
+
+
+12 Aug 2014, 08:03 PM 
+
+
+Energy-Trader
+The false positive rate for Stage 1 and Stage 2 cancers is only about 6% with ColoGuard. Quite comparable to
+Colonoscopy.
+
+
+12 Aug 2014, 08:32 PM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/6508861
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 56/67
+
+
+But the false positive rate in total is 13%, quite high. This will led to unnecessaries colonscopies and costs.
+
+
+13 Aug 2014, 01:24 AM 
+
+
+Energy-Trader
+You are very ignorant. 
+Many of the false-positives were due to Colonoscopy missing pre-cancers.
+
+
+13 Aug 2014, 10:12 AM 
+
+
+PSalerno, Contributor
+These are not false positives. The false positives are when Cologuard detect a non existent lesion. This is an
+illation, not a scientific argument supported by fact.
+
+
+13 Aug 2014, 10:49 AM 
+
+
+Energy-Trader
+The false positives in ColoGuard were from other "cancers" in the GI tract. This is a scientific FACT.
+
+
+13 Aug 2014, 04:11 PM 
+
+
+PSalerno, Contributor
+You are somewhat confused. The false positives were 13%. This means an equal amount of unnecessary
+colonscopies. The insurers will pay for Cologuard and then ALSO for colonscopy without any necessity. A
+waste of money only slightly compensated by some sving in therapies, because this people will die anyway if
+not for colon cancer for other cancers or will face other costly illnesses like Alzheimer few years later. The
+spending will be delayed but the system will spend more, not less.
+
+
+13 Aug 2014, 04:22 PM 
+
+
+Energy-Trader
+You obviously have been far too LAZY to read the FDA Clinical Trial "Deep C", which clearly stated that False
+Positives of those people who had "clean" colons was 10%.
+
+
+Again, Medicare spends over $14 BILLION annually on people that are dying of colon cancer. 50,000 people
+are still DYING every year even with colonoscopy as a screening diagnostic.
+
+
+Why are they still dying??? 
+Why is CMS spending over $14 Billion annually on colon cancer victims?
+
+
+13 Aug 2014, 04:42 PM 
+
+
+PSalerno, Contributor
+Deep C or clean colons patients is just one condition, but it is not always the case. What matters here is the
+total and the total is 13%. 
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 57/67
+
+
+Additionally these 50,000 people will not become immortals with cologuard, they will get another illness later,
+so medicare will spend more. To save money you should make the people die as sooner as possible.
+
+
+14 Aug 2014, 02:23 AM 
+
+
+PSalerno, Contributor
+It is ironical, but true, as the analysis and therapies cost money. Also assuming Cologuard will cost $500,
+imagin that you should spend similar amount of money every 3 years for testing other frequent pathologies:
+There are at least 5-6 as frequent. This will cost $7-800 every year per person. Then you have to pay for
+therapies. I don't think it is possible.
+
+
+14 Aug 2014, 11:04 AM 
+
+
+Energy-Trader
+When you see SA allow a comment such as the one above to stand (specifically the last sentence) even after
+it has been "flagged" for being offensive.... that's really all that you need to know about SA.
+
+
+15 Aug 2014, 10:17 AM 
+
+
+PSalerno, Contributor
+It is not offensive, it is a paradox, but the concept is that healthcare costs money, and the money is limited so
+it should be deployed with wisdom. The goal is not to save money, but to improve the health with a budget
+that is not infinite.
+
+
+15 Aug 2014, 12:35 PM 
+
+
+Energy-Trader
+Like I have consistently maintained, you ignore the $14 Billion annually that CMS spends on colon cancer
+patients. And that data is from 2011. Without any increased screening, that number will surely climb towards
+$20 Billion within a couple of years.... given the aging population of the US and the fact that 4 million
+Americans turn 50 every year for the next 15 years.
+
+
+You obviously have a very poor command of how much this terrible disease impacts CMS. It is without a
+doubt, the easiest cancer to treat and prevent. Yet, the least screened.
+
+
+The current screening tests obviously aren't working. 
+If they were, CMS wouldn't be spending over $14 BILLION PER YEAR!
+
+
+16 Aug 2014, 02:00 PM 
+
+
+yogabagaba
+Reading your posts is painful. Ironical?
+
+
+the ironic thing is that myopic individuals such as yourself don't comprehend that the all-in cost of treating GI
+cancers is much more expensive that a screening test, and as this test becomes more and more effective and
+finds more and more cancer and especially precancer, the ever increasing cost of cancer on this country will
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/11245961
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 58/67
+
+
+be reduced as a result. you make the opposite argument of what facts and logic lead me to conclude. last
+response to you and I look forward to seeing you fade to black.
+
+
+16 Aug 2014, 06:17 PM 
+
+
+PSalerno, Contributor
+I keep my opinion that any supposed saving is delusional because, even if the CRC will fade, the patients will
+have other kinds of tumors or illnesses. CMS will spend more money for CRC prevention and as results for
+other therapies. People will keep dying, they will not become immortal because of Cologuard.
+
+
+18 Aug 2014, 01:18 AM 
+
+
+Energy-Trader
+Being from a small Eastern European country where the healthcare system is terribly poor, you obviously
+have great difficulty in understanding the American Healthcare System here in the USA.
+
+
+CMS spends well over $14 BILLION ANNUALLY treating colon cancer.
+
+
+Cologuard will help cut that expense by getting more people screened, when Stage 1 and Stage 2 cancers
+can be easily identified via Cologuard and eradicated via colonoscopy. This will undoubtedly save CMS the
+average $300,000 that a typical Stage 4 patient winds up costing them.
+
+
+20 Aug 2014, 10:23 AM 
+
+
+PSalerno, Contributor
+I do not know the healthcare system in eastern Europe, I know better the healthcare system in Italy and in
+USA. None system is perfect, even in USA there are many mistakes. I keep my opinion that there will be no
+saving because for every deadly CRC avoided there will be another additional deadly illness which would not
+materialize if the patient had died for CRC. There is also the additional cost of the tests. May be the US
+system will pay more, but the insurers will need to ask additional money to cover the patient and the salaries
+for the low to middle income people will not allow such costs.
+
+
+20 Aug 2014, 12:36 PM 
+
+
+Energy-Trader
+My guess is that the clowns that you have named aren't even short EXAS anymore. They are long gone after their
+"hit" piece of last year.
+
+
+12 Aug 2014, 08:33 PM 
+
+
+Energy-Trader
+Looks like Gravity Research and all of their erroneous claims and flat-out LIES were wrong, given that CMS issued a
+National Coverage Determination for Cologuard yesterday. These clowns should be sued for libel and misleading
+"noob" investors.
+
+
+http://bit.ly/1r7IqKW
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+http://bit.ly/1r7IqKW
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 59/67
+
+
+12 Aug 2014, 08:41 PM 
+
+
+Keubiko, Contributor
+>>Looks like Gravity Research and all of their erroneous claims and flat-out LIES were wrong, given that
+CMS issued a National Coverage Determination for Cologuard yesterday. These clowns should be sued for
+libel and misleading "noob" investors.<<
+
+
+You should actually read the article. Gravity predicted the CMS determination.
+
+
+The core issue is around the reimbursement rate. That is TBD, no?
+
+
+13 Aug 2014, 10:34 AM 
+
+
+Energy-Trader
+Your reading comprehension is poor. 
+You need to re-read their article. They explicitly stated on Page #2 of their report that:
+
+
+"The genetic tests EXAS uses within Cologuard (KRAS, NDRG4, and BMP3) are not new or novel, and CMS
+is not permitted to reimburse for any of those tests individually as screens for colorectal cancer."
+
+
+13 Aug 2014, 04:17 PM 
+
+
+Keubiko, Contributor
+>>Your reading comprehension is poor.<<
+
+
+Perhaps, but yours is even poorer, apparently.
+
+
+The issue is setting the reimbursement rate for Cologuard.
+
+
+Gravity's argument is that the DNA testing portion of Cologuard is not reimbursable, but the Fecal
+Immunochemical Test (FIT) is. Hence CMS will reimburse but not for the genetic screening portion, which
+makes up the bulk of the pricing.
+
+
+How it shakes out is TBD but you are dead wrong in your comprehension.
+
+
+13 Aug 2014, 04:42 PM 
+
+
+yogabagaba
+If you listened to today's call, you would know how dead wrong you and MicroGravity are.
+
+
+13 Aug 2014, 08:58 PM 
+
+
+yogabagaba
+In fact, if you think through what you just said logically, it is incredibly asinine. It absolutely defies logic.
+
+
+If the 25 million shares & 30% of the float sold short have based their thesis on this baffling idea, I feel bad for
+their clients to have entrusted their money to such incompetent managers.
+
+
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/symbol/fit
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/user/11245961
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 60/67
+
+
+To think that the FDA & CMS invited this company to participate in a new pilot parallel review program, just
+released a presser lauding the program's success, improving the verbiage of the label over what the company
+presented to the advisory commitee, and expanding the appropriate screening age to beyond what is
+recommended for colonoscopy (85 for Cologuard versus 80 for scope), only to then bankrupt the company by
+reimbursing at a level that makes the test unprofitable, in the face of 
+mounting evidence that this fledgling molecular diagnostics platform may one day screen and typify cancers
+and precancers throughout the GI tract..... is truly incredible.
+
+
+Good luck to you with that sort of due diligence.
+
+
+13 Aug 2014, 10:47 PM 
+
+
+PSalerno, Contributor
+I disagree here with Gravity, as genetic screening portion is reimbursable, but not to the extent EXAS is
+looking for. 100-150 is too low, I am forecasting more than 200, but less than 300 USD. Of course it is just my
+assumption and can be wrong, because it is not up to me to make a decision.
+
+
+14 Aug 2014, 02:32 AM 
+
+
+Energy-Trader
+You just don't get why Gravity Researchs' claims are bogus. 
+Their knowledge base in regards to CMS is terribly poor.
+
+
+You seem to be totally oblivious to the CMS "Clinical Lab Fee Schedule" Meeting in early July in which 16
+companies presented their CROSS-WALK methodology that was the basis for their pricing requests.
+
+
+You also seem to be totally unaware of the FACT that CMS has already issued new test codes for CY-2015
+on June 9th of this year.
+
+
+http://bit.ly/1pPsBVl
+
+
+Feel free to scroll down to the end of the document. 
+There, you will clearly see that there is a "G" code already assigned to ColoGuard . . . AND INCLUDES the 2
+DNA methylation markers, NDRG4 and BMP3.
+
+
+Gravity Research has no idea what they are talking about. 
+It's funny to see someone like yourself defend them. 
+:)
+
+
+14 Aug 2014, 10:04 AM 
+
+
+PSalerno, Contributor
+Actually you have some problem with english language. I do not defend GR in this point. I wrote I disagree
+with GR and my forecast is also higher for a reimbursement of up to $300. But of course the payers can
+decide for higher reimbursement, it is just my forecast.
+
+
+14 Aug 2014, 11:09 AM 
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+http://bit.ly/1pPsBVl
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 61/67
+
+
+Energy-Trader
+I couldn't care less what you think.
+
+
+wasn't replying to you. 
+I was replying to "Keubiko"
+
+
+14 Aug 2014, 11:24 PM 
+
+
+PSalerno, Contributor
+If you don't care why are you arguing with me in so many comments ?  
+Most of your comments are directed to me.
+
+
+15 Aug 2014, 12:54 AM 
+
+
+Energy-Trader
+What is it about a CMS National Coverage Determination being made on Cologuard on August 11th that you
+don't understand???
+
+
+The entire assay of Cologuard is being covered by Medicare (NYSE:CMS). 
+Do you actually think that CMS would invite EXAS into a pilot program of parallel review with the FDA and
+NOT reimbursing for BMP3 and NDRG4?
+
+
+Really ???
+
+
+30 Aug 2014, 03:18 PM 
+
+
+PSalerno, Contributor
+I have no doubt that CMS will reimburse the test, problem is how much.
+
+
+30 Aug 2014, 04:55 PM 
+
+
+PSalerno, Contributor
+Yogabagaba - The timing of this article was bad, but EXAS went from 15.50in March to 10.70 in May, losing 50% of
+value. I shorted 2 times with profit since July 8th. The stock is trading on expectation, not on results, so anything is
+possible. There are many points in this article that are weak or even wrong, but my short thesis is based simply on an
+overstatement of TAM and understatement of risks by the bulls. Yesterday was another good entry point for shorts,
+but this time I missed as I was waiting for an higher price.
+
+
+13 Aug 2014, 01:22 AM 
+
+
+yogabagaba
+Do what you want buddy, I could care less. If you think you're clever timing the short side in a stock that has
+gained 4000% in 5 years, who am I to argue with such a genius.
+
+
+But management has delivered as expected on every point all down the line. I will be holding for years, and
+Exact Sciences will become the king of molecular diagnostics cancer screening. Mark my words.
+
+
+13 Aug 2014, 07:58 AM 
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/symbol/cms
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/11245961
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 62/67
+
+
+PSalerno, Contributor
+The stock fell from 18 level in the 5 years before gaining again the 19 level, so yes you can make money from
+the long side and from the short side as well. The important thing is timing, where I am quite succesful.  
+Now the stock went up without any revenue. They have still to sell the only product they have. The stock is
+vulnerable even if the product is good and promising. This stock is for trading not a long term holding.
+
+
+13 Aug 2014, 08:24 AM 
+
+
+Energy-Trader
+99% of your posts about EXAS have been totally wrong. 
+The stock rallied from $11 in May to over $19 yesterday for a +70% move and all you have done over the last
+several months is "bash" the Company.
+
+
+Congrats.
+
+
+13 Aug 2014, 10:10 AM 
+
+
+Energy-Trader
+You should stop commenting about the Molecular Diagnostics sector. 
+You have proven that you know absolutely NOTHING about these companies.
+
+
+13 Aug 2014, 10:11 AM 
+
+
+PSalerno, Contributor
+I WAS 100% CORRECT.  
+I understand and trade MOSTLY the molecular diagnostic sector as you can see from my articles about
+MYGN and my comments about biotech stocks. 
+The stock was a nice short above 15 in March with a target below 12, hit in May and again above 17 in June
+with a target around 15 hit in July. It is a tactical short for the reason I have explained many times.  
+Shorting is all about timing as there is a cost associated and this stock is volatile.
+
+
+13 Aug 2014, 10:43 AM 
+
+
+Energy-Trader
+Yawn.
+
+
+13 Aug 2014, 04:18 PM 
+
+
+yogabagaba
+Well MicroGravity Research petitioned for my post to be deleted, so I will say it in a more friendly manner acceptable
+to the highly discerning editors of Seeking Alpha.
+
+
+Let the record show, that these analysts have a terrible track record, and are frankly undeserving of that title. They are
+ignorant, to say the least.
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/11245961
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 63/67
+
+
+Their opening topical thesis of their report was so ignorant as to be laughable. They stated that Medicare Could Not
+reimburse for this test by law. Clearly, they were wrong. Pathetically so.
+
+
+Within a month, the rest of their analysis will be blown to smithereens and by all rights they will be the laughing stock
+of the anonymous analyst 'community'
+
+
+Lets take a look at the rest of their Stellar Research:
+
+
+Raptor Pharmaceuticals: Recommended short in Aug 2013 @ 12.72, target less than $4. Stock promptly went to
+$17.75, before some disappointment in March 2014 caused a sell off to $7.25, now on the upswing over raised
+guidance of their drug procysbi. Traded $11.25 today.
+
+
+Avanir Pharmaceuticals: Recommended short in Sept 2013 @ $5.53. This report can likely be held solely responsible
+for a steep and prolonged sell off of this stock. However, the stock has fully recovered and closed today at $5.65.
+Oops.
+
+
+Montage Technologies: Recommended short in February @ $21.21. Completely responsible for a massive sell off of
+this China based company, which are obviously highly susceptible to short FUD as there are many scammy
+companies. Stock has completely came back and closed at $21.37, with a buyout of $22.60 in the works.
+
+
+And finally Exact Sciences. Short at $11.96. Topical thesis, that medicare cannot cover the test by law. $17.55 last.
+
+
+Have you no shame in your anonymous game?
+
+
+13 Aug 2014, 08:40 PM 
+
+
+Energy-Trader
+These Clowns at "Gravity Cavity" recommended shorting EXAS at $11.96
+
+
+EXAS traded at $19.85 today.
+
+
+20 Aug 2014, 03:32 PM 
+
+
+Energy-Trader
+ALL TRUE!
+
+
+Gravity Research has a terrible track record. 
+If you are in the business of losing money, follow their recommendations.
+
+
+14 Aug 2014, 09:55 AM 
+
+
+yogabagaba
+If Microgravity were a publically traded company, Alfred Little would short them. :)
+
+
+15 Aug 2014, 08:10 AM 
+
+
+Energy-Trader
+It's downright mind-boggling that anyone (Gravity Cavity) would claim that CMS would NOT reimburse EXAS for DNA
+methylation markers after inviting EXAS to participate in a parallel-review pilot program for simultaneous FDA/CMS
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/user/331727
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 64/67
+
+
+approval.
+
+
+Mind-boggling.
+
+
+15 Aug 2014, 10:05 AM 
+
+
+Energy-Trader
+This has got to be one of the worst research pieces ever written and published about EXAS. The stock traded as high
+as $21.45 earlier this morning and is nearly +80% since Gravity Research posted this article back in April.
+
+
+I hope that unsuspecting "noobs" didn't get burned by such "research".
+
+
+25 Aug 2014, 12:51 PM 
+
+
+Msg212
+Gravity -
+
+
+I would just like to know if you guys are shorting more or covered given the near doubling of the stock since your
+article came out? And if any of the material presented to investors and the medical community over the last few
+months has changed your minds regarding your short thesis. Thanks.
+
+
+Disclosure: I am long EXAS.
+
+
+27 Aug 2014, 01:46 PM 
+
+
+Energy-Trader
+The stock closed at $22.20 today 
+New Highs and +108% since the May low at 10.69
+
+
+27 Aug 2014, 07:50 PM 
+
+
+PSalerno, Contributor
+You are a permabull and did not recommend to take profit before the last 70% correction. You will miss again
+the next correction, so your comments are useless.
+
+
+28 Aug 2014, 02:06 AM 
+
+
+Energy-Trader
+You are NOT a professional trader.
+
+
+That is quite obvious . . . given that you spent every single day on Seeking Alpha posting negative comments
+about EXAS while it rallied +108% since May.
+
+
+LMAO!
+
+
+28 Aug 2014, 10:28 AM 
+
+
+PSalerno, Contributor
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/165654
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 65/67
+
+
+My negative comments were not addressed to the stock price, but to the potential revenue, and the proof is
+that I did not say I was short, I said to have covered last time at 15, because the stock could move higher.
+Probably I will short again later.
+
+
+28 Aug 2014, 04:42 PM 
+
+
+Energy-Trader
+FACT: You have never shorted the shares of EXAS.
+
+
+29 Aug 2014, 10:04 AM 
+
+
+Keubiko, Contributor
+"Energy-Trader",
+
+
+With all due respect your posts on this matter are repetitive and add absolutely nothing to the discussion. I
+suggest if you insist on badgering someone on irrelevant matters that you do so via private messages.
+Nobody cares about this drivel.
+
+
+29 Aug 2014, 05:52 PM 
+
+
+Energy-Trader
+Speaking of drivel....You, Salerno, and Gravity Research have proven to be totally WRONG.
+
+
+Try posting something factual about the Company, instead of operating from a poor knowledge base about
+what CMS does, and doesn't cover.
+
+
+30 Aug 2014, 03:15 PM 
+
+
+Energy-Trader
+Right.
+
+
+Irrelevant matters such as the FACT that CMS authorized a "G" code for the Cologuard assay on June 9th of
+this year:
+
+
+http://go.cms.gov/1pPsBVl
+
+
+And approved Cologuard for a National Coverage Determination on August 11th:
+
+
+http://go.cms.gov/1r7IqKW
+
+
+You aren't very good with the FACTS or reading comprehension, are you?
+
+
+30 Aug 2014, 03:46 PM 
+
+
+PSalerno, Contributor
+On the contrary, I am very very glad that my take on this stock was correct, as I covered my short position 2
+times with profit, predicting that the stock could go higher, above 20.
+
+
+30 Aug 2014, 04:59 PM 
+
+
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/331727
+
+http://go.cms.gov/1pPsBVl
+
+http://go.cms.gov/1r7IqKW
+
+https://seekingalpha.com/author/psalerno
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 66/67
+
+
+PSalerno, Contributor
+Do not understand what are you trying to say, things came out as predicted, this is why I covered my short
+position on July the 8th.
+
+
+30 Aug 2014, 05:02 PM 
+
+
+PSalerno, Contributor
+108% in 4 months is less than 112.5% in 3 months I booked with MYGN.
+
+
+28 Aug 2014, 01:46 AM 
+
+
+PSalerno, Contributor
+I did even better than you said. My entry point was below the low at 20.02, and my exit point was above the high
+at42.50
+
+
+28 Aug 2014, 04:44 PM 
+
+
+Upbeat
+When the speculation ends and reality arrives...in this case in the form of the Medicare/Medicaid decision, I like to
+look back to see "who said what" and factor them into my credibility quotient. When someone uses the name "Gravity
+Research" it suggests they lean to stocks going down...a bias. 
+So in future, when I see a call by "Gravity Research" I will know that I need to filter in that bias to the downside.
+
+
+10 Oct 2014, 12:50 PM 
+
+
+Energy-Trader
+Let's face it.....Gravity Research posted all sort of completely erroneous claims and bogus information. They
+were 100% WRONG about every point that they were trying to make in their short recommendation on
+EXAS.... from claiming that CMS could not cover Cologuard, to claiming that a reimbursement price would not
+be anything over $200.
+
+
+The stock is +100% since they recommended going short back in April.
+
+
+10 Oct 2014, 03:10 PM 
+
+
+FastEdMich
+And what about that whole series of drivel posted on SA last year that caused the stock to go down? Wonder if SEC
+got involved in that BS.
+
+
+11 Oct 2014, 07:45 AM 
+
+
+FastEdMich
+Alpha exposure...
+
+
+11 Oct 2014, 07:48 AM 
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/456901
+
+https://seekingalpha.com/user/331727
+
+https://seekingalpha.com/user/3635131
+
+https://seekingalpha.com/user/3635131
+5/20/2018 EXAS: Testing Negative For Future Revenue - EXACT Sciences Corporation (NASDAQ:EXAS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2177413-exas-testing-negative-for-future-revenue 67/67
+
+
+yogabagaba
+Hey Micro Gravity "Research" isn't it time to pack up the bags? So wrong... so terribly wrong.
+
+
+11 Oct 2014, 04:04 PM 
+
+
+yogabagaba
+I still like to come back to this article when I need a good laugh.
+
+
+So I laugh, but then I feel kind of sad for all the suckers this guy probably sucked in with his pseudo-knowledge and
+presentation. Don't look behind the anonymous curtain folks... keep your eye on the shiny title..
+
+
+28 Oct 2014, 09:18 PM 
+
+
+Energy-Trader
+EXAS closed at a new All-Time high today of $28.16 
+Gravity Research was totally wrong.
+
+
+05 Dec 2014, 06:07 PM 
+
+
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/user/11245961
+
+https://seekingalpha.com/user/331727

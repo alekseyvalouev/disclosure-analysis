@@ -1,0 +1,945 @@
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 1/16
+
+
+Qihoo 360 Fakes A Microsoft Security Patch
+Aug. 14, 2012 10:46 PM ET20 comments
+by: Matt Berry
+
+
+Qihoo 360 Technology Co. Ltd (NYSE:QIHU) has been in the news. Let's just dive right
+into the latest Qihoo scandal in China. News title:
+
+
+"Qihoo 360 falsely reports loopholes in the Windows system to force the
+installation of their 360 browser."
+
+
+(The above was professionally translated and will be cited throughout this article as
+"Qihoo 360 Falsely Reports." Originals are here; you can read them in the Google
+translator, for example here. 8/1/2012)"
+
+
+Here's what happened:
+
+
+"There have been users who have posted screenshots online which show the 360
+Security Defender wrongly detecting holes in the Windows system and thereby
+recommending users to install an upgrade patch."
+
+
+"After the upgrading is completed, only then do they realise the 'patch' is the 360
+browser. It is understood that the user patch from the 360 Security Defender,
+allegedly supposed to fix loopholes in the Windows system, immediately transforms
+itself into the 360 browser upon installation of the patch." (Qihoo 360 Falsely
+Reports)
+
+
+Now, here's a screenshot that accompanied one of the many articles (I added the Google
+translator and the orange lines to highlight the key points. By the way, of the screenshots I
+found, this was the one with the best resolution: you can find it here, click the image to
+enlarge it.)
+
+
+
+https://seekingalpha.com/symbol/QIHU
+
+https://seekingalpha.com/instablog/582827-matt-berry/921211-qihoo-360-a-victim-of-a-smear-campaign-or-an-aggressor-caught-red-handed-or-both
+
+https://www.google.com/search?hl=en&safe=off&site=&source=hp&q=%22%E5%A5%87%E8%99%8E360%E8%B0%8E%E6%8A%A5Windows%E7%B3%BB%E7%BB%9F%E6%BC%8F%E6%B4%9E+%E5%BC%BA%E5%88%B6%E5%AE%89%E8%A3%85360%E6%B5%8F%E8%A7%88%E5%99%A8%22&oq=%22%E5%A5%87%E8%99%8E360%E8%B0%8E%E6%8A%A5Windows%E7%B3%BB%E7%BB%9F%E6%BC%8F%E6%B4%9E+%E5%BC%BA%E5%88%B6%E5%AE%89%E8%A3%85360%E6%B5%8F%E8%A7%88%E5%99%A8%22&gs_l=hp.3...934.4439.0.4729.3.3.0.0.0.0.40.112.3.3.0.les%3B..0.0...1c.AkEzv4a81tQ
+
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.21xc.com%2FArticle%2FShowArticle.asp%3FArticleID%3D220722
+
+http://news.mydrivers.com/1/236/236409.htm
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 2/16
+
+
+I've experienced the proof firsthand. Upon reading online blogs and articles, I found URLs
+to the patch(es) and was able to download them from Qihoo's official site. As of this writing
+I am still able to download them. I introduce them here, with the warning that the company
+has been accused of malware in the past. Here are the links.
+
+
+http://dlleak6.360safe.com/leak/ty/Windows-KB360018-v4-x86.exe
+http://dlleak.360safe.com/leak/ty/Windows-KB360018-v7-x86.exe
+
+
+It is possible that the files will be removed and/or the access blocked upon the publication
+of this article. Again, I'm not recommending the files. I only present them as evidence of
+the counterfeiting.
+
+
+Take a quick look. Which files are from Microsoft Corp. (NASDAQ:MSFT) and which are
+from Qihoo 360 ?
+
+
+
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.rising.com.cn%2Fabout%2Fnews%2Frising%2F2010-02-02%2F6617.html
+
+http://dlleak6.360safe.com/leak/ty/Windows-KB360018-v4-x86.exe
+
+http://dlleak.360safe.com/leak/ty/Windows-KB360018-v7-x86.exe
+
+https://seekingalpha.com/symbol/MSFT
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449195737971458-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 3/16
+
+
+All of them were downloaded from Qihoo's 360safe.com, AKA, 360.cn ‒ and all of them
+were made by Qihoo 360.
+
+
+(To see this System Explorer page click here.)
+
+
+In the image below, you can see that the icon on the left is a short-cut to Qihoo's browser;
+the icon in the middle is a short-cut to Microsoft's browser; and the last icon is Qihoo's
+counterfeit Microsoft "security patch." Note how there is much more similarity to
+Microsoft's icon than to Qihoo's.
+
+
+Besides using Microsoft's Icon and color, Qihoo's fake patch also takes advantage of file
+naming convention.
+
+
+"According to evidence from the users, the 360 browser upon downloading as a
+patch changes its name to 'Windows-KB360018-v7-x86.exe,' which is markedly
+similar to actual Microsoft patches in name. "(Qihoo 360 Falsely Reports)
+
+
+Here's what they mean. Of the two filenames below the first is Qihoo's and the second is
+Microsoft's (found here):
+
+
+
+http://systemexplorer.net/filereviews.php?fid=12521841&sei=1
+
+http://www.microsoft.com/en-us/download/details.aspx?id=16
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-1344919829684722-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 4/16
+
+
+"Windows" of course refers to Microsoft's most famous product and "KB" stands for
+"Knowledge Base." A user is supposed to be able to go to Microsoft's Knowledge Base,
+access the reference number, and get more information.
+
+
+I invite the reader to try to find Windows KB360018. Now, if there is no KB360018 entry in
+Microsoft's knowledge base, then Qihoo 360 has no other reason for referencing
+"Windows" in the filename other than to further a user's natural expectation that the
+software comes from the trusted source, Microsoft.
+
+
+Let's go back to the Qihoo Security Guards screenshot. You may have noticed that there
+were other hotfixes listed. One had a KB reference number, 2728973. You can actually go
+to Microsoft's website and look that KB reference number up.
+
+
+I did just that. Now, either somebody on Qihoo's team has a great sense of humor or
+Qihoo's listed hotfixes have an ironic coincidence. The KB2728973 reference for the patch
+next to the fake one reads: "Microsoft Security Advisory: Unauthorized digital certificates
+could allow spoofing." A Microsoft warning about "spoofing" next to a fake Microsoft hotfix!
+
+
+See illustration, or click here to go to Microsoft's Knowledge Base #2728973.
+
+
+OK then, with common sense certainty we know that Qihoo faked a Microsoft patch. And
+understandably, some users were confused. Here's a comment found on the official Qihoo
+360 BBS, run through the translator.
+
+
+
+http://support.microsoft.com/kb/2728973
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449201514131026-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 5/16
+
+
+(Original, here.)
+
+
+Qihoo's tactics were exposed and spread through the blogosphere.
+
+
+"Recently, Qihoo 360 has once again been exposed for malicious and deceptive
+fraud against users, and this has sparked widespread backlash in the blogging
+scene." (Qihoo 360 Falsely Reports)
+
+
+This next piece was found on Weibo's ultra-popular micro-blogging site (run through
+Google's translator):
+
+
+These sorts of blogs are abundant, see some of them here. As you can see in the above
+Weibo "micro-blog," and in others, screen shots were popular. See a very popular series
+of screenshots, here. Many were also widely distributed in the press.
+
+
+Someone even made a video of the "hotfix" installation process: here.
+
+
+
+http://bbs.360.cn/3229787/254610290.html
+
+http://s.weibo.com/weibo/360018?topnav=1%26wvr=3.6%26k=1
+
+http://ww2.sinaimg.cn/large/7428daf6gw1dvg4xekw68j.jpg
+
+http://v.qq.com/boke/page/y/8/i/y010208ss8i.html
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449203724599452-Matt-Berry_origin.jpg
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-1344945076196494-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 6/16
+
+
+I wonder how many novice users thought they not only installed a Microsoft patch but
+actually thought they also had a new upgraded Microsoft browser?!
+
+
+(Internet Explorer and Qihoo Browser Icons.)
+
+
+What does Microsoft think about all this? News reports in China said that Microsoft was
+investigating the matter, but did not have any comments at this time. (Originals, here;
+Google Translator, here) Here's a community response on answers.microsoft.com. The
+original was in Chinese, I had it professionally translated.
+
+
+"As you may have already heard from the news, the recently released update for the
+"360 Browser" has fraudulently been released in Microsoft's name by 360, and is not
+actually a patch from Microsoft. This matter is currently under investigation."
+(Original is here.)
+
+
+Or perhaps there is a special arrangement between Qihoo and Microsoft for the transition
+from IE6?
+
+
+There is an interview online where someone named Huan Ren, said to be a Qihoo 360
+employee, was quoted as saying:
+
+
+"… in particular Qihoo 360 has a partnership with Microsoft that upgrades the default
+browser on Windows XP from IE6 to IE8." (Already translated, here)
+
+
+But if so, why wouldn't the file properties and digital signature involve Microsoft's name
+alongside Qihoo's? And why would the icon look like a cheap screenshot?
+
+
+
+http://www.baidu.com/s?ie=utf-8&bs=%E5%BE%AE%E8%BD%AF%E8%A1%A5%E4%B8%81%E5%A5%87%E8%99%8E%E8%B0%83%E6%9F%A5&f=8&rsv_bp=1&wd=360%E5%81%87%E5%86%92%E5%8F%91%E5%B8%83%E7%B3%BB%E7%BB%9F%E8%A1%A5%E4%B8%81%E5%BE%AE%E8%BD%AF%E5%AE%98%E6%96%B9%E6%88%96%E5%B0%86%E4
+
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26bs%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E8%25A1%25A5%25E4%25B8%2581%25E5%25A5%2587%25E8%2599%258E%25E8%25B0%2583%25E6%259F%25A5%26f%3D8%26rsv_bp%3D1%26wd%3D360%25E5%2581%2587%25E5%2586%2592%25E5%258F%2591%25E5%25B8%2583%25E7%25B3%25BB%25E7%25BB%259F%25E8%25A1%25A5%25E4%25B8%2581%25E5%25BE%25AE%25E8%25BD%25AF%25E5%25AE%2598%25E6%2596%25B9%25E6%2588%2596%25E5%25B0%2586%25E4
+
+http://answers.microsoft.com/zh-hans/windows/forum/windows_7-security/kb360018/6783d064-5ee9-42fe-9265-aa8aa013aa77
+
+https://www.google.com/search?hl=en&safe=off&site=&source=hp&q=huan+ren+qihoo+360&oq=huan+ren+qihoo+360&gs_l=hp.3...796.4823.0.5157.18.18.0.0.0.0.132.1437.14j4.18.0.les%3B..0.0...1c.h8iwyUygsL8
+
+http://www.w3.org/QA/2012/06/interview_huawei_maxthon_qihoo.html
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 7/16
+
+
+The point we need to make here is that if a Hacker wanted to borrow the credibility of
+Microsoft to get his users to convert from the IE6 to his own browser, why not 1) copy the
+Microsoft icon and the 2) filename conventions (complete with Knowledge Base reference)
+and then take another important step: 3) scare the users. Tell them that they're in a high
+risk situation.
+
+
+Here's an excerpt from an article published on Zdnet.com.cn. This one is translated by
+Google:
+
+
+"360 security guards to remind the user's computer a 'high-risk vulnerabilities need
+to install a named KB360018' IE6 kernel upgrade patch 'Special Note' Do not stop to
+repair. Users follow the prompts to upgrade, it will force the installation of the 360's
+security browser. " (Original, here; Google Translated, here.)
+
+
+A novice user wouldn't know the difference either way and a knowledgeable user would
+expect a Microsoft "patch" to contrast with Qihoo's look and feel ‒ which this one did. (Of
+course, reports tell us that this wasn't a patch at all but a conversion from Microsoft's to
+Qihoo's browser).
+
+
+This next micro-blog appeared just before the scandal entered the mainstream media:
+
+
+(Google translated.)
+
+
+
+http://security.zdnet.com.cn/security_zone/2012/0802/2104517.shtml
+
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fsecurity.zdnet.com.cn%2Fsecurity_zone%2F2012%2F0802%2F2104517.shtml
+
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449213624878082-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 8/16
+
+
+"Hooligan?" I think US investors are the last to learn. This kind of association with Qihoo is
+nothing new to the Chinese reader.
+
+
+"Previously, incidents where users were forced to install software which
+subsequently modified the registry such that it cannot be deleted were fairly
+common. A classic example would be Qihoo 360's predecessor, 3721, for which Mr
+Zhou Hong Yi has thereby been called the 'Father of rogue software'. (Qihoo 360
+Falsely Reports)
+
+
+In fact if you just do a raw search for "The father of rogue software" (That is, don't even
+mention Qihoo or the CEO) you come up with … the CEO of Qihoo. Search here. ("The
+father of rogue software" = "流氓软件之父". Check the translation here.)
+
+
+But faking a patch is nothing new to US readers either.
+
+
+(here)
+
+
+As Microsoft warns us,
+
+
+"Rogue security software might also attempt to spoof the Microsoft security update
+process." (here)
+
+
+Here's an article with another KB-fake:
+
+
+"Have you received an email seemingly from Microsoft's security team telling you to
+"Update your Windows"? Have you been sent a file called KB453396-ENU.zip and
+told to run it on your Windows computer?" ~ Fake Microsoft security update spreads
+Autorun worm
+
+
+As for forcing out rivals,
+
+
+
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D%25C1%25F7%25C3%25A5%25C8%25ED%25BC%25FE%25D6%25AE%25B8%25B8%26rsv_bp%3D0%26rsv_spt%3D3%26rsv_n%3D2%26inputT%3D626
+
+http://translate.google.com/#en/zh-CN/The%20father%20of%20rogue%20software
+
+http://www.ibtimes.com/articles/161367/20110612/microsoft-security-sophos-anti-virus-firefox-zip.htm
+
+http://www.ibtimes.com/articles/161367/20110612/microsoft-security-sophos-anti-virus-firefox-zip.htm
+
+http://www.microsoft.com/security/pc-security/antivirus-rogue.aspx
+
+http://nakedsecurity.sophos.com/2011/01/04/fake-microsoft-update-spreads-worm/
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 9/16
+
+
+"Previously installed browsers are rendered inactive instantly and the default
+browser is locked as the 360 browser, with the homepage fixed as hao.360.cn."
+(Qihoo 360 Falsely Reports)
+
+
+Of course, this was a little over the top. But in general this is the way it is… not just in
+China but in the browser business at large: bigger players trying to limit their smaller rivals
+with "innovation" and "security." As a consequence, I don't think Qihoo's number one
+revenue driver ‒ the advertisement laden default page to the browser‒ will survive the
+next technology cycle.
+
+
+It's the law of the jungle over there. Over here too. Here's Apple locking out major
+browsers with impunity, because, well, everybody likes 'em … that, and, oh yeah, they're
+really big.
+
+
+Now that Micrsoft, with its Office Suite, is set to enter this arena with its new tablets, the
+future of third-party browsers is being debated. Will Microsoft create so much friction for
+rival browsers that users just follow the path of least resistance … resulting in Microsoft's
+inevitable retrieval of browser market share? If they can copy Apple's strategy, you can bet
+they will. And I do believe that Qihoo will not be spared.
+
+
+Here's what everyone is saying about the next browser war:
+
+
+Why Is Microsoft Trying to Hobble Firefox on Windows 8 Tablets - and Why Does It
+Matter?
+
+
+"Microsoft is getting cut a lot of slack for its anticompetitive stance, because it is
+casting the anti-features for developers in the name of "protecting users from
+malware." It's OK if Microsoft cuts off competing applications at the knees, because
+it's trying to prevent malware."
+
+
+Whether one agrees with Microsoft here or not, one has to admit that Qihoo did not help
+the counter-argument with recent "events."
+
+
+Windows on ARM Users Need Browser Choice Too
+Google, Mozilla: Microsoft Planning Third-Party Browser Ban for Windows 8
+Microsoft Is Pulling A Silly, Apple-Like Move With Windows 8 Tablets
+Why Microsoft blocking third-party browsers is no cause for panic
+More articles, here.
+
+
+
+http://www.readwriteweb.com/hack/2012/05/why-is-microsoft-trying-to-hobble-firefox-on-windows-8-tablets-and-why-does-it-matter.php
+
+http://blog.mozilla.org/blog/2012/05/09/windows-on-arm-users-need-browser-choice-too/
+
+http://www.dailytech.com/Google+Mozilla+Microsoft+Planning+ThirdParty+Browser+Ban+for+Windows+8/article24661.htm
+
+http://articles.businessinsider.com/2012-05-10/tech/31648964_1_mozilla-metro-interface-phones-and-tablets
+
+http://memeburn.com/2012/05/why-microsoft-blocking-third-party-browsers-is-no-cause-for-panic/
+
+https://www.google.com/search?hl=en&safe=off&q=third-party+browsers+microsoft+tablet&oq=third-party+browsers+microsoft+tablet&gs_l=serp.3...2226.2226.0.2551.1.1.0.0.0.0.53.53.1.1.0.les%3B..0.0...1c.9Tzj3jXiPLE
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 10/16
+
+
+Comments (20)
+
+
+So, it is a jungle out there, but the problem with the law of the jungle is that you have to be
+the Gorilla to win it. That would be Microsoft, not Qihoo.
+
+
+Disclosure: I am short QIHU.
+
+
+Additional disclosure: I am long MSFT
+
+
+ Like this article
+
+
+NebHusker
+BTW - why would a company risk doing something like this just before their earnings date . . . could someone be
+setting them up to fail ? Allegations were made against FMCN to try and drive the price down and someone is trying
+to by them out becuase the allegations were proven false. I think the same bodes for this attempt!!!!
+
+
+15 Aug 2012, 12:42 AM 
+
+
+Matt Berry, Contributor
+Author’s reply »  Nebhusker:
+
+
+>>“BTW - why would a company risk doing something like this just before their earnings date…”
+
+
+This article does not touch upon when they started doing this or how long they’ve been doing it ‒ I only deal
+with their being caught at it ‒THIS TIME. From my perspective, being caught "just before THIS earnings date"
+is a coincidence. They could just as easily have been caught "just before" another "earnings date."
+
+
+15 minutes of DD will show you what I’m talking about. 
+There was much more to this article than time and space would permit.
+
+
+>>”Allegations were made against FMCN to try and drive the price down …”
+
+
+One person’s bad math is not another person’s allegation.
+
+
+1. In SEC documents, FMCN claimed a business relationship with 27,000 urban theaters
+
+
+2. China Government statistics show that there were less than 1,600 such theaters in all of China.
+
+
+Presenting that evidence in a way that others can verify for themselves is not an “allegation.” It's no longer a
+he-said she-said debate. It's an individual event. The conclusion follows naturally (unless you don’t know how
+to do the math): http://scr.bi/Po1lNL
+
+
+>>” and someone is trying to by them out because the allegations were proven false.
+
+
+With common sense certainty, FMCN submitted fraudulent documents to the SEC.
+
+
+Cardboard posters are not Liquid Crystal Displays: 
+http://bit.ly/zno5ra
+
+
+
+https://seekingalpha.com/symbol/QIHU
+
+https://seekingalpha.com/user/3996701
+
+https://seekingalpha.com/author/matt-berry
+
+http://scr.bi/Po1lNL
+
+http://bit.ly/zno5ra
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 11/16
+
+
+Theaters are not Advertisements:  
+http://bit.ly/wAS4tj
+
+
+(And here’s a sloppy attempt to keep the “Theater-revenue” story alive: 
+http://bit.ly/TF9Kvo)
+
+
+The facts in these articles still stand. FMCN and their promoters are fond of declaring refutations without the
+bother of having to demonstrate them.
+
+
+15 Aug 2012, 02:01 PM 
+
+
+TechGuy1786
+Seriously, Matt Berry, you have zero credibility in my book. You have been railing against FMCN all year and the stock
+ends up being the largest LBO in Chinese history (i.e., stock was a STEAL at $18-19/share). To me, everything you
+say is suspect.
+
+
+15 Aug 2012, 04:28 AM 
+
+
+Matt Berry, Contributor
+Author’s reply »  TechGuy: 
+The points in my FMCN articles afford deductive conclusions. That’s why I chose to write about FMCN.
+Additionally, the facts presented have withstood scrutiny.
+
+
+Claiming a network of 27,000 theaters in a China that has less than 1,600 such theaters = a lie. Muddy
+Waters first broke this story and I have a slide show presentation to demonstrate it: http://scr.bi/Po1lNL
+
+
+Cardboard posters are not Liquid Crystal Display devices: http://bit.ly/zno5ra
+
+
+These are deductive … common sense certainties. Only the SEC would think that it needed a subpoena
+before it could proceed.
+
+
+What investment bankers can do, what investors will believe, what FMCN needs to do to survive, what guanxi
+relationships exist, what the SEC is thinking, … these are all separate cases.
+
+
+FMCN submitted fraudulent documents to the SEC. We can know this with common sense certainty … no
+subpoena required.
+
+
+15 Aug 2012, 02:26 PM 
+
+
+articulator
+An uncommitted, unclosed deal is not an LBO.
+
+
+22 Aug 2012, 10:04 AM 
+
+
+JoeNatural, Contributor
+In fairness to the author, FMCN did NOT disprove ALL the allegations against it just as HRBN did NOT. Sure, they
+both end up getting bought out, but neither company disproved ALL the allegations against them. QIHU is overpriced
+and risks being halted at any moment.
+
+
+
+http://bit.ly/wAS4tj
+
+http://bit.ly/TF9Kvo
+
+https://seekingalpha.com/user/320970
+
+https://seekingalpha.com/author/matt-berry
+
+http://scr.bi/Po1lNL
+
+http://bit.ly/zno5ra
+
+https://seekingalpha.com/user/897703
+
+https://seekingalpha.com/author/joenatural
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 12/16
+
+
+15 Aug 2012, 11:36 AM 
+
+
+Johnny C
+Really nice work putting this article together. You present your thesis very well and straight-forward.
+
+
+I don't doubt that where there is smoke there is fire. The issue with QIHU and with Sino-Forest, Harbin Electric,
+Longtop, FMCN, and even Madoff is that there needs to be an event to bring these things to light.
+
+
+CITIC is now very aggressively trying to sweep up these bogus firms. It is put in place by the Chinese gov't to
+specifically deal with stuff like this. Credibility is an issue, so like with FMCN or HRBN they aren't going to let things go
+pear-shaped as they did with LFT.
+
+
+I have no doubt that QIHU is doing some very deceptive things to pump up numbers. But then here I am looking at
+the holders roster and staring at the fact that Chase Coleman who has boardroom relationships in China has doubled
+down his investment (in terms of shares). I think he's dead wrong on this one, but he has that boardroom relationship
+and I don't.
+
+
+Essentially it all comes down to (1) timing and (2) not believing that any of these Chinese deceptions/frauds are going
+to zero (because CITIC will be there waiting in the wings).
+
+
+Anyway, nice work putting this together.
+
+
+15 Aug 2012, 12:01 PM 
+
+
+Morrison Security Research, Contributor
+Being bought out does not mean they are not fraud. 
+FMCN is a fraud and I doubt the deal would go through. 
+Insiders sold tons of shares and calls.
+
+
+15 Aug 2012, 12:36 PM 
+
+
+TechGuy1786
+You don't think the deal goes through? Why? So now major US banks and private equity funds are puppets of
+FMCN CEO Jason Jiang to enrich himself?
+
+
+Why would a sophisticated investor with inside knowledge ever knowingly buy a fraud? Jason Jiang is the
+CEO, he knows better than anyone if FMCN is a fraud--why would he seek to roll over his stake into an illiquid
+private company--once the company is private he can't sell shares to public investors whenever he feels like.
+Even at the $15/share, Jason Jiang would realize a lot of wealth selling his stake in FMCN. Taking the
+company private is the exact opposite of what is logical if FMCN is a fraud.
+
+
+Given Citic's association with the Chinese government, I guess it is plausible that they are sweeping up
+"bogus" firms, but why would a pedigreed US investor like Carlyle participate in the biggest LBO in Chinese
+history? Do you think that they are so rich that they are the point that they want to throw away investors'
+money? Or do you think they are controlled by someone out of the Manchurian candidate movie, where they
+are secretly Chinese patriots?
+
+
+
+https://seekingalpha.com/user/42569
+
+https://seekingalpha.com/author/morrison-security-research
+
+https://seekingalpha.com/user/320970
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 13/16
+
+
+If a company gets bought out at a premium to its current stock price with mgmt participation, it strongly
+suggests the company is not a fraud. Private investors can also be fooled of course or make bad investment
+decisions (i.e., Washington Mutual, etc...), but fraud seems exceptionally unlikely--particularly if mgmt is
+participating.
+
+
+Matt Berry, Muddy Waters and all the shorts got FMCN wrong. Period.
+
+
+15 Aug 2012, 01:58 PM 
+
+
+Matt Berry, Contributor
+Author’s reply »  TechGuy:
+
+
+>If a company gets bought out at a premium to its current stock price with mgmt participation, it strongly
+suggests the company is not a fraud.
+
+
+>Matt Berry, Muddy Waters and all the shorts got FMCN wrong. Period.
+
+
+You confuse what-people-do with how-the-assets-add-up.
+
+
+Harvesting investor credulity is something that can be done. But it’s not the same exercise as adding up the
+assets. FMCN inflated their theater and LCD counts. (see below.)
+
+
+>>Matt Berry, Muddy Waters and all the shorts got FMCN wrong. Period.
+
+
+You can SAY that 2 + 2 = 5, but you can’t DEMONSTRATE that.
+
+
+You can say that there are 27,000 theaters in a country that has less than 1,600 but you can demonstrate
+that. http://scr.bi/Po1lNL
+
+
+You can say that Liquid Crystal Devices can later be found to be cardboard posters without your having
+inflated your assets, but you cannot demonstrate that. http://bit.ly/zno5ra
+
+
+Declaring someone wrong is easy, sir. Demonstrating it is a little more difficult. Present your case.
+
+
+15 Aug 2012, 03:23 PM 
+
+
+58k8880
+Space is getting good stock price reactions to earnings, like BIDU & SOHU who recently reported and SINA this
+morning. -Qihoo reports next week, right?
+
+
+Also hearing QIHU may be going back to their founders roots with search and launching browser, great compliment to
+security and likely to help accelerate monetization.
+
+
+16 Aug 2012, 09:29 AM 
+
+
+Constructive Capital, Contributor
+No browser in history has been profitable...
+
+
+16 Aug 2012, 01:05 PM 
+
+
+
+https://seekingalpha.com/author/matt-berry
+
+http://scr.bi/Po1lNL
+
+http://bit.ly/zno5ra
+
+https://seekingalpha.com/user/2690131
+
+https://seekingalpha.com/author/constructive-capital
+
+https://seekingalpha.com/author/business-economics-analyst
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 14/16
+
+
+Business Economics Analyst, Contributor
+Whether or not the cmopany is a fraud and whether a buy out deal go through are 2 different things. Numerous frauds
+have still been bought out. Harbin was a fraud and that buyout went through. Chinese banks funding this frauds have
+a long and checkered history of corruption.
+
+
+16 Aug 2012, 11:44 AM 
+
+
+Johnny C
+RE: Browser Profitability 
+Actually Opera Software and Mozilla's Firefox are profitable...but I understand what you are getting at with regards to
+QIHU.
+
+
+I personally believe that you are on to something here and that you are doing some very good work on it. Much more
+so that many of the analysts who are covering the name. Keep it up.
+
+
+I have no doubt that QIHU is involved with reciprocal Link Exchanges and is pumping up its revenues in that manner.
+It's banal... and not unique. It's the same ol' thing that happened 10-15 years ago in the U.S. And sooner-or-later all of
+those companies got found out once the smoke and mirrors that they pulled to cover their "Link Exchange" tracks
+went nowhere. The current example of this is QIHU's phone :) And like those U.S. companies, QIHU will get found out
+sooner or later, too. And just like back then "Smart Money" (e.g. the Tiger Cubs, NBIM) will get bruised along the way.
+
+
+Just keep in mind that it's a game of chicken. You have to be fairly certain that these smart investors are acutely
+aware of QIHU's (and FMCN/HRBN/LFT's) practices. They are just betting that the not as bright mutual funds won't
+figure it out (or even care about it) for a few more quarters/years. Or they are betting that CITIC will provide a quick
+backstop. It's an arrogant approach, but it can be successful. It's also an unnecessarily risky approach, too...
+
+
+It's hard to figure out what investors are looking at right now in the space. LNKD shows no earnings upside despite all
+of that valuation and the stock rockets. FB does the same and the stock plummets. NTES misses and the stock tanks.
+And then SINA gets on the horn and says the EXACT same things as NTES and the stock rockets. Go figure...
+
+
+Actually the SINA results & call were interesting. I am pretty sure that Shorts couldn't have asked for much more
+during the call. Degrading margins. Slowing revenue. Confirmation of a softening ad market. Light guidance. And
+management even saying (and I quote) "The advertising market in China continued to be challenging due to the soft
+macroeconomic conditions in China." All that and the stock rips the next day because they said they are going to
+move from "around 80" weibo advertisers to "hopefully double that", despite having a Bajillion users. What a joke. You
+can only laugh... (unless you were massively short)
+
+
+QIHU is all going to come down to timing... (as should your research notes...). Again, solid work. It's much more
+fundamentally detailed than any of the wall street analysis that is out there. KIU.
+
+
+17 Aug 2012, 12:04 PM 
+
+
+Matt Berry, Contributor
+Author’s reply »  >I have no doubt that QIHU is involved with reciprocal Link Exchanges and is pumping up its
+revenues in that manner.
+
+
+
+https://seekingalpha.com/author/business-economics-analyst
+
+https://seekingalpha.com/user/42569
+
+https://seekingalpha.com/author/matt-berry
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 15/16
+
+
+Lot’s of directions to go. If I had a research team I would have someone looking at user-agent strings and
+“browser spoofing” (sometimes performed by antivirus software) … I’d also have someone looking at the
+possibility of pre-rendering. But time and money are limited. High probability the search would turn out
+negative, as it goes with most hunches, but QIHU has cheated in so many ways in other areas that I'd give it
+a shot -- (IE, if I had a team with the expertise).
+
+
+I had to trim the article down. Here’s something I decided to leave out. In the past, Qihoo has also used
+KB999999 in filenames (including the file eventually called KB360018). KB999999 is often used as a
+“hypothetical” knowledge base reference, used for giving examples and instructions to others. So if one
+wanted to use a knowledge base reference which was actually listed on Microsoft, one could use KB999999
+and a non-English speaker could do a quick search on Microsoft and be somewhat satisfied that it was listed
+on the official site.
+
+
+KB999999 On Microsoft “for example”: http://bit.ly/TKTjhk
+
+
+KB999999 as used by Qihoo: http://tinyurl.com/cb4...
+
+
+Some QIHU 360 filenames appear so much like Microsoft's that SystemExplorer actually provides a hyperlink
+to Microsoft's 365! (Click to Sys. Expl. then mouseover the hyperlink.) 
+http://bit.ly/P4br2f 
+http://bit.ly/P4bpY5
+
+
+17 Aug 2012, 10:00 PM 
+
+
+58k8880
+QIHU still ripping higher, now just a few days before earnings. Have heard new qihoo search (8/15) is being well
+received and can possibly add to growth prospects for the future, probably a focus item on the conference call along
+with mobile, handsets and games. All compliments to the core browser/security business.
+
+
+It is evident that you are all likely smarter, more sophisticated and with more time for research than me, but focusing
+on what I can see .... simple trend of group posting good results beating on both top and bottom line, guiding higher
+and stocks that are squeezing higher.
+
+
+Could QIHU be next to squeeze higher after earnings?
+
+
+20 Aug 2012, 05:12 PM 
+
+
+welcomebo
+Why do you dig into small things like patch? It will not affect its' user base. As I said before, the stupidest thing QIHU
+made is making money from web directory. If google is making money from web directory, its' price will be 30$. The
+same with QIHU, if QIHU start doing other stuffs such as the search engine, game, online video , it will make lots of
+money since it already has so many users.
+
+
+21 Aug 2012, 09:59 AM 
+
+
+zjsalpha
+Thank you for the excellent works ! You presented your researches and findings very well.
+
+
+
+http://bit.ly/TKTjhk
+
+http://tinyurl.com/cb44ooq
+
+http://bit.ly/P4br2f
+
+http://bit.ly/P4bpY5
+
+https://seekingalpha.com/user/2690131
+
+https://seekingalpha.com/user/1007633
+
+https://seekingalpha.com/user/722465
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
+
+
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 16/16
+
+
+22 Aug 2012, 05:04 AM 
+
+
+58k8880
+Thanks for the ride, if it were not for the geniuses over thinking and over analyzing (and therefore thinking they were
+better and smarter than the rest of us, so SHORTING), then us who simply follow trends and buy stocks when they
+seam cheap with catalysts ahead, would never be get such fast and strong returns when the shorts get so 
+S-Q-U-E-E-Z-E-D!!
+
+
+tried to warn with QIHU at $17+ and $19+ that all the names in the group were killing #'s on both top and bottom line
+and stocks were getting ridiculous moves both in anticipation and after reporting, YES, sometimes it is just that simple
+and straightforward, today QIHU stopped just before $25.
+
+
+22 Aug 2012, 11:56 AM 
+
+
+invfoever
+http://bit.ly/SVM8Uv 
+which side is right? 
+i'm totally confused!!!
+
+
+15 Oct 2012, 08:07 AM 
+
+
+
+https://seekingalpha.com/user/2690131
+
+https://seekingalpha.com/user/5188701
+
+http://bit.ly/SVM8Uv

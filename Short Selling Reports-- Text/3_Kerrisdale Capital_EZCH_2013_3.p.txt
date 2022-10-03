@@ -1,0 +1,866 @@
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 1/14
+
+
+EZchip: Customer Concentration And Uneven Revenue Stream Have
+Forced Risky Shift To The Data Center
+Mar. 13, 2013 8:30 AM ET16 comments
+by: Kerrisdale Capital Management
+
+
+Earlier this week, we published our first article on EZchip, stating our conviction that EZCH
+shares are grossly overvalued. Among other things, our initial article discussed the threat
+of displacement from Broadcom (BRCM) and Marvell (NASDAQ:MRVL) NPUs, customer
+defections, unrealistic growth expectations, and research analysts' negligent exclusion of
+stock-based compensation from their EPS and price target calculations.
+
+
+This article will build on those themes to further make our case that EZCH's current
+valuation is unjustified. To begin with, EZCH's severe customer concentration makes it
+susceptible to a sharp correction. A single Cisco (NASDAQ:CSCO) design win by
+Broadcom would cause an irreversible loss of capital overnight. Next, we believe EZCH's
+seemingly premature announcement of its research-phase data center product, the "NPS"
+(network processor for smart networks), was a diversion tactic to shift attention away from
+the increasingly challenging NPU market. While this measure was successful in
+temporarily buoying the stock after a disappointing Q2 2012, we believe the NPS's
+potential is grossly exaggerated. The data center market is much more crowded than
+network processors, and highly-regarded companies like Netronome and Cavium
+(NASDAQ:CAVM) already possess best-in-class chips, not to mention larger incumbents
+like Freescale (NYSE:FSL), Broadcom, LSI (NYSE:LSI), PMC-Sierra (NASDAQ:PMCS),
+and even Intel (NASDAQ:INTC). And even if EZCH can differentiate itself amongst this
+deluge of competitors, EZCH has stated that it doesn't expect revenue until 2016,
+signifying that any value attribution should be heavily discounted for time and risk.
+
+
+Compounding these concerns is the irrefutable fact that EZchip has a long history of over-
+promising and under-delivering. While the most speculative of investors will always
+believe that this time is different, our experience tells us that old habits are hard to break.
+We continue to believe that EZCH's valuation of 7.4x 2013E revenue, 17.0x 2013E
+EBITDA, and 32.1x 2013E GAAP P/E is about twice where fair value should be.
+
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation
+
+https://seekingalpha.com/symbol/MRVL
+
+https://seekingalpha.com/symbol/CSCO
+
+http://www.ezchip.com/pr_120808.htm
+
+http://www.netronome.com/
+
+https://seekingalpha.com/symbol/CAVM
+
+http://www.cavium.com/OCTEON-III_CN7XXX.html
+
+https://seekingalpha.com/symbol/FSL
+
+https://seekingalpha.com/symbol/LSI
+
+https://seekingalpha.com/symbol/PMCS
+
+http://www.electronics-eetimes.com/en/intel-targets-data-plane-with-comms-soc.html?cmp_id=7&news_id=222911297
+
+https://seekingalpha.com/symbol/INTC
+
+https://seekingalpha.com/article/848141-ezchip-s-ceo-hosts-new-product-announcement-conference-transcript?part=single
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 2/14
+
+
+EZCH's History of Disappointing Results Place a Highly Volatile Revenue Stream at
+Risk
+
+
+Bullish research reports and investor write-ups on EZCH typically argue that EZCH's
+premium valuation is warranted by a steady revenue stream from past and future design
+wins. Because EZCH's customers, such as Cisco and ZTE (OTC:ZTCOY), generally stick
+with a single NPU manufacturer for each router model, once a design is won it tends to be
+sticky for the lifetime of that product cycle. But empirical evidence suggests that EZCH's
+quarterly revenue is actually highly volatile, quite the opposite of a steady income stream.
+This is the result of EZCH's over-reliance on telecom carrier expenditures, which is an
+extraordinarily difficult market to forecast.
+
+
+Sources: EZCH 6-K and 20-F filings; earnings calls
+
+
+With such unpredictable end-market demand, it would be hard for any company to have
+good visibility on near-term results. But this hasn't stopped EZCH from bullishly
+proselytizing to its investors. As the inconsistency between the quotes below and EZCH's
+underlying financial results shows, EZCH's growth promises have proved misleading time
+and time again.
+
+
+
+https://seekingalpha.com/symbol/ZTCOY
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000368/zk1312630.htm
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312000875/zk1211221.htm
+
+https://static.seekingalpha.com/uploads/2013/3/12/559143-13631218315403125-Kerrisdale-Capital-Management_origin.png
+
+https://static.seekingalpha.com/uploads/2013/3/12/559143-13631219273575358-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 3/14
+
+
+"We continue to believe that ZTE is still early in its ramp up and continue to be
+excited by the growth potential that ZTE represents with the NP-3 and the NP-4" -
+Q4 2010 Earnings Call 
+
+
+"But we feel comfortable that NP-4 will grow very significantly starting in the second
+half of [2011] and next year [2012]." - Q1 2011 Earnings Call  
+
+
+"So, basically, we believe that other than Juniper, we expect all our other customers
+to grow on a year-over-year basis." - Q2 2011 Earnings Call  
+
+
+"We expect Cisco to grow significantly for us in 2012." - Q4 2011 Earnings Call  
+
+
+"We expect our main growth drivers for 2012 will be the ramp up of our new NP-4
+customers and the recovery in… carriers' capital expenditure. We believe this will
+result in year-over-year growth in 2012." - Q1 2012 Earnings Call  
+
+
+Given management's track record of over-promising and under-delivering, we believe that
+investors should be highly skeptical of EZCH's commentary going forward.
+
+
+EZCH's Customer Concentration makes it Susceptible to a Sudden Correction
+
+
+In the technology sector, the risk of overnight obsolescence is constantly present. This risk
+becomes compounded when a business is dependent on a single customer for the vast
+majority of its revenue. EZchip suffers from both risks. Not only does Broadcom's BCM
+88030 have the potential to steal NPU market share, but EZCH's over-dependence on
+Cisco makes its already volatile revenue stream that much more precarious. Should Cisco
+decide to move to in-house designs, EZCH's primary source of growth will vanish.
+
+
+Sources: EZCH 6-K and 20-F filings; earnings calls
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2010-Q4-Call.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2011-Q1-Call1.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2011-Q2-Call.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2011-Q4-Call.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2012-Q1-Call.pdf
+
+http://www.broadcom.com/press/release.php?id=s666869
+
+https://static.seekingalpha.com/uploads/2013/3/12/559143-1363122068158648-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 4/14
+
+
+Without a doubt, Cisco has been the savior of EZCH's stock price over the past year. The
+router vendor has represented between 37% to 49% of EZCH's revenue in each of the
+past four quarters and an even greater percentage of gross profits, given the royalty
+arrangement. While investors have largely overlooked the competitive shifts brooding in
+the NPU market, this would change if EZCH lost a major customer. Should Cisco, or any
+of EZchip's other major customers, either award an NPU contract to Broadcom or switch
+future chips to in-house designs in 2013, EZCH shares could experience a fate similar to
+that of many other overly concentrated hardware suppliers.
+
+
+A recent example in the technology sector is Audience (NASDAQ:ADNC), a maker of
+audio processors for smartphones. Like EZchip, Audience was heavily reliant on a single
+customer, in this case Apple (NASDAQ:AAPL), which represented 55% of Audience's Q2
+2012 revenue. After it was announced that Apple would use in-house audio processors in
+the iPhone 5, Audience shares experienced a one-day fall of over 60%, illustrating the
+risks involved in heavily concentrated technology suppliers.
+
+
+Source: CapitalIQ
+
+
+As if EZchip's dangerous customer concentration and a history of underwhelming results
+weren't enough, recent data from Gartner indicate that the carrier end-market isn't the
+robust growth market that many believe.
+
+
+December Gartner Report Lowered Expectations for the Carrier Capex Market
+
+
+
+https://seekingalpha.com/symbol/ADNC
+
+https://seekingalpha.com/symbol/AAPL
+
+http://www.iphonehacks.com/2012/09/audience-noise-suppression-technology-unlikely-in-iphone-5.html
+
+https://static.seekingalpha.com/uploads/2013/3/12/559143-13631221784109278-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 5/14
+
+
+Gartner, the well-regarded research institution, released a Q4 2012 update to its Carrier
+Network forecasts that portends a bleak future for the carrier infrastructure market.
+Gartner now predicts that network infrastructure spending will decline 6.6% in 2012
+compared to 2011 due to "weaker demand and aggressive price competition." Making
+matters worse for EZCH, global telecom players such as AT&T (NYSE:T), Verizon
+(NYSE:VZ), China Telecom (NYSE:CHA), and Vodafone (NASDAQ:VOD) are increasingly
+focused on mobile networks and backhaul as opposed to wireline installations. While
+EZCH does sell into the wireless market, a substantial portion of its business is driven by
+core wireline routing. Recent spending patterns from AT&T and Verizon should be cause
+for concern. Wireline capex as a percentage of total spending has collapsed from around
+60% in 2009 to around 40% today. EZCH attributes much of its recent weakness to this
+trend: "There is short-term problem… it depends on… the carrier CapEx and service
+providers spending especially wireline… and this is the main reason for the decline in
+expected revenues" (EZCH Q2 2012 Call).
+
+
+Source: November 9th, 2012 Capstone Investments Research report.
+
+
+Poor Prospects in Carrier Ethernet have forced a Shift to the Data Center
+
+
+The telecom infrastructure market is not nearly as exciting as it once was. Between these
+end-market headwinds and EZCH's inability to drive NPU growth, it's quickly apparent why
+investors are growing wary of the EZCH story. These fears first materialized on EZCH's
+Q2 2012 call when management announced Q3 revenue guidance of $8m-10m, a ~40%
+sequential decline from the previous quarter. Spooked investors sent EZCH shares down
+25% after the call. EZCH must have felt compelled to reassure these jittery investors as it
+
+
+
+http://www.gartner.com/id=2276115
+
+https://seekingalpha.com/symbol/T
+
+https://seekingalpha.com/symbol/VZ
+
+https://seekingalpha.com/symbol/CHA
+
+https://seekingalpha.com/symbol/VOD
+
+https://seekingalpha.com/article/791341-ezchip-semiconductor-s-ceo-discusses-q2-2012-results-earnings-call-transcript
+
+http://en.wikipedia.org/wiki/Dot-com_bubble
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 6/14
+
+
+rushed to pre-announce plans for a research-stage product just three weeks after the Q2
+call. On August 28th, EZchip pre-announced that it was going to unveil a new product line
+on September 5th. By the time September 5th finally arrived, EZCH shares had already
+recovered more than half of their original loss. EZchip even hosted an analyst call to
+announce its new project, dubbed the "NPS" (Network Processor for Smart Networks). We
+believe that this early announcement was a tacit admission that EZchip foresees
+continued market weakness and mounting competitive pressures in Carrier Ethernet.
+
+
+EZchip "does not have customer commitments" for the NPS but said that it expects to
+"see design wins for the NPS in the first half of next year [2013]" while conceding that "it's
+too early to talk about target numbers" (EZCH Sept. 5 NPS Call). This project has caused
+a ramp in R&D spending, up from $4.1m in Q3 2011 to $5.2m in Q3 2012 and Q4 2012.
+Since EZCH has said that the NPS won't meaningfully contribute to revenue until 2016,
+this growing R&D expense on an unproven technology should be a headwind on earnings
+for years to come.
+
+
+EZchip's NPS Technology Appears Fundamentally Disadvantaged
+
+
+Whereas EZchip's series of NP-processors are optimized for carrier networks, the NPS
+will be designed for the data centers. EZchip claims that the advanced 'L2-L7' architecture
+adds $400m to EZCH's total serviceable market, doubling its overall market opportunity by
+2016. Because this opportunity stretches so far into the future and includes a myriad of
+unknowns, we would warn investors against even considering adding it into EZCH's
+valuation until definitive customer agreements are signed.
+
+
+The most direct potential competitor comes in the form of an underfollowed, privately-
+owned business named Netronome. Netronome is a spin-out from Intel that focuses solely
+on high-end network processors. Netronome has already designed a 200Gb/s chip (NFP-
+6xxx) for the data center, putting it well ahead of EZCH's NPS. The Linley Group also
+believes that the flexibility of the chip makes it a competitor to EZchip's NP-5 for the next-
+generation network processing market. The Intel spin-out is run by Howard Bubb, a
+Caltech-educated electrical engineer who previously held senior positions at Intel, and the
+venture is funded by blue-chip investors such as Tudor, Top Technology Ventures, and
+DFJ Esprit. Within the next year or so, we think that Netronome could announce a next-
+generation chip that matches the theoretical bandwidth of EZCH's NPS chip, putting
+pressure on EZCH's share price. Beside the potential trouble for EZCH's NPS chip,
+Netronome also aspires to move into EZchip's core L2-L3 Carrier Ethernet market. The
+Chief Router Architect at ZTE, a major EZCH customer, recently praised Netronome's
+NFP chip:
+
+
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312002426/zk1211933.htm
+
+https://seekingalpha.com/article/848141-ezchip-s-ceo-hosts-new-product-announcement-conference-transcript?part=single
+
+http://www.netronome.com/files/file/misc%20pdfs/Microprocessor%20Report-Netronome%20Goes%20with%20the%20Flow.pdf
+
+http://www.netronome.com/pages/060711/
+
+http://www.multicoreinfo.com/2012/06/netronome-200/
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 7/14
+
+
+"Netronome has once again delivered on its strengths; flow-aware processing and
+large scale integration of programmable resources. The flexible, ultra high speed
+interfaces, processing cores and network specific hardware accelerators provided by
+NFP-6xxx family of products allow it to be positioned in both the line cards as well as
+service cards of next generation routers. NFP-6xxx along with prepackaged
+networking software closely aligns with our vision for our router family of products" -
+Ye Zhining, Chief Architect Router Products, ZTE.
+
+
+Aside from these glowing reviews, we believe that Netronome holds an important
+manufacturing edge over EZchip. Netronome's NFP-6xxx chips are built by Intel using a
+22-nanometer manufacturing scale. EZchip, on the other hand, is reliant on a TSM
+foundry that is consistently a generation behind Intel. On the September 5th NPS call,
+EZCH said it plans to "use 28 nanometer for [the NPS]" (EZCH Sept 5th NPS Call).
+EZCH's NP-4 currently engages TSM's 55nm scale while the NP-5 will also employ TSM's
+28nm manufacturing process. Smaller manufacturing architecture can translate directly
+into better speed, power use, and efficiency metrics. But by the time of EZchip's potential
+NPS release, Intel's fabrication facilities will have already moved to 14nm and beyond.
+
+
+Source: Intel 2012 Investor Meeting, page 37
+
+
+Beyond the direct threat from Netronome, the data center market is already occupied by
+heavy hitters such as Cavium (see Cavium Octeon III Sizzles at 100Gbps), Broadcom
+(NetLogic), Freescale, PMC-Sierra, LSI, and Intel. These well-capitalized competitors will
+most certainly fight to protect their share of the L4-L7 chip market and will shift resources
+into higher-speed networking chips should market demand warrant.
+
+
+Conclusion
+
+
+
+http://semiaccurate.com/2012/06/11/netronome-lays-out-their-22nm-nfp-6xxx-line/
+
+https://seekingalpha.com/symbol/TSM
+
+http://intelstudios.edgesuite.net/im/2012/pdf/2012_Intel_Investor_Meeting_Otellini.pdf
+
+http://www.linleygroup.com/newsletters/newsletter_detail.php?num=4797
+
+https://static.seekingalpha.com/uploads/2013/3/12/559143-13631224457645335-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 8/14
+
+
+Comments (16)
+
+
+While EZchip would like investors to believe that the NPS will be a savior for the business,
+we believe that the market should pay little attention to this research-stage product. Until
+EZCH proves it can differentiate itself from a medley of competition, most notably the
+venture capital-backed Netronome, speculation on the addressable market size holds little
+weight. Over the near-term, investors should remain wary of EZchip's reliance on a single
+customer, Cisco, for more than 40% of its revenue. This customer concentration will only
+grow as Juniper's revenue contribution tapers to zero over the next few years. With the
+probability of a substantial Huawei contract now remote, the growth headwinds appear
+even more daunting. And since we know that Alcatel-Lucent uses in-house NPUs, each of
+the top four Carrier Ethernet vendors by market share have been accounted for. EZCH
+must now target second and third-tier vendors like Ericsson and Tellabs, signaling that
+future growth will be hard to come by. Due to these mounting growth concerns, looming
+competitive threats, and a valuation of 32.1x 2013 GAAP P/E, we aren't sure why anybody
+would buy EZCH shares at this price. We maintain our conviction that the many downside
+risks far outweigh the upside potential.
+
+
+Disclosure: I am short EZCH. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+Additional disclosure: Please read our disclaimer at kerrisdalecap.com/?page_id=2118.
+
+
+ Like this article
+
+
+blome
+EZCH has had many articles from real researchers confirming Buy status for the stock. The sell-off was way overdone
+and a Buy rating of $35-40 is still in effect. 
+Money in the bank, a superior product, high tier customers, and further products in the pipeline. 
+That's the bottom line, folks.
+
+
+13 Mar 2013, 03:41 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  We've read those other research articles ourselves and would have to disagree with the
+consensus sentiment.
+
+
+1) Because EZchip has not paid a dividend, does not repurchase shares, and runs an emerging technology
+business, the likelihood that the cash on hand will be returned to shareholders in the event of a downside
+
+
+
+http://www3.alcatel-lucent.com/products/fp3/
+
+http://www.cnbc.com/id/100482635
+
+http://kerrisdalecap.com/?page_id=2118
+
+https://seekingalpha.com/user/9770751
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 9/14
+
+
+scenario is relatively low. So we do not give them full credit for the cash on the balance sheet in the
+company's valuation.
+
+
+2) EZchip's NPU is susceptible to replacement at any time. Beyond the immediate competitive threat from
+Broadcom, EZCH's 'top-tier' customers like Cisco and ZTE have the capability to design a replacement chip
+within 2 years, should they choose. Cisco, for one, has 750 chip designers on staff. This risk emerged on
+EZCH's Q4 2012 conference call, where management's comments led many to believe that Huawei chose in-
+house silicon rather than EZCH. 
+http://bit.ly/13WRMfT
+
+
+3) While you are correct that EZchip has products in the pipeline, its ability to win customers on the new NP-5
+and NPS platforms remains uncertain.
+
+
+13 Mar 2013, 08:50 PM
+
+
+DukeT
+"While you are correct that EZchip has products in the pipeline, its ability to win customers on the new NP-5
+and NPS platforms remains uncertain."
+
+
+That is incorrect - CSCO, ZTE, TLABS & ERIC have all begun designing platforms with the NP-5. In fact,
+CSCO selected the NP-5 more than a year ago. Since you dissect the company's earnings calls, I assume
+you are aware of this, but choose not to believe management at its word.
+
+
+14 Mar 2013, 11:55 AM
+
+
+davebaryLing
+wow  
+You did A grate Job with all of this data 
+Since i am Short on AAPL 
+can you write same also on this MAMMOTH 
+well done 
+Dave
+
+
+13 Mar 2013, 05:15 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Thanks Dave. Only in my wildest dreams would I be able to add new insights into the
+discussion on AAPL!
+
+
+14 Mar 2013, 11:17 AM
+
+
+DukeT
+Speaking of AAPL, isn't the stock an over weight investment in your fund? Do they not have a
+vender/competitor issue with Samsung? Samsung is AAPL's most strategic supplier as well as its biggest
+competitive threat. I believe you used the Pepsi supplying Coke analogy with respect to the MRVL/ EZCH
+relationship. Where is the intellectual consistency?
+
+
+
+http://bit.ly/13WRMfT
+
+https://seekingalpha.com/user/9771451
+
+https://seekingalpha.com/user/9901361
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/user/9771451
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 10/14
+
+
+14 Mar 2013, 11:53 AM
+
+
+justinfroula
+I think it is clear that they want to make money by bashing the stock.
+
+
+15 Mar 2013, 01:59 AM
+
+
+DukeT
+Andrangi writes: : “Another critique of BRCM's NPU is that it lacks an integrated traffic management system
+("TCAM"). This argument overlooks the fact that Broadcom can add traffic management and other functionality into
+the Ethernet switch component, a product line that Broadcom also manufactures.”
+
+
+You may want to learn the difference between a “TCAM” and a “traffic manager”. TCAM is a special type of memory
+used in routing. Net Logic, prior to being acquired by BRCM, developed its business model around TCAMs, The NP-4
+and NP-5 to a greater extent, have integrated TCAMs within the NPU, which is taking market share from BRCM's
+TCAM business. An integrated traffic manager does exactly what its name implies - It enables provisioning, bandwidth
+control that allows the router to function at the performance level required. Neither BRCM nor MRVL have an
+integrated traffic manager in their solutions. EZCH is THE only merchant NPU player with an integrated traffic
+manager. So to recap, EZCH is taking market share from BRCM's TCAM business and BRCM has no solution to
+compete with EZCH's traffic manager. How is this a threat to EZCH?
+
+
+16 Mar 2013, 12:23 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Traffic management, broadly defined, existed even in the NP-2, a device goes back to 2005.
+This isn't very cutting edge technology and in fact Broadcom already sells integrated traffic managers
+alongside its 200Gb packet processors. 
+http://bit.ly/XnOXx0
+
+
+A more credible piece of the bull thesis is that NP-5's integrated TCAM gives them some sort of edge versus
+Broadcom. But as you point out, BRCM is the leader in TCAM and can easily sell TCAM as an external
+expansion alongside its BCM 88030. The spec sheet explicitly states this. And as we pointed out in our initial
+report, Slide 35 of Broadcom's Investor Presentation shows that the BCM 88030 is targeting the Edge Router
+and not just the Switch market.  
+http://bit.ly/XnOYRM
+
+
+As for Marvell, we don't think they spent $75m on Xelerated unless they had a specific customer in mind. If
+this customer were one of EZchip's, management's 3x revenue target by 2016 becomes much more difficult
+to hit.
+
+
+19 Mar 2013, 03:18 PM
+
+
+DukeT
+“Traffic management, broadly defined, existed even in the NP-2, a device goes back to 2005. This isn't very
+cutting edge technology and in fact Broadcom already sells integrated traffic managers alongside its 200Gb
+
+
+
+https://seekingalpha.com/user/214416
+
+https://seekingalpha.com/user/9771451
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+http://bit.ly/XnOXx0
+
+http://bit.ly/XnOYRM
+
+https://seekingalpha.com/user/9771451
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 11/14
+
+
+packet processors.”
+
+
+Are you suggesting that EZCH Traffic Management Design hasn't advanced since the NP-2 was released?
+The fact is, the NP-5 is the company’s 5th generation offering of integrated traffic management. The NP-5 TM
+will process over 300Mpps. This is more than an order of magnitude of improvement over the NP-2. The NP-5
+TM’s over-subscription performance is rated at 480GE (Guy Koren’s Linley Presentation). Furthermore, the
+NP-5’s embedded TCAM allows network venders to cut memory/TCAM cost by 50%.
+
+
+BRCM’s NPU (BCM8803x), which allegedly competes with the NP-5, does not have an integrated TM. In
+order for the BCM8803x to function, it must be combined with an additional BRCM Processor (BCM88650)
+which does have an integrated TM. The BCM88650 is a PETRA ASIC chip that lacks the programmability of
+an NPU. Although it has an integrated TM, the Linley Group states, “We believe BRCM’s TM is less
+sophisticated than EZCH’s.”
+
+
+The BRCM solution could have some success in switching, but it will not be competitive against the NP-5 in
+edge routing by offering three independent products (BCM8803x, BCM88650, TCAM) when its customers
+have the option to purchase one NP-5 NPU.
+
+
+EZCH is actually taking advantage of Moore’s Law as each generation of NPU delivers lower cost to port ratio
+by incorporating more features and technology. What is “contradictory to Moore’s Law”, is your suggestion of
+BRCM taking market share from EZCH.
+
+
+21 Mar 2013, 06:29 AM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Duke,
+
+
+The technological edge that you base your thesis upon (integrated vs non-integrated) assumes that router
+vendors are completely price insensitive. BRCM has scale advantages over EZCH that allow it to undercut
+EZCH while providing similar functionality. I can also pull a Linley quote to support this case, "The BCM88030
+has a design win at NEC, and we expect Broadcom to increasingly challenge EZchip for new opportunities"
+(see the Executive Summary tab). 
+http://bit.ly/11kgnGV#
+
+
+Moreover, the merchant silicon vs. in-house design is also a price choice. Cisco has the engineers on staff to
+build an industry leading NPU should it decide. Remember QuantumFlow? Huawei clearly decided that it
+could do just as well with its in-house engineers at a lower price, hence their lack of EZCH orders in the past
+quarter. 
+http://bit.ly/11nyPCx
+
+
+EZCH is priced at such a high valuation (30x+ GAAP P/E), that if Broadcom steals a single EZCH customer,
+the stock will experience a permanent value impairment. I doubt EZCH would willingly divulge this competitive
+tension on its quarterly calls, so we'd recommend you also read the Broadcom transcripts to understand what
+is happening here. Why put your capital at risk in such a precarious scenario?
+
+
+21 Mar 2013, 10:31 AM
+
+
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+http://bit.ly/11kgnGV
+
+http://bit.ly/11nyPCx
+
+https://seekingalpha.com/user/5615341
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 12/14
+
+
+mullenjl
+Kerrisdale, re: BRCM transcript for understanding??? “Press Releases and Reality”
+
+
+**”…, so we'd recommend you also read the Broadcom transcripts to understand what is happening
+here….*****
+
+
+>>>>>&g...
+
+
+As posted on another thread re: BRCM’s PR / CC hype…
+
+
+My recollections of BRCM’s claiming imminent prominence in the 3G baseband market goes back a long
+time.
+
+
+I’ve found over the years that Broadcom has a habit of hyping its position via the PR and webcast / CC route.
+My first recollection is from early 2005 when they touted their entry into the WCDMA baseband market--- 10-
+15% share target with first deliveries in late 2005.
+
+
+Broadcom’s Oct 15, 2007 PR and CC “Broadcom Leaps ahead of the competition...” stirred the ire of Brian
+Modoff of Deutche Bank in his Oct 22 report under the heading “Press releases and reality”. (note- Brian was
+cut-off during the CC when asking penetrating questions).
+
+
+There’s no doubt that those two October PRs boosted BRCM’s share price almost 20% ( $36 to $43), before
+the plunge after the “disappointing” earnings report. It’s rather curious that three BRCM executives also
+profited nicely after the run-up and before the plunge.
+
+
+**Eight** years later still hyping but finally gaining some share among the “also rans”.
+
+
+22 Mar 2013, 03:16 PM
+
+
+mullenjl
+Hmmm, Kerrisdale?
+
+
+“The (Monday) intraday recovery in shares of EZchip has not been kind to buyers of the $22 strike puts, with premium
+on the contracts roughly halving to $0.20 each by 12:45 p.m. ET.”
+
+
+Monday Options Brief: GNW, EZCH & F  
+Mar 11 2013, 13:38 | includes: EZCH, F, GNW
+
+
+http://seekingalpha.co...
+
+
+EZCH - EZchip Semiconductor Ltd. - Put options on the maker of Ethernet network processors are active this morning
+after Kerrisdale Capital announced a short position in the stock, sending shares in EZchip Semiconductor down more
+than 8.0% in the early going to an intraday low of $21.80. The shares have since rebounded sharply to trade up
+0.50% on the session at $23.90 as of 12:35 p.m. ET. The most actively traded contracts on EZchip today are the Mar.
+$22 strike puts, with upwards of 6,200 lots in play versus open interest of 211 contracts. Time and sales data
+suggests most of the volume was purchased at an average premium of $0.38 apiece. The intraday recovery in shares
+of EZchip has not been kind to buyers of the $22 strike puts, with premium on the contracts roughly halving to $0.20
+each by 12:45 p.m. ET. Traders long the $22 strike put options may profit by expiration this week if shares in EZCH
+drop 9.5% from the current price of $23.90 to trade below the average breakeven point on the downside at $21.62.
+Shares in EZchip are down roughly 45% since this time last year.
+
+
+
+https://seekingalpha.com/user/5615341
+
+https://seekingalpha.com/user/5615341
+
+https://seekingalpha.com/a/r2u7
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 13/14
+
+
+>>>>>&g...
+
+
+Unusual Options Activity: EZchip Semiconductor March Out-The-Money Puts Trade 4,413 Times Against an Open
+Interest of 211
+
+
+bret.kenwell@benzinga.... Benzinga Staff Writer March 11, 2013 10:34 AM
+
+
+Read more: http://bit.ly/142O1Wr
+
+
+16 Mar 2013, 12:24 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  We are indeed short and own put options on EZCH.
+
+
+19 Mar 2013, 02:27 PM
+
+
+DukeT
+“The technological edge that you base your thesis upon (integrated vs non-integrated) assumes that router vendors
+are completely price insensitive.”
+
+
+Your statement above is exactly my point. Integration reduces chip count, board space, power usage and ultimately
+the overall price of solution. BRCM’s suspected lower manufacturing cost cannot off set its solution’s higher chip
+count, board space footprint, and power usage.
+
+
+“Remember QuantumFlow? Huawei clearly decided that it could do just as well with its in-house engineers at a lower
+price, hence their lack of EZCH orders in the past quarter.”
+
+
+CSCO’s quantum flow Processor sits at the control plane while the NP-3C, NP-4 and NP-5 (near future) sit at the data
+plane. No competition to EZCH. With regard to Huawei, did you attend the Roth conference? I’ll be anxiously awaiting
+your response when Huawei shipments are disclosed in the near future.
+
+
+“EZCH is priced at such a high valuation (30x+ GAAP P/E)”
+
+
+Why not be more transparent and use free cash flow(19x FCF)! Then compare to CAVM & BRCM.
+
+
+“so we'd recommend you also read the Broadcom transcripts to understand what is happening here”
+
+
+I recommend you speak to network engineers with knowledge of Carrier Networking and you’ll quickly learn how
+faulty your thesis is.
+
+
+BRCM has no data spec sheet on its web site for the BCM88030. 
+I wonder why? Furthermore, why is this solution under "switching instead of edge routing? If you had attended the
+Linley conference last fall, you would have heard BRCM admit that this is a switching solution as opposed to routing.
+
+
+“Why put your capital at risk in such a precarious scenario?”
+
+
+Market Leader in merchant NPUs 
+No Balance sheet risk 
+Y/Y earnings growth in 12 out of 13 years. 
+>30% CAGR going forward 
+
+
+
+http://bit.ly/142O1Wr
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/user/9771451
+5/23/2018 EZchip: Customer Concentration And Uneven Revenue Stream Have Forced Risky Shift To The Data Center - Mellanox Technologies, Lt…
+
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center 14/14
+
+
+49% net profit margin 
+8+ year product life cycle 
+Strong Product Pipeline 
+Clear product road-map 
+Exempt from Israeli income tax for 8 more years.
+
+
+If only I could find more “precarious” investment scenarios.
+
+
+21 Mar 2013, 05:16 PM
+
+
+DukeT
+Network Venders (EZCH customers) examine merchant silicon through four lens:
+
+
+1)Integration: I’ve previously addressed. 
+2)Flexibility: this gives the customer the ability to react to changing market requirements by programming new code to
+the silicon chip. 
+3)Performance: Gives the customer ability to achieve higher throughput and port count with fewer NPUs 
+4)Price: Integration, Flexibility & Performance all drive down the cost/port. Thereby allowing EZCH to increase the
+ASP for each next generation NPU as their customer’s total cost per port drops. Once again the NP-5 decreases the
+customers silicon cost per port by 50- 70%(Guy Koren Presentation - Linley Conference).
+
+
+EZCH’s NPU is superior in Integration, Flexibility, Performance & Price.
+
+
+Once these four factors are examined, Networkers consider reliability and track record of the technology. EZCH’s
+technology has a strong track record where as MRVL and BRCM have none with regard to high speed NPUs.
+
+
+One more thing – NEC doesn't compete in CESR. If BRCM is in fact shipping the BCB88030 to NEC, it would be for a
+Transport solution.
+
+
+22 Mar 2013, 02:13 AM
+
+
+
+https://seekingalpha.com/user/9771451

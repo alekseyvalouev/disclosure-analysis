@@ -1,0 +1,3966 @@
+PLAINVIEW
+
+
+The Next Big Biotech Blow-Up
+November 4, 2019
+
+
+FibroGen, Inc.
+PLAINVIEW
+
+
+Legal Disclaimer
+As of the date of this presentation, Plainview LLC, other research contributors, 
+and others with whom we have shared our research (the “Authors”) have 
+short positions in and may own option interests on the stock of the Company 
+covered herein (FibroGen, Inc.) and stand to realize gains in the event that the 
+price of the stock declines. Following publication, the Authors may transact in 
+the securities of the Company. The Authors have obtained all information 
+herein from sources they believe to be accurate and reliable. However, such 
+information is presented “as is”, without warranty of any kind – whether 
+express or implied – and without any representation as to the results obtained 
+from its use. All expressions of opinion are subject to change without notice, 
+and the Authors do not undertake to update this presentation or any 
+information contained herein. This is not a recommendation to buy or sell any 
+security.
+
+
+1
+PLAINVIEW
+
+
+Table of Contents
+❑ Executive Summary
+
+
+❑ FibroGen Overview
+
+
+❑ Roxadustat
+• MACE/mortality imbalances appear to be a class effect
+• Roxadustat’s MACE HR is inferior to EPO
+• Roxadustat’s MACE HR is inferior to placebo
+• MACE+ inflated by prohibiting IV iron & using placebo comparator
+• HIF-PH inhibitor mechanism of action is flawed
+• Roxadustat does not work in EPO-hyporesponsive patients
+
+
+❑ Pamrevlumab
+• CTGF is a biomarker, not a principal mediator
+• No value in IPF even if Phase 3 trial succeeds
+• No evidence pamrevlumab works in DMD
+• Pamrevlumab doesn’t work in pancreatic cancer
+
+
+❑ Concluding Thoughts & Looking Forward
+
+
+❑ Appendix 1: Roxadustat Trial References
+
+
+❑ Appendix 2: Daprodustat & Vadadustat Trial References
+
+
+2
+PLAINVIEW
+
+
+Executive Summary
+PLAINVIEW
+
+
+Executive Summary – Roxadustat
+• HIF-PH inhibitors all demonstrate a strong adverse safety signal: Published 
+
+
+roxadustat Phase 2/3 trial data shows 11/983 roxadustat patients died vs. 
+0/419 control and 23/983 roxadustat patients experienced MACE incidents 
+vs. 1/419 control.  Competing HIF-PH inhibitor drugs daprodustat and 
+vadadustat also reported imbalances, and we believe this is a class effect 
+driven by HIFs’ well-documented off-target effects
+• Daprodustat: 9/677 daprodustat patients died compared to 1/192 control patients, 
+
+
+and 14/677 daprodustat patients reported MACE incidents compared to 2/192 
+control patients
+
+
+• Vadadustat: Most adverse event data was withheld, but Akebia reported 5/522 
+vadadustat patients died compared to 1/243 control patients and 7/522 vadadustat
+patients reported MACE incidents compared to 1/243 control patients
+
+
+4Executive Summary
+PLAINVIEW
+
+
+Executive Summary – Roxadustat
+• Roxadustat failed to achieve MACE non-inferiority in DD-CKD: FibroGen Management 
+
+
+has withheld the DD-CKD time-to-MACE hazard ratio and instead repeatedly told 
+investors that the number of MACE events was lower for roxadustat than EPO.  Many 
+interpreted this as meaning that the MACE hazard ratio for roxadustat was <1.  This is 
+wrong– the total number of events is only lower because the roxadustat discontinuation 
+rate is much higher than EPO as evidenced by all prior roxadustat trials. In the China 
+Phase 3 DD-CKD trial, the roxadustat discontinuation rate was 3.4x the EPO 
+discontinuation rate.  Dropouts become immune to future events (but are also censored 
+from the hazard ratio analysis and do not affect it).  All available evidence indicates that 
+roxadustat failed to meet the DD-CKD primary safety endpoint 
+
+
+• Roxadustat failed to achieve MACE non-inferiority in NDD-CKD: FibroGen Management 
+has withheld the primary NDD-CKD safety endpoint (time-to-MACE hazard ratio) and 
+instead told investors that a “conservative” post-hoc intention-to-treat (“ITT”) analysis 
+demonstrated noninferiority.  ITT is the opposite of conservative: in contrast to the 
+primary safety endpoint (Kaplan-Meier analysis), ITT does not censor study dropouts 
+which dilutes any drug-driven safety signal by padding safety statistics with patients who 
+are not taking the drug.  All available evidence indicates that roxadustat failed to meet 
+the NDD-CKD primary safety endpoint
+
+
+5Executive Summary
+PLAINVIEW
+
+
+Executive Summary – Roxadustat
+• FibroGen’s reported control arm MACE+ results are inflated and irrelevant to 
+
+
+approval: MACE+ obscures MACE by including congestive heart failure/unstable 
+angina hospitalizations which are frequently driven by anemia rather than 
+thrombosis.  Due to differences in mechanism of action, IV iron is frequently 
+required for EPO to work, but not for HIF-PH inhibitors. In FibroGen’s Provenzano 
+et al 2016, prohibition of IV iron resulted in an EPO Hb response rate of only 33% 
+compared to 79% Hb response rate in the clinical-dose roxadustat group– despite 
+screening out all EPO hyporesponders during enrollment. In its Phase 3 trials, 
+FibroGen manipulated MACE+ by prohibiting IV iron, which artificially boosted the 
+frequency of anemia among control arm patients as evidenced by its significantly 
+higher transfusion rate. GSK’s daprodustat trials also demonstrated that restricting 
+IV iron inflates control group “+” events (see slide 49) but has no impact on MACE 
+incidents. FibroGen’s Q2 2019 10-Q (p. 47) ominously revealed that the EMA will 
+be reviewing MACE results, and it is naïve to think that any regulatory agency 
+would overlook a strong adverse MACE safety signal because of engineered “+” 
+events. We believe MACE inferiority will lead to regulatory rejection in the US/EU 
+and minimal uptake followed by inevitable approval revocation in China & Japan
+
+
+Executive Summary 6
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+
+https://www.globenewswire.com/news-release/2018/12/20/1670189/0/en/FibroGen-Announces-Positive-Topline-Results-from-Three-Global-Phase-3-Trials-of-Roxadustat-for-Treatment-of-Anemia-in-Patients-with-Chronic-Kidney-Disease.html
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/921299/000156459019030812/fgen-10q_20190630.htm
+PLAINVIEW
+
+
+Executive Summary – Roxadustat 
+• EPO is safer than HIF-PH inhibitors because of its specificity to erythropoiesis: 
+
+
+While EPO and HIF are part of the same pathway, HIF is upstream and activates 
+many unnecessary genes while EPO circumvents that activity and is highly specific 
+to erythropoiesis. In slides 53-65, we summarize the findings of more than a dozen 
+studies implicating HIF-1α, HIF-2α and HIF-PH inhibitors in hypertension, fibrosis, 
+immune suppression and other effects that likely contributed to MACE
+
+
+• Roxadustat and HIF-PH inhibitors are not capable of treating EPO hypo-
+responders: FibroGen cites the study Provenzano et al 2016 as showing that 
+roxadustat worked in EPO hyporesponders– but that study screened out EPO 
+hyporesponders during enrollment and subsequently censored all roxadustat non-
+responders from the relevant analysis. An intellectually honest study published by 
+GSK showed that daprodustat does not work in EPO hyporesponders, which is 
+almost certainly true for the entire HIF-PH inhibitor class
+
+
+Executive Summary 7
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035126/
+PLAINVIEW
+
+
+Executive Summary – Pamrevlumab
+• Pamrevlumab, an anti-CTGF (connective tissue growth factor) antibody, has 
+
+
+been FibroGen’s drug in search of a disease for years.  Multiple trials for 
+pamrevlumab in fibrotic diseases have been initiated and concluded or 
+terminated without disclosing results
+
+
+• CTGF is portrayed by FibroGen Management as the central mediator of 
+fibrosis, but the rest of the research community assigns it a minor role, with 
+TGF-β1 implicated as the master regulator of fibrosis
+
+
+• There is no consensus in the research community that CTGF has a key role in 
+fibrosis in IPF, cancer, Duchenne Muscular Dystrophy or any other disease 
+state.  CTGF rarely receives meaningful mention in publications not 
+sponsored by FibroGen, and seems to be merely associated with fibrosis as a 
+biomarker in the same way that many other extracellular matrix (“ECM”) 
+components are associated with fibrosis
+
+
+Executive Summary 8
+PLAINVIEW
+
+
+Executive Summary – Pamrevlumab
+• We believe pamrevlumab is worth nothing in any of the indications FibroGen 
+
+
+is currently testing it in
+
+
+• In FibroGen’s pancreatic cancer trial, there was no difference in ORR 
+between pamrevlumab + chemotherapy (21% ORR) vs. chemotherapy alone 
+(23% ORR).  OS and PFS were conspicuously withheld.  The scientific concept 
+behind using pamrevlumab for pancreatic cancer (targeting stromal growth) 
+has been tried multiple times and has consistently failed
+
+
+• Management withheld all relevant DMD data during the recent PPMD 2019 
+presentation after running a trial for 3.5 years; this tells us that 
+pamrevlumab did not show the hoped-for benefit
+
+
+• We have serious doubts about pamrevlumab’s efficacy in treating IPF due to 
+its mechanism of action failing to demonstrate benefit in fibrotic diseases in 
+the past and the published lack of dose response in IPF  
+
+
+9Executive Summary
+PLAINVIEW
+
+
+Executive Summary – Pamrevlumab
+• Management appears to share our doubts about pamrevlumab in IPF: FibroGen is 
+
+
+currently only running a single Phase 3 trial now even though two Phase 3 trials 
+would be required for approval and each trial is expected to take four years
+
+
+• FibroGen withheld efficacy results of a placebo-controlled study designed to test 
+whether pamrevlumab added any benefit when stacked with current IPF standard-
+of-care (Esbriet and Ofev); this indicates that pamrevlumab failed to show any 
+benefit
+
+
+• That failure likely informed the decision to structure the Phase 3 trial as placebo-
+controlled with background Esbriet/Ofev prohibited.  This would make 
+pamrevlumab unsellable even with Phase 3 success: 
+• Pamrevlumab would be a branded IV formulation with no evidence of additive benefit, 
+
+
+superiority, or even non-inferiority vs. oral Esbriet/Ofev, at least one of which will likely soon 
+go generic
+
+
+• Possibly competing against new drugs for IPF that show additive benefit with Esbriet/Ofev
+
+
+10Executive Summary
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+FibroGen Overview
+PLAINVIEW
+
+
+FibroGen Overview
+• $3.7bn market capitalization
+
+
+• Founded in 1993
+
+
+• FibroGen’s flagship drug is roxadustat, an HIF-PH inhibitor designed to treat 
+anemia.  We estimate roxadustat makes up 85-90% of FibroGen’s current 
+enterprise value.  FibroGen is scheduled to present its key major adverse 
+cardiovascular event (MACE) data at ASN 2019 (2:00 PM Friday, November 
+8): a make-or-break moment for the drug and the company
+
+
+• FibroGen is also developing pamrevlumab, an anti-CTGF antibody, for three 
+indications: idiopathic pulmonary fibrosis (IPF), pancreatic cancer, and 
+Duchenne’s Muscular Dystrophy (DMD).  We estimate pamrevlumab makes 
+up the remainder of FibroGen’s current enterprise value.  Pamrevlumab’s 
+Phase 3 trials are expected to read out in 2022 (pancreatic cancer) and 2023
+(IPF)
+
+
+12FibroGen Overview
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT03941093
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+Roxadustat Overview
+• Roxadustat is a hypoxia-inducible factor prolyl hydroxylase (“HIF-PH”) inhibitor
+
+
+• HIF is a transcription factor that can stimulate erythropoiesis, while HIF-PH is an 
+enzyme that binds to and triggers the degradation of HIF through hydroxylation 
+and ubiquitination
+
+
+• In normal circumstances, HIF is inhibited by HIF-PH.  However, HIF-PH requires 
+oxygen to function, hence HIF activity is “induced” by hypoxia
+
+
+• Roxadustat is designed to inhibit HIF-PH, mimicking the effects of hypoxia and 
+leading to increased erythropoiesis to treat anemia
+
+
+• FibroGen has completed pivotal trials for roxadustat in the treatment of anemia in 
+patients with chronic kidney disease and has guided to submitting an NDA for 
+dialysis-dependent and non-dialysis-dependent chronic kidney disease (DD-CKD & 
+NDD-CKD) in October 2019 and to submitting an MAA in the EU by the end of Q1 
+2020
+
+
+13FibroGen Overview
+PLAINVIEW
+
+
+Pamrevlumab Overview
+• Pamrevlumab (FG-3019) is an antibody designed to inhibit connective tissue 
+
+
+growth factor (“CTGF”)
+
+
+• FibroGen presents CTGF as a principal cause of fibrosis in organs as well as a 
+key target in pancreatic cancer
+
+
+• FibroGen has been conducting clinical trials with pamrevlumab since 2003
+
+
+• Past indications FibroGen has posted pamrevlumab trials for and 
+subsequently scrapped include liver fibrosis, diabetic nephropathy, and focal 
+segmental glomerulosclerosis (FSGS)
+
+
+• Idiopathic pulmonary fibrosis (“IPF”) and locally advanced pancreatic cancer 
+(“LAPC”) are the current lead indications for pamrevlumab
+• LAPC Phase 3 results expected in 2022
+• IPF Phase 3 results expected in 2023
+
+
+14FibroGen Overview
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT03941093
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+Roxadustat
+PLAINVIEW
+
+
+Roxadustat Table of Contents
+❑MACE/mortality imbalances appear to be a class effect
+
+
+• There is a large MACE/death imbalance favoring control group across roxadustat trials as well as trials for competing HIF-
+PH inhibitors vadadustat and daprodustat, indicating a class effect
+
+
+❑Roxadustat’s MACE HR is inferior to EPO
+• FibroGen’s claim of numerically lower events in DD-CKD is a product of the much-higher dropout rates seen in roxadustat 
+
+
+groups across trials.  Based on published clinical data, we believe roxadustat’s MACE risk is significantly higher than EPO, 
+which is why FibroGen has withheld it and provided bizarre excuses for the lack of disclosure
+
+
+❑Roxadustat’s MACE HR is inferior to placebo
+• FibroGen has withheld the NDD-CKD MACE HR and instead told investors that the post-hoc ITT MACE HR was non-
+
+
+inferior to placebo.  ITT analysis is inappropriate & misleading because it dilutes the safety signal with dropouts.  As with
+DD-CKD, we believe roxadustat failed to achieve MACE non-inferiority in the NDD-CKD setting
+
+
+❑MACE+ inflated by prohibiting IV iron & using placebo comparator
+• IV iron is a critical part of EPO treatment but is not necessary for HIF-PH inhibitors to achieve efficacy. FibroGen 
+
+
+manipulated MACE+ by barring IV iron in its trials and using a placebo comparator in NDD-CKD, driving up anemia-related 
+“+” events in the control groups
+
+
+❑HIF-PH inhibitor mechanism of action is flawed
+• HIF-PH inhibitors (including roxadustat) act upstream of EPO and are less specific to erythropoiesis.  HIFs & HIF-PH 
+
+
+inhibitors have been implicated in hypertension, fibrosis, immune suppression, and other adverse effects that could 
+increase risk of MACE
+
+
+❑Roxadustat does not work in EPO-hyporesponsive patients
+• FibroGen’s claim that roxadustat can treat EPO-hyporesponsive patients is based on a misleading study where EPO 
+
+
+hyporesponders as well as roxadustat non-responders were removed from the analysis
+
+
+16
+PLAINVIEW
+
+
+Point #1: MACE/Mortality Imbalances Appear to be Class Effect
+
+
+• Published data shows large MACE & mortality imbalances across FibroGen’s 
+trials
+• 11/983 roxadustat patients died compared to 0/419 control patients
+
+
+• 23/983 roxadustat patients experienced MACE incidents compared to 1/419 control 
+patients
+
+
+• These imbalances were also seen in competitor GSK and Akebia’s HIF-PH 
+inhibitor trials
+• 9/677 daprodustat patients died compared to 1/192 control patients
+
+
+• 14/677 daprodustat patients experienced MACE incidents compared to 2/192 control 
+patients
+
+
+• 5/522 vadadustat patients died compared to 1/243 control patients
+
+
+• Akebia withheld nearly all adverse event data outside of deaths but reported 7/522 
+MACE incidents in vadadustat patients compared to 1/243 in control patients
+
+
+17MACE/Mortality Imbalances Appear to be Class Effect
+PLAINVIEW
+
+
+MACE/Mortality Rate Consistently Higher in Roxadustat Group
+
+
+• We compiled all FibroGen’s published clinical data in the table below.  
+Roxadustat consistently yielded worse MACE rates compared to EPO/placebo 
+despite higher dropout rates.  This included 11/983 deaths on roxadustat 
+compared to 0/419 deaths on EPO/placebo and 23/983 total MACE incidents 
+compared to 1/419 for EPO/placebo
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 18
+
+
+1     In the poster discussing the Japan Phase 3 DD-CKD trial results, the authors did not provide a complete SAE breakdown, and it is possible that 
+additional MACE incidents occurred that were not disclosed
+PLAINVIEW
+
+
+Roxadustat Trial References
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 19
+
+
+Trial Source Where to Find MACE in Each Publication
+
+
+China Phase 3 – DD-CKD Chen et al 2019 SAEs on p. 13 of  Supp. Appendix
+
+
+Japan Phase 3 – DD-CKD ASN 2018 Akizawa Poster (not available online) Table 5 of poster
+
+
+China Phase 2 – DD-CKD Chen et al 2017 No reported events
+
+
+US Phase 2 – DD-CKD Provenzano et al 2016 SAEs listed in Table 5 of paper
+
+
+US Phase 2b – NDD-CKD Provenzano et al 2016 SAEs listed in Supplemental Table 5
+
+
+US Phase 2 – ID-CKD Besarab et al 2016 SAEs listed on pp. 15-16 of Appendix
+
+
+US Phase 2a – NDD-CKD Besarab et al 2015 No reported events
+
+
+China Phase 3 – NDD-CKD Chen et al 2019 No reported events
+
+
+China Phase 2 – NDD-CKD Chen et al 2017 No reported events
+
+
+• Sources for the numbers in the prior slide are provided below.  The relevant 
+excerpts from each publication (including the Akizawa poster) are provided in 
+the Appendix at the end of this presentation along with brief discussion
+
+
+
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1901713
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+
+https://www.sciencedirect.com/science/article/pii/S0272638616000056
+
+https://cjasn.asnjournals.org/content/11/6/982.short
+
+https://jasn.asnjournals.org/content/27/4/1225
+
+https://academic.oup.com/ndt/article/30/10/1665/2337245
+
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1813599
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+PLAINVIEW
+
+
+Roxadustat MACE Events by Category
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 20
+
+
+1     In the poster discussing the Japan Phase 3 DD-CKD trial results, the authors did not provide a complete SAE breakdown, and it is possible that 
+additional MACE incidents occurred that were not disclosed
+PLAINVIEW
+
+
+MACE Imbalance Even Worse After Adjusting For Treatment Duration
+
+
+• However, event count understates 
+how poorly roxadustat faired:
+• The average treatment duration 
+
+
+based on trial design was longer for 
+control group patients than 
+roxadustat patients (see table)
+
+
+• The dropout rate was 40% higher in 
+the roxadustat group compared to 
+the control (see slide 18)– meaning 
+that actual average treatment 
+duration is even lower in roxadustat 
+patients relative to control
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 21
+
+
+• One concern with dividing total events by total patients is that the varying 
+trial durations and enrollment sizes lead to different treatment durations 
+for the patient groups which could make absolute event rates misleading
+
+
+Note: 
+1    US Phase 2 DD-CKD and US Phase 2b NDD-CKD trials each included two 
+different trial durations.  These are combined in the prior two slides
+PLAINVIEW
+
+
+Class Effect: Higher MACE/Mortality Rates Also True for Daprodustat
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 22
+
+
+• Daprodustat also saw much higher rates of discontinuation, MACE, and 
+death compared to control. See Appendix at the end of this presentation 
+for sources, relevant excerpts & brief discussion
+PLAINVIEW
+
+
+Class Effect: Higher MACE/Mortality Rates Also True for Vadadustat
+
+
+• Akebia has withheld much of its safety data, but based on what is publicly 
+available, vadadustat presents MACE/death imbalances similar to roxadustat 
+and daprodustat. See Appendix at the end of this presentation for sources, 
+relevant excerpts & brief discussion
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 23
+PLAINVIEW
+
+
+Death Imbalance in Additional Daprodustat Trial
+• GSK also conducted a trial to reduce ischemic events in patients undergoing 
+
+
+aortic aneurysm repair where patients were either dosed with daprodustat 
+or placebo.  Daprodustat appeared to have a detrimental effect: 22% (6/27) 
+of daprodustat patients died compared to 7.1% (2/28) of placebo patients
+
+
+• Caveats:
+• The death imbalance was not statistically significant due to low N
+
+
+• The doses of daprodustat used in this trial (300 mg loading & 100 mg QD) were higher 
+than the doses used for treating anemia, so it is not an apples-to-apples comparison–
+but it is still certainly troubling
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 24
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT01920594
+PLAINVIEW
+
+
+MACE Inferiority Even with Questionable In-House Adjudications 
+
+
+• In FibroGen’s publication Besarab et al 2015, the authors claimed that there 
+were no cardiac SAEs in the roxadustat group.  Curiously, one of the non-
+cardiac SAEs in the roxadustat group was deemed to be “dyspnea secondary 
+to worsening congestive heart failure” while another SAE was ruled 
+“noncardiac chest pain” with no further commentary
+
+
+• Phase 3 safety results are generally worse for drugs with hazardous 
+mechanisms of action because:
+• Enrollment is expanded to meet powering requirements, frequently leading to sicker 
+
+
+patients who are more susceptible to adverse events
+
+
+• Adverse event adjudication switches from local principal investigator/sponsor to a 
+blinded third party that is impartial and not invested in the success of a drug
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 25
+
+
+
+https://academic.oup.com/ndt/article/30/10/1665/2337245
+PLAINVIEW
+
+
+Greatest Phase 2 to Phase 3 Turnaround of All Time?
+• Given the extraordinarily poor Phase 2 safety results reported despite in-
+
+
+house adjudications, roxadustat achieving MACE noninferiority in Phase 3 
+would be the greatest Phase 2 to Phase 3 turnaround of all time
+
+
+• We find it highly unlikely that roxadustat inexplicably achieved the safety 
+improvements necessary to reach non-inferiority in Phase 3 after reporting 
+much worse safety in its prior trials
+
+
+• Management’s blatantly misleading statements and refusal to disclose the 
+actual MACE hazard ratios greatly reinforce our view. First rule of 
+biotechnology investing: if Management withholds clinical data, that data is 
+always bad
+
+
+MACE/Mortality Imbalances Appear to be Class Effect 26
+PLAINVIEW
+
+
+Point #2: Roxadustat’s MACE HR is Inferior to EPO
+• During May 2019 call to discuss pooled safety results for roxadustat, analysts repeatedly 
+
+
+asked about the MACE hazard ratios in DD-CKD.  FibroGen Management refused to provide 
+the hazard ratios, but instead said that the total number of MACE incidents was lower for 
+roxadustat in DD-CKD, leading many to erroneously conclude that the hazard ratios were <1
+
+
+• This conclusion is wrong.  The event counts are distorted by the fact that the dropout rate for 
+the roxadustat group was much higher than the dropout rate for the control group. Dropouts 
+become immune to MACE and reduce total possible events but are censored in calculating 
+hazard ratios. Roxadustat dropout rates have been far higher than EPO across FibroGen’s 
+trials: in the China Phase 3 DD-CKD trial, the roxadustat discontinuation rate was 3.4x the 
+EPO discontinuation rate.  The gap in dropouts appears to increase as trial duration increases
+
+
+• We believe the hazard ratio was not disclosed because roxadustat is inferior to EPO– not due 
+to Management’s bizarre claims of being restrained by AstraZeneca and needing to discuss 
+statistical analysis with the FDA well after the trial concluded
+
+
+• FibroGen has confirmed that the roxadustat NDA & MAA are for the DD-CKD and NDD-CKD 
+indications; the ID-CKD safety data is too underpowered to show MACE noninferiority and is 
+irrelevant to drug approval
+
+
+27Roxadustat’s MACE HR is Inferior to EPO
+PLAINVIEW
+
+
+“My Dog Ate My Pivotal Trial Results” 
+• The initial FibroGen press release revealed that roxadustat achieved non-inferiority 
+
+
+for MACE+ and that MACE showed “no clinically meaningful difference” in DD-CKD 
+and NDD-CKD, but did not state that MACE achieved non-inferiority
+
+
+• On the Q1 2019 call discussing the pooled Phase 3 results, FibroGen first claimed that 
+“we have to yet agree with our regulator on specific [MACE] analyses to be done.”
+
+
+• Minutes later, FibroGen Management implied that AstraZeneca was preventing 
+FibroGen from calculating/sharing the MACE hazard ratios (but mysteriously not the 
+MACE+ hazard ratios or any of the other statistics they provided): “We don't expect 
+that MACE will be particularly different than this [MACE+]. It's just that with U.S., we 
+have an agreement with our partner, AstraZeneca, to evaluate under the totality of 
+evidence basis.”
+
+
+• These excuses are absurd.  MACE is a subgroup of MACE+, so if FibroGen had 
+calculated the MACE+ hazard ratios, then FibroGen must have also calculated 
+the MACE hazard ratios.  Even suspending reality and assuming FibroGen could 
+not produce a hazard ratio, they could have easily provided a Kaplan-Meier plot or 
+basic statistical measures such as means/medians to show the data– no complex 
+analysis required
+
+
+28Roxadustat’s MACE HR is Inferior to EPO
+
+
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=253783&p=irol-newsArticle&ID=2398154
+PLAINVIEW
+
+
+Event Count Misdirection
+• When pressed on hazard ratios, FibroGen Management switched the 
+
+
+discussion from hazard ratios to the misleading number of events:
+“So with the MACE+ data, I believe we have numeric advantage in these categories. So 
+there’s 5 categories…Every one of them, we have numeric advantage over ESA. Is that 
+clear enough?”
+
+
+• This was repeated multiple times, and seemed to placate some investors 
+and analysts, with the underlying assumption being that if the total number 
+of events was lower, then the hazard ratio must be <1
+
+
+• This assumption is wrong
+
+
+• The primary safety endpoint for DD-CKD and NDD-CKD is MACE hazard ratio, 
+not total number of MACE events per group
+
+
+Roxadustat’s MACE HR is Inferior to EPO 29
+PLAINVIEW
+
+
+Much Higher Dropout + Lower Number of Events = HR Inferiority
+• The number of events can be lower in the roxadustat group despite HR inferiority because 
+
+
+roxadustat has consistently seen far more patient dropouts compared to EPO
+
+
+• Looking at FibroGen’s public EPO-controlled DD-CKD trial data, the dropout rate in the roxadustat 
+group is up to 3.4x as high as the dropout rate in the EPO group, with the difference increasing 
+with duration:
+
+
+• Looking at the 19-26 week trials, we see that the median discontinuation rate for roxadustat 
+patients is 21.2% compared to 8.7% for placebo, or 2.43x as high.  The dropout discrepancy 
+appears to increase with increased duration and the median duration was significantly higher in 
+the DD-CKD Phase 3 trials: FibroGen reported a mean duration of treatment of 1.9 years in the 
+SIERRAS trial and 1.8 years in HIMALAYAS
+
+
+• The consistently higher dropout rates should also be alarming to investors given that safety is the 
+key endpoint
+
+
+Roxadustat’s MACE HR is Inferior to EPO 30
+
+
+
+https://www.globenewswire.com/news-release/2018/12/20/1670189/0/en/FibroGen-Announces-Positive-Topline-Results-from-Three-Global-Phase-3-Trials-of-Roxadustat-for-Treatment-of-Anemia-in-Patients-with-Chronic-Kidney-Disease.html
+PLAINVIEW
+
+
+Hazard Ratio Refresher
+• Hazard ratios (HRs) measure the likelihood of a specific event occurring in 
+
+
+one population compared to the likelihood of the same event occurring in 
+another population over a given time horizon
+
+
+• HRs are not the total number of events in one group divided by the other 
+group. “Total events” is not a useful measure (particularly in the case of 
+roxadustat) because dropouts become immune to survival endpoints due 
+to censoring and would inappropriately benefit their group by reducing 
+total possible events
+
+
+• Dropouts are addressed by using Kaplan-Meier estimate censoring: once a 
+patient drops out, he/she is censored from future event probability 
+calculation. The operating assumption is that dropouts would have had the 
+same probability of experiencing an event in the future as the rest of the 
+population
+
+
+Roxadustat’s MACE HR is Inferior to EPO 31
+PLAINVIEW
+
+
+Hazard Ratio Refresher
+• HRs can be thought of as the tangent slope of the Kaplan-Meier (K-M) event 
+
+
+curve for one group divided by the tangent slope of the K-M curve for the 
+other group.  The relative slope represents the relative probability of an 
+event occurring: if Survival Curve 1 (SC1) has a slope of -5% (meaning that, 
+on average, 5% of the population experiences the event per time period) 
+and Survival Curve 2 (SC2) has a slope of -10% (meaning that, on average, 
+10% of the population experiences the event per time period), the event is 
+twice as likely to occur during a given time period in the Survival Curve 2 
+group.  The HR for SC1 would be 0.5 and the HR for SC2 would be 2.0
+
+
+• The tangent slope is rarely (if ever) constant, and so each K-M curve 
+generates a range of slopes (and thus hazard ratios) which can be used to 
+calculate confidence intervals
+
+
+Roxadustat’s MACE HR is Inferior to EPO 32
+PLAINVIEW
+
+
+Hazard Ratio Refresher
+• In a simple example, we look at two populations where one population has an 
+
+
+event rate of 5%/year and a dropout rate of 5%/year while the other 
+population has an event rate of 7.5%/year and a dropout rate of 15%/year.  
+Despite having a lower total event count, the hazard ratio for the second 
+population is much higher and the K-M curve plainly illustrates worse survival:
+
+
+Roxadustat’s MACE HR is Inferior to EPO 33
+
+
+Higher Event Rate + Higher Dropout Rate = Lower Event Count & HR>1
+PLAINVIEW
+
+
+High Dropout Rate Suppresses MACE Event Count
+• Another HIF-PH inhibitor, Bayer’s molidustat, reported comparable MACE 
+
+
+event rates between the trial group and control in Macdougall et al 2019.  
+However, we think this is attributable to the astronomically higher dropout 
+rate in the molidustat group (38% vs. 11%), not to any difference between 
+molidustat and the other HIF-PH inhibitors.  The control completion rate was 
+nearly 50% higher than molidustat (89% control vs. 62% molidustat)
+
+
+Roxadustat’s MACE HR is Inferior to EPO 34
+
+
+
+https://cjasn.asnjournals.org/content/clinjasn/14/1/28.full.pdf
+PLAINVIEW
+
+
+ID-CKD: Powering Insufficient to Draw Conclusions
+• FibroGen claims that roxadustat achieved “directionally lower MACE risk than 
+
+
+EPO” in the ID-CKD subpopulation 
+
+
+• FibroGen’s decision to frame the ID-CKD hazard ratio as showing “directionally 
+lower” MACE risk without any mention of non-inferiority indicates that the 
+confidence interval did not achieve non-inferiority
+
+
+• We can roughly estimate the confidence interval for the ID-CKD data based on 
+prior confidence interval of the CHOIR trial, which enrolled a similar size 
+population (CHOIR n = 1,432, FibroGen ID-CKD n = 1,526)
+
+
+• The hazard ratio in the CHOIR trial was 1.28 with a 95% confidence interval of 
+(1.03, 1.75).  With the same confidence interval range of (-0.25,+0.47), roxadustat 
+would have needed to achieve an HR of 0.83 just to prove non-inferiority
+
+
+• The confidence interval for ID-CKD is likely even wider than the CHOIR trial due to 
+1) ID-CKD patients experiencing more frequent events compared to the stable 
+dialysis patients enrolled in CHOIR and 2) roxadustat’s high dropout rate
+
+
+Roxadustat’s MACE HR is Inferior to EPO 35
+PLAINVIEW
+
+
+ID-CKD MACE: Not a Primary Safety Endpoint
+
+
+• We find it highly unlikely that HIF-PH inhibitors can achieve superiority or even 
+non-inferiority vs. EPO in any setting given the preponderance of clinical evidence 
+from FibroGen, Akebia, and GSK that HIF-PH inhibitors increase MACE risk relative 
+to EPO
+
+
+• We note that in FibroGen’s prior uncontrolled ID-CKD roxadustat trial, 3% (2/60) of 
+roxadustat patients experienced MACE events (both deaths) within 12 weeks
+
+
+• It is far more likely that the “directionally lower MACE risk” is the product of the 
+higher variance in the ID-CKD pool fueled by more frequent events and a smaller N
+
+
+• Regardless, the ID-CKD results are insufficient to support an NDA in terms of 
+powering.  As FibroGen has stated multiple times (including on the most recent 
+August 8, 2019 Q2 2019 conference call), the NDA is to be submitted for the DD-
+CKD and NDD-CKD indications– not for ID-CKD
+
+
+Roxadustat’s MACE HR is Inferior to EPO 36
+PLAINVIEW
+
+
+Point #3: Roxadustat’s MACE HR is Inferior to Placebo
+
+
+• FibroGen Management refused to disclose the NDD-CKD MACE hazard ratio, 
+but instead said that under a “conservative” post-hoc intention-to-treat (ITT) 
+analysis, roxadustat achieved non-inferiority
+
+
+• The difference between standard Kaplan-Meier analysis and ITT analysis is that 
+Kaplan-Meier censors patients after drug discontinuation while ITT does not
+
+
+• Evaluating safety using an ITT analysis is the opposite of conservative: ITT 
+analyses include dropouts who are no longer taking study medication, which 
+dilutes any drug-driven safety signal 
+
+
+• If Management calculated the ITT MACE HR (HR including dropouts), then 
+Management must have also calculated the primary safety endpoint: the MACE 
+hazard ratio corrected for study dropouts via censoring.  We believe FibroGen 
+withheld the primary safety endpoint because roxadustat failed to achieve non-
+inferiority to placebo
+
+
+37Roxadustat’s MACE HR is Inferior to Placebo
+PLAINVIEW
+
+
+NDD-CKD MACE HR Failed to Achieve Non-Inferiority
+• Like DD-CKD, FibroGen declined to provide the MACE HR for NDD-CKD.  We 
+
+
+chalk this up to roxadustat failing to achieve MACE non-inferiority compared 
+to control
+
+
+• This is not surprising: if roxadustat could not show MACE non-inferiority to 
+EPO and EPO is known to increase MACE risk, one would expect that 
+roxadustat would also be inferior to placebo in terms of MACE risk
+
+
+• FibroGen did not tout a lower event count for roxadustat in NDD-CKD– we 
+believe this is at least in part because the NDD-CKD placebo dropout rates 
+were closer to roxadustat than the DD-CKD EPO dropout rate (see slide 18), 
+and thus the event count for NDD-CKD was not as skewed by dropouts
+
+
+Roxadustat’s MACE HR is Inferior to Placebo 38
+PLAINVIEW
+
+
+Intention-To-Treat Vs. Kaplan-Meier
+• Instead of providing the actual NDD-CKD MACE HR, FibroGen told investors 
+
+
+that the NDD-CKD ITT MACE HR was non-inferior to placebo
+
+
+• Intention-to-treat (“ITT”) is typically used for evaluating drug efficacy 
+(particularly in cancer) in order to avoid survivorship bias in determining 
+how effective a drug is: patients who respond to a drug are more likely to 
+continue taking it than patients who do not respond
+
+
+• ITT is completely inappropriate for evaluating safety because it dilutes the 
+safety data by including safety data of patients who are not taking the drug
+
+
+• The standard method for evaluating safety measures such as MACE is a 
+Kaplan-Meier (K-M) analysis.  K-M analyses accounts for dropouts by 
+censoring them.  Patients are included in the safety population until they 
+stop taking the drug after which they are excluded from analysis– because 
+they are no longer taking the drug
+
+
+Roxadustat’s MACE HR is Inferior to Placebo 39
+PLAINVIEW
+
+
+Roxadustat NDD-CKD NDA Based On K-M HR, Not ITT HR
+• On the Q2 2019 call, Management discussed the results of its pre-NDA FDA 
+
+
+meeting (emphasis added): “And in terms of the way that the time to MACE 
+primary endpoint is being analyzed in nondialysis, this will account for 
+differential drop out between our drug and placebo, whereas you know 
+that because placebo doesn't work in treating anemia, placebo patients had 
+a tendency to drop out earlier. And we have reached agreement on statistical 
+method that accounts for that.”
+
+
+• Management did not mention “ITT” at any point during the Q2 2019 call
+
+
+• Differential dropout rates are accounted for via Kaplan-Meier censoring; ITT 
+is diluted by dropouts.  Barring some other nonconventional way of 
+accounting for dropouts, this confirms that the NDA will use the 
+conventional Kaplan-Meier analysis MACE HR rather than the ITT MACE HR
+
+
+Roxadustat’s MACE HR is Inferior to Placebo 40
+PLAINVIEW
+
+
+Roxadustat Clinical Data Summary
+• All evidence points to roxadustat producing significantly higher MACE HR 
+
+
+compared to EPO/placebo:
+
+
+ Dropout rate is much higher in roxadustat group vs. EPO group across trials 
+for all HIF-PH inhibitors, pointing to serious safety issues and allowing for 
+lower total event rates and statistically significant inferiority at the same time
+
+
+ Reported MACE rate of 23/983 in roxadustat vs. 1/419 in control
+
+
+ Reported mortality rate of 11/983 in roxadustat vs. 0/419 in
+
+
+ Similar MACE/mortality imbalances in competing HIF-PH inhibitors, 
+indicating class effect
+
+
+ FibroGen Management made misleading statements & refused to disclose 
+actual MACE HRs
+
+
+Roxadustat’s MACE HR is Inferior to Placebo 41
+PLAINVIEW
+
+
+Point #4: MACE+ Inflated by Prohibiting IV Iron & Using Placebo Comparator
+
+
+• The principal safety concern for ESAs/HIF-PH inhibitors is increased risk of 
+thrombosis which manifests as MACE: stroke, myocardial infarction, and death
+
+
+• The “+” in MACE+ is hospitalizations for congestive heart failure/unstable 
+angina– which are frequently driven by anemia rather than thrombosis.  
+Looking at MACE+ instead of MACE masks the real risk (potentially fatal blood 
+clots) with temporary symptoms driven by an unrelated cause
+
+
+• FibroGen prohibited IV iron, a key part of EPO therapy that is not necessary for 
+HIF-PH inhibitors.  Doing so increased anemia in control groups and thus 
+artificially inflated the control group MACE+ rates in the DD-CKD trials
+
+
+• In the NDD-CKD trials, a placebo comparator combined with the IV iron ban 
+inflated control group anemia and MACE+ rates
+
+
+• MACE+ noninferiority will not make regulators overlook clear MACE inferiority
+
+
+42
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+
+
+Comparator
+PLAINVIEW
+
+
+EPO Requires IV Iron & Roxadustat Does Not
+• Iron is a key component of hemoglobin
+
+
+• Using exogenous EPO in patients skips 
+steps of the HIF pathway, including those 
+that enhance iron absorption and transport 
+in the body 
+
+
+• Because iron absorption/transport is not 
+enhanced in EPO patients, IV iron 
+supplementation is frequently essential in 
+EPO patients to ensure sufficient iron is 
+available for erythropoiesis
+
+
+• HIF-PH inhibitors (including roxadustat) 
+drastically reduce the need for IV iron by 
+improving iron absorption/transport
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+43
+PLAINVIEW
+
+
+Prohibiting IV Iron Inflated Anemia Rate in Control Group
+
+
+• FibroGen noted in its December 2018 topline press release that 
+“…roxadustat-treated patients had a 33% reduction in the risk of blood 
+transfusion compared to epoetin alfa (HR=0.67) in the time to first blood 
+transfusion during treatment, p=0.0337.”  Note that a 33% reduction in risk 
+in the roxadustat population equates to a ~50% increase in risk in the EPO 
+population (1/.67 = 1.49)
+
+
+• FibroGen attributes the decreased risk of rescue therapy to roxadustat’s 
+ability to treat EPO-resistant patients.  This claim is wrong– as we show in 
+Point #6 of this presentation, HIF-PH inhibitors do not work in true EPO 
+hyporesponders
+
+
+• The difference is attributable to the fact that IV iron is a key part of EPO 
+therapy and it was prohibited (except as rescue therapy) in FibroGen’s trials
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+44
+
+
+
+https://www.globenewswire.com/news-release/2018/12/20/1670189/0/en/FibroGen-Announces-Positive-Topline-Results-from-Three-Global-Phase-3-Trials-of-Roxadustat-for-Treatment-of-Anemia-in-Patients-with-Chronic-Kidney-Disease.html
+PLAINVIEW
+
+
+Prohibiting IV Iron Increases Anemic Events By Reducing EPO Efficacy
+
+
+• In the roxadustat Phase 2 trial (Provenzano et al 2016), the investigators 
+prohibited IV iron use in both groups
+
+
+• The EPO Hb response rate was only 33% compared to 79% Hb response rate in the 
+high-dose roxadustat group.*  However, this trial screened out all EPO 
+hyporesponders prior to randomization–the fact that only 33% of EPO patients in 
+the trial achieved Hb responses is reflective of the impact of prohibiting IV iron, 
+not the efficacy of EPO treatment, and demonstrates that restricting IV iron has 
+a far greater impact on EPO patients than on roxadustat patients
+
+
+• This demonstrates the enormous impact that prohibiting IV iron has on successful 
+treatment with EPO: Kharagjitsingh et al 2005 conducted a retrospective study and 
+concluded that the true EPO hypo-response rate is only 3.3% (57/1,677 patients) 
+with an even lower incidence rate of 16.7 per 1,000 patient-years
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+45
+
+
+*Roxadustat was dosed at 1.5-2.0 mg/kg in the high-dose group, comparable to roxadustat’s Phase 3 dosing of 100 mg 
+starting dose in patients <60 kg and 120 mg in patients >60 kg)
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+
+https://www.sciencedirect.com/science/article/pii/S0085253815509502
+PLAINVIEW
+
+
+Anemia Drives CHF/Unstable Angina
+• In Bhavanadhar et al 2016, the authors found that 58.2% of patients hospitalized 
+
+
+for unstable angina were experiencing anemia. The authors noted that anemia 
+drives angina and CHF, citing the textbook Clinical Hematology (Wintrobe 2008):
+
+
+“It is well established in patients with known CVD that anaemia has adverse 
+effects on myocardial oxygenation resulting in provocation or 
+acceleration of angina, and may worsen Congestive Heart Failure (CHF).”
+
+
+• Anemia, unstable angina, and CHF symptoms are all caused by reduced 
+oxygenated blood flow and present with similar symptoms.  They also frequently 
+occur concurrently, making it difficult if not impossible for adjudicators to 
+distinguish between hospitalization for anemia and hospitalization for angina/CHF 
+unrelated to anemia
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+46
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5020290/
+PLAINVIEW
+
+
+Anemia Vs. Unstable Angina/CHF
+
+
+• Symptoms of anemia, unstable angina, and CHF are all very similar and 
+frequently occur concurrently, raising issues with adjudicating “+” events for 
+MACE+: 
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+47
+
+
+Dyspnea
+
+
+Fatigue
+
+
+Weakness
+
+
+Edema
+
+
+Chest Pain
+
+
+Dizziness
+
+
+Anemia
+Unstable 
+AnginaCHF
+PLAINVIEW
+
+
+Prohibiting IV Iron Contradicts Real-World Practices
+
+
+• Macdougall 2017 provides a concise summary of prior trials comparing IV 
+iron with oral/no iron in patients on EPO and shows that IV iron enhanced 
+Hb responses with lower EPO requirements compared to oral or no iron
+
+
+• Dosing anemic hemodialysis patients with EPO + IV iron is standard practice: 
+the USRDS 2018 data report found that in May 2017, 78% of dialysis patients 
+were on EPO and 62% of dialysis patients were on IV iron
+
+
+• Iron is required to complete erythropoiesis, and prohibiting parenteral iron 
+paints an unrealistically favorable picture of roxadustat’s relative efficacy
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+48
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716151/pdf/sfx043.pdf
+
+https://www.usrds.org/2018/view/v1_00.aspx
+PLAINVIEW
+
+
+Prohibiting IV Iron Inflates EPO Group “+” in MACE+
+• GSK has published results for two 24-week trials of its HIF-PH inhibitor 
+
+
+daprodustat vs. EPO: one where IV iron was not restricted (Meadowcroft et 
+al 2018), and one where IV iron was restricted (Holdstock et al 2018)
+
+
+• MACE rates were higher for daprodustat in both trials, but MACE+ was lower 
+for daprodustat in the iron-restricted trial.  In the iron-restricted trial, 2/170 
+daprodustat patients reported “+” events vs. 4/80 EPO patients
+
+
+• In the trial where iron was not restricted, the “+” event rates were similar.  
+3/177 daprodustat patients reported “+” events vs. 1/39 EPO patients 
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+49
+
+
+
+https://academic.oup.com/ckj/article/12/1/139/4944172
+
+https://academic.oup.com/ckj/article/12/1/129/4925438
+PLAINVIEW
+
+
+Prohibiting IV Iron Also Forces Increased EPO Dosing
+• In its May press release, FibroGen 
+
+
+touted that in one Phase 3 DD-CKD trial, 
+EPO dosing increased by 57% over 52 
+weeks while roxadustat dosing stayed 
+stable: “In SIERRAS, roxadustat dose 
+requirements remained stable over 
+time, while epoetin alfa dose 
+requirements increased by 57% over 52 
+weeks in the epoetin arm.”
+
+
+• This is evidence of the adverse effect of 
+restricting IV iron on EPO patients; 
+other EPO trials show stable EPO dosing 
+over 52 weeks (and beyond).  See right 
+for the EPO dosing from the CHOIR trial:
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+50
+
+
+Source: CHOIR Trial (Singh et al 2006)
+
+
+EPO dosing is stable @ 52 weeks in 
+CHOIR trial while prohibiting IV iron 
+forced a 57% increase in EPO dosing in 
+FibroGen’s SIERRAS trial
+
+
+
+https://www.globenewswire.com/news-release/2019/05/09/1821450/0/en/FibroGen-Announces-Positive-Topline-Results-from-Pooled-Safety-Analyses-of-Roxadustat-Global-Phase-3-Program.html
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa065485
+PLAINVIEW
+
+
+Increased EPO Dosing Worsens Event Profile
+• In the CHOIR trial, 
+
+
+investigators found that the 
+high Hb group experienced 
+composite events 
+significantly more frequently 
+compared to the low Hb 
+group, with a hazard ratio of 
+1.34 (1.03 to 1.75)
+
+
+• Patients in the high Hb 
+group were, on average, 
+receiving roughly double the 
+EPO dose of the low Hb 
+group (see prior slide)
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+51
+
+
+Source: CHOIR Trial (Singh et al 2006)
+
+
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa065485
+PLAINVIEW
+
+
+MACE is Principal Measure of Safety 
+• FibroGen’s MACE+ results are a red herring driven by FibroGen’s decisions to 
+
+
+1) prohibit patients from using parenteral iron and 2) use placebo 
+comparators in the NDD-CKD trials, which artificially inflated the anemia 
+rates in the control groups and thus control group MACE+ rates
+
+
+• The primary concern with EPO and HIF-PH inhibitors is that they can cause 
+thrombosis leading to MACE; the “+” in MACE+ is particularly irrelevant to 
+this given FibroGen’s trial protocol
+
+
+• We note that the primary safety endpoint for the FDA NDA is MACE and on 
+p. 47 of its Q2 2019 10-Q, FibroGen (for the first time) disclosed that the 
+EMA will be reviewing MACE as well
+
+
+• The entire point of a primary safety endpoint is to weed out unsafe drugs–
+MACE inferiority would show that roxadustat is not safe regardless of MACE+
+
+
+MACE+ Inflated by Prohibiting IV Iron & Using Placebo 
+Comparator
+
+
+52
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/921299/000156459019030812/fgen-10q_20190630.htm
+PLAINVIEW
+
+
+Point #5: HIF-PH Inhibitor Mechanism of Action is Flawed
+
+
+• EPO is part of the HIF pathway and lies downstream from HIF. HIFs have been 
+shown to induce hypertension, fibrosis, immune suppression, and other 
+adverse effects through EPO-independent mechanisms
+
+
+• HIF-PH inhibitors are flawed compared to EPO because EPO is highly specific to 
+erythropoiesis and HIFs are not
+
+
+• The pro-HIF-PH inhibitor theory is that administering HIF-PH inhibitors lowers 
+total EPO exposure, which improves safety.  The anti-HIF-PH inhibitor thesis is 
+that the pleiotropic effects of HIFs are more dangerous than higher EPO 
+exposure
+
+
+• The large MACE & mortality imbalances and higher dropout rates in published 
+HIF-PH inhibitor trial data show that HIFs’ problematic effects vastly outweigh 
+lower systemic exposure to EPO
+
+
+53HIF-PH Inhibitor Mechanism of Action is Flawed
+PLAINVIEW
+
+
+Review: The HIF-EPO Pathway
+• Under normal conditions 
+
+
+(normoxia), HIF-α (HIF-1α and HIF-
+2α) is eliminated via ubiquitination 
+by the Von Hippel Lindau E3 ligase 
+(VHL) after being tagged by prolyl 
+hydroxylase domain-containing 
+proteins (PHD)
+
+
+• Under hypoxic conditions, HIF-
+PHDs cease to function, which 
+allows for HIF-α to enter the 
+nucleus and activate gene 
+transcription: mimicking this by 
+blocking PHDs is the intended 
+mechanism of action of roxadustat 
+and other HIF-PH inhibitors
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 54
+
+
+Source: Chen & Lou 2017
+
+
+
+https://pdfs.semanticscholar.org/0629/96867b01eda2f5dcab18feab0f266096beb6.pdf
+PLAINVIEW
+
+
+Review: The HIF-EPO Pathway
+• With the inhibition of HIF-
+
+
+PHs, HIF stimulates 
+transcription of target 
+genes
+
+
+• In addition to the ESA 
+(EPO) and iron 
+homeostasis genes in the 
+diagram, HIF-α (HIF-1α & 
+HIF-2α) also activates 
+transcription of other 
+genes that serve no 
+purpose in erythropoiesis
+
+
+• These include genes 
+linked to hypertension, 
+fibrosis, and other 
+adverse effects
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 55
+
+
+Source: FibroGen presentation
+
+
+
+http://www.nephro.ru/index.php?r=conferences/downloadPdfFile&presentationId=194
+PLAINVIEW
+
+
+Hypoxia Induces Hypertension
+• Patients with sleep apnea (a disorder where breathing repeatedly stops and 
+
+
+starts while the patient is sleeping) are exposed to repeated hypoxia and 
+offer insight into the effects of chronic activation of the HIF pathway
+
+
+• Studies identify sleep apnea as a major contributor to increased risk of 
+hypertension and MACE:
+• Peppard et al 2000 found a dose-response association between hypoxic events and 
+
+
+hypertension in sleep apnea patients
+
+
+• Lin et al 2017 compared outcomes for 2,699 patients with obstructive sleep apnea 
+(OSA) and 13,490 non-OSA patients, and found that the MACE incidence rate was 
+1.95-fold in OSA patients compared to non-OSA
+
+
+• Yacoub et al 2018 estimated the prevalence of sleep apnea in drug-resistant 
+hypertension at 80%
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 56
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10805822
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694931/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5891150/#R6
+PLAINVIEW
+
+
+HIF-1α is Implicated in Hypertension
+• Yamashita et al 2001: HIF-1α binds to an ET-1 promoter, which activates ET-1 
+
+
+expression in endothelial cells.  ET-1 acts as a potent vasoconstrictor, and is linked 
+to hypertension & heart failure progression
+
+
+• Diebold et al 2010: HIF-1α activates NOX4 gene, which leads to increased reactive 
+oxygen species and pulmonary arterial smooth muscle cells which have been 
+implicated in pulmonary hypertension
+
+
+• Eckle et al 2014: HIF-1α is a transcriptional regulator of the A2B adenosine 
+receptor (ADORA2B) which modulates development of pulmonary hypertension 
+by mediating the release of hyaluronan, an extracellular matrix component 
+implicated in development of pulmonary hypertension
+
+
+• Nanduri et al 2015: HIF-1α upregulation leads to a transcriptional imbalance 
+favoring pro-oxidant genes, and those genes drive increased generation of reactive 
+oxygen species which cause hypertension
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 57
+
+
+
+http://www.jbc.org/content/276/16/12645.full.pdf
+
+https://www.molbiolcell.org/doi/full/10.1091/mbc.e09-12-1003
+
+https://www.jimmunol.org/content/jimmunol/192/3/1249.full.pdf
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4409567/
+PLAINVIEW
+
+
+HIF-2α is Implicated in Pulmonary Hypertension
+• Cowburn et al 2016: The rise in right ventricular systolic pressure (RVSP) normally 
+
+
+observed following chronic hypoxic exposure was absent in mice with pulmonary 
+endothelial HIF-2α deletion without affecting hypoxic Hb response, implicating 
+HIF-2α
+
+
+• Kapitsinou et al 2016: Inactivation of PHD2 (a target of roxadustat and other HIF-
+PH inhibitors) led to a 118% increase in right ventricular systolic pressure, and the 
+development of pulmonary hypertension was dependent on HIF-2α
+
+
+• Bryant et al 2016: Deletion of HIF in mice protected them from development of 
+pulmonary hypertension following induction of lung fibrosis via bleomycin.  HIF 
+deletion also protected mice from pulmonary hypertension following chronic 
+hypoxia
+
+
+• Dai et al 2016: Removing PHD2 (HIF-PH inhibitor target) from mice led to severe 
+HIF-2α-mediated pulmonary arterial hypertension, with 12/15 mice dying within 5 
+months vs. 0/15 control mice
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 58
+
+
+
+https://www.pnas.org/content/113/31/8801.short
+
+https://mcb.asm.org/content/36/10/1584.short
+
+https://www.ncbi.nlm.nih.gov/pubmed/26637636
+
+https://www.ncbi.nlm.nih.gov/pubmed/27143681
+PLAINVIEW
+
+
+HIFs & HIF-PHis are Implicated in Fibrosis
+• Higgins et al 2004: HIF-1α induces CTGF transcription, which may mediate 
+
+
+pro-fibrotic effects of TGF-β1
+
+
+• Higgins et al 2007: HIF-1α leads to fibrosis by stimulating epithelial-to-
+mesenchymal transition by upregulating lysyl oxidase genes and increasing 
+expression of extracellular matrix modifying factors
+
+
+• Ueno et al 2011: TGF-β1 upregulates 58 genes through an HIF-1α-dependent 
+mechanism, including pro-fibrotic genes such as PAI-1
+
+
+• Baumann et al 2016: HIF-1α stimulates COL1A2 transcription which is 
+implicated in renal fibrosis. HIF-1α knockout conferred renal protection to 
+mice
+
+
+• Li et al 2019: HIF-PH inhibition led to tubulointerstitial fibrosis via HIF-1α-
+induced transcription of KLF5 which promotes fibrosis via TGF-β1
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 59
+
+
+
+https://www.physiology.org/doi/full/10.1152/ajprenal.00245.2004
+
+https://www.jci.org/articles/view/30487
+
+https://www.ncbi.nlm.nih.gov/pubmed/21239537
+
+https://www.sciencedirect.com/science/article/abs/pii/S0085253816302964
+
+https://www.fasebj.org/doi/abs/10.1096/fj.201901087RR
+PLAINVIEW
+
+
+HIF-1α Implicated in Atherosclerosis through Multiple Pathways
+
+
+• Gao et al 2012
+postulated that HIF-
+1α is involved in the 
+development of 
+atherosclerosis via 
+multiple pathways 
+(see diagram)
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 60
+
+
+Source: Gao et al 2012
+
+
+
+https://jcp.bmj.com/content/jclinpath/65/10/872.full.pdf
+
+https://jcp.bmj.com/content/jclinpath/65/10/872.full.pdf
+PLAINVIEW
+
+
+HIF-PH Inhibition Has Many Off-Target Effects
+
+
+• Prolyl-hydroxylase domains 
+are not exclusive to 
+regulating HIFs: Strowitzki et 
+al 2019 summarizes other 
+prolyl hydroxylase targets 
+that would be impacted by 
+HIF-PHis, including NF-κB (via 
+IKKb), p53, FOXO3a, MAPK6, 
+Cep192, and ZHX2.  The 
+authors note that “hundreds 
+of genes have been reported 
+to be sensitive to hypoxia.”
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 61
+
+
+Source: Strowitzki et al 2019
+
+
+
+https://www.mdpi.com/2073-4409/8/5/384
+
+https://www.mdpi.com/2073-4409/8/5/384
+PLAINVIEW
+
+
+…And Roxadustat/HIF-PHis Aren’t Even Specific to HIF-PHs
+• HIF-PH inhibitors (roxadustat in particular) are not specific to the HIF-PHs: 
+
+
+Kiriakidis et al 2017 found that dosing mice with 10 mg/kg roxadustat led to 
+a 50% decline in C1q secretion, negatively impacting immune responses.  
+
+
+• The authors concluded that this was likely due to roxadustat also inhibiting 
+the collagen prolyl-4-hydroxylases, which are necessary for formation of C1q
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 62
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0085253817301801
+PLAINVIEW
+
+
+HIF-PH Inhibition Suppresses Innate Immune System
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 63
+
+
+3,4-DHB is an HIF-PH inhibitor. Administration of 3,4-DHB in septic (CLP or PCI) 
+mice led to significantly worse survival outcomes compared with control
+
+
+• Kiriakidis et al 2017 also noted that the study Schindler et al 2016 found that HIF-
+PH inhibition in septic mice led to significantly higher mortality rates.  This is likely 
+a product of the HIF-PHi-induced immune suppression via C1q suppression (see 
+prior slide):
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0085253817301801
+
+https://watermark.silverchair.com/gfv442.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlcwggJTBgkqhkiG9w0BBwagggJEMIICQAIBADCCAjkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM3cfdlUQAFIcK95cQAgEQgIICCmQE9fxOpacfUo-FYCfkVaDI8pKEwgnCRgq8D5ZbrKjlah-efjPLGKEUcPXpKWmAgQ4_0xqldLgNgLKeICSzxvvDiPRXNz_O7IACf0kL7eSSfJFEimzapvb8zFdiJ0q52Ws69_QHvgUK4_eyfMaBal-82E5e_9n65asESBnGx7Ifk2A0gYDmBBY3tFoMhLbLxWrWW48-VYn2aDeDXZLurOwei_rQYC3JjAQIlJjT83P5kgxzMZUw7YDIys-OWq2_Vzgx9iAkzH8cYzU0vshw1PlNrp1kKqA7fYQrwxc1v3_g5wyXIxiIbG95ghj-ZzCT_r6Y4ExLxyp-ySELMrtXg9rpT-v8QdeMj6hwhNvjVSuz9FvlmY0JK346dfdt-KZvXQqAiMA6ZXCPsN31vYAKqfpgET2HZYwN1yZ4BR8-6_j1D3luKf9DqVIjg4PhSQv3cnrOS9t5XBmi-GlLNnUFRFwEK4FgTIMnwwV-u3dXElcivVKpMqMPvh0qUyhLszqNF9qZ1xrQJp4ZtzyKJgD9uEmrbducr38GJG-0SoQdL1Kw0ttSvrR6mcjmLh3JFOq3dfX1Gsgi8h-RkvnD5Vl50-eCjC9WTUYccayeN-PQ4VYrc13xReMk7sqa_o89PmZGAbXQGDC-aMJIv7W0bVkE8ySx5-CIyyQxDl6Yb3yb7uL5_TY3OrJ2jb21uQ
+PLAINVIEW
+
+
+Other Adverse Effects of HIFs
+
+
+• Cheng et al 2014 concluded that HIF-1α collaborates with Notch-1 to induce 
+neuronal death in ischemic strokes, and that inhibiting HIF-1α decreased 
+neuronal death
+
+
+• While companies developing HIF-PH inhibitors have not admitted to any pro-
+oncogenic safety signals, HIF is also strongly implicated in cancer
+• It has also been shown that HIF-1α and HIF-2α expression in tumors is associated with 
+
+
+worse progression-free survival and overall survival
+
+
+• Peloton Therapeutics’ HIF-2α inhibitor PT2385 produced a 22% monotherapy ORR in 
+2L+ ccRCC patients while its HIF-2α inhibitor PT2977 produced a 24% ORR in 2L+ 
+mRCC patients
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 64
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0969996113002842
+
+https://media4.asco.org/114/7374/73234/73234_poster_big_1.jpg
+
+https://meetinglibrary.asco.org/record/169479/abstract
+
+https://oncologypro.esmo.org/Meeting-Resources/ESMO-2019-Congress/A-First-in-Human-Phase-1-2-Trial-of-the-Oral-HIF-2a-Inhibitor-PT2977-in-Patients-with-Advanced-RCC
+PLAINVIEW
+
+
+HIF Exposure Greatly Outweighs Reduced EPO Exposure
+
+
+• There are likely multiple factors driving the imbalance in deaths, MACE and 
+dropout rates between HIF-PH inhibitors and EPO
+
+
+• The pro-roxadustat/HIF-PH inhibitor thesis is that EPO exposure is the 
+principal culprit in deaths/MACE in both EPO and HIF-PH inhibitor patients 
+and HIF-PH inhibitors can achieve equivalent increases in Hb with lower EPO 
+exposure; therefore, HIF-PH inhibitors should reduce MACE risk
+
+
+• The dramatic MACE/death imbalance seen in clinical data showed that this 
+theory was wrong.  The consistently higher dropout rate in the HIF-PH 
+inhibitor groups across trials also pose additional safety concerns, and the 
+real-world safety difference is even greater than FibroGen’s trials suggest 
+due to FibroGen’s disingenuous decision to prohibit IV iron, which inflated 
+EPO dosing in the control group far beyond where it would have been under 
+real-world conditions
+
+
+HIF-PH Inhibitor Mechanism of Action is Flawed 65
+PLAINVIEW
+
+
+Point #6: Roxadustat Does Not Work in EPO Hyporesponders
+
+
+• FibroGen references two pieces of evidence to show that roxadustat can 
+adequately treat EPO hyporesponders. Both are misleading and wrong:
+• Provenzano et al 2016 showed that roxadustat seemed to have similar impact on patients 
+
+
+regardless of CRP levels, with the implicit assumption that CRP is the key determinant of EPO 
+hyporesponsiveness.  The problem is that Provenzano 1) screened out EPO hyporesponders 
+during enrollment and 2) did not include the roxadustat non-responders (16%, 9/58) in the 
+analysis.  The only real takeaway is that roxadustat works in 100% of the subgroup that 
+roxadustat works in 
+
+
+• In multiple studies, roxadustat patients achieved higher Hb levels compared to EPO patients.  
+This was a result of FibroGen prohibiting use of IV iron, a critical part of EPO therapy– not of 
+superior efficacy.  Competitor HIF-PH inhibitor trials permitting IV iron showed no difference 
+in Hb
+
+
+• GlaxoSmithKline conducted a study of its HIF-PH inhibitor daprodustat among 
+EPO-hyporesponsive patients, and found that daprodustat produced no Hb 
+response in those patients.  This is likely true for the entire HIF-PH inhibitor class
+
+
+66Roxadustat Does Not Work in EPO Hyporesponders
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035126/
+PLAINVIEW
+
+
+FibroGen’s EPO Hyporesponse Theory
+• Inflammation drives an increase in hepcidin, which binds to ferroportin and thus 
+
+
+suppresses absorption and extracellular release of iron
+
+
+• HIFs are known to decrease hepcidin levels; this improves iron transport for 
+patients
+
+
+• The theory presented by FibroGen is that the principal cause of EPO 
+hyporesponsiveness is inflammation limiting iron absorption and transportation, 
+and using HIF-PH inhibitors helps combat this by decreasing hepcidin levels and 
+increasing iron absorption/transport
+
+
+• FibroGen’s principal support for this theory comes from Provenzano et al 2016, 
+where the authors measured inflammation based on C-reactive protein (CRP) 
+levels and used CRP as a proxy for EPO hyporesponsiveness.  The theory is that 
+inflammation (high CRP) causes EPO hyporesponse, so therefore if roxadustat 
+works in patients with high CRP levels, then this means it will work in EPO 
+hyporesponders.  As we show, the study was extremely misleading and wrong
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 67
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+PLAINVIEW
+
+
+Problem #1: Provenzano Excluded Roxadustat Non-Responders
+
+
+• There are two problems with the Provenzano et al 2016 analysis: first, the 
+authors excluded all the patients who discontinued roxadustat due to lack of 
+efficacy:
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 68
+
+
+Excluding patients for lack of efficacy 
+makes the subsequent declaration 
+that CRP levels do not affect 
+roxadustat efficacy completely 
+meaningless– of course roxadustat 
+works for all patients after excluding 
+the 16% of patients it did not work 
+for!
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+PLAINVIEW
+
+
+Problem #2: Provenzano Excluded EPO Hyporesponders from Enrolling
+
+
+• The second problem is that EPO hyporesponders were explicitly excluded
+from the trial!
+
+
+• From the S1 Supplement to Provenzano 2016:
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 69
+
+
+Hard to conclude that a drug works 
+in EPO hyporesponders when EPO 
+hyporesponders are excluded from 
+enrolling in the trial
+
+
+
+https://www.ajkd.org/article/S0272-6386(16)00005-6/addons
+PLAINVIEW
+
+
+HIF-PH Inhibitors Do Not Work in EPO-Hyporesponsive Patients
+
+
+• GlaxoSmithKline conducted an 
+intellectually honest study of its 
+HIF-PH inhibitor daprodustat 
+among erythropoietin-
+hyporesponsive patients, and saw 
+no change in Hb after 
+transitioning EPO-hyporesponsive 
+patients to daprodustat
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 70
+
+
+Source: Cizman et al 2018
+
+
+Virtually no change in 
+Hb at all time points
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035126/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035126/
+PLAINVIEW
+
+
+Iron-Mediated EPO Hyporesponses Already Solved…With IV Iron
+
+
+• The need for HIF-PH inhibitors to modulate iron transport is an invented 
+problem: the iron transport problem has already been solved with IV iron, 
+which leaves no benefit to using HIF-PH inhibitors except in FibroGen’s 
+unrealistic trials where patients are denied IV iron except as emergency 
+rescue therapy
+
+
+• IV iron avoids the problems with iron transport/absorption by putting the 
+iron directly into the bloodstream. Ueda & Takasawa 2018 conducted a 
+meta-analysis of nine studies comparing use of IV iron and oral iron in 
+anemic CKD patients, and concluded that “One of the reasons accounting for 
+superiority of IIT [IV iron therapy] over OIT [oral iron therapy] to maintain 
+tHb [target Hemoglobin] in CKD patients may be the difference in the 
+efficacy of IIT and OIT in CKD patients in the presence of concomitant 
+inflammation that increases ferritin and hepcidin.”
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 71
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163440/
+PLAINVIEW
+
+
+Higher Hb Levels in Roxadustat Group Due to Study Design, Not Efficacy
+
+
+• Another part of FibroGen’s roxadustat pitch is that roxadustat is capable of 
+achieving higher Hb levels than EPO
+
+
+• In reality, this appears to be driven by the previously-discussed decision to 
+prohibit IV iron rather than efficacy
+
+
+• For instance, in Provenzano 2016, the authors concluded that the Hb 
+responder rate for the EPO group was 33% compared to 79% for the pooled 
+high-dose roxadustat group.  This doesn’t make sense at all considering that 
+the supplement to Provenzano 2016 (relevant graphic on slide 69) showed 
+that EPO hyporesponders were already screened out of the trial– unless the 
+EPO hyporesponses were driven by prohibition of IV iron
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 72
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846333
+
+https://www.ajkd.org/article/S0272-6386(16)00005-6/addons
+PLAINVIEW
+
+
+Competitor Trials Show HIF-PHi & EPO Hb Responses Are Similar
+
+
+• Examining competitors’ long-term DD-CKD trials, we see no meaningful 
+difference between Hb levels achieved in drug vs. control groups (see below 
+table).  Roxadustat utilizes the same mechanism of action and we believe 
+the claimed benefit is primarily a function of FibroGen suppressing the 
+results of the EPO group by withholding IV iron
+
+
+Roxadustat Does Not Work in EPO Hyporesponders 73
+PLAINVIEW
+
+
+Pamrevlumab
+PLAINVIEW
+
+
+Pamrevlumab Table of Contents
+❑ Pamrevlumab Background: Lots of Trials, Few Results
+❑ CTGF is a Biomarker, Not a Principal Mediator
+❑ No Value in IPF Even If Phase 3 Trial Succeeds
+
+
+• FibroGen withheld results from a trial comparing pamrevlumab + SoC vs. placebo + SoC, 
+indicating that the trial likely failed.  This means that pamrevlumab offers no additive benefit 
+to SoC which is likely going generic before pamrevlumab could possibly make it to market
+
+
+• We have concerns about pamrevlumab’s efficacy and Management appears to share our 
+concerns: FibroGen only initiated a single Phase 3 despite long trial duration (4+ years 
+expected) and a precedent that clearly shows two Phase 3 trials are required for approval.  At 
+best, pamrevlumab will get approval for IPF in 9-10 years 
+
+
+❑ No Evidence Pamrevlumab Works in DMD
+• Provided virtually no data during recent presentation given 3.5 years after initiating trial
+
+
+❑ Pamrevlumab Doesn’t Work in Pancreatic Cancer 
+• FibroGen’s pancreatic cancer trial results showed no difference in ORR between 
+
+
+pamrevlumab and control.  PFS and OS were withheld, and the claimed resection benefit is 
+wildly misleading
+
+
+• Targeting the stroma has already been tried via hedgehog inhibitors and has failed
+
+
+75
+PLAINVIEW
+
+
+Pamrevlumab Background
+
+
+• Previously known as FG-3019
+
+
+• Currently in development for Duchenne muscular dystrophy (DMD), locally 
+advanced pancreatic cancer (LAPC), and idiopathic pulmonary fibrosis (IPF)
+
+
+• Was previously in development for diabetic nephropathy, focal segmental 
+glomerulosclerosis (FSGS), and Hepatitis B
+
+
+• Paucity of published clinical data despite 16 years in the clinic
+
+
+• Currently in Phase 3 trials for IPF and LAPC
+• LAPC Phase 3 trial expected to reach primary completion in September 2022
+
+
+• IPF Phase 3 trial expected to reach primary completion in March 2023
+
+
+76Pamrevlumab Background
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT03941093
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+Lots of Trials, Few Results Over 16 Years
+• December 2003: Phase 1 in IPF posted
+• January 2005: Phase 1 in diabetic nephropathy initiated
+• March 2008: Phase 1 for pamrevlumab in diabetes mellitus & diabetic 
+
+
+nephropathy initiated
+• April 2008: Phase 1 trial in FSGS initiated
+• December 2008: Phase 1 trial in pancreatic cancer initiated
+• February 2009: Phase 2 RCT in CKD initiated (terminated)
+• August 2010: Phase 2 RCT in Hepatitis B initiated (terminated)
+• March 2011: Phase 2 for IPF initiated
+• July 2014: Phase 1/2 controlled trial for pancreatic cancer initiated
+• November 2015: Phase 2 trial in DMD initiated
+• May 2019: Phase 3 trial in locally advanced pancreatic cancer initiated
+• June 2019: Phase 3 trial in IPF initiated
+
+
+Pamrevlumab Background 77
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT00074698
+
+https://clinicaltrials.gov/ct2/show/NCT00102297
+
+https://clinicaltrials.gov/ct2/show/NCT00754143
+
+https://clinicaltrials.gov/ct2/show/NCT00782561?
+
+https://clinicaltrials.gov/ct2/show/NCT01181245
+
+https://clinicaltrials.gov/ct2/show/NCT00913393
+
+https://clinicaltrials.gov/ct2/show/NCT01217632
+
+https://clinicaltrials.gov/ct2/show/NCT01262001
+
+https://clinicaltrials.gov/ct2/show/NCT02210559
+
+https://clinicaltrials.gov/ct2/show/NCT02606136
+
+https://clinicaltrials.gov/ct2/show/NCT03941093
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+Management’s Sleaziness Permeates Into Pamrevlumab
+• In a February 2016 investor call, Fibrogen Management told investors that they were 
+
+
+“encouraged” by Phase 2 results for pamrevlumab for liver fibrosis resulting from 
+Hepatitis B and implied that pamrevlumab was reversing fibrosis:
+
+
+“The result showed a trend for dose response improvement in liver fibrosis at doses of FG-
+3019 similar to those now being tested in other diseases. We are encouraged by these 
+results, and we continue to evaluate options for trial of FG-3019 in subjects with advanced 
+liver fibrosis due to NASH. In addition, we are evaluating the potential for trial of FG-3019 
+in subjects with advanced liver fibrosis due to hepatitis C, where it appears that the fibrosis 
+may not resolve after cure of the hepatitis with current potent anti-viral therapy.”
+
+
+• In reality, Management had already prematurely terminated the HBV trial in June 2015 
+for futility (note that the primary completion date is June 2015)-- eight months before 
+claiming to be “encouraged” by the results.  The promised additional trials in 
+HBV/HCV/NASH never came to fruition
+
+
+• Management also ran a six-month Phase 2 trial in diabetic nephropathy and terminated 
+the trial 18 months later (January 2011)– after the scheduled primary completion date.  
+No results or explanation for termination were ever given outside of the termination 
+being a “strategic decision”.  Diabetic nephropathy is an enormous indication, so this 
+strategic decision was likely driven by lack of efficacy
+
+
+Pamrevlumab Background 78
+
+
+
+https://seekingalpha.com/article/3942596-fibrogens-fgen-ceo-thomas-neff-q4-2015-results-earnings-call-transcript
+
+https://clinicaltrials.gov/ct2/show/NCT01217632
+PLAINVIEW
+
+
+Lots of Trials, Few Results
+• Pancreatic Cancer: FibroGen issued a press release touting that 33.3% of 
+
+
+pamrevlumab patients achieved clinical resection compared to 7.7% of control, a 
+meaningless product of data-mining.  The PR left out the fact that ORR was 23% in 
+the control group compared to 21% in the pamrevlumab group which was 
+published in an ASCO 2018 poster.  PFS and OS data were never published
+
+
+• DMD: In a bizarre presentation at PPMD 2019, FibroGen avoided disclosing 
+efficacy endpoints in the uncontrolled trial– instead only stating that certain 
+endpoints performed better than cherry-picked publications
+
+
+• IPF: As part of the PRAISE trial, FibroGen conducted an RCT comparing 
+pamrevlumab + standard-of-care vs. placebo + standard-of-care. No efficacy 
+results were ever announced or published.  This trial is key because it informs 
+whether pamrevlumab adds any benefit to standard-of-care, which is expected to 
+go generic before pamrevlumab could possibly make it to market
+
+
+Pamrevlumab Background 79
+
+
+
+https://www.globenewswire.com/news-release/2018/06/04/1515871/0/en/FibroGen-Presents-Clinical-Results-of-Pamrevlumab-Treatment-in-Patients-with-Locally-Advanced-Unresectable-Pancreatic-Cancer-at-ASCO-2018-Annual-Meeting.html
+
+https://media4.asco.org/214/12972/162122/162122_poster_big_1.jpg
+
+https://www.parentprojectmd.org/wp-content/uploads/2019/06/09_Fri_1200_FibroGen.pdf
+
+https://clinicaltrials.gov/ct2/show/NCT01262001
+PLAINVIEW
+
+
+Point #1: CTGF is a Biomarker, Not a Principal Mediator
+
+
+• FibroGen paints connective tissue growth factor (CTGF) as the principal cause of 
+fibrosis; most other research implicates TGF-β1 as the master regulator of 
+fibrosis and research papers and primers on the subject pay little attention to 
+CTGF
+
+
+• In drug development, validated targets are quickly copied; often before they are 
+even proven in humans.  Pamrevlumab has been in the clinic for 16 years with 
+no imitators.  Many drug developers are targeting fibrotic diseases but outside 
+of FibroGen, none are targeting CTGF 
+
+
+• While we don’t dispute that CTGF mediates some effects, we believe its impact 
+is not clinically significant and that CTGF is more of a biomarker of fibrosis than 
+a key driver of fibrosis
+
+
+80CTGF is a Biomarker, Not a Principal Mediator
+PLAINVIEW
+
+
+What is CTGF?
+• CTGF is an extracellular matrix protein (“ECM”) and “connective tissue 
+
+
+growth factor” is a misnomer: “the name CTGF (connective tissue growth 
+factor)…implies activities and a mechanism of action akin to those of 
+classical growth factors, a notion that has not been supported by 
+experimental evidence to date.” (emphasis added, Chen & Lau 2009)
+
+
+• Fibrosis involves the growth and proliferation of many ECM proteins and 
+CTGF is only one of them
+
+
+• Pamrevlumab’s lack of monetizable or even decisive clinical results after 16 
+years of trials suggests that the impact of targeting CTGF is simply not 
+meaningful for patients suffering from fibrosis
+
+
+• Based on published research, we believe that CTGF is more of a biomarker of 
+fibrosis and pancreatic cancer than a valid target with clinical value
+
+
+CTGF is a Biomarker, Not a Principal Mediator 81
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668982/pdf/nihms98987.pdf
+PLAINVIEW
+
+
+How FibroGen Describes CTGF (Central Mediator of Fibrosis)
+
+
+CTGF is a Biomarker, Not a Principal Mediator 82
+
+
+Source: FibroGen 2010 Publication
+
+
+
+https://fibrogenesis.biomedcentral.com/track/pdf/10.1186/1755-1536-5-S1-S24
+PLAINVIEW
+
+
+How Fibrosis Researchers Describe CTGF (They Don’t)
+• CTGF is not thought to be 
+
+
+a principal cause of 
+fibrosis and is rarely 
+discussed meaningfully in 
+publications not 
+sponsored by FibroGen.  
+To the right is an 
+illustration of the fibrotic 
+pathway taken from Meng 
+et al 2016; CTGF is 
+nowhere to be found.  
+
+
+CTGF is a Biomarker, Not a Principal Mediator 83
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27108839
+PLAINVIEW
+
+
+Point #2: No Value in IPF Even If Phase 3 Trial Succeeds
+
+
+• We question whether pamrevlumab will succeed in its IPF Phase 3 trial given that:
+• Pamrevlumab showed no dose response in IPF
+• It is not clear why pamrevlumab would work in IPF after failing in other fibrotic indications
+
+
+• As part of the PRAISE trial, FibroGen conducted an RCT comparing pamrevlumab + SoC vs. 
+placebo + SoC in IPF which concluded in 2017– and never announced or published the 
+efficacy results, a near-certain sign that pamrevlumab added no benefit to SoC. This likely 
+informed the decision to prohibit use of SoC as background therapy in the Phase 3 trial
+
+
+• The lack of additive benefit to SoC makes pamrevlumab an impossible sell even assuming 
+Phase 3 success:
+• Pamrevlumab offers no value.  At least one of the current SoCs is widely expected to go generic before 
+
+
+pamrevlumab makes it to market.  With no head-to-head or combination therapy data, there is no 
+reason for payors to cover pamrevlumab as an alternative or for anyone to prescribe it
+
+
+• Pamrevlumab is less convenient.  Pamrevlumab requires Q3W IV administration compared to QD oral 
+dosing.  Patients are more likely to prefer daily oral dosing
+
+
+• Management’s decision to only run a single four-year Phase 3 trial now when two Phase 3s 
+are required for approval indicates that Management shares our skepticism about IPF
+
+
+84No Value in IPF Even if Phase 3 Trial Succeeds
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT01890265
+PLAINVIEW
+
+
+No Pamrevlumab Dose Response in IPF
+• The lines, p-value, and blue 
+
+
+shading FibroGen drew into 
+the graph are lipstick on a 
+pig: anyone can look at this 
+graph and plainly tell that 
+there is virtually no 
+relationship between change 
+in Forced Vital Capacity (FVC; 
+measure of lung volume) and 
+drug concentration. 
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 85
+
+
+Source: FibroGen September 13, 2017 8-K
+
+
+
+https://www.sec.gov/Archives/edgar/data/921299/000119312517283025/d379999dex991.htm
+PLAINVIEW
+
+
+Missing Trial Results Likely Due to Missing Efficacy
+
+
+• FibroGen conducted an RCT comparing pamrevlumab + 
+pirfenidone/nintedanib compared to placebo + pirfenidone/nintedanib. It 
+was a 24 week study with an additional 4-10 weeks of screening/follow-up.  
+Enrollment completed on December 16, 2016, and the trial should have 
+concluded in mid-2017
+
+
+• The efficacy endpoint results were never disclosed, indicating that 
+pamrevlumab did not offer any benefit to patients over placebo
+
+
+• This likely informed the Phase 3 trial design in which FibroGen decided to 
+prohibit use of pirfenidone/nintedanib as background therapy
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 86
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT01890265
+PLAINVIEW
+
+
+Prohibiting Standard-of-Care is Blatantly Unethical
+• There is strong evidence that pirfenidone (and to a lesser extent, nintedanib) 
+
+
+significantly increases survival for IPF patients.  It is unethical to enroll a 
+placebo group where patients are denied access to these drugs.  This will 
+make it very challenging to fully enroll the trial and we think it is very likely 
+that FibroGen’s first Phase 3 trial will take significantly longer than the 
+estimated four years to reach the primary endpoint
+
+
+• Nathan et al 2017 conducted a pooled analysis of pirfenidone Phase 3 trials 
+and found that the all-cause mortality hazard ratio for pirfenidone was 0.52 
+(0.31, 0.87) 
+
+
+• Lancaster et al 2019 conducted a pooled analysis of nintedanib Phase 2/3 
+trials and found that the all-cause mortality hazard ratio for nintedanib was 
+0.70 (0.46, 1.08)
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 87
+
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S2213260016303265
+
+https://bmjopenrespres.bmj.com/content/6/1/e000397
+PLAINVIEW
+
+
+Generic IPF Competition
+• It is very likely that pirfenidone, nintedanib, or both will be generic by the 
+
+
+time the first pamrevlumab Phase 3 trial concludes
+
+
+• Paragraph IV filings have been submitted for both pirfenidone and 
+nintedanib
+
+
+• At least one company has submitted a Paragraph IV filing for nintedanib
+
+
+• Pirfenidone is particularly vulnerable, as the composition of matter patent 
+covering the drug has long been expired.  At least 18 generic manufacturers 
+have filed Paragraph IVs for pirfenidone, including:
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 88
+
+
+• Laurus Labs
+• Aurobindo
+• Lupin
+• Micro Labs
+• Apotex
+
+
+• Granules Pharmaceuticals
+• Alembic Pharmaceuticals
+• Hetero Labs
+• Amneal Pharmaceuticals
+• Torrent Pharmaceuticals
+
+
+• Teva
+• Accord Healthcare
+• Macleods Pharmaceuticals
+• Cipla
+• Aizant Drug Research Solutions
+
+
+• Shilpa Medicare
+• Scigen Pharms
+• Sandoz
+
+
+
+https://www.fda.gov/media/82686/download
+
+https://www.biospace.com/article/genentech-plans-legal-battle-to-protect-esbriet-from-generic-competition/
+PLAINVIEW
+
+
+Phase 3 Trial Design is Clinically Irrelevant
+• While using a placebo control group makes it much easier for pamrevlumab 
+
+
+to show benefit, it also makes the results clinically irrelevant
+
+
+• Competing IPF drugs in Phase 3 (PRM-151 and GLPG1690) are testing for 
+efficacy in combination with pirfenidone/nintedanib: without proving 
+superiority or additive benefit to those drugs, there is no selling point
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 89
+PLAINVIEW
+
+
+GLPG1690 Effective in Small IPF Study
+
+
+• GLPG1690 is an oral autotaxin inhibitor.  Galapagos theorizes that autotaxin
+production of lysophosphatidic acid has a pathogenic role in IPF, and that 
+inhibiting autotaxin could slow IPF progression
+
+
+• The FLORA trial was a Phase 2a study in which Galapagos enrolled 23 
+patients (17 in GLPG1690 group, six in control group)
+
+
+• GLPG1690 achieved a mean increase in FVC of 25 mL compared to a -70 mL 
+decline in FVC in the control group (Maher et al 2018, ppFVC not provided)
+
+
+• While the FLORA trial excluded patients on pirfenidone/nintedanib, the two 
+Phase 3 trials (ISABELA1 and ISABELA2) are enrolling patients on background 
+pirfenidone/nintedanib therapy
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 90
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29792287
+
+https://clinicaltrials.gov/ct2/show/NCT03711162
+
+https://clinicaltrials.gov/ct2/show/NCT03733444
+PLAINVIEW
+
+
+PRM-151 Succeeded in IPF With Background Therapy
+
+
+• PRM-151 is recombinant human serum amyloid P, and the theory behind its 
+use in fibrosis is that PRM-151 can prevent differentiation of cells into M2-
+macrophages and fibrocytes, reducing fibrosis in patients
+
+
+• The Phase 2 results for PRM-151 (Raghu et al 2018) show that it produced a 
+statistically significant benefit in ppFVC in patients allowed background 
+pirfenidone/nintedanib, with 48% lower decline in ppFVC over 28 weeks (-
+2.5% vs -4.8%, p = 0.001)
+
+
+• 78% of enrolled patients were receiving concurrent pirfenidone or 
+nintedanib
+
+
+• 95% (74/78) of PRM-151 patients completed treatment compared to 95% 
+(37/39) of control patients and SAEs occurred in 8% of PRM-151 patients 
+and 10% of control patients, indicating that the drug was well-tolerated
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 91
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29800034?dopt=Abstract
+PLAINVIEW
+
+
+Needs Two Phase 3 Trials For Approval…Only Running One
+• As is clear from precedents pirfenidone/nintedanib and GLPG1690, two 
+
+
+pivotal trials are required for IPF approval.  FibroGen is only running one: the 
+ZEPHYRUS trial
+• Galapagos is running two concurrent Phase 3 trials (ISABELA1 and ISABELA2) for 
+
+
+GLPG1690
+• InterMune conducted three Phase 3 trials for pirfenidone in IPF (one of which failed 
+
+
+to achieve primary efficacy endpoint)
+• Boehringer Ingelheim conducted two Phase 3 trials for nintedanib in IPF 
+
+
+• Running a single trial now implies that Management will wait for that trial to 
+read out before deciding on a second Phase 3 trial.  A projected 2023 initial 
+Phase 3 readout and a 4-year estimated trial timeline puts earliest potential 
+FDA approval for pamrevlumab in IPF at nearly a decade from today
+
+
+• The decision to only run one trial in the face of multiple competitors speaks 
+to a major lack of confidence in pamrevlumab’s IPF prospects
+
+
+No Value in IPF Even if Phase 3 Trial Succeeds 92
+
+
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+
+https://clinicaltrials.gov/ct2/show/NCT03711162
+
+https://clinicaltrials.gov/ct2/show/NCT03733444
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/022535Orig1s000MedR.pdf
+
+https://www.ncbi.nlm.nih.gov/pubmed/24834811
+PLAINVIEW
+
+
+Point #3: No Evidence Pamrevlumab Works in DMD
+
+
+• FibroGen presented “preliminary” results of its uncontrolled Phase 2 
+Duchenne’s Muscular Dystrophy (DMD) study at PPMD on June 28, 2019
+
+
+• The trial began recruiting in November 2015 and enrollment was completed in 
+April 2018.  All patients had been enrolled >1 year by June 2019
+
+
+• Virtually no actual data was shared in the presentation.  FibroGen instead 
+shared abstract comparisons with historical precedents without revealing actual 
+trial datapoints from the pamrevlumab DMD trial in an apparent attempt to 
+imply efficacy without proving efficacy
+
+
+93No Evidence Pamrevlumab Works in DMD
+
+
+
+https://www.parentprojectmd.org/wp-content/uploads/2019/06/09_Fri_1200_FibroGen.pdf
+PLAINVIEW
+
+
+Primary Endpoint & Most Secondary Endpoints Not Disclosed
+
+
+• The trial description for pamrevlumab in DMD lists a primary endpoint 
+(annual change in FVC) and 12 secondary endpoints
+
+
+• FibroGen did not disclose the primary endpoint change– other than to say 
+that change in ppFVC was higher than the change in ppFVC seen in a 
+selected prior DMD publication
+
+
+• Only two of the 12 secondary endpoints were disclosed (LVEF and change in 
+performance of upper limbs), though other metrics were said to be higher or 
+lower than arbitrary historical precedents
+
+
+• If the data were favorable, FibroGen would have shared it instead of making 
+abstract comparisons with favorable historical precedents and withholding 
+numerical data.  All patients had been enrolled in the trial >1 year as of April 
+2019; there should have been ample data to share in June 2019
+
+
+No Evidence Pamrevlumab Works in DMD 94
+PLAINVIEW
+
+
+Cherry-Picking Example
+
+
+• It’s been known since 1989 (see Mendell et al 1989) that glucocorticoid 
+steroid treatment delays muscle loss and the onset of respiratory decline in 
+DMD patients
+
+
+• In FibroGen’s trial, 100% of the patients were given steroids (see Slide 7 of 
+the PPMD presentation)
+
+
+• FibroGen compared its ppFEV1 endpoint with the DELOS trial publication 
+(Meier et al 2017), a trial in which patients were prohibited from taking 
+glucocorticoids
+
+
+• Cross-trial differences such as baseline characteristics and background 
+medications make the comparisons FibroGen provided completely 
+meaningless
+
+
+No Evidence Pamrevlumab Works in DMD 95
+
+
+
+https://www.nejm.org/doi/full/10.1056/NEJM198906153202405
+
+https://www.parentprojectmd.org/wp-content/uploads/2019/06/09_Fri_1200_FibroGen.pdf
+
+https://www.sciencedirect.com/science/article/pii/S0960896616309312
+PLAINVIEW
+
+
+Point #4: Pamrevlumab Doesn’t Work in Pancreatic Cancer 
+
+
+• FibroGen’s ASCO 2018 poster showed that patients in the pamrevlumab arm 
+achieved a 20.8% (5/24) ORR vs. 23.1% (3/13) ORR in the control arm
+
+
+• “Eligibility for surgical resection” is not a valid primary endpoint and FibroGen’s 
+focus on the metric is classic data-mining misdirection in a small-N trial.  
+Legitimate endpoints are ORR, PFS, and OS.  PFS and OS were listed among the 
+trial efficacy endpoints, but were conspicuously absent from all disclosures 
+indicating that, like ORR, pamrevlumab showed no benefit in PFS and OS
+
+
+• A large meta-analysis (Gillen et al 2010) showed a near-identical rate of surgical 
+resection following chemotherapy as pamrevlumab + chemotherapy achieved 
+in FibroGen’s trial (33.2% vs 33.3%) – cementing that it is highly unlikely 
+pamrevlumab offers any benefit
+
+
+• The scientific thesis behind using pamrevlumab in pancreatic cancer (targeting 
+the stroma) has been tried multiple times in pancreatic cancer and never 
+succeeded 
+
+
+96Pamrevlumab Doesn’t Work in Pancreatic Cancer
+
+
+
+https://media4.asco.org/214/12972/162122/162122_poster_big_1.jpg
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857873/
+PLAINVIEW
+
+
+Clinical Data Shows No ORR Benefit in Pancreatic Cancer
+• The RECIST ORR was 20.8% (5/24) in the pamrevlumab arm and 23.1% 
+
+
+(3/13) in the control arm, as shown in FibroGen’s ASCO 2018 poster
+
+
+• ORR is especially significant considering that the trial enrolled patients with 
+localized pancreatic cancer– if a drug doesn’t appear to have an additive 
+impact on the target tumor in a localized cancer then it is almost certainly 
+accomplishing nothing
+
+
+• PFS and OS were listed among the efficacy endpoints but were never 
+disclosed, strongly indicating that, like ORR, pamrevlumab showed no 
+benefit in PFS or OS
+
+
+• Instead of disclosing ORR/PFS/OS in its press release, FibroGen only 
+disclosed the proportion of patients who achieved surgical resection in the 
+trial for each group: a blatant attempt at data mining to misdirect investors
+
+
+Pamrevlumab Doesn’t Work in Pancreatic Cancer 97
+
+
+
+https://media4.asco.org/214/12972/162122/162122_poster_big_1.jpg
+
+https://www.globenewswire.com/news-release/2018/06/04/1515871/0/en/FibroGen-Presents-Clinical-Results-of-Pamrevlumab-Treatment-in-Patients-with-Locally-Advanced-Unresectable-Pancreatic-Cancer-at-ASCO-2018-Annual-Meeting.html
+PLAINVIEW
+
+
+Resection Rate On Par With Historical Precedent
+• In the Phase 1/2 pancreatic cancer trial, resection was achieved in 33.3% 
+
+
+(8/24) of the pamrevlumab group patients compared to 7.7% (1/13) of 
+control group
+
+
+• Gillen et al 2010 conducted a meta-analysis of 111 studies (n=4,394) and 
+found that among pancreatic cancer patients who were initially deemed 
+non-resectable, 33.2% received resection following chemotherapy– nearly 
+identical to the 33.3% achieved in the pamrevlumab trial
+
+
+• We also note that FibroGen’s ASCO poster indicates that none of the three 
+patients in the control arm who saw RECIST responses were deemed eligible 
+for resection.  This seems unlikely unless the RECIST responses were 
+significant enough that resection no longer made sense for those patients–
+in which case the resection rate in the control group is ironically obscured by 
+efficacy
+
+
+Pamrevlumab Doesn’t Work in Pancreatic Cancer 98
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857873/
+PLAINVIEW
+
+
+FibroGen’s Pancreatic Cancer Theory
+• The theory behind combining 
+
+
+pamrevlumab with chemotherapy is 
+that the reason outlook is so bleak 
+for pancreatic cancer patients is 
+because the exceptionally dense 
+extracellular matrix associated with 
+pancreatic cancer blocks a 
+chemotherapeutic or immune 
+response in those patients
+
+
+• However, it is widely thought that 
+the principal culprit behind the 
+enhanced ECM is a constitutively 
+active hedgehog signaling pathway, 
+not CTGF
+
+
+Pamrevlumab Doesn’t Work in Pancreatic Cancer 99
+
+
+Source: Stromal biology and therapy in pancreatic cancer
+
+
+
+https://gut.bmj.com/content/60/6/861
+PLAINVIEW
+
+
+Prior Attempts to Target Stroma in Pancreatic Cancer Have Failed
+
+
+• Given that the hedgehog pathway is thought to be the principal driver of 
+pancreatic cancer stroma growth, prior drugs have attempted to disrupt the 
+hedgehog pathway with hedgehog inhibitors
+
+
+• All of them have failed in the clinic:
+• Vismodegib (GDC-0449): Showed no benefit in ORR, PFS, or OS in an N=106 RCT trial 
+
+
+presented at ASCO 2013
+
+
+• Saridegib (IPI-926): Company halted pancreatic cancer trial prematurely after 
+preliminary interim analysis showed a “difference in survival favoring the placebo plus 
+gemcitabine arm due to a higher rate of progressive disease in the saridegib plus 
+gemcitabine arm.”
+
+
+• M402: Pancreatic cancer trial was terminated following interim futility analysis
+
+
+Pamrevlumab Doesn’t Work in Pancreatic Cancer 100
+
+
+
+https://meetinglibrary.asco.org/record/82872/abstract
+
+https://www.sec.gov/Archives/edgar/data/1113148/000119312512026049/d290658dex991.htm
+
+https://www.globenewswire.com/news-release/2016/08/04/861680/0/en/Momenta-Discontinues-Further-Accrual-of-its-Phase-2-Trial-of-Necuparanib-in-Patients-with-Pancreatic-Cancer-Following-Planned-Interim-Futility-Analysis.html
+PLAINVIEW
+
+
+Concluding Thoughts & Looking Forward
+PLAINVIEW
+
+
+Concluding Thoughts – Roxadustat
+• The problem with HIF-PH inhibitors is that they are not as specific to 
+
+
+erythropoiesis as EPO and have potent off-target effects
+• Clinical data supports this, with higher MACE, mortality, and dropout rates 
+
+
+reported across the board for roxadustat, vadadustat, and daprodustat
+• We believe roxadustat missed the primary safety endpoints for both DD-CKD and 
+
+
+NDD-CKD, and based on prior MACE data and FibroGen’s reticence, it was 
+probably by a wide margin
+
+
+• MACE+ was manipulated by prohibiting IV iron in both DD-CKD and NDD-CKD and 
+using a placebo comparator in NDD-CKD to increase anemia rates in the control 
+groups.  It would be naïve to think that a regulatory agency would ignore a 
+significant MACE safety signal because of MACE+ even if the trials had not been 
+rigged to increase “+” events in the control groups
+
+
+• Given its apparent MACE safety inferiority to EPO, we believe roxadustat will be 
+rejected in the US/EU and that it is only a matter of time until roxadustat is pulled 
+from market in China/Japan.  Once the safety data becomes public, no ethical 
+doctor will prescribe it
+
+
+102Concluding Thoughts & Looking Forward
+PLAINVIEW
+
+
+Concluding Thoughts – Pamrevlumab
+• Research not sponsored by FibroGen indicates that CTGF is simply not a principal 
+
+
+mediator of fibrosis, and 16 years of drug trials has provided little to refute that 
+thesis
+
+
+• The IPF Phase 3 trial design makes pamrevlumab an impossible sell even if it 
+works; by prohibiting background therapy and comparing pamrevlumab to 
+placebo, there will be no evidence of superiority or additive benefit to the current 
+standard of care (pirfenidone/nintedanib), one or both of will likely be generic by 
+the time FibroGen’s drug makes it to market.  Further, the decision to only run a 
+single Phase 3 trial now means that in an optimal scenario, pamrevlumab might 
+make it to market a decade from now
+
+
+• We do not believe pamrevlumab works in pancreatic cancer given the similar ORR 
+between groups in the Phase 2 trial, failure to disclose PFS/OS, and history of 
+failures for similar strategies targeting the stroma
+
+
+• With 3.5 years of clinical data and virtually no clinical endpoint data disclosed, we 
+do not believe pamrevlumab works in DMD
+
+
+Concluding Thoughts & Looking Forward 103
+PLAINVIEW
+
+
+FibroGen Management’s Unscrupulous Practices
+• Selective disclosure to manipulate shareholder perception
+
+
+• Withheld key MACE hazard ratios and instead made misleading disclosures about the pooled safety 
+profile of roxadustat engineered to create the illusion that roxadustat succeeded where it failed
+
+
+• Failed to mention ORR/PFS/OS for pamrevlumab in pancreatic cancer press release, and instead 
+focused on an obscure metric where pamrevlumab happened to outperform placebo by chance
+
+
+• Failed to disclose the actual clinical endpoints in the DMD trial, and instead provided abstract and 
+useless cross-trial comparisons
+
+
+• Failed to disclose the efficacy endpoint results of the IPF trial comparing pamrevlumab + SoC vs. 
+placebo + SoC
+
+
+• Unethical trial design to artificially inflate results
+• Prohibiting IV iron in the roxadustat trials in order to try to create the illusion of efficacy benefit over 
+
+
+the control arm as well as inflate relative safety.  This forced higher EPO dosing in control groups which 
+has been unequivocally shown to lead to worse safety outcomes
+
+
+• Prohibiting background therapy and using a placebo control in the IPF trials despite clear evidence of 
+survival benefit from standard-of-care pirfenidone/nintedanib
+
+
+• Pure dishonesty
+• Claimed to be “encouraged” by results from pamrevlumab’s HBV trial in February 2016 despite having 
+
+
+already terminated the trial for futility eight months prior
+• Claimed MACE was “trending favorably” and blamed FDA/AstraZeneca for lack of MACE HR disclosure
+
+
+Concluding Thoughts & Looking Forward 104
+
+
+
+https://seekingalpha.com/article/3942596-fibrogens-fgen-ceo-thomas-neff-q4-2015-results-earnings-call-transcript
+
+https://clinicaltrials.gov/ct2/show/NCT01217632
+PLAINVIEW
+
+
+What’s Next?
+• ASN 2019 (November 7-10 2019): FibroGen is expected to present several 
+
+
+roxadustat posters as well as full MACE safety data for roxadustat on 
+November 8 from 2:00 to 2:15 PM
+
+
+• FibroGen indicated in its Q2 2019 press release that it would be submitting 
+the US NDA for roxadustat in October 2019 with the European MAA 
+following soon after
+
+
+• If the FDA accepts the roxadustat NDA, an advisory committee meeting for 
+roxadustat will likely be scheduled for mid-late 2020
+
+
+• Pamrevlumab readouts:
+• Pancreatic Cancer Phase 3 trial: primary completion estimated at September 2022
+
+
+• IPF Phase 3 trial: primary completion estimated at March 2023
+
+
+105Concluding Thoughts & Looking Forward
+
+
+
+https://fibrogen.gcs-web.com/news-releases/news-release-details/fibrogen-reports-second-quarter-2019-financial-results
+
+https://clinicaltrials.gov/ct2/show/NCT03941093
+
+https://clinicaltrials.gov/ct2/show/NCT03955146
+PLAINVIEW
+
+
+Appendix 1: Roxadustat Trial References
+PLAINVIEW
+
+
+Overview of Roxadustat Trials
+
+
+Appendix 1: Roxadustat Trial References 107
+
+
+Note:
+1     In the poster discussing the Japan Phase 3 DD-CKD trial results, the authors did not provide a complete             
+SAE breakdown, and it is possible that additional MACE incidents occurred that were not disclosed
+PLAINVIEW
+
+
+Roxadustat Trials: Individual MACE Components
+
+
+Appendix 1: Roxadustat Trial References 108
+
+
+Note:
+1     In the poster discussing the Japan Phase 3 DD-CKD trial results, the authors did not provide a complete             
+SAE breakdown, and it is possible that additional MACE incidents occurred that were not disclosed
+PLAINVIEW
+
+
+Roxadustat Trial References
+
+
+Appendix 1: Roxadustat Trial References 109
+
+
+Trial Source Where to Find MACE in Each Publication
+
+
+China Phase 3 – DD-CKD Chen et al 2019 SAEs on p. 13 of  Supp. Appendix
+
+
+Japan Phase 3 – DD-CKD ASN 2018 Akizawa Poster (not available online) Table 5 of poster
+
+
+China Phase 2 – DD-CKD Chen et al 2017 No reported events
+
+
+US Phase 2 – DD-CKD Provenzano et al 2016 SAEs listed in Table 5 of paper
+
+
+US Phase 2b – NDD-CKD Provenzano et al 2016 SAEs listed in Supplemental Table 5
+
+
+US Phase 2 – ID-CKD Besarab et al 2016 SAEs listed on pp. 15-16 of Appendix
+
+
+US Phase 2a – NDD-CKD Besarab et al 2015 No reported events
+
+
+China Phase 3 – NDD-CKD Chen et al 2019 No reported events
+
+
+China Phase 2 – NDD-CKD Chen et al 2017 No reported events
+
+
+
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1901713
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+
+https://www.sciencedirect.com/science/article/pii/S0272638616000056
+
+https://cjasn.asnjournals.org/content/11/6/982.short
+
+https://jasn.asnjournals.org/content/27/4/1225
+
+https://academic.oup.com/ndt/article/30/10/1665/2337245
+
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1813599
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+PLAINVIEW
+
+
+China Phase 3 DD-CKD Trial (Chen 2019)
+
+
+Appendix 1: Roxadustat Trial References 110
+
+
+• MACE Incidents: 
+• Roxadustat: Three strokes 
+
+
+and one myocardial 
+infarction (4/204)
+
+
+• Epoetin alfa: None (0/100)
+
+
+• Source: Chen et al 2019
+Basilar artery aneurysm, 
+brain stem infarction, and 
+lacunar infarction count as 
+strokes
+
+
+
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1901713
+PLAINVIEW
+
+
+Japan Phase 3 DD-CKD Trial (ASN 2018 Akizawa Poster)
+
+
+Appendix 1: Roxadustat Trial References 111
+
+
+• MACE Incidents: 
+• Roxadustat: At least one stroke and separate two deaths (3/150)
+
+
+• Control: None reported  (0/152)
+
+
+• Source: ASN 2018 Akizawa Poster (relevant excerpt below)
+
+
+Based on the disclosure 
+below, we know at least 
+one other roxadustat 
+patient suffered from a 
+stroke (cerebral infarction) 
+and that patient was not 
+one of the two who died 
+(no stroke reported in 
+death descriptions)
+PLAINVIEW
+
+
+China Phase 2 DD-CKD Trial (Chen 2017)
+• MACE incidents
+
+
+• Roxadustat: None (0/65)
+• EPO: None (0/22)
+
+
+• No SAEs of any kind were reported 
+for either group
+
+
+• Trial was only six weeks
+
+
+• The patient population from the AE 
+table is different from the trial 
+design numbers due to including 9 
+patients enrolled in a PK sub-study; 
+we did not include those 9 patients 
+in calculating MACE frequency
+
+
+• Source: Chen et al 2017
+
+
+Appendix 1: Roxadustat Trial References 112
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+PLAINVIEW
+
+
+US Phase 2 DD-CKD Trial (Provenzano 2016, 1/2)
+• MACE incidents:
+
+
+• Roxadustat: 2 strokes, 2 myocardial infarctions, 3 deaths (7/108)
+
+
+• EPO: 1 myocardial infarction, 0 strokes, 0 deaths (1/36)
+
+
+• Source: Provenzano et al 2016
+
+
+Appendix 1: Roxadustat Trial References 113
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0272638616000056
+PLAINVIEW
+
+
+US Phase 2 DD-CKD Trial (Provenzano 2016, 2/2) 
+• There were 3 deaths in the roxadustat group, which were described on pp. 7-8 of 
+
+
+Provenzano et al 2016.  None of which were attributed to patients who also experienced 
+myocardial infarction or stroke and therefore all three are separate MACE incidents:
+
+
+Three roxadustat-treated participants died during the study: a 68-year-old man with known 
+heart failure and coronary and peripheral arterial disease had an unwitnessed death, a 77-
+year-old man with methicillin-resistant Staphylococcus aureus sepsis, and a 58-year-old 
+man with preexisting allergy to dialysis and cardiovascular disease (acute myocardial 
+infarction, stent, and transient ischemic attacks) prior to enrollment who presented volume 
+overloaded with respiratory failure in whom dialysis was delayed, leading to cardiac arrest.
+
+
+• We include all three deaths in our MACE tally.  As we noted on slides 62-63, Kiriakidis et 
+al 2017 showed that roxadustat and other HIF-PH inhibitors compromise immune systems 
+by blocking the complement pathway, and the study Schindler et al 2016 found that HIF-
+PH inhibition in septic mice led to significantly higher mortality rates. We think it is very 
+possible that the sepsis death was drug-related
+
+
+Appendix 1: Roxadustat Trial References 114
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0272638616000056
+
+https://www.sciencedirect.com/science/article/pii/S0085253817301801
+
+https://watermark.silverchair.com/gfv442.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlcwggJTBgkqhkiG9w0BBwagggJEMIICQAIBADCCAjkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM3cfdlUQAFIcK95cQAgEQgIICCmQE9fxOpacfUo-FYCfkVaDI8pKEwgnCRgq8D5ZbrKjlah-efjPLGKEUcPXpKWmAgQ4_0xqldLgNgLKeICSzxvvDiPRXNz_O7IACf0kL7eSSfJFEimzapvb8zFdiJ0q52Ws69_QHvgUK4_eyfMaBal-82E5e_9n65asESBnGx7Ifk2A0gYDmBBY3tFoMhLbLxWrWW48-VYn2aDeDXZLurOwei_rQYC3JjAQIlJjT83P5kgxzMZUw7YDIys-OWq2_Vzgx9iAkzH8cYzU0vshw1PlNrp1kKqA7fYQrwxc1v3_g5wyXIxiIbG95ghj-ZzCT_r6Y4ExLxyp-ySELMrtXg9rpT-v8QdeMj6hwhNvjVSuz9FvlmY0JK346dfdt-KZvXQqAiMA6ZXCPsN31vYAKqfpgET2HZYwN1yZ4BR8-6_j1D3luKf9DqVIjg4PhSQv3cnrOS9t5XBmi-GlLNnUFRFwEK4FgTIMnwwV-u3dXElcivVKpMqMPvh0qUyhLszqNF9qZ1xrQJp4ZtzyKJgD9uEmrbducr38GJG-0SoQdL1Kw0ttSvrR6mcjmLh3JFOq3dfX1Gsgi8h-RkvnD5Vl50-eCjC9WTUYccayeN-PQ4VYrc13xReMk7sqa_o89PmZGAbXQGDC-aMJIv7W0bVkE8ySx5-CIyyQxDl6Yb3yb7uL5_TY3OrJ2jb21uQ
+PLAINVIEW
+
+
+US Phase 2b NDD-CKD (Provenzano 2016, 1/2)
+
+
+Appendix 1: Roxadustat Trial References 115
+
+
+• MACE incidents:
+• Roxadustat: 2 strokes 
+
+
+(excluding one that 
+occurred outside of 
+study period), 1 
+myocardial infarction 
+(two but one led to 
+death), 4 deaths 
+(excluding one that 
+occurred outside of 
+study period).  Total: 
+7/145 
+
+
+• No control group
+
+
+• Source: Provenzano et 
+al 2016
+
+
+
+https://cjasn.asnjournals.org/content/11/6/982.short
+PLAINVIEW
+
+
+US Phase 2b NDD-CKD (Provenzano 2016, 2/2)
+• There were five total deaths in the NDD-
+
+
+CKD Phase 2b trial, which are described 
+in Supplemental Table 6 of the appendix 
+to the study (see right table)
+
+
+• One of the deaths occurred in a patient 
+who suffered from a myocardial 
+infarction and one occurred in a patient 
+who suffered from a cerebellar infarct 
+(stroke): the first was counted as a death 
+for the purpose of computing MACE and 
+excluded from MI to avoid double-
+counting.  The stroke death was not 
+counted and the stroke was excluded 
+from the MACE incidents due to 
+occurring outside of the study period
+
+
+Appendix 1: Roxadustat Trial References 116
+PLAINVIEW
+
+
+US Phase 2 ID-CKD (Besarab 2016, 1/2)
+• MACE Incidents:
+
+
+• Roxadustat: 0 myocardial 
+infarction, 0 strokes, 2 
+deaths
+
+
+• No control group
+
+
+• There was a patient who 
+suffered from a myocardial 
+infarction and died; the MI 
+was not counted in MACE 
+to avoid double-counting 
+the patient
+
+
+• Source: Besarab et al 2016
+
+
+Appendix 1: Roxadustat Trial References 117
+
+
+
+https://jasn.asnjournals.org/content/27/4/1225?utm_source=TrendMD&utm_medium=cpc&utm_campaign=J_Am_Soc_Nephrol_TrendMD_0&WT.MC_ID=TMD0
+PLAINVIEW
+
+
+US Phase 2 ID-CKD (Besarab 2016, 2/2)
+• Two patients on roxadustat died in the ID-CKD trial. 
+
+
+• Deaths are discussed on pp. 1228-1229 of publication:
+
+
+Two patients died: one during treatment and one during follow-up. Both deaths were 
+determined by the investigators as unrelated to roxadustat. A 67-year-old patient receiving 
+PD with a long history of hypertension was found dead at home (suspected cause: acute 
+heart failure) 5 days after last roxadustat dose taken on study day 26. A 75-year-old patient 
+in the no-iron cohort with a history of hypertension, ischemic and congestive heart disease, 
+and cor pulmonale from chronic obstructive pulmonary disease responded to initial 
+therapy; week 8 Hb levels were 10.4 g/dl (dose of 1.33 mg/kg). The patient was hospitalized 
+on day 72 for worsening heart failure and began receiving warfarin for atrial fibrillation. 
+Last roxadustat dose was given on day 84 (end of treatment). On day 85, the patient’s Hb 
+dropped from 9.9 to 5.5 g/dl from acute gastric ulcer bleeding, which led to two red blood 
+cell transfusions. Despite these transfusions, acute myocardial infarction occurred on day 
+89. The patient died the next day.
+
+
+• We include both patients in our tally of deaths; the first patient died while on the study 
+drug and the second patient’s death was apparently driven by the sharp drop in Hb which 
+occurred immediately after ceasing roxadustat
+
+
+Appendix 1: Roxadustat Trial References 118
+PLAINVIEW
+
+
+US Phase 2a NDD-CKD (Besarab 2015)
+• MACE Incidents:
+
+
+• Roxadustat: None
+
+
+• Placebo: None
+
+
+• There were no deaths or MACE incidents reported in this trial.  SAEs are 
+briefly discussed on p. 1670 of the publication: 
+
+
+Serious AEs (SAEs) were reported by four (5%) roxadustat-treated 
+subjects and one (4%) placebo patient; the SAEs in roxadustat treated 
+subjects included vascular access complications, femoral neck fracture, 
+noncardiac chest pain and dyspnea.
+
+
+• Source: Besarab et al 2015
+
+
+Appendix 1: Roxadustat Trial References 119
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26238121
+PLAINVIEW
+
+
+China Phase 3 NDD-CKD Trial (Chen 2019)
+• MACE Incidents
+
+
+• Roxadustat: None
+
+
+• Placebo: None
+
+
+• There were no deaths or MACE incidents 
+reported during the randomized portion of 
+the trial; during a subsequent 18-week 
+open-label portion with 131 patients (all 
+taking roxadustat), two roxadustat patients 
+died.  We did not include these deaths in 
+our tables/analysis
+
+
+• Source: Chen et al 2019
+
+
+Appendix 1: Roxadustat Trial References 120
+
+
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1813599
+PLAINVIEW
+
+
+China Phase 2 NDD-CKD (Chen 2017)
+• MACE incidents
+
+
+• Roxadustat: None 
+
+
+• EPO: None
+
+
+• Trial was only eight weeks
+
+
+• Source: Chen et al 2017
+
+
+Appendix 1: Roxadustat Trial References 121
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28371815
+PLAINVIEW
+
+
+Appendix 2: Daprodustat & Vadadustat Trial 
+References
+PLAINVIEW
+
+
+Overview of Daprodustat Trials
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 123
+PLAINVIEW
+
+
+Daprodustat Sources
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 124
+
+
+Daprodustat Trial Source Where to Find MACE in Each Publication
+
+
+US Phase 2a – NDD-CKD (vs. placebo) Holdstock et al 2016 No events reported
+
+
+US Phase 2a – DD-CKD (vs. EPO) Holdstock et al 2016 No events reported
+
+
+US Phase 2a – NDD-CKD (vs. placebo) Brigandi et al 2016 Table 3 on p. 5 of publication
+
+
+US Phase 2a – DD-CKD (vs. placebo) Brigandi et al 2016 No events reported
+
+
+Japan Phase 2 – DD-CKD (vs. placebo) Akizawa et al 2016 SAEs discussed on p. 6 of publication
+
+
+US Phase 2a – DD-CKD (no control) Cizman et al 2018 Table S1 from Supplementary Data
+
+
+Japan Phase 3 – DD-CKD (no control) https://clinicaltrials.gov/ct2/show/re
+sults/NCT02829320
+
+
+No events reported
+
+
+US Phase 2b – NDD-CKD (vs. EPO) Holdstock et al 2018 Table 6 on p. 7 of publication
+
+
+US/Int’l Phase 2b – DD-CKD (vs. EPO) Meadowcroft et al 2018 Table 5 on p. 8 of publication
+
+
+
+https://jasn.asnjournals.org/content/27/4/1234
+
+https://jasn.asnjournals.org/content/27/4/1234
+
+https://www.sciencedirect.com/science/article/pii/S027263861501495X
+
+https://www.sciencedirect.com/science/article/pii/S027263861501495X
+
+https://www.ncbi.nlm.nih.gov/pubmed/27978511
+
+https://www.ncbi.nlm.nih.gov/pubmed/29989040
+
+https://clinicaltrials.gov/ct2/show/results/NCT02829320
+
+https://academic.oup.com/ckj/article/12/1/129/4925438
+
+https://academic.oup.com/ckj/article/12/1/139/4944172
+PLAINVIEW
+
+
+Daprodustat Phase 2a NDD & DD-CKD (Holdstock 2016)
+• NDD-CKD MACE Incidents:
+
+
+• Daprodustat: None (0/52)
+
+
+• Control: None (0/19)
+
+
+• DD-CKD MACE Incidents:
+• Daprodustat: None (0/60)
+
+
+• EPO: None (0/20)
+
+
+• No death or other MACE incidents were 
+reported in this trial.  See right for 
+summary of SAEs taken from p. 19 of 
+Supplementary Appendix to Holdstock
+2016
+
+
+• Source: Holdstock et al 2016
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 125
+
+
+
+https://jasn.asnjournals.org/content/27/4/1234
+PLAINVIEW
+
+
+Daprodustat US Phase 2a – NDD & DD-CKD (Brigandi 2016)
+• NDD-CKD MACE Incidents:
+
+
+• Daprodustat: One MI (1/61)
+• Control: None (0/9)
+
+
+• DD-CKD MACE Incidents:
+• Daprodustat: None (0/31)
+• Control: None (0/6)
+
+
+• No MACE incidents were 
+reported among DD-CKD 
+patients, one severe acute 
+coronary syndrome 
+(myocardial infarction) 
+reported in NDD-CKD 
+group.  See right for 
+summary of SAEs from p. 5 
+of publication
+
+
+• Source: Brigandi et al 2016
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 126
+
+
+
+https://www.sciencedirect.com/science/article/pii/S027263861501495X
+PLAINVIEW
+
+
+Daprodustat Japan Phase 2 – DD-CKD (Akizawa 2016)
+• MACE Incidents
+
+
+• Daprodustat: None (0/78)
+
+
+• Placebo: One stroke (cerebral 
+hemorrhage) (1/19)
+
+
+• SAEs discussed on p. 6 of 
+Akizawa 2016 (see right for 
+relevant excerpt)
+
+
+• Source: Akizawa et al 2016
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 127
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27978511
+PLAINVIEW
+
+
+Daprodustat US Phase 2a DD-CKD (Cizman 2018)
+• MACE Incidents:
+
+
+• Daprodustat: 1 myocardial infarction 
+(1/15)
+
+
+• No control group
+
+
+• Adverse events reported in Table S1
+from the Supplementary Appendix to 
+Cizman 2018 (see right) as well as at 
+https://clinicaltrials.gov/ct2/show/stud
+y/NCT02075463
+
+
+• Source: Cizman et al 2018
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 128
+
+
+
+https://www.kireports.org/cms/10.1016/j.ekir.2018.02.009/attachment/abb5a114-a360-49a9-967a-5a3f4d8f96ea/mmc2.pdf
+
+https://clinicaltrials.gov/ct2/show/study/NCT02075463
+
+https://www.ncbi.nlm.nih.gov/pubmed/29989040
+PLAINVIEW
+
+
+Daprodustat Japan Phase 3 – DD-CKD (clinicaltrials.gov)
+• MACE incidents:
+
+
+• Daprodustat: None (0/28)
+
+
+• No control
+
+
+• No MACE incidents were reported in this trial.  SAEs provided below
+
+
+• Source: https://clinicaltrials.gov/ct2/show/results/NCT02829320
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 129
+
+
+
+https://clinicaltrials.gov/ct2/show/results/NCT02829320
+PLAINVIEW
+
+
+Daprodustat US Phase 2b – NDD-CKD (Holdstock 2018)
+• MACE Incidents:
+
+
+• Daprodustat: Four deaths & one 
+myocardial infarction (5/170)
+
+
+• EPO: One death (1/80)
+
+
+• MACE summary from Holdstock
+2018 provided to the right
+
+
+• Source: Holdstock et al 2018
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 130
+
+
+
+https://academic.oup.com/ckj/article/12/1/129/4925438
+PLAINVIEW
+
+
+Daprodustat US Phase 2b – DD-CKD (Meadowcroft 2018)
+• MACE Incidents:
+
+
+• Daprodustat: Five deaths & two 
+myocardial infarctions (7/177).  One 
+patient suffered from a myocardial 
+infarction and later died and was excluded 
+from the MI count to avoid double-
+counting
+
+
+• EPO: No MACE incidents (0/39)
+
+
+• Table 5 from p. 8 of Meadowcroft 2018 
+provided to the right
+
+
+• Source: Meadowcroft et al 2018
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 131
+
+
+
+https://academic.oup.com/ckj/article/12/1/139/4944172
+PLAINVIEW
+
+
+Overview of Vadadustat Trials
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 132
+PLAINVIEW
+
+
+Vadadustat Sources
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 133
+
+
+Vadadustat Trial Source Where to Find MACE in Each Publication
+
+
+US Phase 2a – NDD-CKD (vs. placebo) Martin et al 2017 Not disclosed – one death reported
+
+
+US Phase 2 - DD-CKD (no control) Haase et al 2018 Table of AEs on p. 8 of publication
+
+
+US Phase 2b - NDD-CKD (vs placebo) Pergola et al 2016 Not disclosed – three deaths reported
+
+
+Japan J01 – NDD-CKD (vs. EPO) Akebia Press Release Not disclosed – one death reported
+
+
+Japan J02 – PD-CKD (no control) Akebia Press Release Not disclosed – one death reported
+
+
+Japan J03 – DD-CKD (vs. EPO) Akebia Press Release Not disclosed
+
+
+Japan J04 – DD-CKD (no control) Akebia Press Release Not disclosed
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28343225
+
+https://academic.oup.com/ndt/article/34/1/90/4973359
+
+https://www.sciencedirect.com/science/article/pii/S008525381630357X
+
+http://ir.akebia.com/news-releases/news-release-details/akebia-therapeutics-announces-positive-top-line-results-two
+
+http://ir.akebia.com/news-releases/news-release-details/akebia-therapeutics-announces-positive-top-line-results-two
+
+http://ir.akebia.com/news-releases/news-release-details/akebia-therapeutics-announces-positive-top-line-results-two
+
+http://ir.akebia.com/news-releases/news-release-details/akebia-therapeutics-announces-positive-top-line-results-two
+PLAINVIEW
+
+
+Vadadustat US Phase 2a – NDD-CKD (Martin 2017)
+• MACE incidents were not disclosed, but p. 5 of Martin 2017 reveals that 
+
+
+SAEs were reported in 7/72 (10%) of vadadustat patients and 1/19 (5%) of 
+control patients.  Specific SAEs were not disclosed
+
+
+• One patient in the vadadustat group died (1/72) compared to zero patients 
+in the control group (0/19)
+
+
+• Source: Martin et al 2017
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 134
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28343225
+PLAINVIEW
+
+
+Vadadustat US Phase 2 DD-CKD (Haase 2018)
+• MACE Incidents:
+
+
+• Vadadustat: 2 
+myocardial infarctions, 0 
+strokes, 0 deaths (2/94)
+
+
+• No control
+
+
+• Adverse event table 
+provided on p. 8 of 
+Haase 2018 (see right)
+
+
+• Source: Haase et al 
+2018
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 135
+
+
+
+https://academic.oup.com/ndt/article/34/1/90/4973359
+PLAINVIEW
+
+
+Vadadustat US Phase 2b – NDD-CKD (Pergola 2016)
+• MACE incidents were not disclosed
+
+
+• There were three deaths in the vadadustat group (3/138) compared to zero 
+deaths in placebo (0/72) which are discussed on pp. 4-5 of Pergola 2016
+
+
+• SAEs were reported in 33/138 (24%) of vadadustat patients compared to 
+11/72 (15%) of placebo patients
+
+
+• Source: Pergola et al 2016
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 136
+
+
+
+https://www.sciencedirect.com/science/article/pii/S008525381630357X
+PLAINVIEW
+
+
+Vadadustat Japan Trials: J01, J02, J03 & J04 Studies (Akebia PR)
+
+
+• MACE incidents were not disclosed
+
+
+• One death was reported in the control group in the J01 trial and one death 
+was reported in the vadadustat group in the J02 trial
+
+
+• Source: Akebia Press Release
+
+
+Appendix 2: Daprodustat & Vadadustat Trial References 137
+
+
+
+http://ir.akebia.com/news-releases/news-release-details/akebia-therapeutics-announces-positive-top-line-results-two

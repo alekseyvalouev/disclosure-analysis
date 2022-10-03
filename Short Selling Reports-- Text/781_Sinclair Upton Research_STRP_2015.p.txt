@@ -1,0 +1,929 @@
+1 
+ 
+
+
+ 
+Straight Path Communications Inc. (STRP) 
+How to commit fraud against the FCC and get away with it (until now) 
+
+
+
+
+
+Executive Summary 
+ There is overwhelming evidence that the vast majority of Straight Path Communications' 
+
+
+("Straight Path") 39 GHz  spectrum licenses' Required Notification of Construction/Coverage 
+Applications were obtained under fraudulent misrepresentation, because the systems were 
+never built on the sites as specified in the filings.  
+ 
+
+
+ Michael Rapaport, as a representative of IDT Spectrum and Spectrum Holdings Technologies 
+("IDT"), the transferors of Straight Path's 39 GHz licenses, has likely committed over 150+ 
+counts of fraud against the US government and made  a mockery of the FCC's trust-based 
+license renewal process. Instead of spending vast amounts of time, money, and resources to 
+actually building up the required 39 GHz wireless sites in the 173 Basic Economic Areas (BEA) 
+across the country, IDT/Rapaport gamed the system by filing construction/coverage substantial 
+service Required Notifications that would pass FCC renewal process with nothing but a word 
+processor. 
+ 
+
+
+ Almost all of the 39 GHz systems that are claimed to be "constructed" by IDT to provide 
+Substantial Service as required for their 39 GHz license renewals in 2011-2012, cannot possibly 
+been able to meet their performance specifications, as their purported systems defy the laws 
+of physics, geometry, economics, and common sense. Readers, investors, and the FCC can 
+easily verify for themselves that IDT’s systems were never built or operating at the time of 
+renewal. 
+ 
+
+
+ Even if Straight Path's licenses have any value at all (which they don't), because they were 
+renewed under false statements of coverage/construction, the licenses are at high risk of being 
+terminated and stripped from Straight Path's ownership. Thus, the fair value of Straight Path 
+stock without ownership of the 39 GHz licenses and being banned from future FCC spectrum 
+participation is $1.00-2.00 per share, or approximately liquidation value. 
+
+
+
+
+
+ We urge the Federal Communications Commission (FCC) and regulatory authorities to 
+immediately open an investigation into the license renewal process of Straight Path's 39 GHz 
+licenses and ask Straight Path for proof that the Required Constructions were met for all of the 
+systems claimed to be built in the 173 Basic Economic Areas. Companies should not be allowed 
+to lie to the US Government and get away with it.  
+
+
+ 
+Due to the danger of retaliation from the company and individuals involved, this report was written 
+under a pseudonym, Sinclair Upton Research. People who commit fraud for millions of dollars are willing 
+to do anything to keep their illegitimate gains. The author of this report can be contacted at 
+s.upton@hushmail.com. 
+ 
+ 
+ 
+ 
+
+
+
+mailto:s.upton@hushmail.com
+2 
+ 
+
+
+
+
+
+Disclaimer – As of publication date, the author of this report has short positions in and owns 
+options of the company covered herein and stands to realize gains in the event that the price 
+of the stock declines. Following publication, the author may transact in the securities of the 
+company, and may be long, short, or neutral at any time hereafter regardless of our initial 
+recommendation. The author of this report has obtained all information contained herein 
+from sources they believe to be accurate and reliable. The author of this report makes no 
+representation, express or implied, as to the accuracy, timeliness, or completeness of any 
+such information or with regard to the results to be obtained from its use. All expressions of 
+opinion are subject to change without notice, and the author does not undertake to update 
+or supplement this report or any of the information contained herein. This is not an offer to 
+sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to 
+any person, in any jurisdiction in which such offer would be unlawful under the securities 
+laws of such jurisdiction.
+3 
+ 
+
+
+Background 
+ 
+In early 2011, IDT Spectrum, LLC (“IDT”) a subsidiary of IDT Corporation, had a big problem and it 
+needed a solution, and it needed it fast. At that time, IDT owned 931 licenses in the 39 GHz spectrum 
+and those licenses would expire and be terminated by June 1, 2012, unless IDT could show that it met 
+the substantial service requirements of Section 101.17(a). If IDT did not meet those requirements, they 
+would not be able to keep those licenses until the next expiration date of October 18, 2020, which 
+would cost them their investment in those licenses. 
+ 
+Under FCC renewal requirements for each license, IDT had to show that they constructed systems to 
+either 1) broadcast 39 GHz signals with 4 point-to-point links per 1 million population within each 
+county-sized Basic Economic Area (BEA) service areas or 2) under the point-to-multipoint safe harbor 
+established for LMDS provide coverage to 20 percent of the population of the license's BEA service area. 
+For each BEA, there are 14 licenses consisting of 100 MHz Channels between 38.6-40.0 GHz. However, 
+leasing the sites for the systems, building the hardware, and operating the radio and antennas in all 173 
+BEAs across all 50 states would cost a lot of money, at least $10-12 million dollars by another (now 
+bankrupt) spectrum holder company’s estimates.  
+ 
+Enter Michael Rapaport.  
+ 
+Rapaport, former president of IDT Spectrum, LLC, came up with a working, but illegal solution. First, IDT 
+would build 1 actual, real system (we believe this is the system covering San Francisco-Oakland-San Jose 
+in BEA163 filed on 7/28/10), get it renewed by the FCC, and use that paperwork as a template to make 
+fillings in all the other 172 BEAs. This is acceptable, if IDT actually built the systems.  
+ 
+But, IDT did not actually build most, if not all of the other 172 systems as required, but still filed the 
+Required Notification of Construction/Coverages falsely asserting that they did build them. The FCC, 
+lacking the manpower to inspect each and every application, and having a trust-based license renewal 
+process, approved those licenses for renewal, and IDT got almost all of their licenses renewed cross-
+country. This was quite unusual, because the other large holders of 39 GHz licenses (FiberTower, 
+Airband), attempted to renew but still failed to meet the substantial service requirements and let their 
+licenses expire.  
+ 
+In mid-2012, IDT and Rapaport had another similar problem. Rapaport, through his company Spectrum 
+Holdings Technologies, LLC (“Spectrum Holdings”), acquired 200 licenses in 39 GHz from Level 3 and 
+PTPMS Communications in 122 BEAs that were about to expire because the substantial service 
+requirements were due on June 1, 2012. Spectrum Holdings was assigned ownership of these licenses 
+on May 31, 2012. Amazingly, after just 12 days after getting the licenses, by June 12, 2012, Spectrum 
+Holdings filed their Notifications of Construction/Coverage for every license. How did Spectrum Holdings 
+build up systems in every state in the country in just 12 days? The answer is, they didn’t. Spectrum 
+Holdings simply used the same template as IDT, used find/replace in a word processor to change IDT to 
+Spectrum Holdings, left the rest of the specifications and locations of the site exactly the same, and got 
+these new licenses approved. Problem solved. In 2013, Spectrum Holdings assigned their licenses to 
+Straight Path Communications, who also now owns the former IDT Spectrum licenses. 
+ 
+The FCC is very clear on the requirements for construction/coverage and substantial service, it is not a 
+theoretical exercise for potential or hypothetical signals coming from a proposed system. At the time of 
+the filing, the system must be broadcasting and operational. If IDT and Spectrum Holdings renewed their 
+
+
+
+https://www.law.cornell.edu/cfr/text/47/101.17
+
+https://www.fcc.gov/document/amendment-commissions-rules-regarding-370-386-ghz-and-386-400-ghz-bands-implementation-sect
+
+http://wireless.fcc.gov/auctions/default.htm?job=auction_summary&id=30
+
+https://www.fcc.gov/document/rf-development-lmds-substantial-service-reconsideration-order
+
+http://transition.fcc.gov/oet/info/maps/areas/maps/bea.pdf
+
+http://transition.fcc.gov/oet/info/maps/areas/maps/bea.pdf
+
+https://www.fcc.gov/document/fibertower-microwave-construction-extension-denial-order
+4 
+ 
+
+
+39 GHz licenses under the fraudulent misrepresentation that the systems existed and met the 
+requirements when in reality they did not, then their licenses should never have been renewed in the 
+first place and should now be taken away from them now. Plus, there is the tiny issue about lying to the 
+Federal Government, who, like most people, does not like being lied to. 
+ 
+In this report, we show evidence that many, if not all of the 39 GHz system sites that 
+IDT/Spectrum/Straight Path purported to build were never built nor operating to the required 
+performance specifications to meet substantial service.  We were not able to check or prove that each 
+and every site was fictional. However, because we believe almost every single Required Notification 
+filing was fraud, we are confident that anyone who investigates a random sample of 10 sites purported 
+to be built will discover the truth that they never existed. In the appendix, we present a full list of the 
+relevant FCC Universal Licensing System (ULS) Application file numbers so that readers, investors, and 
+the FCC can verify our claims for themselves.
+5 
+ 
+
+
+
+
+
+Example #1 
+IDT Spectrum, LLC Application File #0004842980, Call Sign WPQV276, North Platte, NE, BEA121 
+ 
+Let’s start with a look at the Substantial Service Notification Application of IDT Spectrum, LLC, filed on 
+August 17, 2011, found using the FCC ULS Application website: 
+ 
+
+
+ 
+Source: FCC Universal Licensing System, #0004842980 
+ 
+The actual filing that IDT submitted claiming to demonstrate construction of the wireless system is 
+below, and is an attachment under the Admin tab on the FCC website: 
+ 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6306078
+
+http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1171531
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6306078
+6 
+ 
+
+
+ 
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQV276 
+ 
+ 
+The details of how the substantial service was demonstrated is below. With the purported system IDT 
+covers 45,926 people or 73.34% of the population in BEA121. The system hardware is a “Tx Power 
+Modified Digital Microwave XP 4 (Avago 6442 in parallel), with a strength of 33 dBm. Both locations 
+have an Rx Threshold (1Mb/s data rate) of -90 dBm. The Hub Antenna gain is 40 dBi, and the Remote 
+Antenna gain (quad 2 foot antenna array) is 48 dBi.” 
+ 
+
+
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQV276 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6306078
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6306078
+7 
+ 
+
+
+ 
+The Friis Transmission Equation calculations in logarithmic form for this particular site is below. This just 
+says that at the maximum radius of 52.8 miles around the site, receiving antennas can get at least -90 
+dBm or 1 picowatt of power from the transmitting antenna signal. 
+ 
+
+
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQV276 
+ 
+The transmitting hub is located in North Platte, NE, at the 3201 S. Jeffers, North Platte, NE address and 
+(41.105006, -100.762986) latitude/longitude specified in the filing. 
+ 
+
+
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQV276 
+ 
+IDT included a helpful  map showing the vast 52.8 mile radius coverage of their system. 
+ 
+
+
+
+https://en.wikipedia.org/wiki/Friis_transmission_equation
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6306078
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6306078
+8 
+ 
+
+
+ 
+ 
+So theoretically, based on the filing’s claims, IDT’s system provides substantial service to BEA 121 and 
+they should get the license renewed for the 39 GHz license there. And the FCC did renew this license on 
+11/8/11. 
+ 
+So what is fishy about this filing, and why do we believe that IDT never actually built the system,  much 
+less have it operating and performing as they claim?  
+ 
+The North Platte, NE site cannot be, and was never used for IDT’s system 
+ 
+We can see what the site looks like in person, thanks to Google Maps Street View: 
+ 
+
+
+
+https://www.google.com/maps/place/41%C2%B006'18.0%22N+100%C2%B045'46.8%22W/@41.1051455,-100.763547,3a,75y,105.18h,87.58t/data=!3m7!1e1!3m5!1sBMZ4XLPhQYSnU0bz4EIf2g!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DBMZ4XLPhQYSnU0bz4EIf2g%26output%3Dthumbnail%26cb
+9 
+ 
+
+
+ 
+Source: Google Maps Street View, location (41.105006, -100.762986) 
+ 
+If you pan around, you can see that all the buildings are 1 story tall (15 feet), and there are no cell phone 
+towers or tall structures over 5 stories tall in the immediate vicinity. Giving IDT the benefit of the doubt, 
+even if IDT’s site location was mistyped and they didn’t build a tower on top of the Overland Trails Boy 
+Scouts Service Center, the maximum height of the antenna is around 75 feet tall. We checked a random 
+sampling of multiple sites that IDT claims to be built, and never found any evidence that systems were 
+built (except for the San Fran and New York exceptions). 
+ 
+This is relevant, because at 75 feet high, the maximum distance to the horizon is only 10.6 miles. 
+However, in the filing the signal range radius claimed by IDT is 52.8 miles. This is from an antenna 
+powered at 33 dBm, or 2 watts. To compare, a normal cell phone device has power of 1-2 watts. A really 
+tall cell tower has a max range 45 miles but using 10 watts and at under 3 GHz frequencies. Could IDT 
+really have transmitted at 1/10 the power level of a cell phone tower a signal at 1 Mbit/second 52.8 
+miles away?  
+ 
+Unless IDT built an 1,845 foot tall structure (50% higher than the Empire State Building!) and placed 
+their transmitting antenna on top of it, it was impossible for IDT to provide substantial service in 39 GHz 
+for this site at a 52.8 mile radius around it. If the antenna was only 75 feet tall, and the coverage radius 
+is decreased to 10.6 miles, the much smaller area could cause the population covered to fall below 20% 
+of the area and the license to be rejected for renewal. We believe this is further evidence that IDT was 
+gaming the system by stating coverage radii that are so large to be completely unrealistic just to get the 
+license renewed. 
+ 
+Not only is the system’s claimed performance an impossibility that violates the laws of geometry (and 
+physics as propagation for 39 GHz is 1-2 kilometers), IDT never leased space there to place their 
+antennas and equipment. 
+ 
+So did IDT really built their wireless 39 GHz system as stated on their application that led to the renewal 
+of their 39 GHz licenses in BEA 121, North Platte, NE? Almost certainly they did not build anything, much 
+
+
+
+https://www.google.com/maps/place/41%C2%B006'18.0%22N+100%C2%B045'46.8%22W/@41.1051455,-100.763547,3a,75y,105.18h,87.58t/data=!3m7!1e1!3m5!1sBMZ4XLPhQYSnU0bz4EIf2g!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DBMZ4XLPhQYSnU0bz4EIf2g%26output%3Dthumbnail%26cb
+
+https://en.wikipedia.org/wiki/Extremely_high_frequency#Propagation
+10 
+ 
+
+
+less a working wireless point-to-multipoint system, and if they did not build an operating system, then 
+they committed outright fraud against the FCC.
+11 
+ 
+
+
+Example #2 
+IDT Spectrum, LLC Application File #0004752746, Call Sign WPQU881, Twin Falls, ID, BEA149 
+ 
+Let’s look at another site IDT claims to have built and operating on 6/6/11, the Twin Falls, ID BEA149 site. 
+ 
+For the Twin Falls, ID location, the demonstration of Construction/Coverage filing, is very similar and in 
+fact comes from the same template as the North Platte, NE filing.  
+ 
+
+
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPU881 
+ 
+This particular filing template is used over and over again by IDT and Spectrum Holdings to get almost all 
+of their 173 BEA 39 GHz license renewals, with the exception of the 8 point-to-point links locations, and 
+the 2010 filing for San Francisco-Oakland-San Jose in BEA163, which we will discuss later. 
+ 
+The site is located at 115 Addison Avenue, Twin Falls, ID (42.563362, -114.479642), and has a radius of 
+33.5 miles. 
+ 
+
+
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPU881 
+ 
+This is what the site looks like in person: 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6187276
+
+http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1171336
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6187276
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applAdmin.jsp?applID=6187276
+12 
+ 
+
+
+ 
+ 
+Source: Google Maps Street View, location (42.563362, -114.479642) 
+ 
+There are no buildings around higher than 5 stories tall, no cell phone towers are large structures to 
+place an antenna. But, to get a radius of 33.5 miles, IDT would have to put the antenna 750 feet high, or 
+75 stories, above the ground. Maybe IDT built a really tall tower on top of the supermarket or Jiffy Lube 
+nearby?  
+ 
+ 
+ 
+  
+
+
+
+https://www.google.com/maps/place/42%C2%B033'48.1%22N+114%C2%B028'46.7%22W/@42.5634821,-114.4793903,3a,75y,127.21h,73.97t/data=!3m7!1e1!3m5!1saEW5xYeEUcWZvuUNaD6idg!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DaEW5xYeEUcWZvuUNaD6idg%26output%3Dthumbnail%26c
+13 
+ 
+
+
+Example #3  
+49 IDT sites over 30 miles radius 
+ 
+Just based on the physics and geometry alone, it is easily proved that all of the 49 IDT filings of 
+demonstration of construction/coverage that claim a coverage radius over 30 miles has to be fabricated.  
+ 
+Below is a list of FCC Application file numbers for IDT Spectrum, LLC that have radius over 30 miles, and 
+leave the discovery of the truth behind this sites to the reader. 
+ 
+IDT Spectrum, LLC Construction/Coverage filings that are likely fabricated, claimed radius over 30 miles 
+(FCC application file numbers) 
+ 
+
+
+0004421791 0004752746  0004810114 0004839003 0004856545 
+
+
+0004421826 0004752753 0004810121 0004839006 0004856552 
+
+
+0004421857 0004752756 0004827250 0004839009 0004856555 
+
+
+0004422168 0004777416 0004827270 0004839013 0004864486 
+
+
+0004423636 0004810073 0004833949 0004839017 0004897958 
+
+
+0004662763 0004810089  0004838988 0004839020 0004897962 
+
+
+0004680471 0004810095 0004838991 0004842980 0004897965 
+
+
+0004706971 0004810099 0004838994 0004856533 0004897968 
+
+
+0004706978 0004810104 0004838998 0004856537 0004897972 
+
+
+0004752739 0004810111 0004839000  0004856542
+14 
+ 
+
+
+Errors and typos in IDT’s and Spectrum Holdings expose a copy-paste, find-replace process of “robo-
+filing” 
+ 
+IDT Spectrum, LLC Application File #0004688413, Call Sign WPQU240, New York-No. New Jer.-Long Isl, 
+BEA010 
+ 
+The system that IDT claims to have built on top of the IDT Corporation headquarters building at 520 
+Broad Street, New Jersey, NJ, is a case of where their find/replace, copy-paste system of “building” sites 
+goes wrong and is more evidence of falsifying documents. 
+ 
+Below is the first demonstration of construction/coverage filing IDT made for their BEA010 site, first 
+filed on 4/13/11: 
+ 
+
+
+ 
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQU240 
+ 
+Notice in the yellow highlights and bracketed comments, that whoever wrote this filing forgot to 
+find/replace the location from the San Francisco-Oakland-San Jose filing, as well as changing the 
+language from “rural areas”, which are not really application for New York. 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6099102
+
+http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1170695
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6099102
+15 
+ 
+
+
+ 
+We also see the specs of the system and more comments about possible errors in the filing. Notice the 
+stated Hub TX Power of 20 dBm and the radius of 21 miles. 
+ 
+
+
+
+
+
+ 
+Source: Substantial Service Application, initial, for IDT Spectrum for call sign WPQV276, 4/13/11 
+ 
+So this filing, with the highlighted comments and errors, stayed in the FCC system from 4/13/11 until 
+6/23/11, when IDT realized their mistakes and then filed amendment #1 on 6/23/11, and then 
+amendment #2 on 7/21/11.  
+ 
+If you look at amendment #2’s filing’s system specifications and radius, you can see that IDT changed the 
+power from 20 dBm to 33 dB and added the Link Margin Friis calculation, in-line with the standard filing 
+template, and the radius was decreased from 21 miles to 14.9 miles.  
+ 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6099102
+16 
+ 
+
+
+
+
+
+ 
+Source: Substantial Service Application, amendment #2, for IDT Spectrum for call sign WPQV276, 
+7/21/11 
+ 
+We believe that these amendments and changes to the filing indicate the easily-made word processing 
+errors inherent in the process of fabricating most of the 173 substantial service demonstration 
+requirements.  
+ 
+On the other hand, of all the 173 sites IDT claims to have built, the New York site is probably the only 1 
+other actual site actually built, in addition to the first site for San Francisco-Oakland-San Jose in BEA163. 
+The reason is because this location is at IDT Corporation headquarters, which IDT Spectrum obviously 
+has access to and permission to place antennas and equipment on the roof. However, the errors seen in 
+the initial filing come from trying to adapt a falsified template method (thus the copy-paste errors), with 
+the actual specs of the system that the engineers may have designed and built. 
+ 
+The site covering San Francisco-Oakland-San Jose in BEA163, file #0004338108, being the first filing and 
+at the location for Endgate Associates/Doug Lockie residence/office, may also be a real site because IDT 
+Spectrum would have access to the building and permission to put an antenna on it. 
+ 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6099102
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=5638655
+17 
+ 
+
+
+ 
+Economic and common sense reasons why IDT Spectrum didn’t build out 173 wireless sites 
+ 
+Besides the already overwhelming evidence already supporting our thesis that IDT Spectrum falsified 
+their construction/coverage requirements and didn’t actually build the systems, we list here some 
+further reasons why the sites are largely fictional 
+ 
+As these reasons are mostly common sense, we simply state them here and leave the exercise of 
+verification to the readers, investors, and the FCC. 
+ 
+
+
+1. On October 13, 2010, Michael Rapaport signed the “Spectrum Portfolio Agreement” with IDT for 
+his profit sharing and development cost sharing for getting IDT’s 39 GHz licenses renewed. By 
+November 29, 2011, or just 13 months later, how was he able to build out 173 wireless sites? 
+Note that Rapaport stated that he was working primarily by himself and subcontractors to find 
+potential locations for the sites, negotiate with the multiple parties involved (building owner, 
+land owner, local municipalities) to place an antenna on a roof, hire a firm to climb on the roofs 
+of the hotel/office building/residential house/apartment, install and configure the antenna,  
+ 
+
+
+2. According to the court filings of the IDT Corporation v. Rapaport litigation, Rapaport spent just 
+$700,000 developing, renewing and building out the “substantial service” required for all 173 
+IDT sites and 122 Spectrum Holdings sites? Even if IDT shouldered 82% of the costs, according to 
+the Spectrum Portfolio Agreement, that gives a total cost for development of $3.9 million dollars, 
+way too small for the number of sites, difficult geographies, and short time required. FiberTower 
+claims a similar project would have cost them $10-12 million. 
+ 
+
+
+3. The costs of development and ongoing lease sites for IDT’s 173 “buildouts” do not appear 
+anywhere in the SEC filings’ financial statements in any year between 2002-2015 of IDT 
+Corporation, the S-1 IPO prospectus of IDT Spectrum, or Straight Path Communications. The 
+costs of building the sites out and the ongoing lease expenses (usual telecom rooftop lease is 5-
+25 years) would either be expensed or capitalized and show up in the financials. 
+ 
+
+
+4. The lawyers (Wilkie Farr & Gallagher LLP) and IDT employees (Greg Haledijian, Joseph Sandri, Jr.) 
+who had historically signed off on IDT Spectrum, LLC’s FCC filings (see file #0003401972 for 
+example), did not sign any of IDT’s construction/coverage filings. Instead, Michael Rapaport is 
+the sole signer of the construction/coverage filings, a red flag that perhaps the company’s legal 
+counsel was not comfortable with putting their name behind the filings, which are largely 
+misrepresentations. 
+ 
+
+
+5. How come IDT was the only large holder of 39 GHz spectrum that could meet the substantial 
+service requirements and renew their licenses before the June 1, 2012 date? The answer is that 
+IDT never actually constructed anything. This is not fair to FiberTower, Airband, and other 
+companies who made bona fide attempts to keep their spectrum, but were rejected by the FCC 
+and their licenses were terminated. If the systems weren’t built and operating, IDT’s current 
+ownership of 39 GHz spectrum is misappropriation of US Government assets under false 
+pretenses, and the licenses should be stripped from them and given back to the FCC. 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=4417441
+18 
+ 
+
+
+Compare IDT’s sites to real sites that other companies are operating real sites in 39 GHz 
+ 
+Out of the 2,422 total potential 39 GHz licenses, we did find 16 construction filings made by other 
+companies that appear to be legitimately constructed. The reasons why we think they are legitimate is 
+because the radius of coverage is under 20 miles, and the locations are found in a centralized area 
+usually on company property. It is easy and cheap to put a 39 GHz antenna on your own property in a 
+single city. It’s not that easy to build them in 173 locations across the country. 
+ 
+Here, we give a single example of Nextlink’s location in San Francisco-Oakland-San Jose BEA163 to show 
+what a real site looks like. 
+ 
+Nextlink Wireless, LLC #0005333354, call sign WPQT940 
+ 
+
+
+
+
+
+
+
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6983022
+19 
+ 
+
+
+ 
+ 
+Source: Substantial Service Application for IDT Spectrum for call sign WPQT940 
+ 
+ 
+In person Street View: 
+
+
+ 
+ 
+Source: Google Maps Street View, location (37.49156, -121.93112) 
+ 
+ 
+Notice that the building location’s address and latitude/longitude is at the XO Communications building, 
+the parent of Nextlink Wireless. In contrast, IDT’s sites, at the hotels, apartment buildings, and 
+commercial buildings are not IDT-owned property. Also note that their lawyers signed off on the filing. 
+Also note that their antennas are directional, not perfect circle radius like IDT’s systems. 
+ 
+Here is the location of PVT Networks, Inc.’s site, filing #0005209965, in Hobbs, NM BEA 136 
+
+
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6983022
+
+https://www.google.com/maps/place/37%C2%B029'29.6%22N+121%C2%B055'52.0%22W/@37.4918233,-121.9304819,3a,73y,236.59h,92.08t/data=!3m7!1e1!3m5!1swRAueibIZaFK-X5INBJOjQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DwRAueibIZaFK-X5INBJOjQ%26output%3Dthumbnail%26c
+
+http://wireless2.fcc.gov/UlsApp/ApplicationSearch/applMain.jsp?applID=6800587
+20 
+ 
+
+
+ 
+ 
+Source: Google Maps Street View, location (32.840777, -104.446122) 
+ 
+Notice that antennas, communications structures, and other wireless equipment is visible and clearly 
+operating. IDT’s sites have no visible wireless equipment. 
+ 
+ 
+Below is a list of the 16 file numbers of the construction/coverage notifications of successfully renewed 
+39 GHz licenses for other companies, and leave verification to readers, investors, and the FCC. 
+ 
+Other companies Construction/Coverage fillings that are likely to be real (FCC application file numbers) 
+ 
+
+
+0004370667 0005333354 
+
+
+0005209965  0005333357 
+
+
+0005239239 0005333367 
+
+
+0005262086 0005333399 
+
+
+0005262094 0005333406 
+
+
+0005262100 0005333412 
+
+
+0005262106 0005333446 
+
+
+0005262140 0005358151 
+  
+
+
+
+https://www.google.com/maps/place/32%C2%B050'26.8%22N+104%C2%B026'46.0%22W/@32.840777,-104.448316,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0
+21 
+ 
+
+
+Conclusion 
+
+
+The truth about Straight Path’s licenses and the false construction/coverage claims will eventually come 
+
+
+out from the source. The fraud is just too massive, too spread out, and too easily verifiable. If the 
+
+
+individuals and corporations involved attempt to cover up the truth, they will just compound their 
+
+
+mistakes. Lying to the Federal Government is already really bad, covering it up is even worse. We 
+
+
+recommend any individuals involved to come clean to the FCC and other regulatory bodies immediately. 
+
+
+As short sellers, we have economic incentives in seeing Straight Path’s stock decline. But we aren’t doing 
+
+
+this solely for the money. Like police detectives, who earn a living by making our society a better place, 
+
+
+we also are paid to illuminate the truth, expose fraud, and uphold justice. 
+
+
+Despite the debate, uproar and controversy that will erupt after the claims of this report are verified, 
+
+
+please keep in mind that short selling is good for investors, good for the markets, and ultimately good 
+
+
+for America.
+22 
+ 
+
+
+Appendix 
+ 
+IDT Spectrum, LLC Construction/Coverage fillings that could be real (FCC application file numbers) 
+
+
+0004338108 
+
+
+0004688413 
+ 
+IDT Spectrum, LLC Construction/Coverage filings that are likely fabricated (FCC application file numbers) 
+
+
+0004897946 0004745865 0004897962 0004658529 0004839020 
+
+
+0004685093 0004745869 0004777405 0004680474 0004915447 
+
+
+0004685097 0004745873 0004856552 0004658542 0004862085 
+
+
+0004685106 0004745877 0004810121 0004897968 0004648719 
+
+
+0004685109 0004897950 0004777413 0004838988 0004435879 
+
+
+0004685113 0004813950 0004777416 0004838991 0004752739 
+
+
+0004680426 0004745885 0004741287 0004838994 0004752743 
+
+
+0004680431 0004856533 0004741293 0004838998 0004752746 
+
+
+0004827270 0004813952 0004777422 0004839000 0004752749 
+
+
+0004685118 0004897955 0004777425 0004839003 0004642148 
+
+
+0004685122 0004856537 0004777428 0004839006 0004810089 
+
+
+0004668095 0004680440 0004777432 0004839009 0004831063 
+
+
+0004810070 0004658411 0004777437 0004839013 0004650362 
+
+
+0004810073 0004658422 0004777444 0004839017 0004833949 
+
+
+0004813945 0004658426 0004777450 0004842980 0004642151 
+
+
+0004813948 0004658433 0004777454 0004706971 0004650370 
+
+
+0004810080 0004658437 0004777459 0004707033 0004642159 
+
+
+0004810099 0004856542 0004777463 0004707047 0004642168 
+
+
+0004810104 0004680445 0004777468 0004707088 0004642131 
+
+
+0004810111 0004680452 0004768072 0004833945 0004642137 
+
+
+0004745853 0004680459 0004768057 0004706978 0004668110 
+
+
+0004810114 0004903290 0004768077 0004703984 0004642154 
+
+
+0004745856 0004662763 0004768054 0004703992 0004810095 
+
+
+0004742824 0004662774 0004897965 0004703998 0004757532 
+
+
+0004742827 0004680467 0004764205 0004704010 0004757524 
+
+
+0004745860 0004680471 0004764196 0004704023 0004752753 
+
+
+0004742830 0004662787 0004768061 0004704064 0004752756 
+
+
+0004742833 0004658469 0004768046 0004704435 0004757514 
+
+
+0004742839 0004827256 0004856555 0004704583 0004864485 
+
+
+0004742848 0004827250 0004658493 0004704601 0004897972 
+
+
+0004741272 0004658480 0004658466 0004704613 0005148642 
+
+
+0004741267 0004658489 0004658507 0004696422 
+ 0004742811 0004897958 0004658510 0004642144 
+ 0004741277 0004856545 0004658514 0004696403 
+ 0004741281 0004777397 0004658520 0004696369
+23 
+ 
+
+
+ 
+Spectrum Holdings Technologies, LLC filings that are likely fabricated (FCC application file numbers) 
+ 
+
+
+0005250387 0005253960 0005242585 0005250331 0005242565 
+
+
+0005251392 0005253964 0005254012 0005256349 0005258479 
+
+
+0005251519 0005251731 0005251832 0005256350 0005256358 
+
+
+0005242570 0005251738 0005256326 0005251876 0005242574 
+
+
+0005250388 0005251744 0005254014 0005254033 0005242572 
+
+
+0005251579 0005251749 0005250330 0005251878 0005250348 
+
+
+0005250415 0005253966 0005254015 0005251880 0005258780 
+
+
+0005253951 0005250490 0005254018 0005254035 0005242556 
+
+
+0005251589 0005253969 0005256329 0005256351 0005242559 
+
+
+0005251595 0005256324 0005256331 0005254027 0005251937 
+
+
+0005250344 0005251772 0005256334 0005254038 0005250482 
+
+
+0005242579 0005253973 0005254021 0005242586 0005251988 
+
+
+0005253955 0005253976 0005256335 0005254041 0005254048 
+
+
+0005253958 0005253979 0005256337 0005250345 0005251993 
+
+
+0005250426 0005253981 0005254023 0005256356 0005256360 
+
+
+0005253961 0005253984 0005256347 0005258452 0005254050 
+
+
+0005253962 0005253986 0005251838 0005258456 0005250309 
+
+
+0005251698 0005251780 0005254025 0005258470 0005254053 
+
+
+0005251703 0005253987 0005254028 0005258476 0005251997 
+
+
+0005251711 0005250326 0005256348 0005251923 0005258781 
+
+
+0005250448 0005253989 0005251845 0005254043 0005256361 
+
+
+0005267236 0005253992 0005254031 0005256357 0005258784 
+
+
+0005250469 0005251800 0005251858 0005254045 
+ 0005258427 0005242568 0005251865 0005242582 
+ 0005253963 0005253994 0005258445 0005242561

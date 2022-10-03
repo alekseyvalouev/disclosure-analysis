@@ -1,0 +1,1221 @@
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 1/26
+
+
+Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth
+And Decline Of IPS
+Apr. 29, 2013 10:00 AM ET12 comments
+by: Kerrisdale Capital Management
+
+
+At the current price of $51, we believe that shares of Sourcefire (NASDAQ:FIRE) are at
+least 60% overvalued. Following a 55% rally since the start of 2012, FIRE shares now
+imply a 5.4x 2013E revenue multiple and a 204x 2013E GAAP P/E. With valuation
+multiples as rich as these, it might sound strange to hear that Sourcefire added only 452
+new customers in 2012, the exact same amount they added in 2011. Yet FIRE's revenue
+growth expanded from 27% to 35% in 2012, masking the slowing momentum in new
+customer adds. We can attribute this mismatch to the introduction of two new software
+products, a next-generation firewall and an anti-malware tool, in Q4 2011 and Q1 2012,
+respectively. These upsell tools allow FIRE to achieve a combined pricing uplift of 30%,
+providing a one-time growth boost for new and existing customers. Comments from
+management indicate that this was a defensive measure taken to protect Sourcefire's core
+Intrusion Prevention System ("IPS") business from obsolescence as recently introduced
+next-generation firewalls now incorporate many features of standalone IPS. Gartner
+believes these NGFW systems could subsume 50% of new IPS deployments by 2015.
+While a bullish Wall Street continues to brush aside these issues, our research indicates
+that FIRE's upsell opportunity is becoming saturated, new product introductions will
+increase competitive pressure, and FIRE's GAAP earnings are actually shrinking on a
+year-over-year basis (2012 10-K, Q3 2012 10-Q).
+
+
+Sourcefire, a 12-year old network security business, is a leading provider of Intrusion
+Prevention Systems ("IPS"). Modern IPS tools use rule-based systems to identify
+suspicious packet traffic, alert the IT administrator, shut down attempted malware attacks,
+
+
+
+https://seekingalpha.com/symbol/FIRE
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CEsQFjAB&url=http%3A%2F%2Fmcafee.zinfi.com%2Fenduser%2Fngns%2Fdyntek1%2Ffile%2FMcAfee_vol4-art5.pdf&ei=WW51Ub38PLjH4APeoIHAAQ&usg=AFQjCNGmjTaEebhbiENXarAOCsGLtOdHeA&bvm=bv.45512109,d.dmg
+
+http://www.sec.gov/Archives/edgar/data/1168195/000116819513000003/fire1231201210k.htm
+
+http://www.sec.gov/Archives/edgar/data/1168195/000116819512000007/fire0930201210q.htm
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671802846394546-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 2/26
+
+
+and block host, service, or application access as needed. Every network is different, but a
+firewall is typically used on the perimeter of the network as a first-line defense, where line
+speeds are the greatest, while IPS sits inside the firewall to provide a second layer of
+protection. According to Gartner, the $4.9bn firewall market is believed to be four times
+larger than the $1.2bn IPS market. Some of the largest end-markets for IPS are security-
+sensitive industries with large information flows, such as governments, financial
+institutions, and telecommunications networks.
+
+
+Prior to the introduction of next-generation firewall ("NGFW"), the firewall and IPS systems
+were purchased separately, creating the need to manage two different security platforms.
+But Gartner and other industry experts now believe the firewall market is shifting towards
+NGFW adoption, allowing users to integrate firewall and IPS features into a single tool.
+Very worryingly for Sourcefire, research from Gartner indicates these NGFW systems
+could subsume 50% of new IPS deployments by 2015. Sourcefire has reacted to this
+threat by introducing its own NGFW software, which it now offers alongside its IPS for a
+10% price increase. While this can help FIRE retain some customers over the near-term,
+we believe Sourcefire will find it challenging to maneuver from an "IPS-first" business to
+one primarily known for its firewall. Sourcefire's founder and CTO, Marty Roesch, has
+stated that, "we typically lead with Intrusion Prevention Systems" and "we don't really see
+greenfield opportunities very often in a space like [Next-Generation Firewall]" (Q4 2012
+Call). Mr. Roesch has also acknowledged that Sourcefire's move to NGFW was mostly
+defensive in nature: "If you look at some of the market predictions, a fair amount of the
+IPS market will be delivered on NGFW markets and we don't want to cede market
+[share]."
+
+
+The next-generation firewall sector is extremely crowded with highly-regarded pure-play
+participants like Fortinet, Palo Alto Networks, and Check Point alongside networking
+giants like Cisco and Juniper. Given the momentum behind NGFW adoption, Gartner
+believes that end-market growth in the IPS market will begin to slow in 2013 before
+inverting to negative year-over-year growth in 2015.
+
+
+Even in the midst of this market shift, Wall Street analysts have bent over backwards to
+justify FIRE's current price. Some of the outlandish valuation metrics proposed by the
+Street include an 8% terminal growth rate (Wells Fargo, 11/16/12), a 6.7x 2013E revenue
+multiple (Stephens, 5/1/12), and assigning a 50% probability to FIRE getting acquired "in
+the next few years" (FBN Securities, 1/12/12). Morgan Stanley (2/22 report) uses a 21x
+"adjusted" 2014E free cash flow multiple, which would sound more reasonable if it didn't
+exclude stock-based compensation expense without adjusting for the corresponding
+
+
+
+http://www.gartner.com/id=2389915
+
+http://searchsecurity.techtarget.com/tip/Firewall-vs-IPS-Will-next-generation-firewalls-nix-stand-alone-IPS
+
+https://seekingalpha.com/article/1214301-sourcefire-management-discusses-q4-2012-results-earnings-call-transcript?part=single
+
+http://security.cbronline.com/news/palo-alto-founder-slams-sourcefire-next-gen-firewall-move-060911
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 3/26
+
+
+shareholder dilution. Management has done little to temper this reckless enthusiasm going
+into the new year. On the Q4 2012 call, Marty Roesch stated that FIRE continues "to see
+the opportunity to double the top line every 3 years," a goal we believe is unrealistic given
+the transitory benefit of upsells, the market's shift towards NGFW, and FIRE's heavy
+reliance on federal spending (20% of 2012 sales). Moreover, our management-case
+discounted cash flow model, where FIRE's operating margins reach management's long-
+term goals, implies a fair value range of $17 - $26. This equates to a discount of 50% -
+65% below Sourcefire's current share price. With such a large disconnect between FIRE's
+share price and intrinsic value, it should be concerning that FIRE's GAAP earnings
+actually shrunk by 24% in 2012 due to skyrocketing equity-based compensation and
+buckling gross margins.
+
+
+Recent commentary from Fortinet (NASDAQ:FTNT) and Check Point (CHKP), two leading
+network security vendors, could foreshadow industry-wide weakness in the first quarter
+results. On a special investor call on April 10th, Fortinet was forced to lower its Q1 2012
+revenue guidance from $138m - $141m to $134m - $136m, sending FTNT shares down
+13% for the day. Fortinet attributed the weakness to slowing European spending and
+delayed capex at the large telecom customers. Sourcefire is meaningfully exposed to both
+end-markets. Check Point reported its Q1 2012 report on April 23rd, 2013 with a revenue
+print of $322.7m, at the low-end of management's guidance ($320 - 332m) and below
+analyst expectations ($328m). Due to industry-wide weakness, CHKP doesn't expect a
+resumption of growth until the second half of the year. This pair of read-throughs could be
+particularly dangerous for Sourcefire following the victory lap it took on its Q4 call, which
+reset growth expectations higher than the Street expected. At a 5.4x 2013E revenue
+multiple and 204x GAAP P/E, FIRE will have little margin for error on its April 30th
+earnings announcement.
+
+
+I. Summary of Red Flags
+
+
+We believe that Sourcefire is substantially overvalued for the following reasons:
+
+
+Next-Generation Firewalls Could Replace 50% of IPS Deployments by 2015. As
+the creator of the open-source Snort software, Sourcefire is deservedly praised for
+creating one of the industry's most influential IPS products. But when it comes to
+mindshare in the firewall market, Sourcefire fails to even earn a mention in Gartner's
+Enterprise Firewall Magic Quadrant. This should be concerning to FIRE investors
+because industry pundits believe that next-generation firewall technology, which
+combines the features of both traditional firewalls and IPS systems, will subsume 50%
+of IPS deployments by 2015. Admittedly, some customers may continue to prefer a
+
+
+
+https://seekingalpha.com/symbol/FTNT
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CEIQFjAB&url=http%3A%2F%2Fseekingalpha.com%2Fsymbol%2Fchkp&ei=gbd2UaW6DKPA4AOKo4GIBg&usg=AFQjCNFIwM-ab5sOzUh-rBLE75_B1cnRAw&sig2=85h9GKsY8BMM0ldCINbAAA&bvm=bv.45512109,d.dmg
+
+http://www.checkpoint.com/products/promo/gartner-firewall/
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 4/26
+
+
+multi-layer approach as opposed to all-in-one NGFWs, but the threat to standalone
+IPS will only grow in time. Even after launching its own version of an NGFW in Q4
+2011, Sourcefire's founder, Marty Roesch, admits that FIRE still approaches customers
+with an IPS-first mindset, "I think the way people are approaching is that we typically
+interact with, you see them starting up with IPS deployments and then turning on
+license keys to bring the additional functionality to bear where necessary" (FIRE Q3
+2012 Call). While this strategy plays to FIRE's strengths, and allows them to avoid
+head-to-head competition with Palo Alto (NYSE:PANW), Check Point, Fortinet, and
+other NGFW leaders, it could be a losing strategy over the long term.
+
+
+Slowing New Customer Adds and Saturation of the Upsell Opportunity will make
+Growth More Challenging in 2013. Sourcefire has attempted to mitigate the threat
+from competitive NGFW systems by launching two new products, a Sourcefire-
+branded NGFW and the FireAMP Anti-Malware tool. After paying the upfront
+hardware, subscription, and maintenance costs associated with a Sourcefire IPS,
+customers can add NGFW and Anti-Malware software for a combined 30% price
+increase. The addition of these tools to FIRE's portfolio in late 2011/early 2012 allowed
+Sourcefire to grow quarterly revenue by an impressive 51% (year-over-year) in Q1
+2012. Since then, however, upsell opportunities appear increasingly sparse, as YoY
+revenue growth slowed to 27% in Q4 2012. Many have overlooked this slowing
+quarterly growth, instead citing FIRE's 35% revenue growth in 2012. Yet recent data in
+FIRE's 10-K reveals that Sourcefire only added 452 new customers in 2012, which is
+precisely the same amount of customer adds as in 2011. This may indicate that 2012's
+growth reacceleration was the result of one-off upsell opportunities, not increased
+customer wins.
+
+
+A Management-case DCF Model Yields a Fair Value of FIRE of $17 - $26, a 60%
+Decrease from the Current Share Price. Since GAAP profitability continues to
+shrink, Sourcefire utilized a February 25th Investor Presentation to remind
+shareholders of its long-term margin goals. FIRE argues that, as the business
+expands, it can materially decrease R&D, selling & marketing, and G&A expense as a
+percentage of revenue. This long-term plan would theoretically add around 1000bps to
+FIRE's 2012 operating margin. While these long-term goals are praiseworthy, in
+practice they could be difficult to achieve. Given the more than dozen competitors in
+both IPS and Firewall, FIRE must perpetually invest in new research just to stay
+competitive. As for the selling & marketing expense, Sourcefire's shift towards adding
+channel partners should pressure margins during the transition period, as shown by
+the 200bps increase in S&M expense between 2010 and 2012. But even if we
+
+
+
+https://seekingalpha.com/article/975381-sourcefire-s-ceo-discusses-q3-2012-results-earnings-call-transcript
+
+https://seekingalpha.com/symbol/PANW
+
+http://www.securityweek.com/sourcefire-unveils-next-generation-firewalls
+
+http://investor.sourcefire.com/releasedetail.cfm?ReleaseID=643081
+
+http://investor.sourcefire.com/common/download/download.cfm?companyid=AMDA-N5BD6&fileid=637894&filekey=56C7B63C-4DBC-4996-A183-665C18E02230&filename=Sourcefire_Corporate_Presentation_AGC_2.25.13.pdf
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 5/26
+
+
+overlook these challenges and assume that FIRE's EBIT margins consistently expand,
+reaching management's long-term goals by 2017, a discounted cash flow analysis
+yields a fair value of only $20/share. This analysis uses a 10% cost of capital and a 3%
+long-term growth rate, both reasonable assumptions given FIRE's share price volatility
+and the growing threat from NGFW. Further sensitizing this range to a 9% - 11%
+WACC and a 2% - 4% long-term growth rate produces a fair value range of $17 -
+$26/share, or about 60% below FIRE's current share price of $51.04.
+
+
+Recent CEO Appointment and Industry Precedent Suggest that Sourcefire is not
+a Near-Term Acquisition Target. When traditional valuation metrics fail, analysts
+have turned to valuing Sourcefire as a buyout target. For example, last year's initiating
+coverage report from FBN Securities (1/12/12) assigns a 50% probability to FIRE
+getting acquired "in the next few years" as part of its valuation analysis. Assumptions
+like this are reckless. To begin with, the April 10th appointment of John Becker at CEO,
+replacing Marty Roesch who served in an interim role, reduced the odds of a near-term
+takeover. If FIRE had been in back door negotiations for a sale of the company, it
+wouldn't be necessary to grant Mr. Becker a 400,000 share restricted stock and option
+package that would partially accelerate on a change of control. Secondly, a survey
+through precedent network security deals reveals that many have already passed over
+Sourcefire in favor of other platform acquisitions. IBM (NYSE:IBM) acquired Internet
+Security Systems in August 2006, HP (NYSE:HPQ) acquired TippingPoint via the
+3Com deal in November 2009, Intel (NASDAQ:INTC) bought McAfee in April 2010,
+and Dell (DELL) paid $1.2bn for SonicWall in March 2012. The two firms most cited as
+acquirers, Cisco (NASDAQ:CSCO) and Juniper (NYSE:JNPR), already market in-
+house, highly-ranked next-generation firewall systems. Finally, the Israeli-based Check
+Point agreed to acquire FIRE in 2005 only to have the deal blocked by the U.S.
+government on security grounds. At 21% of 2012 revenue, the federal government is
+by far Sourcefire's largest customer and has its IPS systems installed throughout its
+official networks. The government is extremely interested in ensuring FIRE remains
+domestically controlled. Because of this, the possibility of an acquisition by a foreign
+buyer is effectively nil while national security risks would complicate a transaction with
+a U.S. buyer, especially one that has interests abroad. These reasons, in addition to
+Sourcefire's high 6.8x LTM revenue multiple, make us believe that a near-term takeout
+is unlikely at the current share price.
+
+
+Wall Street Research is Drastically Overstating Sourcefire's Addressable Market
+Opportunity. By combining the firewall with the IPS, next-generation firewalls can
+consolidate hardware and software tools into one platform, eliminating the need to
+
+
+
+http://www.sec.gov/Archives/edgar/data/1168195/000119312513146070/d517687dex101.htm
+
+https://seekingalpha.com/symbol/IBM
+
+http://www-03.ibm.com/press/us/en/pressrelease/20164.wss
+
+https://seekingalpha.com/symbol/HPQ
+
+http://www.businessweek.com/technology/content/nov2009/tc20091111_678209.htm
+
+https://seekingalpha.com/symbol/INTC
+
+http://mashable.com/2010/08/19/intel-acquires-mcafee/
+
+https://seekingalpha.com/symbol/DELL
+
+http://online.wsj.com/article/SB10001424052702304450004577279201767451444.html
+
+https://seekingalpha.com/symbol/CSCO
+
+https://seekingalpha.com/symbol/JNPR
+
+http://www.checkpoint.com/press/2005/sf100605.html
+
+http://www.securityfocus.com/news/11382
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 6/26
+
+
+purchase separate IPS and firewall hardware. Since upfront product expenses are
+typically the lion's share of a vendor's income, the cost savings to customers are
+meaningful. But when viewed from the perspective of the vendors, such as Sourcefire,
+this innovation might lower the revenue opportunity. This can be demonstrated by
+Sourcefire's new sales model, where customers need only pay 30% more to add
+NGFW and Anti-Malware software to FIRE's traditional IPS system. And because FIRE
+is an IPS-first business, we believe Sourcefire's ability to upsell NGFW and Anti-
+Malware is primarily limited to existing IPS users. If this is the case, we can calculate
+FIRE's addressable market by multiplying the size of the IPS market ($1.2bn) by the
+incremental upsell opportunity (130%), yielding a TAM of $1.5bn. Since Gartner's
+market size data only tracks product revenue, and not service revenue, it makes sense
+to gross this figure up to $2.5bn (product revenue is 60% of FIRE's total). Lastly, if we
+then apply Gartner's prediction that 50% of standalone IPS will convert to NGFW, then
+FIRE's addressable market would be just $1.25bn, or about 25% less than FIRE's
+current market capitalization. Comparatively, many analysts mistakenly believe that
+FIRE's TAM is between $5 -10bn (Topeka, FBN, Wells Fargo, and others). Without this
+enormous addressable market opportunity, many of the valuation arguments made to
+justify FIRE's 2013 GAAP P/E of 200x+ quickly fall apart.
+
+
+FIRE's Valuation Disconnect can be Partially Attributed to Non-GAAP Earnings,
+which Overstate GAAP Earnings by 400%. Any investor that takes the time to
+scrutinize Sourcefire's 10-K would quickly conclude that not only is FIRE's business
+barely profitable but its GAAP earnings actually fell in 2012. Diluted earnings per share
+shrunk from $0.21/share in 2011 to just $0.16/share in 2012. But this is of little concern
+to Wall Street research analysts, who instead value Sourcefire using "adjusted"
+earnings. After adjusting for a growing laundry list of expense add-backs, the largest of
+which is stock-based compensation, Sourcefire's adjusted earnings per share grew
+from $0.57 in 2011 to $0.81 in 2012. Realizing that SBC expense seems to be
+considered free in the research community, Sourcefire's management appears to be
+actively shifting cash salaries into equity-linked compensation. Even as revenue
+grows, SBC as a percentage of revenue has doubled since 2008, growing from 6% in
+2008 to 12% in 2012. These adjustments have allowed FIRE to show steady year-
+over-year adjusted earnings growth when underlying earnings have actually decreased
+since 2010. This tactic has buttressed FIRE shares over the short-term, but we believe
+the continued degradation of FIRE's quality of earnings should be a clear red flag to
+any potential investor.
+
+
+II. Company Overview
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 7/26
+
+
+Sourcefire is a network security business that markets a portfolio of cybersecurity products
+to both commercial and federal clients. In a typical cybersecurity system, hardware and
+software tools work together to help manage the always-present risk of viruses, malware,
+worms, known vulnerabilities, and other unwanted network breaches. Sourcefire is best
+known for its "Snort" Intrusion Prevention System, an open-source software tool that can
+detect, track, and block malicious packet traffic from invading the enterprise. In the
+traditional network security model, IPS hardware was placed alongside a separate firewall
+platform and the two products worked in tandem to provide an added layer of security
+protection. A non-industry practitioner can think of firewall as the guard at the door while
+IPS is the agent that frisks data packets as they pass through the system. Sourcefire is
+one of about a dozen major vendors of IPS; it has the fifth largest market share behind
+Cisco, McAfee (Intel), HP, and IBM. Because many customers operate with a firewall-
+based system alone, the firewall market is about four times as large as the IPS market.
+The added protection of IPS security is more widely used in advanced networks, such as
+those employed by banks, telecom companies and the federal government.
+
+
+Since firewall offers the larger market opportunity, most other network security providers
+naturally lead sales discussions with their firewall platform. Sourcefire, however, is a
+decidedly IPS-first business. The Sourcefire story begins with its founder, Marty Roesch,
+writing code for an open-source packet analyzer, or a "sniffer," in his spare time at home.
+This program, eventually named Snort, was released in 1999 and quickly spread amongst
+security programmers who manipulated the Snort program to fit their own needs. In 2001,
+Roesch left his job at a start-up to create a business around Snort. Roesch grew the
+business from four people at the end of 2001 to a business with 400 employees today.
+Despite the fact that the Snort brand is generally well-regarded amongst professionals,
+Sourcefire has consistently wrestled with the challenge of collecting revenue for an open-
+source program that is mostly given away for free. Sourcefire has settled on a "value-add
+model with an open-source core" where it sells computing hardware, technical service,
+and software to large commercial and federal clients. Though the open-source model has
+its advantages to battle ever-changing cybersecurity threats, it also means that anyone
+can download a basic version of Snort for free.
+
+
+Like many companies beholden to a single core product, FIRE has attempted to diversify
+its business away from IPS. Sourcefire first began to earnestly expand its product suite in
+2007 when it bought IP rights to ClamAV, an open-source anti-malware ("AMW") program.
+Sourcefire then acquired another AMW offering in January 2011 through the $21m
+acquisition of Immunet, a cloud-based AMW provider. Recognizing the competitive threat
+imposed by next-generation firewall, FIRE then launched a NGFW product of its own in
+
+
+
+http://malware.cbronline.com/news/i-was-told-the-business-model-would-be-a-complete-failure-qa-sourcefire-founder-marty-roesch
+
+http://www.snort.org/snort-downloads/
+
+http://www.networkworld.com/news/2011/010510-sourcefire-immunet.html
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 8/26
+
+
+late 2011. The market welcomed the introduction of these upsell-oriented products by
+driving FIRE shares from $30 in H2 2011 to over $50/share today. But recent comments
+from FIRE management indicate that these upsell markets are smaller than some believe.
+On the Q4 2012 conference call, FIRE's CFO indicated that, "So from a pricing standpoint,
+to go from IPS to a Next-Generation Firewall when you buy from Sourcefire, that's about a
+10% uplift in price." On the same call, FIRE also stated that anti-malware provides a 20%
+uplift, which gives FIRE a combined upsell opportunity of 30%. As enticing as this pricing
+uplift is to potential investors, net customer adds were flat in 2012. Sourcefire only added
+452 new customers in 2012, the exact same amount they added in 2011.
+
+
+Source: Page 36, Sourcefire 2012 10-K
+
+
+Even as it increased operating expenses, pushing down GAAP earnings from $0.21 in
+2011 to $0.16 in 2012, FIRE was unable to increase customer adds in 2012. As the
+NGFW was released in December 2011 and Anti-Malware (FireAMP) in Q1 2012, we can
+attempt to tease out the impact of these upsell tools on quarterly results. Viewing the chart
+below, we can see that 2012 was a particularly strong year for FIRE, as revenue grew
+35% year-over-year versus just 27% and 26% in 2011 and 2010. However, what should
+be concerning to investors is that quarterly year-over-year comparisons have slowed since
+Q1 2012. This could be the impact of Sourcefire slowly exhausting its pool of upsell
+candidates and having to compete for new client accounts, a much more formidable task.
+
+
+Sources: Sourcefire 2012 10-K and Press Releases
+
+
+
+http://www.scmagazineuk.com/sourcefire-launches-next-generation-firewall/article/218097/
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671808913640232-Kerrisdale-Capital-Management_origin.jpg
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671809376817472-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 9/26
+
+
+Even in the face of these worrying trends, Sourcefire has not been shy about Q1
+expectations, telling investors that it expects $56m-$58m of revenue in Q1 2013. FIRE's
+growth-oriented investors, who now have their expectations set very high, will expect FIRE
+to meet the high end of the range. Looking further out, management has told investors it
+can continue to "double the top line every 3 years" (Q4 2012 Call), quite an optimistic
+comment given the industry headwinds recently mentioned by Fortinet and Check Point
+on their Q1 2013 calls. Management also guided that "less than 30%" of FIRE's installed
+base had bought the entire FirePOWER platform (IPS+NGFW+AMW). Given the amount
+of competition in NGFW and IPS, and the tendency of customers to switch vendors every
+five years or so, we don't believe this penetration number gets much higher. Moreover, a
+mere 10% or 30% one-time pricing uplift is not enough to meet the management plan of
+doubling revenue every 3 years. And if predictions that next-generation firewall will
+subsume the IPS market come true, growth figures like those seen in 2012 will fade from
+memory like a long-ago dream.
+
+
+Source: Gartner 
+(1) Figures only include product revenue
+
+
+Vendors wage a constant battle to differentiate themselves in the extremely crowded IPS
+market. There are about a dozen IPS vendors that jostle for position, the fifth largest of
+which is Sourcefire. Cisco, the market leader, is a one-stop provider of networking and
+security products for many Fortune 500 clients. Cisco has the strongest sales channel,
+great international support, and a top-tier ranking in Gartner's Magic Quadrant. The
+business experienced a hiccup in 2011, but it has since recovered following an internal
+realignment in late 2011. New SVP of Security Chris Young made his mark in September
+2012 by releasing a completely updated suite of IPS and next-generation firewall products
+that could help it gain share in 2013. The second largest IPS vendor is McAfee, the pure-
+play security business acquired by Intel in late 2010. Gartner's Magic Quadrant ranks
+McAfee's IPS as a best-in-class tool, stating that "McAfee is highly visible on Gartner
+client IPS shortlists, especially in government markets." While Sourcefire frequently
+
+
+
+http://news.investors.com/technology/041013-651406-fortinet-q1-earnings-warning-hits-security-stocks.htm
+
+http://news.investors.com/technology/042213-652838-check-point-results-mixed-on-big-deals.htm?ven=yahoocp,yahoo
+
+http://www.eweek.com/c/a/Security/Cisco-Beefs-Up-IPS-Firewalls-to-Better-Protect-Data-Centers-360641/
+
+http://www.nytimes.com/2010/08/20/technology/20chip.html?_r=0
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 10/26
+
+
+mentions its close ties to federal customers, McAfee's Network Security Platform was the
+first IPS product to make the U.S. Department of Defense's Approved Products List.
+McAfee reached this milestone in November 2011, a year before Sourcefire.
+
+
+HP, the third largest vendor, obtained their TippingPoint IPS system in the 2009 acquisition
+of 3Com. While some customers have historically sworn by TippingPoint for its simplicity,
+HP has repeatedly shown an inability to execute. This led to substantial market share loss
+in 2012. HP responded in September 2012 with a refresh of its networking security
+platforms, giving it both NGFW and next-generation IPS capabilities. Looking at the
+market share figures above, it's likely that much of FIRE's growth came at HP's expense.
+We'll see whether HP can do a better job of protecting share in 2012 after launching a new
+product suite. Rounding out the lead vendors is IBM, which is using its mindshare in
+overall IT to become a leader in network security. IBM has been a major IPS vendor since
+its 2006 acquisition of Internet Security Systems. IBM released a next-generation IPS in
+July 2012, the XGS 5000. The XGS 5000 builds on its legacy IPS by incorporating filtering
+capabilities, application-level controls, and social media monitoring, amongst other
+features.
+
+
+These recent product refreshes by Sourcefire's well-capitalized competition will ensure
+that the struggle for market share continues into 2013. The fierce competition amongst the
+vendors can be further demonstrated by FIRE's need to spend between 35% to 45% of its
+total revenue on selling & marketing expense in each of the past five years. A product that
+can sell itself does not require such a well-compensated sales force.
+
+
+Below is the Gartner Magic Quadrant for IPS providers:
+
+
+
+http://www.mcafee.com/us/products/network-security-platform.aspx
+
+http://www.mcafee.com/us/about/news/2011/q4/20111130-01.aspx
+
+http://investor.sourcefire.com/releasedetail.cfm?ReleaseID=699948
+
+http://www.edtechmagazine.com/higher/article/2011/02/hps-s330-ips
+
+http://www.informationweek.com/security/management/hp-updates-security-products-services/240007023
+
+http://www-03.ibm.com/press/us/en/pressrelease/20468.wss
+
+http://www-03.ibm.com/press/us/en/pressrelease/38517.wss
+
+http://security.cbronline.com/news/ibms-new-intrusion-protection-system-prevents-social-media-and-web-browsing-risks-020812
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 11/26
+
+
+Now, contrast that to Gartner's Magic Quadrant for enterprise firewall providers:
+
+
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671845857427716-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 12/26
+
+
+As shown in the chart above, Gartner does not believe Sourcefire's new firewall product
+even deserves a ranking in their firewall Magic Quadrant. This is because Sourcefire's
+NGFW is merely sold as an add-on feature for existing Snort IPS customers. FIRE is not a
+'firewall-first' business. Sourcefire's founder, Marty Roesch, admitted this on the Q3 2012
+conference call:
+
+
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CE0QFjACOAo&url=http%3A%2F%2Fwww.mcevoythomas.com.au%2F_literature_122832%2FGartner_Magic_Quadrant_for_Enterprise_Network_Firewalls&ei=Gux3UflNl8ngA9GZgLgP&usg=AFQjCNFhFlm9Jcg6orYnh5sWVJ9yYifs9A&bvm=bv.45580626,d.dmg
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671844728643358-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 13/26
+
+
+< Jonathan Ruykhaver, Stephens>
+
+
+"When you look at the pipeline activity around the FirePOWER platform relative to
+NGIPS and next-gen firewall, should we expect a growing portion of sales activities
+as we enter next year to be driven by next-gen firewall or will the majority of the
+pipeline activity remain centered around your IPS in the next-gen IPS?"
+
+
+< Martin F. Roesch, Founder, Chief Technology Officer>
+
+
+"Well, I'd say that it is going to be largely, for us, centered around IPS for starters. I
+think the way people are approaching it is that we typically interact with, you see
+them starting up with IPS deployments and then turning on license keys to bring the
+additional functionality to bear where necessary and we are of course very
+comfortable with this approach to getting access to the market because it plays to
+our strength" (FIRE Q3 2012 Call).
+
+
+Given the nonexistent ranking from Gartner, we believe that investors should view
+Sourcefire's NGFW as a 10% upsell feature. We don't think that NGFW represents the
+$5bn+ market opportunity for Sourcefire that analysts believe it is.
+
+
+III. Next-Generation Firewalls Could Replace IPS in Many Applications
+
+
+Over the past few years, the network security industry has been in the early stages of a
+major technological shift. In the past, the firewall was kept separate from the IPS. By
+having a second security tool on the network, IPS allowed network engineers to analyze
+traffic flows in different parts of the network and allowed for more granular packet
+inspection. IPS also allowed engineers to set up different rule systems at distinct
+endpoints. For example, a dual IPS/firewall would be placed over the server with customer
+names but a less complex firewall can be employed elsewhere. Following the introduction
+of NGFW, advances in firewall functionality now allow security engineers to get the benefit
+of two devices in one. Next-generation firewall allows complex rule setting, enables packet
+analysis from multiple points within the network, and duplicates many of the traffic 'sniffing'
+and blocking tools of traditional IPS.
+
+
+Gartner, the technology research firm, is a big believer in this shift towards NGFW, as
+explained in their recent February 2013 report:
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 14/26
+
+
+"The firewall market has evolved from simple stateful firewalls to NGFWs,
+incorporating full-stack inspection to support intrusion prevention, application-level
+inspection and granular policy control. Such NGFWs will eventually subsume
+mainstream deployments of stand-alone network intrusion prevention system
+(NYSEARCA:IPS) appliance technology at the enterprise edge [emphasis
+added]. Gartner already sees this shift in the form of reduced IPS buying activity and
+a flattening of IPS market growth, but Gartner believes the security-conscious
+segment of the market will continue to use separate IPSs." 
+- February 2013 Gartner report
+
+
+Gartner predicts that "by 2015… more than 50% of IPS deployments will be part of an
+NGFW." The NGFW vendors with the most industry buzz are Palo Alto Networks, Fortinet,
+and Check Point. Cisco, Juniper, and McAfee round out the top 6 next-generation firewall
+vendors by market share. Other notable NGFW vendors include Barracuda Networks
+(private) and Dell (Sonicwall). Palo Alto Networks, who is admittedly biased towards
+NGFW, further explained the technological shifts on their last conference call:
+
+
+"So from a pure security perspective what you'd like to have is the technology in
+different boxes to actually be integrated in a creative way, because that's the best
+possible way to detect and then really prevent that malware, and that is what we
+have in the markets. So I think in just a general architectural matter, that's the way
+the world's going." - PANW Feb 28th, 2012 Call
+
+
+Assigning any sort of significant terminal value to FIRE is questionable if the market is
+moving away from them. And if that is the case, FIRE should not be trading at over 200x
+2013 earnings and 5x 2013 revenue.
+
+
+Decelerating IPS Market Growth Could Impair Growth Aspirations
+
+
+While some customers may continue to prefer a redundant IPS solution, we believe that
+many enterprise customers will replace existing IPS systems with next-generation
+firewalls. Since product refresh cycles occur typically every 5 years or so, this transition
+won't happen overnight. But new data from Gartner indicates that 2013 could be the year
+when IPS growth hooks downward. Gartner's updated Enterprise Network Equipment
+numbers, released March 26th, 2013, predict that worldwide IPS market growth will
+decelerate from 5.9% in 2012 to 4.4% in 2013 before declining to 2.6% growth in 2014.
+Predicted growth is actually negative in 2015 and beyond.
+
+
+
+https://seekingalpha.com/symbol/IPS
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CE0QFjACOAo&url=http%3A%2F%2Fwww.mcevoythomas.com.au%2F_literature_122832%2FGartner_Magic_Quadrant_for_Enterprise_Network_Firewalls&ei=Gux3UflNl8ngA9GZgLgP&usg=AFQjCNFhFlm9Jcg6orYnh5sWVJ9yYifs9A&bvm=bv.45580626,d.dmg
+
+https://seekingalpha.com/article/1236061-palo-alto-networks-ceo-discusses-f2q13-results-earnings-call-transcript?part=single
+
+http://www.gartner.com/id=2389915
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 15/26
+
+
+With a decelerating IPS market as the backdrop, Sourcefire must continue to take share
+from Cisco, McAfee, HP, and IBM to have any chance of meeting analyst expectations in
+2013. And even if FIRE can mitigate end-market declines with share gains, this trend
+should have dire implications for analysts' long-term growth assumptions. For example,
+Wells Fargo utilizes an 8% terminal growth rate in their DCF to justify a price target of $54
+- $58. This assumption appears completely incongruent with the chart above.
+
+
+IV. FIRE's Valuation Has Become Disconnected from Reality
+
+
+A Management-Case DCF suggests a $17 - $26/share Fair Value
+
+
+When it comes to pricing FIRE stock, analysts and investors have brushed aside
+traditional metrics of valuation in favor of wishful thinking. Much of the misunderstanding
+can be ascribed to an increasingly large mismatch between GAAP and non-GAAP
+earnings. In their defense, FIRE's management does acknowledge that non-GAAP figures
+should be used for relative valuation, by disclosing that "non-GAAP financial measures
+may be useful to investors in comparing our performance to the performance of other
+companies" (2012 10-K), rather than absolute valuation. And when an entire sector
+becomes overhyped and overvalued, comparable multiples become meaningless. We
+have relied on a discounted cash flow model to estimate FIRE's intrinsic valuation. Our
+DCF assumptions include consensus revenue estimates for 2013 and 2014,
+management's long-term margin targets, and our own estimates based on historical
+trends. Notably, we do not add back stock-based compensation to the model. In lieu of
+excluding the SBC add-back, we could have instead increased FIRE's share count over
+
+
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671813303375406-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 16/26
+
+
+time, which would achieve the same fair value target. This would have added to FIRE's
+cash inflows but it would have led to FIRE's share count approximately doubling in the
+next 20 years (assume $30m of SBC in 2013 growing at 10%/year).
+
+
+Using the assumptions above, we believe that FIRE has a fair value of $17 - $26,
+approximately 60% lower than FIRE's current share price. The middle of this range
+employs a 10% discount rate, which we believe is generous given the high-multiple,
+volatile nature of the stock, and a long-term free cash flow growth rate of 3%, well above
+Gartner's estimate of long-term IPS market growth. Cash flows have been discounted
+using a mid-year timescale and a 35% tax-rate, after applying FIRE's $46.4m federal NOL
+balance. By our terminal value year of 2017, our model's gross margin, R&D margin, and
+S&M margins all reach a range within management's long-term goals. We consider this to
+be a best-case scenario for the business, and yet the implied valuation target is still only
+$20/share.
+
+
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-1367181440662921-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 17/26
+
+
+Source: Sourcefire's February 25th, 2013 Corporate Presentation
+
+
+To further ensure that our model is fair, we reconciled our EBIT figures to management's
+estimate of "adjusted operating margin," a figure that excludes SBC expense. Assuming
+that SBC costs management about 11% of their revenue, as is the recent norm, our
+Adjusted EBIT margin reaches 26% in 2017; again, this is in-line with the long-term
+management forecasts.
+
+
+Non-GAAP Earnings Adjustments Mask Falling Profitability
+
+
+Sourcefire's management quotes an adjusted EPS figure in their press releases. This is
+quite convenient because stock-based compensation is one of Sourcefire's largest
+expense items, and it grows every year. Since 2010, the divergence between Sourcefire's
+non-GAAP reporting and GAAP has grown progressively extreme. Sourcefire appears to
+be paying its employees with more and more stock and options.
+
+
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671847897260766-Kerrisdale-Capital-Management_origin.jpg
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671816067490041-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 18/26
+
+
+The divergence between non-GAAP and GAAP EPS grew to 172% in 2011, which seems
+high enough. But that figure more than doubled in 2012 as SBC increased to $24.2m, or
+almost 12% of revenue. This is important because Wall Street's forward EPS projections,
+and the resulting valuation multiples, are in non-GAAP figures ($0.99/share in 2013 and
+$1.21/share in 2013). While this is certainly causing some of the confusion in FIRE's
+valuation, we also believe that many investors own FIRE stock solely on the hopes that a
+larger competitor will step in and acquire it. However, we don't believe a deal is likely over
+the near-term.
+
+
+At the Current Price, Sourcefire is Not a Viable Acquisition Target
+
+
+When traditional valuation tools fail to justify FIRE's valuation, it's comforting to put down
+the pen and say, "well, it could be an acquisition target." This seems to be the modus
+operandi for initiating coverage reports from analysts, none of which contain sensible DCF
+analyses. Retail-oriented trading sites stoke the fire by encouraging traders to buy FIRE
+calls on the hopes that Cisco or another large competitor overpays for a deal. We believe
+that there are a few problems with this narrative.
+
+
+To begin with, many of the major networking companies have already made their platform
+acquisitions in IPS. IBM bought Internet Security Systems in August 2006, HP acquired
+TippingPoint via the 3Com deal in November 2009, Intel purchased McAfee in April 2010,
+
+
+
+http://www.optionshawk.com/blog/?p=408
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 19/26
+
+
+and Dell paid $1.2bn for SonicWall in March 2012. The remaining networking businesses,
+Cisco and Juniper, already market next-generation firewall systems. It would be unrealistic
+for them to pay 7x+ revenue for a company that cannibalizes their existing security
+businesses. Cisco owns the 5500-X NGFW Series while Juniper sells the SRX NGFW
+Series. With next-generation firewall products already in place, Cisco and Juniper have no
+need to move against the market's evolution by acquiring an IPS vendor.
+
+
+Even if one of these vendors decided to pay $2bn+ for a business with an addressable
+market of about half that, FIRE's ties to the U.S. government add execution risk to any
+deal. In 2005, the Israel-based Check Point agreed to acquire Sourcefire for $225m. But
+the deal came under scrutiny as government officials and the U.S. Department of Defense
+objected to foreign ownership of Sourcefire. Following an investigation by the Committee
+on Foreign Investment, the deal was officially called off in March. This happened in spite
+of Check Point's vigorous lobbying efforts. Seeing this precedent before them, even a U.S.
+executive could be wary of investing time and money into a deal that might be blocked by
+the government.
+
+
+Finally, we believe that the appointment of John Becker as CEO on April 8th, 2013
+indicates that a sale process is not currently underway. If buyout negotiations were in their
+final stages, it wouldn't be necessary to switch CEOs at the eleventh hour.
+
+
+V. Multiple Risks to Expected Growth
+
+
+Weak Results for Two Close Competitors Forebodes a Weak First Quarter
+
+
+Fortinet , a well-regarded NGFW and Endpoint Protection business, issued a results
+warning on April 10th, three weeks before its scheduled announcement of Q1 2013
+results. Revenue expectations for the quarter were reduced from $138 - $141m to $134 -
+136m. The market reacted by selling off FTNT by 13% on the day. Investors have favored
+these stocks because of the supposedly recurring subscription revenue and large deferred
+revenue balances, which is why FTNT's minor revision caused such a panic. Fortinet's
+CEO explained that, "we saw more customers, especially within the enterprise sector,
+buying only what they needed and hold off on very large projects" (Fortinet April 10th,
+2012 call). FTNT also highlighted delayed capital spending by the large
+telecommunications companies: "I think we see some behavior changing [at] the service
+provider in Q1. In the past…[they were] in a CapEx mode...Now they try to move towards
+the OpEx kind of model, try to conserve some cash."
+
+
+
+http://www.cisco.com/en/US/prod/collateral/vpndevc/ps6032/ps6094/ps6120/qa_c67-700608.html
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CE8QFjAA&url=http%3A%2F%2Fwww.juniper.net%2Fus%2Fen%2Flocal%2Fpdf%2Fsolutionbriefs%2F3510424-en.pdf&ei=evhuUcWiI-Xe0QH70oCwAg&usg=AFQjCNHFbaTfrORb_5BnXYRUhuEBJU2pXQ&bvm=bv.45368065,d.dmQ
+
+http://www.securityfocus.com/news/11382
+
+http://investor.sourcefire.com/releasedetail.cfm?ReleaseID=755045
+
+http://news.investors.com/technology/041013-651406-fortinet-q1-earnings-warning-hits-security-stocks.htm
+
+https://seekingalpha.com/article/1335411-fortinet-s-ceo-hosts-preliminary-q1-2013-results-conference-transcript
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 20/26
+
+
+Check Point Software (NASDAQ:CHKP), another network security leader, released its
+own disappointing Q1 2012 report on April 23rd, 2013. Revenue of $322.7m was in the
+lower end of management's guidance ($320 - 332m) and below analyst expectations
+($328m). Given the current uncertainty in the marketplace, CHKP was forced to give a
+very wide range for Q2 2012 revenue, $320 - $350m. CHKP doesn't expect to see growth
+return until the second half of the year, "I think that we are looking for a resumption of
+growth…and I think it's expected more towards the second half of the year" (CHKP Q1
+2013 call). CHKP went on to comment, "I think we see it constantly for a long time, there's
+great pressure on customers' budgets…And I would just add that, in general, I do think
+that any new market is immune to macroeconomic, including the security [industry]."
+
+
+The read-through for Sourcefire's first quarter is not encouraging. International revenue
+was a major growth driver in Q4 2012, rising by a whopping 92% while the U.S.
+Commercial segment actually fell by 5% YoY. Because much of FIRE's recent success
+can be attributed to Europe, as can be seen by management's comments of "we had a
+great year, International, obviously, and there are a number of reasons for it…Europe was
+particularly strong" (FIRE Q4 2012 Call), investors should be worried about FIRE's lofty
+expectations in Q1 2013. Telecom was another bright spot for Sourcefire in Q4: "We've
+had success in the telco space in particular, we've done very well there" (Q4 2012 Call).
+
+
+Wall Street Overstates Sourcefire's Addressable Market Opportunity
+
+
+For 2012, Gartner estimates the size of the IPS market at $1.2bn, Firewall at $4.9bn, and
+Anti-Malware (Endpoint Protection) at about $2.8bn. Most Wall Street analysts estimate
+Sourcefire's addressable market by merely adding these three groups together, leading to
+a mammoth $9bn figure. Below is a chart from a January 2012 FBN Securities report that
+uses somewhat dated Gartner figures to arrive at a similar conclusion. Many other
+research analysts make similar assumptions when discussing Sourcefire's revenue
+opportunity.
+
+
+Below is Sourcefire's TAM According to a January 2012 Initiating Coverage report from
+FBN Securities:
+
+
+
+https://seekingalpha.com/symbol/CHKP
+
+http://www.nasdaq.com/article/check-points-1q-earnings-a-mixed-bag-analyst-blog-cm239600#.UXa32cqPSrY
+
+https://seekingalpha.com/article/1358591-check-point-software-technologies-management-discusses-q1-2013-results-earnings-call-transcript
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 21/26
+
+
+We believe the method employed by FBN and others grossly overstates Sourcefire's
+addressable market opportunity. Assuming that Sourcefire's upsell opportunity will be
+limited to existing IPS users, pricing data disclosed by Sourcefire on their last conference
+call allows us to make a more accurate measurement. Since we know that NGFW
+software adds a 10% pricing uplift and AMW a 20% uplift, it makes more sense to simply
+multiply these percentages by the existing IPS market size. Compare our chart below to
+the FBN figures and one quickly sees that the divergence is enormous.
+
+
+Gartner's revenue figures only include product revenue, not services/maintenance
+revenue. Since FIRE earned about 40% of its 2012 revenue from the services line, we
+would gross up Sourcefire's revenue TAM from $1.5bn to about $2.5bn ($1.5bn/60%). If
+Gartner is correct in their prediction that 50% of standalone IPS will convert to NGFW by
+2015, then FIRE's addressable market halves to $1.25bn. This figure is less than one-fifth
+the TAM used by FBN Securities.
+
+
+FIRE's Reliance on Federal Revenue is Concerning
+
+
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-1367189332250051-Kerrisdale-Capital-Management_origin.png
+
+https://static.seekingalpha.com/uploads/2013/4/28/559143-13671817926147678-Kerrisdale-Capital-Management_origin.png
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 22/26
+
+
+With U.S. budgetary concerns firmly on the mind of elected officials, the last customer any
+private company wants is the U.S. government. Yet the federal sector is by far FIRE's
+largest customer, contributing 20% of FIRE's total revenue in 2012. The government's last
+major cybersecurity initiative, the Comprehensive National Cybersecurity Initiative
+("CNCI"), was launched in January 2008. This Security Council order required the
+deployment of "an intrusion detection system of sensors across the Federal enterprise."
+Naturally, the order helped Sourcefire's Federal revenue grow by 158% in 2008 and 91%
+in 2009, the first two years after the Initiative (FIRE 2010 10-K). Congress has not
+approved a major new initiative since. Compared to the tremendous growth in 2008 and
+2009, FIRE has only managed to grow Federal revenue by 9%, 7%, and 28% over the
+past three years (2012 10-K).
+
+
+Source: Sourcefire SEC filings (10-K)
+
+
+The current administration recently attempted to update the 2008 CNCI initiative by
+introducing the Cybersecurity Act of 2012. Unfortunately for Sourcefire, the Senate voted
+the Act down in August 2012. Business groups and privacy advocates feared the
+legislation would be both costly and overreaching. The administration responded to the
+Senate's action by bypassing Congress and issuing an Executive Order instead. Industry
+commenter John Wood considers the Order to be largely toothless, as the orders are both
+voluntary and narrow in scope.
+
+
+Finally, the government isn't always the most business-friendly customer. Beyond widely
+understood Federal budget constraints, Sourcefire itemizes several other problems with its
+biggest customer in its 2012 10-K: "Contracting with public sector customers is highly
+competitive and can be expensive and time-consuming…Public sector customers often
+have contractual or other legal rights to terminate current contracts for convenience…
+[and] Many government agencies already have installed network security products of our
+
+
+
+http://en.wikipedia.org/wiki/Comprehensive_National_Cybersecurity_Initiative
+
+http://www.whitehouse.gov/cybersecurity/comprehensive-national-cybersecurity-initiative
+
+http://www.sec.gov/Archives/edgar/data/1168195/000095012311024787/w81937e10vk.htm
+
+http://www.digitaltrends.com/web/senate-votes-against-cybersecurity-act-of-2012/
+
+http://www.whitehouse.gov/the-press-office/2013/02/12/executive-order-improving-critical-infrastructure-cybersecurity
+
+http://multimedia.telos.com/pr/ts/new-cybersecurity-executive-order.aspx
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 23/26
+
+
+competitors." With a still unresolved U.S. Budget Sequestration continuing to wreak havoc
+on Defense budgeting, we don't believe the government will be a particularly receptive
+customer in 2013.
+
+
+VI. Conclusion
+
+
+Stories of foreign hackers infiltrating government databases, insiders stealing trade
+secrets, and recent twitter hacks are a constant reminder of the ever-evolving
+cybersecurity threat. But enthusiasm for the network security industry shouldn't blind
+investors to sober valuation analysis when picking stock investments. Since the start of
+2012, investors have piled into FIRE on the presumption that FIRE growth was
+reaccelerating. While this was true on a dollar basis, FIRE's net new customer adds were
+flat YoY in 2012. Sourcefire was only able to drive revenue growth from 27% in 2011 to
+35% through the introduction of two new upsell products, the NGFW and Anti-Malware
+tools. But as slowing quarterly growth since Q1 2012 shows, this upselling opportunity
+may be ephemeral. As customers swap their legacy IPS systems to next-generation
+firewall, many of Sourcefire's existing customers could decide to shop around for
+competing NGFW products. This shifts the discussion away from IPS, Sourcefire's
+strength, towards NGFW, where pure-play companies like Palo Alto Networks, Fortinet,
+and Check Point have greater brand cachet. To stay competitive, Sourcefire will be forced
+to invest more heavily in R&D, share margin with an ever increasing roster of selling
+partners, and increase salaries to attract talented sales reps. This will ensure that FIRE
+continues to barely squeak out a profit, as demonstrated by the fall in GAAP earnings from
+$0.21/share in 2011 to $0.16 in 2012.
+
+
+Management concluded their Q4 2012 opening remarks by assuring investors it could
+"double the top line every 3 years." While this helped induce a short-term rally and a fresh
+round of bullish reports from the Street, we believe that management overreached.
+Sourcefire's expectations are now set too high and they've failed to acknowledge the
+growing competitive risks to their core IPS business. The first order of business for
+Sourcefire's new CEO, John Becker, may be to reset growth expectations to a more
+sustainable level.
+
+
+Disclosure: The author is short FIRE. The author wrote this article themselves, and it
+expresses their own opinions. The author is not receiving compensation for it. The author
+has no business relationship with any company whose stock is mentioned in this article.
+
+
+Additional disclosure: Read our full disclaimer at kerrisdalecap.com/legal-disclaimer-3.
+Please read the full disclaimer at the end of our report posted on kerrisdalecap.com.
+
+
+
+http://www.defense.gov/news/newsarticle.aspx?id=119758
+
+http://www.usatoday.com/story/tech/2013/04/23/ap-twitter-hack-was-trivial/2107427/
+
+http://kerrisdalecap.com/legal-disclaimer-3
+
+http://kerrisdalecap.com/
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 24/26
+
+
+Comments (12)
+
+
+ Like this article
+
+
+Edge Lab, Contributor
+Excellent, insightful and in depth article. Allow me to pile on and add that their Days Sales Outstanding are an
+astonishing 127 days. This suggests they are growing revenue by selling to customers with poor credit and offering
+them very liberal payment terms. This wouldn't be necessary if their products were competitive. Also, last quarter,
+their accounts receivable grew 2x revenue while they just met expectations. This implies they shaped demand late in
+the quarter by offering a fire sale to get to the expected number. This suggests demand is slowing.
+
+
+29 Apr 2013, 09:11 PM
+
+
+Jc3244
+Basing a short on Gartner's magic quadrant...priceless.
+
+
+30 Apr 2013, 01:14 AM
+
+
+Randal James
+Jc
+
+
+Two thoughts:
+
+
+A. There are worse ideas upon which to arrive at a conclusion. P/S. for instance, is a short-list favorite but an
+imperfect snapshot.
+
+
+B. Too hard to make a visual slide using Hasbro's Ouija Board.
+
+
+30 Apr 2013, 03:22 AM
+
+
+7of9
+Excellent analysis! I agree with you on most accounts. Days of IPS as a standalone product is numbered. IPS
+customers have started to question the value of IPS as they are bascially noise generator producing millions of false
+positive security alerts while missing advanced persistent threats. Do they need the best of breed stand alone IPS?
+IPS market was maintained by PCI compliance requirment to have both FW and IPS protecting IT infrastructure. That
+check box requirement can now be met using a single device with NGFW. NGFW will replace the cluncky old port
+number based FWs with application aware FWs. NGFW also has a decent IPS built-in. Granted the built-in IPS is
+never going to be as good as the standalone dedicated IPS but it is good enough to pass the compliance audit.
+
+
+So as a CIO of a major bank, I'm going to save money by replacing both FW and IPS with one NGFW from Palo Alto
+Net. Then with the money saved, I'll deploy FireEye's anti-malware solution to detect APT and file based threats.
+
+
+Combined solution from Palo Alto Networks and FireEye is the best network security solution for next several years.
+
+
+30 Apr 2013, 07:19 PM
+
+
+
+https://seekingalpha.com/author/edge-lab
+
+https://seekingalpha.com/user/8868071
+
+https://seekingalpha.com/user/7319681
+
+https://seekingalpha.com/user/5999701
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 25/26
+
+
+haveoptions
+looked like a brutal q1 with light q2 guidance yet the stock will be up huge tomorrow.
+
+
+01 May 2013, 02:01 AM
+
+
+7of9
+Yup, relief rally as the market was expecting bad news. Still the multiple on FIRE is too high for low expected
+growth. Short thesis presented above will take years to materialize.
+
+
+What is the best way to short FIRE long term? In the money long puts?
+
+
+01 May 2013, 02:55 PM
+
+
+Tom Morphis
+Although from a marketing perspective, the term NGFW favors vendors with legacy FW solutions, technically,
+delivering NGIPS is more challenging and more fundamental to the performance and functionality of NGFW than
+firewall technology. We are now hearing examples of organizations who want best of breed NGFW solutions choosing
+SourceFire after extensive evaluation. Recent NSS Labs reports also show that SourceFire now delivers, by far, the
+top performance for NGFW. SourceFire's target market is made up of sophisticated users who understand the
+underlying technologies. Although we hear from competitors who still want end users to dismiss them as IPS
+providers we are hearing more evidence of success in the high end NGFW market.
+
+
+09 May 2013, 11:22 PM
+
+
+Ray56433
+just became a take over target ? all wrong
+
+
+23 Jul 2013, 08:38 AM
+
+
+Dan Synek
+So this didn't go the way it was intended! It would be interesting if there was something to be learned from this, except
+that shorting technology stocks is a difficult business. Is there any specific point where the author can see where his
+analysis went wrong?
+
+
+23 Jul 2013, 09:38 AM
+
+
+Demarcow
+Bla bla bla.... Your wrong! Cisco takes them out for +7B
+
+
+23 Jul 2013, 03:07 PM
+
+
+btippett
+OUCH! Shorting both FIRE and EZCH...not good. Kerrisdale writes nice articles but fundamentally doesn't understand
+the underlying technologies.
+
+
+26 Jul 2013, 10:19 AM
+
+
+
+https://seekingalpha.com/user/11549301
+
+https://seekingalpha.com/user/5999701
+
+https://seekingalpha.com/user/378957
+
+https://seekingalpha.com/user/11622471
+
+https://seekingalpha.com/user/641403
+
+https://seekingalpha.com/user/452973
+
+https://seekingalpha.com/user/675361
+5/23/2018 Sourcefire: Short-Lived Upsells Have Masked Decelerating Growth And Decline Of IPS - Sourcefire, Inc. (NASDAQ:FIRE) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1380131-sourcefire-short-lived-upsells-have-masked-decelerating-growth-and-decline-of-ips 26/26
+
+
+tomlos
+I work in tech and actually in the security business.. it amazes me how many analysts, SA authors, etc write about
+tech, but really have no clue. Tech isn't like other industries and I really feel it takes being immersed in it to
+understand and to know where a company is going, otherwise this is what happens.
+
+
+17 Aug 2013, 07:45 AM
+
+
+
+https://seekingalpha.com/user/1868571

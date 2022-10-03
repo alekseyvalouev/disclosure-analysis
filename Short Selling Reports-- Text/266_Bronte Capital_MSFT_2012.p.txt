@@ -1,0 +1,4320 @@
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 1/35
+
+
+The sometimes eccentric views of John Hempton
+
+
+Bronte Capital
+
+
+Thursday, July 26, 2012
+
+
+Changing my mind on Microsoft
+Seldom have I looked at something that is a major long in the portfolio, changed my mind, sold the
+entire position and continued selling to go short (albeit in a small way). 
+ 
+I just did that on Microsoft. The immediate trigger was Windows 8 - but the thinking has been longer
+and harder than that. 
+ 
+This post is to run through my thinking - and maybe generate some comment. (Smart readers - and
+you are smart readers - are a great testing-board for my theories...) 
+ 
+Quick background to the Microsoft story 
+ 
+The background to Microsoft is well known. In the late 1990s Windows developed huge market
+power. Whilst not strictly a monopoly the company had plenty of monopoly characteristics. Sure you
+could buy a Macintosh - but that market was so small that people did not develop software for Macs
+and hence Macs were for people who did not need a wide range of software. You could also load a
+computer with Linux (although despite being a sometime-geek I could not imagine doing except for a
+server). In those days Microsoft even dominated the server market. 
+ 
+This was - for all effective purposes - a growing global monopoly with very low marginal costs
+producing for what was fast becoming one of the most important industries in the world (personal
+computers). 
+ 
+Moreover it had huge pricing power. I purchased a computer from Gateway (remember them) and
+spent about $1200. The $50 operating system was embedded - a small cost embedded in a large
+cost. I assure you Microsoft made more from the transaction than Gateway. Gateway even ran a store
+to sell me that beige box - the store ultimately being run for the benefit of Microsoft. 
+ 
+The company had a virtuous circle. People developed software to run on Microsoft using Microsoft
+developer tools. They did not bother developing for other platforms because those platforms were
+economically irrelevant and the Microsoft developer tools worked. Because all the software you might
+want to use ran on Windows you were effectively compelled to run a Windows machine thus
+perpetuating the cycle. 
+ 
+Microsoft used its power for better and for worse. My personal gripe was how poorly Microsoft thought
+about and handled security issues. My Linux computer is as far as I know virus free. Apple only had
+to remove their virus-immune claims recently. Windows security issues are everywhere and it did not
+need to be so. The first computer virus I ever saw was in 1989 and it was on a Mac - these problems -
+if not entirely soluble - were controllable. Microsoft did not control them. Whether this was arrogance
+or incompetence or monopolistic-disinterest I do not know though I have heard arguments for all three
+propositions. 
+ 
+Still Microsoft gave us acceptable if not brilliant product and I never quite bought the "evil-empire" line.
+In my view they were a large, increasingly fat, slightly disinterested monopolist that had stopped
+thinking clearly about users. 
+ 
+Developers: the key to the Microsoft virtuous circle 
+ 
+The key to Microsoft's market power was the virtuous circle whereby people used Microsoft
+computers because software was developed for Microsoft and people developed software for
+Microsoft because people used Microsoft computers. 
+ 
+Making all this work required that Microsoft make available easy to use "developer tools". A large
+developer tools business would include tools for software development and training tools to train
+future developers. If the developer tool business ran at (say) a billion dollars in loss that was perfectly
+acceptable so long as more and more software was developed to be Microsoft platform specific.*
+Indeed the developer tools business never played much of a role in the sector-breakup of Microsoft -
+
+
+For people who want to know - here is
+the RSS feed for this blog...
+ 
+http://feeds.feedburner.com/bronteca
+pital
+
+
+RSS feed
+
+
+Enter your email address:
+
+
+Subscribe
+
+
+Delivered by FeedBurner
+
+
+Get this blog by email
+
+
+I find Americans sometimes do not get
+a British or Australian sense of humor.
+ 
+If something on this blog makes you
+really angry I suggest you read Swift's
+Modest Proposal... you will find the link
+here.
+
+
+A note on humor
+
+
+Search
+
+
+Search This Blog
+
+
+May (1)
+
+
+February (2)
+
+
+January (1)
+
+
+December (3)
+
+
+November (1)
+
+
+October (1)
+
+
+August (2)
+
+
+July (2)
+
+
+June (2)
+
+
+May (3)
+
+
+April (2)
+
+
+February (1)
+
+
+Blog Archive
+
+
+ More  Next Blog» Create Blog  Sign In
+
+
+
+http://brontecapital.blogspot.com/
+
+http://en.wikipedia.org/wiki/Gateway,_Inc.
+
+https://help.ubuntu.com/11.04/ubuntu-help/net-antivirus.html
+
+http://www.telegraph.co.uk/technology/apple/9355995/Apple-drops-virus-immunity-claim-for-Macs.html
+
+http://feeds.feedburner.com/brontecapital
+
+http://www.feedburner.com/
+
+http://art-bin.com/art/omodest.html
+
+http://brontecapital.blogspot.com/2018/05/
+
+http://brontecapital.blogspot.com/2018/02/
+
+http://brontecapital.blogspot.com/2018/01/
+
+http://brontecapital.blogspot.com/2017/12/
+
+http://brontecapital.blogspot.com/2017/11/
+
+http://brontecapital.blogspot.com/2017/10/
+
+http://brontecapital.blogspot.com/2017/08/
+
+http://brontecapital.blogspot.com/2017/07/
+
+http://brontecapital.blogspot.com/2017/06/
+
+http://brontecapital.blogspot.com/2017/05/
+
+http://brontecapital.blogspot.com/2017/04/
+
+http://brontecapital.blogspot.com/2017/02/
+
+https://www.blogger.com/
+
+https://www.blogger.com/next-blog?navBar=true&blogID=4815867514277794362
+
+https://www.blogger.com/home#create
+
+https://www.blogger.com/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 2/35
+
+
+but that did not diminish its importance. 
+ 
+If you are not convinced that developers are the key to Microsoft's lock-in look at this classic video of
+Steve Balmer: 
+ 
+
+
+  
+ 
+ 
+Balmer is sufficiently worked up that the wags captioned this video with the text deodorant, deodorant,
+deodorant. However the extent to which he is worked up tells the Microsoft crowd what they should
+be focussed on. 
+ 
+The rise of platform-agnostic developer tools 
+ 
+The Microsoft virtuous circle is now dead. Two related things killed it: the rise of platform agnostic
+developer tools and the rise of alternative operating systems (Linux for servers, iOS and the "Big Cat"
+series for Apple, Android). 
+ 
+To my way of thinking the platform-agnostic developer tools came first - though this is a chicken-and-
+egg problem. The first really important platform-agnostic tool was Java. Programs written in Java run
+on Linux computers precisely the same way as they run on Apple computers or Microsoft computers.
+If you developed something on Java you could run it anywhere and you thus undermined the
+Microsoft virtuous circle. 
+ 
+Developing things for Java became widespread when people downloaded programs (applets really)
+from the internet. The person writing the applet had no idea what the customer computer set-up was
+and so had to write in a platform-agnostic fashion. Interactive Brokers for instance writes its software
+to run on Java - and they do this because it is a complex piece of software that has to run on many
+different flavours of client computer. 
+ 
+Over time Python developed as an even more important platform agnostic developer tool. 
+ 
+Nowadays nobody under thirty writes anything on Microsoft developer tools unless they are demented
+or brain-dead. Firstly the kids out of the colleges know the platform agnostic stuff well. Secondly when
+half the computers leaving factories either run iOS or Android (that is are smart-phones) nobody
+sensible will write in a way that does not allow easy porting to these platforms. 
+ 
+Microsoft's developer tools business and the customer lock it created has had a bullet through the
+brain. The body is lying on the floor - and most the users who have never developed anything and did
+not know that there even was a developers tool business have not noticed the blood-soaked victim. 
+ 
+The lock that Steve Balmer worked himself into a frenzied sweat over is dead. 
+ 
+The lock is dead: long live the lock 
+ 
+An asset management firm I know well has 100 thousand or so customers. The customer relations
+system for the firm is proprietary. They developed it themselves and it integrates with their business
+practice. 
+ 
+And it runs on Microsoft. It was developed by people who are now over 35 - and hence used
+Microsoft developer tools. 
+ 
+This firm is very progressive with their computing structure. All internal computer now run as virtual
+
+
+January (3)
+
+
+December (6)
+
+
+November (4)
+
+
+October (4)
+
+
+September (6)
+
+
+August (1)
+
+
+July (5)
+
+
+June (3)
+
+
+May (3)
+
+
+April (2)
+
+
+March (10)
+
+
+February (3)
+
+
+January (3)
+
+
+December (4)
+
+
+November (8)
+
+
+October (10)
+
+
+September (4)
+
+
+August (3)
+
+
+July (2)
+
+
+June (1)
+
+
+May (5)
+
+
+April (6)
+
+
+March (5)
+
+
+February (6)
+
+
+January (9)
+
+
+December (3)
+
+
+November (4)
+
+
+October (8)
+
+
+September (8)
+
+
+August (12)
+
+
+July (5)
+
+
+June (10)
+
+
+May (7)
+
+
+April (7)
+
+
+March (2)
+
+
+February (7)
+
+
+January (11)
+
+
+December (6)
+
+
+November (8)
+
+
+October (1)
+
+
+September (9)
+
+
+
+http://en.wikipedia.org/wiki/Python_(programming_language)
+
+http://brontecapital.blogspot.com/2017/01/
+
+http://brontecapital.blogspot.com/2016/12/
+
+http://brontecapital.blogspot.com/2016/11/
+
+http://brontecapital.blogspot.com/2016/10/
+
+http://brontecapital.blogspot.com/2016/09/
+
+http://brontecapital.blogspot.com/2016/08/
+
+http://brontecapital.blogspot.com/2016/07/
+
+http://brontecapital.blogspot.com/2016/06/
+
+http://brontecapital.blogspot.com/2016/05/
+
+http://brontecapital.blogspot.com/2016/04/
+
+http://brontecapital.blogspot.com/2016/03/
+
+http://brontecapital.blogspot.com/2016/02/
+
+http://brontecapital.blogspot.com/2016/01/
+
+http://brontecapital.blogspot.com/2015/12/
+
+http://brontecapital.blogspot.com/2015/11/
+
+http://brontecapital.blogspot.com/2015/10/
+
+http://brontecapital.blogspot.com/2015/09/
+
+http://brontecapital.blogspot.com/2015/08/
+
+http://brontecapital.blogspot.com/2015/07/
+
+http://brontecapital.blogspot.com/2015/06/
+
+http://brontecapital.blogspot.com/2015/05/
+
+http://brontecapital.blogspot.com/2015/04/
+
+http://brontecapital.blogspot.com/2015/03/
+
+http://brontecapital.blogspot.com/2015/02/
+
+http://brontecapital.blogspot.com/2015/01/
+
+http://brontecapital.blogspot.com/2014/12/
+
+http://brontecapital.blogspot.com/2014/11/
+
+http://brontecapital.blogspot.com/2014/10/
+
+http://brontecapital.blogspot.com/2014/09/
+
+http://brontecapital.blogspot.com/2014/08/
+
+http://brontecapital.blogspot.com/2014/07/
+
+http://brontecapital.blogspot.com/2014/06/
+
+http://brontecapital.blogspot.com/2014/05/
+
+http://brontecapital.blogspot.com/2014/04/
+
+http://brontecapital.blogspot.com/2014/03/
+
+http://brontecapital.blogspot.com/2014/02/
+
+http://brontecapital.blogspot.com/2014/01/
+
+http://brontecapital.blogspot.com/2013/12/
+
+http://brontecapital.blogspot.com/2013/11/
+
+http://brontecapital.blogspot.com/2013/10/
+
+http://brontecapital.blogspot.com/2013/09/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 3/35
+
+
+machines (not desktops) running on two mondo-powerful Linux servers. The virtualization platform is
+Citrix. Nobody has a functional box under their desk any more. 
+ 
+However on top of this enterprise cloud is 65 virtual Microsoft machines all running Windows. The
+company has got rid of the desktop computers entirely (sorry Dell and HP), it has a hugely powerful
+internal network system (currently provided by Cisco but in the future provided probably provided by
+Nicira). Disaster recovery is a mirror of the two mondo-powerful servers 100km away. 
+ 
+In other words this is the enterprise computing platform of the future. 
+ 
+But they still use Microsoft as if they had the computing platform of 1999. 
+ 
+Why? 
+ 
+Because they used the developer tools of 1999 to build mission-critical enterprise software. 
+ 
+Nobody is locking new stuff up in Microsoft but there is huge amounts of intellectual capital built up in
+Microsoft's old platform and that intellectual capital continues to force people to use Microsoft. Some
+of this property is trivial (I know to shut down the computer I go to the "start" button). But things like
+the front end for a customer relations system for a largish financial firm - that is non-trivial and it is
+very sticky. 
+ 
+Why I owned Microsoft 
+ 
+When I purchased Microsoft I was well aware of the death of the lock (developer tools). I knew the
+future for Microsoft would not (unless they were very lucky and well managed) be anything like as
+glorious as the past - but there were two really decent trends in favour of Microsoft. 
+ 
+Firstly as enterprises moved their computing platforms to enterprise clouds the Microsoft computers -
+rented as virtual computers - would be pervasive. Microsoft was going to be able to charge rents for a
+long time. People would upgrade their computer (meaning the physical hardware running linux and
+Citrix or VMWare on top of that) but they would still pay rent to Microsoft. 
+ 
+Moreover these Microsoft dead-enders - locked in by the enterprise software that they wrote a long
+time ago - are very sticky. It is expensive to redevelop proprietary systems - and so they were likely to
+use Microsoft for decades. The pricing would be to lease seats to virtual computers and those lease
+fees could be high and increasing. 
+ 
+Second, there was one beautiful tailwind for Microsoft which has alas disappeared. In 1999 if you
+purchased a computer it was probably a beige box. (Laptops were prohibitively expensive and
+underpowered.) If you purchased a computer in India it was a beige box it came loaded with a hot (ie
+pirated) version of Microsoft. 
+ 
+By 2007 if you purchased a computer it was likely a laptop. Boxes have become objects for gaming
+enthusiasts, developers and dinosaurs (I say this as the proud owner of a couple of boxes). The
+computing power you need can (mostly) be put in a smaller package at a reasonable cost. It is almost
+impossible to buy a laptop which is not pre-loaded with an authentic version of Microsoft. That was
+true in India too. I do not even use Microsoft but if I buy a Lenovo computer in Australia on their
+website I am forced to include a copy of Windows. The tailwind de-jour was the rise of computing in
+developing countries and most importantly the shift to laptops reducing piracy to almost zero. This
+was profoundly nice to Microsoft - but as a trend it is dead. The new generation of computers is going
+to be pads - they may have plug in keyboards - but they are pads. Even laptop sales are problematic. 
+ 
+Moreover laptop prices are falling and falling. Five hundred dollars now buys quite a nice laptop. The
+laptop I use day-to-day is not worth much more than that (except for add-ons like a large solid state
+hard drive). Microsoft once buried $50-80 of software in a $2000 computer and that made their (fat
+and profitable) take disappear. It is much harder to bury $50 of software in a $300 computer - but that
+is where we are going. 
+ 
+But in essence we had two trends: pricing power on dinosaur enterprise computing driven by the old
+customer lock (previously developed enterprise software). That pricing power would remain and turn
+into rental contracts as computers disappeared into enterprise clouds. And we had developed world
+laptops (a trend that is now turned quite sour). 
+ 
+A Vision of Windows 8 
+ 
+I had a vision of Windows 8 which addressed all of this - and I doubt that it was a vision that was very
+far from Microsoft's own vision. 
+ 
+Windows 8 was to serve a dual purpose. It was to be above all a pad operating system - one that
+
+
+August (5)
+
+
+July (8)
+
+
+June (7)
+
+
+May (5)
+
+
+April (12)
+
+
+March (13)
+
+
+February (7)
+
+
+January (4)
+
+
+December (9)
+
+
+November (7)
+
+
+October (8)
+
+
+September
+(16)
+
+
+August (12)
+
+
+July (7)
+
+
+June (11)
+
+
+May (16)
+
+
+April (5)
+
+
+March (8)
+
+
+February (11)
+
+
+January (4)
+
+
+December (6)
+
+
+November (10)
+
+
+October (12)
+
+
+September (7)
+
+
+August (18)
+
+
+July (9)
+
+
+June (12)
+
+
+May (11)
+
+
+April (9)
+
+
+March (19)
+
+
+February (15)
+
+
+January (8)
+
+
+December (5)
+
+
+November (2)
+
+
+October (3)
+
+
+September
+(14)
+
+
+August (10)
+
+
+July (8)
+
+
+June (13)
+
+
+May (2)
+
+
+
+http://bhorowitz.com/2012/07/23/vmware-buys-nicira-for-1-26b/
+
+http://brontecapital.blogspot.com/2013/08/
+
+http://brontecapital.blogspot.com/2013/07/
+
+http://brontecapital.blogspot.com/2013/06/
+
+http://brontecapital.blogspot.com/2013/05/
+
+http://brontecapital.blogspot.com/2013/04/
+
+http://brontecapital.blogspot.com/2013/03/
+
+http://brontecapital.blogspot.com/2013/02/
+
+http://brontecapital.blogspot.com/2013/01/
+
+http://brontecapital.blogspot.com/2012/12/
+
+http://brontecapital.blogspot.com/2012/11/
+
+http://brontecapital.blogspot.com/2012/10/
+
+http://brontecapital.blogspot.com/2012/09/
+
+http://brontecapital.blogspot.com/2012/08/
+
+http://brontecapital.blogspot.com/2012/07/
+
+http://brontecapital.blogspot.com/2012/06/
+
+http://brontecapital.blogspot.com/2012/05/
+
+http://brontecapital.blogspot.com/2012/04/
+
+http://brontecapital.blogspot.com/2012/03/
+
+http://brontecapital.blogspot.com/2012/02/
+
+http://brontecapital.blogspot.com/2012/01/
+
+http://brontecapital.blogspot.com/2011/12/
+
+http://brontecapital.blogspot.com/2011/11/
+
+http://brontecapital.blogspot.com/2011/10/
+
+http://brontecapital.blogspot.com/2011/09/
+
+http://brontecapital.blogspot.com/2011/08/
+
+http://brontecapital.blogspot.com/2011/07/
+
+http://brontecapital.blogspot.com/2011/06/
+
+http://brontecapital.blogspot.com/2011/05/
+
+http://brontecapital.blogspot.com/2011/04/
+
+http://brontecapital.blogspot.com/2011/03/
+
+http://brontecapital.blogspot.com/2011/02/
+
+http://brontecapital.blogspot.com/2011/01/
+
+http://brontecapital.blogspot.com/2010/12/
+
+http://brontecapital.blogspot.com/2010/11/
+
+http://brontecapital.blogspot.com/2010/10/
+
+http://brontecapital.blogspot.com/2010/09/
+
+http://brontecapital.blogspot.com/2010/08/
+
+http://brontecapital.blogspot.com/2010/07/
+
+http://brontecapital.blogspot.com/2010/06/
+
+http://brontecapital.blogspot.com/2010/05/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 4/35
+
+
+doubled as a desktop operating system. You were going to be presented with bunch of tiles - the
+functional equivalent of Apple's app icons. If you used it as a pad it would have the limited
+functionality of a pad. 
+ 
+However you could take the pad, put it on a docking stand and use it with a keyboard and mouse as a
+desktop computer. This solves a lot of problems. 
+ 
+(a) it offers a distinct improvement over existing pads which are not very good for content creation. I
+cannot see myself editing a video on a pad or writing a blog post this long. But hey - I could with a
+plug-in-keyboard and mouse, 
+ 
+(b) it offers enterprises a chance to take their existing enterprise software and make it mobile. For
+example if a customer relationship system runs on Windows you could - without much further
+development - make it run on a Windows pad. This means there would be no incentive to redevelop it
+using (say) Python to run on iOS. 
+ 
+(c) it gets a large number of people used to the Windows system. There is a lot of human capital
+developed in using computer systems - trying to change - even Windows to Mac or vice-versa costs a
+lot of time as you work out how to say copy a file to an external hard drive or from a camera. 
+ 
+(d) it leads you to a world where the pad has some computing power - but if you need more grunt you
+connect it to a docking station in turn connected to a fast internet connection and you put the power in
+a cloud and rent the power out by usage. A world of semi-smart terminals - a pad if not docked, a
+super-computer if docked. 
+ 
+But the combined desktop interface has a big problem. Because desktops and pads and phones do
+different things they have different interfaces. A windows, icons, mouse and pull down menu interface
+has a venerable history because it works. 
+ 
+The Ubuntu Unity failure 
+ 
+ 
+Microsoft is not the only party that sees a convergence of pads and computers. Ubuntu - by far the
+leading attempt to make a workable Linux desktop for a very large market - did a complete revamp of
+their desktop changing from a Windows type interface (Gnome 2) to a Mac/pad type interface (Unity).
+They had large, immovable buttons - just right to use with fingers. Pull down menus were dramatically
+reduced in frequency and importance. 
+ 
+This transition was a mess. Utterly horrible. You are not convinced: google the phrase unity sucks. 
+ 
+However - and this is fair - Linux desktop users (we are a small tribe) are probably the most motivated
+to learn new systems of any group on the planet. Moreover Unity did get better through time. 
+ 
+Apple also knows that combining the interface is very difficult. That is why they have never taken their
+Mac interface and put it on a pad or vice versa. 
+ 
+You could have worked out the difficulty just by trying to use Unity (but I doubt too many people in the
+Microsoft development team tried that trick - because it is Linux and not developed there). 
+ 
+I told the whole sorry Unity story to a senior former Microsoft employee and he thought they would not
+be so stupid to try the combined desktop. He thought that the interface would change dramatically
+when the computer was docked - looking more like Windows 7 (a good system) when docked and
+more like a Windows phone (also an adequate system) when mobile. 
+ 
+What Microsoft has done 
+ 
+Microsoft have tried what I originally thought impossible or at least stupid. They did not change the
+interface of Windows 8 much to deal with the different ways you communicate with that interface.
+(Fingers versus keyboard and mouse for instance.) 
+ 
+Here is the video which had me selling my Microsoft stake. Its a computer reviewer filming his dad
+trying to use Windows 8. 
+ 
+
+
+April (7)
+
+
+March (6)
+
+
+February (8)
+
+
+January (5)
+
+
+December (5)
+
+
+November (5)
+
+
+October (7)
+
+
+September (6)
+
+
+August (14)
+
+
+July (5)
+
+
+June (9)
+
+
+May (20)
+
+
+April (22)
+
+
+March (36)
+
+
+February (24)
+
+
+January (28)
+
+
+December (20)
+
+
+November (27)
+
+
+October (24)
+
+
+September
+(46)
+
+
+August (45)
+
+
+July (48)
+
+
+June (31)
+
+
+May (7)
+
+
+View my complete profile
+
+
+About me
+
+
+
+http://brontecapital.blogspot.com/2010/04/
+
+http://brontecapital.blogspot.com/2010/03/
+
+http://brontecapital.blogspot.com/2010/02/
+
+http://brontecapital.blogspot.com/2010/01/
+
+http://brontecapital.blogspot.com/2009/12/
+
+http://brontecapital.blogspot.com/2009/11/
+
+http://brontecapital.blogspot.com/2009/10/
+
+http://brontecapital.blogspot.com/2009/09/
+
+http://brontecapital.blogspot.com/2009/08/
+
+http://brontecapital.blogspot.com/2009/07/
+
+http://brontecapital.blogspot.com/2009/06/
+
+http://brontecapital.blogspot.com/2009/05/
+
+http://brontecapital.blogspot.com/2009/04/
+
+http://brontecapital.blogspot.com/2009/03/
+
+http://brontecapital.blogspot.com/2009/02/
+
+http://brontecapital.blogspot.com/2009/01/
+
+http://brontecapital.blogspot.com/2008/12/
+
+http://brontecapital.blogspot.com/2008/11/
+
+http://brontecapital.blogspot.com/2008/10/
+
+http://brontecapital.blogspot.com/2008/09/
+
+http://brontecapital.blogspot.com/2008/08/
+
+http://brontecapital.blogspot.com/2008/07/
+
+http://brontecapital.blogspot.com/2008/06/
+
+http://brontecapital.blogspot.com/2008/05/
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 5/35
+
+
+ 
+ 
+ 
+I watched this and the pain of problem recognition came over me.  This was exactly how I felt when
+I first used Ubuntu Unity. 
+ 
+This was a predictable problem. It is a problem that every user of Ubuntu suffered through. This is a
+management stuff up of the first order. 
+ 
+What Microsoft has done to its business 
+ 
+Firstly Microsoft has not understood its real franchise. Its real franchise is computers on which people
+do work. They don't play. They write stuff. They enter data. They manipulate graphs. They might even
+edit a video. 
+ 
+These computers are tools and the operating system is just the air they breathe. On a day to day
+basis they don't think about the operating system - they only think about it when it changes. 
+ 
+What they should have done is kept something close to a Windows 7 interface when the computer is
+docked and something close to a pad interface when the computer is mobile. Instead they forced
+people to relate to a pad interface via a keyboard. They assumed their users were as motivated as
+(say) Ubuntu users - whereas most their users don't give a fig about learning a new system. Changes
+to a proven interface either have to be incremental (so you bring your audience along with you) or so
+self explanatory that the audience learns in 20 minutes (thank you Apple). Windows 8 is neither. 
+ 
+Prediction: this will wind up with a lower corporate take up rate than Vista (ie next to none). 
+ 
+Prediction 2: this will accelerate, rather than slow down, the rate at which enterprises take their
+enterprise specific software into platform independent programs 
+ 
+Prediction 3: by stuffing this up Microsoft has just about lost its bet on moving the retail computer
+market into docking cloud computers. Apple will do this. And they will do it by stealth. 
+ 
+Apple, the forthcoming death of the Mac Pro and cloud computing 
+ 
+Bob Cringely laid out Apple's plans a while ago - commenting on all things the lack of an upgrade of
+the motherboard of a Mac Pro during the latest round of Apple upgrades. The Mac Pro is the most
+powerful Mac and the only Mac on which users can add their own components through expansion
+slots. 
+ 
+Being the most powerful Mac it is beloved by power users. The definitive power users are people like
+video editors. These people want to download huge amounts of data to their (expandable) machine
+and hence like the fastest download protocols. The fastest current USB protocol - used for say getting
+material from high definition camcorders - is USB3. You would think that USB3 would be standard in a
+Mac Pro. 
+ 
+But the motherboard does not have it despite USB3 being a few years old. 
+ 
+And when they did not upgrade the Mac Pro to USB3 Cringely rightly asked what Apple would do
+about their power users. Here was his conclusion: 
+
+
+ 
+Apple will eventually have to explain to those folks [power users] how less is more and
+
+
+How Real People Will Use Windows 8
+
+
+
+http://www.cringely.com/2012/06/12/death-of-the-mac-pro/
+
+https://www.youtube.com/watch?v=v4boTbv9_nU
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 6/35
+
+
+Posted by John Hempton at 12:19 PM  
+
+
+how this new world [no expandable computers] is even better for them. I think I know
+how Apple will do it. 
+
+
+When the Mac Pro dies for good Apple will replace it in the market with a combination of
+Thunderbolt-linked Mac Mini computing bricks backed up by rented cloud processing,
+all driven from an iMac or MacBook workstation. 
+
+
+I just wonder when they’ll get around to telling us?
+
+
+Apple's balance sheet is consistent with this vision. Apple has been developing huge cloud computing
+facilities evidenced by the vast expansion of property, plant and equipment in their balance sheet
+(which has been piling this stuff on in the billions). 
+ 
+Windows 8 - a product that gets people used to and software developed for a pad that docks - was
+Microsoft's way of getting used to the idea of portable computers with rented super-computer cloud
+space. 
+ 
+ 
+And it will be a failure because Microsoft, not for the first time, have lost their view of real users. 
+ 
+I held Microsoft for 18 months (and it was not a bad investment). But last night I gave up. 
+ 
+For comment. 
+ 
+ 
+ 
+John 
+ 
+ 
+*There are other lock-ins at Microsoft - for instance my business partner irregularly writes Visual Basic
+algorithms for spreadsheets. Visual Basic is Microsoft proprietary and these spreadsheets lock us into
+having at least one Microsoft machine in the office. I complain regularly about this - but Simon is over
+40 and teaching old-dogs new tricks is hard. He has a lot of human capital invested in his ability to
+crank out something in Visual Basic.
+
+
+120 comments:
+Anonymous said...
+
+
+The reason why MS did not go the AAPL route and fork Windows is because of internal
+politics. 
+ 
+The Windows OS group saw how the Mac OS group was marginalised when iOS took off
+and vowed not to let that happened at MS. 
+ 
+Of course MS being what MS is, they also had to screw up the execution by giving the
+world a new OS that nobody can use.
+
+
+July 26, 2012 at 12:38 PM
+
+
+Anonymous said...
+
+
+Spot on. Especially your comments about the pad. That IS where the world is headed.
+
+
+July 26, 2012 at 1:03 PM
+
+
+Anonymous said...
+
+
+Totally concur with your analysis. 
+ 
+The really sad thing here is the extent to which this is self inflicted. 
+ 
+All of the old functionality is there but hidden (the missing "start" button is still there, but is
+now an unlabeled square that you need to know about to use). 
+ 
+This is a classic case of people thinking they can use market power to change customer
+behavior ... as if that has ever worked. 
+ 
+SB
+
+
+July 26, 2012 at 1:09 PM
+
+
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html
+
+https://www.blogger.com/email-post.g?blogID=4815867514277794362&postID=8015038278432515875
+
+http://en.wikipedia.org/wiki/Visual_Basic
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=8015038278432515875&target=email
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=8015038278432515875&target=blog
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=8015038278432515875&target=twitter
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=8015038278432515875&target=facebook
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=8015038278432515875&target=pinterest
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343270292276#c1055232185710426205
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343271825143#c7308144312318405679
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343272173935#c2850367776935534131
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 7/35
+
+
+Gavin Carr said...
+
+
+Nice post John. 
+ 
+I guess you've see Gabe Newell's comments on Windows 8 as a "catastrophe"? Valve's
+plans to move Steam onto Linux are probably relevant to your thesis too (Newell terms it
+a "hedging strategy"), since gaming is another area where MS still has a decent lock-
+in/moat.
+
+
+July 26, 2012 at 1:12 PM
+
+
+Anonymous said...
+
+
+I'll leave the Windows debate to your smarter readers (many are valid but debatable). But
+I think a good discussion of Microsoft needs to include Office and Business Division.
+Would care to hear your thoughts on that. -CT
+
+
+July 26, 2012 at 1:39 PM
+
+
+Anonymous said...
+
+
+I disagree with your assertion that Java/Python were the main drivers of platform
+agnosticism. It was the web, in general. MSFT felt confident after the release of IE6 (this
+really was the end of Netscape Navigator - the real threat to the desktop-oriented product
+lines) and did nothing to pursue the growth of web technologies.  
+ 
+The rise of Firefox, web techs, and Google had a bigger impact on MSFT than
+Python/Java.  
+ 
+And the assertion that nobody is using MSFT web tools is false. Web development is
+focused on Ruby/PHP/Javascript - but a lot of backend technology is being built on top of
+Microsoft's .NET stack - most notably C#. The latest version of C# is quite amazing from
+a developer's perspective, and has a huge technical lead over related languages.  
+ 
+Furthermore, the growth of the Mono project (now with Xamarin) has allowed MSFT
+technologies like C# to be deployed on the Linux stack, which marginalizes the MS'
+server business, but it certainly does not mean C# doesn't have a bright future.
+
+
+July 26, 2012 at 2:13 PM
+
+
+whitwo said...
+
+
+Interesting article, but overall I'd have to say that you may have been watching the wrong
+boat leave.  
+First, it's pretty misguided to say that all developers under 35 don't develop on MS tools.
+In reality, it has become pretty commonplace to have a wide array of programming
+skillsets, including .NET. I've heard many people predict everything will go Java - and a
+lot has. While you gain platform independence, you lose exponentially in the arena of
+speed and vulnerability. Java has become one of the largest attack vectors as it is cross
+platform - its strength is also its weakness. Every developer under 35 also knows it takes
+forever to initialize the runtime environment and then only receives a portion of the kernel
+for processing. The flexibility of interacting directly with the OS kernel still remain a
+necessity in large scale applications. Users today tend to forget that all applications are
+not 25MB apps that can run on an ARM processor. Those large line of business
+application need the horsepower and direct OS interaction. 
+Another important point is that MS is not banking on OS sales like they have before. MS
+has actually been saying for a while that the paradigm is shifting and such have invested
+the future in their Enterprise Cloud offerings - enter Azure and Office 365. Their top
+developers that used to spend their time writing NT kernel shifted to developing an
+enterprise cloud platform a few years ago (ie Mark Russinovich). Their cloud offerings
+differ from the market in that they are enterprise offerings. Azure is the direction Microsoft
+is heading for their future. They've bet the farm. 
+And that brings me to my last point - Microsoft = Enterprise. Other systems just aren't
+built to be enterprise. Microsoft's solutions scale to the thousands. You can't say that
+about the other vendors out there today. MS is still the benchmark in enterprise
+computing - and I don't see that changing anytime soon. They've learned some pretty
+drastic lessons from the past - some of which you pointed out. The plus of Windows of old
+being hacked to death is that it is now actually one of the most secure platforms around
+(and I'm a member of SANS so I have a pretty solid leg to stand on here). They've had to
+react, and they have in an enterprise manner. Don't think of your Gateway as their
+standard of enterprise computing - it's not. That's a home desktop. 
+Forgive me if I rant, but most of this comes from frustration of hearing people dismissing
+MS for reasons that don't hold technical merit. I hear to many people coming into my
+office asking to do the latest cool thing they saw on a commercial - when in reality they
+
+
+
+http://www.openfusion.net/
+
+http://allthingsd.com/20120725/valves-gabe-newell-on-the-future-of-games-wearable-computers-windows-8-and-more/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343272364266#c1217059114001419619
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343273980032#c451336472244469136
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343276002425#c4332829407238878413
+
+http://www.openfusion.net/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 8/35
+
+
+don't think about how that won't actually run in an enterprise switched network (sorry
+Bonjour - you're a stinking virus) or how there is a good chance that their data is now
+being mined and sold by Google (like this comment). We have compliance to adhere to -
+and for that we need an enterprise computing platform. That is one place that MS still has
+a Monopoly. 
+In short - if you went south on MS because Windows 8 won't be their cash cow - you
+weren't looking at the right picture. That's the plan.
+
+
+July 26, 2012 at 2:13 PM
+
+
+CurtSeattle said...
+
+
+July 26, 2012 at 2:35 PM
+
+
+Tom said...
+
+
+I don't get it. I really don't. I keep reading complaints that Windows 8 is unusable. But I'm
+running Windows 8 everyday. 
+ 
+I don't have a touchscreen, so I just ignore Metro and use all my applications from
+Windows 7. 
+ 
+It couldn't be simpler. Boot up Windows 8 with a keyboard and mouse. Click "Desktop."
+Done. 
+ 
+Remember that plenty of pundits predicted disaster for Office 2007, too. "Nobody will be
+able to use a word processor without a menu bar," they said. "Everyone will switch to
+Google Apps and Open Office." You go to the Amazon reviews, and there are people
+angrily complaining that Microsoft removed the ability to print documents form Word,
+because they couldn't find the File menu. 
+ 
+Nothing of that sort happened. Office 2007 sold better than Office 2003. Office 2010 sold
+better than Office 2007. It wasn't that hard to teach someone that the round thing at the
+to-left is the equivalent of the file menu, and that if you click it, you could then click on
+Print.
+
+
+July 26, 2012 at 2:45 PM
+
+
+CurtSeattle said...
+
+
+Yes, OFFICE commentary is critical. There are 1 billion OFFICE users currently. 1 billion. 
+ 
+I believe that Office accounts for the bulk of their revenue doesn't it?  
+ 
+Maybe Windows, but I think it's Office.  
+ 
+PC sales slowing means a move to mobile platforms (tablets, phones, etc...), but $MSFT
+will make money on the licensing of the OS's no matter what hardware is the flavor of the
+decade. 
+ 
+I think a lot of people are missing the power of Win 8.  
+ 
+You use Metro for the TOUCH based devices (the new multi-touch acquisition was smart
+by the way) and you use the normal desktop look for PC's and Win 8 lets you toggle
+between them. 
+ 
+You then have a Win 8 phone, Surface Tablet, home PC and Xbox and EVERYTHING is
+linked through SmartGlass created (and cross platform I believe) software so you can
+finish movies no the go, work on your various things on whatever device is with you.
+Music/video/work product all available in an integrated platform. 
+ 
+Yes, there are others that have similar directions planned, but Microsoft's version seems
+to be the best I've seen if they deliver. 
+ 
+I know they have been connected to the "lost decade", but I don't see how anyone can
+argue that they have not finally woken up. More things coming out at once than I can ever
+remember and they appear to FINALLY be all on the same page with their various depts
+working cohesively.  
+ 
+I just bought in big and am a believer. :) 
+ 
+My two cents....
+
+
+This comment has been removed by the author.
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343276018652#c2519530435913349745
+
+https://www.blogger.com/profile/07454892345180334870
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343277326522#c2742698155261749461
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343277906035#c2185570074528423523
+
+https://www.blogger.com/profile/07454892345180334870
+
+https://www.blogger.com/profile/07454892345180334870
+
+https://www.blogger.com/profile/07454892345180334870
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 9/35
+
+
+July 26, 2012 at 3:02 PM
+
+
+CurmudgeonlyTroll said...
+
+
+Twice Microsoft took innovations that could have been disruptive to their franchise, and
+adapted them to sustain their franchise - the GUI, and then the Internet. 
+ 
+Mobile/cloud is the next one. But the market has spoken... Windows Phone has
+something like 4% market share after a year of practically giving away Lumias while
+people pay hefty premiums for iOS and Android devices like Galaxy S3. 
+ 
+Can't blame MSFT for going all in on a tablet/mobile OS based on Windows. 
+ 
+But right now, seems more likely they will alienate desktop users and OEMs than convert
+iOS users. And the mobile/cloud is the future. 
+ 
+They have multiple revenue streams including servers, but losing the desktop war is a big
+deal.  
+ 
+No computer company has retained domination through a shift in computing paradigm,
+and Microsoft doesn't look like they're going to break that streak.
+
+
+July 26, 2012 at 3:08 PM
+
+
+Jake said...
+
+
+Shorting stock of a corporation that grew earnings by 250% the last "lost" decade and
+sports a P/E of 10 (excluding the recent write down) doesn't seem like the wisest decision
+to me.
+
+
+July 26, 2012 at 4:01 PM
+
+
+John Hempton said...
+
+
+Jake - that is why I was long the stock. 
+ 
+The tailwind (massive increase in laptop use) is over. In that lost decade we went from
+having a desktop in a rich house in the developed world (we had one desktop at home) to
+having a laptop PER PERSON - and with no piracy. 
+ 
+That was one hell of a massive tailwind. And it is over. 
+ 
+It is a small short. But yes - I am aware how cheap this is - I was long it until about two
+days ago. 
+ 
+John
+
+
+July 26, 2012 at 4:05 PM
+
+
+Anonymous said...
+
+
+John, 
+ 
+I had definitely enlightening but ultimately dubious experience of working for Microsoft on
+some of their "projects" that naturally spanned all the way from acquisition of customer
+feedback and research to new developments. 
+Back at around '07 give or take a year. 
+ 
+While I was never big on the "evil empire" thing, I knew full well from that point onwards
+that MS's doom is clearly on the horizon. "big and not very caring" of your post is a very
+British-style statement, in that it's just a slight bit under. 
+ 
+What other spiral MS got itself into, and quite plenty of time ago, was the negative talent
+spiral. 
+It's not "cool" to work for MS for up-and-coming "hackers", it's not very kewlz to have MS
+on your resume (compared to Google or just a start-up that got to a product launch), all
+this leads to less "creative" and more "formal" corporate ethics (as when you get top
+talent you usually extract best value by not limiting them vbery much, when you have
+average talent you need to establish firm governance to get comparable results), which
+reinforces the former, etc etc chicken and egg thing. 
+ 
+What this practically means is that aside from Xbox, everything else MS has is, at it's
+core, a legacy which is already 10+ years old. 
+Windows lock-up? Legacy. 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343278979992#c5683431749894066349
+
+https://www.blogger.com/profile/02004282752334460717
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343279336140#c7163780607709434507
+
+https://www.blogger.com/profile/07946497592651234440
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343282494819#c5591759983058765875
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343282758548#c196723523937183248
+
+https://www.blogger.com/profile/02004282752334460717
+
+https://www.blogger.com/profile/07946497592651234440
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 10/35
+
+
+Default office standard? Legacy. 
+Even their "prehistoric cloud", e.g. Exchange servers etc, is legacy. 
+ 
+In other words, it's perfectly fine for a company to go from growth to stagnation to slowly
+going the way of the dinosaurs in 20 years, and this trajectory is "normal" at MS, e.g.
+without sharp declines but without miracle rejuvinations either. 
+ 
+What I can say for sure from my own observations, and what is supported by recent
+developments (stories like buying Danger into Kin phone, "transition" from aging yet solid
+WinMobile to DOA "win phone", Vista and now 8, etc), the present condition of MS talent,
+vision, management and execution competence all but precludes it from making projects
+both new and successful. 
+ 
+So as you correctly pointed out, they had a HUGE reserves of old gas, and are running
+mostly on it for 10 years. No wonder those reserves are starting to prove exhaustible. 
+ 
+A shame, really, because I also don't buy "good" Google, much less apple, but that's how
+it is. 
+ 
+Regards, 
+Dmitry. 
+ 
+P.S. 
+Not so sure about cloud computing craze. It adds a whole new mission-critical element,
+stable and wide Internet connection, which is not a given even at the center of Wall
+Street, much less in any less "sophisticated" area. 
+Huge driver for laptop-to-pad conversion is the fact many people "do nothing" on their
+computers (be it a box a pad a laptop or smartphone) save for few very simple scenarios
+(web prostacrisurfing, photo/video watchin, Twitter). 
+Everyone who does something else may get a pad in addition to a laptop, but hardly
+ionstead of it.
+
+
+July 26, 2012 at 4:21 PM
+
+
+Anonymous said...
+
+
+There is another very interesting topic regarding cloud, John, and that is 
+ 
+will transition to cloud mean more centralization (as naturally, if few big cloud providers
+"win" they could lock everyone else off the market much better then any OS manufacturer
+could), or more diversification as it becomes trivial to introduce new tools to users when
+they don't have to go through "setup" on local machines? 
+ 
+The soft trend I noticed from the sidelines is that many start-ups develop assorted "light"
+cloud enterprise systems and offer those SaS from the cloud (oft rented out from Amazon
+or the like). 
+Some of those are getting enough traction, too (salesforce being the poster child but far
+not the only or the "best" one) 
+ 
+Regards,  
+Dmitry.
+
+
+July 26, 2012 at 4:29 PM
+
+
+IanJ said...
+
+
+Office has already been mentioned. I think that may be a more interesting example
+because (broadly) Windows users don't actually use an OS that much. Find your app.
+Remember where it is. Start it. 
+ 
+The Office UI changes have tended to throw away the old interface. Yes, the Ribbon is
+usable, but when I have seen peoples screens on projectors/large displays even fewer
+people are actually able to do normal actions using the keyboard. 
+ 
+When Power Users get annoyed with yet another change, they will try Open Office. They
+will try Google Docs. And whole companies will move.
+
+
+July 26, 2012 at 5:04 PM
+
+
+Anonymous said...
+
+
+IanJ has a perfect point here: I myself, and few of my associates, moved from Ms Office
+to Open Office exactly cuz of "Ribbon" which our lame rearsides found no way to turn
+back into old-style dropdown interface. 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343283673815#c5377990884601217976
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343284157369#c2796972043398993527
+
+https://www.blogger.com/profile/05344354873807020243
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343286256622#c5827926191080875702
+
+https://www.blogger.com/profile/05344354873807020243
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 11/35
+
+
+ 
+E.g. we moved from Microsoft product to retain user experience Microsoft so firmly
+hooked us on. 
+ 
+That's one heck of a good job on their side. 
+ 
+Regards, 
+Dmitry.
+
+
+July 26, 2012 at 6:39 PM
+
+
+Anonymous said...
+
+
+I'm impressed with your level of tech savvie. I'm a huge Python fan and currently posting
+from a Slackware OS. 
+ 
+I read a book (alas, I can't remember the name) about tech innovation once. They looked
+at history, and discovered that "high tech" monopolies had about 2-4 decades before
+being superceded. Things did not end well for the encumbants. The book talking about
+canals being superceded by railways, telegraph companies having a stranglehold on
+long-distance communication that were eventually obsoleted, and so on. 
+ 
+From a purely statistical viewpoint, Microsoft must be getting near the tail end. Perhaps
+the most obvious threat is from smartphones. They are becoming more like computers
+every day. Google seems to be doing some interesting things with Linux on that front.
+What we see emerging is a trend that "it's not the OS, dummy, it's the browser". That is a
+big threat to MS, I think. 
+ 
+Having said that, tales of MS's death are currently greatly exaggerated. One place it does
+have a stranglehold on is Office. We use that extensively at our company, and Excel is
+used ubiquitously for performing calculations. Access is also used heavily. Yes, I know, it
+probably shouldn't be, but those are the facts. Currently, there is no credible threat to
+Office. It's been awhile since I've used LibreOffice, but I think they're far from sorting out
+some of the basics.  
+ 
+My conclusion? Well, I don't really have one. Just observations.
+
+
+July 26, 2012 at 7:24 PM
+
+
+Anonymous said...
+
+
+I dont know much about windows 8, but dont put your money on java. Its a pain in the ass
+and i always hated interactive broker for that. You will never beat native solutions with
+interpreter based languages. Its also a big security issue. You cant block just one java
+app from the internet, you have to block all java app or none. Java is still in use, but i
+doubt it will increase. Html5 and javascript are the new old kids in town. On iOS you dont
+get java even running. Rightly so.  
+When I was a kid i always loved all in one solutions. But over time i realized, they are
+always compromises and never the real deal. An hybridsolution will never have the
+experience and performance of a specialized one. Just watch our society. Only those who
+focus on a certain field will be the best in it. there is a reason you dont see many cars that
+can swim. And the same will be with os on devices. People have to decide. Buying an all
+in one solution will not work in the long run.  
+I dont believe in cloud solutions either. You dont want to put your private stuff (ok some
+do) and your confidential business stuff an somewhat elses server. You lose control. And
+you will have problems accessing your data in certain areas. Clouds are good for specific
+fields,, but thats it.  
+So to come to an end - i think there always will be two different iOS on the market. One
+for consuming data and one for creating.  
+Btw. You can connct a bluetooth keyboard to the ipad. But who wants that? Its ruining the
+concept, right?
+
+
+July 26, 2012 at 7:30 PM
+
+
+uair01 said...
+
+
+This is not an original thought (I read it on another blog) but there is a certain rhythm in
+MS OS versions. 
+ 
+Source: 
+http://orclev.tumblr.com/post/18555141412/why-windows-8-will-suck 
+ 
+Windows 3.1x (1992) - Good 
+Windows 95 (1995) - Mixed bag, at the beginning it sucked 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343291997793#c7362036689937034617
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343294646640#c1430034673422696305
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343295026084#c1791202652317952244
+
+https://www.blogger.com/profile/14538242264866015155
+
+https://www.blogger.com/profile/14538242264866015155
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 12/35
+
+
+Windows 98 (1998) - Good 
+Windows ME (2000) - Sucked (hard) 
+Windows XP (2001) - Good 
+Windows Vista (2006) - Sucked although not as hard as ME 
+Windows 7 (2009) - Good 
+Windows 8 (2012?) - ??? 
+ 
+I leave the Win 8 prediction as an exercise for the reader :-)
+
+
+July 26, 2012 at 7:39 PM
+
+
+Anonymous said...
+
+
+It is all about Azure and enterprises, consumers are a lost battle for them. Though, Azure
+doesn't seem to gain traction so far either.
+
+
+July 26, 2012 at 8:08 PM
+
+
+Manc Trader said...
+
+
+I actually love the unity interface on a laptop. On a big desktop with multi-monitors not so
+much but I can get a really good workflow on a laptop. 
+ 
+Anyway, great article and I'm short mister softee along with you.
+
+
+July 26, 2012 at 8:30 PM
+
+
+Rahul Deodhar said...
+
+
+Don't short it yet. Let windows 8 come out. The phone and pad version is quite good and
+some of my friends who moved to Nokia Lumia have found move very easy.  
+ 
+In fact people who couldn't think beyond SMS are now tweeting and integrating things
+into their calenders. (and sending me reminders for God's sake). 
+ 
+I doubt if Windows 8 could be that bad.
+
+
+July 26, 2012 at 8:58 PM
+
+
+Anonymous said...
+
+
+JH, a very interesting post? ....but....I am confused about the process 
+ 
+I'll assume 5000 stocks in your pool of prospects., and assume you have 50 long, 50
+short. I can't help but be concerned that in two days, you've reclassified Microsoft from
+the top 1% to the bottom 1%. Nothing catastrophic has happened over the past 2 days,
+so It's almost certain you were wrong either last week or this week, or both. You had 18
+months to constantly consider it worthy of a long. You've drastically reconsidered recently.
+ 
+Are you letting one bad experience with windows8 cloud your vision WRT the rest of the
+Microsoft revenue portfolio?
+
+
+July 26, 2012 at 9:05 PM
+
+
+David said...
+
+
+A lot of good comments here already. I don't think there is any specific issue that dooms
+Microsoft. It's a long drawn out saga as it is attacked from multiple angles including from
+within. 
+ 
+John you note somewhat the following when discussing falling prices. 
+Some time from the late 90s to the mid-2000s computing moved from being enterprise
+focused to being consumer focused. Cellphones, gaming consoles, software in cars and
+other appliances all became possible because of Moore's law. Performance/watt,
+bandwidth/watt and performance/$ reached attractive levels from which takeoff was
+possible in ever increasing market spaces (volume). These trends won't stop and I doubt
+they're linear at this point which is great news for Apple and Google. This enabled mobile
+computing on the hardware side. 
+ 
+On the operating and application software side Apple out innovated Microsoft because
+they could focus on future customers (mobile) when Microsoft has to keep a huge
+organization motivated on supporting legacies that kept their enterprise cash flows in
+place (as you note that's their real business). 
+ 
+Finally Steve Jobs learned from experience or at least did so on the insistence of his
+senior management team, and opened up Apple's platform in crucial areas from
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343295542728#c2157792602516188810
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343297321670#c47930756578201511
+
+https://www.blogger.com/profile/15419060899207287530
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343298654878#c956491489298214712
+
+https://www.blogger.com/profile/13354874480198485819
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343300294561#c5747405821918426983
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343300700329#c3424818448895364402
+
+https://www.blogger.com/profile/04298291177272942247
+
+https://www.blogger.com/profile/15419060899207287530
+
+https://www.blogger.com/profile/13354874480198485819
+
+https://www.blogger.com/profile/04298291177272942247
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 13/35
+
+
+excessive Apple control. He moved software to Windows. Safari never caught on but
+iTunes sure did, and it started the slow migration away from Windows (Apple has more
+than 400 million credit cards in their system because of this move). 
+With iOS he made the App Store which clearly sets it apart from Google's bungled
+attempts at developer support including a lot worse developer tools, and Microsoft's same
+with Windows Phone.  
+ 
+These Apps actually enable content creation and hence usefulness beyond browsing and
+email. It may not be heavy typing or spreadsheets but look at how education, medical and
+general enterprise users are using iOS. New use cases are being discovered all the time
+because with a mobile computer you can do new things besides sitting at a desk with a
+mouse or trackpad. 
+ 
+Apple today has the better operating systems by a fair margin. This of course is not a
+decisive factor, if not for the fact that Google has copied/emulated/invented the approach
+with Android and spread it far and wide. Microsoft trying to make two operating systems
+in one (touch and mouse inputs) while charging a substantial percentage of total
+revenues for a hardware unit, doesn't pass the smell test. It won't work when users either
+pay up for iOS or go cheap on Android. Windows 8 lacks focus. 
+ 
+to be continued
+
+
+July 26, 2012 at 10:59 PM
+
+
+David said...
+
+
+part 2... 
+ 
+The second front is the move away from operating systems being the choke hold of
+value. This was Google's strategy of being the choke hold in the browser. Search
+instinctively is the place to go to make sense of the web. And Google owns it. I believe
+Android is a defense of search against Apple. Siri is a far more dangerous play than ten
+years of Microsoft wasting billions on Bing and the like. 
+ 
+In the battle between rich and thin clients I doubt any side will win decisively, but clearly
+Microsoft and Apple want a lot to take place in the client with the cloud being a support
+infrastructure. Google, Amazon and the like wants the opposite. 
+ 
+Thirdly there is the lack of talent, internal politics and of course the "DNA" of Microsoft
+that tends towards legacy support rather than cannibalism. 
+ 
+Fourthly the move to a consumer electronics focus has also enabled Apple to break the
+former Wintel-OEM business model (Intel is still good but for how long?). Software firms
+let OEMs do the dirty work on hardware on margins so thin they couldn't compete with
+the beast Apple has become in supply chain management, retail, marketing/PR and of
+course hardware design. Retail in itself has been a huge factor in creating positive
+awareness and the creation of human capital among customers. Most people are simply
+not very good at computers and even incremental change is fought despite good reasons
+as you point out. 
+ 
+Apple teaches customers what their software can do in their lives before they leave the
+shop. 10 years of that matters. 83 million Apple Retail visitors last quarter alone. 90% of
+products set up upon purchase according to Ron Johnson former Apple retail VP. It's
+easy for geeks to miss the human capital part.  
+Good interview see: http://tech.fortune.cnn.com/2012/07/18/transcript-ron-johnson/ 
+ 
+Of course there are lots of other reasons. A million small things change and if you don't or
+can't change with them...
+
+
+July 26, 2012 at 11:00 PM
+
+
+Anonymous said...
+
+
+Anonymous said... 
+...I am confused about the process 
+ 
+...I can't help but be concerned that in two days, you've reclassified Microsoft from the top
+1% to the bottom 1%. Nothing catastrophic has happened over the past 2 days...." 
+ 
+As an independent floor trader, when expectations fail to materialize, you reverse your
+positions. John's expectations failed to materialize. There are low borrowing costs on the
+short,the stock is not going to run away and it is liquid. It is a low risk short. I do not
+understand MS, so I have no position in the company.
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343307597174#c1681734790467494270
+
+https://www.blogger.com/profile/04298291177272942247
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343307619580#c1750022974097939048
+
+https://www.blogger.com/profile/04298291177272942247
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 14/35
+
+
+July 26, 2012 at 11:21 PM
+
+
+Anonymous said...
+
+
+Actually Win 8 is the first OS in 10+ years to challenge OS X. Apple software has become
+predictable and risk averse as of late.
+
+
+July 26, 2012 at 11:24 PM
+
+
+Matt Barrie said...
+
+
+Back in the olden days, people used to think that what was really important about a
+computer was that it was made by IBM. Then people realised that anyone can make a
+clone of this, and what was really special was the Intel chip Inside. After a while, AMD
+came along and showed you could clone that, and then people realised that the Microsoft
+Operating System was the special bit. A few years later, other operating systems came
+along that could do all that Microsoft did, but also more things, and better. But the reason
+they stil didn't switch was because all their work (documents) got screwed up. So you
+needed to stay because of Office. 
+ 
+Now that's been cloned with Google Docs, and for the average case, gDocs is a lot
+better. 
+ 
+MS is on its last legs. Developer interest in all its products is tanking. Just look at our
+quarterly reports: 
+ 
+The latest 
+http://finance.yahoo.com/news/freelancer-com-reveals-50-fastest-130000521.html 
+ 
+We slammed MS here 
+http://press.freelancer.com.s3.amazonaws.com/2012-02-27-Freelancer.com-FAST-50-
+2011.pdf 
+ 
+"As we repeatedly point out in our quarterly Freelancer Fast 50 reports, the universal
+decline in  
+online jobs related to Microsoft products leads us to believe that the company’s days are  
+numbered. The Microsoft report is covered in red ink; Microsoft missed out on the Internet
+and as a  
+result core Microsoft products are seeing interest drop like a rock, with upticks only really
+seen in  
+programming languages associated with the company: Windows Desktop down 37% for
+the year  
+(to a paltry 1,256 jobs), IIS down 37% (to a piddling 331 jobs), Microsoft down 39% (to
+888 jobs),  
+Word down 12% (to 808 jobs), Windows Mobile down 8% (to 515 jobs), .NET down 5%
+(to 12,108  
+jobs), Microsoft Access up 1% (to 1,166 jobs), Microsoft Exchange up 1% (to 236 jobs).
+The only bright spots in the report are ASP up 12% (to 4,544 jobs), Visual Basic up 12%
+(to 4,103 jobs), C#  
+Programming up 27% (to 7,369 jobs), Sharepoint up 38% (to a tiny 413 jobs) and
+Windows Server  
+up 84% (to 872 jobs)."
+
+
+July 26, 2012 at 11:27 PM
+
+
+Anonymous said...
+
+
+I'm a programmer, used to do C#, now PHP. 
+ 
+Most commercial PCs I see these days are still winXP. The local hospital, the garage,
+most shop tills are XP touch. I have no idea how the new windows will fit into these
+peoples lives.
+
+
+July 26, 2012 at 11:53 PM
+
+
+Anonymous said...
+
+
+You sold out a position and shorted a stock based on a YouTube video of an unreleased
+product you've yet to use? 
+ 
+And that's smart how? 
+ 
+Microsoft has a few other lines of business to consider. Xbox, online gaming and
+entertainment, server, office, mobile, CRM, cloud computing, etc, etc, etc. Dominant and
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343308904539#c1312812148098274496
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343309094285#c4163556682603163208
+
+http://freelancer.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343309277320#c4405455130820793460
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343310836164#c681091589021727478
+
+http://freelancer.com/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 15/35
+
+
+growing market share in nearly all of these areas. 
+ 
+And you sold based on this video!?
+
+
+July 27, 2012 at 12:10 AM
+
+
+Anonymous said...
+
+
+>You are not convinced: google the phrase unity sucks. 
+ 
+You might be true or not, I'm not sure that is best way to prove it. 
+ 
+NB: replace google by a generic word;
+
+
+July 27, 2012 at 12:18 AM
+
+
+Wandspiegel said...
+
+
+Whether one agrees or not with the facts and reasoning of the author (a successful
+hedge-fund manager with a widely followed blog), this blog post is important in and of
+itself because of what it represents: a tectonic shift in the business community's
+perception of Microsoft. 
+The business community is now openly doubting the future relevance of the Windows
+platform!
+
+
+July 27, 2012 at 12:21 AM
+
+
+Charlie@HockeyBias.com said...
+
+
+Wtiting code for a MAC or iPad/iPhone is one of the most violent experiences a developer
+will have. Please Apple, amek a dececnt IDE and abandon 25-year-old Objective C as
+the main language for writing code for your products. It is a mess - the amount of code
+one has to write to do relatively simple things is mind-boggling. Kindly kill Xcode and
+Objective C. 
+ 
+I will take the
+
+
+July 27, 2012 at 12:23 AM
+
+
+jy said...
+
+
+Dear John, 
+ 
+Coincidently today I brought a Lenovo x61t home to install Windows 7 on it. I'd finally had
+enough of Windows 8. Between this, your article, and the slew of articles on what a
+crappy play MS is to work for with its very odd rating system, I've written to both of my
+stockbrokers asking them for advice on how to bet against MS in the short term (i.e., post
+end of Oct 2012) and the long term (i.e., approximately one year from now). 
+ 
+I'm sad for MS. I've had several friends who went to work there, and I've happily used
+their products for years. But there is something wrong there. RIM-wrong. 
+ 
+Thanks again for articulating the situation much more clearly that I could have done. 
+ 
+John Young
+
+
+July 27, 2012 at 12:49 AM
+
+
+Anonymous said...
+
+
+But let's not forget Microsoft has been developing huge cloud power as well. They are
+moving Office 365 to Windows Azure. 
+ 
+This must be their new cash cow. Because they priced Windows 8 relatively cheap, just
+like OS X (cheaper). 
+ 
+The strategy is to get people into your cloud. I think it will work for Microsoft, but they will
+have to contend with a third of the market, shared with Google and Apple. 
+ 
+Not sure how to translate that to stock strategy though.
+
+
+July 27, 2012 at 12:56 AM
+
+
+Veysel said...
+
+
+[Microsoft's] real franchise is computers on which people do work. They don't play. 
+ 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343311834691#c2728551421477409428
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343312330439#c8305651722418139997
+
+http://www.tvspiegel.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343312469956#c4031375065858562185
+
+http://hockeybias.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343312610238#c9100980766135015351
+
+https://www.blogger.com/profile/16131041919019970356
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343314155550#c3451589034842960343
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343314596245#c4466483110519245022
+
+https://www.blogger.com/profile/16386225269060926953
+
+http://www.tvspiegel.com/
+
+http://hockeybias.com/
+
+https://www.blogger.com/profile/16131041919019970356
+
+https://www.blogger.com/profile/16386225269060926953
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 16/35
+
+
+There's a neat little startup that Microsoft has recently been backing, it's called the XBox.
+I think they're in the entertainment space or something.  
+ 
+Also, since when has Windows not led the PC gaming market? While this *may* be
+changing in the near future, historically the majority of PC gamers have always used
+Windows.
+
+
+July 27, 2012 at 1:35 AM
+
+
+Anonymous said...
+
+
+Aren't we missing the major fact that MS is becoming so open with Win8 and Azure that
+you don't need MS Tools to build on them? I have not built yet on Azure nor Win8 but
+would be interested to hear from others who have. The skills accepted by both platforms
+are way beyond MS VS.
+
+
+July 27, 2012 at 1:40 AM
+
+
+Trevor de Koekkoek said...
+
+
+Have you heard of desktop mode?
+
+
+July 27, 2012 at 1:46 AM
+
+
+Anonymous said...
+
+
+Enjoyed reading your post. Some of your commenters really need to get a clue. 
+ 
+Microsoft on its last legs? If you call continuing record quarters on last legs then you need
+your head examined. 
+ 
+Also if you think of the Steam/Gabe Newells comments with any kind of objection then its
+pretty easy to realise that the Microsoft Store with Windows 8 could easily take profits
+away from Steam. If the process is easier, works well with XBOX Live then its pretty easy
+to see why Valve would have their backs up. 
+ 
+Matt
+
+
+July 27, 2012 at 2:15 AM
+
+
+Anonymous said...
+
+
+Windows 8 works great on new devices. The trackpad can be used for gestures and the
+old desktop UI is still there, if you want to use it in the same way it's still there. Windows 8
+UI will be perfect for the new touchscreen laptops and ultra-books that are about to come
+out. There are some times when a keyboard and mouse/trackpad works best, but if you
+use tablets a lot there are times with a laptop where you try to swipe on your screen. With
+Windows 8 you can now do that.  
+ 
+And not to mention their Xbox Live customer base and how this will interact with it.
+
+
+July 27, 2012 at 2:21 AM
+
+
+Anonymous said...
+
+
+I will admit the 'metro' feature of windows 8 is kind of like the 'media center edition'
+feature of Windows XP. The rest of the Windows experience remains the same. It
+becomes much richer with each release. There are several versions of Windows 8 that
+will be available. Do you honestly think Windows 8 Enterprise edition will demand
+professionals to use the 'metro' piece? These users will enjoy the enhancements to the
+regular Windows experience.
+
+
+July 27, 2012 at 2:33 AM
+
+
+Anonymous said...
+
+
+After reading all of the comments, I can't help but think that JH has yet to make any
+moves, and is smartly crowd-sourcing an expert technical opinion.
+
+
+July 27, 2012 at 2:37 AM
+
+
+Ralph Elliott said...
+
+
+You now seem to have reached the conclusion that I thought was probably the right one
+when you last broached this topic. But ... 
+ 
+The case you made then was plausible, and I have to say that the case you make in this
+blog post seems fairly sketchy to me -- not really enough to destroy the one that
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343316921015#c330149130707319871
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343317226046#c2893790902942000128
+
+https://www.blogger.com/profile/14618713110563506713
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343317611502#c5937329435774621141
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343319310150#c3667662300893109119
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343319691977#c5984456474641067882
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343320409747#c8547481907590635809
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343320648251#c9132753309997723582
+
+https://www.blogger.com/profile/14618713110563506713
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 17/35
+
+
+previously convinced you to invest in MS. You've talked to a nerd or two who have no
+special gifts as industry analysts but who like Python and Ubuntu, you've read what
+Cringely has to say, and you've seen the celebrated video of Chris Pirillo's dad. I trust you
+are aware that Chris Pirillo did another video of his dad with Mac OS X -- certainly not
+identical to the Windows 8 one, but enough to make the casual observer swear off
+investment in Apple. Myself, I like Cringely, but I'd say that he's now generally, and not
+unreasonably, regarded as a bit of a relic of a bygone era. 
+ 
+I find it hard to believe that these are your only reasons for flipping your previous decision
+on MS. Are there not other, sounder, sources of industry analysis on which you're basing
+your own assessment -- ones that you've yet to let us know about? Personally, I'd have
+said Ballmer is quite a good reason not to be investing in MS -- see, e.g., Horace Dediu's
+recent post on the Poetry of Steve Ballmer -- but I'd have said that last time, and
+Ballmer's been in charge for well over ten years, and he didn't seem to put you off last
+time. I expect you, if not your readers, are already familiar with Dediu's writing at
+asymco.com. Would his/Christensen's "jobs to be done" approach suggest a different
+answer on MS now by comparison with that you came up with last time? 
+ 
+I have a technical background rather than a financial one, but I find it disconcerting that
+you could reverse your previous, painstakingly reached, decision without considerably
+stronger reasons than you've given here. Consider: MS do indeed have a rather uncertain
+grasp of the distinction between touch and mouse-based input, and Apple systems are
+indeed much more user friendly than MS/Windows ones. But similar things could have
+been -- and were -- said in the Windows 3.1 era back in the early 90s -- and that didn't
+turn out so bad for MS, did it?
+
+
+July 27, 2012 at 3:17 AM
+
+
+o. nate said...
+
+
+I think selling MSFT on the basis of one lousy OS release is a bit hasty. They've survived
+lousy releases before without too much impact on the bottom line (Vista, for example). I'm
+not sure why this time would be different. The more important question is whether or not
+the dominant trends in IT are moving away from them. I basically agree with you that they
+are, but maybe not for exactly the reasons you gave. I think your discussion of Java kind
+of misses the point. Cross-platform software is not a serious threat to MSFT - Java on the
+desktop is still clunky after how many years? The threat is the web. Web applications are
+becoming better and better all the time. MSFT's only hope was to build proprietary
+browser add-ons that would lock people in to their platform, but that has failed. In a
+stunningly quick upset, Google's Chrome now has a bigger market share than IE. Google
+wants the browser to be the computer, and they want that browser to run on open
+standards. So far they seem to be winning that war. Tablets are part of the trend towards
+smaller, smart, non-computer devices. This is also a threat to MSFT's business model,
+since they won't be able to dominate this space like they did the desktop. Those are
+reasons to sell MSFT. The reasons to buy MSFT are legacy application lock-in and the
+fact that there is still not much of a credible alternative in the corporate enterprise space,
+but that's a smaller market than MSFT is used to (although they can still wring a decent
+profit from it if they play their cards right).
+
+
+July 27, 2012 at 3:57 AM
+
+
+Eric James Soltys said...
+
+
+"Unity sucks" was a kneejerk reaction by many to change. My sense is the Ubuntu
+community—including me—have been won over by the improvements made to Unity. 
+ 
+I expect a similar reaction and adaption to Win 8. People complain and then discover the
+good parts.
+
+
+July 27, 2012 at 4:29 AM
+
+
+Anonymous said...
+
+
+"Nowadays nobody under thirty writes anything on Microsoft developer tools unless they
+are demented or brain-dead" You view on this is about 10 years out of date. .Net is an
+exceptional development platform, and there is no comparable language to C#. They are
+both seriously awesome. I know this and I am not even a .net developer or a Microsoft
+fan, but I have done .net development in the past for a short period. 
+ 
+You comment about Python being more important than Java is a bit off as well. From 96-
+2006ish Java was the undisputed king of programming languages. It is still extremely
+important, more so than Python by any reasonable measure
+(http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html). Not that Python isn't
+awesome and important as well.
+
+
+
+http://www.asymco.com/2012/07/10/the-poetry-of-steve-ballmer/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343323043612#c1312259755896928330
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343325479722#c7800677660315054735
+
+https://www.blogger.com/profile/08147677670357614977
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343327399449#c846033496695114682
+
+https://www.blogger.com/profile/08147677670357614977
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 18/35
+
+
+July 27, 2012 at 4:32 AM
+
+
+Anonymous said...
+
+
+@ anon "Microsoft has a few other lines of business to consider. Xbox, online gaming and
+entertainment, server, office, mobile, CRM, cloud computing, etc, etc, etc. Dominant and
+growing market share in nearly all of these areas" 
+ 
+the only highly profitable sectors are the "enterprise" ones. Like IBM there's certainly a
+future for MSFT in the Enterprise but it's a much different future than their past. They
+certainly won't be getting the $100-400 per computer they used to charge end users for
+Office with the rise of Google Docs, Open Office etc. that are "good enough"
+
+
+July 27, 2012 at 4:57 AM
+
+
+JJ McHughes said...
+
+
+I remember your GO LONG thesis on Freddie Mac and Fannie Mae ... since then , I
+wouldn't follow one of your recommendations
+
+
+July 27, 2012 at 5:18 AM
+
+
+Anonymous said...
+
+
+Excellent article and I think you are on to something. One thing that you don't discuss,
+and I would be interested to get your take on, is Azure. From talking to people very high
+up in the organization (1-2 levels from the top), I know that they are betting big on Azure
+and I think that many are hoping it can be their saving grace. 
+ 
+On an unrelated note, it would be great if you would add social media buttons for
+Facebook, Twitter, etc, to make it easier for people to share your (excellent) posts.
+
+
+July 27, 2012 at 5:51 AM
+
+
+Anonymous said...
+
+
+My fund owned MSFT for quite some time. I sold it June 21, and my reasons are similar. 
+ 
+MSFT's traditional advantages were scale, network effect (file format interoperability), and
+other lock-in (user interface, developers). 
+ 
+Network effect has eroded because of better interoperability with other OS and
+application vendors. Scale has eroded because Apple now out-earns MSFT by at least
+2x, and Google is catching up fast. All that's left is lock-in, which at the moment is still as
+powerful as ever. 
+ 
+Yet both Windows 8's Metro interface, and the "Surface" product, erode that lock-in (both
+customer and developer), by using a different fundamental UI. 
+ 
+"Surface," if successful, additionally erodes margins, as it is positioned to replace
+Windows laptops (high OEM license fee) with a new subcompact mobile device (lower
+license fee). 
+ 
+For MSFT to move from a locked-in position to a new defensible position requires R&D
+and/or capex. But for the first time in decades, MSFT is at a substantial scale
+disadvantage here. Apple, which earned at least 2x more than MSFT over the past 3
+quarters, can vastly out-invest them, other things equal. Google is smaller than MSFT, but
+closing fast, and will soon be able to do the same. 
+ 
+There is one way they can salvage this, and I think it's likely to happen: abandon Metro,
+and release Windows 8 with the traditional interface turned on by default. This will restore
+lock-in, and buy them years more of fat profits. 
+ 
+But the fact that they've let it go this far says to me they do not understand their own
+business, and so I no longer want the stock.
+
+
+July 27, 2012 at 6:06 AM
+
+
+Anonymous said...
+
+
+you forgot excel; it's used everywhere
+
+
+July 27, 2012 at 6:14 AM
+
+
+Anonymous said...
+
+
+I like any sort of investment recommendation with no math. Does price paid matter?
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343327538926#c3805033265348643273
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343329070127#c3311964372793939040
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343330326110#c1230927722521708032
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343332295510#c5617590325507859077
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343333169226#c4575091042758606783
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343333671953#c21591504407531714
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 19/35
+
+
+July 27, 2012 at 7:26 AM
+
+
+Anonymous said...
+
+
+Interesting article and even more interesting comments. I have only two thoughts. 
+ 
+First, when Windows 8 is released in October, though there will be a lot of fanfare, I
+suspect its actual effect will be minimal. It will ship on mobile devices and some
+ultrabooks - both devices made for the touchscreen interface of Metro, so no one will
+care. And virtually no one will be running it on desktops, so people like that guy's
+grandfather isn't going to care. I mean how many people have even upgraded to
+Windows 7? 
+ 
+Second, to me the real test of MSFT is what they do with Kinect. From what I understand,
+Kinect is still a leader in motion control, and if they can marry this up before anyone else
+does (with XBox as well), MSFT will be the undisputed king.  
+ 
+I'm staying long for the time being.
+
+
+July 27, 2012 at 7:45 AM
+
+
+Julius Davies said...
+
+
+Writing from a Lenovo X230t running Debian that nonetheless came pre-installed with
+Windows 7 Pro... 
+ 
+I'm in school now working on a PhD in computer science, so out of touch with what's
+going on in corporate world, but here are the things I am curious about: 
+ 
+- Did anyone mention the CAL licensing? I believe Windows Server and Exchange and
+Terminal Services usually operate under that scheme, and it means you have to send
+around $100 to Microsoft every time you hire a new person (even if they're using a Mac).
+But you can recycle these CAL licenses if you've had layoffs, until you finally breach your
+previous high water mark for number-of-staff. I wonder how much CAL recycling has hurt
+Microsoft. 
+ 
+- Does Microsoft hit companies much with license audits? If so, how many eventually
+decide to ditch Microsoft altogether after a bad experience? I suspect a license audit is a
+huge pain in the ass and a noticeable waste of internal money even for a 110% compliant
+company (e.g., one that is over-paying Microsoft and accidentally buying more licenses
+than it really needs). 
+ 
+ 
+- How is Microsoft SQL Server doing these days, now that PostgreSQL, SQLite, MySQL
+and NoSQL are so hip? But probably SQL Server was never that important to Microsoft? 
+ 
+- At the bank where I used to work everyone gets a new computer every 3 years. And
+these days everyone requests either a big 27" iMac, or a Mac Book Pro. 
+ 
+- My hat is still off to Microsoft. I have never enjoyed email/calendaring as much as I did
+with them (Outlook/Exchange). 
+ 
+ 
+(My take on Java: it's not that it runs on everything. It's that there was *nothing else* that
+could run on Linux/Unix! Java saved Linux, not the other way. Banks would not have
+switched to Linux on their servers if Java wasn't there.)
+
+
+July 27, 2012 at 8:08 AM
+
+
+Anonymous said...
+
+
+You think the old guy baffled by Windows 8 is bad, you should see me try to use my own
+Android smartphone or my Mom's iPad... I can barely figure out how to minimize the
+screens and every foray into new functionality basically involves me smashing and
+clicking things at random - so it seems to MSFT has simply caught up to its peers :-)
+
+
+July 27, 2012 at 8:13 AM
+
+
+John Hempton said...
+
+
+Of course the price paid matters. 
+ 
+Microsoft used to be priced at 50 times earnings and it did ferociously well over the next
+decade - and the stock did not. 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343337974199#c7646739972250303577
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343339107855#c9171384931949165242
+
+https://www.blogger.com/profile/01207770466454843265
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343340502156#c6638581859408770519
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343340813770#c2202446024911620804
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/01207770466454843265
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 20/35
+
+
+ 
+It now looks really cheap (which was why I owned it). The franchise was damaged - very
+damaged - but also potentially very long lived whilst damaged (see Azure for instance as
+the obvious extension). 
+ 
+I believed they would and could extend the franchise for another 15 plus years in which
+case the stock is a buy. 
+ 
+I am not so sure any more. But whilst I am short lets put this in perspective - at peak I
+was long about 6 percent of the fund in this.  
+ 
+I am now short about 30bps. 
+ 
+My long position was 20 times larger than my short position.  
+ 
+I once really cared about this company.  
+ 
+I do not care any more.  
+ 
+I don't use their products and I do not much care about their stock. 
+ 
+John
+
+
+July 27, 2012 at 8:37 AM
+
+
+Entsophy said...
+
+
+I had never used Linux before Ubuntu 12.04 and never heard of the unity controversy. 
+ 
+12.04 took about 30 seconds to learn on a desktop and I love it. It's a real pleasure to
+use. 
+ 
+It makes me wonder what else you got wrong.
+
+
+July 27, 2012 at 8:45 AM
+
+
+John Hempton said...
+
+
+The really painful glitches were removed in 12.04.  
+ 
+But I had a massively personalized computer before - and none of that works in any way
+that makes me happy. 
+ 
+Old dog. New tricks. Worse THE OLD TRICKS DO NOT WORK. 
+ 
+Wound up doing huge amounts in terminal for a while.  
+ 
+John
+
+
+July 27, 2012 at 9:54 AM
+
+
+Anonymous said...
+
+
+Really interesting. 
+ 
+My take is that Microsoft recognizes that there are no competitors to their desktop/laptop
+monopoly and so is using, and risking, that monopoly in order to (a) build familiarity with
+touch-optimised Metro and (b) force developers to build a critical mass of touch-optimised
+Metro apps. Both (a) and (b) should result in W8/WRT getting solid tablet market share.
+All of the above will drive phone market share.  
+ 
+It is brilliant. They are using their monopoly to force consumers and developers onto their
+tablet and phone OSs. The only risk that they are taking is that people don't update
+desktops/laptops to W8 or don't like the Metro/desktop design). Since there is no viable
+alternative, Microsoft thinks this is a bet it has to take.  
+ 
+I think they will be successful. Windows will keep its 90% market share on
+desktops/laptops. And MS will gain a solid market share in tablets and phones. 
+ 
+But I think you are right in that long-term, Apple products and Android and more
+importantly powerful web browsers mean that applications will be written in cross-platform
+code that is easily ported. Moreover, a lot of new enterprise applications will be written for
+iOS only because iOS dominates the enterprise right now in tablets and phones.
+Generally, this environment is much more chaotic, with many more devices and OSs, and
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343342267930#c8058056317975473094
+
+http://www.entsophy.net/blog/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343342744845#c6820032647876736287
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343346899383#c7188305319902384797
+
+http://www.entsophy.net/blog/
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 21/35
+
+
+I think the result will increasingly be that applications will be web-based and written in
+HTML5, etc. It will take many years, but the MS monopoly on the OS will not be able to
+survive this. 
+ 
+In the future I would also not count out Chrome OS. The advances in browsers in the last
+few years have been amazing. A few more years at the current pace and browsers will be
+incredibly powerful. If Google in the next couple of years built a solid $200 or under
+Chrome OS laptop with 16gb of flash storage and an ARM processor, I think this would
+sell well all over the world.
+
+
+July 27, 2012 at 10:24 AM
+
+
+Anonymous said...
+
+
+I can understand your decision to sell regarding the business although even that seems
+50/50 based on the comments here but is Microsoft really a short? You couldn't find
+another stock to short before this one? 
+ 
+Financially secure with over 1 year of expenses just sitting as cash in the bank and
+royalty type revenue streams and not selling for a high multiple of earnings. Not one I
+would want to short regardless of how little I thought of the business, it's products or
+managers.
+
+
+July 27, 2012 at 10:31 AM
+
+
+Anonymous said...
+
+
+Good God - what complete nonsense! I was an engineer at MSFT 1989-2000 and (full
+disclosure) do not currently hold any MSFT shares. It's not because of Windows 8; I'm
+just more interested in macro stock market work these days. 
+ 
+But the misunderstandings you have, both about history ("in the late 1990s Windows
+developed huge market power"?) and about how software is written ("People developed
+software to run on Microsoft using Microsoft developer tools"?) are simply too profound to
+make it worth further engagement. I stopped reading when I hit the line "the Microsoft
+virtuous circle is now dead" - I remember reading the same sentence verbatim in an
+article by Montieth Illingsworth in...1991? 1992? I took it seriously at the time, but since
+then I've learned my lessons.
+
+
+July 27, 2012 at 10:31 AM
+
+
+michael said...
+
+
+I too first had windows on a Gateway. Microsoft has never truly invented anything, but yet
+had a monopoly and earned money on every p.c. sold, but the world is changing to
+devices Microsoft has yet to demonstrate any competitive advantage on. I too also owned
+Microsoft for several years on the basis of cheap valuation, monopoly position and new
+cycles of Windows. With all these cycles the earnings explosion never came while it's
+position weakened. Eventually I sold my shares about two years ago and made more
+money elsewhere. For Microsoft to be a good investment it would need to adopt Big
+Tobacco's business model, which means pay out profits and only invest sufficiently to
+keep existing businesses going. All those new ventures Microsoft has dreamt up and
+inested in have not been the home run that windows and office were and will never be as
+such. It's time to get out of Microsoft and maybe sell it short.
+
+
+July 27, 2012 at 10:34 AM
+
+
+Conscience of a Conservative said...
+
+
+I too owned Microsoft. They refuse to acknowledge that they need to adopt Tobacco's
+business model which is to wind down and pay out profits only investing enough to
+maintain the franchise. Each successive version of Windows has proved less profitable
+than the last while alternative platforms grab more market share (phones, tablets, pads,
+etc). And like G.M. they invest in new businesses only to see those investments not
+deliver the profits their old busineses once did.
+
+
+July 27, 2012 at 10:37 AM
+
+
+AAA said...
+
+
+"I am now short about 30bps." 
+ 
+So what's the point?
+
+
+July 27, 2012 at 11:22 AM
+
+
+狂猪 said...
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343348650163#c3935197064518722931
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343349062763#c603511879448284080
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343349063963#c7741738779251579482
+
+https://www.blogger.com/profile/01601414951582020263
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343349241574#c2995196823216333891
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343349459154#c3799899224814904809
+
+https://www.blogger.com/profile/07900026562314507453
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343352143614#c5801553713055960040
+
+https://www.blogger.com/profile/16599529315620633684
+
+https://www.blogger.com/profile/01601414951582020263
+
+https://www.blogger.com/profile/07900026562314507453
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 22/35
+
+
+I've been a software engineer since the early 90s. From an application development
+perspective, what changed the game for MS (and the world) was not Java (not even
+close). 
+ 
+It was the web. 
+ 
+The networking protocol is the same everywhere. The user interface is handled by the
+web browser which supported a common html standard. The actual end user computer
+became irrelevant. As a software engineer, we didn't have to learn the programming APIs
+for the PC, the Mac, the Linux boxes or the phone in our pocket. We write the app on a
+web server and the app immediately works everywhere that has a web browser. Now this
+is development efficiency! 
+ 
+Why did Unix variances won the server war? First, back in the mid 90s when the web
+took off, Windows wasn't even close to the robustness and scalability of Unix; simply no
+contest. Second, the software application programming interface (api) from MS was
+terrible. The api I loved to hate was the MS OLE interface. It even had an interface with
+an existential crisis call IUnknown at the core! The third reason is Unix has much better
+tools for web app development. The open source movement had Darwinism baked in and
+the best raise to the top. Simply put, it was the engineers from MS competing against all
+the open source engineers from the whole world on who can build better tools. The
+difference in intellectual fire power and resources were completely lopsided. 
+ 
+On a side note, because of the technical short coming and cost of the mobile network,
+native apps still holds an advantage to web apps on a mobile device. Engineers have to
+learn how to program the iphone, android phone, etc. This will come to pass in a few
+years. This is the HTML5 vs. native app debate. 
+ 
+As for Java, it is just one tool. It was over-hyped and has under delivered in many area
+(marketing's fault). Any particular programming language is never that important. It is the
+environment, the ecosystem that matters.
+
+
+July 27, 2012 at 11:29 AM
+
+
+Anonymous said...
+
+
+A couple of points where I disagree John: 
+ 
+- Windows 8 is bad on desktops. This is an opinion that seems most popular with people
+who haven't tried the previews. If approached with the perspective that only the start
+menu has been replaced and all the desktop apps and functionality are still available then
+it makes the transition pretty smooth. My dad appreciated the speed and simplicity
+improvements coming from WinXP (that was just a shirt term experiment for the fun of it).
+And yeah that video you linked to is a recognised groaner. 
+ 
+- .Net isn't used by the young folk. It was a strong element of my Computer Systems
+Engineering degree a few years ago (along with Java and lots of C++ and embedded C),
+I have seen it in every place I've worked at since (not always exclusively). A good friend
+is a front office developer at a leading hedge fund in London (including decent amount of
+young talent) and they continually choose to be a .Net development house largely
+because of speed of development, to quote: "nothing else comes close".  
+ 
+Other points: 
+ 
+- Free office solutions are fine for small houses and simple files, but Office 2010 is the
+leader for any serious spreadsheeting, lengthy report writing, and integrating with other
+systems. 
+ 
+- HyperV is being aggressively developed and pushed by MS, along with Azure,
+SharePoint (and Skydrive at the user level). They aren't standing flat footed when it
+comes to rethinking computing environments and architectures. 
+ 
+- At the enterprise level I agree with other posters that MS has it sown up still. 
+Broadly speaking I think it is mostly low end of their market shares being eroded (eg
+Linux/python and free Office options at small organisations mostly) and for simple or
+narrow scope implementations. Higher up the value chain MS has little competition. 
+ 
+- Sometimes MS products are actually better. My Dad's Lumia 800 has my mother in law
+jealous with her Galaxy S II that "feels clunky and not obvious" alongside. Bing Maps is
+much better for local businesses and for pedestrian directions in Brisbane than Google
+Maps. (Not that I'm giving up Chrome mind you.) 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343352578918#c286727489938602840
+
+https://www.blogger.com/profile/16599529315620633684
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 23/35
+
+
+ 
+- Is their problem more of an image one? Can that even be fixed now? 
+ 
+ 
+Really enjoying this thread,  
+ 
+TimS
+
+
+July 27, 2012 at 11:36 AM
+
+
+Anonymous said...
+
+
+Since I use Unity - daily - and like it very much and think it is a big improvement over
+earlier Gnome desktops, should that lead me to dismiss your evaluation of Windows 8?
+
+
+July 27, 2012 at 12:04 PM
+
+
+Anonymous said...
+
+
+I appreciate the thoughts but I must say these speculations seem like pretty off-base
+reasons to go short MSFT. Sell, sure, whatever, but you're going short because some old
+guy on a video created by a mac enthusiast (check out the text on the screen behind)
+can't get his head out of his ass? That's lunacy. Are people like him going to put down
+money for Apple machines or are they going to take the day or so it takes to get used to
+the new OS? At the end of the day, it will be a disruptive transition but given that they will
+probably substantially cut down on piracy due to the new sales model, I think the bottom
+line isn't about to crater. Disclosure, I'm not long or short MSFT or AAPL, but I am
+recently long NOK, so obviously I have a horse in this race. 
+My 2 cents: you probably should have sold AAPL to go short, instead, THAT would have
+been timely.
+
+
+July 27, 2012 at 12:16 PM
+
+
+狂猪 said...
+
+
+Windows 8 has two different interfaces, a touch interface (metro) and a desktop interface.
+I haven't use it but I did look at youtube videos of it. I think there is a usability hit if
+someone has to switch between the touch interface and the desktop interface. I also think
+it is overstating the case to suggest the usability issue is serious. Also, the desktop
+interface for Windows 8 is an improvement to Windows 7. People who prefer the desktop
+experience will spend a few minute to make the desktop UI the default and that is it. A
+minutes to fix some setting isn't a strong reason to short. 
+ 
+I wouldn't short MSFT. MSFT will not tank quickly in the next 12 months over Windows 8.
+MSFT is a slow grind downward. 
+ 
+MSFT has a much more defensible business then AAPL. This is because AAPL sells
+fashionable hardware. However, when every one has an iphone; it is hardly fashion
+forward. AAPL does have a usability advantage. On the other hand, Android has a cost
+advantage and an eco system advantage. The total resource behind each platform for
+development and marketing is completely lopsided. IPhone and IPad are hardware
+commodities when the fashion changes. When the Apple hardware faulters, there is no
+fallback. Forget about iCloud. 
+ 
+The best part? Given AAPL's $538 billion market cap, it is very difficult to come up with an
+idea big enough to make a difference. 
+ 
+On the other hand, MS Windows and Office aren't going anywhere for the next 3 years. I
+would consider shorting MSFT only when Google doc or similar service takes off in the
+corporate env (there is some traction now). I am skeptical of Google doc (my company
+uses it and I like it a lot). There is a powerful counter argument to google doc: certain
+information are best kept in house. This view may require a generational change to
+dislodge.
+
+
+July 27, 2012 at 12:25 PM
+
+
+John said...
+
+
+Have you considered this possible game plan MSFT has: 
+ 
+- Win8's priority is tablet/pad, mainly consumer oriented.  
+ 
+- Corporates upgrade cycle is always slower than consumers. When XP support
+discontinues, they will upgrade to Win7 regardless Win8 is brilliant or not, because
+corporates will never upgrade to an unproven OS (considered that Win7 consists of only
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343352965902#c1782924513897166548
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343354650974#c162204400816536340
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343355398446#c4314407727043533855
+
+https://www.blogger.com/profile/16599529315620633684
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343355912289#c1732763825722445234
+
+https://www.blogger.com/profile/14682393043392310140
+
+https://www.blogger.com/profile/16599529315620633684
+
+https://www.blogger.com/profile/14682393043392310140
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 24/35
+
+
+50% of the Windows installment basis). 
+ 
+- In the meantime, fix Win8 in Win9 for corporate users.
+
+
+July 27, 2012 at 12:43 PM
+
+
+Anonymous said...
+
+
+66 comments. Many of which demonstrate fare more intelligence and technical
+knowledge then me.  
+ 
+I only know this: pads are wonderful for those who do not use computers for much
+beyond Facebook, surfing the web, email, and light gaming. My grandmother is a perfect
+candidate.  
+ 
+Who will write a 120 page paper on one though? Tablets compete with smartphones but
+neither compete with desktops. They are grown up Gameboys.  
+ 
+MS is a unregulated pipeline. It sells a commodity which is a vital feedstock for productive
+work. It will remain profitable long term selling that product, although its market will shrink
+slightly over time. 
+ 
+It may even be more profitable once the casual users leave. Those that remain will want
+what MS delivers: a highly functional product that modestly technical people can use.
+Until kids in school no longer use Windows it will be the only OS that fits that. Compared
+to the cost of retraining and dealing with bother of moving platforms, Windows will seem
+very cheap.  
+ 
+It's a pipeline that throws off cash that MS can invest. Shorting it is betting they cannot
+invest that cash well. Perhaps a reasonable bet. But there's little upside relative to the
+downside. Mostly it seems to be going nowhere fast. Which makes me wonder why not
+look for a better use of capital?
+
+
+July 27, 2012 at 12:48 PM
+
+
+Anonymous said...
+
+
+The next "format war" will be Chrome OS/Google Fiber/Android v. Apple iOS/iCloud +
+incumbent telcos. 
+ 
+Microsoft is going to be left without a dance partner unless it starts hooking up the the
+telcos before Apple does.
+
+
+July 27, 2012 at 1:05 PM
+
+
+Anonymous said...
+
+
+"And it will be a failure because Microsoft, not for the first time, have lost their view of real
+users." 
+ 
+Should be, And it will be a failure because Microsoft, not for the first time, HAS lost ITS
+view of real users.
+
+
+July 27, 2012 at 1:55 PM
+
+
+Michael Bond said...
+
+
+"Nowadays nobody under thirty writes anything on Microsoft developer tools unless they
+are demented or brain-dead." 
+ 
+Frankly, I find this commment abrasive and uninformed. 
+ 
+When I was finishing high school (and later starting college courses) they were still
+teaching VB and VB.Net. There just wasn't an available course in Java, or C / C++, or
+Python. 
+ 
+If I wanted to learn platform agnostic development, I was going to have to find it on my
+own.
+
+
+July 27, 2012 at 2:57 PM
+
+
+Anonymous said...
+
+
+Interesting analysis. One thing that it is clear that ms and indeed most of the commenters
+here don't understand is that it is not about touch vs mouse or pad vs notebook or cloud
+vs desktop. It is about creating a layer that clarifies the abstract notions of how an
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343357031126#c5906222933650312417
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343357296074#c1725891197178841085
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343358358723#c5211306944100642309
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343361303021#c5969790967908388433
+
+https://www.blogger.com/profile/12691450259993984468
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343365042554#c7271778880375067236
+
+https://www.blogger.com/profile/12691450259993984468
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 25/35
+
+
+applications content is consumed and how it is created. *This* is the innovation that ms
+needed to deliver with win8 in order to regain relevance. Instead, we get some kludgey
+hack of an o/s. Unfortunately, such outcomes are rather typical of Microsoft.
+
+
+July 27, 2012 at 3:02 PM
+
+
+peter said...
+
+
+although i'm a die hard linux user and use it as my main work plataform, i have to agree
+with you, specially the first part. there's a lot of people still developing with MS tools, and
+calling these very talented people demented or brain-dead is just wrong and sad. 
+ 
+there's a lot MS can do in the next few years and Win8 isn't just Metro. there are many
+valuable OS features inside. 
+ 
+with all that being said, i still wish a quick death to MS ;)
+
+
+July 27, 2012 at 3:06 PM
+
+
+martinp said...
+
+
+I am posting this from a Windows 8 tablet and I am a fan. An iPad or Android tablet could
+never cut it as they don't run the software I need to be productive and they don't have the
+necessary fire power - nor the flexibility with external devices. 
+ 
+The desktop functions pretty much as any Windows XP or 2007 user would expect but
+quicker. And the tablet-style interface allows multi-tasking well beyond iOS. Right now I
+have a twitter feed on one third of my screen and a browser on the other 2/3. I can with a
+flick share or email this page while these apps both remain open.  
+ 
+For any commercial user Win8 is the only tablet offering that makes sense. For the
+lounge iOS is the easy option.
+
+
+July 27, 2012 at 3:17 PM
+
+
+Anonymous said...
+
+
+Charlie@HockeyBias.com: Violent? Did the IDE punch you in the face every time you had
+a syntax error. 
+ 
+Languages do not rust. ObjC is a modern language which gets updates regularly. Just
+because it is different doesn't mean it is bad.
+
+
+July 27, 2012 at 3:44 PM
+
+
+John said...
+
+
+More thoughts.  
+ 
+Deconstructing your analysis: 
+ 
+MSFT has moats to collect rents. It has staying power which will deteriorate slowly if no
+new product arrives. You think if MSFT got the next version of Windows right, with the
+ability to bridge tablet and desktop properly, it has a good chance to win back a lot of the
+market. But you thinks Win8 is no such product. A flopped Win8 will deteriorate MSFT's
+staying power further. But it still has staying power. It takes times to completely destroy
+MSFT's staying power. In the meantime, MSFT can correct the problems in Win9, Win10,
+etc... 
+ 
+I'm pretty sure you see through this. So, this isn't your objection. I think your objection is,
+if the management is so dysfunctional that it allows such a crap and unusable product to
+get into the market, it is dysfunctional enough that it won't be able to correct itself.
+
+
+July 27, 2012 at 3:55 PM
+
+
+raj said...
+
+
+Although most of your opinions are well-formed, I think this one is not based in fact:
+"Nowadays nobody under thirty writes anything on Microsoft developer tools unless they
+are demented or brain-dead." 
+ 
+Please go to any freelance hiring website (eLance, Odesk, etc) and type ".Net". You will
+get a few thousand young programmer resumes. 
+ 
+As long as businesses use Windows Server, MS Outlook, MS Excel (and Office) there will
+continue to be a strong need for .Net development. 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343365362640#c2979326110038297025
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343365600674#c6330587044987370896
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343366276769#c4591379115886502560
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343367879671#c2842402255208304633
+
+https://www.blogger.com/profile/14682393043392310140
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343368541726#c4032847594019767101
+
+http://www.meramobiles.com/
+
+https://www.blogger.com/profile/14682393043392310140
+
+http://www.meramobiles.com/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 26/35
+
+
+ 
+Calling these programmers demented is a poor judgment (or judgement) call.
+
+
+July 27, 2012 at 3:57 PM
+
+
+Anonymous said...
+
+
+Wow a whole 18 months. What a stud.
+
+
+July 27, 2012 at 4:01 PM
+
+
+Amanda M said...
+
+
+I agree that Apple software is predictable - with every release of OS X to the common
+consumer it looks the same, just they add more things that most won't ever use. I moved
+from my iPhone (having owned every one, and been a very long-time apple user) to the
+lovely Nokia Lumia 900. Before moving to that, I have been dabbling with Win8 Preview
+and have to say it is a great refresh from the normal system. I think it is something my
+parents could pick up on easily (if I hadn't moved them to Mac quite a few years ago). I
+think MS has something great and will take some time for folks to get used to, but I think it
+will go smoother than others think.  
+ 
+I also look at the fact that when the Surface comes out, you can work on your stuff and
+then continue on your W8 desktop in the exact same environment with the same apps.
+No apps that act differently (which Apple has done for their own apps: iWork, iPhoto, etc). 
+ 
+I say give MS a chance. This coming from an avid, happy and loyal Apple user.
+
+
+July 27, 2012 at 4:17 PM
+
+
+uair01 said...
+
+
+Just some loose ends about MS: 
+ 
+1) AFAIK no other platform has the in-built central management functions that Windows
+has. You can manages the settings of millions of computers centrally through Active
+Directory and Group Policies. You can build a decentralized world-wide infrastructure of
+Domain Controlers for decentral login. You can reach any other system on this world-wide
+infrastructure. This is ideal for enterprise use. No other platform has this functionality. 
+ 
+2) Security wise MS Windows is very good and compares well with Linux, Android and
+iOS. MS had many bad security years but they've improved dramatically. 
+ 
+3) With MS Active Directory you get a lot of interesting functionality for free: CA (for
+cryptography), DRM (for data leakage protection), and more. 
+ 
+This still makes MS an ideal infrastructure for serious enterprise use. Of course there are
+possible negative trends: 
+ 
+4) Virtualization and thin-clients remove a lot of Windows desktops from companies. (Still
+a lot of them use old hardware and XP.) 
+ 
+5) Cloud infrastructures remove a lot of servers from companies. 
+ 
+6) All the managers want an iPad and an iPhone. All the large enterprise system builders
+(SAP, Oracle) make their systems available through iPad apps. 
+ 
+Still I hope that MS can make a breakthrough with their tablet and their phone. I hate the
+extremely closed and proprietary infrastructure of Apple. But they also might go the way
+of the BlackBerry. 
+ 
+I assume you've read the financial documents of MS? In contrasts to others (like Cisco)
+they analyze their competition risks quite exhaustively. 
+ 
+And have you looked at the prospects of Cisco versus Huawei? Very interesting trends.
+
+
+July 27, 2012 at 6:38 PM
+
+
+SBTrades said...
+
+
+Do a search on the job boards for the following technologies. "sharepoint", "SAP", "Java",
+"C#", you can see where the demand for the developers are. Sharepoint, silverlight and
+C# still in demand. 
+ 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343368660596#c3930526508698873534
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343368860180#c1328656642464817503
+
+http://manda-moore.me/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343369875006#c5652061991356707731
+
+https://www.blogger.com/profile/14538242264866015155
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343378334994#c9020789225873350085
+
+https://www.blogger.com/profile/05733253279331854250
+
+http://manda-moore.me/
+
+https://www.blogger.com/profile/14538242264866015155
+
+https://www.blogger.com/profile/05733253279331854250
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 27/35
+
+
+Also search for "silverlight and iPad", you can see there is still plenty of demand for
+microsoft products on the iPad. I would love to run TC2000 on my iPad.
+
+
+July 27, 2012 at 7:31 PM
+
+
+uair01 said...
+
+
+I had never expected that your financial blog would stimulate my technical curiosity :-) 
+ 
+But just now I installed Windows 8 in a virtual machine to play with it. The first impression
+is that underneath the interface all things have stayed the same (command line, event
+logs, accounts, settings). There is heavy integration with the cloud (they ask your live-
+account to log into your PC). 
+ 
+But at first sight the interface is a PITA. I had to google how to find the command line and
+how to switch the machine off (!). And I'm not the only one: 
+http://news.cnet.com/8301-10805_3-57389397-75/how-to-uh-turn-windows-8-off/ 
+ 
+On the other hand, once you know the tricks you get used to the new interface very
+quickly. But it certainly will scare the casual users.
+
+
+July 27, 2012 at 10:39 PM
+
+
+Anonymous said...
+
+
+"I am now short about 30bps." 
+ 
+So presumably you are just short a broad basket (S&P or similar), which is implicitly short
+MSFT?
+
+
+July 28, 2012 at 3:52 AM
+
+
+JoshK said...
+
+
+The consipracy theory: 
+ 
+One thing you missed is that MS has a two-old support cycle for their OS's. I think that
+MSFT probably wants to get something out after Win7 to allow them to come out with
+Win9 to be able to force upgrades from their users.
+
+
+July 28, 2012 at 4:09 AM
+
+
+John Douglas said...
+
+
+A great observation regarding alienating enterprise users with Windows 8. That will
+happen. It's a design flaw. 
+ 
+You probably need to bring a concept to market with the alternative technology stacks
+before you can summarily dismiss msft, however, esp. in the enterprise domain. People
+who do this daily dismiss the wanna-be hip-hop ramblings of speculators as dotcom-think
+version.[N] 
+ 
+The Microsoft top-down model of delivering a technology stack brings the majority of
+developers the tools to be successful. There are edge-cases where abnormally talented
+groups willing to knit community contributions together will succeed, or distinct domains
+(e.g. bio / pharma) that are, ironically, platform-locked outside of MSFT, but survey every
+person and system you interact with for a day, and you'll see that the things you count
+on... run Windows.
+
+
+July 28, 2012 at 5:43 AM
+
+
+Anonymous said...
+
+
+"do I click the fish? no, that didn't do it" 
+ 
+Classic. 
+ 
+I remember people joking about Windows 98 when it came out, saying it should have
+been called "Windows 95.1". 
+ 
+Then they put out Windows ME (Mistake Edition), which was a colossal disaster. 
+ 
+Windows XP was a big hit, but it was launched in 2001. So it has now been 11 years
+since they have put out a worthwhile operating system that offered anything new. 
+ 
+There are plenty of stories online about people "downgrading" from Vista or Windows 7
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343381495709#c2057896758042372196
+
+https://www.blogger.com/profile/14538242264866015155
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343392797597#c6100680800602940580
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343411572978#c303139313344907988
+
+https://www.blogger.com/profile/17028441526311718240
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343412595900#c314413444822388592
+
+https://www.blogger.com/profile/09998305919026169164
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343418195015#c5729010947521639648
+
+https://www.blogger.com/profile/14538242264866015155
+
+https://www.blogger.com/profile/17028441526311718240
+
+https://www.blogger.com/profile/09998305919026169164
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 28/35
+
+
+back to XP. People are probably still doing this. 
+ 
+No one is excited about Windows 8. Everyone knows it will still have the same
+vulnerabilities that Windows has always had. 
+ 
+It's time to move on. As soon as people realize that they don't need Windows, it will all be
+over.
+
+
+July 28, 2012 at 9:26 AM
+
+
+Anonymous said...
+
+
+MSFT's customer captivity is incredible and it's still combined with economies of scale.
+Not only do they have tons of applications built on their products, they have pretty much
+every business document (contract, spreadsheet,etc) ever created is a MSFT document.
+The switching costs are enormous.  
+ 
+It might not be a long because the operating leverage cuts both ways, but at 10ish times
+EBIT aggressively repurchasing stock, I don't see it as a short.
+
+
+July 28, 2012 at 11:50 AM
+
+
+Anonymous said...
+
+
+I'm a developer, and I'm favorably impressed by Windows 8 and recent moves by
+Microsoft. I would correct one thing from the blog post, and another thing I read in the
+comment thread. 
+ 
+In the original blog post, it sounds like there are thoughts of (a.) a disconnected pad; and
+then sometimes (b.) docking it in order to have a full desktop experience with cloud
+connection. Windows 8 is spanning the whole gamut of use cases, but tablet devices are
+occasionally (and often) connected devices - which means, they can communicate and
+do I/O with the cloud almost any time, no docking necessary. In fact, why be stuck on the
+idea of docking? In an earlier generation of devices, it made sense to have a docking
+station; but now, not so much. Laptops have shown us that full computing power fits into
+their small form factor; I don't use a docking station with my laptop; I simply plug in
+external drives, keyboard, mouse, and printer. 
+ 
+There's no real advantage to any docking station, that's why it doesn't exist. The cloud is
+equally available for any device with an internet connection. (Sure, there are faster and
+slower connections, but that's life.) 
+ 
+So, Windows 8 will let the full horsepower of Windows go everywhere with its users on
+tablets. To keep with my labels above, that means full horsepower in scenario (a.)
+although as explained, scenario (a.) is different than the blog post seems to envision in
+that it is both mobile AND connected. Because the connection is present, scenario (b.) is
+obviated. 
+ 
+As for how to locate and find that horsepower, another commenter already said it: You
+click "desktop." Once you do that, you're there at a familiar old Windows experience. 
+ 
+I really don't think that Microsoft is laying an egg. In fact, for the younger generation, it's
+bringing out the digital equivalent of fresh new threads. Windows hasn't had a bigger sea
+change since the release of Windows 95. 
+ 
+Okay, a commenter groused of MS, "alternative platforms grab more market share
+(phones, tablets, pads, etc)" like this is the problem. Wrong, this is the opportunity. Most
+on this thread acknowledge that MS has a lock in the enterprise space. So, with nothing
+to lose, Win8 is now the OS that allows MS to gain share in tablets and phones. They'll
+keep their desktop/laptop dominance, and they'll begin reaching into the tablet and phone
+space. 
+ 
+To get them from point A to B, they need Win8 to be the cat's meow; that's a tall order, but
+as a developer who runs the Win8 beta (and researches the developer story), I can say -
+they're actually doing it. And as for developer tools, Win8's "Metro" style apps can be
+written either with XAML/.NET (established MS tools) or with HTML5 and JavaScript. 
+ 
+They've improved the developer story by announcing Windows Phone 8, which will allow
+the reuse of code between projects for Win8 and WP8. It also empowers developers to
+write VOIP applications. 
+ 
+And, the Microsoft acquisition of Skype is still something that I expect will lead to more
+nifty developer tools to come. 
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343431591574#c6192763326180734756
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343440202586#c3465412254718951740
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 29/35
+
+
+ 
+It's a nifty time to be a developer....With all of that being said, I hold no position vis-a-vis
+MS shares at all. I'm fully in bullion, expecting the financial system to collapse.
+
+
+July 28, 2012 at 3:21 PM
+
+
+Anonymous said...
+
+
+RE " Whilst not strictly a monopoly the company had plenty of monopoly characteristics":
+a reminder that Microsoft was _convicted_ of illegal monopoly practices - is there no
+memory any more?
+
+
+July 29, 2012 at 9:41 PM
+
+
+Akipekka said...
+
+
+A wrote a small blog post on the subject. I think John jumped the gun and sold his shares
+at absolutely wrong time.
+
+
+July 29, 2012 at 11:37 PM
+
+
+Wexboy said...
+
+
+John - think that's bad, look at this video (Why Windows 8 Scares Me):  
+ 
+http://www.youtube.com/watch?v=qIMuJTrxuhQ 
+ 
+Despite my wife being a Mac user, I've never dreamed of leaving Windows before.
+Watching this terrifies me though - I use my laptop for 'real' work, if Microsoft want to turn
+it into some idiot apps smartphone/boob-tube, I think it may be time to say good-bye!
+
+
+July 30, 2012 at 12:19 AM
+
+
+Sean Mcardle said...
+
+
+To say that MS is on their way out in the consumer space is getting a little ahead of
+yourself. That said, in the Win 8 world, power users probably wont feel at home, I sure
+don't. That said I've been a Linux user for 6 years and also enjoy Windows 7 (it really is a
+nice release), and also write software at work primarily in .Net. MS commitment to
+attracting devs by making the platform developer friendly has really paid off, the tooling in
+VS especially with C#/.Net is really nice. However, if you are strict about keeping your UX
+code isolated, porting a 10K+ line app to Mono takes hours (took me 4 hrs from
+.Net/Xaml to Gtk#).  
+ 
+So if Windows developers aren't as locked in as they used to be, MS really is riding out
+the mind share they've acquired over the years. Their web dev strategy isn't that great.
+Don't get me wrong, ASP.Net is an easy platform to develop for from a desktop dev
+perspective, but if you are a dev who only drinks the MS kool-aid, you aren't going to be
+taking advantage of everything the web has to offer until the tooling is in VS, and for
+Javascript it's just not there. There's not a whole lot to entice existing web devs to jump
+on the ASP.Net bandwagon. Honestly the best tools I've found to apply web skills to a
+desktop platform comes in QT QML/Javascript.  
+ 
+So if they are playing catch up on the web and their handhelds just aren't selling, that
+does just leave business users, the are the largest consumers of Office, and are sure to
+be the largest users of Azure (it's interesting to note, Apple's homepage is ASP.NET and
+Siri's infrastructure runs on Azure). On the consumer side, I see more and more people
+using gDocs and LibreOffice is more that sufficient for anything that doesn't "require"
+VBA. MS as a corporation is a large lumbering beast, there are too many people in their
+executive chain who are lifetime MS people to change that. IBM has always been a
+business focused company and I see MS just becoming the next "Big Blue". The XBox is
+their last best contender for gaining market share in the consumer space and that's
+largely to do with the fact that PS3 and Wii dev tools SUCK! It's far easier for an
+independent developer to build an app for XBox than the other consoles, but MS still
+doesn't know what drives the gaming community, that as proven loud and clear when they
+trot Usher onto the stage at E2 2012.  
+ 
+I think the issue really is that Apple is better at guessing what will click with consumers
+and converging the desktop and mobile experience is the one thing they haven't done
+yet. I can just imaging how the Win 8 project started "We're gonna do this like they do in
+Cupertino, lets hire a bunch of designers to make something shiny and people will camp
+out at Best Buy to get their hands on it", that's why Win 8 is actually two operating
+systems Metro and Win 7 (if you don't think Metro is it's own OS, it has it's own set of
+core libraries, it's own resource sandbox, totally portable, it's an OS). They missed the
+mark and I don't think they'll make it back to the consumer space until at least Win 9 but
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343452880757#c2861281997567355299
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343562119459#c3351571950702214929
+
+https://www.blogger.com/profile/12115111673199945193
+
+http://smoothlyonmicrosoft.com/2012/07/29/should-you-get-rid-of-your-microsoft-shares-right-now/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343569046325#c4739609866068377913
+
+http://wexboy.wordpress.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343571555876#c6316015788890879765
+
+https://www.blogger.com/profile/12696258651293678569
+
+https://www.blogger.com/profile/12115111673199945193
+
+http://wexboy.wordpress.com/
+
+https://www.blogger.com/profile/12696258651293678569
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 30/35
+
+
+who knows, with the rate of change we're seeing in the mobile and web space, they may
+never really catch up.
+
+
+July 30, 2012 at 1:40 AM
+
+
+Stefan said...
+
+
+Thanks for that article and also thanks to the many commenters, who added certainly
+much value to that article. 
+ 
+There is one small thing I want to add: 
+ 
+I am working at a small company specialized in simulation software. Our software is
+available for windows only. And it will never be available as a cloud-based service you
+can access with your browser. That will not be possible, mainly due to performance
+reasons. And I doubt, that it will ever be available for another operating system within the
+next decades. 
+ 
+And I don't think we are the only example, were this is the case. Especially in the
+business world, there is no alternative to windows and I am sure this will remain true for a
+long time. 
+ 
+The PC is not dead and will never be. And the same with windows. It is true, that growth
+is slowing down and PCs are replaced by Pads in some areas. And nobody can be sure,
+if Microsoft will ever play an important role there. But that does not mean, Microsoft is
+dead. 
+ 
+I am convinced, that Microsoft stock is cheap, and it is one of my largest investments. It is
+true, that past growth rates are very likely not achievable in the future for microsoft. But
+even with zero growth, the current share price is not expensive at all.
+
+
+July 30, 2012 at 5:26 AM
+
+
+christine said...
+
+
+Microsoft has really helped the world become what it is today. The technology of today
+just proves that more and more developments could also come in the future.
+
+
+July 30, 2012 at 6:28 PM
+
+
+Anonymous said...
+
+
+I'm one of those dinosaurs you mention, I'm 39 and I write in C. I'm a hardcore software
+engineer. I work on ultra-high performance code and exotic data structures. 
+ 
+I use Windows at home and so use the MS development tools. Problem for me is MS
+froze C support. There have been two revisions of the standard since 1991 and MS
+hasn't implemented support. I'm now thinking I need to move to Linux to keep using my
+language. 
+ 
+C on Windows is a niche, though; compiled-language developers use C++, which MS
+supports. 
+ 
+I concur these days much development occurs in Java/Python/other languages which do
+not use MS development tools. 
+ 
+I've seen and read a bit about Windows 8. I'm not going to buy it or use it, as it is. The
+user interface is impossible, inconceivable. I would have to move to Linux, rather than
+use Windows 8 (but for now, of course, I just keep using Windows 7). 
+ 
+(In fact, relating to this, I used Windows 2000 until I upgraded to Windows 7). 
+ 
+Most end users still use Windows, on their PC/laptop. Most end users now use
+Apple/Android on their phones. More and more apps are now web-based, which does not
+require Windows. 
+ 
+I see MS as a natural monopoly which is dissolving due to technological change, which
+they (in theory) could have mastered and implemented themselves, but did not. 
+ 
+(Blank Xavier)
+
+
+July 31, 2012 at 5:38 AM
+
+
+Martin Gercsak said...
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343576454289#c2635389734148337881
+
+http://simple-value-investing.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343589970105#c1073292726566862129
+
+http://www.coghlincompanies.com/cogmedix.php
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343636935661#c3833688365211673081
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343677087762#c3801869305950654311
+
+https://www.blogger.com/profile/05032543785284627558
+
+http://simple-value-investing.com/
+
+http://www.coghlincompanies.com/cogmedix.php
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 31/35
+
+
+It's beyond me why anyone would own Microsoft shares. Forget about growth prospects
+and look at the capital allocation. They wasted billions and billions on upgrades that didn't
+change much since WinXP. Not to mention Bing, MSN, Zune (remember that?) A
+hopeless company that is just running after it's competitors. And what's their dividend
+yield? Hardly 2%. They should have given all this wasted money to shareholders. Then
+they would probably have a 10% dividend. If you are a shareholder there you are just
+financing Balmer's idiosyncrasies.
+
+
+August 2, 2012 at 10:35 AM
+
+
+The PM said...
+
+
+Unfortunately I have to disagree. 
+ 
+While you may make a good point, the devil is always in the details. What you are
+referring to is the general development of software platforms using Microsoft tools. 
+ 
+Have a look at their Server & Tools category. Their cloud service (Azure) has had a lot of
+very very positive writeups including being superior to Amazon's service. SQL server
+continues to increase market share. This is outpacing software revenues of say Oracle.
+The proof is in the pudding. Visual Studio is also within this business revenue category.
+All these tools are all used by the developers you refer to! 
+ 
+Windows market share erosion is relatively negligible. Business division continues to tick
+along. 
+ 
+The online services / gaming divisions are just hanging around not really contributing
+much profit/loss. 
+ 
+At the moment, there is no evidence that MSFT is having issues. 
+ 
+Your argument could be that - qualitatively, you are detecting trends which may flow down
+to the entire business say 5 years down the line. My point is that if you look at their Server
+& Tools division, it answers your concerns - it is still solidly chugging along. 
+ 
+Don't forget that also, the company is obviously not expensively valued. It is actually a
+diversified software business (ie will provide industry growth + alpha, if any) and not a 3
+product business (eg AAPL). It has heaps of optionality (eg on Android via licensing fees,
+mobile platform penetration which is basically only upside for MSFT, online services and
+games). 
+ 
+I used to be a developer myself in my younger days (and still do some, but terrible at it
+now). I can tell you the new generation of Microsoft development tools continue to be
+good, if not the best. Definitely within any one's mandate to consider its services and
+software.  
+ 
+This is a company people love to hate, but I also recognise that an amazingly large
+amount of exceptional individuals are recruited by Microsoft and continue to do so. Some
+of the smartest people I knew at university work at Microsoft and have done so for years.
+Yes, it screwed up around Vista but every company screws up. What else did it screw up?
+Sure maybe it missed the boat on smart phones and tablets, but this is not screwing up -
+it is still executing its core franchies strongly. When people wave their arms and
+generically say Microsoft has a lot of cultural issues and that MSFT always stuffs things
+up - I fail to see proper evidence of this. 
+ 
+I don't think this stock can double any time soon, but it can safely deliver outperformance. 
+ 
+I'm long and believe it's a decent for the medium and possibly long term.
+
+
+August 2, 2012 at 3:42 PM
+
+
+Martin Gercsak said...
+
+
+Regarding Apple and no USB3 support on the Mac Pro: 
+1. If you are a professional you would use Firewire.  
+2. I guess they did a survey among their users and figured there was not much demand
+for USB 3 (perhaps because everyone was using Firewire). So instead of wasting millions
+on a feature that was not required they decided to invest it in more productive areas. 
+ 
+Just for reference, I have a 6 years old HDTV tuner that transfers HDTV just fine on USB
+2.
+
+
+August 2, 2012 at 4:26 PM
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343867703612#c5096115488773937387
+
+http://bearmarketblues.blogspot.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343886141938#c6992500653986925690
+
+https://www.blogger.com/profile/05032543785284627558
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343888764504#c392214191090347395
+
+https://www.blogger.com/profile/05032543785284627558
+
+http://bearmarketblues.blogspot.com/
+
+https://www.blogger.com/profile/05032543785284627558
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 32/35
+
+
+Martin Gercsak said...
+
+
+This is a $25,000 camera and still doesn't have USB 3.
+http://www.bhphotovideo.com/c/product/676192-
+REG/Panasonic_AJ_HPX2000_AJ_HPX2000_2_3_3CCD_P2.html 
+ 
+It's pretty obvious the market doesn't think usb 3 is particularly important and it is just
+investing in over capacity.
+
+
+August 2, 2012 at 4:33 PM
+
+
+Anonymous said...
+
+
+Here is a link to an article which might be of interest:  
+ 
+http://mobileopportunity.blogspot.com.au/2012/05/fear-and-loathing-and-windows-8.html 
+ 
+The author, Mike Mace, is a tech guy (ex Apple, Palm, etc) who tries to analyse what it all
+means from a business stategy perspective. I expect he can predict the future as well as
+anybody (ie, not at all) but his views are always interesting.
+
+
+August 2, 2012 at 9:09 PM
+
+
+Stefan said...
+
+
+Martin Gercsak said... 
+ 
+And what's their dividend yield? Hardly 2%. They should have given all this wasted
+money to shareholders. Then they would probably have a 10% dividend. If you are a
+shareholder there you are just financing Balmer's idiosyncrasies. 
+ 
+Looking at Microsoft's dividend yield is highly misleading. They buy back shares
+agressively, so they return most of their earnings back to shareholders. Share Buybacks
+are even better for a long-term holder because of tax benefits.
+
+
+August 3, 2012 at 2:50 AM
+
+
+Eric Titus said...
+
+
+While microsoft is certainly facing a lot of issues, it has its lead in the enterprise to fall
+back on. Office and legacy software are a big reason why, but I think sharepoint has a
+good deal of potential. Having looked into it for a previous company, it may be the top
+collaboration program out there and integrates pretty well with their other software. If I
+were microsoft, I'd spend much more time teaching businesses about how to use it. 
+ 
+On the downside, Apple now has a hardware lead, a usability lead, and a money lead,
+and I just don't see any vendor matching the iPad's hardware at its price point. And I don't
+see anything Microsoft has in the pipeline is going to be gamechanger. You can already
+put a keyboard on an iPad, and Apple is already pretty good at integrating between
+devices. 
+ 
+But I think microsoft has a huge culture problem: it focuses on usability and providing
+options, apple emphasizes design. If you walk into an apple store after any other
+electronics store, you will have a pretty good idea why apple is doing so well, and what
+microsoft needs to work on. And microsoft's seattle bubble certainly doesn't help--I
+recently visited some friends in Seattle who seemed far more enthusiastic about
+microsoft's pipeline than was actually merited.
+
+
+August 3, 2012 at 6:15 AM
+
+
+Anonymous said...
+
+
+You are very biased and have no clue what you're talking about. For example:
+"Nowadays nobody under thirty writes anything on Microsoft developer tools unless they
+are demented or brain-dead." 
+ 
+SpaceX (ever heard of them?) has an average age of 32 and they code all their software
+in C#..
+
+
+August 4, 2012 at 10:15 AM
+
+
+Hank said...
+
+
+How quickly can they bring Windows 9 out?
+
+
+August 7, 2012 at 7:25 AM
+
+
+
+https://www.blogger.com/profile/05032543785284627558
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343889236465#c1782513574985383636
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343905776887#c917890712526699923
+
+http://simple-value-investing.de/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343926235042#c2264327838310266309
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1343938512940#c9212194368608170689
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1344039348849#c3575822246811990689
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1344288358205#c3645473364036691604
+
+https://www.blogger.com/profile/05032543785284627558
+
+http://simple-value-investing.de/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 33/35
+
+
+GlennC said...
+
+
+1- I think cloud computing is overhyped to some degree. Firstly, cloud computing has
+been around for a long time. 
+ 
+Secondly, there are just some programs that don't work too well in a cloud format. Google
+Docs is not as good as Microsoft Office, and Adobe's online version of Photoshop is
+awful. 
+ 
+2- Programs that push the limits of what a PC can do (e.g. video editing, games) will likely
+stay on the desktop and give Microsoft an edge. The companies that make video editing
+software are always trying to kill their Mac version. Sometimes it is because Apple
+decides to screw over its partners by not making high-end Mac hardware (which is awful
+for companies that make very high end editing systems). Secondly, Apple doesn't put as
+many resources towards supporting developers. If you wrote a Mac program in 1999, it
+cannot run on a Mac computer today. And it can't easily be ported to Mac either. 
+ 
+3- To add on about the difficulties of developing software for Mac, Adobe made a 64-bit
+version of Photoshop for the PC first. Only in the next version of Photoshop did they
+make the Mac version 64-bit. This is because Photoshop used Carbon for its user
+interface and there is no 64-bit support for Carbon; Adobe had to rewrite its entire user
+interface (!). 
+ 
+Apple is focusing its resources and development efforts on tablet/cell phones. Its
+development tool (Xcode) only supports one programming language (Objective C).
+Whereas Microsoft supports multiple programming languages. 
+ 
+4- I don't think that people will ditch tablets for a notebook/desktop. There's something to
+be said for a wider range of software and a larger screen. I'm not sure I can picture
+somebody owning only a tablet and a smartphone. 
+ 
+Though we may be at the point where many people don't need to upgrade their
+computers. (Then again something new always comes along.)
+
+
+August 12, 2012 at 5:09 PM
+
+
+Anonymous said...
+
+
+Nice article. I'll only make one point: 
+ 
+"Prediction 2: this will accelerate, rather than slow down, the rate at which enterprises
+take their enterprise specific software into platform independent programs" 
+ 
+I think you're 3-4 years behind, it's now moving in the other direction. The rise of the app
+store via iOS and Android is leading to more platform fragmentation rather than less.
+Although the web can provide a decent software environment (at least for geeks), apps
+are far more popular on smartphones. The rush for HTML5 and the problems caused by
+this, such browser incompatabilities (IE anyone!) and the two main bodies involved have
+just parted ways, is only going to increase this fragmentation. 
+ 
+The hilarious irony of all this is that the best tools I've seen for supporting multiple native
+smartphone platforms are based on Microsoft's .NET! (http://xamarin.com/)
+
+
+August 14, 2012 at 4:53 PM
+
+
+Garrett said...
+
+
+If you think teaching an old dog new tricks is challenging, you should try to teach a young
+dog old tricks...  
+ 
+:-)
+
+
+August 29, 2012 at 11:11 PM
+
+
+Mike said...
+
+
+"I am now short about 30bps." 
+ 
+So presumably you are just short a broad basket (S&P or similar), which is implicitly short
+MSFT?
+
+
+October 1, 2012 at 6:09 PM
+
+
+Anonymous said...
+
+
+
+http://glennchan.wordpress.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1344755367159#c7361657426567223128
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1344927211719#c8238627780532164831
+
+http://www.thehrisworld.com/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1346245895196#c5577382319611747043
+
+http://www.spiegelschrank-bad.eu/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1349078989355#c3172461755399514769
+
+http://glennchan.wordpress.com/
+
+http://www.thehrisworld.com/
+
+http://www.spiegelschrank-bad.eu/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 34/35
+
+
+Wow, wow, wow! Absolutely BRILLIANT review of Windows 8. John, write more on it! 
+ 
+My two-cents: 
+ 
+First, I'm a web-app programmer & web developer turned executive. I currently use
+Windows 8 for productivity, graphic design, etc - but ONLY in Windows 7 mode. I never
+use the apps. 
+ 
+Second, TOUCH SCREEN is very different than TOUCH PAD. You have to reach UP and
+hold your arm in the air to use a laptop touch screen. That hurts for 8 hours a day.
+Therefore, I will continue using my mouse. 
+ 
+As for touch pads, I had one of the very first ones made, back in the mid 90's. They're
+wonderful, but not for programming or graphic design. They also require a lot of getting
+used to. 
+ 
+I guess that if Windows dumps the desktop I'll be switching to a Mac. I don't like their UI
+very much, but I just don't see how I can use Adobe products in Metro. 
+ 
+I did just purchase Win 8 on Newegg: it works fine in "Windows 7" mode. It's going to be
+Windows 9 that really kills them.
+
+
+October 29, 2012 at 2:52 PM
+
+
+Anonymous said...
+
+
+Hey, I would split MS into two separate companies. Move the people and org from the
+consumer products side out. Give them a bunch of cash. Let them go, let them be young.
+Then OldSoft can concentrate on the business products and services - go after it, make it
+better. Take Oracle, SAP, whomever.
+
+
+November 14, 2012 at 8:00 AM
+
+
+Anonymous said...
+
+
+I hate and love .NET and Windows 8 for the same reason. They both have wonderful
+positives but completely LACK benefits previously accomplished. Why do they have to kill
+wonderful "Past" accomplishments when adding new benefits?????? ".NET" great for
+development poor for performance & simplicity. Windows 8 great for home users - horrid
+for developers/business users. Fact remains, although support & options
+hardware/software wise is being diminished from XP (which is really what's pissing off the
+XP community.) no-one can logically argue that doing simple things like open
+program/close program was just simpler in XP - and simpler goes in hand with easier and
+exactly why craigslist.org is not a terrible failure like msn.com 
+
+
+January 1, 2013 at 5:50 AM
+
+
+Leuchten said...
+
+
+It is all about Azure and enterprises, consumers are a lost battle for them. Though, Azure
+doesn't seem to gain traction so far either.
+
+
+January 19, 2013 at 9:31 AM
+
+
+Svenja said...
+
+
+Shorting stock of a corporation that grew earnings by 250% the last "lost" decade and
+sports a P/E of 10 (excluding the recent write down) doesn't seem like the wisest decision
+to me. jes?
+
+
+January 20, 2013 at 12:20 PM
+
+
+Leuchten said...
+
+
+I'm a programmer, used to do C#, now PHP. 
+ 
+Most commercial PCs I see these days are still winXP. The local hospital, the garage,
+most shop tills are XP touch. I have no idea how the new windows will fit into these
+peoples lives.
+
+
+January 20, 2013 at 12:56 PM
+
+
+Anonymous said...
+
+
+As of mid-morning today, MSFT is up 34.3% (on a dividend adjusted basis) from the time
+our blogger sold and shorted. The S&P 500 is up 29.8% in the same period.
+
+
+November 8, 2013 at 3:00 AM
+
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1351482736822#c1337959678250201714
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1352840451473#c6832542987383433970
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1356979808627#c5907053731379881229
+
+http://www.lampenled.eu/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1358548281553#c7056924990012771322
+
+http://www.lampenled.eu/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1358644820502#c4939567367485155347
+
+http://www.lampenled.eu/
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1358646991798#c1370089079154457858
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1383840050021#c6751684294705289962
+
+http://www.lampenled.eu/
+
+http://www.lampenled.eu/
+
+http://www.lampenled.eu/
+5/19/2018 Bronte Capital: Changing my mind on Microsoft
+
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html 35/35
+
+
+Newer Post Older PostHome
+
+
+Subscribe to: Post Comments (Atom)
+
+
+Post a Comment
+
+
+Create a Link
+
+
+Anonymous said...
+
+
+You would have to add about a 2% yield to the S&P 500 return to make it comparable to
+the dividend adjusted MSFT return. Still the point was valid on the day I posted that
+comment.
+
+
+November 11, 2013 at 6:51 PM
+
+
+Links to this post
+
+
+The content contained in this blog represents the opinions of Mr. Hempton. You should
+assume Mr. Hempton and his affiliates have posi�ons in the securi�es discussed in this
+blog, and such beneficial ownership can create a conflict of interest regarding the
+objec�vity of this blog. Statements in the blog are not guarantees of future performance
+and are subject to certain risks, uncertain�es and other factors. Certain informa�on in this
+blog concerning economic trends and performance is based on or derived from
+informa�on provided by third-party sources. Mr. Hempton does not guarantee the
+accuracy of such informa�on and has not independently verified the accuracy or
+completeness of such informa�on or the assump�ons on which such informa�on is based.
+Such informa�on may change a�er it is posted and Mr. Hempton is not obligated to, and
+may not, update it. The commentary in this blog in no way cons�tutes a solicita�on of
+business, an offer of a security or a solicita�on to purchase a security, or investment
+advice. In fact, it should not be relied upon in making investment decisions, ever. It is
+intended solely for the entertainment of the reader, and the author. In par�cular this blog
+is not directed for investment purposes at US Persons.
+
+
+General disclaimer
+
+
+Awesome Inc. theme. Powered by Blogger.
+
+
+
+http://brontecapital.blogspot.com/2012/07/weekend-edition-car-dealers.html
+
+http://brontecapital.blogspot.com/2012/07/italy-portugal-greece-spain-australia.html
+
+http://brontecapital.blogspot.com/
+
+http://brontecapital.blogspot.com/feeds/8015038278432515875/comments/default
+
+https://www.blogger.com/comment.g?blogID=4815867514277794362&postID=8015038278432515875
+
+https://www.blogger.com/blog-this.g
+
+http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html?showComment=1384156313806#c126579562601250451
+
+https://www.blogger.com/

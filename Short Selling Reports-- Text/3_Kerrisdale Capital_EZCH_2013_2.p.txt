@@ -1,0 +1,970 @@
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 1/18
+
+
+EZchip: Immediate Competitive Threats, Customer Defections And An
+Unsustainable Valuation
+Mar. 11, 2013 10:30 AM ET13 comments
+by: Kerrisdale Capital Management
+
+
+We believe that shares of EZchip Semiconductor Ltd. (EZCH) are highly overvalued.
+
+
+Our full report is available here.
+
+
+EZCH shares currently trade at $23.79, implying an egregious 7.5x 2013E EV/Revenue
+and a 32.5x GAAP P/E, surprising multiples for a business that has repeatedly
+demonstrated its inability to grow. As we frequently see in mispriced businesses, a high-
+level sector story - in this case the need for greater bandwidth on capacity constrained
+carrier networks - has steered investors into an overpriced stock with many idiosyncratic
+risks. We believe that investors are not properly assessing the competitive risks posed to
+EZchip's business or the limits of the addressable market, especially in light of the EZCH's
+astronomical valuation.
+
+
+Before 2012, EZCH was fortunate enough to have little outside competition in high-speed
+network processors. But since the start of last year, two well-funded industry leaders have
+mounted attacks into EZchip's core Network Processing Unit (NPU) business. To begin
+with, Marvell Technologies (NASDAQ:MRVL) began to compete for NPU market share
+following its January 2012 acquisition of EZchip's then-largest competitor, Sweden-based
+Xelerated. Given EZCH's reliance on Marvell as a conduit in the foundry relationship with
+Taiwan Semiconductor (NYSE:TSM), the new arrangement appears conflicted. The
+dynamics are akin to Coca-Cola (NYSE:KO) relying on Pepsi (NYSE:PEP) for the
+manufacturing of Coke syrup.
+
+
+But the most substantial competitive risk to EZCH, in our opinion, is the entry of Broadcom
+(BRCM) into the high-speed network processor market. Through its acquisition of
+NetLogic in 2011, high-end semiconductors have become a strategic priority for BRCM. In
+April 2012, Broadcom introduced a full-duplex 100Gb (i.e. 200Gb/s) NPU, pitting EZchip's
+upcoming NP-5 in direct competition with an industry leader. While EZchip touts its
+200Gb/s headline figure for the NP-5, the chip is merely a full-duplex (two-way) 100Gb/s
+device, giving it the exact same bandwidth as Broadcom's chip. Another critique of
+BRCM’s NPU is that it lacks an integrated “TCAM” (Ternary Content Addressable
+Memory). This argument overlooks the fact that Broadcom can add a TCAM and other
+functionality as an expansion. But most troublingly for EZCH's investors, Broadcom now
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH-Report-March-2013.pdf
+
+https://seekingalpha.com/symbol/MRVL
+
+https://seekingalpha.com/symbol/TSM
+
+https://seekingalpha.com/symbol/KO
+
+https://seekingalpha.com/symbol/PEP
+
+http://www.broadcom.com/press/release.php?id=s666869
+
+http://www.broadcom.com/products/Switching/Carrier-and-Service-Provider/BCM88030-Series
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 2/18
+
+
+produces each of the individual components of the line card (TCAM, NPU, multi-core
+processor, etc.), allowing them to write software that transcends across individual
+components. This might allow BRCM to optimize the efficiency of the various hardware
+inputs and constitute a strong selling point versus EZCH's NP-5.
+
+
+But even if one believes that the BRCM component is somehow inferior, credible alternate
+vendors in the marketplace could drive down NPU pricing. This issue is overlooked by
+many analysts who instead rely on EZCH management for guidance. In its Q4 2012
+Presentation, EZCH tells investors that it expects a 40% increase in unit pricing between
+2012 and 2016. Not only is this assumption inconsistent with the entry of Broadcom and
+Marvell, it's contradictory to the very nature of Moore's Law, where more computational
+power is delivered at ever decreasing costs over time. NPU pricing is also limited by a
+constant threat of NPU replacement by in-house designs from the likes of Cisco
+(NASDAQ:CSCO), Huawei, ZTE (OTC:ZTCOY), and other router manufacturers. Just
+over three years ago, Juniper (NYSE:JNPR) decided to replace all of its EZCH chips with
+in-house designs on future router designs. EZCH shares fell 14% immediately after the
+2009 announcement. Huawei may have made a similar decision as they've delayed all
+EZCH orders as of Q4 2012. Management speculates that Huawei is using an in-house
+solution for at least a portion of their NPU demand, but they admit to having almost no
+visibility into this key customer account (EZCH Q4 2012 Call). A business that lacks
+pricing power should earn a commodity-like multiple, not the stratospheric valuation
+premium that EZCH currently boasts.
+
+
+Foreseeing the threat in its core NPU market, EZCH has rushed to publicly announce a
+shift towards the data center market. EZCH's L4-L7 next-generation processor ("NPS"), if
+successful, won't generate meaningful revenues until 2016+ (Sept 5th NPS Call). But that
+hasn't stopped some investors from glowingly referring to the NPS as a 'game changer.'
+Unfortunately for the EZCH bulls, a privately-held Intel (NASDAQ:INTC) spin-out named
+Netronome already produces a 200Gb/s flow processor with L2-L7 functionality that has
+won widespread industry praise. And as one of only a handful of outside partners with
+access to Intel's semiconductor foundries, Netronome's chips can be produced at the
+22nm scale and below. Compare this to EZCH, whose next-generation NP-5 will only be
+produced at the 28nm scale with Taiwan Semiconductor.
+
+
+Lastly, we believe that Wall Street research analysts are twisting forward EPS, and by
+association, overstating their EZCH price targets. Through the use of a non-GAAP
+technique that excludes stock-based compensation ("SBC"), we believe that the $1.13
+2013E consensus EPS is inflated by about 35%. Wall Street analysts have no logical
+
+
+
+http://www.ezchip.com/Images/pdf/EZCH-investorsQ412-130214.pdf
+
+https://seekingalpha.com/symbol/CSCO
+
+https://seekingalpha.com/symbol/ZTCOY
+
+https://seekingalpha.com/symbol/JNPR
+
+http://www.ezchip.com/pr_090713.htm
+
+http://www.globes.co.il/serveen/globes/docview.asp?did=1000478706
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZchip-Q4-2012-Earnings-Call-Feb-13-2013.pdf
+
+https://seekingalpha.com/article/848141-ezchip-s-ceo-hosts-new-product-announcement-conference-transcript?part=single
+
+https://seekingalpha.com/symbol/INTC
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDIQFjAA&url=http%3A%2F%2Fwww.netronome.com%2Ffiles%2Ffile%2FProduct%2520Briefs%2FNetronome%2520NFP-6xxx%2520Product%2520Brief%25202-13.pdf&ei=NkA6Ud2yIKbX0gGxwYGIAw&usg=AFQjCNFllcWTfSVaZ0p2KY7uu0UjIwgU5w&bvm=bv.43287494,d.dmQ
+
+http://www.netronome.com/files/file/misc%20pdfs/Microprocessor%20Report-Netronome%20Goes%20with%20the%20Flow.pdf
+
+http://www.eetimes.com/electronics-news/4370472/Netronome-Intel-process-foundry-deal
+
+http://www.ezchip.com/pr_110718.htm
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 3/18
+
+
+grounding for excluding these costs. Given EZchip's meager revenue stream in relation to
+its $690m market capitalization, its history of unfulfilled promises, the rapidly emerging
+competitive threats from Broadcom and Marvell, and EZCH's technological disadvantages
+in the data center market, we believe that EZCH's share price is poised for a sharp
+correction. Like many other technology hardware manufacturers dependent on a single
+customer for much of their revenue, EZCH's stock is one design loss away from falling by
+as much as 45%.
+
+
+Summary of Red Flags
+
+
+We believe that EZchip is significantly overvalued for the following reasons:
+
+
+Broadcom's 200Gb/s Network Processor Should Pressure EZCH's NP-5 Market
+Share and Price Point. EZCH has historically benefited from its cushy position as the
+leader in a duopoly market with Xelerated (now Marvell). But that dynamic changed
+drastically this year when Broadcom announced its entry into the market in mid-2012
+via the BCM 88030 network processor. According to recent management comments,
+Broadcom expects to enter production and have customers in 2013, some of which
+could be poached from EZCH (BRCM 2012 Analyst Day). EZchip has told investors
+that "we believe that substantially all NP-4 customers will select the NP-5," but that
+sounds more like wishful thinking than fact to us (EZCH Q4 2012 Call). While EZchip
+touts its 200Gb/s headline figure for the NP-5, the chip is actually a full-duplex (two-
+way) 100Gb/s device. This is precisely the same speed as Broadcom's BCM 88030, a
+full-duplex 100Gb/s processor. The confusing nomenclature may be misleading some
+investors to brush off the risks from Broadcom. Broadcom began its push into more
+complex processors in late 2011 with its acquisition of NetLogic. This has allowed
+Broadcom to design all of the individual components of the router line card (NPU,
+TCAM, multi-core processor, etc.). Broadcom's CEO explained the benefits of this
+integrated supplier approach, saying: "We're able to make the products work better
+together, so we can optimize our switches to work with the network processors…it's
+our goal to design [products] as a platform to bring significant advantage to customers
+who purchase all of them together" (BRCM Q2 2012 Call). A single publicly announced
+customer loss to BRCM could spell disaster for EZCH shares.
+
+
+Marvell Technologies, the Sole Supplier for EZCH's NP-4 and NP-5, has Recently
+Become a Direct Competitor. In order to guarantee manufacturing capacity, Cisco
+appears to have demanded that EZCH use a larger company as a conduit between
+itself and EZCH's semiconductor foundry, Taiwan Semiconductor Manufacturing.
+Marvell, as "the sole supplier of our NP-4 and NP-5" (EZCH's 2011 20-F), serves this
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/Broadcom-Corp.-2012-Analyst_Investor-Day.pdf
+
+http://www.gazettabyte.com/home/2011/6/29/network-processors-to-support-multiple-100-gigabit-flows.html
+
+http://www.lightreading.com/network-processors/broadcom-finally-gets-to-100g/240137050
+
+http://www.zdnet.com/blog/btl/broadcom-acquires-netlogic-for-3-7-billion/57841
+
+http://kerrisdalecap.com/wp-content/uploads/2013/01/Broadcom-Corp.-Q2-2012-Earnings-Call-Jul-24-20121.pdf
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312000875/zk1211221.htm#3
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 4/18
+
+
+function by employing its buying power to move its orders to the front of the queue. But
+the arrangement has grown increasingly conflicted following Marvell's purchase of
+Xelerated, a small NPU startup, in January 2012. Xelerated had launched a 50Gb/s
+full-duplex processor (100Gb/s) in August 2010 and was EZchip's chief competitor at
+the time. We would expect Marvell to support the Xelerated team with much-needed
+capital to potentially push forward a next-generation chip to compete with EZCH's NP-
+5.
+
+
+EZchip's NPS Chip Appears Fundamentally Handicapped Versus the Privately-
+Held Netronome. Investors who refer to the NPS chip as a 'game-changer' are
+severely underestimating Netronome, a privately-held Intel spin-out run by an
+accomplished Caltech graduate. Netronome recently made its presence known by
+directly challenging EZCH at a Linley Tech Conference. A review of the conference
+illustrates the similarities between the two companies, stating that the NPS "will take
+EZchip beyond its switch/router roots and into a wider venue that looks more like, well,
+like Netronome's business." Netronome had previously introduced its 200Gb/s L2-L7
+chip (called NFP-6xxx) back in June 2012. And notably, as only one of a handful of
+Intel fabrication customers (others include Archronix and Tabula), Netronome should
+hold a long-term technological advantage versus EZchip. Intel's best-in-class foundry
+has allowed Netronome to create its NFP-6xxx at the 22nm scale, and future designs
+may be made on Intel's 14nm scale. On the other hand, EZCH's foundry provider
+Taiwan Semiconductor will fabricate the supposedly next-generation NP-5 at only a
+28nm scale. A smaller manufacturing scale can increase energy efficiency and add to
+bandwidth capacity. As a private company, Netronome has been under-covered by
+equity analysts and we believe that EZCH investors are underestimating the risks
+imposed by this formidable competitor. The significance of the Intel foundry
+relationship may be confirmed as Cisco is rumored to be near announcing a billion
+dollar foundry deal with Intel to produce its own silicon chips. If this were the case, it
+would prove that Cisco clearly values Intel's 22nm-scale technology.
+
+
+Consensus EPS Estimates use Non-GAAP Measures that Inflate EPS (and
+Analyst Price Targets) by Roughly 35%. To boost its lackluster earnings figures,
+EZCH management guides investors using non-GAAP reporting figures that exclude
+stock-based compensation ("SBC"). While this tactic is frequently used by technology
+companies, disciplined investors and analysts shouldn't be fooled. Since public
+shareholders of EZCH stock didn't receive their stock for free, then how can stock be
+gifted to EZchip's employees without expense? Of the research reports we've read,
+Felt & Company, Deutsche Bank, Jefferies, Brean Capital, and Oppenheimer all follow
+
+
+
+http://www.marvell.com/company/news/pressDetail.do?releaseID=1936
+
+http://www.lightreading.com/blog.asp?doc_id=195979
+
+http://www.lightreading.com/document.asp?doc_id=225890%26page_number=1
+
+http://semiaccurate.com/2012/06/11/netronome-lays-out-their-22nm-nfp-6xxx-line/
+
+http://www.tsmc.com/english/dedicatedFoundry/technology/28nm.htm
+
+http://ciscoworkz.wordpress.com/tag/semiconductor-fab/
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 5/18
+
+
+management's non-GAAP EPS to build their price targets. EZchip gifted its employees
+about $11m in stock options over the last twelve months (EZCH 20F, 6K), translating
+to a decrease in EZCH's non-GAAP EPS by about $0.39/share. This calculation has a
+very material impact on the price targets for a company which earns as little as EZchip
+does. For example, Felt & Co reaches a strong buy conclusion and a $35 target price
+by using a 22.5x P/E multiple on 2014 non-GAAP EPS of $1.55 (February 14th report).
+If we removed $0.39 of stock-based comp expense from Felt's figures, its same
+valuation multiple yields a target price of only $26. Because of this widely perpetuated
+miscalculation, it is a mistake for the investor community to be guided by forward
+multiples on Yahoo Finance or other sites that rely on these inflated non-GAAP EPS
+figures.
+
+
+Given What's Been Discussed Above, We Believe that Shares are Overvalued by
+as Much as 45%. Based on the forthcoming competitive risks from Broadcom and
+Marvell, EZCH's extensive track record of overstating growth potential, a relative lack
+of pricing power, and a weak backdrop in carrier spending, we believe that EZCH stock
+should now trade at a valuation multiple more in line with the broader semiconductor
+market. Peers demonstrating year-over-year revenue growth, unlike EZCH, generally
+trade between 10 and 15x 2013 P/E. After deducting our estimated SBC of
+$0.39/share from the Street's non-GAAP EPS estimate of $1.13, we valued EZCH
+based on our adjusted 2013 EPS estimate of $0.74. With the addition of 25% of
+EZCH's cash balance, a generous 2013 P/E multiple range of 15 - 20x leads to a
+valuation range of $12.50 - $16, or a 32% - 48% discount to the current trading price.
+We also don't believe that management's 3x revenue target by 2016 is realistic, and
+instead have used Gartner industry projections and our own assumptions to reach a
+'bull-case' 2016 revenue target of $85m. At a 35% - 40% EBITDA margin and a 6x - 8x
+multiple, this translates into a price target of $14 - $17, still a 29% - 43% discount to
+the current price.
+
+
+II. Company Overview
+
+
+EZchip designs high-speed Ethernet Network Processors ("NPUs") used by the telecom
+industry to increase bandwidth in the aging ethernet networks used for phone, data, and
+voice services. EZchip's processors are used in high-speed network routers sold by Cisco,
+ZTE, Juniper Network, and other hardware businesses that then sell routers directly to
+businesses like AT&T (NYSE:T) and Verizon (NYSE:VZ). The Carrier Ethernet network
+can be divided into three domains: i) the Access network that connects individual traffic
+flows ("the last mile"); ii) the Edge (or "Metro") network that aggregates traffic within an
+
+
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312000875/zk1211221.htm
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000368/zk1312630.htm
+
+https://seekingalpha.com/symbol/T
+
+https://seekingalpha.com/symbol/VZ
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 6/18
+
+
+urban area, and finally; iii) the Core network, which routes and processes all data requests
+to the proper channels. Access NPUs tend to have lower bandwidth requirements (1Gb/s-
+20Gb/s) than Edge NPUs (20Gb/s+). EZCH's routers are designed for the "Edge" of the
+network. Edge routers aggregate the incoming data streams from individual access
+routers and direct them to the Core. As one moves closer to the Core, router processing
+needs become increasingly complex. Because of this, better-capitalized router
+manufacturers such as Cisco and Juniper produce their Core routers using in-house
+NPUs that have computing power beyond that of EZCH's chips. These in-house Core
+chips are commonly called ASICs (application-specific integrated circuits). In order to save
+costs and overhead, some of these router companies outsource the simpler Access and
+Edge chip design to smaller companies like EZchip. Competitors in the high-speed NPU
+market include Marvell Technologies, Broadcom, and in-house chip design teams that
+decide against sourcing NPUs from an outside provider.
+
+
+As a fabless semiconductor business, EZCH is reliant on Taiwan Semiconductor
+Manufacturing to manufacture its finished processors. TSM, which produces $17bn in
+annual revenue, probably views EZCH ($55m 2012 revenue) as a footnote on its
+customer list. Because of this, Cisco uses Marvell Technologies (a much larger TSM
+customer) as a conduit for its EZCH orders to ensure that its outsourced chips get priority
+at TSM's foundries (EZCH 2011 20-F).
+
+
+EZchip currently boasts an enviable valuation of 9.6x 2012A revenue, 37.8x 2012A
+EBITDA, and 44.4x 2012 GAAP P/E. At valuation multiples as high as these, it's not
+surprising that many cling to the belief that EZchip's best days are yet to come. As with
+many overvalued stocks that we've encountered, management directs investor attention to
+
+
+
+https://static.seekingalpha.com/uploads/2013/3/559143_13627056921331_0.jpg
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 7/18
+
+
+an outsized addressable market opportunity in order to distract investors from
+disappointments in its underlying business. The EZCH bull case relies on its ability to
+achieve dominant market share of its 2016 "Total Serviceable Market" of $800m,
+consisting of a $400m NPU opportunity and a $400m data center opportunity (Q4 2012
+investor presentation). Management further encourages the investor frenzy by leading
+investors to believe that revenue will grow 2.8x-3.7x by 2016 from the 2012 figure of
+$54.7m. This forecast was recently reduced from a revenue multiplier of 4x-5x, as had
+been used in the Q3 2012 investor presentation. Considering that EZCH's management
+has a history of over-promising and under-delivering, we caution investors against any of
+this forward guidance at face value. Those who believed management's promises of
+growth have been sorely disappointed time and time again. EZCH's revenue shrank from
+$63.5m in 2011 to $54.7m in 2012, hardly the type of momentum one would expect from a
+business with an almost 9x 2012A revenue multiple.
+
+
+III. Looming Competitive Threats
+
+
+Industry Leaders are Encroaching on EZCH's Core Market
+
+
+EZchip has historically been fortunate enough to have just one significant competitor in
+high-speed NPUs, the privately-funded Xelerated. But last year, the competitive landscape
+drastically changed. To begin with, Marvell Technologies acquired the Swedish-based
+Xelerated on January 4th, 2012. At the time, Xelerated was the only company producing a
+100Gb/s NPU aside from EZchip. Marvell will now compete in the 100Gb/s NPU segment
+directly with EZchip while remaining EZCH's only manufacturing partner. This newly
+antagonistic relationship with Marvell leaves EZCH in a precarious situation since the
+majority of EZCH's foundry orders at Taiwan Semiconductor are run through Marvell.
+Should the Edge processor market eventually become large enough, Marvell may decide
+its share of NPU revenues are more important than the royalties it collects serving as a
+manufacturing conduit for EZCH.
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH-investorsQ312-121108.pdf
+
+http://www.lightwaveonline.com/articles/2012/01/marvell-acquires-100g-chip-startup-xelerated-136736338.html
+
+http://www.lightwaveonline.com/articles/2011/09/xelerated-shipping-hx-100g-network-processor-in-volume-130532648.html
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-13627772102959678-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 8/18
+
+
+In addition to Marvell, we believe the biggest near-term competitive threat to EZchip is
+Broadcom. Broadcom began to vastly expand its product portfolio in September 2011
+when it acquired the multi-core and high-performance processor maker NetLogic for
+$3.7bn. This marked the start of Broadcom's foray into NPU design using the engineering
+talent brought in from NetLogic. By providing all components in a network line card (NPU,
+multi-core processor, TCAM, etc.), Broadcom intends to bundle its solutions, which could
+eliminate the need for individual component providers like EZchip. Broadcom's newly
+expanded product platform is shown below:
+
+
+Source: BRCM December 6th, 2012 Analyst Day.
+
+
+Broadcom officially announced the BCM 88030 high-speed network processor, a full-
+duplex 100Gb/s (effectively 200Gb/s), in April 2012. EZCH's share price fell 9% on the
+announcement, but little has been made of the announcement since. Broadcom, on the
+other hand, appears extremely excited about its new market opportunity. At its 2012
+analyst day on December 6th, Broadcom gave an update on the progress it has made.
+
+
+"Another example of a product that expands our [addressable market] is 100 gig
+network processor that we that we introduced earlier this year. And by the way, you
+should be seeing all these products in production, right, with customers in 2013. So
+again, this is a product that's -- it that 100 gigabits of full duplex processing. Our
+nearest competitor's product about 40 gig, if you look at it as an apples-to-apples
+comparison, and again, this is a product that very well-positioned for further
+penetration into the traditional network processor market in EDGE routers primarily,
+as well as in some core router applications, as well as packet transport applications." 
+-BRCM at December 6th Analyst Day
+
+
+
+http://www.bloomberg.com/news/2011-09-12/broadcom-agrees-to-buy-netlogic-microsystems-for-3-7-billion.html
+
+http://investor.broadcom.com/common/download/download.cfm?companyid=BRCM%26fileid=620353%26filekey=9ad176b1-8b99-453b-a571-6cca2ddcbd25%26filename=
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-1362755874372716-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 9/18
+
+
+Source: Slide 35, BRCM December 6th, 2012 Analyst Day
+
+
+EZCH has only recently begun to acknowledge the competitive threat posed by
+Broadcom, and even now does so ever so slightly. After adopting a very defensive tone
+when asked about the competition on its Q4 2012 earnings call, EZchip brushed off the
+concern by stating that, "we don't see much of them [BRCM and Marvell] in edge routers"
+(EZCH Q4 2012 Call). Just three months before, on the Q3 2012 earnings call, EZCH's
+CEO stated that, "We said all along that we feel that with NP-4 and NP-5 we kind of
+securing our market and our customers and we don't feel that we really have competition
+there…We feel that with NP-5, the chances for us to secure all the five large customers
+are pretty high" (EZCH Q3 2012 Call). Since management's comments are generally
+taken as absolute truth by EZCH analysts, the Street is not currently modeling for the
+pricing and market share effects of a Broadcom entry. We believe that this is a gross
+mistake and will lead to EZCH (once again) missing its projections in the near future.
+
+
+Further Competition Could Emerge if Market Opportunity Grows
+
+
+Besides the head-to-head competition from Marvell and Broadcom, there are at least half
+a dozen general purpose processor companies that have the potential to expand into
+high-speed NPUs. These potentially incremental competitors include LSI (NASDAQ:LSI-
+OLD) and PMC-Sierra (NASDAQ:PMCS), both of which already produce low-speed
+NPUs. For instance, PMC-Sierra is already the #1 manufacturer of lower-speed mobile
+backhaul network processors. Should the high-speed market grow in size, these
+companies would should the resources and in-house capability to quickly enter EZCH's
+market.
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZchip-Q4-2012-Earnings-Call-Feb-13-2013.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/EZCH-2012-Q3-Call.pdf
+
+http://www.lsi.com/products/networkingcomponents/Pages/APP3300.aspx
+
+https://seekingalpha.com/symbol/LSI-OLD
+
+http://pmcs.com/products/mobile/network_processors/
+
+https://seekingalpha.com/symbol/PMCS
+
+http://pmcs.com/products/processors/network_processors/
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-13627564804050007-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 10/18
+
+
+In-house Chip Design Concerns: The Juniper and Huawei Case Studies
+
+
+While outside competitive threats are hardly discussed by management, EZchip
+management acknowledges the potential for router customers to bring NPU design in-
+house, previously mentioning that "the competition comes from in-house, from our
+customers that has always been our concern in edge routing and that continues to be our
+concern" (EZCH Q3 Call). Juniper Networks, once EZCH's largest customer, was the first
+major vendor to abandon EZchip in 2009. Juniper first began selling routers embedded
+with the NP-2 processor in 2007 and accounted for as much as 55% of EZCH revenue in
+2008. But then, in an attempt to compete more effectively with Cisco, Juniper announced
+a manufacturing contract with IBM that allowed it to bring NPU chip design in-house. This
+October 29, 2009 announcement was a major body blow to EZchip's long-term business
+viability as it removed a top-tier router vendor from the customer list. Yet somehow, EZCH
+shares only fell 7% from $12.84 to $11.97 on the date of the announcement. Normally,
+when a company loses its largest customer, the market reaction is much more negative.
+But EZCH's investors seem to repeatedly put a mystical faith in the future of this business.
+
+
+Investors were once again blindsided on February 13, 2013 when EZchip announced on
+its Q4 2012 call that Huawei had not yet placed production orders, leading management to
+believe that Huawei was substituting in-house designs for EZCH chips. Management's
+conclusion that Huawei is developing an in-house solution is "currently a mere
+speculation" (EZCH Q4 2012 Call) since EZCH apparently doesn't maintain an open
+dialogue with Huawei. While EZchip remains optimistic that they'll only be replaced in the
+"lower end," management's lack of insight into a key customer account betrays a much
+broader concern, the lack of intimacy between EZchip and its key customers. We saw this
+dynamic at work in our previous work on Mellanox Technologies (NASDAQ:MLNX). If a
+business with only a handful of customers cannot maintain a clear grasp of the strategic
+intentions of a major customer, it's equally unlikely to correctly predict its revenue stream
+years into the future.
+
+
+
+http://juniper.mwnewsroom.com/manual-releases/2009/Juniper-Reinvents-the-Experience-and-Economics-of-
+
+https://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside
+
+https://seekingalpha.com/symbol/MLNX
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-13627566102145627-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 11/18
+
+
+The EZchip congregation may be slowly losing its faith as EZCH shares fell over 20%
+after the Q4 2012 call. The Juniper and Huawei examples remind us that EZCH's designs
+are perpetually at risk of replacement. Going forward, investors should remember that
+Cisco is unlikely to ever pay EZchip hundreds of millions of dollars for something it might
+be able to do itself.
+
+
+IV. Unsustainable Valuation by Any Measure
+
+
+The semiconductor industry, as a group, tends to trade at a relatively modest valuation
+multiple given the industry's reliance on product cycles and the commoditization of many
+parts of the business. Competitive advantages disappear overnight and customers can
+leave within a single product cycle. But when a misunderstood company becomes the
+flavor-of-the-month, valuation metrics can quickly get out of hand. Such has been the case
+for EZchip's 40x+ 2012 P/E multiple.
+
+
+Given the uncertainty of EZCH's growth, the company's tendency to over-exaggerate
+product ramps, the loss of a key customer account to in-house designs, and the entry of
+Broadcom and Marvell into the NPU space, we'd argue that EZCH no longer deserves a
+premium valuation to the industry. We also believe that EZCH's mispricing exists because
+most of the Street's analysts exclude EZCH's mounting stock-based compensation
+("SBC") expense from EPS, thereby inflating earnings by 30%+. Over the last twelve
+months, EZCH spent $11.2m on stock grants (or $0.39/diluted share). While this might be
+a minor footnote for a large-cap organization, it's a very major line item for EZCH. By
+excluding SBC, the analysts are effectively reducing EZCH operating expenses by the
+same amount, leading to embellished valuation multiples. After netting out this
+$0.39/share of SBC to analysts' 2013E EPS estimates, we reach a GAAP earnings
+
+
+
+http://newsroom.cisco.com/dlls/2008/prod_022508c.html
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-13627774040295215-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 12/18
+
+
+estimate of $0.74/share. With the addition of 25% of EZCH's cash balance, an above
+average industry P/E multiple of 15x produces an $12.50 price target and a generous 20x
+P/E would led to a $16 price target, or a 32% - 48% discount to the current trading price.
+
+
+EZCH bulls might reject this valuation argument by instead citing management's target of
+3x revenue growth between 2012 and 2016. To construct its target, EZCH cites April 2012
+research from Infonetics and its own internal sources. Gartner, a very well-regarded
+technology research firm, published more recent thoughts on the market in December
+2012, predicting that the Edge Router and Switch market will grow by only 3.6% in 2013
+and 11.3% in 2014. While this might be exciting if EZCH were trading at 10x P/E, these
+are hardly awe-inspiring numbers for a high-flying growth stock.
+
+
+EZCH further constructs its long-term 3x revenue growth target by assuming that its
+average selling price ("ASP") increases by 40% and the EZCH's edge router market
+penetration increases from 30% to 40%, resulting in an additional 30% - 70% revenue
+boost (Q4 2012 Investor Presentation). We take issue with both of these assumptions. As
+Moore's Law helps explain, customers will demand higher performance at a lower cost
+over time. Even the high-end chip titan Intel posted flat year-over-year growth in 2012.
+EZCH clearly isn't immune to this dynamic since revenue fell between 2010 and 2012
+even though the next-generation NP-4 began ramping in 2H 2011 (EZCH Q1 2011 Call).
+For these reasons, we'd only credit EZCH with an inflationary-driven ASP growth of
+3%/year. We also believe that any end-market replacement of ASICs by NPUs will be
+overshadowed by market share losses to Broadcom, Marvell, and other potential
+competitors, leading us to believe that EZCH's end-market share will remain flat. By
+combining these two assumptions with Gartner's end-market growth of 44% between 2012
+and 2016, we project 2016 revenue of only $85m.
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2011-Q1-Call.pdf
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-1362778050078639-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 13/18
+
+
+Sources: Gartner Edge Router Forecasts, EZCH filings
+
+
+At a 35%-40% GAAP EBITDA margin, the high-end of the historical trend, the 2016
+revenue target of $85m would result in only $30 - $34m of EBITDA. A liberally high 6x-8x
+forward multiple results in an enterprise value of $179m - $272m. After adding the current
+cash balance of $168m plus $50m for the interim cash generation, we can then infer a
+market capitalization target of $400m - $490m, or about $14 - $17/share.
+
+
+The Problem with Neglecting EZCH's Stock-based Compensation Expense
+
+
+Warren Buffett, among others, has repeatedly attempted to educate investors on the
+lunacy of treating SBC as a non-expense. In the chart below, we've shown how large of an
+impact stock expense has had on EZCH's results:
+
+
+
+http://www.washingtonpost.com/wp-dyn/articles/A29807-2004Jul5.html
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-13627776350877018-Kerrisdale-Capital-Management_origin.png
+
+https://static.seekingalpha.com/uploads/2013/3/8/559143-1362757499030811-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 14/18
+
+
+As shown below, the figures extracted from Wall Street research match non-GAAP EPS,
+inflating the analysts' projections and, by association, EZCH price targets.
+
+
+Felt & Co. RBC Capital
+
+
+Sources: Felt & Co Feb 14th, 2012 report; RBC Capital Feb 14th, 2012 report.
+
+
+V. Conclusion
+
+
+EZCH was able to prevent a share price collapse despite its terrible 2012 results by
+diverting attention to the research-stage NPS chip. Never mind that the NPS product is 4+
+years away from contributing meaningfully to revenue and that the underfollowed Intel
+spinout Netronome has a sustainable manufacturing edge. But with this trump card now
+played, EZCH investors and analysts have now begun to examine the looming competitive
+threats from Broadcom, Marvell, and in-house chip design teams. Huawei's apparent
+decision to select in-house designs over EZCH puts another crack in management's long-
+term revenue growth projections, which on further study appear to be built on little more
+than wishful thinking. It's not hard to imagine a scenario where Broadcom's 200Gb/s NPU
+wins at least one or two customers away from EZCH and confidence in the stock quickly
+collapses. Moreover, continued weakness in the wireline capex market should keep
+organic growth muted through 2013. As stated by EZCH's CEO on the Q3 earnings call,
+"The revenue ramp of these customers will depend on the success of their new NP-4
+platforms in the market, which in turn is driven by the CapEx levels of the carriers" (Q3
+Earnings Call). These very basic end-market and competitive concerns lead us to believe
+that EZCH's sky-high 32.5x 2013E P/E is simply unsustainable.
+
+
+Disclosure: I am short EZCH. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+Additional disclosure: Please read our full disclaimer at the end of our report at
+kerrisdalecap.com/wp-content/uploads/2013/03/EZCH-Report-March-2013.pdf.
+
+
+ Like this article
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 15/18
+
+
+Comments (13)
+
+
+Ashraf Eassa, Contributor
+Amazing work.
+
+
+11 Mar 2013, 11:14 AM
+
+
+mullenjl
+Ashraf...
+
+
+Amazing work???
+
+
+Goes to prove one shouldn't believe everything on the internet.
+
+
+suggest you read / re-read Seth's earlier Seekng alpha post.
+
+
+http://seekingalpha.co...
+
+
+11 Mar 2013, 03:51 PM
+
+
+Sirvasq
+This one looks like a back fire for the author, who claims to be short the stock. Put volume was 8000 contracts which
+expire in 2 sessions, apparently took a big loss today. Barron's explains why. http://on.barrons.com/...
+
+
+Feltl said to be defending the stock with a $35 PT. I bought at 22 this morning. EZCH founder speaks publicly next
+Monday, who knows what news that will bring.
+
+
+11 Mar 2013, 05:55 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  If an investor published a long thesis on EZCH and the stock went down on the publish date,
+nobody would claim that it 'backfired.' We remain confident that our investment case will play out over time.
+
+
+11 Mar 2013, 06:34 PM
+
+
+Sirvasq
+How extensive is your investment, and did you time it to coincide with the publishing of the article? If you
+bought some of the 8,000 $22 strike puts expiring Thursday, whether it backfired or not will be pretty self
+evident. Readers like to know details.
+
+
+11 Mar 2013, 06:59 PM
+
+
+mullenjl
+Re: In its Q4 2012 Presentation, EZCH tells investors that it expects a 40% increase in unit pricing between 2012 and
+2016.
+
+
+
+https://seekingalpha.com/author/ashraf-eassa
+
+https://seekingalpha.com/user/5615341
+
+https://seekingalpha.com/p/tucf
+
+https://seekingalpha.com/user/311932
+
+http://on.barrons.com/Y6wogT
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/user/311932
+
+https://seekingalpha.com/user/5615341
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 16/18
+
+
+>>>>>&g... 
+Will the authors please indicate on which chart in the referenced presentation suggests a 40% increase in unit
+pricing?
+
+
+11 Mar 2013, 06:02 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Thanks for the question mullenji. See slide 8, "EZchip's ASP" in the Q4 2012 presentation
+linked below. EZCH can only achieve its 3x revenue growth by 2016 if the ASP (average selling price) jumps
+from a factor of 1 to 1.4x. 
+http://bit.ly/XE7qsL
+
+
+11 Mar 2013, 06:29 PM
+
+
+swamis
+Amazing work, indeed...from a boutique short seller.
+
+
+Here is a rebuttal from Fetyl which is why ezch rebounded today
+
+
+"One key competitive risk highlighted in this thesis was competition from BRCM due to a new NPU solution it
+introduced in April 2012. We believe prior BRCM commentary at the Linley Group Carrier Conference, held June
+2012, contradicts these competitive claims. BRCM stated its BCM88030 NPU was going to focus on high-end
+switching markets. BRCM also stated during the Linley Conference integrated traffic manager was extremely difficult.
+We believe EZCH NPUs provide customers an integrated solution, which achieves “extremely difficult” designs per
+industry participants, and thus provides customers value versus competitive offerings which may only provide an
+external, non-integrated, TCAM. We would note it has been almost one year since BRCM released its new NPU, yet
+we are unaware of any design wins for BRCM which displaced EZCH […] Long sales cycles, along with key
+customers NP-5 commitments, suggest competitive threats not likely until beyond CY16. EZCH has already publicly
+stated in its 2Q12 earnings release that long-time customer ZTE (0763HK) had already moved to NP-5 designs. Our
+prior checks have implied leading customer Cisco Systems (CSCO) has moved forward with NP-5 designs, likely
+reaching “the point of no turning back.” Given key customers ZTE/CSCO have likely moved forward with NP-5 based
+product design, we question whether the “immediate competitive threats,” referenced in recent short thesis, are
+evident. With NP-4 designs shipping we see essentially zero probability current customers would “rip and replace”
+EZCH to utilize a competitive solution. We believe it is more likely current NP-4 customers will transition to NP-5 due
+to ease of implementation given software investments made with prior NP-4 designs. We believe given the long sales
+cycle inherent in NPU markets, it would likely be beyond 2016 before a competitive solution could potentially displace
+EZCH."
+
+
+11 Mar 2013, 06:03 PM
+
+
+swamis
+McWilliams also blasted the short sell piece as 
+"I view this report as a drive-by shooting. In my opinion, the author is either misinformed or intended to manipulate the
+price of EZCH with what I view as faulty analysis."
+
+
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+http://bit.ly/XE7qsL
+
+https://seekingalpha.com/user/5756291
+
+https://seekingalpha.com/symbol/csco
+
+https://seekingalpha.com/user/5756291
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 17/18
+
+
+11 Mar 2013, 06:03 PM
+
+
+mullenjl
+Jeffrey Schreiner / Felti counters Kerrisdale's article-
+
+
+http://on.barrons.com/...
+
+
+Snips>>
+
+
+But the risk from Broadcom won’t be for years, asserts Schreiner: 
+One key competitive risk highlighted in this thesis was competition from BRCM due to a new NPU solution it
+introduced in April 2012. We believe prior BRCM commentary at the Linley Group Carrier Conference, held June
+2012, contradicts these competitive claims. BRCM stated its BCM88030 NPU was going to focus on high-end
+switching markets. BRCM also stated during the Linley Conference integrated traffic manager was extremely difficult.
+We believe EZCH NPUs provide customers an integrated solution, which achieves “extremely difficult” designs per
+industry participants, and thus provides customers value versus competitive offerings which may only provide an
+external, non-integrated, TCAM. We would note it has been almost one year since BRCM released its new NPU, yet
+we are unaware of any design wins for BRCM which displaced EZCH […] Long sales cycles, along with key
+customers NP-5 commitments, suggest competitive threats not likely until beyond CY16. EZCH has already publicly
+stated in its 2Q12 earnings release that long-time customer ZTE (0763HK) had already moved to NP-5 designs. Our
+prior checks have implied leading customer Cisco Systems (CSCO) has moved forward with NP-5 designs, likely
+reaching “the point of no turning back.” Given key customers ZTE/CSCO have likely moved forward with NP-5 based
+product design, we question whether the “immediate competitive threats,” referenced in recent short thesis, are
+evident. With NP-4 designs shipping we see essentially zero probability current customers would “rip and replace”
+EZCH to utilize a competitive solution. We believe it is more likely current NP-4 customers will transition to NP-5 due
+to ease of implementation given software investments made with prior NP-4 designs. We believe given the long sales
+cycle inherent in NPU markets, it would likely be beyond 2016 before a competitive solution could potentially displace
+EZCH.
+
+
+12 Mar 2013, 07:13 AM
+
+
+mullenjl
+OK, found reference to 40% ASP increase on chart #8. The earlier NPU versions (2 & 3) I surmise have much less
+functionality than NP-4 and one would think EZCH has already negotiated pricing with CSCO (etc ) and is thus able to
+fold that into is forecasts.
+
+
+12 Mar 2013, 07:20 AM
+
+
+frankinca
+I guess the analysis arguments by both sides indicate that the market price depends temporarily on the recent news.
+So these articles are usable by short term traders and don't interest me.  
+Forward thinking with backup data, the possibility of M@A activity and examples of similarly positioned high tech
+companies have much more weight than various related facts that take several pages to express and result in
+
+
+
+https://seekingalpha.com/user/5615341
+
+http://on.barrons.com/X2t0nb
+
+https://seekingalpha.com/symbol/csco
+
+https://seekingalpha.com/user/5615341
+
+https://seekingalpha.com/user/876519
+5/23/2018 EZchip: Immediate Competitive Threats, Customer Defections And An Unsustainable Valuation - Mellanox Technologies, Ltd. (NASDAQ:…
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation 18/18
+
+
+boredoom and a choice of looking somewhere else. I believe analysis should be aimed at the big boy mutual funds
+and not the hedgies who rely on manipulation to eke out a profit!
+
+
+The result of the article makes me believe Intel is basically a marketing and foundry company and should get out of
+the CPU side and go with the unique manufacturing abilities and advertising methods that they have honed to a point
+of "no competition". They should be looking to become a Google with a hardware and software foundry unequalled for
+a long time. Unknowingly they are the best of that class and because they have developed it at a huge expense, why
+not make that the point of interest of the company.. Because Taiwan semiconductor and Global Foundry are so far
+behind, and Qatar is unwilling to invest a few billion more bucks to try to become the leader, that they know is or will
+be ultra profitable in the near term future. 
+To the author, too much to absorb unless that company has features that someone can't conceive while reading a few
+business journals and picking one that interests them because others might become interested as well and eventually
+push the price up or down according to its projected business economics and it's business model. Judgments
+according to the long term aspects of the company and it's fit with the future of its sector, and their unique capabilities
+demonstrated by their past are what need to be pointed out. 
+So be it! and amen.
+
+
+12 Mar 2013, 09:50 AM
+
+
+stockboy11
+Fear is a stronger emotion than greed. Short sellers prey on this emotion unethically & use it to steal shares cheaply
+from honest investors. Never trust a short. In a real property analogy, they are essentially selling your home &
+convincing you to abondon it, merely because they have dishonestly worked at manipulating the temporary value to
+be below the balance on your mortgage, and they will benefit financially from it. Would you move & let them win? I
+wouldn't. Especially if my house is EZ! Short selling is for crooks IMO. This guy obviously is in bed with BroadCon.
+
+
+26 Mar 2013, 10:50 AM
+
+
+
+https://seekingalpha.com/user/698849

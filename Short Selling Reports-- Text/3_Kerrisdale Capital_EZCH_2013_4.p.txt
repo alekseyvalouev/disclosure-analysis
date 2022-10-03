@@ -1,0 +1,849 @@
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+EZchip: Bullish Case Continues To Myopically Overlook Competitor
+Comments, Production Delays, And Stock-Based Compensation
+Expense
+Mar. 25, 2013 8:30 AM ET21 comments
+by: Kerrisdale Capital Management
+
+
+Over the past few weeks, we've shared our EZchip Semiconductor (EZCH) investment
+opinion in a pair of articles, outlining our belief that EZCH's $717m market capitalization,
+8.0x 2013E revenue multiple, and 32.7x 2013E GAAP P/E (adjusted to include
+$0.39/share of stock-based compensation) are wholly unjustified. The Bull case depends
+on EZCH growing well in excess of the overall router market thorough 2016, a challenge
+we believe is unrealistic given an avalanche of near and long-term business risks.
+Customer concentration is dangerously high, newly introduced competition from
+Broadcom (BRCM) could pressure design wins, Huawei's recent order delay proves that
+in-house design risk is ever present, and weak end-market demand will pressure EZCH's
+self-imposed 30% revenue growth hurdle (slide 8). To justify EZCH's almost 2x valuation
+premium to the S&P 500, it must overcome this hurdle each and every year through 2016.
+Most EZCH investors discount these risks, instead trusting a management team that has
+over-promised and under-delivered for years, growing the revenue by just 11% annualized
+between 2009 and 2012. But since some took the time to reply to our article, we feel a
+response is due.
+
+
+Sources: EZCH 2012 20-F, Q4 2012 6-K, Capital IQ
+
+
+
+https://seekingalpha.com/article/1262221-ezchip-immediate-competitive-threats-customer-defections-and-an-unsustainable-valuation
+
+https://seekingalpha.com/article/1269041-ezchip-customer-concentration-and-uneven-revenue-stream-have-forced-risky-shift-to-the-data-center
+
+http://www.ezchip.com/Images/pdf/EZCH-investorsQ412-130214.pdf
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000838/zk1312822.htm
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000368/zk1312630.htm
+
+https://static.seekingalpha.com/uploads/2013/3/23/559143-13640766818912308-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+A Response to Feltl & Co's 'Short-Seller' Report
+
+
+Following our March 11th report on EZchip, Feltl & Co. issued a one-page response that
+addressed some of the arguments in our initial report. Feltl also reiterated its "Strong Buy"
+recommendation that's been in place since it initiated coverage on August 22nd, 2012 at a
+price of $32.28. Feltl's research note gave EZCH investors the positive reinforcement they
+craved. After reading through the March 11th report, we believe that Feltl's response
+includes the following three key points:
+
+
+1. Broadcom's June 2012 Linley commentary proves that BCM 88030 targets the switch
+market, not EZCH's core end-market of edge routers;
+
+
+2. Even though Broadcom introduced the BCM 88030 almost a year ago, no explicit
+customer wins have been announced;
+
+
+3. A long sales cycle suggests no immediate competitive threat
+
+
+In the interest of continuing the conversation, we've taken the time to address Feltl's
+response below on a point-by-point basis.
+
+
+1) More Recent Broadcom Comments Unequivocally State BRCM's Intention to
+Compete in EZCH's Core Market of Edge Routers. While Feltl cites Broadcom
+commentary from a June Linley conference, we've placed more credence on December
+2012 remarks. At its yearly Analyst Day, Broadcom explained that edge routers are its
+chief addressable NPU end-market, "Another example of a product that expands our SAM
+is [a] 100 gig network processor [BCM 88030] that we introduced earlier this year…this is
+a product that [is] very well-positioned for further penetration into the traditional network
+processor market in EDGE routers primarily [emphasis added], as well as in some core
+router applications, as well as packet transport applications." To drive this point home,
+Broadcom included a full-page graphic in the accompanying Investor Presentation that
+illustrates this remark. Whether EZCH likes it or not, it will be competing with BRCM for
+new Edge Router NPU business.
+
+
+
+http://blogs.barrons.com/techtraderdaily/2013/03/11/ezch-drops-rebounds-feltl-defends-against-broadcom-worries/
+
+http://www.streetinsider.com/New+Coverage/Feltl+%26+Co+Starts+EZchip+Semiconductor+%28EZCH%29+at+Strong+Buy/7679143.html
+
+http://www.broadcom.com/press/release.php?id=s666869
+
+https://seekingalpha.com/article/1050591-broadcom-s-ceo-hosts-2012-analyst-day-transcript?part=single
+
+http://www.broadcom.com/docs/company/Broadcom_2012_Analyst_Day.pdf
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+Source: Slide 35, BRCM December 6th, 2012 Analyst Day Presentation.
+
+
+2) Because Sampling and Testing Occur Over a Protracted Period, the Delay
+Between Broadcom's BCM 88030 Announcement and Customer Wins Should be
+Expected. Feltl correctly states that the BCM 88030 was first announced in April 2012.
+But this passage of time does not imply that the competitive threat is removed. As EZCH
+investors know through experience, the sampling and design process is iterated with the
+router vendors over a multi-year period before public customer wins are announced.
+EZCH first disclosed the research-stage details of its comparable NP-5 product in May
+2011 and even after nearly two years, it has yet to provide samples to customers:
+
+
+<Q - Paul Williams>: The NP-5, when do you think you'll be able to provide
+samples to your customers on that?
+
+
+<A - Eli Frutcher (CEO)>: In [the] June to July [2013] timeframe, I would say.
+(EZCH Q4 2012 call).
+
+
+And in the case of EZCH, timelines can slip. As of November of last year, EZCH expected
+to sample an NP-5 "in the first quarter of 2013," a deadline that had previously moved
+from Q4 2012 (Q1 2012 EZCH call). Now, the expectation is for late Q2 or early Q3 2013.
+As for Broadcom's timeline, it expects to have customers in 2013, "And by the way, you
+should be seeing all these products [BCM 88030] in production, right, with customers [in]
+2013." (BRCM 2012 Analyst Day).
+
+
+3) While a Lagging Product Cycle Does Provide EZCH with Run-off Value, EZCH's
+$700m Market Capitalization Necessitates Substantial Future Growth. EZchip is not a
+cheap stock. An 8x 2013E Revenue and 32.7x 2013E GAAP P/E multiple are indicative of
+a rapidly growing business. To achieve the 30%+ annual revenue growth targeted in the
+
+
+
+http://www.ezchip.com/pr_110524.htm
+
+https://seekingalpha.com/article/1181851-ezchip-semiconductor-s-ceo-discusses-q4-2012-results-earnings-call-transcript
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/EZCH-2012-Q3-Call.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2012-Q1-Call.pdf
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+Q4 2012 Investor Presentation, EZCH must hit each of its growth levers in unison --
+double-digit end-market growth, market share expansion, and 40% 4-year ASP growth. As
+a business whose revenue fell from $63.5m to $54.7m over the past year, EZCH has yet
+to deliver on this promise.
+
+
+Even if EZCH is successful in retaining its current customers, it would be hazardous to
+assume vendors wouldn't take advantage of BRCM's entry to pressure EZCH on pricing
+and other terms. We are not alone in voicing these risks; EZchip readily acknowledges the
+competitive shift in the marketplace:
+
+
+"We believe that competition in this market will become more intense in the future
+and may cause price reductions, reduce gross margins and may result in loss of
+market share, any one of which could significantly reduce our future revenue and
+decrease our net income." ̶EZCH 2012 20F
+
+
+For EZCH to sustain its almost 2x valuation premium to the S&P 500, it must not only
+transition each NP-4 customer to the NP-5, it must also increase unit pricing and
+networking market share, both of which are questioned in the statement above. This task
+could be made all the more challenging by continued softness in the router and switching
+markets. Last week FBR securities released a report stating that the market for routers
+and switches has hit a "dead end." The analyst went on to state, "Looking ahead, we see
+the potential for additional negative technological trends that could significantly blur the
+lines between routers, switches and servers." As networks move toward the cloud and
+data centers, demand for traditional wireline infrastructure will continue to soften. This
+sentiment is confirmed by Gartner, a technology research house, who predicts industry-
+wide Edge Router and Switch growth of just 3.6% in 2013 (Dec 13th report). EZchip is not
+blind to this trend; it has dramatically rebranded its last three investor presentations (Q3,
+Q4, and Roth), shifting emphasis from Carrier Ethernet to NPS/Smart Networks.
+Unfortunately, shareholders won't see NPS revenue until 2016+, if ever.
+
+
+The Question of Stock-based Compensation
+
+
+Other industry analysts, such as Paul McWilliams of Next Inning Technology Research,
+challenged our decision to expense stock-based compensation ("SBC") in EZCH's forward
+EPS projections. Ours is not a radical idea, and Generally Accepted Accounting Principles
+(GAAP) mandate that SBC be expensed from EPS in all SEC filings. To justify EZCH's
+add-back and non-GAAP EPS reporting, as used in Wall Street projections, it has been
+argued that future cash flows will be used to purchase newly-issued, dilutive stock. We
+completely disagree with this concept. Investors pay 18x 2013E EBITDA for EZCH stock
+
+
+
+http://www.ezchip.com/Images/pdf/EZCH-investorsQ412-130214.pdf
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000838/zk1312822.htm
+
+http://news.investors.com/technology/032113-648834-networking-gear-makers-cisco-juniper-fall-on-analyst-downgrade.htm?ref=HPLNews
+
+http://www.ezchip.com/investor_relations.htm
+
+http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+because they expect to have a claim on future cash flows. If that future cash isn't value
+additive, and is instead used to correct for past SBC excesses, the earnings multiple used
+to value EZCH should be materially lowered. In light of this, it makes sense that GAAP
+dictates that stock-option expense is recognized on the income statement at the time of
+grant.
+
+
+While the effect of this dilution creeps up slowly, ensuring that investors barely notice, it
+can have a drastic impact over an extended period. Over the past four years, EZCH's fully
+diluted share count has climbed from 23.6m to 29.6m today, resulting in 25% dilution for
+investors who first purchased the stock at the end of 2008.
+
+
+While this track record of steady dilution presents serious red flags for long-term holders
+of EZCH shares, it's doubly egregious when investors are also being misled into believing
+that non-GAAP financials are indicative of financial performance. In 2012, EZCH reported
+a 49% non-GAAP net income margin (Q4 Presentation, Slide 14), a figure that is
+frequently cited by bullish investors and the sell-side analysts. After correcting this figure
+for 2012's $11.2m of stock-based compensation expense, the margin falls precipitously to
+29% (15.902 / 54.707). This is no rounding error. It reminds us that investors need to be
+vigilant for excessive non-GAAP earnings adjustments.
+
+
+Conclusion
+
+
+While entrenched bulls argue that EZCH has zero competitive threats, we continue to
+believe that Broadcom's more complete networking product line (NPUs, switches, KBPs,
+multi-core processors, etc.) and lower cost base is a competitive advantage versus
+EZchip. Cisco's success over Juniper is illustrative of the benefits of scale. One could
+
+
+
+http://www.ezchip.com/Images/pdf/EZCH-investorsQ412-130214.pdf
+
+https://static.seekingalpha.com/uploads/2013/3/23/559143-13640768320208757-Kerrisdale-Capital-Management_origin.png
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+Comments (21)
+
+
+argue that Cisco was able to take share from Juniper because Cisco offered a wider
+swath of products at discounted prices. EZCH could face a similar competitive dynamic
+from its newly emerged larger competitors.
+
+
+Equally as important, even if EZCH is successful in retaining its current customers, we
+expect that the presence of alternatives such as BRCM will allow Cisco and other
+customers to pressure EZCH on pricing and other terms. Given its high customer
+concentration, the ability for customers to produce NPU chips in-house if they desired to
+allocate the requisite internal resources, and the presence of competitors like Broadcom,
+we think that EZCH will perpetually have limited pricing power for its products.
+
+
+At EZCH's current market capitalization of over $700m, we believe the market remains too
+optimistic. Revenue expectations for the next two years are $69.7m (2013) and $94.2m
+(2014), requiring a 31% YoY CAGR, well in excess of the 3.6% Edge Router/Switch end-
+market growth forecasted by Gartner (December 13th, 2012 report). Revenue growth of
+30%+ requires EZCH to fend off Broadcom and in-house ASIC competition, have its
+product mix drastically shift towards higher-priced NP-4, and be able to add new business
+from Ericsson, Tellabs, and Huawei. If any one of these levers fails to deliver, EZCH will
+likely see another year of moribund growth and disappointed shareholders.
+
+
+Disclosure: I am short EZCH. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+Additional disclosure: Please read our disclaimer at kerrisdalecap.com/?page_id=2118.
+
+
+ Like this article
+
+
+mullenjl
+Desperation time & getting repetitious ... 3 attack pieces in a couple of weeks.
+
+
+Repeat of one of my earlier comments, since Kerrisdale appears to be basing much of their "case" against EZCH on
+Broadcom's "impending " competitive threat.
+
+
+>>>>>&a...
+
+
+Kerrisdale, re: BRCM transcript for understanding??? “Press Releases and Reality”
+
+
+**”…, so we'd recommend you also read the Broadcom transcripts to understand what is happening here….*****
+
+
+
+http://www.businessweek.com/news/2012-07-25/juniper-second-quarter-sales-profit-top-analysts-estimates
+
+http://kerrisdalecap.com/?page_id=2118
+
+https://seekingalpha.com/user/5615341
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+>>>>>&a...
+
+
+As posted on another thread re: BRCM’s PR / CC hype…
+
+
+My recollections of BRCM’s claiming imminent prominence in the 3G baseband market goes back a long time.
+
+
+I’ve found over the years that Broadcom has a habit of hyping its position via the PR and webcast / CC route. My first
+recollection is from early 2005 when they touted their entry into the WCDMA baseband market--- 10-15% share target
+with first deliveries in late 2005.
+
+
+Broadcom’s Oct 15, 2007 PR and CC “Broadcom Leaps ahead of the competition...” stirred the ire of Brian Modoff of
+Deutche Bank in his Oct 22 report under the heading “Press releases and reality”. (note- Brian was cut-off during the
+CC when asking penetrating questions).
+
+
+**Eight** years later BRCM is still hyping but finally gaining some share among the “also rans”.
+
+
+25 Mar 2013, 10:20 AM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Mullen,
+
+
+Thanks for the comment. I'll respond from two angles.
+
+
+First, our central thesis is that EZCH shares are overvalued, in that the current market cap is far too high
+relative to a reasonable expectation of what this company's discounted future cash flows are going to be. In
+other words, even if EZCH does retain its NPU customers, the presence of BRCM will prevent EZCH from
+being able to command high prices from its customers for it next-generation NPU products. If EZCH gets too
+aggressive about pricing, Cisco and others would be better off re-focusing efforts to bring designs in-house, or
+would go with BRCM. So the entry of BRCM is yet another reason why EZCH is unlikely to meet its lofty
+revenue targets.
+
+
+Second, you're right that Broadcom's track record is not beyond critique and it could fail to gain customers for
+its edge router products. But it's nevertheless dangerous to completely dismiss the entry of a $20 billion
+company with 8,700 R&D employees into EZchip's core end-market. The CEO of a $20 billion company does
+not spend 5 minutes at his annual investor day to expound on a revenue opportunity that doesn't exist. Here's
+a quote from the Broadcom CEO:
+
+
+"I want to take one area in particular, which is the network processor space. We've got some tremendous
+technology from NetLogic. We looked at all the different companies and we evaluated their technology. We're
+looking to buy one. And we decided NetLogic was by far the best, so we bought them. And how has that
+done? It's gone very well. We're shipping our 40-nanometer product in volume today. We're sampling our 28-
+nanometer product, which we believe is best-in-class in the space. We're ramping a lot of new customers,
+seeing good traction. We've grown that group every quarter since we acquired it. We're gaining share and
+we're expanding from the data plane into the control plane. So an opportunity to grow into a new space, okay,
+with those processors. So we're very excited about this technology. We think it's doing very well. We have
+very high hopes for it going forward." - Broadcom CEO, December 2012 Analyst Day
+
+
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+EZCH now has direct competition in high-end NPUs where it historically had little or none. Whether this
+competitive dynamic impacts EZCH on price, market share, or growth opportunities is hard to speculate, but
+we think that the stock isn't fully discounted for this piece of information.
+
+
+25 Mar 2013, 02:28 PM
+
+
+mullenjl
+Re: Your continued use of BRCM in supporting your short against EZCH….
+
+
+You appear to somewhat agree with me re: BRCM’s hype, saying…
+
+
+** ”…You're right that Broadcom's track record is not beyond critique and it could fail to gain customers for its
+edge router products. But it's nevertheless dangerous to completely dismiss their entry….” Into EZCH’s
+markets.
+
+
+I’d say it’s even more “dangerous” to short a viable and growing company that has over many years
+established a significant customer base in a very specialized field and states …
+
+
+”…(EZCH).."...Our experience in developing several generations of network processors with integrated traffic
+managers, as well as working closely with leading carrier equipment vendors has enabled us to develop the
+expertise and gain deep understanding of our target systems, the requirements and how they are best
+addressed. We believe this represents a considerable barrier of entry for potential competitors.”
+
+
+….yet , you go on to use BRCM’s CEO’s comments supporting your case, saying ,…**…” The CEO of a $20
+billion company does not spend 5 minutes at his annual investor day to expound on a revenue opportunity
+that doesn't exist. …” quoting their CEO’s comments regarding the Netlogic acquisitions hyping their NPU
+business….
+
+
+…..+ “…by far the best, so we bought them… And how has that done? It's gone very well….We're shipping
+our 40-nanometer product in volume today. We're sampling our 28-nanometer product, which we believe is
+best-in-class in the space. We're ramping a lot of new customers, seeing good traction…”
+
+
+>>>>>
+
+
+I stated in two previous posts, BRCM has a habit of seriously hyping their “opportunitities” and missing their
+“goals” by years (8 years and counting in the baseband market)
+
+
+Does BRCM currently sell a product that competes with EZCH NPU 3 or 4 or 5?
+
+
+Does BRCM have one design win with Cisco in EZCH’s NPU space?
+
+
+Until the above happens your short story is “dangerously” based purely on speculation at the highest level.
+
+
+25 Mar 2013, 05:05 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  You laud EZchip's customer base. OK, let's talk about that customer base. EZchip earns 40-
+50% of its revenue from a customer that could build an in-house chip within a year or two, should it decide to
+dedicate resources to the task. EZCH longs argue that Cisco won't bring designs in-house because it would
+
+
+
+https://seekingalpha.com/user/5615341
+
+https://seekingalpha.com/symbol/ezch
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+distract focus from other areas. OK, this seems reasonable when Cisco's costs for the EZChip designs are
+$20m to $30m (we're not even including the costs that go to MRVL for the manufacturing). But the EZchip
+long thesis is based on revenues doubling over the next 3 years. Would Cisco still be willing to use EZchip
+designs if it were costing it $70m to $100m? And frankly, why would Cisco even be willing to pay that much?
+Why not just tell EZchip that they don't want to. What is EZCH going to do -- stand up to Cisco and lose 50%
+of their revenue base?
+
+
+Another 20% of revenue is transitory, as Juniper decided to move to in-house silicon in 2009. ZTE is a lumpy,
+unpredictable 10% contribution and EZCH has little visibility on their near-term spending habits. The final two
+Top 5 router vendors are Alcatel (not a customer) and Huawei (a partial customer in the best-case scenario).
+Examples abound in the tech hardware sector of niche merchant vendors with extreme valuations whose
+shares fell overnight on the loss of a key customer account.
+
+
+I'm not sure whether anyone knows with certainty whether BRCM is selling NPUs to Cisco. Broadcom earns
+$8bn a year, making it unlikely that they would call out a design win that stole a measly $25m of revenue from
+EZchip. But BRCM is just one of the many risks present in this name. What you've neglected to focus on are
+EZCH's production delays, constant shareholder dilution, the low likelihood that management can live up to
+the market's expectation of 30%/year revenue growth, etc. That 30% growth hurdle is the consensus view.
+Anything less and investors/analysts will be disappointed and the stock likely falls.
+
+
+26 Mar 2013, 10:59 AM
+
+
+rivershore
+Page 19 of EZCH's current 20F states:
+
+
+"Cisco has selected a customized version of the NP-3, NP-4 and NP-5 for its principal CESR platforms."
+
+
+Page 20 of the same document states:
+
+
+"ZTE has also selected the NP-4 and NP-5 for several of its CESR platforms."
+
+
+http://1.usa.gov/XC5j5j
+
+
+25 Mar 2013, 02:38 PM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  Thanks. Management's language on this issue has been vague. But it's really not an
+important part of our argument for why we think EZCH is overvalued. So rather than get into a back-and-forth
+debate about vague management commentary around a trivial matter, we just asked Seeking Alpha to
+remove that argument. The article has since been edited.
+
+
+25 Mar 2013, 10:17 PM
+
+
+rivershore
+It's not trivial to your competition hypothesis if Cisco and ZTE have "selected" the NP-5 over the Broadcom
+BCM 88030. Given that BRCM announced the BCM 88030 series 11 months ago, presumably CSCO and
+ZTE evaluated the NP-5 against the Broadcom product. Why do you think this new information is trivial? If
+
+
+
+https://seekingalpha.com/user/569607
+
+http://1.usa.gov/XC5j5j
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/user/569607
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+CSCO and ZTE had selected BCM 88030 over the NP-5, you would be trumpeting that announcement as
+validation of your hypothesis, right?
+
+
+26 Mar 2013, 07:12 AM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  We call it trivial only in the context of our overall short thesis, in that an NP-5 design loss is
+only one of many ways that EZCH would fail to hit the Street's 30% growth target. It's hard to argue that the
+entry of a lower-cost, horizontally-integrated competitor into this niche field won't at all challenge pricing and
+market share. Perhaps EZCH does have an NP-5 design win in one class of routers, but maybe Cisco and
+ZTE also source BRCM silicon for another 100Gb device. Or maybe the vendors leverage BRCM's presence
+to negotiate EZCH down on pricing. And Huawei's order delay might be because they are using BRCM silicon
+(EZCH only speculates that it's in-house). At a price of 32x P/E, the valuation does not incorporate the
+potential for these suboptimal scenarios to play out.
+
+
+As for the specific issue of ZTE and Cisco being customers of EZchip's NP-5 product, I recognize the
+disclosure you point out.  
+Yes, "Cisco has selected a customized version of the NP-3, NP-4 and NP-5 for its principal CESR platforms"
+and "ZTE has also selected the NP-4 and NP-5 for several of its CESR platforms." These statements don't
+elaborate on the extent of the Cisco / ZTE relationships / contracts with respect to the NP-5.
+
+
+Management had plenty of opportunity to clarify the extent of the NP-5 contracts in its conference call. Here's
+the call transcript: http://seekingalpha.co...
+
+
+Search for the term NP-5. And see for yourself whether the company uses language that confirms that
+customers have already selected the NP-5, or that management "believes" and "expects" NP-4 customers to
+transition to the NP-5.
+
+
+26 Mar 2013, 02:58 PM
+
+
+TheSnail
+ha..ha..ha..ha...ha
+
+
+Hello Mr. bank
+
+
+08 May 2013, 03:27 PM
+
+
+Fasterrats
+I'm not convinced you understand the business, nor have you done your homework (as rivershore has pointed out...).
+
+
+Exactly what CESR products do you foresee BRCM getting into?
+
+
+CSCO's edge strategy is clearly the ASR line (EZCH), and I believe their last line to address this market (Catalyst
+6000 & 7000 lines) lasted almost a decade, and is still going strong...
+
+
+Ericsson's eggs (for Easter) are in the SSR basket (EZCH), and their last edge line (Redback) goes back to when I
+worked for BBN/Genuity (over a decade ago).
+
+
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+http://seekingalpha.co/
+
+https://seekingalpha.com/user/86409
+
+https://seekingalpha.com/user/10374961
+
+https://seekingalpha.com/symbol/ezch
+
+https://seekingalpha.com/symbol/ezch
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+JNPR has Trio which they spent 5 years developing, and ALU has the FF3, which was a result of the Timetra
+acquisition, several years ago. Both of these are ASIC solutions. I can't see them going away anytime soon, based on
+the investment these companies sunk into them.
+
+
+ZTE has been with EZCH since the NP-1, and their "next-gen" edge products are "Powered by EZCH":
+
+
+ftp://ftp.intellecom.n...
+
+
+For that matter, Tellab's 8660, CIEN 6500 and several other smaller routing companies have based their "next-gen"
+products on EZCH (ECI, RAD, etc.) and these are very sticky design wins. EZCH is still enjoying NP-2 revenue from
+JNPR's MX and SRX lines nearly 8 years later and several years after Trio was released.
+
+
+I believe the last time I looked, Hauwei had less than 8 percent share of the CESR space. Not very impressive, but
+they will contribute on the high end in the future.
+
+
+The market has already decided for the foreseeable future. I believe the expression to be: "A day late and a dollar
+short".
+
+
+26 Mar 2013, 03:20 PM
+
+
+TheSnail
+Let's see who we should believe. First up is the financial wizards who wrote this article. From their website: 
+About 
+Kerrisdale Capital is an investment management firm based in New York. 
+We make value-oriented investments in public securities. 
+Thank you for visiting our website.
+
+
+Very informative, well done chaps.
+
+
+Next the proven track record of Paul McWilliams at NextInning.com.  
+An engineer. A veteran of the semi-conductor industry. A proven track record of technology investment and
+understanding of macro-economics. (My observations as a subscriber to NextInning.com for 5 years.)
+
+
+The votes are in. I am going with the gentleman that I have identified during my last ten years of investing as one of
+the sharpest tacks in the box. Mr. Paul McWilliams.
+
+
+Thanks to KCM for allowing me to buy more below $25.
+
+
+26 Mar 2013, 03:27 PM
+
+
+Milo2
+Excellent rebuttals. Although no investment is without risks that might not even be known, this article is mostly
+innuendo and hyperbole. The fact is that EZchip is the dominant NPU at present and in the foreseable future. Then to
+be followed with the NPS product. The only reason EZ has not delivered on the revenue growth previously expected
+is because of the end users, the carriers, decision to not spend in 2012. It is not the fault of EZ as they have no
+control over the end users spending. This in itself is a risk in investing in an EZchip type of company. But capex
+spending is up with many billions of dollars being committed to expanding the network by the carriers going into 2013.
+
+
+
+https://seekingalpha.com/user/86409
+
+https://seekingalpha.com/user/6508991
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+It is true that EZ has reduced its revenue targets going forward and that was a reason to short the stock, but at a
+much higher level. Now, with revenues poised to increase based on carrier capex spending AND THE KNOWN
+CONTRACT WINS in multiple carrier platforms, EZ is ready reap the rewards and from a much lower stock price and
+a much reduced current P/E.
+
+
+I see no reason why, barring the unforeseen, which is always a potential risk, that EZ cannot achieve the reduced but
+still dynamic growth of 30% a year for the next several years.
+
+
+26 Mar 2013, 04:00 PM
+
+
+xyq11
+I suspect that the author of this article has already taken a rather large short position against EZCH and is attempting
+to use repeated articles on Seeking Alpha to scare investors in order to gain some advantage for his position. ( I think
+his last article sent EZCH down and it immediately bounced back up the same day). If this is the rationale for these
+articles, then all of the facts and discussion in this matter will not dissuade him. Also, if this is true, the use of calling
+others myopic is especially ironic. But thanks to all who commented on these articles.
+
+
+26 Mar 2013, 08:29 PM
+
+
+wontondon
+Thank you for the opportunity to buy more EZCH at a lower price.
+
+
+27 Mar 2013, 06:03 PM
+
+
+wz1993
+BRCM CEO took 5 mins talking about Net Logic acquisition and their technology, it doesn't mean they have a product
+to compete with EZCH. Though Net Logic was focused on NP area too, however, their product doesn't compete with
+EZ directly, they address the different need in network protocol, and their chips were co-exist with EZ in the EDGE or
+CORE route product before they were taken over. Another former BRCM aquisition (Sandpiper) years ago had the
+chips directly compete with EZCH, however, i don't think they have any such product now since EZ beat it badly.
+
+
+28 Mar 2013, 12:32 AM
+
+
+David M. Gordon, Contributor
+I am neither long nor short EZChip/EZCH, but I recognize excellent analysis when I read it. Thank you.
+
+
+EZCH achieved its all time high almost precisely 1 year ago at $46.79. (This high bettered its previous high by a few
+$$.) Since that high, it has endured a hellacious plummet, more than 50% from high to intra-day low. Now it sits only a
+few $$ above that intra-day low.
+
+
+Your worst case scenario calls for $12/share, approximately another 50% plummet from its current price... But only
+another ~$12/share. Is it time, perhaps, to begin to look the other way? That is, long term investors should buy
+declines to $20, or even $12...? Perhaps you view EZCH as a terminal short?
+
+
+If this company's widget is SO good, why is it still a one product company that sells to only one company? Certainly
+other companies would be beating down their door to buy or license their technology if it is so good.
+
+
+
+https://seekingalpha.com/user/3840981
+
+https://seekingalpha.com/user/219945
+
+https://seekingalpha.com/user/774412
+
+https://seekingalpha.com/author/david-m-gordon
+5/23/2018 EZchip: Bullish Case Continues To Myopically Overlook Competitor Comments, Production Delays, And Stock-Based Compensation Exp…
+
+
+https://seekingalpha.com/article/1297781-ezchip-bullish-case-continues-to-myopically-overlook-competitor-comments-production-delays-and-stock-based-compensati
+
+
+Thank you for your reply.
+
+
+28 Mar 2013, 09:52 AM
+
+
+Sirvasq
+So, what does a shortie do when ASR9000 sales go up 69%, per the CSCO conference call?
+
+
+15 Aug 2013, 06:50 PM
+
+
+Sirvasq
+Congratulations to team $EZCH for their record breaking quarter, their #1 market share confirmed by The Linley
+Group, their 84% GM and their beating earnings once again, top and bottom line.
+
+
+06 Nov 2013, 09:26 AM
+
+
+Kerrisdale Capital Management, Contributor
+Author’s reply »  This stock is still very overvalued. It was another quarter of uninspiring revenue and earnings, and
+it's a bit shocking that the stock price continues to hover at its current levels.
+
+
+06 Nov 2013, 08:33 PM
+
+
+sethbru, Contributor
+It is indeed "shocking that the stock price continues to hover at its current levels" - the stock is way
+UNDERvalued. EZCH's cash is 27% of its market cap. After backing out cash, their forward PE is only 11
+while now growing at a 30% annual rate. Their gross profit margins are 85% and they are banking half their
+revenues each quarter while continuing R&D on their game-changing NPS chip (see article "EZChip Breaks
+the NPU Mold" from 10-15-12 at http://www.MPRonline.com). This company is more than financially sound,
+undervalued, increasing its cash reserves each quarter, growing, and on the cusp of introducing their
+revolutionary NPS chip. This is a rare price dislocation representing a great buying opportunity.
+
+
+08 Nov 2013, 10:09 AM
+
+
+Sirvasq
+It is pretty obvious from your writing that you misunderstand the technology, the business model, the competition and
+$JNPR, $CSCO and networking in general. Did you listen to either the $CSCO events or the conference call. 102%
+YOY revenue growth annually is inspiring enough. I am amazed at your persistence and willingness to try to distort
+the facts. Do you realize that $JNPR revenue has gone up for 10 years AFTER they started their own ASIC. That
+$CSCO reiterated it's value of $EZCH. That Linley says NO ONE has a better product than NPS. That data center is
+not even factored into the $EZCH real value of $40. I will continue to bet against you. I am not losing sleep over the
+risk. $EZCH owns the long tail in networking. #1 market share now and in the future with the NPS.
+
+
+07 Nov 2013, 10:12 AM
+
+
+
+https://seekingalpha.com/user/311932
+
+https://seekingalpha.com/user/311932
+
+https://seekingalpha.com/author/kerrisdale-capital-management
+
+https://seekingalpha.com/author/sethbru
+
+http://www.mpronline.com/
+
+https://seekingalpha.com/user/311932
+
+https://seekingalpha.com/symbol/JNPR
+
+https://seekingalpha.com/symbol/CSCO
+
+https://seekingalpha.com/symbol/CSCO
+
+https://seekingalpha.com/symbol/JNPR
+
+https://seekingalpha.com/symbol/CSCO

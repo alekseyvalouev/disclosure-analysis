@@ -1,0 +1,618 @@
+We are short shares of Straight Path Communications, a disgraced “5G” hype vehicle whose
+stock price surged last week for an unusual reason: the announcement of a harsh regulatory
+crackdown. After a pseudonymous short seller in 2015 accused Straight Path of “fraud,” the
+FCC opened its own investigation into whether the company had violated its legal duty to
+actually provide service rather than merely hoard spectrum for the sake of speculation. To end
+this investigation, Straight Path agreed to pay up to $100 million over time, surrender many of
+its licenses, and sell its entire remaining spectrum portfolio, with 20% of the sale proceeds going
+to the FCC.
+
+
+The market greeted this news joyously, apparently relieved that Straight Path had avoided an
+even more draconian penalty and convinced that a spectrum sale would be fast and lucrative.
+This optimism is badly misplaced. Straight Path’s spectrum is worth far less than the company’s
+current half-billion-dollar market cap. Indeed, as we discuss below, Verizon is set to buy a
+similar amount of higher-quality spectrum from a sophisticated, deep-pocketed seller – Carl
+Icahn – for just $200 million, 61% lower than where Straight Path trades, implying massive
+downside for its stock price even before taking into account the harsh FCC penalties. Adjusting
+for these penalties and the lower quality of Straight Path’s spectrum, we believe the true
+downside exceeds 70%. The notion that a company that holds less than $10 million in cash,
+burns $7 million a year, and must pay out $15 million in fines in the next nine months will drive a
+drastically harder bargain than Carl Icahn – in a government-mandated fire sale – is beyond
+absurd. Yet to own Straight Path at this price, that’s what one must believe.
+
+
+Further weakening Straight Path’s bargaining position is the immense supply of alternative
+millimeter-wave spectrum. In a rulemaking concluded last July, the FCC effectively expanded
+the 39GHz band that houses the vast majority of Straight Path’s spectrum by 71%; with so
+much directly adjacent greenfield spectrum, Straight Path’s holdings are nothing special.
+Moreover, a follow-on rulemaking, initiated at the same time and now in its final phase,
+proposes to open up an additional 18 gigahertz of mmWave spectrum for mobile use, likely
+quintupling the existing inventory and further diluting Straight Path’s value.
+
+
+As much as management might want to raise capital and hold out for an unrealistic sweetheart
+deal, a little-noticed term of the FCC settlement makes that a dangerous strategy, allowing the
+FCC to re-open its investigation after twelve months and potentially revoke Straight Path’s
+licenses. Likewise, shareholders confident that Straight Path’s former parent company will foot
+the bill for its fines fail to appreciate the legal subtleties that put this outcome in serious doubt.
+But who can blame them? At this point, hope is the only real asset Straight Path has left.
+
+
+January 2017
+
+
+Straight Path Communications Inc. (STRP)
+Setting the Story Straight
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC and its affiliates
+(collectively, “Kerrisdale”), have short positions in the stock of Straight Path Communications Inc. (the
+“Company”).  Other research contributors, and others with whom we have shared our research (collectively
+with Kerrisdale, the “Authors”) likewise have short positions in the stock of the Company.  The Authors
+stand to realize gains in the event that the price of the stock decreases. Following publication, the Authors
+may transact in the securities of the Company. The Authors have obtained all information herein from
+sources they believe to be accurate and reliable. However, such information is presented “as is,” without
+warranty of any kind – whether express or implied – and without any representation as to the results
+obtained from its use. All expressions of opinion are subject to change without notice, and the Authors do
+not undertake to update this report or any information contained herein. Please read our full legal disclaimer
+at the end of this report.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 2
+
+
+Table of Contents
+I. STRAIGHT PATH’S SPECTRUM ISN’T WORTH MUCH ............................................................3
+
+
+II. SPECTRUM LIKE STRAIGHT PATH’S IS ABUNDANT ..............................................................6
+
+
+III. REGULATORY RISK STILL LOOMS..............................................................................................8
+
+
+IV. INDEMNIFICATION MAY NOT HELP ........................................................................................9
+
+
+V. CONCLUSION ................................................................................................................................ 10
+
+
+FULL LEGAL DISCLAIMER....................................................................................................................11
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 3
+
+
+I. Straight Path’s Spectrum Isn’t Worth Much
+
+
+What will potential buyers pay for Straight Path’s portfolio? The most obvious benchmark is the
+Verizon/XO Holdings deal announced last February. In that set of transactions, Verizon
+acquired rights to two distinct assets: the fiber-optic network business of XO Communications,
+bought for $1.8 billion (with expected synergies and tax benefits valued at $1.5 billion); and the
+millimeter-wave spectrum held by an XO Holdings subsidiary called Nextlink. In lieu of an
+outright purchase, Verizon is leasing the spectrum through 2018, with an option to buy it at
+expiration, which observers widely expect Verizon to exercise.
+
+
+Unfortunately, Verizon’s initial press release didn’t disclose what it would actually have to pay to
+acquire the XO spectrum in 2018. However, industry sources, including the investment bank
+UBS, indicate that the strike price is $200 million. Below we reproduce the relevant section from
+a February 22 UBS research note on Verizon:
+
+
+UBS Disclosure of Verizon Purchase Price for XO Spectrum
+
+
+Source: UBS, “Verizon Communications: XO Fiber Network Purchase All about 5G,”
+February 22, 2016, p. 1
+
+
+Investor’s Business Daily summarized the same UBS piece and provided the same $200 million
+figure; the spectrum expert Tim Farrar has also alluded to it publicly.1 Though XO is a private
+company (solely owned by Carl Icahn), FCC filings allow us calculate how much mmWave
+spectrum it holds, which amounts to 189.6 billion MHz-pops, the vast majority of which is in the
+28GHz LMDS band. Paying $200 million for roughly 200 billion MHz-pops implies a price per
+MHz-pop – a common spectrum valuation metric – of a tenth of a penny.
+
+
+1 See e.g. his tweets from July 30 (“And VZ $200M option on XO spectrum sets pretty hard limit on
+39GHz which will be worth less per MHzPOP”) and September 5 (“And why pay a huge premium for
+midband when high frequencies will be incredibly cheap (viz $200M option price for XO spectrum)”).
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 4
+
+
+Verizon/XO Implied Spectrum Pricing
+
+
+Source: FCC filings, Kerrisdale analysis
+
+
+Strikingly, this price closely resembles what MetroPCS paid Straight Path for a combination of
+LMDS and 39GHz spectrum in the New York, San Francisco, Las Vegas, and Orlando markets
+in 2012 – namely, $0.0010 per MHz-pop2 – implying that, notwithstanding the dawn of 5G and
+renewed enthusiasm about mmWave technology, high-frequency spectrum prices have barely
+moved. Nor is there any indication that XO’s spectrum sparked a fierce bidding war among
+Verizon’s competitors; to the contrary, Icahn’s public statement about the deal expresses not
+triumph but resignation:
+
+
+Although this sale to Verizon does not represent a significant annualized return on our
+investment, we believe that in today’s environment it does represent the best achievable
+outcome for the company’s customers, employees and owner.
+
+
+How does XO’s spectrum portfolio compare to Straight Path’s? In sheer size (as well as
+geographic scope), it’s similar; XO holds 190 billion MHz-pops, while Straight Path holds 222
+billion. Simply applying the same aggregate price per MHz-pop to Straight Path’s portfolio would
+value it at $234 million – 54% below the company’s current market cap even before factoring in
+the FCC penalties. Clearly the gulf between where Straight Path is trading and where the
+Verizon/XO transaction implies it should be is enormous.
+
+
+Refining the analysis further, we exclude from XO’s total MHz-pops the portion of the LMDS
+band that has not been authorized for mobile use – everything outside the A1 block that runs
+from 27.5 to 28.35 GHz. Valuing non-A1 LMDS spectrum at zero necessarily implies a higher
+price for the remaining, almost entirely A1 spectrum, which amounts to $0.0016 per MHz-pop.
+While this price might serve as a reasonable benchmark for Straight Path’s own 28GHz A1
+spectrum, it’s too high for its far larger holdings of 39GHz spectrum, which suffer from inferior
+propagation as a result of their higher frequencies and thus are more costly and difficult to
+deploy. To adjust for the difference in frequencies, we use a piece of technical analysis
+prepared by AT&T Labs’ Advanced Wireless Technology Group and submitted to the FCC in
+
+
+2 See Straight Path’s FY2013 10-K, p. 12, and FCC filings including transaction-related public interest
+statements (1, 2). MetroPCS paid $6.8 million for what we estimate to be ~7.1 billion MHz-pops.
+
+
+XO MHz-pops (mm):
+LMDS 185,811
+39 GHz 3,804
+
+
+Total 189,615
+XO spectrum purch. price ($mm) 200$
+
+
+Value per MHz-pop 0.0011$
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 5
+
+
+July 2016, comparing the simulated performance of 28 and 39GHz spectrum.3 AT&T concludes
+that “a licensee will need somewhere between 44% - 66% more spectrum in the 39GHz band to
+provide the same cell edge data rate with the same cell radius as compared to 28GHz.” If it
+takes 1.44x to 1.66x more 39GHz spectrum than 28GHz spectrum to accomplish the same
+network goals, then 39GHz spectrum must only be 60-69% as valuable.4 Bringing all these
+figures together below, we find that the gross value of Straight Path’s spectrum is, at best, $260
+million.
+
+
+Straight Path Spectrum Portfolio:
+Gross Value Using Verizon/XO Pricing
+
+
+Source: FCC filings, Kerrisdale analysis
+Note: 39 GHz is valued at 65% of 28 GHz (the midpoint
+of 60 and 69%, as derived from the AT&T analysis
+above).
+
+
+But we have yet to consider the sizable negative impact of Straight Path’s civil penalties. Under
+the terms of the consent decree, Straight Path has three options:
+
+
+ sell all of its spectrum within twelve months, pay 20% of the proceeds to the FCC, and
+pay an additional $15 million;
+
+
+ sell all of its spectrum more slowly, pay 20% of the proceeds to the FCC, and pay an
+additional $100 million; or
+
+
+ renounce its licenses within 12 months and pay $15 million.
+
+
+Complicating matters further, if Straight Path sells non-spectrum assets as part of a spectrum
+transaction, it may attribute $50 million in value to those assets (“the Excluded Amount”),
+reducing the size of the 20% cut it owes the FCC.
+
+
+Assuming Straight Path doesn’t simply renounce its licenses, we consider the first two scenarios
+below, generously giving the company full credit for the Excluded Amount (which wouldn’t apply
+in a straightforward spectrum sale). In any market, motivated sellers fetch lower prices for their
+assets, and Straight Path will be no different: any potential buyers will be well aware of the
+pressures facing the company, including the step-up in penalties associated with a delayed
+sale, and they will exploit their position of relative strength. Thus we assign a 20% price
+
+
+3 Alternatively, a simple rule of thumb suggests that spectrum value decreases as the square of the
+frequency (because of free-space path loss), implying that 39 GHz is (28/39)² = 51% as valuable as 28
+GHz, a result similar to what the AT&T analysis indicates.
+4 1/1.44 = 69%; 1/1.66 = 60%.
+
+
+MHz-pops
+(mm)
+
+
+$/MHz-
+pop
+
+
+Value
+($mm)
+
+
+28 GHz (A1 only) 46,464 0.0016$ 75$
+39 GHz 175,625 0.0011$ 184
+
+
+Total 260$
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 6
+
+
+discount in the scenario in which Straight Path sells in the next twelve months. Nonetheless,
+based on the XO valuation, it still appears that a fast sale would be better for Straight Path than
+incurring the $85 million penalty and holding out. In any event, though, Straight Path
+shareholders face massive value destruction, with ~70% downside from current prices.
+
+
+Straight Path Spectrum Sale:
+FCC Penalty Scenarios
+
+
+Source: Kerrisdale analysis
+
+
+II. Spectrum Like Straight Path’s Is Abundant
+
+
+Straight Path’s management likes to depict the company’s spectrum as a unique asset, offering
+any carrier a dominant position in the 39GHz band that will supposedly be a crucial part of
+mmWave 5G. Whether such technology will ever take off on a large scale remains an open
+question; in fact, recent writings by industry experts entitled The 5G Myth: When Vision
+Decoupled from Reality and “5G Economics: An Introduction” signal a broader reassessment of
+whether the benefits of 5G have been overhyped in light of its potentially staggering
+infrastructure and operating costs. Nevertheless, if we just assume more carriers are interested
+in acquiring mmWave spectrum for 5G, is Straight Path a particularly attractive option?
+
+
+No. After being forced to give up 93 of its 39GHz licenses as part of the FCC consent decree,
+Straight Path’s remaining 39GHz portfolio contains only 40% of the band’s MHz-pops – leaving
+some 838 MHz (on a nationwide population-weighted basis) in the hands of others, primarily the
+FCC, which will ultimately auction off unused licenses. Even more importantly, these figures
+consider only the conventional 38.6-40GHz band, with 1.4 GHz of total bandwidth. However, in
+its July 2016 report and order, the FCC applied identical technical and licensing rules to the
+adjacent band from 37.6 to 38.6 GHz, supplying another 1,000 MHz of pure greenfield spectrum
+that will also be auctioned. Furthermore, the 37-37.6 GHz band just next door has also been
+authorized for mobile use, albeit on a shared basis with the Federal government, giving carriers
+interested in mmWave experimentation yet another low-cost alternative (once the sharing
+arrangement is further fleshed out). The diagram below summarizes the setup, making it clear
+
+
+Fast sale Slow sale
+Gross spectrum value 260$ 260$
+20% duress discount (52) -
+
+
+Net spectrum value 208$ 260$
+Upfront penalty (15) (15)
+Additional penalty - (85)
+FCC share of proceeds (32) (42)
+
+
+Net company value 161$ 118$
+Per share 12.94$ 9.45$
+
+
+Downside (68)% (77)%
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 7
+
+
+that multiple carriers will find it easy to acquire very large amounts of spectrum just like Straight
+Path’s without having to engage with the company at all. No one is clamoring to scoop up
+Straight Path’s particular holdings.
+
+
+Straight Path: 39GHz Holdings in Context
+
+
+Source: Kerrisdale analysis
+Note: Straight Path segment reflects nationwide population-weighted average and assumes the company will
+successfully repack its discontiguous channels starting from the lower edge of the 38.6-40.0GHz band. In
+reality, individual geographic markets will vary.
+
+
+Indeed, while Straight Path tries to focus investor attention on just the 38.6-40GHz band in
+which it holds a plurality (though not a majority) of the MHz-pops, it’s clear that other industry
+participants take a broader view. For instance, T-Mobile’s 5G-related experimental FCC license
+covers the entire 37-40GHz band (as well as the 28GHz band) – not just Straight Path’s piece.
+The same is true for AT&T; meanwhile, the fixed-wireless startup Starry applied only to use the
+lower-frequency greenfield segments. In fact, FCC rules now mandate that devices operating
+anywhere from 37 to 40GHz must support the entire band, including the shared segment,5
+thereby ensuring that “incumbent” spectrum like Straight Path’s has no special advantage. With
+so much highly similar supply in the pipeline and with major commercial mmWave deployments
+still years away, no buyer will be in a hurry to pay up for Straight Path.
+
+
+In the months to come, the supply picture for Straight Path will only get worse. Under the FCC’s
+Further Notice of Proposed Rulemaking regarding mmWave spectrum, the agency has already
+proposed to authorize mobile operations in additional bands containing some 18 GHz of
+spectrum (~27x what Straight Path holds):
+
+
+ The 24GHz band: 700 MHz
+ The 32GHz band: 1,600 MHz
+ The 42GHz band: 500 MHz
+ The 47GHz band: 3,000 MHz
+ The 50GHz band: 2,200 MHz
+ The 70/80GHz bands: 10,000 MHz
+
+
+5 See Spectrum Frontiers Report & Order, paragraph 323.
+
+
+Completely vacant
+(37.6-38.6 GHz)
+
+
+37 GHz 40 GHz
+
+
+Shared
+(37.0-37.6
+
+
+GHz)
+
+
+Straight Path
+(~38.6-39.2)
+
+
+Mostly vacant
+(~39.2-40.0 GHz)
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 8
+
+
+While different bands will have different idiosyncrasies, the overall direction of policy is clear:
+much, much more mmWave will be opened up for mobile use. In fact, in light of the current
+Republican FCC commissioners’ avowed disappointment6 that even more bands weren’t
+opened up even faster, as well as the Trump transition team’s distaste for the warehousing of
+large chunks of spectrum by the Federal government, this trend toward increased commercial
+supply will likely accelerate. Verizon was not merely talking its book when it said the following in
+October:
+
+
+It would be impossible for any firm to exclude a competitor by purchasing “too much” mmW
+spectrum because a large amount of mmW spectrum in the 5G pipeline will be released
+continuously for many years. So any competitor that fails to acquire spectrum necessary for
+its operations will have numerous future opportunities to correct its lack of spectrum.
+
+
+For mmWave spectrum, then, the FCC has ensured that it’s a buyer’s market, not a seller’s
+market, putting Straight Path in a dire position.
+
+
+III. Regulatory Risk Still Looms
+
+
+Despite the high cost of Straight Path’s FCC settlement, the company’s shareholders have
+breathed a sigh of relief, glad that the regulator’s sword no longer dangles over their heads. But,
+while the settlement did resolve the FCC’s previous investigation, a careful reading of the
+underlying consent decree shows that risks still remain in the event that Straight Path drags out
+its spectrum sale. Consider paragraph 17 of the decree:
+
+
+Enforcement of Part 101 Discontinuance of Service Rules. The Bureau agrees not to
+pursue an investigation of Straight Path for a violation of the discontinuance of service
+provisions contained in Sections 101.65 or 101.305 of the Rules regarding the License
+Portfolio for the period of time between the Effective Date and earliest of: (i) the closing
+date of the last transaction(s) to transfer or assigns the License Portfolio as specified in
+paragraph 16; (ii) the occurrence of an Event of Default as specified in paragraph 19; (iii) or
+twelve (12) months from the Effective Date, unless applications are pending with the
+Commission to transfer or assign the entirety of the License Portfolio as specified in
+paragraph 16.
+
+
+The “discontinuance of service provisions” are rules mandating that any licensee who
+permanently discontinues wireless service thereby automatically forfeits its license and must
+notify the FCC. Straight Path has strenuously maintained that, when it told the FCC it provided
+“substantial service” using its spectrum as of the required buildout deadlines, it was telling the
+
+
+6 See e.g. Commissioner Pai and Commissioner O’Reilly’s statements regarding the Spectrum Frontiers
+R&O.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 9
+
+
+truth – but, given that the company currently generates less than $700,000 of annual revenue7
+from a nationwide spectrum portfolio and had to conduct its own investigation just to ascertain
+what equipment it still had deployed where, it’s clear that, in any plain-English sense of the term,
+it doesn’t provide “substantial service” anymore. The consent decree lets Straight Path off the
+hook, but only for a limited time. If twelve months elapse and Straight Path still hasn’t sold its
+spectrum, the FCC reserves the right to re-initiate an investigation – and if it finds that Straight
+Path has permanently discontinued service with respect to any of its licenses, the company
+could simply lose them. This provision thus puts Straight Path under additional pressure to sell
+quickly; while the FCC might not immediately go after the company again, the prospect of
+catastrophic loss through regulatory action is not something to trifle with. Straight Path simply
+doesn’t have the luxury of taking its time.
+
+
+IV. Indemnification May Not Help
+
+
+During Straight Path’s conference call last week, some questioners appeared to be confident
+that the company could force its former parent, IDT Corporation (from which it spun out in
+2013), to bear the cost of the FCC settlement, under the theory that the wrongdoing that gave
+rise to the settlement took place prior the spinout. Though this idea sounds plausible, the reality
+is far less clear-cut. Under the separation agreement between IDT and Straight Path, Straight
+Path has sole responsibility for “SPCI [Straight Path Communications Inc.] Liabilities,” which
+include
+
+
+any and all Liabilities of IDT, SPCI, or any of their respective Affiliates, primarily relating to,
+arising out of or resulting from the operation or conduct of the SPCI Business or any other
+business, or the ownership or use of the Assets of SPCI, as conducted at any time on or
+after the Effective Time  (including any Liability relating to, arising out of or resulting from
+any act or failure to act by any director, officer, employee, agent or representative of IDT,
+SPCI, or any of their respective Affiliates (whether or not such act or failure to act is or was
+within such Person’s authority), in each case arising before the Effective Date…
+
+
+While this passage is poorly drafted (and even suffers from unbalanced parentheses), it
+appears to say that Straight Path bears any liabilities flowing from the conduct of its business
+after the spinoff date, even when those liabilities can also be traced back to pre-spinoff actions.
+But there’s a good case to be made that Straight Path’s troubles with the FCC have at least as
+much to do with its own post-spinoff conduct as with anything that came before. While Sinclair
+Upton Research accused Straight Path of simply lying about its network buildout to retain its
+licenses, Straight Path itself consistently maintained that it told the truth, as the consent decree
+itself notes:
+
+
+7 See FY2017 Q1 10-Q showing $159k of quarterly revenue, entirely attributable to the Straight Path
+Spectrum segment.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 10
+
+
+In response to the preliminary investigation of Morgan Lewis following the investigation
+of a limited number of sites, Straight Path released a statement that “a significant
+amount of the equipment that had been installed in connection with the substantial
+service showings [was] no longer present at the original locations.” As part of the
+Morgan Lewis investigation, Straight Path reported that “[i]nterviews and
+contemporaneous documents consistently confirm that equipment was deployed at the
+original locations in connection with the substantial service applications, but the
+investigators concluded, based on the weight of the evidence, that the equipment was
+likely put in place for a short period of time at each location.” The Morgan Lewis
+investigation also determined that “the investigators did not find any evidence that the
+equipment used in connection with the substantial service applications is still present at
+the originally specified locations.” … In its October 11 LOI Response, Straight Path
+argued that the prior substantial service filings made for the 39 GHz licenses held by
+Straight Path Spectrum, LLC had satisfied the substantial service rules, that the
+Commission had accepted the filings, and that the 39 GHz licenses are not subject to
+the discontinuance rules.
+
+
+In other words, Straight Path and the law firm it engaged never backed away from the position
+that equipment really was installed to satisfy the buildout requirements; it’s just that it was only
+there “for a short period of time.” How short, and whether that period of time varied from location
+to location, has never been made clear. What the FCC felt it had sufficient evidence to conclude
+was not that Straight Path lied at the time of its “substantial service” showings (pre-spinout) but
+that it “had not actually deployed equipment with any permanency.” But did that failure to deploy
+“equipment with any permanency” take place before 2013, after 2013 – or, most likely, both?
+
+
+Because the FCC’s concerns pertained not just to a discrete set of statements made in 2011
+and 2012 but to an extended period of less-than-substantial service spanning the pre- and post-
+spinout periods, the question of who bears primary responsibility is inherently murky. Straight
+Path will argue that the failure was IDT’s, while IDT will argue that, by Straight Path’s own
+admission, the “substantial service” showings were truthful and it was Straight Path’s own fault
+that it did not maintain a level of performance acceptable to the FCC in 2013, 2014, 2015, and
+2016. Because the underlying legal issues are genuinely uncertain, it’s naïve to expect IDT to
+simply hand over the money without putting up a fight, and it’s perfectly possible that Straight
+Path will walk away empty-handed and face the full brunt of the penalties on its own.
+Shareholders betting on a rapid and favorable resolution will likely be disappointed.
+
+
+V. Conclusion
+
+
+Trading near its peak market cap despite a harsh regulatory crackdown and an onslaught of
+competing spectrum supply, Straight Path is highly overvalued. Simply using the Verizon/XO
+mmWave spectrum transaction as a benchmark implies a share-price decline of ~70% – and,
+given the weakness of the company’s position, it could easily be worse. The path has always
+been more crooked than straight, and now it's coming to an end.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 11
+
+
+Full Legal Disclaimer
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates
+(collectively "Kerrisdale") have short positions in the stock of Straight Path Communications Inc.
+(“STRP”).  In addition, others that contributed research to this report and others that we have
+shared our research with (collectively with Kerrisdale, the “Authors”) likewise have short
+positions in the stock of STRP. The Authors stand to realize gains in the event that the price of
+the stock decreases. Following publication of the report, the Authors may transact in the
+securities of the company covered herein. All content in this report represent the opinions of
+Kerrisdale. The Authors have obtained all information herein from sources they believe to be
+accurate and reliable. However, such information is presented “as is,” without warranty of any
+kind – whether express or implied. The Authors make no representation, express or implied, as
+to the accuracy, timeliness, or completeness of any such information or with regard to the
+results obtained from its use. All expressions of opinion are subject to change without notice,
+and the Authors do not undertake to update or supplement this report or any information
+contained herein.
+
+
+This document is for informational purposes only and it is not intended as an official
+confirmation of any transaction. All market prices, data and other information are not warranted
+as to completeness or accuracy and are subject to change without notice. The information
+included in this document is based upon selected public market data and reflects prevailing
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change.
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded
+as indicative, preliminary and for illustrative purposes only.
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility,
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated
+fundamental value only represents a best efforts estimate of the potential fundamental valuation
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a
+security, a summary of past performance, or an actionable investment strategy for an investor.
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell
+any investment, security, or commodity discussed herein or of any of the affiliates of the
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all
+information contained herein is accurate and reliable. The Authors reserve the rights for their
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed
+in this document at any time. As of the original publication date of this document, investors
+should assume that the Authors are short shares of STRP and stand to potentially realize gains
+in the event that the market valuation of the company’s common equity is lower than prior to the
+original publication date. These affiliates, officers, and individuals shall have no obligation to
+inform any investor or viewer of this report about their historical, current, and future trading
+activities. In addition, the Authors may benefit from any change in the valuation of any other
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  | Fax: 212.531.6153 12
+
+
+companies, securities, or commodities discussed in this document. Analysts who prepared this
+report are compensated based upon (among other factors) the overall profitability of the
+Authors’ operations and their affiliates. The compensation structure for the Authors’ analysts is
+generally a derivative of their effectiveness in generating and communicating new investment
+ideas and the performance of recommended strategies for the Authors. This could represent a
+potential conflict of interest in the statements and opinions in the Authors’ documents.
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+looking statements, which would include any statements that are not statements of historical
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions
+or beliefs about future events may turn out to be wrong. These forward-looking statements can
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other
+factors, most of which are beyond the Authors’ control. Investors should conduct independent
+due diligence, with assistance from professional financial, legal and tax experts, on all
+securities, companies, and commodities discussed in this document and develop a stand-alone
+judgment of the relevant markets prior to making any investment decision.
+Filename: STRP 006
+Directory: C:\Users\agnescao\AppData\Local\Temp
+Template:
+
+
+C:\Users\agnescao\AppData\Roaming\Microsoft\Templates\Norm
+al.dotm
+
+
+Title: BOFI - Kerrisdale
+Subject:
+Author: Navi Hehar
+Keywords:
+Comments:
+Creation Date: 1/25/2017 12:51:00 AM
+Change Number: 2
+Last Saved On: 1/25/2017 12:51:00 AM
+Last Saved By: Shane Wilson
+Total Editing Time: 0 Minutes
+Last Printed On: 1/25/2017 8:22:00 AM
+As of Last Complete Printing
+
+
+Number of Pages:12
+Number of Words:4,884 (approx.)
+Number of Characters: 27,842 (approx.)

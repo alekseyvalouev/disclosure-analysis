@@ -1,0 +1,4143 @@
+We are short shares of iRhythm Technologies, a $2.3bn medical device company trading at 
+
+
+over 15x sales despite facing multiple factors that will dramatically cut its revenue growth in the 
+
+
+coming years. iRhythm’s Zio, developed over a decade ago and accounting for nearly all the 
+company’s $150m in sales, is a one-lead heart rate monitor in patch form. This “extended Holter 
+
+
+monitor” is worn by patients for up to 14 days, during which the device continuously records 
+heart rhythm data. Each application of a Zio patch costs payors about two to four times what it 
+
+
+would cost to use legacy monitoring modalities, but iRhythm claims that the Zio reduces costs 
+
+
+for the healthcare system through increased effectiveness and better patient compliance. 
+ 
+
+
+A closer look at the circumstances surrounding the reimbursement treatment of the Zio Patch 
+reveals that at the core of iRhythm’s revenue base is an exceedingly generous, but increasingly 
+
+
+fragile, reimbursement regime. The Zio patch’s success in achieving unit-level revenues greater 
+
+
+than any other cardiac monitoring method is a function of iRhythm’s subtle and skillful 
+maneuvering around the arcane technicalities at the center of the American Medical 
+
+
+Association’s reimbursement coding process. This has allowed iRhythm to essentially “name its 
+own price” in the Medicare negotiation process, leading to unduly favorable reimbursement from 
+
+
+commercial payors as well. 
+
+
+ 
+But the price gouging will inevitably be short-lived. The rapid increase in Zio patch utilization has 
+
+
+now put a bullseye on its back, increasing the odds that both Medicare and commercial payors 
+will both cut back on reimbursement levels and throttle utilization. In addition, the Zio patch is 
+
+
+currently reimbursed under a temporary CPT tracking code that we expect will be transitioned 
+
+
+into a permanent code for calendar year 2021. In the process, we anticipate reimbursement 
+levels for the Zio patch will fall by over a third, and potentially more than 50%. 
+
+
+ 
+Reimbursement cuts are not iRhythm’s only problem. Until recently, the Zio patch was the only 
+
+
+product available in a category that it was responsible for creating. But the simplicity of the Zio 
+
+
+and its commercial success have attracted competition, and new entrants have both superior 
+devices and more diversified device portfolios. Up to now, iRhythm has successfully used 
+
+
+favorable clinical studies and enterprise integration capabilities to win business. But competitors 
+
+
+are now promoting the superiority of their own devices, backed by more recently published data 
+that reflects much less favorably on iRhythm. They’re also offering more flexible solutions that 
+
+
+appeal to a broader array of customers, such as larger enterprises. As a result, iRhythm will find 
+it increasingly difficult to win business with large hospital systems and physician groups. In 
+
+
+addition to market share losses, the specter of price competition from these peers looms large. 
+
+
+ 
+iRhythm has recently tried to diversify by extending its Zio patch into the real-time cardiac 
+
+
+monitoring space with its Zio AT device. But the attempt appears to be too little, too late. 
+Extensive discussions with industry participants and new disclosures in the company’s filings 
+
+
+indicate that, contrary to iRhythm’s attestations in its most recent earnings call, iRhythm has 
+
+
+pulled back on the AT. In fact, the product can no longer even be found on the company’s 
+website. That leaves iRhythm as a one-hit wonder with a shrinking reimbursement revenue pool 
+
+
+and a slew of superior competition. As the only single product company in the cardiac 
+monitoring space, iRhythm has already missed the beat. The results could be fatal.  
+
+
+
+
+
+
+
+
+March 2019 
+
+
+iRhythm Technologies, Inc. (IRTC) 
+Growth Reversal will Leave Investors Heartbroken 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC and its affiliates 
+(collectively, “Kerrisdale”), have short positions in and own put option interests on the stock of iRhythm 
+Technologies, Inc. (the “Company”). Kerrisdale stands to realize gains in the event that the price of the 
+stock decreases. Following publication, Kerrisdale may transact in the securities of the Company. All 
+expressions of opinion are subject to change without notice, and Kerrisdale does not undertake to update 
+
+
+this report or any information herein. Please read our full legal disclaimer at the end of this report.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+I. INVESTMENT HIGHLIGHTS .......................................................................................................... 3 
+
+
+II. COMPANY OVERVIEW ..................................................................................................................... 8 
+
+
+III. IRHYTHM FACES REIMBURSEMENT CUTS OF 30-60% IN THE NEAR FUTURE ................10 
+
+
+Transitioning the Zio XT procedures from Category III CPT codes to Category I CPT codes will result in a 
+
+
+considerable decline of the reimbursement rates .......................................................................................................... 10 
+The transition from Category I to Category III codes could come faster than expected ..................................... 15 
+The rapid increase in the Zio’s Medicare utilization makes it uniquely vulnerable to a sudden and dramatic 
+
+
+reimbursement shock ......................................................................................................................................................... 17 
+
+
+IV. IRHYTHM FACES FORMIDABLE COMPETITION THAT IT HAS (OVER)CONFIDENTLY 
+DISMISSED ........................................................................................................................................19 
+
+
+V. THE TAM FOR THE ZIO IS MUCH SMALLER THAN IRHYTHM SUGGESTS, AND THE 
+EFFORT TO EXPAND ITS PRODUCT OFFERING THROUGH THE ZIO AT HAS BEEN A 
+
+
+FAILURE ........................................................................................................................................... 25 
+
+
+The Zio XT has a much smaller TAM runway than iRhythm describes .................................................................. 25 
+The attempt to expand clinical cardiac monitoring to asymptomatic patients is unrealistic and bound to fail . 27 
+The Zio AT does not meet the criteria for Mobile Cardiac Telemetry, and it has been a failure ........................ 31 
+
+
+VI. VALUATION...................................................................................................................................... 35 
+
+
+VII. CONCLUSION .................................................................................................................................. 36 
+
+
+FULL LEGAL DISCLAIMER ..................................................................................................................... 37
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 3 
+
+
+
+
+
+
+
+
+I. Investment Highlights 
+ 
+
+
+iRhythm faces reimbursement cuts of 30-60% in the near future. Close to all of iRhythm’s 
+
+
+revenue is derived from its Zio XT Extended Holter patch, and the vast majority of that is not 
+
+
+through the sale of the device to physicians and hospitals, but by billing third party payors for 
+
+
+the scanning analysis and report, which are performed at an iRhythm Independent Diagnostic 
+
+
+and Testing Facility (IDTF). The level of reimbursement for that step of the process, like any 
+
+
+medical procedure, is dependent upon the Current Procedural Terminology (CPT) codes under 
+
+
+which the procedure is reimbursed. CPT codes are overseen by the American Medical 
+
+
+Association (AMA) and medical procedures can be associated with a few different types of CPT 
+
+
+codes, depending on the level of recognition they receive from the AMA and the relevant 
+
+
+specialty societies.  
+
+
+
+
+
+iRhythm generates almost all its revenue through billing third party payors for CPT code 0297T, 
+
+
+the letter “T” indicating that the reimbursement code is a Category III tracking code. The AMA 
+
+
+describes Category III codes as “temporary alphanumeric codes for new and developing 
+
+
+technology, procedures and services,” a description that certainly fit the Zio patch when its 
+
+
+temporary CPT code was first approved in July of 2011. But that was 8 years ago. The CPT 
+
+
+system provides for automatic sunset of Category III reimbursement codes 5 years after 
+
+
+implementation, whereupon they can expire, be renewed for a further five years if they are still 
+
+
+“developing,” or be transitioned to Category I “permanent” codes if the underlying procedure has 
+
+
+become more widespread and supported by literature.  
+
+
+
+
+
+Notwithstanding at least some success on both the utilization and literature fronts in the 2013 to 
+
+
+2015 period, the temporary CPT codes associated with the Zio patch were renewed in February 
+
+
+of 2016 and are currently slated to be reconsidered by the CPT Editorial Panel in early 2021. 
+
+
+Given the recent explosion in the utilization of extended Holter monitors and the literature 
+
+
+supporting their use, the relevant CPT codes will almost certainly be transitioned to Category I 
+
+
+codes for use in the 2023 calendar year. Because Category I codes receive special scrutiny 
+
+
+from the AMA’s Relative Value Scale Update Committee (RUC), reimbursement rates for 
+
+
+procedures typically drop by about a third when they move from Category III to Category I, 
+
+
+according to several former RUC members we’ve spoken with. 
+
+
+
+
+
+In the case of the 0297T code, we expect that the reimbursement rate cut will be even more 
+
+
+draconian than average, and is closer at hand than 2023. With respect to the magnitude of the 
+
+
+reimbursement cut, we expect that the current $311 rate that CMS Contractor Novitas Solutions 
+
+
+pays for 0297T in Houston (where iRhythm’s IDTF is not coincidentally located) will decline to 
+
+
+the $150-200 range in a best case scenario, on par with the Category I reimbursement rate 
+
+
+CMS confers upon cardiac Event Monitoring. Novitas accounts for the vast majority of iRhythm’s 
+
+
+CMS revenue (in a classic case of contractor shopping, iRhythm originally located its diagnostic
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 4 
+
+
+
+
+
+and testing facility in the region where it negotiated the most favorable reimbursement). In a 
+
+
+worst case scenario, iRhythm could see the reimbursement rate for 0297T fall to $45-50, similar 
+
+
+to a Holter monitor reimbursement rate, which is what the vast majority of CMS contractors 
+
+
+reimburse for the code at the current time. Commercial payor reimbursement rates, which are 
+
+
+typically more generous than Medicare reimbursement rates, tend to use the CMS fee schedule 
+
+
+as a reference, and a drop in Medicare reimbursement generally presages a similar magnitude 
+
+
+decline in commercial payor reimbursement. 
+
+
+
+
+
+Regarding the timing of the transition to a Category I code, iRhythm competitor BioTelemetry 
+
+
+Inc (BEAT) has stated that it wants the extended Holter procedures transitioned to a permanent 
+
+
+Category I code as soon as practicable. While there is some specialty society politics that 
+
+
+BioTel has to navigate in the course of getting its application to the CPT Editorial Panel, we 
+
+
+would expect a 2019 application to be easily approved by the Panel in the current year, implying 
+
+
+a 2021 implementation of the newly transitioned code and the inevitable reimbursement 
+
+
+reduction. BioTelemetry’s extended Holter accounts for less than 5% of its total revenue, and 
+
+
+based on conversations with industry participants, management is pushing for a Category I 
+
+
+code to exert pressure on iRhythm, its newest competitor. BioTel has also been on the receiving 
+
+
+end of a massive reimbursement cut on its MCT monitoring in the past and would like to clarify 
+
+
+the long-term pricing for the product in order to assess its own strategic direction in the new 
+
+
+vertical. 
+
+
+
+
+
+Finally, even with no action from the AMA on CPT code changes, we expect that iRhythm’s 
+
+
+extraordinary success in attaining coverage and favorable reimbursement rates from payors is 
+
+
+in the process of backfiring. It’s worth noting that Category III codes are “contractor priced.” In 
+
+
+other words, CMS does not set the price in its physician fee schedule, but each Medicare 
+
+
+Administrative Contractor (MAC) sets or negotiates a price with the provider. iRhythm, with its 
+
+
+IDTF in Houston performing all the scanning and reporting procedures, has benefited from the 
+
+
+regional MAC – Novitas Solutions – generously reimbursing the Zio codes. No other MAC in the 
+
+
+country reimburses for the procedure as generously, and most MACs have taken the view that 
+
+
+not much differentiates the Zio from a traditional Holter monitor beyond the presence of some 
+
+
+solid-state memory that can hold 14 days’ worth of heart rhythm data (~500MB). As such, in 39 
+
+
+of 50 states, 0297T would be reimbursed at rates 33-89% lower than $311. 
+
+
+
+
+
+While MACs don’t fiddle with pricing very much, we’ve found that large price changes tend to 
+
+
+occur following abnormally large changes in procedure utilization. Our discussion with a former 
+
+
+Novitas medical director who was involved in the original Zio reimbursement discussions 
+
+
+confirmed that the MACs have analytics-based screens meant to flag procedures with 
+
+
+abnormally large increases in utilization. Given the 300% cumulative increase in iRhythm’s 
+
+
+revenues from CMS for the 3 years ending 2018 (3 year utilization changes being one of CMS’s 
+
+
+primary triggers for review), we would expect that the alarm has already sounded at CMS or 
+
+
+Novitas (or both) on a code that is being reimbursed disproportionately well compared to very 
+
+
+similar procedures.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 5 
+
+
+
+
+
+
+
+
+Any review of the code at the institutional level is likely to result in reimbursement coming down 
+
+
+to a level closer to where the other MACs are. Additionally, Novitas’ contract for Jurisdiction H 
+
+
+ends in June of this year. If any other contractor wins that contract, iRhythm is almost certain to 
+
+
+lose its lush Medicare deal. And of course, commercial payors will follow. 
+
+
+
+
+
+The competition is already beating iRhythm at its own game. The Zio XT is actually a fairly 
+
+
+simple device: a sensor that detects cardiac rhythm, some memory, and a patch. As a former 
+
+
+iRhythm regional sales manager told us, “you could literally go and find the building blocks in 
+
+
+your garage and build it yourself if you’re a bit handy.” Until the last twelve months, though, 
+
+
+there was no real competition for the device, as it had yet to gain traction with physicians until 
+
+
+two years ago. But recently, a slew of competitors have launched extended Holters that 
+
+
+compete with the Zio, and for the most part, they’re making improvements around the Zio’s 
+
+
+weaknesses, including patch placement, number of sensors, time-to-reporting and rhythm-
+
+
+recording clarity. 
+
+
+
+
+
+To investors, iRhythm has defended its competitive position as unassailable given that the Zio is 
+
+
+“better, proven, and complete.” But the literature it uses to show that the Zio is better than other 
+
+
+monitoring modalities has now been replaced by literature employing the same testing 
+
+
+methodologies but showing that competitors such as Bardy Diagnostics’ CAM patch are 
+
+
+superior to the Zio on the same endpoints. And though iRhythm claims that its underlying AI 
+
+
+tools perform better than expert cardiologists, a careful read of the clinical studies it promotes 
+
+
+shows that the Zio’s diagnostic capabilities are in certain ways inferior to even the “low-tech” 
+
+
+traditional Holter monitor that has been around since 1962.  
+
+
+
+
+
+Finally, discussions with doctors at large hospital networks suggest that iRhythm’s one-size-fits-
+
+
+all “complete” enterprise solution can be a competitive disadvantage. Zio customers are forced 
+
+
+to use iRhythm’s IDTF for scanning and reporting, but many hospitals already employ their own 
+
+
+ECG technicians, which makes paying for iRhythm’s scanning and analysis service inefficient 
+
+
+and costly. New entrants such as Bardy have exploited this weakness by offering more 
+
+
+accommodating software tools that allow larger institutions to have their already-employed 
+
+
+technicians read and analyze the rhythm recordings. This has the added advantage much faster 
+
+
+turnaround time, which aids both physician and hospital workflow.  
+
+
+
+
+
+The Zio AT is a failure, leaving iRhythm as a single-product company with a TAM much 
+
+
+smaller than it describes to investors. iRhythm’s portrayal of its current addressable market 
+
+
+is a cardiac monitoring market encompassing approximately 4.5 million monitoring procedures 
+
+
+annually, all of which can be addressed by either the Zio XT or the newer Zio AT. iRhythm, with 
+
+
+just a “low double digit” percentage of that market at recent year-end, has a long way to go 
+
+
+before its penetration will start to slow, or so iRhythm claims.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 6 
+
+
+
+
+
+
+
+
+This narrative is misleading. The market for cardiac monitoring, excluding iRhythm, is trifurcated 
+
+
+along approximately the following lines: 
+
+
+
+
+
+Market Share, by volume, of Cardiac Monitoring Modalities 2018 
+ 
+
+
+
+
+
+
+
+
+Source: CMS Provider Utilization and Payment Data, BioTelemetry Inc. Filings 
+
+
+and Conference Call Commentary, Kerrisdale analysis 
+ 
+
+
+
+
+
+Traditional Holter monitors occupy the low end of pricing but almost two thirds of volumes. 
+
+
+Event Monitors are in the middle with ~20-25% of the volume. Meanwhile, mobile cardiac 
+
+
+telemetry (MCT), the most expensive monitoring procedure, makes up ~10-15% of volumes. As 
+
+
+we heard from several electrophysiologists, the Zio XT cannot reasonably compete with most 
+
+
+Event Monitoring procedures and MCT, which make up about a third of the market. These 
+
+
+procedures are typically prescribed by electrophysiologists who require real-time attended 
+
+
+monitoring, high levels of rhythm-recording clarity, and/or minimal time-to-diagnosis. The Zio XT 
+
+
+has no real-time capabilities and takes 3-4 weeks from the start of monitoring to get its report to 
+
+
+the doctor. Due to its miniaturized design, it also necessarily skimps on recording clarity. As a 
+
+
+result, we believe that at least a third, and potentially up to a half, of iRhythm’s claimed TAM is 
+
+
+actually off-limits to the Zio XT. 
+
+
+
+
+
+To address the inability of the XT to perform real-time monitoring, iRhythm introduced the Zio 
+
+
+AT in mid-2017. The AT was originally billed by iRhythm as “our version of Mobile Cardiac 
+
+
+Telemetry” meant to “serve patients who have more critical symptoms such as syncope, pre-
+
+
+syncope and ventricular tachycardia.”1 But the AT has not lived up to iRhythm’s initial 
+
+
+expectations, which foresaw a timeline of “3 to 4 quarters in order to get full AT contracts.” We 
+
+
+were unable to find any physicians, at large hospital groups or otherwise, that were using the 
+
+
+                                                
+1 Comments by CEO Kevin King at the 2018 JP Morgan Healthcare Conference – January 10, 2018
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 7 
+
+
+
+
+
+AT, while multiple competitors indicated that they were under the impression that iRhythm had 
+
+
+pulled the product from the market. At the current time, the AT has been pulled from the 
+
+
+company’s website entirely, leaving iRhythm as a single product company. 
+
+
+
+
+
+Even more potentially concerning is that the presentation of the product was clearly misleading 
+
+
+– the Zio AT was apparently never able to provide actual real time monitoring, and the recently 
+
+
+filed iRhythm 10-K has noticeably backed away from this claim. In fact, the 510K device 
+
+
+application to the FDA specifically states that the device “is not intended for use on critical care 
+
+
+patients,” who are ostensibly to be treated with actual MCT devices. It’s unclear, then, why 
+
+
+iRhythm would claim to investors that the AT was a “version of MCT” and intended to compete 
+
+
+in that arena.  
+
+
+
+
+
+In a separate attempt at “TAM expansion,” iRhythm has been confidently suggesting to 
+
+
+investors that the 4.5 million annual monitoring procedures will double over the next few years 
+
+
+as monitoring guidelines are rewritten to recommend monitoring asymptomatic but “high-risk” 
+
+
+populations. But the actual literature and studies that iRhythm cites, as well as some important 
+
+
+literature they ignore, seems to imply the precise opposite. Such an explosion in the monitoring 
+
+
+market is nowhere on the horizon, partly because devices like the Zio are simply way too 
+
+
+expensive, but also because they’re not very effective.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 8 
+
+
+
+
+
+II. Company Overview 
+
+
+
+
+
+iRhythm: Capitalization and Financial Results 
+ 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis  
+ 
+
+
+
+
+
+iRhythm was founded in 2006 by electrophysiologist Uday Kumar to fill a void he identified in the 
+
+
+available cardiac monitoring methods that were used to diagnose problematic arrhythmias. 
+
+
+Physicians would normally try to diagnose an arrhythmia through a 12-lead ECG 
+
+
+(electrocardiogram) or a 24-48 hour-portable Holter monitor, the latter which Kumar considered 
+
+
+cumbersome, and which could only monitor for up to 48 hours. 
+
+
+
+
+
+Arrhythmias (abnormal heart rhythms) occur when the electrical impulses that coordinate a 
+
+
+person’s heartbeats aren’t working properly, causing the heart to beat too fast, too slow, or 
+
+
+irregularly. An arrhythmia could be a symptom of Atrial Fibrillation, a condition that the CDC 
+
+
+estimates affects anywhere between 3 and 6 million people in the United States, and which can 
+
+
+be a precursor to stroke. It could also signal more acute and potentially fatal conditions in the 
+
+
+case of ventricular tachycardia or ventricular fibrillation (rhythms with dysfunctional electrical 
+
+
+impulses originating in the ventricles).  
+
+
+
+
+
+Diagnosing arrhythmias can be tricky. Even in a symptomatic patient, they can occur multiple 
+
+
+times a day, but they can also occur less frequently – sometimes just a few times over the 
+
+
+course of a month. Before the Zio, physicians had three cardiac monitoring options: 
+
+
+
+
+
+ 24-48 Hour Traditional Holter monitor – A technology that first became available in 1962, a 
+
+
+modern Holter typically has 2-5 leads (wires) that are connected to electrodes, which are 
+
+
+attached to the patient’s chest in strategic locations so as to maximize the precision and 
+
+
+clarity of the reading. The leads are attached on the other end to a recorder, which saves 
+
+
+the recording onto flash memory. After 24-48 hours, the recording is analyzed by a 
+
+
+technician and physician, with the aid of software that eliminates the majority of the dataset 
+
+
+made up of “normal” heart rhythms.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 9 
+
+
+
+
+
+
+
+
+ Cardiac Event Monitors – Event Monitors (EM) have at least two leads connected to a 
+
+
+recording device similar to a Holter. EMs differ from a Holter in their duration and purpose – 
+
+
+they can be worn by patients for up to 30 days, and only offer episodic, rather than 
+
+
+continuous, monitoring. If the device senses an arrhythmia, or the patient signals the 
+
+
+occurrence of symptoms (by pressing the appropriate button), the rhythm data from the 
+
+
+episode is saved and transmitted to a scanning facility. A technician, or the patient’s doctor, 
+
+
+is immediately able to analyze the episode in close to real time. 
+
+
+
+
+
+ Mobile Cardiac Telemetry – MCT takes all the capabilities of Holters and Event Monitors, 
+
+
+and combines them. An MCT device records continuously for up to 30 days and there’s 
+
+
+always a technician at a scanning facility watching the patient’s heart rhythm in real time. 
+
+
+
+
+
+Traditional Cardiac Monitoring Devices vs. the Zio Patch 
+ 
+
+
+ 
+Source: 2017 ISHNE-HRS expert consensus statement on ambulatory ECG and 
+external cardiac monitoring/telemetry 
+ 
+
+
+ 
+All of the monitors were assemblies of wires, electrodes, and external recorders, which required 
+
+
+the patient to unhook and then reconnect the device when showering or exercising. Holter 
+
+
+monitors were inconsistent in diagnosing infrequent arrhythmias. Event Monitors recorded 
+
+
+arrhythmias only episodically, which could theoretically have resulted in missed events. MCT 
+
+
+was mostly overkill for patients without potentially life-threatening symptoms, and the constant 
+
+
+monitoring was expensive, leading to reimbursement difficulties.  
+
+
+
+
+
+Into that void stepped the Zio patch, a water-resistant device in which all the monitoring 
+
+
+components – sensor, lead, recorder – are combined into a small device and attached, on a
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 10 
+
+
+
+
+
+patch, to the patient’s chest slightly above their heart. The device records the patient’s heart 
+
+
+rhythm continuously for up to 14 days and saves all of it. At the end of the monitoring period, the 
+
+
+patient mails the assemblage to an iRhythm Independent Diagnostic and Testing Facility (IDTF), 
+
+
+where an iRhythm technician scans the data and generates a report, with the help of iRhythm’s 
+
+
+proprietary software. The report is then sent to the physician, whose responsibility it is to review 
+
+
+and interpret the report, and then treat the patient appropriately. 
+
+
+
+
+
+The Zio has some significant drawbacks. The turnaround time from the day the patch is applied 
+
+
+to when the doctor would review results with the patient is about 4 weeks (which is still a major 
+
+
+obstacle to physician acceptance). The Zio also has no ability to transmit rhythm data in real 
+
+
+time. Perhaps most significantly, both the patch placement at the top of the chest, and the 
+
+
+presence of only one lead, result in rhythm data quality that’s inferior to that of any “legacy” 
+
+
+monitoring system.  
+
+
+
+
+
+But, in iRhythm’s telling, what the Zio lacked in these respects it made up for with simplicity for 
+
+
+the patient, workflow enhancement for the doctor, and length of continuous recording. The 
+
+
+latter, in particular, is at the heart of the clinical evidence employed by the company to “prove” 
+
+
+that the Zio is the ideal monitoring modality with the best record of diagnosing arrhythmias. 
+
+
+iRhythm has very effectively parlayed this argument into broad payor coverage for the Zio with 
+
+
+generous reimbursement.  
+
+
+
+
+
+But, as we describe in more detail below, a careful study of the evidence reveals that it’s much 
+
+
+weaker than iRhythm really lets on. That’s allowed new competitors, with devices that correct for 
+
+
+the Zio’s flaws, to design and promote new studies that paint the Zio patch in a more pedestrian 
+
+
+light. Those competitors can also successfully claim the same benefits iRhythm does in 
+
+
+comparison to other monitoring systems. More ominously, though, a thorough examination of 
+
+
+the reimbursement paradigm that underlies the Zio reveals a very precarious foundation for 
+
+
+iRhythm’s business model that’s all but certain to soon change for the worse. 
+
+
+
+
+
+
+
+
+III. iRhythm Faces Reimbursement Cuts of 30-60% in the 
+
+
+Near Future 
+
+
+Transitioning the Zio XT procedures from Category III CPT codes to 
+
+
+Category I CPT codes will result in a considerable decline of the 
+
+
+reimbursement rates 
+
+
+ 
+Kevin King (iRhythm CEO): We work very, very closely with the AMA, the ACC, and 
+
+
+HRS to determine when do they want us to move this code forward, because it's their 
+
+
+code, it's a physician coding system, not an industry coding system. So, they decide 
+
+
+when we are ready, and they said that the technology doesn't meet up a run rate now, 
+
+
+renew it. So, it's really not a risk from that standpoint.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 11 
+
+
+
+
+
+
+
+
+…the process that we use for deriving our price, the cost, the relative value units for our 
+
+
+code are exactly the same as what is used in the CPT 1 process. So we welcome the 
+
+
+opportunity to continue to work with ACC and HRS, we're not fighting it. If they think 
+
+
+we're ready, we'll go. 
+
+
+
+
+
+The earliest anything could happen in terms of it being published is 2021. So, if you hit 
+
+
+this – if you hit the gas pedal today, pricing would not be effective until 2021. It goes 
+
+
+through a very, very long set of cascading steps and so on. 
+
+
+
+
+
+Matt Garrett (Morgan Stanley): And process has not begun yet…We still got a three-
+
+
+year clock and your view is we get a permanent code, do not believe that code is going 
+
+
+to come at a level that is at or below or certainly below where you are today. 
+
+
+
+
+
+King: I think it could be higher. I think it could be higher because the complexity of our 
+
+
+records, the duration of our work times and the things that we're measuring are more 
+
+
+than what was granted to us in 2012. [emphasis added] 
+
+
+
+
+
+Exchange between iRhythm CEO Kevin King and Morgan Stanley Analyst Matt Garrett 
+
+
+Morgan Stanley Global Healthcare Conference – 9/13/2018 
+
+
+ 
+When the FDA initially approved the Zio device in 2009, iRhythm’s go-to-market strategy was to 
+
+
+sell the device to providers. But according to former iRhythm executives, that didn’t work 
+
+
+because the procedure didn’t quite fit the CPT code descriptions of any of the existing 
+
+
+monitoring methods. Submitting the procedure to third party payors therefore required billing an 
+
+
+unlisted code along with a detailed justification of the billing amount. Doctors and hospitals 
+
+
+simply didn’t want to risk having reimbursement claims rejected, so the Zio failed to catch on. 
+
+
+
+
+
+The company responded by applying for a set of Category III, or “temporary”, CPT tracking 
+
+
+codes from the AMA, for which it received approval in 2011, with an implementation date of 
+
+
+January 2012. The code set approved was the following: 
+
+
+
+
+
+Billing for the Zio System “Extended Holter” 
+(External ECG recording for more than 48 hours up to 21 days by 
+
+
+continuous rhythm recording and storage) 
+ 
+
+
+
+
+
+Source: iRhythm 
+Note: The CPT code division and respective descriptions for the Zio “extended Holter” 
+monitoring procedures were modeled on the already-existing set of codes for the 
+traditional Holter monitor.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 12 
+
+
+
+
+
+ 
+Providers would bill payors for 0295T, the global code, while outsourcing the analysis of the 
+
+
+recorded data and summary reporting to iRhythm, which the company included in the price of 
+
+
+the device. 
+
+
+
+
+
+But the approval of the codes didn’t help the Zio gain traction – Category III codes are 
+
+
+considered experimental by payors, and it can be difficult to obtain coverage and contractual 
+
+
+reimbursement. That kept providers from buying the device and attempting to bill the tracking 
+
+
+code.  
+
+
+
+
+
+Coverage from third party payors for a Category III code faces a chicken-and-egg problem. The 
+
+
+provider needs to show that the procedure is worthwhile and that it’s being utilized. But to 
+
+
+encourage utilization, it helps to have the procedure covered by insurers. Eventually, iRhythm 
+
+
+chanced on a strategy that navigated the conundrum: it gave the Zio to doctors for free, and 
+
+
+split the billing. iRhythm would bill payors for code 0297T, the scanning and reporting portion of 
+
+
+the procedure, also known as the “technical component,” while doctors would bill payors for 
+
+
+0296T and 0298T, known as the “professional components” because they are directly 
+
+
+performed by the physician.  
+
+
+
+
+
+Providers assumed little risk because they weren’t paying for the devices anyway. Meanwhile, 
+
+
+backed by more patient venture capital, iRhythm was able to temporarily subsidize any losses 
+
+
+resulting from denial of reimbursement for 0297T, while racking up procedure utilization that 
+
+
+would help with getting more systematic coverage from Medicare. Obtaining Medicare coverage 
+
+
+would then clear the path to favorable coverage decisions from commercial payors.  
+
+
+
+
+
+In an ironic twist, having the Zio procedure linked to temporary Category III tracking codes 
+
+
+rather than Category I “permanent” codes turned out to be fortuitous for iRhythm. As we shall 
+
+
+see, when approved as Category I, a procedure undergoes an intense evaluation process that 
+
+
+is used to determine its reimbursement rate, which is subsequently published in the Centers for 
+
+
+Medicare and Medicaid Services (CMS) Physician Fee Schedule (PFS). Category III procedures 
+
+
+go through no such process. Rather, they are “contractor priced,” which means that their 
+
+
+reimbursement rate is not set by CMS, but is established on an ad hoc basis by each of the 
+
+
+Medicare Administrative Contractors (MACs) in their respective regions.  
+
+
+
+
+
+Because iRhythm’s business model was centered on performing procedures through an IDTF, it 
+
+
+theoretically needed to secure favorable reimbursement with just one CMS contractor, in whose 
+
+
+region they would place the IDTF. That MAC turned out to be Novitas Solutions, which 
+
+
+administered Region JH for CMS, and which agreed to a $316 allowable fee for CPT code 
+
+
+0297T (since adjusted to $311). It’s very much worth noting that as late as November 2014, 
+
+
+iRhythm had one IDTF in San Francisco and another in Lincolnshire, Illinois.2 The historical fee 
+
+
+schedules for the MACs in those regions indicate that, as of 1/1/2015, their allowable fees for 
+
+
+                                                
+2 Based on the November 1 archived webpage of iRhythm’s various contact locations: 
+
+
+https://web.archive.org/web/20141101063058/http://www.irhythmtech.com/company/contact/index.html
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 13 
+
+
+
+
+
+0297T were in the $44-48 range. We believe that iRhythm was not able to get the Zio 
+
+
+reimbursed at an attractive rate with the MACs in whose regions they already had IDTFs, so 
+
+
+they found a more amenable MAC – Novitas – and put an IDTF in Houston, over which Novitas 
+
+
+presided.  
+
+
+
+
+
+It took iRhythm 2-3 years to leverage Medicare coverage to attain widespread commercial payor 
+
+
+coverage and contracting. By all accounts, the company’s success in obtaining such extensive 
+
+
+coverage and contracting for a Category III code is an impressive feat. Today, the Zio is 
+
+
+covered for nearly every insured person in the US. 
+
+
+
+
+
+But even if coverage of the extended Holter monitoring procedures is now permanently secured, 
+
+
+the rate of reimbursement for those procedures is set to decline substantially in our view. That’s 
+
+
+because the family of codes to which the procedures are linked will soon transition from their 
+
+
+status as temporary Category III tracking codes to permanent Category I codes. In contrast to 
+
+
+the fee schedules for tracking codes, which CMS is generally content to delegate to the MACs, 
+
+
+fees for Category I codes are arrived at through a comprehensive evaluation process. The 
+
+
+process ultimately concludes with CMS assigning the procedure an exact number of “Resource-
+
+
+Based Relative Value Units (RVUs).” The RVUs, in turn, are directly linked to the dollar values 
+
+
+of each procedure on the CMS Physician Fee Schedule (PFS).  
+
+
+
+
+
+According to the AMA, “The Resource-Based Relative Value Scale (RBRVS) is based on the 
+
+
+principle that payments for physician services should vary with the resource costs for providing 
+
+
+those services.” Resource costs change over time, though, and given the existence of 
+
+
+approximately 10,000 CPT codes, it’s hard to expect CMS to continuously monitor the assigned 
+
+
+RVUs for every single procedure. Instead, CMS delegates much of the monitoring to the AMA’s 
+
+
+Relative Value Scale Update Committee (RUC), made up of physicians, which provides relative 
+
+
+value recommendations to CMS annually. Historically, CMS has given the RUC’s 
+
+
+recommendations enormous weight in its own RVU determinations, and about 90% of the time it 
+
+
+just certifies the RUC’s determination. So it’s worth understanding how the RUC reaches those 
+
+
+conclusions, particularly on newly approved Category I procedures. 
+
+
+
+
+
+When a new Category I code is established, the RUC starts the process of evaluating the 
+
+
+number of RVUs the procedure should be allocated. There’s no precise formula for arriving at 
+
+
+the “right” number. The RUC surveys physicians in order to assess the “Physician Work” 
+
+
+component of a procedure, including “the time it takes to perform the service, the technical skill 
+
+
+and physical effort, the required mental effort and judgment, and stress due to the potential risk 
+
+
+to the patient.” It also asks the relevant specialty societies, such as the American College of 
+
+
+Cardiologists or the Heart Rhythm Society, to evaluate the “Practice Expense” component of the 
+
+
+procedure, or the practice expenses that could reasonably be allocated to the procedure 
+
+
+including staff, materials, office expenses, etc.3 
+
+
+
+
+
+                                                
+3 AMA RUC RBRVS Overview
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 14 
+
+
+
+
+
+Survey responses and cost estimates are compared by the RUC to the values already attributed 
+
+
+to existing procedures that are similar. So, for example, in January 2017, the RUC, at the 
+
+
+request of CMS, reconsidered the RVUs of the CPT codes covering the evaluation of heart 
+
+
+rhythm data from an Implantable Cardiac Defibrillator and Implantable Cardiac Monitor. 
+
+
+Unsurprisingly, they used the traditional Holter monitor procedure as the reference case to 
+
+
+which they compared the heart rhythm monitoring procedures associated with implantable 
+
+
+devices. The survey responses and “crosswalk” comparisons (as they are called by the RUC) 
+
+
+are discussed, debated, and merged by the RUC into an official RVU recommendation to CMS.  
+
+
+
+
+
+The 0297T code – the one that accounts for almost all of iRhythm’s revenue – has no 
+
+
+“Physician Work” component. The entire “procedure” – analysis of the data and encapsulating it 
+
+
+into a report – is performed by iRhythm’s IDTF. When it becomes a Category I code, there will 
+
+
+be no physician survey for 0297T, only an analysis of the appropriate “Practice Expenses” and a 
+
+
+comparison to similar codes. Given the array of cardiac monitoring modalities, there are two 
+
+
+obviously similar procedures it will be compared to: 
+
+
+
+
+
+Practice-Expense Components of Holter- and Event-Monitoring 
+ 
+
+
+
+
+
+Source: RUC Recommendations, 2019 CMS Physician Fee Schedule, Kerrisdale Analysis 
+ 
+*CPT® guidelines define attended surveillance as "the immediate availability of a remote technician to 
+respond to rhythm or device alert transmissions from a patient, either from an implanted or wearable 
+monitoring or therapy device, as they are generated and transmitted to the remote surveillance location or 
+center." 
+
+
+ 
+At this point, note iRhythm CEO Kevin King’s statement that “the process that we use for 
+
+
+deriving our price, the cost, the relative value units for our code are exactly the same as what is 
+
+
+used in the CPT 1 process [emphasis added].” In our view, that assertion is misleading at best, 
+
+
+and disingenuous at worst: $311 would be almost impossible to arrive at in comparison to the 
+
+
+existing monitoring modalities. Consider that Event Monitoring a) is performed over a longer 
+
+
+period (30 days vs. “up to 21 days” for 0297T), b) requires “the immediate availability” of a 
+
+
+technician to respond to rhythm transmissions, and c) entails real time analysis of a greater 
+
+
+volume of heart rhythm data than that generated by the Zio (even granting imperfect event 
+
+
+recording). As such, we expect that the 4.77 RVUs and $170 CMS-determined fee are the 
+
+
+absolute upper bound for the reimbursement levels that the Zio will achieve through a highly 
+
+
+scrutinized Category I code.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 15 
+
+
+
+
+
+There is a distinct possibility, though, that the Zio will receive much less than that, and closer to 
+
+
+what a traditional Holter gets. While the Zio records 14 days of data compared to the traditional 
+
+
+Holter’s 2 days, the length of recording doesn’t cost very much – a few hundred extra 
+
+
+megabytes of flash memory.4 The analysis, conducted by technicians at iRhythm’s IDTF, 
+
+
+doesn’t take 7 times as long – based on our discussions with competitors (some of whom 
+
+
+employ former iRhythm technicians), a traditional Holter requires about 20 minutes of technician 
+
+
+time while the Zio requires 40-60 minutes of analysis. And while iRhythm might point to its 
+
+
+advanced Artificial Intelligence and Machine Learning algorithms used to identify arrhythmias, 
+
+
+that software still underperforms the traditional Holter technology in a head-to-head comparison 
+
+
+(i.e., when the two are recording concurrently). It’s difficult to understand, then, why iRhythm 
+
+
+should be compensated for its “scanning analysis and report” so much more than the same 
+
+
+procedural code of a traditional Holter. Indeed, as we shall see, the fee for procedure 0297T at 
+
+
+every Medicare contractor besides Novitas is just a bit more than a traditional Holter. 
+
+
+
+
+
+We expect that when the extended Holter codes are transitioned to permanent Category I 
+
+
+codes, iRhythm’s reimbursement revenue per procedure will fall from $311 to, at most, $170, or 
+
+
+a decline of 45%. 
+
+
+
+
+
+
+
+
+The transition from Category I to Category III codes could come faster 
+
+
+than expected 
+
+
+ 
+The timing of that transition is also closer at hand than iRhythm has indicated. In various 
+
+
+statements over the last few years, as well as in its public filings, the company has mentioned 
+
+
+that its current tracking codes are valid through the end of 2022 and that it expects that, if a 
+
+
+transition to Category I were to occur, it would happen beginning in 2023. We believe that 2023 
+
+
+is the latest that the transition to Category I will occur, and that it will most probably happen 
+
+
+beginning in 2021. That’s because BioTelemetry Inc., the most dominant company in the 
+
+
+traditional Holter, Event Monitoring, and MCT spaces, has recently entered the extended Holter 
+
+
+space. BioTel has been hinting in various earnings calls and presentations that it’s aiming to get 
+
+
+the extended Holter codes approved for Category I: 
+
+
+ 
+[the Zio] was on the market with no competition. And interestingly enough, it still 
+
+
+operates under a temporary code, which, I'm sure, as you're aware, means that 
+
+
+there is a tremendous amount of inherent risk around reimbursement. So, that's 
+
+
+the thing that kind of gives me a little bit of agita when I think about growing that product 
+
+
+category. I can assure you that if it does have viability, if it moves into a permanent CPT 
+
+
+code, we will take our fair share of that market. [Emphasis added] 
+
+
+Joseph Capper, BioTelemetry Inc. CEO 
+
+
+February 22nd, 2018 
+
+
+
+
+
+                                                
+4 iRhythm has stated that the entire 14 days of data amounts to approximately half a gigabyte of data.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 16 
+
+
+
+
+
+…this new category, as you know, is still under a temporary code. We will participate in 
+
+
+that process as much as we can. I think it's a good thing to get it permanently priced 
+
+
+sooner rather than later. I don't want to speculate on where that will end up, but I do 
+
+
+think it will be better than traditional Holter… [Emphasis added] 
+
+
+Joseph Capper 
+
+
+April 25th, 2018 
+
+
+ 
+In our conversations with industry participants, it has become apparent that BioTel isn’t simply 
+
+
+hinting at the potential for a code change, but is actively working to achieve it. One industry 
+
+
+participant also mentioned to us that his company’s reimbursement specialists have received 
+
+
+guidance from CMS and commercial payors suggesting that the process to convert the 
+
+
+Category III codes to Category I will be set in motion in 2019, and that the company should 
+
+
+prepare accordingly. 
+
+
+
+
+
+We think that BioTel has two primary motivations in advancing the timeline for Category III 
+
+
+conversion. First, as indicated by Capper in BioTel’s February 2018 earnings call, there is still 
+
+
+significant risk around reimbursement, even for a seemingly well-secured code, when that 
+
+
+reimbursement relies on a generous fee arrangement with just one MAC. Capper would know. 
+
+
+In 2009, CardioNet, BioTel’s predecessor company, was heavily reliant on MCT reimbursement 
+
+
+from just one MAC for the vast majority of its revenues. The MAC, Highmark Medicare Services, 
+
+
+suddenly announced a 33% reduction in MCT reimbursement in July of 2009, upending 
+
+
+CardioNet’s business for several years, and causing the company’s stock to decline by 65% 
+
+
+over the two weeks after the announcement. As we discuss below, we think iRhythm and the 
+
+
+Zio codes are at similar risk. Capper probably has no stomach for a rerun of that situation in a 
+
+
+new market BioTel is entering. 
+
+
+
+
+
+The second reason Capper seems bent on the Category I transition, according to various 
+
+
+industry players we spoke with, is that he’s well aware of the reimbursement decline that it will 
+
+
+trigger, and the negative impact it would have on BioTel’s upstart competitor, iRhythm. The 
+
+
+impact on BioTel would be negligible as BioTel’s extended Holter product is still in its infancy, 
+
+
+but slowing down iRhythm is a key priority for Capper. 
+
+
+
+
+
+Finally, we note that Capper indicates that he thinks the extended Holter reimbursement rate 
+
+
+“will be better than the traditional Holter.” We’re glad to see there are other industry participants 
+
+
+who publicly acknowledge that the traditional Holter is very clearly the correct frame of reference 
+
+
+for the Zio’s reimbursement, and we are confident that the RUC and CMS will view it that way 
+
+
+too when they get their chance to decide the matter.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 17 
+
+
+
+
+
+The rapid increase in the Zio’s Medicare utilization makes it uniquely 
+
+
+vulnerable to a sudden and dramatic reimbursement shock 
+
+
+ 
+[Reimbursement rates] typically don’t change much, though it’s when utilization kicks up 
+
+
+that you can see galactic price changes. 
+
+
+Former iRhythm VP of Marketing & Reimbursement 
+
+
+ 
+The Category III status of the Zio reimbursement codes, and the resulting reliance on favorable 
+
+
+contract terms with Novitas, puts iRhythm in a precarious position. The chart below shows the 
+
+
+reimbursement rate for 0297T in all 50 states and the District of Columbia, sorted from the 
+
+
+lowest reimbursement rate to the highest. 
+
+
+
+
+
+Medicare Administrative Contractor (MAC) Reimbursement  
+for Zio and Traditional Holter Monitoring, by State 
+
+
+
+
+
+
+
+
+Source: Medicare Administrative Contractor Fee Schedules, 2019 
+Note: In states with multiple sub-regions, we used the region with the highest reimbursement rate 
+ 
+
+
+ 
+The reimbursement for the Zio scanning and report in most states is, in Joe Capper’s words, 
+
+
+“better than the Holter,” but not by very much. The exceptions to this are states managed by
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 18 
+
+
+
+
+
+Palmetto, where the reimbursement rate is closer to the rate for Event Monitoring, and Novitas, 
+
+
+where the reimbursement rate is about 50% higher than even Palmetto’s rates. 
+
+
+
+
+
+How did Novitas end up reimbursing iRhythm at a rate more than 6.5 times the median MAC 
+
+
+reimbursement? The decision has to be put in the context of decisions about Category III codes 
+
+
+in general. As the AMA describes: 
+
+
+ 
+Category III CPT codes are a set of temporary codes for emerging technology, services, 
+
+
+and procedures. These codes are intended to be used to track the usage of these 
+
+
+services, and the data collected may be used to substantiate widespread usage… 
+
+
+ 
+In other words, no contractor expects a Category III procedure to be more than a rounding error. 
+
+
+We spoke with a former medical director at Novitas that was involved in the 2015 
+
+
+reimbursement discussions, who confirmed that when the reimbursement decision was made, 
+
+
+the Zio “had barely registered on anybody’s radar.” Since then, though, the Zio has turned out to 
+
+
+be larger than anyone expected. Based on iRhythm’s disclosures, we estimate that 0297T 
+
+
+racked up a little more than $40 million of Medicare utilization in 2018,5 all of it billed through 
+
+
+Novitas. To put that in context, the entire traditional Holter category – all 4 CPT codes 
+
+
+comprising all the relevant procedures – had about $50M in Medicare utilization last year.6  
+
+
+
+
+
+In our discussions with the former Novitas executive, former CMS officials, device company 
+
+
+reimbursement experts, and former members of the CPT Editorial Panel and RUC, there was 
+
+
+one overarching theme when it came to large changes in reimbursements: they are almost 
+
+
+always spurred by massive increases in procedure volumes, known in CMS parlance simply as 
+
+
+“utilization.” Significant utilization increases almost always raise a red flag somewhere – at 
+
+
+CMS, at the MAC level, or at the commercial payors, who will raise the issue with CMS and/or 
+
+
+the relevant MAC. As an example, consider that the CMS “high expenditure screen” in 2016 
+
+
+flagged the entire family of CPT codes related to remote monitoring of cardiac defibrillators 
+
+
+because the codes had allowed Medicare charges of over $10 million and saw utilization 
+
+
+increases of over 50% cumulatively over 3 years. 0297T in 2018 allowed Medicare charges of 
+
+
+over $40 million and has seen a cumulative 3-year utilization increase of close to 300%. 
+
+
+
+
+
+The former Novitas director we spoke with was astounded by those numbers. He confirmed that 
+
+
+Medicare contractors, including Novitas, have screens with advanced analytics that are 
+
+
+supposed to be run in order to flag new technologies with rapid utilization increases. He agreed 
+
+
+that there would indeed be risk “of this being flagged and subject to repricing” and was adamant 
+
+
+that providers shouldn’t “underestimate Medicare – if something is enough of an outlier…it’ll get 
+
+
+back to them one way or another.” He also volunteered that if a group of MAC medical directors 
+
+
+were aware of the reimbursement disparities discussed above, they would definitely look into 
+
+
+this one. 
+
+
+
+
+
+                                                
+5 As disclosed in footnote 2 of iRhythm’s 2018 10-K  
+6 Based on CMS utilization data.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 19 
+
+
+
+
+
+The MCT experience that Joe Capper faced when he became CEO of CardioNet, as discussed 
+
+
+above, is a particularly ominous precedent for the Zio reimbursement rate, as it bears a striking 
+
+
+resemblance to iRhythm’s current situation. At the beginning of 2009, CardioNet had just 
+
+
+finished two years in which it tripled its Mobile Cardiac Telemetry revenues, with utilization also 
+
+
+growing at a similar rate. MCT had just been approved as a Category I code in October of 2008, 
+
+
+but as of 2009, CMS kept it as contractor-priced, i.e., dependent on the MAC where the IDTF 
+
+
+was placed. Similar to iRhythm now, CardioNet then was “credited with creating the 
+
+
+reimbursement codes for MCOT or wireless cardiac monitoring from CMS.” The dollar revenues 
+
+
+from the relevant MAC increased in 2008 to about $35 million from about $20 million in the prior 
+
+
+year (compare iRhythm’s revenues from CMS increasing from about $25 million in 2017 to 
+
+
+$40.6 million in 2018). Even the management guidance from CardioNet at the time is eerily 
+
+
+similar to iRhythm’s current reassurances, with then CFO Marty Gavlan saying in the April 2009 
+
+
+earnings call that “candidly the argument is just as strong that we could justify a higher level of 
+
+
+reimbursement as there would be any reduction.”  
+
+
+
+
+
+Then, on July 13th, Highmark announced that it would cut the reimbursement rate on MCT from 
+
+
+$1123 to $754. This was followed, according to CardioNet’s 2010 10-K, by “pressure from 
+
+
+several commercial payors to renegotiate reimbursement rate contracts.” After growing at torrid 
+
+
+rates for several years, the company saw three consecutive years of revenue declines, driven 
+
+
+by reimbursement cuts and payor throttling of MCT utilization. The latter, we believe, is another 
+
+
+risk that iRhythm faces following its rapid growth. If a procedure becomes overused, either 
+
+
+because of generous reimbursement or simply convenience, commercial payors are notorious 
+
+
+for restraining procedure utilization growth through required preapprovals and administrative 
+
+
+hassling. It’s unclear, in retrospect, if commercial payors began to be more prudent with MCT 
+
+
+reimbursement on the heels of the Highmark decision, or on their own volition after the 
+
+
+explosion in MCT volumes from 2006-2008. But the case of MCT clearly demonstrates the risks 
+
+
+that can build for a rapidly growing single-product company reliant on a single fee negotiation. 
+
+
+
+
+
+In the end, we believe that even without a move to Category I, iRhythm’s Zio reimbursement is 
+
+
+in imminent danger of being forced downward by both Novitas and commercial payors. Such 
+
+
+rapid revenue growth, at significant total dollar sums, from a single procedural code, is all but 
+
+
+certain to call attention to the finer details of the reimbursement arrangements. When Novitas 
+
+
+and commercial payors take note of what other MACs are paying, we don’t expect them to 
+
+
+stand still. 
+
+
+
+
+
+
+
+
+IV. iRhythm Faces Formidable Competition that it has 
+
+
+(Over)Confidently Dismissed 
+
+
+
+
+
+So the other patch products that are coming out here are, in my view, not proven in that 
+
+
+there are no peer-reviewed publications to validate their effectiveness versus anything. 
+
+
+[They] certainly haven't been compared to Zio. Those patches generally are anywhere
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 20 
+
+
+
+
+
+from three days to five days... We know that a three to five days of where your 
+
+
+diagnostic yield maximally will be about 40%, it won't hit 74%, because you need that 
+
+
+long-term duration. 
+
+
+Kevin King 
+
+
+Cannacord Growth Conference, August 9, 2018 
+
+
+
+
+
+From a competitive standpoint, the competition is legacy technology. As I said earlier, 
+
+
+about 2.8 million Holter monitors; 1.3 million, 1.4 million Event monitors and less than 
+
+
+0.5 million MCT products. That's how we think of the competition is legacy [sic]. I don't 
+
+
+really think of it as a sales process with two companies standing toe-to-toe as much as I 
+
+
+see it as the status quo of what's already penetrated. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Third Quarter Earnings Call, October 30, 2018 
+
+
+
+
+
+I don't really see competitive threats in a big way. Our competitive threat is really all 
+
+
+about helping customers to change their status quo, as you mentioned earlier in your 
+
+
+first comment there. So, it doesn't appear that anything is really immediately on the 
+
+
+horizon. And if it were, it would need to be proven clinically. It would need to be as 
+
+
+complete as iRhythm is in helping people to understand how to diagnose and manage 
+
+
+their patients to the level of effectiveness that we have. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Fourth Quarter Earnings Call, February 12, 2019 
+
+
+ 
+Since iRhythm went public in late 2016, the company has been adamant that the only 
+
+
+competition they face is the status quo – “legacy technology.” The battle against traditional 
+
+
+Holters, Event Monitors, and Mobile Cardiac Telemetry is primarily about physician inertia, 
+
+
+because the clinical data so obviously favors the Zio over the status quo. Once that inertia is 
+
+
+broken, though, there’s essentially no alternative to the Zio – it’s the only extended Holter patch 
+
+
+that has been “proven clinically” and no other patch is “as complete as iRhythm” in enabling 
+
+
+doctors to effectively “diagnose and manage their patients.”  
+
+
+
+
+
+But our discussions with electrophysiologists and cardiologists, as well as our read of the clinical 
+
+
+literature, paint a picture that bears almost no resemblance to iRhythm’s portrayal of its 
+
+
+competitive position. For one, the legacy modalities retain significant advantages against the Zio 
+
+
+that won’t soon erode. For another, at least one upstart competitor – Bardy Diagnostics – has 
+
+
+been shown in the clinical literature to best the Zio on precisely the metrics that iRhythm uses to 
+
+
+demonstrate its superiority. Finally, the Zio’s clear weaknesses, and iRhythm’s success despite 
+
+
+those weaknesses, has spawned a slew of competitors that have focused on taking share 
+
+
+through improving upon the Zio’s faults. 
+
+
+
+
+
+iRhythm’s primary claims regarding the Zio can be summarized as follows: 
+
+
+
+
+
+ The Zio’s “diagnostic yield” is higher than any of the legacy systems.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 21 
+
+
+
+
+
+ Because of the Zio’s higher diagnostic yield, monitoring procedures that need to be 
+
+
+repeated with legacy monitoring methods can be performed just once with the Zio, 
+
+
+eliminating wasteful procedures.  
+
+
+ The higher diagnostic yield also results in a large number of cases with significantly differing 
+
+
+treatment plans when patients use a Zio compared to a legacy monitoring modality. 
+
+
+
+
+
+Diagnostic yield is defined by iRhythm in its recent 10-K as “the percentage of patients in whom 
+
+
+an arrhythmia was detected” in a particular group of patients being monitored. In one of the 
+
+
+studies iRhythm sponsored, for example, a group of 70 patients with suspected atrial fibrillation 
+
+
+were monitored using both a traditional Holter monitor and a Zio. The Zio patch identified 
+
+
+arrhythmias in 38 of the 70 patients, for a diagnostic yield of 38/70 = 54% while the Holter 
+
+
+identified arrhythmias in only 18 patients for a diagnostic yield of 26%. 
+
+
+
+
+
+In that context, we don’t think it’s an exaggeration to label the following graph, demonstrating 
+
+
+iRhythm’s diagnostic yield claims, as deeply misleading, and even deceptive. iRhythm’s investor 
+
+
+presentation and product webpage present this diagnostic yield comparison among the various 
+
+
+monitoring modalities: 
+
+
+
+
+
+iRhythm Presentation of Diagnostic Yield Comparisons 
+ 
+
+
+
+
+
+Source: iRhythm Investor Presentation 
+ 
+
+
+ 
+ 
+The problem is that the term “diagnostic yield” has no meaning without context – you can only 
+
+
+compare the diagnostic yield of different devices if they’re tested on the same patient 
+
+
+populations. But in the above graph, iRhythm compares the diagnostic yield of the 4 cardiac 
+
+
+monitoring methods in 4 totally different patient populations, in at least 3 different journal
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 22 
+
+
+
+
+
+articles,7 spanning the course of over a decade. A close reading of even just the abstracts of 
+
+
+these papers suggests that iRhythm selectively chose the papers, and even selectively chose 
+
+
+which data from the papers to present in the graph. For example, Rothman et al. (2007) found 
+
+
+that in “a total of 266 patients…a diagnosis was made in 88% of MCOT subjects compared 
+
+
+with 75% of LOOP [event monitor] subjects.” That is very obviously not an inference that 
+
+
+could be made from iRhythm’s graph, which shows the Event Recorder’s diagnostic yield at 
+
+
+~30% and MCT’s at ~60%.  
+
+
+
+
+
+iRhythm also posts a selective list of about twenty scientific papers it uses to bolster its 
+
+
+argument that the Zio is superior to legacy technology. A detailed look at that literature, though, 
+
+
+tells a different story. Of all the studies that iRhythm presents, only two are head to head 
+
+
+comparisons against legacy cardiac monitors, and in both cases, the Zio is compared only to a 
+
+
+Holter monitor. No comparison against Event Monitoring or Mobile Telemetry seems to exist. 
+
+
+Even in those two head-to-heads against the Holter, the root of Zio’s diagnostic yield advantage 
+
+
+is not the superior ability to identify arrhythmias, but the simple fact that the device monitors the 
+
+
+patient for longer.  
+
+
+
+
+
+What happens during the first 24 hours of the study, in which the Holter and Zio are both 
+
+
+concurrently monitoring? In one of those studies, “over a 24-hour period, there was excellent 
+
+
+agreement between the Zio Patch and Holter for identifying AF [Atrial Fibrillation] events,” 
+
+
+though the study is noticeably silent about which device was superior in capturing non-AF 
+
+
+arrhythmias. In the second of the two head-to-heads, the inferiority of the Zio during the period 
+
+
+in which both devices are worn is much more obvious: 
+
+
+
+
+
+As a secondary outcome measure, the adhesive patch monitor was compared with the 
+
+
+Holter monitor for detection of arrhythmia events over a simultaneous 24-hour period. In 
+
+
+this period, the Holter monitor detected significantly more of the 6 types of 
+
+
+arrhythmia events than the adhesive patch monitor. The Holter monitor detected 61 
+
+
+arrhythmia events compared with 52 arrhythmia events by the adhesive patch monitor (P 
+
+
+= .013) [emphasis added] 
+
+
+
+
+
+Our discussions with several electrophysiologists clarified the matter: The Zio’s intrinsic ability to 
+
+
+identify arrhythmias can never be as accurate as a Holter’s. As a one-lead monitor placed on 
+
+
+top of the chest, the Zio will necessarily read P-waves less precisely and will be handicapped 
+
+
+trying to record ventricular rhythms (which come from the lower chambers of the heart). The Zio 
+
+
+can mostly make up for the lack of precision by recording for longer, but even then, one lead 
+
+
+can be only so useful. The ideal solution would theoretically be to have a multi-lead device that 
+
+
+can monitor for longer than a Holter. 
+
+
+
+
+
+Event Monitoring exists precisely for that purpose. Indeed, the electrophysiologists we spoke 
+
+
+with were uniformly dismissive of the utility of the Zio for their purposes. The Zio might be useful 
+
+
+                                                
+7 On its webpage, iRhythm says the data used “diagnostic yields derived from Zio Service Data, Rothman 
+
+
+et al. (2007); Tsang et al. (2014) & Rei [sic] el et al. (2005).”
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 23 
+
+
+
+
+
+in a cardiology or primary care practice for AF detection, but an EP that sees a patient after a 
+
+
+Zio-based referral almost always has the patient monitored again using an Event Monitor or an 
+
+
+MCT unit, because the clarity of the rhythm recording may affect treatment choices. Multi-lead is 
+
+
+the gold standard in rhythm monitoring, and while iRhythm may claim that the Zio eliminates 
+
+
+costly repeat Holter monitoring procedures, it’s also true that replacing a traditional Holter with a 
+
+
+Zio often necessitates repeat monitoring with an EM or MCT. 
+
+
+
+
+
+To our knowledge, there has not been any head-to-head comparison between the Zio and an 
+
+
+Event Monitor, at least none that has been published. The literature on Event Monitors implies 
+
+
+that an EM would be superior to the Zio in every respect: even literature from 2003 that 
+
+
+compares an EM to a Holter in a head-to-head shows that when both are concurrently 
+
+
+monitoring, the EM captures 100% of the AF-related arrhythmias captured by the Holter and 
+
+
+greater than 80% of other arrhythmias. And that was using EM technology from 1998 – since 
+
+
+then, the arrhythmia detecting capabilities of Event Monitors have gotten much better, and the 
+
+
+machines are much more ergonomic and less cumbersome.8 Event Monitors also have the 
+
+
+distinct advantage of transmitting arrhythmia events in real time for physician analysis, while the 
+
+
+Zio’s results take several weeks to reach the doctor. This latter shortcoming was frequently 
+
+
+deemed unacceptable by many of the physicians with whom we spoke. Moreover, as pointed 
+
+
+out earlier, EMs are more than 40% cheaper for payors. Given their superiority, we don’t expect 
+
+
+that payors will allow that disparity for very long. 
+
+
+
+
+
+Beyond the underrated advantages of status quo monitoring modalities, it’s fair to say that, by 
+
+
+iRhythm’s standards, the Zio is not even the best patch-based extended Holter. That distinction 
+
+
+probably falls on a relatively new product – the Carnation Ambulatory Monitor (CAM) by Bardy 
+
+
+Diagnostics. We’ve spoken with physicians that have used both the CAM and the Zio, and have 
+
+
+reviewed clinical literature comparing the two head-to-head. Briefly: 
+
+
+
+
+
+ In a head-to-head comparison of the CAM with a traditional Holter over a 24 hour period 
+
+
+(i.e., a true head-to-head), the CAM had a higher diagnostic yield and showed 
+
+
+incremental clarity and precision vs. the Holter monitor, even on arrythmias that were 
+
+
+identified by both monitors. 
+
+
+
+
+
+ In a head-to-head comparison (summary here) of the CAM with the Zio, the CAM had a 
+
+
+higher diagnostic yield than the Zio, identifying 40% more arrhythmias. Given the CAM’s 
+
+
+placement, it was also unsurprisingly “ranked higher in clarity compared to the Zio-XT” 
+
+
+by the reviewing EPs. Finally, in another data point that iRhythm points to in its 
+
+
+comparison with a Holter, “when the managing physician was asked to recommend a 
+
+
+specific clinical action based on the findings of each monitor separately, a difference in 
+
+
+clinical decision-making would have been made in 12 [of 29] patients.” 
+
+
+
+
+
+                                                
+8 There isn’t much literature on Event Monitors after 2003, and even this systematic literature review in 
+
+
+2010 doesn’t find much beyond the early 2000’s.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 24 
+
+
+
+
+
+The physicians we spoke with also mentioned that the report that Bardy generates for doctors 
+
+
+after the patient’s extended Holter usage was as clear, intuitive, and well-designed as the Zio 
+
+
+report. The CAM also has the distinct advantage of having the recording of the patient’s heart 
+
+
+rhythm available to the physician immediately upon receiving the patch from the patient. The 
+
+
+physician’s staff can easily connect the device to Bardy’s software and generate a report in the 
+
+
+office without having to send the patch by USPS to Bardy’s IDTF (which is also, not 
+
+
+coincidentally, located in Houston). 
+
+
+
+
+
+We also spoke to an EP at a large west-coast Integrated Delivery Network (IDN) hospital who 
+
+
+confirmed that Bardy also has a distinct advantage relative to iRhythm by allowing more billing 
+
+
+flexibility on the customer side. iRhythm does not offer the option of buying the device from 
+
+
+them and conducting all the procedures in-house – once the Zio is used, only the iRhythm IDTF 
+
+
+can conduct the analysis and reporting. Bardy, on the other hand, offers customers the option of 
+
+
+simply buying the device and software, and then conducting all the procedures in-house. This is 
+
+
+particularly attractive for large hospital networks that already employ ECG technicians to read 
+
+
+traditional Holter and Event Monitor recordings. Their marginal cost structure for using a CAM 
+
+
+once they own the device is minimal. 
+
+
+
+
+
+It’s also worth pointing out that Bardy is well aware of the pitfalls of being a one-product 
+
+
+company. Employees at Bardy have confirmed to us that Bardy is already in the process of 
+
+
+moving both up-market and down-market. Regarding the former, the company is working on an 
+
+
+Implantable Cardiac Monitor (ICM) that would compete with Medtronic. Down-market, the 
+
+
+company has submitted a 510(k) application to the FDA for an over-the-counter extended 
+
+
+Holter. The latter effort is a good indication of how rapidly the cost curve is being scaled on 
+
+
+extended Holters, and device commoditization is another factor that the Zio, with its high 
+
+
+reimbursement levels, will be battling in the near future. 
+
+
+
+
+
+We consider Bardy to be the most formidable challenger to iRhythm, and the CAM patch has 
+
+
+already reached 5000 procedures/month according to the Bardy staff (as compared to 
+
+
+iRhythm’s ~50,000). But there are at least a few other companies that have recently entered the 
+
+
+fray, which could make volume growth more difficult to achieve for iRhythm: 
+
+
+
+
+
+ BioTelemetry – BioTel has historically been the most dominant player in Event 
+
+
+Monitoring and MCT. Their recent foray into extended Holter monitoring is the ePatch, 
+
+
+which has so far been met with a lukewarm reception on the part of cardiologists and 
+
+
+EPs. BioTel has been more successful with its recent MCT product introduction which 
+
+
+features a multi-lead combined MCT/EM device that is quickly becoming the go-to 
+
+
+monitoring device for many EPs given its flexibility. 
+
+
+
+
+
+ Preventice – Preventice has also been historically strong in MCT and Event Monitoring, 
+
+
+but it recently introduced the Preventice Mini, which can function as any of the three 
+
+
+monitors – MCT, Event Monitor, or extended Holter. Based on discussions with 
+
+
+cardiologists, the Mini has generated significant buzz, with all of them intending to try it 
+
+
+out in their practice.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 25 
+
+
+
+
+
+
+
+
+Both BioTel and Preventice can take advantage of their ability to sell a full suite of monitoring 
+
+
+products to providers, and we think they present, along with Bardy, a significant obstacle to 
+
+
+iRhythm’s growth rates going forward. 
+
+
+
+
+
+
+
+
+V. The TAM for the Zio is Much Smaller than iRhythm 
+
+
+Suggests, and the Effort to Expand its Product Offering 
+
+
+through the Zio AT has been a Failure 
+
+
+The Zio XT has a much smaller TAM runway than iRhythm describes 
+
+
+ 
+If we think about those 4.6 million annual procedures within the U.S., about 60%, close 
+
+
+to three million of them are Holter monitors. Those are first line tests. That's a completely 
+
+
+addressable market segment for us and there really isn't any innovation in that segment. 
+
+
+Event monitoring is either a first line or second line test. We address roughly two-thirds 
+
+
+to three-quarters of that market. 
+
+
+Kevin King 
+
+
+iRhythm 2016 Third Quarter Earnings Call, December 5, 2016 
+
+
+
+
+
+Today, the legacy ambulatory monitoring market is primarily focused on the initial 
+
+
+diagnosis of symptomatic patients that amounts to over 4.5 million tests per year. We 
+
+
+estimate that our share of this existing market is now double digits, as we've broadened 
+
+
+our presence and displaced legacy Holter, Event, and mobile telemetries with our XT 
+
+
+and AT services. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Third Quarter Earnings Call, October 30, 2018 
+
+
+
+
+
+iRhythm would like investors to think that there is a $1.8 billion cardiac monitoring market,9 and 
+
+
+that the company’s $147 million revenue is just a small slice of that market. Traditional Holter 
+
+
+monitoring makes up the lion’s share of the pie and, combined with most Event Monitoring 
+
+
+procedures, represents the 85-90% share that the Zio XT can theoretically win. Meanwhile, 
+
+
+MCT, at about 10% of the market, is not incredibly relevant. iRhythm, though, is trying to gain a 
+
+
+foothold in the space because it allows them to present a more complete product portfolio, 
+
+
+thereby improving the prospects for its core Zio XT product.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                
+9 As per iRhythm’s description in Part I of its 2018 10-K
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 26 
+
+
+
+
+
+Based on CMS utilization data and commentary by BioTel regarding their share of the MCT 
+
+
+space, the volume split in the cardiac monitoring market looks like this: 
+
+
+
+
+
+Unit-Level Market Share of Cardiac Monitoring Modalities 2018 
+ 
+
+
+
+
+
+Source: CMS Provider Utilization and Payment Data, BioTelemetry Inc. Filings and Conference Call 
+Commentary, Kerrisdale analysis 
+ 
+
+
+ 
+Reimbursement considerations aside, we think iRhythm’s claim – that 90%+ of the market is up 
+
+
+for grabs by extended Holter monitors – is greatly exaggerated because it doesn’t account for 
+
+
+how the devices are used. MCT and Event Monitoring are almost entirely incapable of being 
+
+
+replaced by a Zio patch: Both methods are almost exclusively prescribed by 
+
+
+electrophysiologists, most of whom avoid the Zio given its lack of signal clarity and inability to 
+
+
+accurately diagnose arrhythmias beyond Atrial Fibrillation. In fact, some of the EPs we’ve 
+
+
+spoken with complained of having received patient referrals after a Zio recording and having to 
+
+
+re-monitor with an Event Monitor so that they can get a clear view of the rhythm abnormalities. 
+
+
+MCT and Event Monitoring are also generally prescribed because they are real-time monitoring 
+
+
+modalities, which has a double benefit. First, it allows the physician to more rapidly make a 
+
+
+diagnosis, frequently cutting the procedure short after only a few days, because enough data 
+
+
+has already been collected to make an accurate diagnosis. Perhaps more importantly, 24-hour 
+
+
+attended monitoring virtually guarantees that a dangerous arrhythmia requiring treatment will 
+
+
+get that treatment quickly. The Zio, therefore, has almost no utility for the 35-40% of the market 
+
+
+currently served by MCT or Event Monitoring. 
+
+
+
+
+
+But even the share currently occupied by traditional Holter monitoring will become increasingly 
+
+
+difficult for iRhythm to capture. First, that’s because some Holter procedures are repeated after 
+
+
+an initial monitoring that was inconclusive. We estimate that’s at least 5% of traditional Holter 
+
+
+procedures.10 But much more significantly, while a Holter is frequently used because it’s the 
+
+
+simplest first-line monitoring modality, it’s also often used because the patient presents as 
+
+
+                                                
+10 Based on CMS utilization data, which includes both total number of procedures as well as the total 
+
+
+number of unique beneficiaries for each procedure.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 27 
+
+
+
+
+
+symptomatic on a frequent basis. In that case, not only does the traditional Holter remain the 
+
+
+best monitoring method due to its recording clarity and precision, but also because a diagnosis 
+
+
+is required without delay. The multi-week waiting period for a Zio procedure will always remain 
+
+
+unacceptable for such patients, and we estimate that’s another 15-25% of Holter share that will 
+
+
+not be captured by any kind of patch monitor. 
+
+
+
+
+
+From the perspective of unit volumes, iRhythm’s addressable market is therefore best described 
+
+
+as the traditional Holter monitoring procedures performed not by electrophysiologists, but by 
+
+
+cardiology and primary care practices, where time is not of the essence, and the quality of the 
+
+
+rhythm recording is not relevant. That’s perhaps up to half of the size of the cardiac monitoring 
+
+
+market as a whole, and it means the Zio is much more penetrated than the company admits.  
+
+
+
+
+
+The attempt to expand clinical cardiac monitoring to asymptomatic 
+
+
+patients is unrealistic and bound to fail 
+
+
+ 
+Sitting above our currently addressable market in the funnel lies the opportunity for 
+
+
+detection of asymptomatic atrial fibrillation in patients with risk factors such as age, 
+
+
+hypertension, diabetes or prior stroke. Following the publication of our mSToPS study in 
+
+
+JAMA, we've spent considerable time with clinical thought leaders, payors and the 
+
+
+pharma community to understand this market. And we've grown even more excited 
+
+
+about its potential. Based on the inclusion criteria of mSToPS, we now estimate a 
+
+
+market of greater than 10 million high-risk patients who could be potentially benefit from 
+
+
+screening for AF. In order to fully access this market, we will need to show positive data 
+
+
+on clinical outcomes and we expect such data to be available from mSToPS and other 
+
+
+studies over the next few years…That data is a three-year endpoint, so it should be 
+
+
+coming out sometime in the 2020, maybe 2021 timeframe. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Third Quarter Earnings Call, October 30, 2018 
+
+
+
+
+
+The shorter-than-acknowledged runway for the Zio is why iRhythm is so invested in expanding 
+
+
+the potential patient population for cardiac monitoring. The current 4.5 million-procedure 
+
+
+monitoring market is comprised entirely of symptomatic patients, i.e. people who have 
+
+
+arrhythmia symptoms and are subsequently tested through ambulatory cardiac monitoring. 
+
+
+There are millions of people, though, who have no arrhythmia symptoms but are still considered 
+
+
+at high risk of stroke from atrial fibrillation.11 The opportunity that iRhythm has highlighted to 
+
+
+investors is the mass monitoring of this asymptomatic population – by a Zio of course. 
+
+
+
+
+
+The trial that iRhythm has been consistently emphasizing on earnings calls and presentations is 
+
+
+the mHealth Screening to Prevent Strokes (mSToPS) clinical trial. The trial design is as follows: 
+
+
+
+
+
+                                                
+11 The simplest measure of this is known as a CHADS2 score, which is used by the mSToPS study
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 28 
+
+
+
+
+
+ Two cohorts were formed from a group of at-risk-but-asymptomatic patients: the “actively 
+
+
+monitored” cohort is initially monitored by a Zio patch while the “observational control” cohort 
+
+
+is left alone and observed. 
+
+
+ The actively monitored cohort is itself split, with half being monitored by a Zio in the first two 
+
+
+weeks of the trial (“immediate monitoring”) and the other half only getting the Zio monitoring 
+
+
+after 4 months have elapsed (“delayed monitoring”). 
+
+
+ All those in the actively monitored cohort are monitored by a Zio twice. So first, they wear 
+
+
+the Zio patch for two weeks, and then they wear it again (also for two weeks) 3 weeks after 
+
+
+the first patch is removed. 
+
+
+
+
+
+Among other questions, the study seeks to document any variance between the groups in the 
+
+
+proportion of AF diagnoses, percentage of population initiating anticoagulant therapy, amount of 
+
+
+healthcare utilization (as defined by doctor visits), incurred medical costs, and, most importantly, 
+
+
+medical outcomes.  
+
+
+
+
+
+The trial is set to last 3 years, with a full analysis to be published in late 2020 or 2021. But an 
+
+
+analysis of some of the data at the 1-year mark was published in JAMA in July of 2018, and 
+
+
+iRhythm hailed it (see the comments by King above) as a precursor to changes in official 
+
+
+treatment guidelines that would endorse expanded monitoring, potentially doubling the Zio’s 
+
+
+addressable market. We examined the analysis, as well as multiple published responses. While 
+
+
+the interim-analysis study is clearly indeterminate regarding the utility of mass screening, the 
+
+
+evidence presented in the paper would seem to argue strongly against screening with a Zio.  
+
+
+
+
+
+The primary endpoint of the 1-year interim analysis compared the two halves of the actively 
+
+
+monitored cohort – the immediate monitoring half and the delayed monitoring half – during the 
+
+
+first four months of the trial. The study found that the number of AF diagnoses in the immediate 
+
+
+monitoring group was significantly higher than in the delayed monitoring group. This is wholly 
+
+
+unsurprising – if you look for something, you’re more likely to find it than if you’re not looking for 
+
+
+it. That doesn’t have much bearing, though, on whether mass screening is useful. As the JAMA 
+
+
+editorial published alongside the study remarked: 
+
+
+
+
+
+… before the findings of mSToPS can be incorporated into clinical practice, 2 major 
+
+
+questions must be considered with regard to structured AF screening: (1) does earlier or 
+
+
+more sensitive detection of AF improve clinical outcomes? (2) And if so, is it cost-
+
+
+effective? 
+
+
+
+
+
+Among symptomatic patients who are candidates for rhythm control, both medical 
+
+
+(antiarrhythmic) and interventional approaches (ie, catheter ablation) have consistently 
+
+
+demonstrated more favorable outcomes among patients with intermittent AF (and less 
+
+
+advanced disease). The net clinical benefit of stroke prevention for patients with 
+
+
+lower-burden…or subclinical AF is more complicated…Data from randomized trials 
+
+
+are necessary to test whether the benefits of treatment with oral anticoagulation 
+
+
+outweigh the risks in patients with subclinical or low-burden AF.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 29 
+
+
+
+
+
+
+
+
+Whether screening for AF is cost-effective is a more complex question and depends on 
+
+
+the target population, local practice patterns, screening approach, and the effects on 
+
+
+outcomes. While several studies have suggested various screening protocols to be cost-
+
+
+effective in different health systems, these studies have been based largely on 
+
+
+assumptions regarding stroke risk reduction in these patients, which will require 
+
+
+additional trials to confirm. [emphasis added] 
+
+
+
+
+
+In other words, mSToPS will not be the last word on the two critical questions regarding 
+
+
+expanded monitoring – namely, is there an associated net benefit and is it cost effective?  
+
+
+
+
+
+The secondary endpoint of the interim analysis, which is actually more relevant to the 
+
+
+determination of whether there’s a net benefit to mass screening, simply compared the number 
+
+
+of AF diagnoses at the 1-year mark in the actively monitored cohort vs. the observational 
+
+
+control. The results are incredibly revealing about the utility of screening with a Zio: 
+
+
+
+
+
+In the observational study, over 12 months of follow-up, 190 new cases of AF were 
+
+
+detected, 109 of 1738 (6.7 per 100 person-years) in the actively monitored cohort and 81 
+
+
+of 3476 (2.6 per 100 person-years) among observational controls (absolute difference, 
+
+
+4.1 [95% CI, 3.9-4.2]). 
+
+
+
+
+
+In the actively monitored cohort, 65 individuals were first found to have AF by ECG patch 
+
+
+(43 with first patch and 22 only with the second patch). In this cohort, 44 individuals 
+
+
+received a clinical diagnosis of AF either prior to monitoring (n = 12) or after monitoring 
+
+
+was completed without any findings of AF during monitoring (n = 32). 
+
+
+
+
+
+So AF was diagnosed much more frequently in the actively monitored cohort compared to the 
+
+
+observational control (6.7 diagnoses per 100 person-years vs. 2.6). But note the distribution of 
+
+
+the 109 AF diagnoses in the actively monitored cohort: 
+
+
+
+
+
+ 43 were made by the Zio patch the first time it was applied 
+
+
+ 22 were made by the second application of the Zio patch (remember, every patient used the 
+
+
+patch twice) 
+
+
+ 44 were made by a doctor completely independent of the Zio patch, either because the 
+
+
+diagnosis was made before the patch was applied (12 patients), or because the Zio did not 
+
+
+properly identify AF (32 patients).  
+
+
+
+
+
+In other words, 66 of 109 AF diagnoses in the actively monitored cohort were due to either the 
+
+
+application of a second patch, or a visit that the patient paid to the doctor because they were 
+
+
+part of the study. If you take those away, the number of diagnoses per 100 person-years is 
+
+
+exactly the same. So the way the Zio would be used in the real world – simply applying it once 
+
+
+when a high risk but asymptomatic patient went for a check-up – would provide nothing in the 
+
+
+way of incremental AF diagnoses.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 30 
+
+
+
+
+
+
+
+
+Additionally, regarding the primary endpoint, which found a 3.9% AF diagnosis rate in the 
+
+
+immediate monitoring group vs. the delayed monitoring group, JAMA’s editorial had this to say:  
+
+
+
+
+
+The population in the current study may be most similar to that of the Assessment of 
+
+
+Remote Heart Rhythm Sampling Using the AliveCor Heart Monitor to Screen for Atrial 
+
+
+Fibrillation (REHERSE-AF) Study, in which at-risk patients were recruited in the United 
+
+
+Kingdom and instructed to self-record their rhythm 1 to 2 times weekly (and with 
+
+
+symptoms) using a hand-held device. This monitoring strategy resulted in a 3.7% 
+
+
+rate of AF diagnosis at 12 months, which is similar to that of the mSToPS 
+
+
+detection rate at 4 months (3.9%)…[emphasis added] 
+
+
+
+
+
+Left unsaid is that self-monitoring using the AliveCor device is 70% cheaper than using a Zio. 
+
+
+We also discussed the mSToPS study with a prominent electrophysiologist who is deeply 
+
+
+involved in writing cardiac monitoring guidelines, including the 2017 Expert Consensus 
+
+
+Statement on Ambulatory ECG. His view was that: 
+
+
+
+
+
+…surveillance for patients at high risk of stroke if they have AF is a very legitimate area 
+
+
+of inquiry now. To be fair, it is an area that is as yet unsettled…and at the present time 
+
+
+it’s the conclusion of all the experts that there’s insufficient data to warrant sub-
+
+
+population screening with ECG recording systems. I would say that in the asymptomatic, 
+
+
+not previously diagnosed patients, it is highly unlikely that it will be an iRhythm-type 
+
+
+device that will be used, because that’s way too cumbersome and expensive.  
+
+
+
+
+
+What has been used are handheld ECG recorders and the Apple Watch, for example, 
+
+
+so smartphone-based ECG recorders…not heart rate systems, but actual ECG 
+
+
+recording…that may lead to more substantive and comprehensive ECG recording [in a 
+
+
+clinical setting].  
+
+
+
+
+
+The big objection to doing this in mass screening is the expense, and that was based on 
+
+
+using far less expensive products [than the Zio], because obviously when you start 
+
+
+employing this in a not-insignificant portion of the older population, the costs add up 
+
+
+quite quickly. Even doing the Apple Watch or the AliveCor, that’s only $100, but…even if 
+
+
+it’s $25 or $50, it adds up, and then you have the downstream expenses. You’re going to 
+
+
+probably have to do some additional monitoring…it opens Pandora’s box in terms of 
+
+
+expenses. The bottom line is I do believe that mass screening at some point will become 
+
+
+accepted, but there’s a lot of work to be done to define which type of populations, which 
+
+
+type of screening… 
+
+
+
+
+
+And then, does it predict stroke? Just because you pick up an incidental AF on one 
+
+
+ECG, does it have the same implications for stroke as an AF event that is presented to 
+
+
+your office or in the Emergency Room? My guess is it may not…So I think we really 
+
+
+have to prove association with stroke.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 31 
+
+
+
+
+
+
+
+
+Worth noting is that about a month after the mSToPS 1-year analysis was published in JAMA, 
+
+
+the journal published the US Preventive Services Task Force statement on screening for AF 
+
+
+with ECG in asymptomatic adults older than 65. The task force reviewed seventeen studies and 
+
+
+concluded: 
+
+
+
+
+
+Although screening with ECG can detect previously unknown cases of atrial fibrillation, it 
+
+
+has not been shown to detect more cases than screening focused on pulse palpation. 
+
+
+Treatments for atrial fibrillation reduce the risk of stroke and all-cause mortality and 
+
+
+increase the risk of bleeding, but trials have not assessed whether treatment of screen-
+
+
+detected asymptomatic older adults results in better health outcomes than treatment 
+
+
+after detection by usual care or after symptoms develop. 
+
+
+
+
+
+It’s delusional to think that mass screening of asymptomatic high-risk patients with expensive, 
+
+
+clinical-grade cardiac monitors will ever become the standard of care.  
+
+
+
+
+
+The Zio AT does not meet the criteria for Mobile Cardiac Telemetry, 
+
+
+and it has been a failure 
+
+
+ 
+We were pleased to receive FDA clearance in June for Zio AT, our next-generation 
+
+
+offering aimed at increasing our served market with the addition of timely data 
+
+
+transmission capabilities to serve patients who have more critical symptoms such as 
+
+
+syncope, pre-syncope and ventricular tachycardia. 
+
+
+Kevin King 
+
+
+iRhythm 2017 Second Quarter Earnings Call, August 2, 2017 
+
+
+
+
+
+On the AT side, we've message that this is more like a three to four-quarter ramp. I think 
+
+
+the question came on our last call, was this like a 2 to 4 or was this an 8 to 10 quarter 
+
+
+ramp, and we guided kind of more towards the lower end of the 3 to 4 quarters in order 
+
+
+to get full AT contracts… we came out of the box pretty strong here. And so, we're 
+
+
+feeling good about the status or the position that we're at right now. 
+
+
+Kevin King 
+
+
+iRhythm 2017 Third Quarter Earnings Call, November 1, 2017 
+
+
+
+
+
+The rollout of Zio AT provides another meaningful opportunity to gain share by enabling 
+
+
+us to offer a full portfolio of ambulatory cardiac monitoring services on a single platform 
+
+
+to our customers… 
+
+
+
+
+
+Most accounts have Holter monitors, Event monitors and to some degree some usage of 
+
+
+MCT. They may have it in different mix configurations…It really depends upon the 
+
+
+physician preference. The important thing here is that Zio now has the ability to replace
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 32 
+
+
+
+
+
+everything that's there. And that's what we're increasingly doing. Prior to AT, we were 
+
+
+taking share, if you will, from the legacy markets of Holter and Event; and to some 
+
+
+extent, MCT where the patients were getting prescribed MCT for the purposes of longer 
+
+
+duration, but not necessarily the life critical nature of the arrhythmias that they may have 
+
+
+underlying. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Third Quarter Earnings Call, October 30, 2018 
+
+
+
+
+
+It's worth reiterating the primary reason for our phased roll-out of Zio AT is that the 
+
+
+number of possible contracted lives for Zio AT is significantly less than that of Zio XT. 
+
+
+Many health plans continue to have negative MCT coverage decisions, stating that the 
+
+
+technology is either still unproven or too costly compared to alternatives… We expect to 
+
+
+have completed our initial contracting efforts by the first half of this year and will then 
+
+
+more aggressively expand Zio AT into the market at that time. 
+
+
+Kevin King 
+
+
+iRhythm 2018 Fourth Quarter Earnings Call, February 12, 2019 
+
+
+
+
+
+In addition to attempting to influence treatment guidelines and expand the addressable patient 
+
+
+population, iRhythm has tried to expand its TAM by adding a second product line. The Zio AT, 
+
+
+approved in June of 2017, is iRhythm’s Zio for the MCT market. It’s understandable that 
+
+
+iRhythm would want to break into that market. After all, by dollar share, Mobile Cardiac 
+
+
+Telemetry, dominated by BioTel, is the largest piece of the cardiac monitoring market: 
+
+
+
+
+
+Dollar Market Share of Cardiac Monitoring Modalities 2018 
+ 
+
+
+
+
+
+Source: CMS Provider Utilization and Payment Data, BioTelemetry Inc. Filings and Conference Call 
+Commentary, Kerrisdale analysis and estimates 
+ 
+
+
+ 
+But iRhythm’s portrayal of the Zio AT to investors has been somewhat misleading. When first 
+
+
+introducing the product to investors in August of 2017, management described it as similar to 
+
+
+the Zio XT flagship product, but with “timely data transmission capabilities to serve patients who 
+
+
+have more critical symptoms.” As recently as this past October, King stated that the AT allowed
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 33 
+
+
+
+
+
+iRhythm to monitor patients and the “life critical nature of the arrhythmias that they may have 
+
+
+underlying.” The device’s application and approval with the FDA, though, explicitly mentions that 
+
+
+critical care is contraindicated as the device “is not intended for use on critical care patients.”  
+
+
+
+
+
+In our discussions with electrophysiologists around the country, we couldn’t find anyone that 
+
+
+had used the device, or even knew of someone that had used the device. Industry participants 
+
+
+we contacted told us that they were under the impression that the AT did not have the ability to 
+
+
+monitor in real time, which is required for an MCT device, and several mentioned that they 
+
+
+understood that iRhythm had pulled the device from the field because it wasn’t performing up to 
+
+
+MCT standards. Indeed, the recently released 2018 10-K has made several significant revisions 
+
+
+to the company’s descriptions of the Zio AT compared to prior filings, which imply that the 
+
+
+device was not successfully deployed as a real-time monitor: 
+
+
+
+
+
+ While historical filings have referred to the AT as “capable of real time monitoring,” the 
+
+
+recently filed 10-K for Fiscal 2018 describes the AT as “offer[ing] the option of timely 
+
+
+transmission of data.”  
+
+
+
+
+
+ In its 2017 10-K, iRhythm explained that “we received FDA clearance for the Zio AT 
+
+
+monitor in June 2017 and this addition to our product portfolio seeks to address the 
+
+
+segment of the patient population who require real-time notification of critical 
+
+
+arrhythmias through wireless transmission capabilities during the wear period.” The 
+
+
+2018 10-K instead says that the “Zio AT offers the additional capability of transmissions 
+
+
+during the wear period to assist physicians to diagnose and treat the small percentage 
+
+
+of the population requiring more timely action. During the wear period, physicians will 
+
+
+receive notifications if there are significant events that meet pre-determined arrhythmia 
+
+
+detection criteria.” That capability doesn’t even meet the “attended monitoring” standard 
+
+
+required to bill under the Event Monitoring codes. 
+
+
+
+
+
+ In the 2017 10-K, the AT is described in iRhythm’s “Business Strategy” section as 
+
+
+appropriate for “the smaller percentage of the population that requires outpatient 
+
+
+telemetry.” Telemetry, of course, is a clinically relevant term, but the words “outpatient 
+
+
+telemetry” are replaced in the recent 10-K with the words “timely notification.” 
+
+
+
+
+
+Explicit references to the Zio XT in the 10-K have also been replaced simply by references to 
+
+
+the “Zio Monitor,” and in the beginning of the 10-K, the company writes “[w]e refer to both the 
+
+
+Zio AT monitor, and the Zio XT monitor herein as our Zio monitor(s), unless otherwise 
+
+
+specified.” In general, in the new SEC disclosures the Zio AT is described more as a sort of Zio 
+
+
+XT with some extra features rather than a different monitoring modality. 
+
+
+
+
+
+It’s also curiously impossible to find anything on the iRhythm website that mentions the Zio AT. 
+
+
+Under “Products & Services,” only the Zio XT appears, and in information for healthcare
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 34 
+
+
+
+
+
+professionals, there are detailed instructions for the reimbursement codes of the Zio XT, but 
+
+
+nothing to be found about the Zio AT.  
+
+
+
+
+
+While iRhythm had originally guided to a 3-4 quarter ramp in getting the AT contracted with third 
+
+
+party payors, almost 2 years after approval, the company still does not have significant AT 
+
+
+revenues to speak of. For context, bear in mind that for the AT to be 10% of iRhythm’s total 
+
+
+revenues, the point at which they’ve implied that they would break out its revenues separately, it 
+
+
+would need to have been performed just about 3,500 times over the course of a quarter. That’s 
+
+
+only about 2.5% of MCT volumes and less than 0.3% of total cardiac monitoring volumes – 
+
+
+numbers the Zio XT reached in less than two quarters after receiving a reimbursement 
+
+
+agreement with Novitas. 
+
+
+
+
+
+In their February earnings call, the company subtly acknowledged the AT’s lack of uptake and 
+
+
+said that the “phased rollout,” a term they never previously applied to selling the AT, was 
+
+
+because of commercial health plans having “negative MCT coverage decisions.” But, as per 
+
+
+CMS as well as iRhythm’s own estimates of the market size, just under half of MCT procedures 
+
+
+are performed through Medicare, which shouldn’t require any success contracting with 
+
+
+commercial payors. 
+
+
+
+
+
+We believe that the Zio AT simply doesn’t work as an MCT device, and as a result, does not 
+
+
+meet a need in the cardiac monitoring space. It’s worth pointing out that even if the AT did work, 
+
+
+it’s hard to imagine that it would get much traction. Recall that MCT is prescribed almost only by 
+
+
+electrophysiologists not just for the real-time monitoring ability, but because they require the 
+
+
+clarity and precision of a multi-lead monitor, which the Zio AT just can’t provide.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 35 
+
+
+
+
+
+
+
+
+VI. Valuation 
+
+
+
+
+
+There aren’t many publicly traded companies that are comparable to iRhythm. Perhaps the 
+
+
+most similar company is BioTelemetry Inc, which dominates the MCT space with 50-60% 
+
+
+market share. We value iRhythm below by estimating its potential revenues at market maturity 
+
+
+(as MCT is currently), generously assume a BioTel-like market share, and apply a BioTel-like 
+
+
+multiple to those revenues, discounting that back to today. 
+
+
+
+
+
+Valuing iRhythm like BioTelemetry Inc. 
+ 
+
+
+
+
+
+*Assumes 30% of procedures through Medicare at the Event Monitoring rate of $170 
+and 70% of procedures through commercial payors at a 20% premium to Medicare 
+ 
+
+
+**Assuming a 10% discount rate 
+ 
+
+
+Note: 4 years to Extended Holter Maturity implies a unit growth rate for IRTC of 27% 
+ 
+
+
+ 
+The above might even be a bit generous as BioTel’s current valuation embeds at least some 
+
+
+optimism that the company will be successful in capturing share from iRhythm. Even assuming 
+
+
+an equivalent reimbursement rate as Event Monitoring (as we do in the above table, though we 
+
+
+believe there is substantial downside risk to that), it’s difficult to imagine iRhythm being worth 
+
+
+anything close to its current value.  
+
+
+
+
+
+In this context, it makes sense that in all the insider transactions since iRhythm’s IPO, there 
+
+
+hasn’t been one instance of insider purchasing, with every options exercise that has occurred 
+
+
+being accompanied by a sale of the shares acquired.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 36 
+
+
+
+
+
+
+
+
+VII. Conclusion 
+
+
+
+
+
+iRhythm fancies itself a technology company, and investors have bought into the narrative, 
+
+
+awarding the company a 10x EV/NTM Revenue multiple. But with no pricing power or customer 
+
+
+lock-in, looming drastic price cuts, and a limited TAM, iRhythm’s circumstances couldn’t be 
+
+
+more different than its San Francisco neighbors. iRhythm’s narrative has been portrayed as one 
+
+
+of rapid revenue growth, no competition, and a huge TAM opportunity. But the TAM is a mirage, 
+
+
+and as the company hurtles towards a looming reimbursement cliff and a step change in the 
+
+
+competitive environment, the end of the story will be heart-stopping.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 37 
+
+
+
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale") have short positions in and own put option interests on the stock of 
+
+
+iRhythm Technologies, Inc. (“IRTC”). In addition, others that contributed research to this report 
+
+
+and others that we have shared our research with (collectively with Kerrisdale, the “Authors”) 
+
+
+likewise may have short positions in the stock of IRTC. The Authors stand to realize gains in the 
+
+
+event that the price of the stock decreases. Following publication of the report, the Authors may 
+
+
+transact in the securities of the company covered herein. All content in this report represent the 
+
+
+opinions of Kerrisdale. The Authors have obtained all information herein from sources they 
+
+
+believe to be accurate and reliable. However, such information is presented “as is,” without 
+
+
+warranty of any kind – whether express or implied. The Authors make no representation, 
+
+
+express or implied, as to the accuracy, timeliness, or completeness of any such information or 
+
+
+with regard to the results obtained from its use. All expressions of opinion are subject to change 
+
+
+without notice, and the Authors do not undertake to update or supplement this report or any 
+
+
+information contained herein. This report is not a recommendation to short the shares of any 
+
+
+company, including IRTC, and is only a discussion of why Kerrisdale is short IRTC. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+
+
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of IRTC and stand to potentially realize gains 
+
+
+in the event that the market valuation of the company’s common equity is lower than prior to the
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 38 
+
+
+
+
+
+original publication date. These affiliates, officers, and individuals shall have no obligation to 
+
+
+inform any investor or viewer of this report about their historical, current, and future trading 
+
+
+activities. In addition, the Authors may benefit from any change in the valuation of any other 
+
+
+companies, securities, or commodities discussed in this document. Analysts who prepared this 
+
+
+report are compensated based upon (among other factors) the overall profitability of the 
+
+
+Authors’ operations and their affiliates. The compensation structure for the Authors’ analysts is 
+
+
+generally a derivative of their effectiveness in generating and communicating new investment 
+
+
+ideas and the performance of recommended strategies for the Authors. This could represent a 
+
+
+potential conflict of interest in the statements and opinions in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

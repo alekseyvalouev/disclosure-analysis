@@ -1,0 +1,1066 @@
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 1/20
+
+
+Oncothyreon: Possible Pharma Blockbuster
+Jul. 20, 2011 9:20 AM ET21 comments
+by: Alpha Exposure
+
+
+Oncothyreon (ONTY) represents one of the few opportunities for investors to take a high
+probability, statistically-backed, event-driven investment with a payout of many multiples of
+their money. ONTY’s drug for Stage 3 Non-Small Cell Lung Cancer ("NSCLC"), Stimuvax,
+is nearing the end of its pivotal Phase 3 trial. Our analysis has indicated an overwhelming
+90%+ probability of success. On the success of the Phase 3 trial, we believe that current
+ONTY investors are likely to at least triple their investment. Furthermore, there is a high
+chance of investors making five to 10 times their money based on additional cancer
+indications for Stimuvax. Lastly, over the long run, ONTY has a once in a lifetime return
+profile from future drugs developed out of its wholly-owned immunotherapy platform. The
+economics from the pipeline are far greater since ONTY owns all future drugs being
+developed and will not be limited to a royalty stream, as is the case with Stimuvax.
+
+
+Current Stimuvax Phase 3 Trial: Very Likely to Be Successful
+
+
+First, some background on Stimuvax and the Phase 3 trial. Oncothyreon’s Stimuvax is an
+immunotherapy, commonly called a cancer vaccine. It trains a patient’s immune system to
+respond to cancer cells that express MUC1, a protein antigen widely expressed on
+common cancers. MUC1 is over-expressed in lung cancer, breast cancer, prostate cancer
+and colorectal cancer. Through a series of agreements, ONTY partnered with Merck
+KGaA for the worldwide development, commercialization, and manufacturing of Stimuvax
+in exchange for a royalty stream.
+
+
+Stimuvax is currently in a Phase 3 study for the treatment of unresectable Stage 3
+NSCLC. A Phase 3 trial means that this is the last trial typically undertaken in advance of
+submitting the drug to the FDA for approval. Stage 3 NSCLC means the lung cancer has
+spread to other parts of the lung but hasn’t yet metastasized to other parts of the body.
+The Phase 3 trial, named START, was initiated in February 2007. Patients were
+randomized 2:1 (treatment patients: control patients) in a double-blind fashion with target
+enrollment of 1,322 patients (link here). In order for the trial to be successful, it needs the
+drug to show at least a six-month survival benefit for patients on Stimuvax with statistical
+significance (a one-sided p-value of 0.025, based on the efficacy side of a standard two-
+sided 95% confidence interval). The trial assumes the control arm will have a median
+overall survival of 20 months.
+
+
+
+http://www.clinicaltrials.gov/ct2/show/NCT00409188?term=nsclc+stimuvax&rank=2
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 2/20
+
+
+The START trial has two built-in interim looks, which are points at which an independent
+committee examines unblinded data for three options:
+
+
+Futility: The drug isn’t working; take everyone off.
+Efficacy: The drug is working; put everyone on.
+Inconclusive: Continue the trial as long as safety is okay.
+
+
+Both interim looks and the final closing of the trial are triggered by the number of events
+(death). The first interim look is at 353 deaths (50% of total events), the second is at 529
+deaths (75%), and the trial ends at 706 deaths. At each analysis point, the data monitoring
+committee determines a median overall survival for the treatment arm and the control arm,
+and compares it for statistical significance. The p-value is based on the standard O’Brien-
+Fleming method and gets progressively easier to meet as the trial progresses. We have
+estimated that the p-value for the first interim look is very small (p < 0.0026), the p-value
+for the second is a little higher (p < 0.011), and the final p-value is p < 0.024. The initial
+hurdle is extremely high and gets lower over time since a greater number of events
+provides greater statistical power. 
+
+
+The only certain way to know if patients are living longer is to know how long each trial
+participant lives and whether each patient is in the treatment arm of the trial or the control
+arm. While we don’t have this level of detail, we do know when most of the patients were
+enrolled, how long the control arm should live, and the number of people that have not
+died thus far. With this information, it is possible to create a statistical model to back into
+how the treatment arm of the trial is probably doing based on the trial timeline and the
+timing of events, and to therefore make a highly accurate prediction regarding the
+outcome of the START trial. Let’s review what we know about each of the datasets:
+
+
+1. When the patients were enrolled: We can pinpoint with reasonable accuracy when
+most of the patients were enrolled based on a poster published by Merck KGaA
+(OTCPK:MKGAF) at the 2010 ASCO conference, the upper-right hand corner of which
+shows the enrollment curve for the first 1,075 patients enrolled out of the original
+targeted enrollment of 1,322. We also know that enrollment in the trial was suspended
+for three months between March 2010 and June 2010 due to a single patient death in
+another Stimuvax trial and that patient enrollment then resumed in June 2010. Due to
+the three-month hold, 165 patients who were on Stimuvax for less than six months had
+to be replaced, and total enrollment was increased to 1,476. The clinical hold did not
+
+
+
+http://university.asco.org/dgtfiles/ClinTrials/Symposium/3GlobalGaumond.pdf
+
+https://seekingalpha.com/symbol/MKGAF
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 3/20
+
+
+affect patients on the trial for longer than six months since the trial protocol allowed
+patients to miss two doses over the course of treatment. Based on our calls to
+enrollment centers as recently as last week, we know that the trial is still enrolling new
+patients. A list of enrollment sites is here. Once the START trial resumed, ONTY and
+Merck provided information on the number of patients that had to be replaced, the
+timing of restart, and how long it took for them to regain enrollment momentum. Putting
+all of this information together, we constructed our best estimate of the enrollment
+curve, which can be found in our statistical report (see below).
+
+
+2. The median lifespan of the control group: Unfortunately, people with Stage 3 NSCLC
+are almost certain to die. Five-year survival is 15% for patients with NSCLC. Multiple
+studies on Stage 3 NSCLC patients have been done, and based on current
+treatments, the median expected survival is about 20 months from the start of
+treatment. There is a range of median OS from different trials, but the range is
+relatively tight. It appears that the trial’s assumption of a median OS in the control
+group of 20 months is reasonable, and we believe the control arm is closely tracking
+that timeline. We discuss this in more detail below.
+
+
+3. How many people must be alive: This is the easiest metric to measure, because the
+START trial was designed with predetermined interim looks based on the number of
+deaths. The analysis of the first interim look, triggered on the 353rd death, was
+announced on December 22, 2010. Based on our understanding of the speed with
+which these announcements are made, we think it is likely that this look was reached
+in October 2010. The second interim look will take place when 529 deaths have
+occurred and there has not yet been an announcement that the second look has taken
+place. Based on the two-month estimated delay, this means that as of mid-May fewer
+than 529 people had died.
+
+
+Taking all of this data, we created a model of what we believed was happening in the trial
+and what the implied differences were between the control and treatment arms. We know
+when people enrolled and how long they were in the trial; we know how many people are
+in each arm due to the 2:1 randomization scheme; we know about when the 353rd death
+happened; and we know how many people from the control arm should have died. The
+remaining deaths must therefore have occurred in the treatment arm. Finally, based on the
+enrollment curve, we estimated how long patients in the treatment arm are likely to be
+living.
+
+
+While our work showed that the drug was highly effective and was almost certainly
+working, we wanted to be as certain as possible that this is the case, so we hired a
+biostatistics expert to consult with us and to conduct independent analysis based only on
+
+
+
+http://www.clinicaltrials.gov/ct2/show/study/NCT00409188?term=nsclc+stimuvax&rank=2&show_locs=Y#locn
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 4/20
+
+
+the public information (much of which we have links to in this document). The report was
+clear that Stimuvax is almost certainly showing statistically significant effects. A link to the
+report is here.
+
+
+The only certain conclusion is that the number of events in the trial is taking an incredibly
+long time given the patient profile. There are two possible explanations: either everyone
+on the trial is living longer than expected, or the treatment arm is living significantly longer
+than expected. Based on the timing of the first interim look, the biostatistician calculated
+that the median overall survival time was 32-39 months, assuming no difference in survival
+curves between the control and treatment arms. We know the control arm is receiving a
+placebo, and have multiple studies that have documented their survival patterns. It is
+possible, but highly unlikely, that they are exhibiting survival times this long. Our
+consultations with oncologists suggest that the chances of this happening in a large
+patient population such as the START trial are extraordinarily low. The only reasonable
+explanation is that the Stimuvax arm is living significantly longer than expected. Our
+current estimate is that the control arm is exhibiting a median OS in the low to mid-20
+month range, and the treatment arm has a median OS around 40 months. This would
+represent a quantum leap forward in lung cancer treatment.
+
+
+FDA approval for Stimuvax is the next step. Fortunately the START trial will be helped by
+both its Special Protocol Assignment (SPA) and Fast Track status. In December 2006,
+ONTY reached an agreement with the FDA on a SPA for the START Trial. The SPA
+essentially designates that the FDA has reviewed and approved the Phase 3 trial’s design,
+clinical endpoints, and statistical analyses. If START reaches its endpoints, meets all
+compliance measures, and correctly files its NDA, the FDA will approve Stimuvax. In
+February 2011, the FDA reviewed the changes made to the trial as a result of the clinical
+hold and amended the SPA, so we can be assured that the clinical hold will not affect the
+FDA approval process. Furthermore, the START trial has Fast Track designation, which
+means the study results will be reviewed by the FDA within six months of filing and that
+Merck can file its NDA on a rolling basis. We expect commercialization of Stimuvax to
+begin in 2012.
+
+
+If approved and commercialized, we believe the opportunity for Stimuvax is vast. The
+FDA’s SPA and Fast Track designations reflect the urgent need for care for NSCLC
+patients. The only approved maintenance treatments for Stage 3 NSCLC are Tarceva and
+Alimta, both of which have shown limited improvements in survival and both of which have
+significant adverse side effects mainly related to toxicity. If Stimuvax shows a 17-month
+
+
+
+http://www.scribd.com/doc/60328756/Stimuvax-Statistical-Analysis?secret_password=sp3u8k3tkpd9oe17jvw
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 5/20
+
+
+improvement in survival and a better safety profile than Tarceva and Alimta, it would
+become the standard of care for all Stage 3 NSCLC patients who achieve stable or better
+disease after induction CRT.
+
+
+Valuation of ONTY Based on Stimuvax in NSCLC Alone
+
+
+We began by valuing ONTY based only on its royalty stream in Stimuvax and assuming
+that Stimuvax only receives an indication for Stage 3 NSCLC. For a variety of reasons
+which we will detail below, these are very conservative assumptions. We built our
+valuation based on the size of the NSCLC lung cancer market, where we think Stimuvax
+will fit in as a treatment, how much we think Stimuvax will cost, and the appropriate
+multiple for ONTY’s royalty stream on these sales.
+
+
+The first step in understanding the valuation under this framework is to define the size of
+the market. Lung cancer is the leading cause of cancer death for both men and women.
+More people die of lung cancer than of colon, breast, and prostate cancers combined.
+According to a report by the World Health Organization and International Agency for
+Research on Cancer, lung cancer (both non-small cell and small cell type) affects more
+than 1.6 million patients a year, with around 1.4 million deaths annually.
+
+
+Of the approximately 1.6 million patients, 225,000 are in the US, 288,000 in the European
+Union, and 85,000 in Japan. These are the three major markets we will focus our analysis
+on. 85% of lung cancer cases are Non-Small Cell Lung Cancer. Of those, approximately
+30% are in Stage 3. Of all Stage 3 patients, 95% are eligible for induction chemoradiation
+therapy (CRT) and approximately 75% of those reach stable or better disease following
+induction CRT. That gets to a total of 108,600 patients a year (40,900 in the US, 52,300 in
+Europe, and 15,400 in Japan) that are eligible to receive Stimuvax.
+
+
+For Stimuvax penetration, we have assumed 40% penetration in the US and 25% in
+Europe and Japan. The blended global penetrate rate is 30%. Keep in mind that
+penetration rates are a function of efficacy, adverse side effects, and competition. There
+are only two competing drugs out there today, the efficacy of the competition is
+significantly lower, and side effects of Stimuvax are low since it is a targeted
+immunotherapy. We believe our penetration rate assumptions are laughably conservative.
+
+
+For pricing, we assumed $85,000/patient in the US and $65,000 for the Europe Union and
+Japan. Merck KGaA has not made any indications on pricing strategy, so we used an
+estimate between the cost of Alimta ($120,000 in the US) and Avastin ($60,000 in the
+US). With Alimta providing an improvement of only one month and Stimuvax most likely
+showing at least 15 month improvement in OS, there are strong reasons to believe our
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 6/20
+
+
+pricing assumption is too low. Moveover, Provenge, the first approved cancer vaccine,
+provides a four-month improvement in median OS and costs $93,000. Pricing tends to be
+set based on the improvement a drug provides in OS. The rule of thumb in cancer drugs
+has been $20,000 per month of survival benefit. Our assumptions, which look quite
+conservative to us, get us approximately $2.5 billion in annual sales for Stimuvax.
+
+
+In terms of the economics to Oncothyreon, the royalty agreement with Merck KGaA
+provides a mid-teens royalty on North American sales and a high-single digit royalty on
+sales in the rest of the world. For all US sales, ONTY pays out a mid-single digit royalty to
+Cancer Research Technology Limited (CTRL) for the rights to a MUC1 antigen. We
+estimate the net royalty rate to ONTY is 11% in North America and 8% in the rest of the
+world. On full penetration, we estimate $241 million in annual royalty payments net to
+ONTY. The current market cap of ONTY is $380mm on a fully diluted basis, assuming all
+options and warrants are exercised.
+
+
+Biopharma companies typically trade at 5x-6x net royalties. Tarceva was purchased for 7x
+royalties. On a fully diluted basis, a 5x-6x multiple represents $26 to $31 per share. ONTY
+shares today are $8.00. Every 5% of worldwide penetration is a ± $4 per share change.
+Every 0.5x change in multiple is a ± $3 per share change. Every $10,000 chance in
+treatment cost is ± $3.50 per share change.
+
+
+A numerical analysis of the above is as follows:
+
+
+[Click all to enlarge] 
+
+
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108279305784-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 7/20
+
+
+Stimuvax Upside: Additional Indications Beyond NSCLC & Valuation Implications
+
+
+As stated earlier, MUC1 is over-expressed in many common cancers. Studies have shown
+MUC1 is over-expressed in 90% of all adenocarcinomas including breast, lung, pancreas,
+prostate, stomach, colon, and ovary. We believe the first addressable markets for
+Stimuvax outside of lung cancer are advanced stages of breast cancer, prostate cancer
+and colorectal cancer. Roche’s Avastin has established the roadmap for additional
+indications cancer when it was first approved for colorectal cancer in 2004 and then
+expanded into lung, breast, kidney, and brain cancers. In 2005, the first full year of Avastin
+commercialization, sales were $1.1 billion. In 2010, Avastin had sales of approximately $7
+billion.
+
+
+Without getting too much into details and hypotheticals, it’s safe to assume additional
+indications based on MUC1 expression would greatly expand Stimuvax’s potential.
+According to WHO/IARC, the worldwide incidence of breast cancer in 2008 was 1.384
+million with 458,000 deaths a year. The worldwide incidence of colorectal cancer is 1.234
+million with 608,000 deaths a year. The worldwide incidence of prostate cancer is 899,000
+with 258,000 deaths a year. Given that Stimuvax would be targeted for similarly advanced
+stages of cancer as with lung, the number of deaths is a better proxy of the potential
+market. The total number of deaths per year from breast, prostate and colorectal cancers
+is 1.324 million. That’s about the same number of deaths per year from lung cancer, which
+was 1.375 million in 2008 according to the WHO/IARC.  
+
+
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108285253843-Seth-Shaw_origin.png
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108287127779-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 8/20
+
+
+In our discussions with ONTY’s management, they have told us that Merck has Phase 3
+trials ready to roll out in additional cancers if Stimuvax’s START trial is successful. They
+mentioned breast cancer, colorectal cancer, and prostate cancer as areas of interest. This
+makes us quite hopeful that ONTY and Merck KGaA will ultimately be able to extend
+Stimuvax’s indication into additional cancers. With indications for Breast, Colorectal and
+Prostate, Merck KGaA can double Stimuvax’s potential sales. 
+
+
+Expansion into additional cancers results in a share price of $50-60. That’s 6.3x-7.6x from
+today’s $8.00/share and it doesn’t even consider stomach and ovarian cancers mentioned
+above, both of which also show MUC1 overexpression.
+
+
+Our model also assumes a static 30% penetration rate on the target population, which will
+almost certainly be much too low if Stimuvax shows best in class overall survival. In
+addition, Stimuvax may prove to be even more effective for earlier stages of cancer, which
+would further expand the markets within and outside of NSCLC. Seeing 10x upside to
+ONTY on Stimuvax alone is not difficult.
+
+
+Beyond Stimuvax: ONTY’s Technology and Its Next Drug Candidate: ONT-10
+
+
+Lastly, while ONTY receives only a royalty on Stimuvax sales, it owns 100% of the rest of
+its drug pipeline. Of import is ONT-10, also known as Stimuvax 2.0. It is currently in
+preclinical stages and expected to begin a Phase I trial within six months. Compared to
+Stimuvax, ONT-10 has a larger, glycosylated antigen and contains a next generation
+synthetic PET-Lipid-A based adjuvant. Essentially, it is a better version of Stimuvax
+because it’s bigger and more powerful. Results from the preclinical animal trials were
+presented in April 2011 at the American Association for Cancer Research Conference. In
+the study, ONT-10’s larger size and additional sugars allowed it to outperform Stimuvax in
+identifying and targeting MUC1 expressing cells. ONT-10’s synthetic PET-Lipid A adjuvant
+also stimulated a more powerful immune response. (Link to the presentation is here.
+
+
+
+http://www.oncothyreon.com/pdfs/ONT-10/AACR-poster.pdf
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108290076236-Seth-Shaw_origin.png
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108292656488-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 9/20
+
+
+It is important to note that Merck KGaA only has the right to first negotiation on ONT-10 if
+ONTY decides to take on a development or marketing partner. ONTY can choose to
+develop ONT-10 internally and not trigger Merck KGaA’s right. That’s unlikely since ONTY
+doesn’t have the requisite development, commercialization, or manufacturing expertise.
+However, a large, multinational pharmaceutical company with a strong oncology platform,
+like Roche (OTCQX:RHHBY), Pfizer (NYSE:PFE) or Bristol-Myers Squibb (NYSE:BMY)
+could purchase ONTY and develop ONT-10 internally with no need to license anything to
+Merck KGaA. The acquirer would then be able to keep all the economics on ONT-10.
+ONT-10 effectively presents a huge risk to Stimuvax a few years down the road, so we
+believe that Merck KGaA will be forced into bidding for ONTY if Stimuvax is successful.
+There is simply no way Merck KGaA can allow a competitor to own the rights to a better
+version of its coming blockbuster drug. However, in order to win, Merck KGaA will
+probably have to engage in a bidding war. The value of ONTY’s technology is just too high
+for other pharmaceutical companies, many of which lack blockbuster compounds in their
+pipeline, to sit by and let Merck KGaA purchase ONTY on the cheap. This is our final and
+ultimate scenario.
+
+
+We have used Stimuvax’s economics as a proxy to estimate the value of ONT-10.
+Assuming Stimuvax can do $2.5 billion of NSCLC sales (from our calculation above), a
+50% pre-tax profit margin, 35% tax rate, and a 10x multiple on after-tax profits of $810
+million, ONT-10 would be worth a minimum of $8.1 billion, or $173 per share to ONTY.
+
+
+A numerical analysis of the above is as follows: 
+
+
+If we include additional indications for Stimuvax, the potential value of ONT-10 and
+therefore ONTY becomes outlandish, and we simply want to run through this exercise to
+highlight the potential value. Clearly, the success of ONT-10 is tied to Stimuvax. However,
+
+
+
+https://seekingalpha.com/symbol/RHHBY
+
+https://seekingalpha.com/symbol/PFE
+
+https://seekingalpha.com/symbol/BMY
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108297269736-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 10/20
+
+
+Stimuvax’s approval will trigger incredible optionality on the value of ONT-10 for both
+ONTY and Merck KGaA.
+
+
+Risks to Investing in ONTY
+
+
+We mentioned above that the there are two potential explanations for the timing of the
+trial. The main risk to our analysis is that the control arm is living substantially longer than
+expected. ONTY’s CEO, Dr. Kirkman, echoed that risk to us when he told us it was the
+one thing that keeps him up at night. If the control arm is living longer than expected, then
+the treatment arm is living shorter, and the difference in survival from Stimuvax may not be
+significant. To gauge this risk, we examined 13 previous studies on unresectable Stage 3
+NSCLC patients. The list is below: 
+
+
+Most studies show median OS of this group in the 20-month range. One important aspect
+to note is that most of these trials start at the beginning of treatment. ONTY’s Phase 3
+START trial begins after patients have undergone chemo and have reached stable or
+better disease. Essentially, ONTY’s trial has a healthier patient population since they have
+undergone induction chemoradiation therapy and have not experienced disease
+progression. Roughly 25% of patients drop out during or right after induction CRT. This
+indicates that the Stage 3 NSCLC population in the START trial should live longer than
+these studies. However, ONTY’s Phase 3 trial begins counting time of survival at a later
+point in time than these studies. Approximately four months will have elapsed from the
+start of induction CRT to beginning of Stimuvax treatment or placement into the placebo
+arm. Few studies examining overall survival for Stage III NSCLC patients have been done
+in a similar manner. We have spoken to doctors and they believe the four-month time
+difference should offset the fact that ONTY’s trial starts with a healthier patient population.
+
+
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108300295941-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 11/20
+
+
+An oncologist with experience as principal investigator for lung cancer clinical trials stated
+she would expect average survival for patients who reach stable or better disease after
+first line CRT to be 20-22 months.
+
+
+Of the above studies, only the Kelly K., et al. Phase 3 study documented abnormally long
+survival times for the control group. The median OS of the control group from the point of
+randomization was 35.0 months. This is a cause for concern. However, the trial design
+was very different from the START trial. See the accrual chart of the Kelly trial below: 
+
+
+The Kelly study started with 571 eligible patients. All received concurrent induction CRT
+and were evaluated afterwards for disease progression. Of the 571 initial patients, 429
+patients achieved stable or better disease. This patient population is most similar to the
+START population. The 25% drop-out rate is consistent with other studies. The patients
+then received a round of consolidation therapy. No other trials had this sort of trial design,
+which required two treatment steps before randomization. All of the other trials, including
+START, required only one chemoradiation treatment before randomization. After induction
+and consolidation therapy, only 243 of the initial 571 patients in the Kelly study achieved
+stable or better disease. It was at that point that the patients were randomized into the
+treatment arm (Geftinib) or the control arm (placebo). In the end, only 43% of the initial
+
+
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108302908038-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 12/20
+
+
+571 patients were even eligible to be randomized. In the first restaging, 75% of patients
+(429 of 571) made it past induction therapy. In the second restaging, 56% of patients (243
+of 429) made it past consolidation therapy. In effect, the study ended up with an extremely
+healthy patient group by preselecting for the 43% of the healthiest patients whereas
+Stimuvax’s START trial should have a much sicker population by accepting about 75% of
+the people who receive induction CRT.
+
+
+It is also important to note that the median OS for all patients from the start of treatment
+was 19.0 months, and that the treatment arm (those that received the drug that was
+supposed to improve survival) had a median OS from time of randomization of 23 months.
+This further suggests the trial ended up with a control group that is unrepresentative of the
+greater Stage 3 NSCLC patient population.
+
+
+Taking the Kelly trial data, we were able to estimate the survival time for the patients who
+had stable or better disease after induction therapy. From the initial 571 patients, 429
+patients achieved stable or better disease after induction therapy. Again, that’s 75% of all
+comers and very similar to the START patient population. The median OS for all patients
+was 19.0 months. This includes deaths from the 142 patients that dropped out and deaths
+from the 429 patients that continued to consolidation therapy. By definition, the median OS
+was calculated from 286 deaths out of the 571 patient population. The 142 patients who
+dropped out are likely sicker and have substantially shorter survival times. In other words,
+nearly all of them likely died and were included in the 286 deaths. That means about 144
+deaths came from the 429 patients who achieved stable or better disease. We estimate
+the 142 patients who dropped out had a median OS of 10-12 months, which would put the
+median OS of the 429 patients at 26-28 months from the start of treatment.
+
+
+To make the 26-28 month estimate comparable to the START trial, we must subtract three
+to four months since the START trial starts counting time of survival after induction CRT
+and at the point of randomization. We must also account for a difference in induction CRT
+administration. All patients in the Kelly trial received concurrent CRT (chemo and radiation
+therapy at the same time). In the START trial, patients can receive concurrent or
+sequential CRT (chemo, followed by radiation). Concurrent CRT has a documented 3
+month survival benefit over sequential therapy but comes with greater toxicity (see Furuse
+K., et al., 1999). Due to toxicity and different best standard of care protocols, not every
+patient can receive concurrent CRT. We believe the START population will be split evenly
+between concurrent and sequential CRT. Therefore, we subtract another 1.5 months from
+the estimated OS. That gets us to an estimated Median OS of 21 to 23 months for the
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 13/20
+
+
+patient population in the Kelly study most similar to the START trial, i.e. those that
+achieved stable or better disease after induction CRT, after normalization for time
+differential and therapy administration. See figure below: 
+
+
+The doctors and statisticians we have spoken with said the Kelly study was a complete
+anomaly. A similar occurrence could happen but is unlikely. Importantly, the START trial
+will have enrolled approximately 1,500 patients, nearly three times the number of patients
+in the Kelly trial. Nevertheless, a significantly higher median OS in the control group is a
+possibility and we believe there is a 1 in 50 chance of such an occurrence happening. We
+believe the odds are still substantially in our favor.
+
+
+Conclusion
+
+
+Using statistical analysis of available, public information, we were able to show that the
+START trial has an overwhelmingly high probability of success. We estimate that the
+treatment arm is exhibiting a 17 month survival benefit, or 40 months survival time versus
+23 months for the control arm. If this is true, Stimuvax will be a blockbuster drug for Merck
+KGaA and ONTY. There has been no drug like this in the history of cancer treatment. We
+believe ONTY’s royalty stream on Stage 3 LSCLC is worth $26-31/share to ONTY.
+
+
+Stimuvax also has substantial opportunity for expansion into additional cancer indications
+and use in earlier stages of cancer. This could push ONTY’s value to $50 per share or
+above. Furthermore, Stimuvax’s approval would highlight the value of ONTY’s wholly
+owned, developmental drug, ONT-10, which we believe will attract Merck KGaA and
+others to bid on ONTY. The value of ONT-10 to ONTY could be worth $173 per share.
+
+
+There is risk that the START trial is unsuccessful in exhibiting an improvement in survival
+times. However, we believe it to be highly statistically improbable. Given the exponential
+potential return on investment and the overwhelming statistical evidence, we believe
+ONTY presents a once in a lifetime investment opportunity for investors.
+
+
+Disclosure: I am long ONTY.
+
+
+
+https://seekingalpha.com/symbol/onty
+
+https://static.seekingalpha.com/uploads/2011/7/19/959452-131108305660247-Seth-Shaw_origin.png
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 14/20
+
+
+Comments (21)
+
+
+ Like this article
+
+
+Alan Brochstein, CFA, Contributor
+Very interesting. Nice work!
+
+
+20 Jul 2011, 09:30 AM
+
+
+Duude
+Great analysis. Thanks.
+
+
+20 Jul 2011, 10:12 AM
+
+
+pick1998_2
+All arguments to support your bullish conclusions are circumstantial. Healthy pts population could derail a stat
+analysis. First we should have remembered Stimuvax had failed before, but you did not mentioned it. I would rather
+say that it is hard to predict if the phase III trial will be successful or not. I am cautious.
+
+
+20 Jul 2011, 12:06 PM
+
+
+Jonathan Christopher, Contributor
+I would like to know more about the "Stimuvax has failed before" data source. If the identical medication has
+failed in a prior test, that creates a lot of uncertainty in my mind.
+
+
+21 Jul 2011, 10:41 AM
+
+
+pslice84
+Talented pump job. However your assumptions are all blatantly wrong.
+
+
+Here are a few that an acquaintance tallied up" 
+1) His enrollment curve is off due to:
+
+
+1-A) He shuffled the data back to start at the beginning of the month for some unknown reason.
+
+
+1-B) He linearized it, despite having an actual chart and several exact data points.
+
+
+1-C) According to his curves, the trial finished enrolling June 1, but AFAIK it is still enrolling.
+
+
+2) Assumptions:
+
+
+2-A) That the trial picked up enrollment quickly and fully after the stop. I would really doubt that, and 1-C
+backs that up
+
+
+
+https://seekingalpha.com/author/alan-brochstein-cfa
+
+https://seekingalpha.com/user/226535
+
+https://seekingalpha.com/user/73561
+
+https://seekingalpha.com/author/jonathan-christopher
+
+https://seekingalpha.com/user/574923
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 15/20
+
+
+2-B) He starts with a 2% drop out rate (based on back-fitting to the clinicaltrials.gov projected end date, lol).
+Not only is this number way low, but it could well have skyrocketed on the stop.
+
+
+2-C) Has anybody actually said how the stop/start is being handled? The handling described in the model
+was not that described in the main article, and both sound flaky to me.
+
+
+And of course there is the assumptions on the control arm vs history. One might ask CTIC how well that
+works in Eastern Europe, they even presented an ASCO paper on the subject. "
+
+
+=======
+
+
+Stimuvax(c) Phase II data highlight three-year survival results for patients with non-small cell lung cancer.
+"While the overall study results were not statistically significant, in the randomization stratum of patients with
+stage IIIB locoregional disease" <- this is post-hoc analysis, which you can not trust. only based on 45
+Stimuvax patients vs 40 placebo. 
+ir.oncothyreon.com/rel...
+
+
+Biomira announces final Phase 2b survival results of Stimuvax(R) (formerly known as BLP25 Liposome
+Vaccine) trial in patients with non-small cell lung cancer 
+ir.oncothyreon.com/rel...
+
+
+BLP25 Liposome Vaccine phase 2 study interim results indicate no safety concerns with reformulated vaccine 
+ir.oncothyreon.com/rel... 
+jco.ascopubs.org/conte...
+
+
+1.usa.gov/pNRtLU
+
+
+www.ncbi.nlm.nih.gov/p...
+
+
+==== 
+It seems all those buying ONTY today have forgotten their troubled history as Biomira and lead drug,
+Theratope. It didn't end pretty at all. I suspect that the Stimuvax Phase 3's could go the same route, since I
+am not entirely convinced by their data analysis from the Phase 2 study.
+
+
+ir.oncothyreon.com/rel...
+
+
+ir.oncothyreon.com/rel...
+
+
+ir.oncothyreon.com/rel...
+
+
+Some Biomira history
+
+
+www.thepharmaletter.co...
+
+
+www.thepharmaletter.co...
+
+
+Name change from Biomira to Oncothyreon
+
+
+www.news-medical.net/n...
+
+
+21 Jul 2011, 04:35 PM
+
+
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280254
+
+https://seekingalpha.com/symbol/r
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280221
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280211
+
+http://jco.ascopubs.org/content/23/27/6674.long
+
+http://1.usa.gov/pNRtLU
+
+http://www.ncbi.nlm.nih.gov/pubmed/12848588
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280254
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280221
+
+http://ir.oncothyreon.com/releasedetail.cfm?ReleaseID=280211
+
+http://www.thepharmaletter.com/file/61491/merck-kgaa-returns-rights-to-biomiras-theratope.html
+
+http://www.thepharmaletter.com/file/31463/theratope-phase-iii-results-deliver-blow-to-merck-kgaa-and-biomira.html
+
+http://www.news-medical.net/news/2007/12/05/33222.aspx
+
+https://seekingalpha.com/user/437014
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 16/20
+
+
+pdtor
+Yah...................... the charts and momentum also look lousy.
+
+
+A suckers play
+
+
+21 Jul 2011, 06:29 PM
+
+
+barbecoa
+Did your acquaintance think his analysis and conclusion was off or wrong? I agree his work needs to be fixed
+up, but don't see how it materially affects his conclusion. 
+You're right in that he needs to adjust his enrollment length since they're still recruiting. However, I don't think
+it changes much since the patients after the hold was lifted (from July 2010 onward) are newer, less likely to
+"event," and less to be included in the 2nd interim analysis. It probably affects his numbers a little, but won't
+make a huge change. 
+I think his beginning of the month assumption is fine and don't see how it changes things. I also think his
+linear enrollment is fine. Most other biotechs talk about hitting a normalized run-rate of a certain number of
+patients/site/month. 
+Does any one else also have a problem with the STATISTICAL work?
+
+
+21 Jul 2011, 11:02 PM
+
+
+rayonman
+"2-A) That the trial picked up enrollment quickly and fully after the stop. I would really doubt that, and 1-C
+backs that up" 
+I think I can help with both 2A and 1C. 
+Reliable posters on the ONTY Yahoo Finance Message Board found out (perhaps from Merck kGA or Serono
+presentations?) that enrollment was robust after the stop--maybe 50 patients per month-- (although it did
+seem like it took about 3 months to get enrollment going again after the stop). 
+As for 1C-that enrollment may still not be finished, Nononsense is one such reliable poster and he posted
+recently that as of 6/6/11 there were only 10 more patients to be enrolled and dozens of patients had been
+screened for those last 10 slots in the START study.
+
+
+23 Jul 2011, 02:52 PM
+
+
+stat-man
+The timing of the 2nd interim analysis is crucial. If the second look occurs before the end of the year, then it may
+indicate there is a "threshold" for survival.. otherwise, it should take longer to have # of deaths enough for the second
+look.
+
+
+20 Jul 2011, 12:33 PM
+
+
+stat-man
+The timing of the 2nd interim analysis is important.. if it is too early, that indicates that there is "threshold" for patient's
+survival. One can do simulation to figure out the success probability after the 2nd interim (assuming there is no futility
+analysis).
+
+
+
+https://seekingalpha.com/user/437014
+
+https://seekingalpha.com/user/978765
+
+https://seekingalpha.com/user/953832
+
+https://seekingalpha.com/user/977400
+
+https://seekingalpha.com/user/977400
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 17/20
+
+
+20 Jul 2011, 12:33 PM
+
+
+wark
+Who is this mysterious "we" that he refers to when he claims "we" consulted with experts. Does anyone know this
+guy? He makes it sound like he is with an investment house but he doesn't mention any specifics such as the names
+of doctors etc. I am very suspicious.
+
+
+20 Jul 2011, 12:47 PM
+
+
+Biotech_sage
+The ongoing phase 3 is based on prior data published in JCO September 2005. Updated results were published
+recently in the Journal of Cancer Research and Clinical Oncology.  
+Here are the striking issues in relation to the BLP25 Liposome vaccine: 
+- The phase 2 study enrolled both stage IIIB and IV NSCLC patients (88 in the vaccine arm and 83 in best supportive
+care). There was indeed a non-statistically significant survival trend observed for the overall population in the study of
+4.4 months ([HR]=0.739; 95% CI, 0.509 to 1.073; p=0.112).  
+- A post-hoc analysis revealed that the survival advantage might have been driven by patients with stage IIIB
+locoregional (LR) since both stage IV and IIIB with malignant pleural effusion showed overlapping survival curves.
+There seem to have imbalances favouring the treatment arm for stage IIIB LR patients. Adjusting for imbalances
+(lactate dehydrogenase, sex and ECOG status) the Hazard Ratio was reduced somewhat from 0.524 to 0.576 and its
+associated p value from 0.069 to 0.139.  
+- T-cell proliferation assays were performed on 78 of 88 patients in the L-BLP25 arm before and after immunization.
+Sixteen patients were determined to have a positive MUC1-specific T-cell proliferative response that was induced by
+the vaccine. Strikingly, only 2 of the 16 were stage IIIB LR patients.  
+- Quality of life measures showed a clear advantage to the vaccine arm compared to B. Any conclusions regarding
+QOL are limited by the unblended nature of this trial.  
+Survival benefit was therefore determined post-hoc by stage IIIB LR patients who were a subset of a subset in this
+phase 2 trial. Survival curves for stage IIIB patients with pleural effusion and stage IV overlapped and showed no
+benefit to the vaccine arm. It is striking that on the one hand stage IIIB LR patients showed such a striking survival
+benefit while none whatsoever was seen in more advanced patients.  
+A survival advantage was observed in the “healthiest” patient group which is likely to have the greatest survival
+variability in the context of a limited sample size.  
+Only 2 of the stage IIIB LR patients seemed to have a T-cell proliferative response to the vaccine. Mechanistically, the
+data is inconsistent with the notion of the vaccine eliciting an immune reaction that facilitates a survival benefit.  
+A single-arm open label study of the Company’s new vaccine formulation in 22 patients demonstrated a 2-year
+survival of 64%, supposedly consistent with prior results. The study is obviously both open label and with a small
+sample size. But more importantly, about half of the patients enrolled were stage IIIA patients, presumably, enhancing
+the overall survival of the patient sample. 
+While anything can happen, prior data is not clean, let alone internally consistent. Any survival benefit observed is
+based on a post-hoc analysis, which is normally a bad sign. The stage IIIR LR subgroup was indeed predefined, but a
+strict survival benefit in it and none whatsoever in more progressive groups seems odd. Lastly, survival in this patient
+group did not correlate to vaccine response measured by T-cell proliferation assays. Treatment paradigms for NSCLC
+
+
+
+https://seekingalpha.com/user/977511
+
+https://seekingalpha.com/user/977751
+
+https://seekingalpha.com/symbol/lr
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 18/20
+
+
+have evolved in the last few years and the is a wide survival outcome surrounding stage IIIB patients. I am personally
+sceptical of a positive outcome for this trial, let alone, the spectacular one that is suggested by the piece. It would be
+inconsistent with prior published data, no matter what blinded curves seem to suggest.  
+
+
+20 Jul 2011, 06:15 PM
+
+
+rayonman
+Biotech sage you make many good points which I am unprepared to attempt to refute.  
+However, there is this: "The stage IIIR LR subgroup was indeed predefined, but a strict survival benefit in it
+and none whatsoever in more progressive groups seems odd." 
+Improved survival by the putative mechanism of interfering with mucin in Stage 3b locoregional patients but
+not in Stage IV or Stage 3b with pleural effusion does not seem odd to me when I consider that mucin seems
+to aid metastases.  
+In patients who are Stage IV and already have distant metastases, interfering with mucin may be closing the
+barn door (preventing distant metastases) after the horse (the distant metastases) has escaped.  
+Perhaps those Stage 3bs with pleural effusion are also already at such high risk of metastases that interfering
+with mucin at that stage is equally useless?
+
+
+20 Jul 2011, 10:28 PM
+
+
+rayonman
+I was thinking some more about those with malignant pleural effusions and also about antibody response and
+redplate mentioned CTL (cytotoxic t lymphocyte) response. 
+It may be that since Stimuvax does not work immediately and there is this pleural effusion with malignant cells
+floating around which can lead to metastases that the anti-mucin effect of Stimuvax comes too late and/or is
+ineffective because perhaps malignant pleural effusion is already too powerful a conduit for cells to
+metastases through. 
+Probably an oversimplification and perhaps just totally off base, but if mucin, among other ways that it
+enhances metastases, creates mucus and this mucus allows a liquid media through which metastases have
+ease of travel, one would expect an anti-mucin like Stimuvax to only be helpful if there isn't already a liquid
+media with malignant cells in contact with the bloodstream, like a pleural effusion. 
+Malignant pleural effusion as a liquid reservoir of malignant cells poised to metastasize might be a stage of
+lung cancer where an "anti-mucin" mechanism of action will be useless. 
+I have no data to support this. Just conjecturing. 
+Also, Redplate from the Yahoo Finance Message Board who is certainly an expert ,says that the CTL
+(cytotoxic T lymphocyte response) "is what kills tumors" and that "very very early studies showed Class I
+CTLs." 
+So maybe proliferative responses aren't the best response to evaluate. 
+And isn't ONT-10 designed to produce more of a cell mediated response? 
+Does Stimuvax produce antibodies and at least partly produce its anti-mucin effect through this B lymphocyte
+mechanism? Perhaps a comparison of mucin antibody response amongst responders and nonresponders is
+an important thing to look at? Apparently cytotoxic lymphocyte response (CTL) is an important thing to look
+at. And apparently meaningful data on CTL has not been gathered yet.
+
+
+
+https://seekingalpha.com/user/953832
+
+https://seekingalpha.com/user/953832
+
+https://seekingalpha.com/symbol/ctl
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 19/20
+
+
+21 Jul 2011, 09:11 PM
+
+
+chickenpox
+Quite frankly, most of your key assumptions are baseless. 
+In your whole rambling you fail to mention that NONE of the previous studies showed statistical significance. The only
+datapoint where statistical significance (although poor) was shown was in slightly better 3 year survival rate, a time far
+from the current study. 
+Suggesting a 90%+ probability of success is just ridiculous. 
+I just feel sorry for the gullible people buying a stock that is so overpriced on such feeble reasoning.
+
+
+20 Jul 2011, 06:20 PM
+
+
+chickenpox
+Quite frankly, most of your key assumptions are baseless. 
+In your whole rambling you fail to mention that NONE of the previous studies showed statistical significance. The only
+datapoint where statistical significance (although poor) was shown was in slightly better 3 year survival rate, a time far
+from the current study. 
+Suggesting a 90%+ probability of success is just ridiculous.
+
+
+20 Jul 2011, 06:20 PM
+
+
+norjud
+Hey...this is a good bet...I think it is at least a 4 bagger. I also bought a private pharma company...Trilogic Pharma
+LLC....this will be a big winner 5-7 bagger with products already making MONEY!!
+
+
+20 Jul 2011, 06:23 PM
+
+
+Tapper Coon
+All of his (inspite of saying 'our') analysis is just circumstantial at best, based on a lot of assumptions on very shaky or
+no ground. Without access to the real data, it is purely speculative. Yet a lot of people buys into it, judging from the
+high volume buying and the stock hype today despite there is no results reported from the COMPANY itself. From the
+stock trading chart, it is way above the 50 and 200 day average, after today, the stock price has gone into bubbles
+territory, all based on speculative opinion. That makes me very suspicious of this analysis with a cynical sentiment.
+
+
+20 Jul 2011, 06:24 PM
+
+
+sept2749
+I bought 308 shs. way back on the cheap and hope it hits. I have no faith that it will but we need a drug like Stimuvax.
+The concept is just fantastic as are the possibilities should this second look be positive. Additionally, I agree with what
+many of you have stated regarding risk and efficacy of the study. I'm no expert but manyyou make a lot of sense..
+Unfortunately, if the drug turns out to be a true cancer cure it will be expensive as hell and that is worrisome for me. A
+cure for cancer should be readily available to everyone with cancer not just rich people. I understand that we can't
+
+
+
+https://seekingalpha.com/user/977787
+
+https://seekingalpha.com/user/977787
+
+https://seekingalpha.com/user/797584
+
+https://seekingalpha.com/user/977811
+
+https://seekingalpha.com/user/687428
+5/18/2018 Oncothyreon: Possible Pharma Blockbuster - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster 20/20
+
+
+have our cake and eat it too but this kind of a medical breakthrough should be shared with the entire planet!. Ok, so I
+wouldn't make a killing but I'd feel good inside.
+
+
+21 Jul 2011, 11:47 AM
+
+
+OVERBID2002
+How does Stimuvax work?
+
+
+21 Jul 2011, 02:16 PM
+
+
+TATyszka
+It doesn't.
+
+
+21 Jul 2011, 03:13 PM
+
+
+
+https://seekingalpha.com/user/805062
+
+https://seekingalpha.com/user/386214

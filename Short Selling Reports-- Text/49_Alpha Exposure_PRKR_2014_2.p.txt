@@ -1,0 +1,1302 @@
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 1/20
+
+
+ParkerVision: Read The Transcript, Short The Stock
+May 19, 2014 3:10 AM ET47 comments
+by: Alpha Exposure
+
+
+Summary
+
+
+Analysis of the May 1 court transcript reveals significant risks to ParkerVision.
+
+
+ParkerVision faces high probability of losing the entire case due to Qualcomm's Non-
+Infringement JMOL.
+
+
+Even a best-case valuation shows ParkerVision is more than 100% overvalued.
+
+
+While we have read several accounts of what transpired on May 1st during the
+ParkerVision (NASDAQ:PRKR) and Qualcomm (NASDAQ:QCOM) court hearing,
+everything that has been discussed to-date has been based on recollection and notes. In
+order to provide a more complete overview of the hearing, we purchased the transcript.
+This article will share our thoughts based on our analysis of the transcript. After reading
+the transcript, we came to two important conclusions. First, ParkerVision's attorney may
+have fatally blundered when presenting his argument regarding Qualcomm's JMOL for
+non-infringement. Second, Qualcomm may have a non-infringing alternative that is close
+to being shipped. These two observations should cause significant concern for the
+ParkerVision bulls. In combination with ParkerVision's elevated valuation, we believe now
+is an ideal time to short the stock.
+
+
+After reading the transcript, we felt that ParkerVision's attorney, Joshua Budwin, made
+potentially critical errors when he was unable to answer Judge Dalton's questions about
+non-infringement. Judge Dalton makes it clear that he believes Dr. Prucnal's testimony
+may actually show non-infringement:
+
+
+THE COURT: Let's talk about -- let's move past Mr. Sorrells and let's talk about Dr.
+Prucnal's testimony as it relates to the Magellan product. And again, I want to hear
+everything you have to say, but I am interested in your view of why Dr. Prucnal's
+concession that the broadband was created prior to the storage capacitor is not the
+end of the case.
+
+
+Qualcomm argues (and Judge Dalton appears to agree) that Dr. Prucnal's unrebutted
+testimony that the baseband is generated before the storage capacitor and not after is
+fatal to ParkerVision's infringement case. This is fatal to ParkerVision's case because the
+
+
+
+https://seekingalpha.com/symbol/PRKR
+
+https://seekingalpha.com/symbol/QCOM
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 2/20
+
+
+claim construction says that the capacitor or storage element must generate the baseband
+signal. If instead the baseband signal coming out of the capacitor is in fact the same
+baseband being generated before the capacitor, this should be a non-infringing
+technology. Quite simply, it would be the end of the case because of the way the Markman
+defined claim terms.
+
+
+This is a very difficult quandary for ParkerVision because they are trying to say two
+separate things in their arguments over infringement and invalidity. ParkerVision argued
+that a prior art reference is not invalidating purely because the incoming signal to the
+capacitor (in the reference) was a baseband signal, and hence the capacitor did not
+"generate" the baseband. Since the claim construction is identical for both infringement
+and invalidity, ParkerVision cannot have it both ways - either ParkerVision's argument for
+invalidity was wrong or the new argument for infringement is wrong.
+
+
+After Mr. Budwin speaks for a while, we can observe that Judge Dalton comes back to this
+issue as he is unsatisfied with Mr. Budwin's previous explanations when he says:
+
+
+THE COURT: How does that answer my question about what the frequency is when
+it's a lower frequency signal than the one that went in?
+
+
+MR. BUDWIN: Because he's using the term "baseband signal."
+
+
+THE COURT: Well, and again, I don't know that it's productive for us to argue. I'm
+trying to understand your argument which is, if I'm appreciating it correctly, it's that
+the signal coming out of the capacitor is not the same signal as the one that went in
+it.
+
+
+MR. BUDWIN: Correct.
+
+
+THE COURT: And that the one -- if the one that went into the capacitor is a
+baseband signal, in order for your position to be sustainable, then the signal coming
+out that's a baseband signal must be of a lower frequency.
+
+
+MR. BUDWIN: Oh, I see.
+
+
+THE COURT: So I'm trying to find out where in the record is there evidence that the
+signal coming out of the storage capacitor is, in fact, a lower frequency signal than
+the signal that went in, and I'm not going to call it a baseband signal because I know
+that's in dispute.
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 3/20
+
+
+Mr. Budwin advances what appears to us to be a new infringement theory, which was not
+presented at trial. His explanation is that if the signal coming out of the storage capacitor
+is of a "lower frequency" than in the signal going in, then there can be infringement. Judge
+Dalton then repeatedly asked for evidence presented at trial that this was the case. Mr.
+Budwin could come up with no such evidence, as his new theory is patently false - the
+baseband signal that goes into the storage capacitor in the Qualcomm design is in fact the
+same baseband signal that comes out of the capacitor - there is no "change of frequency"
+because there is only one baseband signal. Once Mr. Budwin has concluded, Qualcomm's
+attorney, Timothy Teeter, answers the judge's original question. He explains that when the
+baseband is generated before the capacitor then there is no infringement according to the
+judge's previous rulings.
+
+
+MR. TETTER: Your Honor asked the crucial question during ParkerVision's
+presentation, and this was with respect to where the low frequency signal is
+generated, whether it's generated at the mixer or whether it's generated after the
+capacitor. And I wrote down Your Honor's question. You said, "Where is the evidence
+that that is a lower frequency signal after the capacitors and the TX filter than it is
+before?"
+
+
+Because our whole theory, as Your Honor correctly pointed out, is that the low
+frequency signal is generated right after the double-balance mixer by the double-
+balance mixer. That low frequency signal does, as Your Honor pointed out, cruise
+right on by that line past the TX jammer filter. That's what the -- the filter is there to
+get rid of the high-frequency TX jammer. It's not there to generate the baseband
+which has already been generated.
+
+
+So Your Honor picked up on that point correctly. And you asked where is the
+evidence -- where is the evidence that the signal coming out of the capacitor is a
+lower frequency than the signal coming in? And there was no answer to that
+question because there's no evidence to that because that's not what happens.
+
+
+Mr. Teeter clearly points out that Mr. Budwin couldn't point to any contrary evidence
+because there is none, and none was presented at trial.
+
+
+Of note, the judge made several rulings from the Bench on May 1st. We believe that the
+judge ruled on all of the issues he had decided. Accordingly, if the issue of non-
+infringement was decided, he would have likely ruled from the bench. The lack of a ruling
+probably means that the judge is seriously considering granting one or both of
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 4/20
+
+
+Qualcomm's JMOL's for non-infringement and invalidity. If Judge Dalton finds for
+Qualcomm with regards to either of these JMOLs, the jury's judgment in favor of
+ParkerVision will be thrown out.
+
+
+The most important revelation of the day may have been relegated to just a few simple
+sentences near the end of the hearing. Steven Neal, when arguing on behalf of
+Qualcomm said:
+
+
+Qualcomm is, in fact, developing a noninfringing alternative for the smaller 28
+nanometer technology, and that's being -- that is work that is underway. And
+Qualcomm is going to pursue that and is attempting to develop noninfringing
+alternatives.
+
+
+These two sentences carry a lot of weight when viewed through the lens of the following
+press release, which announces a new transceiver. While Qualcomm has been using 28
+nanometer process technology in their pure digital baseband since late 2011, the recently
+announced chips are the first Qualcomm transceiver (i.e. analog) chips using 28
+nanometer designs. These chips are expected to be sampled in early 2014 and ship in
+commercial hardware in early 2015. The shipping of this new chip seems to fit well with
+Qualcomm telling the judge during the injunction hearing that it would take three years to
+design a non-infringing alternative. The design for this chip was probably started in mid-
+2012, announced in Nov 2013, sampled in Spring 2014, will be shipped in late 2014, and
+will be volume produced in 2015 - i.e. about 3 years from start to finish. We believe these
+chips are meant to be a non-infringing alternative and will put an abrupt end to any
+potential royalties for ParkerVision beyond mid 2015.
+
+
+The above analysis shows that the bull case to ParkerVision, which holds that
+ParkerVision will receive many years of royalties from Qualcomm, faces very serious
+challenges. This bull case is especially important now that ParkerVision has revised their
+pre-judgment interest request from nearly $200 million to around $24 million as can be
+seen in court document 531 and 531-1. Now it appears that the whole the judgment for
+ParkerVision is in peril if Judge Dalton decides to grant one of Qualcomm's JMOLs.
+
+
+In thinking about the preceding analysis, we see two possible outcomes with regards to
+valuation. If either of the JMOLs are granted, we believe that ParkerVision's stock is nearly
+worthless. On the other hand, if ParkerVision is ultimately successful in having the jury's
+verdict upheld all the way through appeals, we think that the stock is worth at most $2.11
+per share at the time that the royalties are discontinued at the end of 2015. We calculate
+this valuation as follows:
+
+
+
+http://www.qualcomm.com/media/releases/2013/11/20/qualcomm-technologies-announces-fourth-generation-3glte-multimode-modem
+
+http://www.scribd.com/doc/224589652/531-main
+
+http://www.scribd.com/doc/224589681/531-1
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 5/20
+
+
+Based on the above analysis, we believe that ParkerVision is grossly overvalued at its
+current valuation of approximately $5 per share. We believe shorting the stock at current
+levels carries a very favorable risk/reward.
+
+
+Notes:
+
+
+Since court reporters make part of their living selling transcripts, we cannot post a link to
+the full transcript. However, the court reporter's contact information can be found on the
+court's website so that you can also purchase a copy of the transcript and see just how
+much trouble awaits ParkerVision.
+
+
+Disclosure: I am short PRKR. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+ Like this article
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 6/20
+
+
+Comments (47)
+
+
+Alpha Exposure, Contributor
+Author’s reply »  If you want to order the transcript, the person to contact is Sandra Tremel. Her contact information
+can be found at the following link.
+
+
+http://1.usa.gov/1qP4g5d
+
+
+19 May 2014, 08:56 AM
+
+
+buzzys70
+It was easy to order the transcript after the 7 day Court order elapsed. How did you get a copy of it before the
+7 day period ran? You had to have it, when only the parties were entitled to see same, because your article
+was published at 4am prior to the time the motion to redact was filed.
+
+
+25 May 2014, 10:54 AM
+
+
+Alpha Exposure, Contributor
+Author’s reply »  To the longs, the transcript is only about $225, so there's no reason not to order it if you have a big
+position
+
+
+19 May 2014, 09:57 AM
+
+
+IP Hawk, Contributor
+My opinion is that PRKR risk/reward position is not very good from either side. There will be even more time for the
+final judgment at district court and the eventual appeal at the federal level. Risk capital is going to be tied up heading
+into complicated rulings and opinions with a lot of time in between.
+
+
+You also wrote a similar analysis and recommendation to short back in October with shares in the high 2s. I would
+hope that you covered shortly after your article otherwise a short position in the high 2s or 3s would be severely
+under-performing with some hefty losses.
+
+
+Interesting analysis but I would be careful drawing conclusions from these hearings. The PRKR contingent seems to
+be fairly strong and could pump this right back up to the $5/6 range in a blink. I would imagine the wagons are already
+circling to put together a counter argument.
+
+
+IMO, shorting IP investments based on valuations has not worked very well. They trade on sentiment and perception.
+You need a real fundamental event to be negative or perceived to be very negative to break the investment. Until that
+time comes the overvalued / undervalued argument is tough to explain. There will always be someone to buy the
+dream of big rewards until the window is completely closed.
+
+
+No position in PRKR. Long QCOM.
+
+
+BOL
+
+
+19 May 2014, 11:25 AM
+
+
+
+https://seekingalpha.com/author/alpha-exposure
+
+http://1.usa.gov/1qP4g5d
+
+https://seekingalpha.com/user/4508171
+
+https://seekingalpha.com/author/alpha-exposure
+
+https://seekingalpha.com/author/ip-hawk
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 7/20
+
+
+Rick Berger
+@Hawk:
+
+
+"IMO, shorting IP investments based on valuations has not worked very well".
+
+
+I don't agree, Hawk. Shorting SPEX or MGT, for example, at the right point of perceived over-evaluation
+would put you in a new caddy today.
+
+
+20 May 2014, 01:15 AM
+
+
+Robert Syputa, Contributor
+Parkervision case is apparently headed to a conclusion before reaching appeal. Parker's patents are as flaky
+as the USPTO... fresh college grads and overworked patent examiners granting patents that has reached a
+level of obscenity.
+
+
+PRKR patent claims have been cast so widely they are invalidated by prior art. In this case, Parkervision
+sought wide interpretation of claims and then used that to paint a story that Qualcomm infringed while failing
+to prove how that takes place. The claims prescribe at least storage of energy to generate a received signal.
+In court they argued that this produces a baseband signal through the use of the TX capacitor. The sum of
+'evidence' was hearsay testimony of PV's CTO, Sorrells and expert witness Prucnal. It is hearsay because
+neither provided evidence of transfer of energy to create any signal that converts to a baseband signal or any
+usable higher or lower frequency signal occurs.
+
+
+Qualcomm gave sufficient explaination, backed by expert witness testimony and evidence including
+measurements of the Magellan circuit. Furthermore, there is no electronics theory that permits generation of a
+baseband or derived signal through the bypassed TX signal path.
+
+
+Frankly, I do not see how anyone versed in electronics can give any measure of likelihood for PV's case to
+survive on appeals. "Are you daft!"
+
+
+Apparently, Qualcomm won't have to wait for appeals. Parkervision has been floating a scam patent troll
+operation for more than a decade.
+
+
+24 May 2014, 12:42 PM
+
+
+catch23
+Mr. Syputa - In checking on your Linkedin, I noticed you don't state any EE degree, but on your professional
+website you claim to have a BSEE. Even assuming the latter is correct, why are you more qualified to reach a
+conclusion than the Doctor of Engineering, Doctor of Nursing, and Attorney who sat in the jury box and
+listened to all the evidence? Also, you keep saying Qualcomm presented an expert on infringement at trial ...
+however the record shows Qualcomm rested their case without calling such an expert. If you disagree, please
+provide that person's name and the testimony to which you are referrring, as this identity and substance of
+supposed testimony is noticeably absent in your comment above.
+
+
+24 May 2014, 01:41 PM
+
+
+Robert Syputa, Contributor
+
+
+
+https://seekingalpha.com/user/3667691
+
+https://seekingalpha.com/author/robert-syputa
+
+https://seekingalpha.com/user/18552562
+
+https://seekingalpha.com/author/robert-syputa
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 8/20
+
+
+I have a BSEE and MBA. I'm qualified based on education and experience including in RF circuits . RF
+measurements and R&M instrumentation, and over 15 years work in studying and providing consulting and
+expert opinions, including in court cases, for wireless IP.
+
+
+03 Jun 2014, 11:36 PM
+
+
+Patent News, Contributor
+doubt its worth nothing.
+
+
+and not quite sure what makes you a legal expert? are you an attorney well versed ip issues and actual litigation?
+
+
+19 May 2014, 12:48 PM
+
+
+robertkassel
+The article carries about the same weight as the article written by this same author who previously gave ten reasons
+why the Markman was a sham and would result in no rulings by the court is Parkers favor. He was wrong on all ten
+points. He also chooses to ignore that 3 of the infringement findings by the jury have nothing to do with the issues
+raised at the hearing. The rules of the court are well established that all evidence of infringement found by the jury
+must be looked at in the most favorable light by the judge to support the verdict when considering JMOL's. There is
+more than ample evidence to support the jury's verdict in any light. There is also a striking similarity to the tone of this
+article to those written by Mike Farmwald who is no longer around in this case. Farmwald has been muzzled by
+Qualcomm due to being under subpoena in another matter with Parker where counsel for Parker will question him
+about his relationship with Qualcomm and it's influence in assisting him in writing his articles. There is no doubt in my
+mind that this article and others are fed to these writers by Qualcomm. It's bag of dirty tricks are legend and they
+continue today. It is not coincidence that it's 51 year old CEO left after such a short time at the helm. I believe it was
+because he was such a lose cannon and flagrant about sending incriminating emails that suggest he was trying to
+buy testimony from prospective witnesses in the Parker case that the company was at risk of legal action if he didn't
+resign. The new bribery investigation regarding China transactions has brought the SEC into the picture. The
+Broadcom case where Qualcomm sued Broadcom and instead of winning any damages was forced to pay Broadcom
+$1.2 billion, fired their lead counsel and the rest of the legal team was sanctioned. During the Parker trial Judge
+Dalton constantly cautioned the jury not to listen to the lawyers rhetoric but to base its' decisions on the facts. Every
+point fabricated by the author is based on lawyer rhetoric or better yet a "nod" from the judge. Great basis to draw
+ones opinions. So far no one I've asked who was at the hearing saw any "nod". Any investor long or short who bases
+his or hers investment opinion about Parkers prospects on this type of contrived nonsense should have his head
+examined. By the way this new chip that is supposed to magically appear in 2015 comes after the head of chip
+technology at Qualcomm stated during the injunction hearing less than a year ago that Qualcomm has no technology
+to replace Parkers' and that it would take 3 years and 1000's of man hours to find a work around and further
+suggested that he didn't think there was any way around Parkers' patents. Parkers engineers have verified that this
+new chip uses Parkers rechnology. It's interesting to note that when Parkers' counsel subpoenaed this witness who
+made these statements on the record to appear in front of the jury he was unavailable because he was conveinently
+more the the required distance from the trial location for the court to enforce the subpoena and have him appear
+which would have allowed the jury hear this devastating testimony. During the injunction hearing without the jury
+present this witness magically appeared in the witness room next door to the courtroom. This article along with the
+past articles by Farmwald are made up of a series of distorted fairytales promoted by Qualcomm and are nothing
+
+
+
+https://seekingalpha.com/author/patent-news
+
+https://seekingalpha.com/user/23935683
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 9/20
+
+
+more but another form of dirty trick to frighten investors. It's my opinion that sooner or later Qualcomm will get
+prosecuted by the SEC or the Justice Department for this type of conduct. Being the 800 pound Gorilla in the room
+doesn't mean you can push everyone else around. Often times it just means your a big fat Gorilla. Remember Nokia,
+remember Motorola and on and on.
+
+
+19 May 2014, 01:53 PM
+
+
+dj10
+Terrific post!
+
+
+19 May 2014, 02:51 PM
+
+
+Alpha Exposure, Contributor
+Author’s reply »  We will see what happens when the judge rules on the outstanding JMOLs.
+
+
+19 May 2014, 03:04 PM
+
+
+1088781
+spot on...
+
+
+19 May 2014, 04:58 PM
+
+
+silence_twain
+I don't believe Qualcomm ever stated that they were not working on chips that would be non-infringing. What
+they said was that it would take about 3 years and thousands of man hours. The basis for this 3 years may
+have been that they started on the chips this author points to in 2012 and Qualcomm knew they would be
+released in 2015. That would be 3 years. I don't believe that Qualcomm ever said that they had not started on
+an alternative and or said from what starting point he was measuring those 3 years. Also 1000s of man hours
+is not that much. If you have an engineer work 50 hours a week for 5 months, that is the equivalent to 1,000
+hours. So putting 1000s of hours into something at QCOM would not be that hard since they have numerous
+engineers.
+
+
+Your assertion that this author is either Mike Farmwald or was paid by Qualcomm does not make any sense.
+Did QCOM or Mike Farmwald pay this author to write on CLSN, UNXL, LEE etc. as well?
+
+
+19 May 2014, 07:30 PM
+
+
+robertkassel
+Re: my comment on the Parker article. I am long Parker. I forgot to add that to the comment
+
+
+19 May 2014, 01:53 PM
+
+
+baytracker
+I appreciate when shorts come out with negative posts on PRKR. It makes for a nice dip in the price and an
+opportunity to buy more shares on the cheap. Keep up the good work!
+
+
+
+https://seekingalpha.com/user/33115
+
+https://seekingalpha.com/author/alpha-exposure
+
+https://seekingalpha.com/user/10888781
+
+https://seekingalpha.com/user/954931
+
+https://seekingalpha.com/user/23935683
+
+https://seekingalpha.com/user/500405
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 10/20
+
+
+19 May 2014, 04:27 PM
+
+
+buzzys70
+Someone wiser than I said "a sin of omission is every bit as damaging as a sin of commission". The author, one of
+over 25 million "shorts" has not only misled the truth of the arguments and testimony which took place on May 1st, he
+has out right lied regarding the ENTIE testimony and the argument that took place during the trial. I attended the
+entire trial, all of the hearings including the May 1st argument and KNOW this to be the fact. Having tried cases
+myself for over 50 years I am well versed on the law and will state, with a reasonable degree of certainty, that the
+Court would not have ordered the parties to confer re royalties if QCOMs JMOL was being considered. What is even
+more interesting, is that the author failed to mention the 2nd law suit filed by PRKR against QCOM which has far
+greater financial implications to QCOM than does the pending Court rulings.
+
+
+19 May 2014, 05:00 PM
+
+
+silence_twain
+How do you place a value on a new lawsuit? It has no value. It may take years to get to court and PRKR may
+lose. How is the author supposed to subscribe value to that. The author also didn't mention the Maxtak
+lawsuit that was filed against ParkerVision. So the author also did not mention a lawsuit against PRKR.
+
+
+19 May 2014, 07:32 PM
+
+
+robertkassel
+The new lawsuit should be looked at in light of the first lawsuit. Both litigants now know the legal positions on both
+sides, the lawyers, their tactics, the likely witnesses and what they will testify too. In addition Parker now has the
+advantage of knowing how Qualcomm uses and infringes on its' technology, who its customers are and how to
+reverse engineer its products in order to determine how the technology is embedded in Qualcomms products. There
+is no way Parker could possibly be going in front of the same judge in the same court without being absolutely sure
+that there is infringement and the necessary supporting evidence to prove it. The value of the infringement is easy to
+determine. You find Qualcomms products using the technology,that's easy, how much is being sold and the price of
+each infringed component. It appears that the components involved in the second case have a value of at least of 5 -
+6 times the products infringed by Qualcomm in the first case. Do the math. The combined royalties and damages from
+both cases due to Parker is approximately $360 million per annum until 2025. Adding the damages from the first case,
+costs and interest with the potential damages and royalties from the second case Parker should be a $60 stock. It
+may take three years to finish all the litigation and appeals but an upside from $4.60 to $60 is as good as it gets.
+Investors need not wait three years. The stock will move up in increments as Parker wins the JMOL's, the appeal, the
+next Markman, trial, JMOL's and appeal. According to the allegations in the second lawsuit and the obvious
+homework that was done to ensure winning this is the best story stock on the street today. Go long and strong. Could
+be the biggest winner of your life.
+
+
+20 May 2014, 09:56 AM
+
+
+robertkassel
+
+
+
+https://seekingalpha.com/user/4508171
+
+https://seekingalpha.com/user/954931
+
+https://seekingalpha.com/user/23935683
+
+https://seekingalpha.com/user/23935683
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 11/20
+
+
+P.S. The $360 million in recurring income includes the anticipated royalty and licensing deals expected to be signed
+by Parker over the next 12 months. Taxes and operating costs have been built into this number.
+
+
+20 May 2014, 10:14 AM
+
+
+silence_twain
+I am going to try and break down this reply the best I can, but I may miss a few things.
+
+
+The first thing you are doing is valuing royalties that go to 2025 from both cases. So to collect those, you
+need to survive the JMOLs and an appeal in one trial, win a second trial and appeal, and then also hope that
+QCOM does not come out with a non-infringing alternative until 2025. You also need to collect a royalty rate
+that makes $360 million plausible. That sure seems like a lot of hurdles to overcome. Meanwhile, this author
+points to a potential non-infringing alternative that already exists. Just because you win one case does not
+mean you will win a second. QCOM made a lot of errors during that first case. My guess is that they learned
+from them and will do a much stronger job the second time around. Also once again, we see a bull talking up
+the second lawsuit, but ignoring the risk in Maxtak. My guess on Maxtak is that it gets settled because I do
+not think Jeff wants to be legally deposed in that case.
+
+
+You also mention these anticipated licensing deals. People like to point out how 3LP is working with PRKR on
+these. They ignore the fact that PRKR is paying 3LP. If you pay someone, generally they work with you. If I
+recall correctly, 3LP was hired in November of 2012. How long do you have to wait for a deal? If the
+technology was so vital and important, wouldn't deals have been made by now? I remember when people
+made a big deal out of Wilson Sonsini being hired and now their involvement seems to have been lost in the
+Bermuda triangle.
+
+
+All the bulls seem to see is royalties that go on for many years, licensing deals, and court wins. There are a
+lot of hurdles to get to these things and the bulls would be wise to heed the warnings because failure to jump
+over one hurdle, could send the stock crashing down.
+
+
+20 May 2014, 11:07 AM
+
+
+robertkassel
+Interesting analysis but not valid. You are correct that there are allot of hurdles before you can get to $60 but allot less
+to get to $30. 3LP is getting paid a success fee only. If it produces no royalty agreements it does not get paid. That
+says allot about the countries number one firms expectations for securing royalty and licensing deals for Parker.
+Qualcomm stole Parkers customer base using Parkers technology for so long it takes time to work through each
+customers back royalties that are due and converting them to becoming Parkers customers I can only assume that
+during any negotiations with prospective customers 3LP has discussed the legal realities that may result if all parties
+are unable reach agreement. Not only is Parkers technology vital and important the most recognized industry
+association that ranks IP technology portfolios has ranked Parker in the top 5 in the world for the last two years.
+That's one heck of an acheivement when you think of all the major technology firms are considered in making the
+rankings. It receives no fees from the companies that it ranks. Wilson, Sunsini is still in the mix and works hand in
+glove with 3LP. As far as the second trial is concerned once a litigant has been beaten in the first go around the
+plaintiff almost always has the advantage in a second go around. The stage was set in the first trial and both sides are
+familiar with each others tactics and tricks. Qualcomm can't change the facts, use surprise witnesses, hide key
+
+
+
+https://seekingalpha.com/user/954931
+
+https://seekingalpha.com/user/23935683
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 12/20
+
+
+witnesses and experts. In other words no dirty tricks. McKoll is forwarned. Parker already knows Qualcomms modus
+operandi and that is not likely to change.The infringement in the second case is even more flagrant and damaging
+than the first. Just read the complaint. I'm sure Parker had the infringing products reversed engineeered before it filed
+the suit and knows that it has to be spot on with it allegations of infringement. It covers seven key Parker patents as
+opposed to four in the first case. Qualcomms position, as stated by its counsel during the May 1 hearing is that all that
+matters is the baseband and that Parkers technology is just a minor unimportant part of the baseband. Well that will
+turn out to be a huge mistake. Counsel has trapped Qualcomm by stating this position to the judge on the record. In
+fact Cawley asked him to repeat this position several times. As it turns out the patents Qualcomm is currently
+infringing on include receivers, transmitters and power amplification which are technologies in the baseband.
+Qualcomm has put itself in a trick bag even before the pretrial motions and a Markman hearing. The chances of
+Qualcomm developing new technology to replace Parkers is slim and none. Stern, Kessler did an incredible job
+covering every conceivable claim in Parkers patents. The technology is foundational or "choke patents" as they are
+called and impossible to get around. In addition Parker has been granted at least 25 additional patents that further
+protect the key technology. The hurdles you mention are really Qualcomms not Parkers.
+
+
+20 May 2014, 08:59 PM
+
+
+Keubiko, Contributor
+>>3LP is getting paid a success fee only. If it produces no royalty agreements it does not get paid. That says
+allot about the countries number one firms expectations for securing royalty and licensing deals for Parker.<<
+
+
+That is pure rubbish:
+
+
+"Yes, yes. Those are in those -- in those, yes. Our arrangement with 3LP was to fund for the first year a pretty
+small amount that would kind of help them with the expenses, half of which, by the way, is credited toward
+coming off of any fees that they get from successes in their bringing in customers. And those are reflected in
+what Cindy described, and I think its encouraging that 3LP feels enough confidence to operate on that basis." 
+- Jeff Parker, May 12 2014
+
+
+A "small amount" in Parkerspeak can be in the millions of dollars.
+
+
+20 May 2014, 09:43 PM
+
+
+Robert Syputa, Contributor
+Check your facts... 3LP is paid 'costs' which includes unspecified amounts for billed time plus the success
+payments. The agreement was modified.
+
+
+Thus far, 3LP has produce zero in new licenses despite their lofty statements about the patents and how
+winning initial rulings had led to licensing om the past. I think little of 3LP's credibility.. as paid shills they will
+toe the line.
+
+
+03 Jun 2014, 11:57 PM
+
+
+catch23
+"paid shills"; really? Mr. Syputa, have you ever been paid by Qualcomm? If so, why have you not disclosed it
+with every post? And, once again, please tell us why you are more qualified to opine than the Ph.d of
+
+
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/author/robert-syputa
+
+https://seekingalpha.com/user/18552562
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 13/20
+
+
+electrical engineering, who sat in the jury box and heard all the evidence?
+
+
+06 Jun 2014, 12:20 AM
+
+
+Mike Farmwald, Contributor
+> than the Ph.d of electrical engineering, who sat in the jury box and heard all the evidence?
+
+
+This is false, and easily show to be false. On day 1 of the jury trial there is clear statements by the juror in
+question - he does not have a PhD, and he has no expertise in RF, but rather worked with power
+transformers.
+
+
+At least he probably understood how a capacitor works, which is more than the rest of the jury or you.
+
+
+08 Jun 2014, 09:02 PM
+
+
+catch23
+Farmwald: Once again, misleading. We have each published conflicting transcripts. Assuming yours is real, I
+believe it is more accurate. But what you and Syputa omitted every time you disparaged the "lay jury" was the
+existence of this juror, and now that this juror, according to your transcript, does have an MSEE. You don't.
+Syputa doesn't. I've also asked you if you have any RF experience, and you haven't responded.
+
+
+08 Jun 2014, 09:43 PM
+
+
+Mike Farmwald, Contributor
+I was the one who said he had a MS in EE, not a PhD as you and Cawley claimed.
+
+
+I have said multiple times since the trial began that there was a EE on jury, and have also pointed out that he
+had no RF experience.
+
+
+Yes, I have extensive experience in RF, and have close friends who are considered the best in the world in
+RF design. We *all* think ParkerVision is completely and utterly in the wrong (on both D2D and D2P), and
+that the patents are obviously invalid over massive amounts of prior art.
+
+
+Whether this judge gets it right or it has to go to the CAFC, the patents will eventually be invalidated, and the
+verdict overturned.
+
+
+08 Jun 2014, 10:25 PM
+
+
+catch23
+Alpha Exposure: Which is it:
+
+
+You said that Budwin made "critical errors" - implying QCOM does infringe, that there was a better answer to Judge
+Dalton's questions, and the lawyer blew it.
+
+
+Then you say: "the baseband signal that goes into the storage capacitor in the Qualcomm design is in fact the same
+baseband signal that comes out of the capacitor" - implying that Qualcomm does not infringe and Budwin couldn't
+have reasonably answered.
+
+
+20 May 2014, 09:24 PM
+
+
+
+https://seekingalpha.com/author/mike-farmwald
+
+https://seekingalpha.com/user/18552562
+
+https://seekingalpha.com/author/mike-farmwald
+
+https://seekingalpha.com/user/18552562
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 14/20
+
+
+Mike Farmwald, Contributor
+> "the baseband signal that goes into the storage capacitor in the Qualcomm design is in fact the same
+baseband signal that comes out of the capacitor" - implying that Qualcomm does not infringe and Budwin
+couldn't have reasonably answered.
+
+
+This is absolutely true as any EE (PhD or not) could tell you. A capacitor is a linear device - it does not "shift"
+or create frequencies - it can only attenuate frequencies. If the baseband was not present before the
+capacitor it can not be there after the capacitor.
+
+
+So, yes, you're right, Qualcomm does not infringe according to ParkerVision's definition of "generating", and
+Budwin so much as admitted this at the May 1 hearing.
+
+
+ParkerVision is stuck - they want a definition of "generating" that doesn't make the patents invalid over prior
+art, but this definition means that Qualcomm doesn't infringe (even worse, none of ParkerVisions
+embodiments meet ParkerVision's definition!)
+
+
+It's not so much that Budwin made a mistake at the May 1 hearing, as that the Judge has finally caught on to
+ParkerVision's utterly inconsistent and false arguments on validity and infringement. Budwin knew that if he
+lied outright it would make things worse with the Judge, so he hemmed and hawed and made up a
+nonsensical story about a "different" baseband before and after the capacitor.
+
+
+ParkerVision made ridiculous, false, and and inconsistent arguments in the JMOL briefings, and the judge
+now seems to understand that. Let's hope he finally does the right thing and grants one or both of the
+outstanding JMOLs.
+
+
+08 Jun 2014, 08:56 PM
+
+
+Mike Farmwald, Contributor
+> You said that Budwin made "critical errors" - implying QCOM does infringe, that there was a better answer
+to Judge Dalton's questions, and the lawyer blew it
+
+
+I can't speak for Alpha Exposure as I am not the author. I can answer only for myself - Budwin's "critical
+errors" were made in the briefs against the JMOLs. The judge called Budwin out on this on May 1, and
+Budwin had no good answer and his answer only dug the hole deeper by admitting the inconsistencies and
+creating a brand new "theory" on the fly. It would have required a far more accomplished "evader of the truth"
+than Budwin to give convincing answers to the judge's questions.
+
+
+Note that I am not saying that the judge will with 100% probability do the right thing and grant one or both of
+the JMOLs, merely that he seems to understand the real issues and seems to be at least willing to consider
+granting them.
+
+
+I'm also hoping that ParkerVision filing a new lawsuit minutes after the ending of the May 1 hearing will give
+the judge some reason to be unhappy. This judge would like the parties to settle - the new lawsuit did not help
+this in any way.
+
+
+08 Jun 2014, 09:14 PM
+
+
+
+https://seekingalpha.com/author/mike-farmwald
+
+https://seekingalpha.com/author/mike-farmwald
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 15/20
+
+
+catch23
+Farmwald, I suggest you stick to shorting in your area of expertise. I guess having an advanced degree in
+computer science is more meaningless than I thought when it comes to understanding RF technology. My
+guess is the juror with the MSEE didn't have this handicap, perhaps because that person has previously been
+exposed to the jargon, even if they didn't work in RF.
+
+
+When using a capacitor in direct conversion, for voltage measuring or d2d, the first step is converting the
+carrier with switches to discrete time samples that include some of the carrier's energy. There is no noun in
+the claim terms for this "Sample" (I'll call it), perfectly described by Prucnal several times in accordance with
+the claim constructions. What he didn't have to do was give it a name.
+
+
+Budwin's contention is that Prucnal didn't refer to the actual Sample in Qualcomm's real units as a baseband,
+but if he did, it wouldn't be a problem, because the Sample fits the claim term Baseband, even though Prucnal
+properly described it in detail and in accordance with the claim terms as an unfinished checkpoint in the
+process of demodulating the carrier.
+
+
+The judge asked if the frequency of the fully demodulated baseband exiting the capacitor was of a lower
+frequency than the Sample, or the "baseband" Prucnal was allegedly referring to immediately after the
+switches (Q's "dbl bal mixer"). Whether purposely or not, this was not a question that could or should have
+been answered by any good attorney. The judge has a technical advisor who has or should explain that
+Parkervision's claims call for a demodulated Lower Frequency Signal (including fully demodulated baseband)
+at a frequency lower than the carrier, NOT the Sample.
+
+
+Now here is where your lack of education in RF is apparently hurting you: It would be perfectly normal for an
+RF EE to call a quadrature or in-phase Sample "baseband" - short for "Complex Baseband Equivalent of
+Passband Signals" or "Baseband Equivalent" or several similar terms - any of which are more than a
+mouthful, so the shorthand used by RF professionals is in fact sometimes the term "Baseband" - so in the real
+RF world, there really are other basebands that are Samples, and are NOT the fully demodulated baseband
+which exits Qualcomm's "TX Filter"
+
+
+So there's no doubt that Qualcomm's defense is bunk. They infringe, period. What Budwin said was
+absolutely correct - even if Prucnal was referring to the Samples as Baseband, it was within the claim term
+definition and the only such noun claim term he could have used. It's also ordinarily called Baseband by real
+RF EEs.
+
+
+If you think Rader has even better resources than Dalton's technical expert, Egan, do you really think
+Qualcomm can blow this by Rader: Confuse a Sample with a Lower Frequency Signal in the defined terms?
+Because if you do, you have to at least admit your short thesis is entirely intellectually dishonest.
+
+
+08 Jun 2014, 10:36 PM
+
+
+Mike Farmwald, Contributor
+> Confuse a Sample with a Lower Frequency Signal in the defined terms?
+
+
+> so in the real RF world, there really are other basebands that are Samples, and are NOT the fully
+demodulated baseband which exits Qualcomm's "TX Filter"
+
+
+
+https://seekingalpha.com/user/18552562
+
+https://seekingalpha.com/author/mike-farmwald
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 16/20
+
+
+This makes not the slightest bit of sense, either technically or legally; furthermore it has no relationship to
+what the judge asked or what Budwin said in the hearing. I don't know where you're going with this gibberish,
+but you should know that you're making a complete fool of yourself.
+
+
+I know full well what Baseband means, apparently you don't.
+
+
+Furthermore, there is a a really simple fact that you don't seem to get which I will repeat - a capacitor is a
+linear device. By the definition of a linear device, any frequency on the output of the capacitor *must* be
+present on the input - the capacitor does not and can not shift frequencies or "create" new frequencies, it can
+only attenuate (i.e. filter.) Thus if any signal (for any possible definition of baseband) is present on the output
+of the capacitor, then it must have been present on the input. It's really very simple. ParkerVision's, Budwin's
+and your arguments are simply wrong. The "baseband" signal is present on the input as well as the output of
+the capacitor in Qualcomm's design, in ParkerVision's embodiments and in the prior art. By ParkerVision's
+definition of generating, Qualcomm does not infringe. If ParkerVision's definition is wrong, then the patents
+are invalid over the prior art used at trial, as the sole argument against invalidity by the PRKR's lawyers was
+their definition of generating (not by their expert - they didn't put on a expert on validity!), and ParkerVision
+was not allowed (by law) to use a definition of generating that differed from the judges Markman ruling - this is
+reversible error - whether Judge Dalton reverses or the CAFC is yet to be seen.
+
+
+Pick one - either the patents are invalid or they are not infringed.
+
+
+The judge saw the dilemma but you apparently don't. You can't use one definition of "generating" for invalidity
+and another, inconsistent definition for infringement - yet this is exactly what ParkerVision has done, and what
+the judge was questioning Budwin about on May 1, and about which Budwin failed completely to give a
+plausible answer.
+
+
+08 Jun 2014, 11:24 PM
+
+
+catch23
+Farmwald: On generating you're confusing a comment Dalton made when denying Parker's msj with a claim
+term. He simply pushed them away from trying to claim they patented voltage measurement downconversion
+... if they were ever tempted, they took his admonition to heart and didn't "go there"
+
+
+As far as you not addressing the definition of baseband for this lawsuit and my observations about "Complex
+Baseband Equivalent of Passband Signals" or "Baseband Equivalent" - it's a de facto admission you are
+wrong and being intellectually dishonest.
+
+
+Finally, saying you have "friends" who are RF experts isn't the same as having a MSEE like the juror my
+friend.
+
+
+08 Jun 2014, 11:59 PM
+
+
+Mike Farmwald, Contributor
+I just had a feeling of intense deja vu - welcome back Roundermatt!
+
+
+> As far as you not addressing the definition of baseband for this lawsuit and my observations about
+"Complex Baseband Equivalent of Passband Signals" or "Baseband Equivalent" - it's a de facto admission
+
+
+
+https://seekingalpha.com/user/18552562
+
+https://seekingalpha.com/author/mike-farmwald
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 17/20
+
+
+you are wrong and being intellectually dishonest.
+
+
+How do I address something that is complete gibberish? These phrases have no meaning to anyone with any
+expertise in RF, so I don't what what to say. Please read and understand my comments earlier, you seem to
+be missing the entire point. There are *not* multiple basebands (in the same downconverter), there is only
+one baseband signal.
+
+
+> On generating you're confusing a comment Dalton made when denying Parker's msj with a claim term. He
+simply pushed them away from trying to claim they patented voltage measurement downconversion ... if they
+were ever tempted, they took his admonition to heart and didn't "go there"
+
+
+ParkerVision precisely did "go there".Do you even slightly understand what the judge said in his denial of
+ParkerVision motion for summary judgement? This is exactly the same issue. The judge said that
+ParkerVision was not allowed to change the definition of "generating" just before trial, and contrary to his
+Markman ruling. Just before the trial ParkerVision tried to pull the same crap about redefining "generating",
+the judge slapped them down just before trial; ParkerVision did it again at trial and again in the motions
+against the JMOLs; hopefully the judge is about to slap them again in his final ruling. This is clear, reversible
+error. (Out of curiosity, do you even bother to read the rulings you quote? You clearly don't understand them.)
+
+
+Finally, to anyone with a slight knowledge of RF, the meaning of "baseband" is unique and well-defined, once
+you know the modulation scheme. AM gives baseband a precise meaning; FM another; SSB another; QAM
+yet another (now with complex signals; i.e. I & Q), etc. The words you use don't really mean anything, or at
+least nothing like what you think they mean; while "baseband" is very well defined. If the point of your
+gibberish, made up phrases is that baseband has different meanings depending on the modulation being
+decoded, we might be able to agree on something, but then it becomes obvious that, for a given down
+converter, there is a single, well-defined baseband signal, and the capacitor can not "generate" using
+ParkerVisions definition.
+
+
+For any given design, there is only one "baseband" signal - the sole issue becomes what is the modulation
+scheme that the baseband represents? This is why the answer given by Budwin (and that you are repeating
+over and over) is such obvious nonsense.
+
+
+09 Jun 2014, 12:27 AM
+
+
+catch23
+Farmwald: You really don't understand RF or Judge Dalton speaking the English language.
+
+
+I don't know this roundermatt, but if you also found his posts frustrating, he must be a goodfellow.
+
+
+1) You don't understand what baseband was defined as in this case. Look it up, or just read Budwin quoting
+the claim construction accurately.
+
+
+2) A "Complex Baseband Equivalent of Passband Signals" or "Baseband Equivalent" - often shortened to
+"baseband" - as in the Qualcomm design documents - is in fact a quadrature or in-phase discrete time sample
+of the carrier wave. Just call up your RF engineering friend to confirm.
+
+
+3) Go back and read Dalton's msj ruling (don't make me post it); he flat out said Parkervision could avoid the
+issue he used to deny by presenting generating at trial without invoking voltage measurement direct
+
+
+
+https://seekingalpha.com/user/18552562
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 18/20
+
+
+downcoversion and that is exactly what they did. Furthermore, Dalton's comments at the May 1st hearing on
+standard of proof not being met for invalidity basically make victory on appeal impossible for Qualcomm,
+because he correctly framed any alleged controversy as a factual issue; virtually impossible to challenge on
+appeal.
+
+
+09 Jun 2014, 12:55 AM
+
+
+robertkassel
+I don't know what you saw or read but I never mentioned Budwin or what he said or didn't say. Wake up.
+
+
+20 May 2014, 10:40 PM
+
+
+catch23
+Maybe there's some confusion. Those quotes are from this article, and my question was specifically
+addressed to "Alpha Exposure" - author of this article, not to robertkassel.
+
+
+20 May 2014, 11:57 PM
+
+
+robertkassel
+I believe that 3LPS' covered expenses are minimal.
+
+
+21 May 2014, 03:06 AM
+
+
+Keubiko, Contributor
+Notice JP said "kind of". This isn't photocopying charges, long distance, and hotel rooms. Given half of these
+costs are creditable against success they must be bona fide fees.
+
+
+Of course I don't believe a word out of JP's cake hole so anything is possible.
+
+
+21 May 2014, 07:46 AM
+
+
+robertkassel
+Your resorting to name calling finally puts you in the unenviable category of stock basher without a shred of valuable
+insight. Sorry you've lost on Parker but you still have a chance to buy in and get it back.
+
+
+21 May 2014, 01:11 PM
+
+
+silence_twain
+Yes. Shame on Keubiko for saying that he/she does not believe anything Jeff says. How could he ever doubt
+Jeff? I mean Jeff has brought us such gems on past conference calls as the following:
+
+
+Q1 11: While I don't have an OEM order to announce to you today, we remain confident that we will realize
+the commercial launch of our product in the very near future.
+
+
+Q2 11: On the other part of our business, which is our transmit chip technology, we continue to also make
+very good progress. As I mentioned in our call just a couple of weeks ago, we are seeing positive rapid
+forward progress with a second OEM with regard to our CDMA-based RF chip product. We are determined to
+
+
+
+https://seekingalpha.com/user/23935683
+
+https://seekingalpha.com/user/18552562
+
+https://seekingalpha.com/user/23935683
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/user/23935683
+
+https://seekingalpha.com/user/954931
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 19/20
+
+
+commercialize this technology in the most timely manner possible. And to that end, we have been actively
+engaged in sales activities and product demonstrations with additional VIA customers as well. One of these
+customers, a well recognized leading global handset OEM has shown significant interest in both our current
+offering as well as our future product roadmap. This particular OEM started a fully funded internal program to
+integrate and evaluate our product for a platform solution which could then be deployed across their product
+lines for Asia-based CDMA mobile phones. The OEM has dedicated a team and resources to this effort, and
+we also have a dedicated team, including personnel to provide on-site support at the OEM's design efforts
+which are overseas. This OEM tends to move quickly and aggressively on new designs. We see both near
+and longer term opportunities available to us with this OEM and our sales team continues to move forward
+with other OEM and ODMs who are developing applications based on VIA baseband reference designs.
+
+
+Q3 11: So with regard to our commercialization efforts, we continue to make solid progress with a significant
+OEM customer. We have had teams working overseas on a regular basis over the last several months. As we
+reported previously, our team along with teams from VIA Telecom and the OEM have been working on a
+handset design that incorporates our transmit ICs. We have delivered an initial group of our chips, and the
+OEM has readied the design of a handset board that incorporates these chips. We're all working to finish up
+the software to integrate the final requirements for this design, which we anticipate can be wrapped up in the
+coming weeks. After that, we expect the testing of these boards will occur, and we still expect this will lead to
+our first order for this first model of our transmit components.
+
+
+Q1 12: Six weeks ago, we reported good progress in both our d2p CDMA transmit chip commercialization
+activities, as well as the status of our infringement litigation suit against Qualcomm. Progress in both these
+areas has continued as expected. Moving toward commercialization of our d2p CDMA transmit chip, we
+remain actively engaged with our colleagues at the Hampstead OEM. Our belief has been that our work with
+them is leading to an order that incorporates d2p into one or more of their CDMA products, and our
+interaction with them continues to support that belief. While it would be great to be at a milestone that
+constitutes a material event to discuss with you today, we are not there yet, but we are pleased with the
+progress we are making.
+
+
+Q2 12: So now I'd like to turn the topic to commercialization of our intellectual property. In the area of our d2p
+transmit technology, our team continues to work closely with an Asian OEM, who is a customer of our
+baseband partner VIA Telecom. This OEM has requested that we provide additional detailed information on
+our d2p components, which we have done, and for additional reference design work, which is in the process
+of being completed. After completion of the reference design work, we anticipate moving forward with this
+OEM to incorporate our d2p technology into certain handset programs and their associated products.
+
+
+Q4 12: We, along with McKool Smith, engaged 3LP to enter into dialogue with companies that, based on
+3LP's research, we believe would be interested in some form of business relationship with ParkerVision.
+While there is no guarantee that these dialogues will result in any meaningful business relationship or that an
+outcome will occur in any particular time frame, we are encouraged that there are a number of firms who are
+now actively assessing their interest in some form of business relationship with ParkerVision. We are excited
+to see that the innovations we developed and protected and that we believe would play a critical role in
+shaping the wireless ecosystem are in fact doing so.
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 20/20
+
+
+Q1 13: Regarding our strategic intellectual property initiatives, I can disclose that a number of companies
+have entered into agreements with ParkerVision in order to access the analyses created by Kevin Rivette and
+the 3LP team on ParkerVision's patented innovations so that they can evaluate potential business
+relationships. To move to this level of discussion requires stringent confidentiality and nonassertion
+agreements typically approved only at the most senior corporate level and not entered into casually. We are
+optimistic that the efforts required of these companies to both enter into such agreements and to then review
+the large amount of information that 3LP has pulled together will ultimately lead to the options that
+ParkerVision can consider for generating value from our patented innovations.
+
+
+21 May 2014, 02:22 PM
+
+
+buzzys70
+How is it that the author of this article had access to same when only the parties were to have same, for 7 days, to
+give the parties an opportunity to file for a redaction of the transcript? Is it purely coincidence that exactly 7 days after
+the order was entered, Neal fil;ed a motion to redact same?
+
+
+22 May 2014, 10:23 PM
+
+
+buzzys70
+How is it that the author had access to the transcript within 7 days when the Court order provides that only the parties
+have access for 7 days so that a motion for redacting the transcript may be made within 7 days? Is it coincidence that
+exactly 7 days after the 5/12 order; on 5/19 Neal filed a motion to redact?
+
+
+22 May 2014, 10:29 PM
+
+
+Alpha Exposure, Contributor
+Author’s reply »  FWIW, I think the stock is now worthless. I would not cover here.
+
+
+23 Jun 2014, 10:43 AM
+
+
+Keubiko, Contributor
+I agree. The only way they could salvage some value would be to put the company in liquidation and maybe
+get 15-20 cents net to shareholders for the cash on the books and try to flog their other (demonstrably
+commercially useless) patents. But I see zero chance of that. They'll need that cash to keep hope alive on
+other lawsuits and to defend against the Maxtak lawsuit which to me looks like a slam dunk they will lose.
+
+
+Great call, Alpha Exposure.
+
+
+23 Jun 2014, 10:51 AM
+
+
+Keubiko, Contributor
+I actually think it's a much better short at $1.90 with this news than it was at $5.00.
+
+
+23 Jun 2014, 11:14 AM
+
+
+
+https://seekingalpha.com/user/4508171
+
+https://seekingalpha.com/user/4508171
+
+https://seekingalpha.com/author/alpha-exposure
+
+https://seekingalpha.com/author/keubiko
+
+https://seekingalpha.com/author/keubiko

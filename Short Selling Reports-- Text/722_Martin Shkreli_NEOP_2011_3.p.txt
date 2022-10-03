@@ -1,0 +1,1877 @@
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 1/26
+
+
+Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints?
+Jun. 23, 2011 11:21 PM ET93 comments
+by: Martin Shkreli
+
+
+One of the most difficult aspects of investing is the continuous pledge to double-check
+assumptions, scrutinize management’s capital deployment plans and second-guess
+yourself by examining risk-reward on a dynamic basis.
+
+
+I’ve been watching Neoprobe (NEOP) for a few years and have never had more than a
+tiny position for a few days at a time. When I saw several consecutive bullish analyst
+reports and scheduled New York roadshows, I reasoned the company was preparing for a
+capital raise. I read the initiations and enjoyed the lofty estimates and high assumed
+probability of achieving those estimates.
+
+
+One thing I didn’t immediately notice was scrutiny of phase III results. Some Phase III data
+are cut and dry. Some Phase III data seem cut and dry and are not. I am going to spend
+some time showing you why I think both Lymphoseek Phase III trials failed to meet their
+primary endpoint. This means what you might think it means – Neoprobe will not receive
+FDA approval for Lymphoseek because of what I’m going to outline. This probably
+wouldn’t have been brought to light until FDA decision time without my discoveries.
+
+
+I’ve read every public statement ever made by Neoprobe. Again and again and again.
+SEC filings, news releases, presentations, database searches, everything. I started pulling
+on this thread when I saw the 1/2010 presentation (viewable at my fund’s website –
+msmbcapital.com) and the 12/2010 presentation had different patient sample sizes for
+the Phase III NEO03-05 study. Think about that for a second. Clinical trials should have
+one sample size. The number of patients enrolled in a study is generally not subject to
+change. This time will be different.
+
+
+
+https://seekingalpha.com/symbol/NEOP
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 2/26
+
+
+In the January 12th, 2010 OneMedPlace presentation, the company notes that n=179
+patients were “enrolled for safety” and 158 patients were “evaluated for efficacy”. This is
+not the way a clinical trial works. You can’t separate which patients you feel are viable for
+safety or efficacy. Everyone has to be in both. This is the ITT (intent-to-treat) principle.
+There are deviations from this standard, and we’ll go through them in a minute. But this is
+how the process began. The presentation, on page 14, continues to explain that the ITT
+population consisted of n=158 and the per-protocol population consisted of n=156. Again,
+this flies against the face of my experience and basic clinical science – the ITT population
+is always composed of all patients enrolled in the trial. The high p-value of 0.04 for the ITT
+group also stuck out at me. That is awfully close to the “limit” of p=0.05. I always get
+nervous when a company has a pivotal trial near p=0.05!
+
+
+With this in mind, in the December 2010 at Neoprobe’s Analyst Day, page 21 indicates,
+again, that n=179 patients were “enrolled for safety” (a phrase that makes my head hurt)
+and n=136 were “evaluated for efficacy”. Until now, I hadn’t really noted any red flags. But
+the clearly changed n=158 to n=136 from presentation to presentation would make even a
+colorblind analyst fret.
+
+
+It was at this point I decided to do a full statistic review of both pivotal trials. The way I see
+it, NEO03-05 had three pools of patients: n=179 “ITT” (this is my definition, Neoprobe’s is
+“enrolled for safety”), n=158 “modified ITT” (this is my definition, Neoprobe’s is “ITT”) and
+n=136 “per-protocol” (this is my definition, Neoprobe’s is sometimes “ITT” and sometimes
+not). Defining ITT is important. It usually has one definition: all patients assigned to a
+treatment group. In other words, patients who have been screened, are eligible, gave
+consent and have been processed as enrolled in the study should be in the ITT group.
+This is relatively “holy” in clinical science. Anything past this point is unusual and the FDA
+doesn’t appreciate strange ITT definitions (witness the recent Biomimetics debacle). Some
+companies try to throw out patients that get lost to follow-up. This is the most common
+type of removed patient from ITT to mITT (or if the company insists on referring to it as
+ITT). Similar types of patients include patients enrolled but never randomized, patients
+who never got any treatment, etc.
+
+
+So who were the missing ITT to mITT patients in the Lymphoseek studies? The company
+explained very carefully on a March 12th, 2010 conference call (the transcript of this call is
+not publicly available) that “The ITT population was prospectively designed as patients
+who consented to participate in the clinical study, who were injected with Lymphoseek,
+and who provided at least one lymph node that contained the vital blue dyes”. The
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 3/26
+
+
+company has confirmed that all n=21 “missing” patients were those that did not provide a
+blue dye node. Should these patients have been included in the ITT analysis? Let’s put
+that in the back of our heads while we go to another related topic.
+
+
+Since I can remember, I've been doing my own statistics with company clinical trials, when
+possible. There’s no point in trusting a company to calculate a p-value when you can do it
+yourself. In the Analyst Day presentation referred to earlier, Neoprobe explains the
+statistical method with which they calculated the primary endpoint. It’s all well and good to
+say “the primary endpoint is concordance”, but what was the null hypothesis, the statistical
+formula used, etc. That information was made available by Neoprobe – the null hypothesis
+was that concordance was 90%, or 0.9. Rejecting the null hypothesis would require the
+entire one-sided tail to be greater than (to the right of) 0.9. The Exact Binomial Test, also
+called the Clopper-Pearson test was used. Calculating the primary endpoint using the
+Clopper-Pearson method computes a lower bound of 0.901. That’s right, Neoprobe’s
+lower bound had to be greater than 0.900 and it came in at 0.901. What good luck they
+must have! One non-concordant node would have resulted in NEO03-05 failing to meet its
+primary endpoint.
+
+
+So let’s go back to the n=21 patients that were excluded from this study. N=158/179 (for a
+difference of n=21) results in blue dye node identification rate of 88%. The literature
+suggests a blue dye node identification rate of 95% to 100% (Chintamani et al. 2011.
+100%, Shirah et al. 2011. 99.1%, Narui et al. 2010. 99%, Krikanova et al. 2010. 95%,
+Mathelin et al. 2009. 99%). Why were Neoprobe’s studies so far below the normal blue
+dye node identification rate?
+
+
+It’s obvious to me that this open label protocol biased the concordance data and the
+patients who did not provide a blue dye node should be in the ITT group. This calculation
+would result both pivotal trials to fail (get a Clopper-Pearson calculator and check for
+yourself!). It’s very rare to not find a blue dye node. My guess is the clinicians were trying
+for the best data (don’t forget a few centers with long-time ties to Neoprobe enrolled many
+patients), and patients who weren’t clearly concordant were thrown out. When you can
+clearly see which patients are concordant, and which patients are not, you can throw out
+the bad ones and keep the good ones. That’s what happened here. It’s the only
+explanation which satisfies the below-average blue dye identification rate, the curiously
+high concordance rate (isn’t a non-blue patient who has positive Lymphoseek nodes non-
+concordant?), the strange p-values, the lack of disclosure on these patient groups and the
+lack of a peer-reviewed publication. Not even the ASCO posters have this data (shame on
+ASCO).
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 4/26
+
+
+Comments (93)
+
+
+Physicians I've spoken with who do SLNB agree that you generally make a small incision
+in the axilla and pluck the "hot" nodes with the assistance of the gamma probe. Did the
+Neoprobe investigators just excise those nodes and not look carefully for the blue nodes?
+Think about this. There is bias in this protocol if the physicians weren't forced to search
+deep for blue nodes. This would explain the high amount of no-blue node patients.
+
+
+The surgical process here allowed for the assurance of a successful trial, regardless of the
+true results. This is called poor assay sensitivity and clinical trials should be designed with
+as much sensitivity as possible. It should not be possible to bias a well-designed clinical
+trial. Instead, surgeons who measured node radioactivity counts could also clearly see the
+blue dye status of a node. Clinicians who excised one or two high-count “hot” nodes that
+were not blue could have just stopped looking for blue nodes and thrown the patient out of
+the study. This would have helped Neoprobe’s results. Remember, just a few nodes
+difference makes it a pass or fail. Whether or not it happened is something we’ll never
+know. The idea that it could have happened is more than reason enough to say this was
+not a well-conducted study and that the n=21 (and similar n= in NEO03-09) should be
+counted in the ITT population. If one does that, both studies fail. Two failed studies = no
+approval.
+
+
+I know this is a highly technical topic that most aren’t used to, and I will try to take as many
+questions as I can, but recall my primary responsibility is not to my readers. I have a day
+job! Also, if you want your questions answered, a little bit of an open mind as well as good
+nature will go a long way. Even the best investors are right just 60% of the time, and
+there’s a good chance that’s neither you nor myself. I can always stand to be corrected,
+and I’m never afraid of admitting I’m wrong. Flexibility is a key to success in my business,
+and I have often changed my mind in the past. With that said, hopefully we can learn and
+profit with each other. Good luck!
+
+
+Disclosure: I am short NEOP.
+
+
+Additional disclosure: My funds and I are short Neoprobe and may change our position
+at any time, including hedging, reducing, reversing and liquidating the position without any
+notice or duty to update Seeking Alpha.
+
+
+ Like this article
+
+
+
+https://seekingalpha.com/symbol/NEOP
+
+https://seekingalpha.com/user/823065
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 5/26
+
+
+ddbuyerhere@yahoo.com
+Marty, every time you blog about Neoprobe you selectively pick and choose a few items that you can twist into
+something other than they are.
+
+
+During the NEO3-05 trial Neoprobe was notified of a discrepancy at two clinical sites. They discovered that the
+investigators had diluted Lymphoseek 20-40 times higher than the protocol called for. Neoprobe then consulted with
+the FDA and the entire matter was publicly discussed in detail, including investor conference calls (which you also
+missed apparently).
+
+
+You claimed that you read their SEC filings, "again and again and again". No Marty, you didn't. If you had then you
+would've been aware of this years ago. The FDA and NEOP shareholders were aware of it. Why weren't you?
+
+
+What you failed to tell everyone in your blog is that after reviewing the NEO3-05 trial data the FDA agreed that the
+trial had indeed met all endpoints, even after accounting for the discrepancy. In fact, the NDA then encouraged
+Neoprobe to move forward with their Lymphoseek NDA filing for anatomical delineation claims, based SOLELY on the
+data from NEO3-05. This was ALSO in the same SEC filings that you overlooked, after reading them "again and
+again".
+
+
+Seriously Marty, your cries of "Wolf! Wolf!" every other week is becoming comical. Short the stock if you wish. But
+attempting to justify your decision by twisting fact into fiction changes nothing. Trying to convince others that you're
+right without giving them "the rest of the story" is deceptive.
+
+
+You claim that you're "never afraid of admitting you're wrong". I proved you wrong on many, many issues in your
+previous "Wolf, Wolf" piece. Check out my comments, most of which you ignored once I proved you wrong
+(seekingalpha.com/artic...).
+
+
+Lymphoseek NDA submission soon Marty... very soon! :)
+
+
+DDbuyer
+
+
+24 Jun 2011, 07:51 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Thanks again for your interest in my comments. 
+Discrepancies in clinical trials cannot be excluded. They count. 
+ITT is a simple concept with a simple definition. You can't exclude patients just because you don't want to fail
+your study.
+
+
+I appreciate your enthusiasm but I'm not here to attack you or anyone else. I'm here for the truth!
+
+
+27 Jun 2011, 08:57 PM
+
+
+TheTruth2
+The truth is that the FDA has been aware of the ITT exceptions for months and despite those exceptions has
+agreed that all NEO3-5 end points were met. Another non-issue... just like the comparator issue. You really
+should have just stuck to the market success debate. This non-approval angle is going nowhere. Now when
+Lympho is approved, your market non-success angle will have less credibility.
+
+
+27 Jun 2011, 11:55 PM
+
+
+
+https://seekingalpha.com/user/823065
+
+https://seekingalpha.com/article/274002-neoprobe-follow-up-on-asco-citizen-petition-and-readers-comments
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/952613
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 6/26
+
+
+Martin Shkreli, Contributor
+Author’s reply »  If you say so. To me it's unclear if those patients should have been in ITT or not. The FDA
+has either changed their mind or been unclear on this topic many times. Check out BMTI. It's always a risk
+when you're doing something unorthodox. I'm sure Neoprobe will say the FDA told them to do it, but if the
+FDA told you to walk off of a bridge...?
+
+
+28 Jun 2011, 10:41 AM
+
+
+Bio Burt
+"the NDA then encouraged Neoprobe to move forward with their Lymphoseek NDA filing for anatomical
+delineation claims, based SOLELY on the data from NEO3-05"
+
+
+Did the FDA say that or did NEOP say that the FDA said that?
+
+
+I assume you can't show anything beyond what the company said?
+
+
+29 Jun 2011, 09:19 AM
+
+
+spike1
+I guess we COULD check your data at your website as you suggest, if your website ACTUALLY WORKED.
+
+
+24 Jun 2011, 08:15 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  It works now - Neoprobe forced my hosting site to remove their corporate presentations. I
+think you should want to see what they wanted removed!
+
+
+27 Jun 2011, 08:58 PM
+
+
+ddbuyerhere@yahoo.com
+Summary of Neoprobe's March 12, 2010 Conference Call discussing the ITT issue:
+
+
+www.investorvillage.co...
+
+
+DDbuyer
+
+
+24 Jun 2011, 08:24 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  So should patients who could provide blue dye nodes be excluded from the study?
+
+
+27 Jun 2011, 08:58 PM
+
+
+ddbuyerhere@yahoo.com
+Q: Why did Marty Shkreli post this blog today?
+
+
+A: Because this afternoon buying is expected to be heavy, with NEOP being added to the:
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/648439
+
+https://seekingalpha.com/user/666601
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/823065
+
+http://www.investorvillage.com/groups.asp?mb=16085&mn=3297&pt=msg&mid=8714316
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/823065
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 7/26
+
+
+1) Russell 3000 index, 
+2) Russell Microcap index, and; 
+3) Russell Global index.
+
+
+www.russell.com/indexe...
+
+
+DDbuyer
+
+
+24 Jun 2011, 09:56 AM
+
+
+larry luv
+DDbuyer, you havent weighed in yet on Marty's 80million dollar bid to buyout Seracare,reported yesterday by
+Marty and Seracare?  
+any thoughts on this?
+
+
+24 Jun 2011, 10:31 AM
+
+
+ddbuyerhere@yahoo.com
+I'm not familiar with SeraCare so I wouldn't feel comfortable speaking about the offer, values, etc.
+
+
+However, I have reason to believe that SeraCare's management has been made acutely aware of Marty
+Shkreli's tactics, history, etc. I would not be surprised if those issues come into play as SeraCare weighs the
+merits and validity of the offer.
+
+
+DDbuyer
+
+
+24 Jun 2011, 10:54 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  I actually posted it 10 days ago, just happened to show up the day it did. I don't think too
+hard about these things. I'm posting to help the average investor and level the playing field.
+
+
+27 Jun 2011, 08:59 PM
+
+
+spike1
+As far as SeraCare goes, my prediction is that for some reason MBSM (Marty) will pull the offer to purchase,
+citing some off the wall reason. But not before he sells out whatever long position he has at the pumped
+"offer" price and shorting thereafter. Short the stock, pull the offer, make the company look bad, stock drops,
+cover the short. 
+What a scam.
+
+
+29 Jun 2011, 05:31 PM
+
+
+jonesboy
+I just want to say thanks DDbuyer. Been following this stock and your due diligence for a long time. I have always
+liked Seeking Alpha but this post is such a twist on facts. A flat out lie and an attempt to lower the stock price that if
+SA had any integrity they would pull it!
+
+
+
+http://www.russell.com/indexes/tools-resources/reconstitution/reconstitution-changes.asp
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/823065
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/666601
+
+https://seekingalpha.com/user/764113
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 8/26
+
+
+24 Jun 2011, 10:05 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Message board comments, blogs, etc don't lower stock prices. Bad companies, bad clinical
+practice and bad management lower stock prices. My writing has nothing to do with the long-term outcome of
+Neoprobe stock.
+
+
+27 Jun 2011, 09:00 PM
+
+
+sts66
+"My writing has nothing to do with the long-term outcome of Neoprobe stock."
+
+
+That's the "Duh" statement of the month, if not year. Of course you're not interested in the long term prospects
+of NEOP - since when does a short, especially one paying monthly interest through the nose, care what
+happens to a stock in the long run?
+
+
+Your sole purpose for bashing these biotechs is to attempt to push the price down as fast as possible and
+maximize your profits, using SA as your bully pulpit to spread FUD about each stock.
+
+
+BTW, how's that AVNR short working out for ya? If you have any profits left, better grab them quick and cover
+before the truck runs you over.....
+
+
+28 Jun 2011, 11:09 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  LIke I said, my writing has zero impact on stock, long-term and near-term. It's just an
+opinion!
+
+
+29 Jun 2011, 12:33 AM
+
+
+Jonathan Novak, Contributor
+So that CP and the PR released had no impact on the pps?
+
+
+I'm sure the SEC can't do anything, but I know they did or are looking into it.
+
+
+If they can do something, just because you say you didn't intend to manipulate the pps doesn't make it true.
+
+
+29 Jun 2011, 12:35 PM
+
+
+ddbuyerhere@yahoo.com
+(isn’t a non-blue patient who has positive Lymphoseek nodes non-concordant?) - Martin Shkreli
+
+
+No. That assumption is incorrect. Clinical design protocol requires the investigational agent (Lymphoseek) to
+demonstrate acceptable concordance with the FDA approved agent (Blue Dye). Lymphoseek had 100% concordence
+in NEO3-05.
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/634467
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/author/jonathan-novak
+
+https://seekingalpha.com/user/823065
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 9/26
+
+
+What you're talking about is called REVERSE concordence. In the reverse concordence study Blue Dye missed 40%
+of the nodes detected by Lymphoseek, 25% of which contained metastatic disease. Here's the PR for you:
+neoprobe.com/pressrele...
+
+
+DDbuyer
+
+
+24 Jun 2011, 10:44 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  No - I'm talking about patients excluded from the ITT population because they could not
+provide a blue dye node.
+
+
+27 Jun 2011, 09:00 PM
+
+
+nucs
+Blue dye was the truth standard in this noninferior design. How can lymphoseek be in accordance with
+something that wasn't detected by truth standard design? It is basically impossible to measure efficacy on
+these patients. If anything lymphoseek is being short changed because you could evaluate with lymphoseek
+being truth standard basis.
+
+
+29 Jun 2011, 02:10 PM
+
+
+nucs
+I think you meant to say 100% concordance with NEO3-09 trial
+
+
+seen here on page 15 www.neoprobe.com/ASCO2...
+
+
+29 Jun 2011, 02:20 PM
+
+
+Jonathan Novak, Contributor
+Your logic here is extremely flawed.
+
+
+How can SEEK compare to blue dye when blue dye fails to work? There is nothing to compare!!
+
+
+They have to be excluded because the BD failed to do its job and there for not an effective comparator.
+
+
+29 Jun 2011, 04:24 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Perhaps it wasn't detected by the truth standard for a reason?
+
+
+30 Jun 2011, 01:18 PM
+
+
+DRC09
+Every NEOP article that you publish gives me more confident in my long position.. Fun to see each and every one of
+your trial doubts be systematically shot down with supporting backup!
+
+
+24 Jun 2011, 11:13 AM
+
+
+
+http://neoprobe.com/pressreleases/050311pr.pdf
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/439853
+
+https://seekingalpha.com/user/439853
+
+http://www.neoprobe.com/ASCO2011/ASCOCOPE.pdf
+
+https://seekingalpha.com/author/jonathan-novak
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/859660
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 10/26
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Good luck!
+
+
+27 Jun 2011, 09:00 PM
+
+
+mcriley
+DDbuyer... thanks for your effort! With any luck those reading this article will also read the comments.
+
+
+24 Jun 2011, 11:53 AM
+
+
+SanMarcos
+
+
+Confidence Interval := CI = p +/- zv * sqrt{ p(1-p)/n }  
+where zv is the "z-value" or degree of confidence required in accepting the Confidence Interval as statistically
+significant, and where p is the proportion of interest, here the fraction ( nodes detected by Lymphoseek ) divided by (
+nodes detected by blue dye). Ref: graphpad.com/quickcalc...
+
+
+Data for the NEO3-05 study are given in Neoprobe's publication www.neoprobe.com/press....
+
+
+In order to reproduce and evaluate your work, we need the value for zv that the FDA uses and that you must
+necessarily use in your computation. I'm surprised you don't provide your readers with this information so that we can
+check your work.
+
+
+I can work out a value for zv that you must have used based on your conclusion that "Calculating the primary
+endpoint using the Clopper-Pearson method computes a lower bound of 0.901. That’s right, Neoprobe’s lower bound
+had to be greater than 0.900 and it came in at 0.901. " But I would like to see that value in print somewhere in FDA
+documentation. Presumably, your computation applies to the per-person data and not the per-node data - you don't
+tell us which data set you're using.
+
+
+I'm surprised you don't make it easier for your readers to reproduce your computation. In science, reproducibility is
+everything, and if you try to bedazzle or frustrate us with terminology and arcana instead of presenting a full and clear
+picture then your work is without force. Give us the rest of your assumptions so that your work can be checked.
+
+
+24 Jun 2011, 02:14 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Simple math! I use per node data. Check my website for some more details but I leave it to
+you to do the calculation.
+
+
+27 Jun 2011, 09:01 PM
+
+
+humbleinvestor
+What can I say about myself? I am a private investor of modest means trying to improve my retirement prospects. I'm
+also long NEOP -- nothing major, mind you. Still, I am saddened to see ow easily the stock price of a small biotch
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/953413
+
+https://seekingalpha.com/user/488576
+
+http://graphpad.com/quickcalcs/PValue1.cfm
+
+http://www.neoprobe.com/pressreleases/PR110609_Phase_3_Lymphoseek_Tilmanocept_Study_Results_Featured_at_Society_of_Nuclear_Medicine_Annual_Meeting.pdf
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/962010
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 11/26
+
+
+company can be negatively affected by a well-timed, cleverly-crafted, misleading piece authored by a "hedge fund"
+investor.
+
+
+24 Jun 2011, 02:23 PM
+
+
+omyomyomyomy
+Apparently the Phase III abstract is here:
+
+
+abstract.asco.org/Abst...
+
+
+Background: Intraoperative lymphatic mapping (ILM) evaluation is widely used for staging clinically node-negative
+breast CA and melanoma.
+
+
+[99mTc]Tilmanocept (TcT) is a novel CD206 receptor-targeted (intra-nodal CD206+ RE cells) radiopharmaceutical
+designed for ILM of nodes (LNs) with anatomic nexuses to the tumor bed.
+
+
+We report the results of a Phase III, multicenter trial designed to assess the ILM performance of TcT vs the approved
+standard, vital blue dye (VBD) in both melanoma and breast CA patients (pts).
+
+
++ So clearly they say """ Intraoperative lymphatic mapping """
+
+
+BUT THEN in the reply to the Citizens Petition they say:
+
+
+""" Neoprobe’s regulatory-appropriate clinical trials were designed to achieve an indication for “anatomical delineation
+of lymphatic tissue,”
+
+
+not “sentinel lymph node mapping.” """"
+
+
+finance.yahoo.com/news...
+
+
+Can anyone explain this ?
+
+
+Seems like a bit of double speak to me.
+
+
+Confusing to say the least.
+
+
+24 Jun 2011, 05:44 PM
+
+
+NotsoBlue
+You are quite alert- 
+it is double speak
+
+
+29 Aug 2011, 06:01 PM
+
+
+SanMarcos
+
+
+
+https://seekingalpha.com/user/962252
+
+http://abstract.asco.org/AbstView_102_85181.html
+
+https://seekingalpha.com/symbol/ilm
+
+https://seekingalpha.com/symbol/vbd
+
+http://finance.yahoo.com/news/Neoprobe-Files-Response-to-bw-2332282610.html?x=0&.v=1
+
+https://seekingalpha.com/user/1010183
+
+https://seekingalpha.com/user/488576
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 12/26
+
+
+You know, Shkreli, it was your soul mate in business, George Bush, who said, "You can fool some of the people all of
+the time - and those are the ones I want to focus on." It's clear that your purpose is to obfuscate, not to inform, and
+that you are uninterested in objective analysis.
+
+
+You won't take one minute to provide the value for zv that you used, and I can understand that because I know that
+hedge fund managers like you are busy counting profits and laughing at the little people - fools, wouldn't you say? -
+who work for a living and invest their money with ambitious companies like NEOP.
+
+
+Rather than do anything positive it's easier for you to fabricate a set of lies and misinformation and take profits during
+the ensuing pandemonium. I guess it's your nature, like a little gecko.
+
+
+24 Jun 2011, 10:46 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Thanks for your comment. You can learn math from someone else!
+
+
+27 Jun 2011, 09:02 PM
+
+
+SanMarcos
+I hope you publish some more mendacious and shallow articles, Shkreli. You can count on me to be here exposing
+you as a liar, poseur and scumbag.
+
+
+Your computations are purposely obscured and intended to mislead. The fact that you will not show your work laid out
+in clear detail or provide a complete set of input data in support of your conclusions makes your work immediately
+suspect. Come on, big mouth, show us your work so that we can learn and profit together.
+
+
+25 Jun 2011, 07:22 AM
+
+
+TheTruth2
+re: Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints?
+
+
+Yes, it did. So why the pointless babble?
+
+
+25 Jun 2011, 01:34 PM
+
+
+indiansfan407
+It seems odd that for an article that invited questions martin has not made one single reply and the share price is
+steady
+
+
+25 Jun 2011, 08:31 PM
+
+
+sts66
+For reasons unknown (cash trading hands?) GoDaddy has put Marty's website back up despite it still violating
+copyright protected information, and therefore GoDaddy's TOS......they're just as bad as the rest of the
+registrars it would seem.....ok, I take that back....although the links to NEOP's ASCO slides still appear on his
+page, they're dead, therefore it would appear the site is now in line with the TOS after all.
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/488576
+
+https://seekingalpha.com/user/952613
+
+https://seekingalpha.com/user/854011
+
+https://seekingalpha.com/user/634467
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 13/26
+
+
+I hate to give Marty more eyeballs so I won't provide the link, but he's put up a new PDF on that asinine
+website with his NEOP "analysis", full of all of the lies that have been completely and totally refuted here and
+elsewhere.
+
+
+Hey Marty, you can climb to the top of the Empire State building and scream your tripe from the top of your
+lungs but it STILL WON'T MAKE IT TRUE.
+
+
+P.S. See you're still not using a proofreader...."When you’re best case scenario is you lose almost all of your
+money, you should sell! " ..... it's "your", not "you're", idiot.....
+
+
+26 Jun 2011, 10:05 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  It seems like you're upset at someone?
+
+
+27 Jun 2011, 09:02 PM
+
+
+reachmygoals1
+Neoprobe will submit NDA in July/August and once FDA accepts for review with decision date, this will clear the air.
+
+
+25 Jun 2011, 08:50 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Once the FDA approves it maybe!
+
+
+27 Jun 2011, 09:03 PM
+
+
+dantoscano
+Marty,
+
+
+I am trying to understand your TRUE motivation here. IF your goal is simply to profit from your shorting of NEOP
+stock, (don't think that educating the masses is your intention) and if you feel that the trials have been poorly run and
+Lymphoseek won't get approved and is worhtless if it did wouldn't it make much more business sense to have kept
+your mouth shut, let the stock go higher (so you could short it at a higher price obviously) and then let the FDA pull
+the rug out from under NEOP when the NDA was submitted? If I felt that I knew something that would cause APPL to
+go down dramatically, would I tell anyone? Hell no! I just short the living crap out of it and eventually watch the money
+roll in when everyone else finally figured out what I knew.
+
+
+So what is real your real motivation??? Please respond as I would love to know.
+
+
+26 Jun 2011, 07:59 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Trying to help the little guy! This situation is so bizarre and terrible that I had to say
+something. In the best case scenario, the stock is worth $1.00 and more likely $0.25.
+
+
+27 Jun 2011, 09:03 PM
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/833894
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/718129
+
+https://seekingalpha.com/author/martin-shkreli
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 14/26
+
+
+la74sa77
+Marty,
+
+
+You have not answered a single comment on this article, so what’s up?
+
+
+Are you in custody from an unrelated event? 
+You/MSMB has received papers regarding a law suit? 
+Seeking Alpha realized your post are full of falsehoods and have possible placed the ‘Site’ in jeopardy with you, and
+pulled your access? 
+Your intent to purchase SeraCare has placed you in a ‘Quiet Period’? LOL
+
+
+Or my best bet of the day: 
+The SEC has notified you to cease and desist from you manipulative activities?  
+
+
+26 Jun 2011, 11:36 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  LOLOLOL!
+
+
+27 Jun 2011, 09:04 PM
+
+
+ozarkrunner
+Mr. Shkreli, after reading most of your posts, I believe that I would sum up your attitude toward Lymphoseek as a drug
+that the FDA needs to reject due to its deficiencies and that sulfur colloid and blue dye are adequate and have proven
+useful for SLNM. If this is your belief then you may be condemning someone you love or even yourself. To explain
+what I mean I would like to apply what I call the Scalpel Test towards you and your opposing attitudes to the use of
+Lymphoseek.  
+Let's say that doctors tell you that your son or daughter has cancer and that the best course of action to make sure
+that they have eliminated the threat of it spreading is to do SLNM. In addition, let's say that your doctor has the choice
+of using the Sulfur Colloid and Blue Dye combo or if it were available Lymphoseek. From what you have stated your
+choice is the combo. How sad. You would subject a child or yourself to a fifty year old drug that offers terrible pain
+upon injection. Have you ever talked to anyone who went through the procedure or any of the staff that are the blunt
+of the fury produced by the pain of sulfur colloid? Besides the obvious discomfort there is the fact that the colloid
+doesn't always exit the injection site so the patient is required to move around and massage the area of injection in
+the hopes that the drug will move in time for the scheduled operation. Adding insult to injury is the blunt fact that larger
+numbers of lymph nodes than necessary must be cut out to make sure that the surgeon has got what he needs of the
+cancer's spread. Oh, and yes this trauma might still end in death as collateral damage in getting that tumors tidbits. 
+As far myself, I will go with Neoprobe's choice. Why shouldn't I have faith in a product of a company that was a
+pioneer in SLNM? Do you think that they might just know a thing or two about this field? Furthermore, why shouldn't I
+use a state of the art drug that doesn't leave you in shock due to it's side affects. Moreover, Lymphoseek helps
+expedite a lower level of radiation quicker so that you don't end up as a radiation reservoir similar to your combo's
+legacy. Finally, when it comes to the life of someone I love, I have enough trust in the Phase III results to demand that
+the doctor use the new drug instead of the more volatile older methods. Why have this faith. Easy. In making such a
+decision reverse or turn the tables on the opposing elements. So now Lymphoseek is the original item that the
+
+
+
+https://seekingalpha.com/user/768321
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/438675
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 15/26
+
+
+elements of the combo must be tested against. From the prior testing we pretty well know the results of such reverse
+testing. 
+Now fate has a funny way of intervening in daily life and you may be required to say the word that decide the life or
+death of someone with cancer. Choose wisely and not be cursed.
+
+
+26 Jun 2011, 08:55 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  A good product has to prove it is better or equal to the standard of care. They haven't done
+that!
+
+
+27 Jun 2011, 09:05 PM
+
+
+TheTruth2
+Why is it that you can question NEOP's management's character, credibility, and integrity without providing any
+evidence but when people make posts questioning your character, credibility, and integrity and do provide
+evidence...you have those posts deleted?
+
+
+28 Jun 2011, 12:02 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  This is not a blog about me. This is a blog about the outlook for Lymphoseek.
+
+
+28 Jun 2011, 10:42 AM
+
+
+njguy
+But as numerous deleted posts pointed out, if you don't have the minimal credentials to qualify yourself to
+speak in this field, how can you give the outlook for Lymphoseek?
+
+
+29 Jun 2011, 03:02 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Judge my comments based on the validity of the comments.
+
+
+30 Jun 2011, 01:17 PM
+
+
+NeoSal
+Dear long investors:
+
+
+Give the order to your bank or broker that you do not allow securities lending with NEOP stocks in your deposit. If
+they have done so (actually they do without asking) they will have to immediately ask the stocks (lent for shorting)
+back.....anyway I strongly feel that the short traders are not having easy time sofar...in a very few days we will be
+entering the third quarter and the tensions will go higher, particularly for the ones exposed with other people's
+assets....
+
+
+28 Jun 2011, 03:51 AM
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/952613
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/953183
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/961492
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 16/26
+
+
+Martin Shkreli, Contributor
+Author’s reply »  When shorts are paying large interest rates to borrow your stock, you shouldn't try to limit it -
+you should probably try to understand why these folks are so sure that selling NEOP at 3.50 is a good idea.
+
+
+28 Jun 2011, 10:42 AM
+
+
+NeoSal
+...or they just want to destroy value because of the limited volume traded as per NEOP!!  
+Anyway, in our case the only positive effect I can see is that your action is avoiding a 'bubble effect' for this
+stock or causing a 'soft landing'. Both cases play also against your interest....!  
+Go long and you make more money, but again then you need to put down cash you might not have....shorting
+you don't need all that money you need for going long....the comments about the future o f NEOP in my
+opinion are only the outcome of a 'circular a game'....
+
+
+30 Jun 2011, 07:16 PM
+
+
+DRC09
+"Trying to help the little guy! This situation is so bizarre and terrible that I had to say something." - Marty
+
+
+If you are so concerned for the "little guy" and as you state these trails are a mess from top to bottom.. Why publish all
+these articles?? This should be a no brainer for the FDA to kill dead in its tracks.. Right???
+
+
+filing the CP and these very well worded articles could only mean there is some doubt that your short position could
+go horribly wrong.
+
+
+28 Jun 2011, 08:35 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  You can sell now at 3.50 or sell at 1.00 when the FDA says no. That's help to me!
+
+
+28 Jun 2011, 10:43 AM
+
+
+DRC09
+oh, and this is a blog, right???? noticed comments being deleted and in my case edited?!?!? talk about bizarre and
+terrible!
+
+
+28 Jun 2011, 08:42 AM
+
+
+dbf
+This entire episode has been so riddled with fraud that it boggles the mind that everyone could not immediately
+perceive Shkreli's motivation and fraudulent comments. Also, anyone who is the least bit qualified as an investor
+would do a little research into Mr. Shkreli's history and immediately realize he has absolutely no credibility. As for me, I
+am a former health care correspondent and now I manage a family trust. I have been taught and have over a decades
+experience in investigative journalism. I have uncovered fraud at the state level in life sciences operations in PA, and
+am literally a pro at spotting fraud.
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/961492
+
+https://seekingalpha.com/user/859660
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/859660
+
+https://seekingalpha.com/user/461661
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 17/26
+
+
+28 Jun 2011, 08:45 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Unfortunately you have not provided a mailing address where I can send you a "told you so"
+postcard to in 2012.
+
+
+28 Jun 2011, 10:44 AM
+
+
+Stockmaven
+While I understand that replies off topic are being deleted but many good very knowledgable posts have been deleted
+that don't agree with Shkreli gives me the impression that this blog is far from being a fair representation.
+
+
+29 Jun 2011, 05:59 AM
+
+
+DRC09
+Wildcard in all this is RIGS! check the chart to see what type of excitement it caused in '97.
+
+
+29 Jun 2011, 02:48 PM
+
+
+NeoSal
+Dear long investors a few days ago I have written in "Seekingalpha" the following statement in order to prevent further
+uncovered short selling:
+
+
+"Give the order to your bank or broker that you do not allow securities lending with NEOP stocks in your deposit. If
+they have done so (actually they do without asking) they will have to immediately ask the stocks (lent for shorting)
+back.....anyway I strongly feel that the short traders are not having easy time sofar...in a very few days we will be
+entering the third quarter and the tensions will go higher, particularly for the ones exposed with other people's
+assets...."
+
+
+Answer from Martin Shkreli:
+
+
+"When shorts are paying large interest rates to borrow your stock, you shouldn't try to limit it - you should probably try
+to understand why these folks are so sure that selling NEOP at 3.50 is a good idea"
+
+
+Following the intrinsec aspect of this answer it means that this is the fair, legal and transparent way to hijack the short
+sellers....this is the open door we left to this person(s) to enable him/them to lower the stock pricing!! Sad to say, but
+we are the cause of our concern. Indeed, it is due to our "passivity" towards our banks and brokers......
+
+
+30 Jun 2011, 04:20 AM
+
+
+sts66
+Hey Marty, what happened to that fatally flawed "Neoprobe Sulfur Colloid Pricing Survey" you used to have a link to
+on your MSMB web site? No matter, some folks saved that oh-so-precious Excel spreadsheet for the record.
+
+
+Finally got shamed into taking it down or what? Nah, that would mean admitting you were way off base....IOW, very
+WRONG about the <cough> "analysis" you had posted.....but still, inquiring minds want to know and all that....
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/180093
+
+https://seekingalpha.com/user/859660
+
+https://seekingalpha.com/user/961492
+
+https://seekingalpha.com/user/634467
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 18/26
+
+
+16 Jul 2011, 06:51 PM
+
+
+larry luv
+Martin 
+Is Cyclacel running a Clinical Trial where an FDA non approved drug is being used as comparator? I think the
+comparator is an off label drug... 
+Reason I mention is because I think there was a debate here that FDA doesnt allow non-approved drugs in Clinical
+studies as a comparator.
+
+
+17 Jul 2011, 11:47 AM
+
+
+larry luv
+I think it would be extremely important to know if the original FDA reviewers on Lymphoseek who according to
+management, agreed fully on this trial design,are they the same reviewers who will make final approval decision on
+this product.. 
+There has been alot of changes in FDA since these trials first started. 
+If a new crew is reviewing Lymphoseek,that could be of some concern to ponder. 
+I have been long Lymphoseek for awhile but I am always proactive in gathering any new info I can,good or bad about
+my investments. 
+Never be complacent when its your own money on the line.. 
+GLTA.
+
+
+17 Jul 2011, 12:00 PM
+
+
+larry luv
+A non approved drug as comparator I think is taking place in one of Cyclacel's Clinical Trials. Debate here has been
+FDA doesnt allow that, but I think an off label,non approved drug is the comparator drug in that trial for Cyclacel. 
+Anyone confirm this? Martin?
+
+
+17 Jul 2011, 12:05 PM
+
+
+sts66
+Sorry Larry, go spread your FUD elsewhere.
+
+
+You're trying to compare apples and oranges here - Cyclacel's clinical trials comparing their candidate drug
+Sapacitabine for acute myeloid leukemia (AML) in combination with and/or directly against Decitabine (Dacogen), an
+FDA approved chemo drug for myelodysplastic syndrome, which can develop into AML if left untreated.
+
+
+clinicaltrials.gov/ct2...
+
+
+18 Jul 2011, 10:12 AM
+
+
+DRC09
+Can someone please explain the EMA link on Martin's site defining the ITT protocol?!?!?!? Lymphoseek trials were
+conducted in the United States NOT Europe! Anyone??
+
+
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/634467
+
+https://seekingalpha.com/symbol/aml
+
+http://clinicaltrials.gov/ct2/show/NCT01303796
+
+https://seekingalpha.com/user/859660
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 19/26
+
+
+www.msmbcap.com/
+
+
+18 Jul 2011, 11:13 AM
+
+
+biovestor1
+Martin
+
+
+Nice call on your short. Does the approval of SC in breast cancer have any bearing on your argument that
+Lymphoseek cannot be approved because it was not compared to the SOC (SC and blue dye)?
+
+
+Pharmalucence apparently didn't run their trial for SC against the SOC either, just against blue dye. IMO, that
+argument just went out the window. Appreciate your thoughts.
+
+
+23 Jul 2011, 03:40 PM
+
+
+biovestor1
+Marty
+
+
+Great call on the NEOP short. Question: Does the Pharmalucence approval have any bearing on your opinion that
+Lymphoseek cannot be approved because the trial was run against blue dye only and not the SOC SC and blue dye?
+
+
+Their trial was run against blue dye only as well, the only approved SOC at the time. That would seem to me to
+negate your argument. Appreciate your opinion .
+
+
+23 Jul 2011, 03:40 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Thanks for your question. I think the FDA expanded the label for the already-approved SC for SLND
+due to the large amount of well-controlled studies of both the combination of SC+BD as well as against BD.
+
+
+The FDA knows that the combination has been the SOC for quite a long time. I wonder if the recent CP helped remind
+them that the body of evidence for SC is vast, especially relative to Lymphoseek.
+
+
+With respect to Lymphoseek, I still contend the studies did not meet their primary endpoints, and were certainly not
+controlled against the best standard of care. I further still believe sales will be quite low. What the recent action means
+is anyone's guess but I don't see a material difference in the chances of Lymphoseek success.
+
+
+23 Jul 2011, 11:47 PM
+
+
+DRC09
+How about ansering biovestor1 question..
+
+
+"Pharmalucence apparently didn't run their trial for SC against the SOC either, just against blue dye. IMO, that
+argument just went out the window. Appreciate your thoughts. "
+
+
+24 Jul 2011, 01:08 PM
+
+
+Martin Shkreli, Contributor
+
+
+
+http://www.msmbcap.com/
+
+https://seekingalpha.com/user/979797
+
+https://seekingalpha.com/user/979797
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/859660
+
+https://seekingalpha.com/author/martin-shkreli
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 20/26
+
+
+Author’s reply »  I think that is a simplistic and self-serving way to analyze the situation. Sulfur colloid has been used
+for over a decade as the standard of care in SLND. The studies reviewed included SC+BD, SC vs. BD and SC alone.
+There is a very rich history of how physicians use SC+BD. This is the current standard of care and the past standard
+of care. Approval just codifies what we already knew - SC+BD is always used to identify the SLN. It's impossible to tell
+if Lymphoseek works unless they run a study of SC+BD versus Lymphoseek. For obvious reasons, this is unlikely to
+happen. Approval of Lymphoseek is unlikely to happen. That's not my problem, FDA's problem or anyone else's but
+Neoprobe's.
+
+
+Hope that helps!
+
+
+24 Jul 2011, 01:36 PM
+
+
+spike1
+I'm sorry to keep beating what should have been a dead horse, but why would the FDA not approve Lympho
+just because something else works too? Ibuprofin and Aceteminophin both make your headache go away.
+Having one on the market doesnt mean the other wont be approved. The only concern of the FDA should be
+does the drug WORK? Does the drug harm? They shouldn't (and aren't) in the business of deciding whether
+or not to approve a drug based on its competition. Show me where Lympho fails to work as promised or has a
+safety problem to speak of and I may reconsider my position.
+
+
+25 Jul 2011, 01:25 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  That's definitely a good point! I think the case here is that it is a life-altering situation and the
+current SOC does the job almost perfectly. In cancer you have to show you're better than what's available or
+you'll be doing the public a big disservice.
+
+
+25 Jul 2011, 03:39 PM
+
+
+biovestor1
+Repeating the same opinion doesn't make it more right. I'm sure you made some nice coin on the short, hope you
+covered. Your 15 minutes should be just about done.
+
+
+25 Jul 2011, 11:56 AM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Thanks for your comment!
+
+
+29 Jul 2011, 08:58 AM
+
+
+yka
+All I need to know is the very last line of your article 
+" I am short Neoprobe"
+
+
+26 Jul 2011, 10:49 AM
+
+
+
+https://seekingalpha.com/user/666601
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/979797
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/427545
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 21/26
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Yes, from this statement you will know I've made 50% in a short period of time. Sometimes
+that's all you need to know.
+
+
+29 Jul 2011, 08:58 AM
+
+
+larry luv
+Just because someone is short' doesnt mean they are not telling the truth just as all longs arent saints either'
+
+
+27 Jul 2011, 08:40 AM
+
+
+humbleinvestor
+I am struck by Mr. Shkreli's descritpion of the FDA as a "friendly" organization. Regulatory agencies are expected to
+be open to citizens' inquiries and interests, to be sure, but "friendly"? That's an odd word. to say the least. I think he
+used that word in a preemptive attempt to mask his T-text in which he claimed(bragged?) to have "friends" who are
+current and former FDA officials. That remark was quite telling.
+
+
+29 Jul 2011, 05:25 PM
+
+
+Martin Shkreli, Contributor
+Author’s reply »  Everyone I've met who works or has worked there is remarkably friendly and intelligent.
+
+
+29 Jul 2011, 07:18 PM
+
+
+dbf
+When will this farce end? When does Seeking Alpha actually vet those who post articles?
+
+
+30 Jul 2011, 08:35 AM
+
+
+larry luv
+I disagree with alot of Marty's comments but he has a right to his opinion and he has opened my eyes and many
+others to at least dispute his comments and do our own due diligence. 
+Though we may not like his tactics,as long as he is within the boundaries of the law in what he is doing,then nothing
+we can do about it.  
+Maybe certain regulations will be changed because of him and he will live in infamy. 
+In actuality,until FDA decides on Lymphoseek we dont know honestly who is wrong or right..I am leaning towards
+Lymphoseek getting approval and capturing the majority of the market,especially with Cardinal Health as a US
+partner.. 
+GLTA
+
+
+30 Jul 2011, 09:36 AM
+
+
+NotsoBlue
+Very compelling blogg! 
+Thank you Marty~
+
+
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/962010
+
+https://seekingalpha.com/author/martin-shkreli
+
+https://seekingalpha.com/user/461661
+
+https://seekingalpha.com/user/428590
+
+https://seekingalpha.com/user/1010183
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 22/26
+
+
+Listen up folks 
+Marty is onto something for sure 
+and I would like to help him ~ 
+You guys who have called him a doomsayer etc 
+and seem to be bent on going forward with your own  
+take on his motives.
+
+
+I tend to give him the benefit of the doubt here - because in my layman's understanding his theory makes sense- 
+Logic is the name of the game - 
+I am a patient [also known as a "loved one"] who has been doing research for three years on this "standard" blue dye
+issue
+
+
+How many of you are aware that some patients were 
+subjected to something like this NEO study without consent??
+
+
+It's simple - use the NEO --find the node, 
+ignore the blue and the patient 
+who goes home without blue urine wonders why???? 
+Could it be that blue wasn't used at all????
+
+
+I have limited investment savvy about long v short - 
+but I do get it that 
+Long= make $ 
+Short = make $
+
+
+Hang on to your hats - this is coming close to  
+not being at the conjecture stage because  
+I'm still investigating--so don't go get a lawyer yet!!
+
+
+Marty - I will be at your website soon to see if there 
+is a contact #  
+I would very much like to speak with you  
+Or if your email is available, I will email you with subject heading  
+"Not So Blue"
+
+
+We need to talk~
+
+
+27 Aug 2011, 04:57 PM
+
+
+dbf
+"How many of you are aware that some patients were 
+subjected to something like this NEO study without consent??" 
+This is the giveaway sentence in a previous posting. This is the red flag that tells you not to take seriously what was
+posted. What is this in reference to? As it is worded, the poster makes no claim that what he is talking about has
+anything to do with Neoprobe. There is no factual evidence regarding anything provided. Being an investor is
+fascinating as we can clearly see that the free market is not a free market at all as there is still virtually unlimited
+
+
+
+https://seekingalpha.com/user/461661
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 23/26
+
+
+tampering with the value of equities that has nothing to do with market forces or facts. The Neoprobe vs Shkreli
+adventure is just one example.
+
+
+28 Aug 2011, 08:15 AM
+
+
+NotsoBlue
+dbf 
+Your criticism might be warranted in one respect and I take no 
+offense. I stand guilty of not being more specific-by not identifying my posture on this subject of Neop. 
+During investigations- a person tends to speak in generalities so what I said is "subjected to something LIKE this
+Neop 
+study without consent" This was not to suggest it happened in the Neop study.
+
+
+I happened on this site by way of a lengthy research on the sentinel node biopsy procedure itself and radioisotopes
+etc. 
+I do not know Marty at all - but do tend to see his argument- that a comparative study must have a standard contrast
+agent approved by FDA in order to compare a new/better/safer one etc.
+
+
+What troubles me is that Neop states that the "other" SC produced fatalities. That's pretty strong stuff and I would
+think they should support that with a link to some litigation somewhere? I consented to SC for one procedure and was
+never told death was a risk- Do you know anyone that was??
+
+
+Behind all devices and drugs - there are investors 
+and I make no issue against that - wishing them all 
+good fortune in their ventures.  
+Prior to Neop entrance to the mkt- there were SNB studies using the combo SC/VBD and one of those trials is still
+ongoing - 
+so if the survival rate is not yet conclusive - or if a trial like that is -ever proven flawed, [i.e.performed absent consent-
+or on healthy tissues etc - with no therapeutic benefit] the procedure itself may lose credibility.
+
+
+The way I see it - if these things were to occur it won't matter which SNB "tracer" prevails in the mkt. So if I were to
+invest, I would wait until I got the former trial results i.e the "endpoint" survival data of that procedure.
+
+
+Just sayin'
+
+
+28 Aug 2011, 11:19 PM
+
+
+dbf
+Thank you for your clarification. Very nice response, NotSoBlue. Good luck to you!
+
+
+29 Aug 2011, 08:08 AM
+
+
+sts66
+" I consented to SC for one procedure and was never told death was a risk- Do you know anyone that was??"
+
+
+Of course they didn't say it out loud....ever had general anesthesia for surgery? Anyone tell you that you could die
+from it before you went under? Nope, BTDT. It's all in the fine print of that bunch of forms you have to sign in pre-
+
+
+
+https://seekingalpha.com/user/1010183
+
+https://seekingalpha.com/user/461661
+
+https://seekingalpha.com/user/634467
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 24/26
+
+
+surgery, legal gobbledegook that most folks never bother to read.
+
+
+As far as NEOP "supposedly" stating that SC can cause death from anaphylactic shock, what do you want them to
+do, publish the names of the victims? In any case, I could find that info you claim to want in about 5 seconds with a
+simple Google search....try it yourself, not going to do the work for you, but I doubt that info was the intent of your
+claim anyway.
+
+
+29 Aug 2011, 02:37 PM
+
+
+NotsoBlue
+dbf-- thank you same to you~
+
+
+sts66 
+Tell ya the truth - I'm not trusting of any of these products - after being mistreated by unscrupulous surgeons that used
+them on me 
+So don't invest according to my opinion, ok?
+
+
+No...the gobblygook is NOT on the consent form for SC with BD 
+Nor was it ever discussed by my surgeon-- which is medical malpractice to fail this disclosure
+
+
+If potential fatal effects IS/WAS one of the risks v benefits it is paramount to discuss this with a patient- because if that
+risk materializes [and publicized] that product would be shorted in a New York minute! [so Google me please ! find
+one death and I will drop this subject]
+
+
+I think you need to do the Googling and read Neop own statement on page 5 and again on 6 
+lifetechcapital.com/lt...
+
+
+"Safety Profile- To date there have been no drug safety issue 
+reported with the use of Lymphoseek, in contrast to both Tc-99m 
+colloids and blue dyes which both have potentially fatal risks associated 
+with their use." [To date...........]
+
+
+page 6 re-emphasizes the fatal issue- so doesn't take a rocket science to see the reason for this: 
+"The clearer more accurate identification of sentinel nodes would enhance cancer staging procedures and help
+patients avoid unnecessary removal of lymph nodes and the trauma and morbidity associated with their removal.
+Additionally, Lymphoseek’s clean safety profile could protect patients from the potentially fatal side effects associated
+with agents used in current ILM procedures."
+
+
+So one has to assume that Lymphoseek has NO potential fatal side effects -like sulfur colloid ==OK that's a good
+thing- [to date...]
+
+
+But then we have this breaking news saying SC approved by FDA... 
+[Neop does comment on this but viewer comments on this would be appreciated]
+
+
+www.businesswire.com/n... 
+and this 
+lifetechcapital.com/lt... 
+So now we are supposed to believe there is a difference between localization and mapping? Or double speak?
+
+
+
+https://seekingalpha.com/user/1010183
+
+http://lifetechcapital.com/ltc/wp-content/uploads/2011/07/Morning-Note-07-20-11-NEOP.pdf
+
+http://www.businesswire.com/news/home/20110722005806/en/Pharmalucence-Announces-FDA-Approval-Sulfur-Colloid-Injection
+
+http://lifetechcapital.com/ltc/wp-content/uploads/2011/07/NEOP-Update-07-25-11.pdf
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 25/26
+
+
+Read the Moffit experience article by  
+Department of Surgery, Comprehensive Breast Cancer Program, H. Lee Moffitt Cancer Center and Research Institute
+at the University of South Florida, Tampa, Florida, USA. coxce@moffitt.usf.edu 
+www.ncbi.nlm.nih.gov/p...
+
+
+No danger in being too informed--
+
+
+29 Aug 2011, 06:18 PM
+
+
+sts66
+Don't worry about my "investing decisions" being influenced by what you or in particular Marty says, I can do
+my own DD, thank you. These kinds of exchanges are for amusement purposes for the most part as far as I'm
+concerned.
+
+
+And that simple google search I mentioned? Like I said, 5-10 seconds, tops. First 4-5 hits all mention deaths
+associated with SC, here's a couple of them, which also include other problems SC has that LS doesn't, so
+you can "drop it" like you claimed you would:
+
+
+www.drugs.com/sfx/tech...
+
+
+Technetium Tc 99m Sulfur Colloid Side Effects - for the Professional 
+Technetium Tc 99m Sulfur Colloid
+
+
+The following adverse reactions have been reported associated with the use of Technetium Tc 99m Sulfur
+Colloid Injection: cardiopulmonary arrest, seizures, anaphylactic shock, hypotension, dyspnea, abdominal
+pain, fever, chills, bronchospasm, nausea, vomiting, perspiration, redness, urticaria, numbness, dizziness and
+burning at the injection site.
+
+
+***Several deaths*** and cases of lung and soft tissue uptake other than RES have been reported in
+association with the use of Technetium Tc 99m Sulfur Colloid Injection 
+. 
+The size and physical-chemical properties of the sulfur colloid particles formed from the components of the kit
+may determine the biodistribution of the colloid and its uptake by the RE system. Diseases affecting the RE
+system may also alter the expected uptake pattern.
+
+
+www.rxlist.com/cis-sul...#
+
+
+CIS-Sulfur Colloid Warnings & Precautions
+
+
+WARNINGS
+
+
+Although rare, deaths have occurred following intravenously administered gelatin stabilized Technetium Tc
+99m Sulfur Colloid Injection. Advanced cardiopulmonary life support systems should be readily available
+where and when the drug is administered.
+
+
+ 
+Sound like something YOU'D want to be injected with?
+
+
+31 Aug 2011, 06:05 PM
+
+
+
+http://www.ncbi.nlm.nih.gov/pubmed/15023756
+
+https://seekingalpha.com/user/634467
+
+http://www.drugs.com/sfx/technetium-tc-99m-sulfur-colloid-side-effects.html
+
+http://www.rxlist.com/cis-sulfur_colloid-drug.htm
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 26/26
+
+
+ddbuyerhere@yahoo.com
+"What troubles me is that Neop states that the "other" SC produced fatalities. That's pretty strong stuff and I would
+think they should support that with a link" - NotsoBlue
+
+
+You're right. It is pretty strong stuff and of great concern to physicians and patients (assuming they're properly
+informed). Neoprobe merely cited the FDA warning label for Sulfur Colloid:
+
+
+"--WARNINGS AND PRECAUTIONS-----------...  
+Anaphylactic reactions with bronchospasm, hypotension, urticaria and rare fatalities have occurred following
+intravenously administered Technetium Tc 99m Sulfur Colloid. Have emergency resuscitation equipment and
+personnel immediately available (5.1).  
+----------------------... REACTIONS--------------------------The most frequently reported adverse reactions include rash,
+urticaria, anaphylactic shock, and hypotension. Less frequently reported reactions are fatal cardiopulmonary arrest,
+seizures, dyspnea, bronchospasm, abdominal pain, flushing, nausea, vomiting, itching, fever, chills, perspiration,
+numbness, dizziness and injection site reactions."
+
+
+pharmalucence.com/imag...
+
+
+DDbuyer 
+www.investorvillage.co...
+
+
+31 Aug 2011, 05:02 PM
+
+
+
+https://seekingalpha.com/user/823065
+
+http://pharmalucence.com/images/7-22-11%20Updated%20Sulfur%20Colloid%20PI.pdf
+
+http://www.investorvillage.com/groups.asp?mb=16085&pt=m

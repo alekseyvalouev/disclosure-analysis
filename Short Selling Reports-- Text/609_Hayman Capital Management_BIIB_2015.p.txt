@@ -1,0 +1,3622 @@
+For the Patent Owner        Paper No. __ 
+Backup counsel: Robert W. Hahl, Reg. No. 33,893 
+Backup counsel: Robert Mihail, Reg. No. 66,021 
+Neifeld IP Law, PC 
+ 
+ 
+
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________ 
+
+
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+
+
+____________ 
+ 
+ 
+
+
+Coalition For Affordable Drugs V LLC  
+Petitioner 
+
+
+v. 
+ 
+
+
+Biogen IDEC International GmbH 
+Patent Owner 
+
+
+____________ 
+ 
+
+
+Case IPR Unassigned 
+Patent 8,759,393 
+
+
+ 
+Title: UTILIZATION OF DIALKYLFUMARATES 
+
+
+____________ 
+ 
+
+
+PETITION FOR INTER PARTES REVIEW OF 
+U.S. PATENT NO. 8,759,393 
+
+
+UNDER 35 U.S.C. § 312 AND 37 C.F.R. § 42.104 
+ 
+ 
+
+
+Mail Stop PATENT BOARD 
+U.S. Patent Trial & Trademark Office 
+P.O. Box 1450 
+Alexandria, VA 22313-14
+i 
+ 
+
+
+
+
+
+TABLE OF CONTENTS 
+ 
+
+
+I.  INTRODUCTION ............................................................................................. 1 
+
+
+II.  MANDATORY NOTICES ............................................................................ 2 
+
+
+A.  Real Party-In-Interest 37 C.F.R. § 42.8(b)(1) ............................................... 2 
+
+
+B.  Related Matters 37 C.F.R. § 42.8(b)(2)......................................................... 3 
+
+
+C.  Designation of Lead and Backup Counsel 37 C.F.R. § 42.8(b)(3) ............... 3 
+
+
+D.  Notice of Service Information (37 C.F.R. § 42.8(b)(4)) ............................... 4 
+
+
+III.  FEES 37 C.F.R. § 42.15(a) ............................................................................. 4 
+
+
+IV.  REQUIREMENTS UNDER 37 C.F.R. § 42.104 .......................................... 4 
+
+
+A.  Grounds for Standing 37 C.F.R. § 42.104(a) ................................................ 4 
+
+
+B.  Identification of Challenge and Precise Relief Requested 37 C.F.R. § 
+
+
+42.104(b) ................................................................................................................. 4 
+
+
+2.  Specific Statutory Grounds for Challenge 42.104(b)(2) .................................. 5 
+
+
+V.  UNPATENTABILITY OF THE ’393 PATENT ......................................... 6 
+
+
+A.  Brief History of dimethyl fumarate therapy .................................................. 6 
+
+
+B.  Prosecution History of the ‘393 Patent ......................................................... 8 
+
+
+C.  Person of Ordinary Skill in the Art ............................................................. 10
+ii 
+ 
+
+
+D.  Claim Construction ...................................................................................... 11 
+
+
+VI.  DETAILED EXPLANATION OF THE CHALLENGES ........................ 22 
+
+
+A.  Ground 1: Claims 1, 2, and 8 are anticipated by Nieboer ........................... 22 
+
+
+B.  Ground 2: Claims 1-13 are obvious over Nieboer in view of Kolter .......... 26 
+
+
+VII.  CONCLUSION .......................................................................................... 52
+iii 
+ 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+In re Cuozzo Speed Technologies, LLC, 2014-1301 (Fed. Cir. 2015) ..................... 18 
+
+
+KSR International Co. v. Teleflex Inc., 550 U.S. 398 (2007) ........................... 31, 32 
+
+
+Titaniium Metals Corp. v. Banner, 778 F.2d 775 (Fed. Cir. 1985) ...... 38, 40, 48, 57 
+
+
+Verdegaal Bros. v. Union Oil Co. of California, 814 F.2d 628 (Fed. Cir. 1987) .... 21 
+
+
+Statutes 
+
+
+35 U.S.C. § 102 ............................................................................................... 5, 6, 23 
+
+
+35 U.S.C. § 103 ................................................................................................... 6, 26 
+
+
+Rules 
+
+
+37 C.F.R. § 42.8………………………………………………………………2, 3, 8 
+
+
+37 C.F.R. § 42.15…………………………………………………………………..4 
+
+
+37 C.F.R. § 42.22…………………………………………………………………..6 
+
+
+37 C.F.R. § 42.100………………………………………………………………..11 
+
+
+37 C.F.R. § 42.104…………………………………………..…………………..4, 5
+iv 
+ 
+
+
+LIST OF EXHIBITS 
+
+
+Exhibit 1001 U.S. Patent No. 8,759,393, titled “Utilization of 
+
+
+Dialkylfumarates” to Joshi et al. (‘393 patent) 
+
+
+Exhibit 1002 C. Nieboer, et al., “Systemic therapy with fumaric acid 
+
+
+derivatives: New possibilities in the treatment of psoriasis,” 
+
+
+Journal of the American Academy of Dermatology, April 1989 
+
+
+Vol. 20, Number 4, pg. 601-608 (Nieboer) 
+
+
+Exhibit 1003 U.S. Patent No. 5,681,588, titled “Delayed Release Microtablet 
+
+
+of β-Phenylpropiophenone Derivatives” to Kolter et al. (Kolter) 
+
+
+Exhibit 1004 Declaration of Dr. James E. Polli 
+
+
+Exhibit 1005 Prosecution history of the ‘393 patent as contained in the Image 
+
+
+File Wrapper on PAIR  
+
+
+Exhibit 1006 Assignment record of the ‘393 patent as contained in USPTO’s 
+
+
+Assignments on The Web at 
+
+
+http://assignment.uspto.gov/#/search?adv=patNum%3A875939
+
+
+3&q=&sort=patAssignorEarliestExDate%20desc%2C%20id%2
+
+
+0desc&synonyms=false    
+
+
+Exhibit 1007 Julian H. Fincher, Dictionary of Pharmacy, University of South 
+
+
+Carolina Press, 1986
+v 
+ 
+
+
+Exhibit 1008 PubChem entry for Dimethyl Fumarate, U.S. National Library 
+
+
+of Medicine, National Center for Biotechnology Information, 
+
+
+the National Institute of Health at 
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/637568  
+
+
+Exhibit 1009 Dean E. Snyder, The Interpharm International Dictionary of 
+
+
+Biotechnology and Pharmaceutical Manufacturing, Interpharm 
+
+
+Press, Inc., 1992  
+
+
+Exhibit 1010 Friedrick Moll et al., Biodegradable Microtablets Made of Low 
+
+
+Molecular Weight Polyglycolic Acid, 1991 
+
+
+Exhibit 1011 Unassigned 
+
+
+Exhibit 1012 Curriculum Vitae of Dr. James E. Polli 
+
+
+Exhibit 1013 Nieboer et al., “Fumaric Acid Therapy in Psoriasis: A Double-
+
+
+Blind Comparison between Fumaric Acid Compound Therapy 
+
+
+and Monotherapy with Dimethylfumaric Acid Ester” 
+
+
+Dermatologica 1990; 181:33- 37 
+
+
+Exhibit 1014 Kokelj et al., “Fumaric Acid and Its Derivatives in the Treatment 
+
+
+of Psoriasis Vulgaris: Our Experience in Forty-One Patients”, 
+
+
+Acta Dermatovenerol Croat, 2009; 17(3):170-175 
+
+
+Exhibit 1015 FDA News Release, “FDA approves new multiple sclerosis 
+
+
+treatment: Tecfidera”, available at
+vi 
+ 
+
+
+http://www.fda.gov/NewsEvents/Newsroom/PressAnnounceme
+
+
+nts/ucm345528.htm 
+
+
+Exhibit 1016 Follonier et al., “Various ways of modulating the release of  
+
+
+   diltiazem hydrochloride from hot-melt extruded sustained  
+
+
+   release pellets prepared using polymeric materials.”,  Journal of 
+
+
+   Controlled Release 36 (1995) 243-250 
+
+
+Exhibit 1017 Conine et al., “Special Tablets”, Pharmaceutical Dosage Forms, 
+
+
+   Marcel Dekker, Inc., 1989, 329-366
+1 
+ 
+
+
+I.  INTRODUCTION 
+
+
+ The ‘393 patent, entitled “Utilization of Dialkylfumarates” and filed on 
+
+
+March 4, 2011 is a continuation of application no. 12/405,665 (now US 7,915,310) 
+
+
+filed on March 17, 2009, which is a continuation of application no. 11/765,578 
+
+
+(now US 7,619,001) filed on June 20, 2007, which is a continuation of application 
+
+
+no. 10/197,077 (now US 7,320,999) filed on July 17, 2002 which is a division of 
+
+
+application no. 09/831,620 (now US 6,509,376) filed on May 10, 2001 which is the 
+
+
+National Stage Entry of PCT/EP99/08215 filed on October 29, 1999 and published 
+
+
+in German on June 2, 2000, which claims priority to German application no. 
+
+
+19853487 filed on November 19, 1998. (Ex. 1005).  The ‘393 patent was originally 
+
+
+assigned to Fumapharm AG. Fumapharm AG was acquired by Biogen IDEC 
+
+
+International AG in 2006 and the ‘393 patent was assigned to Biogen IDEC 
+
+
+International AG on May 15, 2007. (Ex. 1006). Biogen IDEC International AG 
+
+
+changed its name to Biogen IDEC International GMBH on May 15, 2007. (Ex. 
+
+
+1006). 
+
+
+ In accordance with 35 U.S.C. §§ 311-319 and 37 C.F.R. §§ 42.1-.80 & 
+
+
+42.100-123, inter partes review is respectfully requested for claims 1-13 of U.S. 
+
+
+Patent No. 8,759,393 to Joshi et al., titled “Utilization of Dialkylfumarates” (‘393 
+
+
+patent) (Ex. 1001).  This petition demonstrates that there is a reasonable likelihood 
+
+
+that the petitioner will prevail on at least one of the claims challenged in the
+2 
+ 
+
+
+petition based on one or more prior art references. For the reasons provided herein, 
+
+
+claims 1-13 of the ‘393 patent should be canceled as unpatentable. 
+
+
+II. MANDATORY NOTICES 
+
+
+A. Real Party-In-Interest 37 C.F.R. § 42.8(b)(1) 
+
+
+ Pursuant to 37 C.F.R. § 42.8(b)(1), Petitioner certifies that Coalition For 
+
+
+Affordable Drugs V LLC (“CFAD”), Hayman Credes Master Fund, L.P. 
+
+
+(“Credes”), Hayman Orange Fund SPC – Portfolio A (“HOF”), Hayman Capital 
+
+
+Master Fund, L.P. (“HCMF”), Hayman Capital Management, L.P. (“HCM”), 
+
+
+Hayman Offshore Management, Inc. (“HOM”), Hayman Investments, L.L.C. 
+
+
+(“HI”), nXn Partners, LLC (“nXnP”), IP Navigation Group, LLC (“IPNav”), J 
+
+
+Kyle Bass, and Erich Spangenberg are the real parties in interest (collectively, 
+
+
+“RPI”). The RPI hereby certify the following information: CFAD is a wholly 
+
+
+owned subsidiary of Credes. Credes is a limited partnership. HOF is a segregated 
+
+
+portfolio company.  HCMF is a limited partnership. HCM is the general partner 
+
+
+and investment manager of Credes and HCMF. HCM is the investment manager of 
+
+
+HOF.  HOM is the administrative general partner of Credes and HCMF. HI is the 
+
+
+general partner of HCM. J Kyle Bass is the sole member of HI and sole 
+
+
+shareholder of HOM. CFAD, Credes, HOF and HCMF act, directly or indirectly, 
+
+
+through HCM as the general partner and/or investment manager of Credes, HOF 
+
+
+and HCMF. nXnP is a paid consultant to HCM. Erich Spangenberg is 98.5%
+3 
+ 
+
+
+member of nXnP. IPNav is a paid consultant to nXnP. Erich Spangenberg is the 
+
+
+98.5% member of IPNav. Other than HCM and J Kyle Bass in his capacity as the 
+
+
+Chief Investment Officer of HCM and nXnP and Erich Spangenberg in his 
+
+
+capacity as the Manager/CEO of nXnP, no other person (including any investor, 
+
+
+limited partner, or member or any other person in any of CFAD, Credes, HOF, 
+
+
+HCMF, HCM, HOM, HI, nXnP or IPNav) has authority to direct or control (i) the 
+
+
+timing of, filing of, content of, or any decisions or other activities relating to this 
+
+
+Petition or (ii) any timing, future filings, content of, or any decisions or other 
+
+
+activities relating to the future proceedings related to this Petition. All of the costs 
+
+
+associated with this Petition will be borne by HCM, CFAD, Credes, HOF and/or 
+
+
+HCMF. 
+
+
+B.   Related Matters 37 C.F.R. § 42.8(b)(2) 
+
+
+To the best of Petitioner’s knowledge, there are no pending litigations or 
+
+
+other related matters related to the ‘393 patent that would affect, or be affected by, 
+
+
+a decision in this proceeding.  
+
+
+C. Designation of Lead and Backup Counsel 37 C.F.R. § 42.8(b)(3) 
+
+
+ Pursuant to 37 C.F.R. §§ 42.8(b)(3) and 42.10(a), Petitioner hereby 
+
+
+identifies its lead and backup counsel as shown below. A Power of Attorney is 
+
+
+being filed concurrently herewith in accordance with 37 C.F.R. § 42.10(b).
+4 
+ 
+
+
+Lead Counsel for Petitioner Backup Counsel for Petitioner 
+Robert W. Hahl, Reg. No. 33,893 
+Neifeld IP Law, PC, 4813-B 
+Eisenhower Avenue, Alexandria, VA 
+22304 
+Tel: 1-703-415-0012 Ext. 103 
+Fax: 1-703-415-0013 
+Email: rhahl@neifeld.com    
+ 
+
+
+Robert Mihail, Reg. No. 66,021  
+Neifeld IP Law, PC, 4813-B 
+Eisenhower Avenue, Alexandria, VA 
+22304 
+Tel: 1-703-415-0012 Ext. 107 
+Fax: 1-703-415-0013 
+Email: rmihail@neifeld.com   
+ 
+
+
+
+
+
+D. Notice of Service Information (37 C.F.R. § 42.8(b)(4)) 
+
+
+Please direct all correspondence to counsel at the above address. Petitioner 
+
+
+consents to email service at: rhahl@neifeld.com; and rmihail@neifeld.com. 
+
+
+III. FEES 37 C.F.R. § 42.15(a) 
+
+
+ Petitioner authorizes the Director to charge the fee specified by 37 C.F.R. § 
+
+
+42.15(a) and any additional fees associated with this Petition to Deposit Account 
+
+
+No. 50-2106. 
+
+
+IV. REQUIREMENTS UNDER 37 C.F.R. § 42.104 
+
+
+A. Grounds for Standing 37 C.F.R. § 42.104(a) 
+
+
+In accordance with 37 C.F.R. § 42.104(a), Petitioner certifies that the 
+
+
+‘393 patent is available for inter partes review.  Petitioner further certifies that 
+
+
+Petitioner is not barred or estopped from requesting an inter partes review 
+
+
+challenging the ‘393 patent on the grounds identified in this Petition. 
+
+
+B. Identification of Challenge and Precise Relief Requested 37 C.F.R. 
+
+
+§ 42.104(b)
+5 
+ 
+
+
+1. Patents and Printed Publications 37 C.F.R. 42.104(b)(2) 
+ 
+
+
+Petitioner relies on the following patents and printed publications to support 
+
+
+its grounds of challenge to claims 1-13 of the ‘393 patent in this Petition: 
+
+
+1. Nieboer, D. de Hoop, A.C. van Loenen, P.N.J. Langendijk, and E. van Dijk, 
+
+
+“Systemic therapy with fumaric acid derivatives: New possibilities in the 
+
+
+treatment of psoriasis”, Journal of the American Academy of Dermatology, 
+
+
+April 1989 (Nieboer). Ex. 1002. Nieboer is a printed publication at least under 
+
+
+35 U.S.C. § 102(b) (pre-AIA) because it was published, catalogued, and 
+
+
+shelved at least as early as April 3, 1989, as can be seen on the University of 
+
+
+Wisconsin library intake stamp, more than one year prior to November 19, 
+
+
+1998, the earliest effective filing date for the claims of the ‘393 patent. 
+
+
+2. U.S. Patent No. 5,681,588, titled “Delayed Release Microtablet of β-
+
+
+Phenylpropiophenone Derivatives” to Kolter et al. (Kolter). Ex. 1003. Kolter is 
+
+
+a patent at least under 35 U.S.C. § 102(b) (pre-AIA) because it was published 
+
+
+more than one year prior to November 19, 1998, the earliest effective filing date 
+
+
+for the claims of the ‘393 patent. 
+
+
+2. Specific Statutory Grounds for Challenge 42.104(b)(2) 
+
+
+ Petitioner challenges claims 1-13 (the challenged claims) of the ‘393 patent 
+
+
+on the following grounds:
+6 
+ 
+
+
+ Ground 1: Claims 1, 2, and 8 are unpatentable under 35 U.S.C. § 102(b) as 
+
+
+anticipated by Nieboer. 
+
+
+ Ground 2: Claims 1-13 are unpatentable under 35 U.S.C. § 103 as obvious 
+
+
+over Nieboer in view of Kolter. 
+
+
+ None of these grounds is redundant.  Challenged claims 1, 2, and 8 are 
+
+
+challenged in Ground 1 by a single reference and in Ground 2 by a combination of 
+
+
+references. 
+
+
+ This Petition, supported by the Declaration of Dr. James Polli (Ex 1004) 
+
+
+filed with this Petition, demonstrates that there is a reasonable likelihood that 
+
+
+Petitioner will prevail with respect to at least one of the challenged claims and that 
+
+
+each of the challenged claims is unpatentable for the reasons cited in this Petition. 
+
+
+See 35 U.S.C. § 314(a). 
+
+
+In accordance with 37 C.F.R. § 42.22, Petitioner respectfully requests 
+
+
+cancellation of claims 1-13 of the ‘393 patent. 
+
+
+V. UNPATENTABILITY OF THE ’393 PATENT 
+
+
+A. Brief History of dimethyl fumarate therapy 
+
+
+ Since at least 1969, fumaric acid was reported to have been a popular 
+
+
+treatment for psoriasis.  Ex. 1002, Abstract.  In 1966, Schweckendiek, a biochemist 
+
+
+who himself had psoriasis, introduced fumaric acid esters such as 
+
+
+monoethylfumaric ester (MEFAE) and dimethylfumaric ester (DMFAE) as a
+7 
+ 
+
+
+treatment because fumaric acid was poorly absorbed by the gastrointestinal tract.  
+
+
+Ex.  1002, p601, 2:2-7.  Fumaderm, a closely related product to the claimed 
+
+
+invention, comprises a combination of dimethyl fumarate1 with other fumaric acid 
+
+
+esters and was approved in Germany in 1994 for the treatment of psoriasis.  See 
+
+
+Ex. 1014, Summary and p173, 2:12-16.  However, several years prior to the 
+
+
+approval of Fumaderm, dimethyl fumarate monotherapies were being conducted.  
+
+
+Nieboer et al. found dimethyl fumarate given as enteric coated (EC) tablets given 
+
+
+orally were effective for treating psoriasis (Ex. 1013, Abstract and p34, 1:1-9, 
+
+
+narrative following Table I), concluding that “[i]n summary one could state that the 
+
+
+treatment of psoriasis with FAC-EC (fumaric acid combination – enteric coated) 
+
+
+does not result in a better therapeutic result compared to DMFAE-EC 
+
+
+(dimethylyfumaric acid ester – enteric coated) monotherapy.” Ex. 1013, p37, 1:1-3. 
+
+
+In March of 2013, the FDA approved the use of dimethyl fumarate monotherapy 
+
+
+for the treatment of multiple sclerosis in the United States. Ex. 1015, p1.  
+
+
+                                           
+1 As Dr. Polli attests and as supported by Ex. 1008, dimethyl fumarate may be 
+
+
+referred to by any of several common, interchangeable names including dimethyl 
+
+
+fumaric acid; DMF; fumaric acid dimethyl ester; dimethylfumaric acid ester; 
+
+
+DMFAE; as well as the IUPAC designation of dimethyl (E)-but-2-enedioate.  Ex. 
+
+
+1004, ¶20.
+8 
+ 
+
+
+B. Prosecution History of the ‘393 Patent 
+
+
+ The ‘393 patent was filed on March 4, 2011 and claims priority to German 
+
+
+application no. 19853487 filed on November 19, 1998.  The prosecution history 
+
+
+shows that applicant used the terms “tablets”, “micro-tablets”, “pellets”, and 
+
+
+“granulates” without patentable distinction.  Initially submitted claims 6 and 16 
+
+
+refer to the active ingredient being formulated in the form of “tablets, micro-
+
+
+tablets, pellets or granulates, optionally in capsules or sachets” and “tablets, micro-
+
+
+tablets, pellets in capsules or sachets”, respectively.  Ex. 1005, p 585-86. On July 
+
+
+22, 2011, Applicant submitted a preliminary amendment cancelling all the claims 
+
+
+and submitting 13 new claims. Ex. 1005, pp542-43.  The new claims recite only 
+
+
+the term “micro-tablets.” 
+
+
+On November 26, 2012, an Office Action was issued rejecting the newly 
+
+
+added claims on four separate grounds of nonstatutory obviousness-type double 
+
+
+patenting over certain claims of U.S. Patent No. 6,277,882 (microtablets 
+
+
+comprising one alkyl hydrogen fumarate and optionally in admixture with dialkyl 
+
+
+fumarate) to Joshi et al. and assigned to Fumapharm AG; U.S. Patent No. 
+
+
+6,335,676 [sic] (microtablets comprising one alkyl hydrogen fumarate and
+9 
+ 
+
+
+optionally in admixture with dialkyl fumarate)2, U.S. Patent No. 6,509,376 
+
+
+(microtablets comprising one alkyl hydrogen fumarate and optionally in admixture 
+
+
+with dialkyl fumarate) to Joshi et al. and assigned to Fumapharm AG; and U.S. 
+
+
+Patent No. 7,915,310 (microtablets with dimethyl fumarate as the active ingredient 
+
+
+in dosage ranges from 10mg to 300mg) to Joshi et al. and assigned to Biogen Idec 
+
+
+International GmbH.  Ex. 1005, p124-33.  
+
+
+In response to the Office Action of November 26, 2012, Applicant agreed to 
+
+
+submit terminal disclaimers over the ‘376 and the ‘310 patents and requested 
+
+
+reconsideration of the grounds for rejection over the ‘882 and ‘676 patents. Ex. 
+
+
+1005, p103-10.  In the Office Action of April 26, 2013 the rejections over the ‘376 
+
+
+and the ‘310 patents were maintained by the USPTO while the rejections over the 
+
+
+‘882 and the ‘676 patents were withdrawn in view of the of Applicant’s previous 
+
+
+response.  Ex. 1005, p94-100.  On October 16, 2013 terminal disclaimers were 
+
+
+filed over the ‘376 and the ‘310 patents.  Ex. 1005, p85-86. On February 14, 2014, 
+
+
+                                           
+2 The patent number is in error because U.S. Patent No. 6,335,676 is entitled 
+
+
+“Radio selective call receiver”. The correct patent number should be U.S. Patent 
+
+
+No. 6,355,676 as evidenced in Footnote 1 of Applicant’s Remarks filed on 
+
+
+February 26, 2013 in response to the Office Action issued on November 26, 2012.  
+
+
+Ex. 1005, p106.
+10 
+ 
+
+
+a notice of allowance was issued and the ‘393 patent was granted on June 24, 2014.  
+
+
+Ex. 1005, p15-17.  The Examiner never entered a substantive rejection against any 
+
+
+of the pending claims nor was any prior art cited against the claims by the 
+
+
+Examiner during prosecution of the ‘393 patent in any Office Action.  Ex. 1005. 
+
+
+The Examiner issued ‘393 patent claims 1-13 that only claim a 
+
+
+pharmaceutical preparation in the form of “microtablets” containing the active 
+
+
+pharmaceutical ingredient, dimethyl fumarate.  Ex. 1001, 8:21-57.  The ‘393 patent 
+
+
+claims do not claim a method of making the active pharmaceutical ingredient, but 
+
+
+instead only claim the pharmaceutical preparation.  The ‘393 patent claims do not 
+
+
+claim a method of use of the active pharmaceutical.  More importantly, the ‘393 
+
+
+patent claims do not claim to a method of making the preparation, generally, nor to 
+
+
+a method of making microtablets specifically.   
+
+
+C. Person of Ordinary Skill in the Art 
+
+
+ The level of skill in the art at the time of the alleged invention may be 
+
+
+derived from a review of the relevant prior art.  Petitioner submits an expert 
+
+
+declaration from Dr. Polli, Professor of Pharmaceutical Sciences and Ralph F. 
+
+
+Shangraw/Noxell Endowed Chair in Industrial Pharmacy and Pharmaceutics at the 
+
+
+University Of Maryland School Of Pharmacy.  (Ex. 1004)  Dr. Polli attests that a 
+
+
+person of ordinary skill in the art (POSITA) at the time of the alleged invention of 
+
+
+the ‘393 patent would have held a Ph.D. in industrial pharmacy, pharmaceutics or
+11 
+ 
+
+
+pharmaceutical sciences or a related discipline, or a Pharm D degree; additionally 
+
+
+he or she would have had at least 3 years of experience with pharmaceutical 
+
+
+preparation and formulation of orally administered medicines.  Ex. 1004, ¶11.  
+
+
+D. Claim Construction 
+
+
+ The claims in an inter partes review should be accorded the broadest 
+
+
+reasonable construction, as commonly understood by those of ordinary skill in the 
+
+
+art in light of the specification of the patent in which it appears.  See 37 C.F.R. § 
+
+
+42.100(b).  The Federal Circuit has recently affirmed the broadest reasonable 
+
+
+interpretation standard.  See In re Cuozzo Speed Technologies, LLC 2014-1301, 16 
+
+
+(Fed. Cir. 2015) (stating “We conclude that Congress implicitly adopted the 
+
+
+broadest reasonable interpretation standard in enacting the AIA.”).  Petitioner 
+
+
+contends that all of the terms in the challenged claims should be given their plain 
+
+
+and ordinary meaning. 
+
+
+ “Microtablets” 
+
+
+ The term “microtablets” or “micro-tablets” is used throughout the ‘393 
+
+
+patent, including in: 
+
+
+ the abstract of the ‘393 patent, “[t]he present invention relates to the use of 
+
+
+certain dialkyl fumarates for the preparation of pharmaceutical preparations…in 
+
+
+the micro-tablets”;
+12 
+ 
+
+
+ “certain dialkyl fumarates for preparing pharmaceutical preparations…in the 
+
+
+form of micro-tablets and micro-pellets containing these dialkyl fumarates.”  Ex. 
+
+
+1001, 3:1-6. 
+
+
+ “Preparations in the form of micro-tablets or pellets, optionally filled in 
+
+
+capsules or sachets are preferred” Ex. 1001, 4:26-28; 
+
+
+ “According to a preferred embodiment, the size or the mean diameter, 
+
+
+respectively, of the pellets or micro-tablets is in the range from 300 to 2,000 µm” 
+
+
+Ex. 1001, 4:41-43; 
+
+
+ “In addition to the preparations for peroral administration in the form of 
+
+
+micro-pellets, micro-tablets, capsules” Ex. 1001, 4:54-55;  
+
+
+ “This means that enteric-coated micro-tablets in the same dosage are 
+
+
+distributed already in the stomach and passed to the intestine in portions” Ex. 1001, 
+
+
+5:41-42; and other locations in the ‘393 patent.  
+
+
+ Dr. Polli explains that the claimed term, “microtablets”, is not defined in the 
+
+
+‘393 patent.  Ex. 1004, ¶25.  Moreover, a POSITA would have understood that the 
+
+
+term, “microtablets”, does not carry a special meaning in the pharmaceutical arts.  
+
+
+Id.  Rather, the broadest reasonable interpretation of the term, “microtablets”, in 
+
+
+light of the ‘393 patent specification, is simply any oral solid pharmaceutical 
+
+
+preparation forms small enough to be filled into capsules.  Id.
+13 
+ 
+
+
+Dr. Polli attests that the ‘393 patent not only does not provide a definition 
+
+
+for the term “microtablets,” but in fact uses the terms “granulates”, “pellets”, 
+
+
+“micro-pellets”, “tablets”, and “micro-tablets” interchangeably and without any 
+
+
+distinction.  Ex. 1004, ¶26.  First, the ‘393 patent does not disclose that the 
+
+
+function of “granulates”, “pellets”, “micro-pellets”, “tablets” and “micro-tablets” 
+
+
+differs in any way.  The ‘393 patent discloses that “granulates”, “pellets”, “micro-
+
+
+pellets”, “tablets” and “micro-tablets” are  suitable pharmaceutical preparations for 
+
+
+the invention citing Ex. 1001, 4:54-59.  Id.  The ‘393 patent states that the object of 
+
+
+the invention is to use “certain dialkyl fumarates for preparing pharmaceutical 
+
+
+preparations…in the form of micro-tablets and micro-pellets containing these 
+
+
+dialkyl fumarates.” citing Ex. 1001, 3:1-6.  Id.  The ‘393 patent also states: 
+
+
+“Preferably, the active ingredients are used for preparing oral preparations in the 
+
+
+form of tablets, micro-tablets, pellets or granulates, optionally filled in capsules or 
+
+
+sachets….” citing Ex. 1001, 4:25-26.  Id.  Also, the ‘393 patent states: “In addition 
+
+
+to the preparations for peroral administration in the form of micro-pellets, micro-
+
+
+tablets, capsules (such as soft and hard gelatin capsules), granulates and tablets 
+
+
+cited above, ….Pharmaceutical preparations in the form of micro-tablets or micro-
+
+
+pellets are preferred for the therapy of all autoimmune diseases mentioned above”  
+
+
+citing Ex. 1001, 4:54-65.  Id.  In sum, Dr. Polli attests that the ‘393 patent discloses 
+
+
+that “granulates”, “pellets”, “micro-pellets”, “tablets” and “micro-tablets” do not
+14 
+ 
+
+
+differ in function because they are all suitable pharmaceutical preparations for the 
+
+
+invention.  Id. 
+
+
+Second, Dr. Polli attests that the ‘393 patent does not define that 
+
+
+“granulates”, “pellets”, “micro-pellets”, “tablets” and “micro-tablets” have any 
+
+
+difference in size.  Ex. 1004, ¶27.  The only mention of size in the description 
+
+
+section of the ‘393 patent is in column 4:41-44.  Id.  Dr. Polli points out that ‘393 
+
+
+patent states in column 4:41-44: “According to a preferred embodiment, the size or 
+
+
+mean diameter, respectively, of the pellets or micro-tablets is in the range from 300 
+
+
+to 2,000 µm ….”  Id.  This would have indicated to a POSITA that the “pellets” 
+
+
+and “micro-tablets” can have the same size, since they may take any size within the 
+
+
+range of 300 to 2,000µm.  Id.  In Examples 1-4, the ‘393 patent does not disclose 
+
+
+that “granulates”, “pellets”, “micro-pellets”, “tablets”  and “micro-tablets” have 
+
+
+any distinction in size.  Id.  Example 1 is titled, “Preparation of Enteric-Coated 
+
+
+Micro-Tablets in Capsules”, but refers to the preparation as containing 
+
+
+“granulates”, “tablets” and “micro-tablets” that are enteric coated that are filled 
+
+
+into capsules citing Ex. 1001, 6:3-47.  Id.  Example 1 of the ‘393 patent does not 
+
+
+disclose that that there is a difference in size between granulates, micro-tablets, or 
+
+
+tablets.  Id.  Example 2 is titled, “Preparation of Enteric-Coated Micro-Tablets in 
+
+
+Capsules”, but refers to the preparation as containing tablets or micro-tablets that 
+
+
+are enteric coated then filled into capsules citing Ex. 1001, 6:48-7:7.  Id.  Example
+15 
+ 
+
+
+2 of the ‘393 patent discloses that the tablets and the enteric coated micro-tablets 
+
+
+that are filled into capsules are 2 mm in diameter, and thereby teaches that the size 
+
+
+of the tablets and micro-tablets are the same citing Ex. 1001, 6:64-7:7.  Id.  
+
+
+Example 3 is titled, “Preparation of Micro-Pellets in Capsules”, but refers to the 
+
+
+preparation as being pellets or micro-pellets that are coated with Kollidon K-30 are 
+
+
+that filled into capsules citing Ex. 1001, 7:8-25.  Id.  Example 3 of the ‘393 patent 
+
+
+does not disclose that there is a difference in size between the pellets and micro-
+
+
+pellets citing Ex. 1001, 6:64-7:7.  Id.  Example 4 describes granulates filled into 
+
+
+enteric coated capsules citing Ex. 1001, 7:26-53.  Id.  In Dr. Polli’s opinion, a 
+
+
+POSITA would find that Examples 1-4 in the ‘393 patent show that “granulates”, 
+
+
+“pellets”, “micro-pellets”, “tablets” and “micro-tablets” do not differ in size.  Id. 
+
+
+ Third, Dr. Polli attests that the ‘393 patent specification uses the terms 
+
+
+“granulates”, “pellets”, “micro-pellets”, “tablet” and “micro-tablet” 
+
+
+interchangeably.  Ex. 1004, ¶28.  Dr. Polli points out that the ‘393 patent states: 
+
+
+“The present invention relates to the use of dialkyl fumarates for preparing 
+
+
+pharmaceutical preparations for use in transplantation medicine or the therapy of 
+
+
+autoimmune diseases and pharmaceutical preparations in the form of micro-tablets 
+
+
+or micro-pellets containing dialkyl fumarates” citing Ex. 1001, 1:15-19.  Id.  By 
+
+
+this statement, the ‘393 patent acknowledges that micro-tablets and micro-pellets 
+
+
+are interchangeable terms having the same meaning.  Id.  The ‘393 patent
+16 
+ 
+
+
+Examples 1-4 use the terms “granulates”, “pellets”, “micro-pellets”, “tablets” and 
+
+
+“micro-tablets” interchangeably.  Id.  Example 1 uses the terms “micro-tablet” and 
+
+
+tablet interchangeably.  Id.  The title of Example 1 refers to “Preparation of 
+
+
+Enteric-Coated Micro-Tablets in Capsules…”, while the protocol itself uses 
+
+
+granulates, tablets, and micro-tablets interchangeably citing Ex. 1001, 6:3-47.  Id.  
+
+
+Example 2 uses the terms “tablet” and “micro-tablet” interchangeably.  Id.  The 
+
+
+title of Example 2 refers to “Preparation of Enteric-Coated Micro-Tablets in 
+
+
+Capsules…” while the protocol itself describes making enteric coated “tablets” 
+
+
+citing Ex. 1001, 6:48-7:7.  Id.  Example 3 uses the terms “pellets” and “micro-
+
+
+pellets” interchangeably.  Id.  The title of Example 3 refers to “Preparation of 
+
+
+Micro-Pellets in Capsules...,” while the protocol itself uses the word “pellets” four 
+
+
+times, ending with: “After that, the pellets are filled into hard gelatine capsules 
+
+
+(126.5 mg pellets/capsule)” citing Ex. 1001, 7:8-25.  Id.  Example 4 uses the term 
+
+
+“granulates” filled into a capsule.  Id.  Example 4 describes making a powder 
+
+
+mixture that is “processed into a granulate in the customary manner” and “filled 
+
+
+into suitable capsules” and “may also be filled into suitable enteric-coated 
+
+
+capsules” citing Ex. 1001, 7:26-53.  Id.  In Dr. Polli’s opinion, a POSITA would 
+
+
+find that the ‘393 patent’s usage of the terms “granulates”, “pellets”, “micro-
+
+
+pellets”, “tablets” and “micro-tablets” indicate that  these are interchangeable terms 
+
+
+that mean the same thing.  Id.
+17 
+ 
+
+
+Fourth Dr. Polli attests that the ‘393 patent  does not disclose that 
+
+
+“granulates”, “pellets”, “micro-pellets” and “micro-tablets” have any distinction as 
+
+
+to how they are made. Ex. 1004, ¶29.  Moreover, Dr. Polli attests that the ‘393 
+
+
+patent does not teach that the micro-tablet has to be made in any particular way.  
+
+
+Id.  The ‘393 patent discloses that “the tablets or micro-pellet is made in classical 
+
+
+tableting processes” citing Ex. 1001, 5:60-61. Id.  Also, Dr. Polli points out that the 
+
+
+‘393 patents discloses “[i]nstead of such classical tableting processes, other 
+
+
+methods for the preparation of tablets may be used, such as direct tableting and 
+
+
+processes for preparing solid dispersions in according with the melt method and 
+
+
+the spray drying method” citing Ex. 1001, 5:61-65.  Id.  Dr. Polli attests that in 
+
+
+Examples 1 and 2, the ‘393 patent discloses that the “tablets” are made via 
+
+
+compression citing Ex. 1001, 6:25-64.  Id.  Dr. Polli attests that in Example 3, the 
+
+
+‘393 patent discloses that the “Micro-Pellets” are made via spraying onto 
+
+
+nonpareilles “pellets” citing Ex. 1001, 7:10-18.  Id.  Dr. Polli attests that in 
+
+
+Example 4, the ‘393 patent discloses that granulates are made via wet granulation 
+
+
+citing Ex. 1001, 7:42.  Id.  Dr. Polli attests that, moreover, a POSITA would have 
+
+
+known that classical tableting making processes for the ‘393 patent “granulates”, 
+
+
+“pellets”, “micro-pellets” and “micro-tablets” would not only include compression 
+
+
+and spraying but, also for example, hot-melt extrusion (see Ex 1016), and tablet 
+
+
+molding methods where a wet mortar mix is molded into tablets and then dried
+18 
+ 
+
+
+(see Ex. 1017, p336-339).  Id.  In sum, the ‘393 patent claim term, “micro-tablets” 
+
+
+does not require a particular tablet making process. Id. 
+
+
+Dr. Polli attests that the ‘393 patent’s method of making microtablets is 
+
+
+consistent with prior art tablet making processes.  Ex. 1004, ¶30.  For example, 
+
+
+microtablets are well known to be made via wet granulation (such as in ‘393 
+
+
+patent’s Example 4) or dry granulation.  Id.  Spray drying (such as ‘393 patent’s 
+
+
+example 3) is a classic method to make microtablets.  Id.  Microtablets can be 
+
+
+made via compression (such as ‘393 patent’s Examples 1 and 2) or via a melt, as 
+
+
+performed by Moll.  Ex. 1010, p940.  Id.  A POSITA would have known that 
+
+
+microtablets can also be manufactured via molding (i.e. to make molded tablets), 
+
+
+as described by Conine et al. (see Ex. 1017, p336-339) or can also be manufactured 
+
+
+via hot-melt extrusion, as performed by Follonier.  Ex. 1016.  Id. 
+
+
+Fifth, Dr. Polli attests that the ‘393 patent claims do not recite a distinction 
+
+
+between the terms, “granulate”, “pellets”, “micro-pellets”, “tablets” and “micro-
+
+
+tablets.”  Ex. 1004, ¶31.  The ‘393 patent claims 1-13 only use the term 
+
+
+“microtablets”. Id.   
+
+
+Independent claims 1 and 8 do not limit the size of the claimed microtablets. 
+
+
+Claim 3, depending on claim 1, recites a mean diameter size in the range of 300 
+
+
+µm to 2,000 µm exclusive of any coating on the microtablets.  Claim 4, ultimately 
+
+
+depending on claim 1, recites the mean diameter of the microtablets is about 2,000
+19 
+ 
+
+
+µm, exclusive of any coating on the microtablets.  Claim 9, depending on 
+
+
+independent claim 8, recites microtablets having a core size of mean diameter 
+
+
+about 2,000 µm, exclusive of any coating on the microtablets.  Thus, based on the 
+
+
+doctrine of claim differentiation, the size of microtablets as recited in claims 1 and 
+
+
+8 is not limited.  Because the size of “microtablets” as recited in claims 1 and 8  is 
+
+
+not limited, Dr. Polli attests that the claim term microtablets encompasses 
+
+
+“granulates”, “pellets”, “micro-pellets”, “tablets” and “micro-tablets” even if 
+
+
+arguably there could be a size difference.  Id. 
+
+
+Claim 13 likewise recites “a mean diameter of the microtablets is about 
+
+
+2,000 µm, exclusive of any coating on the microtablets.” In Dr. Polli’s  opinion the 
+
+
+term microtablets does not require any particular size, therefore “microtablets” in 
+
+
+claim 13 encompasses “granulates”, “pellets”, “micro-pellets”, “tablets” and 
+
+
+“micro-tablets” even if arguably there could be a size difference between these 
+
+
+forms.  Ex. 1004, ¶31.1 
+
+
+Independent claims 1 and 8 do not limit the amount of the dimethyl fumarate 
+
+
+in the preparation.  Claim 5, ultimately depending on claim 1, recites that the 
+
+
+preparation contains 10 mg to 300 mg of dimethyl fumarate.  Claim 10, ultimately 
+
+
+depending on claim 8, recites that the preparation contains 10 mg to 300 mg of 
+
+
+dimethyl fumarate.  The amount of dimethyl fumarate as recited in claim 1 and 8 
+
+
+therefore covers any amounts of dimethyl fumarate.  Based upon claim
+20 
+ 
+
+
+differentiation, the term “microtablets” as recited in claims 1 and 8 does not 
+
+
+require any specific amount of dimethyl fumarate.  Dr. Polli attests that the term 
+
+
+“microtablets” encompasses “granulates”, “pellets”, “micro-pellets”, “tablets” and 
+
+
+“micro-tablets” even if arguably there could be a dosing difference between these 
+
+
+forms.  Ex. 1004, ¶31.2. 
+
+
+Claim 13 likewise recites that the preparation contains 10 mg to 300 mg of 
+
+
+dimethyl fumarate.  Because claim 13 limits the dosage amount with this additional 
+
+
+limitation, the term “microtablets” alone in claim 13 does not require any specific 
+
+
+amount of dimethyl fumarate.  Dr. Polli attests that because the term 
+
+
+“microtablets” does not alone limit the claim to any specific amount of dimethyl 
+
+
+fumarate, “microtablets” encompasses “granulates”, “pellets”, “micro-pellets”, 
+
+
+“tablets” and “micro-tablets” even if arguably there could be a dosing difference 
+
+
+between these forms.  Ex. 1004, ¶31.3. 
+
+
+ In sum, the ‘393 patent claim term “microtablets”, under the broadest 
+
+
+reasonable interpretation in light of the ‘393 specification, is any oral 
+
+
+pharmaceutical preparation form small enough to be filled into capsules.  Dr. Polli 
+
+
+attests that the ‘393 patent claim term “microtablets”, under the broadest 
+
+
+reasonable interpretation in light of the ‘393 specification, is any oral 
+
+
+pharmaceutical preparation form small enough to be filled into capsules.  Ex. 1004, 
+
+
+¶32.
+21 
+ 
+
+
+ “Carriers” 
+
+
+ The term “carriers” is used throughout the ‘393 patent, including in: 
+
+
+ “The dialkyl fumarates used according to the invention may be used alone or 
+
+
+as a mixture of several compounds, optionally in combination with the customary 
+
+
+carriers and excipients.” Ex. 1001, 4:32-35; and 
+
+
+ “13. A pharmaceutical preparation consisting essentially of an active 
+
+
+ingredient and one or more carriers and excipients,” Ex. 1001, 8:50-51. 
+
+
+ Dr. Polli explains in his declaration that the term “carriers” is not 
+
+
+specifically defined in the ‘393 patent.  Ex. 1004, ¶33.  However, a POSITA would 
+
+
+have looked at extrinsic evidence such as the Dictionary of Pharmacy for a 
+
+
+definition.  Id.  The term “carriers” is defined as “[a] vehicle used to transport a 
+
+
+drug to its site of absorption or use.” citing Ex. 1007, p4.  Id. 
+
+
+ Dr. Polli explains that examples of carriers as vehicles for the active 
+
+
+ingredient include capsules and enteric coatings. Ex. 1004, ¶34. The only mention 
+
+
+of the term “carrier” apart from Claim 13 appears as “[t]he dialkyl fumarates used 
+
+
+according to the invention may be used alone or as a mixture of several 
+
+
+compounds, optionally in combination with the customary carriers and excipients” 
+
+
+citing Ex. 1001,4:32-35.  Id.  
+
+
+ In sum, the term “carriers”, under the broadest reasonable interpretation, are 
+
+
+vehicles used to transport a drug to its site of absorption or use.   Ex. 1004, ¶35.
+22 
+ 
+
+
+ “Excipients” 
+
+
+ The term “excipients” or “excipient” is used throughout the ‘393 patent, 
+
+
+including in: 
+
+
+ “Then an excipient mixture with the following composition is prepared:” Ex. 
+
+
+1001, 6:14-15; 
+
+
+ “Then an excipient mixture composed as follows is prepared:” Ex. 1001, 
+
+
+6:57-58; and 
+
+
+ “13. A pharmaceutical preparation consisting essentially of an active 
+
+
+ingredient and one or more carriers and excipients,” Ex. 1001, 8:50-51. 
+
+
+ Dr. Polli explains in his declaration that the term “excipients” is not 
+
+
+specifically defined in the ‘393 patent. Ex. 1004, ¶36.  However, a POSITA would 
+
+
+have looked at extrinsic evidence such as the Dictionary of Pharmaceutical and 
+
+
+Pharmaceutical Manufacturing for a definition. The term “excipients” is defined as 
+
+
+“nondrug component of a pharmaceutical formulation; excipients include diluents, 
+
+
+binders and adhesives, fillers, disintegrants, lubricants, glidants and flow 
+
+
+promoters, colors, flavors and sweeteners” citing Ex 1009, p4. 
+
+
+ In sum, the term “excipients”, under the broadest reasonable interpretation, 
+
+
+are any nondrug component of a pharmaceutical formulation.  Ex. 1004, ¶37.    
+
+
+VI. DETAILED EXPLANATION OF THE CHALLENGES 
+
+
+A. Ground 1: Claims 1, 2, and 8 are anticipated by Nieboer
+23 
+ 
+
+
+ A patent claim is anticipated under 35 U.S.C. § 102 if "each limitation of a 
+
+
+claim is found in a single reference, either expressly or inherently."  Verdegaal 
+
+
+Bros. v. Union Oil Co. of California, 814 F.2d 628, 631 (Fed. Cir. 1987).  
+
+
+ Nieboer teaches every element of claims 1, 2, and 8. Together these claims 
+
+
+generally recite four elements: 1) a pharmaceutical preparation comprising 
+
+
+dimethyl fumarate; 2) dimethyl fumarate as an active ingredient; 3) a 
+
+
+pharmaceutical preparation in the form of microtablets; and 4) enteric coated 
+
+
+microtablets. Each of those elements is plainly taught by Nieboer. 
+
+
+Claim 1: “A pharmaceutical preparation, comprising dimethyl 
+fumarate wherein the pharmaceutical preparation is in the form 
+of microtablets.” 
+
+
+ 
+ The first element of claim 1 requires “a pharmaceutical preparation 
+
+
+comprising dimethyl fumarate”. Nieboer teaches a pharmaceutical preparation 
+
+
+comprising dimethyl fumarate. Nieboer discloses that “[t]he medication consisted 
+
+
+of capsules filled with 60 mg enteric-coated granulate of DMFAE (dimethyl 
+
+
+fumaric acid ester) or with placebo granulate to a maximum dosage of up to four 
+
+
+capsules a day.” Ex. 1002, p603, 2:35-38. Dr. Polli explains that DMFAE (or 
+
+
+dimethylfumaric acid ester) is simply another term for dimethyl fumarate. Ex. 
+
+
+1004, ¶¶ 20 and 38.  See also Ex. 1008, p1. 
+
+
+ The second element of claim 1 requires that “the pharmaceutical preparation 
+
+
+is in the form of “microtablets.” As shown above in Section V. D., the broadest
+24 
+ 
+
+
+reasonable interpretation of “microtablets” in light of the specification is any oral 
+
+
+pharmaceutical preparation form that can be filled into a capsule.  Nieboer’s 
+
+
+teaching of granulates that can be filled into capsules reads on “microtablets” as 
+
+
+recited in claim 1 of the ‘393 patent.  Nieboer teaches “capsules filled with 60 mg 
+
+
+enteric-coated granulate of DMFAE.”  Ex. 1002, p604, 1:2-4, narrative following 
+
+
+Table I.  The “granulates” of Nieboer are therefore within the scope of the ‘393 
+
+
+patent claim limitation “microtablets”. Ex. 1004, ¶39.   
+
+
+ In sum, Nieboer teaches a pharmaceutical preparation comprising dimethyl 
+
+
+fumarate, wherein the pharmaceutical preparation is in the form of microtablets.  
+
+
+Thus, Nieboer anticipates claim 1 of the ‘393 patent.  Ex. 1004, ¶40.   
+
+
+Claim 2: “The pharmaceutical preparation of claim 1, wherein 
+the microtablets are enteric coated” 
+
+
+ 
+ Claim 2 is dependent on claim 1 and therefore incorporates all its 
+
+
+limitations.  Claim 2 further requires that “the microtablets are enteric coated.” 
+
+
+Nieboer further discloses that “[t]he medication consisted of capsules filled with 60 
+
+
+mg enteric-coated granulate of DMFAE” Ex. 1002, p603, 2:35-38, emphasis 
+
+
+added.  In sum, Nieboer teaches the microtablets are enteric coated microtablets.  
+
+
+Thus, Nieboer anticipates claim 2 of the ‘393 patent.  Ex. 1004, ¶41.     
+
+
+Claim 8:  “A pharmaceutical preparation, comprising an active 
+ingredient, wherein the pharmaceutical preparation is in the form 
+of microtablets and the active ingredient consists of dimethyl 
+fumarate”
+25 
+ 
+
+
+ The first element of independent claim 8 requires “[a] pharmaceutical 
+
+
+preparation, comprising an active ingredient.” Nieboer teaches a pharmaceutical 
+
+
+preparation comprising an active ingredient.  Ex. 1004, ¶42.  Nieboer discloses that 
+
+
+“[t]he medication consisted of capsules filled with 60 mg enteric-coated granulate 
+
+
+of DMFAE….”  Ex. 1002, p603, 2:35-38.  Dr. Polli’s explains that Nieboer teaches 
+
+
+pharmaceutical preparations that contain an active ingredient.  Id. 
+
+
+ The second element of claim 8 requires that “the pharmaceutical preparation 
+
+
+is in the form of microtablets.”  As argued above in Section VI.A., the “granulates” 
+
+
+of Nieboer meets the ‘393 patent claim limitation of “microtablets”.  Ex. 1004, 
+
+
+¶43.   
+
+
+ The third element of claim 8 requires that “the active ingredient consists of 
+
+
+dimethyl fumarate.”  Nieboer discloses that “[t]he medication consisted of capsules 
+
+
+filled with 60 mg enteric-coated granulate of DMFAE….” Ex. 1002, p603, 2:35-
+
+
+38.  Dr. Polli explains that dimethylfumaric acid ester or DMFAE are simply other 
+
+
+terms for the active ingredient dimethyl fumarate. Ex. 1004, ¶44. See also Ex. 
+
+
+1008, p1. 
+
+
+ In sum, Nieboer teaches a pharmaceutical preparation comprising an active 
+
+
+ingredient, wherein the preparation form is microtablets and the active ingredient 
+
+
+consists of dimethyl fumarate.  Thus, Nieboer anticipates claim 8 of the ‘393 
+
+
+patent.  Ex. 1004, ¶45.
+26 
+ 
+
+
+B. Ground 2: Claims 1-13 are obvious over Nieboer in view of Kolter 
+
+
+ A claim is unpatentable for obviousness when "the differences between the 
+
+
+subject matter sought to be patented and the prior art are such that the subject 
+
+
+matter as a whole would have been obvious at the time the invention was made to a 
+
+
+person having ordinary skill in the art to which said subject matter pertains." 35 
+
+
+U.S.C. § 103.  
+
+
+ The factual inquiries enunciated by the Supreme Court for an obviousness 
+
+
+analysis require: (1) the scope and content of the prior art; (2) the differences 
+
+
+between the claims and the prior art; (3) the level of ordinary skill in the pertinent 
+
+
+art; and (4) objective indicia of non-obviousness. KSR International Co. v. Teleflex 
+
+
+Inc., 550 U.S. 398, 406 (2007) (citing Graham v. John Deere Co. of Kan. City, 383 
+
+
+U.S. 1, 17-18 (1966). The rationale to support a conclusion that a claim would 
+
+
+have been obvious is that all claimed elements were known in the prior art and one 
+
+
+skilled in the art could have combined the elements as claimed by known methods 
+
+
+with no change in their respective function, and the combination yielded no more 
+
+
+than predictable results to one of ordinary skill in the art. KSR International Co. v. 
+
+
+Teleflex Inc., 550 U.S. 398, 416 (2007) (citing United States v. Adams, 383 U.S. 
+
+
+39, 40 (1966); Anderson's-Black Rock, Inc. v. Pavement Salvage Co., 396 U.S. 57 
+
+
+(1969); and Sakraida v. AG Pro, Inc., 425 U.S. 273 (1976)).
+27 
+ 
+
+
+ As shown in Ground 1 above, Nieboer teaches the use of enteric-coated 
+
+
+granulates of dimethyl fumarate filled into capsules.  Dr. Polli attests that Kolter 
+
+
+teaches microtablets produced by means of conventional pharmaceutical 
+
+
+equipment following well known and standard procedures such as granulation, 
+
+
+drying, mixing and tableting citing Ex 1003, 3:49-51.  Ex. 1004, ¶46.  Kolter also 
+
+
+teaches delayed-release microtablets that minimize gastrointestinal irritation.  Id.  
+
+
+Kolter states that “[t]he microtablets according to the invention furthermore have 
+
+
+the advantage that when introduced into gastric or intestinal fluid they show no 
+
+
+tendency to stick or adhere. This ensures that they pass as individual articles 
+
+
+through the gastrointestinal tract and, moreover, do not become attached to the 
+
+
+wall of the stomach or intestine and induce irritation.” Ex. 1003, 3:25-30. Kolter 
+
+
+further discloses microtablets having a diameter of 1-3 mm and preferably 2mm.  
+
+
+Id.  “The microtablets of the examples always had a diameter and height each of 2 
+
+
+mm.” Ex 1003, 4:65-66. See also “A cylindrical delayed release microtablet…the 
+
+
+height and diameter are, independently of one another, 1-3mm.”  Ex 1003, 8:18-31.  
+
+
+Kolter states that the “particle size of the active ingredient is, within the 
+
+
+conventional pharmaceutical range, of only minor or no importance in the 
+
+
+production of the microtablets according the invention.”  Ex 1003, 3:52-55. 
+
+
+ Nieboer in view of Kolter teaches every element of claims 1-13.  These 
+
+
+claims generally recite the following elements: 1) dimethyl fumarate as an
+28 
+ 
+
+
+ingredient of a pharmaceutical preparation; 2) dimethyl fumarate as the active 
+
+
+ingredient of a pharmaceutical preparation; 3) microtablets; 4) enteric coated 
+
+
+microtablets; 5) microtablets with a mean diameter ranging from 300 µm to 2,000 
+
+
+µm (0.3 to 2 mm) exclusive of any coating; 6) microtablets with a mean diameter 
+
+
+of about 2,000µm (2 mm) exclusive of any coating; 7) microtablets that contain 
+
+
+between 100 mg to 300 mg of dimethyl fumarate; 8) microtablets that contain 
+
+
+about 120 mg of dimethyl fumarate; 9) capsules containing microtablets; and 10) 
+
+
+carriers and excipients.  
+
+
+Claim 1: “A pharmaceutical preparation, comprising dimethyl 
+fumarate wherein the pharmaceutical preparation is in the form 
+of microtablets.” 
+
+
+ 
+ The first element of claim 1 requires “a pharmaceutical preparation 
+
+
+comprising dimethyl fumarate”. Nieboer discloses that “[t]he medication consisted 
+
+
+of capsules filled with 60 mg enteric-coated granulate of DMFAE….”  Ex. 1002, 
+
+
+p603, 2:35-38. Dr. Polli explains that dimethylfumaric acid ester or DMFAE are 
+
+
+simply other terms for dimethyl fumarate.  Ex. 1004, ¶47.  See also Ex. 1008, p1. 
+
+
+ The second element of claim 1 requires that “the pharmaceutical preparation 
+
+
+is in the form of microtablets.”  Nieboer discloses that “[t]he medication consisted 
+
+
+of capsules filled with 60 mg enteric-coated granulate of DMFAE….” Ex. 1002, 
+
+
+p603, 2:35-38.  Kolter teaches small microtablets with a mean diameter in the 
+
+
+range of 1-3 mm.  Ex. 1003, 2:42-46.  Kolter teaches that “[t]he microtablets
+29 
+ 
+
+
+according to the invention are produced in conventional pharmaceutical equipment 
+
+
+by the following steps: granulation, drying, mixing, tableting.”  Ex. 1004, ¶48.   
+
+
+ Nieboer recognizes that the cause of gastrointestinal complaints in the study 
+
+
+was due to the rapid release of the active ingredient DMFAE.  Dr. Polli attests that 
+
+
+Nieboer discloses that the gastrointestinal symptoms were caused because “more 
+
+
+than 80% DMFAE of the enteric-coated granulated capsules were released within 
+
+
+30 minutes in acid medium which is a rapid release in the stomach” citing Ex. 
+
+
+1002, p607, 1:17-28.  Ex. 1004, ¶49.   
+
+
+ Dr. Polli attests that Kolter solves this problem in two ways: 1) by 
+
+
+controlling the rate of release of the active ingredient and 2) by ensuring that the 
+
+
+dosage amount of active ingredient is distributed throughout the digestive tract in 
+
+
+order to alleviate unwanted gastrointestinal symptoms using microtablets.  Ex. 
+
+
+1004, ¶50.  Dr. Polli attests that Kolter controls the rate of release of the active 
+
+
+ingredient by adding a controlled amount of a wetting agent to the granules.  Ex. 
+
+
+1004, ¶50.1.  Dr. Polli explains that Kolter teaches that the rate of release increases 
+
+
+in parallel with the rise in the wetting agent concentration citing Ex. 1003, 4:26-37.  
+
+
+Id.    
+
+
+Dr. Polli attests that Kolter ensures that the dosage amount of active 
+
+
+ingredient is distributed throughout the digestive tract by making small size 
+
+
+microtablets.  Ex. 1004, ¶50.2.  Kolter discloses that prior art large diameter tablets
+30 
+ 
+
+
+can result in release and absorption of their total content of active ingredient 
+
+
+concentrated at one site in the gastrointestinal tract citing Ex. 1003, 1:37-49.  Id.  
+
+
+Kolter discloses that it is an object of Kolter’s invention to overcome the 
+
+
+disadvantages of the prior art by using small sized microtablets citing Ex. 1003, 
+
+
+1:37-49.  Id.  Kolter discloses “[t]he microtablets of the examples always had a 
+
+
+diameter and height each of 2mm.”  Ex. 1003, 4:65-66.  Dr. Polli attests that Kolter 
+
+
+discloses that the Kolter microtablets have the advantage that they show no 
+
+
+tendency to stick or adhere and this ensures that they pass as individual articles 
+
+
+through the gastrointestinal tract and, moreover, do not become attached to the 
+
+
+wall of the stomach or intestine and induce irritation citing Ex. 1003, 3:25-30.  Id.   
+
+
+ Dr. Polli attests that a POSITA would have looked to the teachings of Kolter 
+
+
+to improve the Nieboer pharmaceutical preparation in order to solve the Nieboer 
+
+
+recognized problem of the rapid release of the active ingredient in the stomach 
+
+
+resulting in gastrointestinal complaints.  Ex. 1004, ¶51.  Dr. Polli attests that it 
+
+
+would have been obvious to a POSITA to use the teachings of Kolter’s 
+
+
+microtablets to modify the Nieboer pharmaceutical preparation in order to alleviate 
+
+
+unwanted gastrointestinal symptoms by controlling the rate of release of the active 
+
+
+ingredient and by ensuring that the dosage amount of active ingredient is 
+
+
+distributed throughout the digestive tract.  Id.  Dr. Polli explains that a POSITA 
+
+
+would have a reason to combine the teachings of Kolter with Nieboer to modify
+31 
+ 
+
+
+the Nieboer pharmaceutical preparation in order to reduce the rate of release of the 
+
+
+active ingredient in the stomach and ensure distributive absorption throughout the 
+
+
+digestive tract of the dosage of the active ingredient in order to avoid unwanted 
+
+
+gastrointestinal distress caused by the pharmaceutical preparation as described by 
+
+
+Nieboer.  Id.   
+
+
+ In sum, claim 1 of the ‘393 patent would have been obvious in over Nieboer 
+
+
+in view of Kolter.  Ex. 1004, ¶52.   
+
+
+Claim 2: “The pharmaceutical preparation of claim 1, wherein the 
+microtablets are enteric coated.” 
+ 
+ Claim 2 is dependent on claim 1 and incorporates all its limitations.  The 
+
+
+element of claim 2 requires that “the microtablets are enteric coated.”   
+
+
+ Nieboer teaches enteric coating of the pharmaceutical preparation.  Ex. 
+
+
+1002, p603, 2:35-38.  See also Ex. 1002, p604, 1:2-4, narrative following Table I, 
+
+
+“All patients were treated with capsules filled with 60 mg enteric-coated granulate 
+
+
+of DMFAE.”  Dr. Polli attests that Nieboer teaches enteric coating of the 
+
+
+pharmaceutical preparation.  Ex. 1004, ¶54.  As argued above, it would have been 
+
+
+obvious to a POSITA to use the teachings of Kolter’s small microtablets to modify 
+
+
+the Nieboer pharmaceutical preparation.   
+
+
+ Kolter does not teach away from using the Nieboer enteric coating.  Ex. 
+
+
+1004, ¶54.1.  Kolter states that “[a]s a rule, the microtablets can be packed into 
+
+
+gelatin capsules directly using conventional filling machines.  Kolter teaches that
+32 
+ 
+
+
+“[i]t may occasionally be advantageous for the microtablets, before the packing 
+
+
+[using these filling machines], to be provided with a readily soluble film coating 
+
+
+which does not influence the release.”  Ex. 1003, 4:49-53.  Dr. Polli attests that this 
+
+
+Kolter passage does not teach away from using enteric coatings on micro-tablets.  
+
+
+Ex. 1004, ¶54.1.  Dr. Polli explains that this is because Kolter is solving a 
+
+
+packaging problem by adding a packaging coating and does not want the 
+
+
+packaging coating to affect the designed release rate of the micro-tablet.  In Dr. 
+
+
+Polli’s opinion, Kolter does not suggest that enteric coatings should not be used on 
+
+
+microtablets.  Ex. 1004, ¶54.1     
+
+
+ In sum, claim 2 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter.  Ex. 1004, ¶55.   
+
+
+Claim 3: “The pharmaceutical preparation of claim 2, wherein the mean 
+diameter of the microtablets ranges from 300µm to 2,000µm, exclusive of any 
+coating on the microtablets.” 
+ 
+ Claim 3 is dependent on claim 2 and incorporates all its limitations, i.e., an 
+
+
+enteric coating.  Claim 3 requires “the mean diameter of the microtablets ranges 
+
+
+from 300µm to 2,000µm, exclusive of any coating on the microtablets.”  Claim 3 
+
+
+only limits the size of the uncoated microtablet and does not limit the size of the 
+
+
+microtablet after it has been enteric coated.   
+
+
+Kolter teaches pharmaceutical preparation wherein “the mean diameter of 
+
+
+the microtablets ranges from 300µm to 2,000µm, exclusive of any coating on the
+33 
+ 
+
+
+microtablets.  Ex. 1004, ¶58.  First, Kolter teaches microtablets that are cylindrical 
+
+
+“with a diameter and height which are preferably equal and, independently of 
+
+
+another, from 1 to 3, preferably 1.5 to 2.5mm,” citing Ex. 1003, 2:42-46.  Ex. 
+
+
+1004, ¶57.1.  Second, Kolter teaches that the microtablets are made with a tableting 
+
+
+machine equipped with multiple microtablet punches resulting in a cylindrical 
+
+
+shape where the height and diameter can be varied independently of one another, 
+
+
+citing Ex. 1003, 4:18-22.  Id.   
+
+
+Third, Kolter teaches that the microtablets dimensions are exclusive of any 
+
+
+coating on the microtablets.  Ex. 1004, ¶57.2.  Kolter’s examples 1-8 do not 
+
+
+include a coating on the microtablets citing Ex. 1003, 5:1-7:64.  Id.  Moreover 
+
+
+Kolter teaches that microtablets, as a rule, are packaged without a coating citing 
+
+
+Ex. 1003, 4:48-49.  Id.  Dr. Polli attests that Kolter teaches a range of sizes of the 
+
+
+microtablets where the mean diameter of the microtablets are within the ranges 
+
+
+from 300µm to 2,000µm, exclusive of any coating on the microtablets citing Ex. 
+
+
+1004, ¶57.2.  Id.  Dr. Polli attests that Kolter taught microtablets having a 
+
+
+cylindrical shape where the height and diameter each are approximately equal to 
+
+
+1.5mm, citing Ex. 1003, 2:42-46.  Dr. Polli attests that the 1.5 mm diameter Kolter 
+
+
+microtablet exhibits one of the values in the claimed range of 0.3mm to 2mm 
+
+
+diameter, exclusive of any coating on the microtablets. Id.
+34 
+ 
+
+
+ “[W]hen, as by a recitation of ranges or otherwise, a claim covers several 
+
+
+compositions, the claim is ‘anticipated’ if one of them is in the prior art.”  
+
+
+Titaniium Metals Corp. v. Banner, 778 F.2d 775, 782 (Fed. Cir. 1985) (citing In re 
+
+
+Petering, 301 F.2d 676, 682 (CCPA 1962).   
+
+
+In sum, the Kolter microtablet size meets a “pharmaceutical preparation of 
+
+
+claim 3, wherein the mean diameter of the microtablets ranges from 300µm to 
+
+
+2,000µm, exclusive of any coating on the microtablets” and therefore, claim 3 of 
+
+
+the ‘393 patent would have been obvious over Nieboer in view of Kolter.  Ex. 
+
+
+1004, ¶58.   
+
+
+ Claim 4: “The pharmaceutical preparation of claim 3, wherein the 
+mean diameter of the microtablets is about 2,000µm, exclusive of any coating 
+on the microtablets.” 
+ 
+ Claim 4 is dependent on claim 3 and incorporates all its limitations. Claim 4 
+
+
+requires “the mean diameter of the microtablets is about 2,000µm, exclusive of any 
+
+
+coating on the microtablets.”  Claim 4 only limits the size of the uncoated 
+
+
+microtablet and does not limit the size of the microtablet after it has been enteric 
+
+
+coated.   
+
+
+Kolter teaches pharmaceutical preparation having a mean diameter of the 
+
+
+microtablets of about 2,000µm, exclusive of any coating on the microtablets.  Ex. 
+
+
+1004, ¶60.  First, Kolter teaches examples of uncoated microtablets having a 
+
+
+diameter of 2mm, which equals 2,000µm citing Ex. 1003, 4:65-66.  Ex. 1004,
+35 
+ 
+
+
+¶59.1.  Second, Kolter’s examples 1-8 do not include a coating on the microtablets 
+
+
+citing Ex. 1003, 5:1-7:64.  Id.  Moreover Kolter teaches that microtablets, as a rule, 
+
+
+are packaged without a coating citing Ex. 1003, 4:48-49.  Id.  Dr. Polli attests that 
+
+
+Kolter teaches that the size of the microtablets in examples 1-8 have a diameter of 
+
+
+2,000µm, exclusive of any coating.  Id.   
+
+
+Kolter teaches that the “microtablets of the examples 1-8 always had a 
+
+
+diameter and height each of 2 mm,” citing Ex. 1003, 4:65-66.  Ex. 1004, ¶59.2.  
+
+
+Dr. Polli attests that the mean value of the diameter of the Kolter microtablets 
+
+
+having a height and diameter of 2mm is one of the values in the claimed range of 
+
+
+about 2,000µm, exclusive of any coating on the microtablets.  Id.  Dr. Polli attests 
+
+
+that Kolter microtablets having a diameter and a height each of 2,000µm meets the 
+
+
+claim requirement of microtablets having a mean diameter of about 2,000µm, 
+
+
+exclusive of any coating.  Ex. 1004, ¶59.2.   
+
+
+ “[W]hen, as by a recitation of ranges or otherwise, a claim covers several 
+
+
+compositions, the claim is ‘anticipated’ if one of them is in the prior art.”  
+
+
+Titaniium Metals Corp. v. Banner, 778 F.2d 775, 782 (Fed. Cir. 1985) (citing In re 
+
+
+Petering, 301 F.2d 676, 682 (CCPA 1962).  Kolter teaches microtablets having a 
+
+
+mean diameter of 2mm which is one of the values in the claim range of about 2 
+
+
+mm diameter and thereby reads on the claimed range.
+36 
+ 
+
+
+ In sum, the Kolter microtablet size meets a “pharmaceutical preparation of 
+
+
+claim 3, wherein the mean diameter of the microtablets is about 2,000µm, 
+
+
+exclusive of any coating on the microtablets.”  Ex. 1004, ¶60.  Therefore, Dr. Polli 
+
+
+attests that claim 4 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter.  Ex. 1004, ¶61.   
+
+
+Claim 5: “The pharmaceutical preparation of claim 4, wherein the 
+preparation contains 10 mg to 300 mg of dimethyl fumarate.” 
+ 
+ Claim 5 is dependent on claim 4 and incorporates all its limitations.  The 
+
+
+element of claim 5 requires that “the preparation contains 10 mg to 300 mg of 
+
+
+dimethyl fumarate.”  Nieboer teaches that “[a]ll patients were treated with capsules 
+
+
+filled with 60 mg enteric-coated granulate of DMFAE.” Ex. 1002, p604, 1:2-4, 
+
+
+narrative following Table I.  Dr. Polli explains that Nieboer teaches preparations 
+
+
+having dimethyl fumarate content within the range of 10 mg to 300 mg of dimethyl 
+
+
+fumarate. Ex. 1004, ¶63. 
+
+
+ In sum, claim 5 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter.  Ex. 1004, ¶64.   
+
+
+Claim 6: “The pharmaceutical preparation of claim 5, wherein the 
+preparation contains about 120 mg of dimethyl fumarate.” 
+ 
+ Claim 6 is dependent on claim 5 and incorporates all its limitations.  The 
+
+
+element of claim 6 requires that “the preparation contains about 120 mg of 
+
+
+dimethyl fumarate”.  Claim 6 does not limit the preparation to a single capsule, but
+37 
+ 
+
+
+instead the claim scope covers more than one capsule.  Nieboer also teaches that 
+
+
+the “[t]he medication consisted of capsules filled with 60 mg enteric-coated 
+
+
+granulate of DMFAE … a maximum dosage of up to four capsules a day.” Ex 
+
+
+1002, p603, 2:35-38.  Further “all patients were treated with capsules filled with 60 
+
+
+mg enteric-coated granulate of DMFAE. Dosages ranged from 60 to 240 mg a 
+
+
+day.” Ex 1002, p604, 1:2-4.  Because 120 mg dosage is within the Nieboer dosage 
+
+
+range, the dosage taught by Nieboer includes a pharmaceutical preparation of 120 
+
+
+mg of dimethyl fumarate as required by the claim.  Ex. 1004, ¶65.   Dr. Polli attests 
+
+
+that Nieboer teaches a preparation that contains “about 120 mg of dimethyl 
+
+
+fumarate.” Id.   
+
+
+ In sum, claim 6 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter.  Ex. 1004, ¶66.   
+
+
+ Claim 7: The pharmaceutical preparation of claim 5, wherein the 
+microtablets are contained in one or more capsules. 
+ 
+ Claim 7 is dependent on claim 5 and incorporates all its limitations.  The 
+
+
+element of claim 7 requires that “the microtablets are contained in one or more 
+
+
+capsules”.  Dr. Polli attests that Nieboer teaches that each capsule is filled with 60 
+
+
+mg enteric-coated granulate of dimethyl fumarate and that dosages of up to 240 mg 
+
+
+dimethyl fumarate were given to patients by increments of up to four capsules, 
+
+
+each capsule filled with 60 mg enteric-coated granulate of dimethyl fumarate, 
+
+
+citing Ex. 1002, p604, 1:2-4, narrative following Table I.  Ex. 1004, ¶67.  Kolter
+38 
+ 
+
+
+also teaches that microtablets can be packed into gelatin capsules using 
+
+
+conventional filling machines.  Ex. 1003, 4:49-50.  Dr. Polli attests that both 
+
+
+Nieboer and Kolter teach the microtablets are contained in one or more capsules. 
+
+
+Id.   
+
+
+ In sum, claim 7 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter.  Ex. 1004, ¶68.   
+
+
+Claim 8: A pharmaceutical preparation, comprising an active ingredient, 
+wherein the pharmaceutical preparation is in the form of microtablets and the 
+active ingredient consists of dimethyl fumarate. 
+ 
+ The first element of independent claim 8 requires “[a] pharmaceutical 
+
+
+preparation, comprising an active ingredient.”  Nieboer discloses that “[t]he 
+
+
+medication consisted of capsules filled with 60 mg enteric-coated granulate of 
+
+
+DMFAE a maximum dosage of up to four capsules a day.”  Ex. 1002, p603, 2:35-
+
+
+38.  In Dr. Polli’s opinion, Nieboer’s study concerns a systemic therapy involving 
+
+
+pharmaceutical preparations comprising an active ingredient wherein that active 
+
+
+ingredient consists of dimethyl fumarate. Ex. 1004, ¶69. Kolter teaches a 
+
+
+pharmaceutical preparation comprising an active ingredient. Ex. 1003, 2:11-16. Ex. 
+
+
+1004, ¶69 
+
+
+ The second element of claim 8 requires that “the pharmaceutical preparation 
+
+
+is in the form of microtablets.” Nieboer discloses that “[t]he medication consisted 
+
+
+of capsules filled with 60 mg enteric-coated granulate of DMFAE….” Ex. 1002,
+39 
+ 
+
+
+p603, 2:35-38.  Kolter teaches small microtablets in the range of 1-3 mm.  Ex. 
+
+
+1003, 2:42-46.  Kolter teaches that “[t]he microtablets according to the invention 
+
+
+are produced in conventional pharmaceutical equipment by the following steps: 
+
+
+granulation, drying, mixing, tableting.” Ex 1003, 3:49-51.  Ex. 1004, ¶70. 
+
+
+ Nieboer recognizes that the cause of gastrointestinal complaints in the study 
+
+
+was due to the rapid release of the active ingredient DMFAE.  Dr. Polli attests that 
+
+
+Nieboer discloses that the gastrointestinal symptoms were caused because more 
+
+
+than 80% DMFAE of the enteric-coated granulated capsules were released within 
+
+
+30 minutes in acid medium which is a rapid release in the stomach citing Ex. 1002, 
+
+
+p607, 1:17-28.  Ex. 1004, ¶ 71. 
+
+
+  Dr. Polli attests that Kolter solves this problem in two ways: 1) by 
+
+
+controlling the rate of release of the active ingredient and 2) by ensuring that the 
+
+
+dosage amount of active ingredient is distributed throughout the digestive tract in 
+
+
+order to alleviate unwanted gastrointestinal symptoms using microtablets.  Ex. 
+
+
+1004, ¶72.  Dr. Polli attests that Kolter controls the rate of release of the active 
+
+
+ingredient by adding a controlled amount of a wetting agent to the granules.  Ex. 
+
+
+1004, ¶72.1.  Dr. Polli explains that Kolter teaches that the rate of release increases 
+
+
+in parallel with the rise in the wetting agent concentration citing Ex. 1003, 4:26-37.  
+
+
+Id.
+40 
+ 
+
+
+ Dr. Polli attests that Kolter ensures that the dosage amount of active 
+
+
+ingredient is distributed throughout the digestive tract by making small size 
+
+
+microtablets.  Ex. 1004, ¶72.2.  .  Kolter discloses that prior art large diameter 
+
+
+tablets can result in release and absorption of their total content of active ingredient 
+
+
+concentrated at one site in the gastrointestinal tract citing Ex. 1003, 1:37-49.  Id.  
+
+
+Kolter discloses that it is an object of Kolter’s invention to overcome the 
+
+
+disadvantages of the prior art by using the small sized microtablets citing Ex. 1003, 
+
+
+1:37-49.  Id.  Kolter discloses “[t]he microtablets of the examples always had a 
+
+
+diameter and height each of 2mm.”  Ex. 1003, 4:65-66. Dr. Polli attests that Kolter 
+
+
+discloses that the Kolter microtablets have the advantage that they show no 
+
+
+tendency to stick or adhere and this ensures that they pass as individual articles 
+
+
+through the gastrointestinal tract and, moreover, do not become attached to the 
+
+
+wall of the stomach or intestine and induce irritation citing Ex. 1003, 3:25-30.  Id.   
+
+
+ Dr. Polli attests that a POSITA would have looked to the teachings of Kolter 
+
+
+to improve the Nieboer pharmaceutical preparation in order to solve the Nieboer 
+
+
+recognized problem of the rapid release of the active ingredient in the stomach 
+
+
+resulting in gastrointestinal complaints.  Ex. 1004, ¶73 Dr. Polli attests that it 
+
+
+would have been obvious to a POSITA to use the teachings of Kolter’s 
+
+
+microtablets to modify the Nieboer pharmaceutical preparation in order to alleviate 
+
+
+unwanted gastrointestinal symptoms by controlling the rate of release of the active
+41 
+ 
+
+
+ingredient and by ensuring that the dosage amount of active ingredient is 
+
+
+distributed throughout the digestive tract.  Id.  Dr. Polli explains that a POSITA 
+
+
+would have had a reason to combine the teachings of Kolter with Nieboer to 
+
+
+modify the Nieboer pharmaceutical preparation in order to reduce the rate of 
+
+
+release of the active ingredient in the stomach in order to avoid unwanted 
+
+
+gastrointestinal distress caused by the pharmaceutical preparation as described by 
+
+
+Nieboer.  Id.   
+
+
+The third element of claim 8 requires “active ingredient consists of dimethyl 
+
+
+fumarate”.  Nieboer discloses that “[t]he medication consisted of capsules filled 
+
+
+with 60 mg enteric-coated granulate of DMFAE….”  Ex. 1002, p603, 2-35-38. Dr. 
+
+
+Polli explains that dimethylfumaric acid ester or DMFAE are simply other terms 
+
+
+for dimethyl fumarate.  Ex. 1004, ¶74.  See also Ex. 1008, p1. 
+
+
+ In sum, claim 8 of the ‘393 patent would have been obvious over Nieboer in 
+
+
+view of Kolter. Ex. 1004, ¶75. 
+
+
+Claim 9: “The pharmaceutical preparation of claim 8, wherein the mean 
+diameter of the microtablets is about 2,000 µm, exclusive of any coating on the 
+microtablets” 
+ 
+
+
+Claim 9 is dependent on claim 8 and incorporates all its limitations. Claim 9 
+
+
+requires that “the mean diameter of the microtablets is about 2,000µm, exclusive of 
+
+
+any coating on the microtablets.” Claim 9 only limits the size of the uncoated
+42 
+ 
+
+
+microtablet and does not limit the size of the microtablet after it has been enteric 
+
+
+coated.   
+
+
+Kolter teaches pharmaceutical preparations having a mean diameter of the 
+
+
+microtablets that about 2,000µm, exclusive of any coating on the microtablets.  Ex. 
+
+
+1004, ¶77  First, Kolter teaches examples of uncoated microtablets having a 
+
+
+diameter of 2mm, which equals 2,000µm citing Ex. 1003, 4:65-66.  Id.  Second, 
+
+
+Kolter’s examples 1-8 do not include a coating on the microtablets citing Ex. 1003, 
+
+
+5:1-7:64.  Id.  Moreover Kolter teaches that microtablets as a rule are packaged 
+
+
+without a coating citing Ex. 1003, 4:48-49.  Id.  Dr. Polli attests that Kolter teaches 
+
+
+that the microtablets in examples 1-8 have a diameter of 2,000µm, exclusive of any 
+
+
+coating.  Id.   
+
+
+Kolter teaches that the “microtablets of the examples 1-8 always had a 
+
+
+diameter and height each of 2 mm,” citing Ex. 1003, 4:65-66.  Ex. 1004, ¶78.  Dr. 
+
+
+Polli attests that the mean value of the diameter of the Kolter microtablets having a 
+
+
+height and diameter of 2mm is one of the values in the claimed range of about 
+
+
+2,000µm, exclusive of any coating on the microtablets.    Id.  Dr. Polli attests that 
+
+
+the Kolter microtablets having a diameter and a height of 2,000µm meet the claim 
+
+
+requirement of microtablets having a mean diameter of about 2,000µm, exclusive 
+
+
+of any coating.  Id.
+43 
+ 
+
+
+ “[W]hen, as by a recitation of ranges or otherwise, a claim covers several 
+
+
+compositions, the claim is ‘anticipated’ if one of them is in the prior art.”  
+
+
+Titaniium Metals Corp. v. Banner, 778 F.2d 775, 782 (Fed. Cir. 1985) (citing In re 
+
+
+Petering, 301 F.2d 676, 682 (CCPA 1962).  Kolter teaches microtablets having a 
+
+
+mean diameter of 2mm which is one of the values in the claim range of about 2mm 
+
+
+diameter and thereby reads on the claimed range. 
+
+
+ In sum, the Kolter microtablet size meets a “pharmaceutical preparation of 
+
+
+claim 8, wherein the mean diameter of the microtablets is about 2,000µm, 
+
+
+exclusive of any coating on the microtablets.”  Therefore, Dr. Polli attests that 
+
+
+claim 9 of the ‘393 patent would have been obvious over Nieboer in view of 
+
+
+Kolter.  Ex. 1004, ¶78.1   
+
+
+Claim 10: “The pharmaceutical preparation of claim 9, wherein the 
+preparation contains 10 mg to 300mg of dimethyl fumarate.” 
+ 
+ Claim 10 is dependent on claim 9 and incorporates all its limitations.  The 
+
+
+element of claim 10 requires that “the preparation contains 10 mg to 300 mg of 
+
+
+dimethyl fumarate”. Nieboer teaches that “[a]ll patients were treated with capsules 
+
+
+filled with 60 mg enteric-coated granulate of DMFAE.” Ex 1002,p 604, 1:2-4, 
+
+
+narrative following Table I.  Dr. Polli explains that Nieboer teaches preparations 
+
+
+having dimethyl fumarate content within the range of 10 mg to 300 mg of dimethyl 
+
+
+fumarate. Ex. 1004, ¶79.
+44 
+ 
+
+
+In sum, claim 10 of the ‘393 patent would have been obvious over Nieboer 
+
+
+in view of Kolter. Ex. 1004, ¶80. 
+
+
+ Claim 11: The pharmaceutical preparation of claim 10, wherein the 
+preparation contains about 120 mg of dimethyl fumarate. 
+ 
+ Claim 11 is dependent on claim 10 and incorporates all its limitations.  The 
+
+
+element of claim 11 requires that “the preparation contains about 120 mg of 
+
+
+dimethyl fumarate.”  Nieboer also teaches that the “[t]he medication consisted of 
+
+
+capsules filled with 60 mg enteric-coated granulate of DMFAE … a maximum 
+
+
+dosage of up to four capsules a day.” Ex 1002, p603, 2:35-38.  Further “all patients 
+
+
+were treated with capsules filled with 60 mg enteric-coated granulate of DMFAE. 
+
+
+Dosages ranged from 60 to 240 mg a day.” Ex 1002, p604, 1:2-4.  Because 120 mg 
+
+
+dosage is in the Nieboer dosage range, Nieboer teaches a dosage of 120 mg of 
+
+
+dimethyl fumarate. Ex. 1004, ¶81.   Dr. Polli attests that Nieboer teaches a 
+
+
+preparation that contains “about 120 mg of dimethyl fumarate” as claimed. Id.   
+
+
+In sum, claim 11 of the ‘393 patent would have been obvious over Nieboer 
+
+
+in view of Kolter.  Ex. 1004, ¶82. 
+
+
+ Claim 12: The pharmaceutical preparation of claim 10, wherein the 
+microtablets are enteric coated and are contained in one or more capsules. 
+ 
+ Claim 12 is dependent on claim 10 and incorporates all its limitations.  The 
+
+
+first element of claim 12 requires that “the microtablets are enteric coated.” 
+
+
+Nieboer teaches enteric coating of the pharmaceutical preparation.  Ex. 1002, p603,
+45 
+ 
+
+
+2:35-38.  See also Ex. 1002, p604, 1:2-4, narrative following Table I. (“All patients 
+
+
+were treated with capsules filled with 60 mg enteric-coated granulate of 
+
+
+DMFAE.”)  Dr. Polli attests that Nieboer teaches enteric coating of the 
+
+
+pharmaceutical preparation.  Ex. 1004, ¶84.   
+
+
+ Kolter does not teach away from using the Nieboer enteric coating.  Ex. 
+
+
+1004, ¶84.1.  Kolter states that “[a]s a rule, the microtablets can be packed into 
+
+
+gelatin capsules directly using conventional filling machines.” Ex. 1003, 4:48-49.    
+
+
+Kolter teaches it may occasionally be advantageous for the microtablets, before the 
+
+
+packing using these filling machines, to be provided with a readily soluble film 
+
+
+coating which does not influence the release.”  Ex. 1003, 4:49-53.  Dr. Polli attests 
+
+
+that this Kolter passage does not teach away from using enteric coatings on micro-
+
+
+tablets.  Id.  Dr. Polli explains that this is because Kolter is solving a packaging 
+
+
+problem by adding a packaging coating and does not want the packaging coating to 
+
+
+affect the designed release rate of the microtablet.  In Dr. Polli’s opinion, Kolter 
+
+
+does not suggest that enteric coatings should not be used on microtablets.  Id. 
+
+
+ The second element of claim 12 requires that “the microtablets are contained 
+
+
+in one or more capsules”.  Dr. Polli attests that Nieboer teaches that each capsule is 
+
+
+filled with 60 mg enteric-coated granulate of dimethyl fumarate and that dosages 
+
+
+of up to 240 mg dimethyl fumarate were given to patients by increments of up to 
+
+
+four capsules, each capsule filled with 60 mg enteric-coated granulate of dimethyl
+46 
+ 
+
+
+fumarate, citing Ex. 1002, p604, 1:2-4, narrative following Table I.  Ex. 1004, ¶85.  
+
+
+Kolter also teaches that microtablets can be packed into gelatin capsules using 
+
+
+conventional filling machines.  Ex. 1003, 4:49-50.  Dr. Polli attests that both 
+
+
+Nieboer and Kolter teach the microtablets are contained in one or more capsules. 
+
+
+Id.   
+
+
+In sum, claim 12 of the ‘393 patent would have been obvious over Nieboer 
+
+
+in view of Kolter. Ex. 1004, ¶86. 
+
+
+Claim 13: “A pharmaceutical preparation consisting essentially of an active 
+ingredient and one or more carriers and excipients wherein the active 
+ingredient is dimethyl fumarate and the preparation contains 10 mg to 300 mg 
+of dimethyl fumarate and wherein the pharmaceutical preparation is in the 
+form of microtablets and the mean diameter of the microtablets is about 2,000 
+µm, exclusive of any coating on the microtablets.” 
+ 
+ The first element of independent claim 13 requires “[a] pharmaceutical 
+
+
+preparation consisting essentially of an active ingredient.”  Nieboer discloses that 
+
+
+“[t]he medication consisted of capsules filled with 60 mg enteric-coated granulate 
+
+
+of DMFAE a maximum dosage of up to four capsules a day.” Ex. 1002, p603, 
+
+
+2:35-38.  In Dr. Polli’s opinion, Nieboer’s study concerns a systemic therapy 
+
+
+involving a pharmaceutical preparations consisting of an active ingredient wherein 
+
+
+that active ingredient is dimethyl fumarate. Ex. 1004, ¶87. Kolter teaches a 
+
+
+pharmaceutical preparation consisting essentially of an active ingredient. Ex. 1003, 
+
+
+2:11-16. Ex. 1004, ¶87
+47 
+ 
+
+
+ The second element of independent claim 13 requires “one or more carriers 
+
+
+and excipients.”  Nieboer teaches using dimethyl fumarate as an active ingredient 
+
+
+of a pharmaceutical preparation in the form of enteric coated granulates that are 
+
+
+contained in one or more capsules. Ex 1002, p604, 1:2-4, narrative following Table 
+
+
+I.  As attested by Dr. Polli, the term “carriers”, under the broadest reasonable 
+
+
+interpretation, are vehicles used to transport a drug to its site of absorption or use.  
+
+
+Ex. 1004, ¶88.  Nieboer teaches carriers because the Nieboer pharmaceutical 
+
+
+preparation has both enteric coatings and capsules. Ex. 1004, ¶88.  Dr. Polli 
+
+
+explains that examples of carriers as vehicles for the active ingredient include 
+
+
+capsules and enteric coatings. Ex. 1004, ¶88.  As attested by Dr. Polli, the term 
+
+
+“excipients”, under the broadest reasonable interpretation, means any nondrug 
+
+
+component of a pharmaceutical formulation. Ex. 1004, ¶88.1.  Dr. Polli further 
+
+
+explains that excipients include wetting agents. Ex. 1004, 88.1.  Kolter teaches the 
+
+
+use of wetting agent such as polyethylene glycol.  Ex. 1003, 4:33-34.  Therefore, 
+
+
+the combination of Nieboer and Kolter teach “one or more carriers and excipients.” 
+
+
+as recited in claim 13. Ex. 1004, ¶88.1. 
+
+
+ The third element of independent claim 13 requires “the active ingredient is 
+
+
+dimethyl fumarate”.  Dr. Polli attests that Nieboer teaches the active ingredient is 
+
+
+dimethyl fumarate. Ex. 1004, ¶89.  Nieboer discloses that “[t]he medication 
+
+
+consisted of capsules filled with 60 mg enteric-coated granulate of DMFAE…” Ex.
+48 
+ 
+
+
+1002, p603, 2-35-38.  Dr. Polli explains that DMFAE or dimethylfumaric acid 
+
+
+ester are simply other terms for dimethyl fumarate. Ex. 1004, ¶89. See also Ex. 
+
+
+1008, p1. 
+
+
+ The fourth element of claim 13 requires that “and the preparation contains 
+
+
+10mg to 300mg of dimethyl fumarate.” Nieboer teaches that “[a]ll patients were 
+
+
+treated with capsules filled with 60 mg enteric-coated granulate of DMFAE.”  Ex. 
+
+
+1002, p604, 1:2-4, narrative following Table I. Because 60 mg is within 10 to 300 
+
+
+mg, in my opinion, Nieboer teaches preparations having dimethyl fumarate content 
+
+
+within the range of 10 mg to 300 mg of dimethyl fumarate. Ex. 1004, ¶89.1. 
+
+
+ The fifth element of independent claim 13 requires that “the preparation is in 
+
+
+the form of microtablets.” Nieboer discloses that “[t]he medication consisted of 
+
+
+capsules filled with 60 mg enteric-coated granulate of DMFAE….” Ex. 1002, 
+
+
+p603, 2:35-38.  Kolter teaches that “[t]he microtablets according to the invention 
+
+
+are produced in conventional pharmaceutical equipment by the following steps: 
+
+
+granulation, drying, mixing, tabletting.” Ex 1003, 3:49-51. Ex. 1004, ¶90. 
+
+
+ Nieboer recognizes that the cause of gastrointestinal complaints in the study 
+
+
+was due to the rapid release of the active ingredient DMFAE.  Dr. Polli attests that 
+
+
+Nieboer discloses that the gastrointestinal symptoms were caused because “more 
+
+
+than 80% DMFAE of the enteric-coated granulated capsules were released within
+49 
+ 
+
+
+30 minutes in acid medium which is a rapid release in the stomach.“ citing Ex. 
+
+
+1002, Ex. 1002, p607, 1:17-28. Ex 1004, ¶91.  
+
+
+ Dr. Polli attests that Kolter solves this problem in two ways: 1) by 
+
+
+controlling the rate of release of the active ingredient and 2) by ensuring that the 
+
+
+dosage amount of active ingredient is distributed throughout the digestive tract in 
+
+
+order to alleviate unwanted gastrointestinal symptoms using microtablets.  Ex. 
+
+
+1004, ¶92.  Dr. Polli attests that Kolter controls the rate of release of the active 
+
+
+ingredient by adding a controlled amount of a wetting agent to the granules.  Ex. 
+
+
+1004, ¶92.1.Dr. Polli explains that Kolter teaches that the rate of release increases 
+
+
+in parallel with the rise in the wetting agent concentration citing Ex. 1003, 4:26-37.  
+
+
+Ex. 1004, ¶92.1.   
+
+
+ Dr. Polli attests that Kolter ensures that the dosage amount of active 
+
+
+ingredient is distributed throughout the digestive tract by making small size 
+
+
+microtablets.  Ex. 1004, ¶92.2.  Kolter discloses that prior art large diameter tablets 
+
+
+can result in release and absorption of their total content of active ingredient 
+
+
+concentrated at one site in the gastrointestinal tract citing Ex. 1003, 1:37-49.  Id.  
+
+
+Kolter discloses that it is an object of Kolter’s invention to overcome the 
+
+
+disadvantages of the prior art by using the small sized microtablets citing Ex. 1003, 
+
+
+1:37-49.  Id.  Kolter discloses “[t]he microtablets of the examples always had a 
+
+
+diameter and height each of 2mm.”  Ex. 1003, 4:65-66. Dr. Polli attests that Kolter
+50 
+ 
+
+
+discloses that the Kolter microtablets have the advantage that they show no 
+
+
+tendency to stick or adhere and this ensures that they pass as individual articles 
+
+
+through the gastrointestinal tract and, moreover, do not become attached to the 
+
+
+wall of the stomach or intestine and induce irritation citing Ex. 1003, 3:25-30.  Id.   
+
+
+ Dr. Polli attests that a POSITA would have looked to the teachings of Kolter 
+
+
+to improve the Nieboer pharmaceutical preparation in order to solve the Nieboer 
+
+
+recognized problem of the rapid release of the active ingredient in the stomach 
+
+
+resulting in gastrointestinal complaints.  Ex. 1004, ¶93.  Dr. Polli attests that it 
+
+
+would have been obvious to a POSITA to use the teachings of Kolter’s 
+
+
+microtablets to modify the Nieboer pharmaceutical preparation in order to alleviate 
+
+
+unwanted gastrointestinal symptoms by controlling the rate of release of the active 
+
+
+ingredient and by ensuring that the dosage amount of active ingredient is 
+
+
+distributed throughout the digestive tract.  Id.  Dr. Polli explains that a POSITA 
+
+
+would have a reason to combine the teachings of Kolter with Nieboer to modify 
+
+
+the Nieboer pharmaceutical preparation in order to reduce the rate of release of the 
+
+
+active ingredient in the stomach in order to avoid unwanted gastrointestinal distress 
+
+
+caused by the pharmaceutical preparation as described by Nieboer.  Id.   
+
+
+ The sixth element of independent claim 13 requires that “the mean diameter 
+
+
+of the microtablets is about 2,000 µm, exclusive of any coating on the 
+
+
+microtablets.”  The fifth element of claim 13 only limits the size of the uncoated
+51 
+ 
+
+
+microtablets and does not limit the size of the microtablets after they have been 
+
+
+enteric coated.   
+
+
+Kolter teaches pharmaceutical preparation having a mean diameter of the 
+
+
+microtablets of about 2,000µm, exclusive of any coating on the microtablets.  Ex. 
+
+
+1004, ¶94.1.  First, Kolter teaches examples of uncoated microtablets having a 
+
+
+diameter of 2mm, which equals 2,000µm citing Ex. 1003, 4:65-66.  Id.  Second, 
+
+
+Kolter’s examples 1-8 do not include a coating on the microtablets citing Ex. 1003, 
+
+
+5:1-7:64.  Id.  Moreover Kolter teaches that microtablets, as a rule, are packaged 
+
+
+without a coating citing Ex. 1003, 4:48-49.  Id.  Dr. Polli attests that Kolter teaches 
+
+
+that the size of the microtablets in examples 1-8 have a diameter of 2,000µm, 
+
+
+exclusive of any coating.  Id.   
+
+
+Kolter teaches that the “microtablets of the examples 1-8 always had a 
+
+
+diameter and height each of 2 mm,” citing Ex. 1003, 4:65-66.  Ex. 1004, ¶94.2.  
+
+
+Dr. Polli attests that the mean value of the diameter of the Kolter microtablets 
+
+
+having a height and diameter of 2mm is one of the values in the claimed range of 
+
+
+about 2,000µm, exclusive of any coating on the microtablets.  Id.  Dr. Polli attests 
+
+
+that Kolter microtablets having a diameter and a height of 2,000µm meet the claim 
+
+
+requirement of microtablets having a mean diameter of about 2,000µm, exclusive 
+
+
+of any coating.  Id.
+52 
+ 
+
+
+ “[W]hen, as by a recitation of ranges or otherwise, a claim covers several 
+
+
+compositions, the claim is ‘anticipated’ if one of them is in the prior art.”  
+
+
+Titaniium Metals Corp. v. Banner, 778 F.2d 775, 782 (Fed. Cir. 1985) (citing In re 
+
+
+Petering, 301 F.2d 676, 682 (CCPA 1962).  Kolter teaches microtablets having a 
+
+
+mean diameter of 2mm which is one of the values in the claim range of about 2mm 
+
+
+diameter and thereby reads on the claimed range. 
+
+
+ In sum, the Kolter microtablet size meets the pharmaceutical preparation of 
+
+
+claim 13, “wherein the mean diameter of the microtablets is about 2,000µm, 
+
+
+exclusive of any coating on the microtablets.”  Ex. 1004, ¶95.   
+
+
+Therefore, claim 13 of the ‘393 patent would have been obvious over 
+
+
+Nieboer in view of Kolter. Ex. 1004, ¶96.  
+
+
+VII. CONCLUSION 
+
+
+For the foregoing reasons, the petitioner respectfully requests that trial be instituted 
+
+
+and that claims 1-13 of the ‘393 patent be canceled. 
+
+
+ 
+/RobertHahl#33,893/ 
+Robert W. Hahl, Reg. No. 33,893 
+Lead Counsel for the Petitioner 
+Tel: 1-703-415-0012 Ext. 103 
+Email: rhahl@neifeld.com    
+Backup Counsel for Petitioner 
+Robert Mihail, Reg. No. 66,021  
+Tel: 1-703-415-0012 Ext. 107 
+Email: rmihail@neifeld.com   
+Fax for lead and backup counsel for the Petitioner: 1-703-415-0013 
+Postal address for lead and backup counsel:
+53 
+ 
+
+
+Neifeld IP Law, PC, 4813-B Eisenhower Avenue, Alexandria, VA 22304
+54 
+ 
+
+
+42.6(e) CERTIFICATE OF SERVICE 
+
+
+ I certify that this document was served or simultaneously is being served on 
+each opposing party with the filing of this document.  I certify that the following 
+exhibits being filed along with this document, if any, have been or simultaneously 
+are being served on each opposing party: 
+
+
+
+
+
+Exhibit 
+Number 
+
+
+Description 
+
+
+1001 U.S. Patent No. 8,759,393, titled “Utilization of Dialkylfumarates” to 
+Joshi et al. (‘393 patent) 
+
+
+1002 C. Nieboer, et al., “Systemic therapy with fumaric acid derivatives: 
+New possibilities in the treatment of psoriasis,” Journal of the 
+American Academy of Dermatology, April 1989 Vol. 20, Number 4, 
+pg. 601-608 (Nieboer) 
+
+
+1003 U.S. Patent No. 5,681,588, titled “Delayed Release Microtablet of β-
+Phenylpropiophenone Derivatives” to Kolter et al. (Kolter) 
+
+
+1004 Declaration of Dr. James E. Polli 
+1005 Prosecution history of the ‘393 patent as contained in the Image File 
+
+
+Wrapper on PAIR 
+1006 Assignment record of the ‘393 patent as contained in USPTO’s 
+
+
+Assignments on The Web at 
+http://assignment.uspto.gov/#/search?adv=patNum%3A8759393&q=
+&sort=patAssignorEarliestExDate%20desc%2C%20id%20desc&syno
+nyms=false    
+
+
+1007 Julian H. Fincher, Dictionary of Pharmacy, University of South 
+Carolina Press, 1986 
+
+
+1008 PubChem entry for Dimethyl Fumarate, U.S. National Library of 
+Medicine, National Center for Biotechnology Information, the 
+National Institute of Health at 
+https://pubchem.ncbi.nlm.nih.gov/compound/637568 
+
+
+1009 Dean E. Snyder, The Interpharm International Dictionary of 
+Biotechnology and Pharmaceutical Manufacturing, Interpharm Press, 
+Inc., 1992 
+
+
+1010 Friedrick Moll et al., Biodegradable Microtablets Made of Low 
+Molecular Weight Polyglycolic Acid, 1991 
+
+
+1011 Unassigned
+55 
+ 
+
+
+1012 Curriculum Vitae of Dr. James E. Polli 
+1013 Nieboer et al., “Fumaric Acid Therapy in Psoriasis: A Double-Blind 
+
+
+Comparison between Fumaric Acid Compound Therapy and 
+Monotherapy with Dimethylfumaric Acid Ester” Dermatologica 1990; 
+181:33- 37 
+
+
+1014 Kokelj et al., “Fumaric Acid and Its Derivatives in the Treatment of 
+Psoriasis Vulgaris: Our Experience in Forty-One Patients”, Acta 
+Dermatovenerol Croat, 2009; 17(3):170-175 
+
+
+1015 FDA News Release, “FDA approves new multiple sclerosis treatment: 
+Tecfidera”, available at 
+http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/uc
+m345528.htm 
+
+
+1016 Follonier et al., “Various ways of modulating the release of diltiazem 
+hydrochloride from hot-melt extruded sustained release pellets 
+prepared using polymeric materials.”,  Journal of Controlled Release 
+36 (1995) 243-250 
+
+
+1017 Conine et al., “Special Tablets”, Pharmaceutical Dosage Forms, 
+ Marcel Dekker, Inc., 1989, 329-366 
+
+
+ 
+42.6(e)(4) (iii)(A) The date and manner of service: 
+ 
+Manner of service: Priority Mail Express and email to the following firm of record 
+as listed on PAIR: 
+ 
+Jones Day 
+222 East 41st St. 
+New York, NY 10017 
+ 
+Date of Service:  4/22/2015 
+ 
+ 
+/RobertHahl#33,893/ 
+Robert W. Hahl, Reg. No. 33,893 
+Lead Counsel for the Petitioner 
+Neifeld IP Law, PC 
+4813-B Eisenhower Avenue 
+Alexandria, VA 22304 
+Tel: 1-703-415-0012 Ext. 103 
+Fax: 1-703-415-0013 
+Email: rhahl@neifeld.com

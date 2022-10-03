@@ -1,0 +1,3564 @@
+1
+2
+
+
+Full Legal Disclaimer
+
+
+This research presentation expresses our research opinions.  You should assume that as of the publication date of any presentation, report or letter, Spruce Point 
+Capital Management LLC (possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our subscribers and clients has 
+a short position in all stocks (and are long/short combinations of puts and calls on the stock) covered herein, including without limitation Forescout Technologies, Inc. 
+(“FSCT”), and therefore stand to realize significant gains in the event that the price of its stock declines. Following publication of any presentation, report or letter, 
+we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless of our initial 
+recommendation.  All expressions of opinion are subject to change without notice, and Spruce Point Capital Management does not undertake to update this report
+or any information contained herein.  Spruce Point Capital Management, subscribers and/or consultants shall have no obligation to inform any investor or viewer of 
+this report about their historical, current, and future trading activities.
+
+
+This research presentation expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which are based upon 
+publicly available information, and all of which are set out in this research presentation.  Any investment involves substantial risks, including complete loss of capital. 
+Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum possible loss or gain. Any information contained in 
+this report may include forward looking statements, expectations, pro forma analyses, estimates, and projections. You should assume these types of statements, 
+expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for reasons beyond Spruce Point Capital Management LLC’s control. This is 
+not investment or accounting advice nor should it be construed as such. Use of Spruce Point Capital Management LLC’s research is at your own risk. You should do 
+your own research and due diligence, with assistance from professional financial, legal and tax experts, before making any investment decision with respect to 
+securities covered herein. All figures assumed to be in US Dollars, unless specified otherwise.
+
+
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material facts 
+necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and reliable, and who 
+are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer, or to any 
+other person or entity that was breached by the transmission of information to Spruce Point Capital Management LLC. However, Spruce Point Capital Management 
+LLC recognizes that there may be non-public information in the possession of FSCT or other insiders of FSCT that has not been publicly disclosed by FSCT. Therefore, 
+such information contained herein is presented “as is,” without warranty of any kind – whether express or implied. Spruce Point Capital Management LLC makes no 
+other representations, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from 
+its use. You should assume all statements made are our opinions, unless sourced as facts where practical. 
+
+
+This report’s estimated fundamental value only represents a best efforts estimate of the potential fundamental valuation of a specific security, and is not expressed 
+as, or implied as, assessments of the quality of a security, a summary of past performance, or an actionable investment strategy for an investor. This is not an offer to 
+sell or a solicitation of an offer to Buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in which such offer would be unlawful 
+under the securities laws of such jurisdiction. under the securities laws of such jurisdiction. Spruce Point Capital Management LLC is registered as an investment 
+advisor with the SEC. Spruce Point Capital Management LLC is not registered as a broker/dealer or accounting firm.
+
+
+All rights reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point Capital Management LLC.
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176 
+
+
+May 12, 2020 
+ 
+ 
+Bryan Taylor 
+Advent International 
+San Francisco, CA 
+ 
+ 
+Dear Bryan, 
+ 
+You will recall that, on April 30th, Spruce Point Capital Management (“Spruce Point” or “we”) 
+published the results of our forensic review of the public filings related to your pending 
+acquisition of Forescout Technologies (“Forescout,” “FSCT,” or “the Company”), and strongly 
+recommended that you consider revisiting the terms of the deal or terminating the transaction 
+entirely. Critical to our recommendation was our finding that, prior to agreeing to the deal, 
+Forescout had prepared financial projections suggesting that the Company expected revenue to 
+decline by 18% year-over-year in Q1 FY20. This projection, which management prepared with 
+the specific intention of announcing to the public as its Q1 revenue guidance, was ultimately 
+disclosed later in the proxy following the cancellation of its Q4 FY19 conference call. As far as 
+we can tell, it was also never disclosed to you during the due diligence process. We believe 
+that Forescout’s newly-released Q1 results, which largely affirm the more pessimistic 
+“Illustrative Guidance” revenue projection, and which discloses a restructuring and 
+credit revolver drawdown event (both which may violate a deal covenant) provide 
+stronger justification for renegotiating or terminating the deal. We strongly encourage 
+you to revisit the acquisition on this basis. 
+ 
+In particular, Forescout announced yesterday that it recorded total revenue of just $57.2M in Q1 
+FY20, down over 24% versus Q1 FY19. This stands in stark contrast to management’s “Target 
+Plan” and “Alternate Plan” – both disclosed to prospective acquirers during the diligence 
+process, per the proxy – which projected full-year FY20 sales growth of 15.5% and 14.6%, 
+respectively. It also stands in contrast to the average sell-side analyst estimate of $78.1M for 
+Forescout’s Q1 sales, implying expected growth of 3.4%. The Company’s actual Q1 sales 
+results are even worse than the $62.0M Q1 revenue forecast prepared in anticipation of its Q4 
+FY19 conference call. Spruce Point concludes that this unannounced Q1 guidance – 
+which, again, was never issued to the public as initially intended, and which appears 
+never to have been disclosed to prospective buyers – was in fact a directionally better 
+measure of Forescout’s realized Q1 performance.
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176 
+
+
+
+
+
+ 
+ 
+ 
+ 
+In its press release and 10-Q issued yesterday afternoon, Forescout management attributed its 
+disappointing Q1 performance to A) “the effect of the COVID-19 pandemic on large-size deals 
+and new perpetual licenses,” and B) “customer uncertainty related to our pending transaction 
+with Advent International Corporation.” We note, however, that the pandemic did not have a 
+serious effect on the U.S. economy until the beginning of March at the earliest, and, indeed, 
+that the first shelter-in-place order issued in the U.S. did not take effect until March 19. 
+Accordingly, we strongly doubt that the pandemic could have had such a powerful effect on 
+Forescout’s Q1 performance, particularly as over 50% of the Company’s revenue is tied to 
+(relatively new) subscriptions and, as such, is recurring. Furthermore, with management’s 
+preliminary Q1 guidance so close to the Company’s actual performance for the quarter, we 
+question whether either the pandemic or the deal announcement – both of which occurred after 
+its preliminary guidance was prepared in late January 2020 (per the proxy) – could in fact be 
+responsible for Forescout’s disappointing growth. Therefore, we believe that neither of 
+management’s stated reasons for its overwhelming revenue contraction offer a robust 
+justification for its lackluster performance. 
+ 
+ 
+ 
+
+
+41.5% 
+
+
+35.2% 
+
+
+23.5% 
+
+
+34.7% 
+
+
+26.6% 
+
+
+15.8% 
+
+
+7.0% 7.8% 7.8% 
+3.4%
+
+
+7.8% 
+
+
+-18.0%
+
+
+7.8% 
+
+
+-24.3%-30%
+
+
+-20%
+
+
+-10%
+
+
+0%
+
+
+10%
+
+
+20%
+
+
+30%
+
+
+40%
+
+
+50%
+
+
+Q1-2018 Q2-2018 Q3-2018 Q4-2018 Q1-2019 Q2-2019 Q3-2019 Q4-2019 Q1-2020
+
+
+Forescout Revenue Growth, YoY
+
+
+Revenue Growth, YoY Q1 Growth - Consensus
+
+
+Q1 Growth - Prelim. Guidance (Undisclosed) Q1 Growth - Actual
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176 
+
+
+ 
+ 
+From these observations, we arrive at three deeply worrying conclusions: 
+ 
+ 
+
+
+1. Given the relative precision of Forescout’s preliminary Q1 guidance to its actual Q1 
+performance, and given management’s failure to provide a credible “non-fundamental” 
+explanation for its poor results, we believe that the Company’s 24% revenue 
+contraction reflects a breakdown of its top-line growth trajectory attributable to 
+fundamental, business-specific developments are highly likely to have been 
+visible prior to A) the onset of the pandemic in the U.S. and B) the deal 
+announcement. 
+ 
+If this is indeed the case, and while we are not lawyers and urge you to seek 
+independent counsel, we believe that the observed decline in Company 
+performance may represent a Company Material Adverse Effect as defined in the 
+merger agreement, the occurrence of which could give you legal grounds to 
+terminate the deal.  
+
+
+ 
+2. Given that management had foreseen a significant downturn in Forescout’s Q1 revenue 
+
+
+prior to both A) the onset of the pandemic and B) the deal announcement, yet appears to 
+have failed to disclose this projection during the diligence process, we remain 
+concerned that Forescout executives may have been aware of the emergence of 
+dramatic, Company-altering headwinds which it never divulged to prospective 
+acquirers, including you. 
+ 
+Failure to disclose such devastating, yet realistic projections certainly calls 
+management’s credibility into question and gives Advent a basis for reevaluation 
+of the transaction price and conditions. 
+ 
+
+
+3. If Forescout’s financial outlook was as promising as indicated by the optimistic 
+projections shared during the diligence process, why did the Company announce 
+a restructuring in Q1 2020, and draw down $16m on its credit facility while 
+maintaining $98m of cash and equivalents at year end – enough to bridge its gap 
+to expected Q2 2020 closing? The Company did not state in its 10-Q that these actions 
+were approved by the Parent, and as such, we worry that Forescout may have violated a 
+Forbearance Covenant in Article V, Section 5.2.
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176 
+
+
+ 
+ 
+Spruce Point continues to pursue all avenues of diligence available to us in our ongoing 
+evaluation of the health of Forescout’s business. In particular, under the Freedom of Information 
+Act (“FOIA”), we have submitted requests to major government customers for documents and 
+correspondence relating the status of their relationships with Forescout. We encourage you to 
+conduct similar diligence as the merger deadline approaches. Even then, we believe that the 
+evidence already known to the public may itself both suggest, and justify, that terminating or 
+renegotiating the acquisition is in your best interest as a fiduciary for public pension funds.  
+ 
+For full disclosure, funds managed by Spruce Point Capital Management hold a short position 
+in Forescout and stand to benefit in the event its share price declines. If you have any 
+questions, please don’t hesitate to contact me. 
+ 
+
+
+Sincerely, 
+ 
+ 
+ 
+Ben Axler 
+Managing Partner 
+Spruce Point Capital Management, LLC
+Observations From Q1 2020 Results
+4
+
+
+Revenues Decline Way Worse Than Expected; 
+Explanation Is Unsatisfactory
+
+
+Spruce Point observes that Forescout’s revenues declined materially more than “Illustrative Guidance” that was 
+formulated in late January 2020, a time period before the deal was announced on February 6th, 2020 and the WHO 
+
+
+declared a pandemic on March 11th, 2020. As a result, we express extreme skepticism with management’s explanation for 
+its poor performance.
+
+
+$ in mm Consensus
+
+
+Q1 Illustrative 
+Guidance Formed 
+Late January And
+Buried In Proxy
+
+
+Actual Q1
+Results
+
+
+Total Revenue
+% Growth
+
+
+$78.1
+3.4%
+
+
+$62.0
+-18.0%
+
+
+$57.2
+-24.3%
+
+
+Source: Forescout 10-Q, proxy and Bloomberg consensus
+
+
+From Forescout’s 10-Q: “The decrease in license revenue primarily resulted from the economic slowdown 
+caused by the global impact of the COVID-19 pandemic, as well as customer uncertainty related to the Merger.”
+5
+
+
+New Risk Factor About The Transaction Not 
+Being Consummated Just Added
+
+
+Forward Risks: Q1 2020 Earnings
+May 12, 2020
+
+
+Forward Risks: Shareholder Vote Approval
+April 23, 2020
+
+
+Why Are More Risk Factors Being 
+Described At The 11th Hour Ahead Of A 
+
+
+Promoted May 18th Closing Date By 
+Forescout? These Are Non-Pandemic 
+
+
+Risks And Might Allow Advent To Claim A 
+Material Adverse Change
+6
+
+
+Evidence To Suggest Forescout Violated 
+A Deal Covenant
+
+
+Upon close scrutiny of Forescout’s $2.5m surprise restructuring charge and plan initiated in Q1 2020, we 
+see the potential that it violated a Forbearance Covenant of the merger document. There is no mention 
+
+
+that approval was obtained from Advent. 
+
+
+From Forescout’s 10-Q: “In the first quarter of fiscal year 2020, the Company initiated a restructuring plan (the “Q1 2020 
+Restructuring Plan”) as part of the Company’s effort to realign its cost structure in both its go-to-market and engineering organizations. 
+
+
+The Q1 2020 Restructuring Plan included reduction in force of approximately 90 employees within the sales, marketing, and 
+engineering functions and was largely completed by March 31, 2020 with no material future costs expected to be incurred.”
+7
+
+
+Did Forescout Violate Another Deal Covenant?
+
+
+Why would Forescout draw down on its credit facility, and incur financing costs, if it had $98m of cash 
+and equivalents as of Dec 31, 2019, and it had a reasonable expectation of closing the transaction with 
+
+
+Advent in Q2 2020. The merger agreement lists debt incurrence in the Forbearance Covenants. 
+Specifically the debt would have to be “in the ordinary course of business consistent with past practices”. 
+
+
+However, Forescout has never had to draw on its credit facility before as a public company, so the 
+practice does not appear to be consistent with past practices. There is no mention that approval was 
+
+
+obtained from Advent. 
+
+
+“Further, during the three months ended March 31, 2020, we elected to drawdown on the revolving credit facility available to us in light of 
+the macro-economic conditions and its potential impact on credit market availability in the future.”
+
+
+“In addition, during the first quarter of fiscal 2020, we borrowed $16.0 million under our revolving credit facility as a precautionary measure 
+to provide additional liquidity in light of global economic uncertainty and financial market conditions caused by COVID-19. The amount 
+
+
+borrowed has been gradually paid down and will be fully paid upon consummation of the Merger.”
+8
+
+
+Do Negative Hardware Margins Suggest Declining 
+Competitive Position, Desperation To Hit Numbers or 
+Channel Stuffing?
+
+
+Spruce Point observes that Forescout’s gross margin on its hardware products plummeted into negative territory for the first time in 
+Q1 FY20. Management attributed this downward trend to “one off negotiations” on “deeply discounted” deals. However, in light of 
+the competitive struggles which the Company appears to be having in the marketplace, we wonder if such “deep discounting” on 
+
+
+hardware products represents, a new normal for Forescout, or at worst evidence to suggest desperation to hit numbers or channel 
+stuffing? If so, we believe that Forescout’s growth potential and profitability profile have fundamentally turned for the worse.
+
+
+This could represent a material adverse effect per the language of the merger agreement with Advent?
+
+
+Q1 
+FY17
+
+
+Q2 
+FY17
+
+
+Q3 
+FY17
+
+
+Q4
+FY17
+
+
+FY17
+Q1 
+
+
+FY18
+Q2
+
+
+FY18
+Q3
+
+
+FY18
+Q4
+
+
+FY18
+FY18
+
+
+Q1 
+FY19
+
+
+Q2
+FY19
+
+
+Q3
+FY19
+
+
+Q4
+FY19
+
+
+FY19
+Q1
+
+
+FY20
+
+
+Hardware 
+Margin
+
+
+22% 23% 26% - 27% 23% 25% 25% - 24% 24% 25% 13% - 26% -8%
+
+
+FSCT: Average Margin on Hardware Sold Separately
+
+
+FSCT: Q1 FY20 10-Q
+
+
+Source: Forescout 10-Q
+April 30, 2020 
+
+
+Bryan Taylor 
+
+
+Advent International 
+
+
+San Francisco, CA 
+
+
+Dear Bryan, 
+
+
+First off, congratulations on your recent appointment as head of technology investing at Advent 
+
+
+International, and for the successful closing of your $2 billion technology fund focused on “disruptive” 
+
+
+businesses. It is an impressive vote of confidence to receive an investment from the Los Angeles City 
+
+
+Employees’ Retirement System and Virginia Retirement System, among others reported by the press. 
+
+
+With great investment power comes even greater investment responsibility. As a fiduciary for the funds 
+
+
+of many hard-working public employees, we trust that you are upholding your duties to seek the best 
+
+
+investment returns with the lowest risk possible in this highly uncertain and complex period.  
+
+
+Spruce Point Capital Management (“Spruce Point” or “we”) has recently conducted a deep forensic 
+
+
+review of the public proxy filings with the Securities and Exchange Commission (“SEC”) related to your 
+
+
+$1.8 billion acquisition of Forescout Technologies, Inc. (“Forescout” or “FSCT”) announced on Feb 6, 
+
+
+2020. We are concerned that Forescout may not have given complete, timely, or realistic access to 
+
+
+information with respect to its financial projections, thus leading to an inflated $33 per share purchase 
+
+
+price. Forescout had been dubbed a dinosaur IPO, and throughout its life as a public company, failed to 
+
+
+hit its financial targets. Upon reading the proxy, it appears that Forescout was eager to complete a 
+
+
+transaction prior to its Q4 2019 earnings call. At that time, Forescout was set to issue 2020 “Illustrative 
+
+
+Guidance” that would have exposed a serious decline in financial expectations, resetting annual revenue 
+
+
+guidance from $386m to $355m, or 8% below plan. Surely, this information would have been a blow to 
+
+
+its share price. For context, in Q3 FY19, revised sales guidance resulted in a 37% price drop.  
+
+
+Now bear in mind, this dramatic financial revision was contemplated before the WHO declared COVID-
+
+
+19 a pandemic, and lock down measures spread to the Americas, where Forescout has customer 
+
+
+concentration. In today’s environment, it’s likely that Forescout’s financial projections would be 
+
+
+even materially worse, as many public companies have retracted financial guidance and 
+
+
+Forescout’s growth would likely come from small and medium sized businesses that have taken 
+
+
+the brunt of the pain.  We do not blame Advent for its inability to see the full-scale impact that COVID-
+
+
+19 has had on the world, or its ill-timed acquisition. However, Advent does have the ability, and a 
+
+
+fiduciary duty, to rethink what this means to the valuation ascribed, and share price paid, to acquire 
+
+
+Forescout.  
+
+
+It is our belief and request that Advent should consider revising its offer lower or abandoning the 
+transaction outright. In this environment, other companies are terminating deals given the  
+
+
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176
+Spruce Point Capital Management 
+1740 Broadway – 15th Floor 
+
+
+New York, NY 10019 
+212-579-1176
+
+
+changing state of world affairs. Forescout’s management, venture capitalists, and index shareholders 
+stand to reap significant financial gain from Forescout’s inability to achieve its financial goals. This 
+comes at the direct expense of Advent investors. Forescout is unprofitable and appears to be growing 
+much slower than industry peers. On the basis of the Alternative Plan – the last forecast believed to be 
+provided to prospective buyers, per the timeline in the proxy – Advent is offering 4.7x FY20E sales for 
+Forescout. However, on the basis of the Illustrative Guidance, is offering 5.1x FY20E sales. Reducing 
+the deal price to the initial 4.7x on the basis of the (4) Illustrative Guidance would put FSCT shares at 
+$30.39, or 8% below the current deal price. However, share values fall to just ~$26.00 – over 21% below 
+the deal price – if we instead value FSCT shares at 4.7x pandemic-adjusted (15% haircut) FY20 sales 
+guidance. We conclude that, conservatively taking into account the effect of the pandemic, Advent likely 
+paid close to 20% above what it would have intended to pay had it (A) been given clear access to 
+management’s Illustrative Guidance and (B) waited just several weeks to observe the effect of the 
+pandemic on the economy. 
+
+
+The precedent (pre-COVID19) software transactions cited in the deal proxy carry a median NTM 
+revenue multiple of 4.7x. However, Spruce Point questions whether these transactions are now relevant 
+to a post-COVID19 Forescout, a chronically-unprofitable player in a pressured vertical of the 
+cybersecurity space. Other, closer comps appear to suggest a lower multiple. In particular, on April 9, 
+2020 Investcorp Technology Partners acquired German cybersecurity company Avira for $180M. While 
+German financial filings reveal that, like Forescout, Avira has been growing at a relatively modest single-
+digit rate through the recent past, they also show that it has been consistently profitable over the same 
+period. Even then, it was acquired for a modest revenue multiple of just ~2.2x – considerably lower than 
+Forescout’s 4.7x purchase price (on Target Plan), despite its own projected Q1 contraction and 
+continued failure to turn a profit. Spruce Point believes that Forescout should be valued closer to slower-
+growing peers like Avira. On our pandemic adjusted sales numbers, and assuming a generous 3x sales 
+multiple, we could realistically see Forescout shares 50%-60% lower than your $33 offer price. 
+
+
+We hope you carefully evaluate our opinions about Forescout. In these difficult financial times, 
+
+
+increased consideration and scrutiny should be given to how capital is allocated between have and have 
+
+
+nots. We feel strongly that Forescout’s management, VCs, and index owners should not benefit at the 
+
+
+expense of hard-working employees of public pension funds.  
+
+
+For full disclosure, funds managed by Spruce Point Capital Management hold a short position in 
+
+
+Forescout and stand to benefit in the event its share price declines.  
+
+
+Sincerely, 
+
+
+Ben Axler 
+
+
+Managing Partner 
+
+
+Spruce Point Capital Management, LLC
+Why Advent Should Cut Its Purchase 
+Price or Abandon The Forescout 
+Deal
+Executive Summary
+4
+
+
+Spruce Point Believes Advent Must Revise The 
+FSCT Deal Price 35%-50% Lower, Or Walk Away
+
+
+Was Forescout’s Complete Financial Outlook Shared With Prospective Buyers?: Upon a close forensic analysis of the deal proxy statement, Spruce Point believes that some 
+financial forecasts prepared by management may not have been shared with prospective buyers. In particular, forecasts which projected FY20 sales 8%-9% lower than the 
+Company’s primary “Target Plan” were prepared and analyzed internally at various points through the acquisition timeline, but appear not to have been submitted to 
+potential acquirers. In each case, these internal financial forecasts appear to have represented plausible outcomes for Company performance based on management’s best 
+knowledge of the state of the business at the time, and, accordingly, should have been shared alongside its more optimistic forecasts. One of these forecasts was 
+management’s preliminary Q1 and full-year FY20 revenue guidance which it planned to (but did not) share on its Feb 6, 2020 (Q4 FY19 earnings) – a call which was cancelled 
+upon the morning’s deal announcement. With the Q1’20 guide a full 20% below consensus Q1 estimates and suggesting year-over-year contraction, the announcement could 
+have dealt a crushing blow to the stock, possibly altering the course of any acquisition talks. With Advent – a financial buyer – having shown a relatively high level of 
+sensitivity to forecast adjustments over the course of the negotiation, Spruce Point believes that the later disclosure of this guidance revision lower in the deal proxy may 
+serve as motivation for the firm to walk away from the deal, or at least demand renegotiation.
+
+
+A Busted Dinosaur IPO Under Greater Pressures Remarketing Debt Capital In A Highly Discriminating Environment: It took Forescout 17 years to IPO, giving analysts reason 
+to dub it a “dinosaur” IPO. As a public company, we believe FSCT created little/no value for shareholders, and was showing signs of fundamental strain even prior to the onset 
+of the COVID-19 pandemic: a disappointing Q3 FY19 preannouncement sent shares tumbling down ~37% as top-line growth decelerated to single-digit levels for the first time 
+in years. Spruce Point finds evidence of widespread dissatisfaction among its employee base, notably the front-line sales force which has shown significant turnover. The 
+product itself has also received increasingly unfavorable reviews through the past several years as the competitive landscape has grown more crowded. Based on our primary 
+due diligence, we learned that competitors are bundling more solutions, and cyber deals for small and medium sized businesses are being delayed, leading to pricing 
+pressure. With a large percentage of its customers tied to government spending where margin upside is generally limited, a history of negative EBITDA and free cash flow, 
+and an uncertain SaaS transition, investors should be worried about $400m of debt capital needed to fund the transaction during a newly disclosed “remarketing” period.
+
+
+A Favorable Cost / Benefit Analysis Gives Advent Leverage To Demand New Terms: Spruce Point estimates that, given (1) Advent’s potentially incomplete view into 
+Forescout’s financials during the negotiation process, and (2) pandemic-related developments which we believe erodes the Company’s outlook going forward, a conservative 
+reevaluation of the deal featuring NO multiple compression could see Advent value FSCT more than 20% below the $33/share deal price.  Despite facing a $112M 
+termination fee, a straight-forward cost/benefit analysis reveals that, at the current terms,  Advent would do better to walk away from the deal rather than complete it. We 
+believe that, in a more realistic scenario in which Forescout’s projections are revised downward, and the multiple compressed, FSCT shares should be valued between $17-
+$22 regardless of whether the deal is renegotiated or annulled completely, yielding 35%-50% downside to the $33 price.
+
+
+On Feb 6, 2020 Forescout Technologies, Inc. (“FSCT” or “the Company”) announced its purchase by Advent International for $33/share in a 
+$1.8bn deal. We believe investors ascribe too high a probability that it is a done deal. Upon conducting a forensic analysis of deal proxy 
+
+
+statements, we observe that some financial forecasts reviewed by Forescout internally may not have been shared with prospective acquirers –
+and that some of these forecasts were materially worse than those known to be disclosed to buyers. Whether or not this represents a breach of 
+reps and warranties, we believe it should serve as grounds for Advent to negotiate a lower share price. Advent’s interest in revisiting the terms 
+should be high given that the deal was struck just weeks prior to the WHO declaring COVID-19 a pandemic, which we believe dramatically alters 
+
+
+the financial outlook for Forescout, a negative EBITDA business which was already under growth pressures and missing its guidance. 
+Importantly, with the onset of the pandemic, Spruce Point estimates that it is likely in Advent’s interest to walk away from the deal – even after 
+
+
+taking into account its $112M termination fee. We believe Advent substantially overpaid, underscored by Investcorp’s recent purchase of Avira in 
+early April. Avira, a profitable cybersecurity company, was acquired at a revenue multiple >50% less than Forescout’s. We believe that Advent can, 
+and should, use this as leverage to renegotiate the deal price lower by 35%-50%. In our opinion, Advent, a steward of public pension capital, must 
+
+
+negotiate a lower deal price more reflective of Forescout’s ominous outlook, rather than unjustly enriching management with a $100m payday, 
+and early VCs for having created limited / no value as a public company.
+5
+
+
+A Busted Dinosaur IPO: Forescout Management 
+Appears To Have Created Little, If Any, Value
+
+
+Even in the midst of one of the strongest bull markets on record, favoring technology companies, FSCT shares appreciated little since the 
+
+
+Company went public in late 2017. Spruce Point believes that this reflects management’s failure to create meaningful value in recent years, 
+
+
+combined with top-line headwinds which, we believe, will continue to plague the Company – particularly against the backdrop of an 
+
+
+unprecedented economic environment.
+
+
+Source: Bloomberg Nov 2018
+
+
+Forescout acquires 
+
+
+SecurityMatters for $113M, 
+
+
+creating little value
+
+
+Oct 2019
+
+
+Forescout preannounces 
+
+
+disappointing Q3 FY19
+
+
+Oct 2019
+
+
+Corvex Management and 
+
+
+Jericho Capital announce 
+
+
+activist stake
+
+
+Feb 2020
+
+
+Buyout announced
+Source
+
+
+
+https://techcrunch.com/2017/10/26/forescout-technologies-prices-iot-security-ipo-at-22
+6
+
+
+Big Guidance Miss Likely Would Have Been 
+Material To The Stock – And To The Deal Price?
+
+
+When management announced the deal on Feb 6, it also cancelled its earnings call scheduled for later that day. It instead released its Q4 results 
+
+
+immediately upon announcing the deal, disclosing a sales figure which came in 4% below Q4 guidance and consensus estimates of $95M. 
+
+
+However, management chose not to disclose the guidance that it planned to issue on the call – figures that would have disappointed Q1 and full-
+
+
+year FY20 consensus by 21% and 6%, respectively, and which would have revealed management’s expectation that Q1 sales would have
+
+
+contracted year-over-year. Prior to Q3 FY19, an earnings preannouncement which saw management cut its Q3 sales estimate by 9% sent the 
+
+
+stock tumbling by nearly 40% in a single day. What might a >20% Q1 guidance miss have done to the stock had the deal not been completed prior 
+
+
+to the call?
+
+
+If conscious of the full extent of the revenue headwinds of which management appeared to be aware, would Advent have still been willing to 
+
+
+purchase Forescout for $33 per share, just one quarter after the stock fell as low as ~$25 after a posting a top-line miss similar to what it would 
+
+
+have posted on the Q4 call?
+
+
+Q3 FY19 Guidance Revision Sent Stock Tumbling Just Under 40%... …So What Would Have Happened On Another Top-Line Guidance Miss?
+
+
+Q3 FY19 Preannouncement
+
+
+Initial Consensus, Sales: $102.0M
+
+
+Revised Sales Estimate: $91.1M
+
+
+Disappointment: -10.7%
+
+
+Stock Price Response: -37.3%
+
+
+FY20 Q1 / Full-Year Guide
+
+
+Consensus, Sales: $78.1M / $377.4M
+
+
+Illustrative Guide: $62.0M / $355.0M
+
+
+Miss (Unannounced): -20.6% / -5.9%
+
+
+Stock Price Response: ???
+
+
+Source: BloombergSource: Yahoo! Finance
+7
+
+
+Review The Deal: Advent Must Carry Out Its 
+Fiduciary Duty To Investors
+
+
+Spruce Point believes that Advent has a duty to its investor base to reevaluate the deal in light of potentially new financial forecasts and the 
+
+
+rapidly-evolving economic environment. This duty is only magnified by the fact that Advent’s largest investors in its latest fund include a host of 
+
+
+public investment boards and pension systems, many of which could face increasing strain as the pandemic continues to wreak havoc on 
+
+
+financial markets. If this deal no longer makes financial sense in light of new developments, Advent should consider renegotiating or backing out.
+
+
+Source
+
+
+With its sales growth rate plunging, front-line sales people 
+
+
+departing, and diversified competition bundling services and 
+
+
+discounting, is Forescout disruptive or being disrupted?
+
+
+The savings of hard-working public employees put at risk by a 
+
+
+low-quality deal?
+
+
+Source
+
+
+
+https://www.pionline.com/article/20190606/ONLINE/190609922/advent-international-raises-17-5-billion-for-ninth-global-pe-fund
+
+https://www.privateequityinternational.com/advent-eyes-disruptive-high-growth-businesses-with-debut-tech-fund/
+8
+
+
+Deals Are Being Cancelled In Response To The 
+Pandemic – Is The Forescout Deal Next?
+
+
+There is no shame in modifying a bad deal. Spruce Point notes that the COVID-19 pandemic has already begun to wreak 
+
+
+havoc on M&A: announced deals, both large and small, have cancelled unilaterally or consensually due to the effects of 
+
+
+the crisis. We believe that Advent’s planned acquisition of Forescout – announced just weeks before the pandemic took 
+
+
+hold in the US – could be the next casualty.
+9
+
+
+Why Does Management Get To Walk Away 
+With $100m For Its Failures?
+
+
+Despite having created little to no value, in our opinion, as a public company (including missing financial targets and 
+
+
+spending $110m on a revenue-less venture SecurityMatters with no clear evidence that it succeeded), Forescout insiders 
+
+
+are in line for a hefty payday – cashing out nearly $100m. Why does management get to walk away with so much money, 
+
+
+while Advent and its sponsors – reportedly largely state employee pension funds – are left paying richly for an ostensibly 
+
+
+struggling business with no clear financial visibility in the midst of a pandemic?
+
+
+Note: All insiders based on $33/share
+
+
+Source: Proxy
+
+
+
+https://www.sec.gov/Archives/edgar/data/1145057/000104746920001712/a2241060zdefm14a.htm
+10
+
+
+Enriching Management And Financial Interests 
+At The Expense Of The Public
+
+
+In an unprecedented period akin to a depression where the disparity between have and have-nots is widening, Spruce Point believes 
+
+
+that the proposed Forescout deal unjustly enriches management and long-time VCs stuck in dinosaur investment, while putting 
+
+
+public employee pension dollars at risk. We believe that Advent has a duty to review the terms of the deal in light of Forescout’s 
+
+
+struggles and the ongoing pandemic.
+
+
+Potential Winners Of The Deal Potential Losers Of The Deal
+
+
+Advent (via portfolio fees)
+Advent investors / public pension funds / hard-working U.S. 
+
+
+citizens
+
+
+Venture capital firms with a stake in Forescout > 10yrs Debt investors 
+
+
+Activists and Index / ETF funds Forescout employees jumping ship
+
+
+Management (via excessive golden parachute pay day) Forescout customers during transition of business/ownership
+
+
+Lawyers collecting fees
+
+
+Morgan Stanley (advisor/fairness opinion fees)
+11
+
+
+Change (And Inconsistent) Language Suggests 
+Rising Financing Risk?
+
+
+Does a subtle change (and inconsistency) in the transaction details discussed in Forescout’s deal-related press releases suggest that financing 
+
+
+for the deal may be at risk? On Feb 6th and March 9th the Company claimed that the deal was expected to close in Q2 FY20 “subject to customary 
+
+
+closing conditions, including approval by Forescout shareholders and receipt of regulatory approvals.” On Apr 23rd , the deal was indeed 
+
+
+approved by a shareholder vote, with over 99% voting in favor of the transaction. However, the press release now says the completion of the deal 
+
+
+is conditional upon “a customary debt marketing period.” whereas the transcript says “remarketing period”. Why did management choose to 
+
+
+highlight this condition only now? Does remarketing the financing suggest it is at risk now with the onset of the COVID-19 pandemic?
+
+
+FSCT: Acquisition Press Release (Feb 6, 2020)
+
+
+Source
+
+
+Source
+
+
+FSCT: Acquisition Press Release (Apr 23, 2020)
+
+
+FSCT: Special Meeting of Stockholders (Apr 23, 2020)
+
+
+“Based on the preliminary report of Inspector of Elections, stockholders voted to adopt the merger agreement 
+
+
+and voted to approve the compensation that will or may become payable to Forescout -- by Forescout to its 
+
+
+named executive officers. The Inspector of Elections will execute a certificate as to the results of the voting, 
+
+
+and that certificate will be filed with the minutes of this meeting. As we have sufficient votes to approve the 
+
+
+adoption of the merger agreement, the proposal of the proxy to adjourn this meeting to a later date to solicit 
+
+
+additional proxies is rendered moot, and will not be presented for a vote. The final tabulation of these votes will 
+
+
+appear in the Form 8-K to be filed with the Securities and Exchange Commission. We currently expect the 
+
+
+merger to be consummated on or around May 18, 2020, after buyer's remarketing period ends.”
+
+
+- Darren Milliken, General Counsel – Forescout Technologies
+
+
+Remarketing or marketing period?
+
+
+Has the financing for the deal 
+
+
+originally announced on Feb 6 fallen 
+
+
+through or become less certain?
+
+
+FSCT: Expiration Go Shop Release (March 9, 2020)
+
+
+Source
+
+
+
+https://www.sec.gov/Archives/edgar/data/1145057/000110465920030809/tm2012117d2_ex99-1.htm
+
+https://investors.forescout.com/node/8836/pdf
+
+https://www.forescout.com/company/news/press-releases/forescout-to-be-acquired-by-advent-international-in-1.9-billion-transaction/
+Did Management Fail To Disclose A 
+Weak Financial Outlook To 
+Prospective Acquirers?
+13
+
+
+Were All Financial Forecasts Prepared By 
+Management Provided To Prospective Buyers?
+
+
+In the acquisition timeline provided in the proxy statement issued following the deal’s announcement, Forescout discusses its preparation of four 
+
+
+different sets of long-term financial forecasts at various points through late 2019 and early 2020. Its (1) “Target Plan” and (2) “Preliminary 
+
+
+Alternate Plan” were completed in Nov 2019 – towards the beginning of the acquisition timeline, and in the normal course of management’s 
+
+
+internal financial reviews. Its (3) “Alternate Plan” was later completed in early Feb 2020 on updated information regarding its sales and expense 
+
+
+outlook, in conjunction with the (4) “Illustrative Guidance” which management expected to release on its planned Feb 6, 2020 earnings call for Q4 
+
+
+FY19. After a close analysis of the provided deal timeline and the contents of each of the forecasts disclosed, Spruce Point questions whether 
+
+
+potential buyers were provided all of management’s forecasts – each of which differed materially from the others – and, therefore, whether they 
+
+
+were made fully aware of management’s financial outlook. 
+
+
+Spruce Point believes that any failure by management to disclose its full financial outlook to prospective buyers could, at the very least, 
+
+
+provide sufficient grounds for Advent to ask Forescout to renegotiate the deal price. At worst, it could represent a potential breach of 
+
+
+Forescout’s representations and warranties, and thus give Advent a chance to exit the deal without paying an exit fee.
+
+
+FSCT: Deal Proxy Statement
+
+
+Nov 2019
+
+
+Management had 
+
+
+prepared a (1) Target Plan
+
+
+and (2) Preliminary 
+
+
+Alternative Plan, but 
+
+
+submitted only the (1) 
+
+
+Target Plan to potential 
+
+
+acquirers?
+
+
+Jan 2020
+
+
+Management prepared an 
+
+
+amended (3) Alternative 
+
+
+Plan and (4) Illustrative 
+
+
+Guidance, but submitted 
+
+
+only the (3) Alternative 
+
+
+Plan to potential 
+
+
+acquirers?
+14
+
+
+Low-End Forecast Of Financial Outcomes Not 
+Provided To Prospective Buyers?
+
+
+In Nov 2019, management completed its (1) “Target Plan” and (2) “Preliminary Alternate Plan” in the course of its regular preparation of internal 
+
+
+financial forecasts. Both were formed a “tops-down” basis, without the “bottoms-up” analyses of Forescout’s sales pipeline and anticipated 
+
+
+expenses which would be completed only in Jan 2020. Management claims that the two plans “were prepared to illustrate to the Forescout Board
+
+
+the degree of variability” in the Company’s prospective sales and expenses. However, Spruce Point notes that, at the time, only the (1) “Target 
+
+
+Plan” was provided to potential acquirers, according the deal proxy. If, per its (2) “Preliminary Alternate Plan,” management believed that sales 
+
+
+could plausibly be close to 10% lower than its Target Plan forecast in FY20 and beyond, and if it believed that EBIT could remain close to zero 
+
+
+through FY22, why was this not explicitly communicated to potential acquirers?
+
+
+(1) Target Plan
+
+
+(Nov 2019)
+
+
+Disclosed To 
+
+
+Buyers
+
+
+(2) Preliminary 
+
+
+Alternative Plan
+
+
+(Nov 2019)
+
+
+NOT Disclosed 
+
+
+To Buyers?
+
+
+Management 
+
+
+Discussion
+
+
+FY20 FY21 FY22 FY23
+
+
+Sales -8.5% -10.9% -11.7% -12.7%
+
+
+EBIT -184.6% -102.9% -95.7% -64.8%
+
+
+Difference In Forecasts
+
+
+Why was only the more 
+
+
+optimistic (1) Target Plan
+
+
+provided to prospective 
+
+
+acquirers when the less 
+
+
+optimistic (2) Preliminary 
+
+
+Alternative Plan represented 
+
+
+plausible variability in 
+
+
+Forescout’s future results?
+15
+
+
+Why was the (3) Alternative Plan so different 
+
+
+from management’s (4) Illustrative Guidance
+
+
+when supposedly both informed by the same 
+
+
+bottoms-up analysis?
+
+
+Why does it seem that only the (3) Alternative 
+
+
+Plan was given to potential buyers?
+
+
+Amended Low-End Forecast Provided To Prospective 
+Buyers Differed From Internal Low-End Forecast?
+
+
+In Jan 2020, after performing a “bottoms-up” analysis of the Company’s sales pipeline and anticipated expenses, management prepared an 
+
+
+amended (3) “Alternate Plan” reflecting the updated data, in addition to (4) “Illustrative Guidance” which it planned to release to investors on its 
+
+
+Feb 6, 2020 Q4 FY19 earnings call. While projecting out-year sales between 6%-11% below those outlined in the (1) “Target Plan” – which, at this 
+
+
+point, remained unchanged – the (3) “Alternate Plan” outlined a FY20 revenue estimate of $386M, close to the (1) “Target Plan’s” $389M estimate. 
+
+
+Why, then, was management preparing to issue FY20 guidance of $355M, $34M (close to 10%) below the (1) “Target Plan” estimate? How could 
+
+
+management justify an (3) “Alternate Plan” revenue estimate so far above a guide which should have been informed by the same data? And why 
+
+
+does it appear that, per the acquisition timeline, the (4) “Illustrative Guidance” was never provided to potential buyers?
+
+
+(2) Preliminary
+
+
+Alternative Plan
+
+
+(Nov 2019)
+
+
+NOT Disclosed 
+
+
+To Buyers?
+
+
+(3) Alternative 
+
+
+Plan
+
+
+(Jan 2020)
+
+
+Disclosed To 
+
+
+Buyers
+
+
+(4) Illustrative 
+
+
+Guidance
+
+
+(Jan 2020)
+
+
+NOT Disclosed 
+
+
+To Buyers?
+
+
+Amended in Jan 2020 based on bottoms-up sales and expense analysis
+
+
+Forecast FY20 Sales Estimate
+
+
+(3) Alternative Plan $386.0M
+
+
+(4) Illustrative Guidance $355.0M
+
+
+% Difference -8.0%
+
+
+Difference In Jan 2020 Forecasts
+16
+
+
+Language In Acquisition Timeline Appears To 
+Suggest That Not All Forecasts Were Disclosed
+
+
+Upon a close review of the text of the provided acquisition timeline, Spruce Point concludes that, per the deal proxy, it appears that neither the (2) 
+
+
+“Preliminary Alternate Plan” nor the (4) “Illustrative Guidance” was ever provided directly to potential acquirers.
+
+
+Nov 19-20
+
+
+(1) Target Plan and 
+
+
+(2) Prelim. Alternative 
+
+
+Plan BOTH prepared
+
+
+ONLY (1) Target Plan
+
+
+provided to 
+
+
+prospective buyers
+
+
+Jan 3-6
+
+
+Mgmt. discusses 
+
+
+poor preliminary Q4 
+
+
+results and ‘20 
+
+
+pipeline internally
+
+
+ONLY preliminary Q4 
+
+
+results provided to 
+
+
+prospective buyers
+
+
+Jan 24
+
+
+Mgmt. concludes that 
+
+
+it will not meet the (1) 
+
+
+Target Plan OR the 
+
+
+lower (2) Prelim. 
+
+
+Alternative Plan in ‘20
+
+
+Jan 27
+
+
+Mgmt. prepares (3) 
+
+
+Alternative Plan and 
+
+
+(4) Illustrative 
+
+
+Guidance
+
+
+ONLY (3) Alternative 
+
+
+Plan is provided to 
+
+
+prospective buyers
+17
+
+
+Summary: Not All Financial Information 
+Provided To Prospective Buyers?
+
+
+Spruce Point finds that, if the details provided by the proxy’s acquisition timeline are complete, prospective buyers may not have been given 
+
+
+internal financial forecasts which differed materially from the forecasts provided to them.
+
+
+Date
+Forecasts Prepared By / 
+
+
+Information Available To 
+Management
+
+
+Forecasts / Information Provided 
+To Potential Buyers?
+
+
+Difference In Financial Forecast 
+(Selected Items)
+
+
+Commentary
+
+
+Nov 19-20, 2019
+• (1) Target Plan
+
+
+• (2) Preliminary Alternative Plan
+
+
+• (1) Target Plan
+
+
+• (2) Preliminary Alternative Plan
+
+
+• FY20 Sales: $33M (9%)
+• FY20 EBIT: $24M (185%)
+
+
+• FY23 Sales: $78M (13%)
+• FY23 EBIT: $57M (65%)
+
+
+• If the (2) Preliminary 
+Alternative Plan was “prepared 
+to illustrate to the Forescout 
+board the degree of variability” 
+in Forescout’s sales pipeline 
+and future expenses, why was 
+it not provided to prospective 
+buyers alongside the more 
+optimistic (1) Target Plan?
+
+
+Jan 3-6, 2020
+• Preliminary Q4 FY19 Results
+
+
+• FY20 Sales Pipeline Forecast
+
+
+• Preliminary Q4 FY19 Results
+
+
+• FY20 Sales Pipeline Forecast
+• N/A
+
+
+• Why were prospective buyers 
+not given a “bottoms-up” view 
+into Forescout’s forward sales 
+outlook after being given only 
+a “tops-down” forecast (the (1) 
+Target Plan) in Nov 2019, 
+particularly since this pipeline 
+forecast later informed a lower 
+(3) Alternative Plan?
+
+
+Jan 24-27, 2020
+• (3) Alternative Plan
+
+
+• (4) Illustrative Guidance
+
+
+• (3) Alternative Plan
+
+
+• (4) Illustrative Guidance
+• FY20 Sales: $31M (8%)
+
+
+• How could two FY20 sales 
+forecasts supposedly based on 
+the same internal information 
+vary so significantly? If both 
+were plausible, why was only 
+the more optimistic (3) 
+Alternative Plan provided to 
+prospective buyers?
+18
+
+
+If The “Alternative Plan” Elicited Revised Offers, 
+What Would Disclosing Guidance Have Done?
+
+
+Given the details provided in the acquisition timeline, it seems reasonable to believe that the (2) “Preliminary Alternative Plan” was indeed never 
+
+
+provided to prospective acquirers. When the (3) “Alternative Plan” – a more optimistic forecast than the (2) “Preliminary Alternative Plan,” but 
+
+
+less optimistic than the (1) “Target Plan” – was purportedly provided to the remaining prospective buyers, both immediately revised their offers 
+
+
+downwards in response: “Financial C” from $34-$35 per share to “a couple of dollars” lower, and Advent from $38-$41 to $32. It seems unlikely 
+
+
+that these offers would have been revised downward in response to the (3) “Alternative Plan” had “Financial C” and Advent both been privy to 
+
+
+the more pessimistic (2) “Preliminary Alternative Plan” beforehand. As the deal timeline also appears to suggest that the even more negative (4) 
+
+
+“Illustrative Guidance” was never provided to the prospective buyers, it seems reasonable to believe that they were never made aware of these 
+
+
+estimates during the diligence process.
+
+
+If they were indeed never made aware of the (4) “Illustrative Guidance,” by how much more might have the prospective buyers revised their 
+
+
+offers downwards had this guide been disclosed?
+
+
+Jan 27
+
+
+(3) Alternative Plan 
+
+
+ONLY is provided to 
+
+
+buyers, NOT (4) 
+
+
+Illustrative Guidance
+
+
+Jan 31
+
+
+Buyers require time 
+
+
+to review (3) 
+
+
+Alternative Plan
+
+
+Feb 3
+
+
+Both remaining 
+
+
+prospective buyers 
+
+
+revise offers 
+
+
+downward in 
+
+
+response to (3) 
+
+
+Alternative Plan
+19
+
+
+Big Guidance Miss Likely Would Have Been 
+Material To The Stock – And To The Deal Price?
+
+
+When management announced the deal on Feb 6, it also cancelled its earnings call scheduled for later that day. It instead released its Q4 results 
+
+
+immediately upon announcing the deal, disclosing a sales figure which came in 4% below Q4 guidance and consensus estimates of $95M. 
+
+
+However, management chose not to disclose the guidance that it planned to issue on the call – figures that would have disappointed Q1 and full-
+
+
+year FY20 consensus by 21% and 6%, respectively, and which would have revealed management’s expectation that Q1 sales would have
+
+
+contracted year-over-year. Prior to Q3 FY19, an earnings preannouncement which saw management cut its Q3 sales estimate by 9% sent the 
+
+
+stock tumbling by nearly 40% in a single day. What might a >20% Q1 guidance miss have done to the stock had the deal not been completed prior 
+
+
+to the call?
+
+
+If conscious of the full extent of the revenue headwinds of which management appeared to be aware, would Advent have still been willing to 
+
+
+purchase Forescout for $33 per share, just one quarter after the stock fell as low as ~$25 after a posting a top-line miss similar to what it would 
+
+
+have posted on the Q4 call?
+
+
+Q3 FY19 Guidance Revision Sent Stock Tumbling Just Under 40%... …So What Would Have Happened On Another Top-Line Guidance Miss?
+
+
+Q3 FY19 Preannouncement
+
+
+Initial Consensus, Sales: $102.0M
+
+
+Revised Sales Estimate: $91.1M
+
+
+Disappointment: -10.7%
+
+
+Stock Price Response: -37.3%
+
+
+FY20 Q1 / Full-Year Guide
+
+
+Consensus, Sales: $78.1M / $377.4M
+
+
+Illustrative Guide: $62.0M / $355.0M
+
+
+Miss (Unannounced): -20.6% / -5.9%
+
+
+Stock Price Response: ???
+
+
+Source: BloombergSource: Yahoo! Finance
+20
+
+
+If Not A Breach Of Duties, At Least Leverage To 
+Renegotiate Deal Price Downwards?
+
+
+According to the proxy, the forecasts provided by management “reflected the best currently available estimates and judgments” on the business 
+
+
+and “presented, to Forescout management’s knowledge, the expected future financial performance of Forescout within the parameters and under 
+
+
+the assumptions specified in preparing the Forecasts.” However, press releases regularly released by management in conjunction with earnings 
+
+
+announcements, which themselves included forward guidance, stated that “All forward-looking statements in this press release are based on 
+
+
+information available to us as of the date hereof….” How could management’s (4) Illustrative Guidance have varied so heavily from its (1) Target 
+
+
+Plan and (3) Alternate Plan in its FY20 sales estimate, particularly when both the (3) Alternate Plan and (4) Illustrative Guidance were both 
+
+
+prepared with the benefit of a full view into the FY20 pipeline as of late January 2020? Did management violate its representations and warranties 
+
+
+by failing to provide buyers a full view into internal financial estimates? If nothing else, Spruce Point believes that, if management did in fact fail 
+
+
+to provide material internal estimates, Advent – a financial buyer – may have sufficient leverage to demand that the deal price be renegotiated, 
+
+
+particularly amidst a radically weakened economic environment.
+
+
+FSCT: Definitive Proxy Statement (Mar 23, 2020)
+
+
+FSCT: Q3 FY19 Earnings Press Release (Nov 6, 2019)
+
+
+Representative Disclosure Regarding Forward Guidance
+
+
+Forecasts Provided To Prospective Buyers FY20 Sales Estimate
+
+
+(1) Target Plan (Nov 2019) $389.0M
+
+
+(3) Alternative Plan (Jan 2020) $386.0M
+
+
+Planned Guidance For Q4 FY19 Earnings Call FY20 Sales Estimate
+
+
+(4) Illustrative Guidance (Jan 2020) $355.0M
+
+
+How could these 
+
+
+numbers vary so 
+
+
+significantly when 
+
+
+supposedly 
+
+
+informed by the 
+
+
+same bottoms-up 
+
+
+sales pipeline and 
+
+
+expense analysis 
+
+
+as of Jan 2020?
+
+
+Spruce Point 
+
+
+believes that these 
+
+
+discrepancies may 
+
+
+give Advent 
+
+
+motivation (and 
+
+
+justification) to 
+
+
+renegotiate the 
+
+
+terms of the deal
+Is It Still In Advent’s Interest To Close 
+The Deal?
+22
+
+
+Is An Acquisition Conceived In A Pre-Pandemic 
+Environment Still As Palatable Today?
+
+
+After exploring a sale of the business as early as Oct 2019, management announced its deal with Advent on Feb 6, 2020 – just weeks before the 
+
+
+COVID-19 pandemic radically transformed the world’s economic outlook. It’s no secret to those who have been following the Company since at 
+
+
+least Q3 FY19 that Forescout had already been struggling to meet expectations of late. Spruce Point believes that the overwhelming 
+
+
+macroeconomic events which have transpired since the deal was announced could render the business even less appealing at the current 
+
+
+juncture, encouraging the buyers to pressure Forescout into renegotiating the deal, or even compelling them to walk away outright.
+
+
+Feb 6, 2020: Forescout Acquisition Announcement
+
+
+Mar 13, 2020: HHS Expects Shortages, Healthcare System Strain
+
+
+Source
+
+
+Source
+
+
+
+https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf
+
+https://investors.forescout.com/node/8606/pdf
+23
+
+
+All Signs Suggest That Fundamental 
+Headwinds Were Not Improving
+
+
+While the deal announcement spared management from having to disclose its poor Q1 and full-year FY20 guidance, its Q4 FY19 numbers came in 
+
+
+well below Street expectations across the board. After management already disappointed investors with its negative Q3 FY19 earnings 
+
+
+preannouncement, we believe that the market would have responded very negatively to Forescout’s Q4 results had they not been released 
+
+
+alongside the buyout announcement, particularly had management been forced to announce its forward guidance as well. We acknowledge that 
+
+
+prospective buyers were forewarned about Forescout’s Q4 difficulties during the diligence process, but we wonder whether they were fully aware 
+
+
+of the extent to which the Company would fall below consensus estimates. 
+
+
+Further, in light of Advent’s decision to revise its offer downwards in response to its Q4 forewarning, we believe that the likely consequences 
+
+
+of the ongoing pandemic for the business would only make Advent more reluctant to follow through with its final offer of $33 per share.
+
+
+($, Millions, except per share figures and 
+percentages)
+
+
+Revenue, 
+Total
+
+
+Revenue 
+Growth, YoY
+
+
+Billings
+Billings 
+
+
+Growth, YoY
+Operating 
+
+
+Income
+EBIT Margin EPS
+
+
+Actual $91 8% $102 9% ($4) -4% ($0.09)
+
+
+Consensus $95 13% $108 15% ($2) -2% ($0.06)
+
+
+Beat / Miss -4% - -6% - -100% - -50%
+
+
+($, Millions, except per share figures and 
+percentages)
+
+
+Revenue, 
+Total
+
+
+Revenue 
+Growth, YoY
+
+
+Billings
+Billings 
+
+
+Growth, YoY
+Operating 
+
+
+Income
+EBIT Margin EPS
+
+
+Actual $91 8% N/A N/A ($2) -4% N/A
+
+
+Consensus $100 13% N/A N/A $3 -2% N/A
+
+
+Beat / Miss -9% - N/A N/A -167% - N/A
+
+
+FSCT: Q3 FY19 Preannouncement
+
+
+FSCT: Q4 FY19 Earnings Results
+
+
+Stock Price 
+
+
+Response
+
+
+-37%
+
+
+Stock Price 
+
+
+Response
+
+
+???
+
+
+Management was aware 
+
+
+that its Q4 results would 
+
+
+likely depress offer prices
+24
+
+
+Was Management In A Rush To Complete The 
+Deal Before Announcing Q4 Results?
+
+
+The acquisition timeline provided in the deal proxy highlights that management was focused on completing the deal prior to its Q4 earnings call, 
+
+
+going so far as to prioritize financial acquirers over strategic acquirers who were not prepared to announce a deal prior to the earnings release. 
+
+
+With Company growth quickly decelerating at the time, with management still on the heels of a disappointing Q3 preannouncement, and with 
+
+
+prospective buyers actively cutting their offers in response to lower Company forecasts, Spruce Point wonders whether management was looking 
+
+
+to secure a deal before any further disappointing announcements could depress the stock – particularly given its poor FY20 guidance, which, 
+
+
+again, appears not to have been disclosed to potential acquirers.
+
+
+If management is in fact desperate to secure a deal, it is perhaps even more likely that the Company would entertain a demand by Advent to 
+
+
+renegotiate the terms, lest it be forced to find a new acquirer amidst unprecedented economic uncertainty as a recently-failed take-out target
+
+
+Dec 18, 2019
+
+
+Management prioritizes 
+
+
+completing deal before 
+
+
+disclosure of Q4 results
+
+
+Jan 3, 2020
+
+
+Poor preliminary Q4 results
+
+
+discussed internally
+
+
+Jan 24, 2020
+
+
+Poor FY20 sales pipeline
+
+
+discussed internally
+
+
+Jan 27, 2020
+
+
+Management prioritizes 
+
+
+financial acquirers which 
+
+
+were prepared to agree to 
+
+
+terms prior to Q4 earnings 
+
+
+call
+
+
+Feb 3, 2020
+
+
+Remaining financial 
+
+
+acquirers reduce offer 
+
+
+prices in response to lower 
+
+
+(3) Alternative Plan
+25
+
+
+Missing The Boat On Critical Industry 
+Developments
+
+
+An expert we spoke to gave his opinion that Forescout is being left behind as the focus on cybersecurity shifts to the cloud. As both public and 
+
+
+private sector organizations increasingly rely on cloud platforms like Amazon AWS and Microsoft Azure, Forescout’s solution – which experts 
+
+
+describe as primarily “on-premise” and for end-use devices – is becoming less and less critical to customers’ approach to cybersecurity. 
+
+
+Meanwhile, the expert told us that competitors such as Tanium provide more comprehensive, cloud-friendly solutions which can be sold in 
+
+
+bundles to satisfy a broader swath of customers’ cybersecurity needs. Product bundling leads to pricing pressure. Spruce Point believes that the 
+
+
+recent deceleration in Forescout’s growth is largely a product of the Company’s failure to keep pace with industry trends, which will continue to 
+
+
+weigh on performance going forward.
+
+
+“It was about 2010 that this whole cybersecurity thing came in. 
+
+
+Everybody stamped their webpage that they had something to do with 
+
+
+cyber. So that whole process gained a lot of momentum. Now, it’s 
+
+
+starting to wane from a general perspective. And Forescout, 
+
+
+because they are 95% cyber, is going to take a bigger hit. It’s still 
+
+
+important, and it’s still critical, but I think this shift into 
+
+
+digitalization, and obviously cloud, and so on – the dollars, and the 
+
+
+sizzle if you will, is shifting away. Now I have my DNC, I have my 
+
+
+firewall – I have all of this stuff. I’m OK now. And Forescout ends up 
+
+
+being – it’s just nice to have, instead of a must-have. Now I’m just 
+
+
+securing all of the inputs. And I’m like, ‘That would be great, but my core 
+
+
+is secure, my edge is secure, my network is secure, all of this cloud 
+
+
+stuff – I’m just going to have Amazon and everybody else do that.’ 
+
+
+That whole shift is going to hit Forescout much harder because 
+
+
+Forescout is generally a cybersecurity business. And it’s, even more, it’s 
+
+
+just in the end-user devices. So to summarize, as [the space] shifted 
+
+
+down, it caused more disruption to Forescout than it would otherwise.”
+
+
+- Cybersecurity Expert, Former Forescout Employee
+
+
+“They're mostly on-campus, they're mostly on-prem. And as I shift to the 
+
+
+cloud, a lot of those security requirements go away – not go away, 
+
+
+but shift away from who's responsible, now to the cloud provider…. 
+
+
+[Forescout] will get hurt and they don't shift more to the cloud.”
+
+
+- Cybersecurity Expert, Former Forescout Employee
+
+
+“And [end-point is] almost the last thing you're going to build out when 
+
+
+you build out your whole security approach. You get the core and go out 
+
+
+and make sure that your network and everything is secure. Then you can 
+
+
+say, ‘Oh my gosh, I got printers, I got cameras, I've got all this end-point 
+
+
+stuff and it would be great to know, what's their compliance?’ But the 
+
+
+device is only one little piece. Tanium is going to come in and offer 
+
+
+a dozen different services, and end-point security is just one of 
+
+
+them. Because [Forescout] doesn’t offer a whole bunch of stuff, I 
+
+
+may get all this other services from a Tanium, where Forescout just 
+
+
+doesn’t play.”
+
+
+- Cybersecurity Expert, Former Forescout Employee
+
+
+Forescout Losing Its Industry Positioning With The Shift To The 
+
+
+Cloud…
+
+
+…And Other Players Can Provide More Comprehensive 
+
+
+Offerings
+
+
+Source
+
+
+
+https://www.upguard.com/articles/forescout-vs-tanium
+26
+
+
+Field Research Indicates Faster Growing 
+Upstarts Are Winning Business, Gaining Share
+
+
+Industry experts indicate that the 30%+ annual growth that Forescout enjoyed from 2016-18 was driven largely by its success among government 
+
+
+agencies and large corporate customers. This market, they report, is now largely saturated – the major culprit behind the Company’s recent top-
+
+
+line deceleration. Further growth will require Forescout to appeal to smaller customers and to expand its presence internationally. However, one 
+
+
+expert told us that Forescout is “five years behind the curve” in critical foreign markets, and that newer startups – many of which have effectively 
+
+
+“reverse-engineered” elements of Forescout’s cybersecurity services, and which are ahead of Forescout in offering a SaaS-enabled solution – are 
+
+
+dominating among smaller and mid-size businesses. These experts believe that the continued economic slowdown triggered by the COVID-19 
+
+
+pandemic will only exacerbate sector pricing pressure and drive more customers to lower-cost players.
+
+
+“Forescout did a good job of winning contracts with government agencies 
+
+
+and large civilian enterprises… But most of the runway with 
+
+
+government customers and Fortune 500 companies is now 
+
+
+saturated. Forescout has to figure out international to get its growth rate 
+
+
+back up, and it is going to have to go down market for new customers. It 
+
+
+has to simplify its sales pitch for smaller customers with less 
+
+
+comprehensive needs.”
+
+
+- Cybersecurity Expert, Former Forescout Employee (paraphrased)
+
+
+“There is a lot of reverse engineering going on among competitors 
+
+
+and startups. They might not all offer as complete of a solution as 
+
+
+Forescout, but they are cheaper and can be enough to meet down-
+
+
+market customers’ needs.”
+
+
+- Cybersecurity Expert, Former Forescout Employee (paraphrased)
+
+
+Source: LinkedIn
+
+
+Spruce Point believes that Forescout will have trouble 
+
+
+reaccelerating its top-line growth rate as it attempts to win smaller, 
+
+
+more price-sensitive mid-level customers with less comprehensive 
+
+
+cybersecurity needs – particularly as the ongoing pandemic 
+
+
+pressures budgets across the global economy.
+27
+
+
+Product Losing Traction?
+
+
+Spruce Point observes that Forescout’s technology appears to be losing favor among customers. As recently as 2014, the Company was listed 
+
+
+among the “leaders” in network access control by Gartner. However, it scores far worse in industry overviews published more recently. In 
+
+
+particular, Forrester rated it among the weakest options in the “Zero Trust eXtended Ecosystem Platform Providers Space” in Q4 2019. We believe 
+
+
+that Forescout’s observed financial headwinds are reflected in, and a product of, the Company’s declining perception among customers and 
+
+
+seemingly low employee morale, all of which create an image of a business which is under considerable pressure – to say nothing of the potential 
+
+
+consequences of the ongoing pandemic.
+
+
+Forrester Wave:
+
+
+Zero Trust eXtended Ecosystem Platform Providers Space (Q4 2019)
+
+
+Gartner:
+
+
+Magic Quadrant for Network Access Control (Dec 2014)
+
+
+Dec 2014
+
+
+From among the best…
+
+
+Q4 2019
+
+
+…to among the worst
+28
+
+
+Employee Anecdotes: Technology Behind The 
+Times, Poor Management
+
+
+Company reviews by former employees suggest that Forescout’s technology is lacking, and, most notably, that management is 
+
+
+political and weak. Recent reviews are almost universally negative. Spruce Point believes that this color is particularly revealing 
+
+
+given the Company’s recent struggles and public disappointments.
+
+
+!!!
+
+
+Source
+
+
+
+https://www.glassdoor.com/Reviews/Forescout-Technologies-Reviews-E262243.htm
+29
+
+
+Steady Exodus Of Staff, Particularly Among 
+Sales Force
+
+
+Spruce Point observes that Forescout appears to have experienced higher-than-average employee departures of late, particularly among its sales 
+
+
+staff – confirming employee anecdotes that we’ve heard elsewhere. Hiring, meanwhile, appears to have slowed to a trickle through the past 
+
+
+several months. We believe that reaccelerating its pace of top-line growth will be very difficult for Forescout with high turnover among its sales 
+
+
+force and slowed hiring.
+
+
+Source: LinkedIn
+
+
+Forescout: LinkedIn Hiring Trends Forescout: Recent Sales Force Departures
+30
+
+
+Sales Force Attrition Reflected In Changes To 
+Language In 10-K
+
+
+Spruce Point observes that, despite management claiming that it was looking to grow its sales headcount, recent changes to Forescout’s 10-K 
+
+
+appear to reveal emerging challenges in sales force retention, confirming the evidence which we have found elsewhere. These changes also 
+
+
+suggest that its sales force may have been growing less productive overall.
+
+
+FSCT: 2018 10-K
+
+
+FSCT: 2019 10-K (Filed Feb 28th After Deal Announcement)
+
+
+No longer 
+
+
+quantify 
+
+
+productivity
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1145057/000114505720000002/forescout1231201910-k.htm
+31
+
+
+Pandemic Puts Customers At Risk And 
+Encourages Cost Cutting
+
+
+As the COVID-19 pandemic continues with no clear end in sight, businesses of all sizes are being put at risk, yet continue to face political and 
+
+
+social pressure to refrain from layoffs to whatever extent possible. Spruce Point believes that, while a portion of Forescout’s customer base will 
+
+
+be seriously financially impaired, even customers who aren’t will take the opportunity to review and cut unnecessary service costs in an effort to 
+
+
+spare labor and spending on mission-critical items. Software like Forescout’s – increasingly a laggard in its own industry – could be a prime 
+
+
+candidate for replacement or removal as companies look to cut expenses amidst the crisis. Meanwhile, many prospective customers in the FY20 
+
+
+pipeline are likely to defer any new spending on software such as Forescout’s.
+
+
+“Across the board, [customers] are just trying to get by – not cut back employees, etc…. 
+
+
+Nobody’s going to add anything. Its just not going to happen.”
+
+
+- Cybersecurity Expert, Former Forescout Relationship Manager
+32
+
+
+Outsized Exposure To Industries Undergoing 
+Change And Experiencing New Pressures
+
+
+Forescout highlights that well over 50% of its total sales are attributable to financial services and government customers. Our research suggests 
+
+
+that its exposure to the public sector is particularly high – and that new developments and evolving priorities in this space may be contributing to 
+
+
+Forescout’s slowing growth. Meanwhile, Spruce Point notes that the financial sector bears particularly high risk to the economic consequences 
+
+
+of the pandemic, which will likely pressure spending on IT and business services among financial institutions.
+
+
+“What should be of concern is that – 10 to 15, maybe 20% of the worldwide business is public 
+
+
+sector, but at Forescout, that was much higher. If you disrupt that – as you know, it’s not 
+
+
+linear. To me, as an employee, I was concerned that they were reaching so top-heavy on public 
+
+
+sector as a part of the entire business…. If federal now misses, it’s going to have an impact on 
+
+
+the whole company…. That could be one of the reasons that we see the overall down-trend in 
+
+
+the business.”
+
+
+- Cybersecurity Expert, Former Forescout Employee
+
+
+FSCT: 2019 Investor Day Presentation
+33
+
+
+Deal Financing Could Encourage Renegotiation 
+Of Terms
+
+
+Perhaps putting the deal at even greater risk is the fact that it is being supported by $400M of debt financing from Owl Rock Capital. A significant 
+
+
+change in Company forecasts – whether due to the evolving economic environment or otherwise – could strongly deter Advent from participating 
+
+
+in a heavily-levered deal for a business under such pressure. Indeed, the acquisition timeline appears to indicate that learning of the more 
+
+
+pessimistic (3) Alternative Plan was alone sufficient to force prospective buyers to review their offers and financing sources.
+
+
+Jan 27
+
+
+Mgmt. prepares (3) 
+
+
+Alternative Plan and 
+
+
+(4) Illustrative 
+
+
+Guidance
+
+
+(3) Alternative Plan is 
+
+
+provided to 
+
+
+prospective buyers
+
+
+Jan 31
+
+
+Prospective buyers 
+
+
+notify management 
+
+
+that they must review 
+
+
+offers and deal 
+
+
+structure in light of 
+
+
+lower forecast
+
+
+Feb 3
+
+
+Remaining financial 
+
+
+acquirers reduce offer 
+
+
+prices in response to 
+
+
+lower (3) Alternative 
+
+
+Plan
+
+
+FSCT: Definitive Proxy Statement (Mar 23, 2020)
+34
+
+
+Change (And Inconsistent) Language Suggests 
+Rising Financing Risk?
+
+
+Does a subtle change (and inconsistency) in the transaction details discussed in Forescout’s deal-related press releases suggest that financing 
+
+
+for the deal may be at risk? On Feb 6th an March 9th the Company claimed that the deal was expected to close in Q2 FY20 “subject to customary 
+
+
+closing conditions, including approval by Forescout shareholders and receipt of regulatory approvals.” On Apr 23rd , the deal was indeed 
+
+
+approved by a shareholder vote, with over 99% voting in favor of the transaction. However, the press release now says the completion of the deal 
+
+
+is conditional upon “a customary debt marketing period.” whereas the transcript says “remarketing period”. Why did management choose to 
+
+
+highlight this condition only now? Does remarketing the financing suggest it is at risk now with the onset of the COVID-19 pandemic?
+
+
+FSCT: Acquisition Press Release (Feb 6, 2020)
+
+
+Source
+
+
+Source
+
+
+FSCT: Acquisition Press Release (Apr 23, 2020)
+
+
+FSCT: Special Meeting of Stockholders (Apr 23, 2020)
+
+
+“Based on the preliminary report of Inspector of Elections, stockholders voted to adopt the merger agreement 
+
+
+and voted to approve the compensation that will or may become payable to Forescout -- by Forescout to its 
+
+
+named executive officers. The Inspector of Elections will execute a certificate as to the results of the voting, 
+
+
+and that certificate will be filed with the minutes of this meeting. As we have sufficient votes to approve the 
+
+
+adoption of the merger agreement, the proposal of the proxy to adjourn this meeting to a later date to solicit 
+
+
+additional proxies is rendered moot, and will not be presented for a vote. The final tabulation of these votes will 
+
+
+appear in the Form 8-K to be filed with the Securities and Exchange Commission. We currently expect the 
+
+
+merger to be consummated on or around May 18, 2020, after buyer's remarketing period ends.”
+
+
+- Darren Milliken, General Counsel – Forescout Technologies
+
+
+Remarketing or marketing period?
+
+
+Has the financing for the deal 
+
+
+originally announced on Feb 6 fallen 
+
+
+through or become less certain?
+
+
+FSCT: Expiration Go Shop Release (March 9, 2020)
+
+
+Source
+
+
+
+https://www.sec.gov/Archives/edgar/data/1145057/000110465920030809/tm2012117d2_ex99-1.htm
+
+https://investors.forescout.com/node/8836/pdf
+
+https://www.forescout.com/company/news/press-releases/forescout-to-be-acquired-by-advent-international-in-1.9-billion-transaction/
+Reevaluating The Deal
+36
+
+
+Can The (Unreleased) Guidance Even Be 
+Trusted?
+
+
+Management’s (4) Illustrative Guidance – which was intended for the Q4 FY19 earnings call, but which was never ultimately released outside of 
+
+
+the deal proxy statement – forecasts Q1 FY20 sales of $62M and full-year FY20 sales of $355M. It should be noted that, while this would imply full-
+
+
+year revenue growth of 5.4%, it would imply Q1 revenue contraction of a whopping 18%. Did management really expect to grow sales so fast in 
+
+
+Q2-Q4 that it would be able to recover from nearly 20% Q1 contraction to achieve mid-single digit growth for the year? Given management’s 
+
+
+recent history of missing sales estimates by up to double-digit percentages, it is entirely plausible that management’s full-year sales guidance of 
+
+
+$355M is aggressive. Extrapolating the anticipated Q1 18% sales contraction throughout the year would suggest that full-year FY20 sales could be 
+
+
+as low as $276M – and this is before taking into account the potential effects of the pandemic on business performance.
+
+
+($M, except %s) Q1 FY18 Q2 FY18 Q3 FY18 Q4 FY18 FY18 Q1 FY19 Q2 FY19 Q3 FY19 Q4 FY19 FY19 Q1 FY20E Q2 FY20E Q3 FY20E Q4 FY20E FY20E
+
+
+Revenue $59.7 $67.6 $85.6 $84.7 $297.7 $75.6 $78.3 $91.6 $91.3 $336.8 $62.0 - - - $355.0
+
+
+Growth, YoY 41.5% 35.2% 23.5% 34.7% 32.6% 26.6% 15.8% 7.0% 7.8% 13.2% -18.0% - - - 5.4%
+
+
+FSCT: Illustrative Guidance
+
+
+($M, except %s) Q1 FY18 Q2 FY18 Q3 FY18 Q4 FY18 FY18 Q1 FY19 Q2 FY19 Q3 FY19 Q4 FY19 FY19 Q1 FY20E Q2 FY20E Q3 FY20E Q4 FY20E FY20E
+
+
+Revenue $59.7 $67.6 $85.6 $84.7 $297.7 $75.6 $78.3 $91.6 $91.3 $336.8 $62.0 $69.9 $87.9 $87.0 $306.9
+
+
+Incremental v. ’18 - - - - - $15.9 $10.7 $6.0 $6.6 $39.1 $2.3 $2.3 $2.3 $2.3 $9.2
+
+
+FSCT Growth Projection: Incremental Sales Over FY18
+
+
+($M, except %s) Q1 FY18 Q2 FY18 Q3 FY18 Q4 FY18 FY18 Q1 FY19 Q2 FY19 Q3 FY19 Q4 FY19 FY19 Q1 FY20E Q2 FY20E Q3 FY20E Q4 FY20E FY20E
+
+
+Revenue $59.7 $67.6 $85.6 $84.7 $297.7 $75.6 $78.3 $91.6 $91.3 $336.8 $62.0 $64.2 $75.1 $74.9 $276.2
+
+
+Growth, YoY 41.5% 35.2% 23.5% 34.7% 32.6% 26.6% 15.8% 7.0% 7.8% 13.2% -18.0% -18.0% -18.0% -18.0% -18.0%
+
+
+FSCT Growth Projection: Extrapolating Q1 FY20 Growth Rate
+
+
+Spruce Point Estimate
+
+
+Spruce Point Estimate
+37
+
+
+Economic Fallout Of Pandemic Brings Even 
+More Downside Risk
+
+
+Spruce Point estimates that, across Forescout’s purported peer group, sell-side estimates for full-year sales have been revised 
+
+
+downward by anywhere between 10%-20% in light of the ongoing pandemic. We believe that, should the economic consequences of 
+
+
+the pandemic grow increasingly severe – a distinct possibility as unemployment grows more severe by the week – the pandemic 
+
+
+could pose even greater downside risk to Forescout’s full-year sales. However, following industry practice, we believe that 
+
+
+whichever FY20 sales forecast investors use to evaluate the deal must be adjusted downward by at least ~15% to account for the 
+
+
+likely impact of the pandemic, since each of these forecasts predates the onset of COVID-19 in the United States.
+
+
+($M, except %s) (1) Target Plan
+(3) Alternative 
+
+
+Plan
+(4) Illustrative 
+
+
+Guidance
+
+
+Spruce Point 
+Projection: 
+
+
+Extrapolating
+Incremental 
+
+
+Two-Year Sales 
+From Q1 
+Guidance
+
+
+Spruce Point 
+Projection: 
+
+
+Extrapolating
+Implied Growth 
+
+
+From Q1 
+Guidance
+
+
+Revenue, FY20E $389.0 $386.0 $355.0 $306.9 $276.3
+
+
+Pandemic Adjustment -15% -15% -15% -15% -15%
+
+
+Revenue, FY20E, with Pandemic Adjustment $330.7 $328.1 $301.8 $260.9 $234.9
+
+
+Growth, YoY -1.8% -2.6% -10.4% -22.5% -30.3%
+38
+
+
+Suggested Comps Are All Superior To 
+Forescout
+
+
+Morgan Stanley, which advised Forescout on the deal, provides a list of suggested comps in its financial analysis of the deal contained within the 
+
+
+proxy. Spruce Point believes that each of the comps provided is superior to Forescout: none of the companies provided on the list has both as 
+
+
+low margins and as limited growth as Forescout. Accordingly, we believe that the Company should be valued at a material discount to the peer 
+
+
+group provided in the proxy.
+
+
+($M, except for multiples and %s) Ticker
+Enterprise 
+
+
+Value1
+
+
+Revenue 
+Growth 
+
+
+(Consensus)1
+
+
+EBITDA 
+Margin 
+
+
+(Consensus)1
+
+
+EV/Sales,
+FY20 (Oct 18, 
+
+
+2019)2
+
+
+EV/Sales,
+FY20 
+
+
+(Current)1
+
+
+Cyberark Software Ltd CYBR $3,163 10.4% 20.0% 10.0x 6.6x
+
+
+FireEye Inc FEYE $2,589 0.9% 10.0% 4.3x 2.9x
+
+
+Fortinet Inc FTNT $15,475 14.9% 26.5% 7.8x 6.2x
+
+
+Palo Alto Networks Inc PANW $15,475 14.9% 26.5% 6.5x 6.2x
+
+
+Qualys Inc QLYS $3,723 10.8% 42.7% 8.9x 10.4x
+
+
+Rapid7 Inc RPD $2,334 18.1% 4.1% 8.7x 6.1x
+
+
+SailPoint Technologies Holdings SAIL $1,570 6.7% 4.0% 7.0x 5.0x
+
+
+Splunk Inc SPLK $22,603 8.0% 3.7% 9.6x 8.8x
+
+
+Tenable Holdings Inc TENB $2,450 21.1% -4.4% 6.3x 4.7x
+
+
+Varonis Systems Inc VRNS $2,130 1.8% -7.6% 9.7x 8.2x
+
+
+Box Inc BOX $2,700 10.3% 15.8% 3.5x 3.5x
+
+
+Talend SA TLND $830 10.0% -13.0% 4.1x 3.0x
+
+
+Workiva Inc WK $1,590 14.0% -10.0% 6.7x 4.7x
+
+
+Zuora Inc ZUO $1,159 9.3% -6.2% 5.6x 3.8x
+
+
+MEDIAN - $2,519 10.4% 4.1% 6.9x 5.5x
+
+
+Forescout Technologies Inc – Illustrative Guidance3 FSCT $1,566 5.4% -3.0% N/A 4.4x
+
+
+Forescout Technologies Inc – Pandemic-Adj.4 FSCT $1,566 -10.4% N/A N/A 5.2x
+
+
+1. Source: Bloomberg April 29, 2020
+
+
+2. As enumerated in the deal proxy
+
+
+3. Using estimates provided in (4) Illustrative Guidance
+
+
+4. Using estimates from Spruce Point’s “Pandemic-Adjusted” (4) Illustrative Guidance
+
+
+Why should FSCT 
+
+
+shares be valued 
+
+
+on par with a peer 
+
+
+group which is 
+
+
+both more 
+
+
+profitable and is 
+
+
+projected to grow 
+
+
+more than twice as 
+
+
+fast 
+
+
+(even before taking 
+
+
+COVID-19 into 
+
+
+account)?
+39
+
+
+More Recent, Profitable, Cybersecurity Deal 
+Priced At A Sales Multiple Half of Forescout’s
+
+
+The precedent (pre-COVID19) software transactions cited in the deal proxy carry a median NTM revenue multiple of 4.7x. However, Spruce Point 
+
+
+questions whether these transactions are now relevant to a post-COVID19 Forescout, a chronically-unprofitable player in a pressured vertical of 
+
+
+the cybersecurity space. Other, closer comps appear to suggest a lower multiple. In particular, on April 9, 2020 Investcorp Technology Partners 
+
+
+acquired German cybersecurity company Avira for $180M. While German financial filings reveal that, like Forescout, Avira has been growing at a 
+
+
+relatively modest single-digit rate through the recent past, they also show that it has been consistently profitable over the same period. Even 
+
+
+then, it was acquired for a modest revenue multiple of just ~2.2x – considerably lower than Forescout’s 4.7x purchase price (on Target Plan), 
+
+
+despite its own projected Q1 contraction and continued failure to turn a profit. Spruce Point believes that Forescout should be valued closer to 
+
+
+slower-growing peers like Avira, and perhaps deserves a discount for its consistent unprofitability.
+
+
+Source: Bundesanzeiger
+
+
+Source
+
+
+Revenue Growth: 1% with the 
+
+
+filing calling for “slight” growth in 
+
+
+2019
+
+
+Profitable
+
+
+($, Millions, except percentages) FY17 FY18 FY19 (Est)1 FY20 (Est)1
+
+
+Actual Sales (US$) $74.3 $82.0 $83.0 $84.0
+
+
+Growth (local currency) - 1.0% 1.0% 1.0%
+
+
+Acquisition EV / Sales Multiple N/A 2.2x 2.2x 2.4x
+
+
+Avira 
+
+
+Acquisition 
+
+
+Analysis
+
+
+1. Spruce Point Estimates
+
+
+How can Forescout justify a 4.7x NTM 
+
+
+EV / Sales multiple with projected 
+
+
+sales contraction in Q1 FY20 and 
+
+
+continued unprofitability?
+
+
+Recent Post COVID19 
+
+
+pandemic
+
+
+
+https://www.bundesanzeiger.de/ebanzwww/wexsservlet
+
+https://www.investcorp.com/investcorp-acquires-germanys-leading-cybersecurity-company-avira/
+40
+
+
+Reassessing Valuation In Light Of New 
+Forecasts And Effect Of Pandemic
+
+
+On the basis of the (3) Alternative Plan – the last forecast believed to be provided to prospective buyers, per the timeline in the proxy – Advent is paying 
+
+
+4.7x FY20E sales for Forescout. However, on the basis of the (4) Illustrative Guidance, it is paying 5.0x FY20E sales. Reducing the deal price to the initial 
+
+
+4.7x on the basis of the (4) Illustrative Guidance would put FSCT shares at $30.39, or 8% below the current deal price. However, share values fall to just 
+
+
+~$26.00 – over 21% below the deal price – if we instead value FSCT shares at 4.7x pandemic-adjusted FY20 sales guidance. We conclude that, 
+
+
+conservatively taking into account the effect of the pandemic, Advent likely paid close to 20% above what it would have intended to pay had it (A) had 
+
+
+access to management’s Illustrative Guidance and (B) waited just several weeks to observe the effect of the pandemic on the economy.
+
+
+($M, except multiples)
+(1) Target 
+
+
+Plan
+
+
+(3) 
+Alternative 
+
+
+Plan
+
+
+(4) 
+Illustrative 
+Guidance
+
+
+Spruce Point 
+Projection: 
+
+
+Extrapolating
+Incremental 
+
+
+Two-Year 
+Sales From 
+
+
+Q1 Guidance
+
+
+Spruce Point 
+Projection: 
+
+
+Extrapolating
+Implied 
+
+
+Growth From 
+Q1 Guidance
+
+
+Sales, FY20E $389.0 $386.0 $355.0 $306.9 $276.3
+
+
+EV/Sales Multiple 4.7x 4.7x 5.1x 5.9x 6.6x
+
+
+Sales, FY20E, with Pandemic Adj. $330.7 $328.1 $301.8 $260.9 $234.9
+
+
+EV/Sales Multiple 5.5x 5.5x 6.0x 7.0x 7.7x
+
+
+($M, except share values) Valuation1
+
+
+(A) Price per Share $33.00
+
+
+(B) Shares Outstanding, RSUs, and PSUs 54.8
+
+
+(C) Net Proceeds per Option @ $33 Buyout $21.45
+
+
+(D) Options 2.8
+
+
+Equity Value  ([(A) x (B)] + [(C) x (D)]) $1,868.1
+
+
+Debt $8.2
+
+
+Operating Lease Liabilities $38.0
+
+
+Less: Cash and Equivalents ($98.2)
+
+
+Net Debt ($52.0)
+
+
+Enterprise Value $1,816.1
+
+
+($M, except share values & percents) Valuation
+
+
+Sales, FY20E $355.0
+
+
+Purchase Multiple 4.7x
+
+
+Enterprise Value $1,668.5
+
+
+Less (Plus): Net Debt (Cash) ($52.0)
+
+
+Equity Value $1,720.5
+
+
+Shares Outstanding, RSUs, and PSUs2 56.6
+
+
+Price per Share $30.39
+
+
+Discount to Deal Price -8.1%
+
+
+($M, except share values & percents) Valuation
+
+
+Sales, FY20E (Spruce Pt. Estimate) $301.8
+
+
+Purchase Multiple 4.7x
+
+
+Enterprise Value $1,418.2
+
+
+Less (Plus): Net Debt (Cash) ($52.0)
+
+
+Equity Value $1,470.5
+
+
+Shares Outstanding, RSUs, and PSUs2 56.6
+
+
+Price per Share $25.98
+
+
+Discount to Deal Price -21.2%
+
+
+Revaluation
+
+
+Deal EV / Sales 
+
+
+Multiple (4.7x)
+
+
+on FY20E Sales 
+
+
+According to 
+
+
+Illustrative 
+
+
+Guidance
+
+
+Revaluation
+
+
+Deal EV / Sales 
+
+
+Multiple (4.7x) 
+
+
+on FY20E Sales 
+
+
+According to 
+
+
+Pandemic-
+
+
+Adjusted 
+
+
+Illustrative 
+
+
+Guidance
+
+
+1. Based on share count, RSU and PSU count, option count, and weighted-average option strike price as of 10-K (Feb 14), the latest date for which all info is available
+
+
+2. Options based on treasury stock method
+41
+
+
+($M, except share values & percents) Valuation
+
+
+Sales, FY20E (Spruce Pt. Estimate) $301.8
+
+
+Purchase Multiple 4.7x
+
+
+Enterprise Value $1,418.2
+
+
+Less (Plus): Net Debt (Cash) ($52.0)
+
+
+Less: Option Proceeds ($59.9)
+
+
+Equity Value $1,410.4
+
+
+Shares Outstanding, RSUs, and PSUs2 56.6
+
+
+Price per Share $25.97
+
+
+Discount to Deal Price -21.2%
+
+
+($M, except share values) Valuation1
+
+
+(A) Price per Share $33.00
+
+
+(B) Shares Outstanding, RSUs, and PSUs 54.8
+
+
+(C) Net Proceeds per Option @ $33 Buyout $21.45
+
+
+(D) Options 2.8
+
+
+Equity Value  ([(A) x (B)] + [(C) x (D)]) $1,868.1
+
+
+Debt $8.2
+
+
+Operating Lease Liabilities $38.0
+
+
+Less: Cash and Equivalents ($98.2)
+
+
+Net Debt (Cash) ($52.0)
+
+
+Enterprise Value $1,816.1
+
+
+It Makes Sense For Advent To Walk
+From The Deal
+
+
+The preceding analysis leads us to a startling conclusion: even taking the deal-break fee of $111.7M into account, it could make sense for Advent 
+
+
+to break off the deal rather than follow through under the agreed-upon terms. Not only does this analysis open an avenue for Advent to walk 
+
+
+away, but, in so doing, it gives Advent leverage to demand that Forescout agree to renegotiate the deal, significantly raising the probability that 
+
+
+the acquisition is not culminated under the current terms. Note that the disparity between Advent’s valuation under the existing agreement and 
+
+
+any amended valuation could be even larger, given the magnitude of the change in Forescout’s growth trajectory per its unannounced guidance.
+
+
+FSCT Valuation Per Existing Agreement FSCT Valuation With Forecast Adjustments
+
+
+($M)
+
+
+(A) Enterprise Value, Initial $1,816.1
+
+
+(B) Enterprise Value, with Adjustments $1,418.2
+
+
+(C) Deal-Break Benefit, Gross  ((A) - (B)) $397.9
+
+
+(D) Deal-Break Fee3 $111.7
+
+
+Deal-Break Benefit , Net ((C) - (D)) $286.2
+
+
+As it is conceivably in Advent’s best interest to walk from the deal, 
+
+
+we believe that Advent should use this as leverage renegotiate the 
+
+
+price. Either way, we believe that there is a meaningful probability 
+
+
+that the deal will not be completed under the existing terms, whether 
+
+
+by means of a complete break or a renegotiation. Given Forescout’s 
+
+
+apparent rush to get the deal done, we would not be surprised to see 
+
+
+the Company concede to renegotiated terms, and encourage Advent 
+
+
+to pursue this alternative.
+
+
+1. Based on share count, RSU and PSU count, option count, and weighted-average option strike price as of 10-K (Feb 14), the 
+
+
+latest date for which all necessary information is available
+
+
+2. Options based on treasury stock method
+
+
+3. We assume no tax impact since FSCT has $379m existing NOLs
+
+
+Advent: Deal Break Cost / Benefit Analysis
+42
+
+
+FSCT Shares Have Significant Downside In A 
+Deal-Break Scenario
+
+
+Valuing FSCT shares at a more conservative multiple – below that of its purported peer group – and taking into account (A) management’s 
+
+
+unreleased guidance and (B) the potential impact of the pandemic on sales, Spruce Point believes that FSCT shares are worth 50%-60% less than 
+
+
+the $33 price set by the merger agreement. Taking into account the fact that the Company stands to receive a termination fee of $111.7M in the 
+
+
+case of a broken deal – which would presumably be factored into any renegotiation – FSCT shares still face 35-50% downside to the $33 deal 
+
+
+price, depending on the severity of the top-line projections used to value the Company.
+
+
+($M, except share values and 
+percentages)
+
+
+(4) Illustrative Guidance
+
+
+Spruce Point Projection: 
+Extrapolating Incremental 
+Two-Year Sales From Q1 
+
+
+Guidance
+
+
+Spruce Point Projection: 
+Extrapolating Implied Growth 
+
+
+From Q1 Guidance
+
+
+Sales, FY20E, with Pandemic Adj. $301.8 $260.9 $234.9
+
+
+EV/Sales Multiple 3.0x 3.0x 3.0x
+
+
+Enterprise Value $905.4 $782.6 $704.6
+
+
+Less (Plus): Net Debt (Cash) ($52.0) ($52.0) ($52.0)
+
+
+Equity Value $957.4 $834.6 $756.6
+
+
+Pro Forma Dil. Shares Outstanding1 56.6 56.6 56.6
+
+
+Price per Share $16.92 $14.75 $13.37
+
+
+Discount to Deal Price -49% -55% -60%
+
+
+Deal-Break Fee (to Forescout)2 $111.7 $111.7 $111.7
+
+
+Equity Value, Adj. $1,068.9 $946.3 $868.3
+
+
+Pro Forma Dil. Shares Outstanding3 50.2 50.2 50.2
+
+
+Price per Share $21.30 $18.85 $17.30
+
+
+Discount to Deal Price -35% -43% -48%
+
+
+Deal-Agnostic 
+
+
+Valuation
+
+
+Complete 
+
+
+Valuation
+
+
+1. Based on share count and option count as of Mar 23 proxy statement. Based on weighted-average option strike price as of 10-K (Feb 14), the latest date for which it is available.
+
+
+2. We assume no tax impact since FSCT has $379m existing NOLs

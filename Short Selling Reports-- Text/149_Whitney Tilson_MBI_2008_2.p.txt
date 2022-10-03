@@ -1,0 +1,1099 @@
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 1/17
+
+
+MBIA's GIC Exposure Could Trigger a Liquidity Crisis
+Jun. 28, 2008 5:57 PM ET37 comments
+by: Whitney Tilson
+
+
+MBIA was down 26% this week -- and I'm surprised it wasn't more, given the news last
+Thursday and Friday. 
+
+
+In Bill Ackman's presentation last Wednesday (which is posted at
+www.valueinvestingcongress.com), he revealed an area of exposure for many of the bond
+insurers that I hadn't previously been aware of: Guaranteed Investment Contracts (GICs).
+I knew MBIA had an investment management division that sold GICs, but didn't fully
+understand their structure and how toxic this business can be in the event of a
+downgrade. It's really quite ironic that everyone (myself included) has been so focused on
+the company's structured finance exposure, but something out of left field like GICs might
+be what triggers a liquidity crisis that takes the company under. 
+
+
+Allow me to explain what a GIC is. Let's say a municipality like Wichita does a $100 million
+bond offering to build some schools (or bridges or whatever). Immediately after the
+offering, it has $100 million in the bank, but it doesn't need all of the money up front.
+Instead, as the schools are built, it pays the costs over time -- let's say $25 million per
+year. 
+
+
+MBIA (and many other bond insurers) of course have relationships with countless
+municipalities, so they set up investment management divisions to tap these relationships
+and help municipalities invest the money they raised so they could earn some extra return.
+(In many cases, the bond insurer offers a package deal in which it wraps the bonds and
+also invests the proceeds -- possible illegal tying, but that's another story.) The produce
+the bond insurers sold to the munitipalities was a guaranteed investment contract, which
+was of course marketed as 100% safe, secure, liquid, triple-A, blah, blah, blah (you see
+where this story's going, don't you? Think auction rate securities...).  
+
+
+A GIC would typically be structured to pay out over time -- in the case of the example
+above, Wichita would give MBIA the $100 million it had just raised and in return MBIA
+Asset Management would give Wichita a GIC that promised to pay out $25 million per
+year plus interest a tiny bit higher than what Wichita could have earned by putting it in
+Treasuries. MBIA Asset Management (part of the publicly traded holding company) would,
+
+
+
+http://www.valueinvestingcongress.com/
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 2/17
+
+
+in turn, have MBIA's insurance sub provide 100% financing, taking advantage of its AAA
+rating (and taking all of the risk; more non-arm's-length dealings...), and the MBIA holding
+company would simply pocket the spread. Finally, MBIA would invest the money in various
+securities, attempting to match their duration with the expected payout timetables of the
+GICs.  
+
+
+A nice feature of this set-up for MBIA was that it sold a steadily increasing amount of
+GICs, so it could pay off maturing GICs with incoming cash from new GICs -- not a Ponzi
+scheme, because there are assets backing it up, but the liquidity characteristics of the GIC
+business allowed MBIA, if it wanted (or if it got sloppy or greedy), to invest the GIC assets
+in illiquid and/or long-dated securities. 
+
+
+This was a wonderful business for everyone as long as markets were tranquil, assets
+were liquid and held their value, MBIA's customers continued to buy new GICs and,
+critically, MBIA maintained its AAA rating. None of these things are true today, however.  
+
+
+In particular, many GICs have a clause that says if MBIA is downgraded, it had to
+immediately repay or post "eligible collateral" on most or all of the GIC. Sure enough,
+MBIA was downgraded five notches by Moody's last Thursday and, as a result, on Friday
+after the close, MBIA released the following statement:
+
+
+As a result of the downgrade to A2, MBIA expects that it will require $2.9 billion to
+satisfy potential termination payments under Guaranteed Investment Contracts
+(GICs). In addition, MBIA expects to be required to post approximately $4.5 billion in
+eligible collateral to satisfy potential collateral posting requirements under GIC's as a
+result of the downgrade. MBIA Inc. has total assets of $25 billion related to its ALM
+business, of which $15.2 billion is available to satisfy these requirements including
+approximately $4.0 billion in cash and liquid short-term investments; $1.0 billion of
+unpledged eligible collateral on hand; and approximately $10.2 billion of other
+unpledged diversified securities with an average rating of Double-A. In addition,
+MBIA Inc. also has available another $1.4 billion in cash, including the proceeds of
+its recent equity offering.
+
+
+Translation: "Contrary to everything we've ever said about no accelerating liabilities in any
+part of our business, we now have to immediately come up with $7.4 billion of cash and
+eligible collateral (U.S Treasury or agency securities, with appropriate haircuts -- roughly
+5%). But don't worry, we have $25 billion of assets..."
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 3/17
+
+
+$25 billion of assets to cover $7.4 billion of liabilities sounds reassuring -- perhaps that's
+why the stock was up on the open Monday (giving us the opportunity to short more) -- but
+in reality MBIA is in big trouble because it never expected to have to come up with huge
+amounts of cash on short notice. Here's why: 
+
+
+When MBIA says that it has "$15.2 billion is available to satisfy these requirements", it
+means that $9.8 billion of its ALM (Asset/Liability Management) business assets are
+already collateralized. And there's not really $15.2 billion left to meet the collateral call --
+that's based on MBIA's cost, but according to MBIA's own filings, this was impaired by
+$1.4 billion as of 3/31 -- and the actual impairment today is surely much greater, for two
+reasons: 1) prices of these securities have declined this quarter and 2) the estimated
+values are based on an orderly sale, not a rushed sale to meet a collateral call (speaking
+of which, I spoke with a senior fixed income trader today who said there are lots of sellers
+but absolutely no buyers for fixed income securities, as financial firms are looking to
+reduce their holdings going into the close of the quarter). 
+
+
+In reality, as MBIA admits in its press release, it has only $5 billion in cash or cash
+equivalents in its ALM business, plus the $1.4 billion recently raised by the holding
+company (no wonder it didn't downstream the $900 million!), so it needs to come up with
+another $1 billion from the "approximately $10.2 billion of other unpledged diversified
+securities with an average rating of Double-A" -- not an easy thing to do in this ghastly
+market. 
+
+
+Can MBIA come up with the $7.4 billion it needs to pay off a lucky subset of its creditors?
+Sure, but only by pledging all of its cash and selling its best, most liquid securities, which
+is exactly what it's doing right now according to the article below that just came out on the
+WSJ web site. But what about all of its other creditors -- the holders of GICs and medium
+term notes that come due next month (and the month after that and the month after that) --
+which are secured by increasingly low-quality, illiquid assets?  
+
+
+This is the kind of liquidity crunch that has led many financial companies to file for
+bankruptcy. If MBIA were to do so, it would obviously wipe out the equity, but it would at
+least treat all creditors fairly rather than early ones getting paid in full and later ones left
+holding the bag (this is the same issue that exists for policyholders at MBIA's insurance
+sub as well, by the way).
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 4/17
+
+
+When MBIA finally sinks beneath the waves, its management, board, analysts and
+defenders will surely cry that no-one could have predicted this perfect storm, yada, yada,
+yada, but in fact Bill Ackman spelled it all out five and a half years ago in 66 pages of
+excruciating detail in his original presentation on MBIA, Is MBIA Triple A? (attached), in
+which he concluded:
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 5/17
+
+
+A two-notch downgrade could have catastrophic consequences for the company. It
+would likely create problems for the renewal of MBIA’s SPV commercial paper. It
+might also cause a reduction in the value of all of MBIA’s wrapped obligations
+including all of Triple-A One’s assets. The decline in values of these assets, in turn,
+could trigger covenant defaults in the SPV’s liquidity facilities, further exacerbating its
+immediate liquidity crisis.
+
+
+
+
+
+Additionally, Moody’s reports that MBIA’s ISDA documentation contains increasing
+collateral requirements in the event of a downgrade of the company. The company’s
+municipal GIC portfolio also has rating downgrade triggers. 86 Perhaps most
+significantly, a downgrade could shut off a material percentage of the company’s
+cash flow, for MBIA may be unable to write new premium without a AAA rating.
+
+
+
+
+
+A Barclays Capital research report which is available on MBIA’s website explains:
+
+
+Spiraling down…down…and down?
+
+
+In the event of a financial guarantor being downgraded, will a vicious circle
+lead to rapid rating deterioration and potential bankruptcy? This is a much-
+debated question in that a financial guarantor who relies on its credit ratings for
+its business franchise could face a rapid decline in new business in the event
+of a downgrade, which could precipitate further downgrades.
+
+
+
+
+
+It appears to us that an actual or perceived downgrade of MBIA would have
+draconian consequences to the company and create substantial drains on the
+company’s liquidity. The self-reinforcing and circular nature of the company’s
+exposures makes it, we believe, a poor candidate for a AAA rating.
+
+
+
+
+
+In light of MBIA’s enormous leverage, the company’s credit quality, underwriting,
+transparency, accounting, and track record must be beyond reproach. The company
+can simply not afford any significant risk of loss in its nearly $500 billion of net par
+exposure, for a mere 20 to 35 basis points loss would equate to levels sufficient to
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 6/17
+
+
+Comments (37)
+
+
+cause a rating agency downgrade of the company.89 In addition, and as importantly,
+the company must have minimal liquidity risk. Based on our research, we conclude
+that MBIA fails to meet these standards.
+
+
+The irony is that if MBIA had listened to him -- even as recently as two years ago! -- the
+company would probably be doing fine right now. Instead, it chose to ignore and attack
+him (and, full disclosure, me as well, to a much lesser extent), so forgive me for feeling a
+bit of Schadenfreude.
+
+
+Disclosure: Author manages funds that are short MBIA
+
+
+ Like this article
+
+
+crashof2008
+Consider MBI's curious phrasing that they have "$10.2 billion of other unpledged diversified securities with an
+AVERAGE rating of Double-A"
+
+
+There are different ways to calculate "average rating" here. That is MBIA's wiggle and weasel word of choice.
+
+
+As I understand most of these contracts, they demand a minimum of AA collateral to meet a margin call.
+
+
+Given MBI's history of deceptive practices, I note the following about that rather odd phrase "average rating":
+
+
+If i had:
+
+
+100 bonds with a $1000 coupon rated one notch ABOVE AA  
+AND 
+100 bonds with a $1,000,000 coupon rated one notch BELOW AA
+
+
+I would have over one hundred million dollars in securities that "averaged" a AA rating.
+
+
+Because I had 100 bonds ABOVE AA and 100 bonds below AA.
+
+
+Of course that would be terribly misleading.
+
+
+And I would only have 100,000 dollars in bonds that could be used as collateral. But I could proclaim I had over 100
+million dollars of bonds with an "average" rating of AA.
+
+
+The words "average rating" are highly suspicious here. I smell a rat.
+
+
+Matt
+
+
+28 Jun 2008, 06:31 PM
+
+
+Ishortyou
+
+
+
+https://seekingalpha.com/user/163927
+
+https://seekingalpha.com/user/161135
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 7/17
+
+
+In respect to AMBAC and MBIA, they need to keep and save all the cash possible including stop paying dividends,
+deleverage from all their risky liabilities specially those CDS, CDO's, RMBS-ABS of uncertain value, in order to
+remediate their book values, once their book values are sound they need to reinstate their triple A rating again to write
+new low risk public bond insurance business. They can also open or extend a line of credit to make sure to continue
+operations and dissipate doubts.
+
+
+They are already doing these, so it will take some time to deleverage their books from uncertainties and rewrite new
+business again. This coming back will be the best advertisement to recruit new clients.
+
+
+28 Jun 2008, 10:20 PM
+
+
+Timothy Travis, Contributor
+Considering that $9.3 billion of the total $25.1 billion of liabilities are not subject to flexible withdrawals or downgrade
+triggers, and the overall quality of the investment portfolio, liquidity issues are virtually non-existent.
+
+
+From your article: 
+"Translation: "Contrary to everything we've ever said about no accelerating liabilities in any part of our business, we
+now have to immediately come up with $7.4 billion of cash and eligible collateral (U.S Treasury or agency securities,
+with appropriate haircuts -- roughly 5%). But don't worry, we have $25 billion of assets...""
+
+
+When questions were asked about the financial guarantee business MBIA did state that they were not subject to any
+accelerating liabilities and even after the downgrade that has obviously been true. If you took the time to read the May
+12th Conference Call Presentation pages 20-22 you would see that MBIA was very clear in relation to the effects of a
+downgrade on the GIC business. The fact that your "translation" of alleged fraud is so obviously careless points to
+one of two possibilities.
+
+
+1) Your research is so negligent that it would ignore the effects of a downgrade on this GIC business when it is spelled
+out in an investor’s presentation for all to see on the MBIA website. (Perhaps following Ackman has made you more
+accepting of the final result in which you don't feel that you have to put in the proper time.)
+
+
+2) This like other write ups by the likes of Ackman and followers are blatant attempts to conjure up the worst fears in
+an already panicked market by distorting facts and conjuring up alleged corporate frauds, to reignite the downward
+spiral that this uncertainty in the bond market has caused.
+
+
+Why don't you write a column on the assumptions being made in the Asset Backed Securities Market to validate the
+current pricing? Let's asses how realistic these prices are in relation to various historical precedents. The beauty of
+the insurance business is that they are not forced to sell their CDS exposure like banks do to maintain their capital
+ratios so the MTM losses are strictly an accounting notion and nothing more. Just as they are passed through the
+income statement they will come back again as the prices of the ABS indexes rally in the future. It seems very odd to
+me that so called "value investors" like yourself and Ackman put so much faith and validation in indexes that are
+subjected to the vagaries of technical analysis and momentum trading techniques. Either you are the new flag bearers
+for EMT or you are purposefully being misleading in your analysis. Now MBIA was probably never worth $80 and is
+now worth a lot closer to $20 or $30, but to publicly brag about shorting at $5 on a public website should lead to an
+interesting note on financial commentators when the books are written on the current financial crisis.
+
+
+I have no problem with short selling or talking your own portfolio but I think that both you and Ackman have been far
+more disingenuous and misleading in your dissertations then either MBIA or Ambac have been. It's allowed me to buy
+
+
+
+https://seekingalpha.com/author/timothy-travis
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 8/17
+
+
+at far cheaper prices then I ever thought I would be able to so I have no qualms about it but it would be nice to see a
+little more merit and integrity in your fear mongering then the current offering. 
+
+
+28 Jun 2008, 11:50 PM
+
+
+crowdofcheerleaders
+maybe investors will one day realize that MBIA has a completely needless service. as it stands in the market, the
+corporation is only a trading vehicle. once it dumps all those municipal bonds, it won't even be a trading vehicle. it will
+have nothing. but then again, that doesn't stop investment banks from being a worthless investment vehicle, does it?
+no. just another story of "when does the music stop".
+
+
+i am very well aware that the trading market is one thing and real life/economy is another thing. but real life does have
+a way of catching up to worthless corporations such as life. a corporation chock full of economic MBAs and PhDs that
+offer no actual service. 
+
+
+29 Jun 2008, 12:52 AM
+
+
+1worldcurrency
+Fine article. Tim Travis notes that MBIA said in a May 12 conference call that they were not subject to any accelerated
+liabilities from GIC's. I guess he conveniently ignored the part about Friday's press release quoted above. Selective
+reading won't make you a profit.
+
+
+29 Jun 2008, 03:07 AM
+
+
+Mbuna
+It's nice to see a little dose of reality here but I wonder what it will take for someone with a larger platform start to
+speak out on the culture of lies and denial that is now so prevalent in the financial sector. There are so many white
+elephants in the room it is practically a frickin stampede! One example- it has been clear for around 6 months that
+Citibank was insolvent. Where was (is) the press coverage of that fact? The facts are there if you wade through the
+BS but there is some kind of taboo about telling the truth. Everyone knows all these quarterly reports are anything but
+truthful. It has reached the point of absurdity in my opinion. Just look at this person trying to defend MBIA. Does
+anyone actually believe he is sincere? Was he put up to it by someone else? All that anger indicates someone has a
+lot at stake here. His point number 2 is classic- suffering the heartbreak of "alleged corporate fraud". How much more
+cartoon like will this all get? What will it take for everyone to get over their denial?
+
+
+29 Jun 2008, 06:42 AM
+
+
+Ishortyou
+Well the situation is simple like any other business they have to remediate their books, they dont have much of a
+choice really and it doesnt take a rocket science to figure this out, remediate their books from those toxic liabilities is
+probably the only choice at the moment, thats of course is the housing market doesnt recover first.
+
+
+29 Jun 2008, 07:25 AM
+
+
+crashof2008
+
+
+
+https://seekingalpha.com/user/99987
+
+https://seekingalpha.com/user/207782
+
+https://seekingalpha.com/user/165225
+
+https://seekingalpha.com/user/161135
+
+https://seekingalpha.com/user/163927
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 9/17
+
+
+Tim Travis makes a classic mistake above when he insists on continuing to rely on historical precedent to value these
+derivatives.
+
+
+Tim does this when he says:
+
+
+"Why don't you write a column on the assumptions being made in the Asset Backed Securities Market to validate the
+current pricing? Let's asses how realistic these prices are in relation to various historical precedents."
+
+
+Tim, historical volatilities being used to input pricing in these derivatives was a major cause of what got us into this
+mess in the first place!
+
+
+These are NOT normal times and asset prices are NOT distributed along a bell curve. Check out Volcker's recent
+speech before the New York Banker's Club that touches on this subject. We are continuing to have MAJOR sigma 4
+and sigma 5 events (4 and 5 standard deviations from the norm) every 10 years and each one is worse than the
+previous one!
+
+
+Those methods have FAILED the test of the market, as Volcker says.
+
+
+Stock and derivative price distributions now have MUCH fatter tails, in Cauchy (not Gaussian) distributions and we
+need to use implied volatilies much more in assessing what these weapons of mass destruction of the financial
+system are really worth.
+
+
+And they aren't worth much.
+
+
+750 TRILLION dollars in derivatives crashing is not a pretty sight.
+
+
+And to assume that this crash will follow historical price distribution precedents is irresponsible in the extreme,
+especially in judging how one of the most irrresponsible set of valuations in the monolines will ultimately be valued in
+the marketplace.
+
+
+Jingle mail was not in your models. But it is the reality.
+
+
+29 Jun 2008, 09:01 AM
+
+
+Bud Labitan, Contributor
+For me, this is an informative article. I do not know much about this situation, but I appreciate the debate and
+discussion it created. A bit too much math for a simple guy like me, so I will pose a simple question in order to keep
+the discussion easy to understand:
+
+
+If half the clients or lenders wanted their money out by the end of one week, how much "real free cash" is remaining?
+
+
+I do not own any of the above mentioned companies. 
+(A small plug for my book; go to frips.com)
+
+
+29 Jun 2008, 09:40 AM
+
+
+crashof2008
+
+
+
+https://seekingalpha.com/author/bud-labitan
+
+https://seekingalpha.com/user/163927
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 10/17
+
+
+Here is a link to Paul Volcker's speech where he decries the folly of using past historical data to value derivatives (as
+Mr. Travis above is suggesting) as having "UTTERLY failed the test of the market.
+
+
+www.youtube.com/watch?...
+
+
+www.youtube.com/watch?...
+
+
+No one has the credibility of Volcker on these issues, save perhaps Janet Tavakoli who has contracted out as a
+special consultant to the Fed on structured finance issues.
+
+
+These videos of Mr. Volcker's are a must see and present the scandal of these weapon of mass destruction of the
+financial world (and their false valuations based on "historical" precedent that go with them) in easy to understand
+layperson language.
+
+
+29 Jun 2008, 10:06 AM
+
+
+TN hick
+any who else [ABK, ???] have material quantities of GIC's on their books?
+
+
+29 Jun 2008, 11:47 AM
+
+
+helplessobserver
+crashof2008 has it right. In school all these guys worked out the assigned problem using "normal or historical data"
+and the Prof gave them a "A" on the paper. Anyone who questioned the use of this data was dismissed as a dunce
+and a trouble maker. I can ther the Prof saying, we don't consider 3 or sigma events in our modeling.
+
+
+29 Jun 2008, 12:18 PM
+
+
+oldlures1
+Mr. Tilson, you are obviously intelligent. Sadly though, many folks will read your entry as an accurate portrayal, not
+recognizing the half-truths and spin. I'll give you this, you are quite adept at using written word to further your "short"
+agenda.
+
+
+29 Jun 2008, 12:27 PM
+
+
+Timothy Travis, Contributor
+Squashnut wrote 
+"Fine article. Tim Travis notes that MBIA said in a May 12 conference call that they were not subject to any
+accelerated liabilities from GIC's. I guess he conveniently ignored the part about Friday's press release quoted above.
+Selective reading won't make you a profit. "
+
+
+I'm not totally clear on what you are saying here so if I am missing something please let me know, but to avoid
+ambiguity MBIA has repeatedly said that they are not subject to accelerating liabilities from their financial guarantee
+business. On the conference call presentation they detail the ramifications of a downgrade on the GIC business which
+is what Mr. Tilson is referring to.  
+crashof2008 
+
+
+
+http://www.youtube.com/watch?v=2opw-iUaezs
+
+http://www.youtube.com/watch?v=ticXF2h3ypc
+
+https://seekingalpha.com/user/83788
+
+https://seekingalpha.com/user/133241
+
+https://seekingalpha.com/user/145890
+
+https://seekingalpha.com/author/timothy-travis
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 11/17
+
+
+"Tim Travis makes a classic mistake above when he insists on continuing to rely on historical precedent to value
+these derivatives.”
+
+
+To tell you the truth I do not feel competent at valuing those derivatives and I very much doubt that anybody else is
+either. The problem is that accounting rules require that MBIA and ABK mark their CDS exposure to market and the
+losses are not reflective of the actual expected performance of the contracts that they hold. The CDS positions that
+MBIA holds are not tradable securities and they often have significant protection on the actual portions that they
+insure. They are insurance contracts which they will hold and pay interest and principal on when they come due on
+defaulted contracts. They aren't going to sell them tomorrow to meet their tier one ratios like C or Mer might have to
+do so MTM accounting is not significant for MBIA. The relevant accounting format for the monolines due to the
+structure of the contracts would be to reserve against expected future losses as predicted by the performance and
+cash flow of the insured contracts, as opposed to the fickle predictions of future losses made by traders on the asset
+backed security indices. As more clarity comes into place in regards to the housing market I think it is very likely that
+you will see these indices undergo a significant re-pricing.
+
+
+In the insurance business assumptions are made to estimate future claims and loss reserves and it is no perfect
+science. After a hurricane property and casualty insurers are very unlikely to be able to tell you with precision what
+their losses will be right after the event. Eventually as claims come in over time they get a more accurate picture
+which is why it is not uncommon to see drastic differences from estimated losses for insurance companies to actual
+losses. Berkshire Hathaway's annual reports are very candid about the subject.
+
+
+There is no doubt that there are a lot of unknowns and uncertainties but if you look at MBIA's strong liquidity position,
+and extremely large claims paying ability I think it is very likely that the run off value of the company would be well
+above $20. If you look at the future premiums they will be collecting, in addition to their large investment portfolio, and
+the eventual reversal of a great deal of the MTM losses that MBIA's balance sheet and income statements have
+incurred, I believe an investment at these levels creates an excellent risk/reward opportunity for the long term
+investor. 
+(Disclosure Long MBIA, short puts on MBIA and ABK) 
+
+
+29 Jun 2008, 01:15 PM
+
+
+Ishortyou
+you have also take into account that book remediation is a must, specially from 'toxic liabilities', but this of course
+takes time and patience, quarter by quarter.
+
+
+29 Jun 2008, 01:24 PM
+
+
+Ishortyou
+I am sure once their book value is sound a triple A reinstatement is to follow to rewrite fresh new low risk business
+insurance again.
+
+
+29 Jun 2008, 01:26 PM
+
+
+ACEMAN, Contributor
+
+
+
+https://seekingalpha.com/user/161135
+
+https://seekingalpha.com/user/161135
+
+https://seekingalpha.com/author/aceman
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 12/17
+
+
+Y'all got that right, i.e., the "spiraling down" part as discussed by Barclays UK. However, it is not only MBIA that as
+guarantor will have to scramble to meet its obligations, it is the very large insurance companies that not only provide
+GICs but also the reinsurance to cover most life and annuity contracts. The fact is that there are credit derivatives and
+CDR markets that allows us to see immediately the impact of a change in ratings and the need to cover the premium
+increase needed to cover the real static liabilities. Just think of what might happen in the annuity and life insurance
+markets when policy owners get a wiff of GIC and credit derivative losses and increased premium. Barring full
+surender of policies, the insurance companies will need to extend contracts and reduce the pay-out to individual
+policy holders. This could be huge---and it did happen before during the Depression. In effect, it defines the question
+of risk.
+
+
+29 Jun 2008, 01:52 PM
+
+
+mythoughts
+I'm just glad I shorted MBI several months ago and have not sold out my triple digit gains yet because there is more to
+be made. All you long holders are losers now and will be more so next month. BEWARE!
+
+
+29 Jun 2008, 02:18 PM
+
+
+oldlures1
+Tim Travis - well done!
+
+
+29 Jun 2008, 03:32 PM
+
+
+crashof2008
+Tim Travis-
+
+
+Let's be clear. What will unfold over the next few years during The Great Deleveraging is a Chernobyl that will
+adversely affect billions of innocents worldwide. They did nothing to deserve this.
+
+
+This catastrophe is largely caused by two critical factors: 1) faulty models that claim stock and derivative prices will be
+distributed along a bell-shaped curve, rather than having fatter tails associated with a Cauchy distribution of prices
+and outcomes, coupled with 2) a reckless use of hyperleveraging that amplifies the effect of this deeply flawed price
+distribution assumption.
+
+
+MBIA is a prime example of how profoundly bankrupt this lethal combination of false derivative modeling coupled with
+hyperleveraging can be.
+
+
+You state that:
+
+
+"The CDS positions that MBIA holds are not tradable securities and they often have significant protection on the
+actual portions that they insure. THEY ARE INSURANCE CONTRACTS WHICH THEY WILL HOLD AND PAY
+INTEREST AND PRINCIPAL ON WHEN THEY COME DUE ON DEFAULTED CONTRACTS." (emphasis added).
+
+
+This is demonstrably false. If MBI were planning to hold this deeply toxic and radioactive waste to maturity, and pay
+any and all necessary claims as you so blandly assert, why are they (together with Ambac) so desperate to CANCEL
+125 billion dollars worth of them as described just last week in the Financial Times at:
+
+
+
+https://seekingalpha.com/user/85824
+
+https://seekingalpha.com/user/145890
+
+https://seekingalpha.com/user/163927
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 13/17
+
+
+tinyurl.com/5ogde4
+
+
+MBIA IS placing these on the market, in direct contradiction to your false assertion above. They are NOT holding
+them to maturity and they are proposing to NOT pay any interest and principal on defaults. And yet you oppose all
+rational market based accounting, hiding behind methods that conceal the objective reality on the ground.
+
+
+You either believe in free markets or you don't.
+
+
+Any attempt to avoid marking these securities to market by pretending that they will never be marketed in any stress
+scenario, smacks of a socialist lack of faith in the purgative powers of free market pricing.
+
+
+29 Jun 2008, 03:39 PM
+
+
+NOYBIZNIZ
+tinyurl.com/3wd282
+
+
+29 Jun 2008, 03:47 PM
+
+
+Timothy Travis, Contributor
+crashof2008 wrote 
+"This is demonstrably false. If MBI were planning to hold this deeply toxic and radioactive waste to maturity, and pay
+any and all necessary claims as you so blandly assert, why are they (together with Ambac) so desperate to CANCEL
+125 billion dollars worth of them as described just last week in the Financial Times at:"
+
+
+MBI and ABK are not the desperate ones in this situation. The banks and investment banks that have bought the
+insurance are the ones that are facing significant additional write downs as a result of the ratings downgrade. Since
+they are and should be relegated to MTM accounting to keep their Tier 1 capital ratios at acceptable levels, taking
+these write downs will likely lead to another round of capital raising.
+
+
+The reason that the insurers might be willing to discuss remediating some of these contracts is quite obvious in that it
+does not make sense to have your largest customers be extremely unhappy with your product. If they can come to a
+reasonable compromise with some of the policyholders to help their customers in a way which does not hinder the
+insurer’s shareholders then these negotiations are quite logical in that if these companies intend to stay in the
+financial guarantee business, these relationships will be crucial to their future. These discussions would be directly
+related to the ratings agency downgrades which have no true economic effect on the insurer’s CDS portfolios, but will
+have significant effects on the policyholder’s positions. Therefore it is clearly in the policyholder’s interests to have
+these discussions much more than the insurers.
+
+
+I don't even know if they are really having serious discussions or not and I'm not too concerned about rumors
+anyways but it does make sense for them to do everything in their power to assist their clients as long as it is fair to
+shareholders as well. Any future business prospects are up in the air and are not figured into my $20-$30 valuation of
+MBI but there are quite a few insurers who function quite well with ratings below AAA like AIG for instance. MBI has
+quite a bit of surplus cash with which to start new well capitalized subsidiaries so that is just a call option on the
+valuation, but I'd prefer to see an aggressive share buyback and perhaps a recapitalization of the debt structure if
+possible.
+
+
+
+http://tinyurl.com/5ogde4
+
+https://seekingalpha.com/user/130351
+
+http://tinyurl.com/3wd282
+
+https://seekingalpha.com/author/timothy-travis
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 14/17
+
+
+Also you might note that the CEO has bought $1,724,690 of stock in the last month, and much more before that so his
+interests seem to be very much aligned with shareholders for what that is worth.
+
+
+29 Jun 2008, 04:29 PM
+
+
+adan
+this is one very long, very complex, and even more interesting article!
+
+
+throw in the back & forth comments, and, though i don't fully understand the pros/cons of the arguments, can see
+there's deep and important ramifications 
+involved
+
+
+so for that, great article, thank you much :-) 
+
+
+29 Jun 2008, 05:08 PM
+
+
+adan
+this is one very long, very complex, and even more interesting article!
+
+
+throw in the back & forth comments, and, though i don't fully understand the pros/cons of the arguments, can see
+there's deep and important ramifications 
+involved
+
+
+so for that, great article, thank you much :-) 
+
+
+29 Jun 2008, 05:08 PM
+
+
+crashof2008
+Tim, I really must give you some credit, you have tried valiantly to defend a losing position. I respect that and your
+ability to change the subject is excellent.
+
+
+In closing however, I must take final exception to this astonishing excerpt from your most recent post:
+
+
+"...there are quite a few insurers who function quite well with ratings below AAA like AIG for instance."
+
+
+Are you aware that the CEO of AIG, Mr. Sullivan, was forced out of office a little over a week ago after an emergency
+meeting of the Board of Directors?
+
+
+This occurred after they lost 30 billion in 2 quarters based on precisely this reliance on bell-shaped distribution of
+pricing and behavioral outcomes, coupled with massive overleveraging that is forcing MBIA into bankruptcy before our
+eyes.
+
+
+How you could describe such an outcome as "functioning quite well" is beyond me.
+
+
+That historic debacle is outlined in the Financial Times at:
+
+
+tinyurl.com/4d8s9u
+
+
+A couple points to offer you:
+
+
+
+https://seekingalpha.com/user/160209
+
+https://seekingalpha.com/user/160209
+
+https://seekingalpha.com/user/163927
+
+http://tinyurl.com/4d8s9u
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 15/17
+
+
+1. You might enjoy and benefit from a subscription to the Financial Times of London, the world's finest newspaper.
+
+
+2. You might also enjoy and benefit from my website listed with this post. I've reviewed hundreds of working papers of
+the Federal Reserve and have tried to concisely put forth some of these key issues in that venue.
+
+
+Till our next debate.
+
+
+Matt
+
+
+29 Jun 2008, 05:20 PM
+
+
+Tom Armistead, Contributor
+Tim Traivs, you do a good job making a factual case for MBI.
+
+
+Whitney, MBIA has included information on the liquidity requirments for the asset management in their presentations
+for some time, most recently on the first quarter earnings conference call.
+
+
+If you would bother to look at the 10-Q, you would see that the asset managment company has 10.412 of triple A
+available for sale and 4.279 of double A available for sale. These bonds are easily sold at fair prices, even in today's
+market.
+
+
+You might also study the slide on the earnings call presentation - hard to miss, it's in twice - on the difference between
+book value and two nonGAAP metrics, adjusted book value (26.67 per share) and analytic adjusted book value (42.15
+per share). The differences include the present value of future installments, as well as the gap between mark to
+market losses and management's loss estimates.
+
+
+What is happening as MBIA is not writing new business is that their capital cushion is increasing. Moody's downgrade
+has effect of accelerating this process.
+
+
+Market hysteria has created an amazing amount of mis-pricing on everything around this whole situation - CDS on
+MBI and ABK, the price of their stock, the market value of bonds they insure, the rate of interest on their debt, etc.
+Management of these companies knows what the proper values are, and in due course they will exploit the mis-
+pricing to create shareholder value.
+
+
+29 Jun 2008, 05:25 PM
+
+
+Ishortyou
+I agree this is an excellent opportunity to create book value, certainly a good time to delever from 'toxic liabilities' and
+keeping all the cash possible or impossible to exagerate, this will speed up the process of 'book remediation' to
+reinstate their triple A ratings again and start writing down new low risk business as usuall
+
+
+29 Jun 2008, 06:04 PM
+
+
+NOYBIZNIZ
+Go to tinyurl.com/3wd282 and search for "Tilson"
+
+
+29 Jun 2008, 08:25 PM
+
+
+
+https://seekingalpha.com/author/tom-armistead
+
+https://seekingalpha.com/user/161135
+
+https://seekingalpha.com/user/130351
+
+http://tinyurl.com/3wd282
+
+https://seekingalpha.com/user/107326
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 16/17
+
+
+fxtrader07
+I fully agree with Tim Travis. This is another - and rather deceptive - "i talk my book' article from Tilson. Looking at his
+article at SA I'd say 95% of them fall into this category - making either a long or short case for his various portfolio
+positions. However, it all doesn't add up! 
+first MBIA certainly was aware of the consequences that downgrade would have and they said it on their website.
+(indirectly, tilson even admits that when he disappointedly refers to the not downstreamed 900 million$)  
+Alas, it looks very much like all the hard pressing by Tilson and Ackman and all the crying foul rhetoric towards MBIA
+when they refused to downstream the 900 million was in fact in anticipation of th GIC-issue. They really had liked to
+force MBI to downstream the cash as to enhance the likelihood of a quick bankruptcy. That alone speaks volumes
+about the integrity and the moral standards of these 'investors' - and goes well beyond talking one's book. It's an
+outright, blatant attempt to talk a functioning company into bankruptcy by a wide use of media networks.  
+shame on you, mr tilson/ackman! You may tout yourself a 'value investor' but what 'values' do you actually stand for? 
+and then: you certainly didn't 'just now' discover the GIC isssue. Come on! Whom do you want to delude here? You
+were fully aware of it, all those months and you just utilize this 'sudden discovery' as a reason to write anothe bashing,
+negatice article on MBI, filled up with half-truths and very stretched interpretations. 
+
+
+30 Jun 2008, 05:26 AM
+
+
+fxtrader07
+@crashof2008: you are a poor heavily biased guy who obviously goes to sleep every night hoping the world will have
+come to an end by the time he wakes up next morning. And over the course of the day you are seemingly obsessed
+to get all the bad news there is.  
+Enjoy the money you make that way while it lasts (if you make any money, that is) but to me this is a pretty miserable
+way of living. The money you make (if at all, longer term) is a lousy compensation for such a life full of negativity and
+friction.
+
+
+30 Jun 2008, 05:30 AM
+
+
+fxtrader07
+@NOYBIZNIZ: great link! thanks.
+
+
+30 Jun 2008, 06:11 AM
+
+
+oldlures1
+noybizniz - thanks for the link!
+
+
+30 Jun 2008, 02:20 PM
+
+
+oldlures1
+Here's a quote released today from MBIA's CFO, E. Edward "Chuck" Chaplin:
+
+
+"Contrary to recent statements in the media, MBIA is not in a 'tenuous situation'. Our ability to quickly reposition the
+assets underlying our ALM business in a difficult market demonstrates the high quality and liquidity of the portfolio.
+The holders of our insurance policies, GICs, medium-term notes and other debt instruments can rest assured that
+MBIA will meet its obligations to them as it always has -- on time and in full."
+
+
+
+https://seekingalpha.com/user/107326
+
+https://seekingalpha.com/user/107326
+
+https://seekingalpha.com/user/107326
+
+https://seekingalpha.com/user/145890
+
+https://seekingalpha.com/user/145890
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 17/17
+
+
+Personally, I remain optimistic and supportive of MBIA. In fact, at this juncture, it has manifested into something more
+than an investment. To me, watching this saga unfold, it's the difference between right and wrong. And for
+clarification, MBIA is the former. When this all shakes out, I sincerely hope that MBIA is able to recover from this
+much-undeserved attack, and that the likes of Ackman, Tilson and others are spending some much-deserved time at
+Club Fed.
+
+
+30 Jun 2008, 02:26 PM
+
+
+fxtrader07
+the irony will be that ackman and tilson will soon have covered their shorts and even gone long the monoliners while
+perhaps still talking them down a bit. making money on the way down and up. after all, they certainly know where the
+truth in their talks and 'presentations' ends and the uhm,'errors' start... 
+and then i sometimes wonder what tilson actually gets his fat mgmt fees for - after all, he usually in 90% of the cases
+just piggybacks his buddy Ackman....
+
+
+30 Jun 2008, 03:19 PM
+
+
+oldlures1
+fx - You may be right, but do they ever go "long" on anything?! After all, it doesn't compliment their slash-n-trash
+tactics.
+
+
+30 Jun 2008, 06:04 PM
+
+
+Tom Armistead, Contributor
+Ackman's last published filing with the SEC showed a nominal short position in MBIA - at that point he was out of it.
+He still badmouths the company, when a chance comes up.
+
+
+I agree with oldlures, this is turning into a morality play, a battle of right and wrong. It's too bad Ackman has covered
+his shorts, it would have been a joy to see him get caught in the coming squeeze.
+
+
+A lot of the negative comments I see on MBIA sound like people who have been hypnotized into believing Ackman's
+nonsense, they will pay a large price for relying on his biased misinformation. They would do better to spend their time
+going over the financials and the presentations, doing their own thinking.
+
+
+30 Jun 2008, 06:13 PM
+
+
+Value Dope
+fxtrader - Whitney Tilson is a great marketer, he's proven if you say Buffett enough, u can find some value types of
+give you money. You are right about Tilson, he gets a lot of fund fees for doing no brainwork and just investing in the
+same ideas of his HBS buddies. The best thing is those mgmt fees are not needed, Whitney makes plenty organizing
+the pump and dump value conferences, peddling his newsletters, writing for the FT, media appearances. It's all about
+finding the sheep to invest though. Have you seen the fees for his mutual fund and the performance of that fund, wow,
+i think Renaissance's 44% incentive fee is a bargain compared to tilson's utual funds!
+
+
+01 Jul 2008, 01:33 PM
+
+
+
+https://seekingalpha.com/user/107326
+
+https://seekingalpha.com/user/145890
+
+https://seekingalpha.com/author/tom-armistead
+
+https://seekingalpha.com/user/215690

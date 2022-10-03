@@ -1,0 +1,1050 @@
+Zafgen is a biopharmaceutical company on the brink of extinction. From its founding in 2005, 
+
+
+Zafgen’s “big idea,” in the words of one piece of early press coverage, was to “fight fat by cutting 
+
+
+off its blood supply.” After licensing a drug called beloranib that was originally designed to inhibit 
+
+
+angiogenesis (the development of new blood vessels) in order to treat cancer, Zafgen ultimately 
+
+
+focused its development efforts on Prader–Willi syndrome (PWS), a rare genetic disorder in 
+
+
+which a specific group of genes is missing or unexpressed, leading to an array of problems, 
+
+
+including obesity and hyperphagia (extreme over-eating and food-seeking). 
+
+
+
+
+
+But Zafgen’s work has ended in tragedy. In October, the company announced that a beloranib 
+
+
+patient in its Phase 3 PWS trial died from pulmonary embolism – blood clots in the lungs’ 
+
+
+arteries. The FDA put a partial clinical hold on the drug but allowed Zafgen to continue the trial. 
+
+
+Beloranib patients were only put back on the drug after being “screened for existing thrombotic 
+
+
+[i.e. clotting-related] disease” and were then “regularly monitored” to ensure safety. 
+
+
+Nonetheless, in December another beloranib patient died, also from pulmonary emboli, leading 
+
+
+the FDA to apply a complete clinical hold. Moreover, Zafgen disclosed that other beloranib 
+
+
+patients had experienced an additional seven (non-fatal) “thrombotic events.” (Meanwhile, no 
+
+
+placebo patients died, and no placebo patients suffered from thrombotic events.) With Zafgen’s 
+
+
+only well-developed drug candidate now revealed to be woefully dangerous – even in the face 
+
+
+of enhanced screening and monitoring – its stock price collapsed. 
+
+
+
+
+
+But hope springs eternal. Last Wednesday, Zafgen released results from the Phase 3 PWS trial 
+
+
+indicating that beloranib had statistically significant positive effects on weight and hyperphagia. 
+
+
+The company’s stock price rallied 79%, and multiple sell-side analysts issued new “buy” ratings. 
+
+
+But this reaction is absurd. Nothing meaningful has changed: beloranib is highly dangerous but 
+
+
+only modestly effective. While optimistic analysts think Zafgen can somehow “mitigate” the risks 
+
+
+and placate the FDA enough to secure approval, beloranib is a drug that reduces weight by 4-
+
+
+5% at the expense of increasing patients’ annual mortality rate by, according to our estimates, a 
+
+
+factor of 4 or more. Quadrupling the risk of death in exchange for 5% weight loss is a 
+
+
+monumentally bad bargain. Unlike those with late-stage cancer, for whom the health risks of 
+
+
+angiogenesis inhibitors like beloranib make sense, PWS patients live relatively long lives, and 
+
+
+Zafgen has already proven that, even when it ramps up its screening and monitoring, it does not 
+
+
+know how to keep these patients safe. The FDA will not approve beloranib, and Zafgen is worth 
+
+
+nothing more than the present value of its future cash balance, which we estimate is 65% below 
+
+
+the current price. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 2016 
+
+
+
+
+
+Zafgen, Inc. (ZFGN) 
+FDA Approval for a Deadly Drug? Fat Chance 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC 
+(“Kerrisdale”), other research contributors, and others with whom we have shared our research 
+(the “Authors”) have short positions in and may own option interests on the stock of Zafgen, Inc. 
+(the “Company”), and stand to realize gains in the event that the price of the stock decreases. 
+Following publication, the Authors may transact in the securities of the Company. The Authors 
+have obtained all information herein from sources they believe to be accurate and reliable. 
+However, such information is presented “as is,” without warranty of any kind – whether express 
+or implied – and without any representation as to the results obtained from its use.  All 
+expressions of opinion are subject to change without notice, and the Authors do not undertake 
+to update this report or any information contained herein. Please read our full legal disclaimer at 
+
+
+the end of this report.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 2 
+
+
+
+
+
+I. Beloranib Is Unsafe 
+
+
+
+
+
+To understand the dangers of beloranib, it’s important to put its body count in context. In 
+
+
+Zafgen’s Phase 3 PWS trial, patients randomized to the beloranib arms (corresponding to two 
+
+
+different doses) received the drug for six months, followed by an additional six-month open-label 
+
+
+extension in which they could opt to continue receiving the drug. Because the trial was cut short, 
+
+
+however, many beloranib patients did not have time to receive the maximum twelve months of 
+
+
+drug exposure even if they wanted to. Thus, although 2 dead patients out of 73 who received 
+
+
+beloranib looks like a 2 / 73 = 2.7% death rate, we estimate that this corresponds to a 3.3% 
+
+
+annual death rate – more than 20% higher.1 At a 3.3% annual death rate, a staggering ~15% of 
+
+
+beloranib patients (taking the drug twice weekly) would die over a five-year period.   
+
+
+
+
+
+What’s the normal mortality risk faced by patients with PWS? Zafgen would like everyone to 
+
+
+believe that it’s very high, implying that beloranib’s safety track record isn’t as bad as it looks. 
+
+
+But the best available evidence indicates that PWS, though clearly damaging to long-term 
+
+
+survival, is a slow killer. We identified three recent studies of PWS that analyzed survival using 
+
+
+the standard Kaplan–Meier method. The largest, drawing on the records of 425 PWS patients in 
+
+
+Italy, showed that 20-year-olds with PWS had a 98% likelihood of surviving the next five years 
+
+
+and a 94% likelihood of surviving the next ten.2 (The mean age in the beloranib arms of 
+
+
+Zafgen’s Phase 3 was ~19, with a standard deviation of ~5.5.) Two smaller studies produced 
+
+
+similar results. One, based on 163 individuals with PWS in Victoria, Australia, estimated that 5-
+
+
+year survival from age 20 was 97%;3 another, based on only 37 patients (also in Australia), 
+
+
+estimated 82%.4 Simply put, those with PWS who survive to early adulthood should have many 
+
+
+years ahead of them. 
+
+
+
+
+
+Below, we use these three studies to estimate forward-looking annual death rates for PWS 
+
+
+patients of different ages and take a sample-size-weighted average for each age. The typical 
+
+
+                                                
+1 Zafgen has not provided enough information about how many patients opted to take beloranib during 
+
+
+the open-label extension and for how long to allow us to adjust the death rate precisely. We assume that 
+
+
+the first patient was enrolled on 10/1/14, that 67 patients were enrolled by 3/19/15 (based on comments 
+
+
+from the 2015 Q1 earnings call), that 102 patients were enrolled by 5/12/15 (based on comments from the 
+
+
+2015 Q2 earnings call), and that the final 5 patients were enrolled by 5/15/15 (assuming the same pace of 
+
+
+patients added per day as was seen between March and May). If enrollments were linear between those 
+
+
+dates, then the average date of enrollment was 2/5/15. (Simply averaging the start and end dates of 
+
+
+10/1/14 and 5/15/15 produces a similar date: 1/22/15.) From that date to the date of the complete clinical 
+
+
+hold (12/2/15), 0.82 years elapsed. We thus estimate the death rate per patient-year as 2 deaths / (73 
+
+
+patients x 0.82 years) = 3.3% per patient-year. 
+2 Grugni et al., “The Italian National Survey for Prader-Willi Syndrome: An Epidemiologic Study,” 
+
+
+American Journal of Medical Genetics Part A, 2008. See Figure 3a. 
+3 Lionti et al., “Prader-Willi Syndrome in Victoria: Mortality and Causes of Death,” Journal of Paediatrics 
+
+
+and Child Health, 2012. See Figure 1. 
+4 Einfeld et al., “Mortality in Prader-Willi Syndrome,” American Journal on Mental Retardation, 2006. See 
+
+
+Figure 1.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 3 
+
+
+
+
+
+rate for those in the relevant age groups is approximately 0.7%. Thus the death rate of PWS 
+
+
+patients on beloranib is ~4.7 times higher than normal. 
+
+
+
+
+
+Prader–Willi Syndrome: Normal Death Rates by Age 
+
+
+
+
+
+ Average annual death rate over following 5 years 
+
+
+Starting 
+
+
+age 
+
+
+Grugni 2008 
+
+
+(n = 425) 
+
+
+Lionti 2012 
+
+
+(n = 163) 
+
+
+Einfeld 2006 
+
+
+(n = 37) 
+
+
+n-weighted 
+
+
+average 
+
+
+15 0.3% 0.4% 0.0% 0.3% 
+
+
+20 0.5% 0.6% 3.8% 0.7% 
+
+
+25 0.8% 0.9% 0.0% 0.7% 
+
+
+30 1.7% 0.0% 1.8% 1.3% 
+
+
+
+
+
+Source: Grugni et al. 2008, Lionti et al. 2012, Einfeld et al. 2006, Kerrisdale 
+
+
+analysis 
+
+
+Death rates shown are derived from published Kaplan–Meier survival curves. Note: 
+
+
+0% values are artifacts of small sample sizes. For instance, in Einfeld 2006, the 
+
+
+survival curve implies that no patients die from age 15 to age 20 – obviously an 
+
+
+imprecise estimate, but an indication of the relatively low risk of death. 
+
+
+
+
+
+Consistent with the conclusion that beloranib is deadly (but that PWS itself rarely is, at least in 
+
+
+the short run), zero placebo patients died in the Phase 3 trial. Moreover, both beloranib fatalities 
+
+
+had the same proximate cause – pulmonary embolism – while other beloranib patients 
+
+
+experienced less severe but similar types of adverse events. Is this all just a big coincidence – a 
+
+
+fundamentally innocuous drug with a run of bad luck? At times, Zafgen management has taken 
+
+
+this tack, arguing that pulmonary embolism and thrombotic issues in general are common for 
+
+
+those with PWS – so who’s to say that beloranib is to blame? 
+
+
+
+
+
+This line of reasoning defies logic and common sense. Zafgen’s preferred data source,5 an 
+
+
+unpublished analysis of 310 deaths tracked by the Prader–Willi Syndrome Association, 
+
+
+indicates that 6% of PWS deaths result from pulmonary embolism – not a very high number. Of 
+
+
+course, the probability of two dead patients both dying from pulmonary embolism purely by 
+
+
+chance is 6% x 6% = 0.36% – odds of 277 to 1. And we calculate that, assuming an underlying 
+
+
+PWS death rate of 0.7% per year, the probability of 2 out of 73 patients coincidentally dying 
+
+
+from the same 6%-likely cause is vanishingly tiny – 0.03%, or odds of 3,520 to 1. These are not 
+
+
+coincidences. In PWS patients – and potentially in others – beloranib increases the risk of death 
+
+
+from pulmonary embolism astronomically. With these data in hand, what kind of doctor would 
+
+
+risk prescribing this drug? What kind of regulator would allow it onto the market? 
+
+
+
+
+
+                                                
+5 Discussed e.g. on slide 8 of Zafgen’s 2015 Q3 earnings presentation.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 4 
+
+
+
+
+
+II. Drugs Like Beloranib Are Known to Cause Thrombosis 
+
+
+
+
+
+As previously mentioned, beloranib was originally intended to inhibit angiogenesis – the 
+
+
+development of new blood vessels – to treat cancer. Not only is it intuitively plausible that a drug 
+
+
+that affects blood-vessel function could lead to dangerous vascular side effects (like fatal blood 
+
+
+clots); the risk was even identified ahead of time by a third party. Last March, Dr. Robert 
+
+
+Howland wrote a short piece with the subtitle “The Story behind Beloranib,”6 which noted some 
+
+
+of the safety concerns (emphasis added): 
+
+
+
+
+
+The safety of beloranib in particular will need to be evaluated carefully. Angiogenic 
+factors have broad biological functions that are necessary for normal physiological 
+functioning…Hence, angiogenesis inhibitor drugs used for treating obesity may have 
+many expected and unexpected adverse effects. For example, the drug thalidomide 
+was found to be an angiogenesis inhibitor more than 30 years after it was notoriously 
+associated with major teratogenic effects. Other angiogenesis inhibitor drugs have been 
+associated with bleeding, hypertension, proteinuria, and fatal cardiovascular events, 
+and angiogenesis inhibition may impair wound healing and tissue repair. 
+
+
+
+
+
+Furthermore, angiogenesis inhibitors have been linked to thrombosis specifically. The National 
+
+
+Cancer Institute’s layman-oriented web page on angiogenesis inhibitors, answering the 
+
+
+question, “Do angiogenesis inhibitors have side effects?” says, “Side effects of treatment with 
+
+
+angiogenesis inhibitors can include problems with bleeding, clots in the arteries (with resultant 
+
+
+stroke or heart attack), hypertension, and protein in the urine” (emphasis added). A 2009 review 
+
+
+paper entitled “Thrombosis Associated with Angiogenesis Inhibitors” noted that “[m]any new 
+
+
+biological agents with anti-angiogenic properties appear to be associated with an increased risk 
+
+
+for thrombosis,” with evidence implicating thalidomide, lenalidomide, semaxibin, prinomastat, 
+
+
+bevacizumab, sunitinib, and sorafenib.7 In short, beloranib’s thrombosis problem is not out of left 
+
+
+field; it’s consistent with the history of other angiogenesis inhibitors.8 The FDA won’t fail to 
+
+
+notice this pattern. 
+
+
+
+
+
+Zafgen’s management denies that the track record of angiogenesis inhibitors is relevant 
+
+
+because, it argues, the doses of beloranib used in its recent clinical trials are far too low to 
+
+
+actually stop angiogenesis. In fact, while Zafgen originally believed that beloranib “[fought] fat by 
+
+
+cutting off its blood supply,” it later discovered a different mechanism of action unrelated to the 
+
+
+blood. But there’s nothing stopping a drug from having multiple effects on different parts of the 
+
+
+body, and the same intrinsic properties that made beloranib a strong angiogenesis inhibitor at 
+
+
+                                                
+6 Robert Howland, “Aspergillus, Angiogenesis, and Obesity: The Story Behind Beloranib,” Journal of 
+
+
+Psychosocial Nursing, 2015. 
+7 Elice et al., “Thrombosis Associated with Angiogenesis Inhibitors,” Best Practice & Research Clinical 
+
+
+Haematology, 2009. 
+8 Interestingly, a 2013 paper points to a possible mechanism by which beloranib might cause thrombosis. 
+
+
+Beloranib is an artificial analog of a natural compound called fumagillin, and fumagillin has been found to 
+
+
+stimulate eryptosis – red-blood-cell suicide – which, the authors note, “favours the development of 
+
+
+thrombosis.”
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 5 
+
+
+
+
+
+high doses are still there at low doses. Perhaps small amounts aren’t enough to block blood-
+
+
+vessel growth outright but are enough to have other, subtler effects, which might accumulate 
+
+
+over time. No one knows – certainly not Zafgen. But beloranib’s history as an angiogenesis 
+
+
+inhibitor, coupled with the propensity of such agents to cause thrombosis, is yet another 
+
+
+uncomfortable “coincidence,” suggesting that the drug is ineluctably dangerous and that the two 
+
+
+deaths it caused were not flukes. 
+
+
+
+
+
+III. Beloranib Is Only Modestly Effective 
+
+
+
+
+
+For all the excitement that beloranib’s Phase 3 results fostered, they’re simply not life-changing. 
+
+
+Over a six-month period, beloranib patients lost, on average, 4-5% of their body weight, while 
+
+
+placebo patients gained 4%. No one knows whether this weight loss persists much beyond six 
+
+
+months. The benefit, though real, is small, especially by the standards Zafgen had previously 
+
+
+set for itself. In a 2010 interview with Xconomy.com, Zafgen CEO Thomas Hughes went so far 
+
+
+as to argue that beloranib “will likely be a competitor for bariatric surgery” and “will need to show 
+
+
+about an additional 20 percentage points of body weight loss beyond what patients get from a 
+
+
+placebo.” The article concludes: 
+
+
+
+
+
+If Zafgen can reach its lofty goal later this year, it will be in a position to raise more 
+
+
+capital, or strike a partnership, Hughes says. If not, then it might be time to throw in the 
+
+
+towel. 
+
+
+
+
+
+“If the molecule works the way we think it does based on animal studies, we’re in good 
+
+
+shape. If it isn’t, then maybe we shouldn’t be doing it,” Hughes says. 
+
+
+
+
+
+Zafgen got only halfway to its goal of a 20-percentage-point advantage over placebo, at the cost 
+
+
+of two dead patients. It is indeed time to throw in the towel. 
+
+
+
+
+
+Beyond weight loss, beloranib appeared to improve hyperphagia – the extreme overeating and 
+
+
+sometimes dangerous food-seeking that drives obesity in PWS. Again, however, the benefit was 
+
+
+real but modest. According to Zafgen, the improvement in behavior rose to the level of “at least 
+
+
+moderate” (from the perspective of patients’ caregivers) for approximately 44% of beloranib 
+
+
+patients and 12% of placebo patients.9 Moreover, instances of hyperphagia were actually more 
+
+
+common among beloranib patients than placebo patients.10 On one side of the scale, we have 
+
+
+4-5% weight loss and a 44% chance of “at least moderate” behavior improvement – neither of 
+
+
+which may last much beyond six months. On the other side of the scale, we have a four-fold 
+
+
+                                                
+9 52% in the 37-patient high-dose group and 36% in the 36-patient low-dose group. Source: Bloomberg 
+
+
+transcript of Zafgen’s 1/20/16 conference call. 
+10 See slide 19 of Zafgen’s 1/20/16 presentation. Hyperphagia occurs in 8.8% of placebo patients, 16.7% 
+
+
+of low-dose beloranib patients, and 5.4% of high-dose beloranib patients, for a total beloranib rate of 
+
+
+11.0%.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 6 
+
+
+
+
+
+increase in the risk of death (and an astronomical increase in the risk of death by pulmonary 
+
+
+embolism). Is there any question which way the scales tip? 
+
+
+
+
+
+Ignoring this unpalatable trade-off, Zafgen bulls argue that, because Prader–Willi syndrome is 
+
+
+an “orphan” ailment, the FDA will be lenient. But beloranib is only in the loosest sense a 
+
+
+treatment for PWS specifically; it’s really just one of several obesity drugs. Others, like Belviq, 
+
+
+Qsymia, and Contrave, are already approved and available, though their efficacy for PWS in 
+
+
+particular is unknown. (A private firm called Rhythm is developing a drug that directly addresses 
+
+
+the genetic defect now thought to cause obesity in PWS.) Perhaps the FDA would err on the 
+
+
+side of leniency for a drug aimed at a disease with a terrible prognosis and no alternative 
+
+
+treatment, but beloranib isn’t such a drug: people with PWS typically have decades, not months, 
+
+
+to live, and other obesity-reducing drugs already exist, with more on the way. Beloranib is 
+
+
+somewhat effective, but the benefits are trivial compared to the grievous dangers.   
+
+
+
+
+
+IV. There Is No Good Way to “Mitigate” Beloranib’s Risks 
+
+
+
+
+
+On its conference call last week, Zafgen said it was “hopeful that with proper screening and 
+
+
+monitoring protocols in place, potential thrombotic risk can be effectively managed.” The sell 
+
+
+side has picked up this idea and run with it, expressing delusional confidence in some as yet 
+
+
+undefined “risk mitigation plan.” 
+
+
+
+
+
+It all sounds a lot like the party line in October, when Zafgen first revealed that a beloranib 
+
+
+patient had died. Striving to blame the death on everything but beloranib, Zafgen said it would 
+
+
+screen patients for “existing thrombotic disease to make sure that none of these patients have 
+
+
+the disease before we continue to dose” – implying that the dead patient was a victim of pre-
+
+
+existing but undetected disease, not beloranib.11 Patients and their caregivers took comfort in 
+
+
+the new precautions. One parent of an individual with PWS who was enrolled in the beloranib 
+
+
+trial said, “The risk factor needs to be dealt with, but he’s getting the blood tests and the 
+
+
+ultrasound and if everything’s ok, I have no problem putting him back on the drug.” 
+
+
+
+
+
+Yet despite “the blood tests and the ultrasound” and other measures that Zafgen encouraged 
+
+
+patients to have faith in, another beloranib patient died from pulmonary embolism in a matter of 
+
+
+days. It is now glaringly obvious that Zafgen doesn’t know what to look for. The 
+
+
+countermeasures it came up with after one patient died didn’t stop a second patient from dying 
+
+
+of the same cause. Why should anyone – patients, doctors, or the FDA – trust that whatever 
+
+
+new countermeasures Zafgen comes up with will prevent additional deaths? No one knows 
+
+
+what’s going wrong, so how can it be reliably “mitigated”? Since this is truly a matter of life or 
+
+
+death, no animal models will suffice, but, by the same token, further human experiments are 
+
+
+unethical. (Would you like to enroll in a trial of a deadly drug with modest benefits? It kills people 
+
+
+at an alarming rate, and no one knows exactly why, but maybe if we give you a lower dose or 
+
+
+                                                
+11 Source: Bloomberg transcript of Zafgen’s 10/16/15 conference call.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 7 
+
+
+
+
+
+some anticoagulants, you won’t die. Or maybe you will. Science is a messy business. 
+
+
+Interested?)  
+
+
+
+
+
+V. Zafgen Is Worth ~$3 per Share 
+
+
+
+
+
+With beloranib on complete clinical hold and with no meaningful development pipeline,12 Zafgen 
+
+
+has no future. It does, however, have cash – $204 million as of 9/30/15. But it’s not about to 
+
+
+close up shop tomorrow and return that money to shareholders; it’s going to keep trying to 
+
+
+salvage beloranib, just as many other biopharma firms have wasted money on other lost 
+
+
+causes. According to consensus estimates, Zafgen will burn $113 million from 2015 Q4 to 2016, 
+
+
+reducing its cash balance to $91 million, or $3.33 per share.13 Using a generous 8% discount 
+
+
+rate, $3.33 at the end of 2016 is worth $3.07 today. Thus Zafgen’s stock has at least 65% 
+
+
+downside. The notion that has reanimated the stock – that beloranib is so strikingly effective that 
+
+
+the FDA will take it off clinical hold and allow it onto the market despite all the risks – is a bizarre 
+
+
+fantasy. Protecting patients from drugs like beloranib, with small potential benefits and huge, 
+
+
+terrifying costs, is the FDA’s most basic job, and the agency isn’t going to stop doing it just to 
+
+
+make a few investors happy. 
+
+
+
+
+
+                                                
+12 Zafgen’s two non-beloranib drug candidates are both preclinical. Moreover, they both have the same 
+
+
+mechanism of action as beloranib; given what happened to beloranib, they are likely non-starters.  
+13 According to Capital IQ, consensus free cash flow is $(27.2)mm for 2015 Q4 and $(86.0)mm for 2016.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 8 
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale"), others that contributed research to this report and others that we have 
+
+
+shared our research with (collectively, the “Authors”) have short positions in and may own 
+
+
+options on the stock of Zafgen, Inc. (“ZFGN”), and stand to realize gains in the event that the 
+
+
+price of the stock decreases. Following publication of the report, the Authors may transact in the 
+
+
+securities of the company covered herein. All content in this report represent the opinions of 
+
+
+Kerrisdale. The Authors have obtained all information herein from sources they believe to be 
+
+
+accurate and reliable. However, such information is presented “as is,” without warranty of any 
+
+
+kind – whether express or implied. The Authors make no representation, express or implied, as 
+
+
+to the accuracy, timeliness, or completeness of any such information or with regard to the 
+
+
+results obtained from its use. All expressions of opinion are subject to change without notice, 
+
+
+and the Authors do not undertake to update or supplement this report or any information 
+
+
+contained herein. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+
+
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of ZFGN and have positions in financial 
+
+
+derivatives that reference this security and stand to potentially realize gains in the event that the 
+
+
+market valuation of the company’s common equity is lower than prior to the original publication 
+
+
+date. These affiliates, officers, and individuals shall have no obligation to inform any investor or 
+
+
+viewer of this report about their historical, current, and future trading activities. In addition, the 
+
+
+Authors may benefit from any change in the valuation of any other companies, securities, or
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 9 
+
+
+
+
+
+commodities discussed in this document. Analysts who prepared this report are compensated 
+
+
+based upon (among other factors) the overall profitability of the Authors’ operations and their 
+
+
+affiliates. The compensation structure for the Authors’ analysts is generally a derivative of their 
+
+
+effectiveness in generating and communicating new investment ideas and the performance of 
+
+
+recommended strategies for the Authors. This could represent a potential conflict of interest in 
+
+
+the statements and opinions in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

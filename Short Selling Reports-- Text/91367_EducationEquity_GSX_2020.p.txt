@@ -1,0 +1,1691 @@
+Bad Blood - Secret behind GSX Enrollment Count 
+
+
+Written by EducationEquity Research 
+
+
+Previously several institutions released reports on GSX, including Grizzly, Muddy Waters, Citron, 
+
+
+Scorpio, etc. GSX gave their explanations about part of short seller questions, but always evading the 
+
+
+important subject under discussion, and gave many false and misleading responses. 
+
+
+
+
+
+On June 2nd 2020, Grizzly released a research report update about GSX.  One of important findings is 
+
+
+that, they find an API offered by Gaotu Ketang to search courses. The API returns not only basic 
+
+
+information, but also the exact enrollment count for each course, which named “enrolled_count”. 
+
+
+After Grizzly report released, their official website was attacked. It’s abnormal. It seems someone 
+
+
+doesn’t want they expose data out. On June 2nd, Grizzly open source their codes and one data 
+
+
+snapshot got from GSX API on the GitHub. Users can download and run their codes to reproduce their 
+
+
+findings. After several hours, GSX modified API usage, and set returned “enrolled_count” as 0. On 
+
+
+June 8, Grizzly open source all of their history data on the GitHub. https://github.com/67647f8/gsx-
+
+
+fraud. The data snapshot duration is between May 9
+th
+
+
+ and June 2
+nd
+
+
+. And the time interval between 
+
+
+every two adjacent snapshots is 12 minutes. Every snapshot file includes recorded server time, which 
+
+
+time zone is GMT-7 (U.S. Phoenix time), 15 hours earlier than GMT+8 Beijing Time.  
+
+
+
+
+
+This report is mainly based on Grizzly open source data. This data is directly returned by GSX API. GSX 
+
+
+already prove its integrity (In GSX response announcement for Grizzly report, GSX said Grizzly 
+
+
+statistics does not include unlisted spring classes, which prove this API true). Different with Grizzly 
+
+
+report, we focus on Gaotu summer and autumn courses. And we open source all of our analysis codes 
+
+
+on the GitHub https://github.com/EduEqu918/gsx-fraud. Everyone can reproduce it.  
+
+
+Main of our work: 
+
+
+ Prove “enrolled_count” represent actual enrollment data.  
+
+
+ Analyze Gaotu summer and autumn course enrollment.  
+
+
+ Explain abnormal enrollment data changes. 
+
+
+ Analyze Gaotu enrollment trend and GSX business model based on fraud. 
+
+
+
+
+
+Key findings: 
+
+
+ Enrollment count is heavily manipulated. A lot of abnormal enrollment count data and burst 
+
+
+data changes are found. In many scenarios, for one course, thousands of enrollment count burst 
+
+
+up or down within 12 minutes (snapshot time interval). Grouping by school stage, for junior 
+
+
+middle school Summer Classes, within less than 12 hours, enrollment count decreased 100334.  
+
+
+ Only by “Burst mode”, At least 60% enrollment count is obviously inflated. And we think it’s 
+
+
+quite likely that at least 70% - 80% of its enrollment is faked. 
+
+
+ Strange “Big First-time” mode and “Zombie Course” mode. 
+
+
+ Many of data changes are hard to implement by manual brushing or bots brushing. We believe 
+
+
+GSX management deeply involved in the fraud behaviors.  
+
+
+ Gaotu enrollment dilemma and unsustainable business model. Enrollment count has an 
+
+
+unhealthy inverted pyramid structure. Gaotu developed graduating classes business based on 
+
+
+fraud. They use a well-designed trap to attract graduating students who have fragile knowledge 
+
+
+base and want to have shortcut to improve results of study quickly. Meanwhile with reckless 
+
+
+brushing and operational data forgery, produce a high growth earning bubble to cheat investors. 
+
+
+
+https://github.com/67647f8/gsx-fraud
+
+https://github.com/67647f8/gsx-fraud
+
+https://github.com/EduEqu918/gsx-fraud
+------------------------------------------------------------------------------------------------------- 
+
+
+LEGAL DISCLAIMER 
+
+
+------------------------------------------------------------------------------------------------------- 
+PLEASE REVIEW CAREFULLY IN CONJUNCTION WITH OUR RESEARCH REPORT AND SUPPORTING 
+
+
+MATERIALS, INCLUDING THE FULL LEGAL DISCLAIMER ON THE LAST PAGE OF THIS REPORT. 
+
+
+
+
+
+This report and statements contained herein are the opinions of EducationEquity Research, and are 
+
+
+not statements of fact. Reports are based on generally available information, field research, 
+
+
+inferences and deductions through EducationEquity Research due diligence and analytical process. 
+
+
+Our opinions are held in good faith, and we have based them upon publicly available facts and 
+
+
+evidence collected and analyzed including our understanding of representations made by the 
+
+
+management of the companies we analyze, all of which we set out in our research reports to support 
+
+
+our opinions, all of which we set out. HOWEVER, THEY REMAIN OUR OPINIONS AND BELIEFS ONLY. 
+
+
+
+
+
+We conducted research and analysis based on public information in a manner than any person could 
+
+
+have done if they had been interested in doing so. You can publicly access any piece of evidence cited 
+
+
+in this report or that we relied on to write this report. 
+
+
+
+
+
+EducationEquity Research makes no representation, express or implied, as to the accuracy, timeliness, 
+
+
+or completeness of any such information or with regard to the results to be obtained from its use. 
+
+
+We are entitled to our opinions and to the right to express such opinions in a public forum. We 
+
+
+believe that the publication of our opinions and the underlying facts about the public companies we 
+
+
+research is in the public interest, and that publication is justified due to the fact that public investors 
+
+
+and the market are connected in a common interest in the true value and share price of the public 
+
+
+companies we research. All expressions of opinion are subject to change without notice, 
+
+
+EducationEquity Research does not undertake a duty to update or supplement this report or any of 
+
+
+the information contained herein. 
+
+
+
+
+
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be 
+
+
+offered or sold to any person, in any jurisdiction in which such offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. Recipients of the research report are professional investors who 
+
+
+are expected to make their own judgment as to any reliance that they place on the research report. 
+
+
+You represent that you have sufficient investment sophistication to critically assess the information, 
+
+
+analysis and opinion. 
+
+
+
+
+
+AS OF THE PUBLICATION DATE OF THIS REPORT, EDUCATIONEQUITY RESEARCH (POSSIBLY ALONG 
+
+
+WITH OR 
+
+
+THROUGH OUR MEMBERS, PARTNERS, AFFILIATES, EMPLOYEES, AND/OR CONSULTANTS) ALONG 
+
+
+WITH OUR CLIENTS AND/OR INVESTORS HAS A DIRECT OR INDIRECT SHORT POSITION IN THE STOCK. 
+
+
+
+
+
+To the best of our ability and belief, all information contained herein is accurate and reliable, and has 
+
+
+been obtained from public sources we believe to be accurate and reliable, and who are not insiders or 
+
+
+connected persons of the stock covered herein or who may otherwise owe any duty or duty of 
+
+
+con-dentiality to the issuer. Note that GSX Techedu Inc. and insiders, agents, and legal representatives 
+
+
+of GSX Techedu Inc. and other entities mentioned herein may be in possession of material non-public 
+
+
+information that may be relevant to the matters discussed herein.
+Enrolled_count field represent actual enrollment 
+
+
+ GSX official feedback for Grizzly Research report: 
+
+
+API interface cannot obtain full data: first, the courses captured by the API interface of Gaotu 
+
+
+classroom are only available courses at this time point, and the main courses in spring at this time 
+
+
+point have been removed. The available courses are a small number of spring courses and other 
+
+
+courses with small class capacity. The short report only captures 73 paid courses, which is far lower 
+
+
+than the actual number of courses provided by Gaotu classroom in the second quarter; Secondly, the 
+
+
+number of students encrypted by the anti-crawler returned by the API interface is not the actual data. 
+
+
+As a result, the report has no basis for the company's revenue forecast for the second quarter of 
+
+
+Gaotu classroom. 
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+Source: https://www.sohu.com/a/399692071_589404 
+
+
+Chinese: API 接口无法获取全量数据：首先，高途课堂 API 接口抓取的课程仅为该时点可售课程，在该时点春季的主要
+
+
+课程均已下架，可售课程为少量春(下)课程及其他班容较小课程，做空报告仅抓取 73 门付费课程，远低于高途课堂在
+
+
+第二季度实际提供的课程数量;其次，该 API 接口返回的反爬虫程序加密后的学生人数信息，并非实际数据。因此，报
+
+
+告对公司第二季度高途课堂的收入预测毫无依据。 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+
+
+
+ Our analysis result: 
+
+
+GSX:  
+
+
+Many spring courses can’t be searched and not involved in Grizzly Q2 analysis.  
+
+
+
+
+
+Analysis Result： 
+
+
+YES. Many courses which begin from Q1 and end in Q2 were not included. Since courses already 
+
+
+started long time before, and GSX does not expect new real students join. But this doesn’t mean GSX 
+
+
+didn’t make fraud. Since GSX API returned data lack some of spring classes, we will focus on summer, 
+
+
+autumn and free classes’ enrollment analysis and explain our findings. 
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+Typical tutoring classes’ timetable: 
+
+
+Winter Vacation Classes: Jan. – Feb. 
+
+
+Spring Classes: Mar. – Jun. 
+
+
+Summer Vacation Classes: Jul. - Aug. 
+
+
+Autumn Vacation Classes: Sep. – Dec.  
+
+
+There are longer-term classes such as Summer+autumn class, which duration is Jul. - Dec. These kinds of classes are used to 
+
+
+attract customers enroll for longer time and customers will have discount prices. 
+
+
+Academic Year begin on Sep and end on June.  
+
+
+Generally Student will consider enroll or change course between different education company on summer vacation or spring 
+
+
+vacation. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+https://www.sohu.com/a/399692071_589404
+GSX:  
+
+
+The number of students encrypted by the anti-crawler returned by the API interface is not the actual 
+
+
+data. 
+
+
+
+
+
+Analysis Result： 
+
+
+NO. 
+
+
+1) Grizzly Research already made some verification in previous report. 
+
+
+
+
+
+
+
+
+2) We analyzed free classes’ enrollment number. Every free class’s enrolled_count increased 
+
+
+continuously. For example, here is a part of enrolled_count information for class id 
+
+
+“5049274593181184” 高二数学+语文+英语高分训练营.  
+
+
+
+
+
+
+
+
+Snapshot time is Beijing Time, which is converted from original snapshot file name time field. In 
+
+
+the whole document, we will use Beijing Time. 
+
+
+
+
+
+3) We analyze popular long-term normal price courses. The enrolled_count field increased 
+
+
+continuously too. For example, for class id “4738352380203520” 【2020-暑】高一升高二语文
+
+
+系统强化班 谢欣然.
+4) We analyze and compare enrollment numbers changes in different courses for same grade and 
+
+
+subject too. It’s impossible that the enrolled_count is encrypted.
+5) Although enrolled_count is highly possible to be inflated by GSX (Muddy Waters Estimation: ~70% 
+
+
+of its users are faked), It’s still very meaningful.  
+
+
+
+
+
+The distribution of enrolled_count can be used to analyze the distribution of realistic users, 
+
+
+especially in large trend.  
+
+
+
+
+
+The reason is very simple: For every class, the more realistic users exist, the more on-line water 
+
+
+army (manual brusher), and robot brusher need be involved to maintain this fraud game. They 
+
+
+play important roles in every step, from WeChat Method( “社群裂变” or “社群营销) to free 
+
+
+classes, normal price long-term course subscribe, small class before big class by tutor, and big 
+
+
+class by teacher. In particular, considering that each small class has over 200 persons, the enough 
+
+
+on-line water army and robots are needed.  
+
+
+
+
+
+
+
+
+
+
+
+Typical abnormal enrollment count changes 
+
+
+Nowadays bot brushing tech is very mature. Bot can act as normal user to do regular thing easily. It’s 
+
+
+hard to identify abnormal behaviors only by enrollment count number. For example, the following 
+
+
+growth curve seems very beautiful.   It’s hard to judge the proportion of faked enrollment count.   
+
+
+There are malicious abnormal behaviors between the period 5/31 22:29-22:41 and 6/01 00:05-00:17. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unless GSX and brusher are too bold and reckless, it’s hard to identify abnormal behaviors only by 
+
+
+enrollment count number. That comes true. We find many abnormal enrollment count changes 
+
+
+spread widely in different long-term normal price courses. We introduce some typical modes:
+1) “Burst” mode. There are two sub-modes: “Burst Up” and “Burst Down”. Course enrollment count 
+
+
+increase or decrease hugely (hundreds or thousands) in very short time (12 minutes). In many 
+
+
+cases, thousands-level enrollment count changes happen within 12 minutes.  
+
+
+2) “Big First-time” mode. We filter courses which first searchable time on Gaotu “class center” later 
+
+
+than May 9
+th
+
+
+. And find the enrollment count of many courses in the first snapshot is a big number. 
+
+
+3) “Zombie Course” mode. Some courses be searchable previously for a long time, but suddenly 
+
+
+become unsearchable by API and Gaotu Web page “class center”. 
+
+
+
+
+
+ Burst Up 
+
+
+Course enrollment count increase much in very short time (<12 min) 
+
+
+
+
+
+For Class ID 4738703125744640, this class first on-line time is 2020-05-10. After 18 days, the 
+
+
+enrollment count keeps 54. And suddenly jump to 2854 within 12 minutes. From the following picture, 
+
+
+Comparing other courses having same grade 12 (高三) and same subject physics (物理), there is no 
+
+
+enrollment shrink from other courses. It means the increased 2000 users do not come from other 
+
+
+courses.
+Among all of courses on grade 2 (二年级) and subject Chinese (语文), “Burst Up” mode widely exists 
+
+
+on the following key snapshot time.  From the picture, we can see most of enrollment count increase 
+
+
+contribute by burst up mode.
+ Burst Down 
+
+
+Course enrollment count decreases much in very short time (<12 minutes). Most of them should not 
+
+
+be caused by normal user behavior, such as user withdrawing money, because of very short time and 
+
+
+huge decreasing number. We checked and found ‘Burst Down’ mode spread widely in different stage 
+
+
+courses.  
+
+
+
+
+
+To judge whether the course is canceled and students are moved to other courses, we check the 
+
+
+course subscribe URL. Some of courses can still be enrolled. Some are canceled. Comparing all of 
+
+
+courses in same grade and subject, we find most of them have no student transfer phenomenon. We 
+
+
+believe that enrollment count be heavily manipulated and faked by Gaotu management.  
+
+
+
+
+
+It’ very interesting to discuss the reason that GSX reduce original enrollment count. There are many 
+
+
+possible reasons, and we don’t know the real reason. 
+
+
+1) Planned enrollment count change. before the real student enrollment happen, the goal of 
+
+
+enrollment count and inflated count number already be decided. Gaotu use brushing to inflate 
+
+
+count number. but the plan changed, and then gaotu decrease the enrollment number. 
+
+
+2) Gaotu manually reduce fake business scale in some courses.  or maybe switch brusher partners. 
+
+
+3) Temporary measures and will burst up enrollment count in future after brusher partners ok.
+Among all of courses on grade 6 (六年级) and subject English (英语), burst down mode widely exists 
+
+
+for class id 4744823349941248, 4732367353532416, 4732404522897920, 4732464302955520 and 
+
+
+4744856851910656.  From the picture, we can see after enrollment count burst down, the overall 
+
+
+enrollment count decreased nearly to zero for season summer and summer + autumn. Almost all of 
+
+
+previous enrollment count of this grade & subject disappeared.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To check the realistic status of these courses, we try to access the course from both ‘class center’ (选
+
+
+课中心) and web page URL(https://www.gaotu100.com/learn/$CLASS_ID). Four of them are 
+
+
+unsearchable from class center. Through checking web page URL, one of them is canceled (Class ID 
+
+
+4732367353532416). Since other three is unsearchable and enrollment count is seldom, we believe 
+
+
+the other three are to be cancelled.
+The more interesting thing happened when we investigate remained no “Burst Down” mode autumn 
+
+
+courses on same grade 6 (六年级) and same subject English (英语). According to the following table, 
+
+
+all of 3 classes are unlisted from class center on 2020/05/22. At that time every class have over 3000 
+
+
+enrollment count. After several days (06/04 and 06/22), two of three were cancelled. We believe 
+
+
+almost all of enrollment count of grade 6 and subject English is faked. 
+
+
+
+
+
+
+
+
+
+
+
+In many scenarios, “Burst Down” mode co-exists with “Burst Up” mode. An example is all of courses 
+
+
+for grade 8 (初二) and subject Math (数学).
+ Big First-time  
+
+
+We filter courses which first searchable time later than May 9
+th
+
+
+. And find the enrollment count of 
+
+
+many courses in the first snapshot is a big number. We name it as “first_time_enrolled_count”. 
+
+
+
+
+
+Split in two situations: Long-term normal price course and free course. 
+
+
+1) For normal price course, the source of “first_time_enrolled_count” is opaque and easy to play 
+
+
+tricks. With best wish we look at “first_time_enrolled_count” equals “class renewal count” (续班
+
+
+人数) plus “advance sales count” (销售预售).  
+
+
+
+
+
+“class renewal count” hypothesis is based on a common strategy used by after-class tutoring 
+
+
+institutions. Before a new course open for every user, the tutoring institution set a special period 
+
+
+as “class renewal period”(续班期). The class renewal period will last several days. During this 
+
+
+period only existed members can enroll continuous class, and they will enjoy special discount. 
+
+
+This strategy can encourage regular user continue to enroll new course.  
+
+
+
+
+
+“advance sales count” hypothesis is based on a strange strategy Gaotu used. Before courses are 
+
+
+on-line for App users, Gaotu salesman and tutors sell unsearchable courses in WeChat Group or 
+
+
+telephone in the name of discount. This strategy provides very bad user experiences, because 
+
+
+user can’t find the original class and price information when salesman sells courses to them.
+Note: “first_time_enrolled_count” represent “class renewal count” plus “advance sales count”, 
+
+
+which is just our best wish. Many clues show GSX inflate this number huge. Especially many 
+
+
+“Burst Down” mode cases prove it. For example, previous listed “Burst Down” mode course class 
+
+
+id 4732464302955520 【2020-暑秋】五年级升六年级英语系统 A+班（共 60 课时）. Its 
+
+
+first_time_enrolled_count is 2724. On its last time snapshot the enrollment count shrink to 127. 
+
+
+
+
+
+2) For the free classes, there is no renewal old user.  
+
+
+Before it can be searched by user, there should be no user can enroll. It’s impossible that within 
+
+
+12 minutes the enrollment count can begin from 0 and then jump to a big number.  We believe 
+
+
+GSX inflate “first_time_enrolled_count” huge. And we also find “Burst Up” mode exists in free 
+
+
+class in a large scale too. Since free class doesn’t bring revenue, we will not analyze free class 
+
+
+abnormal in detail.
+ Zombie Courses  
+
+
+Some courses be searchable previously but suddenly become unsearchable by API or Gaotu Web 
+
+
+courses select page(选课中心). We name it Zombie courses. Unsearchable by Gaotu “class center” 
+
+
+represent new enrollment can’t be brought by new user search on “class center”. In other words, 
+
+
+Gaotu cut their entrance of natural internet new user flow. It’s very strange. 
+
+
+
+
+
+There are 41 zombie courses, covered summer class, autumn class and summer+autumn class. 
+
+
+37 courses belong to Primary School, with last searchable snapshot whole enrollment count 109152. 
+
+
+4 courses belong to Junior Middle School, with last searchable snapshot whole enrollment count 3158. 
+
+
+0 courses belong to Senior Middle School. 
+
+
+
+
+
+We check these 41 courses status again on 2020/07/05. Now 10 already be "cancelled"; 5 be "full of 
+
+
+capacity" (Same meaning with “to be cancelled”); 15 be "unsearchable but enrollable"; 10 be 
+
+
+“searchable”. These 10 “searchable” courses state change from unsearchable zombie status to 
+
+
+searchable. 31 of 41 still can’t be searched directly by Gaotu “class center”. Consider checked time is 
+
+
+2020/07/04, and these courses are all summer and autumn classes. We believe many of those courses 
+
+
+are questionable.
+Summer/Autumn Classes – Gloomy Enrollment Trend 
+
+
+ Primary school - Bad renewal ratio and lacking new enrollment. 
+
+
+Enrollment sum suddenly increased on May 11
+th
+
+
+, since many new courses be searchable first-time on 
+
+
+Gaotu “class center”, with a large digit “first_time_enrolled_count”. But the sum of enrollment count 
+
+
+decrease hugely in the following days, especially for summer+autumn courses. It’s a very bad 
+
+
+phenomenon. Because summer + autumn enrollment count imply loyal students’ number. The huge 
+
+
+decrease shows many students quit, or Gaotu reduce its enrollment fraud inflation scale. Even in 
+
+
+courses summary level, “Burst Up” and Burst Down” mode obviously exists. 
+
+
+
+
+
+Note: There is over 100000 enrollment count on primary school belong to zombie courses. And some 
+
+
+classes are already unsearchable and canceled. But when we calculate the sum of enrollment count,  
+
+
+we do not exclude those zombie courses. Even if we do not consider enrollment inflation, our 
+
+
+calculation result are larger than the actual data.  
+
+
+
+
+
+ Junior Middle school - Enrollment collapse and obvious forgery can be easily seen 
+
+
+Enrollment count sum collapse happen on both summer and autumn courses. 
+
+
+
+
+
+
+
+
+We dig deep to find the collapse reason. We find it’s caused by enrollment count data burst down 
+
+
+happen for many courses. For Summer Classes, within less than 12 hours (2020/5/16 12:40 to 23:54), 
+
+
+enrollment count sum decreased 100334. Enrollment count sum only remained 137033 at 2020/5/22 
+
+
+13:07 (42% of 320321). 
+
+
+
+
+
+ “Burst Down” mode clearly shows Gaotu enrollment count data are inflated huge. Even 
+
+
+enrollment count sum reduced much until 2020/5/22, we don’t think at that time the remained 
+
+
+enrollment count become realistic. This kind of inflation should also exist on primary school and 
+
+
+senior middle school business. Only by “Burst Down” mode, we believe Gaotu inflate the 
+
+
+enrollment count at least  2.5 times(1/42%), which means nearly 60% enrollment count are 
+
+
+faked. And it’s high possible that 70-80% are faked.
+ Senior Middle school - Light in gloomy, but unsustainable 
+
+
+Comparing with Primary school and Junior Middle school, GSX Senior Middle school business 
+
+
+performs far better, especially Grade 11 and Grade 12. Its autumn long-term normal price class 
+
+
+enrollment is about 350000, equals about the sum of primary school and junior middle school autumn 
+
+
+enrollment. There is also “Burst Up” and “Burst Down” mode existed on some of Gaotu senior middle 
+
+
+school courses. 
+
+
+
+
+
+There are still many issues. 
+
+
+1. Summer courses enrollment number is very small, and trend is not good. This implies the newbie 
+
+
+student enrollment meet obstacle, or autumn courses enrollment number is abnormal. 
+
+
+2. Grade 10 (高一) occupies largest part in summer classes. But the enrollment number continues to 
+
+
+decrease. This means new grade 1 users have low interest in GSX, and they are quitting courses.  
+
+
+3. Grade 10 occupies smallest part in autumn class. This also implies GSX hard to attract Grade 10 
+
+
+users, especially when comparing with summer class. 
+
+
+4. Grade 11, 12 students occupies small part in summer classes. This implies GSX meet obstacle to 
+
+
+attract Grade 11, 12 new users. The enrollment count for Grade 11, 12 on summer and autumn 
+
+
+classes differ huge.  
+
+
+
+
+
+Comparing with other teachers on the same grade and subject, Gaotu famous senior middle school 
+
+
+teacher performs well on attracting new users.
+ Top 20 enrollment count teachers - the graduating class are most welcome 
+
+
+We calculate and sort all of teachers’ single course enrollment number. The following table show 
+
+
+top20 enrollment teachers in Gaotu, sort by last snapshot ‘enrolled_count’ field value. 
+
+
+
+
+
+
+
+
+For the top20 enrollment teachers, the grade distribution is as the following table. This proves our 
+
+
+judgement again:  
+
+
+1. Grade 11 and 12 enrollment count perform best. 
+
+
+2. The secondary strong is Grade 9.  
+
+
+3. Most of junior middle school teacher enrollment count trend is bad, including grade 9. 
+
+
+4. There is no primary school teacher on Top20 ranking list. Primary school business lack new 
+
+
+enrollment and popular teachers. 
+
+
+
+
+
+
+
+
+ Unhealthy enrollment count distribution 
+
+
+GSX enrollment count distribution in different ages is an inverted pyramid structure.  Graduating 
+
+
+classes (Grade 9, 11, 12) has biggest enrollment count and revenue contribution.  
+
+
+
+
+
+It’s an opposite structure to mainstream institutions such as TAL. TAL or YuanFuDao try best to enroll 
+
+
+students at a lower age to make a bigger foundation. They even have early childhood education brand 
+
+
+‘小猴’ and ‘斑马’. After gaining a good reputation in the young age, they can cultivate loyal customers 
+
+
+and ensure the rate of class renewal.  
+
+
+
+
+
+There are multiple reasons that other institutions’ senior middle school business can’t be expanded 
+
+
+fast.  
+
+
+1) Senior middle school target user number is smaller than primary school and junior middle school. 
+
+
+2) Senior middle school student face the challenge of college entrance exam, and school teacher 
+
+
+assigned study and homework already occupy students’ too much time. 
+
+
+3) There is no enough qualified high performing teachers for these institutions. 
+
+
+
+
+
+Did GSX or Gaotu solve these issues?  
+
+
+It didn’t. But Gaotu use different model to expand. They developed graduating classes business based 
+
+
+on fraud. In the next chapter, we will analyze why and how they can attract some of graduating 
+
+
+students, and Gaotu education fraud business model.
+GSX Education Fraud Business 
+
+
+Many research institutions already exposed many GSX fraud behaviors. Now refer to Gaotu 
+
+
+enrollment count data, we collect some new materials combing with previous evidence. Now we can 
+
+
+conclude main of GSX education fraud business model: 
+
+
+ Well-designed trap for parents and students who have fragile knowledge base, feel have no time 
+
+
+and want to improve results of study quickly. 
+
+
+ Popping high growth bubble with reckless brushing and key operational data forgery (enrollment 
+
+
+and revenue).  
+
+
+
+
+
+1. Build Celebrity Teacher. (Appendix A) 
+
+
+Many of them are hired from other competitors, such as TAL or EDU. To attract potential users, GSX 
+
+
+exaggerate their capability, sometimes even make resume fraud. The appendix A give samples about 
+
+
+top2 enrollment teacher Xinran Xie (谢欣然) and Guodong Chen(陈国栋). 
+
+
+
+
+
+2. False propaganda (Appendix B) 
+
+
+Include exaggerating improvement results of study, fast speed of improvement, universal shortcut of 
+
+
+problem solving. Many people can’t understand why GSX do such kind of exaggerated advertisements 
+
+
+(sometimes disgusting). These advertisements are well-designed to attract specified people, 
+
+
+especially some graduating students and their parents, whose basic knowledge is not good, and have 
+
+
+strong willing to grasp possible shortcut to improve scores quickly. 
+
+
+
+
+
+3. Well-designed free classes and aggressive sales (Appendix C) 
+
+
+Gaotu free classes are well-designed and used to show the best of Gaotu courses. In the class, many 
+
+
+teachers will show their universal shortcut methods to solve difficult questions. But actually most of 
+
+
+these shortcut methods can only be used to solve specified limited questions. 
+
+
+To let customer pay for long-term normal price courses, Gaotu teachers and sales use many 
+
+
+aggressive even fraud tricks to push the parents or students. 
+
+
+
+
+
+4. Expensive charges 
+
+
+The charge is so expensive enough that they need not take care of student renewal ratio too much. 
+
+
+Its per-hour fee is about 1.5 times than TAL On-line.  
+
+
+Grade 12 Autumn Course Product Unit Price (Price RMB/Class number of times) 
+
+
+Gaotu Autumn 1700/9，  2600/15 
+
+
+TAL On-line 1440/12，1920/16 
+
+
+YuanFudao  1400/15, 1900/15 
+
+
+
+
+
+Gaotu has 4800 RMB sprint course “高考决胜班” for Grade 12 students who will attend college 
+
+
+entrance exam right now.  
+
+
+
+
+
+5. Long-term normal price course enrollment fraud (Appendix E) 
+
+
+Easy-to-identified mode: Burst up, Burst down. 
+
+
+Hard-to-identified mode: Manual brusher and bots brushing. 
+
+
+For Burst mode, most of them can’t be done by manual brusher or 3
+rd
+
+
+ party bots brushing. It should 
+
+
+be very easy to be identified by GSX anti-bot team. So we believe GSX management is deeply involved 
+
+
+in enrollment fraud.
+6. Reputation based on on-line water army brushing positive reviews (Appendix D) 
+
+
+False propaganda, less-than-expected long term normal price courses, expensive prices, teacher and 
+
+
+tutors insufficient capacity, bad user experiences, all of these will influence student renewal and 
+
+
+newbie enrollment, hurt company brand and long-term interest. 
+
+
+
+
+
+To hold down negative user feedbacks and maintain company illusory reputation, GSX have strong on-
+
+
+line water army to brush positive reviews. Previous analysis report from Scorpio Research already 
+
+
+exposed in details how GSX brush a huge number of positive reviews on AppStore and GSX/Gaotu 
+
+
+Class App. They disclosed GSX fabricated up to 80% of the positive reviews in Class App. In other 
+
+
+media channels there is similar phenomenon, such as baidu zhidao(百度知道),  zhihu(知乎). 
+
+
+Anyway this kind of fake reputation is unsustainable. We already found more and more negative 
+
+
+comments about GSX and Gaotu. GSX aggressive PR and water army behaviors are backfiring on itself. 
+
+
+
+
+
+[Appendix A]  Evidence - Build Celebrity Teacher  
+
+
+ Guodong Chen（陈国栋），enrollment count rank number 2 
+
+
+Gaotu Mislead user that Guodong Chen as teacher of famous Henshui High School of Hebei. But He is 
+
+
+formal teacher of Henshui 2
+nd
+
+
+ High School Teacher. (Difference between Northwestern University and 
+
+
+Northwest University) 
+
+
+2018 course: https://www.gaotu100.com/learn/1249535242635776  
+
+
+2019/20 course: Delete description Henshui 2
+nd
+
+
+ High School Teacher, and add description Henshui 
+
+
+High School. 
+
+
+
+
+
+Students’ opinions about Guodong Chen 
+
+
+https://www.zhihu.com/question/382435378/answer/1107558693 
+
+
+
+https://www.gaotu100.com/learn/1249535242635776
+
+https://www.zhihu.com/question/382435378/answer/1107558693
+ Xinran Xie（谢欣然），enrollment count rank number 1 
+
+
+Champion of Popularity of New Oriental 2017 hot teacher competition. 
+
+
+Better than Guodong Chen, this title didn’t make fraud and just mislead users. 
+
+
+In fact, her final ranking was 4th, and professional ability ranked 9th in the top 20 hot ranking. 
+
+
+http://zh.xdf.cn/news/201711/8372369.html 
+
+
+
+
+
+
+
+
+Students’ opinions about Xinran Xie 
+
+
+https://www.zhihu.com/question/343434363/answer/1068679325 
+
+
+
+
+
+
+
+
+ 
+
+
+
+http://zh.xdf.cn/news/201711/8372369.html
+
+https://www.zhihu.com/question/343434363/answer/1068679325
+https://zhuanlan.zhihu.com/p/129051214 
+
+
+
+
+
+[Appendix B]  Evidence - False propaganda  
+
+
+ Evidence of Exaggerate improvement results of study 
+
+
+Most of GSX/Gaotu teachers, exaggerate their capability of fast improvement results of study. 
+
+
+We summarize every GSX teacher advertised improvement result; conclude that if one student 
+
+
+majoring in science subject in He Nan province enrolls all of courses in GSX, his score should be 
+
+
+added by at least 182 in average. It’s a huge lie. 
+
+
+
+
+
+If he previously just reaches the admission score of ordinary universities score, now his mark 
+
+
+would be at least 567. He can attend a very good key university. If he previously just reaches the 
+
+
+admission score of key universities, now he can attend Chinese best universities – Peking or 
+
+
+Tsinghua University. (二本上好一本，一本上清北) 
+
+
+
+
+
+He Nan province college entrance examination mark in science subject: 
+
+
+The admission score of Peking/Tsinghua University score: 684/685 
+
+
+The admission score of key universities score: 502 
+
+
+The admission score of ordinary universities score: 385 
+
+
+The admission score of independent college score: 160 
+
+
+Subject Chinese Math English Physics Chemical  Biology SUM 
+
+
+Score Improvement 20 30 30 30 42 30 182 
+
+
+ 
+
+
+
+https://zhuanlan.zhihu.com/p/129051214
+ Evidence of False Ads. - fast speed of improvement, universal shortcut of problem solving 
+
+
+There are too many false advertisements. Here just list a small part of them. 
+
+
+
+
+
+Teacher Xinran Xie (Top 1 enrollment count ranking): 
+
+
+
+
+
+
+
+
+Teacher Guodong Chen (Top 2 enrollment count ranking): 
+
+
+
+
+
+
+
+
+Public advertisement
+[Appendix C]  Evidence – well-designed free classes and 
+
+
+aggressive sales
+https://www.zhihu.com/question/269089089/answer/998759524 
+
+
+
+
+
+
+
+
+https://zhuanlan.zhihu.com/p/148788790 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+https://www.zhihu.com/question/269089089/answer/998759524
+
+https://zhuanlan.zhihu.com/p/148788790
+https://www.zhihu.com/question/305825125/answer/1161337243 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Appendix D]  Evidence – negative feedback 
+
+
+
+
+
+ Evidence of Negative Feedback from user 
+
+
+Include false advertisement, aggressive sales, bad normal price courses experience, teacher and 
+
+
+tutors insufficient capacity, inaccurate prediction about the content of the college entrance exam. 
+
+
+
+
+
+https://www.zhihu.com/question/305825125 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+https://www.zhihu.com/question/305825125/answer/1161337243
+
+https://www.zhihu.com/question/305825125
+https://www.zhihu.com/question/269089089/answer/709825094 
+
+
+
+
+
+https://www.zhihu.com/question/363121408 
+
+
+
+
+
+
+
+
+ 
+
+
+
+https://www.zhihu.com/question/269089089/answer/709825094
+
+https://www.zhihu.com/question/363121408
+ Evidence of Negative Feedback from education business 
+
+
+
+
+
+Source: TAL Expert conference 2019Q2 
+
+
+http://www.guozhiedu.com/index.php?s=dynamic&c=show&id=307 
+
+
+Question: 
+
+
+GSX figures of customer acquisition cost and renewal rate, which is impressive. What do you 
+
+
+think of it in the industry? 
+
+
+TAL Answer: 
+
+
+From our point of view, it's not so different with GSX. The differences among on-line businesses 
+
+
+are not very big. GSX may be financing or expanding recently, so the figures they publicize are 
+
+
+pretty good. But we don't think it's worth a lot of reference. Our measurement is very strict. It's 
+
+
+very difficult to improve the renewal ratio when everyone is losing money on-line. 
+
+
+
+
+
+Source：Xueqiu（雪球） 
+
+
+
+http://www.guozhiedu.com/index.php?s=dynamic&c=show&id=307
+Souce：Wechat Subscription accounts “摩西英语”
+[Appendix E]  Evidence – Summer and Autumn courses 
+
+
+enrollment 
+
+
+Here we list enrollment count pictures for part of summer and autumn courses. Every picture 
+
+
+includes all of courses on same grade and same subject. If you want to get all of courses text 
+
+
+result and pictures, please download from https://github.com/EduEqu918/gsx-fraud and run our 
+
+
+open source codes.  
+
+
+
+
+
+
+
+
+ 
+
+
+
+https://github.com/EduEqu918/gsx-fraud

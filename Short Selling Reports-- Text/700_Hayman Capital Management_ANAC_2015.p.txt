@@ -1,0 +1,4615 @@
+Filed on behalf of Petitioner COALITION FOR AFFORDABLE DRUGS X LLC 
+ 
+By: Jeffrey D. Blake, Esq. 
+ MERCHANT & GOULD P.C. 
+ 191 Peachtree Street N.E., Suite 4300 
+ Atlanta, GA 30303 
+ jblake@merchantgould.com 
+ Main Telephone: (404) 954-5100 
+ Main Facsimile: (404) 954-5099 
+
+
+
+
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+___________________ 
+
+
+
+
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+___________________ 
+
+
+
+
+
+COALITION FOR AFFORDABLE DRUGS X LLC, 
+Petitioner, 
+
+
+ 
+v. 
+
+
+ 
+ANACOR PHARMACEUTICALS, INC., 
+
+
+Patent Owner. 
+___________________ 
+
+
+Case No.: Unassigned 
+Patent No.: 7,767,657 
+
+
+________________________________________________________ 
+
+
+
+
+
+SECOND PETITION FOR INTER PARTES REVIEW OF  
+PATENT NO. 7,767,657
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+ii 
+ 
+
+
+TABLE OF CONTENTS 
+ 
+
+
+I. INTRODUCTION......................................................................................... 1 
+
+
+II. MANDATORY NOTICES UNDER 37 C.F.R. § 42.8(a)(1) ....................... 2 
+
+
+A. Real Party-In-Interest Under 37 C.F.R. § 42.8(b)(1) .................................... 3 
+
+
+B. Related Matters Under 37 C.F.R. § 42.8(b)(2) ............................................. 4 
+
+
+C. Lead and Back-Up Counsel Under 37 C.F.R. §§ 42.8(b)(3) & 42.10(a) ...... 4 
+
+
+D. Service Information Under 37 C.F.R. § 42.8(b)(4) ....................................... 5 
+
+
+III. PAYMENT OF FEES UNDER 37 C.F.R. § 42.103 .................................... 5 
+
+
+IV. REQUIREMENTS FOR IPR UNDER 37 C.F.R. § 42.104 ......................... 5 
+
+
+A. Grounds for Standing Under 37 C.F.R. § 42.104(a) ..................................... 5 
+
+
+B. Identification of Challenge Under 37 C.F.R. § 42.104(b) and Relief 
+Requested ...................................................................................................... 6 
+
+
+1. Claims for Which IPR Is Requested Under 37 C.F.R. § 42.104(b)(1) ...... 6 
+
+
+2. Specific Art and Statutory Grounds on Which the Challenge Is Based 
+Under 37 C.F.R. § 42.104(b)(2) ................................................................. 6 
+
+
+3. The Construction of the Challenged Claims Under 37 C.F.R.  
+§ 42.104(b)(3) ............................................................................................. 8 
+
+
+4. How the Construed Claims Are Unpatentable Under 37 C.F.R.  
+§ 42.104(b)(4) ............................................................................................. 9 
+
+
+5. Supporting Evidence Under 37 C.F.R. § 42.104(b)(5) .............................. 9 
+
+
+V. SUMMARY OF THE ‘657 PATENT .......................................................... 9 
+
+
+A. Lineage of the ‘657 Patent ............................................................................ 9 
+
+
+B. Description of the Alleged Invention of the ‘657 Patent ............................10 
+
+
+C. Construction of Key Terms in the ‘657 Claims ..........................................10
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+iii 
+ 
+
+
+D. Summary of the Original Prosecution of the ‘657 Patent ...........................15 
+
+
+1. Prosecution History of the ‘621 Patent.....................................................16 
+
+
+2. Prosecution History of the ‘657 Patent.....................................................17 
+
+
+E. The State of the Art .....................................................................................18 
+
+
+VI. PETITIONER HAS A REASONABLE LIKELIHOOD OF      
+ PREVAILING .............................................................................................21 
+
+
+A. Each Reference Relied on for Grounds 1-6 Is Prior Art .............................22 
+
+
+B. A Person of Ordinary Skill in the Art .........................................................22 
+
+
+C. Ground 1: Claims 1-2, 4-5, 10-16 and 18-24 Are Obvious Over Austin      
+in View of Freeman ....................................................................................22 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent .........29 
+
+
+2. Freeman Discloses the Topical Application of Boron-Based Compound 
+Formulations to Treat Onychomycosis ....................................................30 
+
+
+3. Summary: Claims 1-2, 4-5, 10-16 and 18-24 Are Obvious Over Austin   
+in View of Freeman ..................................................................................32 
+
+
+D. Ground 2: Claim 6 of the ‘657 Patent Is Obvious Under 35 U.S.C.       
+§ 103(a) Over Austin in View of Freeman and Chaudhuri ........................35 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent and 
+Freeman Discloses the Topical Application of Boron-Based Compounds 
+to Treat Onychomycosis ...........................................................................37 
+
+
+2. Chaudhuri Discloses a Formulation of Propylene Glycol:Ethanol in a 
+Ratio of About 1:4 with About 1:10 Wt/Volume of Antifungal ..............37 
+
+
+3. Summary: Claim 6 Is Obvious Over Austin in View of Freeman and 
+Chaudhuri .................................................................................................38 
+
+
+E. Ground 3: Claims 3 and 7 of the ‘657 Patent Are Obvious Under 35     
+U.S.C. § 103(a) Over Austin in View of Freeman and Samour .................39
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+iv 
+ 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent and 
+Freeman Discloses the Topical Application of Boron-Based Compounds 
+to Treat Onychomycosis ...........................................................................42 
+
+
+2. Samour Discloses a Formulation of About 70% Ethanol; About 20% 
+Poly(Vinyl Methyl Ether-Alt-Maleic Acid Monobutyl Ester) and About 
+10% Antifungal ........................................................................................42 
+
+
+3. Summary: Claims 3 and 7 Are Obvious Over Austin in View of   
+Freeman and Samour ...............................................................................43 
+
+
+F. Ground 4: Claim 8 of the ‘657 Patent Is Obvious Under 35 U.S.C.      
+§ 103(a) Over Austin in View of Freeman, Friedman and Atlas ...............44 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent and 
+Freeman Discloses the Topical Application of Boron-Based Compounds 
+to Treat Onychomycosis ...........................................................................47 
+
+
+2. Friedman Discloses a Formulation of About 56% Ethanol; About 14% 
+Water; About 15% Methacrylic Polymer; About 5% Dibutyl Sebacate 
+and About 10% Antifungal .......................................................................47 
+
+
+3. Atlas Discloses Poly(2-Hydroxyethyl Methacrylate) in a Cosmetic Nail 
+Lacquer .....................................................................................................49 
+
+
+4. Summary: Claim 8 Is Obvious Over Austin in View of Freeman, 
+Friedman and Atlas ..................................................................................49 
+
+
+G. Ground 5: Claim 9 of the ‘657 Patent Is Obvious Under 35 U.S.C.      
+§ 103(a) Over Austin in View of Freeman, Samour and Friedman ...........51 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent and 
+Freeman Discloses the Topical Application of Boron-Based Compounds 
+to Treat Onychomycosis ...........................................................................53 
+
+
+2. Samour Discloses a Formulation of About 55% Ethanol; About 15% 
+Ethyl Acetate; About 15% Poly(Vinyl Acetate) and About 10% 
+Antifungal .................................................................................................54 
+
+
+3. Friedman Discloses a Formulation Including About 5% Dibutyl  
+Sebacate ....................................................................................................55
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+v 
+ 
+
+
+4. Summary: Claim 9 Is Obvious Over Austin in View of Freeman,  
+Samour and Friedman ..............................................................................56 
+
+
+H. Ground 6: Claim 17 of the ‘657 Patent Is Obvious Under 35 U.S.C.    
+§ 103(a) Over Austin in View of Freeman and Shapiro .............................58 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal Agent and 
+Freeman Discloses the Topical Application of Boron-Based Compounds 
+to Treat Onychomycosis ...........................................................................59 
+
+
+2. Shapiro Discloses Compositions of Antifungal Compounds for Treating 
+Diverse Types of Fungal Infections .........................................................59 
+
+
+3. Summary: Claim 17 Is Obvious Over Austin in View of Freeman and 
+Shapiro ......................................................................................................60 
+
+
+VII. CONCLUSION ...........................................................................................60
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+vi 
+ 
+
+
+TABLE OF AUTHORITIES 
+ 
+Cases 
+ 
+Abbott Labs. v. Lupin Ltd., 
+ 753 F. Supp. 2d 382 (D. Del. 2010). ........................................... 12 n.4, 13 n.7 
+ 
+Cohesive Techs., Inc. v. Waters Corp., 
+ 543 F.3d 1351 (Fed. Cir. 2008) ................................................... 12 n.3, 12 n.5 
+     
+KSR Int’l Co. v. Teleflex, Inc.,  
+
+
+550 U.S. 398 (2007)........................................................................... 21-22, 35 
+
+
+Pall Corp. v. Micron Separations, Inc.,  
+66 F.3d 1211 (Fed. Cir. 1995) ....................................................................... 12 
+
+
+Phillips v. AWH Corp.,  
+ 415 F.3d 1303 (Fed. Cir. 2005) (en banc) ..................................................... 12 
+ 
+Roche Diagnostics Operations, Inc. v. Abbott Diabetes Care, 
+ 667 F. Supp. 2d 429 (D. Del. 2009). ....................................................... 13 n.8 
+ 
+Schreiber Foods, Inc. v. Saputo Cheese USA, 
+ 83 F. Supp. 2d 942 (N.D. Ill. 2000) ......................................................... 13 n.6 
+
+
+
+
+
+Statutes & Other Authorities 
+ 
+35 U.S.C. § 102(b) ............................................................................................... 7, 22 
+ 
+35 U.S.C. § 102(e) ..................................................................................... 7, 7 n.1, 22 
+ 
+35 U.S.C. § 103(a) ........................................... 7, 8, 16, 17, 21, 35, 39, 44, 51-52, 58 
+ 
+35 U.S.C. § 112 .................................................................................................. 16, 17 
+ 
+35 U.S.C. §§ 311-319................................................................................................. 1 
+ 
+35 U.S.C. § 315(e)(1) ................................................................................................. 6
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+vii 
+ 
+
+
+ 
+37 C.F.R. § 42.6(e) ................................................................................................... 62 
+ 
+37 C.F.R. § 42.8(a)(1) ................................................................................................ 2 
+
+
+ 
+37 C.F.R. § 42.8(b)(1) ................................................................................................ 3 
+
+
+ 
+37 C.F.R. § 42.8(b)(2) ................................................................................................ 4  
+ 
+37 C.F.R. § 42.8(b)(3) ................................................................................................ 4 
+ 
+37 C.F.R. § 42.8(b)(4) ................................................................................................ 5 
+ 
+37 C.F.R. § 42.10(a) ................................................................................................... 4 
+
+
+ 
+37 C.F.R. § 42.10(b) .................................................................................................. 5 
+ 
+34 C.F.R. § 42.15(a)(1-4) ........................................................................................... 5 
+ 
+37 C.F.R. § 42.63(a) ................................................................................................... 9 
+ 
+37 C.F.R. § 42.100 et seq. .......................................................................................... 1 
+ 
+37 C.F.R. § 42.100(b) ............................................................................................ 8, 9 
+
+
+ 
+37 C.F.R. § 42.102(a)(2) ............................................................................................ 6 
+ 
+37 C.F.R. § 42.103 ..................................................................................................... 5 
+ 
+37 C.F.R. § 42.104 ..................................................................................................... 5 
+
+
+ 
+37 C.F.R. § 42.104(a) ................................................................................................. 5 
+
+
+ 
+37 C.F.R. § 42.104(b) ................................................................................................ 6 
+ 
+37 C.F.R. § 42.104(b)(1) ............................................................................................ 6 
+ 
+37 C.F.R. § 42.104(b)(2) ............................................................................................ 6
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+viii 
+ 
+
+
+37 C.F.R. § 42.104(b)(3) ............................................................................................ 8 
+ 
+37 C.F.R. § 42.104(b)(4) ...................................................................................... 9, 21 
+ 
+37 C.F.R. § 42.104(b)(5) ............................................................................................ 9
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+1 
+ 
+
+
+ Coalition For Affordable Drugs X LLC (“CFAD”) respectfully submits this 
+
+
+Second Petition for Inter Partes Review (“IPR”) of all claims of U.S. Patent No. 
+
+
+7,767,657 (“the ‘657 Patent”) (Ex. 1001) pursuant to 35 U.S.C. §§ 311-319 and 37 
+
+
+C.F.R. § 42.100 et seq.   
+
+
+I. INTRODUCTION 
+
+
+ The ‘657 Patent claims formulations for treating fungal infections of the 
+
+
+nails and skin, including onychomycosis, with 1,3-dihydro-5-fluoro-1-hydroxy-
+
+
+2,1-benzoxaborole, the structure of which is: 
+
+
+O
+
+
+B
+
+
+OH
+
+
+F  
+
+
+The claims of the ‘657 Patent are obvious because the claimed compound 
+
+
+was disclosed in WO 1995/033754 to Austin et al. (“Austin”) as a preferred 
+
+
+fungicide effective against Candida albicans – which is a fungal pathogen known 
+
+
+to cause onychomycosis. 
+
+
+During prosecution of the ‘657 Patent and its parent application, the Patent 
+
+
+Owner overcame obviousness rejections by arguing that a general interest, non-
+
+
+scientific internet website called Answers.com taught away from human treatment 
+
+
+with an industrial fungicide because it stated that some fungicides were harmful to 
+
+
+humans. The Examiner accepted these arguments and allowed the patents to issue.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+2 
+ 
+
+
+The fallacy of the Patent Owner’s “teaching away” argument is exposed in 
+
+
+view of how drugs are developed in the pharmaceutical industry. Drug candidates 
+
+
+are screened through routine efficacy and safety protocols before application to 
+
+
+humans, thus avoiding the safety fears that the Patent Owner argued to the 
+
+
+Examiner. Additionally, WO 2003/009689 to Freeman et al. (“Freeman”) 
+
+
+describes phenyl boronic acid derivatives for treating fungal infections in humans 
+
+
+and plants, including dermatophytoses or onychomycosis.  
+
+
+Claims 1-2, 4-5, 10-16, and 18-24 of the ‘657 Patent are thus obvious 
+
+
+because a person of ordinary skill in the art (“POSITA”) would have known that 
+
+
+the preferred industrial fungicide disclosed in Austin, which was effective against a 
+
+
+known cause of onychomycosis, would have been an obvious candidate for 
+
+
+potential therapeutic use in humans in view of Freeman, which discloses topical 
+
+
+formulations of similar boron-based compounds for treating onychomycosis. 
+
+
+Claims 3 and 6-9 of ‘657 Patent, claiming certain formulations, are obvious 
+
+
+over Austin in view of Freeman and one or more of Chaudhuri, Samour, Friedman 
+
+
+and Atlas, which disclose certain formulations, the preparation of which the ‘657 
+
+
+Patent admits was well known in the art. 
+
+
+Lastly, claim 17 is obvious over Austin in view of Freeman and Shapiro, the 
+
+
+latter disclosing pharmaceuticals to treat onychomycosis and other related diseases. 
+
+
+II. MANDATORY NOTICES UNDER 37 C.F.R. § 42.8(a)(1)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+3 
+ 
+
+
+A. Real Party-In-Interest Under 37 C.F.R. § 42.8(b)(1) 
+
+
+Petitioner certifies that CFAD, Hayman Credes Master Fund, L.P. 
+
+
+(“Credes”), Hayman Orange Fund SPC – Portfolio A (“HOF”), Hayman Capital 
+
+
+Master Fund, L.P. (“HCMF”), Hayman Capital Management, L.P. (“HCM”), 
+
+
+Hayman Offshore Management, Inc. (“HOM”), Hayman Investments, L.L.C. 
+
+
+(“HI”), nXn Partners, LLC (“nXnP”), IP Navigation Group, LLC (“IPNav”), J. 
+
+
+Kyle Bass, and Erich Spangenberg are the real parties-in-interest (collectively, 
+
+
+“RPI”). The RPI certifies the following information:  
+
+
+CFAD is a wholly owned subsidiary of Credes. Credes is a limited 
+
+
+partnership. HOF is a segregated portfolio company. HCMF is a limited 
+
+
+partnership. HCM is the general partner and investment manager of Credes and 
+
+
+HCMF. HCM is the investment manager of HOF. HOM is the administrative 
+
+
+general partner of Credes and HCMF. HI is the general partner of HCM. J. Kyle 
+
+
+Bass is the sole member of HI and sole shareholder of HOM. CFAD, Credes, HOF, 
+
+
+and HCMF act, directly or indirectly, through HCM as the general partner and/or 
+
+
+investment manager of Credes, HOF and HCMF. nXnP is a paid consultant to 
+
+
+HCM. Erich Spangenberg is the Manager and majority member of nXnP. IPNav is 
+
+
+a paid consultant to nXnP. Erich Spangenberg is the Manager and majority 
+
+
+member of IPNav.  
+
+
+Other than HCM and J. Kyle Bass in his capacity as the Chief Investment
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+4 
+ 
+
+
+Officer of HCM and nXnP, and Erich Spangenberg in his capacity as the 
+
+
+Manager/CEO of nXnP, no other person (including any investor, limited partner, 
+
+
+or member or any other person in any of CFAD, Credes, HOF, HCMF, HCM, 
+
+
+HOM, HI, nXnP, or IPNav) has authority to direct or control (i) the timing of, 
+
+
+filing of, content of, or any decisions or other activities relating to this Petition or 
+
+
+(ii) any timing, future filings, content of, or any decisions or other activities 
+
+
+relating to the future proceedings related to this Petition. All of the costs associated 
+
+
+with this Petition will be borne by HCM, CFAD, Credes, HOF and/or HCMF. 
+
+
+B. Related Matters Under 37 C.F.R. § 42.8(b)(2) 
+
+
+Petitioner is aware of a concurrently filed Petition for Inter Partes Review 
+
+
+(“IPR”) of U.S. Patent No. 7,582,621, upon which the ‘657 Patent claims priority 
+
+
+as a continuation-in-part (Case No. Unassigned), and a concurrently filed “First” 
+
+
+Petition for IPR of U.S. Patent No. 7,767,657 (Case No. Unassigned). 
+
+
+C. Lead and Back-Up Counsel Under 37 C.F.R. §§ 42.8(b)(3) & 
+ 42.10(a) 
+
+
+ 
+Lead Counsel Back-Up Counsel 
+
+
+Jeffrey D. Blake, Esq. 
+Reg. No. 53,214 
+Merchant & Gould PC 
+191 Peachtree Street N.E., Suite 4300 
+Atlanta, GA 30303 
+Main Telephone: (404) 954-5100 
+Main Facsimile: (404) 954-5099 
+jblake@merchantgould.com 
+
+
+Kathleen E. Ott, Esq.  
+Reg. No. 64,038 
+Peter A. Gergely, Esq. 
+(Pro Hac Vice) 
+Ryan James Fletcher, Ph.D., Esq. 
+(Pro Hac Vice) 
+Merchant & Gould PC 
+1801 California Street, Suite 3300 
+Denver, CO 80202
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+5 
+ 
+
+
+Main Telephone: (303) 357-1670 
+Main Facsimile: (303) 357-1950 
+kott@merchantgould.com 
+pgergely@merchantgould.com 
+rfletcher@merchantgould.com 
+ 
+Brent E. Routman, Esq. 
+(Pro Hac Vice) 
+Merchant & Gould PC 
+3200 IDS Center 
+80 South Eighth Street 
+Minneapolis, MN 55402 
+Main Telephone: (612) 332-5300 
+Main Facsimile: (612) 322-9081 
+broutman@merchantgould.com 
+
+
+
+
+
+Pursuant to 37 C.F.R. § 42.10(b), a Power of Attorney is provided herewith.  
+
+
+D. Service Information Under 37 C.F.R. § 42.8(b)(4) 
+
+
+Service information for lead and back-up counsel is provided above in the 
+
+
+designation of lead and back-up counsel. Petitioner also consents to electronic 
+
+
+service by e-mail at Kerydin2IPR@merchantgould.com. 
+
+
+III. PAYMENT OF FEES UNDER 37 C.F.R. § 42.103 
+
+
+Payment of $27,400 for the fees set forth in 37 C.F.R. § 42.15(a)(1-4) 
+
+
+accompanies this Petition. The USPTO is authorized to charge Deposit Account 
+
+
+No. 13-2725 for any additional fees that may be due for this Petition. 
+
+
+IV. REQUIREMENTS FOR IPR UNDER 37 C.F.R. § 42.104 
+
+
+A. Grounds for Standing Under 37 C.F.R. § 42.104(a) 
+
+
+Petitioner hereby certifies that the ‘657 Patent is available for IPR and that
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+6 
+ 
+
+
+neither Petitioner nor any RPI is barred or estopped from requesting IPR of the 
+
+
+‘657 Patent because: (1) neither Petitioner nor any RPI are the patent owner; (2) 
+
+
+neither Petitioner nor any RPI has filed a civil action challenging the validity of a 
+
+
+claim in the ‘657 Patent; (3) neither Petitioner nor any RPI has been served with a 
+
+
+complaint alleging infringement of the patent; (4) the estoppel provisions of 35 
+
+
+U.S.C. § 315(e)(1) do not prohibit this IPR; and (5) the patent is not described in 
+
+
+Section 3(n)(1) of the Leahy-Smith America Invents Act and so is available for 
+
+
+IPR pursuant to 37 C.F.R. § 42.102(a)(2). 
+
+
+B. Identification of Challenge Under 37 C.F.R. § 42.104(b) and 
+ Relief Requested 
+
+
+Petitioner requests the cancellation of claims 1-24 of the ‘657 Patent as 
+
+
+unpatentable over the prior art for the reasons given herein. 
+
+
+1. Claims for Which IPR Is Requested Under 37 C.F.R. 
+§ 42.104(b)(1) 
+
+
+Petitioner requests IPR of claims 1-24 of the ‘657 Patent.  
+
+
+2. Specific Art and Statutory Grounds on Which the Challenge Is 
+Based Under 37 C.F.R. § 42.104(b)(2) 
+
+
+IPR of the ‘657 Patent is requested in view of the following seven 
+
+
+publications: (1) WO 1995/033754 (“Austin”) (Ex. 1002); (2) WO 2003/009689 
+
+
+(“Freeman”) (Ex. 1003); (3) U.S. Patent No. 6,143,794 (“Chaudhuri”) (Ex. 1004); 
+
+
+(4) U.S. Patent No. 6,224,887 (“Samour”) (Ex. 1005); (5) U.S. Patent No. 
+
+
+7,074,392 (“Friedman”) (Ex. 1006); (6) U.S. Patent No. 5,498,407 (“Atlas”) (Ex.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+7 
+ 
+
+
+1007); and (7) U.S. Patent No. 3,816,472 (“Shapiro”) (Ex. 1008). None of Austin, 
+
+
+Freeman, Chaudhuri, Samour, Friedman, Atlas or Shapiro was made of record 
+
+
+during prosecution of the ‘657 Patent. 
+
+
+a. Qualifying Prior Art Under 35 U.S.C. § 102(b) 
+
+
+The following publications are prior art against the ‘657 Patent under pre-
+
+
+AIA 35 U.S.C. § 102(b) as each published more than one year before February 16, 
+
+
+2005, the date of the earliest provisional application to which the ‘657 Patent 
+
+
+claims priority. (Ex. 1011, ¶ 39.) Austin published December 14, 1995; Freeman 
+
+
+published February 6, 2003; Chaudhuri published November 7, 2000; Samour 
+
+
+published May 1, 2001; Atlas published March 12, 1996; and Shapiro published 
+
+
+June 11, 1974. 
+
+
+b. Qualifying Prior Art Under 35 U.S.C. § 102(e) 
+
+
+Friedman is prior art against the ‘657 Patent under pre-AIA 35 U.S.C. 
+
+
+§ 102(e)1 because it was filed on March 27, 2000—almost five years prior to the 
+
+
+February 16, 2005 presumed priority date of the ‘657 Patent.  
+
+
+The following combinations of the above-listed publications render claims 
+
+
+1-24 of the ‘657 Patent obvious under pre-AIA 35 U.S.C. § 103(a): 
+                                                 
+1 A person shall be entitled to a patent unless “(e) the invention was described in 
+
+
+. . . (2) a patent granted on an application for patent by another filed in the United 
+
+
+States before the invention by the application for patent.” 35 U.S.C. § 102(e).
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+8 
+ 
+
+
+Ground Claim Nos. Proposed Statutory Rejections  
+1 1-2, 4-5, 
+
+
+10-16, 18-
+24 
+
+
+Claims 1-2, 4-5, 10-16, and 18-24 of the ‘657 Patent 
+are obvious under 35 U.S.C. § 103(a) over Austin in 
+view of Freeman. 
+
+
+2 6 Claim 6 of the ‘657 Patent is obvious under 35 U.S.C. 
+§ 103(a) over Austin in view of Freeman and 
+Chaudhuri. 
+
+
+3 3, 7 Claims 3 and 7 of the ‘657 Patent are obvious under 
+35 U.S.C. § 103(a) over Austin in view of Freeman 
+and Samour. 
+
+
+4 8 Claim 8 of the ‘657 Patent is obvious under 35 U.S.C. 
+§ 103(a) over Austin in view of Freeman, Friedman 
+and Atlas. 
+
+
+5 9 Claim 9 of the ‘657 Patent is obvious under 35 U.S.C. 
+§ 103(a) over Austin in view of Freeman, Friedman 
+and Samour. 
+
+
+6 17 Claim 17 of the ‘657 Patent is obvious under 35 
+U.S.C. § 103(a) over Austin in view of Freeman and 
+Shapiro. 
+
+
+
+
+
+ Austin, Freeman, Chaudhuri, Samour, Friedman, Atlas and Shapiro are filed 
+
+
+herewith. The grounds for unpatentability are supported by the Declarations of 
+
+
+Stephen Kahl, Ph.D. (“Kahl Decl.”) (Ex. 1009) and S. Narasimha Murthy, Ph.D. 
+
+
+(“Murthy Decl.”) (Ex. 1011) filed herewith. 
+
+
+3. The Construction of the Challenged Claims Under 37 C.F.R. 
+§ 42.104(b)(3) 
+
+
+The terms of the ‘657 Patent claims are given their broadest reasonable 
+
+
+interpretation in light of the specification, as understood by a POSITA. 37 C.F.R. 
+
+
+§ 42.100(b). Petitioner submits its claim constructions in Section V.C below. Any 
+
+
+undiscussed claim terms should be given their “ordinary meaning” under the
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+9 
+ 
+
+
+“broadest reasonable construction” standard of § 42.100(b). 
+
+
+4. How the Construed Claims Are Unpatentable Under 37 C.F.R. 
+§ 42.104(b)(4) 
+
+
+Section VI below contains a detailed explanation of how the construed 
+
+
+claims 1-24 of the ‘657 Patent are unpatentable, including an identification of 
+
+
+where each element is found in the prior art. 
+
+
+5. Supporting Evidence Under 37 C.F.R. § 42.104(b)(5) 
+
+
+Section VI also cites the exhibits and evidence relied upon to support the 
+
+
+petition, and addresses the relevance of the specific portions of the evidence to the 
+
+
+unpatentability arguments. This includes Exhibit 1009, which is a Declaration of 
+
+
+Stephen Kahl, Ph.D. under 37 C.F.R. § 42.63(a) attesting to, among other issues, 
+
+
+the safety of boron-based compounds and that it would have been obvious to try 
+
+
+1,3-dihydro-5-fluoro-1-hydroxy-2,1-benzoxaborole to treat onychomycosis. 
+
+
+Exhibit 1011 is a Declaration of S. Narasimha Murthy, Ph.D. under 37 C.F.R. 
+
+
+§ 42.63(a) attesting to, among other issues, the obviousness of claims 1-24, the 
+
+
+reasons for combining the references, and the reasons to pharmaceutically 
+
+
+formulate and topically apply the claimed compound. 
+
+
+V.  SUMMARY OF THE ‘657 PATENT 
+
+
+A. Lineage of the ‘657 Patent 
+
+
+The ‘657 Patent issued August 3, 2010, from U.S. Application No. 
+
+
+11/505,591, filed August 16, 2006, (Ex. 1001), which is a continuation-in-part
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+10 
+ 
+
+
+(CIP) of U.S. Application No. 11/357,687 (now U.S. Patent No. 7,582,621), (Ex. 
+
+
+1018), filed February 16, 2006, and claiming priority to U.S. Provisional 
+
+
+Application Nos. 60/654,060, 60/755,227, and 60/746,361, filed February 16, 2005, 
+
+
+December 30, 2005 and May 3, 2006, respectively. 2 
+
+
+B. Description of the Alleged Invention of the ‘657 Patent 
+
+
+The ‘657 Patent claims topical formulations of a single boron-based 
+
+
+compound to treat onychomycosis and other related diseases. (Ex. 1001, Title, 
+
+
+Abstract, cols. 323:1-324:49; Ex. 1009, ¶ 23; Ex. 1011, ¶¶ 38, 40-42.) Specifically, 
+
+
+the ‘657 Patent claims a pharmaceutical formulation of 1,3-dihydro-5-fluoro-l-
+
+
+hydroxy-2,1-benzoxaborole, or a salt thereof, and a pharmaceutically acceptable 
+
+
+excipient for topical administration to an animal suffering from an infection by a 
+
+
+microorganism. (Ex. 1001, col. 323:2-8; Ex. 1011, ¶¶ 43-45.) The ‘657 Patent 
+
+
+admits that formulation of pharmaceutically effective carriers was well known in 
+
+
+the art. (See Ex. 1001, cols. 11:21-12:10; Ex. 1011, ¶¶ 49, 194.) 
+
+
+C. Construction of Key Terms in the ‘657 Claims 
+
+
+ Claims 1 and 6-11 of the ‘657 Patent recite the following compound: “1,3-
+
+
+dihydro-5-fluoro-1-hydroxy-2,1-benzoxaborole.” (Ex. 1001, col. 323:2-8, col. 
+
+
+323:24-48; Ex. 1011, ¶¶ 50, 55-60, 115.) Austin also discloses 5-fluoro-1,3 dihydro-
+                                                 
+2 The extent to which the claims of the ‘657 Patent, which is a CIP application, are 
+
+
+supported by the U.S. Provisional Applications has not been considered herein.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+11 
+ 
+
+
+1-hydroxy-2,1-benzoxaborole, which has the following structure: 
+
+
+O
+
+
+B
+
+
+OH
+
+
+F  
+
+
+(Ex. 1009, ¶¶ 24-25; Ex. 1011, ¶¶ 42-44, 50, 75, 82-83, 115; see also Ex. 1044, at 
+
+
+3.) The ‘657 Patent discloses this chemical structure, and its formula of C7H6BFO2 
+
+
+and molecular weight of 151.93 Daltons. (Ex. 1001, col. 138:10-25; Ex. 1011, ¶ 
+
+
+115.) A short name for 1,3-dihydro-5-fluoro-1-hydroxy-2,1-benzoxaborole is 5-
+
+
+fluoro benzoxaborole. (Ex. 1011, ¶ 50.)   
+
+
+Claims 2 and 3 recite a “lacquer.” (Id. ¶¶ 51-52.) While the ‘657 Patent does 
+
+
+not define the term “lacquer,” it means a “solution of a solvent and a film-forming 
+
+
+polymer containing an active ingredient.” (Id. ¶¶ 51-52, 118; see Ex. 1032, at 19.)  
+
+
+Claim 4 recites the term “emollient,” which means a “material[] used for the 
+
+
+prevention or relief of dryness, as well as for the protection of the skin, nail, hair, 
+
+
+claw or hoof.” (Ex. 1001, col. 169:64-66; Ex. 1011, ¶¶ 53, 119, 164.)  
+
+
+Claim 4 recites the term “nail penetration enhancer,” which means “an agent 
+
+
+that acts to increase the permeability of the skin, nail, hair or hoof to a drug.” (Ex. 
+
+
+1011, ¶ 120; see id. ¶ 53; Ex. 1001, cols. 11:63-12:10.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+12 
+ 
+
+
+Claims 6-10 recite the term “about,” which is not defined by the ‘657 Patent. 
+
+
+(Ex. 1011, ¶¶ 19-20, 121-31.) The term “about” when used with a specified 
+
+
+parameter “avoids a strict numerical boundary to the specified parameter,” but 
+
+
+suggests a “range [that is] interpreted [based on] its technologic and stylistic 
+
+
+context.” Pall Corp. v. Micron Separations, Inc., 66 F.3d 1211, 1217 (Fed. Cir. 
+
+
+1995). When construing “about,” it is appropriate to consider the specification, 
+
+
+prosecution history, and other claims. See id. It is also appropriate to consider the 
+
+
+effects of varying the specified parameter and extrinsic evidence of meaning and 
+
+
+usage in the art. See id.; see also Phillips v. AWH Corp., 415 F.3d 1303, 1318-19 
+
+
+(Fed. Cir. 2005) (en banc). Case law further provides: (1) “about” does not have a 
+
+
+universal meaning3 and may be construed differently in different claims4; (2) the 
+
+
+term “about” may extend the claimed range to include values that serve the 
+
+
+functional purpose of the limitation5; (3) “about” has been construed to include a 
+
+
+full range of acceptable values when no importance was attributed to the claimed 
+
+
+                                                 
+3 See Cohesive Techs., Inc. v. Waters Corp., 543 F.3d 1351, 1368 (Fed. Cir. 2008). 
+
+
+4 See Abbott Labs. v. Lupin Ltd., 753 F. Supp. 2d 382, 418 (D. Del. 2010). 
+
+
+5 Cohesive Techs., 543 F.3d at 1370 (“Absent [specification] guidance, we neither 
+
+
+can nor should draw a hard and fast numeric line. Rather, we construe ‘about 
+
+
+[numeric value]’ to accomplish the function of the [limitation] . . . .”).
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+13 
+ 
+
+
+quantities and the claimed quantities were not added to avoid prior art6; (4) when 
+
+
+construing “about” it is appropriate to consider acceptable tolerances or quantities 
+
+
+based on intrinsic or extrinsic evidence7; and (5) in the absence of expert analysis 
+
+
+of the specification and comparison to other claims, “about” has been construed 
+
+
+according to its plain and ordinary meaning as “approximately” or “reasonably 
+
+
+close to.”8 
+
+
+Here, the ‘657 Patent is silent regarding why the particular claimed 
+
+
+formulations were chosen, but instead states that the formulations were “well 
+
+
+known in the art.” (Ex. 1001, col. 188:29-51; see also id. at col. 11:27-35, col. 
+
+
+163:34-43, col. 173:7-9; Ex. 1011, ¶¶ 49, 123, 130, 194, 212, 226, 230, 252, 256.) 
+
+
+Indeed, the prior art discloses numerous topical formulations for effective 
+
+
+treatment of onychomycosis that combine different amounts of various excipients 
+
+
+and active agents. The ‘657 Patent does not attribute any importance or unexpected 
+
+
+                                                 
+6 Schreiber Foods, Inc. v. Saputo Cheese USA, 83 F. Supp. 2d 942, 950 (N.D. Ill. 
+
+
+2000) (construing “about 2 minutes to about 4 minutes” to include 30 seconds to 
+
+
+ten minutes, and “about 190 [°] F. to about 205 [°] F.” to include 150° F to 300° F). 
+
+
+7 Abbott Labs., 753 F. Supp. 2d at 418 (relying on general tolerances of +/-15%). 
+
+
+8 See Roche Diagnostics Operations, Inc. v. Abbott Diabetes Care, 667 F. Supp. 2d 
+
+
+429, 441 (D. Del. 2009).
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+14 
+ 
+
+
+results to the claimed quantities of excipients or active agents in the formulations, 
+
+
+nor were the claimed quantities added or limited to avoid prior art. The ‘657 Patent 
+
+
+identifies the purpose of a “pharmaceutically acceptable carrier” as “any 
+
+
+formulation or carrier medium that provides the appropriate delivery of an 
+
+
+effective amount of a[n] active agent[,] . . . does not interfere with the effectiveness 
+
+
+of the biological activity of the active agent, and . . . is sufficiently non-toxic to the 
+
+
+host or patient.” (Ex. 1001, col. 11:21-27; Ex. 1011, ¶¶ 116, 122, 194, 227.) 
+
+
+Accordingly, the term “about” when used in conjunction with an excipient or 
+
+
+active agent should be construed to include a range of acceptable values such that 
+
+
+the excipient or active agent serves the functional purpose of the limitation, where 
+
+
+the range of acceptable values is determined based on the specification, 
+
+
+prosecution history, and prior art. (Ex. 1011, ¶¶ 121-31.) 
+
+
+ Claim 6 recites the unit designation “1:10 wt/volume,” which is not defined, 
+
+
+but means 1 gram solute dissolved in sufficient solvent to form 10 milliliters (mL) 
+
+
+of a solution (or composition). (Id. ¶¶ 55, 132; see Ex. 1037, at 119.)   
+
+
+Claim 10 recites the unit designation “% w/v,” which is not defined, but 
+
+
+means the percent by weight in grams (g) of a solute in 100 milliliters (mL) of a 
+
+
+solution (or composition). (Ex. 1011, ¶¶ 59, 132, 166-69, 189; Ex. 1037, at 119.) 
+
+
+Claim 12 recites a “cosmetically effective amount,” and claim 24 recites a 
+
+
+“therapeutically effective amount,” which both mean “an amount of the claimed
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+15 
+ 
+
+
+compound needed to reach the desired therapeutic result.” (Ex. 1011, ¶¶ 61, 73, 
+
+
+133, 160, 171, 182; see Ex. 1001, col. 10:4-9.) 
+
+
+Claims 14-19 recite “fungus,” “yeast,” and/or “dermatophyte,” as well as a 
+
+
+number of specific genera and/or species of the same. “Fungi” encompasses both 
+
+
+yeasts and dermatophytes. Dermatophytes refer to the following three genera: 
+
+
+Microsporum, Epidermophyton, and Trichophyton. (Ex. 1011, ¶¶ 63-68, 173-77.) 
+
+
+Onychomycosis that is caused by a dermatophyte, usually Trichophyton rubrum 
+
+
+and/or Trichophyton mentagrophytes, is referred to as Tinea unguium. (Ex. 1001, 
+
+
+col. 132:8-11, col. 139:11-23; Ex. 1011, ¶¶ 68, 175-77.) Candida albicans is a 
+
+
+yeast species commonly associated with onychomycosis. (Ex. 1006, col. 1:27-31; 
+
+
+Ex. 1011, ¶¶ 87-88, 173-78.) 
+
+
+Claim 20 recites a “cutaneous infection,” which is not defined in the ‘657 
+
+
+Patent, but means an “infection of the skin.” (Ex. 1011, ¶¶ 69, 134, 178.) 
+
+
+Claim 21 recites an “ungual, periungual and subungual infection,” which is 
+
+
+an “infection of an animal’s nail, hoof, or claw.” (Id. ¶¶ 70, 135, 179; Ex. 1001, 
+
+
+col. 1:18-23.) 
+
+
+Claim 22 recites “onychomycosis,” which is “an infection of the nail often 
+
+
+caused by dermatophytes, yeasts, and non-dermatophyte molds.” (Ex. 1001, col. 
+
+
+132:2-20, col. 139:11-23; Ex. 1011, ¶¶ 45, 71, 180.) 
+
+
+D. Summary of the Original Prosecution of the ‘657 Patent
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+16 
+ 
+
+
+The ‘657 Patent, filed August 16, 2006, is a continuation-in-part of the ‘621 
+
+
+Patent, filed February 16, 2006. (Ex. 1001; Ex. 1011, ¶ 74; Ex. 1018.) 
+
+
+1. Prosecution History of the ‘621 Patent 
+
+
+The ‘621 Patent was filed on February 16, 2006 as U.S. Application No. 
+
+
+11/357,687. (Ex. 1013; Ex. 1018.) In response to a restriction requirement, 
+
+
+Applicants elected claims 27-31 and new claims 40-42, and made a species election 
+
+
+of 1,3-dihydro-5-fluoro-1-hydroxy-2,1-benzoxaborole. (Ex. 1014, at 6-7.)  
+
+
+In an August 26, 2008 Office Action, all pending claims were rejected based 
+
+
+on 35 U.S.C. § 112, ¶ 1, and 35 U.S.C. § 103(a) over U.S. Patent No. 5,880,188 to 
+
+
+Austin in view of a definition for “fungicide” from Answers.com indicating that 
+
+
+fungicides can be used for both agriculture and pharmacy. (Ex. 1015, at 4-13; see 
+
+
+Ex. 1009, ¶ 25; Ex. 1011, ¶ 75.) The Examiner noted that while the “level of skill 
+
+
+in the art is high,” the claimed subject matter would result in exhaustive search or 
+
+
+undue experimentation by one of skill in the art. (Ex. 1015, at 7-8, 10-11.)  
+
+
+In response to the § 112 rejections, Applicants did not dispute that the level 
+
+
+of skill in the art was high, but amended claim 27 without argument. (Ex. 1016, at 
+
+
+2.) In response to the obviousness rejections, Applicants argued that Answers.com 
+
+
+did not provide motivation and, in fact, taught away from using the claimed 
+
+
+compound to treat human infection by stating that “some fungicides are dangerous 
+
+
+to human health.” (Id. at 6-7; Ex. 1009, ¶ 26; Ex. 1011, ¶ 76.) The Examiner
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+17 
+ 
+
+
+accepted Applicants’ arguments, and a Notice of Allowance issued on April 22, 
+
+
+2009. (Ex. 1017; see Ex. 1009, ¶ 27; Ex. 1011, ¶ 77.)   
+
+
+2. Prosecution History of the ‘657 Patent 
+
+
+The ‘657 Patent was filed on August 16, 2006 as U.S. Application No. 
+
+
+11/505,591. (Ex. 1001; Ex. 1019.) Upon a restriction requirement, Applicants 
+
+
+elected claim 121 (and new claims 193-214), and made a species election of 1,3-
+
+
+dihydro-5-fluoro-1-hydroxy-2,1-benzoxaborole. (Ex. 1020, at 6-7.)  
+
+
+In a January 27, 2009 Office Action, claim 195 was rejected under 35 U.S.C. 
+
+
+§ 112, ¶ 1, and all claims were rejected under 35 U.S.C. § 103(a) over U.S. Patent 
+
+
+No. 5,880,188 to Austin in view of Austin et al. (cited by the Examiner as: 
+
+
+“CAS:124:234024”). (Ex. 1021, at 4-9; see Ex. 1011, ¶ 78.) 
+
+
+In response to the § 112 rejections, Applicants admitted that the level of skill 
+
+
+in the chemical arts is high and argued that: (1) the specification, coupled with the 
+
+
+knowledge generally known in the art, was sufficient for enablement; and (2) the 
+
+
+formulations of the invention could be made based on excipients, additives and 
+
+
+methods known in the art. (Ex. 1022, at 8-9; see Ex. 1011, ¶ 80.) In response to the 
+
+
+§ 103(a) rejections, Applicants argued that Answers.com “teaches that compounds 
+
+
+that are useful for killing . . . fungi may also harm animals, and thus teaches away 
+
+
+from assuming that any fungicide can be used . . . as claimed.” (Ex. 1022, at 10-11; 
+
+
+see Ex. 1009, ¶ 28; Ex. 1011, ¶ 79.) The Examiner issued a Notice of Allowance
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+18 
+ 
+
+
+on August 7, 2009. (Ex. 1023; see Ex. 1009, ¶ 28; Ex. 1011, ¶ 81.) 
+
+
+E. The State of the Art 
+
+
+ Fungicides have been simultaneously disclosed for both industrial and human 
+
+
+pharmaceutical use for more than 50 years. An overview of the state of the art is 
+
+
+discussed in detail in the Declaration of S. Narasimha Murthy, Ph.D. (“Murthy 
+
+
+Decl.”) (Ex. 1011). A summary of representative references is as follows:   
+
+
+▪ Bell (Ex. 1025) (disclosing fungicides for industrial applications and 
+
+
+clinical applications, including treating infections caused by Trichophyton rubrum 
+
+
+and Candida albicans, without irritating effects).  
+
+
+▪ Grier (Ex. 1026) (disclosing heterocyclic compounds for clinical treatment 
+
+
+of fungal infections, e.g., caused by Candida albicans and Trichophyton rubrum, 
+
+
+as well as for industrial applications). 
+
+
+▪ Wagner (Ex. 1027) (disclosing use of heterocyclic compounds as effective 
+
+
+fungicidal agents for industrial applications as well as for clinical applications, 
+
+
+including treating onychomycosis). 
+
+
+▪ Pfiffner (Ex. 1028) (disclosing morpholine compounds for use as 
+
+
+fungicides in agricultural and pharmaceutical applications, with effectiveness 
+
+
+against Candida albicans and trichophytes).  
+
+
+▪ Arita (Ex. 1029) (disclosing benzylamine derivatives as antimycotic agents 
+
+
+for safe treatment of human fungal infections, e.g., caused by Candida albicans,
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+19 
+ 
+
+
+and as industrial fungicides). 
+
+
+▪ Shapiro (Ex. 1008) (disclosing antifungal compounds for treatment of 
+
+
+fungal infections of the skin, hair and nails, e.g., caused by Trichophyton rubrum 
+
+
+and Trichophyton verrucosum). 
+
+
+▪ Austin (Ex. 1002) (describing the preferred boron-based compound 5-
+
+
+fluoro-1,3-dihydro-1-hydroxy-2,1-benzoxaborole as highly effective against 
+
+
+Candida albicans for use as an industrial fungicide). 
+
+
+▪ Atlas (Ex. 1007) (disclosing that synthetic hydrogels were useful for 
+
+
+controlled drug delivery and that poly(2-hydroxyethyl methacrylate) was useful in 
+
+
+a cosmetic nail polish composition). 
+
+
+▪ Mertin (Ex. 1030) (detailing problems and solutions for treating infections 
+
+
+of the human nail unit, including that high-swelling polymers were preferred for 
+
+
+therapeutic nail lacquers). 
+
+
+▪ Friedman (Ex. 1006) (disclosing a sustained-release nail varnish for 
+
+
+delivery of antifungal agents to treat fungal infections such as onychomycosis).  
+
+
+▪ Chaudhuri (Ex. 1004) (disclosing a topical gel capable of delivering an 
+
+
+antifungal through the nail barrier for treating onychomycosis). 
+
+
+▪ Groziak (Ex. 1031) (disclosing that boron-based agents were clearly visible 
+
+
+on the therapeutic horizon and that none had been found to be unusually toxic). 
+
+
+▪ Samour (Ex. 1005) (disclosing a nail lacquer formulation with improved
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+20 
+ 
+
+
+physical properties and diffusion characteristics of active principles for effectively 
+
+
+treating onychomycosis in humans). 
+
+
+▪ Murdan (Ex. 1032) (detailing problems and solutions for treating 
+
+
+infections of the human nail, stating that lower molecular weight drug molecules 
+
+
+showed improved penetration).  
+
+
+▪ Brehove (Ex. 1024) (describing boron-based industrial fungicides for 
+
+
+treating onychomycosis caused by Candida albicans and Trichophyton rubrum). 
+
+
+▪ Freeman (Ex. 1003) (describing phenyl boronic acid derivatives for 
+
+
+treating fungal infections in humans and plants, including onychomycosis). 
+
+
+By February 16, 2005, the cross-application of fungicides for both industrial 
+
+
+and pharmaceutical uses had been known for over 50 years, the boron-based 
+
+
+compound of claims 1-24 had been disclosed as a preferred fungicide for 
+
+
+suppressing a known cause of onychomycosis, and at least two publications had 
+
+
+disclosed the treatment of onychomycosis by applying formulations containing 
+
+
+boron-based compounds to the nail and surrounding skin of humans. 
+
+
+However, despite the obviousness of claims 1-24 in view of the prior art, the 
+
+
+Patent Owner continues to benefit from the privileges of a monopoly. The public 
+
+
+has a significant interest in ensuring monopoly privileges are not granted by an 
+
+
+invalid patent, particularly where, as here, Kerydin® can cost up to $500.00 per 
+
+
+month or more per patient. (See Ex. 1048 ($1300 for 10mL); Ex. 1049 ($509.54 for
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+21 
+ 
+
+
+a 30-day supply and $1477.81 for a 90-day supply).)  
+
+
+VI. PETITIONER HAS A REASONABLE LIKELIHOOD OF    
+  PREVAILING 
+
+
+There is a reasonable likelihood that at least one claim of the ‘657 Patent is 
+
+
+unpatentable. 37 C.F.R. § 42.104(b)(4). This section provides detailed descriptions 
+
+
+and claim charts showing how claims 1-24 of the ‘657 Patent are obvious under 
+
+
+pre-AIA 35 U.S.C. § 103(a), including identifications of where each claim element 
+
+
+is found in the prior art. (Ex. 1009, ¶¶ 17-19; Ex. 1011, ¶¶ 17-18, 21-34, 136, 273.) 
+
+
+Underlying factual determinations in an obviousness analysis include (1) the 
+
+
+scope and content of the prior art, (2) the level of ordinary skill in the art, (3) the 
+
+
+differences between the claimed invention and the prior art, and (4) objective 
+
+
+indicia of non-obviousness, see KSR Int’l Co. v. Teleflex, Inc., 550 U.S. 398, 406-
+
+
+07 (2007), which are addressed for each statutory ground of rejection. 
+
+
+In assessing obviousness, “[o]ne of the ways in which a patent’s subject 
+
+
+matter can be proved obvious is by noting that there existed at the time of 
+
+
+invention a known problem for which there was an obvious solution encompassed 
+
+
+by the patent’s claims.” Id. at 419-20. “[W]hen a patent simply arranges old 
+
+
+elements with each performing the same function it had been known to perform 
+
+
+and yields no more than one would expect from such an arrangement, the 
+
+
+combination is obvious.” Id. at 417. “When there is a design need or market
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+22 
+ 
+
+
+pressure to solve a problem and there are a finite number of identified, predictable 
+
+
+solutions, a person of ordinary skill has good reason to pursue the known options 
+
+
+within his or her technical grasp. If this leads to the anticipated success, it is likely 
+
+
+the product not of innovation but of ordinary skill and common sense.” Id. at 421.   
+
+
+A. Each Reference Relied on for Grounds 1-6 Is Prior Art 
+
+
+Each reference applied in Grounds 1-6 is prior art against the ‘657 Patent 
+
+
+under either pre-AIA 35 U.S.C. § 102(b) or 35 U.S.C. § 102(e). (See Section 
+
+
+IV.B.2, supra.) None of Austin, Freeman, Chaudhuri, Samour, Friedman, Atlas or 
+
+
+Shapiro was made of record during prosecution of the ‘657 Patent. 
+
+
+B. A Person of Ordinary Skill in the Art  
+
+
+A person of ordinary skill in the art at the time the ‘657 Patent was filed 
+
+
+would have had an advanced degree (Master’s or Ph.D.) or equivalent experience 
+
+
+in chemistry, pharmacology, or biochemistry, and at least two years of experience 
+
+
+with the research, development, or production of pharmaceuticals. (Ex. 1009, 
+
+
+¶¶ 20-22; Ex. 1011, ¶¶ 35-37.) 
+
+
+C. Ground 1: Claims 1-2, 4-5, 10-16 and 18-24 Are Obvious Over 
+Austin in View of Freeman 
+
+
+The following claim chart shows the limitations of the above claims and the 
+
+
+disclosure of each limitation in the prior art: 
+
+
+7,767,657 Austin in view of Freeman 
+1. A Austin
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+23 
+ 
+
+
+pharmaceutical 
+formulation, 
+comprising:  
+ 
+(a) 1,3-dihydro-5-
+fluoro-1-hydroxy-
+2,1-
+benzoxaborole, or 
+a salt thereof; and 
+
+
+▪ “The use of oxaboroles and salts thereof as industrial 
+biocides especially fungicides . . . . [p]referred compounds are 
+5- and 6-fluoro or bromo- 1,3-dihydro-1-hydroxy-2,1-
+benzoxaborole” (Ex. 1002, Abstract.)  
+▪ “The benzoxaborole derivatives obtained have [the] general 
+formula:” 
+
+
+  
+(Id. at 22:5-14.) 
+▪ “Example 64” where “R8” is “5-F” and “R9” is “H” and 
+“CA” is “Candida albicans” (Id. at 36-37, Table 9.) 
+Freeman 
+▪ “The . . . invention relates to . . . compositions for treating 
+fungal infections, and more particularly, dermatophytoses or 
+on[y]chomycosis of the fingernail and the toenail, [and] 
+fungal infections in plants.” (Ex. 1003, ¶ [001].) 
+▪ “The compounds which are useful for treating fungal 
+infections have the formula (OH)2 –B–R (I)  
+
+
+wherein: R is substituted or unsubstituted phenyl, 
+naphthalene, phenanthrene, or has one of the following 
+formulas: 
+
+
+(2)    (3) 
+. . . wherein: ring system (2), (3), (4), (5), (6), (7), (8), (9), 
+(10), (13) or (14) is aromatic or nonaromatic; the atom center 
+* is (R) or (S) in the case of chiral compounds; positions 1, 2, 
+3, 4, 5, 6, 7 and 8 each independently is C, N, O or S; 
+R1 through R6 each independently is . . . B(OH)2 . . . or phenyl 
+boronic acid.” (Id. ¶ [0025].) 
+▪ “The pharmacologically active compounds . . . can be 
+processed in accordance with conventional methods of 
+pharmacy to produce medicinal agents for administration to
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+24 
+ 
+
+
+patients . . . including human beings. . . . [T]he compounds of 
+formula (I) can be employed in admixtures with conventional 
+excipients, e.g., pharmaceutically acceptable carrier 
+substances suitable for topical application which do not 
+deleteriously react with the active compounds.” (Id. ¶ [0037].) 
+
+
+(b) a 
+pharmaceutically 
+acceptable 
+excipient wherein 
+said 
+pharmaceutical 
+formulation is for 
+topical 
+administration to 
+an animal 
+suffering from an 
+infection by a 
+microorganism. 
+
+
+▪ See claim element 1(a). 
+Freeman 
+▪ “The . . . invention relates to . . . compositions for treating 
+fungal infections, and more particularly, dermatophytoses or 
+on[y]chomycosis of the fingernail and the toenail, [and] 
+fungal infections in plants.” (Ex. 1003, ¶ [001].) 
+▪ “[D]ermatophyte species that most often cause[] 
+onychomycosis . . . are T. rubrum[ and] T. me[n]tagrophytes. 
+. . . Both dermatophytes and non-dermatophytes, especially 
+Candida Sp., have been identified as etiologic agents of 
+onychomycosis.” (Id. ¶ [008].) 
+▪ “It has now been discovered that phenyl boronic acid and 
+derivatives thereof as well as related boronic acid compounds 
+have fungicidal properties, and that these compounds . . . . 
+have been found to be particularly useful in treating nail 
+fungal infections.” (Id. ¶ [0022].) 
+▪ “The pharmacologically active compounds of this invention 
+can be processed in accordance with conventional methods of 
+pharmacy to produce medicinal agents for administration to 
+patients . . . including human beings.” (Id. ¶ [0037].) 
+▪ “For treating human fungal infections, the phenylboronic 
+acid derivative or related compound will be dispersed in a 
+cosmetic or therapeutic vehicle. For example, topical 
+cosmetic compositions include an effective amount of the 
+active compound and a cosmetic agent in a cosmetically 
+acceptable vehicle. . . . The PBA compound will be present in 
+the overall formulation in . . . . ranges from about 2% to about 
+50%[, which] are most preferred.” (Id. ¶ [0064].) 
+
+
+2. The formulation 
+of claim 1, 
+wherein said 
+formulation is a 
+member selected 
+from a lacquer, 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “water-soluble PBA [phenyl boronic acid] or derivatives . . . 
+are administered topically in the form of a buffered solution, 
+lotion, or ointment. . . . [g]enerally, the compositions are 
+applied topically once daily until cure” (Ex. 1003, ¶ [0030].)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+25 
+ 
+
+
+lotion, cream, gel, 
+ointment and 
+spray. 
+
+
+▪ “The form of the cosmetic composition can be a powder, 
+lotion, gel, spray, stick, cream, ointment, liquid, emulsion, 
+foam or aerosol.” (Id. ¶ [0068].) 
+
+
+4. The formulation 
+of claim 1, 
+wherein said 
+formulation 
+further comprises 
+one or more 
+members selected 
+from an 
+emulsifier, 
+emollient . . . .  
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “Examples of cosmetic agents include emollients, 
+humectants, colorants, pigments, fragrances, moisturizers, 
+viscosity modifiers, and any other conventional cosmetic 
+forming agent. One or more cosmetic agents can be included 
+in the cosmetic composition. The form of the cosmetic 
+composition can be a powder, lotion, gel, spray, stick, cream, 
+ointment, liquid, emulsion, foam or aerosol.” (Ex. 1003, 
+¶ [0068].) 
+
+
+5. The formulation 
+of claim 1, 
+wherein said 
+formulation 
+comprises one or 
+more members 
+selected from 
+ethanol and 
+propylene glycol. 
+
+
+▪ See independent claim 1. 
+Austin  
+▪ “[S]uitable water-miscible organic solvents are . . . alcohols 
+such as ethanol or glycols such as . . . propylene glycol . . . .” 
+(Ex. 1002, at 6:34-37.) 
+Freeman 
+▪ “Suitable pharmaceutically acceptable carriers include but 
+are not limited to water . . . alcohols . . . polyethylene glycols, 
+. . . etc.” (Ex. 1003, ¶ [0038].)  
+
+
+10. The 
+formulation of 
+claim 1, wherein 
+said 1,3-dihydro-
+5-fluoro-1-
+hydroxy-2,1-
+benzoxaborole is 
+present in said 
+formulation in a 
+concentration from 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1002, at 7:5-9 (“The 
+concentration of the oxaborole in the biocide composition is 
+. . . more especially from 10 to 20% by weight relative to the 
+total weight of the biocide composition.”).9 
+Freeman 
+▪ “For treating human fungal infections, the phenylboronic 
+acid derivative or related compound will be dispersed in a 
+cosmetic or therapeutic vehicle. For example, topical 
+cosmetic compositions include an effective amount of the 
+active compound and a cosmetic agent in a cosmetically 
+
+
+                                                 
+9 As is known, % w/v depends on the density of a solution, e.g., for 5-fluoro 
+
+
+benzoxaborole in ethanol, 10-20 wt % is 7.9%-15.8% w/v. (Ex. 1011, ¶¶ 167-68; 
+
+
+see also Ex. 1038, at 1038; Ex. 1039, at 835.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+26 
+ 
+
+
+about 0.5% to 
+about 15% w/v. 
+
+
+acceptable vehicle. . . . The PBA compound will be present in 
+the overall formulation in amounts ranging from about 0.1% 
+to about 100% by weight, depending upon the use of the 
+formulation. In most uses . . . ranges from about 2% to about 
+50% are most preferred.” (Ex. 1003, ¶ [0064].) 
+
+
+11. The 
+formulation of 
+claim 1, wherein 
+said 1,3-dihydro-
+5-fluoro-1-
+hydroxy-2,1-
+benzoxaborole, or 
+salt thereof, is 
+present in a form 
+which is a member 
+selected from . . . a 
+solvate with an 
+alcohol . . . . 
+
+
+▪ See independent claim 1. 
+Austin  
+▪ “[t]he use of oxaboroles and salts thereof as industrial 
+biocides especially fungicides . . . . [p]referred compounds are 
+5- and 6-fluoro or bromo- 1,3-dihydro-1-hydroxy-2,1-
+benzoxaborole” (Ex. 1002, Abstract.) 
+▪ “[S]uitable water-miscible organic solvents are . . . alcohols 
+such as ethanol or glycols such as . . . propylene glycol . . . .” 
+(Id. at 6:34-37.) 
+Freeman 
+▪ “Suitable pharmaceutically acceptable carriers include but 
+are not limited to water, salt solutions, [and] alcohols . . . .” 
+(Ex. 1003, ¶ [0038].) 
+
+
+12. The 
+formulation of 
+claim 1, wherein 
+said formulation is 
+in a cosmetically 
+effective amount. 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “[T]opical cosmetic compositions include an effective 
+amount of the active compound and a cosmetic agent in a 
+cosmetically acceptable vehicle.” (Ex. 1003, ¶ [0064].) 
+
+
+13. The 
+formulation of 
+claim 1, wherein a 
+site of said topical 
+administration is 
+skin or nail or hair 
+or skin 
+surrounding the 
+nail or skin 
+surrounding the 
+hair. 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “For treating human fungal infections, the phenylboronic 
+acid derivative or related compound will be dispersed in a 
+cosmetic or therapeutic vehicle. . . . [T]opical cosmetic 
+compositions include an effective amount of the active 
+compound and a cosmetic agent in a cosmetically acceptable 
+vehicle. When applied to the skin or nails, the requisite 
+amounts of PBA compound will depend on the type of 
+application, the duration desired for the effect, and on any 
+compensation required for penetration into the upper layers of 
+the skin.” (Ex. 1003, ¶ [0064].) 
+
+
+14. The 
+formulation of 
+claim 1, wherein 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1002, at 36-37, Table 
+9 (“Example 64” where “R8” is “5-F” and “R9” is “H” and 
+“CA” is “Candida albicans”).
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+27 
+ 
+
+
+the microorganism 
+is a fungus or a 
+yeast. 
+
+
+Freeman 
+▪ “The present invention relates to methods and compositions 
+for treating fungal infections, and more particularly, 
+dermatophytoses or on[y]chomycosis of the fingernail and the 
+toenail . . . .” (Ex. 1003, ¶ [001].) 
+▪ “The dermatophyte species that most often causes 
+onychomycosis . . . are T. rubrum [and] T. me[n]tagrophytes 
+. . . . Both dermatophytes and non-dermatophytes, 
+especially Candida Sp., have been identified as etiologic 
+agents of onychomycosis.” (Id. ¶ [008].) 
+
+
+15. The 
+formulation of 
+claim 14, wherein 
+said fungus or 
+yeast is a member 
+selected from 
+Candida species  
+. . . . 
+
+
+▪ See independent claim 1 and dependent claim 14; see, e.g., 
+Ex. 1002, at 36-37, Table 9 (“Example 64” where “R8” is “5-
+F” and “R9” is “H” and “CA” is “Candida albicans”); Ex. 
+1003, ¶ [008] (“The dermatophyte species that most often 
+causes onychomycosis . . . are T. rubrum [and] T. 
+me[n]tagrophytes . . . . Both dermatophytes and non-
+dermatophytes, especially Candida Sp., have been identified 
+as etiologic agents of onychomycosis.”). 
+
+
+16. The 
+formulation of 
+claim 14, wherein 
+said fungus or 
+yeast is a member 
+selected from . . . 
+Candida albicans 
+. . . . 
+
+
+▪ See independent claim 1 and dependent claim 14; see, e.g., 
+Ex. 1002, at 36-37, Table 9 (“Example 64” where “R8” is “5-
+F” and “R9” is “H” and “CA” is “Candida albicans”); Ex. 
+1003, ¶ [008] (“The dermatophyte species that most often 
+causes onychomycosis . . . are T. rubrum [and] T. 
+me[n]tagrophytes . . . . Both dermatophytes and non-
+dermatophytes, especially Candida Sp., have been identified 
+as etiologic agents of onychomycosis.”). 
+
+
+18. The 
+formulation of 
+claim 14, wherein 
+said fungus or 
+yeast is a 
+dermatophyte.  
+
+
+▪ See independent claim 1 and dependent claim 14; see, e.g., 
+Ex. 1003, ¶ [008] (“The dermatophyte species that most often 
+causes onychomycosis . . . are T. rubrum [and] T. 
+me[n]tagrophytes . . . . Both dermatophytes and non-
+dermatophytes, especially Candida Sp., have been identified 
+as etiologic agents of onychomycosis.”). 
+
+
+19. The 
+formulation of 
+claim 14, wherein 
+said fungus or 
+yeast is a member 
+selected from . . . 
+Trichophyton 
+
+
+▪ See independent claim 1 and dependent claim 14; see, e.g., 
+Ex. 1003, ¶ [008] (“The dermatophyte species that most often 
+causes onychomycosis . . . are T. rubrum [and] T. 
+me[n]tagrophytes . . . .”).
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+28 
+ 
+
+
+rubrum and 
+Trichophyton 
+mentagrophytes. 
+20. The 
+formulation of 
+claim 1, wherein 
+the infection is a 
+cutaneous 
+infection. 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “When applied to the skin or nails, the requisite amounts of 
+PBA compound will depend on the type of application, the 
+duration desired for the effect . . . any compensation required 
+for penetration into the upper layers of the skin, or the degree 
+of abrasion and shedding of the skin.” (Ex. 1003, ¶ [0064].) 
+
+
+21. The 
+formulation of 
+claim 1, wherein 
+the infection is a 
+member selected 
+from an ungual, 
+periungual and 
+subungual 
+infection. 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “The present invention relates to methods and compositions 
+for treating fungal infections, and more particularly, 
+dermatophytoses or on[y]chomycosis of the fingernail and the 
+toenail . . . .” (Ex. 1003, ¶ [001].) 
+▪ “phenyl boronic acid and derivatives thereof as well as 
+related boronic acid compounds have fungicidal properties, 
+and that these compounds are particularly useful in treating 
+. . . . nail fungal infections.” (Id. ¶ [0022].) 
+
+
+22. The 
+formulation of 
+claim 1, wherein 
+the infection is 
+onychomycosis. 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1003, ¶ [001] (“The 
+present invention relates to methods and compositions for 
+treating fungal infections . . . particularly, dermatophytoses or 
+on[y]chomycosis of the fingernail and the toenail . . . .”). 
+
+
+23. The 
+formulation of 
+claim 1, wherein 
+the animal is a 
+human. 
+
+
+▪ See independent claim 1. 
+Freeman 
+▪ “The pharmacologically active compounds of this invention 
+can be processed in accordance with conventional methods of 
+pharmacy to produce medicinal agents for administration to 
+patients . . . including human beings.” (Ex. 1003, ¶ [0037].) 
+
+
+24. The 
+formulation of 
+claim 1, wherein 
+said formulation is 
+in a 
+therapeutically 
+effective amount. 
+
+
+▪ See independent claim 1. 
+Freeman  
+▪ “For treating human fungal infections, the phenylboronic 
+acid derivative . . . will be dispersed in a cosmetic or 
+therapeutic vehicle. . . . [T]opical cosmetic compositions 
+include an effective amount of the active compound and a 
+cosmetic agent in a cosmetically acceptable vehicle. When 
+applied to the skin or nails, the requisite amounts of PBA
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+29 
+ 
+
+
+compound will depend on the type of application, the duration 
+desired for the effect, and on any compensation required for 
+penetration into the upper layers of the skin, or the degree of 
+abrasion and shedding of the skin.” (Ex. 1003, ¶ [0064].) 
+
+
+ 
+As shown in the above claim chart, the combination of Austin and Freeman 
+
+
+discloses all of the limitations of claims 1-2, 4-5, 10-16 and 18-24. (See Ex. 1011, 
+
+
+¶¶ 50-51, 53-54, 59-65, 67-73, 116-20, 134-35, 138-44, 163-82.) As discussed 
+
+
+below, a POSITA would have had several reasons to combine Austin and Freeman 
+
+
+with a reasonable expectation of success in arriving at the claimed subject matter 
+
+
+before February 16, 2005. (Id. ¶¶ 145-62, 183-84.) Petitioner is not aware of any 
+
+
+secondary considerations that would render claims 1-2, 4-5, 10-16 and 18-24 of the 
+
+
+‘657 Patent non-obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent 
+
+
+Austin discloses 5-fluoro benzoxaborole as a preferred fungicide, which is 
+
+
+the exact same compound recited in claims 1-2, 4-5, 10-16 and 18-24 of the ‘657 
+
+
+Patent, and a number of organic solvents to form solvates with 5-fluoro 
+
+
+benzoxaborole, including “ethanol or glycols such as . . . propylene glycol.” (Ex. 
+
+
+1002, at 6:36-37; Ex. 1009, ¶¶ 32, 34-35; Ex. 1011, ¶¶ 54, 82-83, 85-86, 147, 165, 
+
+
+170.) 
+
+
+ Notably, Austin discloses that 5-fluoro benzoxaborole has significant 
+
+
+antifungal activity against Candida albicans (CA), a fungus often associated with
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+30 
+ 
+
+
+onychomycosis, at the lowest concentration tested (5 parts per million). (Ex. 1002, 
+
+
+at 36-37, Table 9; Ex. 1009, ¶¶ 32, 35; Ex. 1011, ¶¶ 84-85, 87-88, 173-75.) In a 
+
+
+biocide composition, Austin identifies a preferred concentration of the oxaborole 
+
+
+“more especially from 10 to 20% by weight relative to the total weight of the 
+
+
+biocide composition.” (Ex. 1002, at 7:5-9; Ex. 1011, ¶¶ 85, 168.)  
+
+
+2. Freeman Discloses the Topical Application of Boron-Based 
+Compound Formulations to Treat Onychomycosis  
+
+
+Freeman discloses “methods and compositions for treating fungal infections, 
+
+
+and more particularly, dermatophytoses or on[y]chomycosis of the fingernail and 
+
+
+the toenail” with phenyl boronic acid and derivatives thereof. (Ex. 1003, ¶¶ [001], 
+
+
+[0022]; Ex. 1009, ¶ 36; Ex. 1011, ¶¶ 90, 141.) Freeman recognizes that both 
+
+
+“dermatophytes and non-dermatophytes, especially Candida Sp., have been 
+
+
+identified as etiologic agents of onychomycosis,” and that the “dermatophyte 
+
+
+species that most often causes onychomycosis” include “T. rubrum.” (Ex. 1003, 
+
+
+¶ [008]; Ex. 1009, ¶¶ 37, 39; Ex. 1011, ¶¶ 91, 141.)  
+
+
+The topical compositions for treating onychomycosis in Freeman include 
+
+
+“phenyl boronic acid and derivatives thereof . . . . [which] have been found to be 
+
+
+particularly useful in treating nail fungal infections.” (Ex. 1003, ¶ [0022]; Ex. 
+
+
+1009, ¶ 38; Ex. 1011, ¶¶ 92, 142.) Additionally, “pharmacologically active 
+
+
+compounds of this invention can be . . . . employed in admixtures with
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+31 
+ 
+
+
+conventional excipients, e.g., pharmaceutically acceptable carrier substances 
+
+
+suitable for topical application.” (Ex. 1003, ¶ [0037]; Ex. 1011, ¶ 94.) 
+
+
+Freeman discloses phenyl boronic acid (“PBA”), as well as fluoro phenyl 
+
+
+boronic acid derivatives of PBA, which have the following structures: 
+
+
+B
+
+
+OH
+
+
+OH
+
+
+Phenyl Boronic Acid                      
+
+
+B
+
+
+OH
+
+
+OH
+
+
+F
+F
+
+
+F
+F
+
+
+F
+
+
+Pentafluoro Phenyl 
+Boronic Acid                       
+
+
+B
+
+
+OH
+
+
+OH
+
+
+F
+Fluoro Phenyl 
+Boronic Acid  
+
+
+(Ex. 1003, ¶¶ [0028]-[0034], [0062] (“R1, R2, R3, R4, and R5” are all fluorine or 
+
+
+“R3” is fluorine and the remaining substituents are hydrogen); Ex. 1009, ¶ 36; Ex. 
+
+
+1011, ¶¶ 92, 143.) In vitro tests by Freeman show that both PBA and pentafluoro 
+
+
+phenyl boronic acid exhibit antifungal activity by inhibiting T. rubrum in 
+
+
+concentrations between 5-10 mg/ml. (Ex. 1003, ¶¶ [0033]-[0037]; Ex. 1009, ¶ 39; 
+
+
+Ex. 1011, ¶¶ 93, 143.)      
+
+
+ Freeman discloses applying topical compositions containing PBA or its 
+
+
+derivatives to the skin or nails “in the form of a buffered solution, lotion, or 
+
+
+ointment. . . . once daily until cure” to treat onychomycosis. (Ex. 1003, ¶¶ [0030], 
+
+
+[0053], [0064]; Ex. 1011, ¶¶ 93-95, 144.) For example, Freeman describes an 
+
+
+effective amount of PBA, most preferably “from about 2% to about 50%” by 
+
+
+weight, in cosmetic or therapeutic vehicles, such as “emollients . . . and any other
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+32 
+ 
+
+
+conventional cosmetic forming agent,” or in “[s]uitable pharmaceutically 
+
+
+acceptable carriers,” such as “water . . . alcohols . . . [and] polyethylene glycols.” 
+
+
+(Ex. 1003, ¶¶ [0038], [0064], [0068]; Ex. 1011, ¶ 144.) 
+
+
+3. Summary: Claims 1-2, 4-5, 10-16 and 18-24 Are Obvious Over 
+Austin in View of Freeman 
+
+
+Reason to Combine the References with a Reasonable Expectation of 
+
+
+Success: Given the foregoing, a POSITA would have had several reasons to 
+
+
+combine Austin and Freeman before February 16, 2005 with a reasonable 
+
+
+expectation of success because: (1) both references teach the use of boron-based 
+
+
+compounds as fungicides; (2) both references also disclose the use of boron-based 
+
+
+compounds to specifically inhibit Candida albicans or T. rubrum, which are fungi 
+
+
+responsible for onychomycosis; and (3) Austin discloses boron-based compounds 
+
+
+that have structural similarity to Freeman’s preferred compounds in topical 
+
+
+formulations for treating and inhibiting onychomycosis in humans. (Ex. 1009, 
+
+
+¶¶ 40-41; Ex. 1011, ¶¶ 136-37, 145-62, 183-84.)  
+
+
+Austin specifically discloses that the compound claimed in the ‘657 Patent, 
+
+
+5-fluoro benzoxaborole, is a preferred fungicide to effectively inhibit Candida 
+
+
+albicans. (Ex. 1009, ¶ 35; Ex. 1011, ¶¶ 82-85, 87-89, 139.) Austin further identifies 
+
+
+water-miscible organic solvents for use with 5-fluoro benzoxaborole, including 
+
+
+ethanol and propylene glycol, and a preferred concentration of biocide from 10 to
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+33 
+ 
+
+
+20% by weight relative to the total weight of the composition. (Ex. 1011, ¶¶ 86, 
+
+
+147.) Freeman specifically discloses pharmaceutical formulations of boron 
+
+
+compositions including PBA and derivatives thereof for topical application directly 
+
+
+to the nails of humans to effectively treat onychomycosis typically caused by the 
+
+
+organisms Candida Sp., Trichophyton mentagrophytes, and Trichophyton rubrum. 
+
+
+(Ex. 1009, ¶¶ 37-39; Ex. 1011, ¶¶ 89-95, 141-43, 147.) 
+
+
+A POSITA seeking to develop a therapeutic treatment for onychomycosis 
+
+
+before February 16, 2005 would have understood that boron compounds, e.g., 
+
+
+boronic acids and boron heterocycles, were effective fungicides safely applied to 
+
+
+humans. (Ex. 1009, ¶¶ 29-31, 41; Ex. 1011, ¶¶ 89-90, 93-95, 145-46, 153-54, 159-
+
+
+60; see also Ex. 1031, at 322 (“[N]one [of the boronic acids] to date has been 
+
+
+found to be unusually toxic.”).) A POSITA would have further recognized from 
+
+
+Freeman a number of topical formulations for effective delivery of boron-based 
+
+
+fungicides, including cosmetic or therapeutic formulations such as emollients, and 
+
+
+pharmaceutically acceptable carriers including water, alcohols, and polyethylene 
+
+
+glycols. (Ex. 1003, ¶¶ [0038], [0068]; Ex. 1009, ¶ 39; Ex. 1011, ¶¶ 93-94, 144.) 
+
+
+5-fluoro benzoxaborole, which is a boron heterocycle, shares common 
+
+
+structural features with the compounds of Freeman, which are cyclic compounds 
+
+
+that include boron. (Ex. 1009, ¶¶ 35-36; Ex. 1011, ¶¶ 82-83, 92, 139, 143, 155.) A 
+
+
+POSITA would have expected that 5-fluoro benzoxaborole, which shares similar
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+34 
+ 
+
+
+structural features with the compounds of Freeman, would likely share similar 
+
+
+functional features. (Ex. 1009, ¶¶ 40-41; Ex. 1011, ¶¶ 149, 153, 155.) Indeed, both 
+
+
+5-fluoro benzoxaborole and the Freeman compounds effectively inhibit Candida 
+
+
+species, and the Freeman compounds also inhibit T. rubrum. (Ex. 1009, ¶¶ 33, 35, 
+
+
+37; Ex. 1011, ¶¶ 91, 93, 95, 141, 145-46, 148, 156.) Thus, a POSITA would have 
+
+
+expected 5-fluoro benzoxaborole, which shares functional activity with the 
+
+
+compounds of Freeman, would likely inhibit additional fungi responsible for 
+
+
+onychomycosis, e.g., T. rubrum. (Ex. 1009, ¶ 41; Ex. 1011, ¶¶ 149, 152-54, 156.) 
+
+
+A POSITA would have been further motivated to select 5-fluoro 
+
+
+benzoxaborole as disclosed by Austin for its relatively small molecular weight. 
+
+
+(Ex. 1011, ¶¶ 150, 157.) Penetration of the nail barrier is more effective with 
+
+
+smaller molecular weight compounds, which was known in the art. (Id.; Ex. 1032, 
+
+
+at 9.) Indeed, Freeman effectively treated onychomycosis in humans with phenyl 
+
+
+boronic acid (121.9 Daltons) and pentafluoro phenyl boronic acid (211.88 
+
+
+Daltons). (Ex. 1011, ¶¶ 151, 158; Exs. 1046-47.) A POSITA would have expected 
+
+
+that 5-fluoro benzoxaborole would effectively penetrate the nail plate following 
+
+
+topical administration because Freeman discloses similar molecular weight 
+
+
+compounds that effectively treat onychomycosis with topical application. (Id.)       
+
+
+A POSITA would also have had a reasonable expectation of successfully 
+
+
+determining a cosmetically or therapeutically effective amount of 5-fluoro
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+35 
+ 
+
+
+benzoxaborole to treat or inhibit onychomycosis. (Ex. 1009, ¶¶ 33, 35, 39; Ex. 
+
+
+1011, ¶ 160.) The level of one of ordinary skill in the art is high. (Ex. 1011, ¶ 160; 
+
+
+Ex. 1022, at 8.) Determining a therapeutically effective amount of 5-fluoro 
+
+
+benzoxaborole to treat onychomycosis involves nothing more than routine 
+
+
+experimentation. (Ex. 1011, ¶¶ 46-48, 160-61.) Austin disclosed that 5-fluoro 
+
+
+benzoxaborole effectively inhibits Candida albicans, among other fungi, at 
+
+
+concentrations as low as 5 ppm. (Id. ¶¶ 140, 156; Ex. 1002, at 32-33, 36-37, Table 
+
+
+9.) Freeman disclosed effective inhibition of T. rubrum at concentrations of 5-10 
+
+
+mg/ml of PBA or pentafluoro phenyl boronic acid. (Ex. 1003, ¶¶ [0034]-[0037]; 
+
+
+Ex. 1011, ¶¶ 93, 149.) 
+
+
+When a patent “simply arranges old elements,” i.e., use of 5-fluoro 
+
+
+benzoxaborole in a topical therapeutic composition, “with each [element] 
+
+
+performing the same function it had been known to perform,” i.e., inhibiting 
+
+
+Candida albicans and/or T. rubrum, “and yields no more than one would expect 
+
+
+from such an arrangement,” i.e., effective inhibition of onychomycosis, “the 
+
+
+combination is obvious.” KSR, 550 U.S. at 417. The combination of Austin and 
+
+
+Freeman discloses all of the limitations of claims 1-2, 4-5, 10-16 and 18-24. (Ex. 
+
+
+1011, ¶¶ 82-95, 145-62, 183-84.)  
+
+
+D. Ground 2: Claim 6 of the ‘657 Patent Is Obvious Under 35 U.S.C. 
+§ 103(a) Over Austin in View of Freeman and Chaudhuri
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+36 
+ 
+
+
+The following claim chart shows the limitations of the above claim and the 
+
+
+disclosure of each limitation in the prior art: 
+
+
+7,767,657 Austin in view of Freeman and Chaudhuri 
+6. The 
+formulation of 
+claim 1, 
+comprising: 
+about 
+propylene 
+glycol:ethanol 
+in a ratio of 
+about 1:4, and 
+about 1:10 
+wt/volume of 
+said 1,3-
+dihydro-5-
+fluoro-1-
+hydroxy-2,1-
+benzoxaborole. 
+
+
+▪ See independent claim 1; see Ex. 1002, at 7:5-9 (“The 
+concentration of the oxaborole in the biocide composition is . . . 
+more especially from 10 to 20% by weight relative to the total 
+weight of the biocide composition.”).10 
+Austin  
+▪ “suitable water-miscible organic solvents are…alcohols such as 
+ethanol or glycols such as . . . propylene glycol” (Id. at 6:34-37.) 
+Freeman 
+▪ “[s]uitable pharmaceutically acceptable carriers” include “water 
+. . . alcohols . . . polyethylene glycols” (Ex. 1003, ¶ [0038].) 
+Chaudhuri 
+▪ “[S]uitable solvents include pharmaceutically acceptable lower 
+alkanols of one to four carbon atoms (e.g., ethanol . . .) [and] 
+pharmaceutically acceptable dihydroxylacohols (e.g., . . . 
+propylene glycol . . .).” (Ex. 1004, col. 6:2-7.) 
+▪ “The gel formulation according to this invention can also have 
+a composition shown in Table[] B . . . . 
+
+
+
+
+
+ 
+                                                 
+10 For 5-fluoro benzoxaborole in 1:4 propylene glycol to ethanol, 10-20 wt % is 
+
+
+8.3-16.6% w/v. (Ex. 1011, ¶ 189.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+37 
+ 
+
+
+(Id. at cols. 8:57-9:10.) 
+ 
+As shown in the above chart, the combination of Austin, Freeman, and 
+
+
+Chaudhuri discloses all of the limitations of claim 6. (See Ex. 1011, ¶¶ 55, 132, 
+
+
+186-87.) As discussed below, a POSITA would have had several reasons to 
+
+
+combine Austin, Freeman, and Chaudhuri with a reasonable expectation of success 
+
+
+in arriving at the claimed subject matter. (Id. ¶¶ 185, 193-99.) Petitioner is not 
+
+
+aware of any secondary considerations that would render claim 6 of the ‘657 Patent 
+
+
+non-obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent and Freeman Discloses the Topical Application of 
+Boron-Based Compounds to Treat Onychomycosis            
+
+
+Petitioner incorporates its discussion of Austin and Freeman from Sections 
+
+
+VI.C.1-VI.C.3. In particular, Austin identifies a preferred concentration from 10 to 
+
+
+20% by weight of 5-fluoro benzoxaborole relative to the total weight of biocide 
+
+
+composition, and organic solvents including ethanol and propylene glycol. (Ex. 
+
+
+1002, at 6:34-37, 7:5-9; Ex. 1011, ¶¶ 188-89.) In vitro tests by Freeman show that 
+
+
+phenyl boronic acid and derivatives exhibit antifungal activity against T. rubrum in 
+
+
+concentrations from 5-10 mg/ml. (Ex. 1003, ¶¶ [0034]-[0037]; Ex. 1011, ¶ 190.)    
+
+
+2. Chaudhuri Discloses a Formulation of Propylene 
+Glycol:Ethanol in a Ratio of About 1:4 with About 1:10 
+Wt/Volume of Antifungal 
+
+
+Chaudhuri discloses topical formulations of antifungal drugs for treating
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+38 
+ 
+
+
+onychomycosis in humans, e.g., caused by dermatophytes such as Trichophyton 
+
+
+rubrum or T. mentagrophytes, and in particular, discloses a stable topical gel 
+
+
+formulation, including an antifungal and one or more pharmaceutically acceptable 
+
+
+excipients, that was “capable of delivering the antifungal through the nail barrier.” 
+
+
+(Ex. 1004, Abstract, col. 1:21-30, col. 2:8-15; Ex. 1011, ¶¶ 96, 191.)  
+
+
+In formulation, Chaudhuri describes a “therapeutically effective amount” of 
+
+
+antifungal compound (e.g., butenafine), “[p]referably . . . about 1% to about 10% 
+
+
+by weight and more preferably about 2% to about 8% by weight.” (Ex. 1004, col. 
+
+
+5:11-30; Ex. 1011, ¶¶ 97, 192.) In Table B, Chaudhuri discloses compositions 
+
+
+including propylene glycol between 5-20 wt %, ethanol between 20-80 wt %, and 
+
+
+antifungal between 0.5-15 wt %.11 (Ex. 1004, cols. 8:60-9:11; Ex. 1011, ¶¶ 97, 
+
+
+192.) Thus, Chaudhuri describes a topical formulation for treatment of 
+
+
+onychomycosis with propylene glycol to ethanol in a ratio of about 1:4 (i.e., ratios 
+
+
+of propylene glycol:ethanol from about 5:20 wt % to about 20:80 wt %) and about 
+
+
+1:10 wt/volume of antifungal (i.e., about 0.4-12.4% w/v). (Ex. 1011, ¶¶ 98, 192.) 
+
+
+3. Summary: Claim 6 Is Obvious Over Austin in View of Freeman 
+and Chaudhuri 
+
+
+                                                 
+11 For antifungal in 1 part propylene glycol to 4 parts ethanol, 0.5-15 wt % converts 
+
+
+to 0.4-12.4% w/v (presuming that 1.93 mL propylene glycol plus 10.13 mL ethanol 
+
+
+is about 12.06 mL 1:4 propylene glycol to ethanol). (Ex. 1011, ¶ 192 n.6.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+39 
+ 
+
+
+Reason to Combine the References and Reasonable Expectation of 
+
+
+Success: As admitted in the ‘657 Patent, preparation of the claimed formulations 
+
+
+was “well known in the art.” (Ex. 1001, col. 188:29-51; Ex. 1011, ¶¶ 123, 194.) 
+
+
+The ‘657 Patent does not describe any new or unexpected results attributable to the 
+
+
+pharmaceutical formulation, nor was the formulation limited to avoid prior art. 
+
+
+Before February 16, 2005, a POSITA would have had a reason to combine the 
+
+
+disclosures in Austin, Freeman and Chaudhuri for all the reasons discussed above 
+
+
+for Austin and Freeman. (Ex. 1011, ¶ 193.) A POSITA would have had further 
+
+
+motivation to combine Chaudhuri because it describes topical formulations for 
+
+
+effectively delivering antifungal compounds (e.g., butenafine) of higher molecular 
+
+
+weight (e.g., 317.47 Daltons) than 5-fluoro benzoxaborole (151.93 Daltons) 
+
+
+through the nail barrier to treat onychomycosis. (Id. ¶¶ 195-97; Ex. 1040, at 1.) A 
+
+
+POSITA would have reasonably expected that a formulation that effectively 
+
+
+delivers a higher molecular weight antifungal agent through the nail barrier would 
+
+
+be likely to effectively deliver 5-fluoro benzoxaborole to treat onychomycosis for 
+
+
+all the reasons discussed above for Austin and Freeman. (Id. ¶¶ 198-99.) 
+
+
+E. Ground 3: Claims 3 and 7 of the ‘657 Patent Are Obvious Under 
+35 U.S.C. § 103(a) Over Austin in View of Freeman and Samour 
+
+
+The following claim chart shows the limitations of the above claims and the 
+
+
+disclosure of each limitation in the prior art:
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+40 
+ 
+
+
+7,767,657 Austin in view of Freeman and Samour 
+3. The formulation 
+of claim 1, 
+wherein said 
+formulation is a 
+lacquer. 
+
+
+▪ See independent claim 1 and dependent claim 2; see, e.g., 
+Ex. 1002, at 6:32-38 (“If the medium to be protected is an 
+aqueous medium, the carrier is preferably water or a water-
+miscible organic solvent or mixture thereof. . . . [S]uitable 
+water-miscible organic solvents are . . . alcohols such as 
+ethanol or glycols such as . . . propylene glycol . . . .”). 
+Freeman 
+▪ “A pharmaceutically or cosmetically acceptable vehicle can 
+include a powder, lotion, gel, spray, stick, cream, ointment, 
+liquid, emulsion, foam or aerosol. The active PBA compound 
+can be incorporated into a liquid in dissolved form or 
+colloidal form. The liquid can be a solvent, partial solvent, or 
+non-solvent.” (Ex. 1003, ¶ [0065].) 
+▪ “[T]he PBA compound can be applied as a powder. It can be 
+applied as a dry powder to moist skin or nails, or as a 
+premoistened powder to dry skin or nails. Preferably, the 
+resultant paste or solution is allowed to dry to form an 
+essentially invisible skin or nail coating.” (Id. ¶ [0066].) 
+Samour 
+▪ “A nail lacquer effective for the treatment or prevention of 
+fungal infections, such as, onychomycosis, includes . . . 
+antifungal agent in a clear, stable, film-forming lacquer 
+vehicle . . . .” (Ex. 1005, Abstract.) 
+
+
+7. The formulation 
+of claim 1, 
+comprising: about 
+70% ethanol; 
+about 20% 
+poly(vinyl methyl 
+ether-alt-maleic 
+acid monobutyl 
+ester) and about 
+10% of said 1,3-
+dihydro-5-fluoro-
+1-hydroxy-2,1-
+benzoxaborole. 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1002, at 7:5-9 (“The 
+concentration of the oxaborole in the biocide composition is 
+. . . more especially from 10 to 20% by weight relative to the 
+total weight of the biocide composition.”). 
+Austin  
+▪ “[S]uitable water-miscible organic solvents are . . . alcohols 
+such as ethanol or glycols such as . . . propylene glycol . . . .” 
+(Id. at 6:32-38.) 
+Freeman 
+▪ “The active PBA compound can be incorporated into a 
+liquid in dissolved form or colloidal form. The liquid can be a 
+solvent, partial solvent, or non-solvent.” (Ex. 1003, ¶ [0065].) 
+▪ “Suitable pharmaceutically acceptable carriers include . . . 
+water . . . [and] alcohols . . . .” (Id. ¶ [0038].)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+41 
+ 
+
+
+Samour 
+▪ “A nail lacquer effective for the treatment or prevention of 
+fungal infections, such as, onychomycosis, includes . . . 
+antifungal agent in a clear, stable, film-forming lacquer 
+vehicle . . . .” (Ex. 1005, Abstract.) 
+▪ “Typically, amounts of active antifungal agent in the range 
+of from about 0.5 to 20 percent by weight, preferably from 
+about 1 to 10 percent, by weight, of the total composition 
+(including solvents, film-forming polymer, enhancer, etc.) 
+will suffice for compositions for treatment as well as 
+compositions for prevention.” (Id. at col. 12:9-14.) 
+▪ “Film-forming polymers useful in the present invention are 
+commercially available, such as . . . acrylic copolymers . . . 
+under the tradename Eudragit, e.g., Eudragits E, RS, RL,; the 
+methylvinyl ether copolymers . . . under the tradename 
+Gantrez, e.g., Gantrez ES-335I, Gantrez ES-425, ES-435 . . . . 
+Particularly good results have been obtained with . . . Gantrez 
+ES-425.” (Id. at cols. 7:54-8:7.) 
+▪ “[S]atisfactory results are obtained when the amount of film-
+forming polymer is in the range of from about 10 to about 70 
+percent, preferably from about 15 to about 50 percent, 
+especially from about 20 to 40 percent by weight of the total 
+nail lacquer composition.” (Id. at col. 8:39-44.) 
+▪ “Solvents which may be used in the nail lacquer 
+compositions . . . may be selected from among the usual 
+physiologically safe organic solvents for lacquer compositions 
+. . . . As examples of such solvents mention may be made of 
+lower alkanols, e.g., ethanol . . . .” (Id. at col. 9:31-49.) 
+▪ See Example 7, No. 318A, a lacquer formulation including 
+71% ethanol, 24% film-forming polymer (Eudragit RL), and 
+5% active ingredient (econazole). (See id. at col. 22:20-36.) 
+
+
+ 
+As shown in the above claim chart, the combination of Austin, Freeman, and 
+
+
+Samour discloses all of the limitations of claims 3 and 7. (See Ex. 1011, ¶¶ 52, 56, 
+
+
+118, 201-03.) As discussed below, a POSITA would have had several reasons to 
+
+
+combine Austin, Freeman, and Samour with a reasonable expectation of success in
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+42 
+ 
+
+
+arriving at the claimed subject matter. (Id. ¶¶ 200, 211-16.) Petitioner is not aware 
+
+
+of any secondary considerations that would render claims 3 and 7 of the ‘657 
+
+
+Patent non-obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent and Freeman Discloses the Topical Application of 
+Boron-Based Compounds to Treat Onychomycosis            
+
+
+Petitioner incorporates its discussion of Austin and Freeman from Sections 
+
+
+VI.C.1-VI.C.3 and VI.D.1. (See also id. ¶¶ 204-06.)   
+
+
+2. Samour Discloses a Formulation of About 70% Ethanol; About 
+20% Poly(Vinyl Methyl Ether-Alt-Maleic Acid Monobutyl 
+Ester) and About 10% Antifungal 
+
+
+Samour discloses a nail lacquer effective for treating onychomycosis in 
+
+
+humans, caused by dermatophytes, molds and Candida, including dermatophytes 
+
+
+Trichophyton rubrum and T. mentagrophytes; and in particular, Samour discloses 
+
+
+“improvements in the physical properties (e.g., durability, water-resistance, 
+
+
+flexibility) of water-insoluble adherent films . . . of [a] nail lacquer composition, as 
+
+
+well as improved diffusion characteristics of active principle(s) included in the 
+
+
+lacquer composition from the resulting film.” (Ex. 1005, Abstract, col. 1:23-35, 
+
+
+col. 3:59-65; Ex. 1011, ¶¶ 99, 207.)  
+
+
+Samour provides that “amounts of active antifungal agent [e.g., econazole] 
+
+
+. . . range . . . from about 0.5 to 20 percent by weight, preferably from about 1 to 10 
+
+
+percent, by weight.” (Ex. 1005, col. 12:9-14, col. 16:40-62; Ex. 1011, ¶¶ 100, 208.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+43 
+ 
+
+
+Samour describes “[f]ilm-forming polymers . . . such as . . . methylvinyl ether 
+
+
+copolymers sold . . . under the tradename Gantrez, e.g., . . . Gantrez ES-425 [i.e., 
+
+
+poly(vinyl methyl ether-alt-maleic acid monobutyl ester)].” (Ex. 1005, col. 7:54-
+
+
+62; Ex. 1011, ¶¶ 101, 208.) Samour discloses that “satisfactory results are obtained 
+
+
+when the amount of film-forming polymer is . . . preferably from about 15 to about 
+
+
+50 percent, especially from about 20 to 40 percent by weight of the total nail 
+
+
+lacquer composition.” (Ex. 1005, col. 8:39-44; Ex. 1011, ¶¶ 101, 208.)  
+
+
+Samour further provides that, when a plasticizer is present, it will be in the 
+
+
+range “especially, from about 4 to 8 percent, based on the total weight of the 
+
+
+composition.” (Ex. 1005, col. 9:18-23; Ex. 1011, ¶ 102.) Samour identifies a 
+
+
+number of “physiologically safe organic solvents,” including ethanol. (Ex. 1005, 
+
+
+col. 9:31-49; Ex. 1011, ¶¶ 103, 209.) In Example 7, Samour discloses a lacquer 
+
+
+formulation including 71% ethanol, 24% film-forming polymer (Eudragit RL), and 
+
+
+5% active ingredient (econazole). (Ex. 1005, col. 22:20-36; Ex. 1011, ¶¶ 104, 209.) 
+
+
+Accordingly, Samour describes a topical formulation for treatment of 
+
+
+onychomycosis with about 70% ethanol (i.e., Example 7, 71% ethanol), about 20% 
+
+
+poly(vinyl methyl ether-alt-maleic acid monobutyl ester) (i.e., between 20 and 40% 
+
+
+Gantrez ES-425), and about 10% antifungal (i.e., antifungal from about 0.5-20% 
+
+
+by weight, preferably from about 1-10% by weight). (Ex. 1011, ¶¶ 105, 210.) 
+
+
+3. Summary: Claims 3 and 7 Are Obvious Over Austin in View of
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+44 
+ 
+
+
+Freeman and Samour 
+
+
+Reason to Combine the References and Reasonable Expectation of 
+
+
+Success: As admitted in the ‘657 Patent, preparation of the claimed formulations 
+
+
+was “well known in the art.” (Ex. 1001, col. 188:29-51; Ex. 1011, ¶¶ 123, 194, 
+
+
+212.) The ‘657 Patent does not describe any new or unexpected results attributable 
+
+
+to the pharmaceutical formulation, nor was the formulation limited to avoid prior 
+
+
+art. A POSITA would have had a reason to combine the disclosures in Austin, 
+
+
+Freeman and Samour for all the reasons discussed above for Austin and Freeman. 
+
+
+(Ex. 1011, ¶ 211.) A POSITA would have had further reason to combine because 
+
+
+Samour describes topical lacquer formulations with improved physical properties 
+
+
+(e.g., durability, water-resistance, flexibility), as well as improved diffusion 
+
+
+characteristics of active antifungals (e.g., econazole) having higher molecular 
+
+
+weights (e.g., 381.68 Daltons) than 5-fluoro benzoxaborole for treating 
+
+
+onychomycosis in humans. (Id. ¶¶ 213-14.) A POSITA would have reasonably 
+
+
+expected that an improved lacquer formulation for topical delivery of higher 
+
+
+molecular weight antifungal agents to the nail of a human would be likely to 
+
+
+effectively deliver 5-fluoro benzoxaborole to treat or inhibit onychomycosis for all 
+
+
+the reasons discussed above for Austin and Freeman. (Id. ¶¶ 215-16.) 
+
+
+F. Ground 4: Claim 8 of the ‘657 Patent Is Obvious Under 35 U.S.C. 
+§ 103(a) Over Austin in View of Freeman, Friedman and Atlas
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+45 
+ 
+
+
+The following claim chart shows the limitations of the above claim and the 
+
+
+disclosure of each limitation in the prior art: 
+
+
+7,767,657 Austin in view of Freeman, Friedman and Atlas 
+8. The formulation 
+of claim 1, 
+comprising: about 
+56% ethanol; 
+about 14% water; 
+about 15% poly(2-
+hydroxyethyl 
+methacrylate); 
+about 5% dibutyl 
+sebacate and about 
+10% of said 1,3-
+dihydro-5-fluoro-
+1-hydroxy-2,1-
+benzoxaborole. 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1002, at 7:5-9 (“The 
+concentration of the oxaborole in the biocide composition is 
+. . . more especially from 10 to 20% by weight relative to the 
+total weight of the biocide composition.”). 
+Freeman 
+▪ “The active PBA compound can be incorporated into a 
+liquid in dissolved form or colloidal form. The liquid can be a 
+solvent, partial solvent, or non-solvent.” (Ex. 1003, ¶ [0065].) 
+▪ “Suitable pharmaceutically acceptable carriers include . . . 
+water . . . [and] alcohols . . . .” (Id. ¶ [0038].) 
+Friedman  
+▪ “The most common organisms involved in the fungal 
+infections of the nail are Trichophyton rubrum, Trichophyton 
+mentagrophytes, Epidermophyton floccosum, . . . [and] 
+Candida albicans . . . .” (Ex. 1006, col. 1:27-31.) 
+▪ “The present invention provides a pharmaceutical sustained 
+release preparation in a varnish or spray form for local 
+treatment of the nail and surrounding tissues . . . . comprising: 
+(a) an antifungal agent; (b) a keratolytic agent; (c) a 
+humectant; (d) water; (e) a polymeric film-forming agent; (f) 
+at least one additional excipient; and (g) a solvent system 
+including at least one volatile solvent.” (Id. at col. 3:32-59.) 
+▪ “In a preferred embodiment the concentration of the 
+polymeric film-forming agent in the varnish solution is less 
+than about 7.5% (w/w).” (Id. at col. 5:27-29.) 
+▪ “In a preferred embodiment the weight ratio of the 
+plasticizer to the polymer is in the range from about 0.04:1 to 
+about 0.3:1.” (Id. at col. 5:62-64.) 
+▪ “The hydrophobic methacrylic polymers are preferably 
+Eudragit S, Eudragit L, Eudragit RS, and Eudragit RL 
+manufactured by Rohm Pharma, but hydrophobic methacrylic 
+polymers from other sources can also be used. The polymers 
+provide a uniform film, retard the release rate of the drugs
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+46 
+ 
+
+
+(agents), and can be mixed in regulated amounts to attain the 
+desired drug release characteristics.” (Id. at col. 9:8-15.) 
+▪ “In a preferred embodiment the at least one additional 
+excipient is selected from a group consisting of plasticizers. In 
+a preferred embodiment the plasticizer is selected from the 
+group consisting of dibutyl sebacate. . . .” (Id. at col. 5:49-55.) 
+▪ “In a preferred embodiment the concentration of the 
+plasticizer in the varnish solution is from about 0.1% to about 
+2% (w/w).” (Id. at col. 5:56-58.) 
+▪ “In a preferred embodiment the alcohol is selected from the 
+group consisting of ethanol . . . . In a preferred embodiment 
+the volatile solvent is present in an amount . . . from about 
+60% to about 90% (w/w), relative to the total weight of the 
+composition.” (Id. at col. 6:1-9.) 
+▪ “Preferably the water concentration in the varnish solution is 
+less than about 5% (w/w), more preferably 0.5-4.5% (w/w) 
+and most preferably 1-4.5% (w/w).” (Id. at col. 8:56-58.) 
+Atlas 
+▪ “Synthetic hydrogels are used in . . . membranes for 
+controlled drug delivery. Poly-HEMA (poly 2 hydroxylthyl 
+[sic] methacrylate) is the most widely used hydrogel.” (Ex. 
+1007, Abstract.) 
+▪ “[B]iocompatability of hydrogels is attributed to their ability 
+to simulate natural tissue due to their high water content and 
+their special surface properties.” (Id. at col. 1:14-16.) 
+▪ “P-HEMA hydrogels fibers we have described are 
+biocompatable . . . and can be appropriately combined with 
+traditional cosmetic[s] . . . applied [to the] skin and nail . . . .” 
+(Id. at col. 1:21-25.) 
+▪ “The percentage of fibers added range from 0.5% to 15% for 
+different types of products . . . . The hydrogel fibers may be 
+efficiently utilized as low as 1 % due to their high swelling 
+and storage properties.” (Id. at col. 2:45-50.) 
+▪ “The P-HEMA hollow fibers will act as a reservoir and 
+matrix for diffusion-controlled delivery to skin and nails. P-
+HEMA fibers are combined with water along with active 
+ingredients, humectant, protein or ethyl alcohol containing 
+perfume and other ingredients required to be applied to skin 
+and allowed to be absorbed.” (Id. at col. 2:58-64.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+47 
+ 
+
+
+▪ Example 4 provides P-HEMA in a nail polish composition. 
+(Id. at cols. 3:57-4:7.) 
+
+
+ 
+As shown in the above chart, the combination of Austin, Freeman, Friedman 
+
+
+and Atlas discloses all of the limitations of claim 8. (Ex. 1011, ¶¶ 218-19.) As 
+
+
+discussed below, a POSITA would have had several reasons to combine Austin, 
+
+
+Freeman, Friedman and Atlas with a reasonable expectation of success in arriving 
+
+
+at the claimed subject matter. (Id. ¶¶ 217, 229-37.) Petitioner is not aware of any 
+
+
+secondary considerations that would render claim 8 non-obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent and Freeman Discloses the Topical Application of 
+Boron-Based Compounds to Treat Onychomycosis            
+
+
+Petitioner incorporates its discussion of Austin and Freeman from Sections 
+
+
+VI.C.1-VI.C.3 and VI.D.1. (See also id. ¶¶ 220-22.)    
+
+
+2. Friedman Discloses a Formulation of About 56% Ethanol; 
+About 14% Water; About 15% Methacrylic Polymer; About 
+5% Dibutyl Sebacate and About 10% Antifungal 
+
+
+Friedman discloses a sustained-release formulation for delivery of 
+
+
+antifungal agents to fingernails or toenails for treating fungal infections caused by 
+
+
+“Trichophyton rubrum, Trichophyton mentagrophytes . . . [and] Candida albicans” 
+
+
+to effectively treat onychomycosis. (Ex. 1006, Abstract, col. 1:28-30, col. 3:32-59; 
+
+
+Ex. 1011, ¶¶ 107, 223.) Friedman provides that the concentration of the film-
+
+
+forming polymer in the varnish solution is “less than about 7.5% (w/w).” (Ex.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+48 
+ 
+
+
+1006, col. 5:27-29; Ex. 1011, ¶¶ 108, 224.) Friedman describes a number of 
+
+
+methacrylic polymers (e.g., Eudragits) for use as film-forming polymers, but notes 
+
+
+that methacrylic polymers from other sources can also be used. (Ex. 1006, col. 9:3-
+
+
+15; Ex. 1011, ¶¶ 108, 224.) 
+
+
+Friedman describes plasticizers, such as dibutyl sebacate, and provides that 
+
+
+the concentration of plasticizer in the varnish solution is from “about 0.1% to about 
+
+
+2% (w/w),” and that the preferable weight ratio of the plasticizer to the polymer 
+
+
+ranges from “about 0.04:1 to about 0.3:1” (i.e., 1:3). (Ex. 1006, col. 5:51-58, 62-
+
+
+64; Ex. 1011, ¶¶ 109, 225.) 
+
+
+Suitable volatile solvents include “ethanol,” preferably from “about 60% to 
+
+
+about 90% (w/w), relative to the total weight of the composition.”12 (Ex. 1006, col. 
+
+
+6:1-9; Ex. 1011, ¶¶ 110, 225.) Friedman discloses that the water concentration in 
+
+
+the varnish solution is “less than about 5% (w/w), more preferably 0.5-4.5% (w/w) 
+
+
+and most preferably 1-4.5% (w/w).” (Ex. 1006, col. 8:56-61; Ex. 1011, ¶¶ 110, 
+
+
+225.) At the above-described concentration ranges, each excipient of Friedman’s 
+
+
+varnish formulation serves its functional purpose, whether as a film-forming agent, 
+
+
+plasticizer, solvent, or hydrate. (Ex. 1011, ¶¶ 121-31, 226-27.) 
+
+
+                                                 
+12 60% to about 90% (w/w) ethanol corresponds to 47.4% to about 71.1% (w/v) 
+
+
+ethanol. (Ex. 1011, ¶ 225 n.7.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+49 
+ 
+
+
+3. Atlas Discloses Poly(2-Hydroxyethyl Methacrylate) in a 
+Cosmetic Nail Lacquer 
+
+
+Atlas discloses that synthetic hydrogels may be used for controlled drug 
+
+
+delivery and that poly(2-hydroxyethyl methacrylate) (i.e., Poly-HEMA or P-
+
+
+HEMA) was the “most widely used hydrogel.” (Ex. 1007, Abstract; Ex. 1011, 
+
+
+¶¶ 111, 228.) Atlas further provides that the “biocompatability of hydrogels is 
+
+
+attributed to their ability to simulate natural tissue due to their high water content,” 
+
+
+and that hydrogels exhibit “high swelling” properties. (Ex. 1007, col. 1:14-16, col. 
+
+
+2:48-50; Ex. 1011, ¶ 228.)  
+
+
+In Example 4, Atlas discloses P-HEMA in a cosmetic nail polish 
+
+
+composition, (Ex. 1007, cols. 3:57-4:7; Ex. 1011, ¶ 228), and notes that the “P-
+
+
+HEMA hollow fibers will act as a reservoir and matrix for diffusion-controlled 
+
+
+delivery to skin and nails” and may be “combined with water along with active 
+
+
+ingredients, humectant, protein or ethyl alcohol containing perfume and other 
+
+
+ingredients required to be applied to skin and allowed to be absorbed.” (Ex. 1007, 
+
+
+col. 2:58-64; Ex. 1011, ¶¶ 111-12, 228.) 
+
+
+4. Summary: Claim 8 Is Obvious Over Austin in View of 
+Freeman, Friedman and Atlas 
+
+
+Reason to Combine the References and Reasonable Expectation of 
+
+
+Success: As admitted in the ‘657 Patent, preparation of a formulation including 
+
+
+“56% ethanol; 14% water; 15% poly(2-hydroxyethyl methacrylate); 5% dibutyl
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+50 
+ 
+
+
+sebacate; 10% compound . . . . is well known in the art.” (Ex. 1001, col. 188:29-51; 
+
+
+Ex. 1011, ¶ 230.) The ‘657 Patent does not provide any guidance as to why the 
+
+
+claimed quantities were chosen, and does not attribute any significance or 
+
+
+unexpected results to the claimed quantities. Nor was the claimed formulation 
+
+
+limited to avoid prior art. (Ex. 1011, ¶ 230.) 
+
+
+A POSITA would have had a reason to combine the disclosures in Austin, 
+
+
+Freeman, Friedman and Atlas for all the reasons discussed above for Austin and 
+
+
+Freeman. (Id. ¶ 229.) As was known in the art before February 16, 2005, “high-
+
+
+swelling polymers” were “preferred” for pharmaceutical lacquer formulations. (Id. 
+
+
+¶ 232; Ex. 1030, at 245.) One would have had reason to substitute P-HEMA as 
+
+
+disclosed by Atlas for the methacrylic polymer of Friedman because P-HEMA was 
+
+
+a well-known hydrogel capable of diffusion-controlled drug delivery to skin and 
+
+
+nails and hydrogels were known to have high water content and high swelling 
+
+
+properties, as taught by Atlas. (See Ex. 1007, Abstract; Ex. 1011, ¶¶ 232-33, 236.) 
+
+
+A POSITA would have had further reason to combine Friedman because 
+
+
+like Freeman, Friedman discloses treating or inhibiting onychomycosis by 
+
+
+administering a topical “sustained release” nail varnish to the nail of a human. (Ex. 
+
+
+1011, ¶ 233.) Friedman describes preferred pharmaceutical formulations for the 
+
+
+sustained release nail varnish with a ratio of plasticizer (e.g., dibutyl sebacate) to 
+
+
+film-forming polymer (e.g., methacrylic polymer) of 1:3, which corresponds to the
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+51 
+ 
+
+
+claimed ratio (5% dibutyl sebacate:15% P-HEMA). (Id. ¶ 231.) Friedman provides 
+
+
+quantities of film-forming polymer, dibutyl sebacate and water that serve their 
+
+
+respective functional purposes in the varnish formulation. (Id. ¶¶ 227, 231.) The 
+
+
+Friedman varnish formulation also serves the functional purpose of the 
+
+
+pharmaceutical formulation of claim 8. (See, e.g., Ex. 1001, col. 11:22-27; Ex. 
+
+
+1011, ¶¶ 227, 231.) Moreover, Friedman provides for delivery of higher molecular 
+
+
+weight compounds, e.g., miconazole nitrate (479.14 Daltons) and clotrimazole 
+
+
+(344.84 Daltons), in a formulation including ethanol, water, methacrylic polymers, 
+
+
+and dibutyl sebacate. (Ex. 1006, col. 13:1-38; Ex. 1011, ¶¶ 227, 234, 237.)  
+
+
+A POSITA would have reasonably expected that a sustained-release system 
+
+
+for delivery of antifungal agents having higher molecular weights than 5-fluoro 
+
+
+benzoxaborole to the nail of a human would be likely to effectively deliver a 
+
+
+therapeutically effective amount of 5-fluoro benzoxaborole to treat onychomycosis 
+
+
+for all the reasons discussed above for Austin and Freeman. (Ex. 1011, ¶¶ 229, 
+
+
+235-37.) A POSITA would further have reasonably expected that P-HEMA, a 
+
+
+methacrylic polymer, could be successfully substituted for the film-forming 
+
+
+methacrylic polymers of Friedman because it was known for its high-swelling 
+
+
+properties, use in controlled drug delivery, and use in topical cosmetic 
+
+
+compositions to the skin and nails. (Id. ¶ 236.)   
+
+
+G. Ground 5: Claim 9 of the ‘657 Patent Is Obvious Under 35 U.S.C.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+52 
+ 
+
+
+§ 103(a) Over Austin in View of Freeman, Samour and Friedman 
+
+
+The following claim chart shows the limitations of the above claim and the 
+
+
+disclosure of each limitation in the prior art: 
+
+
+7,767,657 Austin in view of Freeman, Samour and Friedman 
+9. The formulation 
+of claim 1, 
+comprising: about 
+55% ethanol; 
+about 15% ethyl 
+acetate; about 15% 
+poly(vinyl 
+acetate); about 5% 
+dibutyl sebacate 
+and about 10% 
+1,3-dihydro-5-
+fluoro-1-hydroxy-
+2,1-
+benzoxaborole. 
+
+
+▪ See independent claim 1; see, e.g., Ex. 1002, at 7:5-9 (“The 
+concentration of the oxaborole in the biocide composition is 
+. . . more especially from 10 to 20% by weight relative to the 
+total weight of the biocide composition.”). 
+Freeman 
+▪ “The active PBA compound can be incorporated into a 
+liquid in dissolved form or colloidal form. The liquid can be a 
+solvent, partial solvent, or non-solvent.” (Ex. 1003, ¶ [0065].) 
+▪ “Suitable pharmaceutically acceptable carriers include . . . 
+water . . . [and] alcohols . . . .” (Id. ¶ [0038].) 
+Friedman  
+▪ “In a preferred embodiment the plasticizer is selected from 
+. . . dibutyl sebacate . . . .” (Ex. 1006, col. 5:51-55.) 
+▪ “In a preferred embodiment the concentration of the 
+plasticizer in the varnish solution is from about 0.1% to about 
+2% (w/w).” (Id. at col. 5:56-58.) 
+Samour 
+▪ “[W]ater-insoluble, film-forming polymers which may be 
+used in the nail lacquer compositions of this invention, 
+include . . . polyvinyl acetate . . . .” (Ex. 1005, col. 6:23-25.) 
+▪ “[S]atisfactory results are obtained when the amount of film-
+forming polymer is in the range of from about 10 to about 70 
+percent, preferably from about 15 to about 50 percent, 
+especially from about 20 to 40 percent by weight of the total 
+nail lacquer composition.” (Id. at col. 8:39-44.) 
+▪ “Solvents which may be used in the nail lacquer 
+compositions of this invention . . . may be selected from 
+among the usual physiologically safe organic solvents for 
+lacquer compositions . . . . [and] may be made of lower 
+alkanols, e.g., ethanol . . . [and] lower alkyl esters of lower 
+carboxylic acids, e.g., ethyl acetate . . . .” (Id. at col. 9:31-43.) 
+▪ “When the additional plasticizer is present it [is] . . . most
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+53 
+ 
+
+
+usually in the range of from about 0.5 to about 20 percent, 
+preferably from about 2 to 10 percent, especially, from about 
+4 to 8 percent, based on the total weight of the composition.” 
+(Id. at col. 9:18-23.) 
+▪ “Typically, amounts of active antifungal agent in the range 
+of from about 0.5 to 20 percent by weight, preferably from 
+about 1 to 10 percent, by weight, of the total composition 
+(including solvents, film-forming polymer, enhancer, etc.) 
+will suffice for compositions for treatment as well as 
+compositions for prevention.” (Id. at col. 12:9-14.) 
+▪ See Table 1, MC 16074B, a lacquer formulation including 
+6% SPE (2-nonyl-1,3-dioxolane), 6% propylene glycol, 34% 
+ethanol, 25% ethyl acetate, 24% film-forming polymer 
+(Amphomer LV-7), and 5% active ingredient (econazole). 
+▪ See Table 1, MC 16074C, a lacquer formulation including 
+6% SPE (2-nonyl-1,3-dioxolane), 6% propylene glycol, 49% 
+ethanol, 10% ethyl acetate, 24% film-forming polymer 
+(Amphomer LV-7), and 5% active ingredient (econazole). 
+▪ See Table 1, MC 18236B, a lacquer formulation including 
+6% SPE (2-nonyl-1,3-dioxolane), 6% propylene glycol, 56% 
+ethanol, 24% film-forming polymer (Amphomer), and 8% 
+active ingredient (econazole). (Id. at Table 1.) 
+
+
+ 
+As shown in the above chart, the combination of Austin, Freeman, Samour 
+
+
+and Friedman discloses all of the limitations of claim 9. (Ex. 1011, ¶¶ 239-40.) As 
+
+
+discussed below, a POSITA would have had several reasons to combine Austin, 
+
+
+Freeman, Samour and Friedman with a reasonable expectation of success in 
+
+
+arriving at the claimed subject matter. (Id. ¶¶ 238, 251-59.) Petitioner is not aware 
+
+
+of any secondary considerations that would render claim 9 of the ‘657 Patent non-
+
+
+obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent and Freeman Discloses the Topical Application of
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+54 
+ 
+
+
+Boron-Based Compounds to Treat Onychomycosis            
+
+
+Petitioner incorporates its discussion of Austin and Freeman from Sections 
+
+
+VI.C.1-VI.C.3 and VI.D.1. (See also Ex. id. ¶¶ 241-43.)  
+
+
+2. Samour Discloses a Formulation of About 55% Ethanol; About 
+15% Ethyl Acetate; About 15% Poly(Vinyl Acetate) and About 
+10% Antifungal 
+
+
+Samour discloses an improved nail lacquer effective for treating 
+
+
+onychomycosis in humans caused by dermatophytes, molds and Candida, 
+
+
+including dermatophytes Trichophyton rubrum and T. mentagrophytes; and in 
+
+
+particular, Samour discloses “improvements in the physical properties (e.g., 
+
+
+durability, water-resistance, flexibility) of water-insoluble adherent films of . . . [a] 
+
+
+nail lacquer composition, as well as improved diffusion characteristics of active 
+
+
+principle(s) included in the lacquer composition from the resulting film.” (Ex. 
+
+
+1005, Abstract, col. 1:23-35, col. 3:59-65; Ex. 1011, ¶ 244.) 
+
+
+Amounts of active antifungal agent (e.g., econazole) “range . . . from about 
+
+
+0.5 to 20 percent by weight, preferably from about 1 to 10 percent, by weight, of 
+
+
+the total composition . . . for compositions for treatment as well as compositions 
+
+
+for prevention.” (Ex. 1005, col. 12:9-14, col. 16:40-62; Ex. 1011, ¶ 245.) Samour 
+
+
+describes water-insoluble, film-forming polymers for use in nail lacquer 
+
+
+compositions, including polyvinyl acetate, and identifies a number of organic 
+
+
+solvents, including “ethanol . . . [and] ethyl acetate.” (Ex. 1005, col. 6:23-25, col.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+55 
+ 
+
+
+9:31-43; Ex. 1011, ¶ 246.) 
+
+
+Samour provides that “satisfactory results are obtained” when the amount of 
+
+
+film-forming polymer is “preferably from about 15 to about 50 percent, especially 
+
+
+from about 20 to 40 percent by weight of the total nail lacquer composition.” (Ex. 
+
+
+1005, col. 8:39-44; Ex. 1011, ¶¶ 101, 247.) Samour discloses lacquer formulations: 
+
+
+(1) MC 16074C, including 49% ethanol, 10% ethyl acetate, 24% film-forming 
+
+
+polymer (Amphomer LV-7), 5% active ingredient (econazole); (2) MC 18236B, 
+
+
+including 56% ethanol, 24% film-forming polymer (Amphomer), 8% active 
+
+
+ingredient (econazole); and (3) MC 16074B, including 34% ethanol, 25% ethyl 
+
+
+acetate, 24% film-forming polymer (Amphomer LV-7), 5% active ingredient 
+
+
+(econazole). (Ex. 1005, Table 1; Ex. 1011, ¶¶ 104, 247.) 
+
+
+Thus, Samour describes a topical formulation for treatment of 
+
+
+onychomycosis with about 55% ethanol (e.g., MC 18236B, 56% ethanol); about 
+
+
+15% ethyl acetate (e.g., MC 16074C, 10% ethyl acetate; MC 16074B, 25% ethyl 
+
+
+acetate); about 15% poly(vinyl acetate) (e.g., film-forming agents in the range of 
+
+
+about 15 to about 50 percent, especially from about 20 to 40 percent by weight); 
+
+
+and about 10% antifungal (i.e., antifungal from about 0.5 to 20 percent by weight, 
+
+
+preferably from about 1 to 10 percent, by weight). (Ex. 1011, ¶¶ 106, 248.) 
+
+
+3. Friedman Discloses a Formulation Including About 5% Dibutyl 
+Sebacate
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+56 
+ 
+
+
+Friedman discloses a sustained-release delivery system for delivery of 
+
+
+antifungal agents to treat fungal infections of the nail caused by “Trichophyton 
+
+
+rubrum, Trichophyton mentagrophytes [and] Candida albicans,” including 
+
+
+onychomycosis. (Ex. 1006, Abstract, col. 1:28-30; Ex. 1011, ¶ 249.)  
+
+
+Friedman describes plasticizers, such as dibutyl sebacate, and provides that 
+
+
+the concentration of the plasticizer in the varnish solution is from “about 0.1% to 
+
+
+about 2% (w/w),” which allows the dibutyl sebacate to serve the functional 
+
+
+purpose of a plasticizer in the nail varnish. (Ex. 1006, col. 5:51-58; Ex. 1011, 
+
+
+¶¶ 227, 250.) Friedman states: “[p]lasticizers are added to the varnish solution in 
+
+
+order to enhance the plasticity of the film formed and to modify the sustained 
+
+
+release characteristics of the polymer.” (Ex. 1006, col. 9:44-46; Ex. 1011, ¶ 255.)  
+
+
+4. Summary: Claim 9 Is Obvious Over Austin in View of 
+Freeman, Samour and Friedman 
+
+
+Reason to Combine the References and Reasonable Expectation of 
+
+
+Success: As admitted in the ‘657 Patent, preparation of a formulation including 
+
+
+“55% ethanol; 15% ethyl acetate; 15% poly(vinyl acetate); 5% dibutyl sebacate; 
+
+
+10% compound . . . is well known in the art.” (Ex. 1001, col. 188:29-51.) The ‘657 
+
+
+Patent does not provide any guidance as to why the claimed quantities were 
+
+
+chosen, does not attribute any new or unexpected results to the claimed quantities, 
+
+
+and did not limit the formulation to avoid prior art. (Ex. 1011, ¶ 252.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+57 
+ 
+
+
+A POSITA would have had a reason to combine the disclosures of Austin, 
+
+
+Freeman, Samour and Friedman for all the reasons discussed above for Austin and 
+
+
+Freeman. (Id. ¶¶ 251, 253, 257.) A POSITA would have had further reason to 
+
+
+combine because Samour describes topical lacquer formulations including volatile 
+
+
+solvents, film-forming agents, and plasticizers, with improved physical properties 
+
+
+(e.g., durability, water-resistance, flexibility), as well as improved diffusion 
+
+
+characteristics of active principles. (Id. ¶ 244.) Friedman describes a particular 
+
+
+plasticizer, dibutyl sebacate, for use in topical lacquer formulations for treatment of 
+
+
+onychomycosis. (Id. ¶ 250.) As plasticizers were known to modify the sustained 
+
+
+release characteristics of a polymer, and dibutyl sebacate was a known plasticizer 
+
+
+used in Friedman’s “sustained release” nail lacquer formulation, a POSITA would 
+
+
+have had reason to modify the sustained release characteristics of the Samour 
+
+
+formulation by substituting dibutyl sebacate as a plasticizer. (Id. ¶¶ 255-56, 259.)  
+
+
+A POSITA would have reasonably expected that an improved lacquer 
+
+
+formulation for topical delivery of antifungal agents having higher molecular 
+
+
+weights than 5-fluoro benzoxaborole to the nail of a human, e.g., econazole 
+
+
+(381.68 Daltons), miconazole nitrate (479.14 Daltons) and clotrimazole (344.84 
+
+
+Daltons), would effectively deliver 5-fluoro benzoxaborole to treat or inhibit 
+
+
+onychomycosis for all the reasons discussed above for Austin and Freeman. (Id. 
+
+
+¶¶ 254, 258; see Ex. 1005, Table 1; Ex. 1006, col. 13:1-38; Exs. 1041-43.)
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+58 
+ 
+
+
+H. Ground 6: Claim 17 of the ‘657 Patent Is Obvious Under 35 
+U.S.C. § 103(a) Over Austin in View of Freeman and Shapiro 
+
+
+The following claim chart shows the limitations of the above claim and the 
+
+
+disclosure of each limitation in the prior art: 
+
+
+7,767,657 Austin in view of Freeman and Shapiro 
+17. The 
+formulation of 
+claim 14, wherein 
+said fungus or 
+yeast is a member 
+selected from . . . 
+[a number of 
+microorganisms 
+including] 
+Trichophyton 
+verrucosum . . . 
+[and] 
+Microsporum 
+gypseum . . . . 
+
+
+▪ See independent claim 1 and dependent claim 14; see, e.g., 
+Ex. 1002, at 36-37, Table 9 (“Example 64” where “R8” is “5-
+F” and “R9” is “H” and “CA” is “Candida albicans”). 
+Freeman 
+▪ “The present invention relates to methods and compositions 
+for treating fungal infections, and more particularly, 
+dermatophytoses or onchomycosis of the fingernail and the 
+toenail . . . .” (Ex. 1003, ¶ [001].) 
+▪ “The dermatophyte species that most often causes 
+onychomycosis . . . are T. rubrum [and] T. me[n]tagrophytes 
+. . . . Both dermatophytes and non-dermatophytes, especially 
+Candida Sp., have been identified as etiologic agents of 
+onychomycosis.” (Id. ¶ [008].) 
+Shapiro 
+▪ “The compounds of this invention can be used to treat 
+diverse types of fungal infections. . . . of the skin, hair and 
+nails, namely: . . . Tinea unguium [sic, italics] 
+(onychomycosis) when caused by one or more of the 
+following genera of fungi: Trichophyton rubrum . . . 
+Trichophyton mentagrophytes . . . Trichophyton verrucosum . 
+. . [and] Microsporum gypseum.” (Ex. 1008, cols. 1:65-2:14.) 
+
+
+ 
+As shown in the above chart, the combination of Austin, Freeman, and 
+
+
+Shapiro discloses all of the limitations of claim 17. (Ex. 1011, ¶¶ 66, 261-62.) A 
+
+
+POSITA would have had several reasons to combine Austin, Freeman, and Shapiro 
+
+
+with a reasonable expectation of success in arriving at the claimed subject matter.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+59 
+ 
+
+
+(Id. ¶¶ 260, 268-72.) Petitioner is not aware of any secondary considerations that 
+
+
+would render claim 17 of the ‘657 Patent non-obvious. (Id.) 
+
+
+1. Austin Discloses 5-Fluoro Benzoxaborole as an Antifungal 
+Agent and Freeman Discloses the Topical Application of 
+Boron-Based Compounds to Treat Onychomycosis            
+
+
+Petitioner incorporates its discussion of Austin and Freeman from Sections 
+
+
+VI.C.1-VI.C.3. In particular, Austin discloses that 5-fluoro benzoxaborole is an 
+
+
+effective antifungal agent against each of the five (5) fungi tested: Aspergillus 
+
+
+niger (AN); Aureobasidium pullulans (AP); Candida albicans (CA); Gliocladium 
+
+
+roseum (GR); and Penicillium pinophylum (PP). (Ex. 1002, at 36-37, Table 9; Ex. 
+
+
+1011, ¶¶ 263-64.) In vitro tests by Freeman show that phenyl boronic acid and 
+
+
+derivatives exhibit antifungal activity by inhibiting T. rubrum in concentrations 
+
+
+between 5-10 mg/ml. (Ex. 1003, ¶¶ [0034]-[0037]; Ex. 1011, ¶ 265.)     
+
+
+2. Shapiro Discloses Compositions of Antifungal Compounds for 
+Treating Diverse Types of Fungal Infections 
+
+
+Shapiro discloses antifungal compounds for treatment of a number of 
+
+
+infections of the skin, hair and nails, including Tinea unguium (onychomycosis), 
+
+
+“caused by one or more of the following genera of fungi: Trichophyton rubrum . . . 
+
+
+Trichophyton mentagrophytes . . . Trichophyton verrucosum… [and] Microsporum 
+
+
+gypseum.” (Ex. 1008, col. 2:3-14; Ex. 1011, ¶¶ 113, 266.) Thus, Shapiro describes 
+
+
+antifungal compounds that have cross-activity against microorganisms that cause
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+60 
+ 
+
+
+onychomycosis (e.g., Trichophyton rubrum and Trichophyton mentagrophytes) and 
+
+
+microorganisms that cause other diseases of the skin (e.g., Trichophyton 
+
+
+verrucosum and Microsporum gypseum). (Ex. 1011, ¶¶ 114, 267.) 
+
+
+3. Summary: Claim 17 Is Obvious Over Austin in View of 
+Freeman and Shapiro 
+
+
+Reason to Combine the References and Reasonable Expectation of 
+
+
+Success: Before February 16, 2005, a POSITA would have had a reason to 
+
+
+combine the disclosures in Austin, Freeman and Shapiro for all the reasons 
+
+
+discussed above for Austin and Freeman. (Id. ¶¶ 268, 271.) In addition, a POSITA 
+
+
+would have had further motivation to combine Shapiro because like Freeman, 
+
+
+Shapiro discloses treating onychomycosis in humans with pharmaceutical 
+
+
+formulations. (Id. ¶¶ 269-70.) More specifically, Shapiro describes antifungal 
+
+
+compounds that exhibit cross-activity against a number of different fungi, 
+
+
+including cross-activity between fungi linked to onychomycosis and fungi linked 
+
+
+to other fungal infections of the skin, hair and nails, such as Trichophyton 
+
+
+verrucosum and Microsporum gypseum. (Id. ¶ 272.) 
+
+
+VII. CONCLUSION 
+
+
+For at least the reasons given above, claims 1-24 of the ‘657 Patent are 
+
+
+unpatentable because they are obvious over the references cited herein. 
+
+
+Accordingly, Petitioner respectfully requests IPR of claims 1-24 of the ‘657 Patent.
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+61 
+ 
+
+
+
+
+
+     Respectfully submitted, 
+
+
+ MERCHANT & GOULD, P.C. 
+
+
+
+
+
+     Respectfully submitted,  
+
+
+Date: August 20, 2015  By: /s/ Jeffrey D. Blake  
+Jeffrey D. Blake, Esq. Reg. No. 58,884  
+Kathleen E. Ott, Esq. Reg. No. 64,038 
+Peter A. Gergely, Esq. (Pro Hac Vice) 
+Ryan James Fletcher, Ph.D. (Pro Hac Vice) 
+Brent E. Routman (Pro Hac Vice) 
+Merchant & Gould P.C. 
+191 Peachtree Street N.E., Suite 4300 
+Atlanta, GA 30303 
+Main Telephone: (404) 954-5100 
+Main Facsimile: (404) 954-5099 
+ 
+Counsel for Petitioner
+Second Petition For Inter Partes Review 
+Patent No. 7,767,657 
+ 
+
+
+62 
+ 
+
+
+CERTIFICATE OF SERVICE ON PATENT OWNER 
+
+
+Pursuant to 37 C.F.R. § 42.6(e), the undersigned certifies that on August 20, 
+
+
+2015, a complete and entire copy of this Second Petition for Inter Partes Review 
+
+
+of Patent No. 7,767,657, an accompanying Power of Attorney in Second Petition 
+
+
+for Inter Partes Review of Patent No. 7,767,657, an Appendix of Exhibits for 
+
+
+Second Petition for Inter Partes Review of Patent No. 7,767,657, and all 
+
+
+supporting Exhibits 1001-1050 were provided via UPS, postage prepaid, to the 
+
+
+Patent Owner by serving the correspondence address of record for the ‘657 Patent. 
+
+
+Attorney of Record 
+MORGAN, LEWIS & BOCKIUS LLP for Anacor Pharmaceuticals, Inc. 
+One Market, Spear Street Tower  
+Suite 2800  
+San Francisco, CA 94105 
+ 
+
+
+Respectfully submitted, 
+ 
+MERCHANT & GOULD P.C. 
+ 
+
+
+ By:  /s/ Jeffrey D. Blake                           
+Jeffrey D. Blake, Esq. Reg. No. 58,884  
+Kathleen E. Ott, Esq. Reg. No. 64,038 
+Peter A. Gergely, Esq. (Pro Hac Vice) 
+Ryan James Fletcher, Ph.D. (Pro Hac Vice) 
+Brent E. Routman (Pro Hac Vice) 
+Merchant & Gould P.C. 
+191 Peachtree Street N.E., Suite 4300 
+Atlanta, GA 30303 
+Main Telephone: (404) 954-5100 
+Main Facsimile: (404) 954-5099 
+ 
+Counsel for Petitioner

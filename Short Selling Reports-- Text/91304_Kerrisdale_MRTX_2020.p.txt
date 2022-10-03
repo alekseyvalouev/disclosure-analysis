@@ -1,0 +1,3942 @@
+We are short shares of Mirati Therapeutics, a $4.6bn clinical-stage biopharmaceutical company 
+
+
+whose lead drug candidate, MRTX-849, is a small-molecule KRAS inhibitor (KRASi). The KRAS 
+
+
+protein plays a critical role in cell proliferation and differentiation, and mutations of the gene that 
+
+
+encode it are present in one of seven tumors, and in over 30 percent of lung adenocarcinomas. 
+
+
+Cracking KRAS has long been one of the holy grails of cancer research, and in the last year, both 
+
+
+Amgen and Mirati have suggested they’re close.  
+
+
+
+
+
+Both companies have released Phase I data showing that their respective KRASi are capable of 
+
+
+shrinking tumors in second-line treatment of patients with KRAS-mutated non-small-cell lung cancer 
+
+
+(NSCLC). The compounds also seem to work as intended: by inhibiting the signaling activity of the 
+
+
+specific KRAS mutant (KRASG12C) that accounts for ~12-14% of all NSCLC diagnoses. As the only 
+
+
+pure KRAS proxy, Mirati’s market value has soared. But lost in the euphoria is a realistic 
+
+
+assessment of the data and its implications for Mirati. While Amgen’s AMG-510 and Mirati’s MRTX-
+
+
+849 have indeed induced responses in NSCLC patients, it’s becoming clear that the response rate is 
+
+
+low and the duration of these responses is incredibly short-lived. That makes approval of the drugs 
+
+
+as single agent therapies extremely unlikely, even in second line treatment.  
+
+
+
+
+
+As the clinical futility of these KRASi as monotherapy is slowly recognized, the emphasis of the 
+
+
+research – and anticipation – is shifting towards their use in a variety of combination therapies, both 
+
+
+in first- and second-line treatment. But the data and research are not encouraging. Recent data on 
+
+
+the efficacy of checkpoint inhibitors in KRAS-mutant NSCLC strongly suggests that combining them 
+
+
+with KRAS inhibition would do nothing to enhance their already robust effect and could even be 
+
+
+detrimental. Research has also recently revealed considerable heterogeneity in KRAS-mutant 
+
+
+tumors, which utilize a wider range of molecular pathways to continue proliferating than had been 
+
+
+previously assumed. The upshot is that successful combinations of ‘849 with other targeted 
+
+
+therapies are unattainable because it’s impossible to know in which patients they will be effective. If 
+
+
+that weren’t enough, combination attempts are also all but certain to encounter toxicity issues. 
+
+
+
+
+
+The KRAS space is also on the verge of an influx of competition, with several players – including 
+
+
+Revolution Medicines and Boehringer-Ingelheim – taking differentiated approaches to targeting 
+
+
+KRAS that bypass the resistance mechanisms that ‘849 has been shown to encounter. These 
+
+
+compounds are already in the clinic, and even if Mirati can somehow identify a patient population in 
+
+
+which ‘849 is effective, maintaining market share will be a constant battle. The last decade has 
+
+
+shown that first-generation targeted therapies are quickly followed by more potent and effective 
+
+
+second-generation compounds. For KRASi, these are already in the clinic recruiting patients for 
+
+
+Phase 1 trials, but none are in Mirati’s almost-empty pipeline.  
+
+
+
+
+
+Finally, while most of Mirati’s value is tied up in the dream of ‘849, investors are still ascribing 
+
+
+significant value to Mirati’s other oncology compound, sitravatinib. But given sitravatinib’s almost-
+
+
+complete failure as a single agent, we’re confident the drug will fail the multiple combination trials 
+
+
+Mirati is now conducting. Bolstering our confidence are the weak data, a barely believable 
+
+
+mechanism of action, and a sloppy trial riddled with data discrepancies and irregularities that are 
+
+
+easily identified in Mirati’s sitravatinib presentations. With both ‘849 and Sitravatinib destined for 
+
+
+futility, and its pipeline practically non-existent, Mirati investors will soon discover that the only thing 
+
+
+the company can successfully inhibit is their performance. 
+
+
+
+
+
+April 2020 
+
+
+Mirati Therapeutics, Inc. (MRTX) 
+Investors Ignoring KRASi Risks 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC and its affiliates 
+(collectively, “Kerrisdale”), have short positions in the stock of Mirati Therapeutics, Inc. (the “Company”). 
+Kerrisdale stands to realize gains in the event that the price of the stock decreases. Following publication, 
+Kerrisdale may transact in the securities of the Company. All expressions of opinion are subject to change 
+without notice, and Kerrisdale does not undertake to update this report or any information herein. Please 
+
+
+read our full legal disclaimer at the end of this report.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+I. INVESTMENT HIGHLIGHTS ........................................................................................................ 3 
+
+
+II. COMPANY OVERVIEW ................................................................................................................... 9 
+
+
+KRAS heterogeneity introduces complications .......................................................................................................... 11 
+
+
+III. MRTX-849 IS EXTREMELY UNLIKELY TO BE APPROVED AS SECOND-LINE 
+MONOTHERAPY IN NSCLC ........................................................................................................ 12 
+
+
+The clinical trial data from Amgen and Mirati are not very good ........................................................................... 12 
+Selumetinib is a cautionary tale for G12C inhibitors ................................................................................................. 17 
+Adaptive resistance to first-generation KRAS inhibitors has been well documented and the field has already 
+
+
+moved on ........................................................................................................................................................................... 18 
+
+
+IV. MRTX-849 WILL NOT FARE ANY BETTER IN COMBINATION THAN AS A SINGLE 
+AGENT ............................................................................................................................................ 20 
+
+
+Without good biomarkers, a targeted therapy combination with MRTX-849 is a shot in the dark .................. 20 
+The attempt to combine MRTX-849 with immune checkpoint inhibition will fail ............................................. 24 
+
+
+V. SITRAVATINIB IS A MONOTHERAPY FAILURE BEING REPURPOSED INTO A 
+COMBINATION FAILURE ........................................................................................................... 28 
+
+
+VI. CONCLUSION ................................................................................................................................ 32 
+
+
+FULL LEGAL DISCLAIMER ................................................................................................................... 34
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 3 
+
+
+
+
+
+I. Investment Highlights 
+ 
+
+
+Mirati’s KRAS inhibitor, MRTX-849, will probably not be approved as single-agent therapy 
+
+
+in second-line non-small-cell lung cancer (NSCLC) Most of Mirati’s value is tied to MRTX-
+
+
+849, which is a small-molecule KRAS inhibitor. Though KRAS’s role as a “driver” mutation (i.e., 
+
+
+driving tumor growth) has been known for decades, it’s long been considered “undruggable,” 
+
+
+even as a host of other oncogenic proteins have been successfully targeted in recent years. In 
+
+
+the race for a drug that could block the activity of mutant KRAS, the first two companies to come 
+
+
+up with a candidate have been Amgen and Mirati.  
+
+
+
+
+
+Both drugs have identical mechanisms of action. They don’t inhibit all KRAS activity, or even all 
+
+
+kinds of mutant KRAS activity. Rather, they bind exclusively to KRASG12C – a particular KRAS 
+
+
+mutation found frequently in non-small cell lung adenocarcinoma – inhibiting the activity of the 
+
+
+protein and, theoretically, the resultant cancerous tumor growth. The first indication for which 
+
+
+approval of the two G12C inhibitors is being sought is second-line (and later) single-agent 
+
+
+treatment of NSCLC patients with KRASG12C mutations. Unfortunately, there are multiple data 
+
+
+points that, taken together, suggest that these first generation KRAS inhibitors (KRASi) will 
+
+
+come up short in the quest for FDA approval: 
+
+
+
+
+
+ The trajectory of Amgen’s data – Amgen was the first to dose patients with its 
+
+
+AMG-510 in late 2018, and first presented data on the compound’s activity at the 
+
+
+American Society of Clinical Oncology (ASCO) meeting in June of last year, with an 
+
+
+update presented in September. In a bit of irony, much of the excitement around 
+
+
+MRTX-849 has been spurred by data from the Amgen clinical trial, which includes 
+
+
+many more patient data points and longer treatment periods. The underlying 
+
+
+assumption is that, given the identical MOAs, the two drugs will have similar 
+
+
+therapeutic efficacy in patients. 
+
+
+
+
+
+Amgen’s initial data release revealed that of 10 NSCLC patients who were treated 
+
+
+with ‘510, 5 showed a partial response (defined as tumor shrinkage of more than 
+
+
+35%), 4 had stabilized, and 1 had progressed. Only 3 patients received the highest 
+
+
+dose of ‘510, and all 3 of those showed a partial response. The initial results 
+
+
+understandably generated enormous excitement about the new class of KRASi 
+
+
+drugs: given the lack of second line treatment options in these patients, the FDA has 
+
+
+a low bar for accelerated approval – a 30% objective response rate (ORR) with a 
+
+
+median duration of response of about 6 months.  
+
+
+
+
+
+But the data presented by Amgen in late September showed that in 2 of the 5 initial 
+
+
+responders, the cancer had progressed, and in one case the patient died. Both 
+
+
+patients were part of the highest-dosage treatment arm. In the small sample of 3 
+
+
+high-dose patients, the median duration of response was less than 3 months.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 4 
+
+
+
+
+
+By late September, though, Amgen had data on 23 patients, including 13 treated at 
+
+
+the highest dose. In the high-dose group (the only one that can even vaguely be 
+
+
+described as successful), 7 of 13 patients – 54% – demonstrated a partial response. 
+
+
+Again, while the headline ORR looked good, 3 of those 7 patients showed disease 
+
+
+progression less than 15 weeks into treatment. Of the other 4 patients, 3 hadn’t yet 
+
+
+made it to 10 weeks, and the other one – at about 24 weeks – hadn’t yet reached the 
+
+
+6 month threshold. If just one of those 3 less-seasoned patients shows disease 
+
+
+progression before the 6 month-mark – and that seems likely based on the trajectory 
+
+
+of the other patients – the drug will have failed to reach the benchmark 6 month 
+
+
+median in an even larger sample than the initial 3 patients. 
+
+
+
+
+
+It’s been over 6 months since Amgen’s last data update and over 8 months from the 
+
+
+last data cutoff. Presumably, Amgen has known for over 4 months whether the 
+
+
+median duration of response of ‘510 successfully hit 6 months in more patients. If it 
+
+
+did, we think Amgen would have let the market know by now. Further fueling our 
+
+
+suspicion of failure, on February 25th, Amgen said that it would report data from the 
+
+
+‘510 trial by mid-year, as opposed to the “early 2020” timeframe that it had originally 
+
+
+guided to in September, and noted that “in addition to response rate, it will be 
+
+
+important to consider stable disease.” That seems like an awfully strong admission 
+
+
+that Amgen is trying to move the approval goalposts from ORR/DOR to mere 
+
+
+stabilization. We believe the likelihood of succeeding in that is close to nil. 
+
+
+
+
+
+ Mirati’s Data – compared to Amgen’s data, Mirati’s single data release for MRTX-
+
+
+849, which was greeted with a one-day boost in market capitalization of $750 million, 
+
+
+was devoid of any real content. Though 10 NSCLC patients enrolled in the trial, only 
+
+
+6 were evaluated, with no word from Mirati on why at least one, and maybe two, of 
+
+
+the patients went off treatment prior to the first evaluation scan. Of the 6 evaluated, 3 
+
+
+saw a partial response. As with Amgen’s ‘510, while the 50% ORR looks impressive, 
+
+
+or at least acceptable, the longest duration of response was a much less impressive 
+
+
+10 weeks. As with Amgen’s ‘510, we expect that given some more time, at least 
+
+
+some of those responses will deteriorate into disease progression, calling into 
+
+
+question the efficacy of the drug. And as with Amgen’s ‘510, Mirati has now known 
+
+
+for about two months whether this initial cohort of patients has been able to achieve 
+
+
+an adequate DOR, but has delayed its expected ‘849 data update from the first half 
+
+
+of the current year (probably at ASCO) to the second half of the year (ESMO, World 
+
+
+Lung, or the triple meeting). A good rule of thumb for clinical stage pharmaceutical 
+
+
+companies is that they don’t delay releasing data if the results are good. 
+
+
+
+
+
+ Preclinical data – the inability of G12C inhibitors to durably arrest tumor growth 
+
+
+shouldn’t be very surprising. Over the last few years, preclinical research has 
+
+
+revealed two phenomena that speak to the ultimate efficacy of these first-gen KRASi. 
+
+
+The first is that KRAS-mutant tumors have varying dependence on KRAS, which
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 5 
+
+
+
+
+
+means it’s not always the KRAS mutation that’s driving tumor growth. So in a 
+
+
+significant proportion of KRAS mutant tumors, a KRAS inhibitor just won’t impact 
+
+
+tumor growth very much, if at all. 
+
+
+
+
+
+Another phenomenon, discussed in the preclinical literature only very recently, is the 
+
+
+tendency for tumors to rapidly develop resistance to KRAS inhibitors like ‘510 and 
+
+
+‘849. Several resistance mechanisms have been discovered, suggesting that the 
+
+
+precision targeting of mutant KRAS, even when initially successful, quickly turns 
+
+
+ineffectual. 
+
+
+
+
+
+ The KRAS research culture – we’ve had many discussions with prominent 
+
+
+research oncologists over the last few months, and the focus of KRAS research has 
+
+
+very emphatically moved from KRASi research to combination therapy research, in 
+
+
+which a KRASi would be combined with another targeted therapy to generate a 
+
+
+deeper and/or longer response. As one investigator told us, “when everyone starts 
+
+
+shifting the emphasis from monotherapy to combination therapy so quickly, it’s not a 
+
+
+good sign for monotherapy.” 
+
+
+
+
+
+In sum, the overwhelming conclusion we draw from the data that Amgen has presented, the 
+
+
+data that both Amgen and Mirati haven’t presented, and the findings and direction of KRAS 
+
+
+preclinical work, is that ‘510 – and by extension, MRTX-849 – will come up short in the quest for 
+
+
+accelerated FDA approval for second-line treatment of KRAS-mutant NSCLC. 
+
+
+
+
+
+Even in combination with other targeted therapies or immune-checkpoint inhibitors, 
+
+
+MRTX-849 is unlikely to prove efficacious or additive There are two kinds of combination 
+
+
+strategies that have been suggested as being relevant to KRASi, and on which Mirati has 
+
+
+already begun early stage clinical trials.  
+
+
+
+
+
+The first is a combination of a KRASi like ‘849 with other targeted therapies. The logic here is 
+
+
+that knocking out the KRAS-mutant cell-signaling pathway in combination with another critical 
+
+
+cell-signaling pathway would avert resistance and result in a more lethal tumor-killing effect. But 
+
+
+the characteristic heterogeneity of KRAS-mutant tumors that limits the efficacy of single-agent 
+
+
+KRASi is also likely to limit the efficacy of any one of these combinations.  
+
+
+
+
+
+The problem is that there are countless permutations of different nodes and pathways involved 
+
+
+in promoting tumor growth in KRASG12C-mutant cancer. These can be upstream, downstream, or 
+
+
+parallel to the KRAS node itself, but there’s no way to tell in advance which of them is 
+
+
+responsible for the cancer, or which of them will be critical for the tumor’s resistance 
+
+
+mechanism. If the wrong one is chosen, the only effect induced will be high levels of toxicity with 
+
+
+no incremental therapeutic effect. It’s possible that biomarkers will one day be found that could 
+
+
+inform this kind of combinatorial strategy, but the field is currently a long way from that, and by
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 6 
+
+
+
+
+
+the time it gets there, Mirati’s first generation KRASi will be a distant memory, with second and 
+
+
+even third generation KRAS-targeting compounds having materialized by then.  
+
+
+
+
+
+The other contemplated combination is with immune checkpoint inhibition (ICI), which has 
+
+
+revolutionized oncology over the last decade and, in the process, become the standard first-line 
+
+
+therapy (sometimes in combination with chemotherapy) in NSCLC. There doesn’t seem to be 
+
+
+much of a rationale for combining ‘849 with an ICI in first-line therapy beyond “if it works, first 
+
+
+line therapy is a huge market.” In fact, the fig leaf of preclinical data upon which Mirati is basing 
+
+
+its combination attempt shows no indication that KRAS inhibition can enhance the effect of 
+
+
+checkpoint inhibition. What it does show is that in one carefully chosen mouse xenograft model, 
+
+
+combining ‘849 with an ICI resulted in a slightly improved tumor response compared to ‘849 
+
+
+alone. But the tumor model used for these experiments showed no significant response to ICI 
+
+
+therapy alone, and an overwhelming response to ‘849 alone. In other words, it bore zero 
+
+
+meaningful resemblance to real-life KRAS-mutant NSCLC. 
+
+
+
+
+
+Both Mirati and Amgen have also touted tumor-level immune markers from their preclinical 
+
+
+experiments, which purportedly show that KRAS inhibition makes tumor cells more 
+
+
+immunogenic, or susceptible to the immune response that ICIs unleash. The problem is that 
+
+
+recent data from Merck’s KEYNOTE-042 trial shows that KRAS-mutant NSCLC is already 
+
+
+extremely immunogenic, with ICIs demonstrating superior outcomes in KRAS-mutant patients 
+
+
+compared to those with so-called “wild-type” KRAS (i.e., non-mutated KRAS). The implication is 
+
+
+that the bar for ‘849 to improve upon the tumor-killing effectiveness of ICIs is so high, it’s 
+
+
+incredibly unlikely to be cleared.  
+
+
+
+
+
+The trial data also show that chemotherapy, which normally synergizes well with checkpoint 
+
+
+inhibition by increasing the immunogenicity of the tumor, doesn’t do so in patients with KRAS-
+
+
+mutant tumors and may even be counterproductive. So the exact mechanism being claimed by 
+
+
+Mirati and Amgen as the rationale for their combination trials fails in KRAS-mutant tumors in the 
+
+
+clinic because ICIs are already highly effective as single agents in these patients. This is exactly 
+
+
+the fait that awaits ‘849 in combination with checkpoint inhibition. 
+
+
+
+
+
+Potential toxicity in combination with ICIs is another (not mutually exclusive) possibility, 
+
+
+particularly considering the high dose of ‘849 that Mirati is pursuing, and the higher levels of 
+
+
+adverse events and dose-limiting toxicities that ‘849 has reported compared to AMG-510. 
+
+
+MRTX-849 will just be the latest compound in a long list of immunotherapy combination 
+
+
+attempts that have failed. 
+
+
+
+
+
+MRTX-849 is a first-generation KRAS inhibitor that will quickly become obsolete even in 
+
+
+the improbable scenario that it’s approved A second generation of KRAS inhibitors, with 
+
+
+different MOAs than the G12C inhibitors from Mirati and Amgen, is already in the clinic. The first 
+
+
+is Boehringer-Ingelheim’s BI-1701963, which takes a broader approach to the KRAS pathway 
+
+
+by inhibiting the interaction of all KRAS proteins (not just mutant-KRAS) with SOS1, a protein
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 7 
+
+
+
+
+
+that helps transform KRAS from its dormant to its active state, thus fueling tumor growth. 
+
+
+Targeting the SOS1 interaction with KRAS avoids at least some of the resistance mechanisms 
+
+
+identified with ‘849/’510, potentially resulting in an increased DOR. Boehringer is also testing a 
+
+
+combination of BI-1701963 with a MEK inhibitor (MEK being a molecular pathway adjacent to 
+
+
+KRAS). Based on our discussions with Boehringer researchers, the logic of their clinical trial 
+
+
+with a MEKi is to also address some of the challenges inherent in KRAS-mutant heterogeneity, 
+
+
+which could potentially result in increased response rates.  
+
+
+
+
+
+A different approach is being taken by Revolution Medicines, which is targeting the KRAS 
+
+
+pathway through the inhibition of KRAS in its active state, bypassing a key resistance 
+
+
+mechanism observed in response to the G12C inhibitors, which can only bind to inactive KRAS 
+
+
+proteins. Revolution’s program is in not yet in the clinic, but the company has presented its 
+
+
+preclinical data recently, and expects to nominate a development candidate shortly. Revolution 
+
+
+has also worked on an approach similar to Boehringer’s but hasn’t yet released any data.  
+
+
+
+
+
+Beyond Boehringer’s more robust MOA, and Revolution’s multi-target approach to KRAS, 
+
+
+Moderna Therapeutics is pioneering a vaccine approach (currently in Phase 1) that targets 
+
+
+multiple KRAS-mutants, Bayer has a program that (like Boehringer) targets the SOS1-KRAS 
+
+
+interaction, and both J&J and Lilly have G12C inhibitors similar to ‘510/’849 in Phase 1. The 
+
+
+odds are just very low that Mirati – with its one flawed G12C-targeting compound – will be a 
+
+
+significant player in KRAS.  
+
+
+
+
+
+Sitravatinib is Mirati’s latest worthless TKI (tyrosine kinase inhibitor) that will quickly 
+
+
+fade from memory Sitravatinib, the other compound in Mirati’s pipeline, inhibits the activity of 
+
+
+multiple receptor tyrosine kinases (RTKs). Irregular activity of these cell-surface receptors, 
+
+
+which regulate various critical cellular processes, is associated with the development and 
+
+
+progression of many types of cancer.  
+
+
+
+
+
+Sitravatinib is an interesting example of “thesis creep,” which seems characteristic of Mirati’s 
+
+
+clinical programs. The compound was first advanced as a single agent therapy to inhibit the 
+
+
+activity of RTKs that were dysregulated due to mutations in the genes that encode them. The 
+
+
+first meaningful data, presented in a press release in early 2017, showed an ORR of 50% in a 
+
+
+grand total of 4 NSCLC patients. In October of 2017, at the World Conference on Lung Cancer, 
+
+
+instead of updating the data from the Phase 1 trial, Mirati presented a case study of a partial 
+
+
+response in one patient with a rare mutation that had been heretofore untreatable. By this time, 
+
+
+Mirati’s filings had already relegated Sitravatinib’s single-agent prospects to the backburner and 
+
+
+began focusing on its potential in combination with an ICI.  
+
+
+
+
+
+Fast forward to 2018, and Mirati’s single-agent data on Sitravatinib consisted of a 20% ORR in 
+
+
+20 renal cell carcinoma patients (the NSCLC data had disappeared). By this time, it had 
+
+
+become apparent that Sitravatinib was a total failure as a single-agent in NSCLC patients with 
+
+
+the RTK mutations the compound was supposed to target. At the current time, the only single 
+
+
+
+https://revmed.egnyte.com/dl/L26gqrsti0/A06_Tri-complex_inhibitors_of_the_oncogenic%2C_GTP-bound_form_of_KRASG12C_overcome_RTK-mediated_escape_mechanisms_and_drive_tumor_regressions_in_preclinical_models_of_NSCLC.pdf_
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 8 
+
+
+
+
+
+agent Sitravatinib trial still running is a Phase 1 in patients with the rare CBL mutation that Mirati 
+
+
+discussed at World Lung 2017. Given the lack of any data updates in about two years, and the 
+
+
+fact that the company’s 2019 10-K has eliminated any mention of the drug’s single agent 
+
+
+prospects, we wouldn’t expect much. 
+
+
+
+
+
+Faced with futility as a single agent, Mirati has changed the entire rationale for sitravatinib’s 
+
+
+utility. Instead of blocking mutation-stricken RTKs, sitravatinib now blocks RTKs that are 
+
+
+responsible for immunosuppressive activity that generates resistance to ICIs. Of course, it’s the 
+
+
+same RTKs, but the mechanism of action being touted is retrospectively changed. With 
+
+
+sitravatinib purportedly blocking this immunosuppressive activity, Mirati is repurposing it to treat 
+
+
+NSCLC patients that have progressed on an ICI. The strategy is to retreat with an ICI, but this 
+
+
+time in combination with Sitravatinib, which would enhance the immunogenic effect of the ICI.  
+
+
+
+
+
+It’s hard to know just how badly this is going. The latest data we have from Mirati on Sitravatinib 
+
+
+is from a Phase 2 study, with a data cutoff of August 27th, 2018 – almost two years ago. The 
+
+
+data weren’t very good back then: the ORR was 19.6% (11 of 56 patients); the Kaplan-Meier-
+
+
+estimated DOR of 9.2 months contradicts a DOR of 6 months that’s easily calculable from the 
+
+
+swimmer plot; and the median overall survival KM estimate of 15.1 months seems suspect 
+
+
+considering that 45% (25/56) of the patients dropped out of the study before the 6 month mark. 
+
+
+That doesn’t even consider some bizarre features of the trial such as a “complete response” 
+
+
+from a patient whose tumor shrank by only half, two patients whose disease progressed but 
+
+
+who remained on the study, and other peculiarities we cover in further detail below.  
+
+
+
+
+
+Undeterred by all this, Mirati has doggedly pursued a Phase 3 trial in which the Sitravatinib/ICI 
+
+
+combo will go up against docetaxel in NSCLC patients refractory to an ICI/chemo combination. 
+
+
+Given docetaxel’s reported response rates in ICI-refractory patients are actually higher than the 
+
+
+20% response rate elicited by sitravatinib, we expect the trial to end in failure. Apparently, so 
+
+
+does Mirati – they recently dropped their 2020 Q4 interim analysis (of ORR, which could 
+
+
+potentially have set them up for accelerated approval), leaving only the overall survival analysis 
+
+
+that will have to wait until year-end 2021. By then, the focus will conveniently have shifted to 
+
+
+KRAS combination strategies.  
+
+
+
+
+
+This wouldn’t be the first time that a highly touted Mirati compound will fade just as excitement 
+
+
+builds for the next one. Going back to Mirati’s posters and presentations from years past, other 
+
+
+targeted compounds like glesatinib and mocetinostat can be found, all now relegated to the 
+
+
+dustbin of history after failing in the clinic. Sitravatinib is next. And we don’t expect MRTX-849 to 
+
+
+be too far behind.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 9 
+
+
+
+
+
+II. Company Overview 
+
+
+
+
+
+Mirati: Capitalization and Financial Results 
+ 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis 
+
+
+* Shares outstanding and cash balance are adjusted for Mirati’s equity offering on 1/9/2020 
+ 
+
+
+
+
+
+The RAS protein – RAS is short for “rat sarcoma,” so called because the various RAS genes 
+
+
+were first identified from studies of two cancer-causing viruses in rats – is a central node in 
+
+
+some of the most critical cellular signaling pathways. These complex intracellular pathways are 
+
+
+composed of chains of proteins that communicate signals from the surface of the cell membrane 
+
+
+all the way to the DNA in the cell nucleus. The signals are responsible for managing critical 
+
+
+cellular processes including proliferation, differentiation, adhesion, death, and migration. 
+
+
+Mutations in the genes that encode the RAS proteins interrupt the normal functioning of these 
+
+
+signals and drive cancerous tumor growth: about one in seven tumors (in all kinds of cancers) 
+
+
+involves a mutation in the KRAS gene (one of the 3 different RAS genes). In the modern era of 
+
+
+targeted cancer therapies, KRAS has thus been referred to as the “holy grail” of targeted 
+
+
+therapy and the “beating heart” of cancer. 
+
+
+
+
+
+There have been a variety of attempts made to treat KRAS-driven cancers, including: 
+
+
+
+
+
+ Directly targeting KRAS by blocking the ability of the KRAS protein to physically 
+
+
+situate itself near the cell’s plasma membrane. This approach just hasn’t worked in 
+
+
+KRAS tumors because the tumors rapidly develop resistance to the blockage of the 
+
+
+pathway targeted by the drug by using an alternative pathway that remained totally 
+
+
+opened.1 
+
+
+
+
+
+ Indirectly targeting KRAS by targeting downstream effectors (see the graphic below), 
+
+
+particularly the RAF-MEK-ERK pathway (RAS activates RAF, which activates MEK, 
+
+
+                                                
+1 Berndt, N et al. Targeting protein prenylation for cancer therapy 
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037130/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 10 
+
+
+
+
+
+which activates ERK), also known as the mitogen-activated protein kinase (MAPK) 
+
+
+pathway. RAF inhibitors, though, have paradoxically accelerated tumor growth in 
+
+
+cancers that don’t possess a RAF mutation, and ERK inhibitors are still very early in 
+
+
+the process of preclinical development. MEK inhibitors, meanwhile, have shown 
+
+
+limited efficacy in KRAS-mutant cancers – they clearly inhibit cell growth, but don’t 
+
+
+show any improvement in patient outcomes compared to the SOC treatment. As we 
+
+
+discuss below, the MRTX-849 data is eerily reminiscent of the data from early MEK 
+
+
+inhibitor trials, and the resistance mechanisms observed are also similar.2 
+
+
+
+
+
+RAS on/off and its associated pathways 
+ 
+
+
+
+
+
+Source: Ryan, MB, Corcoran, RB Therapeutic strategies to target RAS-mutant cancers, Mullard, A. Cracking KRAS 
+ 
+
+
+
+
+
+The KRAS protein itself, though, has generally been considered undruggable because of the 
+
+
+physical structure of the protein. But in 2013, Kevin Shokat and his team at UCSF found a way 
+
+
+to bind a small molecule to one mutant version of the KRAS protein in which the glycine (G) in 
+
+
+the 12th codon of the gene is substituted with a cysteine (C) – hence the name KRASG12C. RAS 
+
+
+proteins are molecular switches, cycling between the on-state, in which they are bound to GTP 
+
+
+(guanosine triphosphate) molecules, and the off-state in which they are bound to GDP 
+
+
+(guanosine diphosphate) molecules (see the diagram above, right). The G12C mutation occurs 
+
+
+at a “hot spot” in the gene that interferes with the on/off switch, leading to a state in which RAS 
+
+
+signaling is “stuck” in the “on” configuration. Shokat’s molecule would bind to mutant-KRAS (via 
+
+
+covalent bond with the mutated cysteine) in its off state, locking it in that configuration. 
+
+
+                                                
+2 For a review of the history of attempts at targeting KRAS, see Ryan, MB and Corcoran, RB Therapeutic 
+
+
+strategies to target RAS-mutant cancers 
+
+
+
+https://www.nature.com/articles/s41571-018-0105-0
+
+https://www.nature.com/articles/d41573-019-00195-5
+
+http://shokatlab.ucsf.edu/
+
+https://www.nature.com/articles/s41571-018-0105-0
+
+https://www.nature.com/articles/s41571-018-0105-0
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 11 
+
+
+
+
+
+Theoretically, turning mutant KRAS off would knock out the downstream signaling cascade 
+
+
+responsible for tumor growth. Because the binding site for the molecule was at the mutated 
+
+
+cysteine, KRAS activity outside the tumor would also remain theoretically untouched.  
+
+
+
+
+
+But the path from a molecule that inhibits KRASG12C in a test tube to one that’s chemically 
+
+
+optimized to do so in vivo is a long one, and in early 2018, Amgen was the first to get an 
+
+
+investigational new drug (IND) application approved. Mirati was close behind, getting IND status 
+
+
+for MRTX-849 at the end of 2018. Meanwhile, Wellspring Biosciences – a subsidiary of Shokat 
+
+
+co-founded Araxes – was granted IND status for ARS-3248, another G12C inhibitor in the mold 
+
+
+of ‘849 and ‘510, in May of 2019. Eli Lilly also entered the fray in mid-2019 with G12C inhibitor 
+
+
+LY-3499446. All four molecules are currently in Phase 1 and/or Phase 2, with AMG-510 farthest 
+
+
+along. Given the prevalence of the G12C mutation in NSCLC – about 12-14% of all lung 
+
+
+adenocarcinomas have a KRASG12C mutation – most of the patients in these trials are second 
+
+
+line NSCLC patients, with other G12C-mutant solid tumor patients also participating (primarily 
+
+
+colorectal cancer).  
+
+
+
+
+
+KRAS heterogeneity introduces complications 
+
+
+
+
+
+While the race for a G12C inhibitor drug candidate was going on, parallel research on KRAS 
+
+
+was revealing that the status of mutant KRAS was more complex than originally thought. The 
+
+
+obvious assumption underlying the search for a KRAS inhibitor is that blocking mutant-KRAS 
+
+
+will meaningfully impact tumor viability. But it’s now understood that in KRAS-mutant cancers, 
+
+
+the cancer is almost never exclusively dependent on the dysregulated KRAS signaling.  
+
+
+
+
+
+There’s a long list of experiments and findings that have demonstrated this phenomenon.3 The 
+
+
+most striking, in our view, is an elegant set of experiments funded by the NIH and National 
+
+
+Cancer Institute that were reported in early 2018.4 Research oncologists analyzed 92 different 
+
+
+cell lines from a variety of cancers, including 64 KRAS-mutant lines. They then selectively 
+
+
+knocked out various nodes – individually and in combination – along the molecular pathways in 
+
+
+which RAS plays a role (for a non-exhaustive list of these nodes, see the diagram above, left). 
+
+
+They found, surprisingly, that over a third of KRAS-mutant cell lines did not even register a 
+
+
+response to a total shutdown of KRAS signaling. In 6 G12C-mutant lung cancer lines, only 1 
+
+
+responded to KRAS knock-down. Even in cell lines that did respond to KRAS-knockdown, the 
+
+
+response wasn’t uniform, and rarely did viability deteriorate to the point of cell death.5  
+
+
+
+
+
+It’s true that findings like this seldom translate perfectly to the complexity of tumors in the clinical 
+
+
+setting, but the findings are incredibly significant for what they say about KRAS-dependence. In 
+
+
+                                                
+3 For a review, see Yang H et al. New Horizons in KRAS-Mutant Lung Cancer: Dawn After Darkness 
+4 Yuan, Tina L et al. Differential Effector Engagement by Oncogenic KRAS 
+5 Ibid, “KRAS knockdown in dependent lines corresponds to a striking loss of proliferation but rarely 
+
+
+translates into appreciable cell death.” [emphasis added] 
+
+
+
+https://www.frontiersin.org/articles/10.3389/fonc.2019.00953/full
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343826/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 12 
+
+
+
+
+
+short, a significant proportion of KRAS-mutant tumors are totally independent of mutant-KRAS 
+
+
+signaling, and even those that aren’t can usually find an alternative path to viability. The 
+
+
+heterogeneous nature of KRAS-mutant tumors means that there exist a host of different cellular 
+
+
+signaling paths used by these tumors to proliferate. It’s possible that even within the same 
+
+
+tumor, there are various population subtypes, each with different pathway dependencies. 
+
+
+Unfortunately, there’s currently no good way to detect in advance whether a KRAS-mutant 
+
+
+tumor is dependent on KRAS. And even in “KRAS-addicted” tumors, there’s an array of different 
+
+
+pathways used for oncogenic signaling, and there’s no way to identify which particular molecular 
+
+
+route is being hijacked by the cancer.  
+
+
+
+
+
+That’s important because, as illustrated by the continued viability of KRAS-dependent cancer 
+
+
+cells in the face of KRAS-blockage, and as we detail below in our discussion of resistance 
+
+
+mechanisms, neutralizing KRAS is hardly sufficient. It needs to be accompanied by a 
+
+
+simultaneous shut-down of the critical links up, down, or parallel to the relevant pathway. 
+
+
+Without knowing which links or pathways are critical, a KRAS inhibitor – even one that 
+
+
+completely shuts down KRAS signaling – is mostly impotent. 
+
+
+
+
+
+
+
+
+III. MRTX-849 is Extremely Unlikely to be Approved as 
+
+
+Second-Line Monotherapy in NSCLC 
+
+
+The clinical trial data from Amgen and Mirati are not very good 
+
+
+
+
+
+We also think that the pathway forward from a regulatory perspective is most clear [in 
+
+
+NSCLC]…there is quite a long precedence of single-arm, single agent trials being used 
+
+
+for registration in non-small cell lung cancer, as long as the response rates are above 
+
+
+30%, and the durability of those responses [is] in the range of six months or 
+
+
+longer. We think that that's the fastest path towards initial registration. [emphasis added] 
+
+
+
+
+
+Mirati CEO Charles Braun at JPM Healthcare Conference – 1/14/2020 
+
+
+
+
+
+Both Amgen and Mirati, in their Phase 1/2 trials for AMG-510 and MRTX-849, respectively, are 
+
+
+targeting a ~30% objective response rate (ORR) and a ~6-month duration of response (DOR). 
+
+
+That’s the goal that needs to be met in order to have a chance at FDA accelerated approval as 
+
+
+second line treatment for KRASG12C-mutant NSCLC. Data on the G12C inhibitors is necessarily 
+
+
+limited given the small scale of the trials thus far. Amgen’s data is more extensive than Mirati’s 
+
+
+both because its trial began about half a year earlier and because Mirati has been reticent in 
+
+
+updating its negligible data set. It has been assumed, justifiably though with some risk, that 
+
+
+Mirati’s data will be substantially equivalent to Amgen’s. 
+
+
+
+
+
+But Amgen’s data is actually weak, and has been trending weaker over time. The initial Amgen 
+
+
+waterfall and swimmer plots, released at ASCO 2019, looked like this:
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 13 
+
+
+
+
+
+
+
+
+AMG-510 Data in NSCLC, ASCO 2019 (data cutoff 4/4/2019) 
+ 
+
+
+
+
+
+
+
+
+Source: Amgent presentation at ASCO 2019 (June 3rd, 2019), data cutoff is 4/4/2019 
+ 
+
+
+
+
+
+For reasons we elaborate upon below, we don’t expect the KRAS inhibitors to really have much 
+
+
+of an impact in colorectal cancer (CRC), so we’ll focus on NSCLC, which is by far the larger 
+
+
+market. It’s important to note that Amgen’s waterfall plot explicitly records the best overall 
+
+
+response (BOR) rate in patients and it excludes the one patient that saw immediate disease 
+
+
+progression after receiving treatment. Regardless, a partial response rate of 50% (5 of 10 
+
+
+patients), including 3 of 3 patients on the highest dose, was understandably seen as very 
+
+
+promising, though only one partial response at that point hit the 6 month mark. The drug was 
+
+
+also tolerated well with no serious safety events. 
+
+
+ 
+
+
+
+http://investors.amgen.com/static-files/f283e23c-5194-4d2a-be5f-07fb24d1ecec
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 14 
+
+
+
+
+
+By the time Amgen updated the data at ESMO in late September, the data looked a bit worse: 
+
+
+
+
+
+AMG-510 Data in NSCLC, ESMO 2019 (data cutoff 7/17/2019) 
+ 
+
+
+
+
+
+
+
+
+Source: Amgen presentation at ESMO 2019 (September 28th, 2019, data cutoff is 7/17/2019), 
+
+
+Kerrisdale analysis 
+ 
+
+
+
+
+
+The key inferences made from the above data, some of which Amgen directly addressed, 
+
+
+include the following: 
+
+
+ Of the 3 patients on the highest dose that had seen partial responses back at the April 
+
+
+cutoff, 2 unfortunately resumed disease progression and one had died (we marked these 
+
+
+with a red box in the above swimmer plot). 
+
+
+ Of the 13 patients on the highest dose (in green on the swimmer plot), 7 patients 
+
+
+exhibited a partial response for a 54% response rate. But some of those were 
+
+
+unconfirmed and will not be confirmed due to disease progression. So the maximum 
+
+
+confirmed ORR for the highest dosed arm of the study is about 38%, which is a far cry 
+
+
+
+http://investors.amgen.com/static-files/7758f950-a739-4237-bd3a-46309894adea
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 15 
+
+
+
+
+
+from the 100% that was seen when Amgen presented the data at ASCO, and it could 
+
+
+still go lower as 3 partial responses have yet to reach ten weeks of treatment and 
+
+
+haven’t yet been confirmed. 
+
+
+ Of the 7 patients that have responded to treatment on the highest dose, 3 suffered 
+
+
+disease progression at various points before the 15-week mark. The simple math here is 
+
+
+that if one of the 3 responding patients being treated for less than 10 weeks (we marked 
+
+
+these with a blue box in the above swimmer plot) relapses before the ~26-week mark, 
+
+
+the median duration of response will end up being less than 6 months. In our view, this 
+
+
+is the most probable outcome, and it means that from the data we have, we can 
+
+
+infer that ‘510 has little chance of achieving accelerated approval. 
+
+
+
+
+
+Since the July 2019 data that was presented about 6 months ago, Amgen has not given any 
+
+
+meaningful update. In fact, while the company suggested at ESMO that they would provide 
+
+
+updated data early in 2020, they recently pushed off the update. In a meeting with Goldman 
+
+
+Sachs, on which the latter reported in a note dated February 25th, Amgen management said 
+
+
+they would report data from the ‘510 trial in the middle of the year (potentially at ASCO), and 
+
+
+also “noted that, in addition to response rate, it will be important to consider stable disease, and 
+
+
+pointed to the prior history of BMY’s Yervoy in melanoma as an example.”6 That’s a damning 
+
+
+admission by the company that they expect either the response rate or the duration of response 
+
+
+(or both) to come up short of the accelerated approval benchmark communicated by the FDA. 
+
+
+Additionally, it’s unclear what the approval of Yervoy has to do with AMG-510. Yervoy’s 
+
+
+approval came after a randomized, double blind Phase 3 study completed in 676 patients, with 
+
+
+a standard endpoint of median overall survival (OS). Amgen is running a single-arm Phase 2 
+
+
+treating 100 patients with AMG-510. It’s true that Yervoy perhaps didn’t elicit a very high 
+
+
+response rate, but its efficacy was proven through a large RCT with a survival benchmark 
+
+
+before approval. AMG-510 has undergone nothing of the sort. 
+
+
+
+
+
+Meanwhile, Mirati presented data from its ‘849 trial at the Triple meeting in October, but that 
+
+
+data set is incredibly limited (6 NSCLC patients, with only one having taken ‘849 for longer than 
+
+
+~11 weeks). As a result, it’s difficult to come to any strong conclusions from that data beyond 
+
+
+the apparent similarities to Amgen’s data. Of 6 NSCLC patients, 3 saw a partial response, 
+
+
+including 3 of 5 on the highest dose, which is not very different than the original data that 
+
+
+Amgen had released at ASCO. Also similar to Amgen’s ASCO data, none of the patients that 
+
+
+responded had yet made it past ten weeks of treatment (Amgen had 2 of 5 responding patients 
+
+
+who were a bit more advanced in their treatment regiment, but neither of those was treated with 
+
+
+the highest dose).  
+
+
+
+
+
+                                                
+6 Goldman Sachs Equity Research: “Amgen Inc: Management meeting takeaways” February 25th, 2020.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 16 
+
+
+
+
+
+MRTX-849 Data in NSCLC, CRC, and Appendiceal Triple Meeting 2019 (data cutoff 10/11/2019) 
+ 
+
+
+
+
+
+
+
+
+Source: Mirati presentation at Triple Meeting 2019 (October 28th, 2019, data cutoff is 10/11/2019) 
+ 
+
+
+
+
+
+In colorectal cancer, one partial response was recorded out of the four patients treated. 
+
+
+Considering Amgen’s weak CRC data (one partial response in 27 patients), we don’t believe a 
+
+
+25% response rate will be sustained over a larger number of patients. Moreover, the pathway 
+
+
+characteristics of KRAS in colorectal cancer are different than in NSCLC as mutant-KRAS is 
+
+
+rarely a central node of dependency in CRC. 
+
+
+
+
+
+The future of Mirati’s ‘849 has been foreshadowed by Amgen’s ‘510 – the partial responses that 
+
+
+have been seen will probably not be maintained for long enough to result in a 6 month duration 
+
+
+
+https://www.mirati.com/wp-content/uploads/2019/10/AACR-NCI-EORTC-Clinical-Data-Presentation_Janne_October-2019-1-1.pdf
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 17 
+
+
+
+
+
+of response, and the response rate will fall as more patients are added to the trial. Indeed, Mirati 
+
+
+surely has enough data to provide an update at ASCO, but has chosen to delay providing an 
+
+
+update until the second half of this year (probably at ESMO, World Lung, or the Triple meeting). 
+
+
+As with Amgen, we interpret a delayed data update as a tacit admission that the evolving data 
+
+
+are more mixed than the initial release and will raise questions about the efficacy odds of 
+
+
+approval of ‘849. 
+
+
+Selumetinib is a cautionary tale for G12C inhibitors 
+
+
+
+
+
+The trajectory of AMG-510 and MRTX-849, characterized by relatively promising initial response 
+
+
+rates that fade quickly, should be familiar to anyone that’s followed KRAS-mutant lung cancer 
+
+
+for the last decade. The most promising drug candidate for these patients – before the recent 
+
+
+data on immune checkpoint inhibitors – was MEK inhibitor selumetinib, which was invented by 
+
+
+Array Biopharma. Array, now a subsidiary of Pfizer, is coincidentally the same company that 
+
+
+originated MRTX-849 and subsequently licensed it to Mirati. 
+
+
+
+
+
+MEK is one of the downstream nodes from KRAS on the MAPK signaling pathway. Because 
+
+
+KRAS was undruggable a decade ago, it was hypothesized that blocking the path downstream 
+
+
+of KRAS might elicit a therapeutic response in patients with KRAS-mutant cancers. In a widely 
+
+
+hailed Phase 2 result presented at ASCO in 2012, the combination of selumetinib and 
+
+
+chemotherapy drug docetaxel showed extremely promising results. In a presentation given by 
+
+
+Dr. Pasi Janne from the Dana Farber Cancer Institute – the same person, coincidentally, that 
+
+
+presented the MRTX-849 data at the Triple meeting in October last year –the survival curves 
+
+
+and waterfall plots for the combination in KRAS-mutant NSCLC were shown, and the waterfall 
+
+
+plot was similar to the one for AMG-510: 
+
+
+
+
+
+Selumetinib + docetaxel for KRAS-mutant advanced NSCLC Phase 2 Study (2012) 
+ 
+
+
+
+
+
+
+
+
+Source: Janne, P et al. Selumetinib plus docetaxel for KRAS-mutant advanced non-small-cell lung cancer: a 
+
+
+randomised, multicentre, placebo-controlled, phase 2 study 
+ 
+
+
+ 
+
+
+
+https://meetinglibrary.asco.org/record/75090/video
+
+https://webcast.aacr.org/console/player/41716?mediaType=slideVideo&
+
+https://www.ncbi.nlm.nih.gov/pubmed/23200175
+
+https://www.ncbi.nlm.nih.gov/pubmed/23200175
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 18 
+
+
+
+
+
+
+
+
+The plot for the selumetinib combination and the ones for ‘510/’849 are not perfectly comparable 
+
+
+– the selumetinib trial measured the change in tumor-size at a predetermined interval of 12 
+
+
+weeks into treatment, while Amgen and Mirati are presenting “best overall responses” at any 
+
+
+point between treatment initiation and data cutoff. The AMG-510 waterfall plot from ESMO 
+
+
+indicates that in 22 out of 23 patients, the best response was the first response at the ~6-week 
+
+
+mark, so the G12C inhibitors are being graded on a curve. In the Phase 2 of the selumetinib 
+
+
+combination, the best overall responses were 37% of patients with a partial response, 44% with 
+
+
+stable-disease, and the remaining 19% saw disease progression. That’s slightly worse than the 
+
+
+39/56/4% splits from the entire Amgen data set and the 38/62/0% split in the highest-dosage 
+
+
+group, but not profoundly different, particularly considering that the selumetinib trial was a true 
+
+
+randomized placebo-controlled trial, whereas Amgen and Mirati are running single-arm proof-of-
+
+
+concept trials with far fewer patients (as of the latest data).  
+
+
+
+
+
+The fate of the selumetinib combination was a Phase 3 failure, which was detailed in JAMA in 
+
+
+mid-2017.7 While the Phase 3 trial design was identical to the Phase 2, the response rate to the 
+
+
+combination therapy with selumetinib was only 20% compared to the 37% rate in the Phase 2, 
+
+
+and progression-free survival was 3.9 months compared to 5.3 months in the Phase 2. The 
+
+
+authors couldn’t find any good reasons for the differences in results, but it wasn’t the first time 
+
+
+that a trial with a much larger sample size and better statistical power failed to confirm an 
+
+
+optimistic result from a smaller sample set. The data from AMG-510, which deteriorates each 
+
+
+time the sample set gets larger, seems to be following that pattern, and we expect the same for 
+
+
+MRTX-849. 
+
+
+
+
+
+Adaptive resistance to first-generation KRAS inhibitors has been well 
+
+
+documented and the field has already moved on 
+
+
+
+
+
+However, two decades of experience with targeted therapies for lung and other types of 
+
+
+cancer have taught us that these therapies generally cannot eliminate all cells within a 
+
+
+tumor. In almost all solid tumors responsive to targeted therapies, acquired drug 
+
+
+resistance inevitably develops, which leads to clinical relapse. An accumulating body 
+
+
+of preclinical evidence suggests that cancers driven by mutant KRAS may be 
+
+
+especially prone to activate adaptive resistance mechanisms that enable cell 
+
+
+survival in the face of suppression of KRAS or downstream mitogen-activated protein 
+
+
+kinase (MAPK) signaling. [emphasis added] 
+
+
+
+
+
+Hata AN, Shaw AT Resistance looms for KRASG12C inhibitors 
+
+
+Nature Medicine, 2/4/2020 
+
+
+
+
+
+                                                
+7 Pasi, J et al. Selumetinib Plus Docetaxel Compared With Docetaxel Alone and Progression-Free 
+
+
+Survival in Patients With KRAS-Mutant Advanced Non–Small Cell Lung Cancer 
+
+
+
+https://jamanetwork.com/journals/jama/fullarticle/2625317
+
+https://www.nature.com/articles/s41591-020-0765-z
+
+https://jamanetwork.com/journals/jama/fullarticle/2625317
+
+https://jamanetwork.com/journals/jama/fullarticle/2625317
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 19 
+
+
+
+
+
+Preclinical evidence on KRASi resistance provides much-needed scientific context for the 
+
+
+disappointing direction in which the data is headed. It shouldn’t be surprising that the responses 
+
+
+in AMG-510 patients seem to break down rather quickly. Tumors have long been known to 
+
+
+possess an array of resistance mechanisms to combat the tumor-killing compounds that are 
+
+
+used to treat them. With the G12C inhibitors, the mechanisms of resistance have been detailed 
+
+
+in preclinical work that has been published recently, some of it in parallel to the clinical trials 
+
+
+being run by Amgen and Mirati. Ironically, some of this research was published by Mirati 
+
+
+scientists in their pursuit of potential combination therapies that involve MRTX-849. 
+
+
+
+
+
+One resistance mechanism that was characterized in detail last year by a team from Memorial 
+
+
+Sloan Kettering is “adaptive feedback activation of RTKs (receptor tyrosine kinases).”8 Normally, 
+
+
+the mutant-KRAS protein cycles between the on/off states described above. The G12C inhibitor 
+
+
+binds to the KRAS protein in its off-state, locking it in that configuration, and effectively shutting 
+
+
+down the mutant signaling. But in a subgroup of cells, the growth-factor-receptors on the cell 
+
+
+membrane respond to the “locked-down” KRAS by increasing their signaling activity and 
+
+
+producing more KRAS protein. The snag is that the new KRAS that’s produced in these cells is 
+
+
+“manufactured” in the on mode, and KRAS in its on-state does not bind to the G12C inhibitor. 
+
+
+This small group of cells is now resistant to the drug, and begins to proliferate, leading to the 
+
+
+tumor growing again. At this point, the tumor is now substantially protected from the activity of 
+
+
+the G12C inhibitor. 
+
+
+
+
+
+Another resistance mechanism, described recently by Dr. Meagan Ryan and her co-authors, is 
+
+
+“RAS pathway feedback activation.”9 KRAS is one of three RAS proteins, HRAS and NRAS 
+
+
+being the other two. The assumption is that in KRAS-mutant cancers, the mutant-KRAS is 
+
+
+responsible for transmitting the “faulty” signals that result in cancerous tumor growth. Ryan and 
+
+
+her co-authors found that when mutant-KRAS is blocked with a G12C inhibitor, the other forms 
+
+
+of RAS – heretofore dormant in the tumors, and possessing no mutations – begin to activate, 
+
+
+transmitting the tumorigenic signals from the receptors on the cell membrane downstream to 
+
+
+RAF/MEK/ERK and eventually the cell nucleus. The detailed mechanics of this process in the 
+
+
+clinical setting and how long it takes to play out there are yet to be explored. The authors 
+
+
+suggest that combining the G12C inhibitor with a SHP2 inhibitor may hold off this resistance 
+
+
+mechanism, though as we discuss at further length below, we think that it will take a while 
+
+
+before any combination regiments can be effectively utilized. 
+
+
+
+
+
+The consequences of resistance in KRASG12C-mutant NSCLC are clearly manifested in relatively 
+
+
+low overall response rates and short durations of response. These virtually ensure that 
+
+
+accelerated approval for MRTX-849 will remain beyond Mirati’s reach. But they also foreshadow 
+
+
+that, like selumetinib, MRTX-849 is extremely unlikely to improve patient outcomes compared to 
+
+
+second line docetaxel in a large randomized Phase 3 trial, which, regardless of the outcome, 
+
+
+would still delay approval for years. That’s especially the case given that immune checkpoint 
+
+
+                                                
+8 Xue, JY, Zhao, Y, et al. Rapid non-uniform adaptation to conformation-specific KRAS(G12C) inhibition 
+9 Ryan, M et al. Vertical pathway inhibition overcomes adaptive feedback resistance to KRASG12C 
+
+
+inhibition 
+
+
+
+https://doi.org/10.1038/s41586-019-1884-x
+
+https://clincancerres.aacrjournals.org/content/early/2019/11/27/1078-0432.CCR-19-3523.full-text.pdf
+
+https://clincancerres.aacrjournals.org/content/early/2019/11/27/1078-0432.CCR-19-3523.full-text.pdf
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 20 
+
+
+
+
+
+inhibition has become the standard of care in first line NSCLC, and docetaxel’s response rates 
+
+
+and DORs in the second line setting look to be comparable or better than what ‘510 and ‘849 
+
+
+are demonstrating in their Phase 2 trials.10 
+
+
+
+
+
+The research community apparently agrees. Our discussions with a large number of oncology 
+
+
+researchers, as well as the subject matter focus of recent KRAS literature, indicate that the 
+
+
+focus of the research community has rapidly moved from single-agent KRAS inhibition to 
+
+
+combination therapies meant to address primary and adaptive resistance. Such a rapid shift is 
+
+
+telling: the research consensus is concluding that the only way KRAS inhibitors will be useful is 
+
+
+in combination. MRTX-849 is unlikely to emerge from the research frenzy intact. 
+
+
+
+
+
+IV. MRTX-849 will not Fare any Better in Combination than 
+
+
+as a Single Agent 
+
+
+
+
+
+Our work reveals that optimal targeting of KRAS-driven cancers will require 
+
+
+coinhibition of both the driver oncogene and upstream, downstream, and parallel 
+
+
+collateral dependencies…the concept that a cancerous phenotype can be driven by a 
+
+
+single oncogene is being revised given that…targeted therapies have fallen short on their 
+
+
+promise of promoting durable responses and cures for patients. [emphasis added] 
+
+
+
+
+
+Lou, K et al.  
+
+
+KRASG12C inhibition produces a driver-limited state revealing collateral dependencies 
+
+
+Science Signaling, 5/28/2019 
+
+
+
+
+
+The Mirati/Amgen playbook for their G12C inhibitors seems to consist of hoping for good-
+
+
+enough data in their single-arm monotherapy Phase 2s to qualify for accelerated approval, while 
+
+
+working on combination therapies that will give them longer staying power in the meantime. 
+
+
+Mirati has planned four Phase 1 trials that will combine MRTX-849 with another drug. Three of 
+
+
+these trials are combinations with other targeted therapies, and one is a combination with an 
+
+
+immune checkpoint inhibitor (ICI).  
+
+
+
+
+
+Without good biomarkers, a targeted therapy combination with MRTX-
+
+
+849 is a shot in the dark 
+
+
+
+
+
+Resistance to KRAS inhibitors seems to manifest itself in two forms: 
+
+
+ Primary resistance, in which the tumor doesn’t even respond to the treatment. This 
+
+
+mode of resistance is related, by and large, to the KRAS heterogeneity discussed 
+
+
+previously. A significant proportion of KRAS-mutants, and KRASG12C-mutants in 
+
+
+                                                
+10 We discuss this at further length in our discussion of sitravatinib below. See the references mentioned 
+
+
+in footnote 24 
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871662/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 21 
+
+
+
+
+
+particular, are not very dependent on KRAS signaling. Their response to the shut-
+
+
+down of that signaling is therefore negligible, if it even occurs. 
+
+
+ Adaptive resistance, described above, in which the KRAS inhibition initially impacts 
+
+
+tumor growth, but the tumor rapidly adapts, in this case by exploiting other nodes in 
+
+
+the relevant molecular pathways (see diagram below) to continue proliferating. 
+
+
+
+
+
+Molecular Pathways related to RAS 
+ 
+
+
+
+
+
+Source: This diagram is found in the recent IPO registration of Revolution Medicines 
+ 
+
+
+
+
+
+It’s worth noting that it’s difficult to perfectly correlate the phenomena of tumor shrinkage, partial 
+
+
+response, stable disease, or disease progression with the various kinds of resistance. A partial 
+
+
+response that fades into disease progression, for example, could be a manifestation of different 
+
+
+subpopulations within the tumor (one that responds and one that exhibits primary resistance), or 
+
+
+it could be an instance of adaptive resistance in which the tumor cells seize on a different 
+
+
+molecular pathway to continue growing. Or it could be a combination of these phenomena. Even 
+
+
+with a biopsy, it’s not easy to tell. These are just different models of resistance to consider, and 
+
+
+they’re not necessarily mutually exclusive. 
+
+
+
+
+
+The different molecular pathways that KRAS-mutant tumors use to proliferate are delineated in 
+
+
+the above diagram: 
+
+
+ KRAS-mutant tumors that are dependent on KRAS use the RAS/RAF/MEK/ERK (MAP-
+
+
+kinase) pathway, which starts with growth factor signaling from the receptors on the cell
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 22 
+
+
+
+
+
+membrane and continues, through a process of binding other molecules, to RAS and the 
+
+
+rest. Tumors using the adaptive resistance mechanisms delineated above continue to 
+
+
+use this pathway to survive and/or thrive, either bypassing KRAS and using the other 
+
+
+parallel RAS proteins, or by having the RTKs (the receptors on the cell membrane) 
+
+
+signal for the production of KRAS in the “on” state (labeled RAS(ON) above), which are 
+
+
+totally immune to the activity of the G12C inhibitors. 
+
+
+ In tumor cells that are essentially independent of KRAS-signaling, it’s generally the PI3K 
+
+
+pathway through which oncogenic signaling occurs.11 That’s not to say that the 
+
+
+RAS/RAF/MEK/ERK pathway is dormant in these cells, just that the critically 
+
+
+dysregulated signals are not dependent on that path.  
+
+
+
+
+
+That’s a bit of an oversimplification. There are other pathways through which oncogenic 
+
+
+signaling can occur, though they are seemingly rare. The RAS and PI3K pathway are also not 
+
+
+so neatly separated – ERK has been shown to interact with S6K, and RAS has been shown to 
+
+
+interact with PI3K, and there are other arcane interactions that don’t seem to figure prominently 
+
+
+into the discussion on KRAS inhibition at the current time.12 Tumor cells can also potentially use 
+
+
+both pathways simultaneously, evading the knockdown of any single pathway, even in its 
+
+
+entirety.13 
+
+
+
+
+
+Additionally, the centrality of the different pathway nodes varies. MEK inhibitors, like 
+
+
+selumetinib, have been around for a long time, and have generally been ineffective in KRAS-
+
+
+mutant cancer patients (at least partly because of the same resistance mechanisms that have 
+
+
+been found to operate on the G12C inhibitors). But one of the underlying assumptions (yet to be 
+
+
+validated) of the race for a KRAS inhibitor is that blocking KRAS would be inherently more 
+
+
+effective than blocking MEK, even though MEK is right downstream of KRAS. Similarly, 
+
+
+research has shown PI3K may not be the best target for the PI3K pathway, and perhaps AKT or 
+
+
+mTOR knock-down would be more effective. 
+
+
+
+
+
+With this in mind, Mirati has set up the following attempts at targeted therapy combinations with 
+
+
+MRTX-849 for NSCLC: 
+
+
+ ‘849+afatinib: Afatinib is an EGFR inhibitor, and EGFR is an RTK that has been shown 
+
+
+to be implicated in the resistance to G12C inhibition by signaling for the production of 
+
+
+more RAS in the “on” state. The logic here is that if EGFR is shut down, then the 
+
+
+concentration of RAS(ON) can be kept low enough that the G12C inhibition can properly 
+
+
+target the RAS(OFF) protein. 
+
+
+ ‘849+CDK4/6 inhibition: CDK4 and CDK6 are proteins that are downstream of both the 
+
+
+RAS and PI3K pathways, and are involved in cell division. Overactivity of CDK4/6 has 
+
+
+been implicated in cancerous growth. The logic of inhibiting both KRASG12C and CDK4/6 
+
+
+                                                
+11 PI3K is short for “phosphatidylinositol 3-kinase” 
+12 See Asati, V et al. PI3K/Akt/mTOR and Ras/Raf/MEK/ERK signaling pathways inhibitors as anticancer 
+
+
+agents: Structural and pharmacological perspectives 
+13 Jaiswal, BS et al. Combined Targeting of BRAF and CRAF or BRAF and PI3K Effector Pathways Is 
+
+
+Required for Efficacy in NRAS Mutant Tumors 
+
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S0223523416300125?via%3Dihub
+
+https://www.sciencedirect.com/science/article/abs/pii/S0223523416300125?via%3Dihub
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2683562/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2683562/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 23 
+
+
+
+
+
+is that oncogenic signaling from KRAS and/or PI3K may be manifested in CDK4/6 
+
+
+overactivation, so shutting down CDK4/6 would be lethal for cancer cells. 
+
+
+ ‘849+SHP2 inhibition: SHP2 is a protein that regulates the signaling from the RTKs to 
+
+
+the RAS pathway. The logic of inhibiting SHP2 in combination with KRASG12C is that 
+
+
+some of the observed resistance mechanisms to G12C have involved feedback-driven 
+
+
+RTK signaling, and inhibiting SHP2 could interfere with that oncogenic signaling. 
+
+
+
+
+
+In our view, these trials are a desperate shotgun approach to making MRTX-849 relevant in the 
+
+
+absence of substantial single-agent efficacy. The inhibition of EGFR, CDK4/6, and SHP2 have 
+
+
+all been tried as single agents in KRAS-mutant cancers, and all have failed.14 There’s some 
+
+
+logic in all of the above combinations, but successful combinations in oncology almost always 
+
+
+involve drugs that have shown efficacy on their own. Combining two drugs that each result in 
+
+
+low response rates of short duration is the triumph of hope over experience. 
+
+
+
+
+
+Additionally, all the above candidates to be combined with ‘849 have demonstrated toxicity in 
+
+
+patients as single agents because they don’t just target mutant-signaling, they target all the 
+
+
+EGFR/CDK/SHP2 activity, including in non-tumor tissue. ‘849 has not shown very high levels of 
+
+
+toxicity because it only targets mutant KRAS, but other mutant-targeting therapies – including 
+
+
+the blockbuster osimertinib, an incredibly effective EGFR inhibitor that targets only mutant 
+
+
+EGFR – have shown significant toxicities in combination. That could potentially be a function of 
+
+
+high dosages used by patients on these therapies, which is a feature of ‘849 treatment as well. 
+
+
+In this context, the higher rate of adverse safety events in the ‘849 trial compared to the ‘510 
+
+
+trial could put Mirati at a structural disadvantage relative to Amgen in the KRAS inhibitor race. 
+
+
+
+
+
+But the most significant problem with all of the above combinations goes back to the 
+
+
+heterogeneity of KRAS-mutant tumors and the complexity of the varying pathway combinations 
+
+
+used for oncogenic signaling. The Shokat lab – the same group that discovered the binding 
+
+
+mechanism employed by the multiple G12C inhibitors currently being trialed – conducted a set 
+
+
+of experiments upon which many of the above combination strategies are based. They found 
+
+
+that 
+
+
+
+
+
+Together, our experiments nominate two classes of combination therapies that either 
+
+
+enhance KRASG12C target engagement (namely, EGFR, FGFR, or SHP2 inhibitors) or 
+
+
+independently suppress persistent survival pathways (namely, AXL, PI3K, or CDK4/6 
+
+
+inhibitors)…Our experiments revealed collateral dependencies [i.e., alternative pathway 
+
+
+nodes on which KRAS-mutant cancers are dependent] upstream of KRASG12C in 
+
+
+NSCLC…We reveal that the relevant receptors in these signaling networks are cell-
+
+
+type-specific…We also identified collateral dependencies downstream and parallel to 
+
+
+                                                
+14 For a review that covers EGFR and CDK4/6 inhibition, see Ferrer, I et al. KRAS-Mutant non-small cell 
+
+
+lung cancer: From biology to therapy. SHP2 inhibition has not been tested in the clinic, but its most 
+
+
+strident proponent, Revolution Medicines, has presented data on preclinical activity in several forms, and 
+
+
+has positioned its own SHP2 inhibitor as a combination candidate rather than a single agent candidate. 
+
+
+See Revolution’s IPO prospectus and the poster and slides recently presented, including a waterfall plot 
+
+
+with a response rate of 5.5% (1 of 18 patients). 
+
+
+
+https://www.lungcancerjournal.info/article/S0169-5002(18)30473-2/fulltext
+
+https://www.lungcancerjournal.info/article/S0169-5002(18)30473-2/fulltext
+
+https://ir.revmed.com/node/6606/html
+
+https://revmed.egnyte.com/dl/wA9GQtOcFZ/A12_The_SHP2_inhibitor_RMC-4630_in_patients_with_KRAS-mutant_non-small_cell_lung_cancer_-_Preliminary_evaluation_of_a_first-in-man_phase_1_clinical_trial.pdf_
+
+https://revmed.egnyte.com/dl/EfA8qT2kPd/RAS_Summit_Vienna_2020_Kelsey.pdf_
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 24 
+
+
+
+
+
+KRASG12C that were incompletely suppressed by driver oncogene inhibition. [emphasis 
+
+
+added]15 
+
+
+
+
+
+In other words, they found that there are lots of other nodes and pathways involved in promoting 
+
+
+tumor growth in KRASG12C-mutant cancer, and that these can be found upstream, downstream, 
+
+
+and parallel to the KRAS node. But there’s no way to tell in advance which pathway will be 
+
+
+used or is being used, or which resistance mechanism is likely to be employed by the 
+
+
+tumor.16 It’s even possible that tumors are “fluid” in the sense that they can change which 
+
+
+pathways they depend on to continue proliferating.17 A combination with an EGFR inhibitor 
+
+
+won’t work for a tumor that develops resistance through other RTKs; a SHP2 inhibitor won’t 
+
+
+work for a tumor that develops resistance through the PI3K pathway; and a CDK4/6 inhibitor 
+
+
+won’t work if the RAS or PI3K pathways are operating through the myriad other downstream 
+
+
+effectors.  
+
+
+
+
+
+There are no biomarkers that are currently known to reveal any of this critical information. Our 
+
+
+conversations with various prominent research oncologists suggest that there is a lot of 
+
+
+research that is ongoing in this area, including using new computational methods with ctDNA 
+
+
+data, but the field is very early in this process. Until molecular or genetic biomarkers can reveal 
+
+
+the specific pathways and mechanisms that are active in a patient’s tumor, combination therapy 
+
+
+will remain a proverbial roll of the dice. 
+
+
+The attempt to combine MRTX-849 with immune checkpoint inhibition 
+
+
+will fail 
+
+
+
+
+
+Immunotherapy has revolutionized the oncology landscape in the last decade. In many kinds of 
+
+
+cancer, tumor cells successfully neutralize the body’s immune response through the expression 
+
+
+of PD-L1 (programmed cell death-ligand 1) ligands on the tumor-cell surface. These ligands 
+
+
+bind to the PD-1 proteins on the surface of T-cells, acting as a brake on their immune activity 
+
+
+(hence the label “immune checkpoints”). Immune checkpoint inhibitors (ICIs) bind to either the 
+
+
+PD-L1 on the tumor-cell surface or the PD-1 on the T-cell-surface, inhibiting the immune 
+
+
+checkpoint, and unleashing the body’s immune system against the tumor. No cancer treatment 
+
+
+is perfect, and while ICIs are incredibly effective in what seems to be a continuously expanding 
+
+
+list of tumor-types, not everyone responds to immune checkpoint inhibition, and many patients 
+
+
+                                                
+15 Lou, K et al. KRASG12C inhibition produces a driver-limited state revealing collateral dependencies 
+16 There are other flaws in the study that have been pointed out to us in our conversations with research 
+
+
+oncologists. For example, the set of experiments was conducted on only two standard lab models of 
+
+
+G12C-mutant tumors – one in NSCLC and one in pancreatic cancer – among the tens of available G12C-
+
+
+mutant models, and both models used are significantly more susceptible to G12C-targeting than real-life 
+
+
+G12C-mutant tumors in patients. So the suggested combinations will not be as effective in real tumors 
+
+
+and, as the authors admit, the pathways identified are almost certainly not the only relevant pathways.  
+17 In Yuan et al. (see the reference in footnote 3 above), the authors conclude “If the transition from 
+
+
+the KRAS to the RSK [PI3K/S6K] state is fluid or reversible, a tumor might be able to escape therapies 
+
+
+that target either state alone.” 
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871662/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 25 
+
+
+
+
+
+that respond still end up developing resistance (though the durations of responses tend to be 
+
+
+relatively long). ICIs are also unsurprisingly associated with autoimmune-like toxicities. 
+
+
+
+
+
+Despite these drawbacks, ICIs have become the de-facto standard first-line therapy in 
+
+
+advanced NSCLC. In patients with high levels of PD-L1 expression in their tumors, checkpoint 
+
+
+inhibition is used as monotherapy, while in patients with low PD-L1 expression, a combination of 
+
+
+ICIs and chemotherapy is the standard. The combination with chemotherapy came about 
+
+
+because as monotherapy, ICIs have lower response rates than chemotherapy in advanced 
+
+
+NSCLC patients with low PD-L1 expression. But in combination with chemotherapy, ICIs result 
+
+
+in approximately double the overall response rate as chemotherapy.18 Conventional 
+
+
+chemotherapy significantly enhances the immune response triggered by ICIs, with multiple 
+
+
+molecular processes identified as the basis for this immune-stimulating activity.19 
+
+
+
+
+
+Researchers have raced to find other compounds that could synergize with ICIs and potentiate 
+
+
+their activity (“turning a cold tumor hot”) or even enhance their efficacy in indications where 
+
+
+they’re already effective. The attempt to combine ‘849 with pembrolizumab, Merck’s blockbuster 
+
+
+PD-1 inhibitor, is just the latest in a long line of ICI combination efforts. Mirati and Amgen laid 
+
+
+out the scientific rationale for the G12C-inhibitor/ICI combination in a series of preclinical 
+
+
+experiments in which their respective compounds were combined with an ICI. The combination 
+
+
+resulted in deeper and more durable tumor responses than either agent alone, as shown below: 
+
+
+
+
+
+MRTX-849 Combination with Checkpoint Inhibitor 
+ 
+
+
+
+
+
+Source: Mirati Corporate Presentation, January 2020 
+ 
+
+
+
+
+
+                                                
+18 Langer, CJ et al. Carboplatin and pemetrexed with or without pembrolizumab for advanced, non-
+
+
+squamous NSCLC: a randomised, phase 2 cohort of the open-label KEYNOTE-021 study 
+19 For a review and detailed examples, see Leonetti, A et al. Molecular basis and rationale for combining 
+
+
+immune checkpoint inhibitors with chemotherapy in non-small cell lung cancer 
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886237/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886237/
+
+https://www.ncbi.nlm.nih.gov/pubmed/31585395
+
+https://www.ncbi.nlm.nih.gov/pubmed/31585395
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 26 
+
+
+
+
+
+The catch is that the mouse tumor model used by both Mirati and Amgen bears zero 
+
+
+resemblance to KRASG12C-mutant tumors in real human beings. First, note how the mouse 
+
+
+tumors respond almost completely to MRTX-849. Within 10 days, these tumors seem to 
+
+
+completely shrink down to close to zero. The human tumors treated with MRTX-849, by 
+
+
+contrast, have exhibited zero complete responses. It’s also not at all clear, based on Mirati’s 
+
+
+presentation of the preclinical data, that a checkpoint inhibitor results in any additive or 
+
+
+synergistic effect compared to ‘849 on its own – there’s little difference between the tumor size 
+
+
+trajectories of the mice treated with ‘849 and the mice treated with the combination. 
+
+
+
+
+
+But the most unrealistic element of the preclinical data is strongly related to why a G12C 
+
+
+inhibitor is extremely unlikely to demonstrate any synergy with an ICI in the clinic. In the above 
+
+
+diagram, the checkpoint inhibitor basically exhibits no efficacy: the tumor growth in the control 
+
+
+group is almost indistinguishable from the growth in the mice treated with a checkpoint inhibitor 
+
+
+(the orange line labeled PD-1 10mg/kg). But in KRAS-mutant NSCLC, checkpoint inhibition is 
+
+
+exceptionally effective, and perhaps especially in the G12C-mutant variant. The efficacy of ICIs 
+
+
+in KRAS-mutant NSCLC has been demonstrated repeatedly in retrospective analyses of the 
+
+
+many trials involving ICIs, and several molecular mechanisms have been hypothesized.20 
+
+
+KRAS-mutant tumors have also been associated with high levels of PD-L1, which could partly 
+
+
+explain why they seem so susceptible to ICI therapy.21 In mid-December, Merck disclosed the 
+
+
+following exploratory data from its KEYNOTE-042 trial, in which advanced-NSCLC patients with 
+
+
+medium and high levels of PD-L1 expression were treated with pembrolizumab: 
+
+
+
+
+
+Phase 3 KEYNOTE-042 Data 
+ 
+
+
+
+
+
+Source: Merck Press Release, December 12, 2019 
+ 
+
+
+
+
+
+                                                
+20 For a review of these trials, see Adderly, H et al. KRAS-mutant non-small cell lung cancer: Converging 
+
+
+small molecules and immune checkpoint inhibition.  
+21 See, e.g., Skoulidis, F et al. Co-occurring Genomic Alterations Define Major Subsets of KRAS-Mutant 
+
+
+Lung Adenocarcinoma with Distinct Biology, Immune Profiles, and Therapeutic Vulnerabilities and Liu, C 
+
+
+et al. The superior efficacy of anti-PD-1/PD-L1 immunotherapy in KRAS-mutant NSCLC that correlates 
+
+
+with an inflammatory phenotype and increased immunogenicity, and the references therein. In the original 
+
+
+Merck clinical trial for pembrolizumab in NSCLC – KEYNOTE-001 – about 80% of patients with 
+
+
+identifiable KRAS mutations had medium or high levels of PD-L1.  
+
+
+KEYTRUDA 
+
+
+Monotherapy
+Chemotherapy
+
+
+KEYTRUDA 
+
+
+Monotherapy
+Chemotherapy
+
+
+KEYTRUDA 
+
+
+Monotherapy
+Chemotherapy
+
+
+(N = 30) (N = 39) (N = 12) (N = 17) (N = 127) (N = 105)
+
+
+OS, median, months (95% CI) 28 (23-NR) 11 (7-25) NR (23-NR) 8 (5-NR) 15 (12-24) 12 (11-18)
+
+
+OS, Hazard Ratio (95% CI)
+
+
+ORR, % (95% CI) 56.7% 18.0% 66.7% 23.5% 29.1% 21.0%
+
+
+PFS, median, months (95% CI) 12 (8-NR) 6 (4-9) 15 (10-NR) 6 (4-8) 6 (4-7) 6 (6-8)
+
+
+PFS, HR (95% CI)
+
+
+0.42 (0.22-0.81) 0.28 (0.09-0.86) 0.86 (0.63-1.18)
+
+
+1.00 (0.75-1.34)0.27 (0.10-0.71)0.51 (0.29-0.87)
+
+
+With Any KRAS Mutation With KRAS G12C Mutation Without Any KRAS Mutation
+
+
+
+https://investors.merck.com/news/press-release-details/2019/Data-from-Exploratory-Analysis-Show-Mercks-KEYTRUDA-pembrolizumab-Improved-Overall-Survival-as-Monotherapy-for-the-First-Line-Treatment-of-Metastatic-Non-Small-Cell-Lung-Cancer-Regardless-of-KRAS-Mutational-Status/default.aspx
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444074/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444074/
+
+https://cancerdiscovery.aacrjournals.org/content/5/8/860
+
+https://cancerdiscovery.aacrjournals.org/content/5/8/860
+
+https://www.sciencedirect.com/science/article/pii/S0304383519305245?via%3Dihub
+
+https://www.sciencedirect.com/science/article/pii/S0304383519305245?via%3Dihub
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1501824
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 27 
+
+
+
+
+
+Pembrolizumab monotherapy resulted in longer overall survival and progression-free survival, 
+
+
+lower hazard ratios, and higher response rates in patients with KRAS-mutant tumors than in 
+
+
+patients with no KRAS mutations. The results for patients with tumors that harbored specifically 
+
+
+the G12C-variant of KRAS were even better than for patients with other KRAS mutations 
+
+
+(though this difference was not statistically significant). Even more jarring, and damaging for the 
+
+
+prospect of an ‘849/ICI combination, Merck also released data from its KEYNOTE-189 trial with 
+
+
+splits for KRAS mutational status. Comparing the results of the two trials, it’s apparent that in 
+
+
+KRAS-mutant NSCLC, chemotherapy is not synergistic with pembrolizumab. So even though 
+
+
+chemotherapy is clearly immuno-stimulating in non-KRAS-mutant tumors in the sense that it 
+
+
+makes the tumor more vulnerable to ICIs, in KRAS-mutant tumors that’s quite clearly not the 
+
+
+case. It might even be counterproductive.  
+
+
+
+
+
+Based on conversations with research oncologists and molecular biologists, the simple 
+
+
+explanation for this is that KRAS-mutants are already quite immunogenic. ICIs allow for the 
+
+
+immune system to kill tumor cells so effectively in KRAS-mutants, that the immune-stimulating 
+
+
+effects of chemotherapy are irrelevant. That’s exactly what we expect with the ‘849/ICI 
+
+
+combination. The Mirati and Amgen preclinical experiments show that ‘849 and ‘510m 
+
+
+respectively, altered the tumor-microenvironment in ways that made it susceptible to an ICI, but 
+
+
+real-life KRAS-mutant tumors are already susceptible to ICIs. A G12C inhibitor is not going to 
+
+
+change that by much. The preclinical results were an artifact of “turning a cold tumor hot” but 
+
+
+real KRAS-mutant NSCLC tumors are already scorching. 
+
+
+
+
+
+Beyond the underlying cancer-killing mechanisms, there’s another good reason to expect that 
+
+
+the G12C inhibitors will fail to synergize with ICIs: the only examples of ICI combinations that 
+
+
+have shown effective synergy have been in situations where the second drug is already 
+
+
+effective as a single agent. Chemotherapy is the obvious example, but there are several others, 
+
+
+including triplet therapy in BRAF-mutant melanoma, the combination of pembrolizumab and 
+
+
+RTK-inhibitor axitinib in metastatic renal cell carcinoma, and even combinations of ICI 
+
+
+modalities.22 In every single case, the drug that’s successfully combined with the ICI has 
+
+
+impressive single-agent efficacy on its own, which is not the case for ‘849 or ‘510. The rationale 
+
+
+for combining ‘849 with pembrolizumab basically comes down to the ability to shrink a 
+
+
+homogeneous tumor model in a mouse. It’s a tenuous proposition at best. 
+
+
+
+
+
+                                                
+22 For data on triplet therapy in melanoma, including the activity of the combination of dabrafenib and 
+
+
+trametinib in the absence of pembrolizumab, see Ascierto PA et al. Dabrafenib, trametinib and 
+
+
+pembrolizumab or placebo in BRAF-mutant melanoma. For data on the combination of axitinib and 
+
+
+pembrolizumab, see Rassy, E et al Tyrosine kinase inhibitors and immunotherapy combinations in renal 
+
+
+cell carcinoma. For data on the combination of Nivolumab, an ICI that targets PD-1, and ipilimumab, an 
+
+
+ICI that targets CTLA-4, see Larkin, J et al. Five-Year Survival with Combined Nivolumab and Ipilimumab 
+
+
+in Advanced Melanoma. 
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0923753420345506
+
+https://www.nature.com/articles/s41591-019-0448-9
+
+https://www.nature.com/articles/s41591-019-0448-9
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081462/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081462/
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1910836
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1910836
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 28 
+
+
+
+
+
+V. Sitravatinib is a Monotherapy Failure being Repurposed 
+
+
+into a Combination Failure 
+
+
+
+
+
+Sitravatinib is a “dirty TKI” (tyrosine kinase inhibitor) in the parlance of the oncology field. In 
+
+
+other words, it doesn’t target one particular RTK, but rather, it targets a few receptor tyrosine 
+
+
+kinases at once. RTKs are cell-surface receptors for all manner of different molecules that need 
+
+
+to make their way through the cell membrane and into the cell. As with KRAS inhibition, the goal 
+
+
+of inhibiting these RTKs is to stop oncogenic signaling at the root of tumor growth. At least that 
+
+
+was Mirati’s original rationale for sitravatinib.  
+
+
+
+
+
+From the start, though, the data on sitravatinib as a single-agent treatment in advanced cancer 
+
+
+patients was weak and even contradictory. In a Phase 1 trial in which 52 patients enrolled, 
+
+
+treatment was discontinued in 31 (60%) of them, 23 of which discontinued due to disease 
+
+
+progression. Of 32 evaluable patients, Mirati only registered 2 partial responses. It seems like 
+
+
+those responses were from patients in the 150mg-dose arm of the trial, but the poster that Mirati 
+
+
+presented at ASCO in 2016 leaves the reader confused as to whether there were 4 or 10 
+
+
+patients in that arm of the trial. That was the last waterfall plot Mirati ever showed for sitravatinib 
+
+
+as monotherapy in NSCLC. The only significant data update was through a press release in 
+
+
+early January, 2017, in which Mirati announced that of 4 evaluable NSCLC patients in its 
+
+
+sitravatinib Phase 1b trial, 2 demonstrated a partial response (1 confirmed) and the other two 
+
+
+demonstrated stable disease. Mirati announced an equity offering simultaneously. That was the 
+
+
+last meaningful data update on single-agent sitravatinib in NSCLC.  
+
+
+
+
+
+Single-agent Phase 1/1b data on sitravatinib in renal cell carcinoma patients was presented by 
+
+
+Mirati at ASCO in 2018. Of 29 enrolled patients, only 20 “had sufficient time on…assessments 
+
+
+for inclusion,” which, based on the swimmer curve was somewhere on the order of 4 weeks. Of 
+
+
+those 20 patients, 4 partial responses were recorded, and the majority of patients were off the 
+
+
+study before the 6-month mark. The clinical trial is no longer listed on Mirati’s website, so we 
+
+
+assume that Mirati just gave up.  
+
+
+
+
+
+The only other single-agent data that Mirati has released for sitravatinib is for patients with a 
+
+
+rare CBL mutation that has been theorized as a cause of solid-tumor cancers. At ESMO in 
+
+
+2018, Mirati showed a partial response in 2 of 8 evaluable patients, but most patients 
+
+
+demonstrated relatively rapid disease progression, and only 1 patient had remained on the 
+
+
+study at data cutoff. In Mirati’s recently released 10-K for 2019, all mention of sitravatinib as a 
+
+
+single agent drug candidate was dropped.  
+
+
+
+
+
+In mid-2017, with single-agent trials not going anywhere, Mirati began to repurpose sitravatinib 
+
+
+as an “immuno-oncology agent.” Instead of inhibiting faulty RTK signaling responsible for driving 
+
+
+tumor growth (which failed), sitravatinib would inhibit the same exact RTKs, but for a different 
+
+
+reason: these same RTKs – coincidentally – happen to suppress immune activity that could 
+
+
+
+https://www.mirati.com/wp-content/uploads/2019/10/20160603_A-First-in-Human-Phase-1-Study-of-Receptor-Tyrosine-Kinase-RTK-Inhibitor-MGCD516-in-Patients-with-Advanced-Solid-Tumors.pdf
+
+https://ir.mirati.com/news-releases/news-details/2017/Mirati-Therapeutics-Provides-Update-On-Glesatinib-And-Sitravatinib-Clinical-Trials-And-Pipeline-Programs/default.aspx
+
+http://www.mirati.com/wp-content/uploads/2019/10/20180601_AB_4568_ASCO2018_516-001web.pdf
+
+https://www.mirati.com/clinical-mirati-sponsored/
+
+https://www.mirati.com/wp-content/uploads/2020/02/20180920_ESMO-2018-408O-Sitravatinib-demonstrates-activity-in-patients-with-novel-genetic-alterations-that-inactivate-CBL.-Dr-Bazhenova_20Sep2018.pdf
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 29 
+
+
+
+
+
+otherwise be harnessed by ICIs to work against the tumor. Blocking these RTKs in patients that 
+
+
+have progressed on immune checkpoint inhibitors could potentially restore the efficacy of 
+
+
+checkpoint inhibition. 
+
+
+
+
+
+To test this hypothesis, Mirati began a Phase 2 trial enrolling patients “whose most recent 
+
+
+treatment must have included a checkpoint inhibitor with the result of progression of disease on 
+
+
+or after treatment.” These patients would be treated with a combination of sitravatinib and 
+
+
+nivolumab, an immune checkpoint inhibitor sold by Bristol-Myers Squibb. The latest swimmer 
+
+
+and waterfall plots disclosed by Mirati are displayed below: 
+
+
+
+
+
+Sitravatinib data in 2L NSCLC ESMO 2018 (data cutoff 8/27/2018) 
+ 
+
+
+
+
+
+
+
+
+Source: Mirati presentation at ESMO 2018 (September 21st, 2018, data cutoff is 8/27/2018) 
+ 
+
+
+ 
+
+
+
+https://www.mirati.com/wp-content/uploads/2020/02/20180921_ESMO-2018-MRTX-500-Stage-2-Enrollment-Complete-Sitravatinib-in-Combination-with-Nivolumab-in-NSCLC_21Sep2018.pdf
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 30 
+
+
+
+
+
+It’s hard to know where to begin with this data: 
+
+
+
+
+
+ The confirmed response rate was a very weak 20% (11 of 56 patients). This is an 
+
+
+important data point because in the current Phase 3 that Mirati is running, the sitravatinib 
+
+
+and nivolumab combination is going up against docetaxel in ICI-refractory patients. 
+
+
+Mirati’s contention is that while a 20% response rate isn’t great, it’s better than the 
+
+
+response rate seen in second-line patients treated with docetaxel, which Mirati pegs at 
+
+
+either 7-11% or 9-13% (Mirati uses different ranges in different investor presentations). 
+
+
+Remarkably, the sources Mirati draws upon for this data are a) other biotech companies’ 
+
+
+corporate presentations23 or b) clinical literature that measures docetaxel responses in 
+
+
+patients who were previously treated with platinum doublet chemotherapy. The latter is 
+
+
+deeply misleading, as it’s widely understood that docetaxel in ICI-refractory patients 
+
+
+results in significantly higher response rates than in chemo-refractory patients. These 
+
+
+studies surveying this are retrospective, but they peg the response rate to docetaxel in 
+
+
+ICI-refractory patients in the 25-40% range, which is significantly better than what Mirati 
+
+
+is claiming for sitravatinib.24 The comparisons made by Mirati are useless at best and 
+
+
+disingenuous at worst. 
+
+
+
+
+
+ In the corporate presentations Mirati has published since the 2018 presentation of the 
+
+
+above plots, the company has claimed that based on this data, the Kaplan-Meier 
+
+
+estimate for median duration of response was 9.2 months, the estimate for progression-
+
+
+free survival (PFS) was 6.8 months, and the estimate for overall survival (OS) was 15.1 
+
+
+months. It’s difficult to take these estimates seriously. The KM-estimated DOR of 9.2 
+
+
+months comes from data in 11 patients that demonstrated partial responses, including 7 
+
+
+patients that were on the study for 3 months or less. The “estimate” has such a wide 
+
+
+degree of error, that Mirati didn’t bother attaching a confidence interval to it. Similarly, 
+
+
+the OS estimate of 15.1 months is hardly believable: 84% (47/56 patients) of evaluable 
+
+
+patients hadn’t yet made it to 6 months, and 53% of those (25/47) were no longer on the 
+
+
+study at all. Mirati also failed to explain why over half of patients dropped out: clearly, 
+
+
+some suffered disease progression, but it looks like 23 patients that had responded or 
+
+
+had stable disease also dropped out, and some of them quite early on.  
+
+
+
+
+
+                                                
+23 In an investor presentation that’s dated “November, 2018” and no longer on Mirati’s website, the 
+
+
+company suggests that the ORR for Docetaxel in “checkpoint refractory patients” is 7-11%, and 
+
+
+references a “Syndax corporate presentation” in the footnotes. 
+24 See, e.g., Leger, PD et al. Response to salvage chemotherapy following exposure to immune 
+
+
+checkpoint inhibitors in patients with non-small cell lung cancer or Schvartsman, G et al. Response rates 
+
+
+to single-agent chemotherapy after exposure to immune checkpoint inhibitors in advanced NSCLC. For a 
+
+
+discussion of the underlying mechanism of this phenomenon, see Hadash-Bengad, R et al. 
+
+
+Immunotherapy Potentiates the Effect of Chemotherapy in Metastatic Melanoma—A Retrospective Study 
+
+
+
+https://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.9084
+
+https://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.9084
+
+https://www.lungcancerjournal.info/article/S0169-5002(17)30433-6/abstract
+
+https://www.lungcancerjournal.info/article/S0169-5002(17)30433-6/abstract
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033746/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 31 
+
+
+
+
+
+Besides the non-credible end-point estimates – none of which have been updated in about two 
+
+
+years – and the completely misinformative comparisons to docetaxel, the swimmer and waterfall 
+
+
+plots seem to point to a very sloppy trial: 
+
+
+ Two patients with disease progression remained on the trial, contrary to oncologic 
+
+
+practice. 
+
+
+ One patient saw an unconfirmed response at 12 weeks even though they dropped out of 
+
+
+the trial at about 8 weeks. Another unconfirmed response, labeled as “will not be 
+
+
+confirmed” was still on the study as of data cutoff. Generally, an inability to confirm a 
+
+
+response is a function of disease progression, which should be labeled as such. 
+
+
+ Per the trial protocol, disease assessment scans were to be made every 8 weeks, but at 
+
+
+least two responders – significant given the low response rate – weren’t scanned until 
+
+
+28-30 weeks. 
+
+
+ 30 of 56 patients were no longer on the study, but of those, only 6 demonstrated disease 
+
+
+progression. There’s no word on what happened to the other 24 patients. Mirati does 
+
+
+disclose that 12 patients discontinued study treatment due to toxicity, but that’s from the 
+
+
+pool of 70 enrolled patients rather than the 56 patients plotted on the graphs. Mirati also 
+
+
+disclosed that there were 65 evaluable patients so it’s not clear only 56 patients were 
+
+
+plotted.  
+
+
+
+
+
+Potentially even more suspicious than any of the above is the fact that Mirati has never updated 
+
+
+this information since the 2018 ESMO conference. If those fragile Kaplan-Meier estimates could 
+
+
+have been updated with solid data, we expect that Mirati would have released that by now. 
+
+
+Instead, the company has diverted investor attention to a Phase 3 trial in which ICI-refractory 
+
+
+patients will be given either docetaxel or the sitravatinib+nivolumab combination. We think the 
+
+
+only thing to come out of this trial will be quality prospective data on the efficacy of docetaxel in 
+
+
+ICI-refractory patients. Mirati, too, doesn’t seem very confident. The company initially designed 
+
+
+the trial to report an interim analysis at the end of 2020 in which superior outcomes on an ORR 
+
+
+endpoint would serve as the basis for accelerated approval. In January, the company dropped 
+
+
+that interim target and renamed its year-end 2021 “primary analysis” of overall survival as an 
+
+
+“interim analysis with potential for full approval.” We believe that’s just posturing – any 
+
+
+accelerated approval would anyway have been contingent on the development of the data. The 
+
+
+reason they dropped the interim data readout is probably because they didn’t think it would be 
+
+
+very flattering. Finally, in a recent meeting with analysts from Oppenheimer, Mirati suggested 
+
+
+that sitravatinib may be impacted by a COVID-19-related reduced patient enrollment in its 
+
+
+Phase 3 trial.25 Somehow, Mirati also announced that they mitigated that risk with the ‘849 trial.  
+
+
+
+
+
+We think that the combination of sitravatinib with an ICI is a charade, an attempt to salvage a 
+
+
+drug that’s proven mostly worthless as a single agent. The ex-post rationalization of the 
+
+
+immuno-restorative effect of a multi-kinase inhibitor is a valiant effort, but sitravatinib is the latest 
+
+
+in a long list of multi-kinase inhibitors, and if the logic of resuscitating the response to ICIs – 
+
+
+                                                
+25 March 30th note from Oppenheimer: “Key Takeaways from Discussion with Management”
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 32 
+
+
+
+
+
+literally reversing resistance to immune checkpoint inhibition – was even remotely compelling, it 
+
+
+would have gained traction long ago. We expect that sitravatinib will soon join glesatinib and 
+
+
+mocetinostat – two other compounds that Mirati has touted over the years but which, “in light of 
+
+
+superior investment opportunities,” were quietly dropped. In the context of all the noise being 
+
+
+made in the KRAS space, sitravatinib looks like it will soon follow.  
+
+
+
+
+
+VI. Conclusion 
+
+
+
+
+
+Mirati first catapulted to the status of a billion-dollar biotech on the back of excitement over 
+
+
+sitravatinib, which has largely turned out to be a mirage: almost all prospect of its single agent 
+
+
+potential has evaporated, and the combination with checkpoint inhibition in checkpoint-refractory 
+
+
+patients is an attempt that looks more like a diversion than a legitimate therapeutic candidate 
+
+
+with a scientific rationale. 
+
+
+
+
+
+Most of Mirati’s $4.6bn valuation now is tied to MRTX-849, a KRASG12C inhibitor with a “$7 
+
+
+billion market opportunity” according to the company. But the total addressable market (TAM) 
+
+
+numbers that Mirati is throwing around are laughable. For one, they assume a patient 
+
+
+population that includes first line treatment. The only way ‘849 will come close to first line 
+
+
+treatment is if it somehow gets approved in combination with checkpoint inhibition, and as we’ve 
+
+
+explained in detail, the odds of that happening are close to zero. Mirati’s absurd TAM 
+
+
+proclamation also assumes a duration of treatment that’s about 9 months, which is delusional 
+
+
+considering that even in patients that respond to ‘849 treatment, the duration of response is just 
+
+
+a few months. The TAM for second line treatment in KRASG12C-mutant NSCLC and CRC is, at 
+
+
+best, $600-800 million.  
+
+
+
+
+
+Even if MRTX-849 gets approved for this indication in the far future (after a real Phase 3 trial), 
+
+
+its market share is unlikely to be very high. AMG-510 will be first to market and have Amgen’s 
+
+
+marketing muscle behind it, while J&J and Lily also have their own G12C inhibitors in the clinic. 
+
+
+Meanwhile, KRAS inhibitors with more carefully considered MOAs have also entered the clinic. 
+
+
+These include Boehringer-Ingelheim’s BI-1701963, which blocks the activation of KRAS by 
+
+
+RTKs, thus accounting for some of the adaptive resistance mechanisms that challenge G12C 
+
+
+inhibitors like ‘849. In the unlikely event that KRAS inhibitors are found to durably improve 
+
+
+patient outcomes, approaches like BI’s, and Revolution’s RAS(ON) compounds, are likely to win 
+
+
+out over those of Mirati’s, as their activity encompasses multiple nodes in the KRAS-mutant 
+
+
+molecular pathways in a single compound. Because of their more extensive activity, these 
+
+
+approaches also lend themselves to more effective combination with other targeted therapies. 
+
+
+As one research oncologist told us, the more broadly a drug can attack the oncogenic 
+
+
+pathways, the more likely it is to succeed, and ‘849 is as narrowly targeted as can be. 
+
+
+
+
+
+Beyond ‘849, there’s not much else in Mirati’s pipeline. The company claims that they have a 
+
+
+program that addresses a different KRAS mutation, G12D. But they also said that they’d have a 
+
+
+
+https://www.inoncology.com/compounds/investigational/sos1kras-inhibitor
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 33 
+
+
+
+
+
+lead candidate molecule identified in the fourth quarter of 2019, and all we’ve heard from them 
+
+
+since is that they just started IND-enabling studies. Considering that the clinical and preclinical 
+
+
+literature have been utterly devoid of a G12D inhibition mechanism, and that it took seven years 
+
+
+to get from a G12C inhibition mechanism to an actual drug candidate, we’re skeptical. 
+
+
+
+
+
+Mirati’s opportunity set is therefore best described as an extremely low-percentage chance of 
+
+
+attaining a low-percentage share of a $600-800 million market circa 2025. What’s that worth 
+
+
+right now? A small fraction of $4.6 billion. Investors who have gambled on the M&A prospects of 
+
+
+what amounts to a single dead-end compound will soon find out they’re on the wrong path.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 34 
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale") have short positions in the stock of Mirati Therapeutics, Inc. (“MRTX”). 
+
+
+In addition, others that contributed research to this report and others that we have shared our 
+
+
+research with (collectively with Kerrisdale, the “Authors”) likewise may have short positions in 
+
+
+the stock of MRTX. The Authors stand to realize gains in the event that the price of the stock 
+
+
+decreases. Following publication of the report, the Authors may transact in the securities of the 
+
+
+company covered herein. All content in this report represent the opinions of Kerrisdale. The 
+
+
+Authors have obtained all information herein from sources they believe to be accurate and 
+
+
+reliable. However, such information is presented “as is,” without warranty of any kind – whether 
+
+
+express or implied. The Authors make no representation, express or implied, as to the accuracy, 
+
+
+timeliness, or completeness of any such information or with regard to the results obtained from 
+
+
+its use. All expressions of opinion are subject to change without notice, and the Authors do not 
+
+
+undertake to update or supplement this report or any information contained herein. This report is 
+
+
+not a recommendation to short the shares of any company, including MRTX, and is only a 
+
+
+discussion of why Kerrisdale is short MRTX. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+
+
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of MRTX and stand to potentially realize gains 
+
+
+in the event that the market valuation of the company’s common equity is lower than prior to the 
+
+
+original publication date. These affiliates, officers, and individuals shall have no obligation to 
+
+
+inform any investor or viewer of this report about their historical, current, and future trading
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 35 
+
+
+
+
+
+activities. In addition, the Authors may benefit from any change in the valuation of any other 
+
+
+companies, securities, or commodities discussed in this document. Analysts who prepared this 
+
+
+report are compensated based upon (among other factors) the overall profitability of the 
+
+
+Authors’ operations and their affiliates. The compensation structure for the Authors’ analysts is 
+
+
+generally a derivative of their effectiveness in generating and communicating new investment 
+
+
+ideas and the performance of recommended strategies for the Authors. This could represent a 
+
+
+potential conflict of interest in the statements and opinions in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

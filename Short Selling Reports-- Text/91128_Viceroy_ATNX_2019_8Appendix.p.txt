@@ -1,0 +1,2147 @@
+Case No. 19-cv-00603 (APM)
+UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+
+Athenex Inc. v. Azar
+Decided Aug 1, 2019
+
+
+Amit P. Mehta United States District Court Judge
+
+
+MEMORANDUM OPINION
+
+
+I. INTRODUCTION
+In 2013, Congress added Section 503B to the
+Food, Drug, and Cosmetic Act, creating a new
+category of drug manufacturer known as an
+"outsourcing facility." Such facilities are permitted
+to sell large quantities of compounded drugs
+directly to hospitals and health care professionals
+without receiving premarket approval from the
+Food and Drug Administration ("FDA"), so long
+as the facility satisfies certain statutory
+requirements. One such requirement concerns
+when an outsourcing facility can use a "bulk drug
+substance"—that is, a drug's active ingredient—to
+compound a drug product. In such cases, FDA
+must declare there to be a "clinical need" for the
+"bulk drug substance" as a precondition to
+compounding with such substance.
+
+
+Plaintiffs presently operate an outsourcing facility
+that produces a drug product using the bulk drug
+substance vasopressin. On March 4, 2019, FDA
+announced that vasopressin is not a "bulk drug
+substance for which there is a clinical need"
+because already available on the market is an
+FDA-approved drug that could be used to meet the
+very patient needs that Plaintiffs claim make it
+necessary to bulk compound using vasopressin.
+FDA's decision, if valid, forecloses Plaintiffs from
+selling their product. *22
+
+
+Plaintiffs filed this action challenging FDA's
+refusal to place vasopressin on the Section 503B
+"clinical need" list. They contend that FDA's
+inquiry improperly took the availability of a
+
+
+branded drug product into account when assessing
+"clinical need." Instead, Plaintiffs argue, the
+"clinical need" inquiry should be confined to
+simply asking whether there is a therapeutic use
+for the bulk drug substance, and vasopressin easily
+meets that standard. Alternatively, Plaintiffs
+maintain that, even under FDA's reading of
+"clinical need," vasopressin qualifies.
+
+
+The court finds that FDA's method of determining
+whether there is a "clinical need" for a bulk drug
+substance gives effect to the unambiguously
+expressed intent of Congress. The court also
+concludes that FDA's exclusion of vasopressin
+from the "clinical need" list was not arbitrary and
+capricious. Accordingly, the court grants
+Defendants' Cross-Motions for Summary
+Judgment and denies Plaintiffs' Motion for
+Summary Judgment.
+
+
+II. BACKGROUND
+A. Factual Background
+
+
+1. Compounding
+
+
+In the pharmaceutical drug industry, the term
+"compounding" refers to the act of "combining,
+admixing, mixing, diluting, pooling,
+reconstituting, or otherwise altering of a drug or
+bulk drug substance to create a drug." 21 U.S.C. §
+353b(d)(1). The compounding of drugs performs
+"an important role for patients for whom an FDA-
+approved drug is not appropriate." Administrative
+Record, ECF No. 35 [hereinafter R.], at 89. Take
+the case of a person who is allergic to a particular
+ingredient in an FDA-approved drug. Through
+compounding, an approved drug can be
+reconstituted to eliminate the allergen while still
+
+
+1
+
+
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+delivering the drug's therapeutic benefit. Id.
+Another example is that certain patient
+populations may have difficulty ingesting a *3
+drug in its approved pill form. Such a drug can be
+compounded to liquid form for easier
+consumption.
+
+
+3
+
+
+Historically, local pharmacists have been
+responsible for compounding drugs, typically in
+small quantities to fill the needs of individual
+patients with valid prescriptions. That practice still
+exists today. FDA has not in the past, nor does it
+now, require local pharmacists to obtain regulatory
+approval before creating and selling a
+compounded drug product. See generally 21
+U.S.C. § 353a (Section 503A of the Food, Drug,
+and Cosmetic Act).
+
+
+Over time, however, a new kind of drug
+manufacturer emerged, one that compounded
+drugs in bulk quantities and marketed such drugs
+directly to hospitals and physicians. Even though
+they manufactured on a larger scale, these bulk
+compounders, like local pharmacists, were not
+required to subject their compounded drug
+products to "premarket review for safety,
+effectiveness, and quality" by FDA before
+bringing them to market. R. at 89.
+
+
+2. Drug Quality and Security Act
+
+
+The era of lightly regulated bulk compounding
+ended following a tragic event. In 2012, the New
+England Compounding Center ("NECC") in
+Framingham, Massachusetts, produced
+contaminated injections that caused a meningitis
+outbreak, killing more than 60 people and
+infecting hundreds more. See id. Within fourteen
+months of the NECC outbreak, Congress passed
+the Drug Quality and Security Act ("DQSA"),
+which added Section 503B to the Food, Drug, and
+Cosmetic Act ("FDCA"). Section 503B created a
+new category of drug maker called an
+"outsourcing facility." See 21 U.S.C. § 353b. An
+outsourcing facility may compound drug products
+in large quantities without obtaining a prescription
+for "an identified individual patient[ ]." Compare
+
+
+21 U.S.C. § 353b(d)(4)(C) with 21 U.S.C. § 353a.
+Such facilities are *4  permitted to sell bulk
+compounded drug products to health care
+practitioners and hospitals as "office stock," for
+providers to have available and to use on an as-
+needed basis. See R. at 52.
+
+
+4
+
+
+Section 503B also enhanced FDA's authority to
+regulate outsourcing facilities. An outsourcing
+facility remains exempt from the FDCA's
+premarket approval requirements and certain
+labeling and supply-chain requirements, but only
+if it satisfies eleven statutory criteria. See 21
+U.S.C. § 353b(a) (exempting compounded drugs
+from 21 U.S.C. §§ 352(f)(1), 355, and 360eee-1).
+A non-exhaustive list of these criteria include: (1)
+the manufactured drug is compounded at a facility
+that is subject to specified FDA licensing,
+reporting, fees, and inspection requirements, id. §§
+353b(a)(1), (a)(9), (a)(11), 353b(b); (2) the
+ingredients used in the compounding process meet
+national standards, id. § 353b(a)(3); (3) FDA has
+not deemed the drug to be unsafe, nor difficult to
+compound, id. §§ 353b(a)(4), (a)(6); (4) "the drug
+is not essentially a copy of one or more approved
+drugs," id. § 353b(a)(5); (5) the drug is labeled in
+accordance with statutory requirements, id. §
+353b(a)(10); and (6) the drug will not be sold or
+transferred by an entity other than the outsourcing
+facility, id. § 353b(a)(8).
+
+
+In addition to the foregoing requirements, Section
+503B authorizes two ways in which to bulk
+compound a drug. The first is known as "sterile-
+to-sterile compounding." Under this approach, an
+outsourcing facility starts with an FDA-approved
+drug, disassembles it, and alters it into a finished
+drug product for sale. The second method is
+known as "bulk compounding." That process starts
+with a "bulk drug substance," instead of an FDA-
+approved drug. A "bulk drug substance" is an
+ingredient that furnishes pharmacological activity
+and is incorporated into a finished drug product to
+achieve the intended purpose of compounding,
+such as removal of an *5  allergen.  The FDA
+requires that a drug must be "compounded in an
+
+
+5 1
+
+
+2
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353a-pharmacy-compounding
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353a-pharmacy-compounding
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-352-misbranded-drugs-and-devices
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N196720
+
+https://casetext.com/case/athenex-inc-v-azar
+outsourcing facility that does not compound using
+bulk drug substances . . . , unless the bulk drug
+substance appears on a list established by the
+Secretary identifying bulk drug substances for
+which there is a clinical need . . .," id. § 353b(a)(2)
+(A)(i), or "the drug compounded from such bulk
+drug substance appears on the drug shortage list,"
+id. at (A)(ii). Thus, an outsourcing facility's legal
+authority to compound using a bulk drug
+substance depends in the first instance on a listing
+determination by FDA.
+
+
+1 A bulk drug substance is defined as "any
+
+
+substance that is intended for incorporation
+
+
+into a finished drug product and is intended
+
+
+to furnish pharmacological activity or other
+
+
+direct effect in the diagnosis, cure,
+
+
+mitigation, treatment, or prevention of
+
+
+disease, or to affect the structure or any
+
+
+function of the body." 21 C.F.R. § 207.1
+
+
+(synonymous with "active pharmaceutical
+
+
+ingredient"). A finished drug product
+
+
+means "a finished dosage form (e.g., tablet,
+
+
+capsule, or solution) that contains at least
+
+
+one [bulk drug substance], generally, but
+
+
+not necessarily, in association with other
+
+
+ingredients in finished package form
+
+
+suitable for distribution to pharmacies,
+
+
+hospitals, or other sellers or dispensers of
+
+
+the drug products to patients or
+
+
+consumers." Id.
+
+
+3. FDA's Decision Not to List Vasopressin
+
+
+Plaintiffs Athenex Inc. and its affiliated entities
+operate an outsourcing facility that compounds
+with a bulk drug substance called vasopressin.
+Vasopressin "increase[s] blood pressure in adults
+with vasodilatory shock . . . who remain
+hypotensive despite fluids and catecholamines." R.
+at 27. As a result of the DQSA, Plaintiffs cannot
+continue to manufacture their bulk drug product
+using vasopressin, unless FDA places it on the
+"clinical need" list. The "drug shortage" list is not
+at issue in this case.
+
+
+Plaintiffs began the process to get vasopressin
+listed years ago. In 2013 and 2014, FDA issued a
+notice seeking nominations of bulk drug
+substances to place on the "clinical need" list, and
+FDA provided "more detailed information on what
+it needs to evaluate a nomination." See R. at 1, 4.
+In 2015, FDA again clarified the requirements for
+a nomination. See id. at 9-13. Fifteen months later,
+in January 2017, FDA issued an "interim
+regulatory policy" for the "clinical need" list. See
+id. at 34-45. The interim guidance placed each of
+the nominated substances into one of three
+categories: Category 1 substances signified those
+under evaluation; Category 2 included *6
+substances that raise significant safety risks; and
+Category 3 identified substances without adequate
+support for listing. See id. at 40-41. FDA
+classified vasopressin as a Category 1 substance.
+See id. at 45. For Category 1 substances, like
+vasopressin, FDA stated that it "d[id] not intend to
+take action against an outsourcing facility for
+compounding a drug using a bulk drug substance"
+during the interim review period. See id. at 43.
+Therefore, Plaintiffs continued to manufacture
+their bulk drug product while vasopressin
+remained under review for "clinical need" listing.
+
+
+6
+
+
+As of early 2018, FDA had yet to explain how it
+would determine whether a bulk drug substance
+would qualify for the "clinical need" list. That
+changed in March 2018, when the agency issued a
+draft guidance document titled, "Evaluation of
+Bulk Drug Substances Nominated for Use in
+Compounding Under Section 503B of the Federal
+Food, Drug, and Cosmetic Act." See id. at 46-67.
+The draft guidance stated that, if the bulk drug
+substance is a component of an FDA-approved
+drug product, the agency will consider two
+threshold questions. FDA framed the first question
+as follows:
+
+
+3
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/regulation/code-of-federal-regulations/title-21-food-and-drugs/chapter-i-food-and-drug-administration-department-of-health-and-human-services-continued/subchapter-c-drugs-general/part-207-requirements-for-foreign-and-domestic-establishment-registration-and-listing-for-human-drugs-including-drugs-that-are-regulated-under-a-biologics-license-application-and-animal-drugs-and-the-national-drug-code/subpart-a-general/2071-what-definitions-and-interpretations-of-terms-apply-to-this-part
+
+https://casetext.com/case/athenex-inc-v-azar
+Id. at 60. FDA explained the reason for asking this
+first question is that, "[u]nless an attribute of the
+FDA-approved drug is medically unsuitable for
+certain patients, and a drug product compounded
+using a bulk drug substance that is a component of
+the approved drug is intended to address that
+attribute, there is no clinical need to compound
+using that bulk drug substance." Id. As to the
+second threshold inquiry, FDA would ask: *7
+
+
+Id. at 60. If the answer to either threshold question
+is "no," FDA stated, it would not list the bulk drug
+substance. See id. If the agency determines the
+answer is "yes" to both questions—or if the bulk
+drug substance is not a component of an FDA-
+approved drug product—the agency would make a
+second inquiry. At this step, FDA would consider
+various additional factors, including the "physical
+and chemical characterization of the substance;
+any safety issues raised by the use of the substance
+in compounding; the available evidence of
+effectiveness or lack of effectiveness of a drug
+product compounded with the substance, if any
+such evidence exists; and current and historical
+use of the substance in compounded drug
+products." Id. As to this second-step inquiry, FDA
+said that it would "conduct a balancing test . . .
+under which [it] would consider each factor in the
+context of others and to balance them, on a
+substance-by-substance basis, to determine
+
+
+whether the substance is appropriate for inclusion"
+on the "clinical need" list. Id.
+
+
+Is there a basis to conclude, for each FDA-
+approved product that includes the
+nominated bulk drug substance, that (i) an
+attribute of the FDA-approved drug
+product makes it medically unsuitable to
+treat certain patients for a condition that
+FDA has identified for evaluation, and (ii)
+the drug product proposed to be
+compounded is intended to address that
+attribute? 
+
+
+7
+
+
+Is there a basis to conclude that the drug
+product proposed to be compounded must
+be produced from a bulk drug substance
+rather than from an FDA-approved drug
+product? 
+
+
+In August 2018, FDA announced its intention not
+to include vasopressin on the "clinical need" list.
+See id. at 109. The agency followed the two-step
+inquiry described in the draft guidance. FDA
+decided that vasopressin did not make it past the
+first step. See id. FDA explained that the
+nomination of vasopressin "[did] not identify an
+attribute of Vasostrict," the FDA-approved drug
+containing vasopressin, "that makes [Vasostrict]
+medically unsuitable for patients." Id. Thus, there
+was no "clinical need" to bulk compound with
+vasopressin. FDA also specifically rejected the
+need for vasopressin at a higher concentration than
+the approved product. Id.
+
+
+Plaintiffs submitted a comment challenging FDA's
+intent to exclude vasopressin. Plaintiffs argued
+that FDA had misinterpreted Section 503B and
+that, properly understood, the statute simply
+requires the agency to answer whether there is a
+"clinical need" for the bulk drug substance itself, 
+*8  without reference to the availability and
+suitability of an FDA-approved product. Id. at
+273-78. Thus, under Plaintiffs' reading,
+vasopressin meets the standard of "clinical need"
+simply because it has a demonstrated therapeutic
+value. Id. Alternatively, Plaintiffs maintained that,
+even under FDA's interpretation of Section 503B,
+vasopressin qualified for listing. Specifically,
+Plaintiffs asserted that Vasostrict was medically
+unsuitable to treat certain patients because: (1)
+Vasostrict contains chlorobutanol, an allergen for
+some patients, and (2) it is not available in ready-
+to-use form but must be diluted before use. See id.
+at 256. Plaintiffs' product, they insisted, filled
+these therapeutic gaps.
+
+
+8
+
+
+Rejecting both arguments, FDA issued a final
+notice on March 4, 2019, stating that it would not
+place vasopressin on the "clinical need" list. See
+id. at 1600-05. As to Plaintiffs' statutory
+interpretation argument, FDA adhered to its
+understanding that "Congress intended for the
+
+
+4
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/athenex-inc-v-azar
+Agency" as part of the "clinical need" assessment
+"to evaluate the need for outsourcing facilities to
+use the bulk drug substances to compound drug
+products." Id. at 69. With respect to Plaintiffs'
+alternative position, FDA found lacking the
+asserted needs for bulk-produced vasopressin.
+FDA observed that there is available a
+chlorobutanol-free formulation of Vasostrict, and
+Plaintiffs "fail[ed] to explain why that formulation
+would be medically unsuitable for patients who
+have an allergy to chlorobutanol." See id. at 1604.
+The agency also rejected the need for a ready-to-
+use product, concluding that Plaintiffs "d[id] not
+show that [Vasostrict], when not manufactured in
+the ready-to-use form, is medically unsuitable for
+certain patients." Id. at 1605. Furthermore, even if
+Vasostrict were medically unsuitable, the agency
+found that Plaintiffs did not "establish that drug
+products in the relevant concentrations, including
+ready-to-use products, cannot be prepared from
+[Vasostrict]"—and instead must be prepared using
+vasopressin. Id. Other commenters had noted that
+a different outsourcing facility, owned by
+PharMEDium, compounds a ready-to-use drug
+with *9  Vasostrict as its starting material. Id. at
+198. Consequently, FDA declined to find a
+"clinical need" for bulk-compounded vasopressin
+under Section 503B.
+
+
+9
+
+
+B. Procedural Background
+
+
+On March 4, 2019, the very same day that FDA
+announced its final decision not to list
+vasopressin, Plaintiffs filed suit under the
+Administrative Procedure Act ("APA") and moved
+for a temporary restraining order and preliminary
+injunction. See Compl. ECF No. 1 [hereinafter
+Compl.]; see also Pls.' Mot. for Temporary
+Restraining Order and Preliminary Injunction,
+ECF No. 2. FDA agreed to stay any enforcement
+action with respect to Plaintiffs' continued bulk
+compounding of vasopressin until the court issued
+a decision on the merits. See Joint Mot. to Enter
+Scheduling Order, ECF No. 19. The court
+therefore denied the motion and entered a
+scheduling order for summary judgment briefing.
+
+
+See Order, ECF No. 20; see also Order, ECF No.
+22. The court also permitted Par Sterile Products,
+LLC and Endo Par Innovation Company, LLC, the
+owners of Vasostrict, to intervene as defendants.
+See Order, ECF No. 20.
+
+
+Plaintiffs filed their Motion for Summary
+Judgment on March 18, 2019, see generally Pls.'
+Mot., ECF No. 23 [hereinafter Pls.' Mot.], and the
+Federal Defendants  and Defendants Par Sterile
+Products and Endo Par Innovation Company filed
+their motions on March 29, 2019, see FDA Def.'s
+Mot., ECF No. 25 [hereinafter FDA Mot.]; see
+also Par Defs.' Mot., ECF No. 27. The court held
+oral argument on the motions on April 30, 2019.
+
+
+2
+
+
+2 The Federal Defendants are Alex M. Azar,
+
+
+II, in his official capacity as Secretary of
+
+
+Health and Human Services; the U.S.
+
+
+Department of Health and Human
+
+
+Services; Scott Gottlieb, in his official
+
+
+capacity as Commissioner of FDA; and
+
+
+FDA.
+
+
+III. LEGAL STANDARD
+In cases that involve review of final agency action
+under the APA, the district court "sits as an
+appellate tribunal" and "the entire case on review
+is a question of law." Am. Biosci., Inc. v. *10
+Thompson, 269 F.3d 1077, 1083 (D.C. Cir. 2001)
+(internal quotations omitted). The court's review is
+limited to the administrative record, and "its role is
+limited to determining whether or not as a matter
+of law the evidence in the administrative record
+permitted the agency to make the decision it did."
+Philip Morris USA Inc. v. FDA, 202 F. Supp. 3d
+31, 45 (D.D.C. 2016) (cleaned up).
+
+
+10
+
+
+When reviewing an agency's interpretation of a
+statute, the court employs the two-step inquiry set
+out in Chevron U.S.A., Inc. v. Natural Resources
+Defense Council, 467 U.S. 837 (1984). See City of
+Arlington v. FCC, 569 U.S. 290, 296-97 (2013).
+At step one, the court must determine whether
+"Congress has directly spoken to the precise
+question at issue," and if Congress has, the court
+"must give effect to the unambiguously expressed
+
+
+5
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N196885
+
+https://casetext.com/case/american-bioscience-inc-v-thompson#p1083
+
+https://casetext.com/case/philip-morris-usa-inc-v-us-food-drug-admin-1#p45
+
+https://casetext.com/case/chevron-inc-v-natural-resources-defense-council-inc-american-iron-and-steel-institute-v-natural-resources-defense-council-inc-ruckelshaus-v-natural-resources-defense-council-inc
+
+https://casetext.com/case/city-of-arlington-v-fed-commcns-commn-8#p296
+
+https://casetext.com/case/athenex-inc-v-azar
+intent of Congress." Chevron, 467 U.S. at 842-43.
+The court must "employ the traditional tools of
+statutory construction to interpret the statute and
+to resolve any ambiguities." Dist. of Columbia v.
+Dep't of Labor, 819 F.3d 444, 449 (D.C. Cir.
+2016). It must analyze "the language itself, the
+specific context in which that language is used,
+and the broader context of the statute as a whole."
+Robinson v. Shell Oil Co., 519 U.S. 337, 341
+(1997). Furthermore, for a plaintiff to prevail
+under Chevron step one, it "must do more than
+offer a reasonable or, even the best, interpretation;
+it must show the statute unambiguously forecloses
+the [agency's] interpretation." Village of
+Barrington v. Surface Transp. Bd., 636 F.3d 650,
+661 (D.C. Cir. 2011) (emphasis in original).
+
+
+If Congress has not spoken directly to the issue—
+because "the statute is silent or ambiguous"—the
+court, at Chevron step two, must side with the
+agency if its answer "is based on a permissible
+construction of the statute." Chevron, 467 U.S. at
+843. An agency receives deference at Chevron
+step two if it has "offered a reasoned explanation
+for why it chose [its] interpretation." Village of
+Barrington, 636 F.3d at 660. *1111
+
+
+IV. DISCUSSION
+A. Chevron Step One
+
+
+1. The Provision's Plain Meaning
+
+
+The court starts with the "language itself."
+Robinson, 519 U.S. at 341. The disputed portion
+of Section 503B requires "the drug [to be]
+compounded in an outsourcing facility that does
+not compound using bulk drug substances . . .
+unless the bulk drug substance appears on a list
+established by the Secretary identifying bulk drug
+substances for which there is a clinical need . . . ."
+21 U.S.C. § 353b(a)(i). Plaintiffs interpret the
+phrase "bulk drug substances for which there is a
+clinical need" to require FDA to focus exclusively
+on the bulk drug substance without looking to
+"which branded drugs exist at the time." See Pls.'
+Mot., Pls.' Mem., ECF No. 23-1 [hereinafter Pls.'
+Mem.], at 18. Plaintiffs reason that because
+
+
+"clinical need" modifies "bulk drug substance,"
+FDA must ask only whether there is a clinical
+need for vasopressin, i.e., whether vasopressin is
+needed for patient treatment, and nothing more.
+See id. at 15-17. By that standard, Plaintiffs
+maintain, vasopressin easily qualifies, as
+evidenced by the fact that it is an active ingredient
+in an FDA-approved drug. See id. at 18; see also
+Compl. ¶ 54. Defendants, on the other hand,
+understand the provision to require FDA to
+consider whether a finished bulk drug product
+containing vasopressin is necessary relative to
+FDA-approved products containing vasopressin.
+See FDA Mot., FDA Mem., ECF No. 25-1
+[hereinafter FDA Mem.], at 17-18.
+
+
+The term "clinical need" does not lend itself to a
+straightforward reading. It is not defined in the
+FDCA. Nor does it appear anywhere else in the
+United States Code. Turning to the dictionary for
+guidance, "clinical" means "relating to the
+observation and treatment of actual patients rather
+than theoretical or laboratory studies," OXFORD
+DICTIONARY,  and "need" means *12
+"circumstances in which something is necessary;
+necessity," OXFORD DICTIONARY.  Thus,
+Congress required FDA to determine whether a
+bulk drug substance is "necessary" for the
+"treatment of actual patients." That question,
+however, begs another one: "Necessary" relative
+to what? Whether something is "necessary" cannot
+be determined in a vacuum. The presence or
+absence of "need" must be measured against some
+point of reference. Is vasopressin "necessary" as a
+bulk drug substance in the sense that physicians
+"need" it to treat patients? The answer is "yes."
+Vasopressin has therapeutic value for patients and
+therefore it is "needed" for treatment. On the other
+hand, is vasopressin "necessary" as a component
+of a bulk drug product such that, without it,
+physicians would be unable to treat patients? The
+answer is "no." The FDA-approved drug
+Vasostrict can serve the same clinical purpose as
+
+
+312
+
+
+4
+
+
+6
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/chevron-inc-v-natural-resources-defense-council-inc-american-iron-and-steel-institute-v-natural-resources-defense-council-inc-ruckelshaus-v-natural-resources-defense-council-inc#p842
+
+https://casetext.com/case/dist-of-columbia-v-dept-of-labor-2#p449
+
+https://casetext.com/case/robinson-v-shell-oil-co#p341
+
+https://casetext.com/case/village-of-barrington-v-surface-trans-bd#p661
+
+https://casetext.com/case/chevron-inc-v-natural-resources-defense-council-inc-american-iron-and-steel-institute-v-natural-resources-defense-council-inc-ruckelshaus-v-natural-resources-defense-council-inc#p843
+
+https://casetext.com/case/village-of-barrington-v-surface-trans-bd#p660
+
+https://casetext.com/case/robinson-v-shell-oil-co#p341
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197046
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197055
+
+https://casetext.com/case/athenex-inc-v-azar
+Plaintiffs' product. Thus, whether there is a
+"clinical need" for a particular bulk drug substance
+depends on how one frames the question.
+
+
+3 https://en.oxforddictionaries.com/definition
+
+
+/clinical (last visited July 31, 2019).
+
+
+4 https://en.oxforddictionaries.com/definition
+
+
+/need (last visited July 31, 2019).
+
+
+To address this ambiguity, the court looks to the
+statutory purpose of the term "clinical need."
+United States v. Cordova, 806 F.3d 1085, 1099
+(D.C. Cir. 2015). Congress plainly thought that
+there are some bulk drug substances for which
+there is a "clinical need" and others for which
+there is not. Otherwise, why else would Congress
+direct FDA to answer the question? Congress
+therefore meant for the "clinical need" inquiry to
+perform a sorting function. FDA's understanding
+of "clinical need" carries out this purpose;
+Plaintiffs' does not. This becomes clear when a
+bulk drug substance is thought of as an active
+pharmaceutical ingredient. See 21 C.F.R. § 207.1
+(defining "bulk drug substance" the same as
+"active pharmaceutical ingredient"). An "active
+pharmaceutical ingredient" is "any substance that
+is intended for incorporation into a finished drug
+product and is intended to furnish pharmacological
+activity or other direct effect in the diagnosis,
+cure, mitigation, treatment, or prevention of
+disease, or to affect the structure or any function
+of *13  the body." Id. Under Plaintiffs' reading,
+there always will be a "clinical need" for any
+compoundable active pharmaceutical ingredient
+because, by definition, such an ingredient is one
+that "furnishes pharmacological activity" or effects
+"diagnosis, cure, mitigation, treatment, or
+prevention of disease." In other words, it delivers
+some therapeutic benefit. So, for example,
+Plaintiffs say, there is a "clinical need" for
+vasopressin because it is used to treat life-
+threatening and emergency conditions, such as
+vasodilatory shock, diabetes insipidus, and
+gastrointestinal bleeding. See Compl ¶¶ 3, 54. By
+the same logic, there is a "clinical need" for
+ibuprofen, because it is used to reduce fever and
+
+
+treat pain or inflammation. But reading "clinical
+need" in this way does not create a category of
+active pharmaceutical ingredients for which there
+is not a "clinical need." Only when the question
+considers the actual way in which the active
+pharmaceutical ingredient supplies a therapeutic
+benefit—by its administration as a finished drug
+product—does the inquiry produce the kind of
+categorization that Congress surely envisioned.
+
+
+13
+
+
+Plaintiffs balk at this analysis, arguing that the
+agency's framing of "clinical need" improperly
+replaces "bulk drug substance," as that term
+appears in Section 503B(a)(2)(A), with the term
+"compounded drug product." See Pls.' Reply
+Mem. Supporting Pls.' Mot. and Opp'n to Defs.'
+Cross-Mots., ECF No. 30 [hereinafter Pls.' Reply],
+at 9-11. More concretely, Plaintiffs argue that
+FDA's approach improperly focuses on
+vasopressin as incorporated into a drug product,
+and not strictly as a bulk drug substance. This
+construction, Plaintiffs argue, is not faithful to
+Section 503B's plain text. Id.
+
+
+To be sure, FDA's approach to "clinical need"
+involves considering the bulk drug substance as a
+finished product, and the term "finished product"
+does not appear in Section 503B(a)(2)(A). The
+court, however, must read a statute to give its
+words the effect that Congress intended. See
+United States v. Braxtonbrown-Smith, 278 F.3d
+1348, 1352 (D.C. Cir. 2002) (stating *14  that the
+court "must avoid an interpretation that
+undermines congressional purpose considered as a
+whole when alternative interpretations consistent
+with the legislative purpose are available") (citing
+United States v. Am. Trucking Ass'ns, 310 U.S.
+534, 543 (1940) ("[E]ven when the plain meaning
+did not produce absurd results but merely an
+unreasonable one 'plainly at variance with the
+policy of the legislation as a whole' this Court has
+followed that purpose, rather than the literal
+words.") (citation omitted)). Here, as discussed,
+Plaintiffs' reading would produce the unreasonable
+result that there is a "clinical need" for every bulk
+drug substance because, by definition, a bulk drug
+
+
+14
+
+
+7
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/regulation/code-of-federal-regulations/title-21-food-and-drugs/chapter-i-food-and-drug-administration-department-of-health-and-human-services-continued/subchapter-c-drugs-general/part-207-requirements-for-foreign-and-domestic-establishment-registration-and-listing-for-human-drugs-including-drugs-that-are-regulated-under-a-biologics-license-application-and-animal-drugs-and-the-national-drug-code/subpart-a-general/2071-what-definitions-and-interpretations-of-terms-apply-to-this-part
+
+https://casetext.com/case/us-v-braxtonbrown-smith#p1352
+
+https://casetext.com/case/us-v-amer-trucking-assns#p543
+
+https://casetext.com/case/athenex-inc-v-azar
+substance is one "intended to furnish
+pharmacological activity or other direct effect in
+the diagnosis, cure, mitigation, treatment, or
+prevention of disease, or to affect the structure or
+any function of the body." 21 C.F.R. § 207.1.
+Plaintiffs' interpretation thus draws no actual
+distinction among bulk drug substances—there is
+a "clinical need" for all. Only when "clinical need"
+is assessed against the availability and suitability
+of an approved drug does the term perform the
+classifying function that Congress intended.
+Defendants' reading therefore faithfully adheres to
+Section 503B's text, while Plaintiffs' does not.
+
+
+2. The Provision in Context
+
+
+Viewing the term "clinical need" in its statutory
+context lends further support to Defendants'
+reading of Section 503B, and further frustrates
+Plaintiffs' interpretation. See King v. Burwell, 576
+U.S. ___, ___, 135 S. Ct. 2480, 2489 (2015)
+(stating "oftentimes the meaning—or ambiguity—
+of certain words or phrases may only become
+evident when placed in context") (citing FDA v.
+Brown & Williamson Tobacco Corp., 529 U.S.
+120, 132 (2000)) (internal quotations omitted). *1515
+
+
+a. Bulk compounding as an exception within an
+exception
+
+
+Critical to the court's interpretation of "clinical
+need" is how the subsection containing that
+provision, 503B(a)(2)(A)(i), lines up with other
+parts of Section 503B. The very first sentence of
+Section 503B exempts outsourcing facilities from
+the FDCA's new-drug approval process, certain
+labeling requirements, and certain supply chain
+requirements. See 21 U.S.C. § 353b(a) (exempting
+compounded drugs from 21 U.S.C. §§ 352(f)(1),
+355, and 360eee-1). Products made by outsourcing
+facilities are thus an exception to the FDCA's
+usual requirements for new drug products. Next,
+Section 503B(a)(2) requires outsourcing facilities
+to compound "in an outsourcing facility that does
+not compound using bulk drug substances,"
+generally, subject only to enumerated exceptions.
+21 U.S.C. § 353b(a)(2) (emphasis added). Section
+
+
+503B(a)(2)(A)(i)-(ii) specifies the exceptions,
+authorizing compounding with a bulk drug
+substance—but only if FDA lists the bulk drug
+substance on the "clinical need" list, or the drug
+compounded from the bulk drug substance appears
+on FDA's "drug shortage" list.
+
+
+As the above recitation shows, Congress viewed
+compounding with a bulk drug substance as an
+exception within an exception. Section 503B's
+initial exception exempts from the FDCA's new-
+drug requirements compounded drug products that
+start with an FDA-approved product. The
+exception to this exception is compounding with a
+bulk drug substance. See 21 U.S.C. § 353b(a)(2)
+(A)(i)-(ii) ("The drug is compounded in an
+outsourcing facility that does not compound using
+bulk drug substances . . . unless . . .) (emphasis
+added). Outsourcing facilities may resort to
+compounding with a bulk drug substance only if:
+FDA determines that there is a "clinical need" for
+the bulk drug substance, or FDA places the
+compounded drug product on its "drug shortage"
+list. As the terms "need" and "shortage" imply,
+Congress meant for FDA to approve compounding
+with a bulk drug substance not as a matter of
+course. See Gustafson v. *16  Alloyd Co., Inc., 513
+U.S. 561, 575 (1995) (stating the principle of
+construction that a "word is known by the
+company it keeps"). FDA's approach to assessing
+"clinical need" is consistent with this design.
+
+
+16
+
+
+Under Plaintiffs' interpretation, however, "clinical
+need" loses its character as an exception within an
+exception. According to Plaintiffs, a "clinical
+need" exists for a bulk drug substance if it has
+some therapeutic value. See Pls.' Mem. at 18. But,
+if that were so, then the term "clinical need" would
+not connote a modest "list" but an extensive
+catalog of active ingredients. According to
+Plaintiffs, that catalog would include every active
+ingredient contained in an FDA-approved drug
+plus active ingredients that are "not components of
+FDA-approved drugs . . . if their clinical need is
+shown some other way[.]" Id.  FDA could keep
+only "unproven, fringe ingredients" off the list. Id.
+
+
+5
+
+
+8
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/regulation/code-of-federal-regulations/title-21-food-and-drugs/chapter-i-food-and-drug-administration-department-of-health-and-human-services-continued/subchapter-c-drugs-general/part-207-requirements-for-foreign-and-domestic-establishment-registration-and-listing-for-human-drugs-including-drugs-that-are-regulated-under-a-biologics-license-application-and-animal-drugs-and-the-national-drug-code/subpart-a-general/2071-what-definitions-and-interpretations-of-terms-apply-to-this-part
+
+https://casetext.com/case/king-v-burwell-2#p2489
+
+https://casetext.com/case/fda-v-brown-williamson-tobacco-corp#p132
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-352-misbranded-drugs-and-devices
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/case/gustafson-v-alloyd-co#p575
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197186
+
+https://casetext.com/case/athenex-inc-v-azar
+Such a reading, however, swallows Congress's
+general directive that an outsourcing facility "not
+compound using bulk drug substances . . . ." 21
+U.S.C. § 353b(a)(2) (emphasis added). And it
+would mean that Congress authorized large-scale
+compounding with a wide array of bulk drug
+products through the "clinical need" list. If
+Congress had intended to sanction such an
+expansive practice, the court would have expected
+it to say so more clearly. See Whitman v. Am.
+Trucking Ass'ns, 531 U.S. 457, 468 (2001)
+("Congress, we have held, does not alter the
+fundamental details of a regulatory scheme in
+vague terms or ancillary provisions—it does not,
+one might say, hide elephants in mouseholes."). 
+*1717
+
+
+5 Plaintiffs never identify how many
+
+
+different bulk drug substances would
+
+
+appear on the "clinical need" list, if the
+
+
+court were to accept their reading. When
+
+
+FDA invited nominations for the "clinical
+
+
+need" list, commenters submitted 2,000
+
+
+bulk drug substances for consideration. See
+
+
+R. at 38. Defendants referred the court to
+
+
+the "Orange Book," a 1,500-page
+
+
+document listing every approved drug
+
+
+product under Section 505 of the Food,
+
+
+Drug, and Cosmetic Act. See U.S.
+
+
+DEPARTMENT OF HEALTH AND
+
+
+HUMAN SERVICES, APPROVED
+
+
+DRUG PRODUCTS (2019),
+
+
+https://www.fda.gov/media/71474/downloa
+
+
+d (last visited July 31, 2019). Whatever
+
+
+number of active ingredients the Orange
+
+
+Book recognizes, the total surely exceeds
+
+
+the number that Congress had in mind.
+
+
+Plaintiffs also point to the three additional criteria
+adjoined with the "clinical need" list: that the bulk
+drug substance must comply with a monograph,  if
+applicable; it must be manufactured at a properly
+registered establishment; and it must be
+accompanied by a valid certificate of analysis.
+Plaintiffs argue that the "clinical need" list, like
+the three additional criteria adjoining it, should
+focus exclusively on the bulk drug substance. See
+
+
+Pls.' Mem. at 20 (citing 21 U.S.C. § 353b(a)(2)
+(B)-(D)). This argument carries little weight
+because, like the other statutory criteria, the
+agency's interpretation places the bulk drug
+substance at the center of its "clinical need"
+analysis by determining whether the bulk drug
+substance will fill a gap in a clinical setting. That
+the agency takes the qualities of approved
+products into account to make that assessment
+does not result in a conflict between FDA's
+interpretation of "clinical need" and the other three
+criteria contained in Section 503B(a)(2)(B)-(D).
+
+
+6
+
+
+6 A "drug monograph" is a "publication that
+
+
+specifies for a drug (or class of related
+
+
+drugs) the kinds and amounts of
+
+
+ingredients it may contain, the conditions
+
+
+and limitations for which it may be offered,
+
+
+directions for use, warnings, and other
+
+
+information that its labeling must contain.
+
+
+The monograph may contain important
+
+
+information concerning interactions with
+
+
+other drugs." https://medical-
+
+
+dictionary.thefreedictionary.com/drug+mon
+
+
+ograph (last visited July 31, 2019).
+
+
+b. FDA's involvement in making the "clinical
+need" list
+
+
+Another feature of Section 503B that supports
+Defendants' interpretation is how Congress
+directed FDA to go about creating the "clinical
+need" list. FDA must: (1) "publish[ ] a notice in
+the Federal Register proposing bulk drug
+substances to be included on the list, including the
+rationale for such proposal"; (2) "provide[ ] a
+period of not less than 60 calendar days for
+comment on the notice"; and (3) "publish[ ] a
+notice in the Federal Register designating bulk
+drug substances for inclusion on the list." 21
+U.S.C. § 353b(a)(2)(A)(i)(I)-(III). These
+procedural prerequisites *18  make clear that
+Congress intended for FDA to apply its expertise
+in determining whether a bulk drug substance fills
+a "clinical need." Defendants' reading is consistent
+with Congress's intent.
+
+
+18
+
+
+9
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/case/whitman-v-american-trucking-associations#p468
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197209
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/case/athenex-inc-v-azar
+Plaintiffs' construction of Section 503B, on the
+other hand, would make the agency's expertise
+largely irrelevant to the listing process. As
+Plaintiffs would have it, FDA must classify any
+active ingredient in any approved drug as a bulk
+drug substance for which there is a "clinical need."
+See Pls.' Mem. at 18. If that is what Congress
+intended, then why would it have instructed FDA
+to announce its "rationale" for each proposed
+listing and subject the proposed listing to public
+scrutiny? Such notice and comment would be a
+meaningless exercise for the active pharmaceutical
+ingredients found in FDA-approved drugs.
+Congress clearly wanted FDA to play a
+substantive role in the listing process. Only
+Defendants' approach allows FDA to perform that
+function.
+
+
+Plaintiffs acknowledge that, under their reading,
+the "clinical need" listing of most bulk drug
+substances would not require FDA's expertise. See
+Hr'g Tr., ECF No. 36 [hereinafter Hr'g Tr.], at 26-
+27 (arguing that FDA will do "some work that's
+difficult and . . . some work that's easy"); see also
+Pls.' Reply at 27. Nevertheless, Plaintiffs contend
+that "[t]he fact that some cases are easy because
+the rationale is immediately apparent, and some
+are not does not make it pointless to use notice
+and comment for the whole enterprise, when that
+procedure can accommodate both without
+disrupting patient care." Pls.' Reply at 27. But that
+reading seems implausible. Congress could not
+have meant for FDA to proceed through notice
+and comment when listing all bulk drug
+substances, when that time-consuming and
+resource-intensive process would serve a
+meaningful purpose only for the rare, "difficult"
+case of a bulk drug substance that is not found in
+an FDA-approved drug product. Id. The court
+must assume that Congress did not impose a
+burdensome procedural requirement simply for the
+sake of imposing it. Cf. Franchise Tax Bd. of Cal.
+v. U.S. Postal Service, 467 U.S. 512, 524 (1984)
+(stating that there is "no reason to believe that
+Congress *19  intended to impose a meaningless
+
+
+procedural requirement . . ."); Prof'l Air Traffic
+Controllers Org. v. Fed. Labor Relations Auth.,
+685 F.2d 547, 563-64 (D.C. Cir. 1982) ("Congress
+did not intend to erect meaningless procedural
+barriers to effective agency action.").
+
+
+19
+
+
+Moreover, a related provision suggests that if
+Congress really wanted all active ingredients
+found in FDA-approved products to automatically
+appear on the "clinical need" list, it passed up a
+straightforward way to express that intent. Section
+503B's neighboring provision, Section 503A,
+permits traditional compounders, like licensed
+pharmacists, to compound "for an identified
+individual patient." 21 U.S.C. § 353a(a). For that
+practice, Congress required traditional
+compounders to use a "bulk drug substance" that
+"compl[ies] with the standards of an applicable"
+monograph; if such monograph does not exist,
+then the compounder may use "drug substances
+that are components of drugs approved by the
+Secretary"; and, if no monograph exists and the
+drug substance is not a component of an FDA-
+approved product, then the drug substance must
+"appear on a list developed by the Secretary
+through regulations issued by the Secretary . . . ."
+Id. § 353a(b)(1)(A)(i)(I)-(III). Section 503A thus
+spells out three different categories of bulk drug
+substances that can be compounded for an
+individual patient, only one of which requires
+FDA pre-approval.
+
+
+As this provision demonstrates, Congress knows
+how to permit compounding with drug substances
+found in safe and effective FDA-approved
+products, and it also knows how to define
+substances that must "appear on a list developed
+by the Secretary." Section 503B reflects the latter
+approach but not the former. Congress did not
+include in Section 503B, as it did in Section 503A,
+an allowance for outsourcing facilities to
+compound using bulk drug substances that either
+comply with the standards of an applicable
+monograph or "are components of drugs approved
+by the Secretary." Instead, Congress mandated an
+FDA listing before use of a bulk drug substance
+
+
+10
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/franchise-tax-board-of-california-v-usps#p524
+
+https://casetext.com/case/professional-air-traffic-controllers-organization-v-federal-labor-relations-authority#p563
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353a-pharmacy-compounding
+
+https://casetext.com/case/athenex-inc-v-azar
+for *20  mass compounding. This fundamental
+difference between Sections 503A and 503B
+supports Defendants' interpretation of "clinical
+need" as requiring more than a mere showing of a
+bulk drug substance's therapeutic value.
+
+
+20
+
+
+Plaintiffs dismiss the significance of the different
+text in Section 503A. They argue that the general
+absence of a pre-production notice-and-comment
+process in Section 503A (except in Section
+503A(b)(1)(A)(i)(III)) makes sense because it
+would be nonsensical to require a local pharmacist
+to await a rulemaking process by FDA before
+compounding a drug. By contrast, Plaintiffs insist,
+in the context of Section 503B "there is no reason
+not to use the default notice and comment
+procedure for all bulk drug substances in the
+context of 503B." Pls.' Reply at 27.
+
+
+This argument is unpersuasive for two reasons.
+First, it misses the point of the textual difference
+between the two provisions. If Congress wanted
+outsourcing facilities to manufacture using bulk
+drug substances already recognized in a drug
+product approved for safety and efficacy, it had an
+easy way to do so—it could have simply used the
+same text found in Section 503A in Section 503B.
+Instead, it created a new "clinical need" standard.
+The court must presume that this textual
+difference reflects a purposeful choice by
+Congress not to equate "clinical need" with
+Section 503A's standards. Second, Plaintiffs'
+argument does not explain why Congress would
+insist on a time-consuming notice-and-comment
+process for bulk drug substances found in drug
+products whose safety and efficacy are
+established. As discussed, no good purpose is
+served by requiring FDA to certify hundreds, if
+not thousands, of bulk drug substances already
+contained in approved drugs. Congress
+presumably would not require an agency to
+commit its resources to a perfunctory rulemaking
+process. The textual differences between Sections
+503A and 503B therefore support Defendants'
+reading of "clinical need." *2121
+
+
+c. Plaintiffs' interpretation renders the "drug
+shortage list" superfluous
+
+
+Yet another contextual feature of Section 503B
+bolsters Defendants' interpretation: the "drug
+shortage list." Congress allowed outsourcing
+facilities to compound with a bulk drug substance,
+without undergoing notice and comment, if the
+drug compounded from the bulk drug substance
+appears on the "drug shortage list in effect under
+section 356e of this title at the time of
+compounding, distribution, and dispensing." See
+21 U.S.C. § 353b(a)(2)(A)(ii). The drug shortage
+list predates the DQSA, and its requirements are
+codified in 21 U.S.C. § 356e. That provision
+directs the Secretary to maintain a list of drugs
+that are in short supply in the United States for
+various listed reasons, including regulatory delay,
+shortage of an active or inactive ingredient, delay
+in shipping of the drug, or demand increase for the
+drug. See id. § 356e. The list must include the
+name of the drug in shortage, its manufacturer, the
+reason for the shortage, and the estimated duration
+of the shortage. Id. § 356e(b).
+
+
+Plaintiffs' interpretation of "clinical need," if
+accepted, would violate a basic rule of statutory
+construction: "[E]very word and every provision is
+to be given effect and that none should needlessly
+be given an interpretation that causes it to
+duplicate another provision or to have no
+consequence." Nielsen v. Preap, 586 U.S. ___,
+___, 139 S. Ct. 954, 969 (2019) (cleaned up and
+citation omitted). Recall, under Plaintiffs'
+understanding of "clinical need," FDA would be
+required to list every bulk drug substance found in
+an FDA-approved drug. That list would be long. If
+the "clinical need" list were to contain hundreds of
+active ingredients, then the drug shortage list
+would have little or "no consequence." Id. Not
+because there would be no drug shortages. But
+because any active ingredient contained in a drug
+placed on the shortage list already is likely to
+appear on the "clinical need" list because of its
+therapeutic value. Stated differently, FDA rarely, if
+ever, would need to authorize compounding based
+
+
+11
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-356e-drug-shortage-list
+
+https://casetext.com/case/nielsen-v-preap-2#p969
+
+https://casetext.com/case/athenex-inc-v-azar
+*23
+
+
+21 U.S.C. § 353b(d)(2). As a result of the
+"essentially a copy" provision, unless the drug
+product appears on the shortage list, outsourcing
+facilities can compound using a bulk drug
+substance that is a component of an approved drug
+only if the bulk-compounded drug supplies to "an
+individual patient a clinical difference" from the
+approved drug. Id. Congress left it to medical
+practitioners to make the "clinical difference"
+determination. Id.
+
+
+on a drug shortage, because the *22  active
+ingredient contained in such a scarce drug already
+will be on the "clinical need" list and greenlighted
+for use. Thus, the statutory allowance for using a
+bulk drug substance based on drug shortage would
+serve little or no function under Plaintiffs'
+interpretation.
+
+
+22
+
+
+Plaintiffs respond that, under their reading of
+"clinical need," the drug shortage list still would
+have utility. For instance, there could be future
+drug product innovations where the component
+bulk drug substance is not yet placed on the
+clinical need list due to the required notice-and-
+comment period, but there is an immediate need
+for the drug itself due to shortage. See Hr'g Tr. at
+30-33. Is this scenario possible? Maybe. But it is
+doubtful that Congress intended for the drug-
+shortage listing to cover only outlier scenarios,
+such as when a drug manufacturer comes to
+market with a new FDA-approved product but
+does not produce enough of it to meet demand
+during the time period the product's active
+ingredient is under review for placement on the
+"clinical need" list. When Congress passed the
+DQSA, it understood the importance of the drug
+shortage list. Congress could not have not
+intended for the "clinical need" list to fully eclipse
+the drug shortage list, leaving the latter as a mere
+"backstop" to the former. See id. at 33.
+
+
+d. The "essentially a copy" provision
+
+
+To support their interpretation, Plaintiffs point to a
+provision that limits outsourcing facilities to
+producing a "[compounded] drug [that] is not
+essentially a copy of one or more approved drugs."
+See 21 U.S.C. § 353b(a)(5). The statute defines
+"essentially a copy of an approved drug" to mean:
+
+
+(A) a drug that is identical or nearly
+identical to an approved drug, or a
+marketed drug not subject to section
+353(b) of this title and not subject to
+approval in an application submitted under
+section 355 of this title, unless, in the case
+of an approved drug, the drug appears on
+the drug shortage list in effect under
+section 356e of this title at the time of
+compounding, distribution, and
+dispensing; or 
+
+
+23
+
+
+(B) a drug, a component of which is a bulk
+drug substance that is a component of an
+approved drug or a marketed drug that is
+not subject to section 353(b) of this title
+and not subject to approval in an
+application submitted under section 355 of
+this title, unless there is a change that
+produces for an individual patient a
+clinical difference, as determined by the
+prescribing practitioner, between the
+compounded drug and the comparable
+approved drug. 
+
+
+Plaintiffs argue that FDA's "clinical need"
+interpretation makes redundant the "essentially a
+copy" provision. They contend that the
+"essentially a copy" definition ensures that
+outsourcing facilities will not compound drug
+products that rival FDA-approved drugs, so the
+clinical need provision cannot fulfill the same
+purpose. See Pls.' Mem. at 22-26. By drawing a
+comparison to approved drugs during the "clinical
+
+
+12
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-356e-drug-shortage-list
+
+https://casetext.com/case/athenex-inc-v-azar
+need" inquiry, Plaintiffs maintain, FDA "disturbs
+the balance Congress struck when it made the
+policy decision of how best to account for the
+competing interest in encouraging the use of the
+drug approval process." See id. at 23. Defendants,
+on the other hand, assert that the "essentially a
+copy" provision is consistent with its "clinical
+need" interpretation. Their reading, they say,
+ensures that health practitioners will only use the
+compounded drug for patients who need the
+compounded drug to fill therapeutic gaps left by
+an FDA-approved drug. See Hr'g Tr. at 64.
+
+
+Plaintiffs are correct that the "essentially a copy"
+provision works to protect the new drug approval
+process and, by extension, provides a market
+advantage to FDA-approved drugs over those
+produced by outsourcing facilities. Compare R. at
+108 (FDA justifying "clinical need" *24
+interpretation to protect drug approval process)
+with FOOD AND DRUG ADMINISTRATION,
+COMPOUNDED DRUG PRODUCTS THAT
+ARE ESSENTIALLY COPIES OF APPROVED
+DRUG PRODUCTS UNDER 503B OF THE
+FEDERAL FOOD, DRUG, AND COSMETIC
+ACT: GUIDANCE FOR INDUSTRY 4 (January
+2018),
+https://www.fda.gov/media/98964/download (last
+visited July 31, 2019) [hereinafter Essential Copy
+Guidance] (FDA stating that the essentially a copy
+provision "protects the integrity and effectiveness
+of the new drug . . . approval process[]"). But the
+fact that FDA's method of determining "clinical
+need" furthers that same purpose is not fatal to the
+agency's interpretation. "In some cases,
+redundancy may reflect the broad purpose of a
+congressional statute." Nat'l Ass'n of Clean Water
+Agencies v. EPA, 734 F.3d 1115, 1126 (D.C. Cir.
+2013). Here, multiple provisions within Section
+503B reflect Congress's intent that bulk
+compounded drugs be used primarily to fill gaps
+left by FDA-approved drugs. Perhaps the clearest
+such expression is the general rule, discussed
+above, that outsourcing facilities "not compound
+using bulk drug substances . . . ." 21 U.S.C. §
+
+
+353b(a)(2). That rule creates a clear market
+advantage for approved drugs. Congress also
+required outsourcing facilities to sell their drug
+products directly to hospitals and physicians for
+use as "office stock," and expressly prohibited
+them from using wholesalers to make sales. Id. §
+353b(a)(8). Wholesalers are critical to the drug
+supply chain and cutting off that path of
+distribution limits an outsourcing facility's ability
+to sell its product. In short, like the "essentially a
+copy" provision, these other conditions constrain
+the commercial activities of outsourcing facilities
+relative to FDA-approved drug manufacturers.
+That FDA's understanding of "clinical need" has a
+similar market effect therefore does not conflict
+with Congress's overall design.
+
+
+24
+
+
+Moreover, FDA's method of determining "clinical
+need" easily co-exists with the "essentially a copy"
+provision. As a general rule, the "essentially a
+copy" provision prohibits *25  outsourcing
+facilities from producing a compounded drug "a
+component of which is a bulk drug substance that
+is a component of an approved drug." Id. §
+353b(d)(2)(B). In other words, a compounded
+drug cannot be made with a bulk drug substance if
+such substance already is contained in an
+approved product. The exception to that general
+rule is if the compounded drug entails a change
+from the approved product "that produces for an
+individual patient a clinical difference, as
+determined by the prescribing practitioner . . . ."
+Id. FDA's "clinical need" determination mirrors,
+but does not duplicate, the "essentially a copy"
+provision. It asks whether the bulk drug product
+fills a gap of medical unsuitability left by an
+approved drug and, if so, whether that gap cannot
+be filled by compounding with the approved drug.
+Thus, both the "essentially a copy" provision and
+FDA's "clinical need" inquiry are directed at
+identifying whether the compounded product is
+one that fills a therapeutic purpose unmet by the
+approved drug. The two provisions therefore
+complement each other in furthering the statutory
+purpose.
+
+
+25
+
+
+13
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/natl-assn-of-clean-water-agencies-v-envtl-prot-agency-2#p1126
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/statute/united-states-code/title-21-food-and-drugs/chapter-9-federal-food-drug-and-cosmetic-act/subchapter-v-drugs-and-devices/part-a-drugs-and-devices/section-353b-outsourcing-facilities
+
+https://casetext.com/case/athenex-inc-v-azar
+Plaintiffs complain that reading Section 503B in
+this way is impermissible because, through its pre-
+market "clinical need" inquiry, FDA is in effect
+making the "clinical difference" determination that
+the statute leaves to treatment providers. The
+agency is thus impermissibly regulating the
+practice of medicine, say Plaintiffs. See Pls.' Mem.
+at 27. Not so. Take the case of vasopressin. FDA's
+decision not to recognize a "clinical need" for
+vasopressin does not interfere with a physician's
+decision whether to treat a patient with the
+approved product, Vasostrict, or a compounded
+version of Vasostrict that meets a patient's
+individual need. FDA's vasopressin decision only
+regulates the type of drug that reaches the
+marketplace. Such a decision rests well within
+FDA's regulatory authority under the FDCA, and
+it does not intrude on the *26  practice of
+medicine.  See United States v. Evers, 643 F.2d
+1043, 1048 (5th Cir. 1981) ("[W]hile the [FDCA]
+was not intended to regulate the practice of
+medicine, it was obviously intended to control the
+availability of drugs for prescribing by
+physicians.").
+
+
+26
+7
+
+
+7 Relatedly, Plaintiffs argue that the agency's
+
+
+determination of "medical unsuitab[ility]"
+
+
+is an unlawful regulation of medicine. See
+
+
+Pls.' Reply at 33. But the inquiry focuses
+
+
+on whether the approved drug is unsuitable
+
+
+for a patient population; it does not make a
+
+
+clinical determination about a specific
+
+
+patient.
+
+
+* * *
+"A provision that may seem ambiguous in
+isolation is often clarified by the remainder of the
+statutory scheme . . . because only one of the
+permissible meanings produces a substantive
+effect that is compatible with the rest of the law."
+United Sav. Ass'n of Tex v. Timbers of Inwood
+Forest Assocs., Ltd., 484 U.S. 365, 371 (1988).
+Here, the broader structure of Section 503B, as
+well as its relationship to Section 503A, compel
+
+
+the court to conclude that FDA's interpretation of
+"clinical need" is the only interpretation
+"compatible with the rest of the law."
+
+
+e. Legislative History
+
+
+In addition to a statute's text and structure,
+legislative history is a relevant consideration at
+Chevron step one. See Sierra Club v. EPA, 551
+F.3d 1019, 1027 (D.C. Cir. 2008) ("Although
+Chevron step one analysis begins with the statute's
+text, the court must . . . exhaust the traditional
+tools of statutory construction, including
+examining the statute's legislative history . . . .")
+(internal quotation marks omitted). The legislative
+history for the DQSA is sparse. Neither chamber
+produced a committee report. Yet, no one disputes
+that the event that motivated Congress to enact the
+DQSA was the deadly meningitis outbreak caused
+by the contaminated injections produced by the
+New England Compounding Center ("NECC").
+See The Fungal Meningitis Outbreak: Could it
+have been Prevented? Before the Subcomm. on
+Oversight and Investigations of the H. Comm. on
+Energy and Commerce, 112  Cong. 181 (2012)
+[hereinafter House Hearing] (Chairman Stearns 
+*27  stating, "we convene this hearing . . . to
+examine the recent outbreak . . . linked to
+contaminated products made by [NECC] . . . the
+first question we all ask is, Could this have been
+prevented? . . . the answer appears to be yes"); see
+also Hr'g Tr. at 42; see also Compl. ¶ 17. NECC,
+and other compounders like it, had grown beyond
+the traditional notion of a local pharmacist
+compounding individual prescriptions. See House
+Hearing (Margaret Hamburg, former FDA
+Commissioner, stating "the industry has evolved
+well beyond the neighborhood pharmacist"). By
+amending the FDCA, Congress wished to
+strengthen federal regulatory authority over bulk
+compounders that produced drugs on a large scale
+that were not subject to the FDA's new-drug
+efficacy and safety standards.
+
+
+th
+
+
+27
+
+
+14
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197426
+
+https://casetext.com/case/united-states-v-evers#p1048
+
+https://casetext.com/case/united-savings-association-of-texas-v-timbers-of-inwood-forest-associates-ltd#p371
+
+https://casetext.com/case/sierra-club-v-epa-4#p1027
+
+https://casetext.com/case/athenex-inc-v-azar
+FDA's method of determining "clinical need"
+better comports with the DQSA's primary
+objective of protecting public safety. Plaintiffs'
+interpretation, if accepted, would substantially
+constrain FDA's judgment and expertise with
+respect to the "clinical need" list, and
+concomitantly would enable outsourcing facilities
+to compound using a wide array of bulk drug
+substances to create drug products that are not
+subject to any premarket efficacy or safety review.
+FDA's view, by contrast, grants the agency a more
+prominent role before a bulk compounded drug
+hits the market, and favors compounding with an
+FDA-approved product that has undergone
+rigorous premarket efficacy and safety review.
+FDA's approach better achieves the public health
+and safety objective that Congress had in mind
+when it passed the DQSA. Cf. Thompson v. W.
+States Med. Ctr., 535 U.S. 357, 369 (2002)
+("Preserving the effectiveness and integrity of the
+FDCA's new drug approval process is clearly an
+important governmental interest, and the
+Government has every reason to want as many
+drugs as possible to be subject to that approval
+process. The Government also has an important
+interest, however, in permitting the continuation of
+the practice of *28  compounding so that patients
+with particular needs may obtain medications
+suited to those needs.").
+
+
+28
+
+
+For their part, Plaintiffs rely on a comment by
+Senator Lamar Alexander that the DQSA was not
+intended to "limit access to quality compounded
+drugs for providers and patients or alter the
+practice of medicine." Pls.' Mem. at 19 (citing 159
+Cong. Rec. S8072 (daily ed. Nov. 18, 2013)). That
+general statement does not, however, carry the
+weight Plaintiffs attribute to it. In fact, right before
+making this statement, Senator Alexander said that
+"I want to make clear that all involved on this
+legislation have no intent of limiting patient or
+provider access to quality compounded drugs that
+fill a clinical need." 159 Cong. Rec. S8072
+(emphasis added). The Senator's statement leads
+
+
+the court right back to where it began—when is
+there a "clinical need" for a drug compounded
+from a bulk drug substance?
+
+
+* * *
+For the foregoing reasons, the court finds that
+Defendants prevail at Chevron step one. FDA's
+method of determining "clinical need" for a bulk
+drug substance by referring to the approved
+product is supported by the text, structure, and
+purposes of Section 503B.
+
+
+B. Chevron Step Two
+
+
+In the interest of completeness, the court proceeds
+to Chevron step two. Defendants also would
+prevail at Chevron step two, if the statute were to
+remain ambiguous after employing the traditional
+tools of statutory construction. For the reasons
+already discussed, FDA's interpretation of
+"clinical need" is "based on a permissible
+construction of the statute." Chevron, 467 U.S. at
+843.
+
+
+Further, as required to receive Chevron deference,
+the agency "offered a reasoned explanation for
+why it chose [its] interpretation." Village of
+Barrington, 636 F.3d at 660. In its *29  final notice
+excluding vasopressin, FDA explained that it
+formulated its methodology to avoid
+"unnecessarily expos[ing] patients to the risks
+associated with drug products that do not meet the
+standards applicable to FDA-approved drug
+products for safety, effectiveness, quality, and
+labeling and would undermine the drug approval
+process." R. at 108. FDA also explained that it
+sought to determine whether compounding must
+occur with a bulk drug substance, as opposed to
+the FDA-approved product, because the statute
+requires the FDA to "determine that there is a
+clinical need for outsourcing facilities to
+compound a drug product using the bulk drug
+substance." Id. (emphasis in original omitted).
+These explanations suffice to show that the agency
+had reasonable grounds for its construction of
+"clinical need."
+
+
+29
+
+
+15
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/thompson-v-western-states-medical-center#p369
+
+https://casetext.com/case/franchise-tax-board-of-california-v-usps#p843
+
+https://casetext.com/case/village-of-barrington-v-surface-trans-bd#p660
+
+https://casetext.com/case/athenex-inc-v-azar
+Plaintiffs offer no new arguments at Chevron step
+two that they did not raise at Chevron step one.
+See Pls.' Mem. at 28-29. Those arguments did not
+persuade the court at the first step, and they fare
+no better at the second step.
+
+
+C. FDA's Decision to Exclude Vasopressin from
+the "Clinical Need" List was Not Arbitrary and
+Capricious
+
+
+Alternatively, Plaintiffs challenge FDA's decision
+to exclude vasopressin from the "clinical need" list
+as arbitrary and capricious, even under the
+agency's approach to assessing "clinical need." See
+Pls.' Mem. at 30-37. Under the "narrow" arbitrary
+and capricious standard of review, the court may
+not "substitute its judgment for that of the
+agency," but must instead determine whether the
+agency "examine[d] the relevant data and
+articulate[d] a satisfactory explanation for its
+action including a rational connection between the
+facts found and the choice made." Motor Vehicle
+Mfrs. Ass'n of U.S., Inc. v. State Farm Mut. Auto.
+Ins. Co., 463 U.S. 29, 43 (1983) (internal
+quotation marks and citation omitted). An agency
+action is "arbitrary and capricious" and will be set
+aside if the agency "has relied on factors which
+Congress has not intended it to consider, entirely
+failed to consider an important aspect of the
+problem, offered an *30  explanation for its
+decision that runs counter to the evidence before
+the agency, or is so implausible that it could not be
+ascribed to a difference in view or the product of
+agency expertise." Id.
+
+
+30
+
+
+Plaintiffs contend that their vasopressin drug
+product meets a "clinical need" even under FDA's
+interpretation for two reasons. First, Plaintiffs
+argue that Vasostrict is medically unsuitable for
+certain patients because it contains the allergen
+chlorobutanol, thereby giving rise to a "clinical
+need." See Pls.' Mem. at 35-37. But in denying
+listing, FDA identified a chlorobutanol-free
+version of Vasostrict. R. 1604. It noted that
+vasopressin's sponsor had "fail[ed] to explain why
+that formulation would be medically unsuitable for
+
+
+patients who have an allergy to chlorobutanol." Id.
+Plaintiffs do not appear to dispute this agency
+finding, as they do not contest it in their reply
+brief. See generally Pls.' Reply. FDA's explanation
+satisfies the arbitrary and capricious standard.
+
+
+Second, Plaintiffs assert that their product is
+available in a ready-to-use, intravenous version,
+which offers safety benefits for patients relative to
+Vasostrict. To support this contention, Plaintiffs
+point out that vasopressin has been designated a
+"high alert" drug that presents a serious risk of
+patient harm from preparation or administration
+error. See Pls.' Mem. at 30-35; see also R. at 464.
+Their ready-to-use version, Plaintiffs claim, is
+safer than Vasostrict, which requires dilution
+before intravenous delivery. As Plaintiffs put it,
+their drug product "giv[es] emergency rooms an
+option other than [Vasostrict's] 16-step process . . .
+resembling compounding on the fly." See Pls.'
+Mem. at 31.
+
+
+FDA considered Plaintiffs "ready-to-use" claim
+but rejected it.  First, the agency found that
+commenters did not "identify a basis to conclude
+that there is an attribute of [Vasostrict] that *31
+makes [it] unsuitable such that patients need a
+compounded drug product." R. at 1599. As the
+agency put it, manufacturing a drug that is ready-
+to-use to "improve[] efficiency" or to "address the
+possibility that the approved drug might be
+mishandled by a medical professional" is not
+addressing clinical need. Id. at 1605 (emphasis
+added). Instead, the ready-to-use capability just
+provides an "advantage[], relative to the approved
+drug product[]." Id. at 1599. Even though
+Plaintiffs may have demonstrated that ready-to-
+use is advantageous, that does not mean that
+Vasostrict—because it is not ready-to-use—is
+medically unsuitable. The FDA's view on this
+issue is not "so implausible that it could not be
+ascribed to a difference in view or the product of
+agency expertise." State Farm, 463 U.S. at 43.
+
+
+8
+
+
+31
+
+
+8 Plaintiffs incorrectly assert that FDA did
+
+
+not consider the "high alert" designation of
+
+
+vasopressin. Pls.' Mem. at 31, 33. FDA
+
+
+16
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/motor-vehicle-manufacturers-association-of-united-states-inc-v-state-farm-mutual-automobile-insurance-company-consumer-alert-v-state-farm-mutual-automobile-insurance-company-united-states-department-of-transportation-v-state-farm-mutual-automobile-ins#p43
+
+https://casetext.com/_print/athenex-inc-v-azar?_printIncludeHighlights=undefined&_printIsTwoColumn=true#N197645
+
+https://casetext.com/case/motor-vehicle-manufacturers-association-of-united-states-inc-v-state-farm-mutual-automobile-insurance-company-consumer-alert-v-state-farm-mutual-automobile-insurance-company-united-states-department-of-transportation-v-state-farm-mutual-automobile-ins#p43
+
+https://casetext.com/case/athenex-inc-v-azar
+may not have used the words "high alert,"
+
+
+but it certainly recognized and addressed
+
+
+Plaintiffs' argument that its ready-to-use
+
+
+product fills a "clinical need." See R. at
+
+
+1598-99 ("[T]he comments contended that
+
+
+[ready-to-use] products compounded from
+
+
+bulk drug substances can reduce the risk of
+
+
+medication errors or contamination,
+
+
+decrease access times, and increase
+
+
+efficiencies in healthcare facility
+
+
+operations. They state these advantages are
+
+
+particularly important for drugs in
+
+
+emergency settings."). --------
+
+
+Second, and as importantly, the agency found that
+the commenters did not show that the proposed
+drug product "must be made from a bulk drug
+substance rather than by diluting the approved
+drug." R. at 1599. Another drug supplier,
+PharMEDium Services, operates an outsourcing
+facility that compounds Vasostrict into a ready-to-
+use formulation. See id. at 1599; see also id. at
+198. Plaintiffs have not asserted that their ready-
+to-use bulk compounded product meets a clinical
+need that PharMEDium's sterile-to-sterile
+compounded product does not. See Pls.' Mem; see
+also Pls.' Reply (not mentioning PharMEDium's
+product). FDA's rejection of a "clinical need" for
+vasopressin therefore was not arbitrary and
+capricious.
+
+
+V. CONCLUSION
+For the reasons set forth above, the court denies
+Plaintiffs' Motion for Summary Judgment, ECF
+No. 23, and grants Defendants' Cross-Motions for
+Summary Judgment, ECF Nos. 25 and 27. A final
+order accompanies this Memorandum Opinion.
+Dated: August 1, 2019
+
+
+/s/_________ 
+
+
+Amit P. Mehta 
+
+
+United States District Court Judge
+
+
+17
+
+
+Athenex Inc. v. Azar     Case No. 19-cv-00603 (APM) (D.D.C. Aug. 1, 2019)
+
+
+
+https://casetext.com/case/athenex-inc-v-azar

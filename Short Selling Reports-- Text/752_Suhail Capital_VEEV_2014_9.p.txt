@@ -1,0 +1,533 @@
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 1/8
+
+
+Veeva Unanswered Questions: A Little Transparency Would Be Nice
+Mar. 4, 2014 12:23 PM ET25 comments
+by: Suhail Capital
+
+
+"Three things cannot be long hidden: the Sun, the Moon, and the Truth."-Buddha
+
+
+With Veeva (NYSE:VEEV) reporting earnings tonight, we thought now would be a good
+time to share a list of questions that management and the sell-side should try to answer.
+Getting answers to these questions is infinitely more relevant to the future valuation of the
+business than the guaranteed consensus (Veeva's six underwriters at this point) 'headline
+beat' the company will report, which by the way, we view as tantamount to celebrating the
+fact that Michael Jordan is capable of jumping over a midget. Based on what we have
+seen so far, we are not crossing our fingers on this, but you never know.
+
+
+Questions for Veeva Management:
+
+
+1. Realized CRM ASP @ $1,000 vs. $4,000 in 'management projections': While the
+underwriters seem reluctant to do the simple math, we have calculated your average
+realized selling price across your entire CRM subscriber base. This number is close to
+$1,000. Do you plan on disclosing this number going forward?
+
+
+2. ASP Evolution in EM vs. developed markets: We know pharma rep counts are on
+the decline in developed markets. We also know they are on the rise in emerging
+markets. Your penetration in the former is high, while your penetration in the latter is
+much lower. In China for example, we know the ASP per LS CRM seat is 1/3 to 1/2
+what it is in the United States. How should we model that impact on ASPs going
+forward (12-24 months)?
+
+
+3. TAM based on the above answers, how is CRM TAM still $2bln: Please explain
+how you get to such a TAM for CRM. After extensive research, a best-case scenario
+(albeit several years down the road) for add-ons would seem to translate into a $1,500
+ASP across your user base. This is a gap of $1.4 billion (based on our conservative
+estimate of 400k reps in the top 50) that we are having a very hard time reconciling. Is
+there something we are missing here you'd like to share? In this highly transparent
+market it is hard to grasp how such a massive discrepancy could exist!
+
+
+4. How big is Veeva Vault's addressable market: Following up on the previous
+question, can you clarify how you sized the LS Reg Doc Mgmt market that your Vault
+product is targeting? You have publicly stated that this market is 'at least as big as
+CRM'. Are we to assume that means CRM today, or what CRM fully loaded could be
+one day in the distant future?
+
+
+
+https://seekingalpha.com/symbol/VEEV
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 2/8
+
+
+Questions for Deutsche Bank Equity Research:
+
+
+1. What changed in DB's TAM assumptions for CRM, ECM and MDM, which could
+decrease TAM by 60-70% in 2 months: -a) In your Veeva initiation report you sized
+the 2013 LS CRM TAM at $1.9 billion. In your transfer of coverage report (2 months
+later) you sized the TAM at $675 million, and went on to state that, "Veeva estimates a
+total CRM TAM at closer to $2 billion." Can you explain what was wrong with your
+initial report analysis that your sizing coincidentally agreed with what now is solely
+being attributed to Veeva?  
+b) In your initiation report you wrote, "we estimate Veeva's TAM to reach $8.6bn by
+2020 from ~$5bn in 2013, an 8% CAGR." Two months later in your transfer of
+coverage report you size ECM at $1.2 billion and MDM at $500 million. Add these to
+your CRM and you get $2.3 billion TAM. Can you explain how the market according to
+your estimates shrunk by over 50% in less than two months?  
+c) Based on the above answers can you also explain how a greater than 50%
+reduction in addressable market size only translated into a $3 decrease in your
+share price target?
+
+
+2. Do you understand how subscription revenue models work:
+
+
+Your last report modeled basically flat sequential subscription revenue growth on the back
+of a quarter with 22% subscription revenue growth. We understand the need to set the bar
+low for clients, but this is just a little too much. Can you mathematically explain how this
+happens unless you were modeling significant subscription cancellations?
+
+
+a) Following up on the previous question, your most recent report also stated that,
+"Veeva's first post-IPO quarter (fiscal Q3 2014, ended October 31, 2013) was solid relative
+to high Street expectations." Can you please explain how flat sequential growth
+amounts to high Street expectations for a company with this multiple?
+
+
+3. Lastly, in your most recent report you stated that Veeva was being weighed down due
+to a, "short report from November 2013 that questioned Veeva's TAM analysis as well as
+the risks of building on SFDC's platform." To be clear, the analysis in question was largely
+provided by DB, as Veeva has provided no analysis yet. Can you explain how you can
+make such a statement?
+
+
+Disclosure: I am short VEEV. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have
+no business relationship with any company whose stock is mentioned in this article.
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 3/8
+
+
+Comments (25)
+
+
+Additional disclosure: Long CRM and Cegedim (OTC:CGMJF)
+
+
+ Like this article
+
+
+vaquero6
+My big concern is using "SFDC's platform" only. 
+Reverse engineering VEEV software will be a long term problem.
+
+
+04 Mar 2014, 12:46 PM
+
+
+jiri75
+@vaquero6 this is incorrect information Veeva is not pure Salesforce it also has their own cloud. Veeva has to
+products 1) Veeva CRM - which is built on top of Salesforce platform major threat here is not this fact but that it uses
+so called "sControls" which is a legacy piece of code retired from salesforce platform in 2011 and replaced by
+Visualforce and apex language. Veeva is working hard to replace "sControls" but this thing is used heavily across the
+CRM and will take several iteration as it is on many places. 2) Veeva Vault - is DMS based on cloud technologies but
+it is not hosted on salesforce platform but Veeva own. Veeva Vault unlike Veeva CRM is however very niche product
+focusing on delivery of regulated documentation approved by FDA and also for running Clinical Trials - which is
+process before drug gets an approval from FDA. 3) Veeva Network - is another thing not linked to Saleforce as it
+works like cegedim of in case of salesforce Data.com as a data service that delivers data to Veeva from centralized
+database. Again reason is simple because in Pharma companies using data providers like cegedim that delivers
+master data for accounts, contacts and address and hierarchies. (Example: hospital and all doctors by department
+and specialisation)
+
+
+04 Mar 2014, 01:26 PM
+
+
+PSalerno, Contributor
+My understanding is that only the business linked to CRM platform is significant and profitable, but it is also saturated
+and threatened by the fact that some companies like Genentech are bypassing VEEV.
+
+
+04 Mar 2014, 02:02 PM
+
+
+quadrant8
+Wrong again. If you have any money on VEEV -- long or short -- you should have listened to the conference
+call.
+
+
+04 Mar 2014, 08:39 PM
+
+
+PSalerno, Contributor
+Of course I listened the cc and that did not change my opinion, on the contrary, I got confirmation.
+
+
+
+https://seekingalpha.com/symbol/CGMJF
+
+https://seekingalpha.com/user/4472441
+
+https://seekingalpha.com/user/13249372
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/20587681
+
+https://seekingalpha.com/author/psalerno
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 4/8
+
+
+05 Mar 2014, 04:03 AM
+
+
+quadrant8
+What are you talking about?
+
+
+From your article, "Your last report modeled basically flat sequential subscription revenue growth on the back of a
+quarter with 22% subscription revenue growth." 
+http://seekingalpha.co...?
+
+
+From earnings call, "Subscription revenue was up 95% to $38.9 million from $20 million last year. " 
+http://seekingalpha.co...
+
+
+04 Mar 2014, 02:13 PM
+
+
+Suhail Capital, Contributor
+Author’s reply »  Guess you don't understand the meaning of 'sequential'. If i turn on 10k seats a quarter they
+are spread out, so i have a natural tailwind in the following quarter. To model a quarter flat(forget what it says
+about your estimate at the 30x+trailing sales then) on the back of a 22% seq previous quarter is a joke unless
+you are modeling in cancellations.
+
+
+04 Mar 2014, 03:05 PM
+
+
+quadrant8
+Let me spell it out for you since you don't understand basic math. To go from $20 million to $38.9 million in
+subscription revenue, the company needed to grow 24.8% every quarter.
+
+
+If you want a negative twist on it, I guess can call that "flat". But I'll take the "flat" 24.8% quarterly growth
+every time.
+
+
+05 Mar 2014, 03:29 AM
+
+
+Suhail Capital, Contributor
+Author’s reply »  Let us spell it out for you.
+
+
+Veev's SEQUENTIAL revenue growth for the five quarters prior to going public
+
+
+20%, 22%, 11%,8% 16%
+
+
+Now the q3 consensus estimate
+
+
+0%
+
+
+If you understand basic math, you will grasp how any model with a 0% estimate on the back of a 16% quarter
+for a sub revenue driven model and five quarter average of 15% is a total joke.
+
+
+If you can explain how anyone with a 'buy' rating on a 30+ trailing ev/sales stock would have such a rating
+with growth collapsing that fast in the first public quarter of the company, we are all ears.
+
+
+
+https://seekingalpha.com/user/20587681
+
+https://seekingalpha.com/a/18agn
+
+https://seekingalpha.com/a/14bnr
+
+https://seekingalpha.com/author/suhail-capital
+
+https://seekingalpha.com/user/20587681
+
+https://seekingalpha.com/author/suhail-capital
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 5/8
+
+
+This is why veev has been such an obvious short even if you don't have a clue about the space. Setting the
+bar low here should have been 8-10%, but that would have meant no real 'BEAT' to get excited about. When
+you see six analysts come in at flat, that's a red flag and a half. 
+We are amazed at how many people continue to be baffled by the stocks performance simply because they
+think results so far have indicated 'exceeding expectations'. Reality is those expectations to any investor with
+a functional brain quickly became utterly worthless.
+
+
+As for attributing Citadel's long position to ken griffin, well, you have a thing or two to learn about how giant
+funds operate.
+
+
+22 Mar 2014, 09:01 PM
+
+
+deanalms
+The company that really needs transparency is Seeking Alpha... this non-stop one-sided campaign against Veeva by
+a short-seller is just one example. The fact they have been proven to take multiple articles from the same author
+pitching a position...i.e. Galena Pharmaceuticals... makes this whole investment publication platform suspect. Its like
+reading a glorified comment board.
+
+
+04 Mar 2014, 03:10 PM
+
+
+kpcapitalpartners
+You are an idiot. Suhail is providing some much-needed oversight to the crooks...errr...the underwriters'
+analysts and VEEV management, who have vastly overstated VEEV's TAM and long-term prospects. They
+only need to b.s. fools like you until the Mid-April lock-up expiration! You'll then see a mass exodus.
+
+
+04 Mar 2014, 04:27 PM
+
+
+quadrant8
+You talk TAM and you didn't hear what VEEV CEO said about TAM: not only in pharma and biotech but also
+life sciences: animal health, consumer health, medical device, diagnostics and SPs like CROs.
+
+
+Do the math.
+
+
+04 Mar 2014, 08:30 PM
+
+
+quadrant8
+So since a guy like Ken Griffin increased his investment in Veeva, he must be "an idiot" and "fool" in your
+book.
+
+
+It is funny that you and suhail put "capital" on your names to make you sound important. Yet, you can only
+hope to one day be fractionally as successful as Ken Griffin. You spread doom and gloom yet no nothing
+about lockup expirations. I'm sure you made tons of money playing the YELP and FB lockup expirations,
+right? ;)
+
+
+04 Mar 2014, 08:39 PM
+
+
+
+https://seekingalpha.com/user/1093441
+
+https://seekingalpha.com/user/4793321
+
+https://seekingalpha.com/user/20587681
+
+https://seekingalpha.com/user/20587681
+
+https://seekingalpha.com/user/13249372
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 6/8
+
+
+jiri75
+@PSalerno I would not underestimate impact of Vault which is indeed new product introduced in 2012 but compared
+to CRM - this taps some very critical part of Pharma business. Vault is supporting Clinical Trials that is very
+complicated part on Pharma industry as it is directly linked with FDA approval and if FDA rejects your drug because
+documentation is wrong damage is significant. Development of new drug costs between 1-4 billion dollar and it takes
+in avg. 10-20 years. Try to imagine what would happen did your drug is not approved by FDA. Another example how
+Vault is used is DMS for marketing documentation don't forget GSK was fined 3 billion USD because they delivered
+information against FDA rules. Veeva Vault dealt exactly with these two problems.
+
+
+04 Mar 2014, 04:10 PM
+
+
+PSalerno, Contributor
+jiri75 - I read the conference call. The management did not give relative numbers, but I think the better than
+expected revenue could be related to Vault, and this will be present even in the next quarters as deferred
+revenue is growing. Anyway there is no effect on earnings which remain 0.24EPS yearly, because Vault is not
+profitable.  
+I think this property platform can keep the stock overvalued for quite some time, but not enough to change the
+long term bearish view on the stock.
+
+
+05 Mar 2014, 02:07 AM
+
+
+Inlining
+Earnings out, is that the transparency you were looking for? Have fun covering your large short positions.
+
+
+04 Mar 2014, 04:13 PM
+
+
+PSalerno, Contributor
+Inlining - What are you talking about ?  
+The countertrend rally is running out of steam after hours.
+
+
+As for results they were only marginally better, but I am waiting a comment from the author.  
+It is not clear how much CRM asked more for the 10 year extension in partnership.
+
+
+04 Mar 2014, 04:25 PM
+
+
+ibrowning85
+Bro you are about to get squeezed. I have no position but Veeva is primed to pop after these results. In
+addition, there is another health SaaS company IPO on the horizon in the form of Castlight Health (CSLT)
+with an even more expensive valuation which in my opinion further legitimizes VEEV price. Good luck though
+
+
+04 Mar 2014, 04:49 PM
+
+
+PSalerno, Contributor
+Another IPo is another reason to keep shorting VEEV.  
+There is some shortcovering now as the short interests were more than 6.6 Million and this rally could have
+
+
+
+https://seekingalpha.com/user/13249372
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/291074
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/6084251
+
+https://seekingalpha.com/symbol/cslt
+
+https://seekingalpha.com/author/psalerno
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 7/8
+
+
+forced someone to cover.
+
+
+I do not see any change in the fundamentals.
+
+
+04 Mar 2014, 04:58 PM
+
+
+PSalerno, Contributor
+In line with my above forecast, all the after hour gain is evaporated, just +0.15.
+
+
+04 Mar 2014, 05:30 PM
+
+
+kpcapitalpartners
+Sequential top & bottom-line growth (or lack thereof) are a joke when compared to any and all fundamental valuation
+metrics.
+
+
+04 Mar 2014, 05:28 PM
+
+
+Weighing Machine, Contributor
+Look at the MASSIVE deceleration in revenue growth - forecast to be just 31% (at high end of range given for 2014e
+vs. 2013a). Tough to comprehend how this is worth 20x forward revenue.
+
+
+04 Mar 2014, 05:33 PM
+
+
+SA_Member_4824301
+To the author:
+
+
+Thanks for the article. A few quick questions, and perhaps your next article could help explain CRM?
+(Salesforce.com)
+
+
+1) Why long CRM? I've received emails from Salesforce.com pitching me their small business CRM software, and
+they've been contacting me quite a bit to get the sale.
+
+
+2) Why would CRM need to hire all these sales and marketing people if the product was superior and is in high
+demand? I found that odd.
+
+
+3) What makes it more expensive than others? Is Salesforce.com imitating the Larry Ellison ORCL model where they
+get the client dependent on their upgrades and ongoing sticky monthly upgrades and tech/software/d-base support?
+
+
+I don't see how growing revenues through acquisitions benefits Salesforce.com and the need to extend the
+relationship with VEEV (which imo is overvalued at these levels.)
+
+
+But like i try to hint (and remind) to one of my favorite authors on SA Paulo Santos (who i think is well-versed and
+brilliant in fundamentally evaluating balance sheets, etc.), that is, in this strange, long QE-induced mania, many IPO
+stocks and momentum stocks defy short-term logic, so just throw logic out the window (temporarily) and traditional
+rational movements of stock aside, but long-term, they will all eventually revert back to the mean and become very
+transparent once the dust and mania subsides.
+
+
+AMZN is one of those real-life lessons i've learned as well as CRM, just to name a few. Never seen a wild market
+such as this one. I am cautious now when shorting any stock in this equities climate.
+
+
+
+https://seekingalpha.com/author/psalerno
+
+https://seekingalpha.com/user/4793321
+
+https://seekingalpha.com/author/weighing-machine
+
+https://seekingalpha.com/user/4824301
+5/23/2018 Veeva Unanswered Questions: A Little Transparency Would Be Nice - Veeva Systems Inc. (NYSE:VEEV) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2066423-veeva-unanswered-questions-a-little-transparency-would-be-nice 8/8
+
+
+05 Mar 2014, 01:43 AM
+
+
+umar morthrum
+
+
+Thank you Suhail Capital, 
+Agreed with you and that equaled to a nice profit
+
+
+05 Mar 2014, 11:06 AM
+
+
+leopardtrader
+Just added another new position in VEEV here. This is my third sortie on this name since the bashing started with two
+solid wins. This third one I take to $50 or beyond. Downside risk here is very minimal with potential double on the
+upside. My job in the market remains to make money. I am not an expert on VEEV biz model and dont have any
+insider information here. So I save myself a lot of troubles from probing them. Remember market can remain irrational
+longer than one remains solvent. We shall see
+
+
+22 Mar 2014, 08:26 PM
+
+
+
+https://seekingalpha.com/user/11205161
+
+https://seekingalpha.com/user/725591

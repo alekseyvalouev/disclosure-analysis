@@ -1,0 +1,1791 @@
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 1/11
+
+
+The sometimes eccentric views of John Hempton
+
+
+Bronte Capital
+
+
+Tuesday, May 3, 2011
+
+
+Longtop and the remarkable capital efficiency of the
+Chinese cloud
+A note on the comments: the comments on this post are consistently of the view that (a) the company
+did not build a cloud-based storage infrastructure, (b) they did not build a petabyte data storage
+solution for anyone, but (c) they assisted a customer build a large data set (probably not a petabyte)
+and (d) otherwise the press release is a marketing puff-piece but not material to the stock.  They think
+I have made too much of a marketing puff-piece. 
+ 
+ 
+I agree that it is entirely possible that the press release is a marketing puff piece of marginal
+importance to the stock.  It certainly has all the buzz-words.  Please do not read this post without
+reading the comments which are - in my view - sophisticated and probably contain some truth. At
+least they made me think. 
+ 
+ 
+Some people who I trust think this could be done within the $1.5 million of incremental capital
+spent this year.  I am not going to dispute that point - but whatever - it would use most of the
+$1.5 million of incremental capital... and that leaves the question how did they manage to to
+fund the rest of their growth. 
+ 
+ 
+The core issue remains - how is it possible that this company has grown equipment and fitting so
+slowly and revenue so fast? Unless there is a miracle they can't be doing it by owning cloud facilities.
+The company has grown revenue by almost 50 percent in the last nine months adding almost no fixed
+assets. 
+ 
+ 
+So I remain puzzled. 
+ 
+ 
+Now read the post - here without alteration: 
+ 
+ 
+---------------------------- 
+ 
+A while back I did a lot of work on cloud computing companies. This was not because I wanted to buy
+the cloud companies (by and large I do not) but because I wanted to understand what they did to the
+existing tech giants (such as Microsoft, Google, Apple, Hewlett Packard, Dell etc). You can find those
+posts here, here, here and here. 
+ 
+This stuff is important to us. Despite the (recent) content of this blog Bronte Capital's funds are
+primarily long equities. We short on the side. Recently shorts have been abnormally profitable. Long
+term returns will be driven by well-chosen value stocks. 
+ 
+We have big positions in selected tech giants - and we need to understand the threats to those
+businesses. So we went on a self-directed course in "cloud studies". [That course involved putting our
+own server and storage in the cloud...] 
+ 
+But you never know where your research will lead. "Cloud studies" took us to a remarkable press
+release from Longtop Financial - what appears as a reputable Chinese IPO (not a reverse takeover)
+with a reputable CFO. The remarkable press release described Longtop's efforts in being a cloud
+provider - and more particularly a cloud-storage provider. 
+
+
+Longtop Financial Technologies Limited (NYSE:LFT), a leading software developer and
+solutions provider targeting the financial services industry in China, today announced
+the official launch of its new data archiving solution. 
+
+
+For people who want to know - here is
+the RSS feed for this blog...
+ 
+http://feeds.feedburner.com/bronteca
+pital
+
+
+RSS feed
+
+
+Enter your email address:
+
+
+Subscribe
+
+
+Delivered by FeedBurner
+
+
+Get this blog by email
+
+
+I find Americans sometimes do not get
+a British or Australian sense of humor.
+ 
+If something on this blog makes you
+really angry I suggest you read Swift's
+Modest Proposal... you will find the link
+here.
+
+
+A note on humor
+
+
+Search
+
+
+Search This Blog
+
+
+May (1)
+
+
+February (2)
+
+
+January (1)
+
+
+December (3)
+
+
+November (1)
+
+
+October (1)
+
+
+August (2)
+
+
+July (2)
+
+
+June (2)
+
+
+May (3)
+
+
+April (2)
+
+
+February (1)
+
+
+Blog Archive
+
+
+ More  Next Blog» Create Blog  Sign In
+
+
+
+http://brontecapital.blogspot.com/
+
+http://brontecapital.blogspot.com/2010/08/fund-manager-experiments-in-geek.html
+
+http://brontecapital.blogspot.com/2010/08/follow-up-on-geek-post.html
+
+http://brontecapital.blogspot.com/2010/08/microsoft-accounting-geeks-summarizes.html
+
+http://brontecapital.blogspot.com/2010/08/dell-and-virtualization.html
+
+http://www.brontecapital.com/
+
+http://www.crucial.com.au/services-cloud-vps-linux-packages.php
+
+http://finance.yahoo.com/news/Longtop-Announces-Official-prnews-3585847617.html?x=0&.v=1
+
+http://www.reuters.com/article/2011/05/03/renren-director-idUSN0225977120110503?feedType=RSS&feedName=marketsNews&rpc=43
+
+http://finance.yahoo.com/q?s=LFT
+
+http://feeds.feedburner.com/brontecapital
+
+http://www.feedburner.com/
+
+http://art-bin.com/art/omodest.html
+
+http://brontecapital.blogspot.com/2018/05/
+
+http://brontecapital.blogspot.com/2018/02/
+
+http://brontecapital.blogspot.com/2018/01/
+
+http://brontecapital.blogspot.com/2017/12/
+
+http://brontecapital.blogspot.com/2017/11/
+
+http://brontecapital.blogspot.com/2017/10/
+
+http://brontecapital.blogspot.com/2017/08/
+
+http://brontecapital.blogspot.com/2017/07/
+
+http://brontecapital.blogspot.com/2017/06/
+
+http://brontecapital.blogspot.com/2017/05/
+
+http://brontecapital.blogspot.com/2017/04/
+
+http://brontecapital.blogspot.com/2017/02/
+
+https://www.blogger.com/
+
+https://www.blogger.com/next-blog?navBar=true&blogID=4815867514277794362
+
+https://www.blogger.com/home#create
+
+https://www.blogger.com/
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 2/11
+
+
+Like many organizations worldwide, financial institutions in China are experiencing
+explosive data growth. They are facing big challenges in continuing to store and
+manage the high-volume data for compliance purposes in a cost-effective way, as well
+as query and retrieve them efficiently for business needs. Longtop's data achieving
+solution has the capability to manage petabyte (PB) level structured data at both low
+cost and high access efficiency. The solution has the advanced data storage and
+management infrastructure built on cloud storage techniques, which has unlimited
+horizontal scalability in both storage volume and access efficiency with a high
+compression ratio. As a result, it can overcome the inherent deficiencies of traditional
+Relational Database Management System products in high-volume data management
+and help customers to build the new generation of data centers. 
+
+
+"Much of the strength behind Longtop's solid organic growth track record comes from
+our proprietary product development. Over the years, we have consistently focused on
+Research and Development (R&D) and going forward we will continue to invest in
+human resources and technology to help further strengthen our R&D capabilities,"
+commented Weizhou Lian, Longtop's Chief Executive Officer. "I am very pleased that
+one of the largest banks in China has been our first customer to deploy our data
+archiving solution."
+
+
+ 
+What struck me as peculiar about this release is that being a cloud computing company is very capital
+intensive and I was wondering where they purchased their storage equipment from. After all storage
+equipment for the cloud is a hugely market-sensitive business (that was what the 3Par spat between
+Dell and HP was about see here and here). 
+ 
+More generally cloud computing is capital intensive. The cloud companies see themselves as
+utilities and have similar capital needs and economics. The main knock on the cloud computing
+businesses - as per this otherwise laudatory article about Rackspace - is that they are hugely capital
+intensive: 
+
+
+But analysts have questioned the capital-intensive nature of Rackspace's business
+model, especially because the company's capital-expenditure guidance will likely be
+higher than its revenue trajectory for 2011. 
+
+
+"Our business will always be relatively capital intensive," he [Lanham Napier] said,
+largely because the company regularly has to upgrade its infrastructure. "The magic is
+in the margin of service layer we add on top of that infrastructure. We're making
+investments to continue to make the business more capital efficient, but we have more
+work to do on it."
+
+
+And of all the cloud functions the one that is most capital intensive appears to be storage. You see
+when I am not using Bronte's server someone else can use the spare capacity. However when I am
+not accessing Bronte's storage nobody else can use it. Storage is not shared and thus likely to
+provide less capital advantage by going to "the cloud". And that shows in pricing - as Felix Salmon
+has noted cloud storage is too expensive for much personal use. 
+ 
+And yet Longtop have done cloud storage at the petabyte level (ie akin to Rackspace or Amazon)
+without very much capital expenditure. At the beginning of the 2010-11 financial year Longtop had
+fixed assets of $26.3 million. Nine months later - the nine months in which they launched their cloud
+storage offering - the fixed assets had risen to $27.9 million. Revenue grew in that nine months by
+over 40 percent (these numbers are in my previous post). 
+ 
+They managed to launch a cloud storage service at the petabyte level with almost no capital
+expenditure. 
+ 
+I was puzzled. 
+ 
+But the above mentioned remarkable press release told us that this amazing ability to do storage at
+the petabyte level with enough backup for a large financial institution came from their skills in human
+resource management. To quote again: 
+
+
+Much of the strength behind Longtop's solid organic growth track record comes from
+our proprietary product development. Over the years, we have consistently focused on
+Research and Development (R&D) and going forward we will continue to invest in
+human resources and technology to help further strengthen our R&D capabilities..."
+
+
+These are remarkable skills. You see if Longtop can do this with only human resources (no
+substantial capital expenditure) then the $300 million odd of capex expected at Rackspace this year is
+wasted. There is probably half a billion of capex at Amazon EC2. That is wasted too. 
+ 
+Moreover because cloud storage can be done without buying capital equipment the huge bidding war
+
+
+January (3)
+
+
+December (6)
+
+
+November (4)
+
+
+October (4)
+
+
+September (6)
+
+
+August (1)
+
+
+July (5)
+
+
+June (3)
+
+
+May (3)
+
+
+April (2)
+
+
+March (10)
+
+
+February (3)
+
+
+January (3)
+
+
+December (4)
+
+
+November (8)
+
+
+October (10)
+
+
+September (4)
+
+
+August (3)
+
+
+July (2)
+
+
+June (1)
+
+
+May (5)
+
+
+April (6)
+
+
+March (5)
+
+
+February (6)
+
+
+January (9)
+
+
+December (3)
+
+
+November (4)
+
+
+October (8)
+
+
+September (8)
+
+
+August (12)
+
+
+July (5)
+
+
+June (10)
+
+
+May (7)
+
+
+April (7)
+
+
+March (2)
+
+
+February (7)
+
+
+January (11)
+
+
+December (6)
+
+
+November (8)
+
+
+October (1)
+
+
+September (9)
+
+
+
+http://brontecapital.blogspot.com/2010/08/dell-and-virtualization.html
+
+http://brontecapital.blogspot.com/2010/08/3par-your-blogger-needs-brain.html
+
+http://en.wikipedia.org/wiki/Utility_computing
+
+http://online.wsj.com/article/BT-CO-20110401-709510.html
+
+http://www.rackspace.com/information/leadership/lnapier.php
+
+http://blogs.reuters.com/felix-salmon/2011/03/30/counterparties-330/
+
+http://brontecapital.blogspot.com/2011/04/capital-management-in-chinese-software.html
+
+http://aws.amazon.com/ec2/
+
+http://brontecapital.blogspot.com/2017/01/
+
+http://brontecapital.blogspot.com/2016/12/
+
+http://brontecapital.blogspot.com/2016/11/
+
+http://brontecapital.blogspot.com/2016/10/
+
+http://brontecapital.blogspot.com/2016/09/
+
+http://brontecapital.blogspot.com/2016/08/
+
+http://brontecapital.blogspot.com/2016/07/
+
+http://brontecapital.blogspot.com/2016/06/
+
+http://brontecapital.blogspot.com/2016/05/
+
+http://brontecapital.blogspot.com/2016/04/
+
+http://brontecapital.blogspot.com/2016/03/
+
+http://brontecapital.blogspot.com/2016/02/
+
+http://brontecapital.blogspot.com/2016/01/
+
+http://brontecapital.blogspot.com/2015/12/
+
+http://brontecapital.blogspot.com/2015/11/
+
+http://brontecapital.blogspot.com/2015/10/
+
+http://brontecapital.blogspot.com/2015/09/
+
+http://brontecapital.blogspot.com/2015/08/
+
+http://brontecapital.blogspot.com/2015/07/
+
+http://brontecapital.blogspot.com/2015/06/
+
+http://brontecapital.blogspot.com/2015/05/
+
+http://brontecapital.blogspot.com/2015/04/
+
+http://brontecapital.blogspot.com/2015/03/
+
+http://brontecapital.blogspot.com/2015/02/
+
+http://brontecapital.blogspot.com/2015/01/
+
+http://brontecapital.blogspot.com/2014/12/
+
+http://brontecapital.blogspot.com/2014/11/
+
+http://brontecapital.blogspot.com/2014/10/
+
+http://brontecapital.blogspot.com/2014/09/
+
+http://brontecapital.blogspot.com/2014/08/
+
+http://brontecapital.blogspot.com/2014/07/
+
+http://brontecapital.blogspot.com/2014/06/
+
+http://brontecapital.blogspot.com/2014/05/
+
+http://brontecapital.blogspot.com/2014/04/
+
+http://brontecapital.blogspot.com/2014/03/
+
+http://brontecapital.blogspot.com/2014/02/
+
+http://brontecapital.blogspot.com/2014/01/
+
+http://brontecapital.blogspot.com/2013/12/
+
+http://brontecapital.blogspot.com/2013/11/
+
+http://brontecapital.blogspot.com/2013/10/
+
+http://brontecapital.blogspot.com/2013/09/
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 3/11
+
+
+Posted by John Hempton at 11:37 PM  
+
+
+between Hewlett Packard and Dell over 3Par (a company that sells capital equipment for cloud
+storage) was wasted and HP wasted billions of dollars. 
+ 
+It is all possible of course. Longtop are about to displace Amazon, Dell, HP, Rackspace and a score of
+other tech giants. 
+ 
+These Chinese companies really are that remarkable. 
+ 
+Just read the press release. 
+ 
+ 
+ 
+ 
+ 
+John
+
+
+32 comments:
+Adrien said...
+
+
+Hi John, 
+ 
+Although I share your scepticism, one potential explanation could be that they merely
+wrote some form of software and are acting as systems integrators (rather than IaaS
+providers) for a data archiving solution? 
+ 
+I haven't gone through more than the press release yet, but  
+ 
+(Very big fan of your blog by the way).
+
+
+May 4, 2011 at 12:00 AM
+
+
+Anonymous said...
+
+
+John, 
+ 
+I'm quite surprised at the low quality of this article and that you didn't ask managment for
+details of their cloud offering. 
+ 
+First up, no China banks that I'm aware of have hosted their applications on 3rd party
+cloud platform due to security concerns. 
+ 
+Secondly, it seems that Longtop data archiving solution is a piece of software rather than
+SaaS. 
+ 
+Thirdly, the press release mentioned Longtop's solution "help customers to build the new
+generation of data centers." which support point number 2. 
+ 
+Finally, for due diligence purpose, you can't depend on a press release. You have to read
+a data spec shhet for the software product. IBM does this very well except that they call
+thier's white paper.
+
+
+May 4, 2011 at 12:11 AM
+
+
+theodore said...
+
+
+I read the press release, but they have not stated anywhere that they are directly
+providing the physical storage infrastructure. 
+ 
+They could very well be just providing the software, which would require minimal cap-ex,
+and which they could just as easily expense (vs. capitalize). 
+ 
+Just look at carbonite.com or a slew of other backup services. They are all built on top of
+Amazon S3, Rackspace Cloudfiles, etc. - and they are incredibly capital efficient. 
+ 
+This would cost a few hundred k to build. Max $1 mm assuming absolute gross
+incompetence. 
+ 
+BTW check out Avnver Mandelman's book, The Sleuth Investor.
+
+
+August (5)
+
+
+July (8)
+
+
+June (7)
+
+
+May (5)
+
+
+April (12)
+
+
+March (13)
+
+
+February (7)
+
+
+January (4)
+
+
+December (9)
+
+
+November (7)
+
+
+October (8)
+
+
+September
+(16)
+
+
+August (12)
+
+
+July (7)
+
+
+June (11)
+
+
+May (16)
+
+
+April (5)
+
+
+March (8)
+
+
+February (11)
+
+
+January (4)
+
+
+December (6)
+
+
+November (10)
+
+
+October (12)
+
+
+September (7)
+
+
+August (18)
+
+
+July (9)
+
+
+June (12)
+
+
+May (11)
+
+
+April (9)
+
+
+March (19)
+
+
+February (15)
+
+
+January (8)
+
+
+December (5)
+
+
+November (2)
+
+
+October (3)
+
+
+September
+(14)
+
+
+August (10)
+
+
+July (8)
+
+
+June (13)
+
+
+May (2)
+
+
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html
+
+https://www.blogger.com/email-post.g?blogID=4815867514277794362&postID=4721020082647827417
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=4721020082647827417&target=email
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=4721020082647827417&target=blog
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=4721020082647827417&target=twitter
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=4721020082647827417&target=facebook
+
+https://www.blogger.com/share-post.g?blogID=4815867514277794362&postID=4721020082647827417&target=pinterest
+
+https://www.blogger.com/profile/05172309107700268678
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304431244596#c3730965623212530607
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304431891720#c5226800807415013010
+
+https://www.blogger.com/profile/09086618591778226767
+
+https://www.blogger.com/profile/05172309107700268678
+
+https://www.blogger.com/profile/09086618591778226767
+
+http://brontecapital.blogspot.com/2013/08/
+
+http://brontecapital.blogspot.com/2013/07/
+
+http://brontecapital.blogspot.com/2013/06/
+
+http://brontecapital.blogspot.com/2013/05/
+
+http://brontecapital.blogspot.com/2013/04/
+
+http://brontecapital.blogspot.com/2013/03/
+
+http://brontecapital.blogspot.com/2013/02/
+
+http://brontecapital.blogspot.com/2013/01/
+
+http://brontecapital.blogspot.com/2012/12/
+
+http://brontecapital.blogspot.com/2012/11/
+
+http://brontecapital.blogspot.com/2012/10/
+
+http://brontecapital.blogspot.com/2012/09/
+
+http://brontecapital.blogspot.com/2012/08/
+
+http://brontecapital.blogspot.com/2012/07/
+
+http://brontecapital.blogspot.com/2012/06/
+
+http://brontecapital.blogspot.com/2012/05/
+
+http://brontecapital.blogspot.com/2012/04/
+
+http://brontecapital.blogspot.com/2012/03/
+
+http://brontecapital.blogspot.com/2012/02/
+
+http://brontecapital.blogspot.com/2012/01/
+
+http://brontecapital.blogspot.com/2011/12/
+
+http://brontecapital.blogspot.com/2011/11/
+
+http://brontecapital.blogspot.com/2011/10/
+
+http://brontecapital.blogspot.com/2011/09/
+
+http://brontecapital.blogspot.com/2011/08/
+
+http://brontecapital.blogspot.com/2011/07/
+
+http://brontecapital.blogspot.com/2011/06/
+
+http://brontecapital.blogspot.com/2011/05/
+
+http://brontecapital.blogspot.com/2011/04/
+
+http://brontecapital.blogspot.com/2011/03/
+
+http://brontecapital.blogspot.com/2011/02/
+
+http://brontecapital.blogspot.com/2011/01/
+
+http://brontecapital.blogspot.com/2010/12/
+
+http://brontecapital.blogspot.com/2010/11/
+
+http://brontecapital.blogspot.com/2010/10/
+
+http://brontecapital.blogspot.com/2010/09/
+
+http://brontecapital.blogspot.com/2010/08/
+
+http://brontecapital.blogspot.com/2010/07/
+
+http://brontecapital.blogspot.com/2010/06/
+
+http://brontecapital.blogspot.com/2010/05/
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 4/11
+
+
+May 4, 2011 at 12:13 AM
+
+
+John Hempton said...
+
+
+They could be system integrator for other people...  
+ 
+But that is not how the press release reads... 
+ 
+And the 40-50 percent increase in sales with no capital deployed also jumps out at me as
+- well - unlikely... 
+ 
+But of course it is possible... they might just be able to grow without deploying capital.
+
+
+May 4, 2011 at 12:17 AM
+
+
+John Hempton said...
+
+
+They could be system integrator for other people...  
+ 
+But that is not how the press release reads... 
+ 
+And the 40-50 percent increase in sales with no capital deployed also jumps out at me as
+- well - unlikely... 
+ 
+But of course it is possible... they might just be able to grow without deploying capital.
+
+
+May 4, 2011 at 12:17 AM
+
+
+John Hempton said...
+
+
+Dear Anon 
+ 
+I agree it is unlikely that third party clouds will be used. 
+ 
+But I doubt - severely doubt - that any bank in China has a petabyte of data. The internet
+archive - which snapshots the internet every few eeks - has 3 pb of data... 
+ 
+I severely doubt that Longtop has so little capital equipment either. They have about 14
+million gross of "equipment and fixtures" which will wind up - after growth this year - and
+assuming some people were employed for that growth - about 2000 dollars per person. (It
+was less than 3000 on the old employment numbers). 
+ 
+That is better than a laptop and a desk - but it is hardly the amount of computer
+equipment you would expect at a software firm with these margins... 
+ 
+That said - banks do use EDS and CSC to do their back office - and they use them quite
+commonly. 
+ 
+John
+
+
+May 4, 2011 at 12:30 AM
+
+
+Anonymous said...
+
+
+John, 
+ 
+I guess you should edit your original article to show that your concerns lie with the fact
+that Longtop's fixed asset is laughably low for a comapny of its size. 
+ 
+In addition, the honorable thing is to retract your statments questioning Longtop's data
+archiving solutions as I've never seen any hedge fund guys doing due diligence on the
+basis of a corporate press release. 
+ 
+You don't want your investors to question your competence and integrity, do you? 
+ 
+---Lim Kim San
+
+
+May 4, 2011 at 12:45 AM
+
+
+Anonymous said...
+
+
+A petabyte of data? That's not cool. You know what's cool? etc 
+ 
+Writing as a techie who works vaguely in that space, that PR reads like typical PR BS,
+they have some new software and have added the words "built on cloud storage
+
+
+April (7)
+
+
+March (6)
+
+
+February (8)
+
+
+January (5)
+
+
+December (5)
+
+
+November (5)
+
+
+October (7)
+
+
+September (6)
+
+
+August (14)
+
+
+July (5)
+
+
+June (9)
+
+
+May (20)
+
+
+April (22)
+
+
+March (36)
+
+
+February (24)
+
+
+January (28)
+
+
+December (20)
+
+
+November (27)
+
+
+October (24)
+
+
+September
+(46)
+
+
+August (45)
+
+
+July (48)
+
+
+June (31)
+
+
+May (7)
+
+
+View my complete profile
+
+
+About me
+
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304431986035#c7696510529569678138
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304432264433#c8234111814451159240
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304432264636#c6744663722605895374
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304433007440#c5479430048788419596
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304433958001#c2371851222775554875
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2010/04/
+
+http://brontecapital.blogspot.com/2010/03/
+
+http://brontecapital.blogspot.com/2010/02/
+
+http://brontecapital.blogspot.com/2010/01/
+
+http://brontecapital.blogspot.com/2009/12/
+
+http://brontecapital.blogspot.com/2009/11/
+
+http://brontecapital.blogspot.com/2009/10/
+
+http://brontecapital.blogspot.com/2009/09/
+
+http://brontecapital.blogspot.com/2009/08/
+
+http://brontecapital.blogspot.com/2009/07/
+
+http://brontecapital.blogspot.com/2009/06/
+
+http://brontecapital.blogspot.com/2009/05/
+
+http://brontecapital.blogspot.com/2009/04/
+
+http://brontecapital.blogspot.com/2009/03/
+
+http://brontecapital.blogspot.com/2009/02/
+
+http://brontecapital.blogspot.com/2009/01/
+
+http://brontecapital.blogspot.com/2008/12/
+
+http://brontecapital.blogspot.com/2008/11/
+
+http://brontecapital.blogspot.com/2008/10/
+
+http://brontecapital.blogspot.com/2008/09/
+
+http://brontecapital.blogspot.com/2008/08/
+
+http://brontecapital.blogspot.com/2008/07/
+
+http://brontecapital.blogspot.com/2008/06/
+
+http://brontecapital.blogspot.com/2008/05/
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 5/11
+
+
+techniques" to make it sound impressive. 
+ 
+People have been adding "cloud" into their product descriptions since it became the New
+Thing. I hope nobody goes short on these guys merely because media hacks write BS
+into PRs. 
+ 
+From their web site they look like a pure-play services company so lack of capex seems
+entirely expected.
+
+
+May 4, 2011 at 12:51 AM
+
+
+John Hempton said...
+
+
+The Petabyte of data not being cool is the nicest thing I have heard said about this. 
+ 
+-- 
+ 
+Archive.Org - which copies the entire internet every few weeks - is 2.9 PB of data. Guess
+that is not cool either. 
+ 
+But there is NOT a PB of data at any financial institution in China. Its just not there... 
+ 
+And given there is not a PB of data - why the hell did they talk about PB in their press
+release... 
+ 
+I guess they made up the press release for stock marketing purposes... like cloud
+computing releases before them... 
+ 
+You could be right - the business is real but the press release made up. 
+ 
+I guess that is a way the short could be wrong... 
+ 
+But I am not sure I would want to be long companies that made up press releases in
+China... I might be wrong being short... but it would be a strange (but possible) outcome. 
+ 
+J
+
+
+May 4, 2011 at 12:58 AM
+
+
+Anonymous said...
+
+
+How do you know they are actually doing anything with the Cloud stuff? It could just be a
+fluffy PR piece to pump up the stock price without anything of substance behind it. The
+revenues come from the "core" business lines.
+
+
+May 4, 2011 at 1:07 AM
+
+
+buyersstrike said...
+
+
+Just ask S1 (SONE) about how capital intensive it is to provide "cloud" (back in Internet
+Bubble 1.0 it was called "outsourced") software and storage to the banking industry. 
+ 
+The business was (and is) far more capital intensive than anyone had anticipated in
+Internet Bubble 1.0 
+ 
+The segregation of client data is of great importance to the banking industry. Even the
+use of co-location on a single physical machine may be forbidden, further reducing the
+"efficiencies" of going to the "cloud"...or as it was called way back before Internet Bubble
+1.0, Client/Server.
+
+
+May 4, 2011 at 1:09 AM
+
+
+janm said...
+
+
+I think you're off by at least two orders of magnitude when looking at the storage involved
+and comparing against Amazon. 
+ 
+One petabyte is 1000 terabytes. A one terabyte drive costs on the order of AUD$100
+retail for a single drive in Sydney. To scale up, of course you need power, rack space,
+controllers, cabling, etc, but we're not talking about hundreds of millions of dollars any
+more. 
+ 
+Let's say the capital costs are two times the cost of the drive for raw storage, and then
+double that for redundancy (drives fail), giving $600/TB in capital cost. Let's round up a bit
+more and have $1MM/PB.  
+
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304434315756#c5512681094824371694
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304434713104#c9049473446323340354
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304435262694#c6680206564341509
+
+http://buyersstrike.wordpress.com/
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304435397615#c3971308342868903116
+
+https://www.blogger.com/profile/13361560903657668505
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://buyersstrike.wordpress.com/
+
+https://www.blogger.com/profile/13361560903657668505
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 6/11
+
+
+ 
+http://en.wikipedia.org/wiki/Petabyte 
+ 
+http://en.wikipedia.org/wiki/Orders_of_magnitude_(data) 
+ 
+The Amazon elastic block store lets you walk up and create a 1TB storage volume, and
+they will charge $100/month, plus access fees. Once 1000 customers do that, they are
+managing 1PB of data. 
+ 
+The discussion at: 
+ 
+http://andirog.blogspot.com/2008/03/how-much-data-is-in-amazon-s3.html 
+ 
+Puts the S3 storage at 22PB in 2008. There has been growth since then, and I'd be
+surprised if they're not managing more than 100PB of data. (No real information of
+course, and I haven't even looked at their financial results to reverse engineer the
+figures.) 
+ 
+So, I agree that many Chinese companies seem to be able to do magic stuff with almost
+nothing, but on the face of it, $1MM for 1PB doesn't seem off too much.
+
+
+May 4, 2011 at 1:11 AM
+
+
+John Hempton said...
+
+
+If cloud storage were as simple as buying TB hard drives and linking them then there
+would have been no battle for 3Par. 
+ 
+This is complicated stuff - and you need the box to understand WHERE everything is. 
+ 
+Amazon charge more like 100 dollars a month per terrabyte connected to a server... 
+ 
+http://alestic.com/2009/06/ec2-ebs-raid 
+ 
+These numbers are a bit old - but the costs have probably halved since then... but no my
+order of magnitude is not off. 
+ 
+This company would have had to be truly miraculous to increase fixed assets by only 1.6
+million whilst increasing revenue by 40-50 percent. 
+ 
+I dont think they could have offered any cloud services at all (no fixed assets). But they
+must be doing something really special. 
+ 
+Just wish I understood what. 
+ 
+--- 
+ 
+I mean these are really truly special numbers. 
+ 
+John
+
+
+May 4, 2011 at 1:21 AM
+
+
+John Hempton said...
+
+
+If cloud storage were as simple as buying TB hard drives and linking them then there
+would have been no battle for 3Par. 
+ 
+This is complicated stuff - and you need the box to understand WHERE everything is. 
+ 
+Amazon charge more like 100 dollars a month per terrabyte connected to a server... 
+ 
+http://alestic.com/2009/06/ec2-ebs-raid 
+ 
+These numbers are a bit old - but the costs have probably halved since then... but no my
+order of magnitude is not off. 
+ 
+This company would have had to be truly miraculous to increase fixed assets by only 1.6
+million whilst increasing revenue by 40-50 percent. 
+ 
+I dont think they could have offered any cloud services at all (no fixed assets). But they
+must be doing something really special. 
+ 
+
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304435518096#c7016221270791415928
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436110650#c4903755180512139090
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 7/11
+
+
+Just wish I understood what. 
+ 
+--- 
+ 
+I mean these are really truly special numbers. 
+ 
+John
+
+
+May 4, 2011 at 1:21 AM
+
+
+janm said...
+
+
+One more thing ... 
+ 
+The place where data really grows is recording CCTV surveillance video. An reasonable
+quality MPEG-4 stream might be ~150kB/s. A network with 100 cameras generates
+15MB/s, or over 1TB/day. 
+ 
+Your quote from the press release doesn't describe the data being stored. But the data
+coming out of banks isn't just transaction data, some of it is quite big ...
+
+
+May 4, 2011 at 1:22 AM
+
+
+Anonymous said...
+
+
+This is a completely facile analysis and you should be ashamed of yourself for publishing
+it. The LFT cloud solution is simple and takes unique advantage of certain labor
+efficiencies available in China. 
+ 
+Much like another extraordinarily efficient company, China Agritech, Longtop employs a
+number of Chinese superhumans who simply memorize terabytes of data (which is then
+recited to banking clients whenever they come calling). 
+ 
+And that is why labor costs are rising at this company and capex remains minimal. 
+ 
+I expect a retraction any day Mr. Hempton.
+
+
+May 4, 2011 at 1:26 AM
+
+
+John Hempton said...
+
+
+You don't get to a petabyte with transaction and account data. 
+ 
+You can get to a PB with videocams. 
+ 
+I guess it is possible they store forever and for access photos of people at ATM
+machines. 
+ 
+I remember a decade ago talking to McData and they had huge systems a small fraction
+of this size which would do all of a major Western bank... 
+ 
+J
+
+
+May 4, 2011 at 1:27 AM
+
+
+Anonymous said...
+
+
+John, 
+ 
+Re: "But there is NOT a PB of data at any financial institution in China. Its just not there..." 
+ 
+I don't think Archive.org is a good comparison. For example, Yahoo claimed in 2008 that it
+then had the largest data warehouse in the world at 2 petabytes. There is an article that
+says Facebook currently has a 21 petabyte database. So point being that PB databases
+are not that special or uncommon in these days. So I don't think it is a stretch to think that
+there are many PRC banks with PB databases at this time.  
+ 
+Also I read the press release as saying they have the theoretical capabilities of having PB
+storage. It is likely that this is more of a sales pitch and they will go on to actually spend
+capital to build up the infrastructure once they get the business from client. Or as others
+have suggested, that they will simply help companies build PB databases.  
+ 
+But one odd thing to me is that while I can understand startups relying on cloud storage,
+but I find it strange that any financial institution would be looking towards having a third-
+party manage their storage. It is simply too sensitive of a data to rely on someone else. 
+
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436110830#c8580014624292750427
+
+https://www.blogger.com/profile/13361560903657668505
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436156276#c9043738515583732842
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436389174#c4793037717361596020
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436445204#c6023641851207803356
+
+https://www.blogger.com/profile/13361560903657668505
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 8/11
+
+
+ 
+In any case, I think the press release is really more of a sales pitch/marketing fluff piece
+than anything else. And from my experience, this type of fluff press releases are fairly
+common in the technology industry (US, PRC, etc).
+
+
+May 4, 2011 at 1:35 AM
+
+
+janm said...
+
+
+I've been building systems that store data since the 80s, and I understand the issues
+involved. It is important to understand just how much cheaper data storage is getting.
+Yes, there are software issues, but the release makes the point: this isn't a relational
+database. 
+ 
+There are big archiving requirements for surveillance these days; it is not unusual to have
+networks of 100s of cameras, and they all need to be recorded. Think monitoring on
+infrastructure, roads, trains, bank branches. The requirement isn't the photo taken at an
+ATM. 
+ 
+Just a single train might have 30 cameras and an onboard system for storing 14 days
+worth of surveillance. Then consider a network of trains, stations, and you can see the
+need for a lot of storage. This stuff is practical now; it wasn't practical that long ago. 
+ 
+Something like bank transaction data is much, much smaller.
+
+
+May 4, 2011 at 1:41 AM
+
+
+Anonymous said...
+
+
+John, 
+ 
+Do the honorable thing and retract your statements 
+ 
+---Lim Kin San
+
+
+May 4, 2011 at 1:51 AM
+
+
+John Hempton said...
+
+
+If they are doing what they say they are doing in the accounts and buying the equipment
+for other people (read the last 20F which is what they say) then the margin will be lower. 
+ 
+We have either (a) too high a margin or (b) too little capex or (c) a miracle. 
+ 
+I do not need to retract my statements - its just that the nature of the miracle performed
+has changed.... 
+ 
+John
+
+
+May 4, 2011 at 2:03 AM
+
+
+IF said...
+
+
+I am one of those people who thinks one Petabyte is not all that much. And again, the
+bean counters like spinning facts in their releases.
+
+
+May 4, 2011 at 2:04 AM
+
+
+Adrien said...
+
+
+Who is Lim Kim San? And why so keen for John to retract? Are you speaking on behalf of
+Longtop?
+
+
+May 4, 2011 at 2:05 AM
+
+
+John Hempton said...
+
+
+Seriously Mr San. 
+ 
+If they are buying equipment and on-selling it to the bank - something they say they are
+doing in the 20F - then the margin is unbelieveably high. 
+ 
+I have a choice of miracles here. I am not however going to dismiss the possibility that the
+company is miraculous. 
+ 
+J
+
+
+May 4, 2011 at 2:05 AM
+
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304436920979#c7356176361577295524
+
+https://www.blogger.com/profile/13361560903657668505
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304437300394#c6649940283190542813
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304437894956#c747933986202110701
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438616962#c6694737966897433268
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438648998#c5148510094331807902
+
+https://www.blogger.com/profile/05172309107700268678
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438708232#c7676694676524868
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438755752#c7243580023160046590
+
+https://www.blogger.com/profile/13361560903657668505
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/05172309107700268678
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 9/11
+
+
+John Hempton said...
+
+
+Seriously Mr San. 
+ 
+If they are buying equipment and on-selling it to the bank - something they say they are
+doing in the 20F - then the margin is unbelieveably high. 
+ 
+I have a choice of miracles here. I am not however going to dismiss the possibility that the
+company is miraculous. 
+ 
+J
+
+
+May 4, 2011 at 2:05 AM
+
+
+John Hempton said...
+
+
+Seriously Mr San. 
+ 
+If they are buying equipment and on-selling it to the bank - something they say they are
+doing in the 20F - then the margin is unbelieveably high. 
+ 
+I have a choice of miracles here. I am not however going to dismiss the possibility that the
+company is miraculous. 
+ 
+J
+
+
+May 4, 2011 at 2:05 AM
+
+
+Anonymous said...
+
+
+I don't see what you're harping on here. They signed up a bank as a customer. They also
+claim to have PB-scalable RDBMS (which is bullshit, nobody has cracked that nut yet
+except for very flat databases). I don't see where they claim the bank has a PB worth of
+data (although an investment bank might, if they have enough tentacles). There's no
+claim or implication that they've bult a massive infrastructure.
+
+
+May 4, 2011 at 2:27 AM
+
+
+Anonymous said...
+
+
+I have to agree that the release does not say they built a petabyte cloud. They said they
+sold a solution that has the ability to manage a petabyte cloud.  
+ 
+That's pretty easy to do, I just have to sell something that can use an EMC SAN
+effectively, or an AWS account LOL. 
+ 
+FWIW, you can get to a petabyte with historical tick data on a few active stock exchanges
+pretty quick. 
+ 
+There might be some other reasons the financials look suspicious, but this marketing
+puffery seems pretty typical and is not one of them.
+
+
+May 4, 2011 at 6:06 AM
+
+
+AS said...
+
+
+John -- 
+ 
+I think you're off on this article.  
+ 
+I'm an entrepreneur in the Hadoop/IaaS space, and from my perspective the press
+release is just standard fluff. 
+ 
+First off, a Petabyte is not that much for a national size bank in the US (or China). To give
+you a sense of scale, if a transaction is a 100 bytes block, then a data warehouse
+containing 10B transactions would be a petabyte. A customer base of 100M would easily
+generate a couple petabytes of transaction data a year.  
+ 
+In terms of the press release, if I didn't know better I'd just say that it sounds like they set
+up a Hadoop cluster for a bank to store their data. In this case, there are no licensing fees
+(hadoop is open source) and they would have booked most of their revenue as
+Professional Services/Consulting. It's entirely possible they just charged an installation
+fee/maintainence for installing their "solution" on top of bank purchased hardware. That's
+the standard arrangement for the industry. The bank in question wouldn't have been the
+first to drastically overpay for a storage/data warehousing solution. 
+ 
+
+
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438756575#c7291368371918341607
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304438756901#c1089604729806918915
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304440025998#c4942914635398344224
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304453193362#c4473928956481942432
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 10/11
+
+
+Newer Post Older PostHome
+
+
+Subscribe to: Post Comments (Atom)
+
+
+Post a Comment
+
+
+Create a Link
+
+
+-A.S. 
+P.S. 
+I've been reading your blog for years and have learned a lot. Just think you're a bit off on
+the details on this one.
+
+
+May 4, 2011 at 6:46 AM
+
+
+Anonymous said...
+
+
+John, 
+ 
+Do the honorable thing and retract your statments questioning Longtop's data archiving
+solutions. 
+ 
+---Lim Kim San
+
+
+May 4, 2011 at 10:42 AM
+
+
+John Hempton said...
+
+
+I do not retract the comments. The accounts are miraculous. They increased revenue by
+more than 40 percent on almost no incremental capital. 
+ 
+There is a miracle going on. What miracle that is you can explain. 
+ 
+Something is very - well - puzzling here. 
+ 
+John
+
+
+May 4, 2011 at 11:02 AM
+
+
+Anonymous said...
+
+
+Lim Kin San 
+ 
+Do the honorable thing and tell us you have no involvement with this company.....and
+you're not as shonky as the rest of Asian business.
+
+
+May 8, 2011 at 12:14 PM
+
+
+Links to this post
+
+
+The content contained in this blog represents the opinions of Mr. Hempton. You should
+assume Mr. Hempton and his affiliates have posi�ons in the securi�es discussed in this
+blog, and such beneficial ownership can create a conflict of interest regarding the
+objec�vity of this blog. Statements in the blog are not guarantees of future performance
+and are subject to certain risks, uncertain�es and other factors. Certain informa�on in this
+blog concerning economic trends and performance is based on or derived from
+informa�on provided by third-party sources. Mr. Hempton does not guarantee the
+accuracy of such informa�on and has not independently verified the accuracy or
+completeness of such informa�on or the assump�ons on which such informa�on is based.
+Such informa�on may change a�er it is posted and Mr. Hempton is not obligated to, and
+may not, update it. The commentary in this blog in no way cons�tutes a solicita�on of
+business, an offer of a security or a solicita�on to purchase a security, or investment
+advice. In fact, it should not be relied upon in making investment decisions, ever. It is
+
+
+General disclaimer
+
+
+
+http://brontecapital.blogspot.com/2011/05/more-comment-on-longtops-capital.html
+
+http://brontecapital.blogspot.com/2011/05/scuttlebutt-method-of-stock-research.html
+
+http://brontecapital.blogspot.com/
+
+http://brontecapital.blogspot.com/feeds/4721020082647827417/comments/default
+
+https://www.blogger.com/comment.g?blogID=4815867514277794362&postID=4721020082647827417
+
+https://www.blogger.com/blog-this.g
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304455613303#c2091158484630575770
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304469720951#c4836472869272554197
+
+https://www.blogger.com/profile/03766274392122783128
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304470964665#c3904095370368742850
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html?showComment=1304820879668#c6592081985187934608
+
+https://www.blogger.com/profile/03766274392122783128
+5/19/2018 Bronte Capital: Longtop and the remarkable capital efficiency of the Chinese cloud
+
+
+http://brontecapital.blogspot.com/2011/05/longtop-and-remarkable-capital.html 11/11
+
+
+intended solely for the entertainment of the reader, and the author. In par�cular this blog
+is not directed for investment purposes at US Persons.
+
+
+Awesome Inc. theme. Powered by Blogger.
+
+
+
+https://www.blogger.com/

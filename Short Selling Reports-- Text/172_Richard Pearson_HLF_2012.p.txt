@@ -1,0 +1,1416 @@
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 1/20
+
+
+The Surprising Truth Behind Herbalife Put Volume
+Nov. 30, 2012 10:35 AM ET36 comments
+by: Richard Pearson
+
+
+Earlier in my career, I was a Director in a large Wall Street investment bank focused
+exclusively on pricing and structuring equity and equity-linked derivative securities. A short
+work week consisted of 80 hours, while longer ones regularly exceeded 100 hours. During
+that time I learned quite a bit about how large quant hedge funds make outsized returns
+by making smart derivative bets.
+
+
+As I look at the recent put volume in Herbalife (HLF), it has become clear to me that one
+(or more) large funds are likely making a small fortune by doing a trade that is completely
+misunderstood by the wider market. In fact, as smaller, less informed speculators attempt
+to copycat a trade that they don't even understand, they are actually helping to line the
+pockets of the smart money who actually understands the trade.
+
+
+The large volume in the puts of controversial Herbalife, following not long after a crushing
+commentary by notable short investor David Einhorn, has led many smaller investors to
+conclude that a "whale" in the pond (presumably Einhorn) is making a monumental short
+bet against Herbalife in anticipation of a cataclysmic drop in the share price. Einhorn had
+raised several probing questions about Herbalife on its conference call back in May
+causing the stock to plunge by 35% from $70.00 to $45.00, where it remains today.
+
+
+Unfortunately for the smaller speculators who have recently been piling into what they
+think are copycat put trades, all indicators suggest there is almost certainly nothing
+"coming." A fairly simple technical analysis of what has been going on with the stock and
+the puts shows that, whoever he is, the "whale" is almost certainly SELLING puts against
+a short position in the stock serving as a hedge. By doing this, the whale is collecting
+millions of dollars in option premiums direct from the pockets of smaller speculators, while
+taking on virtually no risk.
+
+
+Proof of this fact is illustrated in detail in several parts below, but can be summarized as
+follows:
+
+
+With well over $50 million of Herbalife puts traded in just a few weeks, only a large
+mega fund would ever be able to commit this amount of capital if it were to be a
+"naked" put trade
+Yet any fund with that amount of capital would quickly realize that the economics of
+buying these expensive puts (at a date far before expiration) are massively inferior to
+
+
+
+http://articles.chicagotribune.com/2012-11-27/news/sns-rt-markets-stocksnews-update-8l1e8mrct2-20121127_1_trade-alert-option-volume-frederic-ruffy
+
+http://www.businessinsider.com/david-einhorn-herbalife-2012-5
+
+http://www.businessinsider.com/david-einhorn-herbalife-2012-5
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 2/20
+
+
+simply shorting a large amount of common stock. This is illustrated clearly below.
+A fund with that much capital would simply short large amounts of the stock, rather
+than buying puts, which would actually get them "net short" at far lower (less desirable)
+prices.
+Even with a $4 billion company such as Herbalife, if such massive volumes of puts
+were bought "naked," there would be an easily observable decline in the share price
+simply due to delta hedging that market makers must do when selling the puts.
+Instead, the share price has only declined by a few percent over the past few weeks,
+which has been largely due to copycat short traders who are anticipating "something
+coming."
+The whale is clearly SELLING these puts (which puts upward pressure on the share
+price due to market marker delta hedging) while simultaneously shorting common
+stock (putting downward pressure on the share price) as a hedge. The result has been
+a relatively stable share price considering the volume of puts being traded.
+This is nothing complicated and is simply a large "covered put trade" which is just the
+inverse of the much more common (and more widely understood) "covered call trade."
+The bet is slightly bearish / neutral in terms of what is expected for the share price of
+Herbalife going forward. It is definitely not an extreme bearish bet on Herbalife.
+
+
+Looking at these points in detail requires several different pieces of analysis:
+
+
+Part I - Evidence of delta hedging
+
+
+During the month of November (with the exception of Thursday, November 29), average
+daily volume in Herbalife shares has been relatively consistent at roughly 1.5 million
+shares per day. During this time, the highest volume on the shares was 2.7 million shares
+on October 31, while the lowest was 350,000 shares on November 23. November 29,
+represents an obvious special case for the share price and will be addressed separately
+below.
+
+
+Anyone watching the options activity (which seems to be quite a few people lately) will
+have noticed that on individual days there was often more than 10,000 put contracts
+traded on various November and December strikes. This equates to over 1 million shares
+per day of shares underlying the options. Open interest on Herbalife put options as of
+Thursday, November 29, stood at nearly 50,000 contracts, equivalent to 5 million shares
+of Herbalife.
+
+
+Strike Price Change Bid Ask Volume Open Int Delta
+
+
+
+http://articles.chicagotribune.com/2012-11-27/news/sns-rt-markets-stocksnews-update-8l1e8mrct2-20121127_1_trade-alert-option-volume-frederic-ruffy
+
+http://www.google.com/finance/option_chain?q=NYSE:HLF&authuser=0&ei=wq64UOjfNs3eqAGqbg
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 3/20
+
+
+$27.50 $0.10 -$0.15 $0.05 $0.20 197 1,255 0.03
+
+
+$30.00 $0.45 -$0.02 $0.10 $0.30 203 956 0.04
+
+
+$32.50 $0.25 -$0.56 $0.20 $0.40 3,595 2,422 0.06
+
+
+$35.00 $0.35 -$0.83 $0.35 $0.55 2,734 3,780 0.10
+
+
+$37.50 $0.65 -$0.94 $0.60 $0.75 5,879 3,971 0.16
+
+
+$40.00 $1.10 -$1.05 $1.00 $1.20 12,198 9,911 0.27
+
+
+$42.50 $1.71 -$1.09 $1.60 $1.90 10,067 6,845 0.38
+
+
+$45.00 $2.74 -$1.26 $2.65 $2.95 5,925 9,018 0.53
+
+
+$47.50 $3.80 -$1.25 $3.90 $4.40 9,099 10,342 0.68
+
+
+Total: 49,897 48,500
+
+
+Different strikes and maturities on the options have different "deltas." Delta represents the
+sensitivity of the option price to any move in the underlying share price. It also (therefore)
+represents the "hedge ratio," which market makers use when selling these options. For
+example, when the delta of the option is 0.70, a market maker would be required to sell
+0.70 shares for every share underlying the put options that he is selling in order to
+maintain an effective theoretical hedge.
+
+
+The further out-of-the money the options are (i.e. the lower the strike price), the lower the
+delta. At the time of the large trades on the $47.50 December puts a few weeks back, the
+delta was around 0.70, while the delta on the $40.00 puts was around 0.20. The lower
+strike puts have very low deltas and fewer contracts being traded, so these are less
+influential.
+
+
+If we assume that the overall, average delta for the larger put trades was around 0.40,
+then a trade of 10,000 naked put contracts (which covers 1 million underlying shares)
+would imply that market makers would need to be shorting 400,000 shares that day, or
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 4/20
+
+
+about 27% of the average daily volume on any given day. And in fact, on the lighter
+volume days for the stock this percentage becomes substantially higher.
+
+
+Yet as shown below, over the past month, the most that the stock has ever moved on a
+single day was a 5% decline, which occurred only once on November 2. In more recent
+weeks, the stock had typically only moved by no more than about +/- 2% per day, which is
+clearly not indicative of a large naked short bet against the stock.
+
+
+Instead, what we have likely seen is that the whale has been SELLING large amounts of
+put options (which actually puts upward pressure on the share price) while hedging this
+trade by selling common stock (putting downward pressure on the stock). The net effect
+has been that the stock has actually been quite flat during the month of November, trading
+down just 8% since November 2, despite the perceived epic short bet against the
+company.
+
+
+For the sake of completeness, the November share price activity is presented as follows:
+
+
+Date Closing price % change Volume
+
+
+28-Nov $45.00 -3.2% 2,575,996
+
+
+27-Nov $46.50 -2.5% 1,742,850
+
+
+26-Nov $47.68 -1.7% 1,036,809
+
+
+23-Nov $48.49 -0.4% 358,991
+
+
+21-Nov $48.67 3.0% 1,356,163
+
+
+20-Nov $47.26 1.6% 2,286,363
+
+
+19-Nov $46.50 3.3% 2,315,440
+
+
+16-Nov $45.01 -1.3% 2,504,957
+
+
+15-Nov $45.61 -0.3% 1,046,754
+
+
+14-Nov $45.75 -1.2% 1,250,729
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 5/20
+
+
+13-Nov $46.29 0.0% 1,258,742
+
+
+12-Nov $46.27 0.0% 916,547
+
+
+9-Nov $46.26 0.2% 1,580,376
+
+
+8-Nov $46.15 -2.3% 1,109,006
+
+
+7-Nov $47.25 -1.6% 1,115,233
+
+
+6-Nov $48.04 -0.8% 1,169,083
+
+
+5-Nov $48.41 -1.0% 1,330,179
+
+
+2-Nov $48.92 -5.2% 1,608,033
+
+
+1-Nov $51.58 1,831,933
+
+
+Average $47.14 -0.7% 1,494,431
+
+
+Min $45.00 -5.2% 358,991
+
+
+Max $51.58 3.3% 2,575,996
+
+
+Part II - What happened on November 29?
+
+
+For the first time in a month, Herbalife stock had a notably negative day on Thursday,
+November 29. The stock fell as much as 6% intraday and on much higher volume of 7.7
+million shares, briefly hitting a new 52-week low.
+
+
+As the share price started coming off, my phone starting ringing and my inbox starting
+filling up. The rumor in the market was that the much anticipated "event" for Herbalife
+stock was upon us and that the messenger was going to be Citron Research rather than
+David Einhorn. The rumor of the Citron report even showed up on the newswires;
+however, a Citron spokesperson declined to comment.
+
+
+
+http://news.investors.com/business/112912-635092-usana-citron-accuses-marketing-pyramid-sales-in-china.htm?ven=yahoocp,yahoo
+
+http://www.benzinga.com/news/12/11/3130978/citron-spokesperson-declines-comment-on-chatter-of-new-herbalife-report
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 6/20
+
+
+Short sellers certainly have a very clear memory of the effect that a recent Citron report
+had on shares of Questcor (QCOR), and were no doubt hoping for a similar play on
+Herbalife. On Tuesday, September 18, QCOR shares closed at $50.52. The next day,
+Citron published a "smoking gun" report that certainly did not disappoint followers, sending
+the shares to a low of $22.26, a drop of 55%. The shares closed the day at $26.36, and
+over the subsequent few weeks they fell as low as $17.83, down 64% from the time of
+Citron's report. Since that time, the shares have recovered slightly, to around $27.00.
+
+
+As it pertains to Herbalife, attentive investors will remember that on Tuesday, September
+18, (just one day before the Citron report on QCOR), a very large trade on short dated out
+of the money puts occurred on QCOR. When I say "large" and "short dated" I mean that
+someone placed a bet of $5 million on out of the money puts, which would expire
+worthless just 3 days later if there wasn't a massive drop in the stock. When the stock
+experienced its epic drop, these options quickly increased in value by 30-50x. The stock
+dropped so quickly after the report that there was simply no time to sell these options fast
+enough, but even if we assume that sensible limit orders had been put in, it is very safe to
+assume that the profit on these options easily exceeded $100 million in a single day, or a
+return of about 20x. And obviously this excludes any profit that a short seller would have
+likely made on a substantial short position on common stock. It was a profitable day and
+no doubt someone will be having a Merry Christmas this year (or perhaps a Happy
+Hanukkah as the case may be).
+
+
+With QCOR, the "smoking gun" underlying the report was actually very public information
+available to anyone with the tenacity to find it. In addition to other findings and analysis by
+Citron, the key piece of information was news of a reduction in payment coverage for
+QCOR's drug Acthar by insurance provider Aetna (NYSE:AET). As it turns out, this
+information had been publicly posted on Aetna's website for five days prior to the Citron
+report, so it came as a painful after-the-fact realization for many investors that they too
+could have placed an identical mega trade and made a small (or large) fortune had they
+only shared Citron's persistence in searching for relevant information. The implications of
+the Aetna news on the share price of QCOR should have been patently obvious to anyone
+who saw it, as evidenced by the massive share price drop, which occurred after Citron
+simply brought it to light.
+
+
+As the rumors of an impending Citron report swirled around Herbalife on Thursday, the
+share price began dropping on volume and obvious naked put buying picked up
+substantially. As shown above, nearly 50,000 put contracts traded on Thursday alone,
+equivalent to 5 million shares.
+
+
+
+http://www.citronresearch.com/questcor-update-aetna-denies-nearly-all-coverage-for-acthar-gel/
+
+https://seekingalpha.com/symbol/AET
+
+http://www.aetna.com/cpb/medical/data/700_799/0762.html
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 7/20
+
+
+However, early in the day Citron released a report on Usana Health Services
+(NYSE:USNA) instead of the anticipated Herbalife. The misperception that this would be
+an Herbalife report is somewhat understandable, given that, similar to Herbalife, Usana is
+a "direct selling" multi-level marketing (MLM) company that markets "nutritional and
+personal care products." This latest Citron report continues on a trend from Citron in
+exposing MLM companies such as Nu Skin (NYSE:NUS) and its operations in China.
+China has very strict laws against most MLM marketing practices, however both Nu Skin
+and Usana claim to be in compliance.
+
+
+In any event, once the market realized that Citron was writing about an entirely different
+MLM company, shares of Herbalife quickly rebounded as the shorts realized they had
+guessed wrong. The upward pressure was further reinforced by the announcement from
+Herbalife that its COO had recently purchased over 45,000 shares of the company, worth
+over $2 million. So if "something is coming," clearly Herbalife's COO is not aware of it. And
+by the end of the day, Herbalife had actually risen by more than 3% in the after market,
+more than recovering from its earlier drop of as much as 6%.
+
+
+Part III - the economics of buying puts is inferior to shorting common stock unless
+the buyer buys them close to expiration and has a clear view on timing of a share
+price move
+
+
+Anyone who eyed the massive QCOR put trade witnessed the miracle of massive
+leverage that options provide, as well as the ability to make mind-boggling profits in a
+short period of time. However, it should be kept in mind that "time is the enemy of the
+options buyer and the friend of the options seller." For these trades to work, the options
+must be purchased very shortly before expirations (minimizing the price paid) and must be
+held for a very short period of time (minimizing the "theta" time decay).
+
+
+In short, if you don't have certainty on timing, options are typically a very inferior way to
+bet on a stock price.
+
+
+The fact that these Herbalife put trades have been going on for several weeks now
+illustrates the fact that someone is more likely selling them in size rather than buying them
+in size.
+
+
+As speculators eyed what they perceived as a mega trade going on, I came across a
+number of comments, which observed that "whoever is buying these puts is losing
+$100,000 per day just due to theta (time value) decay alone, so they absolutely must know
+that something big is coming."
+
+
+
+http://www.citronresearch.com/usana-an-arresting-story/
+
+https://seekingalpha.com/symbol/USNA
+
+https://seekingalpha.com/symbol/NUS
+
+http://finance.yahoo.com/marketupdate/inplay#hlf
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 8/20
+
+
+In fact, if we flip our assumptions about the whale upside down, we can see that the whale
+was actually making a profit of $100,000 per day in theta by selling these options, most
+likely against a large short position in the common stock as a very sensible hedge as a
+hedge.
+
+
+Looking at the economics of a naked put trade vs. shorting common stock essentially
+proves this to be the case and shows that anyone with the capital to undertake such a
+large put trade would, with 100% certainty, prefer to short a large amount of common
+stock rather than buy puts.
+
+
+I demonstrate this with two cases, using the approximate data from actual put trades that
+have occurred over the past two weeks.
+
+
+When I began watching this activity, the price of Herbalife stock was at $48.00. The prices
+of the $47.50 and $45.00 puts were $5.00 and $2.00 respectively, so those are the
+numbers I use in this analysis.
+
+
+Hypothetical trade #1 consists of buying 6,250 naked $47.50 HLF puts at a price of $5.00,
+for a cost of $3.1 million. This is compared with shorting an equivalent 625,000 shares of
+common stock at a price of $48.00, which is a $30 million trade.
+
+
+The results are as follows:
+
+
+Share
+
+
+price
+
+
+%
+
+
+change
+
+
+Short
+
+
+stock
+
+
+P&L
+
+
+Long
+
+
+$47.50 put
+
+
+profit
+
+
+Cost of
+
+
+$47.50
+
+
+puts
+
+
+Total put
+
+
+P&L
+
+
+Put
+
+
+inferiority
+
+
+$30.00 -37.5% $11.3 m $10.9 m ($3.1m) $7.8 m ($3.4m)
+
+
+$35.00 -27.1% $8.1 m $7.8 m ($3.1m) $4.7 m ($3.4m)
+
+
+$40.00 -16.7% $5.0 m $4.7 m ($3.1m) $1.6 m ($3.4m)
+
+
+$42.50 -11.5% $3.4 m $3.1 m ($3.1m) - ($3.4m)
+
+
+$45.00 -6.3% $1.9 m $1.6 m ($3.1m) ($1.6m) ($3.4m)
+
+
+$48.00 0.0% - - ($3.1m) ($3.1m) ($3.1m)
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 9/20
+
+
+$50.00 4.2% ($1.3m) - ($3.1m) ($3.1m) ($1.9m)
+
+
+$55.00 14.6% ($4.4m) - ($3.1m) ($3.1m) $1.3 m
+
+
+$60.00 25.0% ($7.5m) - ($3.1m) ($3.1m) $4.4 m
+
+
+As we can see, if a fund were to pay $5.00 for $47.50 puts, they would then be "net short"
+at a price of just $42.50, which is 11% below the entry share price of $48.00 for shorting
+common stock. So even if the share price declined by 11%, the fund would make precisely
+nothing on the put trade, vs. making 3.4 million on the short common trade. By getting
+short stock at $48.00, the fund would make 50 cents per share ($313,000) before the
+$47.50 puts even became in-the-money based on just a 50 cent decline in the stock.
+
+
+If the share price were to decline by 37.5% to $30.00, a huge move, the put trade is still
+inferior because the fund would be short at a far lower price due to the option premium
+paid. The "inferiority" amounts to a consistent $3.4 million in lost profits for any meaningful
+downside move.
+
+
+The only benefit to the put trade is that potential losses on the upside are limited $3.1
+million (the price paid for the puts), whereas potential losses on a short common stock
+position are (in theory) unlimited. But in reality, the fund could easily start covering the
+short common stock position if the share price started rising more than expected, and thus
+losses would be cut early.
+
+
+And in reality, for smaller (more expected) moves in the stock, the short common stock
+position is profitable, compared with the put trade, which will experience substantial losses
+for moves less than 10%. If the stock drops 10% (to $43.20) the fund would make $3
+million by being short common stock vs. losing $437,500 if long the puts after paying
+$5.00 for them.
+
+
+Going further out of the money, hypothetical trade #2 consists of Buying 6,250 naked
+$45.00 HLF puts at a price of $2.00, for a cost of $1.3 million. This is compared with
+shorting an equivalent 625,000 shares of common stock at a price of $48.00, which again
+is a $30 million trade.
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 10/20
+
+
+Share
+
+
+price
+
+
+%
+
+
+change
+
+
+Short
+
+
+stock
+
+
+P&L
+
+
+Long
+
+
+$45.00 put
+
+
+profit
+
+
+Cost of
+
+
+$45.00
+
+
+puts
+
+
+Total put
+
+
+P&L
+
+
+Put
+
+
+inferiority
+
+
+vs. short
+
+
+stock
+
+
+$30.00 -37.5% $11.3 m $9.4 m ($1.3m) $8.1 m ($3.1m)
+
+
+$35.00 -27.1% $8.1 m $6.3 m ($1.3m) $5.0 m ($3.1m)
+
+
+$40.00 -16.7% $5.0 m $3.1 m ($1.3m) $1.9 m ($3.1m)
+
+
+$45.00 -6.3% $1.9 m - ($1.3m) ($1.3m) ($3.1m)
+
+
+$48.00 0.0% - ($1.3m) ($1.3m) ($1.3m)
+
+
+$50.00 4.2% ($1.3m) ($1.3m) ($1.3m) -
+
+
+$55.00 14.6% ($4.4m) ($1.3m) ($1.3m) $3.1 m
+
+
+$60.00 25.0% ($7.5m) ($1.3m) ($1.3m) $6.3 m
+
+
+Once again, we can see that the only benefit to such a trade is in capping potential upside
+losses, which as we know are preventable anyway. Again, if the stock moves down less
+than expected, the put trade incurs substantial losses as opposed to decent gains on
+being short common stock.
+
+
+So the conclusion here is obvious: no one with the money to afford such a trade would
+ever place such a trade simply due to the inferior economics and risk / reward proposition
+that it presents.
+
+
+Part IV - So what is the whale really doing?
+
+
+Now that we know what the whale is NOT buying puts, it is useful to evaluate how
+attractive the "covered put" trade is. This shows the superior economics of such a trade
+under nearly all circumstances.
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 11/20
+
+
+Here I assume that the whale is short $30 million in HLF common stock, and that he has
+been selling the expensive puts to collect the high premiums that they offer as a result of
+the heavy bidding by uninformed speculators.
+
+
+Once again, we assume that the whale got short at a price of $48.00, which is where the
+stock was when the options activity started picking up. The analysis below assumes the
+whale has been selling $47.50 puts and collecting $5.00 in premiums.
+
+
+Share
+
+
+price
+
+
+% change Short
+
+
+stock
+
+
+P&L
+
+
+Option
+
+
+premium
+
+
+collected
+
+
+Loss on
+
+
+short puts
+
+
+Total P&L 1-month
+
+
+return on
+
+
+$30m
+
+
+$30.00 -37.5% $11.3 m $3.1 m ($10.9) $3.4 m 11.5%
+
+
+$35.00 -27.1% $8.1 m $3.1 m ($7.8) $3.4 m 11.5%
+
+
+$40.00 -16.7% $5.0 m $3.1 m ($4.7) $3.4 m 11.5%
+
+
+$42.50 -11.5% $3.4 m $3.1 m ($3.1) $3.4 m 11.5%
+
+
+$45.00 -6.3% $1.9 m $3.1 m ($1.6) $3.4 m 11.5%
+
+
+$48.00 0.0% $0.0 m $3.1 m $0.3 m $3.4 m 11.5%
+
+
+$50.00 4.2% ($1.3) $3.1 m $1.9 m 6.3%
+
+
+$55.00 14.6% ($4.4) $3.1 m ($1.3) -4.2%
+
+
+$60.00 25.0% ($7.5) $3.1 m ($4.4) -14.6%
+
+
+As we can see here, this is a very slightly bearish trade where whale wins nicely under
+most expected circumstances.
+
+
+If the stock falls dramatically for any reason, the whale makes an 11.5% return on $30
+million in one month.
+If the stock falls just a little, or even stays flat, the whale also makes 11.5% on $30
+million in one month.
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 12/20
+
+
+Even if the stock rises back to $50.00 the whale still makes 6.3% on $30 million (in just
+one month) simply due to the high option premiums he collected from punting
+speculators who had hoped for an "event" vs. the relatively small losses incurred on
+the short stock position.
+Only if the stock rises dramatically does the whale lose anything at all, and he always
+has the option to cover his short position early to prevent this.
+
+
+For purposes of this analysis, I have assumed a trade size of $30 million because it
+matches up well with the trade sizes for individual strikes. But as we have seen from the
+massive options activity, the trade has likely been going on for several weeks and is likely
+to be in the size of $200 million or more. Given the demonstrated low risk profile of this
+trade, there is no reason why a large fund would not do this, and the capital requirements
+of a "covered put" trade are clearly offsetting, and therefore much smaller than a naked
+trade on either side, so it is not overly capital intensive.
+
+
+The conclusion that we can reach from this is that there is likely a whale out there who just
+made more than 10% in a single month on at least $200 million, using a very low risk
+trade that takes advantage of smaller naked speculators on a controversial name. The
+controversy surrounding Herbalife is what allowed the put premiums to be bid up to such
+unreasonable levels, and that's what made this trade work.
+
+
+The other conclusion we can reach is that (similar to QCOR) whoever engineered this
+relatively simple covered put trade will be having a very Merry Christmas.
+
+
+Part V - What do we learn from this ?
+
+
+Piling in to a crowded short trade often has a habit of ending up quite badly for those who
+choose to blindly speculate in such a way. And when the trade is wrongly perceived as a
+"sure thing" the results are typically even worse due to the tendency of investors to
+increase their size inappropriately.
+
+
+A good example of this was the "sure thing" short trade, which many speculators piled into
+ahead of the much anticipated lock-up expiry for Facebook (NASDAQ:FB). With over 800
+million shares becoming available for sale, and by insiders with a very low basis, it
+seemed like a precipitous drop in the stock was virtually guaranteed. In advance of the
+expiration, Facebook was trading below $20.00, but by yesterday (Thursday) the stock
+closed at $27.32, up more than 35%. Losing 35% in the course of just 2 weeks is
+unpleasant enough on its own, but the simple fact that because a decline in Facebook
+was perceived as "guaranteed," persuaded many investors (big and small) to get far too
+big into the trade, making the absolute dollar losses all the more substantial.
+
+
+
+http://www.usatoday.com/story/money/business/2012/11/14/facebook-stock-massive-lockup/1703885/
+
+https://seekingalpha.com/symbol/FB
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 13/20
+
+
+The short squeeze in Facebook was very notable for a company of its size, indicating that
+short bets against it were enormous. Once investors realize that Herbalife is not being bet
+against by the whale, the stock could also experience substantial short covering, driving
+the stock back up to $50.00 or above.
+
+
+Chasing Research in Motion (RIMM) down to its inevitable "zero" has recently shown
+similar results for shorts focused on a "sure thing."
+
+
+Shorts are not alone in their over-enthusiasm for the "guaranteed" trade. Long investors in
+Apple Computer (NASDAQ:AAPL) were steadily following a mantra of "Apple $1,000"
+despite the obvious valuation problems this would pose for such an enormous company
+(even despite its spectacular growth and large cash position), and the decline from over
+$700 per share has been unpleasant for many who jumped onto the bandwagon too late.
+
+
+As it pertains to Herbalife, it should be realized that the simple motto of "buy low, sell high"
+applies to options just as much as it does to stock prices. When options are cheap, buying
+them can be a good idea, but only if one has some clear view on the timing of a share
+price move. However when options are overly expensive, and especially when an investor
+has no clear idea on the timing of any major move in the share price, then entering
+covered option trades can prove to be quite profitable and can be safely done in fairly
+large size. However it should always be kept in mind that keeping an effective hedge, as
+the whale did, is critical for preventing catastrophic losses when selling options.
+
+
+For the time being it seems that the smartest move investors can make with Herbalife is to
+simply stop lining the pockets of the whale by no longer bidding up the price of the put
+options in the absence of a clear catalyst for a significant downward move in the stock.
+
+
+As for me, I am short shares of Herbalife from a price of $46.96, but recently sold a
+number of puts to take in the large premium against this position.
+
+
+The author can be reached at comments@pearsoninvestment.com
+
+
+Disclosure: I am short HLF. I wrote this article myself, and it expresses my own opinions.
+I am not receiving compensation for it (other than from Seeking Alpha). I have no business
+relationship with any company whose stock is mentioned in this article.
+
+
+Additional disclosure: The author spent 9 years structuring equity and equity linked
+derivative securities at a major Wall Street investment bank.
+
+
+ Like this article
+
+
+
+http://www.streetinsider.com/Trader+Talk/Facebook+%28FB%29+Continues+to+Ramp%3B+Short+Squeeze+in+Effect/7877829.html
+
+https://seekingalpha.com/symbol/AAPL
+
+https://seekingalpha.com/article/927181-apple-1000-why-it-s-time-to-buy
+
+https://seekingalpha.com/symbol/HLF
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 14/20
+
+
+Comments (36)
+
+
+Steve Zoller, Contributor
+Great article. Thanks.
+
+
+30 Nov 2012, 11:14 AM
+
+
+G. Hudson, Contributor
+I agree with a lot of this article but don't think it tells the whole story. My guess is that a lot of these short
+sellers of HLF are working together(collusion and totally illegal). The only thing that can be manipulated more
+than the share price of HLF is the price of options for HLF. I believe these large short players (large hedge
+funds) initially bought and sold options to each other as to create a large outstanding open interest and to
+drive up the cost of buying these options.
+
+
+By quickly placing these transactions through the system, they bought few options from others outside their
+illegal network of short sellers. In essence by coordinating sales and purchase of these options at various
+prices with each other, they basically had to use very little of their cash to create the appearance of large #'s
+of open put interest. While they were buying options at higher prices from their illegal network short partners,
+they were selling other put options at higher prices back to those same illegal network short partners.
+
+
+I agree that when any other investors outside that network stepped in to buy those same options at the higher
+prices, they(the illegal network of shorts) were right there to take their money.
+
+
+So in combination with making money from people stupid enough to follow their lead in to this buying frenzy
+of WAY out of the money puts and with ACTUALY very little money out of pocket from this illegal network of
+shorts, they were able to create an atmosphere of fear so they could scare HLF's longs into selling their
+shares as they drove HLF's share price down on November 29th.(This seems a lot more logical to me than
+one whale spending a huge amount of money to initiate these put options- someone had to buy them initially
+at the ask price to drive their price up.)
+
+
+02 Dec 2012, 11:31 AM
+
+
+Tony Dee
+Well now we know that the 'whale" was Ackman who bought, didn't sell puts and made his announcement just
+before December 2012 options expiration with that ridiculous so called presentation with 344 pages of crap.
+
+
+And we also now know that this was a pump and dump tactic by Ackman. The puts cashed out 2 days later.
+Nice timing Ack! And just in time to add it to his failing funds prospectus to show a better rate of return.
+
+
+Of course we also now know that Ackman is now down around $700 million or so and is faced with investor
+redemptions. His fund is once again performing badly and this time Ackman is not able to perform a Houdini
+act.
+
+
+30 Dec 2013, 12:02 AM
+
+
+
+https://seekingalpha.com/author/steve-zoller
+
+https://seekingalpha.com/author/g-hudson
+
+https://seekingalpha.com/user/3736741
+
+https://seekingalpha.com/user/342302
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 15/20
+
+
+Lorax666
+Your arithmetic didn't net out the interest on borrowing the common. How much of a difference is there?
+
+
+30 Nov 2012, 11:59 AM
+
+
+ghaukness0929
+Can someone provide a good book on Options trading? Please don't say something with the title Dummies in it
+(though I may be one). Something designed for a deep analysis with empirical rationale and findings..basically
+whatever the "bible" of options trading would be.
+
+
+30 Nov 2012, 12:04 PM
+
+
+Trader's Profit Compass
+"Options as Strategic Investment" by McMillan is widely regarded as the bible of options trading ......be
+forewarned though, the thing can be daunting, but everything you cared to know about options is in there.
+
+
+30 Nov 2012, 01:34 PM
+
+
+losbronces
+No-Hype Options Trading: Myths, Realities, and Strategies That Really Work (Wiley Trading) by Kerry Given.
+Provides examples for you to work through and learn from.
+
+
+30 Nov 2012, 04:46 PM
+
+
+ghaukness0929
+Nice, thanks guys. Been wanting to diversify my strategies into options for awhile.
+
+
+30 Nov 2012, 05:44 PM
+
+
+Mark Williams, Contributor
+"Volatile Markets Made Easy" by Guy Cohen is also pretty good.
+
+
+02 Dec 2012, 02:03 AM
+
+
+tbates757
+This stock has been some hedge fund's whipping boy for almost 6 months now. I caught on to it a couple months ago,
+when I realized it was range bound and the unusual options activity in the name. The powers at be will not let the
+stock drop below $42, so it's always safe to buy it below $45 (below $44 is a gift) and it will usually rally to around
+$53, and that's where the hedge fund repeats the cycle of shorting the stock and selling the puts. It's clear market
+manipulation and if we had a competent SEC there would be a lot more of these Ivy League crooks in jail.
+
+
+30 Nov 2012, 02:15 PM
+
+
+Pinocchio1
+Must outlaw shorts 
+It goes against the purpose of having a stock market. 
+
+
+
+https://seekingalpha.com/user/342302
+
+https://seekingalpha.com/user/1014116
+
+https://seekingalpha.com/user/1394791
+
+https://seekingalpha.com/user/397242
+
+https://seekingalpha.com/user/1014116
+
+https://seekingalpha.com/author/mark-williams
+
+https://seekingalpha.com/user/2632561
+
+https://seekingalpha.com/user/1065059
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 16/20
+
+
+Instead of Capital raising we got Capital destruction by financial-organized-crime
+
+
+01 Dec 2012, 08:48 AM
+
+
+Tony Dee
+Nothing wrong with being short. What is wrong is making up fake stories to artificially drive the price of the
+stock down. What ever happened to fundamentals and most importantly fair play?
+
+
+30 Dec 2013, 12:04 AM
+
+
+Perry Dykes
+Nice work. Thanks.
+
+
+30 Nov 2012, 02:40 PM
+
+
+herbertlee
+Hey Richard Thanks for the education.
+
+
+30 Nov 2012, 02:41 PM
+
+
+strassa2
+The big trade yesterday was a closing trade.
+
+
+30 Nov 2012, 03:18 PM
+
+
+staypositive
+Very interesting story, thanks Richard.
+
+
+Other than broker commission is there any other fees and expenses for short seller? The theta effect has to be
+greater than interest paid to stock lenders i would guess
+
+
+30 Nov 2012, 03:22 PM
+
+
+Neal Razi, Contributor
+This was extremely interesting, nice to get a mindset into that level of trading.
+
+
+Smaller investors have some advantages over larger investors; however, being able to out game or out smart hedge
+funds is definitely NOT one of them.
+
+
+30 Nov 2012, 03:44 PM
+
+
+Jazzmusician
+The cat's out of the bag 6 months after the fact ( in full details) from someone who has been shorting the Stock all
+along...how convenient....
+
+
+30 Nov 2012, 04:33 PM
+
+
+
+https://seekingalpha.com/user/3736741
+
+https://seekingalpha.com/user/1122632
+
+https://seekingalpha.com/user/584918
+
+https://seekingalpha.com/user/5892961
+
+https://seekingalpha.com/user/1816161
+
+https://seekingalpha.com/author/neal-razi
+
+https://seekingalpha.com/user/2979231
+
+https://seekingalpha.com/author/mark-williams
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 17/20
+
+
+Mark Williams, Contributor
+If you stop looking for hot tips and start thinking of how you might find your own opportunities to take
+advantage of the insights, you will see more value in the article.
+
+
+02 Dec 2012, 02:16 AM
+
+
+phil.mynutz
+the whale was NOT selling these puts. look at what they did to the level of implied volatility and skew during the
+month of November (excluding yesterday and today). It is impossible that anyone with options knowledge would have
+come to the conclusion that these were sell to open trades. There was a massive buyer(s) of puts for several weeks.
+they continued to jack up vol, and the price of the stock went from low $50s to mid $40's. Yesterday, that huge block
+of trades were closing trades. I feel for the dealer or desk who bot them because implied vols have collapsed over the
+last 2 days directly following those prints.
+
+
+i bet the owner(s) of the puts got wind of the large insider buying taking place and called it a trade. they made millions
+of $s. in my opinion it was a crazy trade to put on. but not my money...
+
+
+There's still a good amount of open interest but much less interesting to watch now.
+
+
+30 Nov 2012, 07:06 PM
+
+
+cliff.pork
+I love it! The retail guys are always trying to figure out what the "smart money" is doing and the market makers are
+always trying to avoid getting burned by the "fast money".
+
+
+I will admit that I only quickly glanced over the article(i don't have that much interest in the underlying or what's been
+happening with it), but I will put in my two cents and risk coming off like an idiot since I did not read the closely.
+
+
+There are a lot of assumptions being made here and one glaringly wrong statement. Something that caught my eye
+right away was " By doing this, the whale is collecting millions of dollars in option premiums direct from the pockets of
+smaller speculators, while taking on virtually no risk." NO RISK? No way. You are assuming that they can continue to
+borrow shares at little to no cost and assuming that they can manage to keep shares from possibly going higher. Also,
+the assumption that market makers are only going to hedge delta via the underlying is a poor one. This discussion
+only scratches the surface of how market makers hedge especially when you start talking about large one sided
+positions in the market.
+
+
+Personally, as a retail investor, I do not waste too much time worrying about who is driving volume or open interest
+and why. But... if I was that interested, I would look at time and sales to see if the large trades were going off at the
+bid or the ask and look at the changes in implied volatility and look for skewes that might indicate where the pressure
+is leading. I may also scour some of the option newsletters. You may be surprised where some of these flare ups
+come from.
+
+
+30 Nov 2012, 08:43 PM
+
+
+Clayton Rulli, Contributor
+cool. The direct inverse of selling covered calls against a matching position in long shares.
+
+
+01 Dec 2012, 02:10 PM
+
+
+
+https://seekingalpha.com/author/mark-williams
+
+https://seekingalpha.com/user/5281031
+
+https://seekingalpha.com/symbol/S
+
+https://seekingalpha.com/user/4908841
+
+https://seekingalpha.com/author/clayton-rulli
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 18/20
+
+
+Duru, Contributor
+News broke on Nov 29th that the COO bought shares to the tune of a cool $2M. I suspect this explains the large
+recovery in the shares that day on such high volume. This SHOULD effectively put a bottom in this stock. The true
+test of any on-going theories on who is buying puts/shorting this stock comes now. Will bears continue to press their
+luck as insiders are loading up on the cheap? If so, they must know something the COO doesn't know...
+
+
+I noticed that over the last 2-3 days, the open interest on the Dec 42.5 and 45 puts actually increased. I think this
+increase supports the thesis here that puts are getting sold to open. Put buyers should have taken advantage of the
+big plunge in the stock on Thursday to lock in profits or to finally minimize losses. Instead, even more positions were
+opened. I am also noticing very little skew in the Dec near-the-money puts vs calls, implying that there is not giddy
+anticipation of some big downside event. This lack of skew is in big contrast to the surge in the put/call ratio and in
+short interest. (You can get these data from Schaeffer's Investment Research). Lastly, amazingly enough, of the nine
+analysts on this stock, they are all still at strong buys?!?
+
+
+This is one fascinating setup, and I suddenly find myself extremely interested in watching and learning from the
+unfolding drama.
+
+
+01 Dec 2012, 07:43 PM
+
+
+phil.mynutz
+lack of skew? skew was crazy bid throughout the month of november. as was vol. skew was more than 2
+standard deviations more expensive than it's average over the last 6 months in looking at 3 month options (90
+/ 110 moneyness)
+
+
+01 Dec 2012, 08:36 PM
+
+
+Duru, Contributor
+Interesting. I was just looking at a snapshot of he latest skew (implied volatility between near-the-money calls
+and puts).
+
+
+02 Dec 2012, 01:15 PM
+
+
+Richard Pearson, Contributor
+Author’s reply »  I think some people are missing my point entirely. The change in vol (and skew) should have been
+much more pronounced given the volume of puts that changed hands during such a short period of time. Smaller
+buyers were pushing up the prices (vol) of the puts, but the constant selling by one or more large funds kept it from
+going too high.
+
+
+That was the entire point of this article, that smaller (uninformed) buyers were lining the pockets of the whale by
+buying up the puts...the he was continually selling.
+
+
+so yet, i agree that there was plenty of buying, but it was by smaller copy cats. The big money trade going on here
+was in constant selling.
+
+
+and yes, this was clearly a closing trade.
+
+
+
+https://seekingalpha.com/author/duru
+
+https://seekingalpha.com/user/5281031
+
+https://seekingalpha.com/author/duru
+
+https://seekingalpha.com/author/richard-pearson
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 19/20
+
+
+02 Dec 2012, 06:00 PM
+
+
+phil.mynutz
+well then you just re-wrote the entire law of supply and demand. considering you're suggesting that a
+motivated seller of something could convince others they were actually motivated buyers and, over a full
+month's time, drove the price higher as they were in fact selling...
+
+
+i know it probably doesn't mean much to you but i'm not buying it. i've traded vol for 5 years now and i have
+never seen a move in vol as violent and quick as we seen in hlf (absent a move in realized vol, of course).
+implied vols move all the time but are usually accompanied with a similar move in realized (close to close)
+volatility; especially when a known event is absent.
+
+
+the only thing i kept telling myself was that, a real piece of info could not be coming because the buyers left
+such a foot print that if they were trading on insider info, they would all go to jail.
+
+
+02 Dec 2012, 07:33 PM
+
+
+dn480
+Richard, you say that the vol "should have been much more pronounced given the volume of puts that
+changed hands during such a short period of time." December vol went from 55 to 80--I'd call that
+pronounced.
+
+
+You also ignore the manner in which these trades occurred. Early in the week, these puts were bought
+electronically over the day in lots of ~500 or less, which caused this pronounced spike in vol. On Thursday, it
+was a market maker committing capital, as these puts traded ~7k at a time. These few block trades are what
+pushed down the vol, and since open interest was unchanged the next day, this confirms these were closing
+trades. I think it is much more likely that the puts were bought electronically throughout the week, then sold to
+close in blocks on Thursday, as the investor puked out his position.
+
+
+Your entire assumption is that a "whale" with that much capital would never do a trade that stupid. You'd be
+surprised...
+
+
+03 Dec 2012, 11:55 AM
+
+
+djohnsonhot
+The whales buy puts cheaply and sell when they are expensive.
+
+
+02 Dec 2012, 08:10 PM
+
+
+phil.mynutz
+this is what believe happened as well. bu they bot a lot more than they sold on thursday and friday.
+
+
+still they prolly made lots of money as vol and spot moved their way.
+
+
+02 Dec 2012, 08:19 PM
+
+
+
+https://seekingalpha.com/user/5281031
+
+https://seekingalpha.com/user/5937931
+
+https://seekingalpha.com/user/785681
+
+https://seekingalpha.com/user/5281031
+
+https://seekingalpha.com/user/1360411
+5/22/2018 The Surprising Truth Behind Herbalife Put Volume - Herbalife Ltd. (NYSE:HLF) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1038001-the-surprising-truth-behind-herbalife-put-volume 20/20
+
+
+TwistTie
+I wrote a custom Visual Basic program that searches for stocks that are good candidates for selling puts.
+
+
+HLF stood out like a sore thumb.
+
+
+I was puzzled as to what was happening with HLF. Your analysis makes perfect sense to me. I think I get it.
+
+
+06 Dec 2012, 06:31 AM
+
+
+Mercury Value, Contributor
+Whether or not someone is running some scam with its derivatives, how is Herbalife even still in business is what I
+want to know, considering its product is essentially lead paint mixed with tarwater and pond scum.
+
+
+09 Dec 2012, 09:53 PM
+
+
+A Contrarian
+Richard, I salute you and your analysis. Now we know the whale (I prefer to call it shark). Do you think $37.5 is close
+to bottom? It seems obvious when I looked at put option volume expiring on 22nd Dec. Would highly appreciate your
+comment.
+
+
+19 Dec 2012, 07:30 PM
+
+
+AmelFL
+Richard knew something big was brewing, great analysis !
+
+
+08 Jan 2013, 05:24 PM
+
+
+Tony Dee
+Yes and now we know it was Ackman and the big deal blew up right in Ackmans face.
+
+
+30 Dec 2013, 12:05 AM
+
+
+TimeOnTarget
+Richard --
+
+
+This is an excellent article. I printed it out to study in more detail.
+
+
+I just recently read your articles on the authors who didn't disclose that they were being compensated. That led me to
+start reading some of your other articles. I'm really liking what I am finding--wish I had read you sooner.
+
+
+Thanks
+
+
+01 Apr 2014, 06:05 PM
+
+
+
+https://seekingalpha.com/user/1360411
+
+https://seekingalpha.com/author/mercury-value
+
+https://seekingalpha.com/user/730188
+
+https://seekingalpha.com/user/3537191
+
+https://seekingalpha.com/user/3736741
+
+https://seekingalpha.com/user/4572391
