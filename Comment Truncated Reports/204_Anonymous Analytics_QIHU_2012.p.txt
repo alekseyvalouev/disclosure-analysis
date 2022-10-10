@@ -1,0 +1,1021 @@
+Release Date: July 2, 2012 
+
+
+Qihoo 360 
+
+
+When a Nigerian Prince files for IPO 
+
+
+Ticker:      QIHU:NYSE 
+
+
+Recent Price:    US$17.29 
+
+
+Market Cap:     US$2 billion 
+
+
+
+
+
+Target Price:        US$32.50 
+
+
+Implied Return:    88.0% 
+
+
+
+
+
+
+
+
+Delisting 
+
+
+
+
+
+You should have expected us 
+ 
+
+
+anonanalytics@neomailbox.net 
+www.anonanalytics.com
+1 
+ 
+
+
+ 
+ 
+Any investment involves substantial risks, including complete loss of capital. Any forecasts or estimates 
+are for illustrative purpose only and should not be taken as limitations of the maximum possible loss or 
+gain. Any information contained in this report may include forward-looking statements, expectations, 
+and projections. You should assume these type of statements, expectations, and projections may turn 
+out to be incorrect.  
+ 
+All facts, figures, and opinions are as at the last practicable date. This document has been prepared for 
+informational purposes only. This document is not an offer, or the solicitation of an offer, to buy or sell a 
+security or enter into any other agreement. However, if you do decide to buy shares of Qihoo, maybe 
+you should consider parental locks on your trading account. 
+ 
+We have made every effort to ensure that all information contained herein is accurate and reliable, and 
+has been obtained from public sources we believe to be accurate and reliable, and who are not insiders 
+or connected person of the stock or company covered herein or who may otherwise owe any fiduciary 
+duty to the issuer. However, we do not represent that it is accurate or complete and should not be 
+relied on as such. Anonymous Analytics is not a registered investment advisor. 
+ 
+Do not assume that any company mentioned herein has reviewed our report prior to its publication. We 
+make no representation or warranty, expressed or implied, in respect to the information contained in 
+this report and accept no liability whatsoever for any loss or damage arising from any distribution or 
+reliance on this report or its contents.  
+ 
+We are not short sellers. Anonymous Analytics holds no direct or indirect interest or position in any of 
+the securities profiled in this report. However, you should assume that certain contributors to this 
+report, as well as their members, partners, affiliates, colleagues, employees, consultants, clients and 
+investors, as well as our clients have a short position in the stock of Qihoo 360 (QIHU:NYSE, “Qihoo” or 
+the “Company”) and/or options of the stock, and therefore stand to gain substantially in the event that 
+the price of the stock declines. You should further assume that following the distribution of this report, 
+the aforementioned individuals and entities may continue transacting in the securities covered therein, 
+and may be long, short or neutral at any time hereafter regardless of this report’s initial 
+recommendation. 
+ 
+We waive our right to copyright protection laws as they pertain to redistribution. Accordingly, any part 
+of this report may be reproduced – in context – without our consent. For the sake of congruency and 
+brevity, the terms “We”, “Us”, and “Our” may refer to our associates and consultants from this point 
+forward. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Disclaimer
+2 
+ 
+
+
+ 
+ 
+A few years ago, the global Anonymous collective made headlines by hacking into corporate and 
+government servers. Morals and ethics aside, most within the collective saw this practice as a sort of 
+sport, a way to pit their technical skills against what were supposed to be the best IT departments the 
+world had to offer – those belonging to state governments and multinational corporations.  
+ 
+As the wins and losses piled up on both sides, attacking servers and websites became cliché, if not 
+outright boring. Some within the collective sought other, more interesting challenges. With this 
+background, a cluster of us from Anonymous decided to enter the financial markets. 
+ 
+Anonymous Analytics was established less than a year ago with the aim of using our skills to flush out 
+corruption in the corporate world. We started with China not because Chinese companies are engaged 
+in more fraud than Western companies, but because they are less apt at covering their tracks. China is 
+new to capitalism, and Chinese managers are new to stealing money from the capital markets. But give 
+them a few more years and they will learn how to hide their improprieties just as well as their Western 
+counterparts. After all, China’s specialty isn’t manufacturing – it’s copying. 
+ 
+It’s this inexperience that has made exposing Chinese companies so common. But just like hacking 
+websites, exposing Chinese frauds has become cliché, if not outright boring.  Accordingly, we have 
+turned our attention to several Western companies that may be surprised to find themselves in our 
+crosshairs. We expect to release our first such report by year-end. 
+ 
+In the interim, there is still more work to be done in China. This report is an example of that. This report 
+isn’t very long because it doesn’t need to be. The proof of fraud is simple and took a single phone call to 
+obtain.  
+ 
+It wasn’t our intention to report on another Chinese company so soon, but sometimes finding smoking 
+gun proof of fraud is too easy. Sometimes, management leaves the evidence in plain sight. Sometimes, 
+all it takes to delist a multi-billion dollar company is a right-click of the mouse. 
+ 
+ 
+ 
+ 
+
+
+Love us. Hate us. Anonymous. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+Introduction
+3 
+ 
+
+
+ 
+ 
+Qihoo 360 is an internet company that was brought public on the New York Stock Exchange in 2011. 
+Reporting quarter after quarter of explosive growth that consistently beats analyst estimates, Qihoo has 
+been heralded as the next great internet company on par with Baidu. Morgan Stanley went as far as to 
+call it “a trusted online partner” when it initiated coverage with ‘Overweight’ two months ago. 
+ 
+Perhaps that should have been the first clue to question the glowing ‘buy’ recommendations that 12 of 
+13 analysts have on the stock. Ironically, the Company is so poorly regarded by its Chinese peers that 
+several major internet firms, including Tencent and Baidu, have publically refused to conduct business 
+with Qihoo. Moreover, Qihoo’s CEO, Mr. Hongyi Zhou is infamously credited with having introduced 
+malware to China.
+
+
+1
+ 
+
+
+ 
+Analyst fanfare is understandable, if not naïve. Qihoo’s massive web traffic is supposed to be one of the 
+largest in China. Once the Company manages to effectively monetize this traffic, the sky is the limit – or 
+at least that’s the story management has sold to investors. 
+ 
+It’s a good story. The only problem is that Qihoo’s massive traffic volume is a lie – and we have proof. 
+ 
+Several months ago, our team discovered a piece of code embedded in Qihoo’s directory page. This 
+code was voluntarily placed by the Company so that comScore, an independent third-party auditor, 
+could accurately measure the true traffic volume to the site.  
+ 
+We waited patiently – with hopes that management would release the results of the traffic data to 
+corroborate Qihoo’s claims of massive traffic activity. They never did. In fact, two weeks ago, the code 
+that allowed comScore to measure the traffic volume was quietly removed – as if the whole thing had 
+never happened. 
+ 
+As a result, we mobilized our team and acquired the comScore data ourselves.  
+ 
+As detailed in this report, management chose to keep the data secret because it shows irrefutably that 
+Qihoo’s directory page gets significantly less traffic than management has led the capital markets to 
+believe. All that massive traffic volume that was supposed to transform Qihoo into an internet marvel 
+doesn’t exist.  
+ 
+Qihoo was supposed to be the next great internet company. It turns out that it’s just another fraud. 
+ 
+We have reason to believe that the SEC already has Qihoo on its radar. Given the information presented 
+in this report, along with other issues that we have omitted, we believe that Qihoo will be delisted from 
+the NYSE and management charged with securities fraud. 
+ 
+ 
+ 
+
+
+                                                           
+1
+ Malware and computer viruses are incredibly prevalent in China. To be widely acknowledged as the man 
+
+
+responsible for this a new level of infamy. 
+
+
+Executive Summary
+4 
+ 
+
+
+ 
+ 
+Qihoo 360 is a Chinese internet company that was brought public in 2011 on the New York Stock 
+Exchange by UBS and Citigroup. Evidence suggests that these two investment banks have no analysts 
+with any internet or IT knowledge, because shortly after its debut, Qihoo was the target of multiple 
+articles questioning its accounts which defy any semblance of reality. 
+ 
+But Qihoo and its Chairman and CEO are no strangers to controversy, with both sharing a sordid history. 
+For context and to truly appreciate the magnitude of swindling we’re dealing with here, we provide a 
+summary of some of the more colorful issues surrounding Qihoo and its Chairman/ CEO, Mr. Hongyi 
+Zhou, a man infamously known in China as “the Father of Malware.”
+
+
+2
+ 
+
+
+ 
+ 
+Early 2000s – Origins of Mr. Hongyi Zhou 
+ 
+The Event: Mr. Zhou first appeared on the internet scene in the early 2000s with a website called 
+3721.com. For the sake of brevity, 3721.com was effectively a search engine. 
+ 
+What Happened Next: Mr. Zhou was sued for defamation by the CNNIC (China Internet Network 
+Information Center), an entity under China’s Ministry of Information. The CNIIC suit was successful and 
+Mr. Zhou was ordered to pay restitution and issue a public apology. Perhaps, more relevant to investors 
+than the outcome of the case, is what was uncovered about Mr. Zhou and his company during the 
+discovery process: 
+ 
+
+
+(i) Mr. Zhou falsely advertised that 3721.com had attracted investments from various 
+prominent venture capital firms. As an example, Mr. Zhou claimed that Japan’s JAFCO 
+had invested US$10 million into 3721.com. However, filings showed that there were no 
+external investors, and the company was 100% owned by Mr. Zhou and his wife alone.
+
+
+3
+  
+
+
+ 
+(ii) On October, 2001, Mr. Zhou claimed that 3721.com was China’s first profitable internet 
+
+
+company. 3721.com’s homepage went as far as to state that “monthly income keeps 
+growing at 20%.” However, records obtained from China’s Ministry of Commerce 
+showed that 3721.com had negative equity. A representative from CNNIC stated that 
+there were only two possible explanations – either 3721.com was fabricating its 
+numbers, or Mr. Zhou was lying to the Ministry of Commerce.
+
+
+4
+ 
+
+
+
+
+
+                                                           
+2
+ http://web2.commongate.com/post/China_Malware_War_Gets_Personal 
+
+
+3
+ http://www.eweb.cn/news/newsshow.php?Id=63 
+
+
+4
+ http://www.eweb.cn/news/newsshow.php?Id=63 
+
+
+History 
+
+
+
+http://web2.commongate.com/post/China_Malware_War_Gets_Personal
+
+http://www.eweb.cn/news/newsshow.php?Id=63
+
+http://www.eweb.cn/news/newsshow.php?Id=63
+5 
+ 
+
+
+November, 2003 – Yahoo! acquires 3721.com 
+ 
+The Event: Following a messy lawsuit with the Chinese government, Mr. Zhou promptly sold 3721.com 
+to Yahoo for $120 million. As part of the acquisition, 3721.com was renamed Yahoo! China, and Mr. 
+Zhou was appointed CEO with compensation tied to the division’s financial performance. 
+ 
+What Happened Next: Within a year, Mr. Zhou was fired from Yahoo! China. Yahoo quickly discovered 
+that 3721.com installed itself on client computers and redirected search results. This was widely 
+deemed as malware by the industry, which forced Yahoo to scrap the project. 
+ 
+Our sources tell us that during this time, Yahoo also discovered that Mr. Zhou was falsifying the financial 
+results of his division in order to boost his compensation. In 2006, Yahoo! China filed a suit claiming that 
+“Zhou has embezzled from Yahoo China and defrauded it.”
+
+
+5
+ This suit was later won by Yahoo, and Mr. 
+
+
+Zhou was ordered to pay restitution and publically apologize.
+6
+ 
+
+
+ 
+ 
+August, 2006 – Mr. Zhou assumes his role as Qihoo’s CEO and Chairman 
+ 
+Mr. Zhou was appointed CEO and Chairman of Qihoo after being fired from Yahoo! China. Building on his 
+history of deceptive business practices, Mr. Zhou found himself and Qihoo in various lawsuits brought 
+on by some of China’s biggest internet companies, including Tencent, Kingsoft, and Baidu. All these 
+lawsuits involved charges of deceptive and/or illegal business practices by Qihoo, and in each case the 
+courts ordered Qihoo to issue a public apology and pay restitution. 
+ 
+Qihoo has aliented so many industry players with its business practices that Tencent, Kingsoft, Baidu, 
+Maxthon, and Keniu posted a joint statement accusing Qihoo of unfair competition and announced in a 
+press conference that their software and services would be configured to become non-compatible with 
+Qihoo’s applications.
+
+
+7
+ Yahoo founder Jerry Yang took it one step further and advised potential investors 
+
+
+in the US not to trust his “old acquaintance” from China. Perhaps that is why Mr. Zhou had difficulty 
+rounding up supporters during a Hong Kong trip to discuss Qihoo’s IPO.
+
+
+8
+ 
+
+
+ 
+  
+February, 2012 – Apple bans Qihoo Apps  
+ 
+Earlier this year, Apple temporarily banned all iOS apps by Qihoo. These apps were removed because of 
+abnormal user ratings. It was found that the App Store rankings had been manipulated to promote 
+Qihoo apps.
+
+
+9
+ The relevance of this event will become apparent by the end of this report. 
+
+
+ 
+Qihoo’s CEO is effectively a real life internet troll with a background that defies belief. He has  
+been credited for introducing computer viruses into China. He has alienated industry  
+peers. He has been to court more times than is sensible. And now he’s running a multi-billion  
+dollar NYSE listed fraud. If Mr. Zhou didn’t exist, would it be possible to invent such a character?   
+
+
+                                                           
+5
+ http://archive.webpronews.com//topnews/topnews/wpn-60-20061103YahooChinaWagesWarOnQihoo.html 
+
+
+6
+ http://www.iresearchchina.com/views/2862.html 
+
+
+7
+ http://wenku.baidu.com/view/d3a6c483bceb19e8b8f6ba73.html 
+
+
+8
+ http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20101222000107&cid=1102 
+
+
+9
+ http://www.china.org.cn/business/2012-02/07/content_24575087.htm
+6 
+ 
+
+
+ 
+ 
+Qihoo has a very straightforward and easy to understand business model. Qihoo is best known for its 
+Qihoo 360 browser and anti-virus software products, both which are popular in China. Despite the 
+prominence of these products, the Company makes no money from them. Browsers do not generate 
+any revenue as anyone who remembers Netscape Navigator will attest to. Likewise, it is impossible to 
+charge for software products in China, which has the highest piracy rate in the world. This makes the 
+prospect of selling anti-virus programs so challenging that most (including Qihoo’s own anti-virus) are 
+free to download. 
+ 
+Instead, Qihoo leverages its browser and anti-virus user base to generate revenue from (i) online 
+advertising and (ii) web-based games. As presented in Exhibit 1, the Company generates all of its 
+revenue from these two sources. 
+ 
+            Exhibit 1 
+                  Revenue Source, 2011 
+            (in millions of US$) 
+
+
+ 
+              Source: Company filings 
+ 
+Online advertising sales come primarily from selling link space to advertisers on Qihoo’s directory page, 
+hao.360.cn. Web-based gaming revenue comes predominantly from browser-based subscription games 
+or in-game virtual item sales. 
+ 
+Based on our analysis, we are absolutely confident that management is wildly exaggerating earnings 
+from both these segments. Listening to Qihoo proclaim that their shitty web-games earn vastly more per 
+paying player than World of Warcraft while analysts nod in acceptance is an unbearable exercise
+
+
+10
+. In 
+
+
+any case, this report will focus solely on the online advertising segment, as it generates the vast majority 
+of Qihoo’s company-wide revenue. 
+
+
+ 
+“Dear Friend, I have an urgent business proposal for you.” 
+
+
+         
+-Prince Okoye of Nigeria 
+
+
+                                                           
+10
+
+
+ World of Warcraft play-time costs about $10 per month per player in China. Qihoo claims its games earn US$60 
+per month per paying player. The average salary in China is US$300 a month. Whatever. 
+
+
+0
+
+
+20
+
+
+40
+
+
+60
+
+
+80
+
+
+100
+
+
+120
+
+
+140
+
+
+Online advertising Web-based games Other services
+
+
+Qihoo’s Business Model
+7 
+ 
+
+
+ 
+ 
+Qihoo’s primary revenue generator is its directory page, hao.360.cn. Exhibit 2 presents a screenshot of 
+this page. 
+ 
+Exhibit 2 
+hao.360.cn 
+
+
+
+
+
+Online Advertising
+8 
+ 
+
+
+As unintuitive as it may seem, this simple directory site purportedly generates the majority of Qihoo’s 
+advertising revenue, which in 2011 amounted to a reported US$123 million, up over 200% from US$39 
+million in 2010. Site revenues are generated two ways, Direct Links and Google Search Queries: 
+ 
+ 
+ 
+Google Search Queries – hao.360.cn uses the Google search engine to conduct search queries. Google 
+pays Qihoo a pre-determined fee for each search query originating from the site. This relationship is by 
+no means unique as Google has this type of agreement with legions of sites and applications. Anyone 
+can create a site and code in the Google search component and start collecting payments from Google. 
+Despite this non-relationship, Qihoo refers to Google 42 times in its 2011 annual report and 48 times in 
+its IPO prospectus.  
+
+
+ 
+It should be noted that any sensible Chinese internet company would use Baidu as its third party search 
+engine. However, as we mentioned in the ‘History’ section of this report, Qihoo has alienated most of its 
+peers in the Chinese internet space, including Baidu, so it’s forced to use Google – a company that no 
+longer even operates in China.  
+
+
+ 
+In any case, only a fraction of online revenue comes from Google. The vast majority of company-wide 
+revenue is earned from selling link space on hao.360.cn. 
+ 
+ 
+ 
+Direct Links – Direct link sales on the hao.360.cn page represent the bulk of revenue for Qihoo. We are 
+somewhat surprised that a company valued at over US$2 billion can survive mainly by selling links on a 
+directory site. We know of no other internet company that earns material revenue in this way, as there 
+are countless directory sites on the internet, and even more that have long gone out of business. As a 
+prominent example, Baidu operates its own directory page, but earnings are so negligible that Baidu 
+doesn’t bother to report the segment separately.  
+ 
+Exhibit 3 shows a side by side comparison of hao123.com (owned by Baidu), and hao.360.cn (owned by 
+Qihoo).
+9 
+ 
+
+
+ Exhibit 3 
+ hao123.com (owned by Baidu)                     hao.360.cn (owned by Qihoo)  
+
+
+       
+ 
+ 
+ 
+ 
+Qihoo states that on average it can charge approximately RMB320,000 to RMB350,000 (~US$50,000) 
+per month, per link on its directory page. In some cases, Qihoo claims it can charge up to RMB1 million 
+(~US$156,000) per month per link in its “Famous Sites” section.
+
+
+11
+  
+
+
+ 
+These figures may seem like exorbitant monthly sums to charge clients to simply place a link on a 
+crowded directory page – and they are. As we previously mentioned, we know of no other company, 
+public or otherwise, that has generated material revenue by selling links on a directory page, much less 
+created a sustainable business from this model.  
+ 
+So, how does Qihoo justify its claims of charging small fortunes for link space? 
+ 
+ 
+ 
+ 
+ 
+
+
+                                                           
+11
+
+
+ http://ir.360.cn/phoenix.zhtml?c=243376&p=irol-newsArticle&ID=1636619&highlight= 
+
+
+
+http://ir.360.cn/phoenix.zhtml?c=243376&p=irol-newsArticle&ID=1636619&highlight=
+10 
+ 
+
+
+Apparently the answer has to do with Qihoo’s expansive user base and audience reach. You see, the 
+underlying driver of all advertising pricing – online or otherwise – has to do with audience exposure. 
+ 
+On its Q4 2012 conference call, management states: 
+ 
+ 
+
+
+“I think we are right now we’re probably closer or near what the hao123 is pricing on the 
+per link basis… the traffic on our Personalized Start-Up Page already surpassed hao123 a 
+while ago and today we believe we have at least 20% plus kind of a traffic advantage 
+over hao123. So in other words, the – from a price performance perspective, we have 
+about 25% advantage over hao123.” 
+
+
+ 
+ 
+ 
+Qihoo claims that its directory page gets 20% more traffic than even Baidu’s directory page. And so it 
+appears, huge traffic flow is the reason Qihoo can charge absurd sums for its link space. This is also the 
+reason Qihoo has apparently succeeded in establishing a multi-billion dollar enterprise based on a 
+business model no other company in the world has been able to effectively monetize. 
+ 
+It turns out that Qihoo’s traffic volume is the primary driver of its great fortunes.  
+ 
+It turns out that Qihoo’s traffic volume is the reason the Company has reported revenue growth of 200% 
+per year in the last three years – a stratospheric growth rate unmatched in the industry and void of all 
+logic. 
+ 
+It turns out that Qihoo’s traffic volume is the reason that as of this writing, 12 of 13 analysts had buy 
+recommendations on Qihoo. 
+ 
+But, what if it turns out that Qihoo’s purported traffic volume is a complete lie? What if hao.360.cn has 
+only a fraction of the traffic that Qihoo claims? 
+ 
+The reality is that Qihoo is an internet company whose primary prospect is a delisting. We have 
+uncovered smoking gun evidence that Qihoo is grotesquely exaggerating its traffic volume, and in the 
+process committed securities fraud.  
+ 
+ 
+ 
+ 
+
+
+“Jerry, just remember, it’s not a lie if you believe it.” 
+ 
+
+
+       -George Costanza, Seinfeld
+11 
+ 
+
+
+ 
+ 
+We have been monitoring hao.360.cn since last year when questions involving Qihoo finances first 
+appeared. At the beginning of this year something happened – we noticed a change in the website’s 
+source code. The change was small and barely noticeable, but crucial: a comScore tag was added to 
+Qihoo’s HTML code. Exhibit 4 presents a screenshot of this tag, which is highlighted by the red box. 
+ 
+
+
+Exhibit 4 
+
+
+
+
+
+Secrets Hidden in Plain Sight
+12 
+ 
+
+
+What is comScore? 
+ 
+To understand the significance of this discovery, it helps to understand what comScore is. ComScore is 
+the premier independent third party verifier of internet traffic statistics. It is used by a multitude of 
+major corporations, including Financial Times, AOL, Microsoft, Yahoo, and Baidu. Third party verifiers 
+such as comScore are often used by these organizations to corroborate traffic volume for potential 
+advertising clients. As would be expected, most prospective advertisers require independent verification 
+of traffic data instead of just taking the word of the company they are considering for advertising. 
+ 
+For its part, comScore gathers traffic data using two primary sources: either an internet panel or a tag. 
+ 
+Internet Panel:  A panel is a piece of plug-in software that is embedded in a browser. This software 
+records a user’s browsing habits and sends the information back to comScore’s servers. According to 
+comScore, around 2 million users in 170 countries have volunteered to install the comScore panel. 
+However, given its nature, data gathered from internet panels is susceptible to sampling error. 
+ 
+Tag: A tag is a script voluntarily embedded into a webpage’s source code. Because it is hardcoded 
+directly into the site, traffic data gathered by this method is highly accurate. It is not susceptible to 
+sampling error, and it is not affected by any form of anti-virus software. ComScore goes as far as to state 
+that the tag “account*s+ for 100 percent of a site’s audience”. Due to its accuracy, many companies 
+voluntarily place the tag on their site. Exhibit 5 shows Yahoo.com’s source code which contains the 
+comScore tag as an example. 
+ 
+
+
+Exhibit 5
+13 
+ 
+
+
+When we became aware of the comScore tag on hao.360.cn, we were intrigued enough to pay attention 
+to it, but not enough to pursue the matter. That all changed two weeks ago. 
+ 
+You see, after months of the comScore tag quietly laying active on hao.360.cn, it was just as quietly 
+removed on or around June 20, 2012. If you examine hao.360.cn’s source code today, you will no longer 
+find the tag. But that’s okay. We had the foresight to mirror the webpage and its source code using 
+FreezePage.  
+ 
+Note: Freezepage (www.freezepage.com) is an independent service that copies a website and all its 
+associated content and code at a specific point in time. Once copied, the page is time stamped and 
+cannot be altered. Below are the most recent copies of hao.360.cn on two different dates. 
+ 
+May 3, 2012: http://www.freezepage.com/1336068092BJFQTGFPZQ 
+June 13, 2012: http://www.freezepage.com/1339597268FOWHHCCULD 
+ 
+To access the source code and view the now-removed comScore tag, click on “More Info” as highlighted 
+in Exhibit 6, and then click on “Source Code” under “Properties”. The tag will be near the bottom of the 
+source code. 
+ 
+ 
+             Exhibit 6 
+
+
+              
+ 
+ 
+ 
+ 
+In the event management tries to backtrack and re-add the comScore tag in response to this report, we 
+have also mirrored hao.360.cn as it appears today, without the tag: 
+ 
+June 27, 2012: http://www.freezepage.com/1340854158YQMEMONEFB 
+ 
+ 
+ 
+ 
+
+
+
+http://www.freezepage.com/1336068092BJFQTGFPZQ
+
+http://www.freezepage.com/1339597268FOWHHCCULD
+
+http://www.freezepage.com/1340854158YQMEMONEFB
+14 
+ 
+
+
+The Smoking Gun 
+ 
+It’s unusual for a company that deals predominantly in advertising space to quietly add and then remove 
+a comScore tag after only a few months of activity. We can think of no positive reason for such a covert 
+move. Neither could a representative from comScore when we called them.  
+ 
+When asked if they knew any reason someone would remove their tag, the representative answered 
+that “[the company] probably didn’t like what they saw.”  
+ 
+Indeed. 
+ 
+Our sources have acquired the comScore statistics spanning three months that the tag was active. As 
+presented in Exhibit 7, Qihoo had every reason to remove the tag.  
+ 
+
+
+Exhibit 7 
+comScore Data 
+
+
+ 
+   February, 2012 
+
+
+  
+Total Unique 
+Visitors (000) 
+
+
+Average Daily 
+Visitors (000) 
+
+
+Reach in China 
+(Percent) 
+
+
+hao123.com (Baidu) 81,268 20,009 24.9% 
+
+
+hao.360.cn (Qihoo) 35,483 7,271 10.9% 
+
+
+Difference -56% -64% -56% 
+
+
+ 
+   March, 2012 
+
+
+  
+Total Unique 
+Visitors (000) 
+
+
+Average Daily 
+Visitors (000) 
+
+
+Reach in China 
+(Percent) 
+
+
+hao123.com (Baidu) 85,310 21,764 25.6% 
+
+
+hao.360.cn (Qihoo) 41,717 10,786 12.5% 
+
+
+Difference -51% -50% -51% 
+
+
+ 
+   April, 2012 
+
+
+  
+Total Unique 
+Visitors (000) 
+
+
+Average Daily 
+Visitors (000) 
+
+
+Reach in China 
+(Percent) 
+
+
+hao123.com (Baidu) 84,689 21,434 25.4% 
+
+
+hao.360.cn (Qihoo) 40,877 6,444 12.2% 
+
+
+Difference -52% -70% -52% 
+
+
+ 
+ 
+This data proves definitively that Qihoo has been lying to investors about its traffic volume. By any 
+measurement, hao.360.cn gets embarrassingly less traffic than hao123.com.  
+ 
+Of course, this will come as no surprise to critics who have questioned Qihoo’s accounts since its IPO. In 
+fact, we don’t even really think it will come as much of a surprise to the analysts promoting the stock. To 
+not have suspected that Qihoo was committing a grand fraud in the face of all other evidence would 
+take a level of ineptitude we do not believe any analyst is capable of.
+15 
+ 
+
+
+Acquiring this proof was almost too easy. It was effectively handed to us by management’s own 
+carelessness. And perhaps because it is so simple, it is so devastating.  
+ 
+In the end, the one outstanding question is “why would management risk putting the tag on their 
+website in the first place?”  
+ 
+Without the tag, we would still have been able to acquire the comScore data. However, the data would 
+have been compiled using the panel method. Management would have been able to claim that the data 
+was completely inaccurate and the results were affected by sampling error and anti-virus programs. 
+Management would then go on to insist that hao.360.cn gets incredible amounts of traffic that isn’t 
+being properly measured. In fact, this was their defense when confronted by their Alexa ranking.
+
+
+12
+ 
+
+
+ 
+So, why would management risk putting the tag on their website? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+                                                           
+12
+
+
+ Alexa ranks hao123.com as the 15
+th
+
+
+ most visited site in China and hao.360.cn as 27
+th
+
+
+. Confronted with this 
+information, management claimed that Alexa didn’t properly measure traffic to hao.360.cn due to its anti-virus 
+software which deletes plug-ins. Yes, it’s a stupid defense, we know.
+16 
+ 
+
+
+ 
+ 
+Since its IPO, Qihoo’s numbers have been thrown into question. As a result, many analysts, investors, 
+and critics have called for management to provide independent verification of Qihoo’s traffic claims. 
+ 
+On December 6
+
+
+th
+, 2011, management held an emergency conference call with analysts and investors to 
+
+
+address concerns of financial irregularities brought on by a third party. During the conference call, the 
+following exchange took place with one of the callers: 
+ 
+ 
+Analyst: And finally, my last question is would you consider conducting third-party verifications of click-
+throughs just to try and settle all these allegations once and for all, because this is really getting 
+annoying? 
+ 
+Zouli Xu (CFO of Qihoo): We are actually in the process of talking to some well-known third parties as a 
+sort of backup data source… we are in the process of talking or communicate with those third-party, 
+well-known third-party data trackers, and hopefully in the foreseeable future, in not very long time later, 
+we’ll have this third party, a second source of third-party data come up to provide it to the investors. 
+ 
+ 
+Management knows that Qihoo is doomed as a publically traded company given the constant scrutiny. 
+The only way to vindicate itself is to get a reputable third-party to vouch for Qihoo’s traffic volume. Of 
+course, the problem is that Qihoo does not generate the traffic management claims. So what to do?  
+ 
+We have reason to believe that management installed the tag in order to find a way to manipulate the 
+traffic analytics gathered by comScore. Over the last few months, Qihoo’s technical team was likely busy 
+trying to crack comScore’s system in order to fabricate the data.  
+ 
+In fact, we are so certain of this that we invite engineers at comScore to analyze data coming out of 
+hao.360.cn since the beginning of the year. We are confident they will find anomalies in their system 
+(particularly with regards to the months of April and May).  
+ 
+In any case, this wouldn’t be the first time Qihoo has attempted to manipulate ranking data. Recall from 
+page 5 that earlier this year Qihoo’s apps were temporarily banned by Apple due to unusual ranking 
+activity.  
+ 
+Perhaps it speaks to the integrity of comScore’s data, because with the tag removed, we suspect Qihoo 
+has abandoned hopes of cracking comScore’s sytem and manipulating the third-party verification that it 
+so desperately needs.  
+ 
+So, what’s next for Qihoo? 
+ 
+
+
+
+
+
+Desperate Times Call for Desperate Measures
+17 
+ 
+
+
+ 
+ 
+Qihoo 360 is a company with a questionable future that was rushed through an IPO process by 
+incompetent investment banks. Reading through its regulatory filings, we felt a sense of embarrassment 
+for UBS and Citigroup for signing off as Qihoo’s underwriters – especially in an era where Chinese 
+companies are blowing up left and right. 
+ 
+It’s unbelievable that Qihoo has been able to survive this long as a company with a market cap over 
+US$2 billion. It’s even more unbelievable how many analysts consider Qihoo to be the next great 
+Chinese internet company. 
+ 
+It’s not.  
+ 
+Qihoo has managed to play on the lack of in-depth technical knowledge and critical thinking of its 
+investment bankers, analysts, and investors. Critics that often voiced valid concerns regarding the 
+Company’s accounts were brushed off by management as ‘not understanding the internet.’  
+ 
+Every analyst that covers Qihoo has a different view of its growth prospects – from the mobile market, 
+to vertical search to desktop applications. While there is no coherent view of how this Company will 
+monetize its user base, all analysts agree that Qihoo’s future is predicated on the enormous traffic the 
+Company is able to generate from its web properties. 
+ 
+As it turns out, this enormous traffic doesn’t exist. 
+ 
+This story will not end well. We suspect that the SEC already has Qihoo on its radar. Given the proof 
+presented in this report, we doubt it will take the regulators long to conduct their own investigation to 
+confirm our findings. Once completed, we expect Qihoo to eventually be delisted for securities fraud. 
+  
+In any case, Qihoo still hasn’t delivered the independent third-party verification that was promised 
+seven months ago. We can’t fathom why since these things only take a couple of months at most, but 
+we’ll leave it up to management to provide an explanation. In the meantime, we look forward to 
+management responding to this report by claiming “Anonymous doesn’t understand the internet.” 
+ 
+
+
+
+
+
+Conclusion

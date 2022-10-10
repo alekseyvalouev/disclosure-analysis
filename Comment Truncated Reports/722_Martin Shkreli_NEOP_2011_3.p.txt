@@ -1,0 +1,141 @@
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 1/26
+
+
+Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints?
+Jun. 23, 2011 11:21 PM ET93 comments
+by: Martin Shkreli
+
+
+One of the most difficult aspects of investing is the continuous pledge to double-check
+assumptions, scrutinize management’s capital deployment plans and second-guess
+yourself by examining risk-reward on a dynamic basis.
+
+
+I’ve been watching Neoprobe (NEOP) for a few years and have never had more than a
+tiny position for a few days at a time. When I saw several consecutive bullish analyst
+reports and scheduled New York roadshows, I reasoned the company was preparing for a
+capital raise. I read the initiations and enjoyed the lofty estimates and high assumed
+probability of achieving those estimates.
+
+
+One thing I didn’t immediately notice was scrutiny of phase III results. Some Phase III data
+are cut and dry. Some Phase III data seem cut and dry and are not. I am going to spend
+some time showing you why I think both Lymphoseek Phase III trials failed to meet their
+primary endpoint. This means what you might think it means – Neoprobe will not receive
+FDA approval for Lymphoseek because of what I’m going to outline. This probably
+wouldn’t have been brought to light until FDA decision time without my discoveries.
+
+
+I’ve read every public statement ever made by Neoprobe. Again and again and again.
+SEC filings, news releases, presentations, database searches, everything. I started pulling
+on this thread when I saw the 1/2010 presentation (viewable at my fund’s website –
+msmbcapital.com) and the 12/2010 presentation had different patient sample sizes for
+the Phase III NEO03-05 study. Think about that for a second. Clinical trials should have
+one sample size. The number of patients enrolled in a study is generally not subject to
+change. This time will be different.
+
+
+
+https://seekingalpha.com/symbol/NEOP
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 2/26
+
+
+In the January 12th, 2010 OneMedPlace presentation, the company notes that n=179
+patients were “enrolled for safety” and 158 patients were “evaluated for efficacy”. This is
+not the way a clinical trial works. You can’t separate which patients you feel are viable for
+safety or efficacy. Everyone has to be in both. This is the ITT (intent-to-treat) principle.
+There are deviations from this standard, and we’ll go through them in a minute. But this is
+how the process began. The presentation, on page 14, continues to explain that the ITT
+population consisted of n=158 and the per-protocol population consisted of n=156. Again,
+this flies against the face of my experience and basic clinical science – the ITT population
+is always composed of all patients enrolled in the trial. The high p-value of 0.04 for the ITT
+group also stuck out at me. That is awfully close to the “limit” of p=0.05. I always get
+nervous when a company has a pivotal trial near p=0.05!
+
+
+With this in mind, in the December 2010 at Neoprobe’s Analyst Day, page 21 indicates,
+again, that n=179 patients were “enrolled for safety” (a phrase that makes my head hurt)
+and n=136 were “evaluated for efficacy”. Until now, I hadn’t really noted any red flags. But
+the clearly changed n=158 to n=136 from presentation to presentation would make even a
+colorblind analyst fret.
+
+
+It was at this point I decided to do a full statistic review of both pivotal trials. The way I see
+it, NEO03-05 had three pools of patients: n=179 “ITT” (this is my definition, Neoprobe’s is
+“enrolled for safety”), n=158 “modified ITT” (this is my definition, Neoprobe’s is “ITT”) and
+n=136 “per-protocol” (this is my definition, Neoprobe’s is sometimes “ITT” and sometimes
+not). Defining ITT is important. It usually has one definition: all patients assigned to a
+treatment group. In other words, patients who have been screened, are eligible, gave
+consent and have been processed as enrolled in the study should be in the ITT group.
+This is relatively “holy” in clinical science. Anything past this point is unusual and the FDA
+doesn’t appreciate strange ITT definitions (witness the recent Biomimetics debacle). Some
+companies try to throw out patients that get lost to follow-up. This is the most common
+type of removed patient from ITT to mITT (or if the company insists on referring to it as
+ITT). Similar types of patients include patients enrolled but never randomized, patients
+who never got any treatment, etc.
+
+
+So who were the missing ITT to mITT patients in the Lymphoseek studies? The company
+explained very carefully on a March 12th, 2010 conference call (the transcript of this call is
+not publicly available) that “The ITT population was prospectively designed as patients
+who consented to participate in the clinical study, who were injected with Lymphoseek,
+and who provided at least one lymph node that contained the vital blue dyes”. The
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 3/26
+
+
+company has confirmed that all n=21 “missing” patients were those that did not provide a
+blue dye node. Should these patients have been included in the ITT analysis? Let’s put
+that in the back of our heads while we go to another related topic.
+
+
+Since I can remember, I've been doing my own statistics with company clinical trials, when
+possible. There’s no point in trusting a company to calculate a p-value when you can do it
+yourself. In the Analyst Day presentation referred to earlier, Neoprobe explains the
+statistical method with which they calculated the primary endpoint. It’s all well and good to
+say “the primary endpoint is concordance”, but what was the null hypothesis, the statistical
+formula used, etc. That information was made available by Neoprobe – the null hypothesis
+was that concordance was 90%, or 0.9. Rejecting the null hypothesis would require the
+entire one-sided tail to be greater than (to the right of) 0.9. The Exact Binomial Test, also
+called the Clopper-Pearson test was used. Calculating the primary endpoint using the
+Clopper-Pearson method computes a lower bound of 0.901. That’s right, Neoprobe’s
+lower bound had to be greater than 0.900 and it came in at 0.901. What good luck they
+must have! One non-concordant node would have resulted in NEO03-05 failing to meet its
+primary endpoint.
+
+
+So let’s go back to the n=21 patients that were excluded from this study. N=158/179 (for a
+difference of n=21) results in blue dye node identification rate of 88%. The literature
+suggests a blue dye node identification rate of 95% to 100% (Chintamani et al. 2011.
+100%, Shirah et al. 2011. 99.1%, Narui et al. 2010. 99%, Krikanova et al. 2010. 95%,
+Mathelin et al. 2009. 99%). Why were Neoprobe’s studies so far below the normal blue
+dye node identification rate?
+
+
+It’s obvious to me that this open label protocol biased the concordance data and the
+patients who did not provide a blue dye node should be in the ITT group. This calculation
+would result both pivotal trials to fail (get a Clopper-Pearson calculator and check for
+yourself!). It’s very rare to not find a blue dye node. My guess is the clinicians were trying
+for the best data (don’t forget a few centers with long-time ties to Neoprobe enrolled many
+patients), and patients who weren’t clearly concordant were thrown out. When you can
+clearly see which patients are concordant, and which patients are not, you can throw out
+the bad ones and keep the good ones. That’s what happened here. It’s the only
+explanation which satisfies the below-average blue dye identification rate, the curiously
+high concordance rate (isn’t a non-blue patient who has positive Lymphoseek nodes non-
+concordant?), the strange p-values, the lack of disclosure on these patient groups and the
+lack of a peer-reviewed publication. Not even the ASCO posters have this data (shame on
+ASCO).
+5/21/2018 Neoprobe: Did the Pivotal Studies Meet Their Primary Endpoints? - Navidea Biopharmaceuticals (NYSEMKT:NAVB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/276434-neoprobe-did-the-pivotal-studies-meet-their-primary-endpoints 4/26
+
+

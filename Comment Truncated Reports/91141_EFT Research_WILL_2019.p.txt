@@ -1,0 +1,2306 @@
+EFT	RESEARCH	
+WHITING	PETROLEUM	CORP	(NYSE:	WLL)	
+
+
+
+
+
+ 
+October 31, 2019
+DISCLAIMER	
+
+
+All	informa@on	contained	in	this	presenta@on	is	believed	to	be	true	by	
+the	authors	at	the	@me	of	release.		However,	there	is	no	warranty,	
+express	or	implied,	as	to	the	accuracy,	@meliness,	or	completeness	of	
+the	informa@on	contained	herein.		As	new	informa@on	comes	to	light	
+the	authors	take	no	responsibility	for	upda@ng	this	or	other	
+presenta@ons.		What	is	stated	in	this	presenta@on	is	our	opinion	based	
+on	our	analysis	and	modeling,	and	that	while	we	have	tried	to	be	
+accurate	in	our	analysis	and	modeling	it	is	at	best	an	es@mate	and	could	
+be	incorrect.	This	presenta@on	is	for	informa@onal	purposes	and	is	not	
+a	recommenda@on	to	buy	or	sell	any	security.		Anyone	contempla@ng	a	
+securi@es	transac@on	should	conduct	their	own	research	and	consult	
+with	an	investment	professional.		The	authors	and	their	affiliates	have	a	
+short	posi@on	in	Whi@ng	Petroleum	Corp.	as	of	the	publica@on	date	of	
+this	presenta@on.		However,	the	authors	and	their	affiliates	may	alter	
+that	posi@on	at	any	@me	following	the	publica@on	with	no	no@ce	or	
+disclosure.	 2
+TABLE	OF	CONTENTS	
+
+
+I.  Execu@ve	summary	
+II.  Data	set	&	methodology	
+III.  Financial	model	
+IV.  Engineering	&	evalua@on	
+
+
+v  	PDP	
+v  	PUD	type	curves	
+v  	Drilling	loca@on	inventory	
+v  	Sanish	
+v  	Summary	
+
+
+V.  Legal	
+VI.  Management	&	governance	
+VII.  Summary	
+VIII.  Appendix	
+
+
+3
+ABOUT	EFT	RESEARCH	
+
+
+¢  @WillRayValen@n	is	a	Petroleum	Engineer	and	has	worked	acquisi@ons	and	dives@tures,	
+reservoir,	produc@on	and	comple@ons	engineering	at	various	points	in	her	career.		
+
+
+¢  @energycredit1	is	a	former	hedge	fund	por[olio	manager	and	analyst	that	has	covered	
+and	invested	in	energy	for	nearly	20	years	
+
+
+¢  @Oil_Gonif	is	a	Landman	and	Data	Analyst	having	worked	in	acquisi@ons	and	dives@tures.	
+
+
+Click	here	to	get	on	the	distribu@on	list	for	future	research	
+
+
+
+
+
+
+
+
+
+
+
+4
+EXECUTIVE	SUMMARY	
+FINANCE	&	TECHNICAL	FINDINGS
+EXECUTIVE	SUMMARY		
+
+
+Based	on	our	analysis	and	modeling,	we	believe	that:	
+
+
+¢  Whi@ng	Petroleum	("WLL")	stock	is	worth	$0	at	current	strip	pricing	
+excluding	op@on	value	
+
+
+¢  WLL	has	March	2020	and	April	2021	maturi@es	looming	
+
+
+¢  Exis@ng	unsecured	bonds	trading	at	14-15%	create	headwinds	for	a	
+refinancing	
+
+
+¢  Few	wells	will	meet	WLL's	projected	1mm	BOE	EUR	provided	to	investors	
+
+
+¢  Sanish	infill	wells	are	likely	to	show	considerable	degrada@on	going	forward	
+as	WLL	moves	to	DSUs	with	6	+/-	wells	already	drilled	
+
+
+¢  The	market	is	underapprecia@ng	Sanish	infill	degrada@on	risk	
+
+
+¢  Analyzing	>	2,000	individual	wells	suggests	WLL	is	oversta@ng	reserves	
+
+
+¢  Whi@ng	has	less	than	half	of	the	~2,000	drilling	loca@ons	it	claims	to	have	
+
+
+6
+EXECUTIVE	SUMMARY	–	FINANCE	
+
+
+¢  The	Whi@ng	is	on	the	wall.		With	>$1.1	billion	of	stub-Mar'	20	converts	and	looming	2021	
+maturity	that	goes	current	in	1Q20,	WLL	appears	likely	to	tap	the	high	yield	market	for	a	
+term	1st	lien	bond	over	the	next	5	months	(1)	
+
+
+¢  WLL	should	have	to	pay	9.5-10.0%	for	a	$1.2	billion	1st	lien	bond	(400-600	bps	inside	
+unsecured	yields)	to	clean	up	the	front-end	maturi@es.		The	incremental	interest	expense	
+will	be	devasta@ng	to	the	FCF	story	given	WLL	is	refinancing	1.25%	and	5.75%	debt	
+
+
+¢  WLL	equity	has	modeled	equity	value	per	share	of	($27.94)	in	our	base	case,	with	a	$12.00	
+parallel	shir	across	the	oil	strip	needed	for	the	equity	to	be	worth	$0	
+
+
+¢  WLL	oil	price	op@onality	appears	mispriced	and	overvalued	by	$2-3	(25-40%);		admitedly	
+there	is	op@on-like	leverage	to	oil	prices	–	both	ways	–	but	in	our	view	the	stock	has	less	
+upside	leverage	than	oil	futures	call	op@ons			
+
+
+¢  There	is	op@on	like	exposure	to	oil	in	WLL	stock,	however	the	impact	of	G&A	and	
+interest	expense	burn	in	the	context	of	op@on	gamma	remain	underappreciated	
+
+
+¢  Infill	well	degrada@on	at	Sanish	appears	to	be	a	material	financial	risk	perhaps	not	fully	
+understood	
+
+
+(1)	2020	bonds	mature	in	April,	however,	it	is	unlikely	WLL	wants	the	March	2021	maturity	to	become	a	current	liability	for	1Q20	10Q;	it	occurs,	but	
+rarely	do	CFOs	take	refinancing	risk	near	or	at	maturity	
+
+
+	
+7
+EXECUTIVE	SUMMARY	–	TECHNICAL	FINDINGS	
+¢  We	believe	Whi@ng	Petroleum	("WLL",	"Whi@ng",	or	the	"Company")	is	consistently	overes@ma@ng	
+
+
+per	well	reserves	and	type	curve	projec@ons	
+
+
+o  Oren	referenced	1	million	BOE	type	curve	implies	a	650	MBO	EUR	per	well	which	is	inaccurate	based	
+on	actual	produc@on	records	and	reasonable	decline	curve	assump@ons	
+
+
+•  650	MBO	assumes	65%	oil	at	current	corporate	gas	/	oil	ra@o		
+
+
+¢  Our	PDP	PV10	value	is	$2.25	billion	at	current	strip	pricing	
+
+
+¢  Back	da@ng	our	reserve	database	and	inpuung	SEC	pricing	for	2018	company	reserves	appear	to	be	
+overes@mated	by	30%	and	was	closer	to	$3.5	billion	
+
+
+o  If	you	assume	that	reserves	will	con@nue	to	be	~30%	overstated	then	2019	reserves	should	be	~$2.9	
+billion,	adjus@ng	for	pricing,	which	would	indicate	a	~$1.6	billion	write	down…	we	will	anxiously	be	
+watching	for	that	to	happen	
+
+
+¢  Varying	degrees	of	“infill”	
+
+
+o  Ideal	spacing	solves	for	~15%	recovery	factor	
+
+
+o  Higher	recovery	factors	do	happen,	but	almost	always	a	result	of	over	drilling	(12	well	/	drilling	spacing	
+unit	(DSU)	with	modern	comple@ons)	
+
+
+o  ~660’	or	~7-8	(depending	on	area)	modern	comple@ons	/	DSU	results	in	a	15%	recovery	factor	
+
+
+¢  We	see	a	high-risk	factor	for	Sanish	and	overall	well	produc@on	degrada@on	moving	forward	
+
+
+¢  Con@nuing	historic	trend	of	8	-	10%	per	year	of	oil	EUR	degrada@on	moving	forward,	all	else	being	
+equal,	creates	a	cash	flow	squeeze	and	reverses	FCF	trends	impairing	the	equity	at	strip	pricing	
+
+
+8
+WHITING	PETROLEUM	CORP	(NYSE:	WLL)	
+
+
+9	
+
+
+Company	Overview		
+
+
+Market	Cap	(mm):	 $610	
+
+
+Enterprise	Value	(mm):	 															$3,500		
+
+
+Basin:	 Williston/Denver	
+
+
+2Q2019	Revenue:	 426,264 
+
+
+Oil/Gas	Revenue	Split:	 ~	
+
+
+Balance	Sheet	Assets:	 343,050	
+
+
+Liabili@es:	 															3,575,099		
+
+
+Long	Term	Debt:	 															2,303,864		
+
+
+Shares	Out:	 91,300,000	
+
+
+Outstanding	Short	Interest:	 23,500,000	
+
+
+Gross	Oil	2Q19:	 																	9,417.50		
+
+
+Gross	Gas	2Q19:	 															15,746.25		
+
+
+Base	Decline	Rate:	 41%	FY	
+
+
+Bradley	J.	Holly,	Whi@ng’s	Chairman,	President	and	CEO:	
+“As	you've	seen	in	the	last	few	quarters	we	struggled	to	make	oil	
+produc@on,	and	that	has	been	forecas@ng	at	these	wells."	
+2Q19	earnings	call
+DATA	SET	&	METHODOLOGY	
+PROCESS	AND	MODEL	DRIVERS	
+
+
+10
+EVALUATION	PROCESS	OVERVIEW	
+
+
+¢  Began	by	crea@ng	a	database	of	per@nent	public	informa@on	including	produc@on	history,	well	construc@on	and	
+comple@on	informa@on		
+
+
+¢  Used	produc@on	data	to	create	individual	decline	curves	for	every	Whi@ng	well	in	North	Dakota,	Montana	and	
+Colorado	(all	future	references	to	"Whi@ng"	or	"Whi@ng	produc@on"	mean	these	three	core	areas)	
+
+
+o  The	overwhelming	majority	of	focus	is	Bakken	and	Three	Forks	wells	in	North	Dakota	
+
+
+¢  Produc@on	data	was	used	to	create	proved	developed	producing	(PDP)	es@mates	for	Whi@ng's	produc@on.	This	
+includes	es@mated	ul@mate	recoveries	(EURs)	or	total	volumes	of	oil	and	gas	that	each	well	is	projected	to	make	in	
+the	future	in	addi@on	to	cumula@ve	produc@on	
+
+
+¢  Used	prior	produc@on	performance	from	recent	wells	(post	2016)	and	created	type	curves	for	each	of	Whi@ng's	
+areas	
+
+
+¢  Created	an	original	oil	in	place	(OOIP)	map	
+
+
+¢  Allocated	EURs	from	individual	wells	to	sec@ons	
+
+
+¢  Cross	referenced	the	allocated	EURs	for	each	sec@on	with	the	OOIP	numbers	to	es@mate	oil	recovery	volumes	
+(recovery	factors)	
+
+
+¢  Using	these	numbers	created	an	es@mate	for	future	volumes	of	oil	and	gas	that	could	be	recovered	from	addi@onal	
+drilling	within	the	fields	Whi@ng	outlines	
+
+
+¢  Combined	the	remaining	reserves	es@mates	with	the	es@mates	of	produc@on	from	type	curves	to	determine	the	
+number	of	drilling	loca@ons	remaining	on	Whi@ng's	North	Dakota	acreage	
+
+
+11	*Authors	would	note	that	certain	units	in	North	Dakota	exhibit	recoveries	that	appear	to	be	as	high	as	20%,	however,	we	believe	these	higher	volumes	are	generally	atributable	to	high	density	
+drilling	spacing	units	that	have	proven	uneconomic	at	today's	oil/gas	price
+OUR	PDP	ESTIMATION	-	BACKGROUND		
+
+
+¢  The	Proved	Developed	Producing	(PDP)	Model	is	created	to	quan@fy	only	the	value	of	
+the	current	produc@on	
+o  This	does	NOT	include	volumes	or	value	for	future	drilling	
+
+
+¢  Produc@on	volumes	for	oil	and	gas	are	quan@fied	by	the	operator	(Whi@ng)	or	their	
+purchasers	and	reported	to	each	state	on	a	monthly	basis	
+o  Latest	available	data	at	the	@me	of	this	analysis	was	August	of	2019*	
+
+
+¢  Produc@on	forecasted	off	of	monthly	decline	trend	
+¢  Field	type	curve	generated	for	each	field	and	over	different	@me	frames	
+
+
+¢  Noted	effects	on	both	oil	and	gas	volumes	due	to	curtailed	gas	sales	in	Williams	and	
+McKenzie	Coun@es	and	atempted	to	give	credit	to	prior	period	decline	trend	when	
+possible	
+
+
+¢  Generally	a	difficult	dataset	due	to	oren	erra@c	and	inconsistent	oil	and	gas	volumes,	
+possibly	due	to	mul@-well	tank	bateries	and	common	gas	meters	being	allocated	
+back	to	individual	wells	
+
+
+¢  Ran	two	years	of	“loss	ok”	to	keep	short	term	volumes	in	line	with	company	
+produc@on	what	appear	to	be	wells	at	a	loss	
+
+
+12	*Authors	would	note	that	public	produc@on	volumes	can	be	off	and	based	on	experience	tend	to	be	less	accurate	within	the	last	6	months	of	the	query.	Some	graphs	on	the	following	page	shows	
+significant	difference	between	WLL's	2Q19	reported	in	10Q	versus	current	state	reported	volumes
+CREATING	FIELD	TYPE	CURVES	
+
+
+¢  Based	on	EUR	versus	Time	and	EUR	versus	
+proppant/r	its	clear	that	the	frac	jobs	improved	
+produc@vity	drama@cally	star@ng	at	the	end	of	
+2015	
+
+
+¢  Frac	size	in	terms	of	ppt/r	was	at	its	peak	in	
+2017	and	has	been	decreasing	since	that	@me	
+
+
+¢  Decided	to	only	use	wells	with	first	produc@on	
+post	2016	for	crea@ng	type	curves	
+
+
+¢  Each	field	was	broken	down	based	on	WLL	
+designa@on	
+Ø  Tier	1	
+
+
+•  Hidden	Bench	
+
+
+•  Polar	
+
+
+•  Sanish	
+
+
+•  East	Missouri	Breaks*	
+
+
+Ø  Tier	2	
+
+
+•  Pronghorn	
+
+
+•  West	Missouri	Breaks	
+
+
+•  Other	(not	evaluated)	
+
+
+13	
+*Authors	found	it	difficult	to	understand	the	boundaries	of	East	Missouri	Break	and	could	have	been	accounted	for	incorrectly	in	these	type	curves.	Company	should	clarify	
+how	they	are	defining	the	boundaries	of	these	fields
+FINANCIAL	MODEL	MECHANICS	
+
+
+¢  PDP	modeled	as	derived	and	described	in	technical	sec@on	
+
+
+¢  PUD	type	curves	created	from	actual	2016+	results	in	six	WLL	areas	
+
+
+¢  715	remaining	economic	loca@ons	derived	from	OOIP	x	RF	analysis	
+
+
+¢  Rigs	and	rig	days	drive	number	of	gross	wells	
+
+
+¢  Drilling	models	for	each	of	six	areas	roll	up	together	with	PDP,	
+then	G&A,	interest	and	discount	factors	are	applied	
+
+
+¢  Commodity	price	differen@al	and	G&A	assump@ons	based	off	last	8	quarters	avg	
+
+
+¢  LOE	scrubbed	on	a	per	well	basis	–	variable	+	fixed	
+
+
+¢  FCF	u@lized	to	repay	debt,	if	any	
+
+
+¢  Hedge	value	is	marked-to-market	
+
+
+¢  Midstream	&	other	value	is	assumed	at	50%	of	other	net	PP&E	
+
+
+¢  No	income	taxes	considered	due	to	IDCs	and	$3B	+/-	NOLs		
+
+
+14
+FINANCIAL	MODEL	
+SUMMARY,	SENSITIVITIES	&	VALUATION
+MODEL	SUMMARY	&	NOTES	
+
+
+Our	analysis	and	modeling	indicates	that:	
+
+
+¢  High	level	of	confidence	WLL	equity	has	no	intrinsic	value	at	today's	strip	
+
+
+¢  Op@on	value	appears	mispriced	by	25-50%	vs	oil	futures	call	op@ons	
+
+
+¢  PUD	degrada@on	reduces	gamma	of	embedded	oil	op@on	
+
+
+¢  On	our	base	case,	the	stock	is	worth	($27.94)		
+o  Assumes	strip	pricing	
+
+
+o  $1.25	billion	1st	lien	bond	issued	at	9.5%	to	refi'	2020	and	2021	notes	between	now	and	March	2020	
+
+
+o  As	WLL	infills	Sanish	on	DSUs	with	>=7	wells,	empirical	data	suggests	PUD	well	produc@vity	will	decline	at	8%	per	
+annum	
+
+
+¢  WLL	needs	to	kick	the	can	down	the	road	but	it	will	come	at	a	high	expense	to	the	equity	
+o  2023	&	2026	bonds	yielding	14-15%	at	prices	between	66-77	cts	imply	stress	at	the	equity	level	of	the	capital	
+
+
+structure	
+
+
+o  The	unsecured	bond	market	is	largely	closed	to	Whi@ng	
+
+
+o  1st	lien	bonds	likely	cost	9-10%,	increasing	interest	burden	and	ea@ng	into	the	FCF	story	
+
+
+o  $1.2	billion	of	1L	bonds	+	revolver	draw	do	not	appear	covered	by	asset	value,	net	of	g&a	+	interest	burn		
+
+
+o  Expect	opportuni@es	in	unsecured	bonds	based	on	views	of	expected	dura@on	of	current	interest	payments	
+
+
+o  Theore@cal	unsecured	bond	recoveries	in	a	jump-to-default	scenario	are	-44%	immediately	arer	1L	issuance		
+16
+MODEL	SUMMARY	&	NOTES	
+
+
+¢  Tier	I	PUD	deple@on	during	low	oil	prices	creates	@me	decay	
+
+
+¢  WLL	"Tier	I"	acreage	appears	"limited"	at	strip	pricing	
+¢  Sanish	–	ex	degrada@on	-	comprises	most	of	market	perceived	WLL	PUD	value		
+
+
+¢  Sanish	infill	well	degrada@on	arer	7	wells	per	DSU	is	a	material	financial	risk	
+¢  Despite	having	liquidity,	WLL	cannot	create	equity	value	at	strip	pricing		
+
+
+¢  Posi@ve	NPV	PUD	inventory	is	limited	at	current	prices	
+¢  The	amount	of	equity	market	capitaliza@on	rela@ve	to	enterprise	value	makes	any	
+
+
+changes	in	material	facts	or	oil	prices	meaningful	to	the	equity	por@on	of	the	cap	
+stack	
+
+
+¢  We	believe	that	without	a	$10-15+	increase	in	oil	WLL	simply	cannot	outrun	the	
+G&A	and	interest	burn	as	going	concerns		
+
+
+¢  WLL	10yr	discounted	G&A	+	interest	=	96%	of	PDP	value	at	strip	
+
+
+¢  WLL	10yr	discounted	G&A	+	interest	=	87%	of	PDP	+	PUD	value	at	strip	
+
+
+
+
+
+
+
+
+
+
+
+17
+18	
+
+
+Drilling	&	PUD	Inventory	Base	Case	
+
+
+Sanish	inventory	depleted	in	3	years	w/	2	rigs	
+Sanish	NPV	assumes	8%	degrada3on	from	2016-2019	type	curve;	HB	5%
+Oil	Differen@al	=	($5.00)	 Gas	Differen@al	=	($1.50)	
+
+
+19	
+
+
+MODEL	ASSUMPTIONS	
+
+
+Source:	Company	filings
+NGL	=	25%	WTI	 Cash	G&A	=	$2.41/Boe	
+
+
+20	
+
+
+MODEL	ASSUMPTIONS	
+
+
+Source:	Company	filings
+21	
+
+
+Hedge	Book	&	Value	
+
+
+Source:	Company	filings
+22	
+
+
+Base	Case	
+
+
+Inputs	&	summary	valua@ons
+23	
+
+
+Base	Case	
+
+
+It	would	appear	management	recently	pushed	out	an	office	lease	for	a	year	in	exchange	for	$10mm,	managing	near-term	earnings	and	G&A	reduc@on	op@cs;	per	Company	filings:	
+	
+		"As	of	June	30,	2019,	the	Company	had	a	contract	for	an	addi@onal	corporate	office	that	consists	of	approximately	$35	million	of	undiscounted	minimum	lease	payments.		The	opera@ng	lease	has	a	ten-
+year	lease	term.		A	por@on	of	the	lease	is	expected	to	commence	in	July	2019,	and	the	remaining	por@on	is	expected	to	commence	in	June	2020."	
+	
+"As	of	March	31,	2019,	the	Company	had	a	contract	for	an	addi@onal	corporate	office	that	consists	of	approximately	$25	million	of	undiscounted	minimum	lease	payments.		The	opera@ng	lease	is	expected	
+to	commence	in	July	2019	and	has	a	ten-year	lease	term."
+24	
+
+
+Base	Case	
+
+
+§  FCF	story	begins	to	see	cracks	in	2020	
+§  Leverage	begins	to	rise	over	medium	and	long-term	
+§  +$12.25	oil	move	for	equity	to	have	implied	value	>$0	
+§  +$15.75	oil	move	for	equity	to	have	current	value
+25	
+
+
+Base	Case	
+
+
+Source:	Company	filings
+BASE	CASE	
+
+
+26	
+
+
+Few	PUD	loca@ons	work	at	strip
+BASE	CASE	
+
+
+27	
+
+
+Few	PUD	loca@ons	works	at	strip
+28	
+
+
+Op@on	Framework	–	PF	1L	Issuance	
+
+
+§  Sensi@vi@es	show	oil	is	the	primary	value	driver	for	WLL	stock	price	
+§  WLL	as	an	op@on	on	oil	can	be	compared	to	listed	oil	futures	op@ons	
+§  WLL	equity	appears	to	be	upwards	of	50%	overvalued	vs	listed	oil	op@ons	
+§  Listed	op@ons	appear	a	cleaner	trade	without	the	the	fric@on	of	execu@on	risk	
+
+
+or	corporate	value	leakage	(ie	management	comp)
+OIL	PRICE	SHIFT	&	SANISH	DEGRADATION	
+
+
+29	
+
+
+§  FCF	appears	highly	dependent	on	Sanish	infill	assump@ons		
+§  5yr	FCF	materially	impaired	with	litle	degrada@on	
+§  Not	linear,	but	every	5%	degrada@on	impairs	5yr	FCF	by	~$200mm
+OIL	PRICE	SHIFT	&	CAPEX	SENSITIVITIES	
+
+
+30	
+
+
+§  PUD$	value	>	500mm	highlighted		
+§  Stock	prices	>	current	price	and	below	$0	highlighted	
+§  10%	degrada@on	in	well	performance	worth	$3-$5/share	
+§  $375,000	well	cost	reduc@ons	worth	$1	+/-	in	share	price	
+§  Corporate	fric@on	beyond	an	excel	model	is	real	
+§  Few	ways	to	win	outside	sustained	oil	upside
+31	
+
+
+PUD	Single	Well	NPV	Sensi@vi@es,	10%	
+
+
+What	is	Tier	I	acreage	for	Whi@ng?	
+	
+
+
+>	$1mm	NPV	highlighted,	2016-2019	derived	type	curves	
+We	believe	curves	will	overstate	go-forward	wells	
+
+
+20%	+/-	Is	more	appropriate	for	PUD	discount	factor
+STOCK	PRICE	SENSITIVITIES		
+
+
+32	
+
+
+Oil	is	the	only	material	driver	of	WLL	stock	price	currently
+BOND	PRICE	SENSITIVITIES		
+
+
+33	
+
+
+10yrs	of	WLL	interest	and/or	G&A	discounted		
+excludes	accrued	and/or	expected	interest
+OIL	CUT		–	LOWER	WITH	TIME	
+
+
+34	
+
+
+-----	=	oil	%	in	2027/2028	
+
+
+Source:	Company	filings
+OIL	BY	AREA	
+
+
+35	
+the	produc@on	treadmill	and	PUD	cliff
+PDP	CASH	FLOW	
+
+
+36	
+
+
+$40	WTI	
+
+
+$60	WTI	 $80	WTI
+OUR	FINANCIAL	SUMMARY	POINTS	
+
+
+37	
+
+
+Based	on	our	analysis	and	modeling,	we	believe	that:	
+
+
+¢ WLL	equity	has	<	$0	intrinsic	value	at	strip	
+
+
+¢ WLL	oil	op@onality	appears	overvalued	
+
+
+¢ WLL	equity	has	significant	leverage	to	oil	but	needs	>	$10	move	higher	
+before	it	is	in-the-money	
+
+
+¢  PUD	deple@on	and	evidence	of	infill	degrada@on	will	create	a	highly	
+vola@le	financial	picture	within	2-3	years		
+
+
+¢  It	appears	the	company	will	have	no	choice	but	to	tap	the	term	market	for	
+a	1L	bond	to	refinance	the	2020	and	2021	notes,	which	will	further	impair	
+the	equity,	all	else	being	equal			
+
+
+¢  10yr	G&A	+	interest	burn	approaches	100%	of	PDP
+ENGINEERING	AND	EVALUATION	
+INDUSTRY	METRIC	EVALUATIONS	AND	PDP	EVALUATION
+EVALUATION	PROCESS	OVERVIEW	
+
+
+¢  Began	by	crea@ng	a	database	of	per@nent	public	informa@on	including	produc@on	history,	well	construc@on	and	
+comple@on	informa@on		
+
+
+¢  Used	produc@on	data	to	create	individual	decline	curves	for	every	Whi@ng	well	in	North	Dakota,	Montana	and	
+Colorado	(all	future	references	to	"Whi@ng"	or	"Whi@ng	produc@on"	mean	these	three	core	areas)	
+
+
+¢  The	overwhelming	majority	of	the	focus	is	Bakken	and	Three	Forks	wells	in	North	Dakota	
+
+
+¢  Produc@on	data	was	used	to	create	proved	developed	producing	(PDP)	es@mates	for	Whi@ng's	produc@on.	This	
+includes	es@mated	ul@mate	recoveries	(EURs)	or	total	volumes	of	oil	and	gas	that	each	well	is	projected	to	make	in	
+the	future	in	addi@on	to	cumula@ve	produc@on	
+
+
+¢  Used	prior	produc@on	performance	from	recent	wells	(post	2016)	and	created	type	curves	for	each	of	Whi@ng's	
+areas	
+
+
+¢  Combined	the	remaining	reserves	es@mates	with	the	es@mates	of	produc@on	from	type	curves	to	determine	the	
+number	of	drilling	loca@ons	remaining	on	Whi@ng's	North	Dakota	acreage	
+
+
+¢  Created	an	original	oil	in	place	(OOIP)	map	
+
+
+¢  Allocated	EURs	from	individual	wells	to	sec@ons	
+
+
+¢  Cross	referenced	the	allocated	EURs	for	each	sec@on	with	the	OOIP	numbers	to	es@mate	oil	recovery	volumes	
+(recovery	factors)	
+
+
+¢  Using	these	numbers	created	an	es@mate	for	future	volumes	of	oil	and	gas	that	could	be	recovered	from	addi@onal	
+drilling	within	the	fields	Whi@ng	outlines	
+
+
+39	*Authors	would	note	that	certain	units	in	North	Dakota	exhibit	recoveries	that	appear	to	be	as	high	as	20%,	however,	we	believe	these	higher	volumes	are	generally	atributable	to	high	density	
+drilling	spacing	units	that	have	proven	uneconomic	at	today's	oil/gas	price
+KEY	INDUSTRY	METRICS	
+
+
+¢  Peak	month	rate	vs	
+@me	is	decreasing	
+
+
+¢  Horizontal	lateral	
+length	is	not	changing	
+
+
+¢  Proppant	per	foot	is	
+decreasing	
+
+
+¢  Infill	density	is	
+increasing	
+
+
+¢  Drilled	/	uncompleted	
+well	count	is	lowest	
+since	2016	
+
+
+¢  Infill	density	is	high	
+and	increasing	
+
+
+¢  All	point	to	EUR	
+contrac@on	
+
+
+40
+OIL	EUR	VS	PEAK	MONTHLY	RATE	
+
+
+41
+WLL	OIL	EURS	ARE	DECLINING	ACROSS	THE	BASIN	
+
+
+42	
+
+
+
+
+
+Since	new	frac	design	uplir	peak	in	2017	average	
+Bakken	well	produc@on	has	declined	by	18%	in	2	
+years.
+WLL	OIL	ONLY	EURS	ARE	DECLINING	
+
+
+43	
+
+
+
+
+
+Since	new	frac	design	uplir	peak	in	2017	average	
+well	produc@on	has	declined	by	18%	in	2	years.	The	
+main	cause	of	this	is	density	drilling	/	deple@on
+AVG	OIL	EUR	BY	FIELD	
+
+
+44	
+
+
+TIER	II
+TIER	I	
+
+
+45	
+
+
+FIELD	LEVEL	OIL	EUR	VS	BAKKEN	POOL	OOIP	
+
+
+TIER	II		
+0-300	
+
+
+300-600	
+
+
+600-700	
+
+
+>700
+BOE	EUR	VS	YEAR	
+
+
+46	
+
+
+WLL	1	MMBOE	Type	Curve
+OIL	EUR	VS	FRAC	STAGE	SPACING	BY	FPY	
+
+
+47
+OUR	PDP	ESTIMATION	-	BACKGROUND		
+
+
+¢  The	Proved	Developed	Producing	(PDP)	Model	is	created	to	quan@fy	only	the	value	of	
+the	current	produc@on	
+¢  This	does	NOT	include	volumes	or	value	for	future	drilling	
+
+
+¢  Produc@on	volumes	for	oil	and	gas	are	quan@fied	by	the	operator	(Whi@ng)	or	their	
+purchasers	and	reported	to	each	state	on	a	monthly	basis	
+¢  Latest	available	data	at	the	@me	of	this	analysis	was	August	of	2019*	
+
+
+¢  Produc@on	forecasted	off	monthly	decline	trend	
+¢  Field	type	curve	generated	for	each	field	and	over	different	@me	frames	
+
+
+¢  Noted	effects	on	both	oil	and	gas	volumes	due	to	curtailed	gas	sales	in	Williams	and	
+McKenzie	Coun@es	and	atempted	to	give	credit	to	prior	period	decline	trend	when	
+possible	
+
+
+¢  Generally	a	difficult	dataset	due	to	oren	erra@c	and	inconsistent	oil	and	gas	volumes,	
+possibly	due	to	mul@-well	tank	bateries	and	common	gas	meters	being	allocated	
+back	to	individual	wells	
+
+
+¢  Ran	two	years	of	“loss	ok”	to	keep	short	term	volumes	in	line	with	company	
+producing	what	appear	to	be	wells	at	a	loss	
+
+
+48	*Authors	would	note	that	public	produc@on	volumes	can	be	off	and	based	on	experience	tend	to	be	less	accurate	within	the	last	6	months	of	the	query.	The	graph	on	the	following	page	shows	
+significant	difference	between	WLL's	2Q19	reported	in	10Q	versus	current	state	reported	volumes
+PDP	ASSUMPTIONS		
+
+
+¢  Base	assump@ons	across	the	field	for	PDP	and	PUDs	
+¢  Strip	pricing	as	of	10/24/2019	
+
+
+¢  Fixed	costs	assump@ons	in	table	to	the	right	
+
+
+¢  Oil	discount	used	in	model	-$5	/	bbl	
+
+
+¢  Gas	discount	used	in	model	-$1.5	/	Mcf	
+
+
+¢  NGLs	~25%	value	of	a	barrel	of	oil	$0.2	-	$0.23	/	gal	
+
+
+¢  Gas	shrink	35%	
+
+
+¢  Variable	costs	of	$5	/	bbl	of	oil	
+
+
+o  Note	that	water	cut	has	been	~50%	in	recent	history	for	this	field,	which	is	accounted	for	in	this	
+variable	cost	number.	Also	transporta@on	and	gathering	in	addi@on	to	variable	costs	
+
+
+¢  WI	was	assumed	to	be	78.75%	with	an	assumed	lease	NRI	of	80%	
+
+
+o  This	WI	is	high,	and	actual	operated	WI	is	probably	closer	to	70%,	however,	the	addi@on	NRI	
+was	added	to	account	for	WLL’s	non-operated	produc@on	both	in	PDP	and	PUDs	
+
+
+49	
+
+
+Time	
+(months)	
+
+
+Amount	
+($/Month)	
+
+
+0	–	12	 30,000	
+
+
+12	–	24	 20,000	
+
+
+24	–	36	 15,000	
+
+
+36	–	48	 10,000	
+
+
+48	-	ECL	 5,000
+PDP	ESTIMATE	
+
+
+¢  Oil	
+¢  B	Factor	–	1	(on	average)	
+
+
+¢  Dmin	–	6%	
+
+
+¢  Used	exponen@al	decline	
+when	behavior	was	exhibited	
+
+
+¢  Oren	higher	than	6%	
+
+
+¢  Gas	
+¢  B	Factor	–	1	(on	average)	
+
+
+¢  Dmin	–	6%	
+
+
+¢  Used	exponen@al	decline	
+when	behavior	was	exhibited	
+
+
+¢  Oren	higher	than	6%	
+
+
+¢  Tried	to	honor	GOR	trend	
+when	possible	
+
+
+50	
+
+
+Key	PDP	Metrics	
+
+
+Transi@on	From	Actual	
+Produc@on	to	Forecast	on	
+Effec@ve	Date	10/1	
+
+
+GOR	Trend
+PDP	ESTIMATE	-	CURTAILMENT	
+
+
+51	
+
+
+Key	PDP	Metrics	
+
+
+Curtailment??	
+
+
+Honoring	earlier	
+decline	before	
+curtailment	hit	
+
+
+wells	
+
+
+¢  Recently	cited	
+curtailment	issues	
+star@ng	at	the	beginning	
+of	2019	
+
+
+¢  Affec@ng	McKenzie	and	
+Williams	Coun@es	
+
+
+¢  Atempted	to	honor	old	
+curve	
+
+
+¢  Note	that	this	projec@on	
+will	become	less	accurate	
+to	the	downside	for	
+es@ma@ng	future	
+produc@on	as	curtailment	
+con@nues	
+
+
+Curtailment
+PDP	ESTIMATE	–	SUMMARY	PLOT	ALL	WLL	PDP	
+
+
+¢  PV10	PDP	–	$2.2	
+billion	
+
+
+¢  Oil	Reserves	–	
+561	million	
+barrels	
+
+
+¢  Oil	Remaining	–	
+174	million	
+barrels	
+
+
+¢  Gas	Reserves	–	
+1,209	BCF	
+
+
+¢  Gas	Remaining	–	
+557	BCF	
+
+
+52	
+
+
+Key	PDP	Metrics	2,286	Wells	in	3	State	
+Focus	Area	
+
+
+Transi@on	From	Actual	
+Produc@on	to	Forecast	on	
+Effec@ve	Date	10/1
+ENGINEERING	AND	EVALUATION	
+PROVED	UNDEVELOPED	(PUD)	TYPE	CURVES
+MAP	OF	WHITING	FIELDS	
+
+
+54	
+
+
+
+
+
+West	Missouri	Break	
+
+
+East	Missouri	Break	
+
+
+Pronghorn	
+
+
+Sanish	
+
+
+Polar	
+
+
+Hidden	Bench
+POST	2016	FIELD	CURVE	–	ALL	WELLS	IN	FIELD	
+
+
+55	
+
+
+¢  First	produc@on	per	well	is	normalized	to	@me	zero	and	averaged	across	the	well	count	
+¢  Projec@on	placed	across	this	data	to	create	a	type	curve	for	the	underlying	data	set	
+¢  Using	this	projec@on	you	create	a	type	curve	case,	which	includes	cost,	tax,	pricing	and	all	other	
+
+
+assump@ons	used	in	the	database	
+
+
+¢  This	case	was	then	u@lized	for	new	drill	projec@ons	and	wells	that	don’t	have	enough	data	to	create	
+individual	decline	curve	
+
+
+¢  Case	shows	average	oil	EUR	of	400	MBO	and	gas	EUR	of	1.4	BCF	per	well	(EURs	roughly	in	line	with	
+probability	plot	on	slide	38)	
+
+
+Actual	Produc@on	Overlaid	with	Projec@on	 Economic	Case	Created	From	Projec@on	
+
+
+Note	that	late	life	
+produc@on	
+inconsistency	is	
+mainly	due	to	lower	
+well	count
+Pronghorn	Field	Type	Curve	 West	Missouri	Breaks	Field	Type	Curve	
+
+
+TYPE	CURVES	FOR	ALL	FIELDS
+57	
+
+
+Sanish	Field	Type	Curve	 Polar	Field	Type	Curve	
+
+
+Hidden	Bench	Field	Type	Curve	 East	Missouri	Breaks	Field	Type	Curve
+ENGINEERING	AND	EVALUATION	
+DRILLING	LOCATION	INVENTORY
+EVALUATION	PROCESS	OVERVIEW	
+
+
+¢  Created	an	original	oil	in	place	(OOIP)	map	and	assigned	volumes	on	a	per	sec@on	
+basis	
+
+
+¢  Allocated	EURs	50/50	to	sec@ons	that	contained	either	a	surface	or	botom	hole	
+(or	effec@vely	one	or	the	other)	loca@ons	for	all	horizontal	wells	
+
+
+¢  Cross	referenced	the	allocated	EURs	for	each	sec@on	with	the	OOIP	numbers	to	
+es@mate	oil	recovery	volumes	(recovery	factors)	
+
+
+¢  Using	these	numbers	created	an	es@mate	for	future	volumes	of	oil	and	gas	that	
+could	be	recovered	from	addi@onal	drilling	within	the	fields’	Whi@ng	outlines	
+
+
+¢  Took	prior	produc@on	performance	from	recent	wells	(post	2016)	and	created	type	
+curves	for	each	of	Whi@ng's	areas	
+
+
+¢  Combined	the	remaining	reserves	es@mates	with	the	es@mates	of	produc@on	from	
+type	curves	to	determine	the	number	of	drilling	loca@ons	remaining	on	Whi@ng's	
+North	Dakota	acreage	
+
+
+59	*Authors	would	note	that	certain	units	in	North	Dakota	exhibit	recoveries	that	appear	to	be	as	high	as	20%,	however,	we	believe	these	higher	volumes	are	generally	atributable	to	high	density	
+drilling	spacing	units	that	have	proven	uneconomic	at	today's	oil/gas	price
+BAKKEN	 THREE	FORKS	
+
+
+60	
+
+
+ORIGINAL	OIL	IN	PLACE	
+
+
+BAKKEN	POOL	OOIP	
+
+
++	 =	
+
+
+=	
+OOIP	ALLOCATED	TO	SECTIONS
+IMPLIED	RECOVERY	FACTOR	HEAT	MAP	
+
+
+61	
+*Implied	recovery	factor	based	on	OOIP	of	“Bakken	Pool”	and	EURs	for	all	wells	
+
+
+<5%	 >15%	
+
+
+BAKKEN	PERMITS	
+
+
+THREE	FORKS	PERMITS
+DRILLING	LOCATIONS	PER	FIELD	
+
+
+62	
+
+
+¢  Hidden	Bench	OOIP	calculated	at	~1.3	billion	barrels	of	oil	in	place	
+
+
+¢  Current	es@mates	recovery	factor	of	8%	
+
+
+¢  Assumed	15%	recovery	factor	possible	
+
+
+¢  Assumed	EUR	of	359	MBO	
+
+
+¢  (1.3	x	(15%	-	8%))	/	(360	MBO	/	well)	~	255	wells	
+
+
+¢  Sanish	OOIP	calculated	at	~2.1	billion	barrels	of	oil	in	place	
+
+
+¢  Current	es@mated	recovery	factor	of	9.4%	
+
+
+¢  Assumed	15%	recovery	factor	possible	
+
+
+¢  Assumed	EUR	of	508	MBO	
+
+
+¢  (2.1	x	(15%	-	9.4%))	/	(508	MBO	/	well)	~	240	wells	
+
+
+Sanish	
+
+
+Hidden	Bench
+DRILLING	LOCATIONS	PER	FIELD	
+
+
+63	
+
+
+¢  212	exis@ng	wells	
+
+
+¢  65	DSUs	
+
+
+¢  6	wells/unit	
+
+
+¢  Implies	180	wells	ler	to	drill	
+
+
+¢  Polar	OOIP	calculated	at	~1.5	billion	barrels	of	oil	in	place	
+
+
+¢  Current	es@mated	recovery	factor	of	14%	
+
+
+¢  Assumed	15%	recovery	factor	possible	
+
+
+¢  Assumed	EUR	of	360	MBO	
+
+
+¢  (1.5	x	(15%	-	14%))	/	(360	MBO	/	well)	~	40	wells	
+
+
+Polar	
+
+
+Pronghorn
+SAMPLE	POLAR	ANALYSIS	
+
+
+64	
+
+
+BA
+KK
+
+
+EN
+ENGINEERING	AND	EVALUATION	
+SANISH
+SANISH	SUMMARY	
+¢  Whi@ng	began	drilling	in	~2007	
+
+
+¢  Peak	drilling	ac@vity	occurred	in	2012	
+
+
+¢  Peak	produc@on	was	March	of	2013	at	53	thousand	barrels	of	oil	a	day	
+
+
+¢  Have	drilled	~480	wells	since	that	@me	
+
+
+¢  ~77	drilling	units	means	currently	6.2	wells	/	unit	
+
+
+¢  Average	es@mated	oil	in	place	per	DSU	in	Sanish	is	~25	million		
+
+
+¢  Current	es@mated	recovery	factor	for	Sanish	9.4%	
+
+
+¢  2	drilling	rigs	(half	of	WLL	drilling	program)	running	in	Sanish	
+
+
+¢  Future	Sanish	drilling	accounts	for	~80%	of	PUD	value	at	a	NPV10	and	keeping	well	results	~in	line	with	past	
+results	is	required	to	maintain	liquidity	for	the	company	
+
+
+66	
+
+
+0	
+
+
+20	
+
+
+40	
+
+
+60	
+
+
+80	
+
+
+100	
+
+
+2007	 2008	 2009	 2010	 2011	 2012	 2013	 2014	 2015	 2016	 2017	 2018	 2019	
+
+
+Whi@ng	Drilling	Ac@vity	in	Sanish
+MCNAMARA	CASE	STUDY	
+
+
+¢  Men@oned	several	@mes	by	
+company	as	evidence	that	Sanish	has	
+infill	poten@al	
+
+
+¢  Located	in	Sanish	Field	
+¢  Comprised	of	two	“standard”	1,280	
+
+
+acre	“units”	for	total	acreage	of	
+2,560	
+
+
+¢  Original	well	drilled	in	2007	with	
+older	vintage	addi@ons	running	
+through	2013	
+
+
+¢  All	wells	in	the	unit	have	~10,000’	
+laterals	
+
+
+¢  Includes	McNamara,	Liffrig,	
+Fladeland	and	Locken	wells	
+
+
+¢  Total	“old”	well	count	was	7	
+¢  Spacing	implica@on	3.5	wells	per	1,280	
+
+
+acre	DSU	
+67	
+
+
+Sanish	Field	
+
+
+McNamara	Wells
+MCNAMARA	RESERVES	
+
+
+¢  When	6	new	wells	were	brought	
+online	in	2018	the	one	well	/	unit	
+had	produced	2,770	MBO.	
+
+
+¢  Using	projec@on	in	chart	to	the	
+right,	es@mated	total	reserves	for	
+the	McNamara	DSU	was	3,826	
+MBO	
+
+
+¢  Remaining	reserves	were	1,056	
+MBO	
+
+
+¢  EUR	/	OOIP	=	RF	
+¢  3,826	/	53,152	=	7.2%	
+¢  Implies	oil	EUR	/	7	old	wells	~550	
+
+
+MBO	/	well	
+¢  This	would	be	highly	economic	at	
+
+
+today’s	oil	price	
+¢  Wells	paid	out	in	less	than	two	
+
+
+years	
+
+
+68	
+
+
+Forma@on	 Sw	 OOIP	
+
+
+Up	Bakken	 3.20%	 13,407,969.80	
+
+
+Mid	Bakken	 29.80%	 3,663,037.36	
+
+
+Mid	Bakken	 23.00%	 1,685,512.00	
+
+
+Mid	Bakken	 33.30%	 10,811,434.82	
+
+
+Low	Bakken	 5.30%	 18,108,350.52	
+
+
+Three	Forks	1	 61.80%	 3,733,365.18	
+
+
+Three	Forks	2	 82.60%	 1,742,760.96	
+
+
+
+
+
+2560	OOIP										53,152,431	
+
+
+Oil	projec@on	
+for	old	wells
+MCNAMARA	RESERVES	
+
+
+¢  Based	on	projec@on	to	the	right,	
+current	projected	EUR	for	this	DSU	
+is	8,563	MBO		
+
+
+¢  EUR	/	OOIP	=	RF	
+¢  8,563	/	53,152	=	16%	
+¢  In	line	with	standard	15%	basin	
+
+
+wide	assump@on	
+¢  Implies	oil	EUR	of	592	MBO	/	well	
+
+
+for	8	new	wells.	
+¢  This	would	be	highly	economic	at	
+
+
+today’s	oil	price	
+¢  Wells	paid	out	in	less	than	two	
+
+
+years	
+¢  ~8%	improvement	of	produc@vity	
+
+
+from	original	wells	in	the	unit	
+
+
+69	
+
+
+Forma@on	 Sw	 OOIP	
+
+
+Up	Bakken	 3.20%	 13,407,969.80	
+
+
+Mid	Bakken	 29.80%	 3,663,037.36	
+
+
+Mid	Bakken	 23.00%	 1,685,512.00	
+
+
+Mid	Bakken	 33.30%	 10,811,434.82	
+
+
+Low	Bakken	 5.30%	 18,108,350.52	
+
+
+Three	Forks	1	 61.80%	 3,733,365.18	
+
+
+Three	Forks	2	 82.60%	 1,742,760.96	
+
+
+
+
+
+2560	OOIP										53,152,431	
+
+
+Oil	projec@on	
+for	new	and	old	
+wells
+BARTELSON	FEDERAL	CASE	STUDY	
+
+
+¢ Men@oned	in	addi@on	to	
+McNamara	several	@mes	by	
+company	as	evidence	that	
+Sanish	has	infill	poten@al	
+
+
+¢ Located	on	furthest	western	
+extent	of	Whi@ng’s	Sanish	
+Field	posi@on	
+
+
+¢ Comprised	of	one	1,280	acre	
+unit	
+
+
+¢ Only	one	original	well	drilled	
+in	2007	
+
+
+¢ Original	well	was	~10,000’	
+lateral	
+
+
+70	
+Sanish	Field	
+
+
+Bartelson	Federal	Wells
+BARTELSON	FEDERAL	RESERVES	
+
+
+¢ When	6	new	wells	were	brought	
+online	in	2018	the	one	well	unit	had	
+produced	225	MBO	
+
+
+¢ The	one	well	Bartelson	44-31H	was	
+not	producing	at	that	@me	
+
+
+¢ EUR	/	OOIP	=	RF	
+
+
+¢ 225	/	26,576	=	0.8%	
+¢ In	essence	this	unit	was	virgin	oil	in	
+place,	GOR	and	pressure	
+
+
+71	
+
+
+Forma@on	 Sw	 OOIP	
+
+
+Up	Bakken	 3.20%	 6,703,984.9	
+
+
+Mid	Bakken	 29.80%	 1,831,518.68	
+
+
+Mid	Bakken	 23.00%	 842,756.00	
+
+
+Mid	Bakken	 33.30%	 5,405,717.41	
+
+
+Low	Bakken	 5.30%	 9,054,175.26	
+
+
+Three	Forks	1	 61.80%	 1,866,682.59	
+
+
+Three	Forks	2	 82.60%	 871,380.48	
+
+
+1280	OOIP										26,576,200
+BARTELSON	FEDERAL	RESERVES	
+
+
+¢  Based	on	projec@on	to	the	right,	
+current	projected	EUR	for	this	DSU	
+is	4,205	MBO		
+
+
+¢  EUR	/	OOIP	=	RF	
+¢  4,205	/	26,576	=	15.8%	
+¢  In	line	with	standard	15%	basin	
+
+
+wide	assump@on	
+¢  Implies	oil	EUR	of	663	MBO	/	well	
+
+
+for	6	new	wells.	
+¢  This	would	be	highly	economic	at	
+
+
+today’s	oil	price	
+¢  Wells	paid	out	in	less	than	two	
+
+
+years	
+¢  ~66%	improvement	of	produc@vity	
+
+
+from	original	wells	in	the	unit	
+
+
+72	
+
+
+Oil	projec@on	
+for	new	and	old	
+wells	
+
+
+Forma@on	 Sw	 OOIP	
+
+
+Up	Bakken	 3.20%	 6,703,984.9	
+
+
+Mid	Bakken	 29.80%	 1,831,518.68	
+
+
+Mid	Bakken	 23.00%	 842,756.00	
+
+
+Mid	Bakken	 33.30%	 5,405,717.41	
+
+
+Low	Bakken	 5.30%	 9,054,175.26	
+
+
+Three	Forks	1	 61.80%	 1,866,682.59	
+
+
+Three	Forks	2	 82.60%	 871,380.48	
+
+
+1280	OOIP										26,576,200
+SANISH	MOVING	FORWARD	
+
+
+¢  The	Bartelson	and	McNamara	call	outs	
+look	nothing	like	future	drilling	
+
+
+¢  At	@me	of	new	drilling	these	units	were	
+set	to	recover	~7%	and	~1%	of	OOIP	
+
+
+¢  At	@me	of	new	drilling	these	units	had	
+3.5	and	1	well	/	unit	
+
+
+¢  Moving	forward	all	Sanish	wells	are	
+infill	wells	(brown	lines	on	map	are	
+drilling	permits)	
+
+
+¢  Across	Sanish	the	average	recovery	
+factor	is	already	9.4%	
+
+
+¢  155	operated	sec@ons	and	77	DSUs	
+with	480	wells	
+
+
+¢  Currently	6.2	wells	/	DSU	
+
+
+73
+0% 
+
+
+10% 
+
+
+20% 
+
+
+30% 
+
+
+40% 
+
+
+50% 
+
+
+60% 
+
+
+70% 
+
+
+80% 
+
+
+90% 
+
+
+100% 
+0.00 100.00 200.00 300.00 400.00 500.00 600.00 700.00 800.00 900.00 
+
+
+C
+um
+
+
+ul
+at
+
+
+iv
+e 
+
+
+P
+ro
+
+
+ba
+bi
+
+
+lit
+y 
+
+
+OIL	EUR	PER	WELL	PROBABILITY	PLOT	
+
+
+-Mean	oil	EUR	
+424	MBO	
+
+
+-Median	oil	EUR	
+414	MBO	
+
+
+74	
+
+
+305	Bakken/Three	Forks	
+Wells	Drilled	Since	‘16	
+
+
+¢  Whi@ng	adver@ses	650	MBO	of	oil	which,	in	our	view,	appears	to	have	a	10	–	15%	probability	of	actually	occurring	
+
+
+WLL	adver@sed	EUR	
+
+
+Our	average	EUR
+TECHNICAL	SUMMARY	POINTS	
+
+
+75	
+
+
+Our	analysis	and	modeling	indicates:	
+
+
+¢  Well	average	EUR	is	nowhere	close	to	650	MBO	or	1	MBOE	type	curve	
+¢  New	comple@on	design	created	real	EUR	uplir	at	the	end	of	2015	–	beginning	
+
+
+of	2016,	however,	has	reached	its	technical	limit		
+
+
+¢  Deple@on	and	subsquent	density	drilling	has	led	to	EUR	degrada@on	since	
+2017	
+
+
+¢  On	a	go	forward	basis	the	company	is	now	dependent	on	Sanish	results	(~75%	
+of	value	add)	to	be	able	to	deleverage	and	create	equity	value	
+¢  Most	Sanish	wells	are	Bakken	and	Bakken	has	been	decreasing	at	~9%	a	year	over	
+
+
+last	2	years	
+
+
+¢  Drilling	in	high	density	and	high	recovery	areas	of	Sanish	will	most	likely	lead	
+to	degraded	produc@vity	over	past	performance	
+
+
+¢  Degraded	produc@on	leads	to	significant	slippage	in	cash	flow	and	eventually	a	
+spike	in	leverage	at	strip	pricing,	all	else	being	equal
+LEGAL	
+CORPORATE	STRUCTURE	&	RELEVANT	DOCUMENT	REVIEW
+CORPORATE	STRUCTURE	AND	GUARANTEES	
+
+
+77	Source:	Company	filings
+8-K	DATED	9/13/19		
+
+
+¢  8-K	dated	9/13/19	seems	to	be	seung	the	stage	for	a	1st	lien	transac@on	for	the	stub	2020	and	2021	Notes	
+¢  We	believe	Whi@ng	will	likely	issue	a	~$1.2B	1L	note	in	the	near	future	
+¢  Unclear	whether	WLL	will	refinance	the	recent	$340mm	revolver	draw	
+
+
+
+
+
+htps://www.sec.gov/ix?doc=/Archives/edgar/data/1255474/000119312519245267/d804106d8k.htm	
+
+
+
+
+
+"On	September	13,	2019,	Whi@ng	Petroleum	Corpora@on	(the	“Company”)	and	its	subsidiary	Whi@ng	Oil	and	Gas	
+Corpora@on	(“Whi@ng	Oil	and	Gas”)	entered	into	a	First	Amendment	(the	“Amendment”)	to	the	Seventh	Amended	
+and	Restated	Credit	Agreement,	dated	as	of	April	12,	2018	(the	“Credit	Agreement”),	among	the	Company,	Whi@ng	
+Oil	and	Gas,	the	lenders	party	thereto	and	JPMorgan	Chase	Bank,	N.A.,	as	administra@ve	agent.	
+
+
+The	Amendment	amends	the	Credit	Agreement	to,	among	other	things,	permit	the	repurchase,	redemp@on,	
+prepayment,	or	other	acquisi@on	or	re@rement	for	value	of	any	Senior	Notes	(as	defined	in	the	Credit	Agreement)	if	
+(a)	such	transac@on	is	for	a	price	not	greater	than	an	amount	equal	to	par	plus	accrued	and	unpaid	interest	and	fees	
+and	any	applicable	make-whole	premium,	(b)	immediately	arer	giving	effect	to	such	transac@on,	there	is	unused	
+availability	under	the	facility	of	not	less	than	the	greater	of	$100	million	or	15%	of	the	then	effec@ve	total	
+commitments,	and	(c)	the	Company’s	ra@o	of	consolidated	total	debt	as	of	the	date	of	such	transac@on	(upon	giving	
+effect	thereto)	to	EBITDAX	(as	defined	in	the	Credit	Agreement)	during	the	last	four	quarters	is	not	greater	than	3.25	
+to	1.0."	
+
+
+78	Source:	Company	filings
+¢  “Credit	Agreement”	means	that	certain	Sixth	Amended	and	Restated	
+Credit	Agreement,	dated	as	of	August	27,	2014,	as	amended,	among	
+WOGC,	the	Company,	the	other	guarantors	named	therein,	JPMorgan	
+Chase	Bank,	N.A.,	as	administra@ve	agent,	the	other	financial	ins@tu@ons	
+and	lenders	par@es	thereto	from	@me	to	@me,	providing	for	revolving	
+credit	borrowings,	including	any	related	notes,	guarantees,	collateral	
+documents,	instruments	and	agreements	executed	in	connec@on	
+therewith,	and	in	each	case	as	amended,	modified,	supplemented,	
+restated,	refinanced,	renewed,	refunded,	replaced	(whether	at	maturity,	
+upon	early	repayment	and	termina@on	or	therearer)	in	whole	or	in	part	
+from	@me	to	@me	including	by	or	pursuant	to	one	or	more	agreements	or	
+indentures,	or	by	means	of	issuance	of	debt	securiZes	to	insZtuZonal	
+investors,	including	any	agreement	or	indenture	that	extends	the	
+maturity	of	any	Indebtedness	thereunder,	or	increases	the	amount	of	
+available	borrowings	thereunder	(provided	that	any	increase	in	amounts	
+drawn	is	otherwise	permited	under	Sec@on	4.09	of	this	Firh	
+Supplemental	Indenture),	or	adds	or	changes	the	borrower	or	guarantor	
+and	whether	by	the	same	or	any	other	agent,	lender,	group	of	lenders,	
+purchasers	or	debt	holders.	
+
+
+¢  “Credit	Facili3es”	means	one	or	more	debt	facili@es	(including,	without	
+limitaZon,	the	Credit	Agreement),	indentures,	commercial	paper	
+faciliZes	or	capital	markets	financings,	in	each	case	with	banks	or	other	
+insZtuZonal	lenders	or	insZtuZonal	investors	providing	for	revolving	
+credit	loans,	term	loans,	receivables	financing	(including	through	the	sale	
+of	receivables	to	such	lenders	or	to	special	purpose	en@@es	formed	to	
+borrow	from	(or	sell	receivables	to)	such	lenders	against	such	
+receivables)	or	leters	of	credit,	in	each	case,	as	amended,	restated,	
+modified,	renewed,	refunded,	replaced	or	refinanced	(including	
+refinancing	with	any	capital	markets.	transac@on	or	by	means	of	sales	of	
+debt	securi@es)	in	whole	or	in	part	from	@me	to	@me	(and	whether	or	not	
+with	the	original	administra@ve	agent,	lenders	or	trustee	or	another	
+administra@ve	agent	or	agents,	other	lenders	or	another	trustee	and	
+whether	provided	under	the	original	Credit	Agreement	or	any	other	
+credit	or	other	agreement	or	indenture).	
+
+
+¢  “Permi-ed	Liens”	means:	
+
+
+(1)	Liens	securing	any	Indebtedness	under	any	Credit	Facility;	
+
+
+(2)	Liens	in	favor	of	the	Company	or	the	Guarantors;	
+
+
+(3)	Liens	on	property	of	a	Person	exis@ng	at	the	@me	such	Person	is	merged	
+with	or	into	or	consolidated	with	the	Company	or	any	Restricted	Subsidiary	of	
+the	Company;	provided	that	such	Liens	were	in	existence	prior	to	the	
+contempla@on	of	such	merger	or	consolida@on	and	do	not	extend	to	any	assets	
+other	than	those	of	the	Person	merged	into	or	consolidated	with	the	Company	
+or	the	Restricted	Subsidiary;	
+
+
+	(4)	Liens	on	property	(including	Capital	Stock)	exis@ng	at	the	@me	of	acquisi@on	
+of	the	property	by	the	Company	or	any	Restricted	Subsidiary	of	the	
+Company;	provided	that	such	Liens	were	in	existence	prior	to	the	contempla@on	
+of	such	acquisi@on;	
+
+
+(5)	Liens	securing	Indebtedness	(including	Capital	Lease	Obliga@ons)	incurred	in	
+
+
+connec@on	with	the	acquisi@on	by	the	Company	or	any	Restricted	Subsidiary	of	
+assets	used	in	the	Oil	and	Gas	Business	(including	the	office	buildings	and	other	
+real	property	used	by	the	Company	or	such	Restricted	Subsidiary	in	conduc@ng	
+its	opera@ons);	provided	that	(i)	such	Liens	atach	only	to	the	assets	acquired	
+with	the	proceeds	of	such	Indebtedness,	and	(ii)	such	Indebtedness	is	not	in	
+excess	of	the	purchase	price	of	such	fixed	assets;	
+
+
+(6)	Liens	exis@ng	on	the	Issue	Date	(other	than	under	the	Credit	Agreement);	
+
+
+79	
+
+
+LIEN	LOOPHOLE	IS	PRESENT		
+
+
+Source:	Company	filings
+LIMITATION	ON	INDEBTEDNESS	
+¢  SecZon	4.09	LimitaZon	on	Incurrence	of	Indebtedness	and	Issuance	of	Preferred	Stock.	
+
+
+The	Company	will	not,	and	will	not	permit	any	of	its	Restricted	Subsidiaries	to,	directly	or	indirectly,	create,	incur,	issue,	assume,	guarantee	or	otherwise	become	directly	or	indirectly	liable,	
+con@ngently	or	otherwise,	with	respect	to	(collec@vely,	“incur”)	any	Indebtedness	(including	Acquired	Debt),	neither	the	Company	nor	any	Guarantor	will	issue	any	Disqualified	Stock,	and	
+the	Company	will	not	permit	any	Non-Guarantor	Subsidiary	to	issue	any	shares	of	preferred	stock;	provided,	however,	that	the	Company	and	any	Restricted	Subsidiary	may	incur	
+Indebtedness	(including	Acquired	Debt)	or	issue	Disqualified	Stock,	and	any	Restricted	Subsidiary	may	issue	preferred	stock,	if	the	Fixed	Charge	Coverage	RaZo	for	the	Company’s	most	
+recently	ended	four	full	fiscal	quarters	for	which	internal	financial	statements	are	available	immediately	preceding	the	date	on	which	such	addiZonal	Indebtedness	is	incurred	or	such	
+Disqualified	Stock	or	preferred	stock	is	issued	would	have	been	at	least	2.0	to	1.0,	determined	on	a	pro	forma	basis	(including	a	pro	forma	applica@on	of	the	net	proceeds	therefrom),	as	if	
+the	addi@onal	Indebtedness	had	been	incurred	or	Disqualified	Stock	or	preferred	stock	had	been	issued,	as	the	case	may	be,	at	the	beginning	of	such	four-quarter	period.	
+
+
+The	first	paragraph	of	this	Sec@on	4.09	will	not	prohibit	the	incurrence	of	any	of	the	following	items	of	Indebtedness	(collec@vely,	“Permited	Debt”):	
+
+
+(1)	the	incurrence	by	the	Company	or	any	of	its	Restricted	Subsidiaries	of	addi@onal	Indebtedness	(including	leters	of	credit)	under	one	or	more	Credit	Facili@es	in	an	aggregate	principal	
+amount	at	any	one	@me	outstanding	under	this	clause	(1)	(with	leters	of	credit	being	deemed	to	have	a	principal	amount	equal	to	the	maximum	available	amount	thereunder)	not	to	
+exceed	an	amount	equal	to	the	greater	of	(a)	$3.0	billion	or	(b)	30.0%	of	ACNTA	as	of	the	date	of	such	incurrence;	
+
+
+
+
+
+¢  “Fixed	Charge	Coverage	Ra7o”	means	with	respect	to	any	specified	Person	for	any	four-quarter	reference	period,	the	ra@o	of	the	Consolidated	Cash	Flow	of	such	Person	for	such	
+period	to	the	Fixed	Charges	of	such	Person	for	such	period.	In	the	event	that	the	specified	Person	or	any	of	its	Restricted	Subsidiaries	incurs,	assumes,	guarantees,	repays,	
+repurchases	or	redeems	any	Indebtedness	(other	than	ordinary	working	capital	borrowings)	or	issues,	repurchases	or	redeems	preferred	stock	subsequent	to	the	commencement	of	
+the	applicable	four-quarter	reference	period	and	on	or	prior	to	the	date	on	which	the	event	for	which	the	calcula@on	of	the	Fixed	Charge	Coverage	Ra@o	is	made	(the	“Calcula@on	
+Date”),	then	the	Fixed	Charge	Coverage	Ra@o	will	be	calculated	giving	pro	forma	effect	to	such	incurrence,	assump@on,	guarantee,	repayment,	repurchase	or	redemp@on	of	
+Indebtedness,	or	such	issuance,	repurchase	or	redemp@on	of	preferred	stock,	and	the	use	of	the	proceeds	therefrom	as	if	the	same	had	occurred	at	the	beginning	of	such	period.	
+
+
+¢  “Fixed	Charges”	means,	with	respect	to	any	specified	Person	for	any	period,	the	sum,	without	duplica@on,	of:	
+
+
+(1)	the	consolidated	interest	expense	of	such	Person	and	its	Restricted	Subsidiaries	for	such	period,	whether	paid	or	accrued	(excluding	any	interest	atributable	to	Dollar-Denominated	
+Produc@on	Payments	but	including,	without	limita@on,	amor@za@on	of	debt	issuance	costs	and	original	issue	discount,	non-cash	interest	payments,	the	interest	component	of	any	deferred	
+payment	obliga@ons,	the	interest	component	of	all	payments	associated	with	Capital	Lease	Obliga@ons,	imputed	interest	
+
+
+with	respect	to	Atributable	Debt,	commissions,	discounts	and	other	fees	and	charges	incurred	in	respect	of	leter	of	credit	or	bankers’	acceptance	financings),	and	net	of	the	effect	of	all	
+payments	made	or	received	pursuant	to	Hedging	Obliga@ons;	plus	
+
+
+(2)	the	consolidated	interest	expense	of	such	Person	and	its	Restricted	Subsidiaries	that	was	capitalized	during	such	period;	plus	
+
+
+(3)	any	interest	expense	on	Indebtedness	of	another	Person	that	is	guaranteed	by	such	Person	or	one	of	its	Restricted	Subsidiaries	or	secured	by	a	Lien	on	assets	of	such	Person	or	one	of	its	
+Restricted	Subsidiaries,	whether	or	not	such	guarantee	or	Lien	is	called	upon;	plus	
+
+
+(4)	all	dividends,	whether	paid	or	accrued	and	whether	or	not	in	cash,	on	any	series	of	preferred	stock	of	such	Person	or	any	of	its	Restricted	Subsidiaries,	other	than	dividends	on	Equity	
+Interests	payable	solely	in	Equity	Interests	of	the	Company	(other	than	Disqualified	Stock)	or	to	the	Company	or	a	Restricted	Subsidiary	of	the	Company,	
+
+
+in	each	case,	on	a	consolidated	basis	and	in	accordance	with	GAAP.	
+
+
+80	
+Source:	Company	filings
+FCC	DEFINITIONS	
+¢  “Consolidated	Cash	Flow”	means,	with	respect	to	any	specified	Person	for	any	period,	the	Consolidated	Net	Income	of	such	Person	for	such	period	plus,	without	duplica@on:	
+
+
+(1)	an	amount	equal	to	any	extraordinary	loss	plus	any	net	loss	realized	by	such	Person	or	any	of	its	Restricted	Subsidiaries	in	connec@on	with	an	Asset	Sale,	to	the	extent	such	losses	were	deducted	in	compu@ng	such	
+Consolidated	Net	Income;	plus	
+
+
+(2)	provision	for	taxes	based	on	income	or	profits	of	such	Person	and	its	Restricted	Subsidiaries	for	such	period,	to	the	extent	that	such	provision	for	taxes	was	deducted	in	compu@ng	such	Consolidated	Net	
+Income;	plus	
+
+
+(3)	consolidated	interest	expense	of	such	Person	and	its	Restricted	Subsidiaries	for	such	period,	whether	paid	or	accrued	and	whether	or	not	capitalized	(excluding	any	interest	atributable	to	Dollar-Denominated	
+Produc@on	Payments	and	any	non-cash	interest	on	any	conver@ble	or	exchangeable	notes	that	exists	by	virtue	of	the	bifurca@on	of	the	debt	and	equity	components	of	such	conver@ble	or	exchangeable	notes	in	
+accordance	with	GAAP,	but	including,	without	limita@on,	amor@za@on	of	debt	issuance	costs	and	original	issue	discount,	non-cash	interest	payments	(other	than	as	provided	above),	the	interest	component	of	any	
+deferred	payment	obliga@ons,	the	interest	component	of	all	payments	associated	with	Capital	Lease	Obliga@ons,	commissions,	discounts	and	other	fees	and	charges	incurred	in	respect	of	leter	of	credit	or	bankers’	
+acceptance	financings),	and	net	of	the	effect	of	all	payments	made	or	received	pursuant	to	Hedging	Obliga@ons,	to	the	extent	that	any	such	expense	was	deducted	in	compu@ng	such	Consolidated	Net	Income;	plus	
+
+
+(4)	deprecia@on,	deple@on	and	amor@za@on	(including	amor@za@on	of	intangibles	but	excluding	amor@za@on	of	prepaid	cash	expenses	that	were	paid	in	a	prior	period),	impairment	and	other	non-cash	expenses	
+(excluding	any	such	non-cash	expense	to	the	extent	that	it	represents	an	accrual	of	or	reserve	for	cash	expenses	in	any	future	period	or	amor@za@on	of	a	prepaid	cash	expense	that	was	paid	in	a	prior	period)	of	such	
+Person	and	its	Restricted	Subsidiaries	for	such	period	to	the	extent	that	such	deprecia@on,	deple@on	and	amor@za@on,	impairment	and	other	non-cash	expenses	were	deducted	in	compu@ng	such	Consolidated	Net	
+Income;	plus	
+
+
+(5)	unrealized	non-cash	losses	resul@ng	from	foreign	currency	balance	sheet	adjustments	required	by	GAAP	to	the	extent	such	losses	were	deducted	in	compu@ng	such	Consolidated	Net	Income;	minus..........	
+
+
+
+
+
+¢  “Consolidated	Net	Income”	means,	with	respect	to	any	specified	Person	for	any	period,	the	aggregate	of	the	Net	Income	of	such	Person	and	its	Restricted	Subsidiaries	for	such	period,	on	a	consolidated	basis,	
+determined	in	accordance	with	GAAP;	provided	that:	
+
+
+(1)	the	Net	Income	(but	not	loss)	of	any	Person	that	is	not	a	Restricted	Subsidiary	or	that	is	accounted	for	by	the	equity	method	of	accoun@ng	will	be	included,	but	only	to	the	extent	of	the	amount	of	dividends	or	
+distribu@ons	paid	in	cash	to	the	specified	Person	or	a	Restricted	Subsidiary	of	the	Person;	
+
+
+(2)	the	Net	Income	of	any	Restricted	Subsidiary	will	be	excluded	to	the	extent	that	the	declara@on	or	payment	of	dividends	or	similar	distribu@ons	by	that	Restricted	Subsidiary	of	that	Net	Income	is	not	at	the	date	of	
+determina@on	permited	without	any	prior	governmental	approval	(that	has	not	been	obtained)	or,	directly	or	indirectly,	by	opera@on	of	the	terms	of	its	charter	or	any	instrument,	judgment,	decree,	order,	statute,	
+rule	or	governmental	regula@on	applicable	to	that	Restricted	Subsidiary	or	its	stockholders,	partners	or	members;	
+
+
+(3)	the	cumula@ve	effect	of	a	change	in	accoun@ng	principles	will	be	excluded;	
+
+
+(4)	income	resul@ng	from	transfers	of	assets	(other	than	cash)	between	the	Company	or	any	of	its	Restricted	Subsidiaries,	on	the	one	hand,	and	an	Unrestricted	Subsidiary,	on	the	other	hand,	will	be	excluded;	
+
+
+(5)	any	write-downs	of	non-current	assets	will	be	excluded;	provided	that	any	ceiling	limita@on	write-downs	under	Commission	guidelines	shall	be	treated	as	capitalized	costs,	as	if	such	write-downs	had	not	occurred;	
+
+
+(6)	any	unrealized	non-cash	gains	or	losses	or	charges	in	respect	of	hedge	or	non-hedge	deriva@ves	(including	those	resul@ng	from	the	applica@on	of	FASB	Accoun@ng	Standards	Codifica@on	Topic	815)	will	be	
+excluded.	
+
+
+In	addi@on,	notwithstanding	the	preceding,	for	the	purposes	of	Sec@on	4.07	of	this	Firh	Supplemental	Indenture	only,	there	shall	be	excluded	from	Consolidated	Net	Income	any	nonrecurring	charges	rela@ng	to	any	
+premium	or	penalty	paid,	write	off	of	deferred	finance	costs	or	other	charges	in	connec@on	with	redeeming	or	re@ring	any	Indebtedness	prior	to	its	Stated	Maturity.	
+
+
+81	Source:	Company	filings
+LEGAL	DOCUMENTS	
+	
+
+
+¢  6.625	%	indenture	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312517380119/d505619dex42.htm	
+
+
+¢  5.75	%	indenture	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312513365264/d596808dex41.htm	
+
+
+¢  1.25	%	indenture	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312515111963/d899874dex42.htm	
+
+
+¢  6.25	%	indenture	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312515111963/d899874dex43.htm	
+
+
+¢  Revolver	credit	agreement	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312518116027/d569614dex41.htm	
+
+
+¢  Revolver	amendment	
+o  htps://www.sec.gov/Archives/edgar/data/1255474/000119312519245267/d804106dex41.htm	
+
+
+82	Source:	SEC
+MANAGEMENT	&	GOVERNANCE	
+PROXY	REVIEW
+¢  CEO	Brad	Holly	allegedly	had	sexual	
+rela@onship	with	colleagues	and/or	
+those	repor@ng	to	him	–	at	
+Anadarko		
+
+
+o  htps://www.wsj.com/ar@cles/energy-industry-confronts-
+sexual-misconduct-and-harassment-
+allega@ons-11556463600	
+
+
+o  htps://www.denverpost.com/2019/04/16/anadarko-
+denver-sexual-harassment-claims/	
+
+
+o  htps://www.cpr.org/2019/04/16/former-anadarko-
+employees-say-denver-office-was-beset-by-culture-of-male-
+sexual-gra@fica@on-bullying-and-retalia@on/	
+
+
+¢  Sexual	misconduct	allega@ons	do	
+make	us	worry	about	ethics	and	
+repor@ng	
+
+
+¢  Board	may	be	out	of	touch		
+
+
+¢  Fair	to	ques@on	the	diligence	process	
+the	Board	went	through	to	hire	Holly		
+
+
+¢  Out	of	touch	recent	15%	Director	
+compensa@on	increase	
+
+
+¢  WLL	should	provide	Rate	of	Return	
+calcula@on	which	they	mysteriously	
+exceeded	last	year	at	42%	
+
+
+¢  30%	of	short-term	compensa@on	is	
+nebulous	and	subjec@ve	
+
+
+¢  Management	con@nues	to	get	
+compensated	on	produc@on	growth	
+despite	it	being	value	destruc@ve	
+
+
+84	
+
+
+MANAGEMENT,	BOARD	&	INCENTIVES
+85	
+
+
+Proxy	review	
+
+
+Source:	Company	filings	
+
+
+Out	of	touch	Board	with	15%	compensa3on	increase	as	stock	craters?
+86	
+
+
+Proxy	review	
+
+
+Source:	Company	filings	
+Did	the	42%	rate	of	return	(d&c,	wellhead	only?)	on	drilling	create	value?
+¢  Bradley	J.	Holly	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	his	appointment	on	November	1,	2017,	as	
+President	and	Chief	Execu@ve	Officer.	He	was	appointed	Chairman	of	the	Board	in	May	2018.	Mr.	Holly	has	more	than	
+20	years	of	experience	in	the	oil	and	natural	gas	industry.	Prior	to	joining	Whi@ng,	he	served	at	Anadarko	Petroleum	
+Corpora@on	in	various	roles	of	increasing	responsibility,	ul@mately	leading	to	Execu@ve	Vice	President,	U.S.	Onshore	
+Explora@on	and	Produc@on.	Mr.	Holly	holds	a	Bachelor	of	Science	degree	in	petroleum	engineering	from	Texas	Tech	
+University,	and	he	is	a	graduate	of	the	Harvard	Business	School	Advanced	Management	Program.	
+
+
+¢  Prior	to	joining	Whi@ng,	Charles	J.	“Chip”	Rimer	served	as	Senior	Vice	President,	Global	Services	for	Noble	Energy,	Inc.	
+He	joined	Samedan/Noble	Energy	Inc.	in	2002	and	served	in	mul@ple	roles,	including	Senior	Vice	President	of	Global	
+EHSR	&	Opera@ons	Services	and	Vice	President	of	Opera@ons	Services.	During	his	tenure,	he	managed	Noble’s	world-
+wide	drilling	and	rig	opera@ons	and	its	Interna@onal	West	Africa,	Non-Operated	and	New	Ventures	Divisions.	Mr.	
+Rimer	started	his	career	with	ARCO	Oil	&	Gas	Company	in	1983,	working	U.S.	onshore	areas,	and	he	held	senior	
+opera@ons	engineering	posi@ons	at	Vastar	Resources	and	Aspect	Resources	before	joining	Noble	Energy,	Inc.	Mr.	
+Rimer	holds	a	Bachelor	of	Science	degree	in	petroleum	engineering	from	the	University	of	Texas.	
+
+
+¢  Correne	S.	Loeffler	joined	Whi@ng	in	August	2019	as	Chief	Financial	Officer.		Ms.	Loeffler’s	professional	background	
+includes	14	years	of	financial	experience	in	the	oil	and	natural	gas	industry.	Ms.	Loeffler	previously	served	as	Vice	
+President,	Finance	and	Treasurer	for	Callon	Petroleum	Company,	an	independent	explora@on	and	produc@on	
+company,	from	April	2017	to	July	2019.	She	also	served	as	Interim	Chief	Financial	Officer	of	Callon	Petroleum	
+Company	from	June	2017	to	December	2017.	Prior	to	that,	Ms.	Loeffler	was	Execu@ve	Director	with	JPMorgan	
+Securi@es,	LLC	where	she	worked	in	the	Corporate	Client	Bank	Group	from	2006	to	2017.	In	addi@on,	Ms.	Loeffler	also	
+worked	at	Bank	of	America’s	Global	Corporate	&	Investment	Bank	from	2005	to	2006	and	at	Accenture	from	1999	to	
+2003.	Ms.	Loeffler	holds	a	Bachelor	of	Arts	from	Indiana	University	and	a	Master	of	Business	Administra@on	from	the	
+University	of	Texas.	
+
+
+¢  Timothy	M.	Sulser	co-founded	Salt	Creek	Oil	and	Gas,	LLC	in	2015,	arer	five	years	as	an	investment	banker	with	
+Tudor,	Pickering,	Holt	&	Co	(TPH),	most	recently	heading	their	Denver	office.	While	at	TPH,	Mr.	Sulser	advised	
+upstream	clients	on	acquisi@ons	and	dives@tures	and	energy	capital	markets.	Prior	to	joining	TPH	he	worked	as	a	
+reservoir	engineer	for	reserve	engineering	consultant	Netherland,	Sewell,	and	Associates	in	Houston,	Texas.	He	
+started	his	career	with	Marathon	Oil	Company	in	Lafayete,	Louisiana.	Mr.	Sulser	holds	a	Bachelor	of	Science	degree	in	
+petroleum	engineering	from	Montana	Tech	and	a	Master	of	Science	degree	in	opera@ons	research	from	Columbia	
+University.	 87	
+
+
+KEY	MANAGEMENT	
+
+
+Source:	Company	website
+¢  Michael	B.	Walen	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	2013	and	currently	serves	as	Chairman	of	our	
+Nomina@ng	and	Governance	Commitee.	Mr.	Walen	was	the	Senior	Vice	President	—	Chief	Opera@ng	Officer	of	Cabot	Oil	
+and	Gas	Corpora@on	from	2001	un@l	2010	and	served	in	other	management	and	explora@on	posi@ons	prior	to	that	@me.	He	
+has	38	years	of	explora@on	and	management	experience	with	independent	oil	and	gas	companies	including	PetroCorp	Inc.,	
+Patrick	Petroleum	Co.,	TXO	Produc@on	Co.	and	Tenneco	Oil	Company.	Mr.	Walen	was	also	a	director	of	Vitruvian	
+Explora@on	from	2010	to	2013.	Mr.	Walen	holds	a	Bachelor’s	Degree	in	Geology	from	Central	Washington	University	and	a	
+Master’s	Degree	in	Geology	from	Western	Washington	University.	
+
+
+¢  William	N.	Hahne	has	been	a	director	since	2007	and	currently	serves	as	our	Lead	Director.	Mr.	Hahne	was	Chief	Opera@ng	
+Officer	of	Petrohawk	Energy	Corpora@on	from	2006	un@l	2007.	Mr.	Hahne	served	at	KCS	Energy,	Inc.	as	President,	Chief	
+Opera@ng	Officer	and	Director	from	2003	to	2006,	and	as	Execu@ve	Vice	President	and	Chief	Opera@ng	Officer	from	1998	to	
+2003.	He	is	a	graduate	of	Oklahoma	University	with	a	BS	in	petroleum	engineering	and	has	43	years	of	extensive	technical	
+and	management	experience	with	independent	oil	and	gas	companies	including	Unocal,	Union	Texas	Petroleum	
+Corpora@on,	NERCO,	The	Louisiana	Land	and	Explora@on	Company	(LL&E)	and	Burlington	Resources,	Inc.	He	is	an	expert	in	
+oil	and	gas	reserve	es@ma@ng,	having	served	as	chairman	for	the	Society	of	Petroleum	Engineers	Oil	and	Gas	Reserve	
+Commitee.	
+
+
+¢  Thomas	L.	Aller	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	2003	and	currently	serves	as	Chairman	of	our	
+Compensa@on	Commitee.	Mr.	Aller	re@red	as	Senior	Vice	President	of	Opera@ons	Support	for	Alliant	Energy	Corpora@on	in	
+2014.	He	served	as	Senior	Vice	President	—	Energy	Resource	Development	of	Alliant	Energy	Corpora@on	from	2009	to	2013	
+and	President	of	Interstate	Power	and	Light	Company	since	2004.	Prior	to	that,	he	served	as	President	of	Alliant	Energy	
+Investments,	Inc.	since	1998	and	interim	Execu@ve	Vice	President	—	Energy	Delivery	of	Alliant	Energy	Corpora@on	since	
+2003	and	Senior	Vice	President	—	Energy	Delivery	of	Alliant	Energy	Corpora@on	since	2004.	From	1993	to	1998,	he	served	
+as	Vice	President	of	IES	Investments.	He	received	his	Bachelor’s	Degree	in	poli@cal	science	from	Creighton	University	and	his	
+Master’s	Degree	in	municipal	administra@on	from	the	University	of	Iowa.	
+
+
+¢  Lyne	B.	Andrich	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	September	2019.	Ms.	Andrich	served	as	
+Execu@ve	Vice	President	and	Chief	Opera@ng	Officer	since	2017	and	as	Chief	Financial	Officer	since	2003	of	CoBiz	Financial,	
+Inc.	un@l	2018.	She	served	as	Controller	of	CoBiz	Financial,	Inc.	from	1997	un@l	2003.	She	previously	held	several	posi@ons	
+with	Key	Bank	of	the	Rocky	Mountains	and	Bank	One,	Colorado,	including	Assistant	Controller,	Financial	Repor@ng	Manager	
+and	internal	auditor.	She	holds	a	B.S.	degree	in	Accoun@ng	from	the	University	of	Florida	and	is	a	Cer@fied	Public	
+Accountant.	 88	
+
+
+BOARD	OF	DIRECTORS	
+
+
+Source:	Company	website
+¢  James	E.	Catlin	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	2014.	Mr.	Catlin	was	a	co-founder	of	
+Kodiak	Oil	&	Gas	Corp.	(“Kodiak”)	and	served	at	Kodiak	as	a	director	since	2001	and	Execu@ve	Vice	President	of	
+Business	Development	since	2011	un@l	we	acquired	Kodiak	in	December	2014.	Mr.	Catlin	also	previously	served	as	
+Kodiak’s	Chairman	of	the	Board	from	2002	un@l	2011,	Secretary	from	2002	to	2008	and	Chief	Opera@ng	Officer	from	
+2006	un@l	2011.	Mr.	Catlin	has	nearly	40	years	of	geologic	experience	primarily	in	the	Rocky	Mountain	Region.	Mr.	
+Catlin	was	an	owner	of	CP	Resources	LLC,	an	independent	oil	and	natural	gas	company	from	1986	to	2001.	Mr.	Catlin	
+was	a	Founder,	Vice	President	and	Director	of	Deca	Energy	from	1980	to	1986	and	worked	as	a	district	geologist	for	
+Petroleum	Inc.	and	Fuelco	prior	to	this	@me.	He	received	a	Bachelor	of	Arts	and	a	Master’s	of	Science	Degree	in	
+Geology	from	the	University	of	Northern	Illinois	in	1973.	
+
+
+¢  Philip	E.	Doty	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	2010	and	currently	serves	as	Chairman	of	
+our	Audit	Commitee.	Mr.	Doty	is	a	cer@fied	public	accountant.	Since	2007,	Mr.	Doty	has	been	counsel	to	EKS&H	LLLP,	
+the	largest	Colorado-based	accoun@ng	and	consul@ng	firm,	where	he	previously	was	a	partner	from	2002	to	2007.	
+From	1967	to	2000	he	worked	at	Arthur	Andersen	&	Co.,	where	he	was	a	partner	since	1978	and	served	as	an	audit	
+partner	and	head	of	the	Denver	office	oil	and	gas	prac@ce	un@l	his	re@rement	in	2000.	He	is	a	graduate	of	Drake	
+University	with	a	Bachelor’s	degree	in	accoun@ng.	
+
+
+¢  Michael	G.	Hutchinson	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	September	2019.		Mr.	Hutchinson	
+began	his	career	with	Deloite	&	Touche	in	1978	where	he	served	as	a	Partner	from	1989	to	2002.	From	2002	un@l	his	
+re@rement	in	2012,	he	was	the	Partner-in-Charge	of	the	Colorado	Audit	and	Enterprise	Risk	prac@ce	and	led	the	
+Energy	and	Financial	Services	Prac@ces	for	Deloite	&	Touche	in	Colorado.	Mr.	Hutchinson	also	served	as	Interim	Chief	
+Execu@ve	Officer	at	Westmoreland	Coal	Company	from	2017	to	2019.	He	holds	a	B.S.	degree	in	Accoun@ng	from	the	
+University	of	Northern	Colorado	and	is	a	Cer@fied	Public	Accountant.	
+
+
+¢  Carin	S.	Knickel	has	been	a	director	of	Whi@ng	Petroleum	Corpora@on	since	2015.		Ms.	Knickel’s	energy	industry	
+experience	includes	over	three	decades	in	opera@ons	leadership	in	refining,	marke@ng,	transporta@on,	explora@on,	
+and	produc@on	for	ConocoPhillips.		She	also	held	roles	in	business	development,	strategic	planning	and	commodity	
+trading,	and	led	the	company’s	specialty	products	business	from	2001	to	2003.		She	became	vice	president	of	global	
+human	resources	in	2003	and	served	on	the	company’s	management	commitee	from	that	@me	un@l	she	re@red	in	
+May	2012.	Ms.	Knickel	also	served	as	assistant	dean	for	programs	and	talent	for	the	University	of	Colorado	College	of	
+Engineering	from	January	2013	through	July	2014.		She	has	a	bachelor’s	degree	in	marke@ng	from	the	University	of	
+Colorado	and	a	master’s	degree	in	management	science	from	the	Massachusets	Ins@tute	of	Technology.	 89	
+
+
+BOARD	OF	DIRECTORS	
+
+
+Source:	Company	website
+APPENDIX	
+SUPPLEMENTAL	INFORMATION		
+
+
+90
+91	
+
+
+TYPE	CURVE	WELLS	BY	FIELD		
+HIDDEN	BENCH	SANSIH	
+
+
+POLAR	
+
+
+E/W	MISSOURI	BREAK

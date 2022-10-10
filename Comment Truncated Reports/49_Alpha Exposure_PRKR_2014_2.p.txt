@@ -1,0 +1,252 @@
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 1/20
+
+
+ParkerVision: Read The Transcript, Short The Stock
+May 19, 2014 3:10 AM ET47 comments
+by: Alpha Exposure
+
+
+Summary
+
+
+Analysis of the May 1 court transcript reveals significant risks to ParkerVision.
+
+
+ParkerVision faces high probability of losing the entire case due to Qualcomm's Non-
+Infringement JMOL.
+
+
+Even a best-case valuation shows ParkerVision is more than 100% overvalued.
+
+
+While we have read several accounts of what transpired on May 1st during the
+ParkerVision (NASDAQ:PRKR) and Qualcomm (NASDAQ:QCOM) court hearing,
+everything that has been discussed to-date has been based on recollection and notes. In
+order to provide a more complete overview of the hearing, we purchased the transcript.
+This article will share our thoughts based on our analysis of the transcript. After reading
+the transcript, we came to two important conclusions. First, ParkerVision's attorney may
+have fatally blundered when presenting his argument regarding Qualcomm's JMOL for
+non-infringement. Second, Qualcomm may have a non-infringing alternative that is close
+to being shipped. These two observations should cause significant concern for the
+ParkerVision bulls. In combination with ParkerVision's elevated valuation, we believe now
+is an ideal time to short the stock.
+
+
+After reading the transcript, we felt that ParkerVision's attorney, Joshua Budwin, made
+potentially critical errors when he was unable to answer Judge Dalton's questions about
+non-infringement. Judge Dalton makes it clear that he believes Dr. Prucnal's testimony
+may actually show non-infringement:
+
+
+THE COURT: Let's talk about -- let's move past Mr. Sorrells and let's talk about Dr.
+Prucnal's testimony as it relates to the Magellan product. And again, I want to hear
+everything you have to say, but I am interested in your view of why Dr. Prucnal's
+concession that the broadband was created prior to the storage capacitor is not the
+end of the case.
+
+
+Qualcomm argues (and Judge Dalton appears to agree) that Dr. Prucnal's unrebutted
+testimony that the baseband is generated before the storage capacitor and not after is
+fatal to ParkerVision's infringement case. This is fatal to ParkerVision's case because the
+
+
+
+https://seekingalpha.com/symbol/PRKR
+
+https://seekingalpha.com/symbol/QCOM
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 2/20
+
+
+claim construction says that the capacitor or storage element must generate the baseband
+signal. If instead the baseband signal coming out of the capacitor is in fact the same
+baseband being generated before the capacitor, this should be a non-infringing
+technology. Quite simply, it would be the end of the case because of the way the Markman
+defined claim terms.
+
+
+This is a very difficult quandary for ParkerVision because they are trying to say two
+separate things in their arguments over infringement and invalidity. ParkerVision argued
+that a prior art reference is not invalidating purely because the incoming signal to the
+capacitor (in the reference) was a baseband signal, and hence the capacitor did not
+"generate" the baseband. Since the claim construction is identical for both infringement
+and invalidity, ParkerVision cannot have it both ways - either ParkerVision's argument for
+invalidity was wrong or the new argument for infringement is wrong.
+
+
+After Mr. Budwin speaks for a while, we can observe that Judge Dalton comes back to this
+issue as he is unsatisfied with Mr. Budwin's previous explanations when he says:
+
+
+THE COURT: How does that answer my question about what the frequency is when
+it's a lower frequency signal than the one that went in?
+
+
+MR. BUDWIN: Because he's using the term "baseband signal."
+
+
+THE COURT: Well, and again, I don't know that it's productive for us to argue. I'm
+trying to understand your argument which is, if I'm appreciating it correctly, it's that
+the signal coming out of the capacitor is not the same signal as the one that went in
+it.
+
+
+MR. BUDWIN: Correct.
+
+
+THE COURT: And that the one -- if the one that went into the capacitor is a
+baseband signal, in order for your position to be sustainable, then the signal coming
+out that's a baseband signal must be of a lower frequency.
+
+
+MR. BUDWIN: Oh, I see.
+
+
+THE COURT: So I'm trying to find out where in the record is there evidence that the
+signal coming out of the storage capacitor is, in fact, a lower frequency signal than
+the signal that went in, and I'm not going to call it a baseband signal because I know
+that's in dispute.
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 3/20
+
+
+Mr. Budwin advances what appears to us to be a new infringement theory, which was not
+presented at trial. His explanation is that if the signal coming out of the storage capacitor
+is of a "lower frequency" than in the signal going in, then there can be infringement. Judge
+Dalton then repeatedly asked for evidence presented at trial that this was the case. Mr.
+Budwin could come up with no such evidence, as his new theory is patently false - the
+baseband signal that goes into the storage capacitor in the Qualcomm design is in fact the
+same baseband signal that comes out of the capacitor - there is no "change of frequency"
+because there is only one baseband signal. Once Mr. Budwin has concluded, Qualcomm's
+attorney, Timothy Teeter, answers the judge's original question. He explains that when the
+baseband is generated before the capacitor then there is no infringement according to the
+judge's previous rulings.
+
+
+MR. TETTER: Your Honor asked the crucial question during ParkerVision's
+presentation, and this was with respect to where the low frequency signal is
+generated, whether it's generated at the mixer or whether it's generated after the
+capacitor. And I wrote down Your Honor's question. You said, "Where is the evidence
+that that is a lower frequency signal after the capacitors and the TX filter than it is
+before?"
+
+
+Because our whole theory, as Your Honor correctly pointed out, is that the low
+frequency signal is generated right after the double-balance mixer by the double-
+balance mixer. That low frequency signal does, as Your Honor pointed out, cruise
+right on by that line past the TX jammer filter. That's what the -- the filter is there to
+get rid of the high-frequency TX jammer. It's not there to generate the baseband
+which has already been generated.
+
+
+So Your Honor picked up on that point correctly. And you asked where is the
+evidence -- where is the evidence that the signal coming out of the capacitor is a
+lower frequency than the signal coming in? And there was no answer to that
+question because there's no evidence to that because that's not what happens.
+
+
+Mr. Teeter clearly points out that Mr. Budwin couldn't point to any contrary evidence
+because there is none, and none was presented at trial.
+
+
+Of note, the judge made several rulings from the Bench on May 1st. We believe that the
+judge ruled on all of the issues he had decided. Accordingly, if the issue of non-
+infringement was decided, he would have likely ruled from the bench. The lack of a ruling
+probably means that the judge is seriously considering granting one or both of
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 4/20
+
+
+Qualcomm's JMOL's for non-infringement and invalidity. If Judge Dalton finds for
+Qualcomm with regards to either of these JMOLs, the jury's judgment in favor of
+ParkerVision will be thrown out.
+
+
+The most important revelation of the day may have been relegated to just a few simple
+sentences near the end of the hearing. Steven Neal, when arguing on behalf of
+Qualcomm said:
+
+
+Qualcomm is, in fact, developing a noninfringing alternative for the smaller 28
+nanometer technology, and that's being -- that is work that is underway. And
+Qualcomm is going to pursue that and is attempting to develop noninfringing
+alternatives.
+
+
+These two sentences carry a lot of weight when viewed through the lens of the following
+press release, which announces a new transceiver. While Qualcomm has been using 28
+nanometer process technology in their pure digital baseband since late 2011, the recently
+announced chips are the first Qualcomm transceiver (i.e. analog) chips using 28
+nanometer designs. These chips are expected to be sampled in early 2014 and ship in
+commercial hardware in early 2015. The shipping of this new chip seems to fit well with
+Qualcomm telling the judge during the injunction hearing that it would take three years to
+design a non-infringing alternative. The design for this chip was probably started in mid-
+2012, announced in Nov 2013, sampled in Spring 2014, will be shipped in late 2014, and
+will be volume produced in 2015 - i.e. about 3 years from start to finish. We believe these
+chips are meant to be a non-infringing alternative and will put an abrupt end to any
+potential royalties for ParkerVision beyond mid 2015.
+
+
+The above analysis shows that the bull case to ParkerVision, which holds that
+ParkerVision will receive many years of royalties from Qualcomm, faces very serious
+challenges. This bull case is especially important now that ParkerVision has revised their
+pre-judgment interest request from nearly $200 million to around $24 million as can be
+seen in court document 531 and 531-1. Now it appears that the whole the judgment for
+ParkerVision is in peril if Judge Dalton decides to grant one of Qualcomm's JMOLs.
+
+
+In thinking about the preceding analysis, we see two possible outcomes with regards to
+valuation. If either of the JMOLs are granted, we believe that ParkerVision's stock is nearly
+worthless. On the other hand, if ParkerVision is ultimately successful in having the jury's
+verdict upheld all the way through appeals, we think that the stock is worth at most $2.11
+per share at the time that the royalties are discontinued at the end of 2015. We calculate
+this valuation as follows:
+
+
+
+http://www.qualcomm.com/media/releases/2013/11/20/qualcomm-technologies-announces-fourth-generation-3glte-multimode-modem
+
+http://www.scribd.com/doc/224589652/531-main
+
+http://www.scribd.com/doc/224589681/531-1
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 5/20
+
+
+Based on the above analysis, we believe that ParkerVision is grossly overvalued at its
+current valuation of approximately $5 per share. We believe shorting the stock at current
+levels carries a very favorable risk/reward.
+
+
+Notes:
+
+
+Since court reporters make part of their living selling transcripts, we cannot post a link to
+the full transcript. However, the court reporter's contact information can be found on the
+court's website so that you can also purchase a copy of the transcript and see just how
+much trouble awaits ParkerVision.
+
+
+Disclosure: I am short PRKR. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it. I have no business relationship with any
+company whose stock is mentioned in this article.
+
+
+ Like this article
+5/18/2018 ParkerVision: Read The Transcript, Short The Stock - ParkerVision, Inc. (NASDAQ:PRKR) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2224503-parkervision-read-the-transcript-short-the-stock 6/20
+
+

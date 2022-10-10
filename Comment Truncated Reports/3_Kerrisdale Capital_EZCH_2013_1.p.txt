@@ -1,0 +1,1617 @@
+March 2013 
+
+
+
+
+
+EZchip Semiconductor Ltd. (EZCH) 
+ Competitive Threats, Customer Defections and an Unsustainable Valuation 
+
+
+
+
+
+We believe that shares of EZchip Semiconductor Ltd. (EZCH) are highly overvalued. EZCH shares 
+currently trade at $23.97, implying an egregious 7.5x 2013E EV/Revenue and a 32.5x GAAP P/E, 
+surprising multiples for a business that has repeatedly demonstrated its inability to grow. As we 
+frequently see in mispriced businesses, a high-level sector story – in this case, the need for greater 
+bandwidth on capacity constrained carrier networks – has steered investors into an overpriced stock 
+with many idiosyncratic risks. We believe that investors are not properly assessing the competitive risks 
+posed to EZchip’s business or the limits of the addressable market, especially in light of EZCH’s 
+astronomical valuation.  
+ 
+Before 2012, EZCH was fortunate enough to have little outside competition in high-speed network 
+processors. But since the start of last year, two well-funded industry leaders have mounted attacks into 
+EZchip’s core Network Processing Unit (NPU) business. To begin with, Marvell Technologies (MRVL) 
+began to compete for NPU market share following their January 2012 acquisition of EZchip’s then-
+largest competitor, Sweden-based Xelerated. Given EZCH’s reliance on Marvell as a conduit in the 
+foundry relationship with Taiwan Semiconductor (TSM), the new arrangement appears conflicted. The 
+dynamics are akin to Coca-Cola (KO) relying on Pepsi (PEP) for the manufacturing of Coke syrup. 
+ 
+But the most substantial competitive risk to EZCH, in our opinion, is the entry of Broadcom (BRCM) into 
+the high-speed network processor market. Through its acquisition of NetLogic in 2011, high-end 
+semiconductors have become a strategic priority for BRCM. In April 2012, Broadcom introduced a full-
+duplex 100Gb (i.e. 200Gb/s) NPU, pitting EZchip’s upcoming NP-5 in direct competition with an industry 
+leader. While EZchip touts its 200Gb/s headline figure for the NP-5, the chip is merely a full-duplex 
+(two-way) 100Gb/s device, giving it the exact same bandwidth as Broadcom’s chip. Another critique of 
+BRCM’s NPU is that it lacks an integrated “TCAM” (Ternary Content Addressable Memory). This 
+argument overlooks the fact that Broadcom can add TCAM and other functionality as an expansion. But 
+most troublingly for EZCH’s investors, Broadcom now produces each of the individual components of 
+the line card (TCAM, NPU, multi-core processor, etc.), allowing them to write software that transcends 
+across individual components. This might allow BRCM to optimize the efficiency of the various 
+hardware inputs and constitute a strong selling point versus EZCH’s NP-5.  
+ 
+But even if one believes that the BRCM component is somehow inferior, credible alternate vendors in 
+the marketplace could drive down NPU pricing. This issue is overlooked by many analysts who instead 
+rely on EZCH management for guidance. In their Q4 2012 presentation, EZCH tells investors that it 
+expects a 40% increase in unit pricing between 2012 and 2016. Not only is this assumption inconsistent 
+with the entry of Broadcom and Marvell, it's contradictory to the very nature of Moore’s Law, where 
+more computational power is delivered at ever decreasing costs over time. NPU pricing is also limited 
+by a constant threat of NPU replacement by in-house designs from the likes of Cisco, Huawei, ZTE, 
+and other router manufacturers. Just over three years ago, Juniper decided to replace all of its EZCH 
+chips with in-house designs on future router designs. EZCH shares fell 14% immediately after the 2009 
+announcement. Huawei may have made a similar decision as they’ve delayed all EZCH orders as of Q4 
+2012. Management speculates that Huawei is using an in-house solution for at least a portion of their 
+NPU demand, but they admit to having almost no visibility into this key customer account (EZCH Q4 
+2012 Call). A business that lacks pricing power should earn a commodity-like multiple, not the 
+stratospheric valuation premium that EZCH currently boasts. 
+ 
+
+
+ 
+
+
+
+http://seekingalpha.com/symbol/mrvl
+
+http://seekingalpha.com/symbol/tsm
+
+http://seekingalpha.com/symbol/ko
+
+http://seekingalpha.com/symbol/pep
+
+http://seekingalpha.com/symbol/brcm
+
+http://www.broadcom.com/press/release.php?id=s666869
+
+http://www.broadcom.com/products/Switching/Carrier-and-Service-Provider/BCM88030-Series
+
+http://www.ezchip.com/Images/pdf/EZCH-investorsQ412-130214.pdf
+
+http://www.ezchip.com/pr_090713.htm
+
+http://www.globes.co.il/serveen/globes/docview.asp?did=1000478706
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZchip-Q4-2012-Earnings-Call-Feb-13-2013.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+2 
+
+
+
+
+
+Foreseeing the threat in their core NPU market, EZCH has rushed to publically announce a shift 
+towards the data center market. EZCH’s L4-L7 next-generation processor (“NPS”), if successful, won’t 
+generate meaningful revenues until 2016+ (Sept 5th NPS Call). But that hasn’t stopped some investors 
+from glowingly referring to the NPS as a ‘game changer.’ Unfortunately for the EZCH bulls, a privately-
+held Intel spinout named Netronome already produces a 200Gb/s flow processor with L2-L7 
+functionality that has won widespread industry praise. And as one of only a handful of outside partners 
+with access to Intel’s semiconductor foundries, Netronome’s chips can be produced at the 22nm scale 
+and below. Compare this to EZCH, whose next-generation NP-5 will only be produced at the 28nm 
+scale with Taiwan Semiconductor. 
+ 
+Lastly, we believe that Wall Street research analysts are twisting forward EPS, and by association, 
+overstating their EZCH price targets. Through the use of a non-GAAP technique that excludes stock-
+based compensation (“SBC”), we believe that the $1.13 2013E consensus EPS is inflated by about 
+35%. Wall Street analysts have no logical grounding for excluding these costs. Given EZchip’s meager 
+revenue stream in relation to its $690m market capitalization, its history of unfulfilled promises, the 
+rapidly emerging competitive threats from Broadcom and Marvell, and EZCH’s technological 
+disadvantages in the data center market, we believe that EZCH’s share price is poised for a sharp 
+correction. Like many other technology hardware manufacturers dependent on a single customer for 
+much of their revenue, EZCH’s stock is one design loss away from falling by as much as 45%. 
+ 
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC 
+("Kerrisdale"), other research contributors, and others with whom we have shared our research 
+(the “Authors”) have short positions in and own option interests on the stock of the Company 
+covered herein (EZchip Semiconductor Ltd.) and stand to realize gains in the event that the 
+price of the stock declines. Following publication, the Authors may transact in the securities of 
+the Company. The Authors have obtained all information herein from sources they believe to be 
+accurate and reliable. However, such information is presented “as is”, without warranty of any 
+kind – whether express or implied. The Authors of this report make no representation, express 
+or implied, as to the accuracy, timeliness, or completeness of any such information or with 
+regard to the results obtained from its use. All expressions of opinion are subject to change 
+without notice, and the Authors do not undertake to update this report or any information 
+contained herein. Please read our full legal disclaimer at the end of the report. 
+
+
+
+http://seekingalpha.com/article/848141-ezchip-s-ceo-hosts-new-product-announcement-conference-transcript?part=single
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDIQFjAA&url=http%3A%2F%2Fwww.netronome.com%2Ffiles%2Ffile%2FProduct%2520Briefs%2FNetronome%2520NFP-6xxx%2520Product%2520Brief%25202-13.pdf&ei=NkA6Ud2yIKbX0gGxwYGIAw&usg=AFQjCNFllcWTfSVaZ0p2KY7uu0UjIwgU5w&bvm=bv.43287494,d.dmQ
+
+http://www.netronome.com/files/file/misc%20pdfs/Microprocessor%20Report-Netronome%20Goes%20with%20the%20Flow.pdf
+
+http://www.eetimes.com/electronics-news/4370472/Netronome-Intel-process-foundry-deal
+
+http://www.ezchip.com/pr_110718.htm
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+3 
+
+
+
+
+
+Table of Contents 
+ 
+
+
+
+
+
+I.  SUMMARY OF RED FLAGS ..................................................................................................... 4 
+
+
+II.   COMPANY OVERVIEW ...................................................................................................................... 6 
+
+
+III.  LOOMING COMPETITIVE THREATS ................................................................................. 7 
+
+
+INDUSTRY LEADERS ARE ENCROACHING ON EZCH’S CORE MARKET ......................................... 7 
+
+
+FURTHER COMPETITION COULD EMERGE IF MARKET OPPORTUNITY GROWS ............................. 9 
+
+
+IN-HOUSE CHIP DESIGN CONCERNS: THE JUNIPER AND HUAWEI CASE STUDIES ....................... 10 
+EZCH’S NAIVETY TO COMPETITIVE RISKS IS CONSISTENT WITH A HISTORY OF DISAPPOINTING 
+
+
+RESULTS ....................................................................................................................................... 11 
+
+
+IV.  TEPID END-MARKET DEMAND HAS FORCED RISKY CHANGE IN STRATEGY . 12 
+
+
+DECEMBER GARTNER REPORT LOWERED EXPECTATIONS FOR THE CARRIER CAPEX MARKET . 12 
+
+
+POOR PROSPECTS IN CARRIER ETHERNET HAVE FORCED A PIVOT TO THE DATA CENTER ........ 13 
+
+
+EZCHIP’S NPS TECHNOLOGY IS FUNDAMENTALLY DISADVANTAGED ....................................... 13 
+
+
+V.  UNSUSTAINABLE VALUATION BY ANY MEASURE ..................................................... 15 
+
+
+THE PROBLEM WITH NEGLECTING EZCH’S STOCK-BASED COMPENSATION EXPENSE ............. 18 
+
+
+EZCH’S CUSTOMER CONCENTRATION MAKES IT SUSCEPTIBLE TO A SUDDEN CORRECTION .... 19 
+
+
+V.  CONCLUSION .......................................................................................................................... 20 
+
+
+VI.  FULL LEGAL DISCLAIMER .................................................................................................. 21
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+4 
+
+
+
+
+
+I.  Summary of Red Flags  
+ 
+We believe that EZchip is significantly overvalued for the following reasons: 
+ 
+
+
+ Broadcom’s 200Gb/s Network Processor Should Pressure EZCH’s NP-5 Market 
+Share and Price Point. EZCH has historically benefited from its cushy position as the 
+leader in a duopoly market with Xelerated (now Marvell). But that dynamic changed 
+drastically this year when Broadcom announced its entry into the market in mid-2012 via 
+the BCM 88030 network processor. According to recent management comments, 
+Broadcom expects to enter production and have customers in 2013, some of which 
+could be poached from EZCH (BRCM 2012 Analyst Day). EZchip has told investors that 
+“we believe that substantially all NP-4 customers will select the NP-5,” but that sounds 
+more like wishful thinking than fact to us (EZCH Q4 2012 Call). While EZchip touts its 
+200Gb/s headline figure for the NP-5, the chip is actually a full-duplex (two-way) 
+100Gb/s device. This is precisely the same speed as Broadcom’s BCM 88030, a full-
+duplex 100Gb/s processor. The confusing nomenclature may be misleading some 
+investors to brush off the risks from Broadcom. Broadcom began a push into more 
+complex processors in late 2011 with its acquisition of NetLogic. This has allowed 
+Broadcom to design all of the individual components of the router line card (NPU, TCAM, 
+multi-core processor, etc.). Broadcom’s CEO explained the benefits of this integrated 
+supplier approach, saying: “We're able to make the products work better together, so we 
+can optimize our switches to work with the network processors…it's our goal to design 
+[products] as a platform to bring significant advantage to customers who purchase all of 
+them together” (BRCM Q2 2012 Call). A single publicly announced customer loss to 
+BRCM could spell disaster for EZCH shares. 
+ 
+
+
+ Marvell Technologies, the Sole Supplier for EZCH’s NP-4 and NP-5, has Recently 
+Become a Direct Competitor. In order to guarantee manufacturing capacity, Cisco 
+appears to have demanded that EZCH use a larger company as a conduit between itself 
+and EZCH’s semiconductor foundry, Taiwan Semiconductor Manufacturing. Marvell, as 
+“the sole supplier of our NP-4 and NP-5” (EZCH’s 2011 20-F), serves this function by 
+employing its buying power to move its orders to the front of the queue. But the 
+arrangement has grown increasingly conflicted following Marvell’s purchase of 
+Xelerated, a small NPU startup, in January 2012. Xelerated had launched a 50Gb/s full-
+duplex processor (100Gb/s) in August 2010 and was EZchip’s chief competitor at the 
+time. We would expect Marvell to support the Xelerated team with much-needed capital 
+to potentially push forward a next-generation chip to compete with EZCH’s NP-5.  
+
+
+
+
+
+ EZchip’s NPS Chip Appears Fundamentally Handicapped Versus the Privately-
+Held Netronome. Investors who refer to the NPS chip as a ‘game-changer’ are severely 
+underestimating Netronome, a privately-held Intel spinout run by an accomplished 
+Caltech graduate. Netronome recently made its presence known by directly challenging 
+EZCH at a Linley Tech Conference. A review of the conference illustrates the similarities 
+between the two companies, stating that the NPS “will take EZchip beyond its 
+switch/router roots and into a wider venue that looks more like, well, like Netronome's 
+business”. Netronome had previously introduced its 200Gb/s L2-L7 chip (called NFP-
+6xxx) back in June 2012. And notably, as only one of a handful of Intel fabrication 
+customers (others include Archronix and Tabula), Netronome should hold a long-term 
+technological advantage versus EZchip. Intel’s best-in-class foundry has allowed 
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/Broadcom-Corp.-2012-Analyst_Investor-Day.pdf
+
+http://www.gazettabyte.com/home/2011/6/29/network-processors-to-support-multiple-100-gigabit-flows.html
+
+http://www.lightreading.com/network-processors/broadcom-finally-gets-to-100g/240137050#msg_346938
+
+http://www.zdnet.com/blog/btl/broadcom-acquires-netlogic-for-3-7-billion/57841
+
+http://kerrisdalecap.com/wp-content/uploads/2013/01/Broadcom-Corp.-Q2-2012-Earnings-Call-Jul-24-20121.pdf
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312000875/zk1211221.htm#3
+
+http://www.marvell.com/company/news/pressDetail.do?releaseID=1936
+
+http://www.lightreading.com/blog.asp?doc_id=195979
+
+http://www.lightreading.com/document.asp?doc_id=225890&page_number=1#msgs
+
+http://semiaccurate.com/2012/06/11/netronome-lays-out-their-22nm-nfp-6xxx-line/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+5 
+
+
+
+
+
+Netronome to create its NFP-6xxx at the 22nm scale, and future designs may be made 
+on Intel’s 14nm scale. On the other hand, EZCH’s foundry provider, Taiwan 
+Semiconductor, will fabricate the supposedly next-generation NP-5 at only a 28nm scale. 
+A smaller manufacturing scale can increase energy efficiency and add to bandwidth 
+capacity. As a private company, Netronome has been under-covered by equity analysts 
+and we believe that EZCH investors are underestimating the risks imposed by this 
+formidable competitor. The significance of the Intel foundry relationship may be 
+confirmed as Cisco is rumored to be near announcing a billion dollar foundry deal with 
+Intel to produce its own silicon chips. If this were the case, it would prove that Cisco 
+clearly values Intel’s 22nm-scale technology. 
+
+
+
+
+
+ Consensus EPS Estimates use Non-GAAP Measures that Inflate EPS (and Analyst 
+Price Targets) by Roughly 35%. To boost their lackluster earnings figures, EZCH 
+management guides investors using non-GAAP reporting figures that exclude stock-
+based compensation (“SBC”). While this tactic is frequently used by technology 
+companies, disciplined investors and analysts shouldn’t be fooled. Since public 
+shareholders of EZCH stock didn’t receive their stock for free, then how can stock be 
+gifted to EZchip’s employees without expense? Of the research reports we’ve read, Felt 
+& Company, Deutsche Bank, Jefferies, Brean Capital, and Oppenheimer all follow 
+management’s non-GAAP EPS to build their price targets. EZchip gifted its employees 
+about $11m in stock options over the last twelve months (EZCH 20F, 6K), translating to 
+a decrease in EZCH’s non-GAAP EPS by about $0.39/share. This calculation has a very 
+material impact on the price targets for a company which earns as little as EZchip does. 
+For example, Felt & Co reaches a strong buy conclusion and a $35 target price by using 
+a 22.5x P/E multiple on 2014 Non-GAAP EPS of $1.55 (February 14
+
+
+th
+ report). If we 
+
+
+removed $0.39 of stock-based comp expense from Felt’s figures, their same valuation 
+multiple yields a target price of only $26. Because of this widely perpetuated 
+miscalculation, it is a mistake for the investor community to be guided by forward 
+multiples on Yahoo Finance or other sites that rely on these inflated non-GAAP EPS 
+figures. 
+ 
+
+
+ Given What’s Been Discussed Above, We Believe that Shares are Overvalued by 
+as Much as 45%. Based on the forthcoming competitive risks from Broadcom and 
+Marvell, EZCH’s extensive track record of overstating growth potential, a relative lack of 
+pricing power, and a weak backdrop in carrier spending, we believe that EZCH stock 
+should now trade at a valuation multiple more in line with the broader semiconductor 
+market. Peers demonstrating year-over-year revenue growth, unlike EZCH, generally 
+trade between 10 and 15x 2013 P/E. After deducting our estimated SBC of $0.39/share 
+from the Street’s non-GAAP EPS estimate of $1.13, we valued EZCH based on our 
+adjusted 2013 EPS estimate of $0.74. With the addition of 25% of EZCH's cash balance, 
+a generous 2013 P/E multiple range of 15 – 20x leads to a valuation range of $12.50 - 
+$16, or a 32% - 48% discount to the current trading price. We also don’t believe that 
+management’s 3x revenue target by 2016 is realistic, and instead have used Gartner 
+industry projections and our own assumptions to reach a ‘bull-case’ 2016 revenue target 
+of $85m. At a 35% - 40% EBITDA margin and a 6x - 8x multiple, this translates into a 
+price target of $14 - $17, still a 29% - 43% discount to the current price.  
+ 
+
+
+
+http://www.tsmc.com/english/dedicatedFoundry/technology/28nm.htm
+
+http://ciscoworkz.wordpress.com/tag/semiconductor-fab/
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312000875/zk1211221.htm
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891313000368/zk1312630.htm
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+6 
+
+
+
+
+
+II. Company Overview 
+ 
+EZchip designs high-speed Ethernet Network Processors (“NPUs”) used by the telecom 
+industry to increase bandwidth in the aging ethernet networks used for phone, data, and voice 
+services. EZchip’s processors are used in high-speed network routers sold by Cisco, ZTE, 
+Juniper Network, and other hardware businesses that then sell routers directly to businesses 
+like AT&T and Verizon. The Carrier Ethernet network can be divided into three domains: i) the 
+Access network that connects individual traffic flows (“the last mile”); ii) the Edge (or “Metro”) 
+network that aggregates traffic within an urban area, and finally; iii) the Core network, which 
+routes and processes all data requests to the proper channels. Access NPUs tend to have lower 
+bandwidth requirements (1Gb/s-20Gb/s) than Edge NPUs (20Gb/s+). EZCH’s routers are 
+designed for the “Edge” of the network. Edge routers aggregate the incoming data streams from 
+individual access routers and direct them to the Core. As one moves closer to the Core, router 
+processing needs become increasingly complex. Because of this, better-capitalized router 
+manufacturers such as Cisco and Juniper produce their Core routers using in-house NPUs that 
+have computing power beyond that of EZCH’s chips. These in-house Core chips are commonly 
+called ASICs (application-specific integrated circuits). In order to save costs and overhead, 
+some of these router companies outsource the simpler Access and Edge chip design to smaller 
+companies like EZchip. Competitors in the high-speed NPU market include Marvell 
+Technologies, Broadcom, and in-house chip design teams that decide against sourcing NPUs 
+from an outside provider.  
+ 
+As a fabless semiconductor business, EZCH is reliant on Taiwan Semiconductor Manufacturing 
+to manufacture its finished processors. TSM, which produces $17bn in annual revenue, 
+probably views EZCH ($55m 2012 revenue) as a footnote on its customer list. Because of this, 
+Cisco uses Marvell Technologies (a much larger TSM customer) as a conduit for its EZCH 
+orders to ensure that its outsourced chips get priority at TSM’s foundries (EZCH 2011 20-F).
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+7 
+
+
+
+
+
+EZchip currently boasts an enviable valuation of 9.6x 2012A revenue, 37.8x 2012A EBITDA, 
+and 44.4x 2012 GAAP P/E. At valuation multiples as high as these, it’s not surprising that many 
+cling to the belief that EZchip’s best days are yet to come. As with many overvalued stocks that 
+we’ve encountered, management directs investor attention to an outsized addressable market 
+opportunity in order to distract investors from disappointments in its underlying business. The 
+EZCH bull case relies on its ability to achieve dominant market share of its 2016 “Total 
+Serviceable Market” of $800m, consisting of a $400m NPU opportunity and a $400m data 
+center opportunity (Q4 2012 investor presentation). Management further encourages the 
+investor frenzy by leading investors to believe that revenue will grow 2.8x-3.7x by 2016 from the 
+2012 figure of $54.7m. This forecast was recently reduced from a revenue multiplier of 4x-5x, as 
+had been used in the Q3 2012 investor presentation. Considering that EZCH’s management 
+has a history of over-promising and under-delivering, we caution investors against any of this 
+forward guidance at face value. Those who believed management’s promises of growth have 
+been sorely disappointed time and time again. EZCH’s revenue shrank from $63.5m in 2011 to 
+$54.7m in 2012, hardly the type of momentum one would expect from a business with an almost 
+10x 2012A revenue multiple.  
+ 
+
+
+Capitalization Valuation Multiples
+
+
+$mm, excl. share price 3/8/2013 $mm; Consensus Est
+(3)
+
+
+Figure Multiple
+
+
+Current Share Price $23.97 2012A Revenue $54.7 9.6x
+
+
+Outstanding Shares
+(1)
+
+
+28.2 2013E Revenue 69.7 7.5x
+
+
+Dilutive Effect of Options
+(2)
+
+
+0.7 2014E Revenue 94.2 5.6x
+
+
+Market Capitalization $693.0
+
+
+Less: Cash (168.3) 2012A EBITDA $13.9 37.8x
+
+
+Add: Debt – 2013E EBITDA 30.5 17.2x
+
+
+Enterprise Value $524.7 2014E EBITDA 48.8 10.8x
+
+
+Sources 2012A EPS (GAAP)
+(4)
+
+
+$0.54 44.4x
+
+
+(1) Weighted Avg per Feb 13h Form 6-K 2012A EPS (Add-back SBC) 0.92 26.1x
+
+
+(2) EZCH 2011 20-F 2013E EPS (GAAP)
+(4)
+
+
+0.74 32.5x
+
+
+(3) CapitalIQ 2013E EPS (Add-back SBC) 1.13 21.3x
+
+
+(4) LTM stock-based compensation of 2014E EPS (GAAP)
+(4)
+
+
+1.24 19.3x
+
+
+    $11.2m or $0.39/share (20-F, 6-Ks) 2014E EPS (Add-back SBC) 1.63 14.7x  
+ 
+
+
+
+
+
+III. Looming Competitive Threats  
+
+
+Industry Leaders are Encroaching on EZCH’s Core Market 
+
+
+EZchip has historically been fortunate enough to have just one significant competitor in high-
+speed NPUs, the privately-funded Xelerated. But last year, the competitive landscape drastically 
+changed. To begin with, Marvell Technologies acquired the Swedish-based Xelerated on 
+January 4
+
+
+th
+, 2012. At the time, Xelerated was the only company producing a 100Gb/s NPU 
+
+
+aside from EZchip. Marvell will now compete in the 100Gb/s NPU segment directly with EZchip 
+while remaining EZCH’s only manufacturing partner. This newly antagonistic relationship with 
+Marvell leaves EZCH in a precarious situation since the majority of EZCH’s foundry orders at 
+Taiwan Semiconductor are run through Marvell. Should the Edge processor market eventually 
+become large enough, Marvell may decide its share of NPU revenues are more important than 
+the royalties it collects serving as a manufacturing conduit for EZCH.  
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH-investorsQ312-121108.pdf
+
+http://www.lightwaveonline.com/articles/2012/01/marvell-acquires-100g-chip-startup-xelerated-136736338.html
+
+http://www.lightwaveonline.com/articles/2011/09/xelerated-shipping-hx-100g-network-processor-in-volume-130532648.html
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+8 
+
+
+
+
+
+ 
+In addition to Marvell, we believe the biggest near-term competitive threat to EZchip is 
+Broadcom. Broadcom began to vastly expand its product portfolio in September 2011 when it 
+acquired the multi-core and high-performance processor maker NetLogic for $3.7bn. This 
+marked the start of Broadcom’s foray into NPU design using the engineering talent brought in 
+from NetLogic. By providing all components in a network line card (NPU, multi-core processor, 
+TCAM, etc.), Broadcom intends to bundle its solutions, which could eliminate the need for 
+individual component providers like EZchip. Broadcom’s newly expanded product platform is 
+shown below: 
+ 
+
+
+ 
+Source: BRCM December 6
+
+
+th
+, 2012 Analyst Day. 
+
+
+ 
+Broadcom officially announced the BCM 88030 high-speed network processor, a full-duplex 
+100Gb/s (effectively 200Gb/s), in April 2012. EZCH’s share price fell 9% on the announcement, 
+but little has been made of the announcement since. Broadcom, on the other hand, appears 
+extremely excited about its new market opportunity. At its 2012 analyst day on December 6
+
+
+th
+, 
+
+
+Broadcom gave an update on the progress it has made: 
+ 
+
+
+“Another example of a product that expands our [addressable market] is 100 gig network 
+processor that we that we introduced earlier this year. And by the way, you should be 
+seeing all these products in production, right, with customers in 2013. So again, this is a 
+product that's -- it that 100 gigabits of full duplex processing. Our nearest competitor's 
+product about 40 gig, if you look at it as an apples-to-apples comparison, and again, this 
+is a product that very well-positioned for further penetration into the traditional network 
+processor market in EDGE routers primarily, as well as in some core router applications, 
+as well as packet transport applications.” 
+–BRCM at December 6
+
+
+th
+ Analyst Day 
+
+
+ 
+
+
+
+http://www.bloomberg.com/news/2011-09-12/broadcom-agrees-to-buy-netlogic-microsystems-for-3-7-billion.html
+
+http://investor.broadcom.com/common/download/download.cfm?companyid=BRCM&fileid=620353&filekey=9ad176b1-8b99-453b-a571-6cca2ddcbd25&filename=
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+9 
+
+
+
+
+
+ 
+Source: Slide 35, BRCM December 6
+
+
+th
+, 2012 Analyst Day. 
+
+
+ 
+EZCH has only recently begun to acknowledge the competitive threat posed by Broadcom, and 
+even now does so ever so slightly. After adopting a very defensive tone when asked about the 
+competition on its Q4 2012 earnings call, EZchip brushed off the concern by stating that, “we 
+don’t see much of them [BRCM and Marvell] in edge routers” (EZCH Q4 2012 Call). Just three 
+months before, on the Q3 2012 earnings call, EZCH’s CEO stated that, “We said all along that 
+we feel that with NP-4 and NP-5 we kind of securing our market and our customers and we 
+don’t feel that we really have competition there…We feel that with NP-5, the chances for us to 
+secure all the 5 large customers are pretty high” (EZCH Q3 2012 Call). Since management’s 
+comments are generally taken as absolute truth by EZCH analysts, the Street is not currently 
+modeling for the pricing and market share effects of a Broadcom entry. We believe that this is a 
+gross mistake and will lead to EZCH (once again) missing its projections in the near future. 
+ 
+
+
+ 
+Further Competition Could Emerge if Market Opportunity Grows 
+ 
+Besides the head-to-head competition from Marvell and Broadcom, there are at least half a 
+dozen general purpose processor companies that have the potential to expand into high-speed 
+NPUs. These potentially incremental competitors include LSI (LSI) and PMC-Sierra (PMCS), 
+both of which already produce low-speed NPUs. For instance, PMC-Sierra is already the #1 
+manufacturer of lower-speed mobile backhaul network processors. Should the high-speed 
+market grow in size, these companies would should the resources and in-house capability to 
+quickly enter EZCH’s market.  
+ 
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZchip-Q4-2012-Earnings-Call-Feb-13-2013.pdf
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/EZCH-2012-Q3-Call.pdf
+
+http://www.lsi.com/products/networkingcomponents/Pages/APP3300.aspx
+
+http://seekingalpha.com/symbol/lsi
+
+http://pmcs.com/products/mobile/network_processors/
+
+http://seekingalpha.com/symbol/pmcs
+
+http://pmcs.com/products/processors/network_processors/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+10 
+
+
+
+
+
+Competitive Landscape Flow Processor Competitive Landscape
+
+
+IP Sec/SSL L7
+
+
+NG Firewall L6
+
+
+IDS/IPS L5
+
+
+Classification L4
+
+
+Routing L3
+
+
+Switching L2
+
+
+ 1Gb/s 10Gb/s 40Gb/s 100Gb/s+
+
+
+Bandwidth Bandwidth
+
+
+Source: Kerrisdale Research, Company filings
+
+
+P
+ro
+
+
+c
+e
+s
+s
+in
+
+
+g
+ p
+
+
+e
+r 
+
+
+P
+a
+c
+k
+e
+t
+
+
+EZchip, Marvell (Xelerated), Broadcom
+
+
+Intel, AMD
+
+
+LSI, PMC-Sierra, Cavium, 
+Broadcom
+
+
+Others may follow 
+BRCM's lead into 
+higher-speed NPUs 
+
+
+
+
+
+ 
+In-house Chip Design Concerns: The Juniper and Huawei Case Studies 
+ 
+While outside competitive threats are hardly discussed by management, EZchip management 
+acknowledges the potential for router customers to bring NPU design in-house, previously 
+mentioning that “the competition comes from in-house, from our customers that has always 
+been our concern in edge routing and that continues to be our concern” (EZCH Q3 Call). 
+Juniper Networks, once EZCH’s largest customer, was the first major vendor to abandon EZchip 
+in 2009. Juniper first began selling routers embedded with the NP-2 processor in 2007 and 
+accounted for as much as 55% of EZCH revenue in 2008. But then, in an attempt to compete 
+more effectively with Cisco, Juniper announced a manufacturing contract with IBM that allowed 
+it to bring NPU chip design in-house. This October 29, 2009 announcement was a major body 
+blow to EZchip’s long-term business viability as it removed a top-tier router vendor from the 
+customer list. Yet somehow, EZCH shares only fell 7% from $12.84 to $11.97 on the date of the 
+announcement. Normally, when a company loses its largest customer, the market reaction is 
+much more negative. But EZCH’s investors seem to repeatedly put a mystical faith in the future 
+of this business.  
+ 
+Investors were once again blindsided on February 13, 2013 when EZchip announced on its Q4 
+2012 call that Huawei had not yet placed production orders, leading management to believe that 
+Huawei was substituting in-house designs for EZCH chips. Management’s conclusion that 
+Huawei is developing an in-house solution is “currently a mere speculation” (EZCH Q4 2012 
+Call) since EZCH apparently doesn’t maintain an open dialogue with Huawei. While EZchip 
+remains optimistic that they’ll only be replaced in the “lower end,” management’s lack of insight 
+into a key customer account betrays a much broader concern, the lack of intimacy between 
+EZchip and its key customers. We saw this dynamic at work in our previous work on MLNX. If a 
+business with only a handful of customers cannot maintain a clear grasp of the strategic 
+intentions of a major customer, it’s equally unlikely to correctly predict its revenue stream years 
+into the future. 
+ 
+The EZchip congregation may be slowly losing its faith as EZCH shares fell over 20% after the 
+Q4 2012 call. The Juniper and Huawei examples remind us that EZCH’s designs are perpetually 
+
+
+
+http://juniper.mwnewsroom.com/manual-releases/2009/Juniper-Reinvents-the-Experience-and-Economics-of-
+
+http://seekingalpha.com/article/856071-mellanox-end-of-romley-upgrade-signals-steep-downside
+
+http://seekingalpha.com/symbol/mlnx
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+11 
+
+
+
+
+
+at risk of replacement. Going forward, investors should remember that Cisco is unlikely to ever 
+pay EZchip hundreds of millions of dollars for something it might be able to do itself. 
+ 
+
+
+EZCH’s Naivety to Competitive Risks is Consistent with a History of 
+Disappointing Results 
+ 
+
+
+Bullish research reports and investor write-ups on EZCH typically argue that EZCH’s premium 
+valuation is warranted by a steady revenue stream from past and future design wins. Because 
+EZCH’s customers, such as Cisco and ZTE, generally stick with a single NPU manufacturer for 
+each router model, once a design is won it tends to be sticky for the lifetime of that product 
+cycle. But empirical evidence suggests that EZCH’s quarterly revenue is actually highly volatile, 
+quite the opposite of a steady income stream. This is the result of EZCH’s over-reliance on 
+telecom carrier expenditures, which is an extraordinarily difficult market to forecast.  
+ 
+
+
+2011A 2012A
+
+
+$m; year-end Dec 31st Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+
+Revenue
+
+
+Cisco $4.6 $5.3 $3.6 $3.4 $7.0 $5.8 $4.0 $6.5
+
+
+% QoQ Growth 109.1% 15.2% (32.1%) (5.6%) 105.9% (17.1%) (31.3%) 63.0%
+
+
+Juniper Networks 2.9 3.4 5.5 3.4 1.8 2.2 2.1 3.2
+
+
+% QoQ Growth 81.3% 17.2% 61.8% (38.2%) (47.1%) 22.2% (4.5%) 52.4%
+
+
+ZTE 0.4 2.2 3.9 0.3 1.5 3.6 0.7 1.5
+
+
+% QoQ Growth (94.9%) 528.6% 77.3% (92.5%) 410.2% 140.0% (80.6%) 114.3%
+
+
+Other 5.3 6.4 5.7 7.2 4.1 4.2 2.5 4.0
+
+
+% QoQ Growth (18.5%) 20.2% (11.0%) 25.8% (42.6%) 2.0% (40.4%) 59.8%
+
+
+Total Revenue $13.2 $17.3 $18.7 $14.3 $14.4 $15.8 $9.3 $15.2
+
+
+% QoQ Growth (23.1%) 31.3% 8.1% (23.7%) 1.0% 9.6% (41.2%) 63.7%  
+Sources: EZCH 6-K and 20-F filings; earnings calls 
+ 
+With such unpredictable end-market demand, it would be hard for any company to have good 
+visibility on near-term results. But this hasn’t stopped EZCH from bullishly proselytizing to its 
+investors. As the inconsistency between the quotes below and EZCH’s underlying financial 
+results shows, EZCH’s growth promises have proved false time and time again.  
+ 
+ 
+“We continue to believe that ZTE is still early in its ramp up and continue to be excited by the 
+growth potential that ZTE represents with the NP-3 and the NP-4”  – Q4 2010 Earnings Call 
+ 
+“But we feel comfortable that NP-4 will grow very significantly starting in the second half of 
+[2011] and next year [2012].”  – Q1 2011 Earnings Call 
+ 
+“So, basically, we believe that other than Juniper, we expect all our other customers to grow 
+on a year-over-year basis.”  – Q2 2011 Earnings Call 
+ 
+“We expect Cisco to grow significantly for us in 2012.” – Q4 2011 Earnings Call 
+ 
+
+
+ 
+
+
+
+http://newsroom.cisco.com/dlls/2008/prod_022508c.html
+
+http://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK=ezch&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+12 
+
+
+
+
+
+“We expect our main growth drivers for 2012 will be the ramp up of our new NP-4 customers 
+and the recovery in… carriers' capital expenditure. We believe this will result in year-over-year 
+growth in 2012.” – Q1 2012 Earnings Call 
+ 
+Given management’s track record of over-promising and under-delivering, we believe that 
+investors should be highly skeptical of EZCH’s commentary going forward.  
+ 
+
+
+
+
+
+IV. Tepid End-Market Demand has Forced Risky Change in 
+Strategy 
+
+
+December Gartner Report Lowered Expectations for the Carrier Capex Market 
+
+
+ 
+Gartner, the well-regarded research institution, released a Q4 2012 update to its Carrier 
+Network forecasts that portends a bleak future for traditional wireline spending. Gartner now 
+predicts that network infrastructure spending will decline 6.6% in 2012 compared to 2011 due to 
+“weaker demand and aggressive price competition.” Making matters worse for EZCH, global 
+telecom players such as AT&T, Verizon, China Telecom, and Vodafone are increasingly 
+focused on mobile networks and backhaul as opposed to wireline installations. While EZCH 
+does sell into the wireless market, it appears from the exchange below that mobile backhaul 
+accounts for less than 10% of EZCH’s business.  
+ 
+<Q - Paul McWilliams>: Okay. End market-wise, what percentage of your NP sales are driven 
+by carrier, is that 100%, 90%? 
+<A - Dror Israel>: About 90%. 
+<Q - Paul McWilliams>: Okay. With the balance coming from enterprise? 
+<A - Dror Israel>: Not only enterprise, but let's say more access, kind of boxes, and wireless 
+backhaul and these kind of... 
+<A - Eli Fruchter>: But it's also, Paul, it's also some enterprise. It's things like load balancing, 
+which we see, some security boxes where our chips will be used as accelerators for [ph] Intel 
+CPUs (45:23) or multi-cores. And so it's really very, very many different applications I would say 
+that will make the remaining 10%. 
+Source: EZCH Q2 2012 Call 
+ 
+If the comments on mobile backhaul indicate that a substantial portion of EZCH’s business is 
+driven by core wireline routing, then recent spending patterns from AT&T and Verizon should be 
+concerning. Wireline capex as a percentage of total spending has collapsed from around 60% in 
+2009 to around 40% today. EZCH attributes much of its recent weakness to this trend: “There is 
+short-term problem…it depends on…the carrier CapEx and service providers spending 
+especially wireline… and this is the main reason for the decline in expected revenues” (EZCH 
+Q2 2012 Call). 
+ 
+
+
+
+http://www.gartner.com/id=2276115
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+13 
+
+
+
+
+
+ 
+Source: November 9
+
+
+th
+, 2012 Capstone Investments Research report. 
+
+
+
+
+
+ 
+Poor Prospects in Carrier Ethernet have forced a Shift to the Data Center 
+ 
+The telecom infrastructure market is not nearly as exciting as it once was. Between these end-
+market headwinds and EZCH’s inability to drive NPU growth, it’s quickly apparent why investors 
+are growing wary of the EZCH story. These fears first materialized on EZCH’s Q2 2012 call 
+when management announced Q3 revenue guidance of $8m-10m, a ~40% sequential decline 
+from the previous quarter. Spooked investors sent EZCH shares down 25% after the call. EZCH 
+must have felt compelled to reassure these jittery investors as it rushed to pre-announce plans 
+for a research-stage product just three weeks after the Q2 call. On August 28
+
+
+th
+, EZchip pre-
+
+
+announced that it was going to unveil a new product line on September 5
+th
+. By the time 
+
+
+September 5
+th
+ finally arrived, EZCH shares had already recovered more than half of their 
+
+
+original loss. EZchip even hosted an analyst call to announce its new project, dubbed the “NPS” 
+(Network Processor for Smart Networks). We believe that this early announcement was a tacit 
+admission that EZchip foresees continued market weakness and mounting competitive 
+pressures in Carrier Ethernet.  
+ 
+EZchip “does not have customer commitments” for the NPS but said that it expects to “see 
+design wins for the NPS in the first half of next year [2013]” while conceding that “it’s too early to 
+talk about target numbers” (EZCH Sept 5
+
+
+th
+ NPS Call). This project has caused a ramp in R&D 
+
+
+spending, up from $4.1m in Q3 2011 to $5.2m in Q3 2012 and Q4 2012. Since EZCH has said 
+that the NPS won’t meaningfully contribute to revenue until 2016, this growing R&D expense on 
+an unproven technology should be a headwind on earnings for years to come.  
+
+
+
+
+
+ 
+EZchip’s NPS Technology is Fundamentally Disadvantaged 
+ 
+Whereas EZchip’s series of NP processors are optimized for carrier networks, the NPS will be 
+designed for the data centers. EZchip claims that the advanced ‘L2-L7’ architecture adds $400m 
+to EZCH’s total serviceable market, doubling its overall market opportunity by 2016. Because 
+
+
+
+http://en.wikipedia.org/wiki/Dot-com_bubble
+
+http://kerrisdalecap.com/wp-content/uploads/2012/12/EZCH_2012-Q2-Call.pdf
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312002426/zk1211933.htm
+
+http://www.sec.gov/Archives/edgar/data/892534/000117891312002426/zk1211933.htm
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+14 
+
+
+
+
+
+this opportunity stretches so far into the future and includes a myriad of unknowns, we would 
+warn investors against even considering adding it into EZCH’s valuation until definitive customer 
+agreements assigned.  But since the stock market loves a good story, we’ll address our 
+immediate concerns.  
+ 
+The most direct potential competitor comes in the form of an underfollowed, privately-owned 
+business named Netronome. Netronome is a spinout from Intel that focuses solely on high-end 
+network processors. Netronome has already designed a 200Gb/s chip (NFP-6xxx) for the data 
+center, putting it well ahead of EZCH’s NPS. The Linley Group also believes that the flexibility of 
+the chip makes it a competitor to EZchip’s NP-5 for the next-generation network processing 
+market. The Intel spinout is run by Howard Bubb, a Caltech-educated electrical engineer who 
+previously held senior positions at Intel, and the venture is funded by blue-chip investors such 
+as Tudor, Top Technology Ventures, and DFJ Esprit. Within the next year or so, we think that 
+Netronome could announce a next-generation chip that matches the theoretical bandwidth of 
+EZCH’s NPS chip, putting pressure on EZCH’s share price. Beside the potential trouble for 
+EZCH’s NPS chip, Netronome also aspires to move into EZchip’s core L2-L3 Carrier Ethernet 
+market. The Chief Router Architect at ZTE, a major EZCH customer, recently praised 
+Netronome’s NFP chip:  
+ 
+
+
+“Netronome has once again delivered on its strengths; flow-aware processing and large 
+scale integration of programmable resources. The flexible, ultra high speed interfaces, 
+processing cores and network specific hardware accelerators provided by NFP-6xxx 
+family of products allow it to be positioned in both the line cards as well as service cards 
+of next generation routers. NFP-6xxx along with prepackaged networking software 
+closely aligns with our vision for our router family of products” - Ye Zhining, Chief 
+Architect Router Products, ZTE. 
+
+
+ 
+Aside from these glowing reviews, we believe that Netronome holds an important manufacturing 
+edge over EZchip. Netronome’s NFP-6xxx chips are built by Intel using a 22-nanometer 
+manufacturing scale. EZchip, on the other hand, is reliant on a TSM foundry that is consistently 
+a generation behind Intel. On the September 5
+
+
+th
+ NPS call, EZCH said it plans to “use 28 
+
+
+nanometer for [the NPS]” (EZCH Sept 5
+th
+ NPS Call). EZCH’s NP-4 currently engages TSM’s 
+
+
+55nm scale while the NP-5 will also employ TSM’s 28nm manufacturing process. Smaller 
+manufacturing architecture can translate directly into better speed, power use, and efficiency 
+metrics. But by the time of EZchip’s potential NPS release, Intel’s fabrication facilities will have 
+already moved to 14nm and beyond. 
+ 
+
+
+
+http://www.netronome.com/files/file/misc%20pdfs/Microprocessor%20Report-Netronome%20Goes%20with%20the%20Flow.pdf
+
+http://www.netronome.com/pages/060711/
+
+http://www.multicoreinfo.com/2012/06/netronome-200/
+
+http://semiaccurate.com/2012/06/11/netronome-lays-out-their-22nm-nfp-6xxx-line/
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+15 
+
+
+
+
+
+ 
+Source: Intel 2012 Investor Meeting, page 37  
+ 
+
+
+Beyond the direct threat from Netronome, the data center market is already occupied by heavy 
+hitters such as Cavium (CAVM) (see Cavium Octeon III Sizzles at 100Gbps), PMC-Sierra, and 
+LSI. These well-capitalized competitors will most certainly fight to protect their share of the L4-
+L7 chip market and will move into higher-speed chips should market demand warrant.  
+
+
+
+
+
+V.  Unsustainable Valuation by Any Measure 
+ 
+The semiconductor industry, as a group, tends to trade at a relatively modest valuation multiple 
+given the industry’s reliance on product cycles and the commoditization of many parts of the 
+business. Competitive advantages disappear overnight and customers can leave within a single 
+product cycle. But when a misunderstood company becomes the flavor-of-the-month, valuation 
+metrics can quickly get out of hand.  Such has been the case for EZchip’s 40x+ 2012 P/E 
+multiple. 
+ 
+
+
+
+http://intelstudios.edgesuite.net/im/2012/pdf/2012_Intel_Investor_Meeting_Otellini.pdf
+
+http://seekingalpha.com/symbol/cavm
+
+http://www.linleygroup.com/newsletters/newsletter_detail.php?num=4797&year=2012&tag=1
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+16 
+
+
+
+
+
+USD in millions Share Price Market Enterprise EV / Revenue EV/EBITDA P/E
+(1)
+
+
+3/8/2013 Cap Value 2012A 2013E 2012A 2013E 2012A 2013E
+
+
+EZchip $23.97 $693.0 $524.7 9.6x 7.5x 37.8x 17.2x 44.4x 32.5x
+
+
+Semiconductor Competitors
+
+
+Intel Corporation $21.61 111,487.0 99,731.0 1.9x 1.8x 4.5x 4.7x 10.3x 11.2x
+
+
+Broadcom Corp. $33.50 19,293.1 17,264.1 2.2x 2.0x 14.6x 8.8x 11.5x 12.0x
+
+
+Altera Corp. $35.26 11,441.8 8,214.9 4.6x 4.5x 13.1x 13.5x 20.4x 22.8x
+
+
+Xilinx Inc. $38.37 10,446.9 8,119.0 3.7x 3.6x 12.1x 11.4x 21.4x 20.1x
+
+
+LSI Corp. $6.90 4,005.8 3,328.1 1.3x 1.4x 9.1x 6.3x 9.5x 11.6x
+
+
+Marvell Technology $10.72 6,033.9 4,098.1 1.3x 1.3x 9.2x 8.0x 13.2x 13.7x
+
+
+Brocade $5.92 2,775.9 2,992.0 1.3x 1.3x 6.1x 5.0x 9.5x 8.9x
+
+
+Advanced Micro Devices $2.56 1,897.0 2,756.0 0.5x 0.6x n.m. 13.2x n.m. n.m.
+
+
+Cavium $38.12 1,901.7 1,870.2 8.0x 6.0x 47.3x 20.6x n.m. n.m.
+
+
+Average excl. EZCH 2.8x 2.5x 14.5x 10.2x 13.7x 14.3x
+
+
+Sources: CapitalIQ, Company Filings
+
+
+(1) EZCH EPS adjusted to include $0.39/share of annual stock-based comp expense
+
+
+     CAVM 2013E P/E is 100x+ after including $0.76/share of SBC  
+ 
+Given the uncertainty of EZCH’s growth, the company’s tendency to over-exaggerate product 
+ramps, the loss of a key customer account to in-house designs, and the entry of Broadcom and 
+Marvell into the NPU space, we’d argue that EZCH no longer deserves a premium valuation to 
+the industry. We also believe that EZCH’s mispricing exists because most of the Street’s 
+analysts exclude EZCH’s mounting stock-based compensation (“SBC”) expense from EPS, 
+thereby inflating earnings by 30%+. Over the last twelve months, EZCH spent $11.2m on stock 
+grants (or $0.39/diluted share). While this might be a minor footnote for a largecap organization, 
+it’s a very major line item for EZCH. By excluding SBC, the analysts are effectively reducing 
+EZCH operating expenses by the same amount, leading to embellished valuation multiples. 
+After netting out this $0.39/share of SBC to analysts’ 2013E EPS estimates, we reach a GAAP 
+earnings estimate of $0.74/share. With the addition of 25% of EZCH’s cash balance, an above 
+average industry P/E multiple of 15x produces an $12.50 price target and a generous 20x P/E 
+would led to a $16 price target, or a 32% - 48% discount to the current trading price.  
+ 
+EZCH bulls might reject this valuation argument by instead citing management’s target of 3x 
+revenue growth between 2012 and 2016. To construct its target, EZCH cites April 2012 
+research from Infonetics and its own internal sources. Gartner, a very well-regarded technology 
+research firm, published more recent thoughts on the market in December 2012, predicting that 
+the Edge Router and Switch market will grow by only 3.6% in 2013 and 11.3% in 2014. While 
+this might be exciting if EZCH were trading at 10x P/E, these are hardly awe-inspiring numbers 
+for a high-flying growth stock.  
+ 
+EZCH further constructs its long-term 3x revenue growth target by assuming that its average 
+selling price (“ASP”) increases by 40% and the EZCH’s edge router market penetration 
+increases from 30% to 40%, resulting in an additional 30% - 70% revenue boost (Q4 2012 
+Investor Presentation). We take issue with both of these assumptions. As Moore’s Law helps 
+explain, customers will demand higher performance at a lower cost over time. Even the high-
+end chip titan Intel (INTC) posted flat year-over-year growth in 2012. EZCH clearly isn’t immune 
+to this dynamic since revenue fell between 2010 and 2012 even though the next-generation NP-
+4 began ramping in 2H 2011 (EZCH Q1 2011 Call). For these reasons, we’d only credit EZCH 
+
+
+
+http://seekingalpha.com/symbol/intc
+
+http://kerrisdalecap.com/wp-content/uploads/2013/03/EZCH_2011-Q1-Call.pdf
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+17 
+
+
+
+
+
+with an inflationary-driven ASP growth of 3%/year. We also believe that any end-market 
+replacement of ASICs by NPUs will be overshadowed by market share losses to Broadcom, 
+Marvell, and other potential competitors, leading us to believe that EZCH’s end-market share 
+will remain flat. By combining these two assumptions with Gartner’s end-market growth of 44% 
+between 2012 and 2016, we project 2016 revenue of only $85m.  
+ 
+
+
+Gartner Edge Router Forecasts
+
+
+$mm 2012E 2013E 2014E 2015E 2016E
+
+
+Edge Routers/Switches
+(1)
+
+
+$10,335.3 $10,709.3 $11,918.2 $13,394.5 $14,891.7
+
+
+% YoY Growth 1.9% 3.6% 11.3% 12.4% 11.2%
+
+
+Cumulative Growth 44.1%
+
+
+Kerrisdale "Bull Case" 2016 Revenue Target
+
+
+2012-2016 End-Market Growth 44.1%
+
+
+2012-2016 ASP Growth
+(2)
+
+
+12.0% Inflationary-driven growth of 3%/year
+
+
+Change in EZCH Market Share
+(2)
+
+
+– Assume competitors negate penetration gains
+
+
+Implied Revenue Growth 56.1%
+
+
+EZCH 2012A Revenue $54.7
+
+
+Implied 2016A Revenue $85.4
+
+
+(1) December 13th Gartner Report, "Forecast: Carrier Network  Infrastructure…
+
+
+    ...Worldwide, 2009-2016, 4Q12 Update"
+
+
+(2) Kerrisdale assumption  
+Sources: Gartner Edge Router Forecasts, EZCH filings 
+ 
+At a 35%-40% GAAP EBITDA margin, the high-end of the historical trend, the 2016 revenue 
+target of $85m would result in only $30 - $34m of EBITDA. A liberally high 6x-8x forward 
+multiple results in an enterprise value of $179m - $272m. After adding the current cash balance 
+of $168m plus $50m for the interim cash generation, we can then infer a market capitalization 
+target of $400m - $490m, or about $14 - $17/share.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+18 
+
+
+
+
+
+Kerrisdale's Illustrative Valuation Range
+
+
+$m, expect per share Valuation Range
+
+
+2013 EPS Method
+
+
+2013E GAAP EPS
+(1)
+
+
+$0.74 $0.74
+
+
+Industry Multiple 15.0x 20.0x
+
+
+Implied Price $11.10 $14.80
+
+
+Add: 25% of Cash Balance
+(1)
+
+
+1.46 1.46
+
+
+Implied Price Target $12.56 $16.26
+
+
+% Discount to Current (47.6%) (32.2%)
+
+
+2016 Revenue Method
+
+
+2016E Revenue $85.0 $85.0
+
+
+EBITDA Margin
+(2)
+
+
+35.0% 40.0%
+
+
+Implied EBITDA $29.8 $34.0
+
+
+Industry Multiple 6.0x 8.0x
+
+
+Implied Enterprise Value $178.5 $272.0
+
+
+Add: Interim Cash Generation 50.0 50.0
+
+
+Implied Price Target
+(3)
+
+
+$13.73 $16.96
+
+
+% Discount to Current (42.7%) (29.2%)
+
+
+Sources: Company filings, Comparable Company Analysis, Kerrisdale estimates
+
+
+(1) Technology companies do not generally return cash to shareholders
+
+
+(2) Kerrisdale estimate based on historical figures
+
+
+(3) Includes current cash plus Kerrisdale's estimate of cash generation through 2016  
+ 
+ 
+
+
+The Problem with Neglecting EZCH’s Stock-based Compensation Expense 
+ 
+Warren Buffet, among others, has repeatedly attempted to educate investors on the lunacy of 
+treating SBC as a non-expense. In the chart below, we’ve shown how large of an impact stock 
+expense has had on EZCH’s results: 
+ 
+
+
+2011A 2012A
+
+
+$m; year-end Dec 31st Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+
+
+GAAP EPS $0.05 $0.17 $0.27 $0.14 $0.18 $0.19 $0.00 $0.17
+
+
+EZChip's Adjustments
+
+
+Stock-based Comp $2.1 $2.1 $2.2 $2.2 $2.6 $2.8 $2.9 $2.9
+
+
+Non-Cash Taxes 1.4 2.1 0.0 – – – – –
+
+
+Amort of Purchased Tech. 0.4 0.4 0.1 0.1 0.1 0.1 0.1 0.1
+
+
+Weighted Avg Diluted Shares 27.9 28.8 28.6 28.6 29.3 29.5 29.6 29.6
+
+
+"Non-GAAP" EPS (excl. SBC) $0.19 $0.33 $0.35 $0.22 $0.27 $0.29 $0.10 $0.26
+
+
+Source: Company Filings.
+
+
+(1) Q4 2011 GAAP EPS excludes one-time payment of $9.9m to the Israeli gov't for prior grants.  
+ 
+
+
+
+http://www.washingtonpost.com/wp-dyn/articles/A29807-2004Jul5.html
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+19 
+
+
+
+
+
+As shown below, the figures extracted from Wall Street research match non-GAAP EPS, 
+inflating the analysts’ projections and, by association, EZCH price targets. 
+ 
+
+
+Felt & Co. RBC Capital 
+
+
+
+
+
+
+
+
+Sources: Felt & Co Feb 14
+th
+, 2012 report; RBC Capital Feb 14
+
+
+th
+, 2012 report. 
+
+
+ 
+ 
+EZCH’s Customer Concentration Makes it Susceptible to a Sudden Correction 
+ 
+Without a doubt, Cisco has been the savior of EZCH’s stock price over the past year. The router 
+vendor has represented between 37% to 49% of EZCH’s revenue over the past four quarters 
+and an even greater percentage of gross profits given the royalty arrangement. While investors 
+have hitherto overlooked the competitive shifts brooding in the NPU market, they would stand at 
+attention if EZCH lost a major customer. Should Cisco, or any of EZchip’s other major 
+customers, award an NPU contract to Broadcom in 2013, EZCH shares could experience a fate 
+similar to that of many other overly concentrated hardware suppliers. A recent example in the 
+technology sector is Audience (ADNC), a maker of audio processors for smart phones. Like 
+EZchip, Audience was heavily reliant on a single customer, in this case Apple, which 
+represented 55% of Audience’s Q2 2012 revenue. After it was announced that Apple would use 
+in-house audio processors in the iPhone 5, Audience shares experienced a one-day fall of over 
+60%. The chart below helps illustrate the risks involved in heavily concentrated technology 
+suppliers. 
+ 
+
+
+
+http://seekingalpha.com/symbol/adnc
+
+http://www.iphonehacks.com/2012/09/audience-noise-suppression-technology-unlikely-in-iphone-5.html
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+20 
+
+
+
+
+
+ 
+Source: CapitalIQ 
+ 
+
+
+
+
+
+VI. Conclusion 
+ 
+EZCH was able to prevent a share price collapse despite its terrible 2012 results by diverting 
+attention to the research-stage NPS chip. Never mind that the NPS product is 4+ years away 
+from contributing meaningfully to revenue and that the underfollowed Intel spinout Netronome 
+has a sustainable manufacturing edge. But with this trump card now played, EZCH investors 
+and analysts have now begun to examine the looming competitive threats from Broadcom, 
+Marvell, and in-house chip design teams. Huawei’s apparent decision to select in-house designs 
+over EZCH puts another crack in management’s long-term revenue growth projections, which 
+on further study appear to be built on little more than wishful thinking. It’s not hard to imagine a 
+scenario where Broadcom’s 200Gb/s NPU wins at least one or two customers away from EZCH 
+and confidence in the stock quickly collapses. Moreover, continued weakness in the wireline 
+capex market should keep organic growth muted through 2013. As stated by EZCH’s CEO on 
+the Q3 earnings call, “The revenue ramp of these customers will depend on the success of their 
+new NP-4 platforms in the market, which in turn is driven by the CapEx levels of the carriers” 
+(Q3 Earnings Call). These very basic end-market and competitive concerns lead us to believe 
+that EZCH’s sky-high 32.5x 2013E P/E is simply unsustainable.
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+21 
+
+
+
+
+
+VII. Full Legal Disclaimer 
+ 
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+(collectively "Kerrisdale"), others that contributed research to this report and others that we have 
+shared our research with (collectively, the “Authors”) have short positions in and own options on 
+the stock of the company covered herein (EZchip Semiconductor Ltd.) and stand to realize 
+gains in the event that the price of the stock declines. Following publication of the report, the 
+Authors may transact in the securities of the company covered herein. All content in this report 
+represent the opinions of Kerrisdale. The Authors have obtained all information herein from 
+sources they believe to be accurate and reliable. However, such information is presented “as 
+is”, without warranty of any kind – whether express or implied. The Authors make no 
+representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
+information or with regard to the results obtained from its use. All expressions of opinion are 
+subject to change without notice, and the Authors do not undertake to update or supplement this 
+report or any information contained herein.  
+ 
+This document is for informational purposes only and it is not intended as an official 
+confirmation of any transaction. All market prices, data and other information are not warranted 
+as to completeness or accuracy and are subject to change without notice. The information 
+included in this document is based upon selected public market data and reflects prevailing 
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+as indicative, preliminary and for illustrative purposes only.  
+ 
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+  
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+in this document at any time. As of the original publication date of this document, investors 
+should assume that the Authors are short shares of EZCH and have positions in financial 
+derivatives that reference this security and stand to potentially realize gains in the event that the 
+market valuation of the company’s common equity is lower than prior to the original publication 
+date. These affiliates, officers, and individuals shall have no obligation to inform any investor 
+about their historical, current, and future trading activities. In addition, the Authors may benefit 
+from any change in the valuation of any other companies, securities, or commodities discussed 
+in this document. Analysts who prepared this report are compensated based upon (among other 
+factors) the overall profitability of the Authors’ operations and their affiliates. The compensation 
+structure for the Authors’ analysts is generally a derivative of their effectiveness in generating 
+and communicating new investment ideas and the performance of recommended strategies for
+Kerrisdale Capital Management, LLC  |  1212 Avenue of the Americas, 3rd Floor  |  New York, NY 10036  |  Tel: 212.792.7999  |  Fax: 212.531.6153 
+
+
+22 
+
+
+
+
+
+the Authors. This could represent a potential conflict of interest in the statements and opinions 
+in the Authors’ documents.  
+ 
+The information contained in this document may include, or incorporate by reference, forward-
+looking statements, which would include any statements that are not statements of historical 
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+judgment of the relevant markets prior to making any investment decision.

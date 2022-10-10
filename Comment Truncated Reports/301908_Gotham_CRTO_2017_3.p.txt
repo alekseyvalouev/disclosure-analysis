@@ -1,0 +1,812 @@
+GOTHAM CITY RESEARCH LLC www.gothamcityresearch.com info@gothamcityresearch.com 
+ 
+
+
+GOTHAM CITY RESEARCH LLC 
+
+
+
+
+
+Criteo SA (NASDAQ: CRTO):  
+
+
+Why We Believe 
+
+
+Criteo’s Undisclosed Practices 
+
+
+are Illegal and  
+
+
+Harmful to Advertisers  
+ 
+
+
+
+
+
+
+
+
+“I don’t think most big name online retailers would risk losing the trust of their customer base by 
+employing nefarious tracking mechanisms like this”  
+
+
+– Sam Greenhalgh, Security Researcher 
+
+
+
+
+
+
+
+
+
+
+
+What has Criteo been hiding?  
+
+
+And why is Criteo destroying evidence? 
+
+
+Criteo’s undisclosed acts of desperation  
+
+
+show that Apple’s ITP is a game changer
+Page 2 of 18 
+ 
+
+
+Disclaimer: 
+
+
+By reading this report, you agree that use of GOTHAM CITY RESEARCH LLC’s research is at your own risk. 
+In no event will you hold GOTHAM CITY RESEARCH LLC or any affiliated party liable for any direct or 
+indirect trading losses caused by any information in this report. This report is not investment advice or a 
+recommendation or solicitation to buy any securities. GOTHAM CITY RESEARCH LLC is not registered as an 
+investment advisor in any jurisdiction. Gotham City Research LLC is not affiliated or associated with 
+Gotham Asset Management, LLC or any of its affiliates. 
+
+
+You agree to do your own research and due diligence before making any investment decision with respect 
+to securities covered herein. You represent to GOTHAM CITY RESEARCH LLC that you have sufficient 
+investment sophistication to critically assess the information, analysis and opinions in this report. You 
+further agree that you will not communicate the contents of this report to any other person unless that 
+person has agreed to be bound by these same terms of service.  
+
+
+You should assume that as of the publication date of this report, GOTHAM CITY RESEARCH LLC stands to 
+profit in the event the issuer’s stock declines. We may buy, sell, cover or otherwise change the form or 
+substance of its position in the issuer. GOTHAM CITY RESEARCH LLC disclaims any obligation to notify the 
+market of any such changes. 
+
+
+Our research and report includes forward-looking statements, estimates, projections, and opinions 
+prepared with respect to, among other things, certain accounting, legal, and regulatory issues the issuer 
+faces and the potential impact of those issues on its future business, financial condition and results of 
+operations, as well as more generally, the issuer’s anticipated operating performance, access to capital 
+markets, market conditions, assets and liabilities. Such statements, estimates, projections and opinions 
+may prove to be substantially inaccurate and are inherently subject to significant risks and uncertainties 
+beyond GOTHAM CITY RESEARCH LLC’s control. 
+
+
+Our research and report expresses our opinions, which we have based upon generally available 
+information, field research, inferences and deductions through our due diligence and analytical process. 
+GOTHAM CITY RESEARCH LLC believes all information contained herein is accurate and reliable, and has 
+been obtained from sources we believe to be accurate and reliable.  
+
+
+However, such information is presented “as is,” without warranty of any kind, whether express or implied. 
+GOTHAM CITY RESEARCH LLC, makes no representation, express or implied, as to the accuracy, timeliness, 
+or completeness of any such information or with regard to the results to be obtained from its use.  All 
+expressions of opinion are subject to change without notice, and GOTHAM CITY RESEARCH LLC is not 
+obligated to update or supplement any reports or any of the information, analysis and opinion contained 
+in them. 
+
+
+You should assume that this report, as well as additional material not included in this report, has and/or 
+will be submitted to various entities, including but not limited to: Apple, SEC, FTC, EU Parliament, etc.
+Page 3 of 18 
+ 
+
+
+Table of Contents 
+
+
+I. Disclaimer 
+II. Summary 
+
+
+III. Undisclosed practices and technology: what Criteo is hiding 
+IV. Why Criteo’s use of Super cookies is illegal & on borrowed time 
+V. We wrote to Apple: Apple is working on eliminating this abuse
+Page 4 of 18 
+ 
+
+
+GOTHAM CITY RESEARCH LLC 
+a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GOTHAM CITY RESEARCH’S OPINIONS: 
+
+
+ Criteo’s Apple ITP workaround – the HSTS (HTTP Strict 
+Transport Security) super cookie – is being used in 
+violation of Section 5 of the FTC Act. 
+
+
+ Criteo will abandon their Apple ITP workaround due to the 
+FTC, client pressure, Apple, and/or our efforts. 
+
+
+ Apple is working on defeating Criteo’s privacy abuses, 
+based on Apple’s response to us from ~1 week ago. 
+
+
+ Criteo’s user tracking & consent practices are in violation 
+of coming European regulation (GDRP, article 7 recital 32) 
+in May 2018, and will face fines of up to 4% of revenues. 
+
+
+ Criteo’s acts of desperation show that Apple’s ITP is a 
+game changer for Criteo and other ad targeting firms. 
+
+
+ Most advertisers, including Criteo clients, would not risk 
+losing the trust of their customers by employing nefarious 
+tracking mechanisms like super cookies. 
+
+
+GOTHAM CITY RESEARCH’S OBSERVATIONS  
+
+
+ A Criteo Japan webpage on Sept. 20 included some details 
+about its Apple workaround but destroyed it 1 day later.  
+
+
+ There is no mention of Criteo’s Apple workaround (the 
+HSTS super cookies) in the public domain.  
+
+
+ HSTS super cookies can be used by any unauthorized third 
+parties to track users, even if users opt out. 
+
+
+ HSTS super cookies cannot be removed by users and may 
+be indestructible by all parties, including Criteo. 
+
+
+ Criteo clients have not been informed of the dangers super 
+cookies pose, based on a client email we reviewed. 
+
+
+ Criteo Opt-out links do not work, contrary to disclosures. 
+ Criteo’s Opt-out based approach is not consistent with an 
+
+
+affirmative consent requirement as stipulated by GDPR. 
+ Super cookie practice contradicts Criteo’s privacy policy. 
+ In public disclosures Criteo claims it “may use non-cookie 
+
+
+technologies in limited cases”, contradicted by private 
+email to clients. 
+ 
+
+
+Company: Criteo SA 
+
+
+Business: Ad Retargeting 
+(95%-100% of revenue) 
+
+
+Ticker: CRTO 
+
+
+Exchange: NASDAQ 
+
+
+CEO: Eric Eichmann 
+(based in New York) 
+
+
+Headquarters: France 
+
+
+Price target: $12.50 per 
+share 
+
+
+Market cap: $2.72B 
+
+
+52-week high: $55.39 
+
+
+52-week low: $33.09 
+
+
+Shares outstanding: 
+65.3M 
+
+
+‘14-‘17 net margins: 4.7% 
+
+
+H1 ‘17 ARPU Decline: -6% 
+
+
+Auditor: Deloitte & 
+Associés (France) 
+
+
+Insider selling 2017 YTD: 
+1.1M shares sold in 2017  
+
+
+Executive Departures: 
+
+
++18 executives, including 
+2 founders, have left since 
+2013.
+Page 5 of 18 
+ 
+
+
+Undisclosed practices and technology: what Criteo is hiding   
+Criteo is hiding details about its Apple ITP workaround from users  
+
+
+Apple launched its Intelligent Tracking Prevention (“ITP”) feature on its latest IOS update (IOS 11) several 
+weeks ago, seeking to protect its users from being tracked while browsing on the internet. Amidst criticism 
+from advertising trade groups, Apple reaffirmed its commitment to protect user privacy, with the 
+following statement released on September 15, 2017: 
+
+
+Apple believes that people have a right to privacy – Safari was the first browser to block third-
+party cookies by default and Intelligent Tracking Prevention is a more advanced method for 
+protecting user privacy. 
+
+
+Ad tracking technology has become so pervasive that it is possible for ad tracking companies to 
+recreate the majority of a person’s web browsing history. This information is collected without 
+permission and is used for ad re-targeting, which is how ads follow people around the Internet. 
+The new Intelligent Tracking Prevention feature detects and eliminates cookies and other data 
+used for this cross-site tracking, which means it helps keep a person’s browsing private. 
+
+
+Criteo responded immediately with an Apple ITP workaround, claiming this situation was little more than 
+a game of “cat and mouse”. Criteo suggested it would successfully thwart Apple ITP’s attempt to protect 
+user privacy, just as it had thwarted ad blockers and header bidding. Adexchanger best described Criteo’s  
+sentiment with a September 21st podcast titled: “Criteo CEO Eric Eichmann Defies Gravity”  
+
+
+So how exactly does Criteo pull it off? One word buried within a Criteo Japan webpage released September 
+20th and promptly deleted September 21st gives us the answer: HSTS (“HTTP Strict Transport Security”). 
+Criteo and HSTS are not mentioned in the same sentence anywhere else in the public domain, other than 
+in copies of the deleted Criteo Japan webpage shown below (translated version is shown below): 
+
+
+
+
+
+Original link: https://support.criteosales.com/hc/ja/articles/115012656448?mobile_site=true   
+
+
+We believe Criteo’s usage of HSTS Super cookies is not only dangerous, but illegal. This would explain 
+Criteo’s HSTS coverup. Criteo’s acts of desperation show that Apple’s ITP is a game changer.
+Page 6 of 18 
+ 
+
+
+
+
+
+Criteo’s usage of HSTS super cookies shows they are desperate and that Apple’s ITP is a game changer 
+
+
+Criteo and its cheerleaders say that Apple ITP is merely a temporary setback, just as ad blocking and 
+header bidding were in recent years. But as they say, “watch what they do, not what they say.” If it is 
+indeed business as usual for Criteo, why do the company’s behaviors say otherwise? Specifically: 
+
+
+1. Why is Criteo resorting to dangerous and (we believe) illegal behaviors, i.e. its usage of HSTS Super 
+cookies as its Apple ITP workaround? 
+
+
+2. Why does Criteo attempt to cover its tracks, by destroying evidence?  
+
+
+The coverup is worse than the crime: burying the body and removing fingerprints 
+
+
+Not only did Criteo delete the original Criteo Japan web page, 
+
+
+ https://support.criteosales.com/hc/ja/articles/115012656448?mobile_site=true   
+
+
+that mentioned HSTS (the version in the original Japanese is shown below), 
+
+
+
+
+
+Criteo went the extra mile and somehow deleted the cached version of the original webpage as well (we 
+were only able to view the webpage because the cached page was viewable at the time we accessed it): 
+
+
+https://webcache.googleusercontent.com/search?q=cache:7qLTUYB_SzIJ:https://support.criteosales.co
+m/hc/ja/articles/115012656448%3Fmobile_site%3Dtrue+&cd=8&hl=en&ct=clnk&gl=ua 
+
+
+Criteo has (proverbially speaking) removed the dead body AND covered their tracks/wiped fingerprints.  
+This shows that the HSTS Super cookie is very important to Criteo. But why? What’s the big deal with 
+super cookies, particularly the HSTS super cookie variety?
+Page 7 of 18 
+ 
+
+
+The HSTS Super cookie is particularly dangerous, as they allow any third party to track users 
+
+
+The HSTS protocol was not originally designed for surveillance purposes: it was designed to enhance web 
+browsing security. It is only by abusing the HSTS cache, can HSTS be used for tracking users and their 
+browsing behavior according to security expert Lachlan Kang. The HSTS super cookies are considered to 
+be particularly dangerous for Apple Safari users because: 
+
+
+ Safari users cannot remove them; in fact, they may even be indestructible. (see Zombie Cookie: 
+The Tracking Cookie That You Can't Kill) 
+
+
+ Incognito browser, adblockers, Tor browsers are ineffective against this particular strain of super 
+cookies (see Browsing in privacy mode? Super Cookies can track you anyway and HSTS Super 
+Cookies by Sam Greenhalgh) 
+
+
+ Once Criteo has inserted the super cookie, any third party can track users, using the super 
+cookie inserted by Criteo. This makes them far more dangerous than standard cookies, as 
+standard cookies inserted by Criteo can only be read by Criteo. (see Browsing in privacy mode? 
+Super Cookies can track you anyway and HSTS Super Cookies by Sam Greenhalgh) 
+
+
+ Even if users were to opt out of Criteo tracking in the future, unauthorized third parties can 
+continue tracking them.  
+
+
+The below diagram shows some of the above mentioned points about Super cookies (i.e. zombie cookies): 
+
+
+
+
+
+Source: https://www.propublica.org/article/zombie-cookie-the-tracking-cookie-that-you-cant-kill 
+
+
+
+
+
+Companies that resort to dangerous and illegal methods – like super cookies – to sustain profits, are not 
+working from a position of strength, but desperation. And desperation often leads to bad judgement, 
+and/or fraud. 
+
+
+Criteo’s usage of HSTS super cookies seems particularly brazen, given that we believe their behavior is 
+illegal, which we discuss in greater detail later in this report.
+Page 8 of 18 
+ 
+
+
+Criteo is hiding details about its Apple ITP workaround not only from users, but its clients as well 
+
+
+“I don’t think most big name online retailers would risk losing the trust of their customer base by employing 
+nefarious tracking mechanisms like this [super cookies]” 
+
+
+ – Sam Greenhalgh, Security Researcher 
+
+
+We have shown that Criteo hides details about its Apple ITP workaround from the public, and destroyed 
+evidence when Criteo Japan accidentally leaked some minor details about their workaround.  
+
+
+Gotham City Research believes Criteo clients (i.e. advertisers) have been provided with only little more 
+information than the general public, as evidenced by the following email that Criteo sent some clients: 
+
+
+
+
+
+If the content of the above Criteo email to clients looks familiar, it is because it is nearly identical to the 
+Criteo Japan webpage post that was deleted. 
+
+
+Note that the terms “HSTS” and “super cookies” mean nothing to Chief Marketing Officers (Criteo’s 
+clients), as they are not technical experts. It would seem incumbent on Criteo to describe its Apple ITP 
+workaround to its clients, in a manner that is digestible for them. Instead, the only clue Criteo leaves them 
+is the term “HSTS”. Criteo does not disclose the well documented dangers that super cookies pose, and 
+the legal and reputational risks that clients may face.
+Page 9 of 18 
+ 
+
+
+Gotham City Research believes Criteo has provided its clients with very limited information about its Apple 
+ITP workaround for the following reasons: 
+
+
+ Criteo’s use of the HSTS super cookie is dangerous and in our opinion illegal based on similarities 
+we see between Criteo’s behavior today and Turn inc., who settled with the FTC last year for 
+abusing super cookies(as discussed in the next section). 
+
+
+ The clients – advertiers – would not use super cookies themselves to track their customer base, 
+as it would threaten their brands’ safety. 
+
+
+ Criteo’s clients may face legal scrutiny from its customers as a result of the intrusive privacy 
+violations resulting from the Criteo super cookies. 
+
+
+ The value of Criteo’s retargeting solutions may diminish, as anyone – Criteo’s competitors, its 
+clients competitors’ can freely use Criteo’s super cookies against them and their clients.
+Page 10 of 18 
+ 
+
+
+Why Criteo’s use of Super cookies is illegal & on borrowed time 
+“It is only by intentional misapplication that HSTS can be exploited to track users.” – Sam Greenhalgh 
+
+
+Gotham City Research believes Criteo has been hiding details about its Apple ITP workaround – as 
+evidenced by Criteo immediately deleting the Criteo Japan webpage that mentioned HSTS –  because the 
+HSTS Super cookie solution is particularly dangerous to Apple Safari users and also illegal per US and 
+European law as well as recent precedent cases. Specifically, we believe Criteo is in violation of Section 5 
+of the FTC Act: 
+
+
+Section 5(a) of the Federal Trade Commission Act (FTC Act) (15 USC §45) prohibits “unfair or 
+deceptive acts or practices in or affecting commerce.” 
+
+
+The legal standards for unfair or deceptive acts or practices include: 
+
+
+
+
+
+
+
+
+We believe that Criteo’s specific violations of the above described FTC legal standards include:  
+
+
+ Misrepresentations about blocking “non-cookie technologies” (i.e. super cookies) 
+ Misrepresentations about effectiveness of Opt-out mechanism 
+ Misrepresentations about user consent 
+ Criteo’s behavior and Turn Inc. behavior, as alleged by the FTC, are eerily similar
+Page 11 of 18 
+ 
+
+
+Criteo’s business practices today resemble those of Turn Inc’s immediately before the FTC cracked down 
+on its super cookie practices. What seems to have bothered the FTC about Turn’s behavior, is not only the 
+intrusiveness of Turns’ usage of super cookies. It was also the misleading and/or false disclosures 
+regarding them. Turn Inc settled with the FTC last year, 2016, after the FTC claimed the following:  
+
+
+
+
+
+Here are the specific similarities we see between Criteo’s behavior today Turn Inc through 2015 as alleged 
+by the FTC:
+Page 12 of 18 
+ 
+
+
+Misrepresentations about blocking “non-cookie technologies” (i.e. super cookies) 
+
+
+Criteo claims, per its privacy policy, that users can block the use of “non-cookie technologies” by Criteo 
+for advertising purposes simply by clicking on the opt out feature available in the “User Choices” section: 
+
+
+
+
+
+
+
+
+
+
+
+Gotham City Research believes that this claim is materially false and/or misleading for the following 
+reasons: 
+
+
+ Criteo does not disclose its use of the HSTS super cookies and the dangers this exposes to users; 
+ Specifically, Criteo fails to mention that HSTS super cookies may be indestructible; 
+ Criteo’s use of super cookies exposes users to being targeted for advertising and/or other 
+
+
+purposes by any third party, even if users were to successfully opt out from Criteo; 
+ Criteo’s claim that opting out is an easy process, “simply by clicking on the opt out feature” is 
+
+
+contradicted by Criteo’s own disclosure that “that on certain browsers such as Safari, clearing 
+web site data can also erase opt out information and will therefore require you to opt out again 
+from our services.”
+Page 13 of 18 
+ 
+
+
+Misrepresentations about effectiveness of Opt-out mechanism 
+
+
+For users who have willfully and/or accidentally opted in to Criteo ad targeting (Criteo claims that only 
+5% of users actually end up seeing the opt out page, which suggests that 95% are accidentally opting in), 
+Criteo claims they can adjust their settings if they change their mind, by visiting the following links: 
+
+
+http://www.Criteo.com/choice 
+
+
+
+
+
+
+
+
+Or info.criteo.com/control 
+
+
+`
+Page 14 of 18 
+ 
+
+
+The opt out links do not work 
+
+
+Criteo says that to opt-out from tracking the Safari user has to go to info.criteo.com/control or 
+criteo.com/choice . Neither links work.  
+
+
+If you click on criteo.com/choice , you are led here (“the page you’re looking for can’t be found”): 
+
+
+
+
+
+If you click on info.criteo.com/control , the link opens to a blank screen: 
+
+
+
+
+
+So it is not clear how Safari users can opt-out of being tracked by super cookies after they “opted in”
+Page 15 of 18 
+ 
+
+
+Misrepresentations about user consent 
+
+
+According to its privacy policy, Criteo claims that users will be tracked by non-cookie technologies  “only 
+if you have unambiguously accepted our services”: 
+
+
+
+
+
+Gotham City Research believes that the claim Criteo will only track you via super cookies “only if you have 
+unambiguously accepted our services” is materially false and/or misleading for the following reasons: 
+
+
+ The mere act of continuing to use a Criteo website, by clicking anywhere except the ‘click here’ 
+link, is considered consent by Criteo. 
+
+
+ To its clients, Criteo claims that 95% of users do not even see the tiny, barely visible notice. How 
+is a user giving consent, if 95% of them do not see the notice? 
+
+
+
+
+
+Merely continuing to use a website does not constitute “unambiguous consent”  
+
+
+Whenever an IOS 11 Apple Safari browser users visit websites using Criteo, merely continuing to use the 
+website (i.e. clicking on anywhere except the ‘click here’ link shown below) is considered agreeing to allow 
+Criteo to insert super cookies. This does not seem to constitute unambiguous acceptance:  
+
+
+
+
+
+Also recall, that if the user ‘consents’ (accidentally or otherwise), they get this message: 
+
+
+
+
+
+And the link where you are told you can “adjust your setting” to opt-out does not even work, as we 
+showed earlier.
+Page 16 of 18 
+ 
+
+
+Users who do not see Criteo’s opt-out message are not giving “unambiguous consent” to Criteo 
+
+
+Criteo boasts to clients that only 5% of IOS users see the one-time opt-out message: 
+
+
+
+
+
+If 95% of users do not even see the message, it would seem incorrect to treat 95% as having “opted-in” 
+to Criteo ad tracking, via cookie or super cookie. Does not consent require actually seeing the message? 
+Criteo does not place transparency and control in the hands of users, contrary to claiming otherwise. 
+
+
+https://accelerate.criteo.com/hc/en-us/articles/207473609-Criteo-Extended-Browser-Support-EBS-
+Page 17 of 18 
+ 
+
+
+We believe Criteo’s consent policy is in violation of the GDPR Regulation in Europe (May 2018) 
+
+
+Gotham City Research believes that coming regulation in Europe (deadline for compliance is May 2018), 
+the General Data Protection Regulation (“GDPR”), will be as game-changing for Criteo’s business as Apple 
+ITP is for the following reasons: 
+
+
+ We believe Criteo’s consent notifications are in direct violation of the GDPR article 7, recital 32; 
+
+
+ Fines of up to 4% of worldwide annual revenue. 
+
+
+
+
+
+Accoding to GDPR, Consent means "any freely given, specific, informed and unambiguous indication of 
+the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies 
+agreement to the processing of personal data relating to him or her" 
+
+
+GDPR text: 
+
+
+(32) Consent should be given by a clear affirmative act establishing a freely given, specific, 
+informed and unambiguous indication of the data subject's agreement to the processing of 
+personal data relating to him or her, such as by a written statement, including by electronic 
+means, or an oral statement. This could include ticking a box when visiting an internet website, 
+choosing technical settings for information society services or another statement or conduct 
+which clearly indicates in this context the data subject's acceptance of the proposed processing 
+of his or her personal data. Silence, pre-ticked boxes or inactivity should not therefore constitute 
+consent. Consent should cover all processing activities carried out for the same purpose or 
+purposes. When the processing has multiple purposes, consent should be given for all of them. If 
+the data subject's consent is to be given following a request by electronic means, the request 
+must be clear, concise and not unnecessarily disruptive to the use of the service for which it is 
+provided. 
+
+
+Up to 4% of revenue in fines: 
+
+
+5. Infringements of the following provisions shall, in accordance with paragraph 2, be subject to 
+administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the 
+total worldwide annual turnover of the preceding financial year, whichever is higher     
+
+
+As we have demonstrated in this section with several examples, Criteo seems like the perfect case study 
+for how NOT to comply with the GDPR rules described above.
+Page 18 of 18 
+ 
+
+
+We wrote to Apple: Apple is working on eliminating this abuse  
+We wrote the following message to Apple a few weeks ago: 
+
+
+
+
+
+2 weeks ago, Apple responded to us, acknowledging Criteo’s abuse and assuring us they were working on 
+it: 
+
+
+
+
+
+You should assume that we have and/or will continue our correspondences with Apple and alert them of 
+any further Criteo abuses.

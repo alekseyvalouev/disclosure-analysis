@@ -1,0 +1,2784 @@
+Filed on behalf of Petitioner COALITION FOR AFFORDABLE DRUGS IV LLC 
+ 
+By: Jeffrey S. Ward (Reg. No. 32,774) 
+
+
+MERCHANT & GOULD, P.C. 
+10 E. Doty Street 
+Suite 600 
+Madison, WI  53703-3376 
+Telephone:  (608) 280-6751 
+Facsimile:  (612) 332-9081 
+
+
+
+
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+_____________________ 
+
+
+ 
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+
+
+_____________________ 
+ 
+ 
+
+
+COALITION FOR AFFORDABLE DRUGS IV LLC 
+Petitioner 
+
+
+ 
+v. 
+ 
+
+
+PHARMACYCLICS, INC. 
+Patent Owner 
+
+
+ 
+_____________________ 
+
+
+ 
+Case No. To Be Assigned 
+
+
+Patent No. 8,754,090 
+_____________________ 
+
+
+
+
+
+PETITION FOR INTER PARTES REVIEW OF U.S. PATENT NO. 8,754,090 
+UNDER 35 U.S.C. §§ 311-319 and 37 C.F.R. § 42.100 et seq.
+i 
+ 
+
+
+TABLE OF CONTENTS 
+ 
+
+
+I.  INTRODUCTION ...........................................................................................................1 
+ 
+II.  MANDATORY NOTICES PURSUANT TO 37 C.F.R. §42.8 ...............................3 
+ 
+ A. Real Party-In-Interest ...................................................................................3 
+ 
+ B. Notice of Related Matters ............................................................................4 
+ 
+ C. Designation of Lead and Backup Counsel ...................................................5 
+ 
+ D. Notice of Service Information .....................................................................6 
+ 
+III. PAYMENT OF FEES ..............................................................................................6 
+ 
+IV. REQUIREMENTS UNDER 37 C.F.R. §42.104 .....................................................6 
+ 
+ A. Grounds for Standing ...................................................................................6 
+ 
+ B. Identification of Challenge and Precise Relief Requested ...........................7 
+ 
+  1. Specific Art and Statutory Ground on Which the Challenge  
+   is Based ............................................................................................7 
+ 
+   a. Anticipation................................................................................7 
+ 
+   b. Obviousness ...............................................................................8 
+ 
+  2. Evidence Relied Upon to Support the Challenge ..........................10 
+ 
+V. OVERVIEW ..........................................................................................................10 
+ 
+ A. Overview of the ’090 Patent ......................................................................10 
+ 
+ B. Person of Ordinary Skill in the Art ............................................................13 
+ 
+ C. State of the Prior Art ..................................................................................13 
+ 
+IV. CLAIM CONSTRUCTION ...................................................................................20 
+ 
+ A. “Treating” ..................................................................................................20 
+ 
+ B. “About” ......................................................................................................21 
+ 
+ C. “Mantle Cell Lymphoma”..........................................................................22
+ii 
+
+
+ 
+VII. CLAIMS 1 AND 2 ARE ANTICIPATED BY NCT00849645 .............................22 
+ 
+ A. A method for treating mantle cell lymphoma in an individual  
+  who has already received at least one prior therapy for  
+  mantle cell lymphoma ................................................................................23 
+ 
+ B. An inhibitor of Bruton’s tyrosine kinase (Btk) having the  
+  Structure .....................................................................................................24 
+ 
+ C. Administering to the individual once per day between about 
+  420 mg to about 840 mg of an oral dose ....................................................26 
+ 
+ D. Wherein the once per day oral dose is about 560 mg ................................27 
+ 
+VII. CLAIMS 1 AND 2 ARWE INVALID AS OBVIOUS .........................................28 
+ 
+ A. A POSA Would Have Been Motivated to Combine the Prior Art ............28 
+ 
+ B. The Prior Art Discloses the Elements of Claims 1 and 2 ..........................30 
+ 
+  1. A method for treating mantle cell lymphoma in an 
+   individual who has already received at least one prior therapy 
+   for mantle cell lymphoma ..............................................................30 
+ 
+  2. An inhibitor of Bruton’s tyrosine kinase (Btk) having the  
+   Structure .........................................................................................31 
+ 
+  3. Administering to the individual once per day between about  
+   420 mg to about 840 mg of an oral dose ........................................33 
+ 
+  4. Wherein the once per day oral dose in about 560 mg ....................35 
+ 
+ C. A POSA Would Have Had Reasonable Expectation of Success ...............36 
+ 
+ D. The Claimed Method Would Have Been Obvious to Try .........................37 
+ 
+ E. No Secondary Considerations Rebut Obviousness ....................................39 
+ 
+VIII. CONCLUSION ......................................................................................................43
+iii 
+
+
+TABLE OF AUTHORITIES 
+ 
+
+
+Cases 
+ 
+Bayer Schering Pharma AG v. Barr Labs., Inc., 
+ 575 F.3d 1341 (Fed. Cir. 2009)..............................................................................38 
+ 
+Bristol-Myers Squibb Co. v. Ben Venue Labs., 
+ 246 F3d 1368 (Fed. Cir. 2001)......................................................................... 40-41 
+ 
+ClearValue, Inc. v. Pearl River Polymers, Inc., 
+ 668 F.3d 1340 (Fed. Cir. 2012)..............................................................................35 
+ 
+Cohesive Techs., Inc. v. Waters Corp., 
+ 543 F.3d 1351 (Fed. Cir. 2008)..............................................................................21 
+ 
+Emi Group N. Am. V. Cypress Semiconductor Corp., 
+ 268 F.3d 1342 (Fed. Cir. 2001)..............................................................................42 
+ 
+Galderma Labs., L.P. v. Tolmar, Inc., 
+ 737 F.3d 731 (Fed. Cir. 2013).......................................................................... 34-35 
+ 
+Graham v. John Deere Co., 
+ 383 U.S. 1 (1966) ...................................................................................................28 
+ 
+Hoffman La Roche, Inc. v. Apotex Inc., 
+ 748 F.3d 1326 (Fed. Cir. 2014)..............................................................................36 
+ 
+In re Alford, 
+ 300 F.2d 929 (C.C.P.A. 1962) ...............................................................................41 
+ 
+In re Baxter Travenol Labs, 
+ 952 F.2d 388 (Fed. Cir. 1991).......................................................................... 39-40 
+ 
+In re O’Farrell, 
+ 853 F.2d 894 (Fed. Cir. 1988).......................................................................... 36-37 
+ 
+In re Huai-Hung Kao, 
+ 639 F.3d 1057 (Fed. Cir. 2011)..............................................................................42 
+ 
+In re Kubin, 
+ 561 F.3d 1351 (Fed. Cir. 2009)..............................................................................38 
+ 
+In re Peterson, 
+ 315 F.3d 1325 (Fed. Cir. 2003)..............................................................................34
+iv 
+
+
+King Pharms., Inc. v. Econ Labs., Inc., 
+ 616 F.3d 1267 (Fed. Cir. 2010)..............................................................................41 
+ 
+MEHL/Biophile Int’l Corp. v. Milgraum, 
+ 192 F.3d 1362 (Fed. Cir. 1999)..............................................................................42 
+ 
+Merck & Co. v. Teva Pharms. USA, Inc., 
+ 395 F.3d 1364 (Fed. Cir. 2005).................................................................. 21-22, 28 
+ 
+Ortho-McNeil Pharm. Inc. v. Caraco Pharm Labs., Ltd., 
+ 476 F.3d 1321 (Fed. Cir. 2007)..............................................................................21 
+ 
+Pall Corp. v. Micron Separations, Inc., 
+ 66 F.3d 1211 (Fed. Cir. 1995)................................................................................21 
+ 
+Pfizer, Inc. v. Apotex, Inc.,  
+ 480 F.3d 1348 (Fed. Cir. 2007)..................................................................37, 40, 43
+1 
+
+
+I. INTRODUCTION 
+
+
+Coalition for Affordable Drugs IV LLC (“Petitioner”) respectfully 
+
+
+requests an Inter Partes review (“IPR”) for Claims 1-2 of U.S. Patent No. 
+
+
+8,754,090 (“the ’090 Patent”) (Ex. 1001) in accordance with 35 U.S.C. §§ 311-
+
+
+319 and 37 C.F.R. § 42.100 et seq.  The ’090 Patent is assigned to 
+
+
+Pharmacyclics, Inc. (“the Patent Owner” or “the applicant”). 
+
+
+The ’090 Patent has two claims directed to a method for treating mantle 
+
+
+cell lymphoma (“MCL”) in a patient using a prior art pharmaceutical compound 
+
+
+now known as ibrutinib, where that patient has already received at least one 
+
+
+prior therapy to treat MCL.  Claims 1 and 2 are anticipated by a prior art 
+
+
+document describing a phase 1 clinical trial entitled Study of the Safety and 
+
+
+Tolerability of PIC-32765 in Patients with Recurrent B Cell Lymphoma 
+
+
+(February 23, 2009), https://clinicaltrials.gov/archive/NCT00849654/ 
+
+
+2009_02_23 (“NCT00849654”) (Ex. 1002) sponsored by the Patent Owner 
+
+
+itself.  That clinical trial document describes the use of a compound having the 
+
+
+designation PCI-32765 in a dose escalation study.  A person of ordinary skill in 
+
+
+the art (“POSA”) would have understood that only two compounds could 
+
+
+potentially be PCI-32765 – ibrutinib or a racemic mixture containing ibrutinib.  
+
+
+Further, the clinical trial document discloses the patients to be treated and the 
+
+
+doses to be used.  Given that the compound designated as PCI-32765 can be
+2 
+
+
+only one of two things (both of which have ibrutinib), the disclosure in the 
+
+
+clinical trial document describes every element of the methods of claims 1 and 
+
+
+2.  Those claims are therefore invalid as anticipated.  
+
+
+Even if claims 1 and 2 are not anticipated by the clinical trial document 
+
+
+(which they are), those claims would have been obvious to a POSA at the time 
+
+
+of the ’090 Patent over the clinical trial document in view of two other Patent 
+
+
+Owner documents, a published patent application (Ex. 1003) and a press release 
+
+
+announcing (Ex. 1004), that disclose information concerning ibrutinib.  A 
+
+
+POSA would have been motivated to combine the disclosure of the clinical trial 
+
+
+document with the published application and the press release to result in a 
+
+
+method of using ibrutinib in the claimed doses to treat relapsed or refractory 
+
+
+MCL.  This combination discloses every element of claims 1 and 2, thus a 
+
+
+POSA would have a reasonable expectation of its success.  
+
+
+Indeed, the examiner of the application that resulted in the ’090 Patent 
+
+
+recognized the obviousness of the claims during prosecution.  The examiner 
+
+
+repeatedly rejected the applicant’s proposed claims, causing the applicant to 
+
+
+cancel all but two of them.  The applicant ultimately persuaded the examiner to 
+
+
+allow the claims by arguing that “ibrutinib demonstrates substantial 
+
+
+improvement over existing therapies,” which were “not taught or suggested by 
+
+
+the cited art.”  (Ex. 1013 at 5.)  These alleged “unexpected results,” however,
+3 
+
+
+should have been given no patentable weight because they were not made in 
+
+
+comparison to the closest prior art (ibrutinib) and were merely the inherent 
+
+
+result of an obvious method of treatment with ibrutinib. 
+
+
+ For the reasons explained herein, Petitioner is likely to prevail on showing 
+
+
+the invalidity of the challenged claims.  Petitioner requests that the Board institute 
+
+
+an IPR and cancel claims 1 and 2 of the ’090 Patent. 
+
+
+II. MANDATORY NOTICES PURSUANT TO 37 C.F.R. § 42.8 
+
+
+A. Real Party-In-Interest 
+
+
+Pursuant to 37 C.F.R. § 42.8(b)(1), Petitioner certifies that Coalition For 
+
+
+Affordable Drugs IV LLC (“CFAD”), Hayman Credes Master Fund, L.P. 
+
+
+(“Credes”), Hayman Orange Fund SPC – Portfolio A (“HOF”), Hayman 
+
+
+Sunnyvale Fund LP (“HSF”), Hayman Capital Master Fund, L.P. (“HCMF”), 
+
+
+Hayman Capital Management, L.P. (“HCM”), Hayman Offshore Management, 
+
+
+Inc. (“HOM”), Hayman Investments, L.L.C. (“HI”), nXn Partners, LLC 
+
+
+(“nXnP”), IP Navigation Group, LLC (“IPNav”), J. Kyle Bass, and Erich 
+
+
+Spangenberg are the real parties in interest (collectively, “RPI”).  The RPI 
+
+
+hereby certify the following information:  CFAD is a wholly owned subsidiary 
+
+
+of Credes. Credes is a limited partnership.  HOF is a segregated portfolio 
+
+
+company.  HSF is a limited partnership.  HCMF is a limited partnership.  HCM 
+
+
+is the general partner and investment manager of Credes, HSF and HCMF.
+4 
+
+
+HCM is the investment manager of HOF.  HOM is the administrative general 
+
+
+partner of Credes and HCMF. HI is the general partner of HCM.  J. Kyle Bass is 
+
+
+the sole member of HI and sole shareholder of HOM. CFAD, Credes, HOF, 
+
+
+HSF, and HCMF act, directly or indirectly, through HCM as the general partner 
+
+
+and/or investment manager of Credes, HOF, HSF, and HCMF.  nXnP is a paid 
+
+
+consultant to HCM.  Erich Spangenberg is 98.5% member of nXnP.  IPNav is a 
+
+
+paid consultant to nXnP.  Erich Spangenberg is the 98.5% member of IPNav.  
+
+
+Other than HCM with J. Kyle Bass in his capacity as the Chief Investment 
+
+
+Officer of HCM and nXnP with Erich Spangenberg in his capacity as the 
+
+
+Manager of nXnP, no other person (including any investor, limited partner, or 
+
+
+member or any other person in any of CFAD, Credes, HOF, HSF, HCMF, 
+
+
+HCM, HOM, HI, nXnP, or IPNav) has authority to direct or control (i) the 
+
+
+timing of, filing of, content of, or any decisions or other activities relating to this 
+
+
+Petition or (ii) any timing, future filings, content of, or any decisions or other 
+
+
+activities relating to the future proceedings related to this Petition.  All of the 
+
+
+costs associated with this Petition will be borne by HCM, CFAD, Credes, HOF, 
+
+
+HSF and/or HCMF.   
+
+
+B. Notice of Related Matters 
+
+
+ Pursuant to 37 C.F.R. § 42.8(b)(2), Petitioner is not aware of any judicial or 
+
+
+administrative matters that could affect, or be affected by, a decision in this
+5 
+
+
+proceeding. 
+
+
+C. Designation of Lead and Backup Counsel 
+
+
+Lead Counsel: 
+Jeffrey S. Ward  
+Registration No. 32,774 
+MERCHANT & GOULD, P.C. 
+10 E. Doty Street 
+Suite 600 
+Madison, WI  53703-3376 
+Telephone:  (608) 280-6751 
+Facsimile:  (612) 332-9081 
+jward@merchantgould.com 
+
+
+Backup Counsel: 
+Jeffrey D. Blake, Esq. 
+Registration No. 58,884  
+MERCHANT & GOULD, P.C. 
+191 Peachtree Street N.E. 
+Suite 4300                 
+Atlanta, GA 30303 
+Telephone:  (404) 954-5040 
+Facsimile:  (404) 954-5099 
+jblake@merchantgould.com 
+ 
+Brent E. Routman 
+(Pro Hac Vice) 
+MERCHANT & GOULD, P.C. 
+3200 IDS Center 
+80 South 8th Street 
+Minneapolis, MN 55402-2215 
+Telephone:  (612) 332-5300 
+Facsimile:  (612) 332-9081 
+broutman@merchantgould.com 
+ 
+Shane A. Brunner 
+(Pro Hac Vice) 
+MERCHANT & GOULD, P.C. 
+10 E. Doty Street 
+Suite 600 
+Madison, WI  53703-3376 
+Telephone:  (608) 280-6753 
+Facsimile:  (612) 332-9081 
+sbrunner@merchantgould.com 
+
+
+ 
+A Power of Attorney is being filed concurrently herewith in accordance with 
+
+
+37 C.F.R. § 42.10(b).
+6 
+
+
+D. Notice of Service Information 
+
+
+Papers concerning this matter should be served by Express Mail, hand-
+
+
+delivery, or electronic mail at the following addresses: 
+
+
+ Mailing Address:  Jeffrey S. Ward, Esq. 
+    MERCHANT & GOULD P.C. 
+    10 E. Doty Street, Suite 600 
+    Madison, WI  53703-3376 
+ 
+
+
+Electronic Mail:  jward@merchantgould.com and 
+ImbruvicaIPR@merchantgouild.com  
+
+
+ Main Telephone: (608) 280-6751 
+ Main Facsimile:  (612) 332-9081 
+ 
+
+
+III. PAYMENT OF FEES 
+
+
+Payment of $23,000.00 for the fees set forth in 37 C.V.R. § 42.15(a)(1-4) for 
+
+
+this Petition for Inter Partes Review accompanies this request by way of credit 
+
+
+card payment.  The undersigned further authorizes payment for any additional fees 
+
+
+that might be due in connection with this Petition to be charged to Deposit Account 
+
+
+No. 13-2725. 
+
+
+IV. REQUIREMENTS UNDER 37 C.F.R. § 42.104  
+
+
+A. Grounds for Standing 
+
+
+Pursuant to 37 C.F.R. § 42.104(a), Petitioner hereby certifies that the ’090 
+
+
+Patent is available for Inter Partes review in accordance with 37 C.F.R. § 
+
+
+42.102(a)(2), and that the Petitioner is not barred or estopped from requesting Inter 
+
+
+Partes review challenging the claims of the ’090 Patent on the grounds identified 
+
+
+in this Petition.  None of Petitioner, any real party in interest, or any privy of
+7 
+
+
+Petitioner has received a final written decision under 35 U.S.C. § 318(a) with 
+
+
+respect to any claim of the ’090 Patent on any ground that was raised or could have 
+
+
+been raised by Petitioner, any real party in interest, or any privy of Petitioner in 
+
+
+any inter partes review, post grant review, or covered business method patent 
+
+
+review. 
+
+
+Further, Petitioner certifies that: (1) Petitioner has not filed a civil action 
+
+
+challenging the validity of a claim of the ’090 Patent; (2) none of the Petitioner, 
+
+
+any real party-in-interest, or any privy of the Petitioner was served with a 
+
+
+complaint alleging infringement of the ’090 Patent; (3) the estoppel provisions of 
+
+
+35 U.S.C. § 315(e)(1) do not prohibit this inter partes review; and (4) the ’090 
+
+
+Patent is not a patent described in section 3(n)(1) of the Leahy-Smith America 
+
+
+Invents Act and so is available for this inter partes review, per 37 C.F.R. § 42.102 
+
+
+(a)(2). 
+
+
+B. Identification of Challenge and Precise Relief Requested 
+
+
+Pursuant to 37 C.F.R. § 42.104(b), Petitioner challenges Claims 1-2 of the 
+
+
+’090 Patent and seeks a ruling that those claims are unpatentable under 35 U.S.C. 
+
+
+§102(b) and 35 U.S.C. §103(a). 
+
+
+1. Specific Art and Statutory Grounds on Which the Challenge is 
+Based 
+
+
+a. Ground 1:  Claims 1 And 2 Are Anticipated Under 35 
+U.S.C. § 102(b)
+8 
+
+
+ Claims 1-2 of the ’090 Patent are unpatentable because they are anticipated 
+
+
+under 35 U.S.C. § 102(b) by NCT00849654 (Ex. 1002).  NCT00849654 has a 
+
+
+publication date more than one year before the ’090 Patent’s earliest possible 
+
+
+effective filing date of June 3, 2010, and thus NCT00849654 is available as prior 
+
+
+art under 35 U.S.C. § 102(b). 
+
+
+b. Ground 2:  Claims 1 And 2 Are Obvious Under 35 
+U.S.C. § 103(a) 
+
+
+ Claims 1-2 of the ‘090 Patent are unpatentable because they are obvious 
+
+
+under 35 U.S.C. § 103(a) over NCT00849654 (Ex. 1002) in view of the combined 
+
+
+teachings of U.S. Patent Application Publication No. 2008/0139582 (filed Dec. 26, 
+
+
+2007) (“the ’582 Publication”) (Ex. 1003), and Press Release, Pharamacyclics, 
+
+
+Pharmacyclics Initiates Phase I Clinical Trial of Novel Oral Btk Inhibitor for 
+
+
+Refractory B-Cell Non-Hodgkin’s Lymphoma (April 13, 2009) (“the 2009 Press 
+
+
+Release”) (Ex. 1004).   
+
+
+ Each of these publications has a publication date more than one year before 
+
+
+the ’090 Patent’s earliest effective filing date of June 3, 2010.  On this basis, they 
+
+
+are each available as prior art under 35 U.S.C. § 102(b). 
+
+
+ Additional references cited herein to establish the state-of-the-art, the reason 
+
+
+to combine the prior art, and the reasonable expectation of success include 
+
+
+Zhengying Pan, et al., Discovery of Selective Irreversible Inhibitors for Bruton’s 
+
+
+Tyrosine Kinase, 2 ChemMedChem 58 (2007) (“Pan”) (Ex. 1005), Lee Honigberg
+9 
+
+
+et al., Targeting Btk in Lymphoma: PCI-32765 Inhibits Tumor Growth in Mouse 
+
+
+Lymphoma Models and a Fluorescent Analog of PCI-32675 Is an Active-Site 
+
+
+Probe That Enables Assessment of Btk Inhibition In Vivo, Blood (ASH Annual 
+
+
+Meeting Abstracts), November 2007, at 1592 (“Blood 2007”) (Ex. 1006), 
+
+
+Christophe Le Tourneau et al., Dose Escalation Methods in Phase I Cancer 
+
+
+Clinical Trials, 101 J. Nat’l Cancer Inst. 708 (2009) (Ex. 1007), Jonathan 
+
+
+McConathy, Ph.D., & Michael J. Owens, Ph.D.,  Stereochemistry in Drug Action, 
+
+
+5 Primary Care Companion J Clinical Psychiatry 70 (2003) (Ex. 1008), Stefano A. 
+
+
+Pileri & Brunangelo Falini, Mantle Cell Lymphoma, 94 Haematologica 1488 
+
+
+(2009) (Ex. 1009), Agency For Toxic Substances and Disease Registry, Public 
+
+
+Health Assessment Guidance Manual, (2005) (“the 2005 Manual”) (Ex. 1010), M. 
+
+
+MacPartlin et al., Bruton’s Tyrosine Kinase is not essential for Bcl-Abr-mediated 
+
+
+transformation of lymphoid or myeloid cells, Leukemia (2008) 22, 1354-60 
+
+
+(“MacPartlin,” Ex. 1011), PubMed Open Chemistry Database for PCI-32765 
+
+
+Racemate, first published on June 26, 2007 (“PubMed 2007,” Ex. 1012), the 2008 
+
+
+WHO classifications of lymphomas (“WHO,” Ex. 1013), and R. Eric Davis, et al., 
+
+
+Chronic Active B-Cell-Receptor Signalling in Diffuse Large B-Cell Lymphoma, 
+
+
+Nature, Vol. 463, Letters, 88-92 (January 7, 2010) (“Nature 2010, Ex. 1023).
+10 
+
+
+2.  Evidence Relied Upon to Support the Challenge 
+
+
+Petitioner relies upon the publications cited herein in support of Grounds 1 
+
+
+and 2.  Petitioner also relies upon the Declaration of Djordje Atanackovic, M.D. 
+
+
+(Ex.1021), and the documents cited therein.  Attached are an Exhibit List and 
+
+
+copies of the references per 37 C.F.R. § 42.63(e) and 37 C.F.R. § 42.6 (c). 
+
+
+V. OVERVIEW 
+
+
+A. Overview of the ’090 Patent 
+
+
+ The ’090 Patent is entitled “Use of Inhibitors of Bruton’s Tyrosine Kinase 
+
+
+(BTK).”  (Ex. 1001.)  The ’090 Patent issued on June 17, 2014.  It is a continuation 
+
+
+of U.S. Application Ser. No. 13/153,317, filed Jun. 3, 2011, which claims the 
+
+
+benefit of priority from several U.S. provisional applications, the earliest of which 
+
+
+were filed on June 3, 2010. 
+
+
+ The ’090 Patent describes methods for treating hematological malignancies 
+
+
+with Btk inhibitors.  (Id. at col. 1:53-58; see also Ex. 1021 at ¶¶30-33.)  The 
+
+
+hematological malignancies identified in the specification of ’090 Patent include 
+
+
+several B-cell non-Hodgkin’s Lymphomas (“NHLs”), including MCL. (Id. at col. 
+
+
+2:57-60.) 
+
+
+ The ’090 Patent has 2 claims.  Claim 1 recites:  
+
+
+A method for treating mantle cell lymphoma in an 
+
+
+individual who has already received at least one prior
+11 
+
+
+therapy for mantle cell lymphoma comprising 
+
+
+administering to the individual once per day between 
+
+
+about 420 mg to about 840 mg of an oral dose of an 
+
+
+inhibitor of Bruton's tyrosine kinase (Btk) having the 
+
+
+structure:  
+
+
+” 
+
+
+(Id. at col. 149:1-25.)  Claim 2 depends from claim 1 and recites: “The method of 
+
+
+claim 1, wherein the once per day oral dose is about 560 mg.” (Id. at col. 149:26-
+
+
+27.) 
+
+
+ The originally-filed claims of the application that resulted in the ’090 Patent 
+
+
+were directed to treating a hematological malignancy” by “administering … an 
+
+
+irreversible Btk inhibitor.”  (Ex. 1014.)  The original claims did not address 
+
+
+“treating mantle cell lymphoma” or “an individual who has already received at 
+
+
+least one prior therapy for mantle cell lymphoma,” as is now reflected in the
+12 
+
+
+claims.  (Ex. 1001 at col. 149:2-28.)   
+
+
+ On December 23, 2012 the examiner, in a telephonic interview, requested a 
+
+
+Restriction Election to which the Applicant responded with an election of “a 
+
+
+method for treating relapsed or refractory non-Hodgkin’s lymphoma” using a 
+
+
+specific species of Btk inhibitor that was to be designated later.  (Ex. 1015.)  This 
+
+
+was formalized in the Requirement for Restriction/Election filed on January 3, 
+
+
+2013.   (Ex. 1016.) 
+
+
+ On February 4, 2013, Applicant elected the species of Btk inhibitor as 
+
+
+ and the type of lymphoma as “mantle cell lymphoma (MCL).”  
+
+
+(Ex. 1017.) 
+
+
+ During prosecution, the Examiner issued a Final Rejection on November 1, 
+
+
+2013, in which all claims were rejected under 35 U.S.C. § 103 as obvious over 
+
+
+several prior art references not involved in this Petition.  (Ex. 1018.)  Notably, 
+
+
+however, the Examiner indicated that a POSA would have identified PCI-32765 as 
+
+
+the claimed structure from any of various sources disclosing the structure.  (Id.)  
+
+
+The Examiner stated that the citation of the additional sources disclosing the
+13 
+
+
+structure was “not an introduction of a new reference, [but] only used to add to the 
+
+
+rebuttal by the Examiner to show that the structure of PCI-32765 is known prior to 
+
+
+the filing of the instant application.”  (Id.)  
+
+
+ In response, the applicants did not argue that the claimed structure was not 
+
+
+shown in the prior art.  Instead, the applicants relied upon alleged unexpected 
+
+
+results as a basis to overcome the outstanding obviousness rejection, citing the 
+
+
+“remarkable clinical results achieved” with “ibrutinib” for the FDA to approve the 
+
+
+drug for use.  (Ex. 1019 at 5.)   
+
+
+B.  Person of Ordinary Skill in the Art 
+
+
+A POSA at the time of the alleged invention of the ’090 Patent would have 
+
+
+been a medical doctor specializing in hematology and having several years of 
+
+
+experience treating patients with B-cell NHL, including MCL.  (Ex. 1021 at ¶¶49-
+
+
+50.)  A POSA may also have been a medical doctor or researcher with a Ph.D in 
+
+
+biochemistry or related field having several years of experience researching 
+
+
+treatments for B-cell NHLs.  (Id.) 
+
+
+C.  State of the Prior Art  
+
+
+MCL is a hematologic cancer.  (Ex. 1021 at ¶37.)  It was and is “generally 
+
+
+regarded as an aggressive, incurable disease with the median survival of affected 
+
+
+patients being 3-4 years.”  (Ex. 1009 at 1489)  MCL is known to represent 3-10% 
+
+
+of all NHLs.  (Id. at 1488.)
+14 
+
+
+At the time the application for the ’090 Patent was filed, persons skilled in 
+
+
+the art were looking for more effective ways to treat hematologic cancers, 
+
+
+including B-cell NHLs such as MCL.  (Ex. 1021 at ¶¶34-38.)  One company 
+
+
+exploring such treatments was the Patent Owner’s.  (Id. at ¶39.)  Notably, the 
+
+
+Patent Owner was prolific in publishing its drug development work in the area, 
+
+
+much of which would later turn out to be prior art to the ’090 Patent.  (See, e.g., 
+
+
+Exs. 1002-1003.)  The Patent Owner published patent applications, press releases, 
+
+
+articles, abstracts, and clinical study recruitment documents detailing its 
+
+
+development of a compound called PCI-32765.  (See, e.g., Exs. 1002-1004 and 
+
+
+1006.)  PCI-32765 was being developed for the treatment of relapsed or refractory 
+
+
+B-cell NHL, i.e. B-cell NHL that had not been successfully eliminated by prior 
+
+
+treatment therapies.  (See, e.g., Ex. 1002.) 
+
+
+Also at this time, researchers in the field were interested in new and 
+
+
+improved treatments for patients who failed “first-line therapy” for B-cell NHLs, 
+
+
+including MCL.  (Ex. 1021 at ¶87.)  Thus, a POSA would have been interested in 
+
+
+finding a therapy for treating MCL patients who had failed first-line therapy.  (Id.)  
+
+
+Such a POSA would have closely followed the Patent Owner’s many publications 
+
+
+regarding its development of PCI-32765 for the treatment of the B-cell NHLs.  (Id. 
+
+
+at ¶42.)  The following documents are generally presented in a chronological order.
+15 
+
+
+The Blood 2007 Abstract - In 2007, Lee Honigberg, a researcher at the 
+
+
+Patent Owner’s company and one of the inventors of the ’090 Patent, presented 
+
+
+studies regarding PCI-32765 at the American Society of Hematology (“ASH”) 
+
+
+Annual Meeting, which is a prestigious conference in the field of hematology.  
+
+
+This conference would have been well-known to a POSA.  (Ex. 1021 at ¶¶40-42.)  
+
+
+Honigberg’s abstract of the studies was also published in Blood, the leading 
+
+
+journal in the field hematology.  (Ex. 1006; Ex. 1021 at ¶40.)  The abstract is titled 
+
+
+Targeting Btk in Lymphoma: PCI-32765 Inhibits Tumor Growth in Mouse 
+
+
+Lymphoma Models and a Fluorescent Analog of PCI-32765 Is an Active-Site 
+
+
+Probe That Enables Assessment of Btk Inhibition In Vivo (“Blood 2007”).  (Ex. 
+
+
+1006.)  
+
+
+Blood 2007 discloses that there “is increasing evidence indicating that B-cell 
+
+
+receptor (BCR) signaling is required for survival of non-Hodgkin’s lymphoma 
+
+
+(NHL) cells.”  (Id. at 1592.)  Blood 2007 continues that “there have been few 
+
+
+highly selective small molecule inhibitors of Btk,” but the Patent Owner had 
+
+
+“developed a series of covalent Btk inhibitors that target Cys-481 in Btk.”  (Id.)  
+
+
+Blood 2007 further discloses that “PCI-32765 is a Cys-481 targeting Btk inhibitor 
+
+
+that has been optimized for potency, selectivity and pharmacokinetics.”  (Id.)  
+
+
+Blood 2007 also states that “[i]n order to further characterize the selectivity and in
+16 
+
+
+vivo potency of PCI-32765, we have developed PCI-33380, an active-site probe 
+
+
+consisting of a covalent Btk inhibitor linked to the fluorophore Bodipy-FL.” (Id.).  
+
+
+In other words, Blood 2007 shows that PCI-33380 is an analog of PCI-
+
+
+32765 linked to the fluorophore Bodipy-FL.  (Ex. 1021 at ¶96.)  Blood 2007 also 
+
+
+reports that Btk inhibition by PCI-32765 induces apoptotic cell death and inhibits 
+
+
+the growth of a variety of tumor cell lines derived from patients with different low-
+
+
+grade (cell line DHL-4) and high-grade (cell lines DHL-6, WSU-DLCL2, OCI-
+
+
+Ly10, DOHH2) B-cell lymphomas in vitro and in vivo.  (Ex. 1006.)  Further, a 
+
+
+POSA would have understood that the Patent Owner had developed PCI-32765 
+
+
+(and its analog PCI-33380) that showed significant promise as a treatment of B-
+
+
+cell NHL, and that the compound would be evaluated in clinical trials.  (Ex. 1021 
+
+
+at ¶42.)  This would have led a POSA to look closely at the Patent Owner’s 
+
+
+development of PCI-32765 as a treatment for B-cell NHL. 
+
+
+Pan, Nature 2010 and MacPartlin – Three additional prior art articles 
+
+
+(Pan, Nature 2010 and MacPartlin) combine with Blood 2007 to specifically 
+
+
+identify the chemical structure of PCI-32765.  (Ex. 1021 at ¶¶ 46-48.)  Pan 
+
+
+discloses certain selective irreversible inhibitors of Btk, including a compound 
+
+
+referred to as Compound 4.  (Ex. 1005 at 59.)  Compound 4 is drawn as a non-
+
+
+stereospecific enantiomer in Scheme 1 and Table 3.  Further in Table 3, 
+
+
+Compounds 13 and 14 in Pan are distinguished from Compound 4 as specific
+17 
+
+
+stereo isomers.  Compound 13 is the R enantiomer of Compound 4 and is now 
+
+
+known as ibrutinib.  (Id.)  Notably, Nature 2010 states that PCI-32765 is 
+
+
+“compound 13 in ref. 25,” and “ref. 25” is cited as Pan.  (Ex. 1023 at 91-92.)  
+
+
+Thus, Nature 2010 identifies the structure of PCI-32765 as R enantiomer called 
+
+
+Compound 13 in Pan. 
+
+
+Further, MacPartlin states that Compound 4 from Pan is known as PCI-
+
+
+31523.  (Ex. 1011 at 1354.)  MacPartlin further discloses compound PCI-33380 is 
+
+
+the “Bodipy-FL conjugate of the pure R enantiomer of PCI-31523,” citing to Blood 
+
+
+2007.  (Id. at 1355.)  As established above, Blood 2007 shows that PCI-33380 is an 
+
+
+analog of PCI-32765 linked to the fluorophore Bodipy-FL.   
+
+
+A POSA would have understood from the combination of Pan, Nature 2008, 
+
+
+MacPartlin and Blood 2007 that PCI-32765 (used in clinical trial NCT00849654, 
+
+
+Ex. 1002) is the R-enantiomer of PCI-31253 (i.e., the R-enantiomer of Compound 
+
+
+4 in Pan, which itself is Compound 13 in Pan).  (Ex. 1021 at ¶48.)  The R-
+
+
+enantiomer of Compound 4 in Pan is now known as ibrutinib.  Thus, the 
+
+
+combination of Blood 2007, Pan and MacPartlin discloses the structure of PCI-
+
+
+32765 in the prior art. 
+
+
+The ’582 Publication - At around the same time, the Patent Owner was 
+
+
+attempting to patent certain pharmaceutical compounds that inhibit Btk.  (Ex. 1021 
+
+
+at ¶39.)  A patent application covering these compounds was eventually published
+18 
+
+
+as the ’582 Publication on June 12, 2008.  (Ex. 1003.)  The ’582 Publication 
+
+
+teaches compounds for a “medicament for the inhibition of Bruton’s tyrosine 
+
+
+kinase (Btk) activity” that can be “orally administered” to a “human” for the 
+
+
+treatment of cancer, including “mantle cell lymphoma.”  (Id. at [0029]-[0030], 
+
+
+[0041].)  The ’582 Publication further teaches a dose range of “1-1500 mg per 
+
+
+day.” (Id. at [0399].) 
+
+
+Example 2 of the ’582 Publication discloses the Btk inhibitory activity of 
+
+
+twelve compounds in two in vitro assays.  (Id. at Table 2.)  The test data provided 
+
+
+in Table 2 of Example 2 of the ’582 Publication discloses that Compound 13 has 
+
+
+the most potent Btk inhibitory activity in the acellular kinase assay.  (Ex. 1003 at 
+
+
+[00458].)  Compound 13 (now called ibrutinib) is the R-enantiomer of Compound 
+
+
+4.  (Ex. 1021 at ¶¶47-48, 72, 76.)  The ’582 Publication further discloses that, 
+
+
+based on these test results, the “R-configuration was determined as the slightly 
+
+
+preferred absolute stereochemistry configuration by two sets of enantiomers (11 vs. 
+
+
+12 and 13 vs. 14).” (Ex. 1003 at [461] (emphasis added).) 
+
+
+The ’582 Publication identifies PCI-32765 as Compound 4 of Example 2.  
+
+
+(Id.)  Another reference in the PubChem Open Chemistry Database also identifies 
+
+
+PCI-32765 as Compound 4 in the ’582 Publication.  (Ex. 1012, entry for “PCI-
+
+
+32765 Racemate”.)  However, this is contradicted by the above-discussed 
+
+
+combination of Blood 2007, Pan and MacPartlin, which discloses PCI-32765 as the
+19 
+
+
+R-enantiomer of Compound 4 in the ’582 Publication (i.e., Compound 13 in the 
+
+
+’582 Publication).  As such, a POSA would understand that PCI-32765 was 
+
+
+disclosed by the prior art to be one of two structures:  (1) ibrutinib (Compound 13 
+
+
+of Pan established by the combination of Blood 2007, Pan and MacPartlin) or (2) a 
+
+
+racemic mixture that contains ibrutinib (disclosed as Compound 4 of the ’582 
+
+
+Publication).  (Ex. 1021 at ¶46-48.) 
+
+
+The Clinical Trial Document (NCT00849654) - Subsequent to the above 
+
+
+references the Patent Owner published a notice of clinical trial NCT00849654 on 
+
+
+February 2, 2009.  (Ex. 1002; see also Ex. 1021 at ¶44.)  (“NCT00849654”).  It 
+
+
+provides the details of a Phase I clinical study with PCI-32765, including 
+
+
+information about how PCI-32765 would be tested in patients with recurrent B-cell 
+
+
+Non-Hodgkin’s lymphoma according to the WHO definition that “have failed ≥ 1 
+
+
+previous treatment for lymphoma.”  (Id.)  NCT00849654 also discloses that PCI-
+
+
+32765 would be orally administered once per day at six different doses, including 
+
+
+doses of 8.3 mg/kg/day, 12.5 mg/kg/day and 17.5 mg/kg/day.  (Id.)  The Patent 
+
+
+Owner anticipated recruiting 36 patients for the study.  (Id.)  As will be discussed 
+
+
+below, this reference anticipates claims 1 and 2 of the ‘090 patent.  
+
+
+The 2009 Press Release - The Patent Owner further disclosed in its 2009 
+
+
+Press Release that it had “begun treating patients in a Phase I dose-escalation study 
+
+
+to evaluate the safety and tolerability of PCI-32765, an orally available, selective
+20 
+
+
+inhibitor of Bruton’s tyrosine kinase, or Btk, as a potential treatment for patients 
+
+
+with relapsed or refractory B-cell non-Hodgkin’s lymphoma (NHL).”  (Ex. 1004 at 
+
+
+1; see also Ex. 1021 at ¶43.)  The Patent Owner further reported in its 2009 Press 
+
+
+Release that “Preliminary results from the Phase I trial show good patient 
+
+
+tolerability under conditions of Btk-drug occupancy with potent bioactivity in 
+
+
+targeted cell populations derived from the B-Cell lymphoma patients.”  (Id.) 
+
+
+VI. CLAIM CONSTRUCTION 
+ 
+ The terms of claims 1-2 are to be given their broadest reasonable 
+
+
+interpretation, as understood by one of ordinary skill in the art. See 37 C.F.R. § 
+
+
+42.100 (b).  
+
+
+ A. “Treating” 
+
+
+Claim 1 uses the term “treating.” According to the ’090 patent “treating” 
+
+
+includes, “alleviating, abating or ameliorating a disease or condition, or symptoms 
+
+
+thereof; managing a disease or condition, or symptoms thereof; preventing 
+
+
+additional symptoms; ameliorating or preventing the underlying metabolic causes 
+
+
+of symptoms; inhibiting the disease or condition, e.g., arresting the development of 
+
+
+the disease or condition; relieving the disease or condition; causing regression of 
+
+
+the disease or condition, relieving a condition caused by the disease or condition; 
+
+
+or stopping the symptoms of the disease or condition. The terms ‘treat,’ ‘treating’ 
+
+
+or ‘treatment,’ include, but are not limited to, prophylactic and/or therapeutic
+21 
+
+
+treatments.” (Ex. 1001 at 27:26-37.) A POSA would understand that “ameliorating 
+
+
+or preventing the underlying metabolic causes of symptoms” includes inhibiting 
+
+
+Btk in a patient. (Id.; Ex. 1021 at ¶52.) 
+
+
+B. “About” 
+
+
+ Claims 1 and 2 use the term “about” in the context of the dose to be 
+
+
+administered.  Claim 1 states that the dose is “about 420 mg to about 820 mg” (id. 
+
+
+at col. 149:5), and claim 2 provides a dose of “about 560 mg.”  (Id. at col. 149:28.)   
+
+
+The United States Court of Appeals for the Federal Circuit has held that the 
+
+
+claim term “about” does not have universal meaning in patent claims.  Cohesive 
+
+
+Techs., Inc. v. Waters Corp., 543 F.3d 1351, 1368 (Fed. Cir. 2008)(citing Pall 
+
+
+Corp. v. Micron Separations, Inc., 66 F.3d 1211, 1217 (Fed. Cir. 1995)).  Rather, 
+
+
+the term “about” avoids a strict numerical boundary to the specified parameter.  Id.   
+
+
+Its range must be interpreted in its technological and stylistic context,” which is 
+
+
+provided in the “patent specification, the prosecution history, and other claims.” 
+
+
+Ortho-McNeil Pharm. Inc. v. Caraco Pharm Labs., Ltd., 476 F.3d 1321, 1326 
+
+
+(Fed. Cir. 2007)(noting that “[i]t is appropriate to consider the effects of varying 
+
+
+that parameter” or that “[e]xtrinsic evidence of meaning and usage in the art may 
+
+
+be helpful in determining the criticality of the parameter . . . .”).   
+
+
+ Here, “about” should have its ordinary meaning of “approximately.” Merck 
+
+
+& Co. v. Teva Pharms. USA, Inc., 395 F.3d 1364, 1369-70 (Fed. Cir. 2005)
+22 
+
+
+(reversing district court’s construction of “about” as “exactly” because “about” had 
+
+
+its ordinary meaning of “approximately”).  A POSA would understand “about” in 
+
+
+this context to encompass doses that are not materially different from the express 
+
+
+dose.  This would include a 10% variance from the express dose because such a 
+
+
+difference has no material effect on patient treatment and the ’090 patent makes no 
+
+
+distinction between doses of even greater difference in terms of efficacy, 
+
+
+tolerability or anything else. (Ex. 1021 at ¶¶54, 65, 84.)  
+
+
+ C. “Mantle Cell Lymphoma” 
+
+
+ Claim 1 uses the term “mantle cell lymphoma.” The 090 patent defines 
+
+
+mantle cell lymphoma as “a subtype of B-cell lymphoma.” (Ex. 1001 at col. 36:4-
+
+
+5; see also Ex. 1013 at 524 (identifying MCL as one of 38 subtypes of B-cell 
+
+
+lymphoma).) 
+
+
+VII. GROUND 1: CLAIMS 1 AND 2 ARE ANTICIPATED BY 
+NCT00849645 
+
+
+ 
+A patent claim is said to be anticipated, and thus invalid, if a single prior art 
+
+
+reference discloses, or a single prior art product or process embodies, each and 
+
+
+every element of the claimed invention.  Glaxo Gp., Ltd. v. Apotex, Inc., 376 F.3d 
+
+
+1339, 1348 (Fed. Cir. 2004).  These elements must be either expressly disclosed or 
+
+
+inherent.  Elan Pharms. v. Mayo Found. for Med. Educ. & Research, 304 F.3d 
+
+
+1221, 1227 (Fed. Cir. 2002).  Here, NCT00849654 meets the test for anticipation 
+
+
+of claims 1 and 2, rendering those claims invalid.
+23 
+
+
+A. Claim 1:  A method for treating mantle cell lymphoma in an 
+individual who has already received at least one prior therapy for 
+mantle cell lymphoma 
+ 
+
+
+ NCT00849654 discloses this claim element.  NCT00849654 is a Phase I 
+
+
+clinical study recruitment document involving the administration of PCI-32765 to 
+
+
+patients with “recurrent B-cell lymphoma.”  (Ex. 1002.)  Recurrent B-cell 
+
+
+lymphoma meant that patients enrolling in the study were required to “have failed 
+
+
+≥1 previous treatment for lymphoma.” (Id.)  
+
+
+Recurrent B-cell lymphoma includes relapsed or refractory MCL (Ex. 1001 
+
+
+at col. 36:4-5), and a POSA would know this.  (Ex. 1021 at ¶57.)  Indeed, 
+
+
+NCT00849654 states that it defined recurrent B-cell lymphoma “according to 
+
+
+WHO classification.” (Ex. 1002 at 2.)  The 2008 WHO classification of 
+
+
+lymphomas identifies MCL as one of 38 subtypes of B-cell lymphoma.  (Ex. 1013 
+
+
+at 524.)  As POSA would immediately envision each B-cell lymphoma subtype, 
+
+
+including MCL.  Thus, this limitation is met.  AbbVie, Inc. v. Mathilda and 
+
+
+Terrence Kennedy Inst. of Rheumatology Trust, 763 F.3d 1366, 1379-80 (Fed. Cir. 
+
+
+2014).  Further, MCL accounts for 3-10% of all NHL.  (Ex.1010 at1488.)  
+
+
+Consequently, a POSA would expect that at least some patients enrolled in the 
+
+
+Phase I clinical trial contemplated in NCT00849654 had refractory or relapsed 
+
+
+MCL.  (Ex. 1021 at ¶58.)
+24 
+
+
+Although it is not clear whether at the time NCT00849654 was published the 
+
+
+enrolled patients had received doses of PCI-32765, NCT00849654 meets the 
+
+
+“treating” element because it is inherent in the administration of PCI-32765.  In re 
+
+
+Montgomery, 677 F.3d 1375, 1381-1382 (Fed. Cir. 2012)  In Montgomery, the 
+
+
+Federal Circuit found that a prior art clinical trial document describing the design 
+
+
+of the clinical trial, but not providing results met the claim limitation for the 
+
+
+treatment or prevention of stroke, on the basis “that even if the claim includes an 
+
+
+efficacy requirement, efficacy is inherent carrying out the claim steps.” Id. at 1381.  
+
+
+The ability of PCI-32765 in “treating” MCL is inherent in its administration to 
+
+
+patients, which is described in NTC00849654. 
+
+
+Thus, NCT00849654 discloses a method for treating MCL, in patients that 
+
+
+have previously received at least one prior therapy.  (Ex. 1021 at ¶¶56-59.) 
+
+
+B. Claim 1:  Administering…an inhibitor of Bruton's tyrosine kinase 
+(Btk) having the structure:
+25 
+
+
+
+
+
+NCT00849654 discloses that it is a “Phase I Dose-Escalation Study of 
+
+
+Bruton’s Tyrosine Kinase (Btk) Inhibitor PCI-32765.”  A POSA would have 
+
+
+known from other prior art references that PCI-32765 was either Compound 4 
+
+
+from the ’582 Publication, or its R-enantiomer, Compound 13 (ibrutinib).  (Ex. 
+
+
+1021 at ¶¶46-48, 74.) 
+
+
+As explained earlier, the combination of Pan, MacPartlin and Blood 2007 
+
+
+disclose PCI-32765 as ibrutinib, the structure set forth in claims 1 and 2 of the ’090 
+
+
+Patent.  These references can properly be used in an anticipation analysis to show 
+
+
+what a POSA would have understood PCI-32765 to be.  In Re Samour, 571 F.2d 
+
+
+559, 563 (C.C.P.A. 1978).  The ’582 Publication and PubMed 2007 disclose that 
+
+
+PCI-32765 is Compound 4 from the ’582 Publication, which is a racemic mixture 
+
+
+that would contain the ibrutinib, its R-enantiomer.  A POSA seeking to determine 
+
+
+the structure of PCI-32765 would therefore understand that it is one of these two
+26 
+
+
+compounds.  (Ex. 1021 at ¶¶46-48, 60-61, 74.)  Since a POSA would have 
+
+
+understood that PCI-32765 was one of two compounds, one of which is the 
+
+
+claimed structure (Compound 13) and the other of which is a racemic mixture 
+
+
+containing the claimed structure (Compound 4), this limitation is met by 
+
+
+NTC00849564.  See In re Petering, 301 F.2d 676 (C.C.P.A. 1962) (explaining that 
+
+
+a prior art genus of compounds can anticipate a claimed species if the genus is 
+
+
+small enough that a POSA would immediately envisage all the members of the 
+
+
+genus).  
+
+
+C. Claim 1:  Administering to the individual once per day between 
+about 420 mg to about 840 mg of an oral dose 
+ 
+
+
+NCT00849654 discloses that “PCI-32765 will be administered in 1.25, 2.5, 
+
+
+5.0, 8.3, 12.5 and 17.5 mg/kg/day dose cohorts orally once per day for 28 days” in 
+
+
+order to establish the “optimal dose of . . . PCI-32765.” (Ex. 1002.) 
+
+
+A POSA would understand that 70 kilogram (kg) is the weight used for the 
+
+
+standard man in calculating drug doses. (Ex. 1011 at ch.7, p.16; Ex. 1021 at ¶¶62-
+
+
+64.)  This standard man construct is discussed in many publications.  For example, 
+
+
+a January 2005 Public Health Assessment Guidance Manual (“the 2005 Manual”) 
+
+
+document explains that with respect to body weight the “default assumption is that 
+
+
+the average adult weighs 70 kg (154 pounds).”  (Ex. 1011 at 7-16; Ex. 1021 at 
+
+
+¶64.) Therefore, to determine the daily dose given in NCT00849654, a person of 
+
+
+ordinary skill in the art would multiple the doses by 70 kg.  The daily dose for the
+27 
+
+
+8.3 mg/kg/day cohort would be 580 mg.  This is within the dose range of claim 1. 
+
+
+It therefore anticipates the dosage of claim 1.  Titanium Metals Corp. of Am. v. 
+
+
+Banner, 778 F.2d 775, 782 (Fed. Cir. 1985) (It is “an elementary principle of 
+
+
+patent law that when, as by a recitation of ranges or otherwise, a claim covers 
+
+
+several compositions, the claim is ‘anticipated’ if one of them is in the prior art.”). 
+
+
+D. Claim 2:  Wherein the once per day oral dose is about 560 mg 
+
+
+Claim 2 limits the dose to “once per day oral dose is about 560 mg.” As 
+
+
+explained above, NCT008849654 discloses a once daily oral dose of Compound 13 
+
+
+(ibrutinib) of 8.3 mg/kg/day. (Ex. 1004.)  When using the standard 70 kg man 
+
+
+construct, this equates to 580 mg/day.  A 580 mg dose differs from the claimed 
+
+
+dose of 560 mg by only 20 mg or 3%.  A 560 mg dose in a 70 kg individual would 
+
+
+equate to 8.0 mg/kg/day.  A POSA would understand that 580 mg/day is “about” 
+
+
+560 mg/day.  (Ex. 1021 at ¶¶65-66.) 
+
+
+Moreover, the ’090 patent says nothing about a 560 mg dose being preferred 
+
+
+or superior to any other disclosed dose.  For example, the ’090 patent also 
+
+
+discloses doses of 420 mg and 840 mg, but does not mention any difference in 
+
+
+safety or efficacy between the doses.  (Ex. 1001 at 3:14-18.)  Given that the patent 
+
+
+expresses no preference for doses that are 140 mg and 280 mg different from 560 
+
+
+mg, there is no reason to believe that a 580 mg dose would function any differently 
+
+
+than a 560 mg dose.  The ’090 Patent also says nothing about 560 mg being critical
+28 
+
+
+to the invention.  Therefore, for these reasons, a POSA would understand that 580 
+
+
+mg is “about 560 mg.”  (Ex. 1021 at ¶66.) 
+
+
+Thus, the prior art discloses all of the elements of claims 1 and 2.Those 
+
+
+claims are therefore anticipated by NTC00849654.  
+
+
+VIII. GROUND 2: CLAIMS 1 AND 2 WOULD HAVE BEEN OBVIOUS  
+
+
+In addition to being anticipated, the claims of the ‘090 Patent would also 
+
+
+have been obvious.  “A patent may not be obtained . . . if the differences between 
+
+
+the subject matter sought to be patented and the prior art are such that the subject 
+
+
+matter as a whole would have been obvious at the time the invention was made to a 
+
+
+person having ordinary skill in the art to which said subject matter pertains.”  35 
+
+
+U.S.C. § 103(a).  Underlying factual determinations in an obviousness analysis 
+
+
+include (1) the scope and content of the prior art, (2) the level of ordinary skill in 
+
+
+the art, (3) the differences between the claimed invention and the prior art, and (4) 
+
+
+secondary considerations of nonobviousness.  Merck, 395 F.3d at 1369 (citing 
+
+
+Graham v. John Deere Co., 383 U.S. 1, 17-18 (1966)).  
+
+
+A. A POSA Would Have Been Motivated to Combine the Prior Art 
+
+
+Prior to June 3, 2009, a POSA would be interested in more tolerable and 
+
+
+efficacious treatments for relapsed or refractory B-cell NHLs.  (Ex. 1021 at ¶¶ 86-
+
+
+88.)  One B-cell NHL where an improved therapy was needed was relapsed or 
+
+
+refractory MCL because after first-line therapy failed, few if any promising
+29 
+
+
+treatment options existed. (Ex. 1021 at ¶¶58, 87.)  Therefore, at the time of 
+
+
+the ’090 Patent, a POSA would have been motivated to develop an effective drug 
+
+
+therapy for relapsed or refractory B-cell NHL, including MCL.  (Id. at ¶87.) 
+
+
+Recognizing this need, a POSA would have had ample reason to combine 
+
+
+NCT00849654 with the ’582 Publication and the 2009 Press Release in the search 
+
+
+for a better treatment options.  (Id. at ¶88.)  Each of those prior art references 
+
+
+comes directly from the Patent Owner and relates specifically to its development of 
+
+
+a Btk inhibitor shown to be effective for the treatment of refractory or relapsed B-
+
+
+cell NHL.  (Id.) 
+
+
+As discussed above, NCT00849654 discloses that PCI-32765 was in clinical 
+
+
+trials in patients with refractory or relapsed NHL, including MCL, and the 2009 
+
+
+Press Release discloses that promising results with respect to both efficacy and 
+
+
+tolerability were being obtained. (Ex. 1021 at ¶71.)  The ’582 Publication discloses 
+
+
+Compound 4 being PCI-32765 and that the R-enantiomer Compound 13 is 
+
+
+preferred over S-enantiomer based on potency data.  (Ex. 1003 at [0458], Table 2.)  
+
+
+The ’582 Publication also suggests that the compounds can be used to treat MCL. 
+
+
+(Ex. 1003 at [0036].)  Certainly, a POSA looking for an improved therapy for 
+
+
+relapsed or refractory MCL would combine these teachings because they all are 
+
+
+from the Patent Owner and specifically describe a method that showed a promising 
+
+
+treatment for relapsed or refractory MCL. (Ex. 1021 at ¶88.) Knowing that PCI-
+30 
+
+
+32765 was showing promise, a POSA would have been motivated to use 
+
+
+Compound 13, its R-enantiomer. (Id. at ¶ 75.) 
+
+
+B. The Prior Art Discloses the Elements of Claims 1 and 2 
+
+
+ As shown on an element by element basis below, the prior art discloses all of 
+
+
+the elements of claims 1 and 2.  
+
+
+1. Claim 1:  A method for treating mantle cell lymphoma in an 
+individual who has already received at least one prior 
+therapy for mantle cell lymphoma. 
+
+
+ 
+ NTC00849564 discloses this limitation.  (See Ex. 1002; see also Ex. 1021 at 
+
+
+¶¶ 68-71.)  In addition, the ’582 Publication teaches that the Btk inhibiting 
+
+
+compounds discussed therein, including Compound 13 (ibrutinib), are useful for 
+
+
+the treatment of “mantle cell lymphoma.”  (Ex. 1003 at [0041].)  In particular, 
+
+
+the ’582 Publication states that “[i]n further embodiments, the subject in need is 
+
+
+suffering from a cancer.  In one embodiment, the cancer is a . . . mantle cell 
+
+
+lymphoma.” (Id. at [0036].) 
+
+
+ Furthermore, the 2009 Press Release discloses that the Patent Owner was 
+
+
+conducting a clinical study with a compound called PCI-32765 and that it is a 
+
+
+“potential treatment for patients with relapsed or refractory B-cell non-Hodgkin’s 
+
+
+lymphoma (NHL).”  (Ex. 1004.)  Patients with relapsed or refractory B-cell non-
+
+
+Hodgkin’s lymphoma are those that have failed at least one previous treatment for 
+
+
+their disease.  (Ex. 1021 at ¶43-44.)  The Patent Owner’s Phase I clinical study
+31 
+
+
+recruitment document, NCT00849654, requires that enrollees “have failed ≥1 
+
+
+previous treatment for lymphoma,” for study of involving “recurrent B-cell 
+
+
+lymphoma.”   (Ex. 1002.)  At the time, a POSA would have known that recurrent 
+
+
+B-cell lymphoma included relapsed or refractory MCL.  (Ex. 1021 at ¶¶43-44.) 
+
+
+ The 2009 Press Release also notes that “[p]reliminary results from the Phase 
+
+
+I trial shows good patient tolerability under conditions of Btk-drug occupancy with 
+
+
+potent bioactivity in targeted cell populations derived from B-cell lymphoma 
+
+
+patients.”  (Ex. 1004.)  Therefore, a POSA would understand from NCT00849654 
+
+
+and the 2009 Press Release that, in the Phase I trial, PCI-32765 showed both safety 
+
+
+and efficacy in patients with B-cell NHL.  (Ex. 1021 at ¶71.)  Thus, NCT00849654 
+
+
+and the 2009 Press Release disclose the claimed “treating.”  Also, stated above, a 
+
+
+POSA would have expected that at least some patients enrolled in the Phase I 
+
+
+clinical trial contemplated in NCT00849654 had refractory or relapsed MCL 
+
+
+patients.  (Id. at ¶70.) 
+
+
+Thus, a POSA of ordinary skill in the art would understand from the prior art 
+
+
+that PCI-32765 would treat B-cell NHL, including MCL, in patients that have 
+
+
+previously received at least one prior therapy. 
+
+
+2. Claim 1:  Administering…An inhibitor of Bruton’s tyrosine 
+kinase (Btk) having the structure:
+32 
+
+
+
+
+
+Assuming, for the sake of argument only, that a POSA would have 
+
+
+understood that PCI-32765 was Compound 4 of the ’582 Publication (i.e. the 
+
+
+racemate), and may not have been the R-enantiomer as disclosed in Pan/Nature 
+
+
+2008/MacPartlin/Blood 2007, this element would have been obvious.  A POSA 
+
+
+would have understood that PCI-32765 was in clinical trials for the treatment of 
+
+
+NHL, including MCL, and that it was showing promising results.  (Ex. 1021 at 
+
+
+¶¶72-80.)  The ’582 Publication discloses the compounds in the application are 
+
+
+useful to treat MCL.  (Ex. 1003.)  A POSA would have also understood from 
+
+
+the ’582 Publication that Compound 13 is the R-enantiomer of the racemate 
+
+
+Compound 4.  (Ex. 1021 at ¶46.)  The ’582 Publication discloses that Compound 
+
+
+13 is the most potent Btk inhibitor tested in one of the two in vitro assays, and 
+
+
+further expresses a preference for Compound 13 over the S-enantiomer, Compound 
+
+
+14. (Ex. 1003 at [0461].)
+33 
+
+
+Specifically, Example 2 of the ’582 Publication provides potency data in the 
+
+
+form of Btk IC50 and Ramos Cell Ca Flux IC50 assays on twelve compounds.  (Id. 
+
+
+at [0455-0461].)  For both assays, a lower value indicates a greater potency at 
+
+
+inhibiting Btk.  Compound 13 is the most potent compound of the twelve.  (Id. at 
+
+
+[0458], Table 2.)  Based on this data, a POSA would have found Compound 13 
+
+
+was the best candidate for a pharmaceutical drug.  
+
+
+As discussed above, a POSA would have further known that Compound 4 is 
+
+
+a racemate, that Compound 13 is the R-enantiomer, and it is preferred over the S-
+
+
+enantiomer (Compound 14).  (Ex. 1002 at Table 2; [0455-0461].)  This expressed 
+
+
+preference for Compound 13 over Compound 14 is supported by the potency data 
+
+
+in Table 2. (Id. at [0455-0461].)   
+
+
+By this time, it was also well-known that “single enantiomer formulations 
+
+
+can provide greater selectivities for their biological targets, improved therapeutic 
+
+
+indices, and/or better pharmacokinetics than a mixture of enantiomers.”  (Ex. 1021 
+
+
+at ¶79; Ex. 1009 at 72.)  Thus, a POSA knowing that Compound 4 was in clinical 
+
+
+trials to treat NHL, including MCL, would have expected Compound 13 to treat 
+
+
+relapsed or refractory MCL at the claimed dose, and would likely be more potent 
+
+
+than Compound 4. As a result, a POSA would have been motivated to administer 
+
+
+Compound 13 to a patient to treat refractory or relapsed MCL.  (Ex. 1021 at ¶79.) 
+
+
+3. Claim 1:  Administering to the individual once per day 
+between about 420 mg to about 840 mg of an oral dose
+34 
+
+
+ 
+NCT00849654 discloses that “PCI-32765 will be administered in 1.25, 2.5, 
+
+
+5.0, 8.3, 12.5 and 17.5 mg/kg/day dose cohorts orally once per day for 28 days” in 
+
+
+order to establish the “optimal dose of . . . PCI-32765.” (Ex. 1004.)  A POSA 
+
+
+would have understood that finding a dose that would treat the disease from the six 
+
+
+dose levels contemplated in NCT008849654 would have been a matter of routine 
+
+
+experimentation.  (Ex. 1021 at ¶81-83; Ex. 1008.)  A POSA would also have 
+
+
+expected at least one of the doses in the study would treat relapsed B-cell NHL.  
+
+
+(Ex. 1021 at ¶82.)  In fact, a POSA would perform the same experimentation 
+
+
+contemplated in NCT00849654 to find a dose that “treats” B-cell NHL.  (Id.)  
+
+
+Using the 70 kg person construct discussed above, the daily dose for the 
+
+
+17.5mg/kg/day cohort is 1225mg/day of Compound 4.  A POSA would have 
+
+
+expected that half of this dose, 612.5mg, was the R enantiomer, Compound 13.  
+
+
+(Id. at ¶83.)  This is within the dose range of claim 1. 
+
+
+The ’582 Publication further explains that “doses employed for adult human 
+
+
+treatment will typically be in the range of 0.02-5000 mg per day, or from about 1-
+
+
+1500 mg per day.”  (Ex. 1003 at [0399].)  This prior art dose range encompasses 
+
+
+the range claimed in claim 1 of the ’090 patent.  The Federal Circuit has previously 
+
+
+held that “[a] prima facie case of obviousness typically exists if the ranges of the 
+
+
+claimed composition overlap the ranges disclosed in the prior art.”  In re Peterson, 
+
+
+315 F.3d 1325, 1329 (Fed. Cir. 2003); Galderma Labs., L.P. v. Tolmar, Inc., 737
+35 
+
+
+F.3d 731, 738 (Fed. Cir. 2013) (“[W]here there is a range disclosed in the prior art, 
+
+
+and the claimed invention falls within that range, the burden of production falls 
+
+
+upon patentee” to establish the nonobviousness of the range.).  Unless the claimed 
+
+
+range is “critical” or is demonstrated that claimed method works differently at the 
+
+
+claimed range as compared to the prior art range, “there is no considerable 
+
+
+difference between the claimed range and the range in the prior art.”  ClearValue, 
+
+
+Inc. v. Pearl River Polymers. Inc., 668 F.3d 1340, 1345 (Fed. Cir. 2012).  During 
+
+
+patent prosecution of the ’090 patent, the applicant failed to demonstrate any 
+
+
+criticality of the claimed range over the prior art range. 
+
+
+4. Claim 2:  Wherein the once per day oral dose is about 560 
+mg 
+
+
+ 
+Claim 2 limits the dose to “once per day oral dose is about 560 mg.” As 
+
+
+explained above, NCT008849654 discloses a once daily oral dose of 17.5 
+
+
+mg/kg/day.  (Ex. 1002; see also Ex. 1021 at ¶¶84-85.)  When using the standard 70 
+
+
+kg man construct, this equates to 1225 mg/day of Compound 4, of which 
+
+
+Compound 13 constitutes 612.5 mg.  A 612.5 mg dose differs from the claimed 
+
+
+dose of 560 mg by less than 10%, and thus is “about” 560 mg/day.    
+
+
+Moreover, the ’090 patent says nothing about a 560 mg dose being preferred 
+
+
+or superior to any other disclosed dose.  For example, the ’090 patent also 
+
+
+discloses doses of 420 mg and 840 mg, but does not mention any difference in 
+
+
+safety or efficacy between the doses.  (Ex. 1001 at 3:14-18.)  Given that the patent
+36 
+
+
+expresses no preference for doses that are 140 mg and 280 mg different from 560 
+
+
+mg, there is no reason to believe that a 612.5 mg dose would function any 
+
+
+differently than a 560 mg dose.  The ’090 patent also says nothing about 560 mg 
+
+
+being critical to the invention.  Therefore, for this additional reason a POSA would 
+
+
+understand that 612.5 mg is “about 560 mg.” 
+
+
+Thus, the prior art discloses all of the elements of claims 1 and 2. 
+
+
+C. A POSA Would Have Had a Reasonable Expectation of Success 
+
+
+A showing that a POSA would have had a reasonable expectation of success 
+
+
+in carrying out the claimed method strengthens the obviousness analysis.  (Ex. 
+
+
+1021 at ¶¶89-97.)  A reasonable expectation of success does not require conclusive 
+
+
+proof or certainty of success.  Hoffmann La Roche, Inc. v. Apotex Inc., 748 F.3d 
+
+
+1326, 1331 (Fed. Cir. 2014) (“Conclusive proof of efficacy is not necessary to 
+
+
+show obviousness.  All that is required is a reasonable expectation of success.”); In 
+
+
+re O’Farrell, 853 F.2d 894, 903-04 (Fed. Cir. 1988) (absolute predictability not 
+
+
+required).  Nor does “evidence of superior efficacy . . . undercut a showing that 
+
+
+there was a reasonable expectation of success . . . .”  Hoffmann La Roche, Inc., 748 
+
+
+F.3d at 1334 (finding patented invention invalid as obvious and stating that while 
+
+
+the evidence showed the patented invention has superior efficacy such superior 
+
+
+efficacy did not negate the showing that there was a reasonable expectation of 
+
+
+success).  Even in unpredictable arts, “obviousness cannot be avoided simply by a
+37 
+
+
+showing of some degree of unpredictability in the art so long as there was a 
+
+
+reasonable probability of success.”  Pfizer, Inc. v. Apotex, Inc., 480 F.3d 1348, 
+
+
+1364 (Fed. Cir. 2007); see also In re O’Farrell, 853 F.2d at 903.  
+
+
+Here, a POSA would have had a reasonable expectation of success that 
+
+
+Compound 13 would treat patients with MCL at the claimed doses.  (Id. at ¶90.)  
+
+
+NCT00849654 discloses doses that would be expected to be useful in “treating” 
+
+
+the disease. (Ex. 1002.)  The 2009 Press Release further touts PCI-32765 as a 
+
+
+“potential treatment for patients with relapsed or refractory B-cell non-Hodgkin’s 
+
+
+lymphoma (NHL).”  (Ex. 1004.)  The 2009 Press Release further notes that the 
+
+
+“Phase I trial [with PCI-32765] shows good patient tolerability under conditions of 
+
+
+Btk-drug occupancy with potent bioactivity in targeted cell populations derived 
+
+
+from B-cell lymphoma patients.”  (Id.)  
+
+
+The ’582 Publication clearly suggested Compound 13 and its use to inhibit 
+
+
+Btk in patients with B – cell NHL, including “mantle cell lymphoma.”  (Ex. 1003 
+
+
+at [0036].)  Knowing this, a POSA would have also had a reasonable expectation 
+
+
+that Compound 13, the R-enantiomer of Compound 4 would work just as well as 
+
+
+Compound 4 in this regard, if not better.  (Id. at ¶95.) 
+
+
+D. The Claimed Method Would Have Been Obvious to Try 
+
+
+At the very least, a POSA would have found it obvious to try to use 
+
+
+Compound 13 for the treatment of relapsed or refractory B-cell NHL, including
+38 
+
+
+MCL, at the claimed doses.  A method with a finite number of identified, 
+
+
+predictable solutions that is obvious to try based on the prior art is also likely to be 
+
+
+obvious.  Bayer Schering Pharma AG v. Barr Labs., Inc., 575 F.3d 1341, 1347-48 
+
+
+(Fed. Cir. 2009); In re Kubin, 561 F.3d 1351, 1359-60 (Fed. Cir. 2009).  Indeed, 
+
+
+“[m]ost inventions that are obvious are also obvious to try.”  Bayer Schering 
+
+
+Pharma AG, 575 F.3d at 1347.  The only exception to this rule is where the prior 
+
+
+art is vague such that it does not guide the inventor toward the solution or where a 
+
+
+POSA would be required ‘“to vary all parameters or try each of numerous possible 
+
+
+choices until one possibly arrived at a successful result, where the prior art gave 
+
+
+either no indication of which parameters were critical or no direction as to which 
+
+
+of many possible choices is likely to be successful . . . .”’  Id.; In re Kubin, 561 
+
+
+F.3d at 1359.  Neither exception applies here. 
+
+
+At the time of the ’090 Patent there was a recognized need for a therapy to 
+
+
+treat relapsed or refractory B-cell NHL, including MCL.  That need was clear to 
+
+
+POSAs treating the disease and was documented in prior art such as the 2009 Press 
+
+
+Release. (Ex. 1004.)  The Patent Owner provided a POSA with a finite number of 
+
+
+predictable solutions for the need.  Specifically, the 2009 Press Release explains 
+
+
+that it had a compound, PCI-32765, that showed tolerability and efficacy in human 
+
+
+patients with refractory or relapsed B-cell NHL.  (Id.)  In the ’582 Publication, the 
+
+
+Patent Owner identified a list of 12 compounds, the best of which was Compound
+39 
+
+
+13.  Finally, NCT0084964 revealed important dosing guidance for PCI-32765.  
+
+
+Thus, a POSA would have tried Compound 13 for the treatment of refractory or 
+
+
+relapsed MCL at the doses prescribed in NCT0084964. 
+
+
+E. There are No Secondary Considerations Rebut Obviousness  
+
+
+Petitioner is unaware of any secondary considerations of non-obviousness 
+
+
+that would rebut a finding of the obviousness of claims 1-2 of the ’090 Patent.  
+
+
+(Ex. 1021 at ¶¶98-102.)  During prosecution the examiner issued a final office 
+
+
+action rejecting patentee’s application under 35 U.S.C. § 103.  (Ex. 1018 at 3.)  In 
+
+
+response the applicant did not address the substantive teachings of the art identified 
+
+
+by the examiner, but instead changed the focus to the clinical results achieved by 
+
+
+the claimed method.  (Ex. 1019 at 5.)  In particular, the applicant presented data 
+
+
+from a clinical study involving the treatment of MCL with ibrutinib and compared 
+
+
+the results with a prior therapy.  The applicant argued that compared to the prior 
+
+
+therapy, the claimed method exhibited “remarkable clinical results” and that “such 
+
+
+results were unexpected.”  (Id.)  The examiner bought the applicants’ unexpected 
+
+
+results argument and allowed the claims on that basis.  (Ex. 1020.) 
+
+
+The applicant’s reliance on such results is misplaced because those results 
+
+
+are entitled to no patentable weight for at least two reasons.  First, for unexpected 
+
+
+results to be probative of nonobviousness, they must be in comparison to the 
+
+
+closest prior art.  In re Baxter Travenol Labs, 952 F.2d 388, 392 (Fed. Cir. 1991)
+40 
+
+
+(explaining “the results must be shown to be unexpected compared with the closest 
+
+
+prior art”); Pfizer, 480 F.3d at 1370-71 (holding that unexpected results must be 
+
+
+compared to closest prior art compound, noting that the district court had little, if 
+
+
+any, evidence to support its conclusion that amlodipine maleate was the closest 
+
+
+prior art compound, and finding patent invalid as obvious).  During prosecution, 
+
+
+the applicant compared the claimed method to an existing treatment that was not 
+
+
+the closest prior art.  The closest prior art is Compound 13 (ibrutinib) itself for use 
+
+
+in treating relapsed or refractory B-cell NHL, including MCL, and not some other 
+
+
+existing therapy.  The Patent Owner cannot show unexpected results under the 
+
+
+proper comparison because the closest prior art results would be the same as the 
+
+
+results achieved by patented method.  In other words, the use of ibrutinib to treat 
+
+
+MCL in the claims of the ’090 Patent cannot be unexpectedly superior to the use of 
+
+
+ibrutinib to treat relapsed or refractory MCL as disclosed in the prior art. The ’090 
+
+
+Patent merely claims a known utility for Compound 13—treatment of MCL. That 
+
+
+known utility therefore cannot be unexpected.  AbbVie, 764 F.3d 1011-12.  
+
+
+Second, the alleged unexpected results are an inherent result of a known 
+
+
+method. “Newly discovered results of known processes directed to the same 
+
+
+purpose are not patentable because such results are inherent.”  Bristol-Myers 
+
+
+Squibb Co. v. Ben Venue Labs., 246 F.3d 1368, 1376 (Fed. Cir. 2001); see also, 
+
+
+e.g., In re Huai-Hung Kao, 639 F.3d 1057, 1069 (Fed. Cir. 2011) (an inherent
+41 
+
+
+property adds nothing of patentable consequence); King Pharms., Inc. v. Econ 
+
+
+Labs., Inc., 616 F.3d 1267, 1275 (Fed. Cir. 2010) (“[M]erely discovering and 
+
+
+claiming a new benefit of an old process cannot render the process again 
+
+
+patentable.  Such newly discovered benefits are not patentable because they are 
+
+
+inherent in the prior art.”).  Indeed the Federal Circuit has specifically held that the 
+
+
+efficacy of a method of treatment with a drug “is inherent carrying out the claim 
+
+
+steps.”  In re Montgomery, 677 F.3d at 1381-1382 (“even if the claim includes 
+
+
+efficacy requirement, efficacy is inherent carrying out the claim steps.”) 
+
+
+Whether a property or result is inherent not only applies to anticipation, but 
+
+
+also to obviousness.  In re Huai-Hung Kao, 639 F.3d at 1070; Santarus, Inc. v. Par 
+
+
+Pharm., Inc., 694 F.3d 1344, 1354 (Fed. Cir. 2012) (holding “an obvious 
+
+
+formulation cannot become nonobvious simply by administering it to a patient and 
+
+
+claiming the resulting serum concentrations”); Emi Group N. Am. v. Cypress 
+
+
+Semiconductor Corp., 268 F.3d 1342, 1350-51 (Fed. Cir. 2001) (discussing 
+
+
+inherency in the context of anticipation and obviousness); see also In re Alford, 
+
+
+300 F.2d 929, 931, 933 (C.C.P.A. 1962) (affirming Examiner’s obviousness 
+
+
+rejection and agreeing with Examiner that an “unexpected result is not considered 
+
+
+persuasive since the result set forth by applicant is inherent in the obvious 
+
+
+combination of the references and hence does not confer patentability on the 
+
+
+claimed combination”).
+42 
+
+
+Here, as explained above, the prior art renders the claimed method obvious. 
+
+
+A POSA would have expected that the administration of Compound 13 would be 
+
+
+useful in “treating” relapsed or refractory MCL.  The degree of the clinical results 
+
+
+achieved in patients is simply the natural and necessary consequence of performing 
+
+
+this obvious method.  (Ex. 1021 at ¶101).  To the extent such a method produces 
+
+
+the claimed “unexpected results,” so does the prior art.  (Id.) 
+
+
+Whether those skilled in the art would have recognized or appreciated the 
+
+
+extent of the efficacy is of no moment.  Emi Group N. Am., 268 F.3d at 1351 (“A 
+
+
+person of ordinary skill does not need to recognize that a method or structure 
+
+
+behaves according to a law of nature in order to fully and effectively practice the 
+
+
+method or structure.”); MEHL/Biophile Int'l Corp. v. Milgraum, 192 F.3d 1362, 
+
+
+1365-66 (Fed. Cir. 1999); see also In re Huai-Hung Kao, 639 F.3d at 1070.  The 
+
+
+express teachings of the relevant prior art render the claimed method of treating 
+
+
+refractory MCL with ibrutinib obvious, and the alleged unexpected results are 
+
+
+inherent to the method and add nothing of patentable consequence. 
+
+
+Finally, when faced with a final rejection during prosecution, the applicant 
+
+
+did not allege any secondary considerations other than the “unexpected results” 
+
+
+addressed above. (Ex. 1013 at 5.)  The Petitioner is unaware of any arguments or 
+
+
+evidence supporting secondary considerations of non-obviousness.  Further, any 
+
+
+secondary considerations asserted by the patent owner here would not be sufficient
+43 
+
+
+to overcome the strong case of obviousness set forth above.  Indeed, the claimed 
+
+
+subject matter is nothing more than the predictable use of a known compound 
+
+
+having a known function. This overcomes any evidence of secondary 
+
+
+considerations. See Pfizer, Inc., 480 F.3d at 1372. 
+
+
+IX. CONCLUSION 
+
+
+For at least the reasons given above, claims 1 and 2 of the ’090 Patent are 
+
+
+unpatentable because they are anticipated by and are obvious over the prior art. 
+
+
+Petitioner respectfully requests that the Board institute an Inter Partes Review of 
+
+
+claims 1 and 2 on the grounds of obviousness set forth above.  
+
+
+
+
+
+    Respectfully submitted,  
+
+
+Date:   April 20, 2015 By: /Jeffrey S. Ward/ 
+Jeffrey S. Ward (Reg. No. 32,774) 
+MERCHANT & GOULD, P.C. 
+10 E. Doty Street 
+Suite 600 
+Madison, WI  53703-3376 
+Telephone: (608) 280-6751 
+FAX: (612) 332-9081 
+ 
+Counsel for Petitioner
+44 
+
+
+CERTIFICATE OF SERVICE ON PATENT OWNER 
+ 
+ 
+
+
+Pursuant to 37 C.F.R. § 42.6(e), the undersigned certifies that on the 1st 
+
+
+day of April, 2015, a complete and entire copy of this Petition for Inter Partes 
+
+
+Review Under 37 C.F.R. §42.100, alongside an accompanying Power of Attorney, 
+
+
+Appendix of Exhibits, and Exhibits 1001-1023, were provided via electronic mail 
+
+
+and UPS, postage prepaid, to the Patent Owner by serving the correspondence 
+
+
+address of record for the ’886 patent. 
+
+
+Attorney of Record 
+Attn:  Michael J. Hostetler, Ph.D. 
+Wilson Sonsini Goodrich & Rosati 
+650 Page Mill Road 
+Palo Alto, CA 94303 
+mhostetler@wsgr.com 
+ 
+ 
+
+
+Respectfully submitted, 
+ 
+MERCHANT & GOULD P.C. 
+ 
+
+
+  BY:  /Jeffrey S. Ward/      
+Jeffrey S. Ward (Reg. No. 32,774) 
+MERCHANT & GOULD, P.C. 
+10 E. Doty Street 
+Suite 600 
+Madison, WI  53703-3376 
+Telephone: (608) 280-6751 
+FAX: (612) 332-9081

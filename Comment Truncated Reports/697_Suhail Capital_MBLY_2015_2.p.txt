@@ -1,0 +1,626 @@
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 1/22
+
+
+Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg
+Dec. 21, 2015 12:05 PM ET33 comments
+by: Suhail Capital
+
+
+Summary
+
+
+The Tesla/GeoHot Incident is largely irrelevant to near-term operating business, but
+puts major dent in technological mystique around the name.
+
+
+GeoHot, Autopilot, and other developments leading us to believe semi-autonomous
+ambitions likely to suffer setback/take back seat to full autonomous road maps.
+
+
+This benefits competing technologies like LIDAR and High Precision maps which are
+already seeing ramping adoption at expense of Mobileye.
+
+
+Wall Street will need to rethink their out year models, and long-term asp projections
+on the name.
+
+
+Stock now ironically more of a valuation outlier as high growth tech IPO mania has
+completely died and broader tech beta valuations have drastically come in.
+
+
+Any sufficiently advanced technology is indistinguishable from magic" - Arthur C.
+Clark
+
+
+Last week's Bloomberg Article on George Hotz stirred up some serious controversy in the
+self-driving vehicle space. While the main controversy centered on Tesla (NASDAQ:TSLA)
+and Mobileye's (NYSE:MBLY) supplier relationship with respect to the former's Autopilot
+system, we believe this incident has opened the door to a much more interesting debate
+about where this whole space is heading. As we have not commented on Mobileye since
+our initial report, we thought this would be a good time to update our views on our short
+thesis and address recent developments in the space.
+
+
+So what's all the ruckus about?
+
+
+Well, as far as the market is concerned, the main controversy centered around a
+Bloomberg article/interview in which famed hacker George Hotz shared his own self-
+driving hack as well as disclosed that he had been approached by Elon Musk to work on
+displacing Mobileye's technology in-house at Tesla. This was followed by a tweet from
+Citron Research highlighting Mobileye as their short of the year for 2016. The combination
+of the two led to a prompt drop in Mobileye's stock price. The next day Tesla responded
+
+
+
+http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/
+
+https://seekingalpha.com/symbol/TSLA
+
+https://seekingalpha.com/symbol/MBLY
+
+https://seekingalpha.com/article/3445726-mobileye-a-very-compelling-short-thesis
+
+https://twitter.com/CitronResearch/status/677162622416891904
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 2/22
+
+
+with your expected damage control 'correction' corporate statement that took some shots
+at what Hotz has accomplished, and defended their supplier relationship. This was
+naturally complemented by several immediate sell-side analyst defenses of Mobileye, and
+a brief but limited bounce in the share price. Pretty much your typical growth stock
+controversy market scenario as far as relevant stock moving news goes. We went from a
+hacker in a garage is going to displace Mobileye at Tesla and maybe bring down their
+whole business on Wednesday, to what he accomplished can be done by any one of
+Mobileye's CTO Professor Amnon Shashua's computer science students and that Tesla
+still loves Mobileye by Thursday. That market pendulum sure loves to swing!
+
+
+Now strip emotions out and let's just focus on the facts here.
+
+
+1. Hotz hacked an Acura in his garage and has built some form of a functioning autopilot
+that is highly AI direct perception driven in its approach, and he took direct shots at
+Mobileye's technology calling it a 'joke' and 'outdated'
+
+
+2. Elon Musk was impressed enough with what he's doing to offer him a job with the aim
+of discontinuing Mobileye's technology at Tesla as his primary goal.
+
+
+That's it as far as we are concerned.
+
+
+Well, with respect to point #1, it is clear Hotz is not putting Mobileye out of business
+anytime soon with his hack, and his system is so premature it would be ridiculous for
+anyone to draw conclusions about Mobileye's future based on what was provided in the
+interview. All we have here is the impressive work of a clearly bright and highly motivated
+individual with a track record of 'figuring things out'. There is one big caveat here, and
+that's that ever since Mobileye went public, Wall Street has gone out of its way to
+hype up their technology. There is an aura of mystique around the company that
+has at times bordered on the ridiculous. The type of ridiculous that leads to sell-
+side models in which Mobileye's ASPs are double what they are today 25 years
+from now! Hotz, with his public persona, just put a major dent in that mystique.
+Which is ironic because there is essentially an entire industry of traditional ADAS vision
+engineers who can demystify this in a few minutes. Or AI vision focused autonomous
+driving experts as far away as China who make bold claims like Hotz. This is the problem
+with being the very public leader in a space, and a hot tech IPO. On one end you have a
+target on your back, and the other end you have people who are not satisfied just selling
+your very good story. They need to create a better one. Mobileye clearly has that problem.
+Their initial business model was about NOT BEING CUTTING EDGE. They took a
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 3/22
+
+
+cheaper, quicker, we will find a way to make it work approach to get the mass market and
+be the leader. Business model wise how can you fault that? But reading about 500 people
+in Sri Lanka validating images doesn't sell 100x revenue stocks.
+
+
+As for point #2, this story obviously would not have gotten the coverage it received if it
+weren't for the fact that Hotz revealed he got Elon Musk's attention with his work. The
+Tesla 'correction' which we will get to in a moment does not deny that he was offered a job
+to work on replacing Mobileye with in-house developed technology. This is again not
+interesting news because of any remotely material financial impact on Mobileye's
+immediate business model, but because of the dent it puts into the Wall Street created
+Mobileye mystique. Think about it, Tesla sells 10-15k cars a quarter, annualized that works
+out to about 1% of the EyeQ chips Mobileye will ship this year. Financially speaking
+Mobileye could never do business with Tesla again, and it wouldn't impact their bottom line
+in the least bit. But then why was Tesla mentioned like 20 times on the last Mobileye
+conference call? The answer to that question is not complicated; Tesla has the most
+technological mystique of any publicly traded company in this market. Mobileye by virtue
+of being a key component supplier in their autopilot system has decided to marry
+themselves to that mystique. But the problem is that Tesla is Tesla, and they are not in the
+business of giving anyone else credit for what they are doing. This has been clear
+throughout the entire relationship as Musk has gone out of his way to emphasize the
+proprietary nature of his company's self-driving ambitions (and their correction response
+gets into this as they continued to stress their whole sensor suite and more importantly
+that Tesla's fleet learning algo improvement has zero to do with Mobileye). Do you think
+Tesla is going to dedicate the resources to replace Mobileye's tech to save 20-30$ a
+chip down the road? Not a chance. Thus, to us the real notable news here is that
+Hotz has confirmed what many of us already suspected, Musk thinks he can do it
+better. Not exactly a shocker considering how much press Autopilot has gotten and
+how outspoken he is on autonomous driving ambitions. What is shocking is that he
+only offered a multi-million dollar bonus to replace the technology of a Tier 2 sensor
+provider that was as of a few months ago being valued at nearly 65% of Tesla's
+market capitalization.
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 4/22
+
+
+Combine this news with Musk's tweets a few weeks ago about software hires for the
+autopilot team, and you don't exactly come out with a ringing endorsement for Mobileye's
+current share price. Anyway, that's our direct take on this Tony Stark-esque incident, now
+onto the more interesting stuff.
+
+
+Tesla's Autopilot and GeoHot's Hacked Acura Raise Much More Interesting Future
+Questions About The Viability Of Semi-Autonomous Driving
+
+
+Tesla's correction of the Bloomberg article emphasized the unique software nature of their
+autopilot, the multiple sensors involved, and did some PR damage control by touting
+Mobileye as the best at what they do. This was all pretty much expected stuff considering
+the headline grabbing nature of what transpired the day before. What did however
+surprise us was Tesla's decision to criticize Hotz's project for its obvious limitations.
+
+
+Specifically, they wrote this:
+
+
+We think it is extremely unlikely that a single person or even a small company that lacks
+extensive engineering validation capability will be able to produce an autonomous driving
+system that can be deployed to production vehicles. It may work as a limited demo on a
+known stretch of road -- Tesla had such a system two years ago -- but then requires
+enormous resources to debug over millions of miles of widely differing roads.
+
+
+This is the true problem of autonomy: getting a machine learning system to be 99%
+correct is relatively easy, but getting it to be 99.9999% correct, which is where it ultimately
+needs to be, is vastly more difficult. One can see this with the annual machine vision
+
+
+
+https://static.seekingalpha.com/uploads/2015/12/21/saupload_MBLYNew1.jpg
+
+https://twitter.com/elonmusk/status/667516705116065792
+
+https://www.teslamotors.com/support/correction-article-first-person-hack-iphone-built-self-driving-car
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 5/22
+
+
+competitions, where the computer will properly identify something as a dog more than
+99% of the time, but might occasionally call it a potted plant. Making such mistakes at 70
+mph would be highly problematic.
+
+
+So, Hotz is essentially taking an approach that involves building and testing a system with
+simplified code predicated on outright direct perception learning from actual human
+driving, and Tesla is criticizing him for the potential risks involved in doing such a thing
+without extensive validation capabilities. Yet, here is Tesla, with its 'extensive engineering
+validation capabilities', sticking its definitely not 99.9999% reliable yet Autopilot system in
+the hands of 40,000 eager consumers. What's more concerning Hotz's machine
+learning system confusing a dog for a potted plant with him behind the wheel
+building out his capabilities and collecting data, or 1/40,000 amped up Model S
+driver engaging Tesla Autopilot and failing to react when the car misses a lane
+marking and decides to accelerate towards oncoming traffic?
+
+
+We wonder what Google (NASDAQ:GOOG) (NASDAQ:GOOGL) thinks about all of this as
+they have taken the painstakingly slow and safe approach here versus Tesla who brought
+(albeit quite impressively so far) Autopilot to market in less than two years.
+
+
+Here is what they had to say about the flaws of semi-autonomy in their most recent
+monthly self-driving car project update:
+
+
+People didn't pay attention like they should have. We saw some silly behavior, including
+someone who turned around and searched the back seat for his laptop to charge his
+phone -- while travelling 65mph down the freeway! We saw human nature at work: people
+trust technology very quickly once they see it works. As a result, it's difficult for them to dip
+in and out of the task of driving when they are encouraged to switch off and relax. We did
+spend some time thinking about ways we could build features to address what is often
+referred to as "The Handoff Problem" -- keeping drivers engaged enough that they can
+take control of driving as needed. The industry knows this is a big challenge, and they're
+spending lots of time and effort trying to solve this. One study by the Virginia Tech
+Transportation Institute found that drivers required somewhere between five and eight
+seconds to safely regain control of a semi-autonomous system. In an NHTSA study
+published in August 2015, some participants took up to 17 seconds to respond to alerts
+and take control of the vehicle -- in that time they'd have covered more than a quarter of a
+mile at highway speeds. There's also the challenge of context -- once you take back
+control, do you have enough understanding of what's going on around the vehicle to make
+the right decision? In the end, our tests led us to our decision to develop vehicles that
+could drive themselves from point A to B, with no human intervention. (We were also
+
+
+
+https://seekingalpha.com/symbol/GOOG
+
+https://seekingalpha.com/symbol/GOOGL
+
+https://static.googleusercontent.com/media/www.google.com/en/selfdrivingcar/files/reports/report-1015.pdf
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 6/22
+
+
+persuaded by the opportunity to help everyone get around, not just people who can drive.)
+Everyone thinks getting a car to drive itself is hard. It is. But we suspect it's probably just
+as hard to get people to pay attention when they're bored or tired and the technology is
+saying "don't worry, I've got this...for now."
+
+
+Kind of hard to disagree with their concerns, and it seems they are not alone. BMW's CEO
+took a shot at Tesla's autopilot, dubbing it an 'app industry' approach that doesn't comport
+with the automotive space where you need to launch a car that is 100% reliable versus
+simply putting out something that can be done but definitely not completely ready to be put
+in the hands of consumers yet. Ford (NYSE:F) has also decided to skip Level 3 Semi-
+Autonomy and move right to Level 4, and word is other automakers are starting to
+consider the same thing. The growing consensus is, generally speaking, focusing on an
+HMI to address the human problem in level 3 semi-autonomy is simply not worth the risk,
+and that resources are better spent focusing on Level 4 or in Google's and some other
+cases complete Level 5 autonomy.
+
+
+So why bring this up here?
+
+
+We personally love what Tesla is doing, and for that matter what Hotz is trying to do. Can
+you imagine Uber (UBER) retrofitting an entire fleet of their cars with his technology?
+What do you think that would do for advancing AI trained driving vision systems? The
+problem is we are now much more confident that this experimenting is either going to end
+or be brought under a very tight regulatory leash. Tesla is already dialing back on the
+Autopilot by bringing restrictions to its new upgrade which we have no doubt are going to
+anger a lot of vocal Model S owners who paid $3,000 for what right now can best be
+described as a unique gadget whose owners love showing off and tinkering with it, and
+are always one unfortunate catastrophic accident away from a media and industry
+firestorm. We also imagine it is a matter of time before the inevitable regulatory backlash
+regarding Hotz's hacking gains steam. How long before some politician starts making a
+name with the, 'we can't just have 20-somethings building self-driving cars in their garage
+and then putting them on public highways can we' message? A couple months max? No
+matter how you cut it, we are quite confident that the self-driving space is
+approaching a critical turning point. There is going to be a lot more structure, and
+we are confident the big loser in all of this will be those with near term semi-
+autonomous ambitions. We also think this changes the game for the technologies
+involved on the road to full autonomy, and who the winners might end up being
+there. With less focus on incremental near term semi-autonomous features, we
+expect a lot more focus to shift towards LIDAR, high precision GPS, and V2V
+
+
+
+http://bgr.com/2015/12/04/tesla-autopilot-software-incomplete-says-bmw/
+
+https://seekingalpha.com/symbol/F
+
+http://www.wired.com/2015/11/ford-self-driving-car-plan-google/
+
+https://seekingalpha.com/symbol/UBER
+
+http://www.teslarati.com/tesla-beta-firwmare-7-1-adds-autopilot-restrictions/
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 7/22
+
+
+communication. In particular, we expect LIDAR to be a big beneficiary. Prices have
+already come down drastically with Veldoyne expected to ship sub $500 systems in the
+first quarter of 2016 and Quanergy launching a $250 solid state system next month. As
+more automobile companies focus on Level 4 and Level 5 roadmaps, we expect LIDAR
+and high precision GPS adoption to accelerate. This isn't just speculation on our part; at a
+recent industry conference, Delphi's CTO stated, "We found as we looked at the data that
+LIDAR is going to be instrumental, we think, to fully automated future vehicles." Then you
+have Mercedes which had seemingly been confident that they can do without LIDAR
+changing their tune by making investments in the space. The much talked about Nissan
+Piloted Drive relies on a specially developed high spec miniature laser scanner to allow
+the car to weave through tight spaces.
+
+
+How Does This All Impact Mobileye?
+
+
+Well, on one end there is a degree of good news here as automakers will probably focus
+more on their near term ADAS plans where Mobileye is a dominant and well positioned
+player. The bad news is that Mobileye's almost religious argument for a mono vision
+dominated autonomous future is clearly dead on arrival. The related sensor tech is just
+going to be way too cheap and way too reliable by the time these cars start hitting the
+road, and thus Mobileye will be a smaller piece of the pie. Not the biggest deal until you
+look at sell-side models like the recent Evercore report which has Mobileye ASPs rising to
+over $100 in 2040.
+
+
+Why Is the Sell-Side So Stubborn On This Name?
+
+
+Honestly, reading sell-side research on Mobileye makes us cringe. It's as if their goal in life
+is to drive unwitting investors to lose money on this stock. Below is the change in Mobileye
+short interest since we published our report in mid-August.
+
+
+
+https://www.washingtonpost.com/news/innovations/wp/2015/12/04/the-75000-problem-for-self-driving-cars-is-going-away/
+
+http://www.autonews.com/article/20151026/OEM06/310269985/delphi-quanergy-team-up-on-low-cost-lidar
+
+http://www.autonews.com/article/20151023/OEM04/151029922/nissans-prototype-leaf-tests-new-autonomous-technology
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 8/22
+
+
+You'd think this would get some of these geniuses on the sell-side to back off a bit, but that
+has not been the case.
+
+
+For example, how can you not cringe when you read comments like this:
+
+
+"Even though machine perception is likely to be commoditized over next few years, each
+successive moat may be even wider."-Evercore, MBLY DEC 7
+
+
+So, they have a 4-7 year lead in deep learning, and a potential inestimable lead in artificial
+super human intelligence down the road. Mobileye hadn't even mentioned the phrase
+deep learning until Drive PX popped onto the scene, and all of a sudden they are
+untouchable here? Do you think this analyst spoke to anyone outside of Mobileye's CTO
+in the AI Driving Vision space because we can tell him there are some people in the field
+who would die laughing after reading such a statement. Who are we to judge these
+engineers, as we are not AI experts. All we can say is that Hotz thinks their technology is
+a 'joke' and he's made AI his life obsession for the past few years. Maybe just maybe
+there is a middle of the road that doesn't essentially require stating:
+
+
+Mobileye's main source of revenue for the next three to four years will be
+commoditized, but they will dominate cutting edge future technology I have little
+understanding of for the coming twenty years!!
+
+
+
+https://static.seekingalpha.com/uploads/2015/12/21/saupload_MBLYNew2.jpg
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 9/22
+
+
+We do often wonder what it is about growth darlings that makes analysts never ever want
+to back down. Consider the fact that several analysts are willing to concede Mobileye will
+see serious commoditization pressure in ADAS, and some are even of the view that ADAS
+adoption rates could disappoint. Yet, they all seem to have these elaborate projections for
+autonomous/semi-autonomous future domination as well as strong views on said
+technology today. You think any of these guys realize that in the time since we published
+on Mobileye our Nvidia (NASDAQ:NVDA) long actually outperformed our Mobileye short.
+Literally, Nvidia shares are up over 50% versus a 35% decline in Mobileye. There is
+essentially no material news out of Nvidia and yet the world's leading GPU maker rerated
+up 50% in the span of months. Yet, here they are all still pounding away on MBLY stock,
+and having to defend it from threats from 26-year-old whiz kid garage hackers. This to us
+is remarkable, and here is why.
+
+
+Consider for a second that we are completely wrong with respect to our views on semi-
+autonomous driving, and Mobileye's future role as a dominant sensor in autonomous
+driving. We are willing to accept that and despite our rapidly rising conviction here
+acknowledge a probability of being proven wrong on this topic. Certainty here is extremely
+difficult to achieve even if you start to see evidence of a strong thesis materializing, yet
+this doesn't seem to give most sell-siders pause. Meanwhile they seem much less
+interested in current developments in the space that have a greater bearing on Mobileye's
+prospects or for that matter doing a better job of explaining what it is the company actually
+does.
+
+
+One thing that still bothers us a lot is this general view of Mobileye as some sort ADAS OS
+that the Tier 1's simply buy and presto achieve functionality once they plug it into a
+camera. Tesla has gone to great lengths to shed the off-the-shelf product view with
+
+
+
+https://static.seekingalpha.com/uploads/2015/12/21/saupload_MBLYNew3.jpg
+
+https://seekingalpha.com/symbol/NVDA
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 10/22
+
+
+respect to their ADAS, but that doesn't mean the others don't also feel the same way.
+Mobileye provides vision algorithms on a chip, they do not do the complex control system
+integration. Yet, we can't recall a single report that has gone to great lengths to explain
+what this means. There is a reason the Tier 1's working with Mobileye still hire teams of
+vision algorithm engineers and product feature development engineers, and often work
+with related contract manufacturers to develop their complex ADAS systems. Also all
+these players have invested heavily in sensor fusion capabilities to develop the related
+ECUs, and in many cases in related automobile vision technology capabilities that they
+are doing in-house despite using Mobileye.
+
+
+To put the recent hoopla around GeoHot's hack in perspective, just consider the below
+project description from an employee at Mobileye's largest Tier 1 customer TRW for a
+rear-camera AEB system for a model 2018 year launch.
+
+
+Technical Specialist, Camera & Radar
+
+
+TRW
+
+
+June 2014 - January 2015 (8 months)
+
+
+I was the lead embedded algorithm engineer developing an intelligent rear-view
+camera to detect and classify objects behind a passenger car. This safety sensor
+activates automatic braking to prevent the vehicle from impacting objects during
+backup maneuvers. I designed the machine vision algorithms and wrote embedded
+C code capable of real-time execution (30 frames per second) on a TI-TDA2x
+processor. I was the technical manager for a team of 4 contract engineers working in
+India. These engineers worked under my guidance developing other crucial
+components of this safety sensor. Intended for MY 2018, domestic passenger car
+production.
+
+
+Mobileye is supposedly planning on getting into rear AEB and surround view, yet here we
+have a team of four at Mobileye's largest customer developing the machine vision
+algorithms in-house on a TDA2X processor. Hmm, not exactly the type of stuff that quarter
+century monopolies are made of.
+
+
+What are we supposed to read into TRW's parent ZF Friedrichshafen's acquisition of the
+vision algorithm engineering software group of HDLE GmbH? These guys are supposedly
+developing the in-house surround view capabilities at ZF, where does that fit in with
+Mobileye down the road?
+
+
+
+https://www.linkedin.com/title/technical-specialist%2C-camera-%26-radar?trk=pprofile_title
+
+https://www.linkedin.com/company/zf-trw?trk=ppro_cprof
+
+https://visionsystemsintelligence.com/articles/zf-consolidates-expertise-for-semi-autonomous-driving
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 11/22
+
+
+And how about this recent pamphlet from ZF on Automated Driving which highlights
+stereo technology as well as mono?
+
+
+Or how about this recent job posting for an Image Processing Algorithm Engineer from
+another Mobileye Tier 1 partner Magna.
+
+
+Magna Electronics, an operating unit of Magna International, provides innovative
+electronic systems through manufacturing facilities and engineering divisions located all
+over the world. They design and supply the unique electronic components and sub-
+systems to meet future vehicle system needs.
+
+
+Major Responsibilities  
+• Development (design, implement, validate and debug) of state of the art camera based
+real time image processing and computer vision algorithms for Drive Assistance Systems
+(such as feature extraction & matching, tracking, object detection, calibration, distortion
+and perspective correction, zooming, overlays, brightness control, image transformation)
+from concept phase to production  
+• Definition, integration, testing, delivery and maintenance of automotive vehicle control
+software for applications  
+• Select and design the image processing and enhancement algorithm for the specific
+feature set. 
+• Benchmark competitor's solutions and determine best ways to improve or surpass the
+competition.  
+• Develop application image processing algorithm software to meet Systems Level
+Specifications. 
+• Work closely with systems engineers to develop algorithm requirements and designs.  
+• Support customer meetings as technical expert for camera-based image processing
+algorithms.
+
+
+Are we supposed to conclude they are building their own camera? Can we conclude they
+have no aspirations at any point down the road to do so?
+
+
+Our research presently indicates that is not the case, but then again we also don't expect
+current partners to advertise their future competitive road map plans to their existing
+suppliers. What we do know with confidence is that the Tier 1's are developing significant
+in-house vision algorithm development resources by the simple virtue of working with
+Mobileye. At the worst, this gives us conviction in the view that when combined with
+related competition this will continually exert downwards pressure on ASPs as ADAS
+
+
+
+https://www.zf.com/corporate/en_de/magazine/magazin_artikel_viewpage_22123624.html
+
+http://www.indeed.com/viewjob?jk=bbabf9c3a24d266f&qd=FvymPVm6ZAgBtOvgo0leYMx5HY0U7mEZRI2Rzib9KKrVNYmaATq5fKODiYIQOjekmMiw5jY_w5KRFdJE4I2M0LWBM2P5oVDuEqMd3Yjt9CeUPJxWlgWh7Nes2c1F7apIHY7E-nycAkvFo_9WqPAE0OoCFLMibOCEabUahnuewCk&chnl=ReeMatchPS&atk=1a303ugh15199fsu&jsa=2600&inchal=apiresults&utm_source=publisher&utm_medium=organic_listings&utm_campaign=affiliate
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 12/22
+
+
+adoption ramps. We've gone into this detail to prove a point about Wall Street analysts
+reading too much into things that don't matter and simultaneously speculating about future
+technology that clearly none of them understand.
+
+
+What we can tell you is there has been a whole bunch of stuff going on in the space
+worthy of keeping an eye on that gets virtually no sell-side coverage.
+
+
+Here is some reading for those who actually like to dig around. Note, almost all of this is
+during the past few weeks. For those looking for more, feel free to reach out to us.
+
+
+Hyundai Mobis considers developing chips for autonomous driving
+Recent job posting from Mobis for Stereo Camera and Mono Camera development
+projects
+Toshiba begins shipping their image processor to Denso
+Toyota invest 1 billion Yen in AI firm
+Blackberry and ADASWORKS announce partnership
+Baidu sets up autonomous car business unit
+Denso invests in deep learning image processing company
+
+
+Some Thoughts On The Stock Side Of Things
+
+
+This article really is meant to be about shorting Mobileye stock. We think we did a good
+enough job laying that out the first time around, and that's why we have kept silent on the
+matter since we first published. But to be clear ,our views on this short haven't changed
+much since our initial report, and we don't plan on getting into valuation here again. It is
+obviously less compelling at $40 than it was at $63, but that is not exactly saying much.
+The stock could fall another 50% from here, and this debate could simply be recycled for
+whether it's going to be heading to $10 or $30 from there.
+
+
+The news flow has kind of gone as we expected with the surprises so far being heavily
+weighted to the negative side. The Hotz/Musk incident definitely took us by surprise as
+you rarely expect to see such embarrassing headlines enter the public domain on a
+company like this. Add in our views on semi-autonomous going forward, our expectations
+for Mobileye ADAS volumes in 2016, and generally the worst tape we have seen for
+hyped growth tech stocks in five years and we guess you could say we are modestly more
+negative on the name now. The macro environment for these names has definitely crept
+up on us, as for the first time in a while there seem to be no fads in publicly listed high
+beta tech (that is assuming you don't view Amazon, Google, Netflix, Facebook as high
+beta tech). With that in mind we have a hard time seeing how the stock doesn't make it
+
+
+
+http://www.bloomberg.com/news/articles/2015-12-08/hyundai-motor-considers-developing-chips-for-autonomous-driving-ihx4qe75
+
+http://www.mobistc-europe.com/careers/current/12
+
+http://www.mobistc-europe.com/careers/current/11
+
+http://www.toshiba.co.jp/about/press/2015_10/pr0601.htm
+
+http://newsroom.toyota.co.jp/en/detail/10679722/
+
+http://www.qnx.com/news/pr_6288_1.html
+
+http://www.wsj.com/articles/baidu-joins-race-to-build-autonomous-cars-1449714601
+
+http://www.electronics-eetimes.com/en/denso-invests-into-image-processing-deep-learning.html?cmp_id=7&news_id=222926927
+5/23/2018 Mobileye: Tesla/GeoHot Controversy Just The Tip Of The Iceberg - Mobileye (NYSE:MBLY) | Seeking Alpha
+
+
+https://seekingalpha.com/article/3768736-mobileye-tesla-geohot-controversy-just-tip-iceberg 13/22
+
+

@@ -1,0 +1,4620 @@
+Paper No. ___ 
+Filed:  February 10, 2015 
+
+
+
+
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+____________________  
+
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD  
+___________________  
+
+
+ 
+COALITION FOR AFFORDABLE DRUGS (ADROCA) LLC 
+
+
+ 
+Petitioner 
+
+
+ 
+v.  
+ 
+
+
+ACORDA THERAPEUTICS, INC. 
+ 
+
+
+Patent Owner  
+ 
+
+
+___________________ 
+ 
+
+
+  Case No.: Not yet assigned 
+Patent No. 8,663,685 
+Filed: July 20, 2011 
+
+
+Issued: March 4, 2014 
+Inventors: Andrew R. Blight, Ron Cohen 
+
+
+Title: SUSTAINED RELEASE AMINOPYRIDINE COMPOSITION 
+___________________ 
+
+
+ 
+PETITION FOR INTER PARTES REVIEW 
+
+
+OF U.S. PATENT NO. 8,663,685
+Patent No. 8,663,685 
+ 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+I.  Introduction ..................................................................................... 1 
+
+
+II.  Grounds for Standing (37 C.F.R. § 42.104(a)) ........................................ 1 
+
+
+III.  Mandatory Notices (37 C.F.R. § 42.8) ................................................... 1 
+
+
+A.  Real Parties-In-Interest (37 C.F.R. § 42.8(b)(1)) ........................................... 1 
+
+
+B.  Related Matters (37 C.F.R. § 42.8(b)(2)) ..................................................... 2 
+
+
+C.  Lead and Back-Up Counsel (37 C.F.R. § 42.8(b)(3)) and Service 
+Information (37 C.F.R. § 42.8(b)(4)) .......................................................... 3 
+
+
+IV.  Payment of Fees (37 C.F.R. § 42.15(a) and § 42.103)) .............................. 3 
+
+
+V.  Identification of Challenge .................................................................. 4 
+
+
+A.  Overview of the ’685 Patent ..................................................................... 4 
+
+
+i.  The ’685 Patent and Related Applications ............................................. 4 
+
+
+ii.  The ’685 Patent Claims ....................................................................... 5 
+
+
+iii.  The ’685 Patent Prosecution History .................................................... 7 
+
+
+iv.  Summary of Selected Prosecution History of the Parent ’826 Patent ......... 9 
+
+
+B.  Level of Skill in the Art ......................................................................... 10 
+
+
+C.  Claim Construction of Challenged Claims ................................................ 11 
+
+
+D. Statements of Precise Relief Requested for Each Claim Challenged ............. 13 
+
+
+i.  Claims for which Review is Requested ................................................ 13 
+
+
+ii.  Statutory Grounds of Challenge ......................................................... 13 
+
+
+E.  Overview of State of the Art Providing Motivation to Combine for All 
+Grounds in the Petition ......................................................................... 15 
+
+
+i.  4-AP History and the State of the Relevant Art as of December 2002 ..... 15 
+
+
+ii.  Summary of the Petition’s Prior Art References ................................... 17 
+
+
+VI.  Detailed Explanation of Challenge ..................................................... 25 
+
+
+A.  Ground 1:  Claims 1–8 are invalid under 35 U.S.C. § 103(a) as obvious 
+over Goodman (Ex. 1008), in view of Hayes (Ex. 1009) and a POSA’s 
+knowledge. .......................................................................................... 25
+Patent No. 8,663,685 
+ 
+
+
+ii 
+
+
+i.  Claims 1 and 8 are Obvious under Ground 1 ....................................... 26 
+
+
+ii.  Claims 2–7 are Obvious under Ground 1 ............................................ 33 
+
+
+iii.  Ground 1 Claim Chart Showing Exemplary Citations from Goodman 
+(Ex. 1008), in view of Hayes (Ex. 1009) and POSA knowledge. ......... 35 
+
+
+B.  Ground 2:  Claims 1–4 and 6–8 are invalid under 103(a) as obvious over 
+Goodman (Ex. 1008) in view of Masterson (Ex. 1010) and POSA 
+knowledge. .......................................................................................... 43 
+
+
+i.  Claim Chart for Ground 2 Showing Exemplary Citations in Goodman 
+(Ex. 1008) and Masterson (Ex. 1010). ............................................. 47 
+
+
+C.  Ground 3:  Claims 6–7 are invalid under 35 U.S.C. § 103(a) as obvious 
+over Goodman (Ex. 1008) in view of Juarez (Ex. 1018). ............................. 53 
+
+
+i.  Claim Chart for Ground 3 Showing Exemplary Citations in Goodman 
+(Ex. 1008) and Juarez (Ex. 1018). .................................................. 55 
+
+
+VII.  Any secondary considerations are insufficient to overcome a finding that 
+claims 1–8 are obvious ..................................................................... 57 
+
+
+VIII.  CONCLUSION .............................................................................. 59
+Patent No. 8,663,685 
+ 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+
+
+
+Cases 
+
+
+Abbott Labs v. Andrx Pharms., Inc.,  
+452 F.3d 1331 (Fed. Cir. 2006) ..................................................................... 30 
+
+
+Bayer Schering Pharma AG v. Barr Labs., Inc.,  
+575 F.3d 1341 (Fed. Cir. 2009) ..................................................................... 26 
+
+
+Ex parte Gelles,  
+22 USPQ2d 1318 (Bd. Pat. App. & Inter. 1992) .............................................. 57 
+
+
+Hoffmann La Roche, Inc. v. Apotex Inc.,  
+748 F.3d 1326 (Fed. Cir. 2014) ..................................................................... 29 
+
+
+In re Aller,  
+220 F.2d 454 (CCPA 1955) .......................................................................... 17 
+
+
+In re Applied Materials, Inc.,  
+692 F.3d 1289 (Fed. Cir. 2012) ..................................................................... 17 
+
+
+In re Dill,  
+604 F.2d 1356 (CCPA 1979) ........................................................................ 59 
+
+
+In re Klosak,  
+455 F.2d 1077 (CCPA 1973) ........................................................................ 59 
+
+
+In re Merchant,  
+575 F.2d 865 (CCPA 1978) .......................................................................... 59 
+
+
+In re Zletz, 893 F.2d 319 (Fed. Cir. 1989) ........................................................... 12 
+KSR Int’l Co. v. Teleflex Inc.,  
+
+
+550 U.S. 398 (U.S. 2007) ........................................................... 26, 29, 30, 32 
+Par Pharm., Inc. v. TWi Pharms., Inc.,  
+
+
+773 F.3d 1186 (2014) .................................................................................. 47 
+Pfizer, Inc. v. Apotex, Inc.,  
+
+
+480 F.3d 1348 (Fed. Cir. 2007) ..................................................................... 31 
+Santarus, Inc. v. Par Pharm., Inc.,  
+
+
+694 F.3d 1344 (Fed. Cir. 2012) ..................................................................... 35 
+Sciele Pharma, Inc. v. Lupin Ltd.,  
+
+
+684 F.3d 1253 (Fed. Cir. 2012) ............................................................... 30, 32 
+Tyco Healthcare Group LP v. Ethicon Endo-Surgery, Inc.,  
+
+
+774 F.3d 968 U.S.P.Q.2d (BNA) 1979, 1987(Fed. Cir. 2014)............................. 48 
+Tyco Healthcare Grp. LP v. Mut. Pharm. Co.,  
+
+
+642 F.3d 1370 (Fed. Cir. 2011) ..................................................................... 31
+Patent No. 8,663,685 
+ 
+
+
+iv 
+
+
+Statutes 
+
+
+35 U.S.C. § 102(a) .......................................................................................... 13 
+35 U.S.C. § 102(b) ........................................................................ 18, 21, 23, 24 
+35 U.S.C. § 103........................................................................................ 13, 30 
+35 U.S.C. § 103(a) .............................................................................. 25, 46, 53 
+35 U.S.C. § 112.............................................................................................. 12 
+35 U.S.C. § 311.............................................................................................. 13 
+35 U.S.C. §§ 311–19 ......................................................................................... 1 
+
+
+Rules 
+
+
+37 C.F.R. § 42.100(b) ..................................................................................... 11 
+37 C.F.R. § 42.103 ........................................................................................... 3 
+37 C.F.R. § 42.104(a) ........................................................................................ 1 
+37 C.F.R. § 42.15(A)......................................................................................... 3 
+37 C.F.R. § 42.8 ............................................................................................... 1 
+37 C.F.R. § 42.8(b)(1) ....................................................................................... 1 
+37 C.F.R. § 42.8(b)(2) ....................................................................................... 2 
+37 C.F.R. § 42.8(b)(3) ....................................................................................... 3 
+37 C.F.R. § 42.8(b)(4) ....................................................................................... 3 
+37 C.F.R. §§ 42.100 .......................................................................................... 1 
+37 C.F.R. §§ 42.100 et seq. .................................................................................. 1 
+37 C.F.R. 42.103(a) .......................................................................................... 3
+Patent No. 8,663,685 
+ 
+
+
+v 
+
+
+TABLE OF EXHIBITS 
+
+
+Exhibit No. Description 
+
+
+Exhibit 1001 U.S. Patent No. 8,663,685 to Andrew R. Blight et al., titled 
+“Sustained Release Aminopyridine Composition” (“the ’685 Patent) 
+
+
+Exhibit 1002 U.S. Patent No. 8,007,826 to Andrew R. Blight et al., titled 
+“Sustained Release Aminopyridine Composition” (“the ’826 Patent) 
+
+
+Exhibit 1003 Reserved 
+
+
+Exhibit 1004 Reserved 
+
+
+Exhibit 1005 Jones et al., “Effects of 4-aminopyridine in patients with multiple 
+sclerosis,” J. Neurol. Sci., 60: 353–62 (1983) 
+
+
+Exhibit 1006 Stefoski et al., “4-Aminopyridine in multiple sclerosis: Prolonged 
+administration,” Neurology, 41:1344–48 (1991) 
+
+
+Exhibit 1007 van Diemen et al., “The effect of 4-aminopyridinc on the clinical 
+signs in multiple sclerosis: a randomized, placebo-controlled, double-
+blind, cross-over study,” Ann. Neurol., 32: 123–30 (1992) 
+
+
+Exhibit 1008 Goodman et al., Poster entitled “Placebo-controlled double-blinded 
+dose ranging study of fampridine-SR in multiple sclerosis” presented 
+at the 7th Annual Meeting of the Americas Committee for Treatment 
+and Research in Multiple Sclerosis and 19th Congress of the 
+European Committee for Treatment and Research in Multiple 
+Sclerosis (ACTRIMS/ECTRIMS) by Goodman et al. on September 
+18–21, 2002, Baltimore, Maryland 
+
+
+Exhibit 1009 Hayes et al., 2001, "Open-label, multiple-dose study to determine the 
+pharmacokinetics and safety of fampridine-SR (sustained-release 4-
+aminopyridine) in patients with chronic spinal cord injury," presented 
+to the American Neurological Association, Chicago, IL, Sept. 30–
+Oct. 3, 2001 (poster) 
+
+
+Exhibit 1010 U.S. Pat. No. 5,540,938 to Masterson, et al., titled “Formulations and 
+their use in the treatment of neurological diseases” (“the ’938 
+patent”) 
+
+
+Exhibit 1011 “Formulating for Controlled Release with METHOCEL Premium 
+cellulose ethers” (1997) by the Dow Chemical Company (“Dow”) 
+
+
+Exhibit 1012 Reserved 
+
+
+Exhibit 1013 Declaration of Samuel J. Pleasure, M.D., Ph.D.
+Patent No. 8,663,685 
+ 
+
+
+vi 
+
+
+Exhibit No. Description 
+
+
+Exhibit 1014 Information Disclosure Statement from ’685 patent dated October 
+31, 2011  
+
+
+Exhibit 1015 Information Disclosure Statement from ’685 patent dated June 7, 
+2012 
+
+
+Exhibit 1016 Information Disclosure Statement from ’685 patent dated October 1, 
+2012 
+
+
+Exhibit 1017 U.S. Patent No. 8,440,703 to Blight et al., titled “Methods of using 
+sustained release aminopyridine compositions.” (“the ’703 patent”) 
+
+
+Exhibit 1018 Haydee Juarez, et al., “Influence of admixed carboxymethylcellulose 
+on release of 4-aminopyridine from hydroxypropyl methylcellulose 
+matrix tablets,” Int’l Journ. of Pharmaceutics, 216 (2001) 115–125 
+ 
+
+
+Exhibit 1019 Confavreux, et al. “Relapses and Progression of Disability in Multiple 
+Sclerosis,” New England Journal of Medicine, November 16, 2000, vol. 
+343, No. 20, 1430–38 
+
+
+Exhibit 1020 Stefoski, et al., “4-Aminopyridine improves clinical signs in multiple 
+sclerosis,” Ann Neurol., January 21, 1987, 71-7 
+
+
+Exhibit 1021 Davis, et al., “Orally administered 4-aminopyridine improves clinical 
+signs in multiple sclerosis,” Ann Neurol., February 27, 1990, 186–92 
+
+
+Exhibit 1022 The ’685 Patent, Preliminary Amendment filed July 20. 2011 
+
+
+Exhibit 1023 The ’685 Patent, Reasons for Allowance dated April 25, 2013 
+
+
+Exhibit 1024 The ’685 Patent, IDS filed Oct. 2, 2013 
+
+
+Exhibit 1025 The ’685 Patent, Notice of Allowance dated October 18, 2013 
+
+
+Exhibit 1026 The ’685 Patent, IDS filed January 13, 2014 (and petition to 
+withdraw) 
+
+
+Exhibit 1027 The ’685 Patent, Reasons for Allowance dated January 22, 2014. 
+
+
+Exhibit 1028 U.S. Provisional Patent Application No. 60/528,760, filed December 
+11, 2003 
+
+
+Exhibit 1029 U.S. Provisional Patent Application No. 60/560,894, filed April 9, 
+2004 
+
+
+Exhibit 1030 U.S. Provisional Patent Application No. 60/528,592 (Ex. 1030), filed 
+December 11, 2003
+Patent No. 8,663,685 
+ 
+
+
+vii 
+
+
+Exhibit No. Description 
+
+
+Exhibit 1031 U.S. Provisional Patent Application No. 60/528,593, filed December 
+11, 2003 
+
+
+Exhibit 1032 Polman et al., “4-Aminipyridine is Superior to 3,4,diaminopyridine in 
+the Treatment of Patients with Multiple Sclerosis,” Arch. Neurol., 51: 
+1139–96 (Nov. 1994) 
+
+
+Exhibit 1033 The ’685 Patent, IDS filed Oct. 1, 2013 
+
+
+Exhibit 1034 U.S. Patent No. 3,065,143 to Christensen, titled “Sustained Release 
+Tablet” 
+
+
+Exhibit 1035 Declaration of James Polli, Ph.D. 
+
+
+Exhibit 1036 Harrison’s Principles of Internal Medicine 2452 – 2461 (15th ed. 2001) 
+(1958) 
+
+
+Exhibit 1037 Reserved 
+
+
+Exhibit 1038 The ’826 patent file history (Response to Restriction Requirement 
+dated June 21, 2008) 
+
+
+Exhibit 1039 The ’826 patent file history (Response to OA dated June 6, 2008) 
+
+
+Exhibit 1040 The ’826 patent file history (Examiner’s OA dated May 25, 2010) 
+
+
+Exhibit 1041 The ’826 patent file history (Response to OA dated November 24, 
+2010) 
+
+
+Exhibit 1042 The ’826 patent file history (Reasons for Allowance dated April 8, 
+2011) 
+
+
+Exhibit 1043 Information Disclosure Statement from the ’685 patent filed Oct. 31, 
+2011 
+
+
+Exhibit 1044 The ’826 patent file history (Declaration of Andrew Blight)
+Patent No. 8,663,685 
+ 
+
+
+1 
+
+
+I. INTRODUCTION 
+
+
+Petitioner Coalition For Affordable Drugs (ADROCA) LLC (“CFAD”) 
+
+
+requests an Inter Partes Review (“IPR”) of claims 1–8 of U.S. Patent No. 8,663,685 
+
+
+(“the ’685 patent,” Ex. 1001) in accordance with 35 U.S.C. §§ 311–19 and 37 C.F.R. 
+
+
+§§ 42.100 et seq. 
+
+
+II. GROUNDS FOR STANDING (37 C.F.R. § 42.104(a)) 
+
+
+Pursuant to 37 C.F.R. § 42.104(a), Petitioner certifies that the ’685 patent is 
+
+
+available for Inter Partes Review, and that Petitioner is not barred or estopped from 
+
+
+requesting Inter Partes Review challenging the claims of the ’685 patent on the grounds 
+
+
+identified in this petition.  
+
+
+III. MANDATORY NOTICES (37 C.F.R. § 42.8) 
+
+
+A. Real Parties-In-Interest (37 C.F.R. § 42.8(b)(1)) 
+
+
+Pursuant to 37 C.F.R. § 42.8(b)(1), Petitioner certifies that Coalition For 
+
+
+Affordable Drugs (ADROCA) LLC (“CFAD”), Hayman Credes Master Fund, L.P. 
+
+
+(“Credes”), Hayman Capital Master Fund, L.P. (“HCMF”), Hayman Capital 
+
+
+Management, L.P. (“HCM”), Hayman Offshore Management, Inc. (“HOM”), 
+
+
+Hayman Investments, L.L.C. (“HI”), nXn Partners, LLC (“nXnP”), IP Navigation 
+
+
+Group, LLC (“IPNav”), J. Kyle Bass, and Erich Spangenberg are the real parties in 
+
+
+interest (collectively, “RPI”). The RPI hereby certify the following information:  
+
+
+CFAD is a wholly owned subsidiary of Credes. Credes is a limited partnership. HCMF 
+
+
+is a limited partnership. HCM is the general partner and investment manager of
+Patent No. 8,663,685 
+ 
+
+
+2 
+
+
+Credes and HCMF. HOM is the administrative general partner of Credes and HCMF. 
+
+
+HI is the general partner of HCM. J. Kyle Bass is the sole member of HI and sole 
+
+
+shareholder of HOM. CFAD, Credes and HCMF act, directly or indirectly, through 
+
+
+HCM as the general partner and/or investment manager of Credes and HCMF. nXnP 
+
+
+is a paid consultant to HCM. Erich Spangenberg is 98.5% member of nXnP. IPNav is 
+
+
+a paid consultant to nXnP. Erich Spangenberg is the 98.5% member of IPNav. Other 
+
+
+than HCM and J. Kyle Bass in his capacity as the Chief Investment Officer of HCM 
+
+
+and nXnP and Erich Spangenberg in his capacity as the Manager of nXnP, no other 
+
+
+person (including any investor, limited partner, or member or any other person in any 
+
+
+of CFAD, Credes, HCMF, HCM, HOM, HI, nXnP or IPNav) has authority to direct 
+
+
+or control (i) the timing of, filing of, content of, or any decisions or other activities 
+
+
+relating to this Petition or (ii) any timing, future filings, content of, or any decisions or 
+
+
+other activities relating to the future proceedings related to this Petition. All of the 
+
+
+costs associated with this Petition will be borne by HCM, CFAD, Credes and/or 
+
+
+HCMF. 
+
+
+B. Related Matters (37 C.F.R. § 42.8(b)(2)) 
+
+
+Pursuant to 37 C.F.R. § 42.8(b)(2), Petitioner states that the ’685 patent is the 
+
+
+subject of several matters that may affect, or may be affected by a decision in this 
+
+
+proceeding: Acorda Therapeutics, Inc. v. Mylan Pharms. Inc., No. 1:14-cv-00935 (D. Del; 
+
+
+Acorda Therapeutics, Inc. v. Mylan, No. 1:14-cv-00139 (N.D.W.Va.); Acorda Therapeutics, 
+
+
+Inc. v. Accord and Intas, No. 1:14-cv-00932 (D. Del.); Acorda Therapeutics, Inc. v. Actavis,
+Patent No. 8,663,685 
+ 
+
+
+3 
+
+
+No. 1:14-cv-00882 (D. Del.); Acorda Therapeutics, Inc. v. Alkem, No. 1:14-cv-00917 
+
+
+(D. Del.); Acorda Therapeutics, Inc. v. Apotex, No. 1:14-cv-00955 (D. Del.); Acorda 
+
+
+Therapeutics, Inc. v. Aurobindo, No. 1:14-cv-00909 (D. Del.); Acorda Therapeutics, Inc. v. 
+
+
+Roxane, No. 1:14-cv-00922 (D. Del.); Acorda Therapeutics, Inc. v. Teva, No. 1:14-cv-
+
+
+00941 (D. Del.). 
+
+
+C. Lead and Back-Up Counsel (37 C.F.R. § 42.8(b)(3)) and Service 
+Information (37 C.F.R. § 42.8(b)(4)) 
+
+
+Lead counsel is Ki O, Reg. No. 68,952 (ki.o@skiermontpuckett.com). Back-up 
+
+
+counsel are Sarah E. Spires, Reg. No. 61,501, sarah.spires@skiermontpuckett.com; 
+
+
+Dr. Parvathi Kota, Reg. No. 65,122, parvathi.kota@skiermontpuckett.com; and Paul 
+
+
+J. Skiermont (pro hac vice requested), paul.skiermont@skiermontpuckett.com; all of 
+
+
+Skiermont Puckett LLP, 2200 Ross Ave. Ste. 4800W, Dallas, Texas 75201, P: 214-
+
+
+978-6600/F: 214-978-6601. Petitioner consents to electronic service. 
+
+
+IV. PAYMENT OF FEES (37 C.F.R. § 42.15(a) and § 42.103)) 
+
+
+The required fees are submitted herewith in accordance with 37 C.F.R. §§ 
+
+
+42.15(a) and 42.103(a). To the extent any additional fees are required to complete this 
+
+
+Petition, the Patent Office is hereby authorized by the undersigned to charge Deposit 
+
+
+Account No. 506293 for such fees. Any overpayment refund of fees may also be 
+
+
+deposited in this Deposit Account.
+Patent No. 8,663,685 
+ 
+
+
+4 
+
+
+V. IDENTIFICATION OF CHALLENGE 
+
+
+A. Overview of the ’685 Patent 
+
+
+i. The ’685 Patent and Related Applications 
+
+
+The ’685 patent issued on March 4, 2014, from U.S. Patent Application No. 
+
+
+13/187,158, filed July 20, 2011, (Ex. 1001), which is a continuation of U.S. Patent 
+
+
+Application No. 11/010,828, filed December 13, 2004, now U.S. Patent 8,007,826 
+
+
+(Ex. 1002). The ’685 patent claims priority to four U.S. Provisional Patent 
+
+
+Applications:  Application No. 60/528,760, filed December 11, 2003 (Ex. 1028), 
+
+
+Application No. 60/560,894 (Ex. 1029), filed April 9, 2004, Application No. 
+
+
+60/528,592 (Ex. 1030), filed December 11, 2003, and Application No. 60/528,593 
+
+
+(Ex. 1031), filed December 11, 2003. 
+
+
+The ’685 patent is entitled “Sustained Release Aminopyridine Composition” 
+
+
+and describes a method of improving walking in a human afflicted with multiple 
+
+
+sclerosis (“MS”). (See Ex. 1001.) The ’685 patent further describes various 
+
+
+pharmacokinetic parameters and dosing regimens associated with the administration 
+
+
+of this SR oral formulation, such as Tmax, “release profile[s],” average plasma 
+
+
+concentrations, dispersal of the drug based on a rate-of-release-controlling polymer, 
+
+
+and administration intervals. (Id. at col. 13, ll. 7–28.) The ’685 patent claims the 
+
+
+administration of an oral, sustained release (“SR”) composition comprising 10 mg of 
+
+
+4-aminopyridine and one or more pharmaceutically-acceptable excipients twice daily 
+
+
+for a time period of at least two weeks. (Id. at Claims.) The specification teaches an
+Patent No. 8,663,685 
+ 
+
+
+5 
+
+
+escalating dosing regimen: “For example, at the commencement of treatment the 
+
+
+active agent is preferably administered at a dose less than 15 mg/day until a tolerable 
+
+
+state is reached. The dose administered may then be increased by amounts of at least 
+
+
+5-15 mg/day until a therapeutic dose is reached.” (Ex. 1001, at 6:37–48.) The 
+
+
+specification also discloses treatment for multiple weeks in Example 8, which is an 8-
+
+
+week study. (Id. at col. 25, 26.) 
+
+
+ii. The ’685 Patent Claims 
+
+
+The ’685 patent includes 8 claims with claim 1 being the only independent 
+
+
+claim. Each of claims 1–8 are challenged in the present petition. 
+
+
+Independent Claim 1 is directed to a method of improving walking in a 
+
+
+human multiple sclerosis patient comprising orally administering a sustained release 
+
+
+composition of 10 mg 4-aminopyridine twice daily for at least two weeks. 
+
+
+Independent claim 1 recites: 
+
+
+A method of improving walking in a human multiple sclerosis patient in 
+
+
+need thereof comprising orally administering to said patient a sustained 
+
+
+release composition of 10 milligrams of 4-aminopyridine twice daily for a 
+
+
+time period of at least two weeks, wherein the sustained release 
+
+
+composition further comprises one or more pharmaceutically acceptable 
+
+
+excipients. 
+
+
+(See Ex. 1001, at 27:22–28.) Claims 2–8 depend directly or indirectly from claim 1.
+Patent No. 8,663,685 
+ 
+
+
+6 
+
+
+Claim 2 depends from claim 1 and recites that the sustained release 
+
+
+composition provides a mean Tmax in a range of about 2 to about 6 hours after 
+
+
+administration of the sustained release composition to the patient. (Id. at 28:1–4.) 
+
+
+Claim 3 depends from claim 2 and recites that the sustained release 
+
+
+composition is capable of providing, upon administration to the patient, a release 
+
+
+profile of the 4-aminopyridine extending over at least 6 hours. (Id. at 28:5–8.) 
+
+
+Claim 4 depends from claim 3 and recites that the sustained release 
+
+
+composition is capable of providing, upon administration to the patient, a release 
+
+
+profile of the 4-aminopyridine extending over at least about 12 hours. (Id. at 28:9–12.) 
+
+
+Claim 5 depends from claim 1 and recites that the sustained release 
+
+
+composition provides an average plasma concentration at steady state in humans in 
+
+
+the range of about 15 ng/ml to about 35 ng/ml. (Id. at 28:13–17.) 
+
+
+Claim 6 depends from claim 1 and recites that the 4-aminopyridine is 
+
+
+dispersed in a rate of release controlling polymer. (Id. at 28:18–19.) 
+
+
+Claim 7 depends from claim 1 and recites that the sustained release 
+
+
+composition comprises a matrix in which the 4-aminopyridine is homogeneously 
+
+
+dispersed that is suitable for controlling the release rate of the 4-aminopyridine. (Id. at 
+
+
+28:20–23.) 
+
+
+Claim 8 depends from claim 1 and recites that the step of administering 
+
+
+comprises b.i.d. administering or administering at 12 hour intervals. (Id. at 28:24–26.)
+Patent No. 8,663,685 
+ 
+
+
+7 
+
+
+iii. The ’685 Patent Prosecution History 
+
+
+The application that ultimately issued as the ’685 patent contained a preliminary 
+
+
+amendment dated July 20, 2011, cancelling all 23 of its original claims, and added 10 
+
+
+new claims all directed to methods of improving walking in MS patients.  (See Ex. 
+
+
+1022.) 
+
+
+On October 31, 2011, June 7, 2012, and October 1, 2012, Applicants filed three 
+
+
+separate Information Disclosure Statements (IDS) listing, in total, thirty-three United 
+
+
+States patent documents, fourteen foreign patent documents, and at least four 
+
+
+hundred and twenty three (423) non-patent literature documents totaling 470 
+
+
+references. (See Exs. 1014–1016.) In the IDS submitted October 31, 2011, one of the 
+
+
+423 non-patent documents Applicants submitted was Reference C148: Hayes et al., 
+
+
+2001, "Open-label, multiple-dose study to determine the pharmacokinetics and safety 
+
+
+of fampridine-sr (sustained-release 4-aminopyridine) in patients with chronic spinal 
+
+
+cord injury," presented to the American Neurological Association, Chicago, Illinois, 
+
+
+Sept. 30–Oct. 3, 2001. (See Ex. 1014, at Sheets 9–10 of 23.) Another of the 423 non-
+
+
+patent documents Applicants submitted was reference C416: a poster entitled 
+
+
+“Placebo-controlled double-blinded dose ranging study of fampridine-SR in multiple 
+
+
+sclerosis,” by Goodman et al., presented at a conference from September 18–21, 
+
+
+2002. (See Ex. 1016, at Sheet 1 of 2.) 
+
+
+On December 17, 2012, the Examiner issued a first office action, and rejected 
+
+
+the pending claims over the doctrine of obviousness-type double patenting in view of
+Patent No. 8,663,685 
+ 
+
+
+8 
+
+
+recently issued claims in Applicant’s U.S. Patent No. 8,007,826, copending application 
+
+
+No. 11/102,559 (now U.S. Patent No. 8,354,437), copending application No. 
+
+
+13/410,388, and copending application No. 13/299,969 (now U.S. Patent No. 
+
+
+8,440,703). (See Ex. 1017, at 2–6.) 
+
+
+The Applicants responded on March 18, 2013, and filed four terminal 
+
+
+disclaimers against the identified patent and applications and requested that the 
+
+
+double patenting rejections be withdrawn. (Id. at 2–5.) A Notice of Allowance was 
+
+
+mailed on April 25, 2013. The Examiner’s Reasons for Allowance states that “claims 
+
+
+24–33 are methods of use claims, corresponding to the methods of use claims which 
+
+
+ha[ve] been found to be novel and unobvious and ha[ve] been allowed and issued” in 
+
+
+the ʼ826 patent. (See Ex. 1023, at 2.)  
+
+
+On October 2, 2013, Applicants filed a petition to withdraw the application 
+
+
+from issuance and a Request for Continued Examination in order to submit a fourth 
+
+
+IDS with twelve additional references for consideration by the Examiner. (Ex. 1024.) 
+
+
+In response, on October 18, 2013, the Examiner again issued a Notice of Allowance, 
+
+
+stating in the Reasons for Allowance that the newly submitted references “do not 
+
+
+teach nor provide adequate motivation to arrive at the instantly claimed methods.” 
+
+
+(See Ex. 1025, at 2–3.) An updated Notice of Allowance was issued on November 14, 
+
+
+2013, to reflect Applicants’ amendment canceling pending claims 32 and 33.  
+
+
+On January 13, 2014, Applicants yet again filed a petition to withdraw the 
+
+
+application from issuance and a Request for Continued Examination in order to
+Patent No. 8,663,685 
+ 
+
+
+9 
+
+
+submit a fifth IDS with thirteen additional references for consideration. (See 
+
+
+Ex. 1026.) In response, on January 22, 2014, the Examiner again issued a Notice of 
+
+
+Allowance, stating in the Reasons for Allowance that the newly submitted references 
+
+
+“do not teach nor provide adequate motivation to arrive at the instantly claimed 
+
+
+methods.” (See Ex. 1027, at 2.) The ’685 patent issued on March 2, 2014. The 
+
+
+Examiner never entered a substantive rejection against any of the pending claims—no 
+
+
+prior art was cited by the Examiner during the prosecution of the ’685 patent in any 
+
+
+Office Action. (See Ex. 1001.) 
+
+
+iv. Summary of Selected Prosecution History of the Parent ’826 Patent 
+
+
+The ’685 patent issued from a child continuation application of the parent ’826 
+
+
+patent. The Applicant filed the application that issued as the ’826 parent on 
+
+
+December 13, 2004, over six years prior to filing the application for the ’685 patent. 
+
+
+None of the prior art cited in any office action rejection in the ’826 file history is used 
+
+
+in any of the Petition’s grounds challenging the ’685 patent claims. But given that the 
+
+
+’685 Reasons for Allowance refers to the ’826 claims, Petitioner here provides a brief 
+
+
+summary of the prosecution history of the parent ’826 patent.  
+
+
+The ’826 file history is over 2,000 pages. However, the vast majority of the file 
+
+
+history is irrelevant to the issued claims of either the parent ’826 or the challenged 
+
+
+’685 patent because most of the file history is directed to pending claims that were 
+
+
+cancelled and never issued. Applicant filed its ’826 application on December 13, 2004, 
+
+
+with 23 claims. On June 21, 2008, Applicant withdrew claims 1–8 and 18–23 in
+Patent No. 8,663,685 
+ 
+
+
+10 
+
+
+response to a restriction requirement. The withdrawn claims were directed to a 
+
+
+sustained release tablet, a therapeutic composition, and a sustained release 
+
+
+composition. (See Ex. 1038, at pg. 2.)  
+
+
+The Examiner issued two office action rejections during the ’826 prosecution. 
+
+
+In response to the first rejection dated December 8, 2008, the Applicant withdrew 
+
+
+several claims, amended pending claims, added new claims, and removed one of the 
+
+
+two inventors from the application. (Ex. 1039) On May 25, 2010, the Examiner again 
+
+
+rejected all pending claims. (Ex. 1040, at 1.) In response to this rejection, on 
+
+
+November 24, 2010, the Applicant withdrew certain claims, amended others, added 
+
+
+new claims, added a new second inventor to the application, and submitted two 
+
+
+declarations purporting to support commercial success and long-felt need. (Ex. 1041.) 
+
+
+After an interview and certain Examiner amendments, the claims that were first 
+
+
+submitted on November 24, 2010—nearly six years after filing the application— 
+
+
+issued as the ’826 patent. The ’826 Reasons for Allowance reveal that the claims 
+
+
+issued over three references (Schwid, Hayes 2003, and Bevers 194)—none of which 
+
+
+are at issue in the instant Petition. (Ex. 1042, at 2.) The Reasons for Allowance do not 
+
+
+cite, rely upon, or even acknowledge Applicant’s declarations directed to alleged 
+
+
+commercial success and long-felt need. (Id.) 
+
+
+B. Level of Skill in the Art 
+
+
+The level of skill in the art at the time of the invention may be derived from a 
+
+
+review of the relevant prior art. Petitioner submits an expert declaration from Dr.
+Patent No. 8,663,685 
+ 
+
+
+11 
+
+
+Pleasure, Professor of Neurology and the Glenn W. Johnson, Jr. Memorial Endowed 
+
+
+Chair of Neurology at the University of California, San Francisco School of Medicine. 
+
+
+(Ex. 1013.) Dr. Pleasure attests that “a person of ordinary skill in the art would have 
+
+
+been an M.D. or Ph.D. in neuroscience or related field with an understanding of 
+
+
+pharmacokinetics and at least some experience in providing drug therapy to MS 
+
+
+patients, with access to a person having an advanced degree (Master of Science or 
+
+
+Ph.D.) in pharmaceutics or pharmaceutical formulation, specifically oral sustained 
+
+
+release formulations, or at least 5 years of experience in formulating oral sustained 
+
+
+release pharmaceutical drug products.” (Ex. 1013, Pleasure Decl. ¶ 23.)  
+
+
+Petitioner also submits an expert declaration from Dr. Polli, Professor of 
+
+
+Pharmaceutical Sciences and Ralph F. Shangraw/Noxell Endowed Chair in Industrial 
+
+
+Pharmacy and Pharmaceutics at the University of Maryland School of Pharmacy. (Ex. 
+
+
+1035.) Dr. Polli adopted the same definition of a person of ordinary skill. (Id., ¶ 11.) 
+
+
+C. Claim Construction of Challenged Claims 
+
+
+In an inter partes review, “[a] claim in an unexpired patent shall be given its 
+
+
+broadest reasonable construction in light of the specification of the patent in which it 
+
+
+appears.” 37 C.F.R. § 42.100(b). This means that the words of the claim are given
+Patent No. 8,663,685 
+ 
+
+
+12 
+
+
+their plain meaning unless that meaning is inconsistent with the specification. In re 
+
+
+Zletz, 893 F.2d 319, 321 (Fed. Cir. 1989).1 
+
+
+ For the purpose of inter partes review, the analysis herein presumes that the 
+
+
+claim terms take on their broadest reasonable interpretation in view of the 
+
+
+specification of the ’685 patent. The specific terms for which a broadest reasonable 
+
+
+construction should be applied are as follows: 
+
+
+1. Release Profile  
+
+
+The term “a release profile” (claims 3–4) should be construed to mean “a 
+
+
+concentration of a drug in a patient’s plasma over time.” (Ex. 1001, col. 6, ll. 24–27.)  
+
+
+2. Matrix 
+
+
+The term “matrix” should be construed to mean “a composition which 
+
+
+provides for a sustained release of a drug into the plasma of a patient.” (See Ex. 1001, 
+
+
+at col. 9, ll. 15–17; Ex. 1035, ¶ 34.) 
+
+
+                                      
+1 Terms should be construed to have a special meaning only when the Patent Owner 
+
+
+amends the claims pursuant to 35 U.S.C. § 112, to make them expressly correspond to 
+
+
+that meaning. See 77 Fed. Reg. 48764 at II.B.6 (Aug. 14, 2012).
+Patent No. 8,663,685 
+ 
+
+
+13 
+
+
+D. Statements of Precise Relief Requested for Each Claim Challenged 
+
+
+i. Claims for which Review is Requested 
+
+
+Petitioner requests IPR and cancellation of claims 1–8 of the ’685 patent under 
+
+
+35 U.S.C. § 311. The precise relief requested by Petitioner is that each of claims 1–8 
+
+
+of the ’685 patent be found unpatentable as obvious in view of the prior art. 
+
+
+ii. Statutory Grounds of Challenge 
+
+
+Inter partes review of the ’685 patent is requested in view of the following 
+
+
+references, each of which is prior art to the ’685 patent under 35 U.S.C. §§ 102(a) and 
+
+
+(b) or 103. The prior art cited in the following chart were not referenced in any Office 
+
+
+Action by the Examiner. Claims 1–8 are unpatentable under 35 U.S.C. § 103: 
+
+
+Ground Proposed Rejection for the ’685 patent Exhibit Number(s) 
+
+
+1 Claims 1–8 are invalid under 35 U.S.C. § 
+
+
+103(a) as obvious over the publication 
+
+
+entitled “Placebo-controlled double-blinded 
+
+
+dose ranging study of fampridine-SR in 
+
+
+multiple sclerosis” by Goodman et al. (“the 
+
+
+Goodman Poster”) (Ex. 1008), in view of 
+
+
+Hayes et al., "Open-label, multiple-dose 
+
+
+study to determine the pharmacokinetics 
+
+
+and safety of fampridine-SR (sustained-
+
+
+1008, 1009, 1032, 1007
+Patent No. 8,663,685 
+ 
+
+
+14 
+
+
+release 4-aminopyridine) in patients with 
+
+
+chronic spinal cord injury," presented to the 
+
+
+American Neurological Association, 
+
+
+Chicago, IL, Sept. 30–Oct. 3, 2001 (poster) 
+
+
+(“Hayes”) (Ex. 1009) and knowledge of a 
+
+
+person of ordinary skill in the art, as 
+
+
+evidenced at least by the Polman reference 
+
+
+(Ex. 1032) cited in Hayes, and by the van 
+
+
+Diemen reference (Ex. 1007) cited Polman. 
+
+
+2 Claims 1–4 and 6–8 are obvious under 
+
+
+35 U.S.C. § 103(a) over the Goodman 
+
+
+Poster (Ex. 1008), in view of United States 
+
+
+Patent 5,540,938 to Masterson et al. 
+
+
+(“Masterson”) (Ex. 1010). 
+
+
+1008, 1010 
+
+
+3 Claims 6 and 7 are invalid under 35 U.S.C. § 
+
+
+103(a) as obvious over the Goodman Poster 
+
+
+(Ex. 1008) in combination with Juarez (Ex. 
+
+
+1018). 
+
+
+1008, 1018
+Patent No. 8,663,685 
+ 
+
+
+15 
+
+
+E. Overview of State of the Art Providing Motivation to Combine for All 
+Grounds in the Petition 
+
+
+i. 4-AP History and the State of the Relevant Art as of December 2002 
+
+
+4-aminopyridine (also referred to as fampridine or “4-AP”) is an organic 
+
+
+compound that has been the subject of intensive medical research for nearly 100 
+
+
+years. 4-AP is a derivative of pyridine with an amino substitution in the 4-position. 
+
+
+(See Ex. 1009.) In 1924, researchers first described the pharmacological properties of 
+
+
+aminopyridine compounds and, specifically, the excitatory effect of 4-AP on the 
+
+
+central nervous system. For more than 30 years, researchers have been able to show 
+
+
+the effectiveness of 4-AP treatment in patients suffering from multiple sclerosis. (See 
+
+
+Ex. 1005.) Placebo-controlled, double-blind studies evaluating the effectiveness of 
+
+
+oral 4-AP administration in multiple sclerosis patients also were conducted in the early 
+
+
+1990s. (See Exs. 1007, 1008, 1032.) Published research from such studies clearly 
+
+
+demonstrated that administering 4-AP to patients suffering from multiple sclerosis 
+
+
+was an effective treatment. (Id.) Clinical endpoints measured in these studies included 
+
+
+lower extremity functions and timed walk and 4-AP treatment clearly demonstrated an 
+
+
+improvement in multiple sclerosis patients. (See Ex. 1008.)  
+
+
+Dr. Pleasure attests that MS is “an inflammatory demyelinating disease 
+
+
+featuring selective destruction of the central nervous system (“CNS”) myelin. (Ex. 
+
+
+1035, ¶ 16.) Dr. Pleasure further cites and quotes from the New England Journal of 
+
+
+Medicine describing MS in support of his testimony that “[i]t is my opinion that a
+Patent No. 8,663,685 
+ 
+
+
+16 
+
+
+POSA at the time of the invention would have known that MS is a long-lasting, 
+
+
+chronic disease, with patients experiencing problems walking on an ongoing basis and 
+
+
+especially as the disease progresses with time.” (Ex. 1013 ¶¶ 21-22, quoting Ex. 1019 
+
+
+at 1430.) For many patients afflicted with MS, ambulatory difficulties, such as walking, 
+
+
+are chronic, long-term conditions, and thus require ongoing, sustained therapies. (Id.)    
+
+
+The use of 4-AP in MS patients was well studied over 10 years prior to the 
+
+
+earliest priority date of the ‘685 patent. (See Ex. 1020.) As early as 1987, the 
+
+
+neurological changes associated with administration of 4-AP were measured with 7 to 
+
+
+35 mg of 4-AP in 1 to 5 mg doses, every 10 to 60 minutes, and “motor function 
+
+
+(power, coordination, gait)” in 5 out 12 patients improved “minutes within injection 
+
+
+at doses as low as 2 mg.” (Id.) In 1990, Davis et al. administered 10 to 25 mg of 4-AP 
+
+
+to twenty MS patients and motor functions (power, coordination, and gait) were 
+
+
+improved in 9 of the 13 that were studied in particular for motor functions. (Ex. 
+
+
+1021.)  
+
+
+The Applicants of the ’685 patent do not contend that they invented the 4-AP 
+
+
+compound. (Ex. 1001, passim.) Nor do they claim to have pioneered the use of 4-AP 
+
+
+to treat patients suffering from multiple sclerosis. (Id.) The mode of action of 4-AP on 
+
+
+demyelinating diseases was well understood long before the relevant priority date of 
+
+
+the ’685 patent, and studies on the use of 4-AP on MS patients were well known in 
+
+
+the art, as described in detail below. The ’685 patent does not even claim original 
+
+
+dosing. (Id.) Instead, the ’685 patent simply attempts to claim a method of
+Patent No. 8,663,685 
+ 
+
+
+17 
+
+
+administering 4-AP twice a day for at least two weeks. (Id.) Not only was that specific 
+
+
+dosing regimen known in the prior art at the time of the alleged invention, but the 
+
+
+prior art also taught that administering 10 mg twice per day was effective at improving 
+
+
+walking in MS patients, while avoiding side effects attendant to higher daily doses. (See 
+
+
+Ex. 1008, passim.) 
+
+
+Moreover, as discussed extensively below, Dr. Pleasure testifies that “it would 
+
+
+have been obvious to one of ordinary skill in the art without undue experimentation 
+
+
+to treat such patients for a period of at least two weeks (or longer) with agents shown 
+
+
+to alleviate symptoms associated with MS. (Ex. 1013, ¶ 22.) See also In re Applied 
+
+
+Materials, Inc., 692 F.3d 1289, 1295 (Fed. Cir. 2012) (“‘[W]here the general conditions 
+
+
+of a claim are disclosed in the prior art, it is not inventive to discover the optimum or 
+
+
+workable ranges by routine experimentation.’”) (quoting In re Aller, 220 F.2d 454, 456 
+
+
+(CCPA 1955)). It would have been obvious to a POSA to extend the dosing regimen, 
+
+
+for chronic diseases like MS, from a time period of 1 week to two weeks or more. (Ex. 
+
+
+1013 ¶ 41.) In fact, administering at least 2 weeks of 10 mg 4-AP BID to a person 
+
+
+with MS in need of improved walking is not just one of a long list of things a POSA 
+
+
+would have been motivated to do in view of the prior art—it is the first thing a POSA 
+
+
+was motivated to do: i.e., select the lowest known efficacious dose (10 mg BID) for 
+
+
+use over an extended treatment period (measured in weeks not days).  
+
+
+ii. Summary of the Petition’s Prior Art References  
+
+
+1.  The Goodman Refence (Ex. 1008)
+Patent No. 8,663,685 
+ 
+
+
+18 
+
+
+The Goodman reference constitutes prior art under 35 U.S.C. § 102(b) because 
+
+
+it was published at least as early as September 18–21, 2002 (a fact admitted by the ’685 
+
+
+patent applicants in an October 1, 2012 IDS, see Ex. 1043, at Reference No. C416). 
+
+
+This date is more than one year prior to December 11, 2003, the earliest possible 
+
+
+effective filing date for the claims of the ’685 patent. The Goodman Poster was not 
+
+
+the basis of any Examiner rejection during the ’685 prosecution history.  
+
+
+The Goodman Poster discloses data, results, and conclusions from a placebo-
+
+
+controlled double-blinded dose ranging study of SR 4-aminopyridine (also referred to 
+
+
+as fampridine-SR) in MS patients. The Goodman Poster notes that the primary aim of 
+
+
+this study is to determine the safety and tolerability of escalating doses of an oral SR 
+
+
+formulation of 4-aminopyridine. (Ex. 1008, at “Abstract.”) A secondary aim “is to 
+
+
+explore efficacy over a broad dose range using measures of fatigue and motor 
+
+
+function.” (Id. at “Abstract.”) Evidence of efficacy and dose response include 
+
+
+“Standard MS measurements, including timed walk, lower extremity muscle 
+
+
+strength   . . .” (Id. at “Objectives.”) 
+
+
+Multiple doses of fampridine-SR were administered (one week each of 20 
+
+
+mg/day (10 mg BID), 30 mg/day, 40 mg/day, 50 mg/day, 60 mg/day, 70 mg/day, 
+
+
+and 80 mg/day. (Id. at “Objectives.”) Each dose, in the form of a single tablet, was 
+
+
+administered twice daily (i.e., BID)—every 12 hours. (Id. at “Overview of Study 
+
+
+Design.”) The results indicated improvement in 25–foot walk over control at a total 
+
+
+daily dose of 20 mg and 30 mg (each about 13.5 secs), 40 mg and 50 mg (about 12.5
+Patent No. 8,663,685 
+ 
+
+
+19 
+
+
+secs), 60 mg (about 13.5 secs), 70 mg (about 13 secs, and 80 mg (about 14 secs). (Id. at 
+
+
+“Dose Response 25 ft. Walk.”) The improvement in walking speed associated with 
+
+
+doses of at least 20 mg/day was statistically significant (p=.04). (Id. at “Results 
+
+
+Summary.”) A “significant benefit in lower extremity strength” also was observed. (Id. 
+
+
+at “Conclusions.”) 
+
+
+The study concludes that there was demonstrated “[e]vidence of dose-response 
+
+
+in 20–40 mg/day range.” However, the study cautioned that “[a]t doses above 40 
+
+
+mg/day, more severe adverse events were reported, including cases of seizure . . . .” 
+
+
+(Id. at “Results Summary.”) In this same regard, the study concluded that there was 
+
+
+“[l]ittle added benefit, and increased risk, at doses above 50 mg/day.” (Id. at 
+
+
+“Conclusions.”) 
+
+
+ 2.  The Hayes Reference (Ex. 1009) 
+
+
+Hayes constitutes prior art under 35 U.S.C. § 102(b) because it was published 
+
+
+on Sept. 30—October 3, 2001, more than one year prior to December 11, 2003 (a fact 
+
+
+admitted by the ’685 patent applicants in an October 31, 2011 IDS, see Ex. 1033, at 
+
+
+Reference No. C148). This date is more than one year prior to December 11, 2003, 
+
+
+the earliest possible effective filing date for the claims of the ‘685 patent. Hayes was 
+
+
+not the basis of any Examiner rejection during the ‘685 prosecution history.  
+
+
+The Hayes reference – a poster entitled “Open-label, multiple-dose study to 
+
+
+determine the pharmacokinetics and safety of fampridine-SR (sustained release 4-
+
+
+aminopyridine) in patients with chronic spinal cord injury,” by Hayes et al.—was
+Patent No. 8,663,685 
+ 
+
+
+20 
+
+
+presented to the American Neurological Association, in Chicago, IL, September 30-
+
+
+October 3, 2001. (Id. at 7.) Like the Goodman Poster, Hayes 2001 notes the 
+
+
+importance of 4-AP for treatment of patients with MS, and cites Polman (Ex. 1039) 
+
+
+for its disclosure that 4-AP “improves sensory and motor function in patients 
+
+
+with…multiple sclerosis.” (Id. at 2.) Polman, in turn, cites van Diemen (Ex. 1007) for 
+
+
+the similar proposition that 4-AP has “been shown to improve symptoms in patients 
+
+
+with MS.” (Id. at 1138.)  
+
+
+Hayes presents data, results and conclusions from an “open label, 4-week study 
+
+
+conducted to investigate the pharmacokinetics and safety of multiple oral doses of 
+
+
+fampridine-SR (sustained release 4-aminopyridine).” (Ex. 1009, pp. 2, 3.) The doses of 
+
+
+fampridine administered during the study were 10, 15, 20 or 25 mg BID for one week, 
+
+
+in an ascending manner. (Id.) Steady state plasma concentrations were achieved by 
+
+
+Day 5. (Ex. 1009, p. 3.) 
+
+
+Table 2 provides Fampridine-SR pharmacokinetic data. The data for 10 mg 
+
+
+BID (i.e., 20 mg/day total) as set forth in that table is as follows: Cave: 20.8 (±8.9) 
+
+
+ng/mL; Tmax: 2.7(±1.0) hours. (Ex. 1009, p. 4.) Figure 1 shows the mean plasma 
+
+
+concentration for each dose of fampridine over time. The 10 mg BID dosing shows 
+
+
+that fampridine remains in the plasma at about 22 ng/mL at 6 hours after 
+
+
+administration, at about 10 ng/mL at 12 hours after administration, and does not 
+
+
+approach 0 ng/mL until about 20 hours after administration. (Ex. 1009, p. 4.) This 
+
+
+study noted that the SR formulation did demonstrate slower absorption and lower
+Patent No. 8,663,685 
+ 
+
+
+21 
+
+
+Cmax relative to the immediate release formulation, and a longer period of elevated 
+
+
+plasma levels. (Ex. 1009, pp. 5, 6.) 
+
+
+Moreover, it was within the knowledge of a POSA that a number of prior art 
+
+
+studies and applications teach and disclose long-term administration of 4-AP for 
+
+
+treatment of MS. For example, Hayes cites to a prior art publication by Polman et al., 
+
+
+“4-Aminipyridine is Superior to 3,4,diaminopyridine in the Treatment of Patients with 
+
+
+Multiple Sclerosis,” Arch. Neurol., 51: 1139–96 (Nov. 1994). (Ex. 1032.) Polman 
+
+
+constitutes prior art under 35 U.S.C. § 102(b) because it was published in 1994, more 
+
+
+than one year prior to December 11, 2003, the earliest priority date of the ’685 patent. 
+
+
+Polman was not the basis of any rejection during the ’685 patent prosecution.  
+
+
+Polman teaches a method of improving walking in a human multiple sclerosis 
+
+
+patient in need thereof: “To compare the efficacy and toxicity of 4-aminopyridine and 
+
+
+3,4 diaminopyridine in patients with multiple sclerosis. … 4-Aminopyridine was more 
+
+
+effective than 3,4-diarninopyri.dine, especially for ambulation” wherein ambulation is 
+
+
+walking. (Ex. 1032, Abstract.) Polman’s method comprised orally administering to 
+
+
+said patient a composition of 10-35 milligrams daily of 4-aminopyridine for a time 
+
+
+period of at least two weeks. “Responders to treatment with 4-aminopyridine (10 
+
+
+patients) participated in a comparative study of 6 weeks duration with 4-
+
+
+aminopyridine and 3,4-diaminopyri dine according to a randomized, double-blind, 
+
+
+double crossover design.” (Id. at Abstract.)
+Patent No. 8,663,685 
+ 
+
+
+22 
+
+
+Polman disclosed, “[w]e recently completed a randomized, double-blind, 
+
+
+placebo-controlled, crossover study of 12 weeks of oral treatment that demonstrated 
+
+
+that 4-aminopyridine is superior to placebo and improved disability in certain patients 
+
+
+with MS.” (Id. at 1136.) Polman further disclosed that, “[p]atients were treated for 6 
+
+
+weeks and received one bottle of medication for each week. The first and the last 
+
+
+bottles of medication always contained 4-aminopyridine.” (Id. at 1137.) Further, there 
+
+
+was a cross-over randomization wherein two consecutive bottles of the remaining 
+
+
+four contained 3,4-diaminopyridine. (Id.) In this way, patients had a double crossover; 
+
+
+they were randomized to receive 3,4-diaminopyridine either during weeks 2 and 3, or 
+
+
+during weeks 3 and 4, or during weeks 4 and 5.  
+
+
+Therefore, the patients receiving the 3,4-diaminopyridine in weeks 4 and 5 had, 
+
+
+by definition, received 4-aminopyridine for at least four weeks—weeks 1, 2, 3, and 6. 
+
+
+Polman concludes by teaching the efficacy of prolonged usage of 4-AP: “The finding 
+
+
+that in the patients who used 4-aminopyridine for intervals varying from 6 to 30 
+
+
+months (mean, 19 months) before participating in this study the blinded crossovers 
+
+
+induced clear changes in favor of 4-aminopyridine points to a continued efficacy of 4-
+
+
+aminopyridine during prolonged usage.” (Id., at 1139.) 
+
+
+As another example of a POSA’s knowledge concerning the length of 4-AP 
+
+
+therapy to treat MS, Polman cites to a prior art publication by van Diemen et al., “The 
+
+
+effect of 4-aminopyridinc on the clinical signs in multiple sclerosis: a randomized, 
+
+
+placebo-controlled, double-blind, cross-over study,” Ann. Neurol., 32: 123-130 (1992).
+Patent No. 8,663,685 
+ 
+
+
+23 
+
+
+(Ex. 1007.) van Diemen constitutes prior art under 35 U.S.C. § 102(b) because it was 
+
+
+published in 1992, more than one year prior to December 11, 2003, the earliest 
+
+
+priority date of the ’685 patent. van Diemen was not the basis of any Examiner 
+
+
+rejection during the ’685 patent prosecution. 
+
+
+van Diemen teaches administering 4-AP to treat MS disability for at least two 
+
+
+weeks; and specifically, for twelve weeks. (Id. at 124.) The starting dose of the 
+
+
+treatment was 10 to 15 mg/day in two to three divided doses, and the dose was then 
+
+
+elevated by an additional 5 to 15 mg/day at weeks 2 and 6, respectively. (Id.) Thus, a 
+
+
+patient starting with a dose of 10 mg/day or 15 mg/day, would receive 20 mg/day 
+
+
+when the dose was elevated by 10 mg/day or 5 mg/day, respectively. Efficacy analysis 
+
+
+was performed only in patients who completed “at least two weeks” of a treatment 
+
+
+period. (Id. at 125.) van Diemen teaches a statistically significant estimated effect of 4-
+
+
+AP on the mean EDSS score after 2, 6, and 12 weeks of treatment (see Table 1).  
+
+
+ 3.  U.S. Patent No. 5,540,938 (“Masterson”) (Ex. 1010) 
+
+
+The Masterson patent constitutes prior art under 35 U.S.C. § 102(b) because it 
+
+
+issued and was published on July 30, 1996, more than one year prior to December 11, 
+
+
+2003, the earliest possible effective filing date for the claims of the ’685 patent. 
+
+
+Masterson was not the basis of any Examiner rejection during the ’685 patent 
+
+
+prosecution.  
+
+
+Masterson issued July 30, 1996, and entitled “Formulations and their use in the 
+
+
+treatment of neurological diseases”—discloses a 4-AP formulation for twice daily
+Patent No. 8,663,685 
+ 
+
+
+24 
+
+
+administration, which releases the 4-AP over at least a 12-hour period at a rate 
+
+
+sufficient to achieve therapeutically effective blood levels at 12-24 hours after 
+
+
+administration. (Id. at 2:32-42.) Masterson teaches a polymer matrix formed by 
+
+
+blending 4-AP, an excipient, and a polymer to form a homogenous powder for 
+
+
+controlling the release rate of the 4-AP into the blood stream. (Id. at 2:33-42, 6:24-26.)  
+
+
+Masterson teaches formulations for twice-daily administration which can 
+
+
+maintain therapeutically effective blood plasma levels for over 12 hours with peak 
+
+
+plasma levels (Tmax) occurring between 1 and 10 hours, and especially between 2 and 
+
+
+8 hours, may be provided by preparing cores formed from a powder mixture 
+
+
+containing 4-aminopyridine, an excipient and polymeric materials, a major portion of 
+
+
+which is a pharmaceutically acceptable water soluble polymer. (Id. at 4:16-35.) 
+
+
+Illustrative water soluble polymers include, among others, hydroxypropyl 
+
+
+methylcellulose (“HPMC”). (Id. at 4:36-40.) 
+
+
+Alternatively, formations are described in which the active agent, 
+
+
+pharmaceutically acceptable excipient(s) and polymeric materials (e.g., HPMC) 
+
+
+provide an active core. This active core is formed by blending these ingredients, 
+
+
+shaping the blend into a core, and applying the remainder of the blend with a polymer 
+
+
+binding solution to form a layered structure on the core. (Id. at 6:13-38.)   
+
+
+ 4.  Juarez (Ex. 1018) 
+
+
+The Juarez reference constitutes prior art under 35 U.S.C. § 102(b) because it 
+
+
+was published in 2001, more than one year prior to December 11, 2003, the earliest
+Patent No. 8,663,685 
+ 
+
+
+25 
+
+
+possible effective filing date for the claims of the ’685 patent. Juarez was not the basis 
+
+
+of any Examiner rejection during the ’685 patent prosecution.  
+
+
+The Juarez reference from the 2001 International Journal of Pharmaceutics—
+
+
+entitled “Influence of admixed carboxymethylcellulose on release of 4-aminopyridine 
+
+
+from hydroxypropyl methylcellulose matrix tablets,” by Juarez et al.—discloses a 
+
+
+sustained release 4-AP composition formulated as a matrix with the polymer HPMC. 
+
+
+(Id. at 116-17.)  
+
+
+Juarez teaches the preparation of a tablet designed for oral administration 
+
+
+comprising 4-aminopyridine and a rate of release controlling polymer. Specifically, 
+
+
+Juarez indicates that “[t]ablets of the model drug 4-aminopyridine with hydroxypropyl 
+
+
+methylcellulose were prepared with different proportions of polymer content as well 
+
+
+as with different proportions of admixed carboxymethylcellulose. …” (Id. at 
+
+
+Abstract.) Juarez further discloses that the purpose of this HPMC matrix is to 
+
+
+“prolong delivery with zero-order kinetics to maintain a constant in vivo plasma drug 
+
+
+concentration, and with this to maintain a constant pharmacological effect.” (Id. at 
+
+
+116.) 
+
+
+VI. DETAILED EXPLANATION OF CHALLENGE 
+
+
+A. Ground 1:  Claims 1–8 are invalid under 35 U.S.C. § 103(a) as obvious 
+over Goodman (Ex. 1008), in view of Hayes (Ex. 1009) and a POSA’s 
+knowledge. 
+
+
+As supported by the declarations from Dr. Pleasure and Dr. Polli, claims 1–8 
+
+
+each would have been obvious to a person of skill in the art over the Goodman
+Patent No. 8,663,685 
+ 
+
+
+26 
+
+
+Poster, in view of the Hayes Poster and a POSA’s knowledge of the art as of 
+
+
+December 2002. 
+
+
+i. Claims 1 and 8 are Obvious under Ground 1 
+
+
+Challenged claims 1 and 8 are directed to methods of treating MS patients by 
+
+
+administering an extended release formulation of 10 mg 4-AP BID for a time period 
+
+
+of at least two weeks. (See Ex. 1001.) Although Goodman only explicitly discloses 
+
+
+administration of an extended release formulation of 10 mg 4-AP BID for 11 days 
+
+
+(one week and four days), it taught the administration of treatment for several weeks 
+
+
+with increasing doses. Thus, it would have been obvious to one of ordinary skill in the 
+
+
+art at the time to extend the treatment at the 10 mg BID dose to two or more weeks. 
+
+
+(Ex. 1013 ¶ 53.) See Bayer Schering Pharma AG v. Barr Labs., Inc., 575 F.3d 1341, 1347 
+
+
+(Fed. Cir. 2009) (affirming invalidity on the basis of “obvious to try,” and explaining 
+
+
+that “an invention may be found obvious if it would have been obvious to a person 
+
+
+having ordinary skill to try a course of conduct: ‘When there is a design need or 
+
+
+market pressure to solve a problem and there are a finite number of identified, 
+
+
+predictable solutions, a person of ordinary skill has good reason to pursue the known 
+
+
+options within his or her technical grasp. If this leads to the anticipated success, it is 
+
+
+likely the product not of innovation but of ordinary skill and common sense.’”) 
+
+
+(quoting KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 421 (U.S. 2007)).
+Patent No. 8,663,685 
+ 
+
+
+27 
+
+
+Goodman discloses detailed data, results, and conclusions from a placebo-
+
+
+controlled double-blinded dose ranging study of SR 4-aminopyridine (also referred to 
+
+
+as sustained release 4-AP or fampridine-SR) in MS patients.  
+
+
+Goodman notes that the primary aim of this study was to determine the safety 
+
+
+and tolerability of escalating doses of an oral sustained release formulation of 4-
+
+
+aminopyridine. (See Ex. 1008, at “Abstract.”) A secondary aim was “to explore 
+
+
+efficacy over a broad dose range using measures of fatigue and motor function.” (Id. 
+
+
+at “Abstract.”) Evidence of efficacy and dose response included “Standard MS 
+
+
+measurements, including timed walk, [and] lower extremity muscle strength . . . .” (Id. 
+
+
+at “Objectives.”) 
+
+
+To accomplish these objectives, Goodman discloses that multiple doses of SR 
+
+
+4-aminopyridine were administered “one week each of 20 mg/day, 30 mg/day, 40 
+
+
+mg/day, 50 mg/day, 60 mg/day, 70 mg/day and 80 mg/day.” (Id. at “Objectives.”) 
+
+
+Each dose, in the form of a single tablet, was administered twice daily (i.e., BID)—
+
+
+every 12 hours. (Id. at “Overview of Study Design.”)  
+
+
+Goodman’s results indicated patient improvement in a timed 25-foot walk 
+
+
+compared with baseline at a 10 mg BID and 15 mg BID for a total daily dose of 20 
+
+
+mg and 30 mg (each improved about 13.5 seconds against the baseline), 20 mg BID 
+
+
+and 25 mg BID for a total daily dose of 40 mg and 50 mg (about 12.5 seconds against 
+
+
+the baseline), 30 mg BID for a total daily dose of 60 mg (about 13.5 seconds against 
+
+
+the baseline), 35 mg BID for a total daily dose of 70 mg (about 13 seconds against the
+Patent No. 8,663,685 
+ 
+
+
+28 
+
+
+baseline), and 40 mg BID for a total daily dose of 80 mg (about 14 seconds against the 
+
+
+baseline). (See id. at “Dose Response 25 ft. Walk.”) The improvement in walking speed 
+
+
+associated with doses of at least 20 mg/day was statistically significant (p=.04) 
+
+
+compared with the control. (Id. at “Results Summary.”)  A “significant benefit in 
+
+
+lower extremity strength” also was observed. (Id. at “Conclusions.”) Although there is 
+
+
+general improvement in mobility speed from 20 mg BID to 40 mg BID, there is no 
+
+
+improvement, and in fact, a decrease in improvement speeds from 10 mg BID 
+
+
+compared to 15 mg BID. (Id. at Dose Response 25 Ft. Walk graph.) Accordingly, a 
+
+
+person skilled in the art would have found that lower dosages at 10 mg BID were as 
+
+
+successful as 15 mg BID—and a POSA would have also learned that the benefits to 
+
+
+walking from higher doses was marginal. (See Ex. 1013 ¶ 33.) 
+
+
+The study concluded that there was demonstrated “[e]vidence of dose-response 
+
+
+in 20–40 mg/day range.” (Id. at “Conclusions.”) However, the study cautioned that 
+
+
+“[a]t doses above 40 mg/day (i.e. twice daily at 20 mg), more severe adverse events 
+
+
+were reported, including cases of seizure . . . .” (Id. at “Results Summary.”) In this 
+
+
+same regard, the study concluded that there was “[l]ittle added benefit, and increased 
+
+
+risk, at doses above 50 mg/day.” (Id. at “Conclusions.”)  
+
+
+Just as important as Goodman’s disclosure of a 10 mg BID of 4-AP is the 
+
+
+disclosure of the range between 10 mg to 40 mg BID. (Id. at Abstract.) A person of 
+
+
+ordinary skill in the art would have begun studies on dosing starting at 10 mg BID in 
+
+
+light of Goodman because customary practice in the industry was to start at the
+Patent No. 8,663,685 
+ 
+
+
+29 
+
+
+lowest accepted range in order to attempt to minimize potential adverse side effects of 
+
+
+the drug. (See Ex. 1013 ¶ 34.) As noted, Goodman also discloses that undesirable side 
+
+
+effects were indeed noted at higher dosing regimens. Therefore one of ordinary skill 
+
+
+in the art at the time of Goodman would have been motivated to administer doses of 
+
+
+sustained release 4-AP no higher than 20 mg BID in order to minimize the adverse 
+
+
+side effects Goodman describes. (See Ex. 1013 ¶ 32.)  
+
+
+Further, although Goodman doesn’t explicitly disclose a regimen for a time 
+
+
+period of “at least two weeks,” a person of ordinary skill in the art would have been 
+
+
+motivated to test durations for periods far past two weeks in chronic illnesses, such as 
+
+
+MS. (Ex. 1013 ¶ 36.) See Hoffmann La Roche, Inc. v. Apotex Inc., 748 F.3d 1326, 1332 
+
+
+(Fed. Cir. 2014) (affirming finding that 150 mg monthly dose was obvious to try, in 
+
+
+view of disclosed weekly doses of 35 mg, 40 mg, 45 mg, or 50 mg, because “[t]here 
+
+
+was a need to solve the problem of patient compliance by looking to less-frequent 
+
+
+dosing regimens. And…there were only a ‘finite number of identified, predictable 
+
+
+solutions.’”) (quoting KSR Int'l Co. v. Teleflex, 550 U.S. 398, 421 (2007)).  
+
+
+At 10 mg BID, Dr. Pleasure testifies that a POSA knew from Goodman that 
+
+
+the side effects from administering 4-AP would be minimized when compared to 
+
+
+higher doses, because of the adverse side effects at 40 mg BID. (Ex. 1013 ¶ 40.) He 
+
+
+further testifies that a person of ordinary skill in the art would have seen from the 
+
+
+Goodman results that doses of 10 mg BID fampridine-SR showed statistically 
+
+
+significant improvement in walking speed as compared to baseline and also resulted in
+Patent No. 8,663,685 
+ 
+
+
+30 
+
+
+fewer side effects. (Id., ¶ 28.) See also Abbott Labs v. Andrx Pharms., Inc., 452 F.3d 1331, 
+
+
+1345 (Fed. Cir. 2006) (finding substantial question of invalidity because the 
+
+
+combination of references for “the reduction of systemic side effects would not be 
+
+
+surprising and would not be unexpected.”). 
+
+
+A POSA would have fully expected this trend to continue upon extending the 
+
+
+treatment for multiple weeks in MS, a chronic illness. (Ex. 1013, ¶ 36.) See Sciele 
+
+
+Pharma, Inc. v. Lupin Ltd., 684 F.3d 1253, 1259 (Fed. Cir. 2012) (finding substantial 
+
+
+question of validity because “‘[i]f a person of ordinary skill can implement a 
+
+
+predictable variation, § 103 likely bars its patentability’”) (KSR, 550 U.S. at 418). 
+
+
+A secondary aim of Goodman was “to explore efficacy over a broad dose range 
+
+
+using measures of fatigue and motor function.” (See Ex. 1008, at “Abstract.”) A dose 
+
+
+response curve disclosed by Goodman in support of the conclusion shows that there 
+
+
+are no significant increases in efficacy between 10 mg BID and 25 mg BID. (Id.) Thus, 
+
+
+upon considering the actual dose response curve, Dr. Pleasure attests that a POSA 
+
+
+would have reasonably concluded that the difference in efficacy from doses of 10 mg 
+
+
+BID to 20 mg BID was insignificant. (See Ex. 1013 ¶ 28.)  
+
+
+Goodman taught a finite number of doses that were most desirable from the 
+
+
+perspective of efficacy and avoidance of side effects, i.e., 20 mg/day (10 mg BID), 30 
+
+
+mg/day and 40 mg/day. (See Ex. 1008.) Based on the information available to one of 
+
+
+ordinary skill in the art as of December 2002, Dr. Pleasure attests that a POSA would 
+
+
+have known that a 10 mg/day BID would provide the best chance to avoid side
+Patent No. 8,663,685 
+ 
+
+
+31 
+
+
+effects considering the insignificant differences in mobility from 10 mg/day BID to 
+
+
+20 mg/day BID or higher. (See Ex. 1013 ¶ 28.) See Tyco Healthcare Grp. LP v. Mut. 
+
+
+Pharm. Co., 642 F.3d 1370, 1371–72 (Fed. Cir. 2011) (affirming summary judgment of 
+
+
+invalidity on the basis that it would have been obvious to administer a medication at 
+
+
+the lowest disclosed efficacious range since “‘physicians always seek to prescribe the 
+
+
+lowest effective dose of any medication,’” particularly in the case of “patients sensitive 
+
+
+to the side effects of” the medication).  
+
+
+Although the challenged claims include a limitation that the treatment duration 
+
+
+be for “at least two weeks,” considering the chronic nature of MS, a person of 
+
+
+ordinary skill in the art at that time would have needed to do little, if any, 
+
+
+experimentation to arrive at the conclusion that the lowest dosage of 10 mg BID 
+
+
+would be beneficial to the patient, and such benefit would extend in duration from 
+
+
+one week to multiple weeks. (See Ex. 1013 ¶ 53.) See Pfizer, Inc. v. Apotex, Inc., 480 F.3d 
+
+
+1348, 1367–68 (Fed. Cir. 2007) (holding that where, as here, “one skilled in the art 
+
+
+would have had a reasonable expectation of success at the time the invention was 
+
+
+made, and merely had to verify that expectation,…[t]he experimentation needed, then, 
+
+
+to arrive at the subject matter claimed in the [] patent was nothing more than routine 
+
+
+application of a well-known problem-solving strategy, and…the work of a skilled 
+
+
+[artisan], not of an inventor.”) (citation omitted).  
+
+
+Dr. Pleasure’s declaration establishes that in chronic illnesses, drug treatments 
+
+
+lasting multiple weeks are common. (Ex. 1013 ¶¶ 44-46, citing Exs. 1032, 1007.)
+Patent No. 8,663,685 
+ 
+
+
+32 
+
+
+Because MS is a chronic illness affecting mobility, ongoing therapies that would 
+
+
+extend to at least two weeks are well within the range that a POSA would have 
+
+
+investigated prior to December 2002. (Id. ¶¶ 35, 36.) Further, Dr. Pleasure testifies 
+
+
+that a POSA prior to December 2002 would have recognized that those afflicted with 
+
+
+MS would be appropriate candidates for the administration of 4-aminopyridine—not 
+
+
+only for a short period of time such as one week, but for an ongoing basis, including 
+
+
+two weeks and more. (Id. at ¶36.) See Sciele Pharma, Inc., 684 F.3d at 1259 (Fed. Cir. 
+
+
+2012) (The obviousness analysis entails ‘an expansive and flexible approach.’…“There 
+
+
+need not be ‘precise teachings directed to the specific subject matter of the challenged 
+
+
+claim, for a court can take account of the inferences and creative steps that a person 
+
+
+of ordinary skill in the art would employ.’”) (quoting KSR, 550 U.S. at 418). 
+
+
+Thus, a POSA prior to December 2002 “would have had both a reason to 
+
+
+continue the administration of SR 4-aminopyridine at the relatively low dose level 
+
+
+noted previously (10 mg BID) over a course of multiple weeks, and more than a 
+
+
+reasonable expectation that this dosage regimen would provide enhanced mobility in 
+
+
+MS patients,” (e.g., improved walking) over that same time period based on the prior 
+
+
+art clinical studies which demonstrated the efficacy of this regimen in those patients. 
+
+
+(Ex. 1013 ¶ 45.) See also KSR Int'l Co. v. Teleflex Inc., 550 U.S. 398, 416–17 (2007) 
+
+
+(holding that where a straightforward combination of references “[s]imply arranges 
+
+
+old elements with each performing the same function it had been known to perform
+Patent No. 8,663,685 
+ 
+
+
+33 
+
+
+and yields no more than one would expect from such an arrangement, the 
+
+
+combination is obvious.”) (internal quotations and citations omitted). 
+
+
+Further, Dr. Pleasure attests that a POSA would have knowledge of a number 
+
+
+of studies and references teaching long-term administration of 4-AP to treat MS. The 
+
+
+Hayes reference cites Polman, which teaches a POSA about studies “that 
+
+
+administered 4-aminopyridine for between 6-30 months, and for a six week time 
+
+
+period, and specifically touted its benefit as a ‘superior’ drug (compared to other 
+
+
+aminopyridines) for prolonged administration, which would have specifically 
+
+
+motivated a POSA to administer the 4-aminopyridine for at least two weeks.” (Ex. 
+
+
+1013, ¶ 43.) Likewise, Polman cites the van Diemen 1992 reference (Ex. 1007), which 
+
+
+“teaches administering 4-AP to treat MS disability for at least two weeks; and 
+
+
+specifically, for twelve weeks.” (Ex. 1013, ¶ 44, citing Ex. 1007 at 124.) van Diemen’s 
+
+
+disclosure of dose administration is striking in its similarity to the ’685 specification. 
+
+
+(Compare Ex. 1007 at 124, with Ex. 1001 at 6:37–48.) 
+
+
+ii. Claims 2–7 are Obvious under Ground 1 
+
+
+Goodman does not explicitly disclose the pharmacokinetic parameters 
+
+
+disclosed in claims 2–7. However, the Hayes reference when combined with 
+
+
+Goodman discloses each and every element of claims 2–7.  
+
+
+The Hayes reference presents data, results, and conclusions from an “open 
+
+
+label, 4-week study conducted to investigate the pharmacokinetics and safety of 
+
+
+multiple oral doses of fampridine-SR (sustained release 4-aminopyridine).” (Ex. 1009
+Patent No. 8,663,685 
+ 
+
+
+34 
+
+
+at 2, 3.) The doses of fampridine-SR administered during the study were 10, 15, 20 or 
+
+
+25 mg BID for one week, in an ascending manner. (Id.) Steady state plasma 
+
+
+concentrations were achieved by Day 5. (Id. at 3.) 
+
+
+Table 2 of Hayes provides pharmacokinetic data. The data for 10 mg BID (i.e., 
+
+
+20 mg/day total) as set forth in that table is as follows: Cave: 20.8 (±5.7) ng/mL; Tmax: 
+
+
+2.7(±1.0) hours. (Id. at Table 2.) Figure 1 teaches mean plasma concentrations for 
+
+
+each dose of AP over time. (Id. at Figure 1.) The 10 mg BID dosing shows that 4-AP 
+
+
+attains a steady state in the plasma at about 22 ng/mL at 6 hours after administration, 
+
+
+at about 10 ng/mL at 12 hours after administration, and does not approach 0 ng/mL 
+
+
+until after about 20 hours following administration. (Id. at 4.)  
+
+
+These data correspond to the pharmacokinetic parameters recited in claims 3 
+
+
+and 4. (See Ex. 1001.) Claim 3 requires a release profile of 4-aminopyridine extended 
+
+
+over at least 6 hours—Figure 1 reports that fampridine remains in the plasma at about 
+
+
+22 ng/mL at 6 hours after administration, and thus meets the requirement of claim 3. 
+
+
+(See Ex. 1009, at 4.) Claim 4 requires a release profile of 4-aminopyridine extended 
+
+
+over at least 12 hours—Figure 1 reports that measurable amounts of 4-aminopyridine 
+
+
+remains in the plasma at 12 hours after administration which meets the claim 
+
+
+requirement. (See Ex. 1001.) 
+
+
+Under Hayes, these pharmacokinetic results are demonstrated from 
+
+
+administering the composition at a dose of 10 mg BID, irrespective of the duration of 
+
+
+the dosing duration (one week, two weeks, or longer). (See Ex. 1009, at pg. 3)
+Patent No. 8,663,685 
+ 
+
+
+35 
+
+
+Although the pharmacokinetic characteristics of the administration of sustained 
+
+
+release 4-AP as set forth in claims 2–5 were not specifically mentioned in Goodman, 
+
+
+Dr. Polli testifies that the Hayes reference establishes that one of ordinary skill in the 
+
+
+art would have known that 10 mg BID achieves the claimed pharmacokinetic 
+
+
+parameters. (Ex. 1035 ¶¶ 24-26.) It would have been obvious to one of ordinary skill 
+
+
+in the art that the similar dosing compositions, formulations, and regimens disclosed 
+
+
+by both Goodman and Hayes would have exhibited similar pharmacokinetics over 
+
+
+similar periods of time (Tmax) without undue experimentation. (Id.) See Santarus, Inc. v. 
+
+
+Par Pharm., Inc., 694 F.3d 1344, 1354 (Fed. Cir. 2012) (affirming obviousness where 
+
+
+“an obvious formulation cannot become nonobvious simply by administering it to a 
+
+
+patient and claiming the resulting serum concentrations. To hold otherwise would 
+
+
+allow any formulation—no matter how obvious—to become patentable merely by 
+
+
+testing and claiming an inherent property.”) (citation omitted). 
+
+
+Thus, as the above evidence including Dr. Polli’s declaration establish, the 
+
+
+claim limitations in claims 2 through 7 would have been obvious to a person skilled in 
+
+
+the art based on Goodman, in view of Hayes. (See Ex. 1035 ¶¶ 24-32.) This evidence 
+
+
+is specified in further detail in the following claim chart. 
+
+
+iii. Ground 1 Claim Chart Showing Exemplary Citations from Goodman 
+(Ex. 1008), in view of Hayes (Ex. 1009) and POSA knowledge. 
+
+
+Element Prior Art of Goodman and Hayes 
+1pre. A method 
+of improving 
+walking in a 
+
+
+Goodman (Ex. 1008) teaches a method of improving walking in a 
+human multiple sclerosis patient in need thereof.
+Patent No. 8,663,685 
+ 
+
+
+36 
+
+
+human multiple 
+sclerosis patient 
+in need thereof 
+
+
+Ex. 1008 at Abstract (“The primary aim of this trial was to 
+determine the safety and tolerability of escalating doses of a 
+sustained release (SR) formulation given orally to patients with  
+MS.”); see also 
+ 
+Ex. 1008 at Methods (“this study looked at measures such as timed 
+ambulation (the Timed 25 Foot Walk component of the Multiple 
+Sclerosis Functional Composite, MSFC.”); see also 
+ 
+Ex. 1008 at Results Summary (“Significant improvement in walking 
+speed was observed in the fampridine treated group (P=0.04*).”). 
+ 
+The method of improving walking in a human multiple sclerosis 
+patient in need thereof was also within the knowledge of one of 
+skill in the art at the time of the invention, as evidenced by Polman 
+(Ex. 1032, cited by Hayes) and van Diemen (Ex. 1007, cited by 
+Polman). 
+ 
+Polman also teaches a method of improving walking in a human 
+multiple sclerosis patient in need thereof. 
+ 
+Ex. 1032 at Abstract (“To compare the efficacy and toxicity of 4-
+aminopyridine and 3,4 diaminopyridine in patients with multiple 
+sclerosis. … 4-Aminopyridine was more effective than 3,4-
+diarninopyridine, especially for ambulation” wherein ambulation is 
+walking.). 
+
+
+1a. comprising 
+orally 
+administering to 
+said patient a 
+sustained 
+release 
+composition of 
+10 milligrams of 
+4-aminopyridine 
+twice daily  
+
+
+Goodman teaches orally administering to said patient a sustained 
+release composition of 10 milligrams of 4-aminopyridine twice 
+daily. 
+ 
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was developed.”); 
+see also 
+ 
+Ex. 1008 at Objectives (“Determine safety of multiple doses of 
+fampridine-SR (one week each of 20 mg/day…”); see also 
+ 
+Ex. 1008 at Abstract (“dose escalation protocol started…20 
+mg/day (10mg po BID) the second week…”); see also 
+ 
+Ex. 1008 at Overview of Study Design (“Study Visit 1, 10 mg q
+Patent No. 8,663,685 
+ 
+
+
+37 
+
+
+12h. Doses shown are individual doses, to be taken q12h. Each 
+fampridine-SR and placebo dose will be in the form of single 
+tablet.”). 
+
+
+1b. for a time 
+period of at 
+least two weeks 
+
+
+Goodman teaches orally administering to said patient a sustained 
+release composition of 10 milligrams of 4-aminopyridine twice daily 
+for a time period of one week.  See, supra, at claim 1b. Goodman 
+does not specifically teach administering for a period of at least two 
+weeks. 
+   
+The method of orally administering for a time period of at least two 
+weeks was within the knowledge of one of skill in the art at the 
+time of the invention, as evidenced by Polman (Ex. 1032, cited by 
+Hayes) and van Diemen (Ex. 1007, cited by Polman): 
+ 
+Polman (Ex. 1032) at Abstract: (“Responders to treatment with 4-
+aminopyridine (10 patients) participated in a comparative study of 6 
+weeks duration with 4-aminopyridine and 3,4-diaminopyri dine 
+according to a randomized, double-blind, double crossover 
+design.”); see also 
+ 
+Ex. 1032 at 1136 (“We recently completed a randomized, double-
+blind, placebo-controlled, crossover study of 12 weeks of oral 
+treatment that demonstrated that 4-aminopyridine is superior to 
+placebo and improved disability in certain patients with MS.”); see 
+also 
+ 
+Ex. 1032 at 1137 (“Patients were treated for 6 weeks and received 
+one bottle of medication for each week. The first and the last 
+bottles of medication always contained 4-aminopyridine.”); see also 
+ 
+Id. (“patients had a double crossover; they were randomized to 
+receive 3,4-diaminopyridine either during weeks 2 and 3, or during 
+weeks 3 and 4, or during weeks 4 and 5.” Therefore, for example, 
+the patients receiving the 3,4-diaminopyridine in weeks 4 and 5 
+had, by definition, received 4-aminopyridine for at least weeks 1, 2, 
+3, and 6.”); see also 
+ 
+Ex. 1032 at 1139 (“The finding that in the patients who used 4-
+aminopyridine for intervals varying from 6 to 30 months (mean, 19 
+months) before participating in this study the blinded crossovers
+Patent No. 8,663,685 
+ 
+
+
+38 
+
+
+induced clear changes in favor of 4-aminopyridine points to a 
+continued efficacy of 4-aminopyridine during prolonged usage.”); 
+see also 
+ 
+Ex. 1032 at 1136 (“12 weeks of oral treatment”); see also 
+ 
+Pleasure Decl. ¶ 22 (“a POSA at the time of the invention would 
+have known that MS is a long-lasting, chronic disease, with patients 
+experiencing problems walking on an ongoing basis and especially 
+as the disease progresses with time. Therefore it would have been 
+obvious to one of ordinary skill in the art without undue 
+experimentation to treat such patients for a period of at least two 
+weeks (or longer) with agents shown to alleviate symptoms 
+associated with MS.”); see also 
+ 
+Pleasure Decl. ¶ 53 (“A person of ordinary skill around December 
+2002 would have known MS is a long-lasting, continuing disease, 
+with patients experiencing problems walking on an ongoing basis. 
+Therefore, it would have been obvious to one of ordinary skill in 
+the art without undue experimentation to administer the SR 4-
+aminopyridine compositions as disclosed and tested in Goodman 
+for a period of at least two weeks (or longer) to such patients in 
+order to alleviate the symptoms associated with MS. Moreover, a 
+POSA would have been particularly motivated to select the lowest 
+effective dosage (LED) described in Goodman, i.e. 10 mg BID, 
+with the expectation that the improvements in walking observed 
+after administration of the LED for one week could be extended 
+by continuing the administration for two weeks or longer.”); see also 
+ 
+van Diemen (Ex. 1007) at 124 (“All patients were treated with both 
+4-AP and placebo for 12 weeks…The starting dose of the 
+treatment was 10 to 15 mg/day in two to three divided doses, and 
+the dose was then elevated by an additional 5 to 15 mg/day at 
+weeks 2 and 6, respectively.”); see also 
+ 
+Ex. 1007 at 125 (“The analyses of efficacy were performed only in 
+patients who completed at least two weeks of a treatment period.”) 
+ 
+Ex. 1007 at 126, Table 1 (“EDSS (after 2 wk), Estimated Effect of 
+4-AP -0.15, 95% Confidence Interval (-0.29, -0.00), p Value 
+0.043”).
+Patent No. 8,663,685 
+ 
+
+
+39 
+
+
+1c. wherein the 
+sustained 
+release 
+composition 
+further 
+comprises one 
+or more 
+pharmaceuticall
+y acceptable 
+excipients. 
+
+
+Goodman teaches the sustained release composition further 
+comprises one or more pharmaceutically acceptable excipients, but 
+does not specifically teach the sustained release composition 
+further comprises one or more pharmaceutically acceptable 
+excipients.  
+ 
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was developed.”); 
+see also 
+ 
+Polli Decl. ¶ 21 (“by definition, a sustained release 
+formulation contains at least one pharmaceutically acceptable 
+excipient in addition to 
+the active pharmaceutical ingredient (4-aminopyridine). This would 
+have to be so in 
+order for the formulation to function as a sustained release 
+composition as intended.”). 
+
+
+  Element Prior Art 
+2. The method 
+of claim 1, 
+wherein said 
+sustained 
+release 
+composition 
+provides a mean 
+Tmax in a range 
+of about 2 to 
+about 6 hours 
+after 
+administration 
+of the sustained 
+release 
+composition to 
+the patient. 
+
+
+Both Goodman and Hayes teach administering a sustained release 
+4-aminopyridine 10 mg formulation twice daily. Goodman does not 
+specifically teach the pharmacokinetic parameters recited in claims 
+2-5, but these parameters are set forth in Hayes (Ex. 1009). 
+ 
+Goodman, see analysis of claim 1b. 
+ 
+Hayes (Ex. 1009) at Abstract (“an open-label, 4-week single-center 
+study was conducted to investigate the pharmacokinetics and safety 
+of multiple oral doses of fampridine-SR (sustained-release 4-
+aminopyridine)…Study participants received multiple oral doses of 
+fampridine-SR (10, 15, 20, or 25 mg b.i.d.) for 1 week.”); see also 
+ 
+Ex. 1009 at 4, Table 2 (“Summary of Fampridine-SR 
+Pharmacokinetics…10 mg b.i.d…. Tmax h 2.7 (1.0) [hours].”); see 
+also 
+ 
+Ex. 1009 at Pharmacokinetics (“[s]teady-state plasma 
+concentrations … were achieved by day 5.”); see also   
+ 
+Pleasure Decl. ¶ 46 (“it would have been obvious to orally 
+administer SR 4-aminopyridine at a regimen of 10 mg BID to MS 
+patients with difficulty walking.”); see also
+Patent No. 8,663,685 
+ 
+
+
+40 
+
+
+ 
+Polli Decl. ¶ 26 (“for the SR 4-aminopyridine formulations 
+administered in Hayes 2001 and in Goodman, it would have been 
+understood by a 
+POSA that the similar dosing compositions, formulations, and 
+regimens, disclosed by both would have exhibited similar 
+pharmacokinetics. This understanding would have been based on 
+the literature available to a POSA.”); see also 
+ 
+Polli Decl. ¶ 27 (“It would have been obvious to one of ordinary 
+skill in the art at the time of the invention that the 
+pharmacokinetics detailed in Hayes 2001 would be inherent in the 
+method of administration taught by Goodman and so useful for 
+treating multiple sclerosis as similar dosing regimens and levels 
+would result in similar pharmacokinetics.”); see also 
+ 
+Polli Decl. ¶ 28 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention that the Tmax of 2.7 
+(±1.0) hours after administration of 10 mg BID sustained release 4-
+aminopyridine, disclosed in Hayes 2001, would be inherent in the 
+method of administration taught by Goodman, and so useful for 
+treating multiple sclerosis as similar dosing regimens and levels 
+would result in similar pharmacokinetics.”). 
+
+
+Element Prior Art 
+3. The method 
+of claim 2, 
+wherein the 
+sustained 
+release 
+composition is 
+capable of 
+providing, upon 
+administration 
+to the patient, a 
+release profile 
+of the 4-
+aminopyridine 
+extending over 
+at least 6 hours. 
+
+
+Hayes (Ex. 1009) teaches the sustained release composition is 
+capable of providing, upon administration to the patient, a release 
+profile of the 4-aminopyridine extending at least 6 hours. 
+ 
+Ex. 1009 at Figure 1 (For 10 mg b.i.d,dosing, detectable plasma 
+concentrations of 4-aminopyridine are reported over the course of 
+at least 20 hours after administration of the sustained release 
+composition.); see also 
+  
+Ex. 1009 at Pharmacokinetics (“[s]teady-state plasma 
+concentrations … were achieved by day 5.”); see also 
+ 
+Polli Decl. ¶ 29 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention that, upon administration 
+of 10 mg BID sustained release 4-aminopyridine, the release profile 
+of the 4-aminopyridine showing about 22 ng/mL remaining in the 
+plasma at 6 hours after administration, disclosed in Hayes 2001,
+Patent No. 8,663,685 
+ 
+
+
+41 
+
+
+would be inherent in the method of administration taught by 
+Goodman, and so useful for treating multiple sclerosis as similar 
+dosing regimens and levels would result in similar 
+pharmacokinetics.”). 
+
+
+Element Prior Art 
+4. The method 
+of claim 3, 
+wherein the 
+sustained 
+release 
+composition is 
+capable of 
+providing, upon 
+administration 
+to the patient, a 
+release profile 
+of the 4-
+aminopyridine 
+extending over 
+at least 12 
+hours. 
+
+
+Hayes (Ex. 1009) teaches the sustained release composition is 
+capable of providing, upon administration to the patient, a release 
+profile of the 4-aminopyridine extending at least 12 hours. 
+ 
+Ex. 1009 at Figure 1 (For 10 mg b.i.d,dosing, detectable plasma 
+concentrations of 4-aminopyridine are reported over the course of 
+at least 20 hours after administration of the sustained release 
+composition.); see also 
+  
+Ex. 1009 at Pharmacokinetics (“[s]teady-state plasma 
+concentrations … were achieved by day 5.”); see also 
+ 
+Polli Decl. ¶ 30 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention that, upon administration 
+of 10 mg BID sustained release 4-aminopyridine, the release profile 
+of the 4-aminopyridine showing about 10 ng/mL remaining in the 
+plasma at 12 hours after administration, disclosed in Hayes 2001, 
+would be inherent in the method of administration taught by 
+Goodman, and so useful for treating multiple sclerosis as similar 
+dosing regimens and levels would result in similar 
+pharmacokinetics.”). 
+
+
+Element Prior Art 
+5. The method 
+of claim 1, 
+wherein the 
+sustained 
+release 
+composition 
+provides an 
+average plasma 
+concentration at 
+steady state in 
+humans in the 
+range of about 
+15 ng/ml to 
+
+
+Both Goodman and Hayes teach administering a sustained release 
+4-aminopyridine 10 mg formulation twice daily. Goodman does not 
+specifically teach the sustained release composition provides an 
+average plasma concentration at steady state in humans in the range 
+of about 15 ng/ml to about 35 ng/ml, but this is set forth in Hayes 
+(Ex. 1009). 
+ 
+Goodman, see analysis of claim 1b. 
+ 
+Hayes (Ex. 1009) at Abstract (“an open-label, 4-week single-center 
+study was conducted to investigate the pharmacokinetics and safety 
+of multiple oral doses of fampridint-SR (sustained-release 4-
+aminopyridine)…Study participants received multiple oral doses of
+Patent No. 8,663,685 
+ 
+
+
+42 
+
+
+about 35 ng/ml. fampridine-SR (10, 15, 20, o4 25 mg b.i.d.) for 1 week.”); see also 
+ 
+Ex. 1009 at Table 2 (Average plasma concentration at steady state 
+(CavSS) was reported to be 20.8 ng/ml for 10 mg b.i.d. dosing.); see 
+also 
+ 
+Ex. 1009 at Pharmacokinetics (“[s]teady-state plasma 
+concentrations … were achieved by day 5.”); see also 
+ 
+Polli Decl. ¶ 31 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention that, upon administration 
+of 10 mg BID sustained release 4-aminopyridine, the average 
+plasma concentration at steady state in humans (Cavss) of 20.8 
+(±5.7) ng/mL, disclosed in Hayes 2001, would be inherent in the 
+method of administration taught by Goodman, and so useful for 
+treating multiple sclerosis as similar dosing regimens and levels 
+would result in similar pharmacokinetics.”). 
+
+
+Element Prior Art 
+6. The method 
+of claim 1, 
+wherein the 4-
+aminopyridine 
+is dispersed in a 
+rate of release 
+controlling 
+polymer. 
+
+
+Goodman teaches a sustained release composition, but not 
+specifically wherein the 4-aminopyridine is dispersed in a rate 
+release controlling polymer.  
+ 
+Hayes inherently teaches that the 4-aminopyridine is dispersed in a 
+rate of release controlling polymer. 
+ 
+Ex. 1009 at Abstract (“sustained-release 4-aminopyridine”); see also 
+ 
+Ex. 1009 at Figure 1 (For 10 mg b.i.d dosing, detectable plasma 
+concentrations of 4-aminopyridine are reported over the course of 
+at least 20 hours after administration of the sustained release 
+composition.); see also 
+ 
+Polli Decl. ¶ 32 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention to homogenously 
+disperse 4- aminopyridine in a matrix of HPMC to control the 
+release rate of the 4-aminopyridine—a technique well-known in the 
+art—while practicing the method of Goodman for treating MS.”). 
+
+
+Element Prior Art 
+7. The method 
+of claim 1, 
+
+
+Goodman teaches a sustained release composition as above, but 
+not specifically wherein the composition comprises a matrix in
+Patent No. 8,663,685 
+ 
+
+
+43 
+
+
+wherein the 
+sustained 
+release 
+composition 
+comprises a 
+matrix in which 
+the 4-
+aminopyridine 
+is 
+homogeneously 
+dispersed that is 
+suitable for 
+controlling the 
+release rate of 
+the 4-
+aminopyridine. 
+
+
+which the 4-aminopyridine is homogenously dispersed that is 
+suitable for controlling the release rate of the 4-aminopyridine. 
+ 
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was developed.”). 
+ 
+Hayes inherently teaches that the 4-aminopyridine is dispersed in a 
+rate of release controlling polymer: 
+ 
+Ex. 1009 at Abstract (“sustained-release 4-aminopyridine”); see also 
+ 
+Ex. 1009 at Figure 1 (For 10 mg b.i.d dosing, detectable plasma 
+concentrations of 4-aminopyridine are reported over the course of 
+at least 20 hours after administration of the sustained release 
+composition.); see also 
+ 
+Polli Decl. ¶ 32 (“it would have been obvious to one of ordinary 
+skill in the art at the time of the invention to homogenously 
+disperse 4- aminopyridine in a matrix of HPMC to control the 
+release rate of the 4-aminopyridine—a technique well-known in the 
+art—while practicing the method of Goodman for treating MS.”). 
+
+
+Element Prior Art 
+8. The method 
+of claim 1, 
+wherein the 
+step of 
+administering 
+comprises b.i.d. 
+administering or 
+administering at 
+12 hour 
+intervals. 
+
+
+Goodman teaches wherein the step of administering comprises 
+b.i.d. administering or administering at 12 hour intervals. 
+ 
+Ex. 1008 at Overview of Study Design (“Study Visit 1, 10 mg q 
+12h. Doses shown are individual doses, to be taken q12h.”); see also 
+ 
+Ex. 1008 at Abstract (“dose escalation protocol started…20 
+mg/day (10mg po BID) the second week…”). 
+
+
+B. Ground 2:  Claims 1–4 and 6–8 are invalid under 103(a) as obvious 
+over Goodman (Ex. 1008) in view of Masterson (Ex. 1010) and POSA 
+knowledge. 
+
+
+Claims 1 and 8 are obvious in light of Goodman and a POSA’s knowledge of 
+
+
+the state of the art as evidenced by Polman and van Diemen. And even though
+Patent No. 8,663,685 
+ 
+
+
+44 
+
+
+Goodman does not explicitly disclose the pharmacokinetic parameters of claims 2–4, 
+
+
+a rate controlling polymer of claim 6 or homogeneously dispersed polymer that is 
+
+
+suitable for controlling the release rate of the 4-aminopyridine of claim 7, the use of 
+
+
+these rate controlling polymers was well known in the art, and Dr. Polli testifies that it 
+
+
+would have been obvious to a POSA to combine them with Goodman in view of 
+
+
+Masterson. (See Ex. 1035 ¶¶ 43, 46.) See Par Pharm., Inc. v. TWi Pharms., Inc., 773 F.3d 
+
+
+1186, 1197 (2014) (stating that “the motivation to combine does not have to be 
+
+
+explicitly stated in the prior art, and can be supported by testimony of an expert 
+
+
+witness regarding knowledge of a person of skill in the art at the time of invention”). 
+
+
+Masterson is a prior art reference that discloses a matrix core that uses the same type 
+
+
+of release control polymer as matrices with the administration of 4-AP, and one of 
+
+
+ordinary skill in the art would have applied the same type of release control polymer 
+
+
+to Goodman to achieve the predictable result of a slower release. (See Ex. 1035, ¶19.) 
+
+
+Masterson discloses a pharmaceutical formulation comprising a mono- or di-
+
+
+aminopyridine (e.g., 4-aminopyridine) for administration on a once- or twice-daily 
+
+
+basis which releases the aminopyridine over not less than a 12 hour period and at a 
+
+
+rate sufficient to achieve therapeutically effective blood levels over a period of 12-24 
+
+
+hours after administration. (See Ex. 1010, at col. 2, ll. 32–42.)  
+
+
+Formulations for “twice-daily administration which can maintain 
+
+
+therapeutically effective blood plasma levels for over 12 hours with peak plasma levels 
+
+
+(Tmax) occurring between 1 and 10 hours, and especially between 2 and 8 hours,” were
+Patent No. 8,663,685 
+ 
+
+
+45 
+
+
+provided by preparing a powder mixture containing 4-aminopyridine, an excipient, 
+
+
+and polymeric materials, a major portion of which was a pharmaceutically acceptable 
+
+
+water soluble polymer. (Id. at col. 4, ll. 16–35.) Illustrative water soluble polymers 
+
+
+include, among others, hydroxypropyl methylcellulose (“HPMC”). (Id. col. 4, ll. 36–
+
+
+40.) Goodman teaches a sustained release composition, but does not explicitly show 
+
+
+how the 4-aminopyridine is dispersed with a rate release controlling polymer.  
+
+
+However, Masterson (Ex. 1010) teaches that 4-aminopyridine (col 1: 52–61; col 
+
+
+2: 33–42) is dispersed using a rate of release controlling polymer (col 3:2–6; col 6:15–
+
+
+18). Thus, it would have been obvious to one of ordinary skill in the art to combine 
+
+
+the teachings of Goodman with Masterson because they both sought to control the 
+
+
+release of drug throughout a longer period. See Tyco Healthcare Grp. LP v. Ethicon Endo-
+
+
+Surgery, Inc., 774 F.3d 968, 112 U.S.P.Q.2d (BNA) 1979, 1987(Fed. Cir. 2014) (“When 
+
+
+a claimed invention involves a combination of elements, however, any need or 
+
+
+problem known in the relevant field of endeavor at the time of invention can provide 
+
+
+a reason to combine.”). 
+
+
+Furthermore, Goodman specifically references fampridine-SR as the particular 
+
+
+form of 4-AP used for oral administration to MS patients. Dr. Polli attests that 
+
+
+fampridine SR comprises a ‘matrix’ formulation and is a standard matrix-type SR 
+
+
+formulation at the time of the invention. (See Ex. 1035, ¶ 20.) Thus, one of ordinary 
+
+
+skill in the art would have understood that Goodman incorporated its own release 
+
+
+control matrix to control the release rate of the 4-AP active ingredient. (Id. at 23.)
+Patent No. 8,663,685 
+ 
+
+
+46 
+
+
+Goodman discloses a fampridine SR at a dosage regimen in MS patients at 10 
+
+
+mg BID. Although Goodman does not explicitly disclose descriptions of a rate-
+
+
+controlling polymer, Dr. Polli explains that the matrix type SR formulation of 
+
+
+Goodman includes polymeric materials that provide release control for the drug. (See 
+
+
+Ex. 1035, ¶ 45.) The Masterson formulations include “active agent, pharmaceutically 
+
+
+acceptable excipient(s), and polymeric materials” (e.g., HPMC) that provide an active 
+
+
+core. (Ex. 1010, at col. 6, ll. 12–21.) This active core is formed by blending these 
+
+
+ingredients, shaping the blend into a core, and coating the remainder of the blend 
+
+
+with a polymer binding solution to form a layered structure on the core. (Id. at col. 6, 
+
+
+ll. 13–38.) 
+
+
+Masterson teaches that formulations for twice-daily administration which can 
+
+
+maintain therapeutically effective blood plasma levels for over 12 hours with peak 
+
+
+plasma levels (Tmax) occurring between 1 and 10 hours, and especially between 2 and 8 
+
+
+hours, may be provided by preparing cores formed from a powder mixture containing 
+
+
+4-aminopyridine, an excipient and polymeric materials, a major portion of which is a 
+
+
+pharmaceutically acceptable water soluble polymer. (Id. at col. 4, ll. 16- 35.) Illustrative 
+
+
+water soluble polymers include, among others, hydroxypropyl methylcellulose 
+
+
+(“HPMC”). (Id. at col. 4, ll. 36–40.) Thus, in addition to claims 2 through 4, Goodman 
+
+
+in view of Masterson discloses rate-controlling polymers as claimed in claims 6 and 7, 
+
+
+and those challenged claims are obvious. (Ex. 1035, ¶ 45.) The following detailed 
+
+
+claim chart identifying the specific prior art evidence and relevant expert testimony
+Patent No. 8,663,685 
+ 
+
+
+47 
+
+
+establishes the obviousness of Claims 1-4 and 6-8 from Goodman in view of 
+
+
+Masterson.   
+
+
+i. Claim Chart for Ground 2 Showing Exemplary Citations in 
+Goodman (Ex. 1008) and Masterson (Ex. 1010). 
+
+
+Element Prior Art 
+
+
+1pre. A method 
+of improving 
+walking in a 
+human multiple 
+sclerosis patient 
+in need thereof 
+
+
+Goodman teaches a method of improving walking in a human 
+multiple sclerosis patient in need thereof. 
+
+
+Ex. 1008 at Abstract (“The primary aim of this trial was to 
+determine the safety and tolerability of escalating doses of a 
+sustained release (SR) formulation given orally to patients with  
+MS.”); see also 
+
+
+Ex. 1008 at Methods (“this study looked at measures such as 
+timed ambulation (the Timed 25 Foot Walk component of the 
+Multiple Sclerosis Functional Composite, MSFC.”); see also 
+
+
+Ex. 1008 at Results Summary (“Significant improvement in 
+walking speed was observed in the fampridine treated group 
+(P=0.04*).”). 
+
+
+1a. comprising 
+orally 
+administering to 
+said patient a 
+sustained release 
+composition of 
+10 milligrams of 
+4-aminopyridine 
+twice daily  
+
+
+Goodman teaches orally administering to said patient a sustained 
+release composition of 10 milligrams of 4-aminopyridine twice 
+daily. 
+
+
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was 
+developed.”); see also 
+
+
+Ex. 1008 at Objectives (“Determine safety of multiple doses of 
+fampridine-SR (one week each of 20 mg/day…”); see also 
+
+
+Ex. 1008 at Abstract (“dose escalation protocol started…20 
+mg/day (10mg po BID) the second week…”); see also 
+
+
+Ex. 1008 at Overview of Study Design (“Study Visit 1, 10 mg q 
+12h. Doses shown are individual doses, to be taken q12h. Each 
+fampridine-SR and placebo dose will be in the form of single 
+tablet.”).
+Patent No. 8,663,685 
+ 
+
+
+48 
+
+
+Masterson teaches a sustained release composition of 4-
+aminopyridine twice daily. 
+
+
+Ex. 1010 at 16:44-49 (“Active 4-AP beads/pellets were formulated 
+according to the procedure set out in Example 1. These active 
+pellets were coated according to the procedure set out in Example 
+2, however, the application of coats was such as to provide a form 
+of 4-AP suitable for twice daily administration.”). 
+
+
+1b. for a time 
+period of at least 
+two weeks 
+
+
+Goodman teaches orally administering to said patient a sustained 
+release composition of 10 milligrams of 4-aminopyridine twice 
+daily for a time period of one week.  See, supra, at claim 1b. 
+
+
+Goodman does not specifically teach administering for a period of 
+at least two weeks. 
+
+
+While Masterson does not specifically teach a time period of at 
+least two weeks, it does indicate the sustained release formulation 
+is preferable for “long term therapy”.  
+
+
+Ex. 1010 at 2:8-10 (“In the use of a drug for long-term therapy it is 
+desirable that the drug be formulated so that it is suitable for once- 
+or twice-daily administration to aid patient compliance.”); see also 
+
+
+Ex. 1010 at 2:22-25 (“It is an object of the present invention to 
+provide preparations suitable for the long-term administration of a 
+mono or di-aminopyridine active agent.”); see also 
+
+
+Ex. 1010 at 14:5-10 (“the active agent is preferably administered at 
+a dose less than 15 mg/day until a tolerable state is reached. 
+Suitably when said tolerable state is reached, the dose administered 
+is increased by amounts of at least 5-15 mg/day until said 
+therapeutic dose is reached. The active agent is preferably 4-
+aminopyridine…”); see also 
+
+
+Pleasure Decl. ¶ 22 (“a POSA at the time of the invention would 
+have known that MS is a long-lasting, chronic disease, with 
+patients experiencing problems walking on an ongoing basis and 
+especially as the disease progresses with time. Therefore it would 
+have been obvious to one of ordinary skill in the art without 
+undue experimentation to treat such patients for a period of at 
+least two weeks (or longer) with agents shown to alleviate
+Patent No. 8,663,685 
+ 
+
+
+49 
+
+
+symptoms associated with MS.”); see also 
+
+
+Pleasure Decl. ¶ 53 (“A person of ordinary skill around December 
+2002 would have known MS is a long-lasting, continuing disease, 
+with patients experiencing problems walking on an ongoing basis. 
+Therefore, it would have been obvious to one of ordinary skill in 
+the art without undue experimentation to administer the SR 4-
+aminopyridine compositions as disclosed and tested in Goodman 
+for a period of at least two weeks (or longer) to such patients in 
+order to alleviate the symptoms associated with MS. Moreover, a 
+POSA would have been particularly motivated to select the lowest 
+effective dosage (LED) described in Goodman, i.e. 10 mg BID, 
+with the expectation that the improvements in walking observed 
+after administration of the LED for one week could be extended 
+by continuing the administration for two weeks or longer.”) 
+
+
+1c. wherein the 
+sustained release 
+composition 
+further 
+comprises one 
+or more 
+pharmaceutically 
+acceptable 
+excipients. 
+
+
+Goodman teaches the sustained release composition further 
+comprises one or more pharmaceutically acceptable excipients, but 
+does not specifically teach the sustained release composition 
+further comprises one or more pharmaceutically acceptable 
+excipients.  
+
+
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was 
+developed.”); see also 
+
+
+Polli Decl. ¶ 21 (“by definition, a sustained release 
+
+
+formulation contains at least one pharmaceutically acceptable 
+excipient in addition to 
+
+
+the active pharmaceutical ingredient (4-aminopyridine). This 
+would have to be so in 
+
+
+order for the formulation to function as a sustained release 
+composition as intended.”). 
+
+
+Element Prior Art 
+
+
+2. The method 
+of claim 1, 
+wherein said 
+sustained release 
+
+
+Goodman does not specifically recite said sustained release 
+composition provides a mean Tmax in a range of about 2 to about 6 
+hours after administration of the sustained release composition to
+Patent No. 8,663,685 
+ 
+
+
+50 
+
+
+composition 
+provides a mean 
+Tmax in a range 
+of about 2 to 
+about 6 hours 
+after 
+administration of 
+the sustained 
+release 
+composition to 
+the patient. 
+
+
+the patient. 
+
+
+Masterson teaches a sustained release composition provides a 
+mean Tmax in a range of about 2 to about 6 hours after 
+administration of the sustained release composition to the patient. 
+
+
+Ex. 1010 at col 4:17-21 (“Pharmaceutical formulations according 
+to the invention for twice-daily administration can maintain 
+therapeutically effective blood levels substantially over 12 hours 
+with peak plasma levels occurring between 1 and 10 hours, more 
+especially between 2 and 8 hours.”); see also 
+
+
+Polli Decl. ¶ 43 (“a POSA at the time of the invention  
+considering the teachings of Goodman and Masterson would 
+reasonably expect that the administration of 10 mg BID of 
+sustained release 4-AP to MS patients for a time period of at least 
+two weeks would result in a mean Tmax in a range of about 2 to 
+about 6 hours after administration.”)  
+
+
+Element Prior Art 
+
+
+3. The method 
+of claim 2, 
+wherein the 
+sustained release 
+composition is 
+capable of 
+providing, upon 
+administration to 
+the patient, a 
+release profile of 
+the 4-
+aminopyridine 
+extending over 
+at least 6 hours. 
+
+
+Masterson teaches the sustained release composition is capable of 
+providing, upon administration to the patient, a release profile of 
+the 4-aminopyridine extending over at least 6 hours. 
+
+
+Ex. 1010 at col 2:33-42 (“According to the invention there is 
+provided a pharmaceutical formulation comprising a mono- or di-
+aminopyridine for administration on a once- or twice-daily basis, 
+said formulation including said mono- or di-aminopyridine active 
+agent in a carrier effective to permit release of said mono- or di-
+aminopyridine at a rate allowing controlled absorption thereof 
+over, on the average, not less than a 12 hour period and at a rate 
+sufficient to achieve therapeutically effective blood levels over a 
+period of 12-24 hours following administration.”); see also 
+
+
+Polli Decl. ¶ 45 (“It would have been obvious to POSA at the time 
+of the invention that the sustained release formulation disclosed 
+by Masterson could have been readily adapted to practice the 
+method of Goodman for treating MS patients in order to yield a 
+release profile of the 4-AP extending over at least 6 or 12 hours 
+because Masterson specifically disclose a formulation of a
+Patent No. 8,663,685 
+ 
+
+
+51 
+
+
+sustained release compound that achieves this rate of release.”).  
+
+
+Element Prior Art 
+
+
+4. The method 
+of claim 3, 
+wherein the 
+sustained release 
+composition is 
+capable of 
+providing, upon 
+administration to 
+the patient, a 
+release profile of 
+the 4-
+aminopyridine 
+extending over 
+at least 12 hours. 
+
+
+Masterson teaches the sustained release composition is capable of 
+providing, upon administration to the patient, a release profile of 
+the 4-aminopyridine extending over at least 12 hours. 
+
+
+Ex. 1010 at 2:33-42 (“According to the invention there is provided 
+a pharmaceutical formulation comprising a mono- or di-
+aminopyridine for administration on a once- or twice-daily basis, 
+said formulation including said mono- or di-aminopyridine active 
+agent in a carrier effective to permit release of said mono- or di-
+aminopyridine at a rate allowing controlled absorption thereof 
+over, on the average, not less than a 12 hour period and at a rate 
+sufficient to achieve therapeutically effective blood levels over a 
+period of 12-24 hours following administration.”); see also 
+
+
+Polli Decl. ¶ 45 (“It would have been obvious to POSA at the time 
+of the invention that the sustained release formulation disclosed 
+by Masterson could have been readily adapted to practice the 
+method of Goodman for treating MS patients in order to yield a 
+release profile of the 4-AP extending over at least 6 or 12 hours 
+because Masterson specifically disclose a formulation of a 
+sustained release compound that achieves this rate of release.”). 
+
+
+Element Prior Art 
+
+
+6. The method 
+of claim 1, 
+wherein the 4-
+aminopyridine is 
+dispersed in a 
+rate of release 
+controlling 
+polymer. 
+
+
+Goodman does not specifically recite the 4-aminopyridine is 
+dispersed in a rate of release controlling polymer. 
+
+
+Masterson teaches the 4-aminopyridine is dispersed in a rate of 
+release controlling polymer. 
+
+
+Ex. 1010 at 2:65-3:9 (“water insoluble polymer and optionally a 
+minor proportion of a pharmaceutically acceptable film-forming, 
+water soluble polymer, the number of layers in said membrane and 
+the ratio of said water soluble to water insoluble polymer, when 
+said water soluble polymer is present, being effective to permit 
+release of said mono- or di-aminopyridine from said pellet at a rate 
+allowing controlled absorption thereof over, on the average, not
+Patent No. 8,663,685 
+ 
+
+
+52 
+
+
+less than a 12 hour period following oral administration”); see also 
+
+
+Ex. 1010 at 6:24-26 (“The active core is formed by blending 
+mono- or diaminopyridine, pharmaceutically acceptable 
+excipient(s) and polymeric material to form a homogeneous 
+powder.”); see also 
+
+
+Polli Decl. ¶ 46 (“It would have been obvious to POSA at the time 
+of the invention that the polymer matrix disclosed by Masterson 
+could have been readily adapted to practice the method of 
+Goodman for treating MS patients because Goodman teaches a 
+sustained release 4-AP formulation and Masterson describes how a 
+sustained release 4-AP formulation could be made by 
+homogeneously dispersing 4-AP in a release controlling polymer 
+matrix.” 
+
+
+Element Prior Art 
+
+
+7. The method 
+of claim 1, 
+wherein the 
+sustained release 
+composition 
+comprises a 
+matrix in which 
+the 4-
+aminopyridine is 
+homogeneously 
+dispersed that is 
+suitable for 
+controlling the 
+release rate of 
+the 4-
+aminopyridine. 
+
+
+Goodman teaches a sustained release composition as above, but 
+not specifically wherein the composition comprises a matrix in 
+which the 4-aminopyridine is homogenously dispersed that is 
+suitable for controlling the release rate of the 4-aminopyridine. 
+
+
+Ex. 1008 at Background and Study Rationale (“a sustained release 
+oral formulation of Fampridine (Fampridine-SR) was 
+developed.”). 
+
+
+Masterson teaches a sustained release composition, but not 
+specifically wherein the composition comprises a matrix in which 
+the 4-aminopyridine is homogenously dispersed that is suitable for 
+controlling the release rate of the 4-aminopyridine. 
+
+
+Ex. 1010 at 5:47-49 (“The mono- or di-aminopyridine and 
+pharmaceutically acceptable excipient(s) are blended to form a 
+homogeneous powder.”); see also 
+
+
+Ex. 1010 at 6:24-26 (“The active core is formed by blending 
+mono- or diaminopyridine, pharmaceutically acceptable 
+excipient(s) and polymeric material to form a homogeneous 
+powder.”); see also 
+
+
+Ex. 1010 at 6:15-18 (“The active core is suitably formed by
+Patent No. 8,663,685 
+ 
+
+
+53 
+
+
+blending the mono- or diaminopyridine, pharmaceutically 
+acceptable excipient(s) and polymeric material to form a 
+homogeneous powder.”); see also 
+
+
+Polli Decl. ¶ 46 (“It would have been obvious to POSA at the time 
+of the invention that the polymer matrix disclosed by Masterson 
+could have been readily adapted to practice the method of 
+Goodman for treating MS patients because Goodman teaches a 
+sustained release 4-AP formulation and Masterson describes how a 
+sustained release 4-AP formulation could be made by 
+homogeneously dispersing 4-AP in a release controlling polymer 
+matrix.” 
+
+
+Element Prior Art 
+
+
+8. The method 
+of claim 1, 
+wherein the step 
+of administering 
+comprises b.i.d. 
+administering or 
+administering at 
+12 hour 
+intervals. 
+
+
+Goodman teaches the step of administering comprises b.i.d. 
+administering or administering at 12 hour intervals, as above. 
+
+
+Ex. 1008 at Overview of Study Design (“Study Visit 1, 10 mg q 
+12h. Doses shown are individual doses, to be taken q12h.”); see also 
+
+
+Ex. 1008 at Abstract (“dose escalation protocol started…20 
+mg/day (10 mg po BID) the second week…”). 
+
+
+Masterson also teaches the step of administering comprises b.i.d. 
+administering or administering at 12 hour intervals. 
+
+
+Ex. 1010 at col 4:17-19 (“Pharmaceutical formulations according 
+to the invention for twice-daily administration can maintain 
+therapeutically effective blood levels substantially over 12 hours.”).
+
+
+
+
+
+C. Ground 3:  Claims 6–7 are invalid under 35 U.S.C. § 103(a) as obvious 
+over Goodman (Ex. 1008) in view of Juarez (Ex. 1018). 
+
+
+Goodman and a POSA’s knowledge render claim 1 obvious for the detailed 
+
+
+reasons previously set forth. Claims 6 and 7 each depend from claim 1. Although 
+
+
+Goodman does not explicitly disclose the rate-controlling polymer of claim 6 or a 
+
+
+“matrix in which the 4-aminopyridine is homogeneously dispersed that is suitable for
+Patent No. 8,663,685 
+ 
+
+
+54 
+
+
+controlling the release rate of the 4-aminopyridine” of claim 7, the use of controlled 
+
+
+release polymers as described in claims 6 and 7 was well known in the art—and 
+
+
+specifically for 4-AP. (See Ex. 1018, passim.) 
+
+
+Juarez uses matrices to control the release of the active ingredient in a tablet. 
+
+
+(Id.) Juarez tested Tablets of 4-aminopyridine with hydroxypropyl methylcellulose 
+
+
+prepared with different proportions of polymer content as well as with different 
+
+
+proportions of admixed carboxymethylcellulose (CMC) in the range up to 35% (based 
+
+
+on the total polymer content). (Id. at Abstract.) Dr. Polli’s declaration explains that a 
+
+
+POSA would understand that “the Juarez document teaches very clearly that 4-
+
+
+aminopyridine could be readily and easily formulated into a useful rate of release 
+
+
+controlling polymer, more commonly known as a sustained release composition, using 
+
+
+universally known compounds such as HPMC. One of ordinary skill in the art, upon 
+
+
+reading the Juarez document, would have understood that the Juarez document 
+
+
+discloses 4-aminopyridine formulated into a rate of release controlling polymer and 
+
+
+even further that composition comprises a matrix in which the 4-aminopyridine is 
+
+
+homogeneously dispersed that is suitable for controlling the release rate of the 4-
+
+
+aminopyridine.” (Ex. 1035, ¶ 38.) 
+
+
+Dr. Polli further attests that “a POSA would have been motivated to combine 
+
+
+Goodman with Juarez in an effort to provide a sustained-release composition of 4-AP 
+
+
+for oral administration in an effort to maintain desirable in vivo plasma concentrations 
+
+
+to maintain a constant pharmacological effect.” (Id., ¶ 39.)
+Patent No. 8,663,685 
+ 
+
+
+55 
+
+
+Juarez showed that decreasing release constant values show a logarithmic 
+
+
+relationship with increasing values of the exponent n. (Ex. 1018 at 121.) This indicates 
+
+
+that zero-order release occurs with sufficiently reduced release rate. (Id.) Or in other 
+
+
+words, there were no significant increases in dissolution when then controlled release 
+
+
+polymer was used with reduced release rates. (Id.) As such, one of ordinary skill in the 
+
+
+art would have understood that the polymer release means used in the dosages of 10 
+
+
+mg of 4-AP BID were predictable and obvious. (See Ex. 1035, ¶¶ 40-41.) See Tyco 
+
+
+Healthcare Group LP, 774 F.3d 968, 112 U.S.P.Q.2D (BNA) at 1986 (“Claims would 
+
+
+have been obvious if they are nothing more than a combination of familiar elements 
+
+
+that yield predictable results.”). 
+
+
+Thus, Dr. Polli’s testimony and the Juarez reference establish that a person of 
+
+
+ordinary skill in the art would have been motivated to combine the references of 
+
+
+Goodman and Juarez to yield the predictable result of a release-controlled drug 
+
+
+claimed in claims 6 and 7. (Ex. 1035, ¶¶ 33-41.) 
+
+
+i. Claim Chart for Ground 3 Showing Exemplary Citations in 
+Goodman (Ex. 1008) and Juarez (Ex. 1018). 
+
+
+Element Prior Art 
+6. The method 
+of claim 1, 
+wherein the 4-
+aminopyridine 
+is dispersed in a 
+rate of release 
+controlling 
+polymer. 
+
+
+Goodman teaches a sustained release composition, but not 
+specifically wherein the 4-aminopyridine is dispersed in a rate 
+release controlling polymer.  
+ 
+Juarez (Ex. 18) teaches the preparation of a tablet designed for 
+oral administration comprising 4-aminopyridine and a rate of 
+release controlling polymer.  
+ 
+Ex. 18 at Abstract (“[t]ablets of the model drug 4-aminopyridine
+Patent No. 8,663,685 
+ 
+
+
+56 
+
+
+with hydroxypropyl methylcellulose were prepared with different 
+proportions of polymer content as well as with different 
+proportions of admixed carboxymethylcellulose. …”); see also   
+ 
+Ex. 18 at 116 (“purpose of an orally administered hydrophilic 
+matrix is generally to prolong delivery with zero-order kinetics to 
+maintain a constant in vivo plasma drug concentration, and with 
+this to maintain a constant pharmacological effect.”); see also 
+ 
+Polli Decl. ¶ 40 (“it would have been obvious to a POSA at the 
+time of the invention that 4-aminopyridine formulated into a rate 
+of release controlling polymer using compounds such as HPMC, 
+disclosed in Juarez, could have been readily adapted to maintain 
+desirable in vivo plasma concentrations for maintaining a constant 
+pharmacological effect while practicing the method of Goodman 
+for treating MS.”); see also 
+ 
+Polli Decl. ¶ 39 (“it would have been obvious to a POSA to 
+combine Goodman with Juarez, and reasonably expect that the 
+desired pharmacokinetic properties could be achieved by 
+dispersing 4-AP in a rate of release controlling polymer.”) 
+
+
+Element Prior Art 
+7. The method 
+of claim 1, 
+wherein the 
+sustained 
+release 
+composition 
+comprises a 
+matrix in which 
+the 4-
+aminopyridine 
+is 
+homogeneously 
+dispersed that is 
+suitable for 
+controlling the 
+release rate of 
+the 4-
+aminopyridine. 
+
+
+Goodman teaches a sustained release composition, but not 
+specifically wherein the composition comprises a matrix in which 
+the 4-aminopyridine is homogeneously dispersed that is suitable 
+for controlling the release rate of the 4-aminopyridine. 
+ 
+Juarez teaches the preparation of a tablet designed for oral 
+administration, wherein the composition comprises a matrix in 
+which the 4-aminopyridine is homogeneously dispersed that is 
+suitable for controlling the release rate of the 4-aminopyridine. 
+ 
+Ex. 18 at Abstract (“[t]ablets of the model drug 4-aminopyridine 
+with hydroxypropyl methylcellulose were prepared with different 
+proportions of polymer content as well as with different 
+proportions of admixed carboxymethylcellulose. …”); see also   
+ 
+Ex. 18 at 118 (“[d]issolution data for the release of 4-
+aminopyridine from matrices containing 80 mg/tab. of HPMC.”) 
+(emphasis added); see also
+Patent No. 8,663,685 
+ 
+
+
+57 
+
+
+Ex. 18 at 118-19 (reporting various regression parameters for 
+dissolution curves of 4-AP/Metolose (“HPMC”)/carboxymethyl 
+cellulose (“CMC”) formulations, as well as release profiles for 
+tablets comprising 4-AP dispersed in a matrix.); see also 
+ 
+Polli Decl. ¶ 39 (“a POSA would have been motivated to combine 
+Goodman with Juarez in an effort to provide a sustained-release 
+composition of 4-AP dispersed in a matrix for oral administration 
+in an effort to maintain desirable in vivo plasma concentrations to 
+maintain a constant pharmacological effect.”); see also 
+ 
+Polli Decl. ¶ 41 (“it would have been obvious to a POSA at the 
+time of the invention to homogenously disperse 4-aminopyridine 
+in a matrix of HPMC to control the release rate of the 4-
+aminopyridine, as disclosed in Juarez, to 
+maintain desirable in vivo plasma concentrations for maintaining a 
+constant pharmacological effect while practicing the method of 
+Goodman for treating MS.”). 
+
+
+VII. ANY SECONDARY CONSIDERATIONS ARE INSUFFICIENT TO 
+OVERCOME A FINDING THAT CLAIMS 1–8 ARE OBVIOUS 
+
+
+The Applicants submitted no evidence showing secondary considerations of 
+
+
+non-obviousness during prosecution of the ‘685 patent. The Applicant has the burden 
+
+
+of establishing the existence and sufficiency of such secondary considerations, as well 
+
+
+the burden of establishing nexus commensurate with the claims. See Ex parte Gelles, 22 
+
+
+USPQ2d 1318, 1319 (Bd. Pat. App. & Inter. 1992). They did not do so during 
+
+
+prosecution of the challenged claims—and did not even do so during prosecution of 
+
+
+the parent ‘826 patent when the Applicants attempted to put forth evidence of 
+
+
+secondary considerations in support of claims not challenged here.  
+
+
+The purported secondary considerations raised in the ‘826 parent patent 
+
+
+prosecution history fail to even mention any treatment duration of “at least two
+Patent No. 8,663,685 
+ 
+
+
+58 
+
+
+weeks,” nor was there any connection to alleged secondary considerations related to 
+
+
+extended treatments of 4-AP to MS patients. An Interview Summary dated November 
+
+
+10, 2010 describes a Today show episode video recording that was shown to the 
+
+
+Examiner. Applicant claimed that “Ampyra can be considered a break-through, not 
+
+
+only because it targets walking ability, but also because it is an oral drug.”  (Ex. 1041 
+
+
+(citing the video at 4:18, 4:58, 5:48).) Notably absent from this explanation is the dose 
+
+
+amount, or a dosing regimen for “at least [a] two week” period—the allegedly novel 
+
+
+aspect of the sole independent claim of the ’685 patent. Oral drugs targeting the 
+
+
+walking ability of MS patients were well-known in the prior art more than a decade 
+
+
+before the ’685 patent, as explained in detail in the instant Petition’s grounds for 
+
+
+obviousness. Thus, there was no connection between the puffery on the Today show 
+
+
+and the claims of the ‘685 patent.  
+
+
+The Applicants also submitted a declaration by Andrew R. Blight in the parent 
+
+
+prosecution that allegedly showed the “surprising results” to show that their scientific 
+
+
+findings were unexpected in overcoming the obviousness rejection. (See Ex. 1044.)  
+
+
+Blight’s declaration states that “it was surprising that a 10 mg dose was as effective as 
+
+
+a 20 mg dose is further evidence by the recognition in the art of 4-AP’s narrow 
+
+
+therapeutic window and the bias in the art toward using larger dosage amount than 
+
+
+those recited in the instant claims.” But as previously established, Goodman 
+
+
+disclosed that dosages at 10 mg/day BID were just as effective as 20 mg/day 
+
+
+BID. One of ordinary skill in the art would not have considered doses of 10 mg/day
+Patent No. 8,663,685 
+ 
+
+
+59 
+
+
+BID to be surprising in light of Goodman. (See generally Ground 1.) To support 
+
+
+conclusions of unexpected results, the evidence asserted as unexpected must actually 
+
+
+have been obtained. (See, e.g., In re Klosak, 455 F.2d 1077, 1080 (CCPA 1973). 
+
+
+Moreover, the evidence must include a comparison with the closest prior art. (See, e.g., 
+
+
+In re Merchant, 575 F.2d 865, 869 (CCPA 1978). The Applicant had no evidence for 
+
+
+either of these requirements. 
+
+
+There exists no independent data that describes the unexpected result from an 
+
+
+“at least two week” period of treatment when compared to shorter treatments. (See 
+
+
+Ex. 1001.) Superiority of, or difference in, results, if not shown to be unexpected, is 
+
+
+insufficient. (See, e.g., In re Dill, 604 F.2d 1356, 1361 (CCPA 1979). 
+
+
+In any event, the Examiner of the parent patent did not cite, rely on, or even 
+
+
+mention secondary considerations as a factor for issuing the parent claims. Thus, the 
+
+
+burden is on the Patent Owner to come forward with such evidence in the event trial 
+
+
+is instituted and it is not Petitioner’s burden to address potential secondary 
+
+
+considerations where no evidence or nexus was put forth during prosecution of the 
+
+
+challenged claims, and when the Examiner of the parent application did not make any 
+
+
+findings related to secondary considerations. 
+
+
+VIII. CONCLUSION 
+
+
+Thus, for all of the foregoing reasons, Petitioner respectfully requests inter partes 
+
+
+review of claims 1–8 of U.S. Patent No. 8,663,685.
+Patent No. 8,663,685 
+ 
+
+
+60 
+
+
+Respectfully submitted,     February 10, 2015 
+
+
+ 
+/Ki O/                              
+Ki O (Reg. No. 68,952) 
+SKIERMONT PUCKETT LLP 
+2200 Ross Ave. Ste. 4800W 
+Dallas, TX 75201 
+P: 214-978-6600/F: 214-978-6601 
+Lead Counsel for Petitioner 
+
+
+Sarah Spires (Reg. No. 61,501) 
+Dr. Parvathi Kota (Reg. No. 65,122) 
+Paul J. Skiermont (pro hac vice authorization requested) 
+SKIERMONT PUCKETT LLP 
+2200 Ross Ave. Ste. 4800W 
+Dallas, TX 75201 
+P: 214-978-6600/F: 214-978-6601 
+Back-Up Counsel for Petitioner
+Patent No. 8,663,685 
+ 
+
+
+1 
+
+
+ 
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+
+
+______________________ 
+
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+
+
+______________________ 
+
+
+COALITION FOR AFFORDABLE DRUGS (ADROCA) LLC 
+Petitioner 
+
+
+v. 
+
+
+ACORDA THERAPEUTICS, INC. 
+Patent Owner 
+
+
+______________________ 
+
+
+Case IPR NO. Unassigned 
+U.S. Patent 8,663,685 
+
+
+______________________ 
+
+
+COALITION FOR AFFORDABLE DRUGS (ADROCA) LLC’S 
+POWER OF ATTORNEY 
+
+
+(INTER PARTES REVIEW OF U.S. PATENT NO. 8,663,685)
+Patent No. 8,663,685 
+ 
+
+
+2 
+
+
+ 
+CERTIFICATE OF SERVICE 
+
+
+ 
+ I hereby certify that on February, 10, 2015, a copy of this Petition for Inter 
+
+
+Partes Review of U.S. Patent No. 8,663,685, including all exhibits (1001–1043), were 
+
+
+served via FEDEX, overnight delivery, upon the following: 
+
+
+
+
+
+AcordaJD 
+Jones Day 
+222 East 41st Street 
+New York, NY 10017 
+ 
+Anthony Michael 
+Acorda Therapeutics, Inc. 
+420 Saw Mill River Road 
+Ardsley, NY 10502 
+ 
+  
+
+
+ 
+ /Ki O/   
+
+
+Date: February 10, 2015 Ki O

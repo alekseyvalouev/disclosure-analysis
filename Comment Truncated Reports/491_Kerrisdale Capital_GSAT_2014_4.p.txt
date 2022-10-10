@@ -1,0 +1,527 @@
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 1/26
+
+
+Globalstar: A Review Of The Experimental Licenses For TLPS
+Oct. 28, 2014 9:00 AM ET43 comments
+by: Kerrisdale Capital Management
+
+
+Summary
+
+
+A review of the history of Globalstar's experimental license activity indicates that
+GSAT itself doesn't know how TLPS could ever be monetizeable.
+
+
+Cisco is not a logical partner, and has publicly belittled TLPS. In the most recent
+experimental license, GSAT has merely committed to using Cisco access points.
+
+
+There is no unifying theme behind all of the TLPS experimental testing
+environments, which vary from rural roads to single-family homes to university
+campuses to Madison Square Gardens.
+
+
+Recently, Globalstar Inc. (NYSEMKT:GSAT) applied to the FCC for a new experimental
+license to test its Terrestrial Low Power Service (TLPS) concept in California. Though the
+initial irrational enthusiasm over this relatively unimportant piece of news has already
+started to die down, the history of Globalstar's experimental license activity illustrates the
+many shortcomings of TLPS and provides further evidence that TLPS will never be
+commercially viable.
+
+
+Background
+
+
+On October 20th, Globalstar applied to the FCC for an experimental license to use the
+Channel 14/TLPS frequencies in San Carlos, California, using two Cisco access-point
+(AP) models, the Aironet 1570 and 3700. The 1570 is specially designed for outdoor
+usage; the 3700 is high-end and indoor-oriented; and both are capable of 802.11ac, the
+latest Wi-Fi standard, which is defined only for 5GHz, and which TLPS will therefore never
+be able to offer. An exhibit attached to the application described the "Research and
+Experiment Objectives Specific to this License Application" as follows:
+
+
+"Determine the efficacy of TLPS for outdoor small cell use in diverse semi-urban
+environments."
+"Determine the efficacy of TLPS for latency intolerant/high priority applications."
+
+
+If granted, this TLPS-related experimental license would not be the first, as the table
+below shows:
+
+
+
+https://seekingalpha.com/symbol/GSAT
+
+http://www.cisco.com/c/en/us/products/wireless/aironet-1570-series/index.html
+
+http://www.cisco.com/en/US/products/ps13367/index.html
+
+http://blogs.cisco.com/wireless/cisco-is-the-first-access-point-vendor-to-cross-the-1-million-units-sold-mark-for-802-11ac/
+
+https://apps.fcc.gov/els/GetAtt.html?id=154721&x=.
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 2/26
+
+
+Licensee Locations Call sign App. date Grant date
+
+
+Jarvinian Cambridge, MA WG2XNK (exhibit) 2/13/13 3/25/13
+
+
+Jarvinian various, CA WG2XNS (exhibit) 3/6/13 4/1/13
+
+
+Jarvinian New Orleans, LA WG2XUC (exhibit) 7/11/13 8/8/13
+
+
+Jarvinian various, NY WH2XBC (exhibit) 2/5/14 3/5/14
+
+
+Globalstar San Carlos, CA pending (exhibit) 10/20/14 n/a
+
+
+Globalstar's partner, Jarvinian has had at least one experimental license covering Channel
+14 for more than 18 months. Yet, not only is Globalstar still seeking to make sense of "the
+efficacy of TLPS" for different use cases, but Globalstar has never seen fit to release
+detailed results from any of these prior tests, with the arguable exception of the thin and
+misleading publicly disclosed "results" (obtained under the initial Cambridge license) that
+we criticized in a prior report, and two (1, 2) ex parte letters to the FCC.
+
+
+Since Globalstar has no new technology to keep secret - just a single channel of its own -
+we find no good reason for withholding test results. But Globalstar may not want to
+acknowledge certain basic facts about TLPS. For example, in a scenario in which TLPS's
+primary user devices are smartphones, its maximum throughput - shared across all
+devices that are in range of each other - will be at best ~35 Mbps, equivalent to roughly
+seven concurrent high-definition Netflix streams.  This is the same as any other 20MHz
+802.11n channel. The higher effective range of 2.4GHz Wi-Fi, touted by Globalstar and
+Jarvinian as a great advantage, is in fact a disadvantage when the goal is to offer high
+capacity and support many users. But if TLPS can't support large numbers of users or
+high-value applications, let alone outdo existing public Wi-Fi and cellular coverage, how
+can it possibly warrant a multi-billion dollar valuation? As we'll discuss later in this
+discussion, Globalstar's aimless testing efforts provides further evidence that the company
+itself has no clear vision of how TLPS would generate meaningful value.
+
+
+Cisco Is Not a Logical Partner, and Has Publicly Belittled TLPS
+
+
+Some of the excitement over the experimental license application stemmed from the
+notion that Cisco (NASDAQ:CSCO) was somehow involved. However, all that the
+application itself says is that Globalstar will use Cisco APs. (By that standard, Kerrisdale
+
+
+1
+
+
+
+https://apps.fcc.gov/oetcf/els/reports/442_Print.cfm?mode=current&application_seq=54842&license_seq=55363
+
+https://apps.fcc.gov/els/GetAtt.html?id=133531&x=.
+
+https://apps.fcc.gov/oetcf/els/reports/442_Print.cfm?mode=current&application_seq=55171&license_seq=55692
+
+https://apps.fcc.gov/els/GetAtt.html?id=134138&x=.
+
+https://apps.fcc.gov/oetcf/els/reports/442_Print.cfm?mode=current&application_seq=56957&license_seq=57500
+
+https://apps.fcc.gov/els/GetAtt.html?id=139065&x=.
+
+https://apps.fcc.gov/oetcf/els/reports/442_Print.cfm?mode=current&application_seq=59387&license_seq=59939
+
+https://apps.fcc.gov/els/GetAtt.html?id=145591&x=.
+
+https://apps.fcc.gov/oetcf/els/reports/442_Print.cfm?mode=current&application_seq=62789&license_seq=63371
+
+https://apps.fcc.gov/els/GetAtt.html?id=154721&x=.
+
+http://kerr.co/testingreport
+
+http://apps.fcc.gov/ecfs/comment/view?id=60000971686
+
+http://apps.fcc.gov/ecfs/comment/view?id=60000973877
+
+https://seekingalpha.com/symbol/CSCO
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 3/26
+
+
+has partnered with Cisco to test TLPS: we used the Cisco Aironet 1262 in one of our lab
+tests.) The attached exhibit includes the phrase "Cisco Test Area" in small letters on
+Figure 5, but is otherwise silent on the topic.
+
+
+Cisco does operate a small public Wi-Fi network in San Carlos, a pleasant but modest
+suburb with a population of 28,000 that serves as a test case for Cisco's
+"Smart+Connected Communities" concept. Though Globalstar grandiosely declares that "
+[t]he city of San Carlos is used by industry as a test bed for advanced 802.11 network and
+application testing," that characterization came as a surprise to our Wi-Fi and technology
+contacts, including one who works directly on what he characterized as the only unusual
+Wi-Fi application in the city: a "smart parking" system. This system operates across a few
+hundred parking spaces. Buried sensors detect when a car is present, and communicate
+this information (not via Wi-Fi) to "gateway" units that relay it to a central management
+system; in some cases, drivers can view this data in real time to determine where to find
+an open space. In other cities, these gateways use cellular connections from the likes of
+AT&T and Verizon; in San Carlos, because the municipal Wi-Fi network already existed,
+they use Wi-Fi. (Note that Wi-Fi is not a necessary component of a smart parking system,
+since other cities utilize LTE).
+
+
+Smart parking is interesting and potentially valuable, but it has nothing to do with TLPS.
+Indeed, the existing San Carlos operation already demonstrates that notwithstanding
+Globalstar's fear-mongering about "Wi-Fi congestion" and the unsuitability of unlicensed
+spectrum for any latency-sensitive application, Wi-Fi works just fine.
+
+
+We don't know the true extent of Cisco's involvement in Globalstar's proposed tests.
+Perhaps Globalstar has won Cisco's cooperation, for instance by committing to buy its
+APs. In any event, though, Cisco will never be a logical "terrestrial partner" for a TLPS
+buildout. Cisco is not Boingo. It is in the business of selling Wi-Fi hardware and
+management software (among other things), not setting up networks and attempting to
+monetize them. Moreover, Globalstar advocates seem to forget that Cisco does not truly
+support TLPS. Indeed, its May comments in the TLPS rulemaking proceeding are among
+the most biting (and substantive) on the record. We include a few quotations below to jog
+bulls' memories:
+
+
+"[W]hatever the Commission does in this proceeding, it should not retreat from its
+commitment to expanding use of the 5 GHz band for IEEE 802.11 devices. The
+benefits promised by Globalstar's latest business plan pale in comparison to the public
+benefits that will be achieved as the Commission opens [additional 5GHz spectrum]...
+for Wi-Fi use and allows the potential of IEEE 802.11ac to be fully realized."
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2014/10/Allion-Report-on-Wifi-Adjacent-Channel-Interference.pdf
+
+https://apps.fcc.gov/els/GetAtt.html?id=154721&x=.
+
+http://en.wikipedia.org/wiki/San_Carlos,_California
+
+http://www.streetline.com/
+
+http://apps.fcc.gov/ecfs/document/view?id=7521111739
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 4/26
+
+
+"While Globalstar has claimed TLPS will offer higher data rates than traditional Wi-Fi at
+2.4 GHz, the Commission should note that Globalstar is not proposing here any
+technological advancement. To the contrary, Globalstar's plan is built around use of the
+legacy IEEE 802.11b/g/n amendments. To the extent that Globalstar's TLPS may offer
+higher speeds, it will simply be because fewer users will be willing to pay Globalstar for
+the privilege of using its spectrum and thus fewer users will be sharing Channel 14
+compared to other 2.4 GHz Wi-Fi channels."
+"Behind Globalstar's new moniker, TLPS will be nothing more than a paid Wi-Fi
+offering using the legacy IEEE 802.11b/g/n amendments."
+
+
+Has Cisco really gone from downplaying TLPS's significance and value in May to signing
+on as a full-fledged partner in October, when nothing has changed? We doubt it.
+
+
+Globalstar Itself Doesn't Know What TLPS Is For
+
+
+When we discuss TLPS with Globalstar equityholders, they often tell us that we've missed
+the real use case for TLPS. It's for residential areas in the suburbs; no, it's for lower
+Manhattan; no, it's for reaching greater distances in large spaces. It's for cable companies;
+no, it's for phone companies; no, it's for Google; no, it's for Amazon. We've also been told
+it's obviously not for managed environments like universities or stadiums, supposedly
+rendering our analysis of those environments irrelevant; it's also obviously not for indoor
+networks. But we can't blame the market for failing to have a consistent vision of what
+TLPS would really be, given that Globalstar itself seems deeply uncertain.
+
+
+Just consider what Globalstar and Jarvinian say they're investigating. In New Orleans -
+specifically, at the University of New Orleans - their stated goal was to "[d]etermine the
+efficacy of TLPS relative to public 802.11 channels in a university environment." We have
+never heard any investor tout the higher education market as a great opportunity for
+TLPS, but that was what Globalstar and Jarvinian focused on last summer. Of course, this
+makes no sense. As we have previously documented, universities are quite advanced in
+their usage of 5GHz: at one large school, 60% of the data that moved over the campus
+Wi-Fi network in the last two months used the 5GHz band, flying in the face of the bizarre
+claim from Globalstar's October 9th conference call that 5GHz is "simply not an effective
+option" for "a service that has to be designed to be reliable." Indeed, 5GHz is the only way
+universities can hope to build the high-capacity networks their users demand. TLPS has
+nothing to offer them. (Matt Williams, the former assistant director of networking at
+Bucknell University, provided a good overview at the recent Interop New York conference
+of the historical transition from coverage-oriented, 2.4GHz-focused Wi-Fi designs
+
+
+
+http://kerrisdalecap.com/wp-content/uploads/2014/10/Kerrisdale-Prelim-Response-to-Globalstar-Conference-Call-on-10-9-141.pdf
+
+http://presentations.interop.com/events/new-york/2014/conference/download/1968
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 5/26
+
+
+developed years ago to the capacity-oriented, 5GHz-focused networks of today. His
+practical advice was that network administrators should "design for 5GHz at -65 [dBm] on
+the device with the crappiest antenna you can find.")
+
+
+Next, Globalstar and Jarvinian sought to test TLPS in a range of different environments in
+the New York area and now in San Carlos. Even though Globalstar has always pitched
+TLPS as a solution to the "congestion" allegedly afflicting high-density areas, it has
+primarily examined low-density areas where, by its own admission, the TLPS value
+proposition is hard to fathom:
+
+
+"A rural transit environment" (WH2XBC exhibit, p. 5-7): TLPS would presumably be
+used to offer internet access to drivers on Route 48 in a rural part of Long Island -
+likely using 802.11b, a 15-year-old protocol. This simply cannot be taken seriously as a
+business plan or even the kernel of one. (Note that companies like GM that have
+started to offer in-car Wi-Fi are actually using LTE cellular service for backhaul and
+merely distributing the data within the car via Wi-Fi.)
+"A low-density enterprise environment" (WH2XBC exhibit, p. 7-9): TLPS in a small
+office park in Long Island. We find this use case particularly interesting because, in
+response to our prior criticisms of its purported test results from Cambridge, Globalstar
+insisted that what it presented - an image of a single AP serving a large office space -
+"was used to demonstrate the field test environment and not an intended deployment
+scheme." In February, however, Globalstar and Jarvinian grandly stated that "[t]he
+enterprise environment represents one of the most critical and challenging applications
+of 802.11 technology" and noted that "[t]his testing will build upon that [conducted in]...
+Cambridge, Massachusetts (experimental license: WG2XNK)." Nowhere did they
+mention that evidently this testing merely aimed to "demonstrate the field test
+environment," whatever that means, as opposed to showing anything more realistic or
+useful.
+"A moderate-density suburban single-family home environment" (WH2XBC exhibit, p.
+7-9): a house in Long Island. Here Jarvinian asserted that 2.4GHz interference
+"threatens a broad diversity of applications, particularly those that are bit intensive and
+latency intolerant (e.g. live video, gaming, etc.)." Yet, on Globalstar's October 9th
+conference call, Jarvinian's John Dooley, in an attempted show of fair-mindedness,
+said, "I highly recommend people use 5 gigahertz to connect to all of their audio/video
+equipment." In that case, how could TLPS possibly help for "live video, gaming, etc." in
+a suburban residence?
+"A moderate-density suburban single-family home environment" (WH2XBC exhibit, p.
+9-10): Smithtown, NY. Here is the face of the multi-billion dollar TLPS network that
+
+
+
+http://online.wsj.com/articles/gm-targets-ford-sync-with-new-wi-fi-push-1404360207
+
+http://www.globalstar.com/en/index.php?cid=7010&pressId=848
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 6/26
+
+
+Globalstar holders dream of:
+
+
+Source: Exhibit to Jarvinian experimental license application, file no. 0012:EX:PL:2014,
+dated 2/5/14
+
+
+("[D]espite the relatively low level of foot traffic," Jarvinian insists, "local 2.4 GHz ISM Band
+interference is severe." Really?)
+
+
+A "moderate-density outdoor suburban environment" (WH2XBC exhibit, p. 10-14):
+Trying to serve an entire school, in this case the J.M. Rapport School for Career
+Development in South Bronx, with a single strand-mount AP across the street is
+beyond ludicrous. While the "one AP per classroom" rule of thumb for K-12 Wi-Fi
+design is widely lampooned by the most skilled practitioners, it at least speaks to the
+scale of the problem: one AP, and thus one channel, certainly isn't going to cut it. And
+with many APs and high user counts, the small number of channels in 2.4GHz simply
+can't deliver a good experience, TLPS or no TLPS; 5GHz is the centerpiece of all
+modern Wi-Fi in schools.
+"A high-density urban environment" (WH2XBC exhibit, p. 16-17): Madison Square
+Garden. Recall that several people dismissed our past use of examples of successful
+large-scale Wi-Fi networks drawn from football stadiums and similar locations, arguing
+
+
+
+http://schools.nyc.gov/schoolportals/07/X754&ei=cgZOVP6OKI3LgwSZg4LQBw&usg=AFQjCNE8I1ij8TMBMTKIkbTbGX75MlHORw&sig2=eJjkDNW_vGokuhsUJH0EgA&bvm=bv.77
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 7/26
+
+
+that such environments were clearly not the intended home of TLPS. Yet, here we find
+Globalstar and Jarvinian trying to get one 2.4GHz channel to serve a massive, packed
+arena. We wish them luck. Fortunately for data-hungry stadium-goers, real Wi-Fi can
+use two dozen free, unlicensed channels, which, coupled with smart designs, makes
+possible the following photo from Game 5 of the World Series ("#WiFiLikeaBoss"):
+
+
+Source: @WiFivomFranMan, 10/26/14. Congestion? What congestion?
+
+
+"Diverse semi-urban environments": The San Carlos outdoor test already discussed.
+San Carlos features a small, suburban network that already serves its intended
+purpose. How would TLPS help?
+"Latency intolerant/high priority applications": This final stated use case is vague, but
+still misguided. Globalstar bemoans that, "[f]or all the convenience of public 802.11
+connectivity, the efficacy of real-time functions like IP telephony... are impossible to
+guarantee on unlicensed spectrum." But this is simply false on any reasonable
+interpretation. Voice over Wi-Fi is so common in enterprises that we used Cisco's
+Design Principles for Voice over WLAN to guide the predictive survey work we
+commissioned in our previous report. T-Mobile is supporting voice over Wi-Fi today
+and giving its customer free 5GHz-capable 802.11ac routers to encourage it. At the
+recent Certified Wireless Network Professional conference, Jon Linton gave a detailed
+
+
+
+https://twitter.com/WiFivomFranMan/status/526554841121042434
+
+http://www.cisco.com/c/en/us/solutions/collateral/wireless/4400-series-wireless-lan-controllers/net_implementation_white_paper0900aecd804f1a46.pdf
+
+http://www.t-mobile.com/offer/wifi-calling-wifi-extenders.html
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 8/26
+
+
+and nuanced presentation about voice over Wi-Fi, including the advantages and
+disadvantage of the 2.4 and 5GHz bands. What he didn't do was throw his hands in
+the air and declare that the efficacy of real-time telephony was impossible to guarantee
+on unlicensed spectrum. Globalstar has declared the impossibility of something that
+Wi-Fi professionals successfully manage all the time.
+
+
+What is the unifying theme behind all of these proposed and tested TLPS use cases, from
+rural roads to Madison Square Garden? There isn't one. Globalstar is searching in vain for
+a problem TLPS can solve - a problem that matters, with real money to be made - and
+finding nothing. The tests are indoor and outdoor, in managed multi-AP environments and
+in one-off locations, in offices and in homes, in the city and in the country. There is no
+determinate TLPS vision, just an amorphous set of buzzwords. Investors have ascribed
+billions of dollars of value to TLPS in the hope that there's some secret plan behind it all,
+but there isn't.
+
+
+Globalstar's Testing Continues to Mislead
+
+
+Globalstar has thoroughly doubled down on its overblown claims about Wi-Fi congestion,
+even the claim that the 2.4GHz band is already "exhausted" today and "has come to an
+end effectively as a public resource" (yet, somehow, 2.4GHz simultaneously remains "the
+primary band for Wi-Fi"). But one of the images it submitted to the FCC in its most recent
+experimental license application, stripped of its spin, undermines those claims. Globalstar
+and Jarvinian like to toss around colorful spectrograms, giving the appearance of rich
+technical content - yet, they usually lack important information like z-axis labels, making it
+impossible to interpret them quantitatively. (For example, what power level does "red"
+correspond to? Rarely is there a legend, let alone a readable one.) The point of these
+images isn't to inform: it's to be superficially impressive.
+
+
+Below, we show a spectrogram included in the latest license application; the same image
+appeared in Jarvinian's previous application (WH2XBC exhibit, p. 14, Figure 13). It depicts
+the observed power levels across the range of frequencies from 2.4 to 2.5 GHz in a
+specified location in Smithtown, NY. We have modified the image to include the red
+vertical lines, which indicate the center frequencies of Wi-Fi Channels 1, 6, 11, and 14.
+
+
+
+http://www.cwnp.com/uploads/jon-linton_vo-wifi-technologies.pdf
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 9/26
+
+
+Source: Kerrisdale modification of image from Globalstar's 10/20/14 experimental license
+application, technical exhibit
+
+
+Globalstar's gloss on this image is that it depicts "severe 2.4 GHz ISM interference." But
+how severe is it, really? One clue comes from the largely blue rectangle at the top, which
+charts emissions over time (going down), with redder hues indicating more power in a
+given small frequency band. But the overall pattern is clearly more blue than red, and the
+"red" value - if we squint - appears to be set at ~-74 dBm, which is not especially high (a
+strong indoor Wi-Fi signal a few feet from an AP might be -35 dBm). Moreover, within the
+lower portion of the chart, while Globalstar wants to focus on the upper "max" line, the
+middle "average" line tells a more important story - and one that makes much more sense
+in the low-traffic Smithtown, NY location in question. While the TLPS band is largely
+unused, its average power level is not dramatically lower than that of Channels 1, 6, or 11.
+At their peaks, those frequencies do spike to much higher than average power levels, but
+there simply aren't enough bursts of activity to drive the average level very high - hence,
+all the blue in the "waterfall" view at the top. This is not an image of severe interference.
+It's an image of modest, transient Wi-Fi activity in just one of the unlicensed bands where
+it exists. But it's difficult to see that, because it's not the story Globalstar and its partners
+are interested in telling.
+
+
+
+https://apps.fcc.gov/els/GetAtt.html?id=154721&x=.
+
+https://static.seekingalpha.com/uploads/2014/10/559143_14144705238913_2.png
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 10/26
+
+
+On a different but related note, we again find that Globalstar is not being forthright about
+the kind of "testing" it has conducted and is seeking to conduct. When reasonable,
+passably tech-savvy people hear about Wi-Fi testing, they assume it means connecting
+user devices to a network and assessing things like throughput. Tests like that are what
+Wi-Fi testing firms do for a living. But it's interesting to note that Jarvinian and Globalstar
+have never sought permission in their experimental license applications to use any phone,
+tablet, or laptop on TLPS. They have only requested the permission to use APs. As a
+result, there appears to be no legal way (outside of an anechoic chamber) they could have
+done the genuine real-world tests that investors have come to believe they have. Indeed,
+even if one weren't interested in device-to-AP throughput, Wi-Fi generally requires clients
+to send acknowledgement (ACK) frames back to their APs in order to confirm the receipt
+of data, so clients will necessarily transmit as well as receive. Whatever Globalstar and
+Jarvinian have been doing, it's hard to see how even something as simple as running the
+SpeedTest.net app would be permitted under the authority they've obtained. At a
+minimum, they have never openly discussed these problems.
+
+
+Cisco, however, did raise this point in its May comments (emphasis added):
+
+
+Globalstar contends that "[m]ost 802.11-enabled consumer devices have the
+hardware needed to operate at 2473-2495 MHz, but they lack the physical capability
+to operate above 2483.5 MHz in the United States because of restrictions in their
+radiofrequency ("RF") software." Globalstar Petition at 17. It is not clear to Cisco
+that this is necessarily the case, and Cisco looks forward to reviewing the
+responses from manufacturers of 2.4 GHz Wi-Fi consumer devices that will inform
+the record on whether Channel 14 actually can be activated in client devices by a
+simple software upgrade.
+
+
+One wonders if Globalstar and Jarvinian are shying away from testing user devices simply
+because they can't.
+
+
+Conclusion
+
+
+In isolation, Globalstar's latest experimental license application doesn't mean much; for
+TLPS, it's not the first and likely won't be the last. This does nothing to change our
+fundamental thesis that TLPS is a non-solution to a non-problem. But the materials
+supporting the application and its predecessors serve as a useful reminder that there is no
+well-defined business case for TLPS, just an array of vague hopes and dreams supported
+by inadequate data. The Globalstar bubble still has billions of dollars left before it fully
+deflates.
+
+
+
+http://www.speedtest.net/
+5/23/2018 Globalstar: A Review Of The Experimental Licenses For TLPS - Globalstar, Inc. (NYSEMKT:GSAT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2603155-globalstar-a-review-of-the-experimental-licenses-for-tlps 11/26
+
+

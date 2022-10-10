@@ -1,0 +1,654 @@
+Full Legal Disclaimer 
+
+
+
+
+
+Any investment involves substantial risks, including complete loss of capital. Any forecasts or estimates are for 
+illustrative purpose only and should not be taken as limitations of the maximum possible loss or gain. Any 
+information contained in this report may include forward-looking statements, expectations, and projections. You 
+should assume these types of statements, expectations, and projections may turn out to be incorrect. Use of 
+Spruce Point Capital Management LLC’s (“Spruce Point”) research is at your own risk. You should do your own 
+research and due diligence before making any investment decision with respect to securities covered herein. 
+
+
+You should assume that as of the publication date of any report or letter, Spruce Point (possibly along with or 
+through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
+has a short position in all stocks (and/or are long puts/short call options of the stock) covered herein, including 
+without limitation Bazaarvoice Inc. and therefore stands to realize significant gains in the event that the price of 
+stock declines. Following publication of any report or letter, we intend to continue transacting in the securities 
+covered therein, and we may be long, short, or neutral at any time hereafter regardless of our initial 
+recommendation. 
+
+
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to 
+any person, in any jurisdiction in which such offer would be unlawful under the securities laws of such jurisdiction. 
+Spruce Point is not registered as an investment advisor, financial advisor, or broker/dealer. 
+
+
+To the best of our ability and belief, all information contained herein is accurate and reliable, and has been 
+obtained from public sources we believe to be accurate and reliable, and who are not insiders or connected 
+persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the 
+issuer, or to any other person or entity that was breached by the transmission of information to Spruce Point. 
+However, such information is presented “as is,” without warranty of any kind – whether express or implied. Spruce 
+Point makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
+information or with regard to the results to be obtained from its use. 
+
+
+All expressions of opinion are subject to change without notice, and Spruce Point does not undertake to update or 
+supplement this report or any of the information contained herein.
+Bazaarvoice's Valuation Is Utterly Bizarre 
+June 14, 2012 
+
+
+
+
+
+Situation Overview 
+ 
+
+
+On February 23rd, Bazaarvoice (Nasdaq: BV) raised $114 million at its initial public offering by selling 9.5 
+million shares at $12 per share. The expected pricing range was $8.00 - $10.00 per share, and the shares 
+ultimately closed at $16.50 on the first day of trading. At today's price of $17.00, the company's fully 
+diluted enterprise value is approximately $1.1 billion. 
+
+
+So what does this billion dollar company do? Bazaarvoice is a provider of social commerce solutions that 
+help clients capture, display and analyze online word-of-mouth, including consumer-generated ratings and 
+reviews, questions and answers, stories, recommendations, photographs, videos and other content about 
+their clients' brands, products or services. The company's solutions are provided via a SaaS platform to 
+clients in a range of industries including retail, consumer products, travel and leisure, technology, financial 
+services, healthcare and automotive industries. 
+
+
+Call me anti-social or just an extreme skeptic, but I struggle to justify BV's $1.1 billion enterprise value. 
+Since being founded in May 2005, the company has been unable to reach an EBITDA or cash flow positive 
+break-point, and is not projected to do so any time soon. When you strip-out the Wall Street buzz words du 
+jour of "social" and "SaaS" from BV's business description, you're left with what appears to be a pedestrian 
+marketing analytics company that may forever be challenged to achieve commercial success. Even the most 
+bullish Wall Street estimates have BV bleeding cash until 2014, which would mark a total of 9 years of 
+consecutive losses. 
+
+
+Of course, there's no guarantee that the company will ever achieve a profit, or a proven business model. A 
+major sticking point for potential customers appears to be their unwillingness to embrace BV's solution 
+such as Ratings & Reviews, due to the discomfort with displaying negative reviews about products or 
+services offered on their websites. Furthermore, policing fraudulent or inaccurate reviews presents a major 
+challenge. 
+
+
+In the table below I've illustrated BV's historical and projected financial model. The company will be 
+investing heavily in sales, marketing, research and development expenses in the next few years. This will 
+keep adjusted EBITDA and free cash flow strongly negative. The analysts are expecting this investment to 
+continue driving revenue growth, but at a sharply lower growth rate from recent history. The revenue 
+growth rate is expected to decline to 24.0% in calendar year 2013, from 67.7% in 2011.
+There may be a glimmer of hope for BV's financial future if you believe the company's cohort analysis 
+provided in the prospectus. Since the company makes significant upfront investments in acquiring new 
+clients, it does take time to achieve a return on the investment, especially since revenue is recognized 
+ratably over the contract life when the customer starts using the solution. The 2008 client cohort analysis is 
+illustrated in the table below. The historical evidence is limited to just one cohort so far, so there is not 
+enough current evidence to say for sure if their model will succeed. 
+
+
+
+
+
+
+
+
+
+
+
+Bazaarvoice Historical and Projected Financials
+Fiscal Yr. Ended April 30,
+$ in mi l l ions
+
+
+Wall St. Projections
+2009 2010 2011 2012 2013E 2014E
+
+
+Sales $22.5 $38.6 $64.8 $106.1 $131.6 $167.0
+growth -- 72.0% 67.7% 63.7% 24.0% 26.9%
+
+
+Cost of Sales $8.3 $15.2 $25.6 $36.4 $43.5 $54.2
+  % of sales 36.9% 39.3% 39.5% 34.3% 33.0% 32.5%
+
+
+Sales/Marketing Expense $10.7 $16.9 $33.4 $49.7 $62.4 $67.1
+  % of sales 47.8% 43.7% 51.6% 46.9% 47.4% 40.1%
+R&D Expense $3.2 $5.4 $10.1 $20.8 $28.9 $30.4
+  % of sales 14.2% 13.8% 15.6% 19.6% 21.9% 18.2%
+General/Admin. Expense $4.2 $7.0 $11.3 $21.9 $23.4 $25.2
+  % of sales 18.5% 18.1% 17.4% 20.6% 17.8% 15.1%
+Total Operating Expenses $18.1 $29.2 $54.8 $92.4 $114.7 $122.6
+  % of sales 80.4% 75.7% 84.6% 87.1% 87.1% 73.4%
+
+
+Adjusted EBITDA ($3.3) ($4.2) ($13.3) ($12.9) ($27.0) ($10.0)
+  % of sales -14.9% -10.9% -20.5% -12.2% -20.5% -6.0%
+
+
+Cash from Operations $0.2 $5.2 ($0.6) ($0.3) ($18.8) ($3.6)
+Capex ($1.0) ($6.8) ($2.8) ($5.1) ($10.0) ($13.1)
+Free Cash Flow ($0.8) ($1.6) ($3.5) ($5.4) ($28.8) ($16.7)
+  % of sales -3.7% -4.2% -5.3% -5.1% -21.9% -10.0%
+
+
+Source: Company filings, Wall St. Research
+
+
+$ in millions
+2011
+
+
+2008 Result of Total
+Cohort 2008 Cohort 2008-2011
+
+
+Revenue $2.3 $17.9 $62.2
+
+
+Sales/Marketing Costs $5.0 $4.1 $17.3
+
+
+Cash Collected $4.1 $18.6 $66.3
+
+
+Source: Bazaarvoice Prospectus
+For the current time, investors are left to marvel at the wildly bullish sell-side analyst commentary, and 
+valuation techniques reminiscent of the internet heyday to justify their price targets. Take Credit Suisse for 
+example, which proclaimed in their April 6th initiation report that "BV is a market leader in a duopoly, with 
+a network larger than Amazon's (AMZN)." Most of the sell-side research indicates that BV has just one 
+competitor called PowerReviews, and that BV has twice the market share. I suppose it depends on how you 
+define which "market" BV is servicing since the market for web analytics and market research is pretty 
+broad and intensely competitive. 
+
+
+If it truly is a duopoly, then it must exist because there are no profits in this market to attract other 
+competition, or barriers to entry are incredibly high in this industry. If BV and PowerReviews are not the 
+next Pepsi (PEP) / Coke (KO), Airbus / Boeing (BA) or FedEx (FDX) / UPS combo, then it appears Wall Street 
+analysts are being overly generous in proclaiming them to be a market leader in a duopoly. Even BV admits 
+in its prospectus that its competition is broad, intensely competitive, and subject to a changing landscape. 
+
+
+Our main competition is from traditional marketing and advertising programs used by businesses that 
+remain hesitant to embrace social commerce solutions such as Ratings & Reviews. Additionally, some 
+businesses have developed, or may develop in the future, social commerce solutions internally. These 
+businesses may consider their internal solutions adequate, even if our solutions are superior. We have 
+several direct and indirect competitors that provide third-party social commerce solutions, including 
+companies like PowerReviews, Inc. and Revieworld Ltd. Additionally, we face potential competition from 
+participants in adjacent markets that may enter our markets by leveraging related technologies and 
+partnering with other companies. We may also face competition from companies entering our market, 
+including large Internet companies like Google (GOOG) and Facebook (FB), which could expand their 
+platforms or acquire a competitor. While these companies do not currently focus on our market, they have 
+significantly greater financial resources and, in the case of Google, a longer operating history. 
+
+
+Given the competitive dynamics and struggle to make a profit in the industry, it came as no surprise to me 
+that on May 24th, BV announced and closed the acquisition of PowerReviews. I'm still waiting for the 
+analyst community to proclaim that BV no longer operates in a duoply, but now a dominant monopoly. The 
+acquisition appears highly defensive, and at a steep price to BV shareholders at approximately $168 million, 
+including $31 million in cash and 8.0 million shares (includes assumption/conversion of 1.6m options). 
+PowerReviews had 2011 revenues of just $11.5 million, and earnings losses, so the deal values the company 
+at 14.6x revenues. 
+
+
+The articulated strategic rationale is that the combined companies will deliver "higher ROI for clients 
+through an enhancement of the technology platform and the merging of two great teams." The key metric 
+that management guided investors towards was the combination of a larger client platform, with BV 
+contributing 737 clients, and PowerReviews contributing 1,800. Investors' initial reaction was to bid up BV's 
+stock price modestly on the announcement. However, investors might want to consider carefully that 
+management offered no tangible roadmap or guidance as to how the deal would provide revenue and 
+earnings growth synergies, or cost savings. The ultimate success or failure of the deal will depend on 
+bottom-line financial results, which are still unproven and subject to above average risk.
+Meanwhile, on the deal announcement call, management reiterated that in "the overall competitive 
+landscape, there are dozens and dozens of companies competing for share of wallet around social, and 
+reach and scale is incredibly important." At least this is one point I agree with the company. 
+
+
+The landscape of existing and potential competitors for social commerce solutions is deep and wide. In a 
+quick internet search I found no less than 27 companies that are capable of assisting clients with aspects of 
+their social commerce strategies. I have characterized the competition as direct, adjacent, and potential. 
+Direct competitors offer essentially the same products and services as BV. 
+
+
+Adjacent competitors such as Google and Salesforce.com (CRM) could easily expand their platforms or 
+acquire competitors to offer most of BV's products and solutions. Potential competitors include companies 
+with a core focus on marketing services and analytics, that offer social solutions, and could move into the 
+social reviews space. Examples of such companies include Coremetrics, a business owned by IBM. 
+
+
+Competition in the social media marketing and solutions market appears to be intensifying at a rapid pace. 
+Just recently, Salesforce.com acquired Buddy Media for $689 million, while Oracle acquired Virtue for $300 
+million and Collective Intellect. While Buddy Media is perceived to be an adjacent competitor to BV, having 
+CRM's muscle behind it may be a catalyst for increasing movement into BV's space. Oracle's move to buy 
+Collective Intellect is a direct competitive threat; the company collects, processes and synthesizes online 
+consumer conversations. 
+
+
+
+
+
+Pro Forma BV/PowerReviews Deal 
+$ in millions
+
+
+Bazaarvoice PowerReviews Pro Forma
+
+
+Clients 737 1,100 1,800
+
+
+LTM Revenues $106.1 $11.5 $117.6
+
+
+Avg Rev/Client $144,011 $10,455 $65,353
+
+
+Fully Diluted Shares 66.1 8.0 74.1
+Stock Price $15.12 $18.00
+Equity Value $999.7 $1,333.9
+Less:  Cash $125.2 ($31.0) $94.2
+Enterprise Value $874.6 $1,239.7
+
+
+Ownership 89% 11% 100%
+
+
+EV/Revenues 8.2x 14.6x 10.5x
+EV/Client $1,186,685 $152,982 $688,719
+
+
+Notes: 
+
+
+PF ownership for options and warrant dilution assuming treasury stock method
+
+
+BV valuation is pre deal announcement
+After 12 hours of meticulously reviewing BV's product offering vis-à-vis a wide landscape of actual and 
+potential competitors, my head was spinning in social confusion from trying to figure out how BV could 
+differentiate itself and maintain its market position among all of these potential competitors. 
+
+
+Recall that BV's main value proposition to its customers are: 1) capturing and displaying word-of-mouth 
+content 2) analyzing this data and; 3) distributing and syndicating the content. In other words, when you 
+boil it down to basics, they collect, analyze and display data. This appears to be exactly what every company 
+I've identified in the table above is capable of doing. 
+
+
+What I also find striking is that only 1 out of 4 sell-side reports I reviewed even bothered to mention any 
+potential threat from the likes of Google. Therefore, it came as no surprise to me that not a single analyst 
+commented when on April 30th and June 5th, Google Analytics released new features that appear to 
+directly compete with BV's attempt to grow its own analytics business. The new set of social reports 
+produced by Google Analytics help measure the impact of social marketing initiatives and evaluate the 
+
+
+Product / Solution Offering
+
+
+Direct Adjacent Potential
+Social 
+
+
+Reviews
+
+
+Social / 
+Marketing 
+Solutions
+
+
+Social Media 
+Research/ 
+Analytics
+
+
+Social 
+Network
+
+
+Reevoo x x x x
+Lithium x x x
+Oracle x x x x
+Google x x x x
+Facebook x x x x
+Twitter x x
+NM Incite (Nielsen) x x
+Buddy Media (CRM) x x x
+Jive Software x x x
+Yammer x x
+Chatter (Salesforce) x x
+Hootsuite (Adobe) x x x
+socialkik x x
+Merkle x x
+WebTrends x x
+comScore x
+ValueClick x x
+Gemius x x
+Compete x x x
+Experian x x x
+Ipsos x x
+GFK Group x x x
+Harris Interactive x x
+Adometry x x x
+DynamicLogic x x
+InsightExpress x x
+Coremetrics (IBM) x x x
+Acquity Group x x x
+
+
+Source: Public market research
+
+
+Competitive Assessment
+effect social media has on a company's goals and e-commerce activities. The 4 new reports aggregate key 
+data points to help see the complete picture of how social marketing and media affect a business. 
+
+
+
+
+
+So what is BV really worth? 
+ 
+
+
+So how do you value a company with a long history and future of losses, an expensive new acquisition with 
+integration risks, and an admittedly uncertain business model with rapidly escalating competition? Any 
+traditional discounted cash flow (DCF) analysis would surely depend on very subjective assumptions. 
+Morgan Stanley and Piper Jaffray do not even attempt the futile exercise of a DCF. On the other hand, 
+Credit Suisse does perform a DCF and arrives at a $20 price target, but wisely initiates BV at a Neutral 
+rating, and warns that the stock is richly valued. Deutsche Bank stands alone with its most aggressive $27 
+price target, arrived at with a combination of a DCF analysis and multiple of sales target. 
+
+
+In fact, in the absence of any positive EBITDA or EPS targets in the near-term for BV, the only price 
+justification the analysts use is a multiple of sales. The obvious handicap here is that the analysts reference 
+other EPS negative businesses in rapidly evolving markets such as Jive Software (JIVE) and NetSuite (N). A 
+summary of the current analyst price targets and justifications are provided in the table below. 
+
+
+
+
+
+
+
+
+
+
+
+On the one hand, the company tells investors exactly what the shares are worth. On page 72 of the 
+company's prospectus, they detail that the last valuation analysis on January 17, 2012 conducted by the 
+board prior to going public was $9.60 per share. This is consistent with the initial IPO range. Why investors 
+have bid up the shares by 75% in the absence of any material financial improvement represents pure 
+speculation and investor euphoria. Therefore, it comes as no surprise that the company's CEO and CFO 
+have already made preparations to sell stock under Rule 10b5-1 while the stock is at elevated levels. 
+
+
+
+
+
+Broker Target Commentary
+
+
+Piper Jaffray
+Buy 
+/ $21  
+
+
+We note a healthy current valuation on BV shares due to frothy comparable valuations for the 
+Cloud/Social peer group; Our $21 price target is derived by applying an 8.8x EV/revenue 
+multiple to our CY2013 revenue forecast of $158.4 million. We view EV/revenue analysis as 
+more meaningful for early-stage companies that have not yet reached a mature margin or 
+cash flow profile
+
+
+Morgan Stanley
+Overweight 
+/ $24
+
+
+Our $24 target represents 0.32x EV/Sales/Growth, in line with high growth peers. We believe 
+a growth-adjusted EV/Sales multiple is the most appropriate metric for valuing BV. BV 
+currently trades at 7.3x EV/CY13 Sales or 0.25x on a growth-adjusted basis, a slight premium to 
+the peer group average of 0.24x but a discount to other high-growth names like JIVE (0.33x) 
+and N (0.44x)
+
+
+Credit Suisse
+Neutral 
+/ $20
+
+
+While there is much to like about the BV story, its shares have appreciated ~61% since its IPO, 
+there is limited upside potential to our $20 target price and we would prefer to wait for a 
+better entry point.
+
+
+Deutsche Bank
+Buy 
+/ $26  
+
+
+Our $26 PT is based on 10x 2013 EV/Revenue, and is supported by a DCF analysis with 14% 
+WACC and 18x terminal multiple, as cash flows grow with scale. Risks include high customer 
+acquisition costs, entry by larger social networking players and acquiring customers in a 
+macro downturn.
+
+
+Source: Analyst reports
+It's not exactly a ringing endorsement for the long-term prospects of the company when the two highest 
+level executives decide to sell shares in a little more than a month since coming public, and in the face of an 
+acquisition they describe as being excited about. The lock-up is set to expire in August, and a few months 
+later PowerReviews' shareholders will also get an opportunity to unload shares. 
+
+
+If we strip out the fluff of being a "social" and "SaaS" company, and focus on the actual fundamentals of 
+BV's business as a struggling marketing services company, we get to a more realistic valuation for the stock. 
+In the table below, I've listed the valuations of marketing service and social media companies. On an 
+enterprise value to 2012 calendar revenue basis, BV should trade closer to its marketing service peers at 
+1.5x - 2.5x revenue and not 8.7x. 
+
+
+
+
+
+
+
+
+
+
+
+Summary 
+
+
+BV has a history of burning cash for an extended period of time, and its recently announced deal to acquire 
+PowerReviews is expensive, defensive, and does not offer investors a clear roadmap to profitability. 
+Competition in the social media marketing and solutions market appears to be intensifying at a rapid pace, 
+as evidenced by Salesforce.com's acquisition of Buddy Media and Oracle's purchases of Virtue and 
+Collective Intellect. Google is also increasing its social analytics efforts through new and enhanced features. 
+
+
+
+
+
+Marketing and Digital Service Companies
+($ in millions, except per share figures)
+
+
+Stock % of '12E-'13E '12E-'13E LTM Enterprise Value / Price /
+Price 52-wk Ent. LTM  Revenue EPS EBITDA P / E EBITDA Revenue Tang Book
+
+
+Name Ticker 6/28/2012 High Value EBITDA Growth Growth Margin LTM 2012E 2013E LTM 2012E 2013E LTM 2012E 2013E Value
+
+
+Marketing and Digital Services
+GFK AG GFK $48.19 96% $2,226 $311 8.0% 14.4% 16.2% 16.8x 12.7x 11.1x 7.2x 7.3x 6.7x 1.2x 1.2x 1.1x NM
+Ipsos SA IPS $28.48 66% $2,054 $219 30.0% 7.8% 11.5% 6.5x 9.0x 8.3x 9.4x 8.1x 7.0x 1.1x 1.1x 0.9x NM
+ValueClick VCLK $14.00 64% $1,147 $76 11.7% 10.9% 12.7% 8.3x 9.0x 8.1x 15.2x 5.3x 4.6x 1.9x 1.6x 1.5x 3.1x
+Acxiom ACXM $13.91 93% $1,226 $237 -2.3% -5.4% 20.1% 26.8x 20.1x 21.2x 5.2x 5.2x 5.3x 1.0x 1.1x 1.1x 1.1x
+Arbitron ARB $34.68 78% $907 $119 5.2% 13.3% 27.7% 17.5x 15.4x 13.6x 7.7x 6.9x 6.4x 2.1x 2.0x 1.9x NM
+Comscore SCOR $15.72 56% $487 $49 16.3% 26.2% 20.2% 16.4x 15.3x 12.1x 10.0x 9.2x 7.7x 2.0x 1.8x 1.5x 6.0x
+Responsys MKTG $12.00 66% $481 $27 17.9% 50.0% 20.2% 57.1x 60.0x 40.0x 17.6x 19.2x 13.7x 3.6x 3.0x 2.5x 1.2x
+Acquity Group AQ $9.40 104% $190 $20 NA NA 18.7% 40.9x 18.8x 11.8x 9.5x 6.8x 4.9x 1.8x 1.3x 0.9x 1.0x
+Harris Interactive HPOL $1.10 81% $55 $6 NA NA 3.5% NM NA NA 9.8x 5.0x NA 0.3x 0.2x NA NM
+
+
+Max 30.0% 50.0% 27.7% 57.1x 60.0x 40.0x 17.6x 19.2x 13.7x 3.6x 3.0x 2.5x 6.0x
+Average 12.4% 16.8% 16.8% 23.8x 20.0x 15.8x 10.2x 8.1x 7.1x 1.7x 1.5x 1.4x 2.5x
+Min -2.3% -5.4% 3.5% 6.5x 9.0x 8.1x 5.2x 5.0x 4.6x 0.3x 0.2x 0.9x 1.0x
+
+
+Social Media
+Facebook FB $31.50 70% $64,206 $2,130 31.0% 26.9% 52.7% 80.8x 60.6x 47.7x 30.1x 24.1x 17.6x 15.9x 12.8x 9.8x 6.5x
+Groupon GRPN $10.00 32% $5,290 ($45) 29.2% 288.9% -2.4% NM 55.6x 14.3x NM 14.8x 7.6x 2.8x 2.2x 1.7x 13.7x
+Linkedin LNKD $103.65 86% $10,086 $80 48.5% 76.8% 12.9% 691.0x 150.2x 85.0x 126.7x 58.3x 33.6x 16.4x 11.1x 7.5x 17.0x
+Zynga ZNGA $5.53 35% $3,012 ($422) 21.4% 37.0% -34.6% NM 20.5x 14.9x NM 6.9x 5.1x 2.5x 2.1x 1.7x 2.6x
+Pandora P $10.17 39% $1,614 ($20) 43.3% 145.5% -6.6% NM NM 203.4x NM NM 179.3x 5.3x 3.8x 2.6x 18.5x
+
+
+48.5% 288.9% 52.7% 691.0x 150.2x 203.4x 126.7x 58.3x 179.3x 16.4x 12.8x 9.8x 18.5x
+Max 34.7% 115.0% 4.4% 385.9x 71.7x 73.1x 78.4x 26.0x 48.6x 8.6x 6.4x 4.7x 11.6x
+Average 21.4% 26.9% -34.6% 80.8x 20.5x 14.3x 30.1x 6.9x 5.1x 2.5x 2.1x 1.7x 2.6x
+Min
+
+
+Bazaarvoice (1) BV $18.00 85% $1,240 ($18) 15.3% 31.0% -15.5% NM NM NM NM NM NM 10.5x 9.2x 8.0x 21.8x
+
+
+(1) Pro forma for PowerReviews acquisition
+Source: Company financials, Wall St. estimates.
+With the passing of the Facebook IPO and the share price down by 30% from the IPO price, the social media 
+craze is showing signs of fizzling fast. The following chart illustrates the post-IPO performance of social 
+media stocks and reveals that the average stock price is down by 37%. 
+
+
+
+
+
+
+
+
+
+
+
+The naked reality that BV is nothing more than a marketing and digital service company will slowly set in. I 
+believe the shares should trade at a more reasonable multiple closer to its marketing and digital service 
+peers of 1.5x - 2.5x revenues. Other social media companies are already being revalued at this normalized 
+multiple. For example, both Groupon and Zynga now trade around 2.0x 2012E revenues. It's also worth 
+considering that Facebook, which is the only proven and profitable company in the social media universe, is 
+now trading at 11.0x 2012E sales versus BV's 8.7x multiple. 
+
+
+Therefore, given BV's above average competitive and financial risk, I arrive at a maximum price target of 
+approximately $5.64/share. 
+
+
+
+
+
+
+
+
+
+
+
+Social Media Stock Returns - Days Post IPO
+
+
+-60%
+
+
+-48%
+
+
+4%
+
+
+-49%
+
+
+-80%
+
+
+-60%
+
+
+-40%
+
+
+-20%
+
+
+0%
+
+
+20%
+
+
+40%
+
+
+60%
+
+
+80%
+
+
+1 7 13 19 25 31 37 43 49 55 61 67 73 79 85 91 97 10
+3
+
+
+10
+9
+
+
+11
+5
+
+
+12
+1
+
+
+12
+7
+
+
+13
+3
+
+
+13
+9
+
+
+14
+5
+
+
+15
+1
+
+
+GRPN FB ZNGA BV MM
+
+
+Days Post IPO
+
+
+BV Share Price Target
+Multiple Range
+
+
+Valuation Metric Value 1.5x -- 2.5x
+
+
+CY 2012E Sales $134.6 $4.00 -- $5.81
+
+
+Note: Assumes $82m in cash and 73.6m FD shares

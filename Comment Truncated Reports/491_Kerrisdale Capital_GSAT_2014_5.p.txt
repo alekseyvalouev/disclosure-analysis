@@ -1,0 +1,558 @@
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 1/29
+
+
+Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A
+Major Threat To TLPS Usability
+Nov. 25, 2014 9:00 AM ET45 comments
+by: Kerrisdale Capital Management
+
+
+Summary
+
+
+Wi-Fi/LTE coexistence filters need Channel 14 to act as a guard band to prevent Wi-
+Fi and Sprint's 2.5GHz LTE spectrum from interfering with one another.
+
+
+The most advanced filtering technology cannot function properly without a 10MHz+
+guard band.
+
+
+Therefore, the technology currently doesn't exist to allow unlicensed Wi-Fi, Channel
+14 communications, and 2.5GHz LTE to all co-exist within the same phone.
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 2/29
+
+
+
+
+
+This graph illustrates the impact that the filters inside many mobile devices have on Channel 14
+
+
+signals: dramatic degradation. These filters are tiny devices that transform radio signals by allowing
+
+
+certain frequencies through but suppressing others. The y axis measures the attenuation, or
+
+
+suppression, of the signal. A more negative figure in decibels corresponds to a more attenuated
+
+
+signal. The x axis measures the frequency of the signal. At the high-frequency edge of Channel 14,
+
+
+the attenuation would be approximately 25 decibels -- a reduction in signal strength of more than
+
+
+300 times.
+
+
+Source: Avago Technologies ACFF-1024 data sheet (p. 3), Kerrisdale analysis
+
+
+Note: purple lines and label added to Avago graph to highlight the level of typical insertion loss at the
+
+
+edges and center of a hypothetical 802.11n Channel 14 (2474-2494 MHz).
+
+
+One of the key purported advantages of Globalstar's (NYSEMKT:GSAT) Terrestrial Low
+Power Service (TLPS) is the existence of a large number of 2.4GHz Wi-Fi devices that,
+according to Globalstar, have the technical ability to transmit on its channel but are
+prevented from doing so via firmware. As Globalstar wrote in its initial petition to the FCC
+(p. 3),
+
+
+
+http://www.avagotech.com/docs/AV02-3973EN
+
+https://seekingalpha.com/symbol/GSAT
+
+http://www.globalstar.com/en/ir/docs/FCC12-Petition_for_Rule_Making_Nov_13th.pdf
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 3/29
+
+
+802.11 compliant hardware is already capable of utilizing 802.11 Channel 14 with a
+device firmware modification. This means that TLPS will benefit from a substantial
+existing ecosystem, which can be utilized almost immediately.
+
+
+Though "[m]ost if not all TLPS access points," in Globalstar's words (p. 42, footnote 105),
+"will be newly manufactured equipment" under the control of a hypothetical "network
+operating system" that will supposedly prevent interference to the company's satellite
+customers, no one envisions TLPS-specific user devices. Instead, the dream put forth in,
+for example, Globalstar's October 9 attempt to rebut our arguments, is that it will only take
+"several months" following the finalization of the TLPS rule to enable the service in
+popular devices like the iPhone.
+
+
+Globalstar has neither the means nor the right to create, let alone disseminate, these
+firmware updates, which would be specific to individual manufacturers and device models.
+The manufacturers, likely in collaboration with chipset vendors, would have to choose to
+undertake this work, for no apparent reward. Though this practical hurdle to deployment is
+indeed serious, here we focus on a different concern: Wi-Fi/LTE coexistence filters.
+Assume that an iPhone 6, Samsung Galaxy S5, or other popular user device did indeed
+receive a firmware update that freed it to transmit on Channel 14. The problem is that
+hardware filters inside many of these devices would severely impair the resulting signals.
+In some cases, like the Avago filter shown above, a filter would attenuate the signal by a
+factor of >200x before it even left the phone. Needless to say, this would degrade the
+performance of TLPS, especially relative to Globalstar's ludicrous hype, and in some
+scenarios could render it unusable. The entire point of these filters is to suppress
+transmissions that lie outside of their "passbands," meaning the range of frequencies that
+pass through the filter largely unscathed; since much of Channel 14 does lie outside of
+their passbands, it's no surprise that the results could be disastrous.
+
+
+Source: "Globalstar Value Proposition," October 9, 2014, slide 30
+
+
+
+http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjU0MzI3fENoaWxkSUQ9LTF8VHlwZT0z&t=1
+
+http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjU0MzI3fENoaWxkSUQ9LTF8VHlwZT0z&t=1
+
+https://static.seekingalpha.com/uploads/2014/11/559143_14168534437265_rId14.png
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 4/29
+
+
+Why has Globalstar never discussed (or perhaps even noticed) this problem? One likely
+reason is that it has never actually tested TLPS using real user devices, at least according
+to its experimental-license applications to the FCC, which have only mentioned access
+points, not user devices like phones or tablets. In its recent ex parte letter responding to
+some of our concerns, Globalstar did not even claim to have tested user devices,
+speaking only of "access point transmissions" (p. 2). Without even attempting to connect
+real devices to TLPS APs - perhaps because it has been unable to properly modify third-
+party firmware for which it lacks the source code - Globalstar would be unlikely to come
+across this problem. But it would obviously loom large in the mind of any potential partner.
+After all, why pay billions for TLPS if the most popular mobile devices in the world can
+barely use it?
+
+
+Nor is there any easy fix. While we believe that similar coexistence filters would also
+impair Channel 14 transmissions from many access points - indeed, even on the Ruckus
+access points that Globalstar purportedly used for some of its testing - the impact is
+potentially mitigated by Globalstar's intention to deploy custom APs (albeit at higher cost).
+For user devices, however, the story is different. The filters used to prevent Wi-Fi signals
+from interfering with nearby LTE bands are already high-performance, state-of-the-art
+devices, yet it's already difficult for them to achieve the required signal rejection given how
+narrow of a window they have to work with. (A very informative presentation submitted to
+the FCC by a filter industry group characterized the 2.4GHZ Wi-Fi band as "very hard" to
+handle given the tight spacing between it and the LTE bands on either side.) Channel 14
+effectively is the guard band between the 2.4GHz ISM band used by Wi-Fi and Bluetooth
+and the neighboring higher-frequency LTE bands, like the Sprint-dominated Band 41
+(2496-2690 MHz) - just as Globalstar's 1.6GHz uplink spectrum acts as a guard band
+between GPS and other navigation frequencies and LightSquared's uplink band. In both
+cases, Globalstar's bands have highly unattractive neighbors from the perspective of a
+terrestrial deployment - a logical outcome since they were never originally intended to
+serve that purpose. With so many shortcomings and technical challenges, TLPS has no
+hope of warranting the $3 billion valuation that the equity market has given it. Globalstar
+remains dramatically overvalued.
+
+
+I. What Is Wi-Fi/LTE Coexistence?
+
+
+
+http://apps.fcc.gov/ecfs/document/view?id=60000977216
+
+http://apps.fcc.gov/ecfs/document/view;jsessionid%3d0J4jQ2TKvhG0HdMlkHQncJLv15qQwHmQbzJ1JBt2kQh9CsHvF4pr!-56284754!-224088840?id=7022066310
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 5/29
+
+
+
+
+
+The Japanese electronics manufacturer TDK provided a good summary of Wi-Fi/LTE
+coexistence problems in a recent press release announcing its new "high-performance
+WLAN-Bluetooth filter for smartphones":
+
+
+RF spectrum is a limited resource and with the continuously growing number of
+communication services it is becoming ever more densely populated. In particular,
+the WLAN and Bluetooth band between 2400 MHz and 2483 MHz is separated by
+just ≤20 MHz from the new band 7, 40 and 41 that are used for LTE cellular service.
+Thanks to the new filter's excellent insertion loss and high out-of-band selectivity, the
+B8831 is able to prevent the signals in the adjacent WLAN/Bluetooth and highband
+cellular bands from interfering with each other.
+
+
+But TDK is far from the first entrant into this market. For years, Avago (NASDAQ:AVGO)
+and TriQuint (TQNT), which is on the eve of combining with RF Micro Devices (RFMD) to
+form a new firm called Qorvo, have dominated the world of high-performance RF filters,
+including Wi-Fi coexistence filters - and their stocks have delivered excellent returns along
+the way. As early as its February 2011 investor day, TriQuint flagged Wi-Fi coexistence as
+a key opportunity:
+
+
+Source: TriQuint Investor & Analyst Day presentation, October 31, 2013, slide 49
+
+
+
+http://files.shareholder.com/downloads/TQNT/0x0x701686/CCCDFAD0-11BB-4BF2-AF50-29682DE2BB9D/2013-investor-and-analyst-day-presentation.pdf
+
+http://www.epcos.com/blob/1053224/download/2/pdf-en.pdf
+
+https://seekingalpha.com/symbol/AVGO
+
+https://static.seekingalpha.com/uploads/2014/11/559143_14168534437265_rId18.png
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 6/29
+
+
+And the final piece, 4G wireless LAN coexistence. Sprint came out with basically 4G
+WiMAX, but then wireless LAN capability in terms of personal hot spots, and then
+was also looking to do it in phones. And what we're seeing is any type of application,
+whether it be a mobile application or a fixed network application, that puts those two
+together creates opportunity because the frequency spectrum is so close to each
+other, you need very, very tight filtering requirements now at very high frequencies to
+be able to handle that. And that's created an opportunity with our BAW filtering
+technology and leveraged a lot of our growth here this past year. (Source:
+Bloomberg transcript of TriQuint 2011 Investor Day, February 23, 2011)
+
+
+These comments echoed those of other organizations. In March 2010, the Bluetooth
+Special Interest Group released Filter Recommendations for Coexistence with LTE and
+WiMAX, noting that "based on information from the filter manufacturers shown in Appendix
+B: Available Filter Performance, a reasonable bandwidth of such a guard band [between
+the 2.4GHz band used by Wi-Fi and Bluetooth and neighboring LTE bands] is 20 MHz,"
+though it noted that "some WiMAX deployments" - now undergoing conversion to LTE -
+"start at 2496 MHz which reduces the guard band to 16 MHz" (p. 9). As this language
+shows, filter-makers disregarded the barely used, vestigial Channel 14 (centered on 2484
+MHz), characterizing it as part of the guard band and making no effort to preserve its
+functionality. In December 2011, the global telecom consortium 3GPP, which develops the
+rules for LTE, released a technical report on "in-device coexistence," drawing in part on a
+prior study by Motorola that assumed the use of a high-performance, Channel 14-
+impairing Avago ACPF-7024 filter. IWPC, a telecom industry group, published a study in
+April 2013 examining RF Front-End Architectures for 2.3-2.7 GHz 4G Global Roaming
+Devices; the study concluded in part that "LTE bands can be adequately protected from an
+in-device Wi-Fi radio by a single post-[power amplifier] filter on the Wi-Fi device with 40-45
+dB rejection" (p. 85). 40-45 dB equates to a factor of 10,000x to ~32,000x signal
+attenuation - an enormous degree of "rejection." Given that Channel 14 lies right between
+the Wi-Fi band that these filters are designed to let through and the LTE bands they are
+designed to protect with massive amounts of rejection, Channel 14 is firmly and
+unavoidably in the cross-hairs.
+
+
+Though different device models contain different filters, it's clear that the high-performance
+filters that do the greatest damage to Channel 14 are widespread. For example, in 2013,
+TriQuint announced that its LTE/Wi-Fi coexistence filter was included in Broadcom's
+reference designs for 802.11ac mobile devices. In 2014, it announced yet more wins:
+
+
+
+https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=228067
+
+http://www.3gpp.org/dynareport/36816.htm
+
+http://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_57/Docs/R4-104334.zip
+
+http://www.avagotech.com/pages/en/rf_microwave/fbar_filters/filters/acpf-7024/
+
+http://www.iwpc.org/WhitePaper.aspx?WhitePaperID=14
+
+http://www.triquint.com/newsroom/news/2013/triquint-innovation-powers-broadcom-5g-wifi-reference-designs
+
+http://www.triquint.com/newsroom/news/2014/triquint-wins-chipset-reference-designs-in-hd-video-streaming-and-other-multimedia-applications
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 7/29
+
+
+TriQuint also launched a family of three high-performance filters to solve challenging
+Wi-Fi / LTE interference issues. Utilizing TriQuint's bulk acoustic wave (BAW)
+technology, these advanced filters enable customers to extend Wi-Fi ranges while
+meeting stringent spectrum regulations worldwide. TriQuint has already secured
+multiple design wins for these filters in Wi-Fi access points, home media gateways
+and automotive infotainment markets.
+
+
+TriQuint specifically touted one of its new models, the 885070, as the "first BAW filter to
+provide guaranteed band-edge rejection in restricted FCC bands at 2390MHz &
+2483.5MHz." In other words, this filter is guaranteed to wipe out the entire upper half of
+Channel 14.
+
+
+Because filters are small (e.g. the ACPF is 1.6x2.0x0.95 millimeters) and sometimes
+unlabeled, "teardown" analyses in which engineers take apart new mobile devices to
+examine their components sometimes overlook them (see footnote 1 below). Nonetheless,
+semiconductor analysts have identified high-performance Wi-Fi coexistence filters in many
+popular devices. For example, in April Barclays identified an Avago "WLAN coexist FBAR"
+(a specific type of filter) in the Samsung Galaxy S5:
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 8/29
+
+
+In September, Barclays also identified TriQuint "WLAN co-exist" filters in the
+US/Canada/Europe and China/Other versions of the iPhone 6, an increase over the
+iPhone 5S/5C, where it identified such filters in only a subset of models.
+
+
+Source: Barclays equity research, "U.S. Semiconductors: GS5 Teardown 2 - Another Teardown Provides Further
+
+
+Insight," April 1, 2014, p. 2
+
+
+Note: red box added by Kerrisdale.
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 9/29
+
+
+These much-scrutinized, best-selling devices are not unique in their reliance on strict
+filtering of the 2.4GHz Wi-Fi band. During TriQuint's April 2014 earnings call, its CEO
+noted that "the Wi-LAN business associated with co-existence filters, that's our fastest-
+growing product line right now." Not just user devices but access points now boast more
+selective filters. Aruba, for example, advertises "advanced cellular coexistence," while
+Ruckus notes that it too employs a "2.4 GHz ISM filter" (slide 11).
+
+
+In short, Wi-Fi/LTE coexistence filters are pervasive in mobile devices as well as access
+points. They're needed in order to prevent Wi-Fi and LTE interfering with one another.
+Because Channel 14 is effectively unused, filter-makers have not attempted to protect it in
+their efforts to keep the 2.4GHz ISM band and neighboring LTE bands from harming one
+another. As a result, any device that contains such filters will perform poorly and
+unpredictably when set to Channel 14 - even if a firmware modification allows it.
+Depending on the filter in place, the impact could be drastic.
+
+
+II. What Impact Do the Filters Have?
+
+
+Source: Barclays equity research, "U.S. Semiconductors: iPhone 6 Teardowns - Preliminary Thoughts for Semis,"
+
+
+September 19, 2014, p. 4
+
+
+Note: red arrow and star at left added by Kerrisdale.
+
+
+
+https://seekingalpha.com/article/2159253-triquint-semiconductors-ceo-discusses-q1-2014-results-earnings-call-transcript
+
+http://www.arubanetworks.com/products/access-points/110-series/
+
+http://www.optimus.co.th/download.php?fMode=DataSheet&fCode=0636&fFile=R500_Overview_Ruckus.pptx
+
+https://static.seekingalpha.com/uploads/2014/11/25/559143-14168925716232758-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 10/29
+
+
+To estimate the impact of coexistence filtering on Channel 14, we have used data sheets
+from the filter vendors TriQuint and Avago, drawing on the performance graphs that they
+provide in order to zero in on the expected level of attenuation within the bounds of the
+channel. Since filter performance varies based on temperature and other factors - and
+even varies from one tiny unit to the next based on small fluctuations in the manufacturing
+process - these are only estimates. But they highlight yet another enormous practical
+headache for any TLPS deployment - one that, as usual, Globalstar has never publicly
+acknowledged.
+
+
+Below we summarize our findings:
+
+
+Insertion loss in dB at given
+
+
+frequency
+
+
+Manufacturer Part
+
+
+number
+
+
+2474
+
+
+MHz
+
+
+2484
+
+
+MHz
+
+
+2494
+
+
+MHz
+
+
+Reduction in signal strength at
+
+
+2494 MHz
+
+
+TriQuint 885032 1.8 3.5 26.9 491x
+
+
+TriQuint 885033 1.4 2.4 16.6 45x
+
+
+TriQuint 885017 1.6 3.8 24.5 284x
+
+
+TriQuint 885062 1.7 2.3 12.5 18x
+
+
+Avago ACFF-
+
+
+1024
+
+
+1.9 2.8 25.6 362x
+
+
+Avago ACPF-
+
+
+7024
+
+
+1.7 2.5 15.0 32x
+
+
+TDK B9604 2.4 3.9 25.3 335x
+
+
+"Insertion loss" simply refers to the reduction in signal strength at a given frequency
+caused by the filter. (In some sources, the term "insertion loss" is used more narrowly to
+refer to the undesirable but unavoidable reduction in signal strength experienced in the
+
+
+Source: vendor data sheets, Kerrisdale analysis
+
+
+
+http://www.triquint.com/products/d/DOC-B-00000149
+
+http://www.triquint.com/products/d/DOC-B-00000960
+
+http://www.avagotech.com/pages/en/rf_microwave/fbar_filters/filters/acff-1024/
+
+http://www.avagotech.com/pages/en/rf_microwave/fbar_filters/filters/acpf-7024/
+
+http://www.epcos.com/inf/40/ds/mc/B9604.pdf
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 11/29
+
+
+passband only, while the reduction in out-of-band emissions is called "rejection.") Since
+measurements in decibels can be unintuitive to those without RF experience, we also
+express the insertion loss as a straightforward ratio.
+
+
+In most cases, at the center of Channel 14, the attenuation is ~3 dB, equivalent to a
+halving in signal strength. By the edge of the channel at 2494 MHz, however, the
+attenuation in all cases becomes extremely severe, ranging from ~12.5 dB (18x reduction
+in signal strength) to ~26.9 dB (491x reduction in signal strength). The effects of
+attenuating some of the subcarriers within the channel by large amounts and others by
+less are difficult to predict without conducting extensive real-world tests, but at a minimum
+these reductions in signal strength would greatly limit propagation - ironic given
+Globalstar's insistence that TLPS would boast superior range over conventional Wi-Fi.
+
+
+Below we show the performance graphs for each device, highlighting the relevant zone for
+Channel 14. (The ACFF-1024 was already illustrated on the first page.)
+
+
+TriQuint 885032
+
+
+TriQuint 885033
+
+
+Source: TriQuint, Kerrisdale analysis
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 12/29
+
+
+TriQuint 885017
+
+
+Source: TriQuint, Kerrisdale analysis
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 13/29
+
+
+TriQuint 885062
+
+
+Source: TriQuint, Kerrisdale analysis
+
+
+
+https://static.seekingalpha.com/uploads/2014/11/559143_14168534437265_rId40.png
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 14/29
+
+
+Avago ACPF-7024
+
+
+Source: TriQuint, Kerrisdale analysis
+
+
+
+https://static.seekingalpha.com/uploads/2014/11/559143_14168534437265_rId42.png
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 15/29
+
+
+TDK EPCOS B9604
+
+
+Source: Avago, Kerrisdale analysis
+
+
+Source: TDK, Kerrisdale analysis
+
+
+
+https://static.seekingalpha.com/uploads/2014/11/559143_14168534437265_rId46.png
+5/23/2018 Globalstar: Would TLPS Even Work On Your Phone? Filtering Poses A Major Threat To TLPS Usability - Globalstar, Inc. (NYSEMKT:GSA…
+
+
+https://seekingalpha.com/article/2709495-globalstar-would-tlps-even-work-on-your-phone-filtering-poses-a-major-threat-to-tlps-usability 16/29
+
+

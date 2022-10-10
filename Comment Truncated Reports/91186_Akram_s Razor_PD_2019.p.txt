@@ -1,0 +1,542 @@
+SAAS WARS
+“A New Era In SAAS/ Cloud 
+
+
+Investing Has Begun” 
+Short Pagerduty (PD)
+Alarms Around A SAAS/Cloud Bubble Keep 
+Increasing
+• Here is Zero Hedge article from Monday pointing out that valuations 
+
+
+are now at 2000 levels
+• Goldman Sachs chief equity strategist raised the same concerns 
+
+
+tuesday
+• The Economist made a case on Thursday
+• Alarms are one thing but timing a bubble is obviously tricky. Valuation 
+
+
+alone never cuts it.
+
+
+
+https://www.zerohedge.com/news/2019-06-16/tech-bubble-20-software-stock-valuations-are-back-year-2000-levels
+
+https://www.cnbc.com/2019/06/17/goldman-sachs-technology-stocks-are-overvalued.html
+
+https://www.economist.com/business/2019/06/22/business-services-like-zoom-and-slack-make-for-better-listings
+But Signs That The Game Has Changed in 
+Cloud/SAAS Are Clearly Mounting
+• VC’s are exiting at stampede level pace. Supply is definitely becoming 
+
+
+a big problem
+• Problem child’s are now emerging in a once bulletproof sector. Where 
+
+
+before SAAS/CLOUD investors could throw a dart at the wall and reap 
+giant gains, the sector has suddenly seen a few fallen angles. Just ask 
+investors in Nutanix, Cloudera, Pivotal Software, and Zuora how they 
+feel about SAAS investing today. All four names have been cut in half 
+in half in the last few months. Two of those in the last two weeks 
+alone.
+There Is No Denying an Increasingly Competitive 
+SAAS/Cloud Landscape Is Now More of An Issue
+• The decade long era of blindly investing in a SAAS that will replace some legacy 
+
+
+on-premises provider has come to an end.
+• Now everyone going public claims they will be the next Salesforce.com or 
+
+
+Servicenow platform cloud software company. “Newly Public Crowdstrike Wants 
+to Become the Salesforce.com of Cybersecurity”- Techcrunch, June 17
+
+
+• If every one of the 50+ public cloud/saas names and several hundred private 
+ones is going to be the next Salesforce/Atlassian/Servicenow, what’s going to be 
+left the giants? You don’t need to be great at math to figure out we’ve finally 
+reached a point where there isn’t enough platform left to go around. 
+• This theme alone is good enough to warrant a view that a major valuation 
+
+
+correction is around the corner in SAAS/Cloud, but we’ve been looking for one 
+perfect example that encapsulates all this. Meet PagerDuty…
+
+
+
+https://techcrunch.com/2019/06/12/newly-public-crowdstrike-wants-to-become-the-salesforce-of-cybersecurity/
+Investment Thesis
+• PD is a very good point solution for on-call alert routing
+
+
+• However, this is a smaller market than advertised, with limited ability to differentiate
+• Recent growth has been driven by pricing changes, but this is a risky strategy as demonstrated by history
+
+
+• PD increased effective pricing per paid user by changing its pricing structure in Sept 2018
+• When PD raised prices in 2015, it led to slowing user additions and revenue growth
+
+
+• PD is in two strategic boxes
+• First, PD needed to drive accelerating revenue growth immediately before its IPO, so it raised prices and gave customers 
+
+
+incentives to buy larger packages before the price increase was implemented
+• Second, PD needs to expand from its point solution to become a platform in order to justify its 40x LTM revenue multiple
+
+
+• Large SAAS competitors see this and are responding. This may be the first public equity market example of 
+SAAS on SAAS direct war.
+• Atlassian bought Opsgenie in September 2018, and just recently cut price dramatically to highlight its value versus PD
+• Other platform competitors are offering very low cost alternatives as well
+
+
+• PD cannot cut its price to compete, or it would signal major deceleration in its metrics, right before its 
+investors and employees are due to unload their shares (10/8/19 lock-up expiry, likely to be waived though)
+PagerDuty Pricing Strategy Perception vs. 
+Reality 
+• Perception
+
+
+• “PagerDuty: A Micro Case Study in Not Raising Prices” (SAASTR: Feb 23, 2019)
+- With respect to PD pricing respected SAAS guru asks “Had it doubled like Dropbox? Subtly increased by playing with tiers like 
+
+
+Mailchimp? Ramped up pricing on the enterprise editions?”
+- Concludes that none of the above have been the case and that ‘value’ based pricing has been figured out by PD since 2011
+
+
+• Reality is very different
+• Pagerduty advertised self-serve pricing per user has increased drastically over the years. X-large used to be $12 per user for 
+
+
+25 users. Current core on-call cheapest option is nearly 3x that. Pricing has always been in flux. They in fact are guilty of all 
+three pricing concerns initially posited by the ‘Godfather of SAAS’.
+
+
+
+https://www.saastr.com/why-is-pagerduty-so-expensive/
+PagerDuty Increased Pricing Notably in 2015
+
+
+3/19/15 9/6/15
+This Hurt 2016 Results (But PD won’t quantify 
+by how much)
+We experienced decreases in our renewal and expansion rates in 2016, as 
+compared to 2015, following an increase in subscription prices in 2015
+
+
+- PD S-1
+
+
+In 2016, Opsgenie followed PD’s lead by increasing prices.  So, even when 
+competitors were also raising price, PD had difficulty growing after implementing 
+a price increase.
+
+
+Opsgenie 2015 pricing Opsgenie 2016 pricing
+Opsgenie, Currently Owned by Atlassian, CUT 
+prices ~40% Since Oct 2018 Acquisition Closed
+They seem to be going for the jugular, with a 
+90% discount to PD’s prices(!)
+
+
+This comes directly from Opsgenie’s
+website.  They are offering a 75-90% 
+discount for a mid-sized and large 
+users!  How can PD compete?
+For 10k users Atlassian is willing to go down to 
+$4.60 per user a month on their Enterprise tier
+Atlassian’s Strategy Seems to Be Bearing Fruit
+
+
+Posted April 8:
+PD CEO Standing In Front of Customer Logos 
+During Recent Summit Keynote
+Atlassian Highlighting Some Recent PD 
+Competitive Wins On the Opsgenie Landing Page
+VictorOps, recently acquired by Splunk, is also 
+competing on price
+(x)matters also seems to be targeting PD
+
+
+• https://www.xmatters.com/pagerduty
+• “PagerDuty was built for small teams to receive alerts, not for enterprises to 
+
+
+take action.”
+
+
+
+https://www.xmatters.com/pagerduty
+Don’t forget the free OSS competitors from 
+the LinkedIn (and others):
+• Linkedin has built their own in-house product here and open sourced 
+
+
+it. Three weeks ago they added mobile interface for incident 
+management.
+Of course there are several startups experimenting 
+with even more aggressive pricing models:
+• Here is one that only charges based for on-call team members. So, if a 
+
+
+company has 20 engineers but only two are on-call at a given time, 
+you only pay for those two users.
+A Strategic Dilemma
+
+
+“Lots of businesses could be great $10 million, $20 million businesses, but they’re not 
+allowed to be,” he added. “[They’ve] got to be $200 million or $500 million or a billion ... 
+One of the reasons you get into entrepreneurship is to control your own destiny to some 
+degree, to not have to go work for somebody else, to not have to collect a paycheck from 
+somebody else. And so the thing is, when you go take money, you’re working for someone 
+else again, instantly.”-Jason Fried, CEO Basecamp
+
+
+- “More Start-Ups Have an Unfamiliar Message for Venture Capitalists: Get 
+Lost”- NY Times Jan, 2019
+PD is a great small business, but it must become an extremely successful 
+software platform company in order to justify its incredible valuation (40x 
+trailing revenues) and big name VC and Institutional Investors( Andreessen 
+Horowitz, Accel, Bessemer Ventures, Trowe Price) investments.
+
+
+
+https://www.vox.com/2019/1/23/18193685/venture-capital-money-kills-business-basecamp-ceo-jason-fried
+
+https://www.nytimes.com/2019/01/11/technology/start-ups-rejecting-venture-capital.html
+Other platforms don’t want this to happen!
+
+
+• Splunk, Servicenow, Atlassian and others also sport very high 
+valuations and need to keep their growth rates high
+• They cannot tolerate another competitor, especially one that has a 
+
+
+established point solution already in place in many technology 
+companies
+Given the strategic risks, why did PD push pricing 
+last Fall?  Simple– to look good for the IPO!
+
+
+Trends Were Going the Wrong Way through mid 2018.  Declining 
+dollar retention rates would have alarmed investors.  The easiest way 
+to reverse that trend?  Increase effective pricing!
+New Pricing Structure
+
+
+• PD’s head of pricing gives us some good background on their price 
+increase and “Pricing Structure Issues”
+• The video of this October 2018 presentation titled, “Don’t Cargo Cult 
+
+
+Your Pricing” can be found here.
+
+
+
+https://www.heavybit.com/library/video/dont-cargo-cult-your-pricing/
+So What Happened?
+• PD renamed their most popular customer plan ‘Standard’ as ‘Platform Business’ and cut that price by $10, but at same time removed 
+
+
+existing functionality that now needs to be purchased a la carte. This move was clearly designed to boost dollar based retention 
+ahead of the IPO by getting existing customers to renew and/or expand ahead of price hike and to incentive upgrades to higher tiers. 
+Replicating all the old ‘Standard’ tier functionality post September 2018 now costs $74.99 a month per user for an annual 
+subscription. That’s a 50% self-serve price increase framed as a 20% price cut.
+
+
+• This significant effective price increase, Atlassian/Splunk acquisitions of pure play competitors, Atlassian’s strategic partnership 
+with Slack, and PagerDuty’s $90 million “institutional Unicorn” pre-IPO round all occurred in a less than 2.5 month window. The 
+future competitive landscape for the space was massively changed at the end of last summer, and once it was clear PagerDuty 
+would remain independent, pre-IPO moves (pricing changes/institutional raise) were set into motion.
+
+
+• How they frame it (if you were Atlassian, how would you interpret this?): “We wanted to show our customers that we are a platform 
+and we wanted to show them we have new products that are coming out”- Tugce Erten, Director of Pricing, PagerDuty
+
+
+
+https://www.heavybit.com/library/video/dont-cargo-cult-your-pricing/
+Digging Deep Into The Numbers 
+
+
+• March 11, 2019 exchange with SEC: “For example, the number of users per 
+customer varied widely from approximately 100 to more than 20,000 for 
+customers with more than $100,000 in ARR for the nine months ended October 
+31, 2018, with a mean and median number of users of approximately 950 and 
+415, respectively.” 
+• S1: “As of January 31, 2019, we had more than 11,000 customers globally, with 
+
+
+228 customers having ARR in excess of $100,000, and 12 customers having ARR in 
+excess of $1,000,000. Our 10 largest customers represented approximately 11% 
+of our revenue for the fiscal year ended January 31, 2019, and no single customer 
+represented more than 5% of our revenue in the same period, highlighting the 
+breadth of our customer base.”
+• S1: “We estimate our total addressable market is over $25 billion. To calculate our 
+
+
+total addressable market, we multiply our estimate of 85 million potential users 
+by our average revenue per user for the financial year ended January 31, 2019.”
+Interpreting the Data
+
+
+• PD’S TAM Disclosure is based on $294 ARPU for FY 2019. Based on PD’s S1 
+disclosures of 350k in Q3 and 380k users in Q4, Q4 ARPU across the 
+average 365k users is $370. 
+• PD’s SEC correspondence disclosures reveal that 192k users (950 
+
+
+users/customer X 203 $100k ARR customers)  or 55% of all paid users
+come from approximately 2% of customers. The median disclosure allows 
+you to further conclude that roughly 50% of users come from .9% of 
+customers.
+• PD’s customer concentration disclosures combined with SEC 
+
+
+correspondence disclosures reveal that some of PD’s largest user count 
+customers are paying < $120 per user per annum, or roughly 1/3 Q4 ARPU.
+Pagerduty Faces a Looming Commodity 
+Pricing Problem in On-Call
+• Spok, a leading publicly listed provider of wireless paging services 
+
+
+(yes, physical pagers) to the healthcare vertical, discloses their annual 
+ARPU at $85 for 2018.  PD ARPU is 4x that. 
+• At PD’s median customer size for $100k+ ARR customers (55% of total 
+
+
+paid users as of Oct 31, 2018) Atlassian has now set the bar at $180 
+for enterprise customers. At 1,000 users the price drops to $120 per 
+year. PD ARPU is 2x-3x that.  Assuming PD has to match this pricing, 
+we expect to see ARPU deteriorate going forward. 
+• Ubiquitous Collaboration/Productivity tools Slack/MS Office 365 have 
+
+
+enterprise ARPU of $108/$144 per annum. PD ARPU is 2.5x-3-5.x 
+that.
+Shifting Competitive Landscape Means PD’S 
+Recent Overearning Not Sustainable
+• PD has been overearning in a benign competitive environment. This is a case of strong 
+
+
+first mover advantage coupled with meaningful Fortune 500 penetration. The smaller 
+self-serve pricing customer long tail is presently subsidizing blue chip high-volume 
+customer commodity paging core model.
+
+
+• At scale, a stand alone competitor would need to accept 50% gross margins and burn 
+significant capital to compete effectively. The current VC Unicorn-driven investing model 
+isn’t going to aggressively fund competition whose best possible outcome for a market 
+like this is reaching a $300m-$500m valuation.  (PD private capital raised $173.6 m/ 
+Opsgenie raised $10m and VictorOps $33m over similar time frames; (x)matters just did 
+a $40m raise)
+
+
+• Self-serve pricing customers in the 50-1,000 user range have been overpaying. 
+Bootstrapped Opsgenie and VictorOps didn’t have luxury of being able to exploit this.
+
+
+• Atlassian/Splunk don’t have this problem. They are large and more revenue diversified 
+SAAS players who can leverage vast installed customer bases to cross-sell adjacent 
+products with drastically lower customer acquisition cost.
+How does this change the Economic Model?
+
+
+• Atlassian’s decision to transparently advertise volume-based pricing 
+exerts downward pressure on ARPU’s. Splunk/Atlassian’s ability to 
+bundle broader related DevOps products will exert even further 
+pressure on pricing.
+• This will lead to long-term Gross Margins in the 50%-70% range vs. 
+
+
+85% today, and require declining operating margin forecasts for 
+FY2021 and beyond.
+• TAM assumptions also likely to garner increased scrutiny as the IPO 
+
+
+shine fades. Analysis will shift from “How big is the TAM?” to “How 
+much greenfield space is actually left, and in how many pieces will it 
+be divided?”
+Some Basic What If Math to Consider…
+
+
+• Under existing operating structure PD would start incinerating cash if 
+ARPU’s came under notable pressure
+
+
+fiscal 2018 2019 2020 2021 2022
+avg yearly customers 9291 10653 12251 13843 15366
+users/customer 24 31 33 34 38
+avg yearly users  219988 330085 398578 472913 577426
+revenues/user/mo 31 30 33 36 37
+revenues/customer/mo 722 935 1075 1236 1384
+revenues ($MM) 81 119 158 205 255
+
+
+Revenues @ $25/user/mo 99 120 142 173
+Cost of Revenue 22 25 29
+Gross Profit 98 117 144
+Opex 200 230 265
+EBIT -102 -113 -120
+
+
+Revenues @ $15/user/mo 59 72 85 104
+Cost of Revenue 22 25 29
+Gross Profit 50 60 75
+Opex 200 230 265
+EBIT -150 -170 -190
+What Are Management’s Thoughts On All 
+This?  They’re not saying much…
+• From their perspective, the less transparency the better, especially until the lock-up expires and 
+
+
+insiders can sell stock
+• PD didn’t provide paid user metrics in their first quarterly report.
+• PD didn’t discuss ARPU trends on their first quarterly call.
+• PD didn’t address September 2018 pricing structure change impact on recent quarterly results. 
+
+
+Where are renewals stacked? What’s the tailwind? How did the lowest tier effective 5 free user 
+addition impact reported paid user growth in IPO disclosures?
+
+
+• CEO provided a very evasive response to current ‘pricing environment’ question on q1 conference 
+call.
+
+
+• Meanwhile…… on June 3rd PD pulled their self-serve $99 Enterprise pricing off their website and 
+replaced it with ‘contact sales’. After the earnings call, they changed it back again. It appears the 
+huge advertised price difference between them and Atlassian’s enterprise packages has already 
+created a pricing strategy issue for PD. Pull self-serve pricing so all enterprise tier customers can 
+call to seek available steep volume discounts or toe the line on your advertised ’value based’ 
+platform company aspiring tiers ? Pursuing the former course of action will alarm investors while 
+the latter benefits competitors.
+What’s Atlassian’s Strategy Team Thinking?
+• Jira Software is the industry standard in project management. As the leading collaboration tool 
+
+
+enabling continuous delivery of applications, it’s a critical component of the DevOps toolchain. 
+Over the years Atlassian has complemented Jira with other(Jira Service Desk, Statuspage, 
+Confluence, Trello) widely adopted software collab/development tools. Atlassian is a platform 
+company.
+
+
+• On-call was a natural expansion for Atlassian broader product suite as it literally adds one more 
+tool to their developer tool belt driven business model. Atlassian made the call to exit competing 
+with Slack, another critical tool in DevOps incident response chain, and instead partnered with 
+them and acquired an equity stake. A month later they bought Opsgenie.
+
+
+• To be anything more than a popular and reliable point product PagerDuty must horizontally 
+expand into markets currently dominated by the likes of Atlassian or Slack.
+
+
+• At the current size of the on-call market and with their vast installed customer base across global 
+DevOps community Atlassian can afford to pursue a strategy that involves resetting the entire 
+existing pricing model in the on-call market. That’s precisely what they are doing. The collateral 
+damage in all of this ends up being Pagerduty’s platform aspirations.
+Remember Technology Switching Costs Are 
+Clearly Not A Problem
+• “Due to the low complexity of implementation and integration of our 
+
+
+platform with our customers’ existing infrastructure, revenue from 
+professional services has been immaterial to date.” -PD S1
+Don’t Forget…
+
+
+• PD was hacked 4 years ago, and took a full three weeks before 
+informing their customers.
+
+
+https://www.theregister.co.uk/2015/07/31/incident_managers_pagerd
+uty_pwned/
+• PD was recently listed as one of 7 ‘discouraged/banned’ applications 
+
+
+in a Microsoft internal memo. https://www.geekwire.com/2019/no-
+slack-microsoft-puts-rival-app-internal-list-prohibited-discouraged-
+software/
+
+
+
+https://www.theregister.co.uk/2015/07/31/incident_managers_pagerduty_pwned/
+
+https://www.geekwire.com/2019/no-slack-microsoft-puts-rival-app-internal-list-prohibited-discouraged-software/
+Sell-Side Take
+
+
+• Piper: A large TAM, clear and tangible value proposition, and 
+favorable competitive dynamics can drive sustained 40%+ revenue 
+growth. A “highly strategic asset" for the likes of ServiceNow, 
+Microsoft, Alphabet, Cisco, and VMware.
+• RBC: As PagerDuty expands their offerings beyond IT on-call 
+
+
+management, we believe they have the opportunity to be a multi-
+product platform vendor. 
+• William Blair: Potential for more than $20B in spending on operations 
+
+
+platforms for digital businesses, which gives PagerDuty room for 
+sustained 20%+ growth for several years.
+Our Counter
+
+
+• Tiny TAM: Slack S1 lists their TAM at $28b. On-call is a small subset of that, 
+making the $25b TAM cited by PD unachievable. More likely, it is $2b-$3b (20ml 
+users X $155 per yr) users  based on current penetration, rapidly increasing SAAS 
+leader based pricing competition, and low barriers to entry.
+• PD is not even remotely a “Strategic Asset” for Mega Cap technology companies. 
+
+
+The sell-side (shockingly!) hasn’t done their homework. MSFT owns Linkedin
+which has open-sourced their solution and acquired Github. ServiceNow has 
+Twilio enabled “Notify”. The rest of them would simply buy Atlassian (and 
+Opsgenie) if they wanted to even move the needle.
+• AWS is always looming broader threat in space: They offer Cloudwatch
+
+
+(Monitoring), Lambda (Automation), Cognito (Users) and SNS (Notifications). AWS 
+builds primitives and then productizes them-- if the TAM was appealing they’d be 
+in it. Which would be ironic considering PD was born out of one co-founders stint 
+as Amazon e-com engineer 10 yrs ago. At some point AWS may leapfrog all 
+existing point offerings here with something far more comprehensive.
+Valuation
+
+
+• Opsgenie was sold for $295m
+• Victorops was sold for $120m
+• (x)matters just took a $40m series D investment, implying [$500m]
+• So how do you get to $4.8 billion market cap for PD?  YOU DON’T!
+Summary
+
+
+• PD effectively increased price in September 2018 in order to put “lipstick on the pig” for 
+its IPO
+
+
+• Atlassian acquired a major competitor and then cut price aggressively and last month 
+launched targeted campaign providing transparent volume-based discounts
+
+
+• In a transparent and competitive pricing environment PD’s ARPU’s are not sustainable. 
+• The timing of pricing structure changes ensures smooth renewal and overall operating 
+
+
+metrics throughout IPO lockup window, while masking real-time changes in the 
+competitive environment and immediate pricing pressures.
+
+
+• VC investors should be highly motivated sellers considering immediate and severe risks 
+to advertised economic growth model coinciding with IPO. This is a strong candidate for 
+a pre-IPO lockup expiry secondary.
+
+
+• We expect dollar renewal rates to drop SIGNIFICANTLY as PD laps new pricing structure 
+renewals and the stock to re-rate to < 20x revenues, or more than 50% downside

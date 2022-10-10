@@ -1,0 +1,362 @@
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 1/9
+
+
+RAYS Of Sunshine, Or Clouds Of Doom?
+Dec. 9, 2011 8:00 AM ET15 comments
+by: The Street Sweeper
+
+
+Raystream (RAYS.OB) recently began lighting up the skies of Pennyland by proclaiming
+that it had developed a new video-compression technology that outshines anything on the
+market today. In reality, however, Raystream appears to be selling open-source software -
+available at no charge - to anyone who wishes to use it. That software, known as "x264,"
+can be downloaded here for free.
+
+
+Raystream burst into the spotlight with the help of an aggressive promotional campaign
+financed by an outfit known as Unlimited Trade, which also furnished startup money for
+the company. In a striking coincidence, covered in more detail below, Raystream and
+Unlimited Trade share a common link with a once-famous - but now-fallen - German
+Wunderkind named Tan Siekmann.
+
+
+When Raystream began trading under its current symbol this fall, the company issued a
+press release introducing the public to its video compression software. At the time,
+Raystream CEO Brian Peterson proudly declared that the company's "disruptive
+technology could forever alter the way business is done online." The announcement
+further explained that this "proprietary" technology "could reduce the bandwidth required
+to stream HD video online by up to 70%."
+
+
+The next day, Raystream revised that figure to "up to 90%" and revealed that - thanks to a
+generous infusion from Unlimited Trade - the company now had almost $2 million in cash
+on hand. Raystream and its promoters spent the weeks that followed celebrating the
+importance of this technology, boldly predicting that it was likely to unleash a torrent of
+demand.
+
+
+So who, exactly, is the genius responsible for this magical breakthrough? The CEO runs a
+Dallas signage company known as Peterson-Hines and, upon joining Raystream, brought
+most of his staff from that firm (who worked as salespeople) along with him. Only
+Raystream Chief Information Officer Roman Rumpf and his sidekick Thomas Friedl, who
+heads the company's German subsidiary, appear to have any real technology experience.
+
+
+More importantly, just how "proprietary" is Raystream's video-compression technology?
+Not at all, it appears. On its website, Raystream invites the public to view a slick video that
+illustrates the technology's capabilities. While no technology publication has reviewed - or
+
+
+
+http://markets.thestreetsweeper.org/thestreetsweeper/quote?Symbol=RAYS&Go=GO
+
+http://www.videolan.org/developers/x264.html
+
+http://www.sec.gov/Archives/edgar/data/1489744/000151712611000160/f003interdom8kdebenture07211.htm
+
+http://ih.advfn.com/p.php?pid=nmona&article=49418804
+
+http://ih.advfn.com/p.php?pid=nmona&article=49432683
+
+http://www.petersenhines.com/
+
+http://www.petersenhines.com/index.php?page=our-team
+
+http://us.raystream.com/key-staff
+
+http://us.raystream.com/key-staff#None
+
+http://us.raystream.com/see-for-yourself
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 2/9
+
+
+even discussed - the Raystream software, a few techies took an interest in it and then
+took a close look at that video as well.
+
+
+With little effort, they made a remarkable discovery. They found that the Raystream source
+code begins like this: x264 - core 112 - H.264/MPEG-4 AVC codec - Copyleft 2003-2010.
+
+
+In a nutshell, that code reveals that Raystream "created" its technology using x264 - an
+open-source video-compression encoder based on the H.264/MPEG-4 AVC codec - that
+serves as the industry standard. Comically enough, Raystream never even bothered to
+change any of the default parameters included in that sequence.
+
+
+Jason Garret-Glaser, one of the developers behind x264, told TheStreetSweeper that
+Raystream could have better concealed its secret by simply removing the header that
+included the telling "x264" within it. Thanks to that oversight, however, that four-digit
+introductory code jumps out as the first thing that anyone who examines the code will see.
+
+
+Garret-Glaser offered two more important observations as well. For starters, he said, any
+company that distributes x264 as part of its commercial proprietary software without
+purchasing an appropriate license from x264 LLC has violated copyright infringement
+rules. It remains unclear whether Raystream itself has complied with those mandatory
+guidelines.
+
+
+Secondly, Garret-Glaser indicated, Raystream has touted a compression rate that - even
+when boosted toward 90% - falls well short of that recorded by others in the field.
+
+
+"Modern video compression can achieve 100 to 1,000 times compression over raw video,
+or "99.9%," he said. "For example, raw 1080p RGB is 1.5 gigabits per second, but can be
+compressed to 3-6 megabits at relatively reasonable quality."
+
+
+Perhaps Raystream has recognized that its technology looks vulnerable. On its website,
+the company offers a "free trial" that supposedly allows users to experiment with its
+powerful software. TheStreetSweeper signed up for the free trial two weeks ago, however,
+and has yet to receive that promised service. Another visitor apparently ran into the same
+dead end and then called the company to complain.
+
+
+"A girl just told me that the trial version is not ready and may be ready in a week," that
+curious shopper reported on an Internet message board. "I asked if it had ever worked,
+and she said, 'No.'"
+
+
+
+http://news.ycombinator.com/item?id=3211630
+
+http://www.videolan.org/developers/x264.html
+
+http://investorshub.advfn.com/boards/read_msg.aspx?message_id=69423124
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 3/9
+
+
+TheStreetSweeper called Raystream seeking comments for this story. It sent a detailed
+email to the CEO as well. So far, however, it has yet to receive any feedback from those
+inquiries.
+
+
+Shell Game
+
+
+Like so many penny-stock names, Raystream went public through a reverse merger with
+an existing shell company.
+
+
+That company, originally known as Interdom (ITRD), was going nowhere before it changed
+hands. Incorporated in Nevada two years ago, records show, Interdom had total revenue
+of just $200 - and a mere $45 in the bank - when its founder Igor Rumianstev, a Florida
+real estate agent, decided to sell his controlling stake in the company. While Interdom had
+managed to secure a listing on the OTC Bulletin Board ahead of its sale, the stock had yet
+to begin trading at that time.
+
+
+On June 14, two months after Interdom landed its spot on the penny-stock exchange,
+Rumiantsev sold his 83.8% stake in the company to Unlimited Trade for $200,000 and
+walked away from the firm. At that point, Roman Rumpf briefly took over as the sole officer
+of the company. Although Peterson technically replaced him as the top executive about
+four weeks later, Rump stayed on as the CIO and continues to hold down that position to
+this day.
+
+
+Earlier this year, Rumpf helped launch a German technology company that carries the
+Raystream name. He began serving as the "general manager of Raystream GmbH" in
+March of 2011, official records state, somehow assuming that post four months before the
+company even surfaced as a registered business. Like its American parent, Raystream
+GmbH - a company co-founded by Rumpf and Thomas Friedli - specializes in video-
+compression technology.
+
+
+Raystream issued 20 million shares of stock, or roughly 40% of its shares outstanding, in
+exchange for the German subsidiary that gave the company its name. It issued another 5
+million shares to Unlimited Trade in exchange for $2 million to fund its operations.
+
+
+A Panamanian company, Unlimited Trade shares two of its officers - Francela Ivonne
+Findlay Silva and Orlando Zamet Reyes Saldaña - with another mysterious outfit based in
+that same country. Those officers double as officers at Gekko Industries, the same
+Panamanian firm that financed a notorious stock promotion for Lithium Exploration (OTC:
+LEXG.OB) earlier this year.
+
+
+
+http://nvsos.gov/sosentitysearch/CorpDetails.aspx?lx8nvq=NDNya36cE21VGzZsg4bm%2fg%3d%3d&nt7=0
+
+http://www.sec.gov/Archives/edgar/data/1489744/000148974411000003/f10kintrdm1.htm
+
+http://www.otcbb.com/asp/dailylist_search.asp?DirectSymbol=ITRD&OTCBB=ALL
+
+http://www.sec.gov/Archives/edgar/data/1489744/000151712611000128/f001interdom8kchangeincontro.htm
+
+http://www.sec.gov/Archives/edgar/data/1489744/000151712611000128/f001interdom8kchangeincontro.htm
+
+https://www.handelsregister.de/rp_web/mask.do?Typ=n
+
+https://www.handelsregister.de/rp_web/mask.do?Typ=n
+
+http://www.sec.gov/Archives/edgar/data/1489744/000151712611000260/f004interdom8knamechangeforw.htm
+
+http://www.sec.gov/Archives/edgar/data/1489744/000151712611000160/f003interdom8kdebenture07211.htm
+
+https://www.registro-publico.gob.pa/scripts/nwwisapi.dll/conweb/MESAMENU?TODO=SHOW&FROM=UNLIMITED%20TRADE&TO=&START=1&ID=714381
+
+https://www.registro-publico.gob.pa/scripts/nwwisapi.dll/conweb/MESAMENU?TODO=SHOW&FROM=GEKKO%20INDUSTRIES&TO=&START=1&ID=718823
+
+http://thestreetsweeper.org/undersurveillance.html?i=1781
+
+http://markets.thestreetsweeper.org/thestreetsweeper/quote?Symbol=LEXG&Go=GO
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 4/9
+
+
+Like Gekko Industries before it, Unlimited Trade spared no expense on its big penny-stock
+campaign. Although it has spent millions promoting Raystream, however, Unlimited Trade
+has obviously skimped on its rent. As this video shows, the firm operates from a building
+in Panama City - with no elevators or even electricity - that looks like an outright dump.
+
+
+Fallen King
+
+
+Before Rumpf and Friedli joined forces to establish the German technology firm that would
+soon give Raystream its name, they both crossed paths with a notorious entrepreneur
+who saw his fortunes swing by amazing extremes.
+
+
+Back in the 1990s, a young Tan Siekmann found himself basking in glory - hyped by many
+as a German Bill Gates - after taking his company, Biodata AG, public during the dot-com
+boom. Like many technology stocks, however, Biodata soon collapsed during the dot-com
+bust that followed. Biodata filed for bankruptcy in 2001, with documentary filmmaker later
+creating an award-winning film about the dramatic rise and fall of the once-celebrated
+leader of the company.
+
+
+The year after that, Siekmann hit another new low. A German prosecutor filed charges
+against him for allegedly engaging in fraud and violating insider- trading laws.
+
+
+Still ambitious, Siekmann kept trying to repeat his early success. He created a new
+company, known as Safe-Comand hired none other than Rumpf to help him. While now
+dormant, Safe-Com lists Rumpf on its domain registration to this day.
+
+
+In 2006, Safe-Com entered into a joint venture with a U.S. company now known as
+BodyTel Scientific (OTC:BDYT.PK). Like Raystream, BodyTel touted a remarkable
+invention. The stock crashed in 2008, however, plummeting from $3.50 to 70 cents a
+share in less than a week. It fetched mere pennies a few months later and continues to
+trade on the lowly Pink Sheets through the present date.
+
+
+Meanwhile, in 2009, Siekmann launched yet another company. He founded an outfit
+known as eLogic, which markets a magic algorithm designed to perform FOREX (foreign
+exchange currency) trading, with Friedli stepping forward as his partner this time around.
+
+
+All of those companies - as well as Raystream GmbH - list the same fancy German
+address. They share office space at Burg Lichtenfels, a picturesque medieval castle
+owned by the fallen tech wizard who founded the firms.
+
+
+Bull Run
+
+
+
+http://www.youtube.com/watch?v=WEwfkmL8qFk
+
+http://movietex.net/world-leader-the-history-of-tan-siekmann/
+
+http://www.brandeins.de/online-extras/was-wurde-aus/tan-siekmann.html
+
+http://de.wikipedia.org/wiki/Biodata
+
+http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=31064826
+
+http://whois.domaintools.com/safe-com.com
+
+http://www.sec.gov/Archives/edgar/data/1341259/000112785506000664/sellcell8k120606.htm
+
+http://markets.thestreetsweeper.org/thestreetsweeper/quote?Go=GO&Symbol=BDYT
+
+http://www.otcmarkets.com/stock/BDYT/chart
+
+https://www.handelsregister.de/rp_web/mask.do?Typ=n
+
+http://elogic-sys.de/about.php
+
+http://us.raystream.com/contact
+
+http://www.google.com/search?tbm=isch&hl=en&source=hp&biw=1425&bih=675&q=%22Burg+Lichtenfels+%22&gbv=2&oq=%22Burg+Lichtenfels+%22&aq=f&aqi=&aql=&gs_sm=e&gs_upl=13776l19190l0l19624l3l3l0l1l0l0l301l588l2-1.1l2l0
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 5/9
+
+
+When Rumpf and Friedli incorporated Raystream GmbH in March, Siekmann showed up
+as a representative for a related company - Unlimited Trade - housed in much shabbier
+quarters. As noted above, Unlimited Trade owns 5 million shares of Raystream and paid
+millions for a promotional campaign designed to increase the value of those shares.
+
+
+The promotion began with an over-the-top piece by "Elliott Dobbs" of Stock Market
+Authority that appeared a few days after Raystream began trading. Dobbs enthusiastically
+declared that the company offered "a revolutionary technology that's ready to create a
+monopoly" and then offered more of the same in a "report" posted on a different website:
+"Its technology can't be matched by the competition," he marveled, "and it can't be
+reverse-engineered, which provides a significant barrier to entry."
+
+
+According to x264 developer Garret-Glaser, however, any software can in fact be reverse-
+engineered.
+
+
+Dobbs proudly reminded investors that he had introduced them to LEXG earlier this year,
+while declaring that Raystream "has every bit as much potential for gains of 1,000% or
+more." Fueled by a multimillion-dollar publicity campaign, LEXG indeed skyrocketed from
+12 cents to $10 a share - a rare feat for any stock in the microcap arena - but soon lost
+most of those rapid-fire gains and now trades for less than $1 a share.
+
+
+Since then, Raystream has rallied with the help of a seven-figure stock promotion of its
+own. Stock Market Authority received $150,000 for touting Raystream, an official
+disclaimer reveals, with Unlimited Trade covering that handsome fee (through an
+intermediary) under a $3.25 million promotional campaign that ranks among the biggest of
+the year.
+
+
+Smart Market Authority published its original bullish Raystream call on smathority.com. A
+few days ago, however, GoDaddy suspended that domain registration for "spam and
+abuse." Stock Market Authority continues to promote Raystream through two other
+domains in the meantime, both of those registered with an outfit known as NameCheap
+instead.
+
+
+The Stock Detective, another LEXG promoter, followed Smart Market Authority as the next
+website to embrace Raystream and heartily tout its shares. In a bold move, The Stock
+Detective listed "the 10 companies most likely to acquire Raystream" - beginning with
+YouTube (Google) and Netflix (a company that well knows how to download and use
+open-source software if it ever wishes to do so) - and set a price target for the stock at $10
+a share.
+
+
+
+http://ba-mail.com/
+
+http://www.stockmauthority.com/raystream/
+
+http://www.whois.net/whois/smauthority.com
+
+http://www.thestockdetective.com/raystream/
+5/23/2018 RAYS Of Sunshine, Or Clouds Of Doom? - Raystream Inc. (OTCMKTS:RAYS) | Seeking Alpha
+
+
+https://seekingalpha.com/article/312867-rays-of-sunshine-or-clouds-of-doom 6/9
+
+

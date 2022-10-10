@@ -1,0 +1,4483 @@
+We are short shares of QuinStreet, a web-1.0 adtech firm that acts as a middleman between 
+
+
+online advertisers and niche web sites. These niche sites attract visitors (leads) who are 
+
+
+shopping for, say, a new credit card; QuinStreet acquires those visitors and delivers their data 
+
+
+or eyeballs to advertisers, like credit-card companies, earning a fee along the way. 
+
+
+
+
+
+For much of QuinStreet’s eight-year history as a public company, its stock traded at less than 
+
+
+half of its IPO price, as investors realized that QuinStreet’s outdated business model is unlikely 
+
+
+to be a long-term survivor in the rapidly changing world of online advertising. But in the past 
+
+
+eight months, QuinStreet’s share price has nearly quadrupled, fueled by a frothy market and a 
+
+
+reversal of its longstanding trend of declining sales. QuinStreet now trades at a sky-high 
+
+
+multiple of 60x operating profit. 
+
+
+
+
+
+In reality, few investors understand how QuinStreet actually does business, given the 
+
+
+company’s bare-bones disclosures and scant research coverage. We believe the uptick in 
+
+
+revenue is a sham: a mix of malware redirects, bogus leads from web surfers trying to score 
+
+
+“swagbucks,” and a one-time lucky deal with Progressive that has already plateaued. 
+
+
+QuinStreet isn’t a legitimate player in lead generation anymore; its proprietary web sites are 
+
+
+nowhere to be found in top search results, and its click-monetization technology is routinely 
+
+
+passed over in favor of its competitors’.   
+
+
+
+
+
+QuinStreet claims that it sources valuable “high-intent” leads for its advertiser clients. Then why 
+
+
+is the largest source of traffic to QuinStreet’s main online hub over the past few months a fake 
+
+
+site called Insurancebranch.com, which attracted users by simply paying them to click on its 
+
+
+advertising links? Why is so much of QuinStreet’s other traffic coming from domain names 
+
+
+associated with adware, paid surveys, and a mysterious individual in Hunan Province? How 
+
+
+much of QuinStreet’s traffic – the very essence of its business – is genuine?  
+
+
+
+
+
+Drawing on extensive discussions with multiple former QuinStreet employees and other industry 
+
+
+participants, we find that QuinStreet has little to differentiate it in a highly competitive market. Its 
+
+
+technology is clunky, its sites commodity, its affiliate relationships fleeting. Unsavory business 
+
+
+practices have subjected it to robocalling lawsuits and its inability to evolve at the pace of  
+
+
+competitors has ruined internal morale. Unsurprisingly, key insiders, including QuinStreet’s 
+
+
+CEO, CFO, and one of its earliest and largest institutional investors, have just recently begun to 
+
+
+sell their shares. QuinStreet is not a road to riches; it’s a dead end.  
+
+
+
+
+
+
+
+
+
+
+
+April 2018 
+
+
+QuinStreet, Inc. (QNST) 
+Leading Nowhere 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC and its affiliates 
+(collectively, “Kerrisdale”), have short positions in and own option interests on the stock of QuinStreet, Inc. 
+(the “Company”). Kerrisdale stands to realize gains in the event that the price of the stock decreases. 
+Following publication, Kerrisdale may transact in the securities of the Company. All expressions of opinion 
+are subject to change without notice, and Kerrisdale does not undertake to update this report or any 
+
+
+information herein. Please read our full legal disclaimer at the end of this report.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+I. INVESTMENT HIGHLIGHTS ........................................................................................................ 3 
+
+
+II. COMPANY OVERVIEW ................................................................................................................... 5 
+
+
+III. QUINSTREET’S RECENT REVENUE GROWTH COMES ENTIRELY FROM A SINGLE 
+CUSTOMER ...................................................................................................................................... 7 
+
+
+IV. QUINSTREET-AFFILIATED SITES BENEFIT FROM HIGHLY SUSPICIOUS WEB 
+TRAFFIC .......................................................................................................................................... 12 
+
+
+V. QUINSTREET’S BUSINESS MODEL IS FUNDAMENTALLY FLAWED ................................. 21 
+
+
+Low Barriers to Entry Foster Intense Competition ................................................................................................... 23 
+QuinStreet Is in a Weak Position Vis-à-Vis Its Counterparties ............................................................................... 24 
+
+
+VI. QUINSTREET IS A LOW-QUALITY ORGANIZATION ............................................................. 27 
+
+
+Consumer Mistreatment .................................................................................................................................................. 27 
+Weak Technology ............................................................................................................................................................. 31 
+Opaque Disclosures ......................................................................................................................................................... 32 
+
+
+VII. VALUATION.................................................................................................................................... 33 
+
+
+Comparable-Company Multiples Suggest ~50% Downside .................................................................................... 33 
+Key Insiders Have Already Begun Selling .................................................................................................................... 36 
+
+
+VIII. CONCLUSION ................................................................................................................................ 37 
+
+
+FULL LEGAL DISCLAIMER ................................................................................................................... 38
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 3 
+
+
+
+
+
+I. Investment Highlights 
+
+
+
+
+
+QuinStreet’s recent revenue growth comes entirely from a single customer. Almost a 
+
+
+quarter of QuinStreet’s total revenue is now attributable to the auto insurer Progressive – a fact 
+
+
+that management and sell-side analysts have scarcely mentioned. In 2017, revenue from 
+
+
+Progressive sharply increased, tied, we believe, to a new relationship in which QuinStreet 
+
+
+supplies the competitors’ quotes that Progressive shows on its site to demonstrate its fairness 
+
+
+and transparency. For the past three quarters, however, this Progressive revenue has flattened 
+
+
+out, suggesting slower growth in the future. Strikingly, excluding Progressive, QuinStreet 
+
+
+revenue has stagnated (and in fact declined from 2016 to 2017), casting doubt on the durability 
+
+
+of its turnaround. 
+
+
+
+
+
+QuinStreet-affiliated sites benefit from highly suspicious web traffic. We used SimilarWeb, 
+
+
+a standard tool for analyzing web traffic, to examine QuinStreet’s hub domain, Nextinsure.com, 
+
+
+and discovered that the largest source of its recent traffic was a strange, now largely defunct, 
+
+
+site called Insurance Branch. Piecing together several lines of evidence, we conclude that 
+
+
+Insurance Branch is a QuinStreet affiliate that recruited users to click on its advertiser-
+
+
+sponsored links in exchange for an online currency called swagbucks. In this fashion, Insurance 
+
+
+Branch effectively paid pennies for clicks worth dollars or tens of dollars to advertisers, using 
+
+
+QuinStreet as a middleman and splitting the proceeds with it. But these swagbucks aficionados 
+
+
+didn’t actually want insurance. They only clicked because they were paid to do so – exactly the 
+
+
+kind of “leads” that no advertisers would knowingly buy. This phony, artificial click traffic casts 
+
+
+serious doubt on the quality of QuinStreet’s product and thus its value to advertisers. 
+
+
+
+
+
+Nor was Insurance Branch the only anomaly we came across. QuinStreet affiliate sites also 
+
+
+draw significant traffic from pop-up-proliferating adware; from a mysterious Chinese-owned 
+
+
+domain called kptrk.us; from paid surveys; and from bogus message-board posts. It’s 
+
+
+impossible for us to determine how widespread these practices are or how much QuinStreet is 
+
+
+aware of them; one benefit of its reliance on third-party affiliates is plausible deniability in these 
+
+
+situations. However, based on the available evidence, we believe suspicious and phony traffic 
+
+
+play a significant role in its business. 
+
+
+
+
+
+QuinStreet’s business model is fundamentally flawed. QuinStreet is a middleman, 
+
+
+intermediating between publishers and advertisers. But there are many other such 
+
+
+intermediaries in all of QuinStreet’s verticals, and QuinStreet has few ways to outcompete them 
+
+
+in the long run other than forking over more of its revenue to secure the loyalty of the few high-
+
+
+quality publishers available. As the advertising market becomes more sophisticated and 
+
+
+efficient, QuinStreet will have fewer opportunities to profit, even as the low barriers to entry in 
+
+
+lead aggregation subject it to constant competitive attack, often by new firms headed by former 
+
+
+employees. QuinStreet is especially vulnerable because its verticals are among the most 
+
+
+expensive when it comes to buying search-engine keywords, yet QuinStreet has never shown 
+
+
+the willingness or ability to create genuinely compelling content that can attract visitors in its 
+
+
+own right.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 4 
+
+
+
+
+
+There Are Few Signs of a Sustainable Turnaround. QuinStreet features telltale marks of a 
+
+
+business that’s gradually becoming obsolete. Despite its exclusive digital focus, QuinStreet 
+
+
+relies on weak and outdated technology. Reviews from Glassdoor abound complaining about 
+
+
+the legacy nature of the company’s systems and programs. The inefficiencies of QuinStreet’s 
+
+
+technology is reflected in its lead gen sites; even after entering pages of personal information 
+
+
+merely to be “matched” with a handful of supposedly relevant links, the user often has to enter 
+
+
+the same information again after following those links to their destinations, and is sometimes 
+
+
+forwarded to yet more lead gen sites. Then there is the matter of a litany of unwanted calls 
+
+
+bombarding unsuspecting visitors – indeed, multiple consumers have recently sued QuinStreet, 
+
+
+alleging that they in fact never did agree to be contacted via autodialer, making QuinStreet’s 
+
+
+calls violations of the Telephone Consumer Protection Act (TCPA). 
+
+
+
+
+
+Comparable-company multiples suggest ~50% downside. Pulling together the available 
+
+
+information on the valuations of three competitors and peers – MediaAlpha, Bankrate’s 
+
+
+insurance unit, and Katch – we find that QuinStreet trades at a large premium to firms that not 
+
+
+only have grown faster than it but even earn more absolute dollars of operating profit with fewer 
+
+
+employees. Even giving QuinStreet the benefit of the doubt for its suspicious traffic, bad 
+
+
+management, and weak long-term competitive advantage, its stock price should only be ~$5-7 – 
+
+
+roughly 50% below the current levels. Interestingly, key QuinStreet insiders – its CEO, its CFO, 
+
+
+and one of its largest early investors, Split Rock Partners – all launched stock-selling plans in 
+
+
+the past few months, right as QuinStreet’s long languishing share price finally rebounded to $8, 
+
+
+$10, and beyond – and after spending years patiently holding their shares at lower prices. We 
+
+
+believe the message is clear: QuinStreet’s stock price has far outrun its weak fundamentals.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 5 
+
+
+
+
+
+II. Company Overview 
+
+
+QuinStreet: Capitalization and Financial Results 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis  
+
+
+Note: QuinStreet reports on a fiscal year that ends on June 30, but the financial results above represent 
+
+
+calendar-year values. 
+
+
+
+
+
+Founded in 1999, QuinStreet began life as a VC-backed effort to facilitate the online sales of 
+
+
+“specialty goods.” For instance, QuinStreet created web sites to recruit affiliates for Rainbow 
+
+
+Light Nutritional Systems (“a well-known premium manufacturer of multivitamins and food 
+
+
+supplements”), Ariat equestrian footwear, and even Hooked on Phonics, promising that earning 
+
+
+commissions on sales of these products offered “UNLIMITED income potential.” An early client 
+
+
+was the for-profit online school University of Phoenix; QuinStreet created web pages to attract 
+
+
+prospective students, collect their contact information and other data, and transmit it (for a fee) 
+
+
+to the university. Soon it became clear that selling leads to for-profit colleges was more lucrative 
+
+
+than selling leads to Hooked on Phonics, and for years QuinStreet focused on the education 
+
+
+market, with little success in other areas.1 
+
+
+
+
+
+Beginning in its fiscal year 2007, however, QuinStreet – perhaps correctly suspecting that for-
+
+
+profit education was a shaky foundation for long-term prosperity – embarked upon an 
+
+
+acquisition binge, spending almost $400 million over six years on more than 100 “online 
+
+
+publishing businesses” designed to drum up customers for third-party advertisers in a variety of 
+
+
+industries. The primary target was the insurance vertical, where QuinStreet spent $130 million 
+
+
+on SureHits (an auto-insurance advertising platform analogous to Google AdSense), 
+
+
+Insure.com, Insurance.com, and CarInsurance.com. But QuinStreet also expanded via 
+
+
+acquisition into generating leads for home services (ReliableRemodeler), business-to-business 
+
+
+sales (VendorSeek, Internet.com), mortgage lending (HSH.com), credit cards 
+
+
+(CardRatings.com), and more. 
+
+
+                                                
+1 See e.g. the internet-advertising blogger Jay Weintraub in 2005: he described QuinStreet as the “edu 
+
+
+champ” but noted that “not one lead generation company plays a dominant role in more than one 
+
+
+vertical.…QuinStreet has rocked portions of the education segment but has not done well in mortgage.” 
+
+
+Capitalization Financial results ($ mm)
+
+
+Share price ($) $12.32 2015 2016 2017
+
+
+Fully diluted shares (mm): Revenue 284$     299$     336$     
+
+
+Shares outstanding 46.2      EBITA (8)          (9)          10         
+
+
+Dilutive impact of options/RSUs 3.6        EBITA margin -3% -3% 3%
+
+
+Total 49.9      Diluted EPS (0.47)$   (0.36)$   0.06$    
+
+
+Fully diluted market cap ($mm) 614$     Rev. by vertical:
+
+
+Less: cash 42         Financial Svces 124$     175$     221$     
+
+
+Enterprise value 572$     Education 106       76         72         
+
+
+EV/EBITA (trailing) 60.2x Other 54         48         43         
+
+
+P/E (trailing) 221.9x
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 6 
+
+
+
+
+
+
+
+
+Notwithstanding the costliness of these acquisitions, QuinStreet today derives only a small 
+
+
+fraction of its revenue from web sites it actually owns.2 Instead, the bulk of the business comes 
+
+
+from hundreds of third-party web-site operators – sometimes called “publishers” – who attract 
+
+
+visitors by a variety of means and sell their clicks and contact information to QuinStreet, who re-
+
+
+sells them to insurance companies, banks, contractors, and other clients (sometimes including 
+
+
+other lead generators and aggregators, who re-re-sell them). In the words of one former 
+
+
+QuinStreet employee we spoke to, “QuinStreet makes it palatable for big brands to work with 
+
+
+these kind of small, sketchy lead-gen partners.” While QuinStreet does sometimes partner with 
+
+
+larger “publishers” – for instance, providing sponsored auto-insurance content to MSN Money3 – 
+
+
+many of its affiliates are sites that few people have heard of, like bankdealguy.com, 
+
+
+massagetherapyschoolsinformation.com, findyour-replacementwindows.com, and 
+
+
+walkintubguide.org. 
+
+
+
+
+
+With its diversification initiative well under way, QuinStreet went public in 2010, pricing at $15 
+
+
+per share – below the original expected range of $17 to $19. Reportedly, the disappointing 
+
+
+showing stemmed from “fears about potential obstacles to QuinStreet’s business of recruiting 
+
+
+students for for-profit education companies,” especially in light of the regulatory “overhaul” that 
+
+
+the Department of Education was then considering. These fears were soon validated. Revenue 
+
+
+in QuinStreet’s Education vertical peaked in the first quarter of calendar-year 2011; since then, 
+
+
+as stricter regulations set off the implosion of the for-profit-education sector – with an attendant 
+
+
+collapse in marketing – revenue in the vertical has declined almost 70%. 
+
+
+
+
+
+QuinStreet’s other, newer verticals – Financial Services (primarily auto insurance) and Other 
+
+
+(which includes home services and B2B) – were supposed to make up for potential weakness in 
+
+
+Education. But they encountered their own problems. Beginning in 2011, increased competition 
+
+
+in the online auto-insurance advertising market threw Financial Services into disarray, while 
+
+
+housing-sector malaise and increased competition in B2B pushed “Other” off course. The graph 
+
+
+below shows quarterly revenue in each vertical. It took more than six years for Financial 
+
+
+Services to rebound back to its late-2010 peak; “Other,” meanwhile, is still in a drawdown.  
+
+
+
+
+
+                                                
+2 QuinStreet’s FY2017 10-K (p. 5) notes that “[m]edia purchased on a revenue-share basis [i.e. from third 
+
+
+parties] has represented the majority of our media costs and of the Internet visitors we converted into 
+
+
+qualified leads, clicks, calls, applications, or customers for clients.” On various public conference calls, 
+
+
+QuinStreet management has said, “There’s a big emphasis on partnerships…although we went through a 
+
+
+brief period where we had a little bit more owned and operated media. Most of our media has always 
+
+
+been with partners” (FY2017 Q3); “We don’t have that much of an exposure to our owned and operated 
+
+
+SEO anymore. As you know it’s a relatively small part of our business (FY2016 Q4); organic traffic is “a 
+
+
+little less than 10%” of overall company traffic (FY2013 Q4); and “the vast, vast majority [of the auto-
+
+
+insurance business] comes from third-party sites” (June 7, 2011, guidance update). One former 
+
+
+QuinStreet employee told us that “QuinStreet is maybe generating like 10% or less” – perhaps just 3-5% 
+
+
+– “of their own leads.” 
+3 Amusingly, the Insure.com link in that MSN Money piece does not actually work, hampering its 
+
+
+effectiveness as a revenue generator.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 7 
+
+
+
+
+
+QuinStreet Quarterly Revenue by Vertical, 2007 to 2017 
+
+
+ 
+Source: company filings, Kerrisdale analysis  
+
+
+Note: “main roll-up period” runs from February 2008 (ReliableRemodeler acquisition) to February 2012 (Ziff 
+
+
+Davis Enterprise acquisition). 
+
+
+
+
+
+Recently, however, QuinStreet has enjoyed a bit of a comeback, driven by its Financial Services 
+
+
+vertical. Management has claimed that its turnaround efforts are finally working, and, with the 
+
+
+Education vertical having already shrunken so much, success in Financial Services can now 
+
+
+drive overall revenue and profitability in the right direction. This renewed hope has led to a 
+
+
+dramatic boom in QuinStreet’s stock price. But this hope doesn’t withstand closer inspection. 
+
+
+
+
+
+III. QuinStreet’s Recent Revenue Growth Comes Entirely 
+
+
+from a Single Customer 
+
+
+
+
+
+For the typical public company, if a single client contributed a quarter of its total revenue, 
+
+
+analysts and investors would focus intently on that client, recognizing that any changes in its 
+
+
+behavior could have outsized effects. In the case of QuinStreet, however, the sudden 
+
+
+emergence of the Progressive Corporation as far and away the company’s largest source of 
+
+
+revenue has been greeted with almost complete silence. QuinStreet management has never 
+
+
+mentioned Progressive by name in an earnings call or press release, nor, to our knowledge, 
+
+
+have sell-side analysts directly discussed its importance. But by scrutinizing QuinStreet’s SEC 
+
+
+0
+
+
+10
+
+
+20
+
+
+30
+
+
+40
+
+
+50
+
+
+60
+
+
+70
+
+
+Dec-06 Dec-09 Dec-12 Dec-15 Dec-18
+
+
+R
+e
+v
+e
+n
+u
+e
+ (
+
+
+$
+m
+
+
+m
+)
+
+
+Quarter ending
+
+
+Financial Services
+
+
+Education
+
+
+Other
+
+
+main roll-up period
+
+
+All Web Leads deal
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 8 
+
+
+
+
+
+filings and speaking with industry participants, including former QuinStreet employees, we have 
+
+
+pieced together some of the story. 
+
+
+
+
+
+
+
+
+QuinStreet Revenue from the Progressive Corporation, 2015-2017: 
+Step Up, Then Plateau? 
+
+
+ 
+Source: company filings, Kerrisdale analysis  
+
+
+Note: dashed portion of line represents Kerrisdale estimates of the FY2016 Q1 
+
+
+and Q2 values, which QuinStreet’s disclosures do not allow one to directly 
+
+
+calculate. 
+
+
+
+
+
+Before calendar-year 2016, Progressive, though one of the largest auto insurers in America, 
+
+
+accounted for less than 10% of QuinStreet’s total revenue. But beginning in 2016, that 
+
+
+percentage jumped into the teens and then, in 2017, the twenties. While the initial growth may 
+
+
+have been related to the initiation of QuinStreet’s partnership with All Web Leads, which 
+
+
+generally expanded its insurance vertical, we believe that the more recent spike stems from the 
+
+
+use of QuinStreet’s insurance.com platform as the source of the competitors’ rates that 
+
+
+Progressive shows to insurance shoppers on its web site. 
+
+
+
+
+
+For years, Progressive has offered to help consumers save money by providing not just its own 
+
+
+quotes but also competing insurers’, even when the comparison did not favor Progressive – a 
+
+
+0
+
+
+5
+
+
+10
+
+
+15
+
+
+20
+
+
+25
+
+
+Dec-14 Dec-15 Dec-16 Dec-17
+
+
+R
+e
+v
+e
+n
+u
+e
+ f
+
+
+ro
+m
+
+
+ P
+ro
+
+
+g
+re
+
+
+s
+s
+iv
+
+
+e
+ (
+
+
+$
+m
+
+
+m
+)
+
+
+Quarter Ended
+
+
+Progressive 10%-of-revenue disclosure threshold
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 9 
+
+
+
+
+
+gambit designed to gain more in long-term goodwill than it loses in short-term sales. However, 
+
+
+in recent years, Progressive has apparently reduced its emphasis on the comparison concept; 
+
+
+for instance, of the 14 TV commercials now viewable on Progressive’s site, only one makes any 
+
+
+reference to allowing prospects to view competitors’ rates, while the others focus on themes like 
+
+
+bundling and discounts. Likewise, Progressive.com only mentions “comparison rates” in a tiny 
+
+
+font at the very bottom of the page. Originally, Progressive estimated competitors’ rates for a 
+
+
+given prospective customer using its own internal calculations based on data filed with state 
+
+
+regulators; as of recently, however,4 Progressive draws on insurance.com, one of QuinStreet’s 
+
+
+properties, as shown in the partial screenshot below: 
+
+
+
+
+
+Progressive’s Rate Comparisons Come from QuinStreet’s Insurance.com 
+
+
+ 
+Source: Progressive.com. Red rounded rectangle added for emphasis. 
+
+
+
+
+
+Of course, Progressive’s main goal is to sell Progressive insurance, not to direct consumers to 
+
+
+other carriers. To that end, after going through several pages’ worth of data entry to obtain a 
+
+
+variety of Progressive quotes, the price-comparison option only appears as an afterthought: 
+
+
+
+
+
+“See How We Compare” Is Not a Top Priority 
+
+
+ 
+Source: Progressive.com. Red rounded rectangle added for emphasis. 
+
+
+
+
+
+In what is perhaps a sign of QuinStreet’s attention to detail when it comes to compliance, we 
+
+
+found that the fine-print links to QuinStreet’s “Terms of Service” and “Privacy Policy” (just barely 
+
+
+visible above) didn’t actually work when we tried them: both were identified as “Not secure” by 
+
+
+Google Chrome and only pulled up “403 Forbidden” error pages. (One might generally doubt the 
+
+
+validity of long, complex contracts that users are deemed to have agreed to just by virtue of 
+
+
+clicking a link, but it’s especially difficult to see how legal agreements rendered totally 
+
+
+inaccessible by a marketing firm’s sloppiness could possibly hold up in court.) 
+
+
+                                                
+4 Based on our discussions with multiple industry participants.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 10 
+
+
+
+
+
+
+
+
+At any rate, after entering even more information, the user is presented with a QuinStreet-
+
+
+generated table of quotes from a handful of other carriers (none of them directly usable), along 
+
+
+with a QuinStreet-mediated link or two to third-party web sites. Confusingly, the table of quotes 
+
+
+and the links don’t necessarily line up: in our experience, for instance, the quotes were from 
+
+
+Esurance, Foremost, Good2Go, MetLife, and Plymouth Rock, while the links were to Liberty 
+
+
+Mutual and State Farm – making the user experience even more befuddling. 
+
+
+
+
+
+We believe that the likes of Liberty Mutual and State Farm pay for clicks onto their sites that 
+
+
+originate from Progressive’s site and that Progressive and QuinStreet share the resulting 
+
+
+revenue, though we are unsure of the terms of the arrangement, which QuinStreet, in typical 
+
+
+fashion, says nothing about. Progressive may also pay QuinStreet directly for the use of its 
+
+
+insurance.com technology. Despite the tortuous path that a user must follow to end up 
+
+
+generating revenue for QuinStreet in this fashion – going through page after page of personal 
+
+
+data entry to obtain a Progressive quote, then scrolling all the way down to click a link to check 
+
+
+to see if any competitors’ prices are better, then entering more personal data, then viewing 
+
+
+those prices, then deciding it’s worthwhile to click on a link to enter data yet again to get more 
+
+
+quotes from another insurer – Progressive.com does attract a lot of traffic: according to 
+
+
+SimilarWeb, some 17 million visitors per month. Converting even a small fraction of these 
+
+
+visitors to outbound clicks could plausibly account for at least some of QuinStreet’s increased 
+
+
+Progressive revenue. 
+
+
+
+
+
+Whatever the details behind QuinStreet’s changing relationship with Progressive, recognizing 
+
+
+the role that Progressive has played in QuinStreet’s recent revenue growth puts that growth – 
+
+
+and QuinStreet management’s comments about it – in a different light. For instance, in both the 
+
+
+March 31 and June 30, 2017, quarters, management spoke glowingly of the “positive 
+
+
+momentum” that was building up in the business, especially in the Financial Services segment, 
+
+
+speaking as if this was a broad-based phenomenon; in reality, Financial Services sequential 
+
+
+growth in those quarters came entirely from Progressive, while non-Progressive Financial 
+
+
+Services revenue actually declined. Looking at the overall business, it’s striking that, as shown 
+
+
+below, QuinStreet revenue excluding Progressive (as well as the recent Katch acquisition, 
+
+
+which bumped up revenue in the December 2017 quarter) has exhibited no trend toward growth 
+
+
+over the past two-and-a-half years. Outside of Progressive, nothing much, on net, has 
+
+
+happened.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 11 
+
+
+
+
+
+QuinStreet Revenue Is Not Trending Up Outside of Progressive 
+
+
+ 
+Source: company filings, Kerrisdale analysis 
+
+
+Note: Katch revenue estimate comes from January 31, 2017, earnings call (“Revenue related to the 
+
+
+acquired Katch business was approximately $3 million”). 
+
+
+
+
+
+Meanwhile, even the Progressive revenue has been essentially flat for the last three quarters, 
+
+
+raising doubt about QuinStreet’s overall growth potential going forward. In the words of a former 
+
+
+QuinStreet employee knowledgeable about its insurance business, “This may be a one-time 
+
+
+deepening of the relationship with QuinStreet and Progressive” – not a sustainable upward 
+
+
+move. Among large carriers, Progressive’s historical emphasis on facilitating comparison 
+
+
+shopping was unique; while QuinStreet might deserve credit for achieving a “one-time 
+
+
+deepening,” there’s no obvious “next Progressive” to pursue. 
+
+
+
+
+
+In addition, the main product QuinStreet is providing – in essence, a few advertiser-funded 
+
+
+hyperlinks – is far from special. In fact, QuinStreet’s competitor MediaAlpha has pitched what it 
+
+
+calls “shopper monetization programs” for years (emphasis added): 
+
+
+
+
+
+Shopper Monetization Programs: MediaAlpha strengthened its market leadership 
+
+
+position in the insurance segment and is now working directly with 18 insurance carriers 
+
+
+who utilize the MediaAlpha exchange platform to offer comparison advertising and 
+
+
+monetize their non-served and/or non-converting shoppers. 
+
+
+
+
+
+As explained in a May 2016 post on InsuranceThoughtLeadership.com by MediaAlpha’s former 
+
+
+vice president of marketing, the idea is the same as what QuinStreet does for Progressive: a 
+
+
+0
+
+
+10
+
+
+20
+
+
+30
+
+
+40
+
+
+50
+
+
+60
+
+
+70
+
+
+80
+
+
+Dec-14 Dec-15 Dec-16 Dec-17
+
+
+R
+e
+v
+e
+n
+u
+e
+ (
+
+
+$
+m
+
+
+m
+)
+
+
+Quarter Ended
+
+
+Non-Progressive, non-Katch
+
+
+Progressive
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 12 
+
+
+
+
+
+way for an insurance carrier to make money off of consumers who express interest in an 
+
+
+insurance policy but ultimately don’t buy, either because the carrier rejects them or because 
+
+
+they reject the carrier. Regardless, these consumers are valuable to advertisers in the insurance 
+
+
+space, including other carriers, and MediaAlpha’s ad-exchange technology enables them to bid 
+
+
+in real time for the target audiences they want. A MediaAlpha case study reveals that Esurance, 
+
+
+an Allstate subsidiary, worked closely with MediaAlpha to refine this technology, and apparently 
+
+
+the partnership has gone well: Esurance calls MediaAlpha “a best-in-class technology partner” 
+
+
+and praises its “easy-to-use” and “sophisticated” tools. 
+
+
+
+
+
+As QuinStreet warns in the “Concentrations of Credit Risk” section of its 10-K, most of its 
+
+
+contracts with clients “are cancelable with little or no prior notice. In addition, these contracts do 
+
+
+not contain penalty provisions for cancellation before the end of the contract term.” QuinStreet 
+
+
+discloses its outsized exposure to Progressive in the very next sentence. With a competitor like 
+
+
+MediaAlpha waiting in the wings, QuinStreet will never be able to rest easy; Progressive will 
+
+
+always have the option of switching partners or demanding better, knowing that, with almost a 
+
+
+quarter of its revenue hanging in the balance, QuinStreet is in no position to argue. This is not 
+
+
+the sort of business that deserves a high multiple. 
+
+
+
+
+
+IV. QuinStreet-Affiliated Sites Benefit from Highly 
+
+
+Suspicious Web Traffic 
+
+
+
+
+
+With the Financial Services vertical so central to QuinStreet’s current business mix, it’s strange 
+
+
+that the company says so little about the underlying internet properties in that area. What sites 
+
+
+matter most? What trends are affecting their traffic? Unfortunately, there’s no simple way to 
+
+
+locate all the sites in QuinStreet’s network, since so many belong to third parties and don’t 
+
+
+broadcast their QuinStreet connection. But by looking “under the hood” of many sites, we 
+
+
+discovered a key QuinStreet hub: Nextinsure.com. 
+
+
+
+
+
+Unlike, say, insurance.com – a consumer-facing site – Nextinsure.com largely operates behind 
+
+
+the scenes. Clicks originating on QuinStreet affiliates’ sites or QuinStreet’s own are processed 
+
+
+using technology hosted on Nextinsure.com; the traffic then flows outward to advertiser sites, 
+
+
+thereby generating revenue for QuinStreet, which in turn pays a portion of that revenue to its 
+
+
+affiliates. In an effort to better understand the identity and quality of QuinStreet’s affiliates, we 
+
+
+examined data from SimilarWeb, a standard resource for analyzing web traffic. According to 
+
+
+SimilarWeb, the vast majority of Nextinsure’s traffic comes from referrals, i.e. inbound links from 
+
+
+other domains. But the list of the top 5 referring sites over the last three months surprised us:
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 13 
+
+
+
+
+
+Nextinsure.com: Primary Traffic Sources 
+
+
+ 
+Source: SimilarWeb (screenshot taken April 6, 
+
+
+2018). Red rounded rectangle added for 
+
+
+emphasis. 
+
+
+
+
+
+Most of the sites are relatively easy to understand: 
+
+
+
+
+
+ autoinsurance.insure.com and carinsurance.com, the second and fourth largest traffic 
+
+
+sources, are QuinStreet-owned sites; in keeping with QuinStreet’s past commentary 
+
+
+about the relative unimportance of its proprietary sites, these “marquee” names account 
+
+
+for only ~13% of Nextinsure traffic. 
+
+
+ DMV.org, the third largest referrer into Nextinsure, is a high-traffic auto site that 
+
+
+prominently announces on every page that it is “A PRIVATELY OWNED WEBSITE 
+
+
+THAT IS NOT OWNED OR OPERATED BY ANY STATE GOVERNMENT AGENCY.” 
+
+
+ EverQuote, Nextinsure’s fifth-largest source of traffic, is itself a large insurance-lead 
+
+
+aggregator and major QuinStreet competitor. According to SimilarWeb, EverQuote.com 
+
+
+is the single most-trafficked insurance site not affiliated with a carrier (standing at #5 in 
+
+
+the overall insurance rankings, behind USAA, Progressive, Geico, and State Farm’s 
+
+
+sites). From a financial perspective, EverQuote likely earns more insurance-related 
+
+
+revenue than QuinStreet does.5 The fact that EverQuote nonetheless sends traffic to 
+
+
+Nextinsure – representing, we suspect, unattractive prospects that EverQuote can’t 
+
+
+readily match with its large carrier clients and instead tries to monetize via QuinStreet –  
+
+
+illustrates what a confusing labyrinth the lead-aggregation market is, with sensitive 
+
+
+consumer data passing through many hands along the way.  
+
+
+                                                
+5 According to Inc., EverQuote revenue was $122.8 million in 2016, up 27% from 2015 and a 
+
+
+compounded 39% per year over the previous three years. Assuming 25% growth, EverQuote revenue 
+
+
+would be ~$150 million in 2017. By contrast, QuinStreet’s total Financial Services revenue in calendar-
+
+
+year 2017 was $221 million, but only some of this related to insurance. On QuinStreet’s FY2017 Q4 
+
+
+earnings call, management said that insurance is “60% something of total Financial Services,” implying 
+
+
+$133-144 million (60-65%) in insurance revenue. Thus we believe EverQuote generates at least 
+
+
+somewhat more insurance revenue than QuinStreet does.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 14 
+
+
+
+
+
+
+
+
+But what about Nextinsure’s number-one source of traffic – insurancebranch.com? We’d never 
+
+
+heard of it before, yet in recent months it appears to have supplied 10% of the inbound traffic to 
+
+
+QuinStreet’s main network hub. Visiting the site today shows almost nothing – just a 
+
+
+background image of the sky, some legal boilerplate linking the site to a marketing firm called 
+
+
+Global Wide Media, and the address of an unassuming building in a Los Angeles suburb also 
+
+
+associated with two other low-quality sites, smarterlifechoices.com and stayflytravel.com. 
+
+
+However, archive.org shows that, as recently as September 29th, Insurance Branch presented 
+
+
+itself as a wide-ranging financial-services portal, with links for auto, health, home, life, Medicare, 
+
+
+and mortgage but no real content. 
+
+
+
+
+
+Insurance Branch: Could This Have Been QuinStreet’s Largest Affiliates? 
+
+
+ 
+Source: archive.org capture of insurancebranch.com, September 29, 2017 
+
+
+
+
+
+As recently as last week, we could actually access the auto page (even though it was no longer 
+
+
+linked from the front page) and quickly found that it provided “listings powered by: 
+
+
+insurance.com,” a QuinStreet site:
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 15 
+
+
+
+
+
+Insurance Branch Used QuinStreet’s Insurance.com 
+
+
+ 
+Source: Kerrisdale screenshot of insurancebranch.com, April 5, 2018 
+
+
+
+
+
+(interestingly, we see above that QuinStreet’s best “match” for this notional insurance shopper 
+
+
+was The Zebra – not an “insurance provider” itself but yet another lead aggregator that again 
+
+
+promises to allow the user to compare real-time quotes.) 
+
+
+
+
+
+SimilarWeb data confirms that, from January to March, 80% of Insurance Branch’s outbound 
+
+
+traffic flowed to nextinsure.com, while 17% flowed to insurance.mediaalpha.com, a hub site for 
+
+
+QuinStreet’s competitor MediaAlpha. Thus it appears that whoever is responsible for Insurance 
+
+
+Branch primarily used QuinStreet (and to a lesser degree MediaAlpha) to monetize its traffic, 
+
+
+apparently via users clicking on links like the Zebra one above, racking up costs for the 
+
+
+advertiser and revenue for QuinStreet, which it presumably shared with Insurance Branch. 
+
+
+
+
+
+But how did this obscure, strangely named, skeletal site bring so much traffic in to QuinStreet? 
+
+
+Looking again at SimilarWeb data, we find that a baffling 64% of Insurance Branch’s traffic is 
+
+
+“direct” – i.e. users apparently just typing “insurancebranch.com” into their browsers of their own 
+
+
+volition. But of the 28% of traffic that comes from referrals, 67% comes from swagbucks.com – 
+
+
+a site that allows consumers to “get free gift cards & cash for the everyday things you do 
+
+
+online,” including “watch[ing] entertaining videos…answer[ing] surveys and find[ing] great 
+
+
+deals.”6 Completing these tasks earns users “swagbucks” (SB), usually worth a penny each. A 
+
+
+lively online community of Swagbucks devotees keeps close tabs on the site and related 
+
+
+platforms like Revenue Universe and AdGate Media, and many users have explicitly talked 
+
+
+about how much they like offers from Insurance Branch (emphasis added throughout): 
+
+
+                                                
+6 The second-largest source of traffic for Insurance Branch is SponsorPay, now called Fyber, which 
+
+
+allows app developers to make money via “offer walls” similar to what the Swagbucks users quoted below 
+
+
+describe using.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 16 
+
+
+
+
+
+
+
+
+Adgate Media: Mortgage Insurance Branch: An easy 16 SBs I have found under 
+
+
+AdGate. All you have to do is to submit your zip code and click on “Get Quote.” No need 
+
+
+to sign up or anything. 
+
+
+—post on swagbuckshelp.blogspot.mk, August 31, 2016 
+
+
+
+
+
+Insurance Branch Offers:  Look on the AdscendMedia wall or Adgate wall for these 
+
+
+offers.  All you do is enter your zipcode and click "Get Quote" and you get some SB 
+
+
+and the team gets points too!  
+
+
+—post on a blog entitled How to Earn a Little Extra, March 17, 2017 
+
+
+
+
+
+Some of the Insurance branch offers allowed me to do them twice. So far 20 
+
+
+[swagbucks] credited. 
+
+
+—user “resourcepit” on the r/SwagBucks reddit, December 6, 2017 
+
+
+
+
+
+MOST paid offers are pending for a certain amount of time. So if you NEED the 
+
+
+Swagbucks right away they might not be available for up to 60 days. … Sometimes you 
+
+
+can luck out and get offers like Insurance Branch (just put in your zip code for 
+
+
+SBs) or Daily Breaks (little games and ads for SBs) 
+
+
+—user “savestheday” on the parenting message board GBCN, January 8, 2018 
+
+
+
+
+
+Thus, synthesizing the available information, we believe the following has taken place: 
+
+
+
+
+
+ Dating back to at least 2016, whoever created Insurance Branch (perhaps an affiliate of 
+
+
+Global Wide Media) effectively paid Swagbucks enthusiasts tens of cents each to enter 
+
+
+their ZIP codes and pretend they wanted insurance quotes. Some even managed to get 
+
+
+credit for clicking “get quote” multiple times. 
+
+
+ Insurance Branch, as a QuinStreet affiliate, used QuinStreet technology to generate the 
+
+
+advertiser-sponsored links for the Swagbucks fans to click on. 
+
+
+ Each click cost the underlying advertisers money (on the order of dollars or tens of 
+
+
+dollars per click) and generated revenue for QuinStreet, the majority of which it likely 
+
+
+remitted back to Insurance Branch. 
+
+
+ This arrangement grew so large that it came to be the single biggest source of traffic for 
+
+
+the Nextinsure.com hub, accounting for 10% of the total. 
+
+
+ Very recently, parts of Insurance Branch have been deactivated. Perhaps someone 
+
+
+finally noticed what was going on. 
+
+
+
+
+
+Of course, what insurers and other advertisers want is consumers actually shopping for 
+
+
+insurance – not opportunists looking to score a few swagbucks. For some period, however – as 
+
+
+long as advertisers can’t discern the phony traffic from the real traffic – QuinStreet would 
+
+
+benefit, even if it was initially unaware of the Insurance Branch scheme. 
+
+
+
+
+
+Intriguingly, another advertising-related traffic anomaly, reported on by Buzzfeed in late 2017 
+
+
+(“Myspace Looked Like It Was Back. Actually, It Was A Pawn In An Ad Fraud Scheme”), also
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 17 
+
+
+
+
+
+involved Swagbucks: a “trending videos” page on Myspace spiked in apparent popularity, 
+
+
+partially as a result of Swagbucks users being financially rewarded for watching videos but, 
+
+
+even more egregiously, because a complex automated system generated large volumes of 
+
+
+totally human-free traffic as well. (Fraudulent automated traffic would help explain why so much 
+
+
+of Insurance Branch’s incoming traffic appears to be direct, since it’s otherwise difficult to 
+
+
+imagine why anyone would actually type “insurancebranch.com” into a browser, but we have no 
+
+
+direct evidence of this.) 
+
+
+
+
+
+In addition to Insurance Branch, we uncovered other suspicious sources of QuinStreet traffic: 
+
+
+
+
+
+ autoinsurance.insure.com: This site is the second-largest source of recent 
+
+
+Nextinsure.com traffic and, as mentioned above, a QuinStreet-owned site. SimilarWeb 
+
+
+data indicates that almost all referral traffic into this domain (99%) come from three 
+
+
+places: rnddmn.com, rcdnew.com, and newdmn.com. None of these sites has any 
+
+
+visible content. A March Reddit post suggests that these domains seem to be generating 
+
+
+anomalous traffic elsewhere, and numerous sites focused on malware and adware 
+
+
+describe how these domain names are used by malicious programs that produce 
+
+
+unwanted pop-up ads and browser redirection:7 
+
+
+
+
+
+The Newdmn.com is an annoying page which will directly lead you to a variety of 
+
+
+advertising pages. … Aside from causing redirects, the ‘ad supported’ software 
+
+
+also can show lots of popup advertisements, slow down the machine and 
+
+
+continually gather privacy info about you. … It’s made with the sole purpose to 
+
+
+show dozens of advertisements … For each click on a link, the creators of the 
+
+
+adware receive income. 
+
+
+
+
+
+ guidetolenders.com: owned by QuinStreet, this site is one of the main components of the 
+
+
+company’s small mortgage vertical. Its fourth-largest source of referral links is kptrk.us. 
+
+
+Entering that address yields a “404 Not Found” error message. The domain is registered 
+
+
+to someone in the Chinese city of Zhuzhou named Bai Guicai, who has also registered 
+
+
+the defunct site sohorich.com.  
+
+
+ low-income-car-insurance.com: owned by All Web Leads but, pursuant to that 
+
+
+company’s partnership with QuinStreet, partially monetized via the Nextinsure.com hub. 
+
+
+Despite the site’s obvious US focus (e.g. other countries don’t have ZIP codes), 
+
+
+SimilarWeb indicates that 36% of its recent traffic has come from Brazil. 
+
+
+ USInsuranceOnline.com: a relatively high-traffic All Web Leads site, again monetized via 
+
+
+QuinStreet and Nextinsure. The fourth and fifth largest sources of referrals to the site are 
+
+
+amarktflow.com and poll.surveyvoicesresearch.com. The former site hosts no content 
+
+
+but is associated with misleading mobile pop-ups, as described on reportscam.com: 
+
+
+
+
+
+                                                
+7 See e.g. myantispyware.com on “How to remove Newdmn.com redirect” the Remove Malware blog post 
+
+
+on newdmn.com, system-tips.net on “Rnddmn.com/scz redirect domain – how to remove from browser,” 
+
+
+and 2-security.com on “Rnddmn.com/scz pop-up infection.”
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 18 
+
+
+
+
+
+I had a message pop up on my phone that I could win $1000 gift card from 
+
+
+Walmart - at first I thought it was tied to the app I was on and it was ligit. I 
+
+
+answered three questions - then typed in email. Then next screen wanted my 
+
+
+home address and phone number. that's when I got suspicious and searched on 
+
+
+line - Did not type any more info - the only info was my email address so I will 
+
+
+probably be bombarded with emails now. Glad I looked it up and found out it was 
+
+
+a scam. 
+
+
+—user “classy,” January 29, 2018 
+
+
+
+
+
+Offered $1000 Amazon gift card.  
+
+
+Had to do survey that requires you to pick a deal before you can get the gift card. 
+
+
+Asks for personal info. Never actually get gift card. Looks very legit but it's not. 
+
+
+Now I can't get them cleared off my browser! Then says I need LifeLock to 
+
+
+protect me! Screw you all! 
+
+
+—user “LauraLolyAllen,” February 1, 2018 
+
+
+
+
+
+As for surveyvoicesresearch.com, the site bills itself as “the best source for top paid 
+
+
+surveys.” A recent comment on ScamAvenger.com by site proprietor Gary Horton 
+
+
+highlights how Survey Voices can interact with insurance lead generation: 
+
+
+
+
+
+Surveys was one of the first things I tried when I wanted to make money online. 
+
+
+That was several years ago and I remember I didn’t make any money. All I 
+
+
+managed to do was waste a lot of time and get a lot of spam emails and spam 
+
+
+phone calls. I remember telling an insurance agent who called me because of a 
+
+
+survey I filled out that I didn’t want any insurance, I was just trying to make some 
+
+
+money. They were so mad! 
+
+
+
+
+
+We also came across a separate strange source of US Insurance Online traffic: fake 
+
+
+Reddit posts. In September 2017, Reddit user “OlderandTaller” asked, “What’s with 
+
+
+these weird subreddits?”: 
+
+
+
+
+
+So doing some research on car insurance, I found some subreddits that have 
+
+
+names completely unrelated to insurance, yet have users spamming them with 
+
+
+insurance related posts/comments. 
+
+
+
+
+
+Some of these include: /r/makesomenewfriends /r/bigballs /r/ballsofsteel 
+
+
+/r/bravelydefaultfriends /r/fuckfriends Among others 
+
+
+
+
+
+These subreddits are filled with questions about insurance, and all the comments 
+
+
+are not answers, but more questions about insurance. Clicking on any of the 
+
+
+users shows they're like a sort of bot, just posting random different insurance 
+
+
+questions across all these subreddits. 
+
+
+
+
+
+Another user, “itsnotlupus,” replied:
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 19 
+
+
+
+
+
+
+
+
+So, right, it's spam, and if you found those pages by googling for insurance, it's 
+
+
+working. The only problem with you is that you thought that looked weird. Their 
+
+
+target audience would open the reddit thread, and click on the first link in the 
+
+
+comments. 
+
+
+
+
+
+It looks like a one man show from someone in Mexico and appears to be directed 
+
+
+toward generating leads for https://affiliates.usinsuranceonline.com/ with the 
+
+
+affiliate id 14899 and for Quinstreet's nextinsure.com with a number of source ids 
+
+
+that kinda obfuscate any underlying affiliate id. 
+
+
+
+
+
+… The comments look nonsensical to humans, but they look to search engines 
+
+
+like an active thread worthy of being indexed. Every thread appears to have at 
+
+
+least one comment linking to the site they're trying to promote. 
+
+
+
+
+
+So the idea is to: 
+
+
+1. fool search engines into thinking this is a legitimate reddit thread and get it 
+
+
+indexed with all the keywords it contains (which happen to all be insurance-
+
+
+related) 
+
+
+2. get users searching for those keywords to find at least one of those threads, 
+
+
+and to click on it. 
+
+
+3. get users on those threads to click on the first link they see on the page, which 
+
+
+happens to be in the first comment of each of those threads. 
+
+
+4. hope that users keep going and start entering their info to get insurance 
+
+
+quotes. 
+
+
+
+
+
+It's a funnel, and they lose folks at each level, but the ones that get to a 
+
+
+completed quote earn the spammer a few dozen dollars each right there. 
+
+
+
+
+
+Thus, across QuinStreet affiliates like Insurance Branch and US InsuranceOnline as well as 
+
+
+QuinStreet-owned sites like Guide to Lenders and Insure.com, we find evidence of phony, low-
+
+
+quality, and suspicious traffic. Unfortunately, it’s impossible to estimate, using the sometimes 
+
+
+noisy third-party data sources available to us, how much revenue or profit QuinStreet derives 
+
+
+from such suspicious traffic, but the world of online lead-generation is so murky that we believe 
+
+
+we’ve only found a fraction of the anomalies. Given the arm’s-length relationship between 
+
+
+QuinStreet and its affiliates, it’s certainly possible for QuinStreet to plead ignorance about 
+
+
+unsavory practices that end up contributing to its revenue, but that itself highlights one of the 
+
+
+long-term defects in its business model: it aims to sell traffic to advertisers without fully 
+
+
+understanding or controlling where it came from or how it was generated. How much can 
+
+
+advertisers trust QuinStreet’s quality control when real customers are mixed in with Swagbucks 
+
+
+seekers and people falling prey to malware pop-up ads? 
+
+
+
+
+
+Back in 2011, QuinStreet complained that its competitors were tainting the industry’s image by 
+
+
+acquiring and re-selling “incentivized clicks”:
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 20 
+
+
+
+
+
+
+
+
+The overall quality is down pretty dramatically because most of the new big volume is 
+
+
+coming from sources that are very low quality in terms of their conversion into a 
+
+
+customer. And a lot of them are coming out of incentivization, particularly in social 
+
+
+gaming incentivization. So those clicks are converting into applications because they’re 
+
+
+incentivized to do so, but they’re not converting into customers because that person 
+
+
+never intended to buy an insurance policy. They just wanted to get a new tractor or new 
+
+
+power in their particular game.8 
+
+
+
+
+
+This flood of bad clicks was so massive that it crushed overall click pricing and forced 
+
+
+QuinStreet to slash earnings guidance, kicking off a multi-year contraction in its insurance 
+
+
+business. While QuinStreet initially insisted that it was being unfairly punished for its 
+
+
+competitors’ bad practices, later comments implied something different: 
+
+
+
+
+
+The second biggest [problem in the Financial Services vertical] has really been clients 
+
+
+largely somewhat ironically due to our pushing and probing being much more sensitive 
+
+
+to ROI in the back end, and adjusting their budgets to be more conservative with respect 
+
+
+to that ROI and to be more aggressive and precise with respect to that ROI. … And so – 
+
+
+but that is something that we are – somewhat created by the fact that we went through 
+
+
+the issues that happened in the industry with incentivized clicks. And our response to 
+
+
+that put us a little bit in bad position.9 
+
+
+
+
+
+Stated more directly, QuinStreet tried to convince its advertiser clients not to buy its competitors’ 
+
+
+bad clicks, but this effort only pushed those clients to scrutinize the clicks QuinStreet was 
+
+
+supplying – and they didn’t like what they saw. Eventually, QuinStreet implicitly admitted that it 
+
+
+too was part of the problem, speaking of declining traffic caused by “our own efforts to remove 
+
+
+traffic that either was associated with the incentivized click problems that we saw last year or 
+
+
+that just represented lower-quality traffic even without the incentivization.”10 But as the years 
+
+
+have passed and QuinStreet’s insurance business has stabilized, concerns about quality have 
+
+
+receded. Our research, however, suggests that similar underlying problems remain.  
+
+
+
+
+
+It's no wonder, then, that a recurrent theme in our conversations with former QuinStreet 
+
+
+employees was distaste for the way the company does business. One said that QuinStreet 
+
+
+“does a lot of stuff that I think is kind of borderline unethical for clients,” including knowingly 
+
+
+selling them bad leads or turning a blind eye to questionable affiliates, and described the 
+
+
+company as operating “in the gray area of the internet.” Another narrated the evolution of his 
+
+
+perception of the company as follows: 
+
+
+
+
+
+At one point, before I went there, the only way I knew QuinStreet is that they said, “Oh, 
+
+
+they’re really high-quality leads. They don’t generate a lot of volume, but what they do is 
+
+
+                                                
+8 Source: Capital IQ transcript of QuinStreet June 7, 2011, call. 
+9 Source: Capital IQ transcript of QuinStreet February 1, 2012, call.  
+10 Source: Capital IQ transcript of QuinStreet April 30, 2012, call.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 21 
+
+
+
+
+
+good quality.” And that was my opinion before going there. But then when going there, 
+
+
+just like every other company, you see that they’re not too different from everybody else. 
+
+
+Everyone’s drinking from the same river, so, you know, we’re all getting the same – 
+
+
+we’re all working off of the same Internet, with the same customers, responding to the 
+
+
+same SEO, SEM, and the same click traffic. So it’s really not too different from anybody 
+
+
+else out there, to kind of tell you the truth. …   
+
+
+
+
+
+A third former employee said that he left the company because he “wanted to get out of lead 
+
+
+generation. It’s just not the cleanest style of online marketing. You end up dealing with a lot of 
+
+
+shady people. … It’s just kind of a shady industry.” With this “shadiness” borne out in our 
+
+
+analysis of the public traffic data, we struggle to reconcile QuinStreet’s current valuation with its 
+
+
+dubious long-term franchise value. 
+
+
+
+
+
+V. QuinStreet’s Business Model Is Fundamentally Flawed 
+
+
+
+
+
+If you’re really just showing a list of auto-insurance providers, how can you build a 
+
+
+differentiated competitive advantage there? 
+
+
+—former QuinStreet employee 
+
+
+
+
+
+Even if QuinStreet’s financial results were not inflated by a one-time step-up in revenue from 
+
+
+Progressive and an unknown quantity of phony traffic, we believe any traction it might gain in 
+
+
+the short term will ultimately prove fleeting. Fundamentally, QuinStreet’s business model is 
+
+
+unsustainable.  
+
+
+
+
+
+What does the company really do? In a word, arbitrage. As part of a legal dispute between 
+
+
+QuinStreet’s competitor MediaAlpha and its erstwhile competitor Katch (now dismantled into 
+
+
+separate verticals owned by, among others, MediaAlpha and QuinStreet), the former chief 
+
+
+marketing officer of Katch (himself a former senior director of vertical marketing for QuinStreet) 
+
+
+offered up a concise summary of how such firms actually function: 
+
+
+
+
+
+The simple fact is that both companies (MediaAlpha and Katch) make money by paying 
+
+
+publishers less per click than the advertiser is ultimately paying for such clicks. MediaAlpha 
+
+
+can refuse all it wants to call this differential a “margin” or “spread”, but that is exactly what 
+
+
+it is.11 
+
+
+
+
+
+The same characterization applies to QuinStreet. This attempted arbitrage can work when 
+
+
+advertising markets are inefficient, but as time goes on and all the players become more 
+
+
+sophisticated, arbitrage opportunities tend to decay and middlemen’s margins tend to contract – 
+
+
+just as they do in capital markets. 
+
+
+
+
+
+                                                
+11 Katch, LLC, v. Jeff Sweetser, case no. 15-CV-03760, document 30 (Second Supplemental Declaration 
+
+
+of Patrick Cross, filed 10/22/15), p. 2.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 22 
+
+
+
+
+
+In auto insurance, for instance, creating novel content that potential customers are genuinely 
+
+
+interested in is inherently difficult. Instead, QuinStreet affiliates typically use search-engine-
+
+
+optimization (SEO) techniques and pay for Google search ads to drive traffic to their low-quality 
+
+
+sites. QuinStreet itself also relies heavily on paid search results to garner attention for its own 
+
+
+properties. But Google keywords in QuinStreet’s main verticals are some of the most expensive 
+
+
+there are, with “insurance” clicks costing almost $50 each and “degree,” “business software” 
+
+
+(relevant to QuinStreet’s B2B vertical), “loans,” “mortgages,” “banking,” and a variety of home-
+
+
+services keywords like “plumber” likewise ranking among the priciest.12 Insurance-related 
+
+
+keywords are so expensive in part because the four largest US auto insurers – State Farm, 
+
+
+Geico, Allstate, and Progressive – are themselves very large online marketers, making their 
+
+
+keyword auctions intensely competitive. Over time, the prices of the most important keywords 
+
+
+will come to fully reflect their value to the end users, and outbidding those end users in the 
+
+
+hopes of reselling the clicks (or prospective customers) at a higher price to the very same 
+
+
+entities cannot make money in the long run.  
+
+
+
+
+
+This problem is not merely theoretical. For example, a former Katch executive described to us 
+
+
+how, at times, leaders in the health-insurance vertical would notice that their call center (set up 
+
+
+to handle inbound consumer inquiries) went quiet: 
+
+
+
+
+
+We’d be like, well, what’s happening to the Medicare calls? The phone’s not ringing as 
+
+
+much. And the SEM [search-engine marketing] guys would say, “Well, it’s getting 
+
+
+expensive. Everyone’s buying the same words. Your bids are going up on Google. So 
+
+
+we’re pulling back just a little bit.” 
+
+
+
+
+
+In other words, Katch would periodically find itself priced out of the keyword market and, as a 
+
+
+result, see its volumes collapse. Similarly, a former leader from a QuinStreet vertical explained 
+
+
+that QuinStreet’s owned and affiliated sites stopped being highly ranked in most vertical-related 
+
+
+search results because “the bids and the prices just go too expensive and probably didn’t fit in 
+
+
+QuinStreet’s budget anymore.” 
+
+
+
+
+
+To circumvent this dynamic, publishers and middlemen can try to target overlooked niches; for 
+
+
+example, carinsurancequotes.com, an All Web Leads site that is now a QuinStreet affiliate, 
+
+
+enjoys a relatively high organic ranking for the search string “pimped out minivan.”13 But niches 
+
+
+are, by definition, small, and they tend to eventually attract competition. The more difficult but 
+
+
+potentially more rewarding option, pursued by some of QuinStreet’s peers, is to rely less on 
+
+
+third parties and paid clicks and instead actually build a valuable consumer product. 
+
+
+LendingTree, for instance, has poured marketing and research dollars into creating a high-
+
+
+profile and trusted brand. QuinStreet, by contrast, spent just $2.8 million in 2017 on capital 
+
+
+expenditures and internal software development. It has never made a serious effort to become a 
+
+
+                                                
+12 WordStream, “The 25 Most Expensive Keywords in AdWords – 2017 Edition!,” December 18, 2017. 
+13 We owe this observation to the insurance news site Coverager’s January 2018 report, Auto Insurance 
+
+
+Leads: Measuring Quality, p. 19.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 23 
+
+
+
+
+
+cutting-edge or consumer-focused company, content instead to remain an obscure 
+
+
+intermediary. But obscurity hasn’t insulated its business model from challenge. 
+
+
+
+
+
+Low Barriers to Entry Foster Intense Competition 
+
+
+
+
+
+The barriers to entry aren’t so great. To begin to try to manage the Google secret sauce for 
+
+
+SEM and buy it at a buck and a half and then resell it at $6.50 or whatever the margin is? I 
+
+
+think it’s pretty crowded.…It seems like everybody’s trying to do the same thing, so once 
+
+
+you kind of develop your skill, and maybe get some money or some backing, why wouldn’t 
+
+
+you go do your own thing? 
+
+
+—former Katch executive 
+
+
+
+
+
+Since the advertising arbitrage practiced by QuinStreet and its competitors requires relatively 
+
+
+little capital or advanced technology, it’s no surprise that new entrants are constantly popping up 
+
+
+– often led by former employees of the incumbents.  
+
+
+
+
+
+ Katch/Renuant: Though Katch (formerly known as Vantage Media) wasn’t founded by 
+
+
+QuinStreet alums, it hired away at least seven QuinStreet employees circa 201014 into 
+
+
+roles including CEO and CMO, as Katch, like QuinStreet, attempted to diversify its lead-
+
+
+generation capabilities away from education. Katch then went on to sell its health-
+
+
+insurance vertical to MediaAlpha and its auto-insurance vertical to QuinStreet, 
+
+
+whereupon one of the former QuinStreet employees left to co-found a new firm, 
+
+
+Renuant. Though still in its earliest stages, Renuant plans to directly compete with 
+
+
+QuinStreet: 
+
+
+
+
+
+Renuant connects auto insurance carriers and agencies with consumers 
+
+
+interested in acquiring auto insurance policies. Renuant was formed by two 
+
+
+industry veterans with a cumulative experience in digital advertising of over 35 
+
+
+years… 
+
+
+
+
+
+ Hometown Quotes: Much of QuinStreet’s auto-insurance business is built on the 
+
+
+foundation of SureHits, an advertising platform it acquired in 2008. SureHits was co-
+
+
+founded by Jon Kelly, who remained at QuinStreet for three years before leaving to 
+
+
+become the CEO and then chairman of Hometown Quotes, a competing insurance-lead 
+
+
+aggregator. 
+
+
+ Bantam Connect: Founded in July 2016, Bantam Connect is an insurance-lead 
+
+
+generator specializing in “warm transfers” (industry jargon for calls with prospective 
+
+
+customers that are seamlessly handed off in real time from the lead seller to the lead 
+
+
+buyer). The company was founded by a former executive at insuranceQuotes, another 
+
+
+                                                
+14 See Katch, LLC, v. Jeff Sweetser, case no. 15-CV-03760, document 22 (Declaration of Steven Yi, filed 
+
+
+10/15/15), p. 7.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 24 
+
+
+
+
+
+lead aggregator, who left when that company was acquired by Bankrate (which went on 
+
+
+to sell it to All Web Leads). Despite its short lifespan, Bantam Connect itself was already 
+
+
+acquired (in January) by QuoteWizard, yet another insurance-lead aggregator. 
+
+
+ InsuranceClicks.com: In January 2016, Inside Ventures, a lead generator previously 
+
+
+involved in the education, insurance, annuities, and home-security verticals, hired a 
+
+
+QuinStreet senior manager from the Financial Services vertical as “director of business 
+
+
+development.” By December 2016, the company had launched InsuranceClicks.com, 
+
+
+seemingly modeled directly on QuinStreet’s old SureHits platform. (Notably, one of the 
+
+
+benefits touted by InsuranceClicks.com is that its “fraud prevention processes eliminate 
+
+
+bad sources better than our competitors.”) 
+
+
+
+
+
+Beyond start-ups directly tied to the incumbents, an even wider range of firms can now do 
+
+
+anything QuinStreet does, and often better. MediaAlpha, founded in 2012, earned $163 million 
+
+
+of revenue in 2017;15 EverQuote, founded in 2011, earned $123 million of revenue in 2016;16 
+
+
+and QuoteWizard, founded in 2006 and self-funded, earned about $100 million of revenue in 
+
+
+2015, though it dropped to $80 million in 2017. Evidently neither QuinStreet nor its army of 
+
+
+affiliates could keep these firms from rapidly gaining scale over the past five to ten years. And 
+
+
+let’s not forget The Zebra (backed by Mark Cuban and now led by the former CEO of Kayak), 
+
+
+CoverHound (a key partner of Google’s when the search giant experimented with its own 
+
+
+insurance price-comparison offering), Compare.com (a subsidiary of the large UK auto insurer 
+
+
+Admiral Group), PolicyGenius, InsuraMatch, Datalot, Insurify, DoublePositive, Leadnomics, 
+
+
+Precise Leads, ChimpQuote, or Young Alfred. The reality is that legions of middlemen are now 
+
+
+vying for the attention of people shopping for insurance online, with many offering highly similar 
+
+
+information and price-comparison tools, all hoping to profit by selling leads and clicks to the 
+
+
+same universe of agents and insurers. QuinStreet simply doesn’t have an edge.  
+
+
+
+
+
+QuinStreet Is in a Weak Position Vis-à-Vis Its Counterparties 
+
+
+
+
+
+If basically all you’re giving somebody is a table of a bunch of different auto-insurance 
+
+
+providers…somebody else can come in… If I started a blog, [Joe’s]Insurance.com, I’m just 
+
+
+going to take whichever table gives me the best payout – and that makes it really hard to 
+
+
+maintain your margin. 
+
+
+—former QuinStreet employee 
+
+
+
+
+
+As a by-product of the low barriers to entry in lead aggregation, QuinStreet often finds itself at 
+
+
+the mercy of both classes of its counterparties: publishers and advertisers. 
+
+
+
+
+
+On the publisher side, QuinStreet relies heavily on a small number of relatively high-quality 
+
+
+sites. Two former employees told us that they estimated that 20% or less of QuinStreet and its 
+
+
+affiliates’ traffic actually provided value to clients, and it was blended in with relatively worthless 
+
+
+                                                
+15 White Mountains Insurance Group 2017 10-K, p. 36.  
+16 See the 2017 Inc. 5000 listing.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 25 
+
+
+
+
+
+traffic from the bottom 80% of the distribution. In fact, in one sub-vertical, 30% of all revenue at 
+
+
+one point flowed from a single publisher. (Similarly, in Katch’s legal dispute with a former 
+
+
+employee who defected to MediaAlpha, the proprietary information it was aiming to protect was 
+
+
+“the identity of the handful of key, quality publishers out of a large ocean of low quality 
+
+
+publishers.”17) 
+
+
+
+
+
+It thus behooves QuinStreet to do anything it can to keep those few critical publishers happy. 
+
+
+But because they have other options for monetizing their traffic, this means that QuinStreet will 
+
+
+have to kick back a larger and larger fraction of its revenue to its key affiliates over time, putting 
+
+
+pressure on margins (which are already thin). QuinStreet also runs the risk of losing high-quality 
+
+
+publishers to competitors that are better able to squeeze revenue out of a given amount of 
+
+
+traffic, whether through superior technology and operations or, more distastefully, by selling 
+
+
+individual leads to larger numbers of buyers.  
+
+
+
+
+
+Looking at the Google results for “best car insurance rates” – a fairly common search that 
+
+
+signals a serious shopper – demonstrates how QuinStreet has already fallen behind. Of the ads 
+
+
+that appear, four come from insurance carriers (Progressive, Geico, Liberty Mutual, and 
+
+
+MetLife), two come from lead aggregators (EverQuote and QuoteWizard), and one comes from 
+
+
+a comparison/research site, consumersadvocate.org, which monetizes its insurance traffic using 
+
+
+MediaAlpha. Of the organic search results, one is from a carrier (Nationwide), four are from 
+
+
+sites with real content that link directly to insurance companies rather than sending traffic 
+
+
+through a monetization platform (Nerdwallet, Clark.com, and consumerreports.org), four 
+
+
+(including the top one) come from sites that monetize traffic using MediaAlpha 
+
+
+(valuepenguin.com, esurance.com, thesimpledollar.com, and goodfinancialcents.com), and just 
+
+
+one comes from a QuinStreet affiliate (DMV.org). In short, high-quality sites with insurance 
+
+
+content good enough (or well engineered enough) to rank highly on Google have largely chosen 
+
+
+to partner with MediaAlpha, not QuinStreet. The best publishers have already voted with their 
+
+
+wallets, and QuinStreet lost. 
+
+
+
+
+
+Even smaller publishers can be surprisingly savvy. In an interview video made to promote the 
+
+
+sale of a niche vocational-school web site garnering ~15,000 monthly page views, one small-
+
+
+time entrepreneur described his experience as a QuinStreet affiliate: 
+
+
+
+
+
+Have you tried Campus Explorer [a QuinStreet competitor in the education vertical]? 
+
+
+
+
+
+Just last fall…I wasn’t really impressed with QuinStreet. I thought, you know, there must be 
+
+
+more opportunity out there somewhere, so I started researching other similar providers. So 
+
+
+I came across Campus Explorer…I threw it on the site, and almost instantly it earns more 
+
+
+than QuinStreet, it converts better than QuinStreet, pays better than QuinStreet, so I’m glad 
+
+
+that I found it. Kind of wish I had found it a little bit sooner. 
+
+
+
+
+
+                                                
+17 See Katch, LLC, v. Jeff Sweetser, case no. 15-CV-03760, document 9 (Declaration of Patrick Cross, 
+
+
+filed 10/1/15), p. 3.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 26 
+
+
+
+
+
+Another small-time publisher documenting his “website flipping” journey likewise noted that “[w]e 
+
+
+have tested both [QuinStreet and Campus Explorer] and found Campus Explorer to convert 
+
+
+much better for us.” Reflecting on his experience at QuinStreet, a former employee complained 
+
+
+to us about the demanding publishers whom he had to placate: 
+
+
+
+
+
+Some of these publishers want to be paid the day the lead is sent over…There are a few 
+
+
+out there that they’ll have to actually pay pretty much on the spot.…It does put you in a bit 
+
+
+of a risky position because some publishers, especially the really high-end ones, just won’t 
+
+
+do it any other way, because they see their traffic as just that valuable. If the service rate on 
+
+
+a lead was just 1 or 2 [lead buyers] per lead, a lot of these publishers would get upset 
+
+
+because they wouldn’t be getting as much money…and they would say, hey, if you can’t 
+
+
+get us a service rate of 4 on these types of leads, we would rather sell that lead to 
+
+
+someone else who can. 
+
+
+
+
+
+There were times where you felt like you were working for them more than you were for 
+
+
+your own company…when you were like, “Yeah, I’m making some guy in the middle of 
+
+
+nowhere rich off of just clicking through a web site.” 
+
+
+
+
+
+But because QuinStreet has little to offer high-quality publishers beyond more money, it will 
+
+
+continually face the prospect of margin compression lest it lose the only real value that it brings 
+
+
+to advertisers. As publishers, even small ones, become more sophisticated and more aware of 
+
+
+their alternatives over time, QuinStreet’s bargaining position will only worsen. 
+
+
+
+
+
+On the advertiser side, QuinStreet also faces pressure from growing sophistication, as 
+
+
+advertisers become more selective about lead and traffic quality. One former QuinStreet 
+
+
+employee told us that large clients felt free to demand refunds for supposedly bad leads at will, 
+
+
+threatening not to renew their contracts if QuinStreet didn’t comply; they faced little pushback. 
+
+
+Interestingly, in fiscal year 2017, QuinStreet had to report a material weakness in its internal 
+
+
+control over financial reporting because of improper “accounting for non-standard revenue 
+
+
+credits…authorized but not timely communicated to [the] finance [department].”18 Though 
+
+
+management never commented on this material weakness in its earnings calls or press 
+
+
+releases, it appears that what happened was that someone working in one of the verticals 
+
+
+granted a client a $0.5mm refund for bad clicks or leads – yet failed to communicate that fact to 
+
+
+the finance department, causing the results to be misstated until the “error” was discovered.19 
+
+
+The amount may not have been material, but the incident highlights QuinStreet’s weak position 
+
+
+relative to its clients: it can be compelled to grant large, “non-standard” refunds when 
+
+
+advertisers push back. 
+
+
+
+
+
+In short, QuinStreet lacks a durable competitive advantage. In an advertising market growing 
+
+
+ever more efficient, it aims to profit from inefficiencies – yet an onslaught of competitors ensures 
+
+
+that any easy profit opportunities are quickly gobbled up. Lacking the wherewithal to move 
+
+
+                                                
+18 QuinStreet FY2017 10-K, p. 21. 
+19 See e.g. QuinStreet FY2017 10-K, p. 69.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 27 
+
+
+
+
+
+beyond its traditional middleman role, it operates at the mercy of both publishers and 
+
+
+advertisers, both of which QuinStreet needs far more than they need QuinStreet.  
+
+
+
+
+
+VI. QuinStreet Is a Low-Quality Organization 
+
+
+
+
+
+I mean, the reality is you have the liability. You can attempt to disclaim it, but…if your brand 
+
+
+is affiliated with, not part of the stream, but adjacent to a stream of bad activity, that has 
+
+
+consequences. That has consequences to your market cap. 
+
+
+—QuinStreet SVP of Corporate Development, Legal & Compliance, speaking at the 
+
+
+2015 FTC Workshop on Lead Generation20 
+
+
+
+
+
+This business is so corrupt I don't think anyone should work here. What seems to be a 
+
+
+company that helps people actually harms them financially. 
+
+
+
+
+
+constantly getting screamed at for cold calling people. borderline unethical because we lied 
+
+
+our way through a call in order to get a lead. 
+
+
+—QuinStreet employee reviews posted July and June 2017 on indeed.com 
+
+
+
+
+
+Beyond the inherent flaws in QuinStreet’s business model, we believe the company is simply 
+
+
+shoddy on many fronts. (Strikingly, with an extensive 237 employee reviews on Glassdoor.com, 
+
+
+QuinStreet boasts an average rating of just 2.4 stars out of 5;21 by contrast, among its 
+
+
+competitors EverQuote, QuoteWizard, MediaAlpha, The Zebra, and CoverHound, none falls 
+
+
+below 3.9 stars.) QuinStreet treats consumers badly; its technology is poor; and its disclosures 
+
+
+to investors are opaque. 
+
+
+
+
+
+Consumer Mistreatment 
+
+
+
+
+
+QuinStreet’s bread-and-butter “product” in many verticals is the promise of easy comparison 
+
+
+shopping: obtaining multiple insurance quotes or mortgage rates or relevant college choices 
+
+
+simultaneously. But what QuinStreet actually provides (on its own sites as well as its affiliates’) 
+
+
+is typically far less useful than it seems – not a comparison of actual prices but merely a set of 
+
+
+links to click, often directing users toward options that were already obvious (like Geico in auto 
+
+
+insurance or Quicken in mortgage). Even after entering pages of personal information merely to 
+
+
+be “matched” with a handful of supposedly relevant links, the user often has to enter the same 
+
+
+information again after following those links to their destinations. Furthermore, the links 
+
+
+                                                
+20 See transcript, p. 195. 
+21 A September 16, 2016, review by a former marketing manager nicely encapsulates many of our points 
+
+
+above: “Dying Industry: QuinStreet's entire business model is based off of lead generation for specific 
+
+
+market verticals including mortgages, credit cards, for profit education and auto insurance. With more 
+
+
+companies conducting in-house marketing, and google making its way into the led-gen space, QuinStreet 
+
+
+is slowly losing its purpose in the marketplace.”
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 28 
+
+
+
+
+
+presented sometimes just direct users to yet another middleman – for instance, The Zebra in 
+
+
+auto insurance or “Custom Rate Quotes” in mortgage. The whole process is, in our experience, 
+
+
+confusing and frustrating. 
+
+
+
+
+
+Worse still, by completing QuinStreet’s online forms, users often “agree” to be contacted by 
+
+
+QuinStreet and four or more “partners” via autodialer. But the fine print expressing this “consent” 
+
+
+is usually presented in tiny type, and it’s clear that many users have no idea what they’ve 
+
+
+agreed to.  Indeed, multiple consumers have recently sued QuinStreet, alleging that they in fact 
+
+
+never did agree to be contacted via autodialer, making QuinStreet’s calls violations of the 
+
+
+Telephone Consumer Protection Act (TCPA): 
+
+
+
+
+
+Overview of TCPA Lawsuits against QuinStreet 
+
+
+
+
+
+Plaintiff 
+
+
+Individual or 
+
+
+class action? 
+
+
+Date 
+
+
+filed Date closed 
+
+
+Sanders class 2/26/14 7/16/14 
+
+
+Garlick individual 4/3/14 10/3/14 
+
+
+Shields individual 5/5/14 5/30/14 
+
+
+Debusk class 4/6/17 4/25/17 
+
+
+Becker class 10/2/17 1/19/18 
+
+
+Turner class 3/8/18 n/a (ongoing) 
+
+
+
+
+
+Source: PACER, Kerrisdale analysis 
+
+
+
+
+
+Though most of these cases likely settled out of court,22 the complaints illustrate some of 
+
+
+QuinStreet’s unsavory business practices. Debusk, for instance, compiles third-party online 
+
+
+complaints about insure.com: 
+
+
+
+
+
+                                                
+22 In the Garlick case, in which the plaintiff represented herself, QuinStreet won summary judgment. The 
+
+
+other cases were either explicitly settled or voluntarily dismissed, likely as the result of a settlement 
+
+
+agreement.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 29 
+
+
+
+
+
+Debusk v. QuinStreet: Abusive Phone Calls from Insure.com 
+
+
+
+
+
+ 
+Source: Debusk v. QuinStreet, case no. 6:17-cv-00608, document 1, p. 5 
+
+
+
+
+
+The Turner case, on the other hand, focuses on text messages sent by QuinStreet’s 
+
+
+Schools.com operation. According to the plaintiff, Schools.com texted her once a day for seven 
+
+
+days starting on August 9, 2017, and then nine more times in October, even though she “had no 
+
+
+relationship with [QuinStreet] and did not know why she received messages purporting to be 
+
+
+from [QuinStreet]. [She] has not provided her phone number to [QuinStreet].”23 
+
+
+
+
+
+                                                
+23 Turner v. QuinStreet, case no. 3:18-cv-01486, document 1, pp. 2-5.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 30 
+
+
+
+
+
+Though QuinStreet would like to downplay such lawsuits as the work of conniving plaintiffs and 
+
+
+lawyers, not genuine victims, they share too much in common with complaints found outside the 
+
+
+legal realm to be pure fabrication. Below we present a selection: 
+
+
+
+
+
+ 8/11/15: “I have gotten a number of calls from this number. Initially they all came in 
+
+
+generically as ‘Albuquerque NM’ and I immediately blocked them. Now, today the caller 
+
+
+ID reads ‘QUINSTREET’ which Google reports to be quinstreet.com which claims to be 
+
+
+‘The Leader in Vertical Marketing and Media Online.’ And since I have never done 
+
+
+business with them and they are robodialing my unlisted line they're also breaking the 
+
+
+law. Perhaps I'll notify the state attorney general and/or file a DNC complaint.” 
+
+
+ 8/12/15: “Calls like an overly obsessed girlfriend. Get the hint, I'm not going to answer 
+
+
+your calls. ID has changed from Quinstreet to Unknown in the last couple of calls. Nice 
+
+
+try.” 
+
+
+ 1/19/16: “Caller ID says QUINNSTREET. Has called 3 times in the last 24 hours. Waits 
+
+
+on the line to go to voicemail but doesn't say anything - 8 seconds of silence then a hang 
+
+
+up. Frustrating! Why go to the trouble of calling and then say nothing?” 
+
+
+ 5/12/16: “I got a call from this number asking if I received an auto-insurance quote in the 
+
+
+mail that I never requested. He said he was from "improvement Center." I told him I am 
+
+
+not looking for auto-insurance.” 
+
+
+ 3/7/17: “Quinstreet. No message. When I called number back got recording saying 
+
+
+Quinstreet would be happy to drive my business forward. No business. No solicting. 
+
+
+Bothersome repeat caller. Blocking call.” 
+
+
+ 5/19/17: “I work in Dearborn MI and this number keeps calling my work phone several 
+
+
+times a day and never leaves a message. I called back and it's some marketing 
+
+
+company called Quinn Street (http://quinstreet.com/) saying they can help me ‘move my 
+
+
+business forward.’ You'd think will all the hangups they get from me, they'd take the hint 
+
+
+to stop wasting their time.” 
+
+
+ 6/14/17: “Receive a call every day. Luckily I have them blocked so I never hear the call. I 
+
+
+called back one day and it is a Mortgage Loan business phone. I was on line checking 
+
+
+mortgage rates and somehow started receiving calls immediately from various mortgage 
+
+
+companies without every applying. I told them to remove my number. still calls every 
+
+
+day. No message left.” 
+
+
+
+
+
+Not only do those incessant calls irritate and confuse consumers; they also demoralize 
+
+
+QuinStreet’s call-center staff, as the following recent comments from Glassdoor show: 
+
+
+
+
+
+ 10/19/16: “Poor leads but you are still held accountable to reach a monthly quota. I felt 
+
+
+that the selling tactics were borderline lacking integrity.” 
+
+
+o 2/22/17: “You're stuck on a phone 24/7 and when people get angry and start to 
+
+
+cuss you out you can't hang up. You have to sit there and do this 3 strike rule 
+
+
+which just makes the customer even more pissed.” 
+
+
+ 5/22/17: “You get trained in a classroom setting for a couple days and then you shadow 
+
+
+a couple people that honestly have not been there very long, because in realty no one
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 31 
+
+
+
+
+
+could stand being yelled at, cussed at, and basically treated like a child since the so-
+
+
+called customers, have no idea how to use the internet.” 
+
+
+ 10/11/17: “If you get screamed at and cussed out, you STILL have to stay on the phone 
+
+
+and go through a 3-strike rule which only angers the customer more. Constant meetings 
+
+
+about telemarketing laws--makes sense, but the entire place needs to calm down out a 
+
+
+bit.” 
+
+
+ 3/28/18: “Horrible job. Do not lower yourself to this. Corrupt and unrewarding line of 
+
+
+work. You are tricking decent people who are looking for jobs into being telemarketed by 
+
+
+profit driven schools. You will hate yourself and your voice after repeating the same lines 
+
+
+for weeks You are a liar on every call, you are not helping people, you are deceiving 
+
+
+them.” 
+
+
+
+
+
+Regardless of whether the targets of QuinStreet’s telemarketing technically “agreed” to the 
+
+
+treatment they received, it’s clear that many consumers never wanted to be called – yet 
+
+
+QuinStreet employees are nonetheless trained to try push through their resistance and sell them 
+
+
+as leads. Legal or not, resorting to such shenanigans is the mark of a low-quality business. 
+
+
+
+
+
+Weak Technology 
+
+
+
+
+
+Despite QuinStreet’s long history of operating online, our research suggests that it’s far from the 
+
+
+cutting edge. As one former QuinStreet employee put it, the company’s platforms are 
+
+
+“proprietary, but they’re old,…tedious to work with,” and “clunky.” Completing basic tasks 
+
+
+requires manual workarounds of longstanding bugs, while key systems like SureHits went 
+
+
+almost untouched for many years, even as high-tech competitors like MediaAlpha emerged and 
+
+
+drew away clients with their more up-to-date approaches.  
+
+
+
+
+
+Though QuinStreet boasts about how many of its employees are developers (30% of the total), 
+
+
+most of these are based in the Indian city of Pune, where the time difference and, in some 
+
+
+cases, language barrier makes close collaboration with US-based employees slow and difficult. 
+
+
+Two former employees remarked that it took a surprisingly long time (“forever”) to get the 
+
+
+developers to make even small changes to QuinStreet’s sites, hampering the company’s ability 
+
+
+to adapt to changes in the market. 
+
+
+
+
+
+These comments are echoed on Glassdoor by multiple employees and former employees: 
+
+
+
+
+
+ 10/25/16: “Not using the latest technology trends. Systems are outdated.” 
+
+
+ 1/17/17, Pune-based senior software engineer: “Company doesn't seem to be going 
+
+
+anywhere" 
+
+
+ 12/6/17: “Platforms are extremely antiquated and slow. Billing and commission 
+
+
+processes are very manual and disorganized.” 
+
+
+ 4/1/18, another Pune-based senior software engineer: “If you want government type of 
+
+
+job where you don't want to update yourself with the latest technology and if you are 
+
+
+afraid of competition its perfect home for you. … Zero technical growth you wont' see
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 32 
+
+
+
+
+
+Quinstreet presence in any technical conference, workshops they work on ancient 
+
+
+technologies and hence never promote their employees to upgrade their technical skills. 
+
+
+If you want to learn new things then please take a U-turn” 
+
+
+
+
+
+When an internet-centric company inspires such pointed criticism of its technology from the 
+
+
+people who know it best, how confident can one be in its long-term survival? 
+
+
+
+
+
+Opaque Disclosures 
+
+
+
+
+
+Making sense of QuinStreet requires digging around through online message boards and other 
+
+
+sources off the beaten path because the company’s own disclosures are so sparse. For 
+
+
+example, we have no clear answers to the following questions: 
+
+
+
+
+
+ How does QuinStreet’s agreement with All Web Leads actually work? (Does QuinStreet 
+
+
+pay a fixed fee for clicks it can then resell, or does it pay AWL a percentage of revenue? 
+
+
+Does AWL help handle QuinStreet’s leads?) 
+
+
+ What exactly has driven the growth in QuinStreet’s relationship with Progressive, and 
+
+
+how durable is it? 
+
+
+ How much of QuinStreet’s total revenue comes from clicks vs. leads vs. calls? 
+
+
+ How much of QuinStreet’s total traffic comes from paid search, organic search, or 
+
+
+inbound links? 
+
+
+ How much comes from owned vs. affiliate sites? 
+
+
+ How many visitors does QuinStreet’s network of sites actually attract in a given year? 
+
+
+ How do profit margins vary by vertical? 
+
+
+ How does cost of revenue (by far the single largest expense line) break down into its 
+
+
+components – for example, revenue-share payments to third-party sites vs. 
+
+
+compensation paid to QuinStreet developers vs. keyword buys from Google? 
+
+
+
+
+
+These are all fairly basic questions that get to the heart of how QuinStreet makes money, yet 
+
+
+the company answers none of them. By contrast, when Bankrate was still public and owned its 
+
+
+insurance segment, it routinely disclosed metrics like number of consumer inquiries per quarter, 
+
+
+which enabled investors to track pricing (revenue per inquiry) separately from volume. 
+
+
+Moneysupermarket Group, a publicly traded UK firm with many similarities to QuinStreet, 
+
+
+discloses even more performance indicators, like unique monthly users, net promoter score, 
+
+
+marketing margin, revenue per active user, and number of “providers” (affiliates); it even 
+
+
+disaggregates marketing spending by medium (TV & radio, online, etc.).24 QuinStreet, on the 
+
+
+other hand, can sometimes seem like a black box.  
+
+
+
+
+
+Part of the problem is that QuinStreet is constantly changing strategies in order to keep its head 
+
+
+above water in its cutthroat, low-barriers-to-entry competitive landscape. It can be difficult to 
+
+
+                                                
+24 See e.g. Moneysupermarket’s preliminary results 2017 presentation, February 22, 2018.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 33 
+
+
+
+
+
+focus investor attention on key performance metrics if those KPIs are constantly changing due 
+
+
+to strategy shifts. Consider the evolution of QuinStreet’s auto insurance vertical. When it initially 
+
+
+bought insurance.com, QuinStreet was at pains to insist that it was not taking on the insurance 
+
+
+agents that used to work for the site; they were all fired before the acquisition. Instead, 
+
+
+QuinStreet would monetize the site purely by selling clicks and leads. When the insurance 
+
+
+vertical ran into trouble, though, QuinStreet reversed course, talking up a new model in which its 
+
+
+own insurance agents would directly sell policies, supplementing traditional click and lead 
+
+
+revenue. But when this new model eventually launched, we believe, based on our discussions 
+
+
+with former employees and other industry participants, that direct policy sales had little success. 
+
+
+In 2017, QuinStreet quietly sold off the call center that it had built up to house its insurance 
+
+
+agents, effectively admitting defeat. Thus QuinStreet went from abhorring the notion of 
+
+
+employing its own insurance agents to promoting it as the core of its new and improved 
+
+
+business model to giving up on it once more.  
+
+
+
+
+
+
+
+
+VII. Valuation 
+
+
+Comparable-Company Multiples Suggest ~50% Downside 
+
+
+
+
+
+What multiple does one put on a low-quality company with poor disclosures, weak technology, a 
+
+
+track record of legally dubious consumer-facing business practices, no long-term competitive 
+
+
+advantage, dangerous single-customer concentration, and an unknown amount of potentially 
+
+
+bogus revenue? In what follows, we temporarily set aside all these dire concerns and simply 
+
+
+ask, as a starting point, what QuinStreet would be worth were it valued like similar firms. 
+
+
+Unfortunately, there are no good publicly traded comps, but there’s enough information 
+
+
+available to extract useful conclusions. 
+
+
+
+
+
+As previously discussed, MediaAlpha is an online marketing company operating in many of the 
+
+
+same verticals as QuinStreet – auto insurance, health insurance, education, home services. Its 
+
+
+business is similar; it intermediates between vertical-specific lead-generating web sites and 
+
+
+advertisers. Unlike QuinStreet, however, MediaAlpha does not primarily acquire leads as 
+
+
+principal and seek to re-sell them; instead, it operates online exchanges that directly and 
+
+
+transparently connect buyers and sellers of leads, with MediaAlpha taking a cut of the resulting 
+
+
+transactions. This model has been working well since the company’s birth in 2011, with the 
+
+
+company’s CEO recently characterizing its position in the auto, health, and life-insurance 
+
+
+verticals as “dominant.” 
+
+
+
+
+
+Though MediaAlpha itself is not publicly traded, its largest shareholder is. White Mountains 
+
+
+Insurance Group, a $3B market-cap insurance holding company, first invested in MediaAlpha in 
+
+
+2014, acquiring 60% of the company for $28 million.25 In October 2017, it increased its 
+
+
+ownership to 64.4% in exchange for an incremental $12.5-million investment, thereby valuing 
+
+
+                                                
+25 White Mountains Insurance Group 2014 10-K, p, 25.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 34 
+
+
+
+
+
+MediaAlpha’s equity at $284 million.26 With MediaAlpha now a sufficiently important part of 
+
+
+White Mountains to become its own reportable segment, we have greater insight into its 
+
+
+financial performance, summarized and compared to QuinStreet’s below. With just 51 
+
+
+employees, MediaAlpha generated $163 million in revenue (up 40% year over year) and $11 
+
+
+million in operating earnings. Strikingly, despite its far faster revenue growth and higher 
+
+
+profitability even in absolute dollars, MediaAlpha’s enterprise value, based on the October 2017 
+
+
+capital raise, is just half of QuinStreet’s – a clear sign of QuinStreet’s overvaluation. Who wants 
+
+
+to pay so much more for a slower-growing company that makes less money using inferior 
+
+
+technology and an outmoded business model? 
+
+
+
+
+
+Relative Valuations of QuinStreet and MediaAlpha: 
+QuinStreet Is Slower-Growing and Less Profitable… 
+
+
+Yet Dramatically More Expensive 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis  
+
+
+* For QuinStreet, all transactions with advertisers are reported as revenue, so revenue 
+
+
+equals transaction value. For MediaAlpha, transactions done on certain platforms are 
+
+
+reported as revenue on a net basis, i.e. just MediaAlpha’s fee, not the full click/lead/call 
+
+
+purchase price, so revenue does not equal transaction value. See White Mountains 
+
+
+Insurance Group 2017 10-K, p. 6. 
+
+
+
+
+
+Similarly pointing to a far lower fair value for QuinStreet is another comparable transaction in 
+
+
+insurance lead generation: All Web Leads’ purchase of Bankrate’s insurance segment. 
+
+
+                                                
+26 $12.5 million divided by the incremental 4.4% ownership obtained. See White Mountains Insurance 
+
+
+Group 2017 10-K, p. F-17. 
+
+
+QuinStreet MediaAlpha
+
+
+Employees 469            51              
+
+
+($ in mm )
+
+
+Revenue 336$          163$          
+
+
+Y/y growth 12% 40%
+
+
+Total transaction value* 336            219            
+
+
+Y/y growth 12% 25%
+
+
+EBITA 10$            11$            
+
+
+Enterprise value:
+
+
+Equity value 614$          284$          
+
+
+Debt -                 24              
+
+
+Less: cash (42)             (9)               
+
+
+Enterprise value 572$          299$          
+
+
+EV/EBITA 60.2x 26.9x
+
+
+EV downside to peer valuation -55%
+
+
+Implied share price 5.98$
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 35 
+
+
+
+
+
+Announced in November 2015, the $165-million deal included properties like 
+
+
+insuranceQuotes.com, CarInsuranceQuotes.com, and AutoInsuranceQuotes.com, all of which 
+
+
+seek to attract leads and sell them to carriers. On its third-quarter 2015 earnings call, Bankrate’s 
+
+
+CFO disclosed that “[t]he $165 million represents a multiple of approximately 8.6 times last 12 
+
+
+months insurance segment adjusted EBITDA less CapEx.”27 Below we apply the same multiple 
+
+
+to QuinStreet, yielding an implied equity fair value of just $4.57 per share, 63% below the 
+
+
+current price. Though a two-year-old deal may seem slightly stale, the intimate relationship 
+
+
+between All Web Leads and QuinStreet makes it especially relevant.   
+
+
+
+
+
+Valuing QuinStreet Like the Bankrate 
+Insurance Segment 
+
+
+ 
+Source: company filings, Kerrisdale analysis  
+
+
+Note: adjusted EBITDA excludes stock-based 
+
+
+compensation, in line with both Bankrate and 
+
+
+QuinStreet’s definitions of the term. Capex 
+
+
+includes capitalized internal software 
+
+
+development costs. 
+
+
+
+
+
+QuinStreet’s own most recent acquisition also highlights the low valuations in its sector. In 
+
+
+November 2017, QuinStreet bought the auto-insurance, home-insurance, and mortgage 
+
+
+verticals of Katch, LLC, another lead generator, for $14 million.28 On its fiscal-second-quarter 
+
+
+earnings call, QuinStreet disclosed that Katch would contribute revenue of “approximately $4 
+
+
+million per quarter going forward.” In other words, the purchase price was just ~0.9x revenue. 
+
+
+Applying this multiple to QuinStreet would value the stock at just $6.74 per share, 45% below 
+
+
+the current price.  
+
+
+
+
+
+Overall, then, these three recent transactions, involving three different buyers – the insurance 
+
+
+company White Mountains, the private-equity-backed lead generator All Web Leads, and 
+
+
+                                                
+27 Source: Bloomberg transcript of Bankrate Inc. earnings calls, November 5, 2015, p. 4. 
+28 QuinStreet FY2018 Q2 10-Q, p. 10. 
+
+
+Bankrate Insurance: 
+
+
+Price/(LTM EBITDA − capex) 8.6x
+
+
+($ in mm )
+
+
+QuinStreet (LTM):
+
+
+Adjusted EBITDA 24$        
+
+
+Less: capex 3           
+
+
+Adj. EBITDA − capex 22$        
+
+
+Implied EV 186$      
+
+
+Plus: cash 42          
+
+
+Implied market cap 228$      
+
+
+Implied share price 4.57$     
+
+
+Downside -63%
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 36 
+
+
+
+
+
+QuinStreet itself – tell a consistent story, valuing QuinStreet at roughly $5-7 per share. Even 
+
+
+without considering the company’s numerous unique risks, its equity is severely overvalued, 
+
+
+with 45-63% downside. 
+
+
+
+
+
+Key Insiders Have Already Begun Selling 
+
+
+
+
+
+Based on the behavior of several important QuinStreet insiders, we may not be the only ones 
+
+
+who believe the stock is overvalued. Split Rock Partners, a venture-capital firm based in 
+
+
+Minnesota, was, at the time of QuinStreet’s IPO, one of the company’s largest shareholders – 
+
+
+second only to founder and CEO Doug Valenti.29 One of Split Rock’s founding managing 
+
+
+directors, James Simons, has served on QuinStreet’s board since its inception in 1999.30 Within 
+
+
+months of the 2010 IPO, Split Rock began to sell shares at prices around $20, but by May 2011, 
+
+
+with the stock in the early stages of its multi-year collapse, Split Rock pumped the brakes.31 
+
+
+Thus began a nearly seven-year hiatus. As QuinStreet’s share price dropped from the teens to 
+
+
+less than $3, Split Rock held on, even during temporary rallies. On December 15, 2017, 
+
+
+however, something changed, and, with the price dramatically higher than its recent lows, Split 
+
+
+Rock began to sell again. From then till its last disclosure, Split Rock has gradually liquidated 
+
+
+27% of its position, selling as recently as March 16th and at prices as low as $8.30 – 33% below 
+
+
+the current level.32 When an investor so committed to QuinStreet and so clearly sensitive to 
+
+
+price – preferring to hang on for years rather than accept seemingly low valuations – finally 
+
+
+decides that the time is right to sell, it suggests that the stock has gotten ahead of itself. 
+
+
+
+
+
+Split Rock is not alone in selling. QuinStreet’s founder and CEO, Doug Valenti, also sold shares 
+
+
+after the IPO, at prices in the teens and low 20s, only to stop in May 2011 – but begin again 
+
+
+some seven years later, this February (and continuing into March),33 pursuant to a trading plan 
+
+
+adopted on November 30th.34 Valenti even went out of his way to exercise options not expiring 
+
+
+till 2020 and 2023 in order to trim his exposure at recent prices.35 Though the official justification 
+
+
+is “long-term estate planning and diversification objectives,”36 the fact remains that those 
+
+
+objectives were apparently not compelling enough for Valenti to draw up actual selling plans 
+
+
+until QuinStreet’s stock price began to exceed $10. 
+
+
+                                                
+29 See QuinStreet prospectus, February 10, 2010, p. 102. 
+30 See e.g. QuinStreet proxy statement, September 12, 2017, p. 8. QuinStreet was incorporated on April 
+
+
+16, 1999 (see e.g. FY2017 10-K, p. 4). It appears that Simons followed QuinStreet from St. Paul Venture 
+
+
+Capital, an early QuinStreet investor where he served as general partner, to Split Rock, which was 
+
+
+founded in 2004. 
+31 Source: Bloomberg. 
+32 Source: Kerrisdale analysis of Split Rock Forms 4. Note that we include in Split Rock’s total share count 
+
+
+shares legally held by James Simons but contractually held “for the sole benefit of” Split Rock” (see e.g. 
+
+
+Form 4 filed March 19, 2018, footnote 4. 
+33 Source: Bloomberg. 
+34 See e.g. Form 4 filed March 15, 2018, footnote 1. 
+35 Form 4 filed March 15, 2018. 
+36 See e.g. Form 4 filed March 15, 2018, footnote 1.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 37 
+
+
+
+
+
+
+
+
+Nor was Valenti alone. QuinStreet’s CFO, Gregory Wong, established his own trading plan on 
+
+
+December 13th, and began to sell shares on March 15th.37 From QuinStreet’s CFO to its CEO 
+
+
+to one of its earliest and most important investors, then, we see a common theme starting at the 
+
+
+end of 2017 and continuing through to the present: a sudden urge to sell shares.  
+
+
+
+
+
+VIII. Conclusion 
+
+
+
+
+
+QuinStreet is a relic of a bygone era: the early days of online marketing, when website 
+
+
+operators didn’t know how to monetize their traffic and advertisers didn’t know where to put their 
+
+
+ads. QuinStreet did, or so it claimed, and thus it generated real value. In the past two decades 
+
+
+though, a lot has changed. As online marketing has exploded and transformed, and practices 
+
+
+have grown far more sophisticated, QuinStreet has remained much the same: still relying on a 
+
+
+network of “shady” third-party affiliates to attract visitors, still enticing them to provide personal 
+
+
+information with a variety of “borderline unethical” techniques. But as clients continue to crack 
+
+
+down on phony traffic and low-quality leads, and the company faces fresh scrutiny, it will 
+
+
+become clearer what has long been the case: when it comes to QuinStreet, something just 
+
+
+doesn’t click. 
+
+
+
+
+
+                                                
+37 Form 4 filed March 16, 2018.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 38 
+
+
+
+
+
+Full Legal Disclaimer  
+
+
+
+
+
+As of the publication date of this report, Kerrisdale Capital Management LLC and its affiliates 
+
+
+(collectively "Kerrisdale") have short positions in and own put option interests on the stock of 
+
+
+QuinStreet, Inc. (“QNST”). In addition, others that contributed research to this report and others 
+
+
+that we have shared our research with (collectively with Kerrisdale, the “Authors”) likewise may 
+
+
+have short positions in the stock of QNST. The Authors stand to realize gains in the event that 
+
+
+the price of the stock decreases. Following publication of the report, the Authors may transact in 
+
+
+the securities of the company covered herein. All content in this report represent the opinions of 
+
+
+Kerrisdale. The Authors have obtained all information herein from sources they believe to be 
+
+
+accurate and reliable. However, such information is presented “as is,” without warranty of any 
+
+
+kind – whether express or implied. The Authors make no representation, express or implied, as 
+
+
+to the accuracy, timeliness, or completeness of any such information or with regard to the 
+
+
+results obtained from its use. All expressions of opinion are subject to change without notice, 
+
+
+and the Authors do not undertake to update or supplement this report or any information 
+
+
+contained herein. This report is not a recommendation to short the shares of any company, 
+
+
+including QNST, and is only a discussion of why Kerrisdale is short QNST. 
+
+
+
+
+
+This document is for informational purposes only and it is not intended as an official 
+
+
+confirmation of any transaction. All market prices, data and other information are not warranted 
+
+
+as to completeness or accuracy and are subject to change without notice. The information 
+
+
+included in this document is based upon selected public market data and reflects prevailing 
+
+
+conditions and the Authors’ views as of this date, all of which are accordingly subject to change. 
+
+
+The Authors’ opinions and estimates constitute a best efforts judgment and should be regarded 
+
+
+as indicative, preliminary and for illustrative purposes only. 
+
+
+
+
+
+Any investment involves substantial risks, including, but not limited to, pricing volatility, 
+
+
+inadequate liquidity, and the potential complete loss of principal. This report’s estimated 
+
+
+fundamental value only represents a best efforts estimate of the potential fundamental valuation 
+
+
+of a specific security, and is not expressed as, or implied as, assessments of the quality of a 
+
+
+security, a summary of past performance, or an actionable investment strategy for an investor. 
+
+
+
+
+
+This document does not in any way constitute an offer or solicitation of an offer to buy or sell 
+
+
+any investment, security, or commodity discussed herein or of any of the affiliates of the 
+
+
+Authors. Also, this document does not in any way constitute an offer or solicitation of an offer to 
+
+
+buy or sell any security in any jurisdiction in which such an offer would be unlawful under the 
+
+
+securities laws of such jurisdiction. To the best of the Authors’ abilities and beliefs, all 
+
+
+information contained herein is accurate and reliable. The Authors reserve the rights for their 
+
+
+affiliates, officers, and employees to hold cash or derivative positions in any company discussed 
+
+
+in this document at any time. As of the original publication date of this document, investors 
+
+
+should assume that the Authors are short shares of QNST and stand to potentially realize gains 
+
+
+in the event that the market valuation of the company’s common equity is lower than prior to the 
+
+
+original publication date. These affiliates, officers, and individuals shall have no obligation to 
+
+
+inform any investor or viewer of this report about their historical, current, and future trading
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 39 
+
+
+
+
+
+activities. In addition, the Authors may benefit from any change in the valuation of any other 
+
+
+companies, securities, or commodities discussed in this document. Analysts who prepared this 
+
+
+report are compensated based upon (among other factors) the overall profitability of the 
+
+
+Authors’ operations and their affiliates. The compensation structure for the Authors’ analysts is 
+
+
+generally a derivative of their effectiveness in generating and communicating new investment 
+
+
+ideas and the performance of recommended strategies for the Authors. This could represent a 
+
+
+potential conflict of interest in the statements and opinions in the Authors’ documents. 
+
+
+
+
+
+The information contained in this document may include, or incorporate by reference, forward-
+
+
+looking statements, which would include any statements that are not statements of historical 
+
+
+fact. Any or all of the Authors’ forward-looking assumptions, expectations, projections, intentions 
+
+
+or beliefs about future events may turn out to be wrong. These forward-looking statements can 
+
+
+be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other 
+
+
+factors, most of which are beyond the Authors’ control. Investors should conduct independent 
+
+
+due diligence, with assistance from professional financial, legal and tax experts, on all 
+
+
+securities, companies, and commodities discussed in this document and develop a stand-alone 
+
+
+judgment of the relevant markets prior to making any investment decision.

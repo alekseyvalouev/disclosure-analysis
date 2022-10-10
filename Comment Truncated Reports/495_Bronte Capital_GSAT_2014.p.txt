@@ -1,0 +1,1352 @@
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 1/19
+
+
+The sometimes eccentric views of John Hempton
+
+
+Bronte Capital
+
+
+Thursday, October 9, 2014
+
+
+Spectrum valuation and a case for Verizon and against
+wannabe players like Sprint and desperado/promotes like
+GSATGSAT
+This post has been in the back of my mind for a long time. It is also talking my book - long Verizon -
+big, boring with a *lot* of very high value spectrum and short the spectrum wannabe players like
+GSAT.GSAT  
+ 
+As for timing, the post is prompted by the beginning of GSAT's collapse following the research reportGSAT
+by Sahm Adrangi and Kerrisdale Capital. 
+ 
+We have another motivation. For 18 months or so Verizon has been one of our biggest (and
+sometimes our absolute biggest) long position and it has not worked. We haven't lost money - we just
+have not kept up with the bull market. 
+ 
+This might be (and I hope it is) just the symptom of a wild bull market where "grandmother-safe"
+stocks (like Verizon) get left behind. But it might also be because I am wrong. 
+ 
+I sincerely hope for some really knowledgeable spectrum engineers to tell me where I am wrong on
+this. Comments are appreciated either on the blog or by email. 
+ 
+--- 
+ 
+Spectrum usage - the basis for valuation 
+ 
+Imagine we are sitting in the room and I have a purple flashlight. I can transmit information to you
+using that flashlight - by flashing it. 
+ 
+In the old days I might have used morse-code to do it - and I could probably get this to work at
+something under typing pace. 
+ 
+As computers have improved - and the light flashes faster and faster - I have been able to get more
+and more information into my signal. With telephone signals you get about a 10X improvement by
+going from analog to (2G) digital and get another large lick between 2G and 3G and then 4G. By the
+time we get to LTE for everything (including voice) this will largely have played itself out. 
+ 
+The purple light is flashing nearly as fast and efficiently as it can now. 
+ 
+Now suppose I have a room full of people and I wanted to flash my purple light to send everyone
+some information. 
+ 
+One way is that I could "share the channel" by sending a bit of my signal to everyone in the room
+usually with some kind of program whereby they can pick out their bit of the signal and everything
+else gets discarded. One example of this was "code division" as in "Code Division Multiple Access" or
+CDMA. 
+ 
+The problem is that as I share the channel everyone's gets their information a bit slower. I need to
+wait whilst information is sent to everyone else. 
+ 
+And if I try to do it too much I just cram up the signal. 
+ 
+I could try a different approach - which is to use multiple purple flashlights and flash signal at full pace
+to everyone separately but I will have another problem. 
+ 
+The room will be flooded with purple light. 
+ 
+And that purple light will degrade everyone else's signal. 
+
+
+For people who want to know - here is
+the RSS feed for this blog...
+ 
+http://feeds.feedburner.com/bronteca
+pital
+
+
+RSS feed
+
+
+Enter your email address:
+
+
+Subscribe
+
+
+Delivered by FeedBurner
+
+
+Get this blog by email
+
+
+I find Americans sometimes do not get
+a British or Australian sense of humor.
+ 
+If something on this blog makes you
+really angry I suggest you read Swift's
+Modest Proposal... you will find the link
+here.
+
+
+A note on humor
+
+
+Search
+
+
+Search This Blog
+
+
+May (1)
+
+
+February (2)
+
+
+January (1)
+
+
+December (3)
+
+
+November (1)
+
+
+October (1)
+
+
+August (2)
+
+
+July (2)
+
+
+June (2)
+
+
+May (3)
+
+
+April (2)
+
+
+February (1)
+
+
+Blog Archive
+
+
+ More  Next Blog» Create Blog  Sign In
+
+
+
+http://brontecapital.blogspot.com/
+
+http://en.wikipedia.org/wiki/Morse_code
+
+http://feeds.feedburner.com/brontecapital
+
+http://www.feedburner.com/
+
+http://art-bin.com/art/omodest.html
+
+http://brontecapital.blogspot.com/2018/05/
+
+http://brontecapital.blogspot.com/2018/02/
+
+http://brontecapital.blogspot.com/2018/01/
+
+http://brontecapital.blogspot.com/2017/12/
+
+http://brontecapital.blogspot.com/2017/11/
+
+http://brontecapital.blogspot.com/2017/10/
+
+http://brontecapital.blogspot.com/2017/08/
+
+http://brontecapital.blogspot.com/2017/07/
+
+http://brontecapital.blogspot.com/2017/06/
+
+http://brontecapital.blogspot.com/2017/05/
+
+http://brontecapital.blogspot.com/2017/04/
+
+http://brontecapital.blogspot.com/2017/02/
+
+https://www.blogger.com/
+
+https://www.blogger.com/next-blog?navBar=true&blogID=4815867514277794362
+
+https://www.blogger.com/home#create
+
+https://www.blogger.com/
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 2/19
+
+
+ 
+That degradation has a name: "interference". Too much interference and the speed at which I can get
+information slows down - often dramatically. 
+ 
+There are a few solutions to the interference problem. 
+ 
+One solution is that instead of having a big tower flashing purple light to everyone I have lots of tiny
+little towers that flash a low powered purple lights that has an effective transmission distance of a few
+metres. In an ideal world everyone has their localised purple light which gives them information and
+does not interfere with their neighbours. 
+ 
+Alas that idealised solution requires lots of capital expenditure (you have to build a tower every few
+metres). 
+ 
+Another solution is to make the purple light into a beam and beam it at every individual person - so
+they all get their own signal. This has a name - "beam forming" and it the basis of many proposed 5G
+phone systems. 
+ 
+Another solution is to use the mathematics of interference to my advantage - design my system so
+that only my signal survives - and everyone elses' is cancelled as white noise.  There are variants on
+that - but the most famous is MIMO and it winds up being very computer intensive. However you can
+reasonably get another half order of magnitude of wireless efficiency via this method. It is also the
+basis of Steve Perlman's wireless technology. I am deeply skeptical of Steve Perlman's project - but I
+am sure there are people out there more knowledgeable than me. 
+ 
+Another solution is to encase my purple light in glass and send it individually to each person. You can
+get a vast amount of information this way (fibre-optics) but you lose mobility. 
+ 
+By far the cheapest solution though is to just use another colour. 
+ 
+So I flash in red, violet, indigo, yellow and a bunch of colours you can't see (but are still really
+colours). 
+ 
+Flashing my signal in multiple colours is an alternative to building more towers. This is a pretty direct
+trade-off. If I am allowed to use many colours I can get much more information out of a single tower. 
+ 
+When somebody buys "spectrum" what they are really buying is the right to flash light in a different
+colour. These colours are radio frequencies (say 700 MHZ) rather than visible light (say 700 THZ for
+the colour purple). 
+ 
+The right to flash information in a different frequency (that is a different colour) is an alternative to the
+practical obligation to build more towers. 
+ 
+As towers have an identifiable capital and running cost (a cost structure well known to phone
+companies) spectrum has a definable value - defined by avoided cost. 
+ 
+The point here is that if you know the cost of the phone company and the amount of capital
+expenditure avoided you can work out the value of the spectrum to a phone company. The phone
+company can either buy more spectrum or build more towers. [To work this out accurately you would
+need a map of the US, demographic and phone usage data by small region and try to work out how
+you would serve them.] 
+ 
+If you have a lot of information to transmit you can save a lot of money buying spectrum rather than
+building towers - and hence your spectrum is worth a lot of money. It is worth more if (a) the people
+are difficult to serve or (b) there is a lot of people willing to pay for speed or reliability. 
+ 
+This is where the value of spectrum in billions of dollars comes from. It comes from avoided cost. 
+ 
+-- 
+ 
+A phone company with a good spectrum position will be able to avoid a lot of costs and still provide a
+very good service. This will make it profitable. It will be able to charge more (as it has reliable
+coverage) and will not have to build a lot of towers. 
+ 
+A company with a bad spectrum position will have a cost structure that - well frankly - sucks. It will be
+competed away. 
+ 
+When we think about the value of spectrum we have to think about the amount of cost that it avoids. 
+ 
+If it avoids lots of costs it is worth a lot. 
+
+
+January (3)
+
+
+December (6)
+
+
+November (4)
+
+
+October (4)
+
+
+September (6)
+
+
+August (1)
+
+
+July (5)
+
+
+June (3)
+
+
+May (3)
+
+
+April (2)
+
+
+March (10)
+
+
+February (3)
+
+
+January (3)
+
+
+December (4)
+
+
+November (8)
+
+
+October (10)
+
+
+September (4)
+
+
+August (3)
+
+
+July (2)
+
+
+June (1)
+
+
+May (5)
+
+
+April (6)
+
+
+March (5)
+
+
+February (6)
+
+
+January (9)
+
+
+December (3)
+
+
+November (4)
+
+
+October (8)
+
+
+September (8)
+
+
+August (12)
+
+
+July (5)
+
+
+June (10)
+
+
+May (7)
+
+
+April (7)
+
+
+March (2)
+
+
+February (7)
+
+
+January (11)
+
+
+December (6)
+
+
+November (8)
+
+
+October (1)
+
+
+September (9)
+
+
+
+http://en.wikipedia.org/wiki/Beamforming
+
+http://en.wikipedia.org/wiki/MIMO
+
+http://akbars.net/how-steve-perlmans-revolutionary-wireless-technology-works-and-why-its-a-bigger-deal-than-anyone-realizes.html
+
+http://brontecapital.blogspot.com/2017/01/
+
+http://brontecapital.blogspot.com/2016/12/
+
+http://brontecapital.blogspot.com/2016/11/
+
+http://brontecapital.blogspot.com/2016/10/
+
+http://brontecapital.blogspot.com/2016/09/
+
+http://brontecapital.blogspot.com/2016/08/
+
+http://brontecapital.blogspot.com/2016/07/
+
+http://brontecapital.blogspot.com/2016/06/
+
+http://brontecapital.blogspot.com/2016/05/
+
+http://brontecapital.blogspot.com/2016/04/
+
+http://brontecapital.blogspot.com/2016/03/
+
+http://brontecapital.blogspot.com/2016/02/
+
+http://brontecapital.blogspot.com/2016/01/
+
+http://brontecapital.blogspot.com/2015/12/
+
+http://brontecapital.blogspot.com/2015/11/
+
+http://brontecapital.blogspot.com/2015/10/
+
+http://brontecapital.blogspot.com/2015/09/
+
+http://brontecapital.blogspot.com/2015/08/
+
+http://brontecapital.blogspot.com/2015/07/
+
+http://brontecapital.blogspot.com/2015/06/
+
+http://brontecapital.blogspot.com/2015/05/
+
+http://brontecapital.blogspot.com/2015/04/
+
+http://brontecapital.blogspot.com/2015/03/
+
+http://brontecapital.blogspot.com/2015/02/
+
+http://brontecapital.blogspot.com/2015/01/
+
+http://brontecapital.blogspot.com/2014/12/
+
+http://brontecapital.blogspot.com/2014/11/
+
+http://brontecapital.blogspot.com/2014/10/
+
+http://brontecapital.blogspot.com/2014/09/
+
+http://brontecapital.blogspot.com/2014/08/
+
+http://brontecapital.blogspot.com/2014/07/
+
+http://brontecapital.blogspot.com/2014/06/
+
+http://brontecapital.blogspot.com/2014/05/
+
+http://brontecapital.blogspot.com/2014/04/
+
+http://brontecapital.blogspot.com/2014/03/
+
+http://brontecapital.blogspot.com/2014/02/
+
+http://brontecapital.blogspot.com/2014/01/
+
+http://brontecapital.blogspot.com/2013/12/
+
+http://brontecapital.blogspot.com/2013/11/
+
+http://brontecapital.blogspot.com/2013/10/
+
+http://brontecapital.blogspot.com/2013/09/
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 3/19
+
+
+ 
+If it avoids very little cost it is worth very little. 
+ 
+-- 
+ 
+The rise of smart phones has increased demand for information a lot. Okay a huge amount. We all
+have the internet in our pocket these days. 
+ 
+And that has obliged phone companies to spend lots of money to keep up with demand. If they don't
+spend all that money their phone system will break down. [Lots of readers will remember AT&Ts
+problems in 2009 and if you do not here is Jon Stewart to remind you.] After the iPhone was
+introduced demand for data went through the roof (especially at AT&T who had a monopoly on
+iPhones). AT&T capital expenditure in the last five years has been roughly $100 billion - mostly on
+fixing this problem. These are not small sums and as spectrum is an alternative to capital expenditure
+AT&T most certainly wishes they had more of it. 
+ 
+The rise of smart-phones has driven up the capital expenditure requirements of the carriers - and as
+spectrum is an alternative to capital expenditure it has driven up the value of spectrum. 
+ 
+That rise in the value of spectrum (which really has been quite extreme) is the main reason for owning
+Verizon. They have lots of good spectrum which means good coverage at low costs and that means
+big profits. My view is simple here. The trend will continue and is Verizon's friend. Profits will be
+*much* higher in five years. The stock starts at a low teens PE ratio with a 4.4 percent yield and it is
+only going to get better. 
+ 
+Verizon wireless grows revenue at about 7 percent and will grow earnings faster. 
+ 
+-- 
+ 
+What sort of spectrum avoids costs? 
+ 
+Spectrum has value because it allows you coverage and capacity at lower costs. 
+ 
+But not all spectrum is equal. 
+ 
+There is really good spectrum. That comes at low frequency and with very few restrictions as to the
+power output. 
+ 
+And there is poor spectrum which is either very high frequency or has restrictions as to the power
+output or both. 
+ 
+Low frequency spectrum is good because it propagates really well. It can go through buildings so you
+can use your iPhone whilst sitting on the toilet in the centre of your concrete office block. It can travel
+decent distances with limited regard to obstacles. In the wireless world low frequency tends to mean
+600-900 MHZ. 
+ 
+In every country in the world there was a big block of this "beach front real estate" taken by the TV
+channels. Why? Because when they were allocating spectrum in the 1950s there were not many
+demands and the TV stations asked for and got the best bit. 
+ 
+In every country in the Western World the TV channels are being forced to go digital and their extra
+spectrum is being sold off. That sell-off has been the basis of most of the big spectrum auctions that
+have taken place. 
+ 
+In the last auction AT&T and Verizon were the big purchasers - and those blocks are where the
+LTE/4G networks have been rolled out. 
+ 
+However this is not just "low frequency" spectrum but it also has very few restrictions as to the power
+of transmitter allowed. Typically Verizon is allowed a tower hundreds of feet high on which they can
+put a 1000 watt transmitter. This allows Verizon the ability to cover a large amount of area (often
+hundreds of square kilometres) from a single transmitter. The most valuable spectrum at the last big
+auction covered the affluent suburbs of Chicago - middling population density and thick insulating
+walls meant that low frequency spectrum was required. Affluence meant that people would pay for the
+premium service. 
+ 
+You would never use the spectrum that way in Manhattan. There is simply too much demand for it.
+However you can still use smaller, lower towers and get good coverage inside buildings. 
+ 
+The two things that make this spectrum value is frequency (low) and power restrictions (very few). 
+ 
+
+
+August (5)
+
+
+July (8)
+
+
+June (7)
+
+
+May (5)
+
+
+April (12)
+
+
+March (13)
+
+
+February (7)
+
+
+January (4)
+
+
+December (9)
+
+
+November (7)
+
+
+October (8)
+
+
+September
+(16)
+
+
+August (12)
+
+
+July (7)
+
+
+June (11)
+
+
+May (16)
+
+
+April (5)
+
+
+March (8)
+
+
+February (11)
+
+
+January (4)
+
+
+December (6)
+
+
+November (10)
+
+
+October (12)
+
+
+September (7)
+
+
+August (18)
+
+
+July (9)
+
+
+June (12)
+
+
+May (11)
+
+
+April (9)
+
+
+March (19)
+
+
+February (15)
+
+
+January (8)
+
+
+December (5)
+
+
+November (2)
+
+
+October (3)
+
+
+September
+(14)
+
+
+August (10)
+
+
+July (8)
+
+
+June (13)
+
+
+May (2)
+
+
+
+http://thedailyshow.cc.com/videos/gx0vcm/verizon-iphone-announcement
+
+http://brontecapital.blogspot.com/2013/08/
+
+http://brontecapital.blogspot.com/2013/07/
+
+http://brontecapital.blogspot.com/2013/06/
+
+http://brontecapital.blogspot.com/2013/05/
+
+http://brontecapital.blogspot.com/2013/04/
+
+http://brontecapital.blogspot.com/2013/03/
+
+http://brontecapital.blogspot.com/2013/02/
+
+http://brontecapital.blogspot.com/2013/01/
+
+http://brontecapital.blogspot.com/2012/12/
+
+http://brontecapital.blogspot.com/2012/11/
+
+http://brontecapital.blogspot.com/2012/10/
+
+http://brontecapital.blogspot.com/2012/09/
+
+http://brontecapital.blogspot.com/2012/08/
+
+http://brontecapital.blogspot.com/2012/07/
+
+http://brontecapital.blogspot.com/2012/06/
+
+http://brontecapital.blogspot.com/2012/05/
+
+http://brontecapital.blogspot.com/2012/04/
+
+http://brontecapital.blogspot.com/2012/03/
+
+http://brontecapital.blogspot.com/2012/02/
+
+http://brontecapital.blogspot.com/2012/01/
+
+http://brontecapital.blogspot.com/2011/12/
+
+http://brontecapital.blogspot.com/2011/11/
+
+http://brontecapital.blogspot.com/2011/10/
+
+http://brontecapital.blogspot.com/2011/09/
+
+http://brontecapital.blogspot.com/2011/08/
+
+http://brontecapital.blogspot.com/2011/07/
+
+http://brontecapital.blogspot.com/2011/06/
+
+http://brontecapital.blogspot.com/2011/05/
+
+http://brontecapital.blogspot.com/2011/04/
+
+http://brontecapital.blogspot.com/2011/03/
+
+http://brontecapital.blogspot.com/2011/02/
+
+http://brontecapital.blogspot.com/2011/01/
+
+http://brontecapital.blogspot.com/2010/12/
+
+http://brontecapital.blogspot.com/2010/11/
+
+http://brontecapital.blogspot.com/2010/10/
+
+http://brontecapital.blogspot.com/2010/09/
+
+http://brontecapital.blogspot.com/2010/08/
+
+http://brontecapital.blogspot.com/2010/07/
+
+http://brontecapital.blogspot.com/2010/06/
+
+http://brontecapital.blogspot.com/2010/05/
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 4/19
+
+
+High frequency spectrum is less good generally. It doesn't propagate as well. At very high frequencies
+(say 2500 MHZ) it can't get into a building and so you lose coverage as you go into elevators or
+behind trees. You certainly lose coverage when you go into the concrete core of your building (ie the
+toilet) and try to use the phone. 
+ 
+High frequency spectrum does however have one big advantage. 
+ 
+There is more of it. Much more of it. 
+ 
+And so it gets extensively used for capacity when you really need to move a lot of data. 
+ 
+If you are going to build a wireless network in Tokyo or Seoul or New York you are going to need a lot
+of spectrum (because the density of use is high) and some of that will need to be high frequency
+(simply because there is not much low-frequency spectrum and there is a lot of high frequency
+spectrum). 
+ 
+The poor propagation of high frequency spectrum can be used to your advantage. High frequency
+spectrum has a hard time getting into a building resulting in poor indoor coverage. A solution is to
+"light" the building from the inside - putting a transmitter say in the air conditioning duct. This makes
+for very good internal coverage. 
+ 
+Moreover as the high frequency spectrum can't normally get into the building in this case it can't get
+out of the building. This means the spectrum used in the building does not interfere (much) with the
+spectrum used outside the building allowing reuse of spectrum. 
+ 
+Very high frequency spectrum (say upper-band WiFi at frequencies of around 5000 MHZ) can stay
+inside individual rooms of a home. Low interference is good and means the WiFi never gets
+congested. The downside is low propagation even within your home. [If you try using your iPad in bed
+on the other side of the house you will understand the problem.] 
+ 
+Verizon's spectrum mix (unequivocally the best in America) consists mostly of low frequency 700
+MHZ "beach front" property with another amount of high-frequency spectrum (the so-called AWS
+bands) which are used primarily for urban infill. They have some frequency at higher levels too
+however they have not traditionally had any interest in very high frequency spectrum (eg 2500 MHZ). 
+ 
+Power restrictions 
+ 
+Driving in the country at night you know that a big city radio station (even one a very long way away)
+can drown out a country station. Radio - especially AM radio - is very low frequency (say 0.6 MHZ)
+and can propagate a long way (hundreds or sometimes thousands of kilometres). 
+ 
+There is not much spectrum this far down the dial so you can't have a lot of stations. And they
+interfere with each other a great deal. The big city station has a power output that will simply dwarf a
+regional station. 
+ 
+Not everyone will be allowed to broadcast with high power because something with high power will
+(badly) interfere with something at lower power a little way up or down the dial. 
+ 
+All rights to use spectrum come with a power restriction. That power restriction can be for a trivial
+amount of power or can allow you to use 1600 watts from a 300 metre high antenna. 
+ 
+Obviously being able to pump out a large amount of power from a high tower with a great line of sight
+will be cheaper than putting a smaller transmitter every 50 meters. 
+ 
+The higher the amount of power you can pump out the higher the value of spectrum. 
+ 
+Lightsquared and power restrictions 
+ 
+Power restrictions can completely neuter the value of your spectrum. LightSquared had some
+spectrum that was originally designated for satellites. Phil Falcone bet his hedge fund and his
+reputation on the possibility of getting that spectrum approved for terrestrial use. If he could it was
+very valuable. 
+ 
+The only problem: that spectrum was near (in frequency) to the spectrum used for the economically
+important GPS satellite system. 
+ 
+The Federal Communications Commission (FCC) said that was fine so long as independent tests
+verified that there was no interference. 
+ 
+Phil Falcone took that as the go-ahead - the right to use the spectrum. 
+
+
+April (7)
+
+
+March (6)
+
+
+February (8)
+
+
+January (5)
+
+
+December (5)
+
+
+November (5)
+
+
+October (7)
+
+
+September (6)
+
+
+August (14)
+
+
+July (5)
+
+
+June (9)
+
+
+May (20)
+
+
+April (22)
+
+
+March (36)
+
+
+February (24)
+
+
+January (28)
+
+
+December (20)
+
+
+November (27)
+
+
+October (24)
+
+
+September
+(46)
+
+
+August (45)
+
+
+July (48)
+
+
+June (31)
+
+
+May (7)
+
+
+View my complete profile
+
+
+About me
+
+
+
+http://brontecapital.blogspot.com/2010/04/
+
+http://brontecapital.blogspot.com/2010/03/
+
+http://brontecapital.blogspot.com/2010/02/
+
+http://brontecapital.blogspot.com/2010/01/
+
+http://brontecapital.blogspot.com/2009/12/
+
+http://brontecapital.blogspot.com/2009/11/
+
+http://brontecapital.blogspot.com/2009/10/
+
+http://brontecapital.blogspot.com/2009/09/
+
+http://brontecapital.blogspot.com/2009/08/
+
+http://brontecapital.blogspot.com/2009/07/
+
+http://brontecapital.blogspot.com/2009/06/
+
+http://brontecapital.blogspot.com/2009/05/
+
+http://brontecapital.blogspot.com/2009/04/
+
+http://brontecapital.blogspot.com/2009/03/
+
+http://brontecapital.blogspot.com/2009/02/
+
+http://brontecapital.blogspot.com/2009/01/
+
+http://brontecapital.blogspot.com/2008/12/
+
+http://brontecapital.blogspot.com/2008/11/
+
+http://brontecapital.blogspot.com/2008/10/
+
+http://brontecapital.blogspot.com/2008/09/
+
+http://brontecapital.blogspot.com/2008/08/
+
+http://brontecapital.blogspot.com/2008/07/
+
+http://brontecapital.blogspot.com/2008/06/
+
+http://brontecapital.blogspot.com/2008/05/
+
+https://www.blogger.com/profile/03766274392122783128
+
+https://www.blogger.com/profile/03766274392122783128
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 5/19
+
+
+ 
+Alas the independent tests came back nasty - a phone tower interfered with an aircraft navigation
+system 20 kilometres away. Approval was denied. 
+ 
+Now I am going to make the obvious point. GPS signal is broadcast by a satellite running on solar
+energy and batteries hundreds of kilometres away. A phone signal comes from a large tower hooked
+to mains power. 
+ 
+There are 11 orders of magnitude difference of power between the GPS signal and the phone signal.
+If the colours were not very different (say a slightly different shade of purple) then there is simply no
+way that the GPS signal could be seen. The way to think about it: try spotting a 1 watt LED versus the
+entire power load of a nuclear power station converted to light when the light is a similar colour. It
+can't be done. 
+ 
+LightSquared demonstrated one thing: Phil Falcone is so egotistical he thought his will could out
+override the laws of physics. It cost him his fund and his reputation. It cost his clients an awful lot of
+money. 
+ 
+Alas this seems common enough on Wall Street. I have seen the most absurd things being said about
+spectrum as if power restrictions do not matter. Power restrictions absolutely determine the value of
+the spectrum holding. 
+ 
+Quick summary as to what is valuable and what is not 
+ 
+Low frequency spectrum with limited power restrictions is hugely valuable. 
+ 
+High frequency spectrum with only modest power restrictions is less valuable - but is very good for
+urban infill. Once you have covered most the nation with low frequency spectrum you need to do mid-
+range or high frequency infill. This is the stage Verizon is now at - using AWS spectrum for infill. 
+ 
+High frequency spectrum with dramatic power restrictions is worthless. A high frequency spectrum
+with a binding power restriction can't get into a building and can't go very far and you simply can't
+cost-effectively build a network using that stuff. Besides it competes with WiFi - and WiFi is free - and
+competing against free is difficult. 
+ 
+WiFi 
+ 
+ There is a lot of WiFi spectrum, some at 2400 MHZ but most around 5000 MHZ. It is unlicensed and
+anyone can use it. It is high frequency spectrum which makes transmission through the walls of your
+home difficult (as anyone who has tried can attest). 
+ 
+There are some rules for using it - concerning how you are meant to share channels. The most
+important rule however is a power restriction. Power restrictions on WiFi are binding and a WiFi signal
+has an effective range of about 70 meters. [The range will depend on how many walls you have and
+also on other WiFi signals and how good your antenna is.] Whatever - it is useless over long ranges. 
+ 
+The power restriction is absolutely critical to WiFi. The reason why everyone in a street manages to
+use WiFi in their home without causing critical interference is that everyone abides by a power-
+restriction. [You cannot legally sell a WiFi access point that does not abide by the power restriction.] 
+ 
+WiFi carries a lot of data and it carries it by the mechanism of giving everyone a very low powered
+purple light which they put right next to them. But instead of just purple it has about twenty colours
+(known as channels). You can carry a *lot* of information by WiFi - multiple high-definition TV
+channels even - but you can't carry it very far. And for the most part the consumer pays for the
+infrastructure [ie the little purple light] which is nice for the carriers. 
+ 
+Point here: low-powered high-frequency spectrum competes with WiFi and you can't do that very
+effectively because WiFi spectrum is fairly abundant (caveat in the next section) and free. 
+ 
+The caveat: WiFi in the Superbowl Stadium versus WiFi in Times Square 
+ 
+There are about twenty useable WiFi channels and it is not often that twenty people want to be
+downloading something simultaneously within say a 100 foot radius. 
+ 
+When this happens you run the risk of WiFi congestion. 
+ 
+There are prominent places when far more than twenty people want to use the same spectrum
+simultaneously. The Superbowl stadium at half time has 70 thousand people in it all wanting to film,
+take pictures and upload the stuff to the internet. The Superbowl stadium at half-time is probably the
+most congested spectrum in the world. 
+
+
+
+http://en.wikipedia.org/wiki/Advanced_Wireless_Services
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 6/19
+
+
+ 
+The WiFi (and phone systems) in the last Superbowl worked. [It had to work - it was sponsored by
+Verizon. Verizon would have had very bad press if it had not worked.] 
+ 
+In Times Square at the queue for half-priced tickets everyone seems to want to download theatre
+reviews (as much as anything to see what to see). 
+ 
+WiFi does not work. I know. I have tried it. 
+ 
+It is worth explaining why. 
+ 
+Even though there are rules unlicensed spectrum suffers from the problem of the commons. Too
+many people in an uncontrolled fashion want to get onto it. The commons however are not very big (a
+couple of hundred feet radius mostly) and most commons (say the one in my suburban street) have a
+limited number of people who want to share. So "commons" is not a big problem. 
+ 
+In Times Square "commons" is a big problem. Way too many people fit into my small radius and the
+network is congested. 
+ 
+At the Superbowl that is also true - but for one thing. There is only one party managing the network in
+the Superbowl stadium. Signal from outside the stadium can't get in. (The walls are too thick!) 
+ 
+So within the stadium the unlicensed spectrum behaves as if it were licensed spectrum. Sophsiticated
+WiFi equipment (such as Meraki) include "rogue network detection" as as standard feature. If you
+were setting up a wireless network for (say) Stanford University where there were a gazillion devices
+you would want to ensure that rogue networks were prohibited and to ensure you own the spectrum in
+those places. Rogue devices are jammed and "deauthorized". 
+ 
+The FCC has recently pronounced against jamming rogue networks - at least if you want to charge for
+an alternative network. The FCC recently fined Marriott Hotels $600 thousand for jamming a rogue
+WiFi hotspot and then forcing people to pay for hotel-provided WiFi. 
+ 
+My guess is that jamming remains legal (it is certainly supported by equipment manufacturers) but it is
+only legal if you give away the WiFi signal on your controlled network. 
+ 
+GSATGSAT 
+ 
+GSAT - the latest victim of Sahm Adrangi's precision analysis - is the owner of two blocks of spectrumGSAT
+- both originally allocated as satellite spectrum. 
+ 
+One lot is clearly worthless as it even closer to GPS spectrum than the Lightsquared spectrum.
+Interference is a given. There is no way they will be allowed to operate at any meaningful power level. 
+ 
+The other lot of spectrum is adjacent WiFi and will never be allowed by the FCC to be substantially
+more powerful than WiFi spectrum for fear of drowning out WiFi. GSAT proposes using their spectrumGSAT
+with a 4 watt power limit. [Verizon spectrum is low frequency and often has a 1000 watt power limit.]
+This will mean it has a range commensurate with WiFi. 
+ 
+What GSAT are proposing is a private WiFi channel.GSAT  
+ 
+But for the most part there is enough WiFi channels. 
+ 
+In football stadiums or Grand Central where rogue networks can be removed there is plenty of WiFi
+capacity. [This was demonstrated by the fact that your phone worked during the last Superbowl.] 
+ 
+This applies in hotels too (provided hotels give up charging for WiFi and hence don't fall foul of the
+Marriott ruling). 
+ 
+In places where rogue networks can't be excluded like Times Square another WiFi channel will be
+nice. But there are not that many such places. Moreover one channel will get congested for sure in
+those places... after all if just two people want it you have a difficulty... 
+ 
+Simple summary: GSAT has nothing in the spectrum game. High frequency spectrum with a bindingGSAT
+power restriction is worth something near zero. It is a non-starter. 
+ 
+It is hard to see what capital costs GSAT's spectrum helps a carrier avoid. And if it doesn't help themGSAT
+avoid costs then the spectrum is worthless. [Sorry guys.] 
+ 
+That said there are plenty of hedge fund managers who hold GSAT on some vague notion thatGSAT
+spectrum is scarce and hence valuable. 
+
+
+
+https://meraki.cisco.com/technologies/air-marshal-wips
+
+http://en.wikipedia.org/wiki/Rogue_access_point
+
+http://www.fiercewireless.com/tech/story/marriott-pay-600k-fine-over-wi-fi-blocking-allegations/2014-10-03
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 7/19
+
+
+ 
+I know you read this blog. I suggest you start your next letter as follows: 
+
+
+Dear Limited Partner 
+
+
+As you know we hold GSAT even though their spectrum is restricted to low powerGSAT
+output and is of a high frequency and hence will not have a range of more than a few
+hundred feet. It also competes with WiFi spectrum within that range. 
+
+
+We however think that the laws of physics do not apply to us because...
+
+
+Low frequency spectrum - and the incredible value it offers 
+ 
+AT&T and Verizon have the lion's share of low frequency spectrum in the US. [Both Sprint and T-
+Mobile have narrow slices.] 
+ 
+These large holdings of low-frequency spectrum mean that Verizon and AT&T can offer better
+coverage at lower capital cost than their competitors. 
+ 
+The low frequency spectrum however still has limited capacity. If you want lots of capacity you have to
+use high frequency spectrum (simply because there is much more of it). 
+ 
+If you have low frequency spectrum you advertise yourself on network reliability ("Can you hear me
+now") but you offer limited and often small data plans. 
+ 
+If you have a high-frequency network your reliability is going to suck (sorry Sprint) but you can offer
+very large (even unlimited) data plans. 
+ 
+To the extent that you can charge for reliability and you do not have to carry huge amounts of data
+you should have pricing power AND more modest capital expenditures. You should make pots of
+money. 
+ 
+We have almost pure comparison between a high-frequency player and a low frequency player in the
+US - an that is between Verizon Wireless and Sprint. 
+ 
+Verizon Wireless was a separately reporting subsidiary until the end of 2012 and reported its data
+(courtesy CapitalIQ) can be found here. You can see it did something like $76 billion in revenue in
+2012 and the capital expenditure was 8.8 billion (which was its all time high). The capital expenditure
+was the all-time-high because of the roll-out of the LTE network. Since then Verizon Wireless revenue
+has risen. Here is wireless revenue by quarter: 
+ 
+
+
+(dollars in millions)
+2012 2013 2014
+
+
+Unaudited 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q
+
+
+Operating Revenues
+Retail service $ 15,538$ 15,786$ 16,169$ 16,422$ 16,776$ 16,967 $ 17,246 $ 17,288
+Other service 616 607 559 656 740 744 741 790
+Service 16,154 16,393 16,728 17,078 17,516 17,711 17,987 18,078
+Equipment 1,858 2,559 1,813 1,953 1,924 2,421 1,870 2,387
+Other 1,012 1,042 982 945 959 993 1,022 1,018
+Total Operating Revenues 19,024 19,994 19,523 19,976 20,399 21,125 20,879 21,483 
+ 
+You can find the original here. 
+ 
+The growth rate is about 7 percent. It is pretty good. 
+ 
+Operating income for wireless is growing faster because there is relatively fixed costs - and thus
+operational leverage. Operating income for wireless is now running over 7 billion per quarter and the
+growth rate was 14 percent in the first quarter but only 7 percent in the second quarter. [There were
+some unusual expense shifts - my guess is the growth rate is about 10 percent.] 
+ 
+Capital expenditure for wireless is currently running a little over 10 billion per year (it has gone up - all
+that urban infill is not cheap). They are guiding it down in a couple of years which makes sense (but I
+guess has to be seen to be utterly believed). 
+ 
+By contrast here are Sprint's numbers. [Again you can find the original courtesy of CapitalIQ.] 
+ 
+Revenue is only 35 billion per year - less than half Verizon - and it does not grow very much. 
+ 
+More importantly capital expenditure is running at roughly 6 billion per year. Again they are guiding for
+it to fall somewhat - but it can't fall much because of the lack of coverage. What we have is less than
+
+
+
+https://www.youtube.com/watch?v=OPwPo-IAQ-E
+
+https://docs.google.com/spreadsheets/d/1WS7hdSTp4ZpV3fQBTGxxhoWMpL0Y6-tg80O9HGVon24/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/117bVGYNZnEJcjPnVMJJyDYoezra5PmL2hJkWQXIMgY4/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1E5m_v7QpsGBJpLWGjxVqkMWGojQ-tdHsOX5gePYCbz4/edit?usp=sharing
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 8/19
+
+
+half the revenue, roughly 60 percent of the capital expenditure and a lack of growth. It is not pretty. 
+ 
+Capital expenditure has been SUBSTANTIALLY larger than operating cash flow for many years. By
+contrast Verizon Wireless has substantial operating cash flow after capital expenditure. The spectrum
+holdings of Verizon have avoided vast capital expenditures and provided better service and pricing
+power. 
+ 
+Sprint by contrast has large and increasing funding needs. They needed a huge capital injection from
+Softbank. My guess is that they will need another one. 
+ 
+T-Mobile whose spectrum position is similar to Srpint also has capital expenditure substantially larger
+than operating cash flow. Alas their parent is not as rich. My guess is that contrary to the popular
+perception Sprint and not T-Mobile is the ultimate survivor - but only because Sprint is controlled by
+Softbank and Masa Son will decide at some point he prefers owning a solvent number three phone
+company than owning a large stake in Alibaba. 
+ 
+Some people (and guidance) think that T-Mobile becomes cash flow positive (after capital
+expenditure) when it finally turns off old 2G networks. I do not believe it as I think their unlimited
+buckets now will force them to infill for a very long time. [The 2G network thing will also apply to
+Verizon.] 
+ 
+The Verizon question 
+ 
+Verizon wireless grows revenue at about 7 percent, income at about 10 percent and according to
+management is likely to drop its capital expenditure. 
+ 
+It is priced at a teens PE ratio. 
+ 
+Of course it includes a wireline business but that is no longer shrinking. Why? Mainly because it is the
+opposite end of all those WiFi access points. 
+ 
+What is is worth? 
+ 
+My guess is a *lot* more than the current price. I can't see any reason why the demand for bandwidth
+will not be a lot higher in a decade and the ability to solve problems by digital compression (ie 4G
+over analog) is nearing an end. There is likely going to be a true crunch and that crunch will provide
+pricing power. 
+ 
+But bluntly you don't need that. All you need is the revenue growth to continue at 4-7 percent for half
+a dozen years, profit growth is thus 8-14 percent and the free cash is overwhelming. Verizon
+is very cheap it continues. It starts with an almost 4.5 percent dividend. If it gets better at that rate for
+half a dozen years (still an open question) Verizon is really cheap. In order for Verizon not to be good
+value that revenue growth needs to stop or the capital expenditure requirements need to blow out. 
+ 
+Some people state the revenue growth will stop because there is a price war going on in US
+telephony. I have spent a lot of time looking at it and think it is mostly a phoney war (forgive the pun)
+but it is clearly impacting Sprint whose revenue is stationary but whose customers 
+ 
+I would love (off-the-blog) a decent conversation with anyone who has a decent idea on how to value
+Verizon's spectrum. I have a list by county of the US of their spectrum holdings (its a 25 megabyte
+file). 
+ 
+Is there any more spectrum? 
+ 
+It is worth asking whether this can be solved by making more spectrum available. Are there great
+"fallow fields" of spectrum? 
+ 
+The short answer is no. 
+ 
+The long answer is a little more complicated. 
+ 
+The available low-frequency spectrum has by-and-large come from freeing up the spectrum
+previously used for TV. In most countries (though not America) all the auctions have happened. 
+ 
+In America there are two major releases of that spectrum. The first was in January 2008 - and the
+second will be in 2015 (the so-called incentive auction). 
+ 
+The 2008 auction was bid just after the introduction of the iPhone (announced 29 June 2007,
+introduced a little later). The bidding prices were not high. Spectrum demand and prices have gone
+up massively since the introduction of smart-phones. 
+
+
+
+http://en.wikipedia.org/wiki/IPhone_(1st_generation)
+5/18/2018 Bronte Capital: Spectrum valuation and a case for Verizon and against wannabe players like Sprint and desperado/promotes like GSAT
+
+
+http://brontecapital.blogspot.com/2014/10/spectrum-valuation-and-case-for-verizon.html 9/19
+
+
+Posted by John Hempton at 9:14 PM  
+
+
+ 
+The 2015 auction will be the last auction of high-value low frequency spectrum in my lifetime. There
+are no more huge blocks to be had. The FCC has reserved 30 MHZ for minor players (not AT&T or
+Verizon). That reservation is a huge gift from taxpayers to the minor carriers and will allow at least one
+of Sprint or T-Mobile (or maybe Dish) to prosper. For the minor players the 2015 auction is their last
+chance to get some high-powered low-frequency spectrum. It is do-or-die. 
+ 
+Because Sprint has a richer parent (Softbank) my guess is the winner will be Sprint. 
+ 
+At high frequency there is not really a shortage of spectrum. There is a lot of WiFi spectrum if you
+want to build a very dense network (at very high cost). But more realistically Sprint owns (courtesy of
+Clearwire) huge swathes of very high frequency spectrum with much more realistic power limits than
+WiFi. Sprint is able to offer a lot of capacity - but as the spectrum is high frequency they might have
+trouble offering it over a broad market. 
+ 
+Future research 
+ 
+I am seeking anyone who can help me value Verizon's spectrum. I want to develop a physics-based
+model of Verizon's competitive advantage. Hope dear readers that you can help. 
+ 
+ 
+ 
+John
+
+

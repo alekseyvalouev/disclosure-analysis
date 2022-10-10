@@ -1,0 +1,217 @@
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 1/17
+
+
+MBIA's GIC Exposure Could Trigger a Liquidity Crisis
+Jun. 28, 2008 5:57 PM ET37 comments
+by: Whitney Tilson
+
+
+MBIA was down 26% this week -- and I'm surprised it wasn't more, given the news last
+Thursday and Friday. 
+
+
+In Bill Ackman's presentation last Wednesday (which is posted at
+www.valueinvestingcongress.com), he revealed an area of exposure for many of the bond
+insurers that I hadn't previously been aware of: Guaranteed Investment Contracts (GICs).
+I knew MBIA had an investment management division that sold GICs, but didn't fully
+understand their structure and how toxic this business can be in the event of a
+downgrade. It's really quite ironic that everyone (myself included) has been so focused on
+the company's structured finance exposure, but something out of left field like GICs might
+be what triggers a liquidity crisis that takes the company under. 
+
+
+Allow me to explain what a GIC is. Let's say a municipality like Wichita does a $100 million
+bond offering to build some schools (or bridges or whatever). Immediately after the
+offering, it has $100 million in the bank, but it doesn't need all of the money up front.
+Instead, as the schools are built, it pays the costs over time -- let's say $25 million per
+year. 
+
+
+MBIA (and many other bond insurers) of course have relationships with countless
+municipalities, so they set up investment management divisions to tap these relationships
+and help municipalities invest the money they raised so they could earn some extra return.
+(In many cases, the bond insurer offers a package deal in which it wraps the bonds and
+also invests the proceeds -- possible illegal tying, but that's another story.) The produce
+the bond insurers sold to the munitipalities was a guaranteed investment contract, which
+was of course marketed as 100% safe, secure, liquid, triple-A, blah, blah, blah (you see
+where this story's going, don't you? Think auction rate securities...).  
+
+
+A GIC would typically be structured to pay out over time -- in the case of the example
+above, Wichita would give MBIA the $100 million it had just raised and in return MBIA
+Asset Management would give Wichita a GIC that promised to pay out $25 million per
+year plus interest a tiny bit higher than what Wichita could have earned by putting it in
+Treasuries. MBIA Asset Management (part of the publicly traded holding company) would,
+
+
+
+http://www.valueinvestingcongress.com/
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 2/17
+
+
+in turn, have MBIA's insurance sub provide 100% financing, taking advantage of its AAA
+rating (and taking all of the risk; more non-arm's-length dealings...), and the MBIA holding
+company would simply pocket the spread. Finally, MBIA would invest the money in various
+securities, attempting to match their duration with the expected payout timetables of the
+GICs.  
+
+
+A nice feature of this set-up for MBIA was that it sold a steadily increasing amount of
+GICs, so it could pay off maturing GICs with incoming cash from new GICs -- not a Ponzi
+scheme, because there are assets backing it up, but the liquidity characteristics of the GIC
+business allowed MBIA, if it wanted (or if it got sloppy or greedy), to invest the GIC assets
+in illiquid and/or long-dated securities. 
+
+
+This was a wonderful business for everyone as long as markets were tranquil, assets
+were liquid and held their value, MBIA's customers continued to buy new GICs and,
+critically, MBIA maintained its AAA rating. None of these things are true today, however.  
+
+
+In particular, many GICs have a clause that says if MBIA is downgraded, it had to
+immediately repay or post "eligible collateral" on most or all of the GIC. Sure enough,
+MBIA was downgraded five notches by Moody's last Thursday and, as a result, on Friday
+after the close, MBIA released the following statement:
+
+
+As a result of the downgrade to A2, MBIA expects that it will require $2.9 billion to
+satisfy potential termination payments under Guaranteed Investment Contracts
+(GICs). In addition, MBIA expects to be required to post approximately $4.5 billion in
+eligible collateral to satisfy potential collateral posting requirements under GIC's as a
+result of the downgrade. MBIA Inc. has total assets of $25 billion related to its ALM
+business, of which $15.2 billion is available to satisfy these requirements including
+approximately $4.0 billion in cash and liquid short-term investments; $1.0 billion of
+unpledged eligible collateral on hand; and approximately $10.2 billion of other
+unpledged diversified securities with an average rating of Double-A. In addition,
+MBIA Inc. also has available another $1.4 billion in cash, including the proceeds of
+its recent equity offering.
+
+
+Translation: "Contrary to everything we've ever said about no accelerating liabilities in any
+part of our business, we now have to immediately come up with $7.4 billion of cash and
+eligible collateral (U.S Treasury or agency securities, with appropriate haircuts -- roughly
+5%). But don't worry, we have $25 billion of assets..."
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 3/17
+
+
+$25 billion of assets to cover $7.4 billion of liabilities sounds reassuring -- perhaps that's
+why the stock was up on the open Monday (giving us the opportunity to short more) -- but
+in reality MBIA is in big trouble because it never expected to have to come up with huge
+amounts of cash on short notice. Here's why: 
+
+
+When MBIA says that it has "$15.2 billion is available to satisfy these requirements", it
+means that $9.8 billion of its ALM (Asset/Liability Management) business assets are
+already collateralized. And there's not really $15.2 billion left to meet the collateral call --
+that's based on MBIA's cost, but according to MBIA's own filings, this was impaired by
+$1.4 billion as of 3/31 -- and the actual impairment today is surely much greater, for two
+reasons: 1) prices of these securities have declined this quarter and 2) the estimated
+values are based on an orderly sale, not a rushed sale to meet a collateral call (speaking
+of which, I spoke with a senior fixed income trader today who said there are lots of sellers
+but absolutely no buyers for fixed income securities, as financial firms are looking to
+reduce their holdings going into the close of the quarter). 
+
+
+In reality, as MBIA admits in its press release, it has only $5 billion in cash or cash
+equivalents in its ALM business, plus the $1.4 billion recently raised by the holding
+company (no wonder it didn't downstream the $900 million!), so it needs to come up with
+another $1 billion from the "approximately $10.2 billion of other unpledged diversified
+securities with an average rating of Double-A" -- not an easy thing to do in this ghastly
+market. 
+
+
+Can MBIA come up with the $7.4 billion it needs to pay off a lucky subset of its creditors?
+Sure, but only by pledging all of its cash and selling its best, most liquid securities, which
+is exactly what it's doing right now according to the article below that just came out on the
+WSJ web site. But what about all of its other creditors -- the holders of GICs and medium
+term notes that come due next month (and the month after that and the month after that) --
+which are secured by increasingly low-quality, illiquid assets?  
+
+
+This is the kind of liquidity crunch that has led many financial companies to file for
+bankruptcy. If MBIA were to do so, it would obviously wipe out the equity, but it would at
+least treat all creditors fairly rather than early ones getting paid in full and later ones left
+holding the bag (this is the same issue that exists for policyholders at MBIA's insurance
+sub as well, by the way).
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 4/17
+
+
+When MBIA finally sinks beneath the waves, its management, board, analysts and
+defenders will surely cry that no-one could have predicted this perfect storm, yada, yada,
+yada, but in fact Bill Ackman spelled it all out five and a half years ago in 66 pages of
+excruciating detail in his original presentation on MBIA, Is MBIA Triple A? (attached), in
+which he concluded:
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 5/17
+
+
+A two-notch downgrade could have catastrophic consequences for the company. It
+would likely create problems for the renewal of MBIA’s SPV commercial paper. It
+might also cause a reduction in the value of all of MBIA’s wrapped obligations
+including all of Triple-A One’s assets. The decline in values of these assets, in turn,
+could trigger covenant defaults in the SPV’s liquidity facilities, further exacerbating its
+immediate liquidity crisis.
+
+
+
+
+
+Additionally, Moody’s reports that MBIA’s ISDA documentation contains increasing
+collateral requirements in the event of a downgrade of the company. The company’s
+municipal GIC portfolio also has rating downgrade triggers. 86 Perhaps most
+significantly, a downgrade could shut off a material percentage of the company’s
+cash flow, for MBIA may be unable to write new premium without a AAA rating.
+
+
+
+
+
+A Barclays Capital research report which is available on MBIA’s website explains:
+
+
+Spiraling down…down…and down?
+
+
+In the event of a financial guarantor being downgraded, will a vicious circle
+lead to rapid rating deterioration and potential bankruptcy? This is a much-
+debated question in that a financial guarantor who relies on its credit ratings for
+its business franchise could face a rapid decline in new business in the event
+of a downgrade, which could precipitate further downgrades.
+
+
+
+
+
+It appears to us that an actual or perceived downgrade of MBIA would have
+draconian consequences to the company and create substantial drains on the
+company’s liquidity. The self-reinforcing and circular nature of the company’s
+exposures makes it, we believe, a poor candidate for a AAA rating.
+
+
+
+
+
+In light of MBIA’s enormous leverage, the company’s credit quality, underwriting,
+transparency, accounting, and track record must be beyond reproach. The company
+can simply not afford any significant risk of loss in its nearly $500 billion of net par
+exposure, for a mere 20 to 35 basis points loss would equate to levels sufficient to
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 6/17
+
+

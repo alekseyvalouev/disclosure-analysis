@@ -1,0 +1,536 @@
+At the Ira Sohn Conference earlier this month, Jonathon Jacobson of Highfields Capital 
+Management outlined a short case against Digital Realty Trust (DLR) that was one of 
+the best we had ever heard.  Since then (and at the time of this writing), the stock has 
+declined about 9%.  DLR is heavily shorted with 17.7MM of the 128MM shares 
+outstanding short as of the end of April.  Based on the presentation we heard, this made 
+perfect sense, and we would not have been surprised if the stock had been down more.  
+When we investigated Highfields’ claims, we found that everything they said was 
+factually correct.  We also believe that they have misinterpreted these facts and that the 
+stock represents a buying opportunity ahead of the company’s presentation at the 
+NAREIT Conference which begins on June 5. 
+
+
+In examining Highfields’ case, we want to emphasize that we do not believe they 
+mislead anyone or that they did bad research.  We do think they missed a few critical 
+points that invalidate the thesis.  We will do our best to properly state their thesis and 
+we invite Highfields to contact us if they believe we missed or misstated anything. 
+
+
+
+
+
+Is DLR Misstating Their Maintenance Cap-X? 
+
+
+Highfields made three significant claims about Digital Realty.  The first is that the 
+company is misstating recurring capital expenditures.  The reason this matters is 
+because recurring cap-x is one of the items subtracted in the company’s calculation of 
+Adjusted Funds from Operations (AFFO).  AFFO is a non-GAAP measure that Real 
+Estate Investment Trusts (REITs) use to calculate their ability to fund dividends from 
+their ongoing operations.  Digital Realty tends to pay out about 80% to 85% of their 
+AFFO in dividends so an increase in recurring cap-x would reduce AFFO which would in 
+turn reduce the company’s dividend payments.  Since REITs often trade off of dividend 
+yield, a dividend reduction would drive the stock price down. 
+
+
+In 2012, DLR claimed that their recurring or maintenance cap-x was $21MM and their 
+AFFO was $433MM.  DLR paid out about 85% of their AFFO in dividends that year.  
+DLR spent $2.5 billion on capital expenditures in 2012 and $1.6 billion of that was for 
+acquisitions of real estate.  This means that the company put about $900 million into 
+improvements in real estate.  Improvements in datacenters are typically for things like 
+hookups to multiple supplies of electricity, uninterruptible power supplies, air 
+conditioning units, fire suppression, and pipes and cabling for everything.  It is important 
+to note that DLR houses servers with relatively short lives, but they don’t own them. 
+
+
+With $900MM of investments in 2012 in the kind of cap-x that needs maintenance and 
+replacement and $8.2 billion in non-land investments in properties, Highfields believes 
+that $21MM of recurring cap-x is too low.  They suggest that $413MM would be a more 
+appropriate number.  We believe they are getting that number by adding up the non-
+
+
+1                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+land and non-lease investments in properties from the most recent balance sheet and 
+dividing by an assumed 20 year life.  There are a few problems with this approach: 
+
+
+
+
+
+Do These Assets Really Have no Value 20 Years From Now? 
+
+
+First, this approach assumes that with the exception of land, everything that Digital 
+Realty owns will have no value in 20 years.  We’ve spoken with experienced REIT 
+investors, and datacenter experts who have designed and built high end facilities for 
+large investment banks.  Datacenter facilities are highly engineered buildings with 
+assets that have much longer lives. 
+
+
+o Let’s start with the buildings themselves.  Datacenters are basically large 
+windowless warehouses designed to be fire, bomb, earthquake, and flood 
+resistant.  We live in New York, and most buildings here are substantially 
+older than 20 years and are not engineered to datacenter specifications.  
+These buildings will last decades past the 20 year life assumed by Highfields. 
+
+
+o Much of the capital invested in these sites goes to laying pipes and electrical 
+cabling.  The useful life for these assets is also many decades. 
+
+
+o These buildings have diesel generators to provide emergency power in case 
+access to the grid is impaired.  These generators are well-maintained, tested 
+regularly, and have a useful life that extends decades past the 20 year mark. 
+
+
+o Raised floors and steel cages:  Datacenters build raised floors to provide 
+room for cabling and have steel cages to secure servers in a shared facility.  
+The useful life of these items is essentially indefinite. 
+
+
+o Battery backup, HVAC and air conditioning systems, and fire suppression 
+systems:  This is the stuff that has to be replaced on an 18 to 30 year cycle.  
+HVAC units tend to last around 20 – 25 years.  New technology may make it 
+worthwhile to upgrade fire suppression units on a 20 – 30 year cycle.  And 
+battery systems need to be replaced more often. 
+
+
+o Servers:  These have a useful life of around 5 years.  Digital Realty doesn’t 
+own the servers in their facilities.  They are either provided by tenants, or 
+Digital will buy servers for a tenant and charge them for it. 
+
+
+When Highfields wants to use $413 in annual maintenance cap-x, they are essentially 
+making the case that everything DLR owns will be worthless and will need to be 
+replaced in 20 years.  Looking at the list above, we can see that the buildings, and 
+many of the expensive assets in them have much longer lives.  We have heard 
+
+
+2                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+estimates from people who build datacenters that about 30% to 45% of the cost of 
+building a site is for capital items that will need to be replaced every couple of decades.  
+The rest will last much longer. 
+
+
+
+
+
+Shouldn’t We Credit DLR for Maintenance Expense? 
+
+
+Second, Digital Realty spends a lot of money maintaining their equipment.  Things like 
+the uninterruptible power supply, the diesel generators, and the fire suppression system 
+are regularly maintained and tested.  In 2012, DLR spent $380MM on property 
+operating and maintenance expense.  One reason that maintenance capital 
+expenditures are low is because the company expenses most of the maintenance on 
+these items.  DLR is spending the money to maintain their systems.  They just aren’t 
+capitalizing it. 
+
+
+
+
+
+Maintenance Cap-X is a Cash Expense – Depreciation is an Accrual 
+
+
+Most importantly, we believe Highfields is missing the distinction between cash and 
+accrual accounting.  In our first point above, we note that much of DLR’s capital 
+expenditures have a life that extends decades beyond the 20 year Highfields’ 
+assumption.  Let’s examine the accounting for the items with 20 – 30 year lives.  Let’s 
+assume Digital Realty buys an item like an HVAC unit or power supply which will need 
+to be replaced in 20 years and that they pay $10MM for the item.  DLR will then 
+recognize $500,000 a year in depreciation and will expense approximately $1MM a year 
+in maintenance (See point 2 above).  But until they need to replace the unit, they don’t 
+have maintenance cap-x.  It is crucial to understand the difference between the annual 
+$500,000 non-cash depreciation accrual, the $1MM maintenance expense which is 
+recognized in the income statement, and the cash maintenance capital expenditures 
+which will be $0 for the first 19 years then be $10MM in year 20. 
+
+
+DLR isn’t hiding their maintenance cap-x.  They are telling you that last year, they spent 
+$900MM in improvements in real estate (growth cap-x), $21MM in recurring cap-x 
+(capitalized maintenance or replacement of worn out items), and $380MM in property 
+operating and maintenance expense (non-capitalized maintenance recognized on the 
+income statement).  The $21MM is what they spent in cash which is not the same as an 
+accounting accrual for depreciation expense. 
+
+
+Highfields might look at $382MM of depreciation and amortization and think that 
+maintenance cap-x should be higher, but most of DLR’s facilities are relatively new.  A 5 
+year old datacenter should not have any expensive items that need to be replaced.  In 
+
+
+3                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+fact many of the assets have very long lives (building, cabling, pipes, diesel generators, 
+and steel cages).  Items like the HVAC unit and fire suppression units will need to be 
+replaced in another 15 to 20 years.  There is no part of this that is misleading or which 
+should lead the company to cut their dividend now. 
+
+
+We realize that arguments like this can have a slippery slope.  If a company has high 
+cash flow this year and has to spend a fortune in cap-x next year, we wouldn’t look at 
+this year’s cash flow as recurring.  DLR owns 122 mostly new properties with assets 
+that have long lives.  Not paying a dividend this year because they might have to 
+replace an HVAC unit in 20 years seems a bit extreme.  (In fact, we’ll show in the next 
+section that DLR pays out a small enough dividend to have money left over to replace 
+that HVAC unit.)  Assuming the entire company’s asset base will be worthless in 20 
+years and placing no value on huge annual maintenance expenses that are recognized 
+in the income statement is inaccurate and highly misleading. 
+
+
+
+
+
+Is DLR a Ponzi Scheme? 
+
+
+Highfileds’ second claim is that Digital Realty is paying their dividends from issuances of 
+debt, preferred, and common equity instead of from free cash flow.  While Mr. Jacobson 
+avoided saying “Ponzi scheme”, he did point out that there was a term used to describe 
+a business enterprise that pays existing investors out of money raised from new 
+investors. 
+
+
+Just like their first claim discussed above, Highfields is technically correct in this matter.  
+If you subtract capital expenditures from cash from operations, you get a negative 
+number.  Digital Reality is also paying a dividend and regularly accesses the capital 
+markets.  These items are all factually correct, but can lead you to a poor conclusion. 
+
+
+In order to understand the Highfields’ dividend claim, it helps to have a bit of an 
+understanding of how a Real Estate Investment Trust (REIT) works.  A typical REIT will 
+own a collection of properties.  It will operate and maintain those properties, and lease 
+them to tenants in exchange for rental revenue.  In order to maintain REIT status, the 
+REIT needs to pay out at least 90% of its income to investors.  Many REITs will pay out 
+a high percentage of AFFO which can often be greater than net income. 
+
+
+Because REITS pay out most of their internally generated capital to investors, they 
+typically access the capital markets to fund growth.  As value investors, we are usually 
+suspicious of companies that constantly raise capital; however, REITs are not typical 
+companies.  Successful REIT management will look at the cost of capital for raising 
+debt or equity, choose whichever one is cheaper (or safer), and invest in new properties 
+they expect will have a higher rate of return than the new capital raised.  Existing equity 
+
+
+4                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+holders experience dilution, but because in our example, the new assets had a higher 
+return than the cost of the new capital, net value is created for shareholders. 
+
+
+Taking this hypothetical example further, imagine you own a REIT that owns one 
+property worth $100MM.  Let’s imagine that this property produces about $6MM of 
+recurring cash flow per year and pays out $5MM of that in dividends to investors.  Now, 
+let’s imagine that the management of this REIT found a second building priced at 
+$100MM and that that price represented extraordinary value.  If this REIT issued equity 
+or debt to purchase this second building, and still paid $5MM in dividends from property 
+number one, would you consider this to be a Ponzi scheme? 
+
+
+Of course not…our hypothetical REIT is paying out a dividend based on a measure of 
+recurring cash flow and it raised capital to purchase a second asset.  This is not 
+nefarious.  It is how REITs operate. 
+
+
+
+
+
+That’s Hypothetical.  How Does This Apply to DLR? 
+
+
+In 2012, DLR had $543MM in cash from operations and paid out $373MM in dividends 
+to preferred and common stock holders.  Subtracting maintenance cap-x of $21MM 
+leaves a cushion of $149MM.  Highfileds can point out that actual cap-x at DLR in 2012 
+was the $2.5B noted above, but that was for acquisitions, new construction, or buildout 
+of new property they’ll lease in the future.  Digital Realty didn’t need to tap the capital 
+markets to pay the dividend.  The company has a portfolio of assets that produce 
+enough cash to do that.  DLR did need to access the capital markets to add new 
+facilities; just like almost every other REIT. 
+
+
+We’ve already made the case that DLR is accounting for their maintenance cap-x 
+appropriately and that we believe Highfields is ignoring the considerable amount of 
+maintenance that the company is expensing.  We noted earlier that much of the cost of 
+a new facility is for assets that have a very long life (buildings, cabling, pipes, diesel 
+generators) and that about 30% to 45% of the cost is for assets that need to be 
+replaced on an 18 to 30 year cycle.  We will note that the $149MM cushion calculated 
+above leaves room for DLR to replace 45% of their non-land assets on a 25 year 
+schedule.  That seems like ample cushion considering these are items they might need 
+to replace in a couple of decades. 
+
+
+In any case, in suggesting that DLR is a Ponzi scheme, we believe Highfields is mixing 
+up cash flow from existing operations with the typical REIT practice of raising capital for 
+new construction or acquisitions. 
+
+
+
+
+
+5                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+You Claim These Practices Are Industry Standard.  Are They? 
+
+
+We are not parents, but we can’t imagine that the words, “Well, so-and-so is doing it so 
+why can’t I” will ever be convincing.  Bad accounting is bad accounting and the fraud 
+inherent in a Ponzi scheme is never ok no matter what anyone else is doing.  Still, 
+Highfields is making some pretty dramatic claims here and we thought it might be useful 
+to take a look at what the numbers look like at the other public datacenter REITS.  
+Please note that Equinix is not a REIT yet, Dupont Fabros doesn’t report maintenance 
+cap-x and that CyrusOne did their IPO on Jan 24, 2013.  Still, we were able to get some 
+valuable industry data. 
+
+
+  Recurring Cap‐x/D&A   
+Recurring Cap‐
+
+
+x/Depreciable Assets   
+
+
+Dividend Covered 
+by CFFO Less All 
+
+
+Cap‐x 
+
+
+Company  2011  2012  1Q '13   2011 2012
+Annualized 
+
+
+1Q '13   2011  2012
+
+
+                     
+Digital Realty 
+Trust  4.2%  5.6%  4.1%   0.2% 0.3% 0.2%   No  No
+Coresite 
+Realty  2.1%  6.3%  10.7%   0.2% 0.6% 1.0%   No  No
+
+
+CyrusOne    5.3%  1.4%     0.5% 0.1%   No  No
+Dupont 
+Fabros                  No  No
+ 
+
+
+What we can see here is that recurring cap-x is a fraction of depreciation and 
+amortization which is consistent with our discussion above of long-lived assets and well-
+maintained systems.  Recurring cap-x is tiny relative to depreciable assets.  If Highfields 
+was correct and the company should be recognizing $413MM of maintenance cap-x a 
+year, the number in that second group of columns should be around 5%.  The last set of 
+columns just illustrates the point made about how REITS finance themselves.  They pay 
+dividends based on the recurring adjusted funds from operations of their existing 
+business and raise capital to build or acquire new assets. 
+
+
+Our view is that the entire REIT industry isn’t a giant Ponzi scheme.  While Highfields 
+didn’t make that claim either, their claim against Digital Realty applies widely.  We would 
+be interested in hearing if they think all REITs that raise capital to pay for new assets 
+and that pay a dividend are also Ponzi schemes. 
+
+
+
+
+
+Is DLR Going to be Buried by GOOG, AMZN, and MSFT? 
+
+
+6                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+Mr. Jacobson expressed concern that with Google, Amazon, and Microsoft focused on 
+cloud-based computing, there could be some well-capitalized competition in the 
+datacenter space.  We have to admit that we don’t have any special insight into the 
+strategic plans at those companies and more competition is never good for rental rates.  
+We also would acknowledge that while building a high end datacenter with all the 
+appropriate security, fire suppression, power redundancy, power backup, and industrial 
+air conditioning among other safekeeping concerns is difficult, the knowledge for how to 
+do so is available and can be easily purchased.  In other words, if someone decides to 
+enter the high end datacenter business, they can acquire the expertise to do so. 
+
+
+Before we declare that the datacenter hosting companies are all going out of business, 
+it’s worthwhile to take a more complete look at the sector.  Google does offer its users 
+cloud space as does Amazon.  For the less technically inclined reader, all that means is 
+that Google and Amazon will store documents for you which you can retrieve from your 
+home computer, your work computer, your smart phone, or anywhere with a web 
+connection.  It’s just like when you email yourself something at work so you can easily 
+find the file when you log in at home.  The documents are stored on Google’s and 
+Amazon’s servers, and you can access them at your convenience.  This is perfectly fine 
+if you are a college student trying to access your history paper and don’t care if it takes 
+10 milliseconds to load, or if it takes 3 or 4 seconds.  If you are a high frequency trading 
+operation, or if you are running a business that needs to comply with stringent record 
+keeping and regulatory compliance issues, it’s not even close to fine. 
+
+
+High frequency trading operations need to be located on an internet node in close 
+physical proximity to the end server.  In this world, the amount of time it takes the 
+electrons to travel through the internet fiber is a significant consideration and 
+thousandths of a second matter.  If you are running an investment bank, a major 
+telecom company, or a pharmaceutical company, data security and record keeping is 
+crucial.  These operations need to be in buildings that are earthquake, fire, bomb, and 
+flood resistant.  They need redundant power sources, backup power sources, state of 
+the art fire suppression, and multiple water sources for the HVAC units.  Even then, 
+these customers will often store the same data in multiple datacenters in multiple 
+locations.  If the FDA, the SEC, or another relevant regulatory body wants data, these 
+companies need to know they have secure immediate access to it.  This is not the same 
+as having your school papers or photos stored on Google or Amazon’s cloud storage. 
+
+
+In fact, among Digital Realty’s largest customers are TelX Group, Facebook, Morgan 
+Stanley, AT&T, Deutsche Bank, Verizon, NTT, Level 3 Communications, Pfizer, Yahoo!, 
+and Amazon.  Even Equinix, a retail-oriented data service provider rents space from 
+Digital Realty.  Demand for greater and indefinite record keeping, and for secure access 
+to more data from anywhere is growing and will continue to grow.  It’s possible that 
+Google, Amazon, and Microsoft will start building high-end datacenters.  It’s also 
+
+
+7                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+possible that they’ll realize that these are capital intensive enterprises that don’t aren’t 
+part of their core competency, and will decide to rent space from companies like Digital 
+Realty.  We’ll be watching future events closely, but will point out that Digital’s 
+operational datacenters have been averaging just under 95% occupancy for years, and 
+their tenants have long leases and high switching costs. 
+
+
+
+
+
+So What Happens Now? 
+
+
+We noted earlier that Mr. Jacobson’s presentation at the Sohn Conference was exciting, 
+and there were many newspaper and blog posts outlining his scathing thesis.  
+Presenters at the Ira Sohn Conference tend to be among the best known and most 
+successful fund managers in the world, and presentations there have a tendency to 
+move stocks as the presenter is speaking, or in the case of late presentations, the next 
+day.  There were articles in the papers noting that Digital Realty was one of the largest 
+post-presentation movers.  The stock is down as a result of Highfields’ short thesis and 
+short interest in DLR is high. 
+
+
+What makes this situation particularly interesting is that everything Mr. Jacobson said is 
+factually true.  We just think that his conclusions that AFFO is overstated and the 
+company is a Ponzi scheme are incorrect.  In addition to us providing a more clear 
+understanding of the company’s financials, we have spoken to DLR.  We wouldn’t be 
+surprised if Digital Realty responds to Highfields’ allegations during or before the 
+NAREIT Conference which takes place in Chicago during the first week of June.  We 
+found the company’s response on these issues to be factually based, unemotional, and 
+compelling. 
+
+
+We think that a heavily shorted stock which is down on a broken short thesis and which 
+will be facing a well-thought out response from the company at an industry conference 
+represents an attractive buying opportunity. 
+
+
+
+
+
+What if We’re Wrong? 
+
+
+We have shorted stocks for the better part of the last two decades, and understand the 
+importance of having a catalyst to make your short thesis apparent to the rest of the 
+world.  The hedge fund business is full of people who got a short thesis right, but who 
+lost a fortune before they were eventually proven correct.  Even if we’re wrong about 
+everything, in order for Highfields to see the $20 stock price they predict, we think one 
+or more of three things will have to happen:  
+
+
+8                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+1) The Funding Window Would Have to Close:  The definition of a Ponzi scheme 
+involves paying existing investors with funds from new investors.  If Highfields is 
+correct that DLR is a Ponzi scheme, the catalyst that would illustrate this would 
+be an inability to access new funds.  The last time DLR issued debt, they did so 
+at a yield well below 4%.  The 10 year treasury is below 2%, and events around 
+the world have investors looking for places to invest in the US.  Easy access to 
+funds is never a perpetual state of the markets, but it could be years before 
+datacenter REITs have to make due with their existing capitalization structures.  
+(We would note that difficulty getting funding would be a problem for any REIT 
+that is trying to grow.  It does not; however, make their accounting fraudulent or 
+their business a Ponzi scheme). 
+
+
+2) Maintenance Cap-x Would Have to Catch Up With Accrued Depreciation:  
+Highfilelds thinks that Digital Realty is understating their maintenance cap-x by a 
+huge margin.  We pointed out earlier in this report that many of Digital Realty’s 
+assets have very long lives, and the company spends a lot on maintenance 
+expense.  However, if Highfields is correct, the catalyst that would make this 
+apparent would be the company starting to recognize the cash impact of these 
+maintenance capital expenditures.  Most of DLR’s datacenters are relatively 
+new.  Unless the company is hit with a statistically unlikely early failure of much 
+of their equipment, it will start to replace expensive equipment like HVAC units 
+around 15 to 20 years from now.  That’s a long time to be short a stock while 
+waiting for confirmation. 
+
+
+3) Third Parties Like GOOG, AMZN, and MSFT Would Have to Invest Billions in 
+the Datacenter Hosting Business:  The first two items on this list are highly 
+unlikely to happen in the near future.  This one, we could debate endlessly and 
+not know.  Any investment in technology faces an uncertain future, and we don’t 
+know if the above companies will decide to get into the real estate business or to 
+rent high-end datacenter space for their operations and customers.  We do think 
+there is a difference between archiving emails or documents in the cloud and in 
+hosting latency intensive high-security backup for mission critical applications 
+and required data for regulators.  Again, we point out Digital Realty’s high 
+occupancy and long contracts as well as the need to monitor the space. 
+
+
+
+
+
+Conclusion: 
+
+
+Digital Realty is heavily shorted and the stock is down due to a broken short thesis 
+based on misunderstood facts.  The company is likely to respond to this short thesis in 
+a public forum in the next couple of weeks, and to do so in a convincing fashion.  Even 
+
+
+9                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+if the short case turns out to be correct, it could be many years before they get 
+confirmation or a catalyst.  Being short a growing and dividend-paying REIT indefinitely 
+seems like a risky proposition. 
+
+
+10                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821
+11                                                                              GARY BRODE | GB@SilverArrowCap.com | (917) 546‐6821 
+
+
+Gary Brode is a Managing Partner and Portfolio Manager for Silver Arrow Investment Management, 
+LLC. He started his career in the Mergers & Acquisitions Department at Morgan Stanley & Co. and 
+has spent the last 19 years working for hedge funds, including Seneca Capital, Brahman Capital, and 
+the Event Driven Group of John A. Levin & Co.; all funds with up to $2.5 billion in assets. He was a 
+Founder and Managing Partner of Akita Capital Management, LLC, a value-oriented long/short equity 
+hedge fund.  
+ 
+Raji Khabbaz is a Managing Partner and Senior Portfolio Manager for Silver Arrow Investment 
+Management, LLC. He has spent the last 17 years working as a portfolio manager, focused on value 
+investing, special situations, and long/short equity investing. He co-founded Highline Capital 
+Management, LLC and Pierce Street Capital Management, LLC, two value-oriented long/short equity 
+hedge funds. He also served as a portfolio manager at Ivory Capital, overseeing up to $1 billion in 
+firm assets. In 2009, he formed Silver Arrow Investment Management, LLC, a value investing 
+investment partnership, focused on managing concentrated equity portfolios. Mr. Khabbaz began his 
+career in the Mergers & Acquisitions Departments at Morgan Stanley & Co. and Gleacher & Co. He 
+received at MBA from the Harvard Graduate School of Business and B.A. in Economics with honors 
+from the University of California at Berkeley. 
+ 
+Silver Arrow Investment Management, LLC is a New York-based investment firm that manages 
+the investment partnership, Silver Arrow Partners, L.P., and selected managed accounts. The 
+managers employ a long-biased, concentrated portfolio strategy, relying on a rigorous and 
+fundamentally driven value investing approach. The firm’s objective is to focus capital in select 
+opportunities that boast the best risk-reward tradeoff, and then achieve a knowledge “edge”. 
+Focusing efforts on fewer and more meaningful investment opportunities has a profound and 
+positive impact on security selection. Limiting a portfolio to the best ideas, results in a very high 
+research threshold. The portfolio managers each have over 15 years of experience in value investing, 
+with specialization in restructurings and reorganizations, and other special situations. 
+ 
+SumZero is the world’s largest community of investment fund professionals. SumZero’s members-
+only website is designed to help fund pros identify and connect with other professional investors in a 
+compliant environment, share proprietary data and research, and identify career opportunities within 
+their industry. SumZero’s membership currently includes thousands of the world’s largest and most 
+prominent hedge funds, mutual funds, and private equity funds. Founded in 2008, SumZero is built 
+on the belief that investing is not a zero-sum game. 
+ 
+Gary Brode is a SumZero contributor.

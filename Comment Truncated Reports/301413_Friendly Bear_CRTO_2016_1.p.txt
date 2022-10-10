@@ -1,0 +1,1768 @@
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 1/50
+
+
+Short Ideas  |  Tech   |  Editors' Picks  |  France
+
+
+'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And
+Adware As Criteo Settles 'Click Fraud' Litigation
+Nov. 30, 2016 11:00 AM ET13 comments
+by: The Friendly Bear
+
+
+Summary
+
+
+We analyzed metacode relating to Criteo and found massive red flags including
+Criteo’s undisclosed relationship with a notorious adware company and Criteo’s ads
+on numerous shady websites with suspicious traffic.
+
+
+We join a chorus of skeptics, including vocal Criteo critic and Harvard Business
+School Professor Benjamin Edelman, who have publicly questioned the veracity of
+Criteo’s “return on ad spend" metrics.
+
+
+Our analysis raises real questions about Criteo's metrics – i.e., placing ad on a
+shady website that derives traffic from porn, inconceivable margin profile, nefarious
+adware injections, etc.
+
+
+Criteo’s decision to settle with Steelhouse (represented by Latham & Watkins) prior
+to discovery is particularly worrisome because Criteo initiated the action and our
+analysis appears to corroborate Steelhouse’s claims.
+
+
+We believe advertisers are potentially wasting vast sums of money on Criteo and
+could pull back spend with limited sales impact, potentially invalidating Criteo's entire
+business model, or 'raison d'être'.
+
+
+In the early 2000s, a group of enterprising masters of the universe implemented
+complicated and opaque trading strategies in order to make a market for electricity in
+California. This group dazzled Wall Street investors with financial wizardry and sky­high
+returns on capital, somehow able to print money out of thin air by adeptly navigating the
+complicated world of electricity trading in never before seen ways.
+
+
+The company saw its market capitalization swell to as much as $70 billion as investors
+flocked to take part in what felt like an energy trading revolution. The entire time, the
+group's trading strategies remained a black box, impenetrable from the outside and
+impossible to understand. And in our experience, when black box "trading strategies"
+seem too good to be true, they always are.
+
+
+
+https://seekingalpha.com/stock-ideas/short-ideas
+
+https://seekingalpha.com/stock-ideas/technology
+
+https://seekingalpha.com/stock-ideas/editors-picks
+
+https://seekingalpha.com/market-outlook/global-investing/analysis/France
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 2/50
+
+
+The scheme, of course, was Enron. And according to the New York Times, a key piece of
+Enron's many wrongdoings was that it deceived California into buying power it did not
+need. The company's trading "strategies" were able to exploit weaknesses in California's
+energy markets through multiple avenues, filling Enron's coffers, while leaving Californians
+with rolling brown outs and tax payer losses.
+
+
+In many ways, we see significant similarities between the ad tech industry today and the
+energy trading markets of the Enron­era. The ad tech industry has similarly dazzled Wall
+Street investors ­ just look at the number of ad tech companies that have gone public in
+the past few years. The IPO prospectuses have been filled with dizzying jargon and buzz
+words that leave investors with very little true understanding of underlying business
+models.
+
+
+Like Enron in the case of California power, the ad tech industry as a whole has tricked
+unsuspecting advertisers into buying ads they don't need ­ specifically, because the ad
+tech industry has "looked the other way" while fraudulent web traffic pads their bottom
+lines. At the end of the day, all traffic is good traffic for the ad tech industry, regardless of
+source.
+
+
+According to industry estimates, the revenue tied to fraud in the ad­tech industry is
+somewhere in the range of $7.2 billion to $18.5 billion. In fact, some industry watchers
+have argued that more than half of the ad tech space is just a big fat fraud ­ fake traffic
+being used to skim advertising dollars due to the opaque nature of the middlemen. It's not
+just industry associations that have called out the massive fraud in ad tech. In July 2016,
+Senators Mark Warner and Chuck Schumer wrote to the head of the FTC asking her office
+to look into digital advertising fraud.
+
+
+The World Federation of Advertisers projects that ad fraud is likely to exceed $50 billion
+globally by 2025 on current trends, second to only the illegal drug trade as a source of
+income for organized crime. The WSJ also recently highlighted advertiser doubts about
+digital ads after revelations from industry giants including Facebook (NASDAQ:FB)
+suggesting that viewership metrics have been materially overstated. Therefore, while
+consumers clearly continue to spend more time online and away from traditional media,
+internet advertising remains riddled with fraud.
+
+
+
+http://www.nytimes.com/2002/05/08/business/enron-s-many-strands-strategies-enron-got-california-buy-power-it-didn-t-need.html
+
+https://medium.com/@shailin_dhar/adtech-makes-the-most-money-from-ad-fraud-4bfb1635cca4
+
+https://www.scribd.com/document/317966702/FTC-Digital-Ad-Fraud
+
+https://searchenginewatch.com/2016/11/16/ad-fraud-mobile-advertising-accounts-for-nearly-half-of-digital-spend-but-it-comes-at-a-price/
+
+http://www.wsj.com/articles/doubts-about-digital-ads-rise-over-new-revelations-1474674323
+
+https://seekingalpha.com/symbol/FB
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 3/50
+
+
+Enter Criteo (NASDAQ: CRTO). Criteo is a bit of an outlier when it comes to the ad tech
+space. The company operates within the opaque ad tech re­targeting space. When you
+visit a website ­ such as Toms.com ­ and then bounce to a different website ­ i.e.
+DrudgeReport.com ­ you will often find yourself inundated with ads for Toms that include a
+small AdChoice banner on the right hand side. These ads are often placed by Criteo.
+Criteo clients hope that by bombarding you with ads for products you have recently looked
+at, you will eventually come back to their website and purchase.
+
+
+Summary Of Thesis: Why We Think Criteo Is On The Verge Of A "Client Revolution"
+
+
+There have been several epic blow­ups in the ad tech space over the past few years.
+Rubicon Project, Rocket Fuel, Tremor Video, RetailMeNot, and Tube Mogul (which was
+taken out at a price well below its all­time high) are just some of the high profile disasters.
+
+
+Our analysis hinges around a few key third party data points, including recent litigation
+between Criteo and a competitor Steelhouse. Criteo was recently involved in a very public,
+bitter and ugly, lawsuit with Steelhouse. Criteo struck first, alleging its competitor was a
+thief, and the competitor (Steelhouse) struck back with a countersuit, alleging Criteo is
+running a click fraud scheme.
+
+
+Based on Criteo's stock price move, the market has clearly ignored the claims made in the
+litigation and has jumped for joy now that the litigation was recently settled.
+
+
+However, we think the market is getting this one totally wrong. We think Criteo's decision
+to settle its litigation with Steelhouse comes from a place of weakness, not strength.
+Steelhouse made a number of claims about Criteo, essentially alleging that a significant
+chunk of Criteo's clicks (and therefore revenues) are derived from fraudulent sources.
+
+
+
+https://seekingalpha.com/symbol/CRTO
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId11.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 4/50
+
+
+Despite having a strong case against Steelhouse in its original lawsuit, Criteo voluntarily
+settled its dispute with Steelhouse weeks ago in exchange for Steelhouse also dropping
+its countersuit. We think Criteo was terrified about the potential revelations that would
+come out about its business practices in the discovery phase of a potential trial.
+
+
+Many market participants / Criteo bulls share Criteo's view that Steelhouse is a bad actor
+and therefore were dismissive of the lawsuit.
+
+
+However, our own forensic analysis into Criteo suggests the market is potentially making a
+huge mistake by ignoring the claims that Steelhouse made against Criteo. We believe we
+have surfaced evidence (including Criteo's ties to a notorious adware company, and
+Criteo's advertising relationships with highly suspect websites) that appear to corroborate
+many of Steelhouse's claims. We provide just some of our evidence in this report.
+
+
+Up until now, Criteo shares have meaningfully outperformed ad tech peers. We share the
+view of an esteemed Harvard Business School professor who has suggested
+publicly that this outperformance is misguided and based on incorrect analysis. Our
+report includes information pertinent to advertisers evaluating the true effectiveness of
+Criteo's business because we also present evidence that undermines the quality of clicks
+Criteo is delivering to advertisers.
+
+
+While Criteo has touted its "return on advertising spend" metric, we demonstrate that such
+metrics are notoriously unreliable and subject to gamesmanship. Most notably, we surface
+evidence that we believe is not well known on Wall Street about how critics have already
+accused Criteo of manipulating ROAS data in the past through relationships with shady
+adware companies that remain a part of Criteo's business model that management and
+the sell side never discuss publicly.
+
+
+Don't take our word for it ­ Professor Benjamin Edelman of Harvard Business
+School (cited later in this article) has openly and publicly admonished Criteo for its
+business practices.
+
+
+We believe that as advertisers digest the information in this report and the Steelhouse
+lawsuit, Criteo could be forced to cut pricing and/or provide rebates in order to appease
+customers who have been overpaying for useless clicks for years. We see ~65%+
+downside in Criteo shares.
+
+
+"Success Based" Pay Per Click Model ­ The Supposed "Secret Sauce" Of Criteo:
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 5/50
+
+
+The key issue that differentiates Criteo is how it operates its algorithm. Criteo prides itself
+as being differentiated because it buys "traffic" on a CPM (cost per impressions) basis, but
+sells ad space on a CPC (cost per click) basis. For readers less familiar with what this
+means ­ let us explain in the graphic below.
+
+
+ILLUSTRATION OF UNIT ECONOMICS EARNED BY CRITEO (DO NOT TAKE THIS
+LITERALLY):
+
+
+Source: Friendly Bear graphics
+
+
+Let's use the example of Seeking Alpha. The Seeking Alpha example is PURELY
+ILLUSTRATIVE, and is NOT based on any conversation we had with Seeking Alpha ­
+we simply wanted to use a website as an example in the illustration of the business
+model for readers.
+
+
+Seeking Alpha has millions of visitors and wants to monetize those visitors, so it asks
+advertisers / ad tech companies that want to place ads on SeekingAlpha.com to pay $1
+per every impression on the website. Criteo, which is paid by advertising clients, offers to
+buy that space. Criteo would only do so if its algorithm believes that the traffic on
+Seeking Alpha's website is likely to translate into clicks because Criteo's "revenue"
+is ultimately dictated by click­through rate NOT by impressions (this is important).
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId12.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 6/50
+
+
+In other words, Criteo's algorithm is designed to only keep ads on a website if the click
+through rate is strong.
+
+
+(Update 12/2/2016 4:05 p.m.: A Criteo representative disputes this characterization:
+"Criteo’s algorithm is designed to purchase any display where the expected cost­of­sale of
+the associated e­commerce transaction is below the client’s target cost of sales. Criteo
+might thus choose to buy ads on a website where the click­through rate is relatively weak,
+but where such clicks have a higher­than­average conversion rate once they land on the
+e­commerce website. The actual bidding formula used by the Criteo engine contains,
+among other terms, the product of the predicted click­thru rate and the predicted
+conversion rate, ensuring that Criteo only buys traffic that converts into e­commerce
+sales.")
+
+
+If Criteo advertised on sites that didn't provide a strong click through rate, Criteo would
+effectively guarantee losses given that it has to pay for the impressions regardless of
+whether the impressions are generating any clicks. For instance, if Click Count = 0 but an
+ad is displayed, then Criteo's CPM is a positive number, meaning has paid the website
+(Seeking Alpha) but has earned zero revenue (no clicks), and thus, Criteo guarantees
+itself losses.
+
+
+Naturally then, Criteo will not leave ads on websites that generate no clicks. Keep
+this fact in mind as you continue to read this report. This fundamental principle ­
+that Criteo should ultimately only bid on websites that generate clicks ­ is crucial to
+your understanding of whether or not the allegations that Steelhouse made are true.
+
+
+Most of the players in the ad tech space are simply playing the CPM arbitrage game (i.e.
+buying at one CPM and trying to sell at a higher CPM). However, Criteo's value
+proposition to its clients is that it is providing a "performance" based system ­ by only
+charging customers for clicks. This helps Criteo differentiate itself in sales pitches as the
+company can claim to clients that it is getting paid for only clicks. However, our research
+as well as court filings both suggest that the quality and source of some of Criteo's
+clicks is highly suspect in nature.
+
+
+In other words, Criteo's entire business model is predicated on finding websites that
+generate heavy amounts of traffic but also have users that tend to click through at a high
+enough rate to offset Criteo's CPM costs (unsuspecting advertisers assume this equates
+to websites that are trafficked by humans who click on ads).
+
+
+Time To Toast Some Balls!
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 7/50
+
+
+When we first started researching Criteo, we came across an article that discussed an
+obscure website called "ToastedBalls.com." We had our fair share of ToastedBalls sent
+our way when doing our work on MeetMe, so were naturally cautious about opening the
+link.
+
+
+To our surprise, rather than re­directing us to a pornographic or otherwise smutty website,
+we found ourselves at a website about… absolutely nothing. Just a bunch of links to
+videos ripped from other websites. A totally junky garbage website.
+
+
+Similarweb.com provides web statistics on ToastedBalls.com that paints a pretty
+fascinating picture… a website that has no original content and looks like it was made up
+on the fly boasts between 25­60M+ unique visitors per month from May 2016 through Oct
+2016 (for context, this level of unique visits puts ToastedBalls.com in a similar league to
+the Wall Street Journal in terms of monthly unique visits):
+
+
+Source: SimilarWeb
+
+
+And these "ToastedBalls" visitors happen to largely end up on ToastedBalls.com
+after first visiting the following porn sites:
+
+
+
+https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web
+
+https://www.similarweb.com/website/toastedballs.com
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 8/50
+
+
+Source: SimilarWeb
+
+
+None of the porn websites referenced above were mentioned in a fairly recent Buzzfeed
+story about the top 13 porn sites on the web. While this point may seem obscure now,
+later sections of this report that touch on the role porn websites play in ad tech traffic
+laundering schemes. The fact that ToastedBalls.com derives so much traffic from relatively
+unknown porn sites is a major red flag. Genuine human interest in porn (which clearly
+exists) presumably finds itself on the most well trafficked sites first, leaving a significant
+risk that third tier porn websites such as "eporner.com" are in fact pieces of elaborate
+traffic laundering schemes.
+
+
+But this totally junky website ­ that appears to be largely frequented by "individuals"
+coming directly from porn websites (or bots given the vast number of views despite the
+low quality of the ToastedBalls content) ­ also just so happens to host a Criteo ad link in
+the top right corner of the page (we did a mouse over the link when we were in the
+process of taking screenshots, so you can see the Criteo link in the bottom left of our
+screen shot):
+
+
+
+https://www.similarweb.com/website/toastedballs.com
+
+https://www.buzzfeed.com/dreamstar/13-most-popular-porn-sites-vbf2
+
+http://www.behind-the-enemy-lines.com/2011/03/uncovering-advertising-fraud-scheme.html
+
+http://www.smartcompany.com.au/technology/online/19117-20110317-porn-sites-catch-big-us-companies-in-online-traffic-scam-as-google-targets-counterfeiters/
+
+http://www.bbc.com/news/technology-23030090
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId16.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 9/50
+
+
+Some readers may be wondering why we make such a big deal out of Criteo's ad
+appearing on ToastedBalls.com.
+
+
+We think the appearance of a Criteo ad on ToastedBalls.com may potentially be a crucial
+evidence regarding how Criteo's business model works and that ties back to a recently
+settled legal battle between Criteo and a competitor named Steelhouse.
+
+
+To return to our original Enron analogy ­ we believe that the appearance of Criteo
+ads on ToastedBalls.com suggests that advertisers are buying ads that they may
+not need!
+
+
+Before we explain why we think a Criteo's ad showing up on ToastedBalls.com is potential
+evidence of the type of 'click fraud' Steelhouse alleged, we first want to provide a little
+more color on the Criteo/Steelhouse litigation.
+
+
+The Litigation that Exposed the Rampant Fraud in the Ad Tech Industry:
+
+
+Back in July 2016, Criteo found itself in a rather ugly legal dispute with Steelhouse, a
+much smaller private competitor. You can find a timeline of events here. The litigation was
+fairly well covered in the press ­ we suggest turning to Business Insider for both copies of
+the lawsuit as well as commentary.
+
+
+Despite being well covered in the press, we think the market has completely dropped the
+ball when it comes to the implications for Criteo coming out of the (now settled) litigation.
+
+
+
+http://www.businessinsider.com/criteo-versus-steelhouse-2016-9
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId24.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 10/50
+
+
+Criteo initially sued Steelhouse, alleging that Steelhouse had improperly gamed the "click
+attribution" system, effectively a system that ad tech companies (including Google) use in
+order to be given "credit" for generating ad traffic. Criteo claimed that Steelhouse used a
+ploy to take so­called "last click attribution" credit for clicks on ads that should have
+actually been credited to Criteo.
+
+
+Steelhouse then fired back with a countersuit, claiming among other things that:
+
+
+~25% of Criteo's 2016 projected revenues are based on fraudulent clicks
+Over 50% of Criteo's clicks (as measured by Steelhouse) had no original source (6x
+greater than industry average), suggesting potential "bot" traffic
+3.6% of Criteo's "user's" generate 25% of its clicks
+Criteo is engaging in "click cluster generation" even after the customer has purchased
+a product
+44.9% of Criteo clicks come from "clusters" ­ 13x the industry standard
+SteelHouse found 1 IP address that clicked on a Criteo ad 20,647 across 96 of all 99
+advertisers queried
+Criteo's general click rates were simply too good to be true
+
+
+Steelhouse went as far as referring to Criteo as "the true fraudster in the Ad Tech
+industry."
+
+
+The mere fact that a Criteo ad (and ONLY a Criteo ad) is appearing on
+ToastedBalls.com should give any shareholder in the company real pause for
+concern as we show below that this fact strongly corroborates some of the claims
+that Steelhouse lobbed in against Criteo regarding "traffic laundering."
+
+
+The Steelhouse filing against Criteo reads like a short report ­ full of hard hitting
+allegations and charts and tables (that we will go into more detail on later in this article)
+that essentially allege that Criteo is engaged either knowingly or unknowingly in a massive
+click fraud scheme that results in its clients paying for advertising they do not need. It is
+worth remembering that Steelhouse's aggressive filing against Criteo came only
+after Criteo, the initial aggressor in this legal situation, essentially accused
+Steelhouse of being a thief (or a "Stealhouse" as referenced in the litigation!).
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 11/50
+
+
+Source: Business Insider
+
+
+It is not every day that a company comes out publicly and essentially calls its
+competitor a fraud. Competitors will quibble over who has the better quality product
+or the better customer service approach. But to outright call a competitor a fraud is
+a VERY serious allegation that should not be ignored by investors.
+
+
+Case in point… Allergan (NYSE:AGN) and Valeant (VRX).
+
+
+
+http://www.businessinsider.com/criteo-versus-steelhouse-2016-9
+
+https://seekingalpha.com/symbol/AGN
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId26.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 12/50
+
+
+In May 2014, Allergan issued a scathing presentation that painted Valeant's business
+model in a highly unflattering light ­ and went into great detail regarding Valeant's business
+model, showing various charts and tables that suggested Valeant's business model was
+not all that it was cracked up to be at the time. While Valeant's stock continued to soar for
+a period of time following Allergan's initial presentation, we all know what eventually
+happened to Valeant. The stock is down almost 90% since Allergan put out its
+presentation on Valeant.
+
+
+We therefore think investors would be well served to take Steelhouse's legal claims
+very seriously.
+
+
+For some reason, investors appear to have forgotten about this litigation all together,
+particularly after Criteo and Steelhouse settled their disputes and CRTO's stock was back
+off to the races:
+
+
+
+http://www.allergan.com/miscellaneous-pages/allergan-pdf-files/investor-presentation-may-27-2014
+
+http://www.businessinsider.com/criteo-vs-steelhouse-case-dropped-2016-11
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId28.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId31.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 13/50
+
+
+We think investors have learned nothing from the events of the Allergan/Valeant debacle.
+Again, it is not every day that a company calls out and refers to its competitor as a
+fraudster. While investors now appear excited about the settlement of the
+Criteo/Steelhouse case, we actually think Criteo's decision to settle the case is a
+HUGE red flag.
+
+
+To recap, Criteo was the initial aggressor and filed suit against Steelhouse. Criteo then
+went as far as requesting sworn declarations from five of its customers to help strengthen
+its case against Steelhouse on the matter of last click attribution theft. If Criteo was afraid
+of the PR implications of getting involved in litigation with Steelhouse, it would likely not
+have requested sworn declarations from its customers alleging to strengthen its case, as
+this maneuver clearly drew attention from customers to its legal dispute with Steelhouse.
+Based on our reading of the litigation, we also think that Criteo genuinely believed it had a
+very strong case for theft of last click attribution against Steelhouse (particularly given the
+sworn declarations of shared customers).
+
+
+Therefore, we are left to believe that a major reason Criteo suddenly, mysteriously,
+and voluntarily backed out of the litigation is potentially because Criteo was
+uncomfortable with going forward with the discovery phase of the Steelhouse
+countersuit. Did Criteo not want customers and investors finding out ugly aspects
+about its business?
+
+
+Until today, to our knowledge Criteo fielded almost no questions on public calls that went
+into the detail of the accusations Steelhouse lobbed against Criteo (citing a desire to not
+discuss ongoing litigation).
+
+
+Given that Criteo has had ample opportunity to address Steelhouse's claims over the, we
+did not reach out to Criteo for comment regarding Steelhouse's claims. Instead, we
+point readers to Criteo's legal filings in response to Steelhouse that attempted to
+dismiss Steelhouse's claims, that can be found in Case 2:16­cv­04207­SVW­MRW
+Document 40 Filed 10/04/16 and Case 2:16­cv­04207­SVW­MRW Document 44 Filed
+10/24/16.
+
+
+The Steelhouse litigation makes our analysis of the ToastedBalls.com Criteo ad all the
+more crucial.
+
+
+The existence of a Criteo ad on ToastedBalls.com causes us to seriously question what is
+going on with Criteo's algorithm and what types of revelations could have potentially
+surfaced over the course of a prolonged legal discovery process with Steelhouse.
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 14/50
+
+
+Using the Ghostery browser plug­in, you can easily find out what advertising trackers are
+associated with a website. As one can see below, Criteo stands out in the list of ad
+tracking companies tied to ToastedBalls.com.
+
+
+Source: Toastedballs.com & Ghostery plug­in
+
+
+So why does this even matter?
+
+
+As outlined in the Kalkis research piece, the relationship between Criteo and
+ToastedBalls.com is described in the following way:
+
+
+Source: Kalkis­Research.com
+
+
+So why, we ask, would a Criteo ad ever end up on this website that is so obviously
+suspect in nature from a traffic perspective, and potentially riddled with fraudulent /
+"laundered" traffic derived from porn websites?
+
+
+First of all, Criteo's algorithm is not in the business of signing up to lose money. As
+described previously, Criteo should only place an ad on a website where the clicks
+are sufficient enough to offset the CPM costs of placing a banner ad on the website.
+
+
+So somehow, in some way, ToastedBalls.com is a hot bed for clicks. Despite the fact that
+the website that has some sort of ties to obscure porn websites and traffic that suggests
+"bot views."
+
+
+Kalkis first wrote its article in June 2016. We have visited ToastedBalls.com's website for
+over a week straight now and have consistently been served a Criteo ad in the top right of
+the window.
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId32.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId33.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 15/50
+
+
+This leads us to question Criteo's algorithm. The algorithm has to be written in a way to
+maximize margins and has somehow been "convinced" into keeping an ad up on
+ToastedBalls.com. The only way this could happen is if ToastedBalls.com is somehow
+generating robust amounts of clicks for Criteo (the Criteo ad link has been on
+Toastedballs.com live since June 2016, so it is clear we did not just catch
+ToastedBalls.com at an opportune time and that Criteo is well ingrained in the site's ad
+framework).
+
+
+While we are speculating, we ultimately highly doubt that ToastedBalls.com ­ a clearly very
+highly suspect website ­ is receiving many actual human being clicks.
+
+
+So where does this leave us?
+
+
+For Criteo's algorithm to be willing to place ads on ToastedBalls' website, we
+believe that Criteo is potentially monetizing highly suspect clicks. A website that is
+largely a "tier 2 porn" redirect website is unlikely to be generating the volume of
+human clicks that one would envision are necessary to justify trying to pull off a
+CPC/CPM arb spread trade.
+
+
+If Criteo were like other ad tech companies and charged on a per impression (CPM) basis,
+then ads showing up on ToastedBalls.com would only be a modest red flag. We are pretty
+sure advertisers would prefer their content not show up on some joke of a website such as
+ToastedBalls.com. But, in a CPM world, ads showing up on Toastedballs.com would be
+akin to ads showing up on MeetMe ­ honest mistakes as algorithms are running simple
+screens based on demographic data.
+
+
+However, given that Criteo charges on a per click basis, the fact that Criteo's
+algorithm has deemed ToastedBalls.com as economically lucrative enough to
+justify laying out an ad STRONGLY suggests that ToastedBalls.com has found a
+way to "generate" enough clicks out of Criteo ads to get Criteo's algorithm excited
+to view ToastedBalls.com as a credible website for the purposes of publication.
+
+
+If we (and others) were able to dig up Toastedballs in short order, what does this
+say about what other publishers are hiding under the hood?
+
+
+We decided to take Toastedballs and run with it. So we did an exhaustive search of
+internet metacode that included entries for the term "Criteo." Our search returned
+hundreds of thousands of results. As of publication, we were still working through the
+dense record set. While there were some benign websites that came up in our work ­ such
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 16/50
+
+
+as Zerohedge.com and Drudgereport.com ­ we also quickly found numerous instances of
+other suspicious and shady websites such as Toastedballs.com. We summarize just
+some of the websites that came up in our research to date below:
+
+
+Source: Friendly Bear color ­ websites were found through metacode record searches
+
+
+We prepared a set of slides (that include evidence of Criteo's ads on the sites) available
+below:
+
+
+1 /10
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId34.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 17/50
+
+
+We also found direct evidence of Criteo's ads being involved in elaborate click fraud
+schemes. We encourage readers to read through this article from Sentrant, a company
+focused on detecting and mitigating online advertising fraud, regarding an elaborate click
+fraud scheme that Sentrant alleges resulted in 154 million fake ad impressions a day.
+Sentrant goes into great detail regarding a bot scheme referred to as the Bedep Ad­Fraud
+Botnet. Sentrant also shows how this click fraud scheme took advantage of ads run by
+Criteo.
+
+
+This confirms both our hypothesis as well as allegations from Steelhouse that Criteo's
+business model is plagued with click fraud issues. Given its pay per click business model,
+this should give any investor concern about whether Criteo is truly on top of the charges it
+is assessing its customers.
+
+
+Source: Sentrant
+
+
+So do the highly suspicious websites ­ like the ones identified in the Sentrant analysis
+above that took advantage of Criteo ads ­ result in material amounts of clicks for Criteo? If
+so, what is Criteo doing to combat these click fraud schemes? And how much faith can
+investors and Criteo clients really put in the metrics reported by Criteo?
+
+
+Would any advertiser actually want to pay for clicks on an ad placed on websites such as
+ToastedBalls.com and Dumpaday.com?
+
+
+
+https://sentrant.com/2015/05/20/bedep-ad-fraud-botnet-analysis-exposing-the-mechanics-behind-153-6m-defrauded-ad-impressions-a-day/
+
+https://sentrant.com/2015/05/20/bedep-ad-fraud-botnet-analysis-exposing-the-mechanics-behind-153-6m-defrauded-ad-impressions-a-day/
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 18/50
+
+
+What About Criteo's Purported Return on Ad Spend? Shouldn't that Give Us
+Comfort that Click Fraud Is Not a Big Deal?
+
+
+Some readers are likely to argue that "fraud is part of the business" in ad tech. When we
+spoke to a tech executive who regularly uses ad tech companies and asked about fraud in
+the industry, he laughed and said "Of COURSE there's fraud." (Hmm…note to self…an
+industry that is "riddled with fraud" seems like a great place to park capital, right?)
+
+
+However, Criteo seemingly works its way around claims of impression fraud by pointing to
+its unique "click" driven business model that should ­ theoretically ­ subject it to
+less risk of fraud. It is easier for "bots" to create fake impressions than fake clicks.
+However, we showed in both the Sentrant and ToastedBalls case studies that there is
+clearly a very high likelihood that websites have managed to find a way to get traffic to
+create fake clicks as well. As an aside, we find it hilarious that people actually "click" as a
+free­lance job.
+
+
+Ad tech companies such as Criteo are obviously heavily incented to "look the other way"
+when possible instances of fraud do emerge. Why? Because all traffic is ultimately good
+traffic for an ad tech company as it is traffic that turns into revenues. While one would
+hope that ad tech companies are behaving ethically and cutting off traffic to potentially
+fraudulent sources, the "bad guys" are always getting smarter about how to game ad tech
+algorithms. And ad tech companies have a natural disincentive to "police" fraudulent traffic
+in the short term ­ as it would result in a hit to revenues. This makes policing ad tech fraud
+particularly challenging for public companies such as Criteo that face the quarterly
+Wall Street gauntlet.
+
+
+So what do advertisers do to keep ad tech companies honest? They try to measure the
+effectiveness of ad spend and use that as a tool for marketing / determining pricing.
+
+
+Criteo touts its "return on ad spend" aka ROAS as the holy grail of all metrics, used in
+competitive bake off situations to win and retain clients. The actual calculation of this
+ROAS is opaque itself, with Criteo providing little color to investors on how it arrives at
+ROAS figures.
+
+
+But what happens if Criteo's "return on ad spend" metric itself cannot be trusted?
+
+
+We point readers to this crucial presentation (actual audio available) from Professor
+Benjamin Edelman of Harvard Business School that explains how Criteo has used
+unethical and unscrupulous adware injections in order to artificially inflate its return on
+ad spend metric.
+
+
+
+https://www.freelancer.com/job-search/need-fake-click-generator-send-unique-hits-website/1/?t=a&utm_expid=294858-481.OsTN-nNcRC-1EU1JM0yS-Q.1&utm_referrer=https://www.google.com/
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 19/50
+
+
+If you either own Criteo shares or are a client of Criteo and have not yet seen this
+video (recorded in April 2015) ­ do yourself a favor and watch right now (starts at
+24­minute mark):
+
+
+Source: Original video can be found here ­ Criteo section begins at 24­minute mark
+
+
+We took the time to transcribe key lines out of Professor Edelman's presentation and
+provide them below:
+
+
+
+http://www.benedelman.org/presentations/ukinvestorshow-apr15.pdf
+
+http://www.shareprophets.com/views/11709/explosive-ben-edelman-uk-investor-show-video-he-nails-blinkx-again
+
+http://www.shareprophets.com/views/11709/explosive-ben-edelman-uk-investor-show-video-he-nails-blinkx-again
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId42.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId44.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 20/50
+
+
+Source: Transcription of Professor Edelman's speech (TFB Transcription Services)
+
+
+We did NOT contact Criteo with respect to Benjamin Edelman's claims that were lobbed in
+against the company back in early 2015. However, we conducted a Google search and
+transcript search on Criteo to determine if the company had ever responded to these
+claims and found no such evidence. Edelman himself does suggest Criteo has spoken
+with him about the issues in the presentation ­ which again, we think you need to watch if
+you have any position in Criteo shares.
+
+
+We think it is worth pointing out again in bold face font ­ an esteemed professor at
+Harvard Business School outright claimed that Criteo is involved in nefarious
+business practices that 'swindle' and 'shake down' advertisers.
+
+
+Professor Edelman's claims provide support to allegations made in the Criteo v.
+Steelhouse countersuit:
+
+
+Source: Criteo v. Steelhouse (countersuit filing)
+
+
+Our own deep forensic analysis of Criteo not only confirms that Criteo has direct ties with
+adware companies ­ but also appear to support the notion that Criteo's dealings with
+adware companies persist through the present (Professor Edelman's presentation
+was made in April 2015).
+
+
+In our metacode records analysis, we came across Criteo's involvement with a company
+called Montiera. Numerous malware tracking websites confirms that Montiera is quite
+notorious in computer protection circles as it is seen as a nuisance adware toolbar
+enabler:
+
+
+
+http://www.hbs.edu/faculty/Pages/profile.aspx?facId=417579
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId46.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 21/50
+
+
+Source: Spyware.com
+
+
+A simple Google search for Montiera also confirms its ties to adware (amazingly, a Google
+search for Montiera does not even return the corporate website in the top search results,
+instead returning results that point to Montiera being a notorious adware company):
+
+
+
+http://www.2-spyware.com/remove-montiera-toolbar.html
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId47.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 22/50
+
+
+Source: Google
+
+
+Given Professor Edelman's claims that he could easily find "50 examples" of Criteo
+improperly using adware injections to wrongly take credit for sales, you will not be
+surprised to discover that Montiera proudly touts Criteo as the first on a short list of third
+party partners that work with Montiera:
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId49.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 23/50
+
+
+Source: Montiera Website
+
+
+It is important to note that this is Montiera's representation of its relationship with Criteo.
+Criteo does not disclose its partnership with Montiera in its SEC filings and we did a
+transcript search for the terms "adware" and "Montiera" and found no mentions in Criteo
+transcripts. We question whether advertisers are aware of Criteo's reliance on a company
+that is known to power numerous suspicious adware toolbars.
+
+
+In light of the claims put forward by Professor Edelman, Criteo's apparent
+relationship with Montiera leaves us highly suspicious about any claims made by
+Criteo regarding the accuracy of its "Return on Ad Spend."
+
+
+And if you still trust Criteo to get attribution calculations "right" ­ then perhaps this recent
+news release from Facebook will make you rethink your belief:
+
+
+
+http://montiera.com/thirdParty.htm
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 24/50
+
+
+Source: StreetAccount
+
+
+If Facebook ­ the second most powerful digital advertising business in the world ­
+can't get attribution and measurement metrics right ­ then HOW can any advertiser
+trust numbers coming out of much smaller companies such as Criteo that has
+partnerships with adware companies, runs ads on suspect websites such as
+ToastedBalls.com, and gets into legal spats with competitors that are 1/10th its
+size?
+
+
+Perhaps this is why the Wall Street Journal recently suggested that rebates are on the
+way across the ad tech space:
+
+
+Source: WSJ (link provided in earlier section of document)
+
+
+We believe that Criteo is ultimately going to have a mea culpa moment that will be far
+more damning than Facebook's and will require the company to return huge sums of
+money associated with invalid clicks. Google already has a program to return revenues
+from invalid clicks ­
+
+
+
+https://support.google.com/adwords/answer/42995?hl=en
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId52.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId53.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 25/50
+
+
+Source: Google Support
+
+
+Simply put ­ we think that the Criteo/Steelhouse litigation opened Pandora's box in terms
+of advertisers (and hopefully investors) beginning to ask questions about what is actually
+going on inside the Criteo blackbox. In turn, we expect that savvy and sophisticated ad
+buyers will begin to demand rebates. Particularly when they find out that their ad
+dollars are being wasted on websites such as ToastedBalls.com and that Return on
+Ad Spends are allegedly being gamed through complicated adware schemes.
+
+
+While our report has focused on ads from desktop sites, we believe that all of the issues
+that we have identified in this report impact the mobile side of Criteo's business as well.
+Many of the ads we pulled are also available in mobile browsers (i.e. many of the ads we
+found will show up on both your PC as well as through Safari on an iPhone).
+
+
+Furthermore, sophisticated scammers have already figured out numerous ways to game
+ads that are served on mobile devices. Scammers go where the money is, and the money
+is moving to mobile. Therefore, all of the issues we have raised thus far in this report (in
+our view) apply equally to both desktop and mobile viewership with respect to ads served
+on websites.
+
+
+The main exception to this claim comes through ads served through mobile apps (i.e.
+banner ads at the bottom of the MyFitnessPal app). Given the need to actually drive an
+app install in order to game these types of ads, they are harder (but not impossible) to
+defraud. We take comfort in our view that a very small piece of Criteo's business is driven
+through in­app ads.
+
+
+
+http://www.adweek.com/news/technology/here-everything-you-need-know-about-current-state-mobile-ad-fraud-168542
+
+https://searchenginewatch.com/2016/11/16/ad-fraud-mobile-advertising-accounts-for-nearly-half-of-digital-spend-but-it-comes-at-a-price/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId55.jpg
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 26/50
+
+
+The company recently suggested that in­app ads are growing at a rate of >300% per year
+(3Q16 earnings call) which is ~10x higher than the company's overall growth rate. In other
+words ­ in­app ads ­ the kind that are less impacted by the issues we raise in this report ­
+are growing off a very small base, and likely remain immaterial as a percentage of Criteo's
+overall business.
+
+
+Toastedballs, Montiera adware, and suspect ROAS are only some obvious red flags that
+should give any Criteo shareholder heartache.
+
+
+We see many other grave problems with Criteo that appear to be somehow overlooked by
+the market.
+
+
+Other Red Flags That Lead Us To Believe Criteo's Blackbox Should Terrify Investors
+
+
+#1 ­ Surprise History ­ How Can A Business With Presumably Low Visibility Always
+Crush Revenues?
+
+
+It is always a real treat to see a company that never misses on revenues. Usually we see
+companies that never miss earnings as exhibiting signs of possible accounting fraud
+because earnings can easily be "massaged" through accrual games etc. It is far less
+common to see a company ­ particularly one in the volatile advertising space ­ that has
+such incredible visibility into its revenues…yet Criteo has done so quarter after quarter:
+
+
+Source: Bloomberg
+
+
+We think Criteo's revenue history should cause any naturally skeptical person to start
+asking questions about what is going on…
+
+
+#2 ­ When Every Other Ad Tech Company Has Blown Up ­ How Has Criteo Magically
+Bucked The Trend?
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId59.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 27/50
+
+
+… The backdrop for other ad tech companies has been downright ugly ­ yet Criteo has
+somehow magically been able to buck the trend. This should cause any naturally
+skeptically investor to ask serious questions about how Criteo was able to generate the
+stable revenue trajectory relative to consensus described above…
+
+
+Source: Bloomberg
+
+
+#3 ­ With 57% Of Its Business Allegedly "Mobile" Today, And That Figure Growing
+Rapidly, Why Did Criteo File An Ugly And Expensive Lawsuit That Was Essentially
+All About Desktop Last Click Attribution?
+
+
+This claim requires a bit of education but is arguably the most significant red flag we saw
+when researching Criteo.
+
+
+Criteo's mobile business is allegedly 57% today according to management. On earnings
+calls, the company claimed that mobile was >47% of the business in 4Q15, >50% in
+1Q16, >50% in 2Q16, and now is 57% as of 3Q16.
+
+
+It is also well understood today that mobile is the future ­ in fact all digital growth is now
+coming from mobile usage according to studies.
+
+
+Criteo's mobile business ­ if you believe management's claims ­ are growing at an
+incredible clip that is far in excess of desktop. And over time, this trend is likely to continue
+given the explosive growth in mobile is clearly coming at the cost of desktop share ­ just
+see the table below:
+
+
+
+https://www.internetretailer.com/2016/11/02/mobile-ads-account-57-criteos-revenue-q3
+
+http://marketingland.com/digital-growth-now-coming-mobile-usage-comscore-171505
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId60.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 28/50
+
+
+Source: Marketingland.com
+
+
+So take a step back and noodle on this point. The original lawsuit that Criteo filed against
+Steelhouse all related back to "utm" codes being slapped onto URLs. For readers less
+familiar with the ad tech space, "utm codes" are a VERY desktop­centric methodology for
+last click attribution. This is because the utm code methodology works quite well when it
+comes to desktop clicks. The declaration from Criteo's Vice President of Analytics (can be
+accessed in Case 2:16­cv­04207­SVW­MRW as Document 14­7 filed on 7/1/2016,
+"Declaration of Jaysen Gillespie") goes into great detail about how utm codes work ­ so
+we will let readers do their own homework on this point.
+
+
+However, when it comes to mobile attribution ­ utm codes are far less effective. Context is
+lost when ads are placed inside apps ­ making it harder for app based advertisers to
+determine source of attribution. The blog excerpt below provides some color with respect
+to tracking data issues that go along with app based ads. The blog also provides some
+detail on the solutions to attribution puzzle in mobile that involves a newer version of
+attribution called "deep linking."
+
+
+
+http://marketingland.com/digital-growth-now-coming-mobile-usage-comscore-171505
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId63.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 29/50
+
+
+Source: Attribution App Blog
+
+
+We also spoke to a very senior level former executive in the mobile gaming space ­
+experts in app based attribution given their insatiable desire to drive higher installs ­ and
+they told us that mobile attribution remains the Wild West where no one is quite sure of
+where clicks really came from.
+
+
+Based on the litigation, it is apparent that Criteo's main beef with Steelhouse was around
+utm codes relating to desktop last click attribution. Furthermore, Steelhouse is a fraction of
+the size of Criteo ­ having done around $130 million of revenue on a run rate basis in
+2015. This compares to Criteo that is on track to do $1.6 billion of gross revenues (before
+traffic acquisition costs) this year.
+
+
+So why sue a competitor that is a fraction of your size (1/10th based on our estimates)
+over a spat relating to desktop last click attribution when your mobile business is a)
+growing much faster, and b) clearly should be turning into the focal point of your business
+given secular market dynamics?
+
+
+Why subject your company to public scrutiny and enter into costly and expensive litigation
+against a competitor over something that on FACE VALUE appears to be such a
+nonevent? An alleged desktop last click attribution scheme hatched by a tiny competitor?
+
+
+We think investors ought to be asking this question of Criteo. We think the mere decision
+of Criteo to enter into an ugly and messy spat with Steelhouse over what appears to
+purely be last click attribution issues in desktop suggests to us that Criteo's mobile
+business may not be all that Criteo claims it is cracked up to be, poking a major
+
+
+
+http://blog.attributionapp.com/lets-solve-ios-attribution-methods/
+
+http://steelhouse.com/blog/steelhouse-news/steelhouse-triples-revenue-in-2015-making-it-the-fastest-growing-company-in-advertising/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId65.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 30/50
+
+
+hole in the bull case on Criteo. And Criteo really did appear "in it to win it" ­ even going
+as far as taking the unusual step of asking clients to provide declarations in support of
+Criteo's position ­ effectively drawing more attention to the ugly legal spat.
+
+
+Ultimately, we think Criteo's decision to enter into aggressive litigation with
+Steelhouse in the first place suggests that the company remains far more
+economically reliant on desktop than it lets on. Suing a competitor 1/10th the size
+(and getting clients involved in the spat) over a business segment that is not of
+significant importance to your company would be a very unusual move.
+
+
+#4 ­ How Has Criteo's Shift Into Mobile Resulted In No Margin Pressure?
+
+
+Conversion factors in mobile are far lower than in desktop ­ with smartphones having less
+than 1/3rd the conversion rate of desktop, and tablets having ~3/4th the conversion rate.
+
+
+Source: SmartInsights
+
+
+
+http://www.businessinsider.com/former-steelhouse-clients-sign-declarations-in-criteo-lawsuit-2016-8
+
+http://www.smartinsights.com/ecommerce/ecommerce-analytics/ecommerce-conversion-rates/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId69.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 31/50
+
+
+From a practical perspective, this means that in order to generate the same amount of
+clicks on a mobile device, you need to buy far more impressions (people are simply
+clicking ads far less frequently on mobile versus desktop).
+
+
+We also believe that mobile CPMs are actually higher than desktop CPMs, removing the
+possibility that higher volume buys could be offset by lower price points.
+
+
+One would therefore naturally assume that in the near­term, Criteo's margins should have
+come down as Criteo has been forced to go out and buy more impressions ­ increasing
+the "CPM" side of its two­sided margin equation, in order to keep the CPC side intact.
+
+
+However, instead of net revenue margins going down, they have actually shot up despite
+Criteo's alleged massive growth in mobile since 4Q15:
+
+
+Source: Friendly Bear analysis of CRTO SEC filings and transcripts
+
+
+This makes no sense to us.
+
+
+However, Criteo's odd and illogical progression in net revenue margins is not the only
+metric that leaves us puzzled…
+
+
+#5 ­ After Guiding The Market To Expect Header Bidding To Be A Near­Term
+Headwind, How Did Criteo Magically Overcome The Headwind IMMEDIATELY?
+
+
+Header bidding is a bit of a complicated topic. Historically, publishers have taken a sort of
+waterfall approach to the auction process of bidding for advertising inventory, meaning
+that certain demand side platforms get first dibs at the inventory. The larger and more
+prominent demand side platforms (i.e. the Criteos of the world) were given opportunity to
+bid first for inventory, giving them a distinct advantage ­ they could clear out available
+CPM inventory before smaller competitors stepped in.
+
+
+Under the new world of header bidding, this VIP status for larger ad tech companies has
+effectively been done away with, making the overall system more egalitarian ­ at the cost
+of larger companies such as Criteo and Rubicon Project. This article provides some color
+on what has been happening with header bidding.
+
+
+
+http://marketingland.com/mobile-cpms-now-higher-and-growing-faster-than-desktop-study-146348
+
+https://adexchanger.com/platforms/great-header-bidding-shake-begun/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId72.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 32/50
+
+
+Source: AdExchanger.com
+
+
+In its analyst day in September 2016, Criteo even highlighted the issues with header
+bidding and called out the expectation that its margins would erode in the near to medium
+term as a result of the new header bidding rules:
+
+
+Source: Criteo September 2016 Investor Day Packet
+
+
+Keep in mind that header bidding implementation changes have been taking place for the
+last several months ­ so should have been seen in Criteo's numbers by now.
+
+
+
+https://adexchanger.com/platforms/great-header-bidding-shake-begun/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId74.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId76.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 33/50
+
+
+Instead, magically, Criteo was able to show a 4% constant currency DECREASE in its
+CPMs (its cost for acquiring traffic):
+
+
+Source: Bloomberg transcript of 3Q16 Criteo Earnings Call
+
+
+Now we are left with two puzzling dynamics. First, Criteo has been blowing out its mobile
+growth ­ yet net revenue margins have done nothing but increase despite the conversion
+dynamic described in the prior section. Second, Criteo itself told us to expect an
+INCREASE in traffic cost as a result of the header bidding "challenge"…yet the company
+reported a 4% decrease in traffic cost on a constant currency basis in the most recent
+quarter.
+
+
+So something smells fishy to us.
+
+
+#6 ­ For A Supposedly Disruptive Technology Company, Why Is R&D Spend So
+Low?
+
+
+If CRTO really is a cutting edge technology company, then why is its R&D spend so low
+when compared to its comp set? Low R&D spend relative to peers is often a glaring sign
+of problems to come. The earlier analogy we used ­ Valeant ­ will remind readers that
+when companies with "trust management" and "blackbox" approaches to business have
+low R&D, it is wise to take notice and remain very skeptical.
+
+
+Source: Bloomberg
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId77.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId78.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 34/50
+
+
+#7 Why Are Criteo's Alleged Click­Through Rates So Much Higher Than Much Better
+Funded And More Sophisticated Competitors?
+
+
+According to Steelhouse in its litigation, Criteo's click­through rates look too good to be
+true… and we agree:
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId79.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 35/50
+
+
+Source: Criteo v. Steelhouse (Steelhouse countersuit)
+
+
+In light of us finding a Criteo ad ­ and only a Criteo ad ­ on ToastedBalls.com, we have to
+wonder how this allegedly "rocket fueled" click rate at Criteo is being generated.
+
+
+#8 ­ Why Is Criteo Apparently The Only Company That Is Using A "Cost Per Click"
+Methodology When Every Other Player Has Moved Away?
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId80.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 36/50
+
+
+Source: See table for individual sources
+
+
+#9 ­ Why Are Criteo's Margins Literally Double That Of Its "Transparent" Peer 'The
+Trade Desk' (TTD)?
+
+
+The Trade Desk recently went public and prides itself on being a "clear box, not black
+box":
+
+
+
+https://seekingalpha.com/symbol/TTD
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId81.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 37/50
+
+
+Source: TTD prospectus
+
+
+Perhaps not surprisingly, TTD's "clear box" results in 50% lower margins than Criteo's
+"black box":
+
+
+Source: Friendly Bear analysis of TTD and CRTO SEC filings
+
+
+Simply put ­ we have no good explanation for why Criteo is literally twice as profitable (on
+a net revenue basis ­ i.e. just factoring in traffic expense) when compared to The Trade
+Desk.
+
+
+The fact that Criteo is the only player in the industry we have found using a "CPC" model
+and is somehow able to put up spectacular margins that are 2x higher than a very closely
+linked peer in The Trading Desk should cause any reasonable investor to question what is
+going on with Criteo, particularly in light of the allegations from Steelhouse.
+
+
+#10 ­ Despite Criteo's Obvious Fear Of Adblockers (Evidenced By The Company
+Paying To Get On A Whitelist), Why Has The Company's Top Line Continued
+Surging Without A Hiccup?
+
+
+Business Insider reported that Criteo paid to be part of Adblock Plus's "Acceptable Ads
+Initiative" so that some ­ not all ­ Criteo ads would be whitelisted from adblockers.
+
+
+This clearly suggests that Criteo is concerned about the future of adblocking ­ as it should
+be:
+
+
+
+http://www.businessinsider.com/criteo-pays-adblock-plus-to-appear-on-its-acceptable-ads-whitelist-2015-12
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId82.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId83.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 38/50
+
+
+Source: eMarketer.com
+
+
+Of course, with ad blocking penetration set to reach almost 1/3rd of internet users next
+year ­ and the safe assumption that 100% of clients with "ad blocking" technology are in
+fact human and not "robot" in nature ­ we wonder ­ is Criteo either a) about to hit a wall in
+terms of growth, or b) going to have to soon provide massive rebates to its customers who
+have believed they are paying for human clicks when evidence continues to mount that
+the actual proportion of human clicks may be far lower than one thinks.
+
+
+#11 ­ How Many Instances Are There Of Criteo Serving Ads That Should Never Have
+Been Served In The First Place?
+
+
+In a presentation from Professor Benjamin Edelman of Harvard, he shows an example of
+a Zappos ad being served to a customer already on Zappos.com. This should obviously
+never happen. How forthcoming and honest has Criteo been with its clients in terms of
+these types of obviously objectionable situations?
+
+
+
+https://www.emarketer.com/Article/US-Ad-Blocking-Jump-by-Double-Digits-This-Year/1014111
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 39/50
+
+
+Source: Benjamin Edelman Presentation
+
+
+In our research, we also came across an instance of Criteo serving a "re­targeting" styled
+ad to us for a website we have never visited!
+
+
+
+http://www.benedelman.org/presentations/ukinvestorshow-apr15.pdf
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId87.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 40/50
+
+
+Source: Ad from Zerohedge.com pulled on an Android
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 41/50
+
+
+The ad itself establishes that there was no reason cited for why we got served a re­
+targeting ad from lovelywholesale.com. We hypothesize that Criteo served this ad to us
+based on our general browsing behavior. Which is a major red flag from an advertiser
+perspective as it suggests Criteo may be serving ads based on data collected from
+OTHER advertisers (otherwise why serve this ad at all?). Would other advertisers ­
+potentially competitors of lovelywholesale.com ­ be comfortable with competitor ads being
+served based on our browsing behavior? We doubt it.
+
+
+#12 ­ Why Did Two Chief Product Officers (One Who Was Also The Co­Founder)
+Both Resign In The Past Year?
+
+
+Source: Bloomberg
+
+
+Source: Criteo 8­K for 3Q earnings
+
+
+Mr. Niccoli resigned in October but had only been Chief Product Officer for a few months.
+This is because the Chief Product Officer who came before Niccoli resigned in April 2016:
+
+
+Source: LinkedIn
+
+
+This is also probably a good time to note that after years of insiders not selling stock, the
+mass dumping began around late 2015, and since then, insiders have never looked back
+in their quest to get out of the stock:
+
+
+
+https://www.linkedin.com/in/jonathanwolf
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId91.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId92.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 42/50
+
+
+Source: Bloomberg
+
+
+#13 ­ How Is Criteo Going To Handle The Fundamental Headwinds Facing Its
+Business?
+
+
+Our analysis suggests that Criteo's average revenue per client has been going the wrong
+way for several quarters in a row. We believe that this is a sign of either a) mix shift away
+from high quality customers into lower quality and smaller customers, or b) existing clients
+are reducing spending with Criteo.
+
+
+Source: Criteo SEC filings and Friendly Bear estimates
+
+
+As we have already outlined in detail in this report, we believe Criteo's business model
+remains highly economically levered to desktop clicks ­ a relative secular share loser
+relative to mobile today. This alone is a huge headwind to Criteo's growth going forward.
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId94.png
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId95.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 43/50
+
+
+Source: Digiday
+
+
+Second, Criteo's mobile business leaves us asking more questions than having any real
+view given how much data we have surfaced that calls into question the real strength of
+that business.
+
+
+And Criteo has essentially no meaningful video ad capabilities today in our view.
+
+
+Furthermore, our conversations with industry experts suggest that many advertisers are
+bringing their ad tech budget back in­house, and transacting directly with publishers. The
+chart below from an industry rag helps explain the upside from bringing an ad budget in­
+house:
+
+
+
+http://digiday.com/publishers/mobile-overtaking-desktops-around-world-5-charts/
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId96.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 44/50
+
+
+Source: Nanigans
+
+
+Furthermore, Criteo is notoriously weak in video. This is despite the fact that video is
+widely expected to be the future of digital advertising going forward.
+
+
+Source: eMarketer.com
+
+
+Adobe (NASDAQ:ADBE) recently purchased Tube Mogul (a video ad tech specialist),
+speaking to the interest in the space.
+
+
+
+http://www.nanigans.com/wp-content/uploads/2014/06/Nanigans-Benefits-In-House-Digital-Advertising-Infographic.pdf
+
+https://adexchanger.com/digital-tv/is-sundaysky-the-criteo-of-video/
+
+https://www.emarketer.com/Article/Mobile-Spearheads-Digital-Video-Advertisings-Growth/1013611
+
+https://seekingalpha.com/symbol/ADBE
+
+http://news.adobe.com/press-release/corporate/adobe-acquire-tubemogul
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId98.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 45/50
+
+
+And Mark Zuckerberg recently highlighted the significance of video for Facebook going
+forward on his earnings call:
+
+
+Source: Bloomberg transcript for Facebook 3Q16 call
+
+
+Valuation
+
+
+Criteo is a difficult company to value. One could argue that a business with no long­term
+contracts and accusations of massive click fraud should not be valued on the assumption
+of any terminal value.
+
+
+The market broadly has agreed with our view that genuine terminal value should not be
+ascribed to these ad tech arbitrage schemes. RUBI and FUEL both trade at pathetic
+valuations, and even Tube Mogul, that had strategic value to Adobe due to its video
+capabilities, was sold for a relatively paltry sum in the grand scheme of things.
+
+
+The way we approach valuation is to take Steelhouse's litigation claims ­ that never had
+the chance to be heard in court ­ and assume they are true. Our own analysis into
+ToastedBalls.com suggests that there is clearly merit to some of the claims Steelhouse
+made, and the forensic analysis included in Steelhouse's litigation holds weight with us.
+
+
+First, on the comps, we pulled RUBI, FUEL, and TUBE as the most relevant comps.
+Below we show TUBE's valuation including the M&A deal:
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId104.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 46/50
+
+
+Source: Bloomberg and Friendly Bear analysis
+
+
+Next, we take Steelhouse's case at face value and assume that ~50% of Criteo's clicks
+are in fact fraudulent, and that the company is going to get pressure from clients to return
+revenue dollars tied to fraudulent clicks in the upcoming year as pressure mounts for
+greater ad tech transparency:
+
+
+Source: Bloomberg and Friendly Bear analysis
+
+
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId105.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 47/50
+
+
+We use a 0.64x revenue multiple ­ the median of the 3 best comps. We think this is a
+generous valuation because we believe the TUBE comp is a poor proxy for Criteo's
+valuation due to TUBE having strategic value in its video capabilities. Professor Benjamin
+Edelman also directly compared Rocket Fuel to Criteo, suggesting they are in fact very
+similar business models that could warrant similar valuations. On our math, we see ~67%
+downside in Criteo shares.
+
+
+Source: Professor Benjamin Edelman presentation
+
+
+Conclusion:
+
+
+Take notice when competitors get into public spats about topics pertaining to fraud.
+Lawyers do not take tossing out such accusations lightly. And both law firms
+involved in the Criteo/Steelhouse spat were of top notch caliber.
+
+
+Take notice when a company that claims to have a success­based click model is placing
+ads on a suspect porn redirection website that we have a hard time believing sees many if
+any genuine human clicks.
+
+
+Take notice when a company in the online advertising space is freely willing to associate
+with suspect adware manufacturers. Take notice when a Professor at Harvard Business
+School has outright accused a company of being involved in nefarious billing activities.
+
+
+
+http://www.shareprophets.com/views/11709/explosive-ben-edelman-uk-investor-show-video-he-nails-blinkx-again
+
+https://static.seekingalpha.com/uploads/2016/11/38059736_14803542191444_rId107.png
+7/6/2019 'Shakedown': Advertisers 'Swindled' By Porn Traffic, Bots, And Adware As Criteo Settles 'Click Fraud' Litigation - Criteo S.A. (NASDAQ:CRTO) | Seek…
+
+
+https://seekingalpha.com/article/4027176-shakedown-advertisers-swindled-porn-traffic-bots-adware-criteo-settles-click-fraud-litigation 48/50
+
+
+Take notice when a company's margin profile makes no sense and does not even follow
+the path that management guides towards ­ particularly when the business that
+management runs is a blackbox that no one truly understands.
+
+
+We think Criteo does not deserve a genuine terminal value multiple and is a very
+dangerous stock position. The company has no long­term contracts so advertisers
+can pull dollars with a moment's notice. We ultimately believe that longs who own the
+stock are playing a waiting game. Sure, Criteo may continue to put up a few more
+"awesome" quarters ­ but we think those awesome results are coming at the cost of
+advertisers who may not (yet) fully understand the lack of value we believe Criteo is
+providing to its customers.
+
+
+Over time, we believe that Criteo's customers will discover that they are buying ads
+they do not need from Criteo, just as Californians discovered in 2002 that they were
+buying power they did not need from Enron.
+
+
+Disclosure: I am/we are short CRTO. I wrote this article myself, and it expresses my own opinions. I am not receiving
+compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is
+mentioned in this article.
+
+
+Additional disclosure: I am/we are short CRTO. All information for this article was derived from publicly available
+information. Investors are encouraged to conduct their own due diligence into these factors. Additional disclosure: This
+article represents the opinion of the author as of the date of this article. The information set forth in this article does not
+constitute a recommendation to buy or sell any security. This article contains certain "forward­looking statements," which
+may be identified by the use of such words as "believe," "expect," "anticipate," "should," "planned," "estimated,"
+"potential," "outlook," "forecast," "plan" and other similar terms. All are subject to various factors, any or all of which
+could cause actual events to differ materially from projected events. This article is based upon information reasonably
+available to the author and obtained from sources the author believes to be reliable; however, such information and
+sources cannot be guaranteed as to their accuracy or completeness. The author makes no representation as to the
+accuracy or completeness of the information set forth in this article and undertakes no duty to update its contents. The
+author may also cover his/her short position at any point in time without providing notice. The author encourages all
+readers to do their own due diligence.
+
+
+Editor's Note: This article covers one or more microcap stocks. Please be aware of the
+risks associated with these stocks.
+
+

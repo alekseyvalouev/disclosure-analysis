@@ -1,0 +1,295 @@
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 1/18
+
+
+Oncothyreon: Analyzing Trial Data and Concluding Likely Success
+Jul. 29, 2011 5:39 AM ET50 comments
+by: Alpha Exposure
+
+
+Oncothyreon (ONTY) is a controversial stock. There has been a great deal of debate
+regarding the likely outcome of the Phase III START trial for the cancer vaccine Stimuvax.
+While a number of items are in serious dispute, there is one conclusion on which both the
+bulls and bears can agree: the median overall survival for the entire trial population at the
+time of the first interim look was approximately 33 months.
+
+
+Based on this point of agreement, this article will explore the likely outcome of the START
+trial by examining the record of past trials in this patient population and the implications of
+these trials on START’s null hypothesis, which is that there is no statistical difference in
+overall survival between the control and treatment arms of the trial. By so doing, we will
+show that the evidence overwhelmingly favors rejecting the null hypothesis and that the
+START trial is likely to be successful.
+
+
+The START trial is randomized 2:1 between the treatment arm and the control arm. It is
+designed to determine with 90% power whether or not Stimuvax (the treatment) results in
+a 6-month or greater improvement in median overall survival relative to the control arm.
+With the aggregate population currently estimated to show a 33-month median overall
+survival, a 6-month improvement can be seen if the control population is living 29-months
+or less while the treatment population lives 35-months or more. Mathematically, this would
+be represented as (1/3) * 29 + (2/3) * 35 = 33. With this in mind, we can examine the
+probability that the control population is living at least 29 months.
+
+
+Before examining any scientific literature, it is important to understand the enrollment
+criteria and timing for the START trial so that we can be sure to compare trials on a like
+basis. The most important enrollment criteria for the START trial are:
+
+
+(1) stage IIIa or stage IIIb unresectable NSCLC
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 2/18
+
+
+(2) stable disease or better after completion of chemoradiation
+
+
+(3) ECOG score of 0 or 1
+
+
+(4) no plural effusions
+
+
+(5) patients can have either concurrent or sequential chemoradiation before trial
+enrollment
+
+
+While there are a myriad of inclusion and exclusion criteria, the five listed above are the
+most important for determining comparable trials. A full list of the criteria can be seen
+here.
+
+
+In addition to understanding the enrollment criteria, it is also important to know the timing
+for the START trial. Randomization into the START trial occurs between four and twelve
+weeks after the conclusion of chemoradiation (i.e. one to three months after
+chemoradiation). This means that patients in the START trial will have been getting treated
+for NSCLC for roughly four months by the time they are randomized into the trial: about
+two months of waiting after about two months of chemoradiation (the total chemoradiation
+time will depend on whether it is sequential or concurrent). Because there is a four-month
+delay between patients starting chemoradiation and being randomized in the START trial,
+we estimate that roughly 25% of all stage IIIa and IIIb patients who begin chemoradiation
+would ultimately be ineligible for the START trial.
+
+
+Now that we understand what needs to be believed for the null hypothesis (29-months of
+survival), who gets enrolled in the START trial, and when they are enrolled, we can
+examine the eight Phase III and Phase II trials that we believe are most similar to the
+START trial and what their implied equivalent lifespan is to the START trial. From most
+recent to oldest, these trials are:
+
+
+1) The Lu Trial: Lu was a phase III trial published in 2010. It enrolled Stage IIIa and Stage
+IIIb patients with an ECOG of 0-1. Malignant plural effusions were excluded though
+cytologically negative plural effusions were allowed. Median overall survival in the control
+arm was 15.6 months and the treatment arm was 14.4 months for about 15 months across
+the entire population. Median survival was measured from randomization, which took
+place before initial chemoradiation. This was a first-line trial so we need to adjust for the
+roughly 25% of patients that would be ineligible for START and dropped prior to START
+randomization and the four month delay that would be seen in the randomization date for
+START relative to the Lu randomization date. We also need to adjust because the method
+
+
+
+http://clinicaltrials.gov/ct2/show/NCT00409188?term=stimuvax&rank=6
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 3/18
+
+
+of staging may not have required imaging and because of the presence of cytologically
+negative plural effusions. In aggregate, we would expect this to equate to an 18 month
+overall survival in the START population.
+
+
+2) The Bastos Trial: Bastos was a Phase II trial published in 2010. It enrolled Stage IIIa
+and stage IIIb patients with an ECOG of 0-1. Both malignant pleural and pericardial
+effusions were excluded. Median overall survival was 14.8 months. Median survival was
+measured from randomization, which took place before initial chemoradiation. This was a
+first-line trial so we need to adjust for the roughly 25% of patients that would be ineligible
+for START and dropped prior to START randomization and the four month delay that
+would be seen in the randomization date for START relative to the Bastos randomization
+date. Staging was done with CT or PET scans, so no other adjustments need to be made.
+In aggregate, we would expect this to equate to a 15 month overall survival in the START
+population.
+
+
+3) The Movsas Trial: Movsas was a Phase II trial published in 2010. It enrolled Stage IIIa
+and stage IIIb patients with an ECOG of 0-1. Both malignant pleural and pericardial
+effusions were excluded. Median overall survival in the control was 16.1 months from the
+point of randomization. Randomization in this trial took place after chemoradiation and all
+patients were staged with advanced imaging (CT, MRI, or bone scan), so no additional
+adjustments need to be made. Note that enrollment took place before chemoradation and
+that 78% of the patients enrolled were fit to be randomized (i.e. met ECOG score of 0-1
+and restaging in week 10 showed no evidence of recurrence or progression). This is
+consistent with our prior 75% estimate. In aggregate, we would expect this to equate to a
+16 month overall survival in the START population.
+
+
+4) The Bradley Trial: Bradley was a Phase II trial published in 2010. It enrolled
+unresectable NSCLC patients with stage I-IIIb but it stratified the group, so we can
+analyze just the IIIa and IIIb population. Patients had a Zubrod PS of 0-1 (like an ECOG 0-
+1) and were staged with advanced imaging (CT, MRI, or Bone Scan). Supraclavicular
+lymph node metastasis, pleural or pericardial effusions were all excluded so the patients
+were a bit healthier than in START. Median overall survival in the Phase IIIa and Phase
+IIIb subset was 21.6 months. Median survival was measured from randomization, which
+took place before initial chemoradiation. This was a first-line trial so we need to adjust for
+the roughly 25% of patients that would be ineligible for START and dropped prior to
+START randomization and the four month delay that would be seen in the randomization
+date for START relative to the Bradley randomization date. We also need to adjust
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 4/18
+
+
+because of the stricter exclusion of patients with supraclavicular lymph node metastasis.
+In aggregate, we would expect this to equate to a 21 month overall survival in the START
+population.
+
+
+5) The Garrido Trial: Garrido was a Phase II trial published in 2009. It enrolled Stage IIIa
+and stage IIIb patients with an ECOG of 0-1. The two separate treatment arms had
+median overall survivals of 13.1 and 14.7 months. All plural effusions were excluded and
+patients were staged with CT or bone scans. Median survival was measured from
+randomization, which took place before initial chemoradiation. This was a first-line trial so
+we need to adjust for the roughly 25% of patients that would be ineligible for START and
+dropped prior to START randomization and the four month delay that would be seen in the
+randomization date for START relative to the Garrido randomization date. In aggregate,
+we would expect this to equate to a 14 month overall survival in the START population.
+
+
+6) The Kelly Trial: Kelly was a phase III trial published in 2008. It enrolled Stage IIIa and
+stage IIIb patients with an ECOG of 0-1. Patients were staged with a CT scan and both
+pleural and pericardial effusions were excluded. The control arm had a median overall
+survival of 35 months and this trial is therefore the most frequently cited trial by bears on
+ONTY as to why we might expect the control arm to live in excess of 29 months. We
+covered this trial in detail in our original post, which can be found here. In short, the Kelly
+trial went through two separate prequalification chemoradiation stages whereas the
+START trial is only going through one stage of chemoradiation. As a result, the Kelly trial
+eliminated the 57% of the total patient population, whereas we expect START to eliminate
+only about 25%. This is backed up because the first round of chemoradiation in the Kelly
+trial only eliminated 25% of the participants. Normalizing the Kelly trial to the START trial
+results in an expected median overall survival in the comparable population of about 22
+months.
+
+
+7) The Hanna Trial: Hanna was a phase III trial published in 2008. It enrolled Stage IIIa
+and stage IIIb patients with an ECOG of 0-1. Patients were staged with a PET or CT scan
+and both malignant pleural and pericardial effusions were excluded. There were 203
+patients initially enrolled of which 147 were randomized. The 72% randomization factor is
+equivalent to the 75% we assume for the START trial. The control arm, which was part of
+the 72% that were randomized, had a median overall survival of 23.2 months from the
+time of enrollment in the trial. Normalizing for the difference between the enrollment time
+in the Hanna trial relative to the enrollment time for the START trial equates to a 20 month
+overall survival in the START population.
+
+
+
+https://seekingalpha.com/article/280439-oncothyreon-possible-pharma-blockbuster
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 5/18
+
+
+8) The Nyman Trial: Nyman was a phase II trial published in 2008. It enrolled Stage IIIa
+and stage IIIb patients with a PS of 0-1. The method of patient staging and the treatment
+of pleural effusions were unclear. Median overall survival in the trial was 17.8 months.
+Median survival was measured from randomization, which took place before initial
+chemoradiation. This was a first-line trial so we need to adjust for the roughly 25% of
+patients that would be ineligible for START and dropped prior to START randomization
+and the four month delay that would be seen in the randomization date for START relative
+to the Nyman randomization date. We also need to adjust for the unclear treatment of
+pleural effusions and the possibility of staging mistakes. In aggregate, we would expect
+this to equate to a 20 month overall survival in the START population.
+
+
+We chose these eight trials as the most representative of the patient population being
+treated in the START trial. While some of the trials require extensive adjustments to make
+them apples-to-apples, such as Kelly, others are nearly identical, such as Movsas.
+Importantly, none of the trials gave us any reason to expect a median survival that even
+approaches 29-months.
+
+
+In contrast to our diligent approach of looking for trials that are comparable to the START
+trial, we believe that Oncothyreon’s vocal short seller Martin Shkreli has chosen trials that
+are not representative of the START population. In addition to the Kelly trial, he chose the
+following three trials:
+
+
+1) The Franca Trial: Franca was not a trial. It was a review of patient medical charts
+focused on resected NSCLC patients whereas the START trial focuses on unresectable
+NSCLC. Resected means that a surgeon has gone in and cut out the cancer whereas
+unresectable patients cannot be operated on. As a result, reseted patients have always
+had and will always have a much higher median overall survival.
+
+
+2) The Gadgeel Trial: Gadgeel was a phase II trial in 2011. It enrolled Stage IIIa and
+stage IIIb patients with a PS of 0-1. Patients were staged with PET or CT scans and
+malignant pleural effusions were excluded. It did not have a control arm but it did have a
+treatment arm that showed 34-months of overall survival. The treatment arm received
+Cisplatin and Alimta (pemetrexed) concurrently during initial chemoradiation. Docetaxel
+was given once initial chemoradiation was complete. This is different from START in two
+respects: (1) the use of Alimta is not allowed at any time during the START trial (though it
+may be used once a patient progresses and is removed from the trial) and (2) the use of
+Docetaxel is not allowed at any time during the START trial (though it may be used once a
+patient progresses and is removed from the trial). This was a first-line trial so we need to
+adjust for the roughly 25% of patients that would be ineligible for START and dropped prior
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 6/18
+
+
+to START randomization and the four month delay that would be seen in the
+randomization date for START relative to the Gadgeel randomization date. We are not
+sure how to normalize this to the overall survival in the START population.
+
+
+3) The Chang Trial: Chang was a phase II trial in 2010. It enrolled Stage IIIa and stage
+IIIb patients with a Karnofsky scores of 70-100. Patients were staged with PET or CT
+scans and malignant pleural effusions were excluded. It did not have a control arm but it
+did have a treatment arm that showed 29.4 months of overall survival. The treatment arm
+received concurrent chemoradiation and the radiation therapy used proton beam therapy.
+This is different from START in two respects: (1) START patients may have either
+concurrent or sequential chemoradiation (concurrent has a roughly 3-month benefit to
+overall survival) and (2) START patients do not have proton beam therapy (there are only
+3 sites in the US that give this to lung cancer patients). This was a first-line trial so we
+need to adjust for the roughly 25% of patients that would be ineligible for START and
+dropped prior to START randomization and the four month delay that would be seen in the
+randomization date for START relative to the Chang randomization date. In aggregate,
+adjusting only for the use of concurrent chemoradiation, we would expect this to equate to
+a 28 month overall survival in the START population.
+
+
+In total, this article has reviewed eleven recent papers. Of the eleven papers, ten
+concerned trials and one concerned a chart review in a patient population largely
+irrelevant to the START trial. In the ten relevant trials, only two suggested that it was at all
+likely for the control group in the START trial to live in excess of 29-months. One of these
+two trials, Kelly, had a far different design than START. Normalizing for the design
+differences between the trials suggests that the Kelly population would have about 22
+months of median overall survival when placed on a like basis with the START population.
+That leaves only one trial that showed a median overall survival of greater than 29
+months, the Gadgeel trial. Gadgeel was a very small trial (28 patients), had no control
+arm, and the treatment arm received multiple treatments that are not available to START
+patients. Nonetheless, Gadgeel shows us that it is possible that the control group is living
+in excess of 29-months.
+
+
+The trials that I have reviewed strongly suggest that the control group is living somewhere
+on the order of 20-months, which is in-line with the expectations of Merck KGaA when
+they designed the START trial. There is still an explanation that the bears will cling to: new
+drugs such as Alimta, Tarceva, and Avastin are extending lifespans. There are, however,
+problems with this contention:
+5/18/2018 Oncothyreon: Analyzing Trial Data and Concluding Likely Success - Cascadian Therapeutics, Inc (NYSE:CASC) | Seeking Alpha
+
+
+https://seekingalpha.com/article/283006-oncothyreon-analyzing-trial-data-and-concluding-likely-success 7/18
+
+

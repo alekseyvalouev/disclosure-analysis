@@ -1,0 +1,683 @@
+We are short shares of CareDx, a $1.7bn diagnostics company whose share price has 
+increased by 30x over just the last two years and now trades at over 18x sales. The meteoric 
+rise and generous valuation have come in the wake of excitement over the commercialization of 
+AlloSure, a blood test intended to identify organ rejection in kidney transplant recipients. 
+Transplant nephrologists have long used measures of kidney function to assess the probability 
+of rejection, with a tissue biopsy providing a definitive diagnosis. To hear CareDx tell it, AlloSure 
+is the long sought-after silver bullet for rejection diagnosis, with the potential to “revolutionize the 
+treatment of kidney transplant patients.” It can help physicians “detect rejection of a donated 
+organ earlier and more accurately” than traditional blood-based measures of kidney function 
+and “reduce the use of invasive biopsies.” [emphasis added] 
+
+
+But alas, as hard as CareDx has tried to finesse the numbers into telling a good story, it’s 
+difficult to escape the simple fact that AlloSure is mostly useless, and potentially dangerous if 
+used improperly. It should be obvious that a diagnostic test for transplant rejection that misses 
+about 40% of rejections compared to the current standard of care has little place in clinical 
+practice. But the stars have fortuitously aligned for CareDx: under the financial cover of broad 
+(but provisional) Medicare coverage, the company has enlisted dozens of influential transplant 
+researchers in the country’s largest clinics to conduct numerous large-scale studies evaluating 
+AlloSure. The hope is to conclusively proclaim its status as a diagnostic panacea. 
+
+
+The data coming out of those studies, though, is exceptionally poor, even as AlloSure revenues 
+are overwhelmingly comprised of utilization in those studies. That leaves CareDx in a precarious 
+position, particularly as physicians wise up to the futility of AlloSure. We calculate that CareDx 
+has faced a quarterly attrition rate on AlloSure’s surveillance patient population of 20-30%. 
+That’s staggering for a diagnostic test with a captive patient population, particularly one that’s 
+paid for almost entirely by Medicare. It’s perhaps less surprising when viewed in the context of 
+the continuous trickle of papers and data revealing AlloSure’s futility in identifying the most 
+common types of kidney rejection.  
+
+
+That data will present an even bigger obstacle for CareDx when Medicare reconsiders its 
+coverage parameters, which are conditional on the results of a large clinical trial under way. It’s 
+already clear, in our view, that AlloSure won’t be able to serve as a diagnostic tool in the way it 
+was originally envisioned, which would jeopardize Medicare coverage. It’s therefore 
+unsurprising to see that, in an attempt to stay relevant, recent AlloSure research sponsored by 
+CareDx has been pivoting hard, aiming to prove AlloSure’s worth in a subset of the overall 
+kidney transplant market. The problem, as we shall see, is that the subset being targeted is a 
+fraction of the $2 billion that CareDx has declared its addressable market.  
+
+
+To make matters worse, several competing rejection diagnostic tests are slated to hit the market 
+in the next few months, fresh off their own provisional Medicare coverage approvals. Some 
+have similar mechanisms of action as AlloSure but promise to be more accurate and potentially 
+cheaper. Others have novel mechanisms based on genomic markers and are backed by 
+impressive clinical evidence. They will now get the chance to vie for their own place in clinical 
+studies, and we expect them to hasten the unraveling of AlloSure that’s already under way. 
+CareDx, reliant on a single ineffective test, will soon confront its own terminal diagnosis. 
+
+
+    
+July 2019 
+
+
+CareDx, Inc. (CDNA) 
+Pivotal Kidney Transplant Test Headed for Rejection 
+
+
+
+
+
+Disclaimer: As of the publication date of this report, Kerrisdale Capital Management, LLC and its affiliates 
+(collectively, “Kerrisdale”), have short positions in and own option interests on the stock of CareDX, Inc. 
+(the “Company”). Kerrisdale stands to realize gains in the event that the price of the stock decreases. 
+Following publication, Kerrisdale may transact in the securities of the Company. All expressions of opinion 
+are subject to change without notice, and Kerrisdale does not undertake to update this report or any 
+information herein. Please read our full legal disclaimer at the end of this report.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 2 
+
+
+
+
+
+
+
+
+Table of Contents 
+I. INVESTMENT HIGHLIGHTS .......................................................................................................... 3 
+
+
+II. COMPANY OVERVIEW ..................................................................................................................... 8 
+
+
+III. CLINICAL DATA SHOW THAT ALLOSURE IS INSENSITIVE IN DISCRIMINATING 
+KIDNEY REJECTION, WITH AN UNACCEPTABLE MISS RATE ............................................ 12 
+
+
+AlloSure is fundamentally incapable of identifying the most common type of kidney rejection ...................... 14 
+Recent clinical literature paints a uniformly negative picture of AlloSure’s clinical utility ................................. 16 
+
+
+IV. ALLOSURE REVENUES OVERWHELMINGLY COME FROM PROTOCOL USAGE IN 
+CLINICAL TESTING, WHICH IS SUFFERING 20-30% QUARTERLY ATTRITION .............. 20 
+
+
+V. ALLOSURE IS VULNERABLE TO BOTH INCREASING COMPETITION AND MEDICARE 
+RISK ..................................................................................................................................................... 23 
+
+
+AlloSure faces significant competition in the near term and almost certain obsolescence over time .............. 23 
+The TAM for AlloSure is a fraction of CareDX’s claims and Medicare coverage will be scaled back 
+accordingly .................................................................................................................................................................... 25 
+
+
+VI. VALUATION AND CONCLUSION ................................................................................................. 27 
+
+
+FULL LEGAL DISCLAIMER ...................................................................................................................... 28
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 3 
+
+
+
+
+
+I. Investment Highlights 
+ 
+AlloSure is ineffective in identifying kidney rejection. The gold standard of kidney rejection 
+diagnosis for transplant recipients is a biopsy. Kidney transplant recipients are subject to 
+ongoing monitoring post-transplant, during which they undergo routine screening to assess 
+kidney function.  Abnormal serum creatinine or, less frequently, high urine protein levels are 
+typically the first sign(s) of decreased kidney function. If they lead to suspicion of rejection, a 
+biopsy is performed and examined in order to determine whether the kidney is suffering from 
+rejection. 
+ 
+But creatinine is an admittedly flawed marker: 
+• False Positive Rate. Creatinine levels are an indicator of kidney function, and rejection is 
+
+
+just one of several reasons they may be elevated. As a marker of kidney rejection, the false 
+positive rate is high, as only about a third of biopsies that are performed due to elevated 
+creatinine are diagnosed as rejection.  
+
+
+• False Negative Rate. Rejection can occur with no short-term loss of kidney function, and 
+creatinine measurements are incapable of picking up rejection in such cases. This 
+phenomenon, called “subclinical” rejection, is estimated to occur in 15-35% of transplant 
+recipients that have normal creatinine measurements. 
+
+
+ 
+The field of nephrology has long pursued a noninvasive biomarker of kidney rejection that would 
+a) eliminate the false positive problem, thereby reducing unnecessary biopsies and b) detect 
+subclinical kidney rejection. AlloSure – the diagnostic test responsible for most of CareDx’s 
+market capitalization – is the first attempt (but certainly not the last) to commercialize such a 
+biomarker. In CareDx’s telling, AlloSure provides “precise, actionable results” and is “more 
+accurate than serum creatinine in diagnosis of active rejection.” It also provides a “sensitive, 
+accurate, and precise measure of organ health.” We believe that the underlying message – that 
+AlloSure is a precise method that can be used to establish the presence or absence of kidney 
+rejection – couldn’t be further from the truth. 
+ 
+Every single clinical paper and study of AlloSure leads, in our view, to one inescapable 
+conclusion: AlloSure is an utter failure as a comprehensive biomarker of rejection. In fact, 
+based on the flagship paper1 used by CareDx to demonstrate the test’s clinical utility, doctors 
+using AlloSure to rule out rejection, as per the company’s marketing materials, would miss 
+about 40% of rejection episodes that would otherwise be detected using the current standard of 
+care. In the course of our diligence we found that in some clinics doctors have begun using 
+AlloSure to diagnose rejection, and we believe this puts a significant number of kidney 
+transplant recipients at unnecessary risk. Abnormal creatinine levels may overdiagnose 
+
+
+                                                 
+1 Bloom RD., Bromberg JS, Poggio ED, et al. Cell-Free DNA and Active Rejection in Kidney Allografts. J Am Soc 
+Nephrol 2017; 28:2221 
+
+
+
+http://www.allosure.com/
+
+http://www.allosure.com/wp-content/uploads/2018/04/LK-10403-AlloSure-Core-Sales-Aid-Brochure_Rev3_SPREAD.pdf
+
+https://jasn.asnjournals.org/content/28/7/2221
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 4 
+
+
+
+
+
+rejection (high false positive rate), but AlloSure presents the much more severe problem of 
+underdiagnosing rejection (high false negative rate).2 
+ 
+What about subclinical rejection, which goes undetected by creatinine measurement? In 
+CareDx’s DART clinical trial, only 3.9% of a reference cohort of patients who exhibited no signs 
+of impaired kidney function tested positive for kidney rejection using AlloSure.3 But studies 
+documenting the results of surveillance biopsies reveal that the subclinical rejection rate ranges 
+from 15-35%. In other words, AlloSure misses the overwhelming majority of subclinical 
+rejection episodes, and that’s ignoring the false positives in that 3.9% number.  
+ 
+More recent studies confirm the problems with AlloSure implicit in the DART trial and cast 
+further doubt on the accuracy of the test, strongly suggesting that AlloSure is structurally 
+incapable of identifying T-Cell-Mediated Rejection (TCMR), by far the most common type of 
+acute rejection. The consistent weakness of AlloSure across multiple studies is that, in statistical 
+parlance, its sensitivity – the probability that the test result will be positive given the occurrence 
+of rejection – is so low as to make the results unreliable at best, and dangerous if misused. 
+ 
+AlloSure’s commercial success is unsustainably built on collapsing clinical-study usage 
+and conditional Medicare coverage. If AlloSure is such a poor biomarker, how did it reach a 
+~$45 million annual revenue run rate in less than 18 months? As a Laboratory Developed Test 
+(LDT), the only barrier to commercialization was payor coverage, and over 90% of kidney 
+transplant procedures qualify for Medicare coverage, which includes all medical care for 3 years 
+post-transplant. So the only third party payor that really matters for AlloSure (for now) is 
+Medicare, which is fortunate because LDTs can obtain broad Medicare coverage just by 
+competently navigating the MolDX program.  
+ 
+MolDX, short for Molecular Diagnostic Services, is a program run by Palmetto GBA, a Medicare 
+Administrative Contractor (MAC) in the Southeast, and set up in 2011 in order to manage the 
+growing number of genetic and molecular diagnostic LDTs. Most of the MACs have outsourced 
+their LDT coverage decisions to MolDX, so the program is effectively a gateway to national 
+coverage and reimbursement for any LDT. To get a Local Coverage Determination (LCD) from 
+MolDX, a test must pass a technical assessment, which involves subject matter experts 
+determining whether it has demonstrated “analytical validity, clinical validity, and clinical utility.”  
+ 
+MolDX will normally grant an LCD even with limited evidence of clinical utility, conditional upon 
+further research that is expected to prove clinical utility. The LCD for AlloSure states that MolDX 
+“recognizes that the evidence of clinical utility for the use of AlloSure in its intended use 
+population is promising at the current time. However, this contractor believes that forthcoming 
+
+
+                                                 
+2 CareDx can technically claim that AlloSure is “more accurate” than serum creatinine measurement because it has a 
+lower rate of false positives. But accuracy is not the goal of rejection testing, rather, detecting rejection is. 
+3 Bromberg JS, Brennan DC, Poggio E, et al. Biological Variation of Donor-Derived Cell-Free DNA in Renal 
+Transplant Recipients: Clinical Implications. J Appl Lab Med 2017; 2:309 
+
+
+
+https://clinicaltrials.gov/ct2/show/record/NCT02424227
+
+https://www.fda.gov/medical-devices/vitro-diagnostics/laboratory-developed-tests
+
+https://www.palmettogba.com/palmetto/MolDX.nsf
+
+https://www.cms.gov/medicare-coverage-database/details/lcd-details.aspx?LCDId=37266
+
+http://jalm.aaccjnls.org/content/early/2017/04/04/jalm.2016.022731
+
+http://jalm.aaccjnls.org/content/early/2017/04/04/jalm.2016.022731
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 5 
+
+
+
+
+
+prospective clinical studies will demonstrate improved patient outcomes. Continued coverage 
+for AlloSure testing is dependent on annual review by this contractor of such data and 
+publications.” [emphasis added] For now, though, AlloSure is covered and reimbursable for any 
+kidney transplant recipient covered by Medicare. 
+ 
+That LCD went into effect on October 2, 2017, which partly explains the AlloSure revenue ramp 
+that started in the fourth quarter of 2017. But it’s also worth putting AlloSure into the more 
+general context of organ rejection research. The transplant community has always dreamed of a 
+noninvasive “silver bullet” to detect organ rejection, and the genomic revolution has brought with 
+it hope that such a test could be developed. AlloSure measures the quantity of donor-derived 
+cell-free DNA (dd-cfDNA) in the patient’s blood stream, and the hypothesis that cfDNA might 
+signal organ rejection was first advanced as far back as 1998. Research on the matter started 
+gaining momentum in 2011 and, since then, small studies of cfDNA as a rejection marker in 
+heart, lung, and kidney transplants showed promise but were inconclusive. Even the March 
+2017 flagship paper that arose out of CareDx’s DART study was small (102 patients, only 27 of 
+whom were diagnosed with rejection) and while “promising” (in the words of MolDX), it was far 
+from conclusive.  
+ 
+The LCD from MolDX in late 2017 essentially subsidized further studies of cfDNA by providing 
+reimbursement for AlloSure, which flung open the door for large-scale studies to take place. 
+cfDNA, which had been the subject of intense speculation and curiosity for a decade, could now 
+be studied as a noninvasive rejection biomarker in large numbers and at negligible cost. On top 
+of the latent demand for studying cfDNA, CareDx shrewdly provided financial support and 
+funding to renowned transplant nephrologists in over two dozen of the largest clinics nationwide, 
+ensuring a steady stream of multi-year studies that would provide “recurring” demand for 
+AlloSure tests. The company also immediately began enrollment on a massive 1000-patient 
+clinical trial (KOAR), which, in the company’s own words, would “include approximately 10,000 
+reimbursed AlloSure tests over the next 3 years, thus representing incremental AlloSure volume 
+as well as another revenue driver going forward.”4  
+ 
+As with the routine screening of transplant recipients (see below), AlloSure usage is being 
+studied on a protocol basis, with CareDx routinely disclosing on earnings calls the number of 
+patients on an AlloSure surveillance protocol. Recently, the company has disclosed a quarterly 
+attrition rate of 10% for these surveillance patients. While that still implies an incredible 35% 
+annual drop-out rate, we believe that the real attrition rate is much higher. Given the historical 
+disclosure of quarterly surveillance patients, and recent disclosures regarding the total number 
+of patients who have ever been provided AlloSure results, we calculate an attrition rate for 
+surveillance patients of approximately 20-30% per quarter, or a staggering 70% annually. 
+Consider that CareDx has provided results to “over 8,000 patients” in the span of 6 quarters, 
+and yet only about 3600 patients are currently on an AlloSure surveillance protocol. 
+
+
+                                                 
+4 11/9/2017 – CareDx Fiscal 2017 Third Quarter Earnings Call 
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0140673605790553
+
+https://jasn.asnjournals.org/content/28/7/2221
+
+https://clinicaltrials.gov/ct2/show/NCT03326076
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 6 
+
+
+
+
+
+ 
+The disclosures also suggest that over 90% of AlloSure revenue comes from these surveillance 
+patients. Ironically, AlloSure’s revenue comes almost entirely from transplant clinics studying it 
+as a routine screening tool, but finding it so inadequate that they rapidly drop it. We expect the 
+patient recruitment treadmill will soon become impossible to outrun. 
+ 
+
+
+National Kidney Foundation Routine Screening Guidelines for Clinicians 
+ 
+
+
+
+
+
+Source: National Kidney Foundation: Managing Kidney Transplant Recipients  
+ 
+
+
+ 
+Poor clinical results leave CareDx open to significant regulatory and competitive risks. In 
+addition to massive patient attrition, CareDx faces the risk of Medicare scaling back coverage. 
+For AlloSure to secure broad permanent MolDX coverage, it will need to show that it can 
+“[identify] renal transplant recipients who may use AlloSure testing in the first year post 
+transplant to safely avoid unnecessary procedures and/or interventions.” In other words, it 
+needs to obviate a biopsy by conclusively ruling out rejection in transplant patients. As 
+mentioned above and detailed below, the data unambiguously show that’s implausible. But in 
+patients with biopsy-diagnosed antibody-mediated rejection (ABMR) – a small subset of total 
+transplant recipients – AlloSure might effectively monitor the progress of treatment over time. 
+That’s a very niche market compared to CareDx’s preferred regiment of testing all transplant 
+recipients several times annually for years. CareDx sizes its market at $2 billion, while the 
+ABMR-monitoring market size is closer to ~$100 million. We expect that after evaluation of the 
+KOAR data (in 2022), Medicare coverage will thus be significantly scaled back. 
+ 
+
+
+
+https://www.kidney.org/sites/default/files/02-50-4080_ABB_ManagingTransRecipBk_Neph.pdf
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 7 
+
+
+
+
+
+At the same time, the same structural processes that helped AlloSure (at least temporarily) are 
+allowing competitors to validate other diagnostic rejection tests, and at least two have already 
+received a preliminary LCD from MolDX granting Medicare coverage. One of these is a dd-
+cfDNA test from Natera, a company that has a long history of using cfDNA in prenatal 
+applications. We are skeptical about the ability of cfDNA to significantly impact kidney transplant 
+diagnostics, but Natera may be able to measure cfDNA more accurately, and has a cost 
+structure low enough to significantly undercut AlloSure on price. There are also other cfDNA 
+assays that could be commercialized rapidly, as well as new genomic tests that are aimed at 
+precision diagnosis of specific kinds of organ rejection. 
+ 
+CareDx scored reimbursement support for a test whose mechanism of action has been a 
+curiosity for decades. But commercialization is a double edged sword: the rigorous testing it has 
+catalyzed is coming up empty, driving rapid patient attrition and putting the company at risk of 
+both losing Medicare coverage and being run over by competition.
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 8 
+
+
+
+
+
+II. Company Overview 
+ 
+
+
+CareDx: Capitalization and Financial Results 
+ 
+
+
+
+
+
+Source: company filings, Kerrisdale analysis  
+ 
+
+
+ 
+CareDx considers itself “an international transplant diagnostics company with product offerings 
+along the pre- and post-transplant continuum.” In that (somewhat hyperbolic) vein, the company 
+mainly provides two diagnostic test services, AlloMap and AlloSure, as well as HLA-typing 
+products used by transplant clinics to match donor organs with recipients. AlloMap is a gene 
+expression test used in routine screening of heart transplant recipients in order to rule out acute 
+cellular rejection. The test was first commercialized in 2006 and has been moderately 
+successful, though bound by the relatively small number of heart transplants performed in the 
+US each year (~2,000). On its own, AlloMap was never more than marginally profitable, and we 
+think its stand-alone value is negligible. The same can broadly be said for the company’s HLA-
+typing business. 
+ 
+AlloSure, the primary subject of this report, targets the much larger kidney transplant market 
+(21,167 transplant procedures were performed in the US in 2018).5 By measuring the levels of 
+donor-derived cell-free DNA (dd-cfDNA) in the transplant recipient’s blood, AlloSure aims to be 
+an accurate biomarker of kidney rejection, helping physicians “detect rejection of a donated 
+organ earlier and more accurately” than the current standard of care, and “reduce the use of 
+invasive biopsies,”6 which are currently the only way to accurately assess whether a patient is 
+suffering rejection. 
+ 
+Rejection, though, is a loaded term. In the general sense, it describes the phenomenon of the 
+transplant recipient’s immune system attacking and damaging the implanted kidney. But there 
+are a few different kinds of rejection:7 
+
+
+                                                 
+5 According to the United Network for Organ Sharing 
+6 CareDx 2018 10-K, Item 1, Company Overview  
+7 This discussion keeps the descriptions of the various types of rejection relatively simple. For detailed descriptions of 
+the histopathology of various types of kidney rejection, see the review of the Banff 2017 conference here. 
+
+
+Capitalization Financial Results
+Share price ($) 37.40$  2016 2017 2018 TTM
+Fully diluted shares (mm): Revenue 41$       48$       77$       88$       
+
+
+Shares outstanding 41.9      EBITDA (13)        (13)        (10)        (11)        
+Dilutive impact of options/RSUs 3.1        EBITDA Margin -31% -27% -13% -12%
+
+
+Total 45.0      
+
+
+Fully diluted market cap (mm) 1,685$  AlloSure Rev. (est) -$      0.4$      21.1$    30.9$    
+Less: cash 57         
+
+
+Enterprise value 1,627$  
+EV/revenue (trailing) 18.4x
+
+
+
+https://unos.org/data/transplant-trends/
+
+https://www.sec.gov/Archives/edgar/data/1217234/000156459019006533/cdna-10k_20181231.htm#ITEM_1_BUSINESS
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.14625
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 9 
+
+
+
+
+
+• T-Cell-Mediated Rejection (TCMR/CMR) – also called cellular rejection, is generally marked 
+by inflammation of kidney tubules and interstitial matter. In more severe cases, the inner 
+arterial wall of the kidney becomes inflamed. In less severe cases, where the 
+tubule/interstitial inflammation is minimal, cellular rejection can be labeled “borderline”. 
+
+
+• Acute Antibody-Mediated Rejection (AMR/ABMR) – is marked by 1) inflammation of the 
+vasculature of the kidney and 2) antibody-caused injury8 to the renal endothelium (the 
+interior walls of the blood vessels running through the kidney). True to its name, AMR is 
+almost always accompanied by donor-specific antibodies (DSA, or antibodies that 
+specifically target the unique cellular receptors associated with the donated kidney). 
+
+
+• Chronic AMR – is similar to acute AMR, but is labeled “chronic” if, based on the examination 
+of the biopsy tissue, the damage is so severe that it’s clear that the immune system attack 
+has been ongoing for a while. 
+
+
+ 
+Diagnosing Rejection 
+ 
+The precise parameters of a kidney rejection episode – i.e., the type of rejection (AMR vs. 
+CMR), the immune processes responsible, the parts of the kidney that are being damaged, etc. 
+– are only discoverable via biopsy. But kidney biopsies are not normally a routine monitoring 
+mechanism because performing them regularly on every single transplant recipient is seen as 
+overkill. While some transplant clinics do perform such “protocol biopsies,”9 most clinics monitor 
+kidney function through routine measurement of serum creatinine and, to a lesser extent, 
+albumin in the urine, both of which are cheaply and accurately obtainable. Healthy kidneys filter 
+creatinine from the blood while allowing protein to remain in the blood stream, so elevated 
+serum creatinine levels or protein in urine (proteinuria) signal impaired kidney function.  
+ 
+After consideration of patient-specific factors and ruling out other potential causes of abnormal 
+creatinine or proteinuria, if kidney rejection is suspected, a biopsy is performed. The biopsy 
+examination of the kidney tissue by a pathologist is the ultimate arbiter of whether the patient is 
+suffering from transplant rejection. 
+ 
+But relying on kidney function as the first sign that a transplant might be rejecting is less than 
+ideal. First of all, it’s not very “specific,” which means that decreased kidney function could be a 
+sign of rejection, but it could also be a sign of other problems such as dehydration, infection, or 
+other kidney injuries. Biopsies performed due to elevated creatinine/proteinuria therefore come 
+back negative for rejection over half the time. 
+ 
+Kidney function is also not a very “sensitive” indicator of kidney rejection, which means that 
+there’s a lot of rejection taking place that doesn’t get picked up by serum creatinine 
+measurement. Transplant clinics that perform protocol biopsies have published studies on the 
+
+
+                                                 
+8 Generally indicated on a biopsy by a phenomenon called C4d staining 
+9 Protocol biopsies are biopsies performed routinely for screening purposes, generally in the year after the transplant 
+surgery. By contrast, biopsies performed due to suspicion of rejection or other kidney injury are called “indication 
+biopsies.” Protocol biopsies mostly come back negative, are expensive, carry a small risk of severe bleeding, and 
+would be a logistical impossibility for most transplant clinics to perform. 
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771104/
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 10 
+
+
+
+
+
+frequency of rejection diagnoses that result from these biopsies, and it’s clear that plenty of 
+rejection episodes happen with no falloff in kidney function. The simplest explanation for this is 
+that a loss of kidney function is often the end-result of rejection, but the actual immune system 
+attack begins earlier and only manifests itself in impaired kidney function after a sustained 
+period of activity. It’s also possible for immune activity to be temporarily heightened, leading to a 
+case of temporary rejection that never advances to the point of declining kidney function.  
+ 
+Kidney rejection in the absence of reduced kidney function is called “subclinical rejection” 
+because of its ability to evade detection. It is generally believed that enough time spent in a 
+state of subclinical rejection eventually results in chronic AMR or severe TCMR.10 Over the last 
+decade, multiple studies of protocol biopsy data have estimated the incidence of subclinical 
+rejection to be anywhere in the range of 10-30% of biopsy samples.11 That means much, maybe 
+most, of kidney rejection goes undetected and untreated, potentially with negative 
+consequences for long term graft survival. 
+ 
+Another problem with diagnosing “rejection” is that each type of rejection – TCMR vs. AMR vs. 
+Chronic AMR – is treated differently. Even if there were a test that could perfectly discriminate 
+“rejection,” a biopsy would still be necessary for a more granular diagnosis that would inform the 
+subsequent treatment. 
+ 
+Cell-Free DNA 
+ 
+The limitations of kidney function markers like creatinine and proteinuria have been understood 
+for decades. But no noninvasive diagnostic test or screening protocol has been shown to 
+improve the means of detecting rejection, either through avoiding unnecessary biopsies 
+(increased specificity) or by identifying subclinical rejection (increased sensitivity). AlloSure is 
+really the first attempt at improving upon the long-standing status quo to be studied on a large 
+scale. 
+ 
+AlloSure is CareDx’s brand name for a test that measures the proportional quantity of donor-
+derived cell-free DNA (dd-cfDNA) in a transplant recipient’s bloodstream. cfDNA is freely 
+circulating DNA that’s released from the cell nucleus upon cell death and ends up in the 
+bloodstream. There’s always some amount of cfDNA in a person’s blood stream, a natural result 
+of the perfectly normal process of apoptosis. Over the past decade, fetal cfDNA in the blood of 
+expectant mothers has been tested in order to detect potential genetic disorders in the fetus. 
+Tumor cfDNA has also been used more recently as a “liquid biopsy” in a variety of oncologic 
+applications, including as a potential marker of residual disease after tumor resection and as a 
+trove of potentially useful genomic information pertaining to the cancer.  
+ 
+
+
+                                                 
+10 Mehta R, Sood P, Hariharan S. Subclinical Rejection in Renal Transplantation: Reappraised. Transplantation. 
+2016;100(8):1610‐1618. 
+11 Ibid. See also Friedewald, JJ, Kurian, SM, Heilman, RL, et al. Development and clinical validity of a novel blood‐
+based molecular biomarker for sub‐clinical acute rejection following kidney transplant. Am J Transplant. 2019; 19: 98‐ 
+109. 
+
+
+
+https://en.wikipedia.org/wiki/Apoptosis
+
+https://journals.lww.com/transplantjournal/FullText/2016/08000/Subclinical_Rejection_in_Renal_Transplantation__.13.aspx
+
+https://onlinelibrary.wiley.com/doi/10.1111/ajt.15011
+
+https://onlinelibrary.wiley.com/doi/10.1111/ajt.15011
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 11 
+
+
+
+
+
+In the transplant setting, the goal of a dd-cfDNA test is to quantify the proportion of cfDNA in the 
+transplant recipient’s bloodstream that’s coming directly from the donated kidney. The logic is 
+that the DNA of kidney cells, which are quite literally from another person, is different than the 
+DNA of the transplant recipient. If the proportion of the donor cfDNA relative to native cfDNA is 
+abnormally high in the blood, that would indicate some sort of injury to the kidney that’s resulting 
+in an elevated rate of kidney cell death. In theory, the only kind of injury that would cause that 
+sort of event cascade is kidney rejection.  
+ 
+The idea of quantifying the proportion of dd-cfDNA as a marker of kidney injury was first 
+hypothesized in the late 1990’s by Dennis Lo and his team at the Chinese University of Hong 
+Kong. As the costs of genetic amplification and sequencing technologies declined, the study of 
+cfDNA in transplant recipients gained momentum. Stephen Quake, who would found 
+ImmuMetrix to commercialize this technology (and then sell it to CareDx in 2014), published the 
+first of many papers on cfDNA and transplants in early 2011 with the hopeful title, “Universal 
+noninvasive detection of solid organ transplant rejection.”12  
+ 
+In the almost-decade since then, hundreds of articles have been written about small-scale 
+experiments in the use of dd-cfDNA to detect organ rejection. These papers can generally be 
+described as hopeful, but inconclusive: they almost all find some positive correlation between 
+levels of dd-cfDNA and transplant rejection, but the statistical relationship is rarely good enough 
+to justify clinical usage (especially at scale). Nevertheless, there’s almost always hope that with 
+a bit of improvement and some large scale testing, the concept could work. Thus, in 2015, a 
+review of cfDNA studies in the American Journal of Transplantation noted that 
+ 
+
+
+Although dd-cfDNA is an interesting and promising marker of solid transplant organ 
+health, much work still needs to be done before clinical implementation…In conclusion, 
+whereas observational studies published so far point to dd-cfDNA as a promising marker 
+in the transplantation field, randomized control studies are mandatory comparing a dd-
+cfDNA-based monitoring strategy with the standard post-transplantation monitoring in 
+terms of graft and patient survival.13 
+
+
+ 
+With the achievement of Medicare coverage and reimbursement in mid-2017, large scale 
+subsidized studies of dd-cfDNA became possible. The results don’t bode well for AlloSure. 
+ 
+ 
+
+
+                                                 
+12 Snyder TM, et al. Universal noninvasive detection of solid organ transplant rejection. Proc Natl Acad Sci U S A. 
+2011;108(15):6229–6234. doi: 10.1073/pnas.1013924108. 
+13 Gielis EM, et al. Cell-Free DNA: An Upcoming Biomarker in Transplantation. Am J Transplant 2015;15:2541–2551. 
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0140673605790553
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076856/
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.13387
+Kerrisdale Capital Management, LLC | 1212 Avenue of the Americas, 3rd Floor | New York, NY 10036 | Tel: 212.792.7999 | Fax: 212.531.6153 12 
+
+
+
+
+
+III. Clinical Data Show that AlloSure is Insensitive in 
+Discriminating Kidney Rejection, with an Unacceptable 
+Miss Rate 
+
+
+ 
+Screening tests have to be really cheap, and in kidney, serum creatinine and proteinuria 
+are very good tests. They’re actually excellent tests. And you’re going to have to do very 
+well to beat serum creatinine and proteinuria by enough to justify a thousand dollar test if 
+you’re doing screening. [emphasis in the original] 
+
+
+Dr. Philip Halloran, Inventor of the Molecular Microscope14 
+ 
+
+
+CareDx clearly positions AlloSure as a kidney rejection test that makes up for the weaknesses 
+of serum creatinine, as the latter is “nonspecific as to cause and not sensitive, as serum 
+creatinine may only be detected after significant and irreversible renal function loss has 
+occurred.” AlloSure is meant to be incorporated into the routine screening protocols used by 
+transplant centers: “The AlloSure recommended testing protocol,” according to CareDx, 
+“includes 7 tests during the first year [post-transplant] followed by quarterly testing in the second 
+year and beyond.”15 
+ 
+To assess whether AlloSure is really an improvement over the current standard of care (SOC), 
+which relies on creatinine and proteinuria measurement, two questions must be answered: 
+• Can AlloSure safely be used to avoid unnecessary biopsies? Over half of the biopsies 
+
+
+triggered by impaired kidney function come back negative for rejection. Biopsies are 
+invasive and carry some small risk of bleeding, so avoiding unnecessary biopsies, without 
+concomitantly avoiding the necessary ones, would be a genuine improvement on the status 
+quo. In statistical terminology: can AlloSure reduce the rate of false positives without 
+introducing new false negatives? 
+
+
+• Can AlloSure be used to detect subclinical rejection, i.e., rejection that’s currently missed by 
+just testing for creatinine and proteinuria? 
+
+
+ 
+Based on our wide-ranging conversations with transplant physicians, as well as an exhaustive 
+review of the clinical literature, the answer to both of the above questions is clearly, No. Let’s 
+start with the seminal AlloSure paper by Bloom et al., which is used by CareDx as the basis for 
+their marketing materials and “results interpretation” guide, both meant for physicians. The study 
+focuses on 102 of the 384 patients in CareDx’s DART clinical trial, which was conducted in 
+order to validate AlloSure as an accurate measure of dd-cfDNA.16 The 102 patients represent all 
+the patients in the DART trial that had undergone an indication-biopsy (i.e., due to elevated 
+
+
+                                                 
+14 Halloran is a world renowned transplant pathologist and the founding editor of the American Journal of 
+Transplantation. Halloran’s comments were made in a speech he gave to the Henry Ford Transplant Institute in June, 
+2017. 
