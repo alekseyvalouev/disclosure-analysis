@@ -1,0 +1,250 @@
+Muddy Waters Capital LLC 
+
+
+info@muddywatersresearch.com 
+Director of Research: Carson C. Block 
+
+
+
+
+
+Page  
+	
+
+
+2	
+
+
+GSX: Small Classes, Big Lies 
+ 
+
+
+ 
+On May 18th, we published our research on GSX in which we concluded that at least 70% of 
+GSX’s purported users are fraudulent, and quite likely the real percentage of fake users is over 
+80%.  We detailed three behaviors we were highly confident evidenced widespread bot usage: 
+“Precise Joiners”, “GSX IP Joiners”, and “Burst Joiners”.  A fourth pattern “Early Joiners” is 
+highly likely indicative of bots.  A former GSX manager corroborated our conclusions, and even 
+detailed how GSX’s bot operations work.1 
+ 
+GSX’s responses since consist largely of drivel, designed to obfuscate and lie.  We maintain our 
+view that GSX is a massive fraud – i.e., it is a nearly empty box.  Making GSX’s denials even 
+more farcical is that it openly recruits engineers to help it run bot farms, which we show in this 
+report. 
+ 
+ 
+GSX Gives the Finger to its Investors 
+ 
+GSX actually published two responses (of which we are aware) to our report.  The first was a 
+non-substantive press release in English.2  GSX however released a more detailed response in 
+Chinese through WeChat, which we suspect very few U.S. investors use.3,4  These responses 
+clearly seem intended to deceive.   
+ 
+GSX’s WeChat response contains techno-drivel, and appears intended to appear authoritative 
+when it includes the below screen shot of GSX’s purported queries to analyze Precise Joiners 
+and Burst Joiners.  However, the screenshot prima facie shows GSX is obfuscating its 
+presentation.  It omits three important fields: “agent_id”, “agent_policy”, and the crucial 
+“timestamp”.  The timestamp field is a significant omission that prevents further analysis based 
+on when GSX’s class switch message was sent.  Therefore, this is not usable data.  Investors 
+need look no further to know GSX is screwing with them. 
+
+
+
+
+
+																																																													
+1 See Muddy Waters’ May 18, 2020 report, pp. 10-13. 
+2 https://www.prnewswire.com/news-releases/gsx-refutes-muddy-waters-researchs-allegations-301061639.html 
+3 WeChat is primarily used by Chinese speaking users.  It is largely a chat and news forum and a site for unvetted 
+blogs, posts, news, links.  The selection for this channel for the more detailed reply appears intended to help 
+Chairman Larry Chen protect his personal reputation in China, rather than provide more or useful information to 
+international investors and shareholders.  The choice of WeChat as the site to release additional details seems to 
+contradict the claim by management in the official response that “GSX is committed to the highest standards of 
+corporate governance, as well as transparent and timely disclosure…” 
+4 https://mp.weixin.qq.com/s/8ekeJKN2n8tPXWwP9jxmqg
+Page  
+	
+
+
+3	
+
+
+ 
+ 
+ 
+Response to GSX IP Joiners 
+ 
+GSX’s response to the GSX IP Joiner analysis strikes us as a bald face lie.   
+ 
+In our report, we discussed how we had analyzed 463,217 sign in records for 54,065 unique 
+users.  We were able to identify GSX employees (teachers and tutors) in the data, based on how 
+GSX coded them.  What we then found was damning – 28.2% of purported students shared an IP 
+address at one point with GSX tutors or teachers.  This amounted to 15,239 purported students.  
+With no physical school or learning center locations, we believe this is convincing evidence of 
+significant bot usage. 
+ 
+GSX responded by purportedly querying its entire database to find overlaps between GSX 
+teacher / tutor IPs and students.  In the press release, GSX claimed that only 0.78% of students 
+have an overlapping IP.  The WeChat response shows these purported query results, with 43,843 
+overlapping IPs.   
+ 
+
+
+ 
+ 
+ 
+This purported query fails our laugh test.  Our data set of 165,111 total distinct IP addresses was 
+only 2.9% of GSX’s claimed query data set, yet it yielded 34.8% of GSX purported overlap 
+number.  We cannot remotely believe GSX’s claim.
+Page  
+	
+
+
+4	
+
+
+ 
+Response to Precise and Burst Joiners 
+ 
+In our report, we explained that 10.6% of users joined on the same second, the same day of the 
+week, but on different weeks.  We analogized that phenomenon to a weekly flight between two 
+cities touching down at exactly the same second on two occasions.  We also explained a common 
+phenomenon (Burst Joiners) in which large groups of users (e.g., 20 or 30) join within the same 
+second.  We excluded bursts that occurred within five minutes before to five minutes after the 
+start of classes.   
+ 
+GSX’s response to these joining patters is inadequate.  It claimed that both phenomena are 
+caused by switching of small class groups led by tutors over to the large class.  However, this 
+does not explain the Burst Joiner phenomenon because we excluded bursts within five minutes 
+on either side of the start of class.  (Recall that GSX omitted the timestamp from the screenshot 
+above where GSX purported to show the switching is based on this signal.)   
+ 
+GSX’s claim that switching from the small classes to the large explains Precise Joiners is also 
+inadequate.  In the WeChat response, GSX stated that if a tutor has not switched the small class 
+over by the start time of the large class, the system will automatically perform the switch.  
+However, only 5,742 unique users were Precise Joiners, which was 10.6% of the sample.5  GSX 
+states that such small class to large class switches are “typical”, and that there is an automatic 
+switch for tutors that fail to switch by the class start time.  If that were the case, then we would 
+expect to find far more than 10.6% of the sample being Precise Joiners.  This explanation again 
+falls short in explaining an observed phenomenon.   
+ 
+ 
+GSX Openly Recruits for Bot Operators 
+ 
+GSX’s use of bots is so pervasive that it even openly recruits for engineers to develop and 
+maintain its bot army.  The images below are of recent job postings.  The first is for a GSX 
+“server room operation and maintenance engineer.”  This post reveals specific details regarding 
+GSX’s operations, which is likely the reason it was taken down.  
+ 
+This post was picked up by a user of China’s Snowball Finance (雪球) who on May 6th, posted 
+the screenshot and asked, “do you understand what this is for?”6 
+
+
+																																																													
+5 This excludes the users who were linked to Precise Joiners by IP address or joining at the same second. 
+6 https://xueqiu.com/5346637144/148620489 (underlines added)
+Page  
+	
+
+
+5	
+
+
+ 
+ 
+Xp and TaiChi are ideal for the customized development and operation of complex and secretive 
+bot networks.   
+ 
+
+
+- We believe “Xp” refers to Xposed, a set of tools that allows an individual to modify an 
+Android phone or perform tasks on it that it normally cannot when the phone is received 
+out of the box from the manufacturer.7  When a hacker "jailbreaks" or "roots" a phone, he 
+or she typically wants to install customized software.  
+ 
+
+
+- TaiChi:8  According to its website, TaiChi supports a variety of Xposed modules enabling 
+functions like a “fake device”, “fake location”, and has the added feature of being “hard 
+to detect.” 
+
+
+ 
+We found it mildly surprising that considering all the news on GSX and bots, GSX job posts for 
+engineers experienced in the operation and maintenance of large-scale bot networks have not all 
+been taken down.  However, because GSX appears so dependent on its bot network to support its 
+fake business, it likely has little choice but to continue recruiting.   
+ 
+
+
+																																																													
+7https://repo.xposed.info/module/de.robv.android.xposed.installer 
+8https://taichi.cool/module/, https://taichi.cool/doc/ 
+
+
+Do you understand what this is for? 
+ 
+ 
+Server Room Operations & Maintenance Engineer 
+ 
+GSX, Server Room Operations & Maintenance 
+Supervisor 
+ 
+Performance Bonus:   
+1-4 mos. based on end of yr. salary, varies 
+ 
+Duties: 
+Responsible for maintaining and operating 
+company’s sever rooms. 
+ 
+1.  Resolving problems occurring with cell phone 
+equipment in the server room. 
+ 
+2.  Cell phone bot network equipment, install all 
+types of framework software like Xp and TaiChi, 
+etc. 
+ 
+3.  Huawei servers maintenance and operations.
+Page  
+	
+
+
+6	
+
+
+Another recent related job post from April 29, 2020 is below.9  This job post is also seeking cell 
+phone engineers to be responsible for “rooting” or “jail breaking” cell phones, installing new 
+software, and creating bots or fake users.10   
+ 
+
+
+ 
+ 
+These job posts also list as one of the top duties of this cell phone engineer the need to be able to 
+set up WeChat accounts and initiate messages.  On the surface, this seems ridiculous as nearly all 
+Chinese users with a smart phone know how to do this, even without an engineering background.  
+However, the problem of not just fake students but also fake users in GSX’s WeChat groups has 
+been reported by participants.  These WeChat groups are formed by the tutor after a class sign up 
+and are intended to engage the family.  As with GSX’s fake students and fake registrations, it 
+seems management felt compelled to deal with the problem of shortages of real family members 
+in the parent groups through its default SOP; therefore, it called on its robot army and engineers 
+to fill the void.   
+ 
+We expect management will wrack its brain to find another excuse about why it is hiring 
+engineers to run its internal bot network.  We thought we would help.  Management or IR, please 
+feel free to cut and paste the reply below. 
+
+
+																																																													
+9 https://www.zhipin.com/job_detail/19bacff023f680b71Hd52Ni_FFM~.html?sid=seo_aladingb,  
+https:/www.jobui.com/job/158236612/ Note, the two posts are linked. 
+10 Bots and fake users are called “brushing” (刷) in Chinese, this can be thought of as a kind of automatic swiping 
+function in an app, with the result that purchases, reviews, likes, comments or other such fake activities are created. 
+
+
+“Muddy Waters does not understand our business or its operating environment.  Because bots 
+and fake users are now so prevalent throughout the internet environment in China, we hire and 
+train specialists in bot operations as a matter of quality control.  We must build and run these 
+large-scale bot networks internally against our own system to make sure we can effectively 
+block them.  We do this to maintain the integrity of the livestreaming classroom and learning 
+environment and provide a safe, “bot free” space where students can learn.”
