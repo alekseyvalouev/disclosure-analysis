@@ -1,3977 +1,2123 @@
-Muddy	
-  Waters,	
-  LLC	
-  
+Viceroy Research Group 1 viceroyresearch.org 
 
 
-www.muddywatersresearch.com	
-  
-  info@muddywatersresearch 
+AMD – The Obituary 
+Viceroy analyze CTS Labs’  report exposing fatal security vulnerabil ities across AMD products   
+
+
+CTS Labs, a cyber-security research firm, released its findings on www.amdflaws.com. These findings 
+
+
+demonstrate that AMD’s key products, and it basis for profitability and growth, the EPYC and Ryzen processors, 
+
+
+contain severe and pervasive security flaws that put users and organizations at an unacceptable and damaging 
+
+
+risk. We understand that these flaws are difficult, some practically impossible, to patch.  
+
+
+We believe that AMD was compelled to release products as quickly and cheaply as possible as it was falling 
+
+
+behind its competitors. This has led to what appears to be complete oversight or negligence of security 
+
+
+fundamentals of AMD’s products, which promote an evidently misguided competitive advantage – particularly 
+
+
+with its Secure Processor (a.k.a. Platform Security Processor or PSP) – of providing “the greatest peace of mind 
+
+
+on every AMD product.”1. Nothing could be further from the truth.  
+
+
+Viceroy, in consultation with experts, have evaluated CTS’s report. We believe the issues identified by CTS are 
+
+
+fatal to AMD on a commercial level, and outright dangerous at an international level.  
+
+
+In light of CTS’s discoveries, the meteoric rise of AMD’s stock price now appears to be totally unjustified and 
+
+
+entirely unsustainable. We believe AMD is worth $0.00 and will have no choice but to file for Chapter 11 
+
+
+(Bankruptcy) in order to effectively deal with the repercussions of recent discoveries. 
+
+
+▪ AMD must immediately stop selling its Ryzen and EPYC processors –The identified vulnerabilities in AMD’s 
+
+
+EPYC and Ryzen processors give hackers the ability to entrench malware at the hardware level, making them 
+
+
+virtually undetectable and untouchable by security products. By abusing these vulnerabilities at the Secure 
+
+
+Processor level, malware characteristics can give hackers unlimited control over entire networks. None of 
+
+
+the vulnerabilities identified by CTS, both firmware and hardware, require physical access to computers to 
+
+
+be exploited. The continued sale of these processors puts customers at significant risk. AMD must cease the 
+
+
+sale of Ryzen and EPYC chips in the interest of public safety.  
+
+
+- The security protocols that AMD has been promoting to server customers are rendered useless in light 
+
+
+of vulnerabilities identified by CTS – We expect AMD cloud customers including Microsoft Azure, Baidu, 
+
+
+DellEMC and TenCent will flee in the short term given the serious nature of chip flaws. AMD is unlikely 
+
+
+to be trusted in this space again. We understand that one user could essentially compromise entire cloud 
+
+
+networks (i.e. all data from all customers). 
+
+
+- Just one Ryzen chip could endanger an entire enterprise network – Vulnerabilities identified in the 
+
+
+Ryzen chip allow hackers to perform credential dumps on infected Ryzen work stations even if latest 
+
+
+security mitigations are employed. Malware can quickly spread to other work stations throughout 
+
+
+enterprise networks, regardless of whether they use a Ryzen chip or Intel. No prudent CISO or CTO will 
+
+
+risk their network or their security by buying a Ryzen chip over more secure competitors. 
+
+
+- AMD’s flawed chips are components in government and defense products – AMD is pushing Embedded 
+
+
+Ryzen and EPYC chips into government and defense industries – from aerospace through to enterprise 
+
+
+servers and laptops – through promotion of “advanced security” of its Secure Processor – the very 
+
+
+Secure Processor which CTS has found to be fundamentally flawed and open to hacking.  
+
+
+▪ Negligent outsourcing in quest for superior margins – In an apparently desperate attempt to compete with 
+
+
+Intel, AMD has outsourced its Chipset, a central system component, to ASMedia and integrated it into its 
+
+
+Ryzen PC, white-labeling it as AMD. According to CTS, a perfunctory security audit of the chipset would have 
+
+
+discovered manufacturer backdoors. Manufacturer backdoors are extremely dangerous and for that reason 
+
+
+not found within any competitor’s products. ASMedia’s parent company, AsusTek (TPE:2357), recently 
+
+
+settled FTC charges alleging its home routers and cloud services were insecure and put customers at risk. 
+
+
+The settlement requires AsusTek’s security program be subject to independent audits for the next 20 years. 
+
+
+It is astounding that AMD would even consider engaging AsusTek to produce vital security components. 
+
+
+                                                                 
+1 https://www.amd.com/en/technologies/security  
+
+
+
+http://www.amdflaws.com/
+
+https://www.amd.com/en/technologies/security
+Viceroy Research Group 2 viceroyresearch.org 
+
+
+Either AMD failed to perform a satisfactory audit of its outsourced product, or simply ignored warnings 
+
+
+and potential repercussions to its customers.  
+
+
+▪ Vulnerabilities are difficult to patch if patching is possible at all. Product recalls are warranted – CTS 
+
+
+identified a number of vulnerabilities at the hardware level (“logic gates2”) which may be not patchable. 
+
+
+From discussions with experts: in the most optimistic of scenario it will take AMD many months to patch 
+
+
+vulnerabilities on its devices. If AMD fails to find a workaround almost instantly, we believe a full recall in 
+
+
+the interest of public safety would be necessary and enforced if need be. The Product Safety Commission 
+
+
+has the power to force cessation of sale and obtain orders for product recall if the product if deemed to 
+
+
+“present a substantial product hazard”.  
+
+
+- AMD appears to have lied about its patches before – In December 2017, AMD reluctantly provided a 
+
+
+patch to disable the Secure Processor following severe pressure from the cyber-security community, 
+
+
+who were suspicious of locked-down closed source software. Contrary to AMD’s description of the 
+
+
+patch, CTS found the patch only partially disables the Secure Processor: it remains vulnerable to 
+
+
+attackers even when “disabled”.  
+
+
+▪ Extended investigations – We expect a litany of negative news, as additional vulnerabilities emerge through 
+
+
+further scrutinization of AMD products. CTS’s report shows some of these vulnerabilities to be elementary 
+
+
+failures. Now that CTS has sent their findings to major cyber-security firms, including AMD customers, it is 
+
+
+likely that additional vulnerabilities will be identified which AMD will also have to address. Given AMD’s 
+
+
+apparent total lack of fundamental security capabilities, we expect that vulnerabilities will extend across 
+
+
+AMD’s GPU product lines. 
+
+
+▪ Regulatory and legal issues may exacerbate problems for AMD – While cybersecurity regulation is still in 
+
+
+its nascent stages, it is becoming an increasingly important issue for company boards and management 
+
+
+teams. This includes heightened scrutiny by the SEC, who recently released guidelines on timely 
+
+
+cybersecurity disclosure following Spectre and Meltdown issues. Homeland security have also recently 
+
+
+outlined proposals to integrate vetting of cyber-risks to the Government supply chains. We believe that 
+
+
+AMD’s misleading representation of the security of its products have a wide host of potential regulatory 
+
+
+and legal repercussions, including but not limited to product liability issues, warranty protections, and false 
+
+
+advertising, which may all lead to various fines and lawsuits. 
+
+
+▪ The CTS report is fatal to AMD growth story – Ceasing sales and recalls would lead to unprecedented losses 
+
+
+and limited cash to service debt and fund the research and development. AMD investments in research and 
+
+
+development are already significantly lower than both Intel and Nvidia, and also spread across both CPUs 
+
+
+and GPUs.  
+
+
+▪ Management have been cashing out – Since November 2016, AMD’s CEO has sold over 2.8 million shares 
+
+
+of AMD, amounting to ~US$30 million, on the open market. In total, the management team has sold over 9 
+
+
+million shares of AMD since November 2016. Not one member of AMD’s management acquired one stock 
+
+
+in the open market for over a year. Viceroy perceive this as a red flag, where management do not think 
+
+
+AMD’s prospects are as rosy as portrayed to investors.  
+
+
+We believe AMD’s numerous vulnerabilities and seeming general disregard for basic security protocols make 
+
+
+their products beyond unpurchaseable and outright dangerous. Viceroy’s consultants advise that it would be 
+
+
+blatantly irresponsible for any Chief Information Security Officer (“CISO”) or Chief Technology Officer (“CTO”) 
+
+
+to justify the purchase of AMD’s products.  
+
+
+As the product lifecycle of AMD’s older products wind down, AMD’s profitability is entirely reliant on the success 
+
+
+of Ryzen and EPYC, particularly in light of the volatility of the crypto-currency mining market which we believe 
+
+
+to be the major driver of AMD’s GPUs. We believe that demand for Ryzen, EPYC and other AMD’s products will 
+
+
+be non-existent, AMD will no longer be profitable and riddled with massive liquidity issues and we do not believe 
+
+
+there is hope for recovery. 
+
+
+                                                                 
+2 https://www.coursera.org/learn/build-a-computer/lecture/Aqrh6/unit-1-3-logic-gates  
+
+
+
+https://www.coursera.org/learn/build-a-computer/lecture/Aqrh6/unit-1-3-logic-gates
+Viceroy Research Group 3 viceroyresearch.org 
+
+
+AMD’s CEO, Lisa Su, in a recent interview with CNBC, commented that “when we have 
+
+
+high performance processors, security is job one”. AMD has evidently failed job one. 
+
+
+In light of CTS’s discoveries, the meteoric rise of AMD’s stock price now appears to be totally unjustified and 
+
+
+entirely unsustainable. We believe AMD is worth $0.00 and will have no choice but to file for Chapter 11 
+
+
+(Bankruptcy) in order to effectively deal with the repercussions of recent discoveries. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important Disclaimer – Please read before continuing 
+
+
+This report has been prepared for educational purposes only and expresses our opinions. This report and any statements 
+
+
+made in connection with it are the authors’ opinions, which have been based upon publicly available facts, field research, 
+
+
+information, and analysis through our due diligence process, and are not statements of fact. All expressions of opinion are 
+
+
+subject to change without notice, and we do not undertake to update or supplement any reports or any of the information, 
+
+
+analysis and opinion contained in them. We believe that the publication of our opinions about public companies that we 
+
+
+research is in the public interest. We are entitled to our opinions and to the right to express such opinions in a public forum. 
+
+
+You can access any information or evidence cited in this report or that we relied on to write this report from information in 
+
+
+the public domain.  
+
+
+To the best of our ability and belief, all information contained herein is accurate and reliable, and has been obtained from 
+
+
+public sources we believe to be accurate and reliable, and who are not insiders or connected persons of the stock covered 
+
+
+herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. We have a good-faith belief in 
+
+
+everything we write; however, all such information is presented "as is," without warranty of any kind – whether express or 
+
+
+implied.  
+
+
+In no event will we be liable for any direct or indirect trading losses caused by any information available on this report. Think 
+
+
+critically about our opinions and do your own research and analysis before making any investment decisions. We are not 
+
+
+registered as an investment advisor in any jurisdiction. By downloading, reading or otherwise using this report, you agree to 
+
+
+do your own research and due diligence before making any investment decision with respect to securities discussed herein, 
+
+
+and by doing so, you represent to us that you have sufficient investment sophistication to critically assess the information, 
+
+
+analysis and opinions in this report. You should seek the advice of a security professional regarding your stock transactions.  
+
+
+This document or any information herein should not be interpreted as an offer, a solicitation of an offer, invitation, marketing 
+
+
+of services or products, advertisement, inducement, or representation of any kind, nor as investment advice or a 
+
+
+recommendation to buy or sell any investment products or to make any type of investment, or as an opinion on the merits 
+
+
+or otherwise of any particular investment or investment strategy. 
+
+
+Any examples or interpretations of investments and investment strategies or trade ideas are intended for illustrative and 
+
+
+educational purposes only and are not indicative of the historical or future performance or the chances of success of any 
+
+
+particular investment and/or strategy.  
+
+
+As of the publication date of this report, you should assume that the authors have a direct or indirect interest/position in all 
+
+
+stocks (and/or options, swaps, and other derivative securities related to the stock) and bonds covered herein, and therefore 
+
+
+stand to realize monetary gains in the event that the price of either declines.  
+
+
+The authors may continue transacting directly and/or indirectly in the securities of issuers covered on this report for an 
+
+
+indefinite period and may be long, short, or neutral at any time hereafter regardless of their initial recommendation.
+Viceroy Research Group 4 viceroyresearch.org 
+
+
+Introduction 
+This report is a financial analysis as to the impact these vulnerabilities will have on AMD as a company and as 
+
+
+such will rely heavily on the contents of CTS’ report. 
+
+
+We understand that CTS are not at liberty to disclose certain information about the technical vulnerabilities in 
+
+
+full detail for security purposes. Such disclosure would risk providing hackers with the information needed to 
+
+
+exploit AMD’s customers, potentially causing irreparable damage and risking threats to national security. We 
+
+
+note again that all of CTS’ findings, including those details not published here, have been validated by 
+
+
+independent third parties provided to government agencies and major security experts, including Microsoft. 
+
+
+We note that it is possible that hackers have already identified these vulnerabilities and as such may already be 
+
+
+sitting undetected and unreachable on systems that have a Ryzen or EPYC CPU.  
+
+
+Through consultation with cyber security experts, we understand that many aspects of the findings in CTS’ report 
+
+
+were shocking, including: 
+
+
+▪ The sheer number of vulnerabilities that CTS discovered in such a short time;  
+
+
+▪ The scope of security issues associated with the vulnerabilities in the products;  
+
+
+▪ The fact that a number of the vulnerabilities would not exist had AMD followed basic cybersecurity 
+
+
+principles; and  
+
+
+▪ The existence of vulnerabilities which should have been caught by even a cursory security audit.  
+
+
+The vulnerabilities that CTS identified have major repercussions for the following AMD product lines: 
+
+
+▪ Ryzen Workstation 
+
+
+▪ Ryzen Pro 
+
+
+▪ Ryzen Mobile 
+
+
+▪ EPYC Server 
+
+
+Together, the Ryzen and EPYC chips have total addressable markets of US$49 billion. This is far greater than 
+
+
+AMD’s graphics and semi-custom segment, with a total addressable market of US$15 billion. This is represented 
+
+
+in Figure 1 below as the combined PC and datacenter segments, contrasted with the Immersive segment 
+
+
+ 
+Figure 1 Extract from AMD FY2017 Investor Presentation3 
+
+
+These product lines compromised by the newly revealed are AMD’s most important 
+
+
+product with the largest total addressable markets. 
+
+
+                                                                 
+3 http://ir.amd.com/static-files/bdd95d7a-a689-487b-8da5-8bc3cdbacf5c  
+
+
+
+http://ir.amd.com/static-files/bdd95d7a-a689-487b-8da5-8bc3cdbacf5c
+Viceroy Research Group 5 viceroyresearch.org 
+
+
+Product Overview 
+Viceroy believes much of the current positive market sentiment around AMD is due to the rapid growth and 
+
+
+implied future performance of their Ryzen and EPYC product lines. We believe that the CTS revelations will 
+
+
+kneecap AMD’s acceptance in these markets. 
+
+
+The (un)Secure Processor 
+AMD’s Secure Processor is the foundation of its promotional drive claiming state-of-the-art security, and a major 
+
+
+selling point for its EPYC and Ryzen products. A flawed Secure Processor means a completely flawed security 
+
+
+system, which will be unacceptable to customers. 
+
+
+The CTS report identifies a number of vulnerabilities on AMD’s Secure Processor itself that give an attacker full 
+
+
+control of the Secure Processor, and therefore, full control of the entire security system.  
+
+
+Even more worrying is that the inclusion AMD’s Secure Processor is not limited to Ryzen and EPYC. AMD has 
+
+
+already introduced – and continues to introduce – its highly flawed Secure Processor into other products, 
+
+
+substantially increasing the potential for additional hacking attacks.  
+
+
+ 
+Figure 2 Extract from AMD Secure Processor release announcement 
+
+
+Simply put: AMD’s poor execution of its most important hardware has given hackers ability to exploit all of its 
+
+
+customers’ systems and networks.  
+
+
+Hardware security has become a top priority for customers due to the increasing sophistication of cyber-
+
+
+attackers’ arsenals. This Secure Processor has become a key selling point for both EPYC and Ryzen. 
+
+
+Following the Spectre and Meltdown attacks, many saw an opportunity for AMD to assert itself as the industry 
+
+
+leader in providing the most secure chips. AMD’s Secure Processor was seen as the “knight in shining armor”.  
+
+
+Hackers attempted to manipulate Intel’s Management Engine, the equivalent to AMD’s Secure Processor, for 11 
+
+
+years, and were only able to finally disable the engine in December 2017, and over the past 12 years, they only 
+
+
+found one vulnerability and only through physical access to the hardware. CTS were able to remotely take full 
+
+
+control of AMD’s Secure Processor in less than 7 months4.    
+
+
+                                                                 
+4 https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-
+Unsigned-Code-In-Intel-Management-Engine.pdf  
+
+
+
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf
+
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf
+Viceroy Research Group 6 viceroyresearch.org 
+
+
+Ryzen 
+AMD’s Ryzen product is key to an AMD strategic goal of relevant in the PC market, as it represents a far higher 
+
+
+quality offering than the AMD 7th Generation APU.  
+
+
+The Ryzen release was among the most significant drivers of increasing sales and gross margins for AMD in 
+
+
+FY2017, and is expected to continue to be a significant driver in FY2018, particularly with the ramp up Ryzen 
+
+
+Mobile, which should push up ASPs and the winding down in sales of the old generation products. 
+
+
+As can be seen below, the Ryzen desktop and Ryzen Mobile are geared towards the premium market. 
+
+
+ 
+Figure 3 Extract from AMD FY2017 Investor Presentation5 
+
+
+Marketing materials for the Ryzen PRO heavily emphasize its security; particularly to the high-margin enterprise 
+
+
+market: 
+
+
+ 
+Figure 4 Extract from AMD Ryzen Pro presentation 6 
+
+
+EPYC  
+The EPYC chip was launched with great fanfare in June 2017 and heralded AMD’s re-entry to the server market 
+
+
+after a decade. The launch included presentations from AMD’s new server customers, including HP, Microsoft 
+
+
+Azure, Baidu, Tencent and Dell EMC. 
+
+
+                                                                 
+5 http://ir.amd.com/static-files/bdd95d7a-a689-487b-8da5-8bc3cdbacf5c  
+6 https://www.slideshare.net/pertonas/amd-ryzen-pro 
+
+
+
+http://ir.amd.com/static-files/bdd95d7a-a689-487b-8da5-8bc3cdbacf5c
+
+https://www.slideshare.net/pertonas/amd-ryzen-pro
+Viceroy Research Group 7 viceroyresearch.org 
+
+
+ 
+Figure 5 Extract from AMD EPYC release announcement7 
+
+
+The total addressable market for servers is huge and growing, and also has the highest potential gross margins 
+
+
+of any of AMD’s business segments. AMD recently announced the launch of EPYC Embedded and Ryzen 
+
+
+Embedded, which it hopes to bring to networking, storage and industrial solutions markets, with AMD stressing 
+
+
+that these include the on-chip security.8 This is very worrying, considering the ultra-sensitive nature of these 
+
+
+targeted markets and industries, includes defense and aerospace.  
+
+
+AMD described the Secure Processor’s role for the EPYC chip as “An EPYC LEAP FORWARD in Security”:  
+
+
+ 
+Figure 6 Extract from AMD webpage “Datacenter workloads” 
+
+
+The importance of this security to EPYC customers is evident from this slide presented by Dell at the EPYC launch 
+
+
+and from white papers published by AMD customers including as Dell. 
+
+
+ 
+Figure 7 Extract from AMD EPYC release announcement9 
+
+
+Security is the largest concern for the server market and for cloud providers in particular.  
+
+
+
+
+
+                                                                 
+7 http://ir.amd.com/static-files/3fc34d2c-ec46-4dd0-8db7-74389fb72779  
+8 https://www.amd.com/en-us/press-releases/Pages/amd-launches-EPYC-embedded-2018feb21.aspx  
+9 http://ir.amd.com/static-files/3fc34d2c-ec46-4dd0-8db7-74389fb72779  
+
+
+
+http://ir.amd.com/static-files/3fc34d2c-ec46-4dd0-8db7-74389fb72779
+
+https://www.amd.com/en-us/press-releases/Pages/amd-launches-EPYC-embedded-2018feb21.aspx
+
+http://ir.amd.com/static-files/3fc34d2c-ec46-4dd0-8db7-74389fb72779
+Viceroy Research Group 8 viceroyresearch.org 
+
+
+Vulnerabilities 
+Due to the security risk of publishing execution details of the vulnerabilities, the descriptions contained in CTS’s 
+
+
+report of AMD are limited to their findings. The full vulnerabilities have been validated by independent third-
+
+
+parties with extensive experience in the cyber-security industry. Below is a list of the vulnerabilities and a brief 
+
+
+description of their mechanism of action. 
+
+
+ 
+Figure 8 Extract of CTS report 
+
+
+Note that three of the vulnerabilities; Masterkey, Ryzenfall and Fallout, are associated with the AMD processors. 
+
+
+The fourth vulnerability, Chimera, is a result of a glaring oversight in the manufacture of the Ryzen chipset. 
+
+
+Viceroy’s commentary on AMD will be more specific to the impact of CTS’s findings on a commercial level. Please 
+
+
+see CTS’s report for greate detail on the specifics of the vulnerabilities: 
+
+
+www.amdflaws.com 
+
+
+We have annexed the summary segment of the above flaws highlighted by CTS in this report.  
+
+
+Masterkey 
+
+
+ 
+Figure 9 Extract of CTS report 
+
+
+The Masterkey fault consists of three vulnerabilities which allow attackers to bypass the AMD-specific Hardware 
+
+
+Validated Boot (HVB) mechanism, through which the Secure Processor first boots up the computer. Masterkey 
+
+
+leverages the Secure Processor’s privileges to wreak havoc on target computers. 
+
+
+
+http://www.amdflaws.com/
+Viceroy Research Group 9 viceroyresearch.org 
+
+
+Ryzenfall  
+
+
+ 
+Figure 10 Extract of CTS report 
+
+
+Ryzenfall’s most concerning impact is its weakness in allowing hackers to engage in arbitrary code execution on 
+
+
+the Secure Processor, essentially allowing an attacker to execute any command of their choice on a target Ryzen 
+
+
+or Ryzen Pro Secure Processor.  
+
+
+ 
+Figure 11 Extract of CTS report 
+
+
+Fallout 
+
+
+ 
+Figure 12 Extract of CTS report 
+
+
+We have detailed the nature and impact of the vulnerabilities in the HVB under the Masterkey section above, 
+
+
+however the boot loader Fallout vulnerabilities further highlight the crippling security oversights in the design 
+
+
+and implementation of AMD’s EPYC server processors. 
+
+
+ 
+Figure 13 Extract of CTS report 
+
+
+Chimera 
+
+
+ 
+Figure 14 Extract of CTS report 
+
+
+Chimera differs from the other three vulnerabilities discovered by CTS as its involves the use of a manufacturer 
+
+
+backdoor. CTS’s report claims that this is due to AMD’s use of ASMedia-manufactured chipsets all of which have 
+
+
+displayed the same glaring inclusion of manufacturer backdoors. 
+
+
+Readers will note that hardware manufacturers such as Apple have historically objected to the introduction of 
+
+
+backdoors in a finished product even under pressure from the FBI10.  
+
+
+AMD’s Ryzen and EPYC appear to have backdoors built in. 
+
+
+                                                                 
+10 https://www.apple.com/customer-letter/  
+
+
+
+https://www.apple.com/customer-letter/
+Viceroy Research Group 10 viceroyresearch.org 
+
+
+ 
+Figure 15 Extract of CTS report 
+
+
+Practical implications from identified flaws 
+As the three vulnerabilities named Masterkey, Ryzen and Fallout all affect the Secure Processor, the possible 
+
+
+implications for customers can be devastating. 
+
+
+We note the following slides from a recent AMD video advertising their embedded processors, which stresses 
+
+
+AMD’s security capabilities again and again11:  
+
+
+ 
+Figure 16 Extract from AMD YouTube video12 
+
+
+Attackers can access data for every customer on a cloud provider’s server 
+One of the key attractions of AMD’s EPYC chip for cloud providers is AMD’s Secured Encrypted Virtualization 
+
+
+(SEV).  
+
+
+By encrypting the customer’s virtual machines to which an administrator or hacker does not have access, the 
+
+
+goal of the SEV is to protect customers by ensuring that a hacker, untrusted Hypervisor, or even a rogue 
+
+
+administrator would not be able to read the actual underlying data. In essence, access to data is segregated and 
+
+
+gated in order to prevent unauthorized access.  
+
+
+Customers of cloud providers are extremely concerned about the security of their customers’ data and the risk 
+
+
+of their data being accessed or manipulated by an unauthorized party. AMD created the SEV to allay these fears. 
+
+
+                                                                 
+11 https://www.amd.com/en 
+12 https://www.youtube.com/watch?v=kwERyyABKdY  
+
+
+
+https://www.amd.com/en
+
+https://www.youtube.com/watch?v=kwERyyABKdY
+Viceroy Research Group 11 viceroyresearch.org 
+
+
+ 
+Figure 17 Extract from AMD Virtual Memory Encryption presentation13 
+
+
+AMD’s SEV is entirely managed by the Secure Processor. As a result, the promoted security features of AMD’s 
+
+
+SEV is compromised and useless, giving hackers access and total control over every customer’s data that is stored 
+
+
+by the cloud provider. 
+
+
+The vulnerability of AMD’s Secure Processor to Masterkey, Ryzenfall and Fallout 
+
+
+vulnerabilities renders SEV useless  
+
+
+Attackers can easily spread throughout the network 
+Generally speaking, the first computer hacked in a network is regarded as a “low-value target”. A key objective 
+
+
+for an attacker is to move within the network to a “high-value target” (i.e. CEO’s). 
+
+
+Microsoft developed Windows Credential Guard to stop “credential dumping”, a key mechanism used by 
+
+
+attackers to spread through a network through credential theft.  
+
+
+The vulnerabilities in the Secure Processor allow hackers to perform credential dumps regardless of Windows 
+
+
+Credential Guard. Once these credentials have been obtained, attackers are free to move about the entire 
+
+
+enterprise network. 
+
+
+This also means that just one workstation with a Ryzen or EPYC chip within an enterprise network is potentially 
+
+
+at risk, even if they remainder of users are on more secure Intel chips. 
+
+
+The vulnerability of AMD’s Secure Processor to Masterkey, Ryzenfall and Fallout 
+
+
+vulnerabilities renders Windows Credential Guard useless.  
+
+
+Attackers achieve persistency and full control 
+A key attack vector is the first few moments after the processor has started up, during which many security 
+
+
+protocols are not yet active. AMD’s Secure Processor verifies itself upon startup essentially giving it the highest 
+
+
+level of privilege in the system. Any malware present on the Secure Processor is nigh-untouchable by the 
+
+
+majority of security protocols. This ability to install malware that can remain undetected and out of the reach of 
+
+
+anti-virus software is known as “persistency”14. 
+
+
+                                                                 
+13 http://www.linux-kvm.org/images/7/74/02x08A-Thomas_Lendacky-
+AMDs_Virtualizatoin_Memory_Encryption_Technology.pdf  
+14 https://www.symantec.com/content/en/us/enterprise/white_papers/b-
+advanced_persistent_threats_WP_21215957.en-us.pdf  
+
+
+
+http://www.linux-kvm.org/images/7/74/02x08A-Thomas_Lendacky-AMDs_Virtualizatoin_Memory_Encryption_Technology.pdf
+
+http://www.linux-kvm.org/images/7/74/02x08A-Thomas_Lendacky-AMDs_Virtualizatoin_Memory_Encryption_Technology.pdf
+
+https://www.symantec.com/content/en/us/enterprise/white_papers/b-advanced_persistent_threats_WP_21215957.en-us.pdf
+
+https://www.symantec.com/content/en/us/enterprise/white_papers/b-advanced_persistent_threats_WP_21215957.en-us.pdf
+Viceroy Research Group 12 viceroyresearch.org 
+
+
+According to CTS the Masterkey and Ryzenfall vulnerability allows hackers arbitrary code execution on the 
+
+
+Secure Processor, essentially hijacking the security center of the processor.  
+
+
+AMD has essentially given hackers the keys to the kingdom, giving them unfettered control over a workstation 
+
+
+and/or network. The AMD user would not even know that they have been hacked.  
+
+
+The vulnerability of AMD’s Secure Processor to Masterkey, Ryzenfall and Fallout 
+
+
+vulnerabilities renders AMD’s Secure Boot process useless.  
+
+
+Attackers are free to engage in ransomware and hardware Destruction 
+Once a hacker sits on the Secure Processor, the hacker can introduce any code it wants, and can hijack the 
+
+
+system at will and ransom it. 
+
+
+AMD Secure Processor’s vulnerabilities mean that hackers could compromise a large number of systems that 
+
+
+have the Ryzen or EPYC chips and hold them for ransom.  
+
+
+Victims would be under incredible pressure to pay a ransom if they find that a large number of their workstations 
+
+
+are being hijacked. Readers will be familiar with ransomware from the recent attacks using Wannacry15. Once in 
+
+
+control, a hacker is also able to “brick” the machine by introducing bad code that can physically destroys the 
+
+
+machine. 
+
+
+Implications of Chimera 
+According to CTS, the effects of Chimera are fairly different to those of the Masterkey, Ryzenfall and Fallout 
+
+
+vulnerabilities. This is due to the role of the chipset and the role in the connection of a computer’s peripherals 
+
+
+including USB host controllers, SATA and PCI Express as well as its links to the computers access to LAN, WIFI 
+
+
+and Bluetooth. 
+
+
+CTS suggests Chimera vulnerabilities would allow an attacker to: 
+
+
+ 
+Figure 18 Composite extract from CTS Report 
+
+
+AMD has failed to detect and fix deeply flawed code from ASMedia which contained manufacturer backdoors in 
+
+
+hardware (ASIC) and backdoors in firmware which allow a hacker to read and write memory to the chip.  
+
+
+Experts were shocked to find that the AMD chipset integrated with Ryzen PCs contained all the manufacturer 
+
+
+backdoors in hardware (ASIC) and in firmware that had been present on previous ASMedia chips dating back to 
+
+
+2012. 
+
+
+                                                                 
+15 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack  
+
+
+
+https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
+Viceroy Research Group 13 viceroyresearch.org 
+
+
+ 
+Figure 19 Extract of CTS report 
+
+
+Viceroy believes that AMD outsourced this component to ASMedia because only ASMedia and Intel have the 
+
+
+intellectual property to design USB 3.1 controllers, which are in high demand due to a large increase in speed 
+
+
+compared to the USB 3.0 controllers.  
+
+
+All new Ryzen and Ryzen Pro PCs will be bundled with a compromised chipset that 
+
+
+controls the peripherals. 
+
+
+ASMedia: a history of vulnerabilities 
+ASMedia is 41% owned by ASUSTek Computer (ASUS), a publicly-listed company in Taiwan, which produces 
+
+
+computers under the ASUS brand. In February 2016, ASUS settled FTC charges that alleged its home routers and 
+
+
+cloud services were insecure and put customers at risk. The settlement required ASUS to establish and maintain 
+
+
+a comprehensive security program subject to independent audits for the next 20 years16. The FTC commented 
+
+
+that they weren’t just unhappy about ASUS's bogus security claims, but it’s also unhappy with the company's 
+
+
+response time17. 
+
+
+It is astounding that AMD would even consider outsourcing such an integral component of 
+
+
+their security features from ASUSTek. 
+
+
+In light of the FTC’s imposed audits and the poor reputation around security practices at ASMedia, customers 
+
+
+should expect that AMD had conducted extensive security audits of ASMedia’s chipset and code before 
+
+
+integrating with Ryzen to ensure that no vulnerabilities exist, particularly considering that AMD slaps its own 
+
+
+name on the chipset, using ASMedia as a private label supplier.  
+
+
+Through consultation with experts, Viceroy understand that the manufacturer backdoors were so glaring that 
+
+
+any cursory security audit would have identified the vulnerabilities within hours. CTS was able to identify these 
+
+
+flaws from the machine code. 
+
+
+
+
+
+                                                                 
+16 https://www.ftc.gov/news-events/press-releases/2016/02/asus-settles-ftc-charges-insecure-home-routers-cloud-
+services-put  
+17 https://thehackernews.com/2016/02/asus-router-security-hack.html  
+
+
+
+https://www.ftc.gov/news-events/press-releases/2016/02/asus-settles-ftc-charges-insecure-home-routers-cloud-services-put
+
+https://www.ftc.gov/news-events/press-releases/2016/02/asus-settles-ftc-charges-insecure-home-routers-cloud-services-put
+
+https://thehackernews.com/2016/02/asus-router-security-hack.html
+Viceroy Research Group 14 viceroyresearch.org 
+
+
+All this leads us to question the presence of the backdoors: 
+
+
+1. Does the presence of these obvious flaws mean that AMD did not conduct sufficient security audits? 
+
+
+2. If a security audit was even conducted, was the inclusion of the vulnerabilities a result of pure negligence 
+
+
+by AMD’s security auditors? and; 
+
+
+3. If AMD were aware of the vulnerabilities: did they look the other way out of a rush to release their 
+
+
+product? 
+
+
+Regardless of the answer, AMD’s Ryzen chipset is riddled with security vulnerabilities, failing Security 101. 
+
+
+Key takeaways 
+These products were AMD’s chance to regain a foothold in high margin PCs and the server market. But in its 
+
+
+rush to reinvent itself, AMD shot itself in the foot. Intel’s security issues could have been a boon for AMD, but 
+
+
+AMD’s security flaws are far, far greater.  
+
+
+Viceroy believes the Masterkey, Ryzenfall and Fallout vulnerabilities will make AMD’s product non-functioning 
+
+
+and fatally erode consumer trust in the short and long term. Frighteningly, AMD claims that its main benefit to 
+
+
+the Aerospace and Defense sector is the fundamentally flawed Secure Processor. 
+
+
+ 
+Figure 20 Extract from AMD webpage “Embedded Aerospace and Defence”18 
+
+
+
+
+
+                                                                 
+18 https://www.amd.com/en/products/embedded-aero-defense-solutions  
+
+
+
+https://www.amd.com/en/products/embedded-aero-defense-solutions
+Viceroy Research Group 15 viceroyresearch.org 
+
+
+Patching - Can’t AMD just patch the problem? 
+From consultations with experts, Viceroy understand that the collective fundamental vulnerabilities with AMD’s 
+
+
+Ryzen and EPYC product lines are practically un-patchable. There are at least three parts to the patching process:  
+
+
+1. Programming the patch – Programming a patch could take as little as a few days, although complex 
+
+
+workarounds for hardware vulnerabilities are far more complex and could take months. While it is hard to 
+
+
+anticipate the impact the patch and workarounds will have on the performance of the chip and system, a 
+
+
+significant slowdown or loss of features and functionality, this will cause the chips to be unattractive to 
+
+
+customers.  
+
+
+2. Quality assurance – Once a patch has been programmed it will have to go through quality assurance, which 
+
+
+could take more than 3 months. The reason for the long delay is that if the patch has an error, it could 
+
+
+destroy the customer’s hardware.  
+
+
+3. Distribution – Once the patch has passed through quality assurance, it will then be distributed to AMD’s 
+
+
+OEM partners through AGESA (reference). The OEMs will then need to ensure that this patch is compatible 
+
+
+with its products and will need to go through another round of quality assurance to ensure that it does not 
+
+
+corrupt its customers’ products. Once this is complete, they can then distribute the patch. The BIOS update 
+
+
+may need a full reboot of the system and most importantly, it would need IT administrators and individuals 
+
+
+to actually update the BIOS themselves if not done so automatically. 
+
+
+Within distribution, experts communicated that original equipment manufacturers (OEMs) would need to 
+
+
+perform these three steps again in order for the patch to be fully implemented. During this time AMD’s devices 
+
+
+would be completely vulnerable.  
+
+
+For reference, a security researcher from Google’s cloud security team identified what we understand should 
+
+
+have been an easily patchable vulnerability in the fTPM (Firmware Trusted Platform Module) of AMD Secure 
+
+
+Processor which required physical access to execute and reported this to AMD in late September 201719. The 
+
+
+patch was only distributed in mid-January (exact dates are OEM specific). 
+
+
+Patching the chipset’s hardware backdoors will be very difficult because there is a design flaw in the logic gates. 
+
+
+Before potentially being forced into a recall, AMD will attempt to create a workaround, but this could be very 
+
+
+difficult, as blocking access to hardware backdoors could break access to USB ports or other peripherals. There 
+
+
+is really no simple solution to this and a recall is highly possible, although totally impractical. 
+
+
+The biggest hurdle Viceroy perceive is time. From discussions with experts: in the most optimistic of scenario it 
+
+
+will take AMD many months to patch vulnerabilities on its devices.  
+
+
+If AMD fails to find a workaround almost instantly, we believe a full recall in the interest 
+
+
+of public safety would be necessary. The Product Safety Commission has the power to 
+
+
+force cessation of sale and obtain orders for product recall if the product if deemed to 
+
+
+“present a substantial product hazard”.  
+
+
+
+
+
+                                                                 
+19 https://www.theregister.co.uk/2018/01/06/amd_cpu_psp_flaw/  
+
+
+
+https://www.theregister.co.uk/2018/01/06/amd_cpu_psp_flaw/
+Viceroy Research Group 16 viceroyresearch.org 
+
+
+AMD patches don’t always work 
+In December 2017, AMD reluctantly provided a patch to disable the Secure Processor following severe pressure 
+
+
+from the cyber-security community who were suspicious of locked-down closed source software.  
+
+
+In their report CTS states that contrary to AMD’s description of the patch, the patch only partially disables the 
+
+
+Secure Processor. Essentially even “disabling” the Secure Processor and leaves Ryzenfall vulnerabilities in the 
+
+
+CTS report open to attackers.  
+
+
+ 
+Figure 21 Extract of CTS report 
+
+
+AMD’s patch to disable the Secure Processor was evidently completely ineffective by design or by negligence. 
+
+
+Regardless of which, this is just another example showing that AMD does not have the skills to operate in a 
+
+
+market that requires state-of-the-art security and cannot be trusted to follow through.  
+
+
+The impact: an AMD autopsy 
+
+
+Regulation 
+AMD’s release of products with security vulnerabilities introduces a wide range of potential regulatory and legal 
+
+
+issues. While cyber-security regulation is still in its nascent stages, it is becoming an increasingly important issue 
+
+
+in light of various high-profile security breaches, including Spectre and Meltdown.  
+
+
+As such, regulators are introducing and implementing new pieces of cybersecurity regulation and requirements 
+
+
+designed to protect consumers’ private data. The implicit goal of this new regulation is to increase the security 
+
+
+within systematically important institutions and to hold companies accountable for their cybersecurity 
+
+
+requirements. There have been two notable pieces of cybersecurity regulation released recently: 
+
+
+1. Department of Financial Services Cybersecurity Regulation (US) – regulation implemented by the Financial 
+
+
+Services Superintendent in the US and designed to protect financial institutions. Banks, insurance 
+
+
+companies and other financial services institutions regulated by the DFS are required to have a cybersecurity 
+
+
+program designed to protect consumers’ private data; a written policy or policies that are approved by the 
+
+
+board or a senior officer; a Chief Information Security Officer to help protect data and systems; and controls 
+
+
+and plans in place to help ensure safety and soundness of the financial services industry. The first 
+
+
+compliance date for this regulation was effective August 28, 2017.20 
+
+
+2. Global Data Protection Regulation (EU) (GDPR) – this is regulation implemented by EU Parliament to 
+
+
+protect EU citizens from privacy and data breaches. The regulation introduces penalties for non-compliance 
+
+
+including fines (4% of annual global turnover or €20M) for serious infringements such as violating the core 
+
+
+of “Privacy by Design” concepts. This regulation comes into effect on May 25, 2018.21 
+
+
+                                                                 
+20 http://www.dfs.ny.gov/about/press/pr1708281.htm 
+21 https://www.eugdpr.org/key-changes.html 
+
+
+
+http://www.dfs.ny.gov/about/press/pr1708281.htm
+
+https://www.eugdpr.org/key-changes.html
+Viceroy Research Group 17 viceroyresearch.org 
+
+
+Further to this regulation, shareholder derivative lawsuits have emerged targeting a number of companies who 
+
+
+are alleged to have failed to maintain proper internal controls related to data security and misleading affected 
+
+
+consumers regarding breaches that had occurred22. We would not be surprised if numerous class action claims 
+
+
+arise on the back of CTS’s research.  
+
+
+We believe AMD’s numerous vulnerabilities and apparent lack of care for basic security protocols make their 
+
+
+products unpurchaseable from the perspective of both the pieces of regulation outlined above. Simply, any 
+
+
+Chief Information Security Officer (“CISO”) would be completely irresponsible if they recommended the 
+
+
+purchase of AMD’s products.  
+
+
+Legal liabilities 
+Existing regulation would serve to augment existing laws and regulation in place that would protect consumers 
+
+
+of AMD’s products. While it is currently unclear which specific pieces of regulation or legislation would apply to 
+
+
+the vulnerabilities associated with AMD’s products, we believe the Company will face a number of issues 
+
+
+surrounding: 
+
+
+1. Product liability – A consumer’s cause of action is usually based on common law as no federal product 
+
+
+liability law exists. This cause of action revolves around three types of claims: 
+
+
+a. Breach of warranty: the ability to seek remedy when a product fails to satisfy express 
+
+
+representations, is not merchantable, or is unfit for its particular purpose.23 
+
+
+b. Negligence: the ability to seek remedy from the defendant for failing to use due care24 
+
+
+c. Strict liability: the ability to seek remedy for product defect regardless of steps the manufacturer 
+
+
+has taken25 
+
+
+AMD passed on ASMedia’s flawed technology to customers with little in the way of due diligence or 
+
+
+effective security review26,27  
+
+
+2. Warranties28 – Implied warranties are unspoken and unwritten promises created by state law between a 
+
+
+seller or merchant, to their customers. There are two types of implied warranties that occur in consumer 
+
+
+product transactions; the implied warranty of merchantability and the implied warranty of fitness for a 
+
+
+particular purpose. 
+
+
+a. The implied warranty of merchantability is a merchant's basic promise that the goods sold will do 
+
+
+what they are supposed to do and that there is nothing significantly wrong with them. In other 
+
+
+words, it is an implied promise that the goods are fit to be sold.  
+
+
+b. The implied warranty of fitness for a particular purpose is a promise sellers make when their 
+
+
+customers rely on their advice that a product can be used for some specific purpose. 
+
+
+Based on the ease with which the vulnerabilities in AMD’s products are exploitable, we do not believe 
+
+
+these products conform with the basic promise of a safe, secure product fit for use. 
+
+
+
+
+
+                                                                 
+22 https://iapp.org/news/a/cybersecurity-in-the-boardroom-the-new-reality-for-directors/ 
+23 https://www.law.cornell.edu/wex/breach_of_warranty  
+24 http://www.courts.state.ny.us/reporter/archives/macpherson_buick.htm  
+25 https://www.cozen.com/admin/files/publications/kiernan1954533.pdf?embed  
+26http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+
+And+The+Issues+Relevant+To+Foreign+Manufacturers 
+27 https://www.kreamlaw.com/Frequently-Asked-Questions-Products-Liability.shtml 
+28 https://www.ftc.gov/tips-advice/business-center/guidance/businesspersons-guide-federal-warranty-law 
+
+
+
+https://iapp.org/news/a/cybersecurity-in-the-boardroom-the-new-reality-for-directors/
+
+https://www.law.cornell.edu/wex/breach_of_warranty
+
+http://www.courts.state.ny.us/reporter/archives/macpherson_buick.htm
+
+https://www.cozen.com/admin/files/publications/kiernan1954533.pdf?embed
+
+http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+And+The+Issues+Relevant+To+Foreign+Manufacturers
+
+http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+And+The+Issues+Relevant+To+Foreign+Manufacturers
+
+https://www.kreamlaw.com/Frequently-Asked-Questions-Products-Liability.shtml
+
+https://www.ftc.gov/tips-advice/business-center/guidance/businesspersons-guide-federal-warranty-law
+Viceroy Research Group 18 viceroyresearch.org 
+
+
+4. False advertising29 – The FTC has responsibility for enforcing the nation's competition laws including 
+
+
+protecting consumers from unfair or deceptive practices.  
+
+
+ 
+Figure 22 Extract from FTC webpage “Advertising FAQ’s: A Guide for Small Business30 
+
+
+As outlined in this report, AMD has been misrepresenting itself as a leader in security in the chipset industry 
+
+
+with state-of-the-art security. Based on the sheer amount of vulnerabilities and the potential risks it exposes 
+
+
+users to we believe it is clear that AMD has falsely been advertising itself as a “more secure” solution. 
+
+
+Risk of recall 
+A duty to recall could be imposed by a governmental directive issued pursuant to a state or regulation. One such 
+
+
+entity is the Consumer Product Safety Commission, which is generally focused on children’s toys but has case-
+
+
+by-case power to force cessation of sale of a product if deemed to “present a substantial product hazard”.  
+
+
+Voluntary recalls by semiconductor companies are not without precedent. Intel has recalled the Pentium FDIV 
+
+
+(1994) and Cougar Point (2011)31 at significant cost (US$475M and US$700M respectively). While a deep analysis 
+
+
+of these two recalls is beyond the scope of this research report, the security flaws in AMD’s products far exceed 
+
+
+the defects identified in Intel’s processors which necessitated a recall. 
+
+
+We believe that AMD will likely have to recall its Ryzen chips given the scope and severity of the 
+
+
+vulnerabilities, the lengthy period to provide patches and work-arounds, and the prospect of more 
+
+
+vulnerabilities being discovered. 
+
+
+The SEC 
+The SEC has taken particular interest in cybersecurity recently including the release of a statement to provide 
+
+
+guidance for Public Company Cybersecurity Disclosures. In the introduction, the SEC succinctly summarizes 
+
+
+cybersecurity risks and their implications and explicitly highlights that: 
+
+
+ 
+Figure 23 Extract from SEC Statement and Guidance on Public Company Cybersecurity Disclosures32 
+
+
+                                                                 
+29 https://www.ftc.gov/public-statements/1997/04/role-advertising-and-advertising-regulation-free-market#N_13_ 
+30 https://www.ftc.gov/tips-advice/business-center/guidance/advertising-faqs-guide-small-business  
+31 http://www.tomshardware.com/reviews/cougar-point-recall-sata-6gbps,2896.html 
+32 https://www.sec.gov/rules/interp/2018/33-10459.pdf  
+
+
  
 
 
-Director	
-  of	
-  Research:	
-  	
-  Carson	
-  C.	
-  Block,	
-  Esq.	
-  
+
+https://www.ftc.gov/public-statements/1997/04/role-advertising-and-advertising-regulation-free-market#N_13_
+
+https://www.ftc.gov/tips-advice/business-center/guidance/advertising-faqs-guide-small-business
+
+http://www.tomshardware.com/reviews/cougar-point-recall-sata-6gbps,2896.html
+
+https://www.sec.gov/rules/interp/2018/33-10459.pdf
+Viceroy Research Group 19 viceroyresearch.org 
+
+
+These SEC guidelines are speculated to come amid scrutiny of a massive stock by sale Intel CEO Brian Krzanich 
+
+
+made last fall after his company found out about – but before it publicly disclosed -- the Meltdown and Spectre 
+
+
+vulnerabilities33. The SEC advised companies to disclose such incidents to investors in a “timely” manner: 
+
+
+“Given the frequency, magnitude and cost of cybersecurity incidents, the Commission believes that it is critical 
+
+
+that public companies take all required actions to inform investors about material cybersecurity risks and 
+
+
+incidents in a timely fashion, including those companies that are subject to material cybersecurity risks but may 
+
+
+not yet have been the target of a cyber-attack. 
+
+
  
+Figure 24 Extract from SEC Statement and Guidance on Public Company Cybersecurity Disclosures 
 
 
+We believe this language is very strong and explicitly highlights AMD’s duty to publicize these vulnerabilities as 
 
 
+soon as they are made aware of them. We would also note that AMD’s management has also been heavily selling 
 
 
+stock over the last year, as discussed. 
 
 
-Terms of Service: 
+Intel’s handling of the disclosure of the exploits is now the subject of some 35 lawsuits, including a number of 
 
 
-By downloading from, or viewing material on, this website you agree to the following Terms of Service.  You agree that use of Muddy 
-Waters LLC’s research is at your own risk. In no event will you hold Muddy Waters LLC or any affiliated party liable for any direct or indirect 
-trading losses caused by any information on this site. You further agree to do your own research and due diligence before making any 
-investment decision with respect to securities covered herein.  You represent to Muddy Waters that you have sufficient investment 
-sophistication to critically assess the information, analysis and opinion on this site.  You further agree that you will not communicate the 
-contents of this report to any other person unless that person has agreed to be bound by these same terms of service.  If you download or 
-receive the contents of this report as an agent for any other person, you are binding your principal to these same Terms of Service. 
+shareholder derivative lawsuits related to the CEO’s stock sales34. Some of these law suits charge that the 
+
+
+disclosure of the attacks show that statements Intel made about its products or business were false or 
+
+
+misleading.  
+
+
+Viceroy believes AMD’s disclosures regarding its superior security are far more 
+
+
+misleading and will attract similar levels of scrutiny and attack. 
+
+
+Homeland Security Department – the implications for AMD / ASMedia Customers 
+The Department of Homeland Security’s (DHS) Assistant Secretary for Cybersecurity and Communications 
+
+
+Jeanette Manfra on February 18, 2018 outlined proposals to integrate vetting of cyber-risks to the Government 
+
+
+supply chains35.  
+
+
  
-You should assume that as of the publication date of our reports and research, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors and/or their 
-clients and/or investors has a short position in all stocks (and/or options, swaps, and other derivatives related to the stock) and 
-bonds covered herein, and therefore stands to realize significant gains in the event that the price of either declines. We intend to 
-continue transacting in the securities of issuers covered on this site for an indefinite period after our first report, and we may be 
-long, short, or neutral at any time hereafter regardless of our initial recommendation.  
+Figure 25 Extract of nextgov.com article “DHS to Scrutinize Government Supply Chain for Cyber Risks” 
+
+
+The consequences are likely to be significant for customers of AMD and ASMedia, especially those using the 
+
+
+Ryzen and EPYC product lines. 
+
+
+                                                                 
+33 https://www.businessinsider.sg/sec-issue-guidelines-regarding-disclosure-of-security-breaches-2018-2/  
+34 http://www.businessinsider.com/35-lawsuits-have-been-filed-against-intel-over-spectre-and-meltdown-2018-2  
+35 http://www.nextgov.com/cybersecurity/2018/02/dhs-scrutinize-government-supply-chain-cyber-risks/145998/  
+
+
+
+https://www.businessinsider.sg/sec-issue-guidelines-regarding-disclosure-of-security-breaches-2018-2/
+
+http://www.businessinsider.com/35-lawsuits-have-been-filed-against-intel-over-spectre-and-meltdown-2018-2
+
+http://www.nextgov.com/cybersecurity/2018/02/dhs-scrutinize-government-supply-chain-cyber-risks/145998/
+Viceroy Research Group 20 viceroyresearch.org 
+
+
  
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to or from 
-any person through this site or reports on this site.  Muddy Waters, LLC is not registered as an investment advisor in any jurisdiction.  
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of:  (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "FPO"); or (b) 
-high net worth entity falling within Article 49 of the FPO. 
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences and 
-deductions through our due diligence and analytical process.  To the best of our ability and belief, all information contained herein is 
-accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not insiders or 
-connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. 
-However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy Waters, LLC makes no 
-representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to 
-be obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion.  All expressions of opinion 
-are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement any reports or any of the 
-information, analysis and opinion contained in them. 
- 
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the 
-downloaded file, copies / images / reproductions, or the link to these files) in any manner other than by providing the following link: 
-http://www.muddywatersresearch.com/research/. If you have obtained Muddy Waters research in any manner other than by download from 
-that link, you may not read such research without going to that link and agreeing to the Terms of Service. You further agree that any dispute 
-arising from your use of this report and / or the Muddy Waters Research website or viewing the material hereon shall be governed by the 
-laws of the State of California, without regard to any conflict of law provisions. You knowingly and independently agree to submit to the 
-personal and exclusive jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction 
-or applicable law, given that Muddy Waters, LLC has offices in California. The failure of Muddy Waters, LLC to exercise or enforce any right 
-or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of these Terms of Service is 
-found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the 
-parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Service remain in full force and effect, in 
-particular as to this governing law and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or 
-cause of action arising out of or related to use of this website or the material herein must be filed within one (1) year after such claim or 
-cause of action arose or be forever barred. 
+Figure 26 Extract of nextgov.com article “DHS to Scrutinize Government Supply Chain for Cyber Risks” 
+
+
+Considering the vast number and diversity of AMD’s customers and the concerns relating to the backdoors, 
+
+
+Viceroy believes AMD products, especially the Ryzen and EPYC product lines will be banned entirely from the 
+
+
+government supply chain. The knock-on effect of this restriction to AMD customers will be significant, including 
+
+
+HP, Microsoft Azure, Baidu and Dell EMC.  
+
+
+Readers will be familiar with the US government ban on Kaspersky Lab products based on the suspected 
+
+
+influence of the Russian government of the company. On December 12, 2017 the use of all Kaspersky Lab 
+
+
+products within the US government was banned. This followed a September 13, 2017 directive to remove any 
+
+
+Kaspersky Lab software from government systems within 90 days was issued. 
+
+
+Viceroy believes a similar purge of AMD products from government systems will be imminent that adversaries 
+
+
+of any government or entity using the AMD Ryzen or EPYC products will be open to attack by hostile entities. 
+
+
+Potential Financial Impacts 
+Due to the unprecedented nature of the Ryzen and EPYC vulnerabilities in scope as well as the recent nature of 
+
+
+the CTS report Viceroy believes analysis of their financial impact with any resolution to be premature at this 
+
+
+time. However Intel’s legal problems following the far less severe Meltdown/Spectre attacks leads us to believe 
+
+
+the costs legal and regulatory issues caused by vulnerabilities to AMD will be catastrophic. 
+
+
+Below is a non-exhaustive list of potential financial impacts arising from the legal and regulatory issues stated 
+
+
+above: 
+
+
+▪ Litigation and legal risks, including regulatory actions by state and federal governmental authorities and 
+
+
+non-U.S. authorities; 
+
+
+▪ Remediation costs, such as liability for stolen assets or information, repairs of system damage, and 
+
+
+incentives to customers or business partners in an effort to maintain relationships after an attack; 
+
+
+▪ Increased cybersecurity protection costs, which may include the costs of making organizational changes, 
+
+
+deploying additional personnel and protection technologies, training employees and engaging third party 
+
+
+experts and consultants; 
+
+
+▪ Claims related to warranties, breach of contract, product recall / replacement, indemnification of 
+
+
+counterparties; 
+
+
+▪ Increased insurance premiums; 
+
+
+▪ Reputation damage that adversely affects customer or investor confidence;  
+
+
+▪ Damage to the company’s competitiveness, stock price, and long-term shareholder value; and  
+
+
+▪ Investigation of management’s stock sales.  
+
+
+Management appears highly skeptical  
+AMD’s stock has risen dramatically, from US$2 per share in January 2016 to US$11.52 today, due to increased 
+
+
+expectations for Ryzen, EPYC and GPUs. Despite this, AMD management’s actions appear to be highly cynical of 
+
+
+the company’s ability to perform.
+Viceroy Research Group 21 viceroyresearch.org 
+
+
+As seen below, AMD has provided unusually clear product roadmaps for its major products, both on its website36 
+
+
+and at CES 2018.37 
+
+
+
+
+
+
+
+
   
+Figure 27 Extracts from AMD presentation “Roadmaps 2018 and Beyond”38 
 
 
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as 
-follows.  To be authorized to access such reports, you must agree to these terms, regardless of 
-whether you have downloaded its reports directly from this website or someone else has 
-supplied the report to you without authorization from Muddy Waters.   
-	
-  
+Strangely with such as supposedly exciting future ahead, AMD’s management has been very actively dumping 
 
 
-Page 1 of 18
-Muddy Waters, LLC 
-November 1, 2013 
+their stock. Since November 2016, AMD’s CEO, Lisa Su, has sold over 2.8 million shares of AMD, amounting to 
 
 
-NQ: Maintaining <$1 price target 
- 
+US$30m. In total, the management team has sold over 9 million shares of AMD since November 2016.  
 
 
-Chinese Media Exposes Lies About NQ “Partnerships” 
- 
-It is beneficial for US investors to read Chinese media coverage of our NQ reports.  This 
-update consists of English translations of four articles that have appeared in Chinese 
-media in the past week.  There are two articles quoting certain of NQ’s purported partners 
-(e.g., ZTE) as stating that NQ fabricated the partnerships.  One article covers the 
-disappearance of NQ / FL Mobile’s games from the iTunes store.  One article is an IM 
-exchange between Chinese investors and Chairman Lin.  (The host of the chat was 
-Xueqiu.com, a Chinese investment site.)  Chairman Lin seems to take pain to avoid 
-directly answering tough questions, such as those stating that NQ’s market share claims 
-do not match with Chinese investors’ observations.  The articles also mention Chairman 
-Lin’s (unverified) claim that NQ has sued Muddy Waters in China.   
- 
-The articles are: 
- 
+Note on the graph below that the completely absent green annotations indicate an insider buy, compared to 
 
 
-• NQ’s "Business Partners” ZTE, Huawei and Lenovo, Denied There Was Pre-
-installation Cooperation, The Beijing News, Oct. 30, 2013. 
-
-
-• NQ Accused of Unilaterally Fabricating Reports of Cooperation with ZTE, 
-Money.163.com, Oct. 25, 2013. 
-
-
-• FL Mobile: iOS Games Drop-off Issue Still Under Discussion, Sina Technology, 
-Oct. 29, 2013. 
-
-
-• NQ Mobile CEO Yu Lin: We have filed a lawsuit in China against Muddy 
-Waters, and are considering organizing an anti-Muddy-Waters group, Caijing 
-News, Oct. 29, 2013. 
-
-
-
-
-
-Page 2 of 18
-(Source:	
-  The	
-  Beijing	
-  News,	
-  30th	
-  October	
-  2013:	
-  03:00)	
-  
-	
-  
-NetQin’s	
-  “Business	
-  Partners”	
-  ZTE,	
-  Huawei	
-  and	
-  Lenovo,	
-  Denied	
-  There	
-  
-Was	
-  Pre-­‐installation	
-  Cooperation	
-  
-	
-  
-
-
-Some	
-  of	
-  NetQin’s	
-  alleged	
-  business	
-  partners,	
-  such	
-  as	
-  mobile	
-  phone-­‐related	
-  
-companies	
-  ZTE,	
-  Huawei,	
-  Lenovo,	
-  etc.,	
-  claimed	
-  to	
-  have	
-  no	
-  pre-­‐installation	
-  business	
-  
-with	
-  NetQin	
-  during	
-  interviews	
-  with	
-  the	
-  reporter	
-  yesterday.	
-  
-	
-  
-
-
-After	
-  NetQin	
-  was	
-  questioned	
-  by	
-  the	
-  short-­‐seller	
-  and	
-  the	
-  media,	
-  some	
-  of	
-  
-NetQin’s	
-  alleged	
-  business	
-  partners,	
-  such	
-  as	
-  mobile	
-  phone-­‐related	
-  companies	
-  ZTE,	
-  
-Huawei,	
-  Lenovo,	
-  etc.,	
-  revealed	
-  they	
-  have	
-  had	
-  no	
-  pre-­‐installation	
-  business	
-  with	
-  
-NetQin,	
-  during	
-  the	
-  interviews	
-  with	
-  The	
-  Beijing	
-  News	
-  reporter	
-  yesterday.	
-  In	
-  response	
-  
-to	
-  this,	
-  NetQin	
-  expressed	
-  there	
-  must	
-  be	
-  a	
-  misunderstanding	
-  resulting	
-  from	
-  internal	
-  
-communication	
-  problems	
-  with	
-  the	
-  mobile	
-  phone	
-  companies.	
-   	
-   NetQin	
-  has	
-  adequate	
-  
-evidence	
-  to	
-  prove	
-  it	
-  is	
-  genuinely	
-  doing	
-  pre-­‐installations	
-  with	
-  these	
-  companies.	
-  
-	
-  
-
-
-NetQin	
-  Said	
-  It	
-  Had	
-  Been	
-  Cooperating	
-  with	
-  Huawei,	
-  Etc.	
-  for	
-  Years	
-  
-	
-  
-
-
-NetQin	
-  Mobile,	
-  Inc.	
-  was	
-  established	
-  in	
-  2005	
-  as	
-  a	
-  mobile	
-  phone	
-  security	
-  
-software	
-  company.	
-  On	
-  May	
-  5,	
-  2011,	
-  NetQin	
-  was	
-  listed	
-  on	
-  the	
-  New	
-  York	
-  Stock	
-  
-Exchange.	
-  Before	
-  that,	
-  according	
-  to	
-  the	
-  publicly	
-  disclosed	
-  data	
-  by	
-  NetQin,	
-  the	
-  
-number	
-  of	
-  paid	
-  users	
-  was	
-  6	
-  million	
-  people.	
-  
-
-
-	
-  
-On	
-  October	
-  24,	
-  US	
-  time,	
-  short	
-  seller	
-  Muddy	
-  Waters	
-  published	
-  an	
-  81-­‐page	
-  
-
-
-investigative	
-  report,	
-  alleging	
-  that	
-  NetQin	
-  manipulated	
-  data	
-  on	
-  turnover,	
-  made	
-  false	
-  
-market	
-  share	
-  claims,	
-  and	
-  overstated	
-  the	
-  number	
-  of	
-  paid	
-  users.	
-  According	
-  to	
-  the	
-  
-report,	
-  the	
-  number	
-  of	
-  NQ	
-  paid	
-  users	
-  is	
-  less	
-  than	
-  25	
-  thousand	
-  people,	
-  which	
-  is	
-  
-different	
-  from	
-  the	
-  6	
-  million	
-  NetQin	
-  claimed.	
-  
-
-
-	
-  
-On	
-  the	
-  afternoon	
-  of	
-  October	
-  25,	
-  Beijing	
-  time,	
-  after	
-  NetQin’s	
-  eighth	
-  anniversary	
-  
-
-
-celebration,	
-  when	
-  interviewed	
-  by	
-  the	
-  media,	
-  NetQin	
-  CEO	
-  Henry	
-  LIN-­‐Yu	
-  said	
-  NetQin’s	
-  
-users	
-  are	
-  comprised	
-  of	
-  three	
-  pieces:	
-  registered	
-  users,	
-  monthly	
-  active	
-  users	
-  and	
-  paid	
-  
-users,	
-  and	
-  that	
-  many	
-  of	
-  the	
-  reports	
-  fail	
-  to	
-  differentiate	
-  these	
-  three	
-  concepts.	
-  Half	
-  of	
-  
-NetQin’s	
-  users	
-  are	
-  located	
-  overseas	
-  (whereas	
-  half	
-  are	
-  in	
-  China),	
-  covering	
-  over	
-  150	
-  
-countries.	
-  Currently,	
-  there	
-  are	
-  370	
-  million	
-  registered	
-  users	
-  (excluding	
-  FL	
-  Mobile),	
-  
-120	
-  million	
-  of	
-  which	
-  are	
-  monthly	
-  active	
-  users,	
-  and	
-  11.3	
-  million	
-  of	
-  those	
-  are	
-  monthly	
-  
-paid	
-  users.	
-  There	
-  are	
-  two	
-  main	
-  sources	
-  of	
-  NetQin’s	
-  users:	
-  pre-­‐installed	
-  mobile	
-  
-
-
-Page 3 of 18
-phones	
-  and	
-  online	
-  downloads.	
-  In	
-  the	
-  meantime,	
-  cooperation	
-  exists	
-  on	
-  
-pre-­‐installations	
-  between	
-  NetQin	
-  and	
-  mobile	
-  phone	
-  manufacturers	
-  ZTE,	
-  Huawei,	
-  
-Coolpad,	
-  Lenovo,	
-  etc.;	
-  there	
-  are	
-  30	
-  thousand	
-  sources	
-  on	
-  the	
-  Internet.	
-  The	
-  definition	
-  
-of	
-  an	
-  active	
-  user,	
-  according	
-  to	
-  NetQin,	
-  is,	
-  “NetQin’s	
-  software	
-  installed	
-  by	
-  the	
-  user,	
-  
-which	
-  is	
-  able	
-  to	
-  connect	
-  to	
-  the	
-  server”.	
-  
-
-
-	
-  
-While	
-  Lin	
-  participated	
-  in	
-  an	
-  online	
-  interview	
-  yesterday,	
-  he	
-  again	
-  stressed	
-  that	
-  
-
-
-there	
-  has	
-  been	
-  cooperation	
-  on	
-  pre-­‐installations	
-  between	
-  NetQin	
-  and	
-  a	
-  number	
-  of	
-  
-mobile	
-  phone	
-  manufacturers,	
-  such	
-  as	
-  Huawei,	
-  ZTE,	
-  Lenovo,	
-  Coolpad,	
-  Gionee,	
-  Oppo,	
-  
-etc.	
-  over	
-  the	
-  years.	
-  “In	
-  the	
-  coming	
-  year,	
-  there	
-  will	
-  be	
-  almost	
-  300	
-  million	
-  in	
-  output	
-  
-volume	
-  for	
-  orders	
-  from	
-  Huawei,	
-  ZTE,	
-  Lenovo	
-  and	
-  Coolpad.”	
-  Yet,	
-  Lin	
-  rejected	
-  the	
-  
-request	
-  of	
-  “listing	
-  the	
-  cooperative	
-  mobile	
-  phones’	
-  model	
-  numbers”	
-  from	
-  Internet	
-  
-users.	
-  
-
-
-	
-  
-Many	
-  Mobile	
-  Phone	
-  Manufacturers	
-  Denied	
-  the	
-  Said	
-  Cooperation	
-  
-	
-  
-Yesterday,	
-  mobile	
-  phone	
-  manufacturers	
-  ZTE,	
-  Huawei,	
-  Lenovo,	
-  etc.,	
-  told	
-  the	
-  
-
-
-Beijing	
-  News	
-  reporter	
-  they	
-  have	
-  had	
-  no	
-  pre-­‐installation	
-  business	
-  with	
-  NetQin.	
-  
-	
-  
-ZTE	
-  admitted	
-  that	
-  there	
-  were	
-  business	
-  discussions	
-  with	
-  NetQin.	
-   	
-   However,	
-  for	
-  
-
-
-reasons	
-  including	
-  the	
-  pre-­‐installation	
-  charge,	
-  this	
-  cooperation	
-  never	
-  happened.	
-  Later,	
-  
-ZTE	
-  developed	
-  its	
-  own	
-  security	
-  app,	
-  “Mi-­‐Assistant	
-  (掌心管家)”,	
-  so	
-  then	
-  there	
-  was	
-  no	
-  
-need	
-  to	
-  pre-­‐install	
-  NetQin’s	
-  software.	
-   	
-   ZTE	
-  has	
-  never	
-  had	
-  business	
-  cooperation	
-  with	
-  
-NetQin	
-  on	
-  pre-­‐installations.	
-  
-
-
-	
-  
-A	
-  related	
-  person	
-  from	
-  Lenovo	
-  also	
-  indicated	
-  that	
-  Lenovo	
-  has	
-  its	
-  own	
-  “Safe	
-  (乐
-
-
-安全)”	
-  product,	
-  which	
-  is	
-  a	
-  competitor	
-  of	
-  NetQin;	
-  thus,	
-  Lenovo	
-  never	
-  pre-­‐installed	
-  
-NetQin.	
-  A	
-  related	
-  person	
-  from	
-  Huawei	
-  also	
-  expressed	
-  that	
-  Huawei	
-  has	
-  
-communicated	
-  with	
-  NetQin,	
-  but	
-  has	
-  never	
-  had	
-  formal	
-  pre-­‐installation	
-  cooperation	
-  
-with	
-  NetQin.	
-  Coolpad	
-  expressed	
-  it	
-  has	
-  not	
-  cooperated	
-  with	
-  NetQin	
-  on	
-  
-pre-­‐installation	
-  for	
-  at	
-  least	
-  two	
-  years.	
-  
-
-
-	
-  
-Regarding	
-  these	
-  denials,	
-  a	
-  NetQin	
-  contact	
-  replied	
-  this	
-  must	
-  have	
-  been	
-  a	
-  
-
-
-misunderstanding	
-  resulting	
-  from	
-  internal	
-  communication	
-  problems	
-  with	
-  the	
-  mobile	
-  
-phone	
-  companies,	
-  and	
-  that	
-  NetQin	
-  has	
-  adequate	
-  evidence	
-  to	
-  prove	
-  that	
-  it	
-  is	
-  
-genuinely	
-  doing	
-  pre-­‐installation	
-  business	
-  with	
-  these	
-  companies.	
-  
-
-
-	
-  
-Stock	
-  Price	
-  Falls	
-  60%	
-  Within	
-  3	
-  Transaction	
-  Days	
-  
-
-
-Page 4 of 18
-Further	
-  to	
-  the	
-  large	
-  fall	
-  last	
-  week,	
-  on	
-  the	
-  evening	
-  of	
-  October	
-  28,	
-  NetQin’s	
-  stock	
-  
-
-
-price	
-  continued	
-  falling	
-  17.22%.	
-  The	
-  market	
-  value	
-  of	
-  NetQin	
-  is	
-  USD	
-  453	
-  million	
-  now,	
-  
-which	
-  is	
-  USD	
-  880	
-  million	
-  less	
-  than	
-  last	
-  Thursday.	
-  
-
-
-	
-  
-On	
-  October	
-  25,	
-  NetQin	
-  CEO	
-  Lin	
-  promised	
-  during	
-  an	
-  interview	
-  that	
-  at	
-  8	
-  pm	
-  that	
-  
-
-
-night,	
-  NetQin	
-  would	
-  announce	
-  an	
-  official	
-  reply	
-  to	
-  Muddy	
-  Waters’s	
-  accusation.	
-  
-Nevertheless,	
-  as	
-  of	
-  the	
-  time	
-  this	
-  new	
-  article	
-  published	
-  last	
-  night,	
-  NetQin	
-  still	
-  had	
-  not	
-  
-announced	
-  its	
-  said	
-  reply.	
-  
-
-
-	
-  
-Due	
-  to	
-  the	
-  nonexistence	
-  of	
-  the	
-  “strong	
-  reply”,	
-  investors	
-  showed	
-  hesitation	
-  
-
-
-about	
-  NetQin’s	
-  business	
-  performance,	
-  and	
-  the	
-  stock	
-  price	
-  continues	
-  to	
-  drop.	
-  
-	
-  
-On	
-  October	
-  28,	
-  NetQin’s	
-  stock	
-  price	
-  reached	
-  a	
-  low	
-  of	
-  USD	
-  7.58,	
-  with	
-  the	
-  closing	
-  
-
-
-price	
-  falling	
-  17.22%.	
-  The	
-  stock	
-  price	
-  of	
-  NetQin	
-  fell	
-  62%,	
-  from	
-  USD	
-  23.05	
-  to	
-  USD	
-  8.8	
-  
-within	
-  3	
-  transaction	
-  days;	
-  the	
-  market	
-  value	
-  dropped	
-  USD	
-  880	
-  million.	
-  
-
-
-	
-  
-The	
-   Beijing	
-   Times	
-   Reporter:	
-   LIN	
-   Qiling	
-  
-
-
-	
-  
-n Related	
-  
-	
-  
-US	
-  Law	
-  Firm	
-  Will	
-  Investigate	
-  NetQin	
-  Based	
-  on	
-  Muddy	
-  Waters’s	
-  Report	
-  
-	
-  
-US	
-  law	
-  firm	
-  Wites	
-  &	
-  Katpetan	
-  announced	
-  it	
-  would	
-  carry	
-  out	
-  an	
-  investigation	
-  on	
-  
-
-
-NetQin	
-  yesterday.	
-  
-	
-  
-On	
-  the	
-  second	
-  day	
-  since	
-  the	
-  Muddy	
-  Waters’s	
-  report	
-  was	
-  released,	
-  The	
-  Rosen	
-  
-
-
-Law	
-  Firm	
-  from	
-  the	
-  US	
-  announced	
-  it	
-  would	
-  carry	
-  out	
-  an	
-  investigation	
-  on	
-  whether	
-  
-NetQin	
-  is	
-  engaged	
-  in	
-  a	
-  massive	
-  fraud.	
-  HAO	
-  Junbo,	
-  a	
-  law	
-  practitioner	
-  who	
-  
-aggressively	
-  represents	
-  clients	
-  in	
-  US	
-  stock	
-  legal	
-  claims,	
-  told	
-  The	
-  Beijing	
-  News	
-  
-reporter	
-  that	
-  he	
-  has	
-  already	
-  been	
-  entrusted	
-  by	
-  a	
-  shareholder	
-  to	
-  file	
-  a	
-  lawsuit	
-  against	
-  
-NetQin	
-  for	
-  security	
-  fraud.	
-  Now,	
-  he	
-  is	
-  seeking	
-  more	
-  shareholders	
-  to	
-  join	
-  this	
-  legal	
-  
-action.	
-  
-
-
-	
-  
-Hao	
-  said	
-  that	
-  since	
-  China	
-  stocks	
-  have	
-  listed	
-  on	
-  the	
-  US	
-  stock	
-  exchange,	
-  there	
-  
-
-
-have	
-  been	
-  similar	
-  cases.	
-  He	
-  thinks	
-  that	
-  Muddy	
-  Waters	
-  short	
-  sells	
-  only	
-  after	
-  serious	
-  
-investigation,	
-  and	
-  does	
-  not	
-  make	
-  fictitious	
-  reports.	
-  Otherwise,	
-  the	
-  goodwill,	
-  which	
-  is	
-  
-accumulated	
-  over	
-  many	
-  years,	
-  would	
-  be	
-  destroyed.	
-  “But	
-  the	
-  truth	
-  needs	
-  
-
-
-Page 5 of 18
-investigation	
-  to	
-  get	
-  evidence;	
-  it	
-  also	
-  needs	
-  time	
-  to	
-  be	
-  questioned.”	
-  
-	
-  
-Hao	
-  reckons	
-  that	
-  only	
-  a	
-  strong	
-  explanation	
-  can	
-  eliminate	
-  shareholders’	
-  
-
-
-concerns.	
-  If	
-  it	
-  is	
-  just	
-  a	
-  general	
-  statement,	
-  he	
-  is	
-  afraid	
-  that	
-  the	
-  investors	
-  would	
-  not	
-  
-have	
-  confidence	
-  in	
-  NetQin	
-  and	
-  the	
-  stock	
-  price	
-  would	
-  not	
-  come	
-  back	
-  easily	
-  in	
-  a	
-  short	
-  
-period.	
-  He	
-  said	
-  if	
-  NetQin	
-  presents	
-  reasonable	
-  explanations	
-  and	
-  evidence,	
-  to	
-  please	
-  
-provide	
-  a	
-  strong	
-  counter	
-  statement.	
-  
-
-
-	
-  
-NetQin	
-  announced	
-  there	
-  would	
-  be	
-  a	
-  strong	
-  reply.	
-  However,	
-  it	
-  was	
-  still	
-  
-
-
-unavailable	
-  as	
-  of	
-  yesterday.	
-  When	
-  replying	
-  to	
-  the	
-  question	
-  raised	
-  by	
-  the	
-  Internet	
-  
-user	
-  on	
-  the	
-  exact	
-  time	
-  of	
-  the	
-  release,	
-  Lin	
-  only	
-  said	
-  that	
-  the	
-  company	
-  had	
-  a	
-  phone	
-  
-conference	
-  regarding	
-  the	
-  issue	
-  last	
-  Friday,	
-  and	
-  they	
-  have	
-  already	
-  replied.	
-  iMeigu	
-  
-content	
-  director	
-  ZHONG	
-  Rixin	
-  revealed	
-  that	
-  NetQin	
-  did	
-  not	
-  reply	
-  to	
-  some	
-  core	
-  issues,	
-  
-the	
-  reply	
-  is	
-  not	
-  strong	
-  enough.	
-  “Now,	
-  people	
-  still	
-  have	
-  questions.	
-   	
-   NetQin	
-  claims	
-  
-that	
-  it	
-  has	
-  a	
-  large	
-  market	
-  share,	
-  so	
-  why	
-  aren’t	
-  there	
-  any	
-  NetQin	
-  users	
-  around	
-  us?”	
-  
-(LIN	
-  Qiling,	
-  ZHENG	
-  Daosen)	
-  
-
-
-	
-  
-n Reply	
-  
-	
-  
-CEO	
-  of	
-  NetQin	
-  Claimed	
-  He	
-  Has	
-  Sued	
-  Muddy	
-  Waters	
-  
-	
-  
-NetQin	
-  has	
-  promised	
-  that	
-  it	
-  will	
-  never	
-  withdraw	
-  from	
-  the	
-  market.	
-  NetQin’s	
-  
-
-
-target	
-  is	
-  to	
-  be	
-  a	
-  hundred-­‐year-­‐great-­‐enterprise.	
-  
-	
-  
-Yesterday,	
-  NetQin	
-  CEO	
-  Lin	
-  said	
-  during	
-  an	
-  online	
-  interview	
-  that	
-  his	
-  company	
-  has	
-  
-
-
-sued	
-  short	
-  seller	
-  Muddy	
-  Waters	
-  in	
-  Beijing.	
-  And,	
-  they	
-  are	
-  considering	
-  taking	
-  the	
-  same	
-  
-legal	
-  action	
-  in	
-  Hong	
-  Kong	
-  and	
-  in	
-  the	
-  US	
-  as	
-  well.	
-  
-	
-  
-
-
-Lin	
-  Said	
-  He	
-  Feels	
-  Heartbroken	
-  on	
-  the	
-  Loss	
-  to	
-  Shareholders	
-  
-	
-  
-Lin	
-  said	
-  he	
-  feels	
-  heartbroken	
-  on	
-  shareholders’	
-  losses,	
-  due	
-  to	
-  the	
-  great	
-  decline	
-  
-
-
-of	
-  NetQin’s	
-  stock	
-  price,	
-  but	
-  that	
-  the	
-  loss	
-  is	
-  caused	
-  by	
-  investors’	
-  fears,	
-  induced	
-  by	
-  
-Muddy	
-  Waters’s	
-  defamatory	
-  statements.	
-  
-
-
-	
-  
-Lin	
-  also	
-  said	
-  he	
-  hopes	
-  Chinese	
-  companies	
-  listed	
-  in	
-  the	
-  US	
-  will	
-  consider	
-  
-
-
-establishing	
-  an	
-  “Anti	
-  Muddy	
-  Waters	
-  Alliance”	
-  to	
-  fight	
-  against	
-  short	
-  sellers	
-  like	
-  
-Muddy	
-  Waters.	
-  “It	
-  is	
-  very	
-  hard	
-  to	
-  fight	
-  alone	
-  with	
-  so	
-  many	
-  short	
-  sellers	
-  in	
-  the	
-  
-market.	
-  But	
-  if	
-  we	
-  can	
-  be	
-  united	
-  and	
-  work	
-  together,	
-  then	
-  it	
-  will	
-  be	
-  easy	
-  to	
-  face	
-  the	
-  
-
-
-Page 6 of 18
-challenges,”	
-  said	
-  Lin.	
-  
-	
-  
-Lin	
-  also	
-  said	
-  the	
-  company	
-  would	
-  release	
-  a	
-  more	
-  concrete	
-  message	
-  on	
-  their	
-  
-
-
-company	
-  website	
-  on	
-  October	
-  29.	
-  Nevertheless,	
-  as	
-  of	
-  the	
-  time	
-  this	
-  new	
-  article	
-  was	
-  
-published	
-  last	
-  night,	
-  NetQin	
-  still	
-  has	
-  not	
-  released	
-  the	
-  said	
-  message.	
-  In	
-  addition,	
-  Lin	
-  
-has	
-  also	
-  promised	
-  that	
-  NetQin	
-  will	
-  never	
-  withdraw	
-  from	
-  the	
-  market.	
-  NetQin	
-  strives	
-  
-to	
-  be	
-  a	
-  hundred-­‐year-­‐great-­‐enterprise.	
-  
-
-
-	
-  
-The	
-  Company	
-  Published	
-  Its	
-  Accounts	
-  As	
-  Proof	
-  of	
-  Its	
-  Strong	
-  Business	
-  
-	
-  
-On	
-  October	
-  24,	
-  US	
-  time,	
-  Muddy	
-  Waters	
-  released	
-  a	
-  report	
-  questioning	
-  mobile	
-  
-
-
-phone	
-  security	
-  software	
-  company	
-  NetQin	
-  about	
-  the	
-  fake	
-  figures	
-  from	
-  turnover,	
-  to	
-  
-the	
-  number	
-  of	
-  paid	
-  users.	
-  Muddy	
-  Waters	
-  claimed	
-  in	
-  the	
-  report	
-  that	
-  at	
-  least	
-  72%	
-  of	
-  
-NetQin’s	
-  revenue	
-  from	
-  mobile	
-  phone	
-  security	
-  products	
-  in	
-  China	
-  is	
-  manipulated,	
-  and	
-  
-that	
-  they	
-  overstated	
-  their	
-  market	
-  share	
-  in	
-  China.	
-  Muddy	
-  Waters	
-  also	
-  pointed	
-  out	
-  
-that	
-  the	
-  M&A	
-  deals	
-  made	
-  by	
-  NetQin	
-  may	
-  involve	
-  corruption,	
-  and	
-  that	
-  its	
-  cash	
-  
-deposit	
-  amount	
-  may	
-  be	
-  fake.	
-  
-
-
-	
-  
-In	
-  the	
-  telephone	
-  conference	
-  convened	
-  on	
-  October	
-  25,	
-  Beijing	
-  time,	
-  NetQin	
-  
-
-
-made	
-  a	
-  verbal	
-  reply	
-  to	
-  the	
-  Muddy	
-  Waters’s	
-  report.	
-  Lin	
-  said	
-  that	
-  the	
-  accusation	
-  made	
-  
-by	
-  Muddy	
-  waters	
-  was	
-  completely	
-  fabricated.	
-  The	
-  company	
-  announced	
-  that	
-  the	
-  
-board	
-  of	
-  directors	
-  has	
-  formed	
-  an	
-  independent	
-  special	
-  committee	
-  to	
-  independently	
-  
-access	
-  the	
-  content	
-  on	
-  of	
-  the	
-  report.	
-  The	
-  committee	
-  will	
-  be	
-  comprised	
-  of	
-  four	
-  
-independent	
-  directors.	
-  
-
-
-	
-  
-In	
-  addition,	
-  to	
-  prove	
-  the	
-  strength	
-  of	
-  the	
-  company,	
-  NetQin	
-  published	
-  some	
-  
-
-
-figures	
-  of	
-  major	
-  time	
-  deposits.	
-  And,	
-  NetQin	
-  also	
-  expressed	
-  that	
-  after	
-  the	
-  release	
-  of	
-  
-the	
-  results	
-  of	
-  the	
-  3rd	
-  quarter	
-  of	
-  2013,	
-  and	
-  after	
-  the	
-  blackout	
-  period,	
-  the	
-  company	
-  
-will	
-  carry	
-  out	
-  a	
-  USD	
-  35	
-  million	
-  stock	
-  repurchase	
-  scheme.	
-  
-
-
-	
-  
-NetQin	
-  feels	
-  very	
-  sorry	
-  about	
-  the	
-  stockholders’	
-  loss	
-  due	
-  to	
-  the	
-  great	
-  decline	
-  of	
-  
-
-
-stock	
-  price.	
-  However,	
-  the	
-  loss	
-  was	
-  caused	
-  by	
-  the	
-  defamatory	
-  comments	
-  made	
-  by	
-  
-Muddy	
-  Waters;	
-  therefore,	
-  NetQin	
-  has	
-  taken	
-  legal	
-  action	
-  in	
-  Beijing	
-  to	
-  sue	
-  Muddy	
-  
-Waters	
-  and	
-  the	
-  report’s	
-  writer.	
-  
-
-
-	
-  
--­‐-­‐NetQin	
-  CEO	
-  Lin	
-  
-
-
-(Source:	
-  The	
-  Beijing	
-  News)	
-  
-
-
-Page 7 of 18
-NQ	
-  Accused	
-  of	
-  Unilaterally	
-  Fabricating	
-  Reports	
-  of	
-  Cooperation	
-  with	
-  ZTE	
-  
-2013-­‐10-­‐25	
-   Source:	
-  Money.163.com	
-  
-	
-  
-
-
-On	
-  October	
-  25,	
-  NQ’s	
-  reply	
-  to	
-  the	
-  short-­‐seller	
-  states	
-  there	
-  are	
-  two	
-  main	
-  sources	
-  
-of	
-  NQs	
-  users:	
-  from	
-  pre-­‐installations	
-  on	
-  mobile	
-  phones,	
-  and	
-  from	
-  online	
-  downloads.	
-  
-In	
-  the	
-  meantime,	
-  there	
-  is	
-  cooperation	
-  on	
-  pre-­‐installation	
-  between	
-  NQ	
-  and	
-  the	
-  
-mobile	
-  phone	
-  manufacturers	
-  ZTE,	
-  Huawei,	
-  Coolpad,	
-  Lenovo,	
-  etc.;	
-  there	
-  are	
-  30	
-  
-thousand	
-  sources	
-  on	
-  the	
-  Internet.	
-  
-
-
-	
-  
-However,	
-  NQ-­‐alleged	
-  business	
-  partner	
-  ZTE	
-  told	
-  money.163.com	
-  that	
-  there	
-  is	
-  no	
-  
-
-
-business	
-  cooperation	
-  between	
-  ZTE	
-  and	
-  NQ,	
-  and	
-  that	
-  the	
-  information	
-  regarding	
-  the	
-  
-business	
-  cooperation	
-  was	
-  released	
-  unilaterally	
-  by	
-  NQ.	
-  
-
-
-	
-  
-On	
-  NQ’s	
-  official	
-  webpage,	
-  there	
-  is	
-  a	
-  “NQ’s	
-  news”	
-  with	
-  the	
-  heading,	
-  “NQ	
-  Helps	
-  
-
-
-ZTE	
-  Pass	
-  the	
-  National	
-  Safety	
-  Test	
-  Level	
-  5,”	
-  dated	
-  September	
-  28.	
-  The	
-  article	
-  claims	
-  
-that	
-  ZTE,	
-  whose	
-  mobile	
-  phone	
-  passed	
-  safety	
-  test	
-  level	
-  5	
-  from	
-  the	
-  Ministry	
-  of	
-  
-Industry	
-  and	
-  Information	
-  Technology	
-  of	
-  the	
-  People’s	
-  Republic	
-  of	
-  China,	
-  maintains	
-  
-long-­‐term,	
-  close	
-  cooperation	
-  with	
-  NQ.	
-  NQ	
-  provides	
-  technical	
-  support	
-  for	
-  the	
-  
-anti-­‐virus,	
-  spam	
-  SMS	
-  blocker	
-  and	
-  junk	
-  call	
-  blocker	
-  on	
-  ZTE’s	
-  mobile	
-  security	
-  app	
-  
-“Mi-­‐Assistant	
-  (掌心管家)”.	
-  
-
-
-	
-  
-There	
-  is	
-  also	
-  news	
-  claiming	
-  that	
-  on	
-  September	
-  26,	
-  NQ	
-  announced	
-  it	
-  signed	
-  
-
-
-agreements	
-  with	
-  Huawei,	
-  ZTE	
-  and	
-  Lenovo,	
-  and	
-  these	
-  three	
-  companies	
-  will	
-  pre-­‐install	
-  
-NQ’s	
-  mobile	
-  security	
-  solution	
-  on	
-  their	
-  smartphones.	
-  
-
-
-	
-  
-That	
-  report	
-  claimed,	
-  “Huawei	
-  revealed	
-  that	
-  some	
-  of	
-  the	
-  Android	
-  mobile	
-  phones	
-  
-
-
-to	
-  be	
-  sold	
-  in	
-  the	
-  international	
-  market	
-  will	
-  pre-­‐install	
-  NQ’s	
-  Anti-­‐virus	
-  solution.	
-  Lenovo	
-  
-said	
-  that	
-  it	
-  would	
-  provide	
-  overseas	
-  users	
-  with	
-  the	
-  latest	
-  NQ	
-  mobile	
-  security	
-  service.	
-  
-And,	
-  ZTE	
-  stated	
-  that	
-  parts	
-  of	
-  the	
-  Android	
-  devices	
-  to	
-  be	
-  sold	
-  in	
-  the	
-  global	
-  market	
-  will	
-  
-pre-­‐install	
-  NQ’s	
-  mobile	
-  security	
-  solution.”	
-  
-
-
-	
-  
-However,	
-  ZTE	
-  replied	
-  to	
-  money.163.com	
-  that	
-  the	
-  news	
-  items	
-  mentioned	
-  above	
-  
-
-
-were	
-  unilaterally	
-  released	
-  by	
-  NQ,	
-  and	
-  that	
-  there	
-  is	
-  no	
-  such	
-  business	
-  cooperation	
-  
-between	
-  ZTE	
-  and	
-  NQ.	
-  “We	
-  have	
-  requested	
-  that	
-  NQ	
-  delete	
-  this	
-  news	
-  numerous	
-  times;	
-  
-nevertheless,	
-  as	
-  of	
-  now,	
-  NQ	
-  still	
-  has	
-  not	
-  deleted	
-  it.”	
-  
-
-
-	
-  
-ZTE	
-  revealed	
-  during	
-  discussions	
-  with	
-  NQ	
-  regarding	
-  this	
-  news,	
-  that	
-  NQ	
-  also	
-  
-
-
-admitted	
-  this	
-  news	
-  was	
-  published	
-  unilaterally.	
-  “But,	
-  regarding	
-  the	
-  pre-­‐installation	
-  on	
-  
-
-
-Page 8 of 18
-mobile	
-  phones,	
-  ZTE	
-  has	
-  never	
-  cooperated	
-  with	
-  NQ.”	
-  
-	
-  
-Money.163.com	
-  has	
-  noticed	
-  on	
-  NQ’s	
-  official	
-  webpage	
-  that	
-  ZTE	
-  is	
-  listed	
-  in	
-  the	
-  
-
-
-business	
-  partners’	
-  column.	
-  
-	
-  
-On	
-  October	
-  25,	
-  NQ’s	
-  stock	
-  price	
-  dropped	
-  greatly,	
-  due	
-  to	
-  Muddy	
-  Waters’	
-  short	
-  
-
-
-sale.	
-  Muddy	
-  Waters	
-  alleged	
-  that	
-  for	
-  NQ’s	
-  claimed	
-  business	
-  revenue	
-  from	
-  national	
-  
-security	
-  products	
-  in	
-  2012,	
-  at	
-  least	
-  72%	
-  of	
-  the	
-  revenue	
-  is	
-  fabricated.	
-  NQ	
-  also	
-  seriously	
-  
-overstated	
-  its	
-  market	
-  share	
-  in	
-  China.	
-  The	
-  market	
-  share	
-  of	
-  NQ	
-  in	
-  China	
-  is	
-  only	
-  1.5%,	
-  
-instead	
-  of	
-  the	
-  claimed	
-  55%;	
-  the	
-  number	
-  of	
-  paid	
-  users	
-  is	
-  less	
-  than	
-  250	
-  thousand	
-  
-people,	
-  instead	
-  of	
-  the	
-  claimed	
-  6	
-  million	
-  people.	
-  
-	
-  
-Source:	
-  money.163.com	
-  	
-   Reporter:	
-  ZHAO	
-  Ting	
-   Editor-­‐in-­‐Charge:	
-  NF003	
-  
-
-
-Page 9 of 18
-FL Mobile: iOS Games Drop-off Issue Still Under Discussion 
-
-
-Sina Technology: Oct. 29 morning news. NetQin’s FL Mobile games were dropped off of 
-
-
-the iOS system as Muddy Waters continued to short sell their stock. In its previous official 
-
-
-response to this issue, FL Mobile says it is still under discussion. They have also revealed that 
-
-
-they will compensate their business partners. So far, there is still no result from their discussion.    
-
-
-Some of FL Mobile’s games cannot be used right now. A source speaking on behalf of the 
-
-
-company revealed that executives are in talks with related partners and that they have started 
-
-
-collecting evidence to take legal measures against Muddy Waters. Meanwhile, FL Mobile has 
-
-
-announced the following measures to protect the interests of their users and partners:  
-
-
-First, they apologize to all FL Mobile game players for the inconvenience and say they 
-
-
-will make compensation in future games if players cannot currently play games normally or 
-
-
-cannot add money to games.  
-
-
-Second, they will try their best to protect the interests of their partners and proactively 
-
-
-conduct talks and compensate them.  
-
-
-Third, they will communicate with related partners, provide related explanations and 
-
-
-documents, and restore some games back to normal as soon as possible.  
-
-
-Fourth, they will collect related evidence on how they believe the short seller Muddy 
-
-
-Waters conspired to attack them. FL Mobile reserves the right to take legal measures against 
-
-
-responsible parties.    
- 
+the red annotations denoting an insider sale. 
 
 
-Page 10 of 18
-NetQin	
-  Mobile	
-  CEO	
-  Yu	
-  Lin:	
-  We	
-  have	
-  filed	
-  a	
-  lawsuit	
-  in	
-  China	
-  against	
-  Muddy	
-  
-Waters,	
-  and	
-  are	
-  considering	
-  organizing	
-  an	
-  anti-­‐Muddy-­‐Waters	
-  group.	
-  	
-  
-	
-  
-[Caijing	
-  News]	
-  At	
-  noon	
-  on	
-  October	
-  29,	
-  after	
-  days	
-  of	
-  delay	
-  on	
-  a	
-  response,	
-  NetQin	
-  
-Mobile	
-  (hereafter,	
-  NQ)	
-  CEO	
-  Yu	
-  Lin	
-  accepted	
-  a	
-  Q&A	
-  session	
-  with	
-  web	
-  users	
-  at	
-  Xueqiu	
-  
-Net,	
-  openly	
-  addressing	
-  the	
-  report	
-  from	
-  Muddy	
-  Waters.	
-  In	
-  his	
-  response,	
-  Yu	
-  
-mentioned	
-  that	
-  a	
-  lawsuit	
-  has	
-  already	
-  been	
-  filed	
-  in	
-  China	
-  against	
-  Muddy	
-  Waters	
-  LLC,	
-  
-and	
-  he	
-  expects	
-  over	
-  $51	
-  million	
-  in	
-  third-­‐quarter	
-  revenue.	
-  An	
-  English	
-  version	
-  of	
-  the	
-  
-telecom	
-  notes	
-  will	
-  be	
-  released	
-  on	
-  their	
-  IR	
-  site	
-  later.	
-  	
-  	
-  	
-  
-	
-  
-Previously,	
-  Muddy	
-  Waters	
-  released	
-  a	
-  harsh	
-  report	
-  of	
-  NQ	
-  being	
-  a	
-  fraud	
-  that	
-  caused	
-  
-NQ	
-  stock	
-  to	
-  fall	
-  by	
-  half.	
-  	
-  
-	
-  
-Below	
-  are	
-  from	
-  the	
-  Q&A	
-  session	
-  with	
-  web	
-  users:	
-  
-	
-  
-Xudong	
-  Zhu:	
-  NQ	
-  divided	
-  users	
-  into	
-  registered	
-  users,	
-  active	
-  users	
-  and	
-  paid	
-  users.	
-  
-How	
-  does	
-  NQ	
-  define	
-  registered	
-  users?	
-  Do	
-  we	
-  have	
-  to	
-  download	
-  NQ	
-  software	
-  to	
-  
-become	
-  a	
-  registered	
-  user?	
-  Thanks!	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  You’ll	
-  need	
-  to	
-  download,	
-  install	
-  and	
-  activate	
-  the	
-  software	
-  in	
-  order	
-  to	
-  
-become	
-  a	
-  registered	
-  user.	
-  
-	
-  
-Pixiu	
-  Chen:	
-  What	
-  is	
-  the	
-  expected	
-  market	
-  profit	
-  for	
-  NQ	
-  this	
-  year?	
-  Why	
-  did	
-  Muddy	
-  
-Waters	
-  say	
-  that	
-  the	
-  company	
-  was	
-  a	
-  “zero”	
-  after	
-  NQ	
-  issued	
-  its	
-  convertible	
-  bonds	
-  
-sale?	
-  If	
-  NQ	
-  delists	
-  itself	
-  from	
-  the	
-  New	
-  York	
-  Stock	
-  Exchange,	
-  does	
-  the	
-  company	
-  need	
-  
-to	
-  pay	
-  back	
-  the	
-  debt?	
-  Or	
-  do	
-  we	
-  not	
-  need	
-  to	
-  worry	
-  about	
-  the	
-  creditors	
-  in	
-  the	
-  U.S.	
-  
-because	
-  we	
-  are	
-  in	
-  China?	
-  What	
-  other	
-  business	
-  does	
-  NQ	
-  plan	
-  to	
-  do	
-  after	
-  delisting	
-  
-itself?	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  NQ	
-  will	
-  never	
-  quit.	
-  We	
-  are	
-  not	
-  planning	
-  on	
-  delisting	
-  our	
-  company.	
-  Our	
-  
-goal	
-  is	
-  to	
-  make	
-  NQ	
-  a	
-  great	
-  company	
-  that	
-  will	
-  last	
-  100	
-  years!	
-  
-	
-  
-Duan	
-  Jian:	
-  I	
-  have	
-  three	
-  questions.	
-  First,	
-  when	
-  can	
-  you	
-  provide	
-  the	
-  proof	
-  of	
-  the	
-  
-company’s	
-  savings	
-  in	
-  the	
-  bank?	
-  Is	
-  the	
-  $1.6	
-  billion	
-  at	
-  the	
-  Standard	
-  Chartered	
-  Bank	
-  
-from	
-  the	
-  convertible	
-  bonds?	
-  Second,	
-  ZTE	
-  Corporation	
-  openly	
-  denied	
-  any	
-  
-collaboration	
-  with	
-  your	
-  company,	
-  and	
-  requests	
-  you	
-  to	
-  take	
-  back	
-  the	
-  false	
-  
-statements.	
-  What	
-  is	
-  your	
-  explanation	
-  on	
-  this	
-  matter?	
-  Third,	
-  your	
-  company	
-  has	
-  been	
-  
-keeping	
-  track	
-  of	
-  the	
-  number	
-  of	
-  registered	
-  users.	
-  Could	
-  you	
-  tell	
-  me	
-  how	
-  many	
-  users	
-  
-NQ	
-  has	
-  now?	
-  Also,	
-  could	
-  you	
-  name	
-  a	
-  few	
-  cell	
-  phone	
-  models	
-  that	
-  has	
-  NQ	
-  software	
-  
-preinstalled	
-  and	
-  are	
-  still	
-  available	
-  in	
-  the	
-  market?	
-  Thanks.	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  First,	
-  we	
-  have	
-  already	
-  made	
-  all	
-  the	
-  bank	
-  savings	
-  public.	
-  We	
-  are	
-  probably	
-  
-the	
-  first	
-  listed	
-  company	
-  globally	
-  that	
-  is	
-  this	
-  transparent.	
-  Further	
-  work	
-  is	
-  still	
-  
-ongoing.	
-  The	
-  $1.6	
-  billion	
-  in	
-  the	
-  Standard	
-  Chartered	
-  Bank	
-  is	
-  the	
-  investment	
-  money	
-  
-from	
-  the	
-  convertible	
-  bonds.	
-  	
-  Second,	
-  the	
-  issue	
-  with	
-  ZTE	
-  Corporation	
-  is	
-  a	
-  
-misunderstanding	
-  by	
-  the	
-  media.	
-  The	
-  interviewee	
-  does	
-  not	
-  have	
-  enough	
-  knowledge	
-  
-
-
-Page 11 of 18
-of	
-  the	
-  collaboration	
-  between	
-  NQ	
-  and	
-  ZTE.	
-  We	
-  have	
-  announced	
-  the	
-  global	
-  
-collaboration	
-  with	
-  ZTE	
-  three	
-  weeks	
-  ago.	
-  We	
-  have	
-  been	
-  a	
-  long-­‐term	
-  strategic	
-  partner	
-  
-with	
-  ZTE.	
-  This	
-  will	
-  be	
-  clarified	
-  today.	
-  	
-  
-	
-  
-Hao	
-  Duo:	
-  Your	
-  subsidiary	
-  company,	
-  FL	
-  Mobile’s	
-  games,	
-  has	
-  recently	
-  been	
-  removed	
-  
-from	
-  the	
-  Apple	
-  App	
-  Store.	
-  What	
-  is	
-  the	
-  reason	
-  for	
-  that?	
-  When	
-  do	
-  you	
-  expect	
-  to	
-  have	
-  
-the	
-  games	
-  back	
-  to	
-  the	
-  App	
-  Store?	
-  Also,	
-  Apple	
-  has	
-  improved	
-  its	
-  algorithm	
-  against	
-  
-ranking	
-  fraud.	
-  	
-  Will	
-  this	
-  affect	
-  the	
-  future	
-  development	
-  of	
-  NQ?	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  Many	
-  companies	
-  (e.g.,	
-  Tencent,	
-  Baidu,	
-  Renren	
-  Network,	
-  etc.)	
-  have	
-  
-encountered	
-  similar	
-  problems.	
-  Our	
-  products	
-  are	
-  not	
-  the	
-  only	
-  ones	
-  being	
-  removed	
-  
-this	
-  time.	
-  We	
-  have	
-  already	
-  communicated	
-  with	
-  the	
-  Apple	
-  App	
-  Store,	
-  and	
-  expect	
-  to	
-  
-resolve	
-  this	
-  issue	
-  in	
-  three	
-  weeks.	
-  It	
-  will	
-  not	
-  affect	
-  the	
-  future	
-  development	
-  of	
-  our	
-  
-company.	
-  We	
-  are	
-  very	
-  optimistic	
-  about	
-  the	
-  mobile	
-  gaming	
-  industry.	
-  	
-  
-	
-  
-Hao	
-  Duo:	
-  What	
-  is	
-  NQ’s	
-  plan	
-  on	
-  the	
-  electric-­‐charging	
-  supporting	
-  service	
-  for	
-  the	
-  BYD	
-  
-Qin	
-  (note:	
-  an	
-  electric	
-  car	
-  model	
-  in	
-  China)?	
-  I	
-  think	
-  this	
-  area	
-  has	
-  a	
-  lot	
-  of	
-  room	
-  for	
-  
-future	
-  development,	
-  and	
-  will	
-  be	
-  a	
-  great	
-  help	
-  to	
-  the	
-  strategy	
-  of	
-  your	
-  company.	
-  	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  We	
-  are	
-  investing	
-  in	
-  the	
-  INMOTION	
-  SCV,	
-  which,	
-  in	
-  our	
-  view,	
-  is	
-  the	
-  next	
-  
-generation	
-  of	
-  intelligent	
-  mobile	
-  robot.	
-  It	
-  is	
-  the	
-  next	
-  billion-­‐dollar	
-  industry.	
-  We	
-  plan	
-  
-to	
-  combine	
-  NQ’s	
-  sound	
-  and	
-  vision	
-  searching	
-  technology	
-  with	
-  the	
-  INMOTION	
-  SCV,	
-  
-and	
-  build	
-  the	
-  next	
-  generation	
-  intelligent	
-  mobile	
-  robot.	
-  	
-  
-	
-  
-Rossiloo:	
-  How	
-  do	
-  you	
-  explain	
-  the	
-  fact	
-  that	
-  ZTE	
-  Corporation	
-  denied	
-  collaboration	
-  
-with	
-  NQ?	
-  I	
-  hope	
-  it	
-  is	
-  not	
-  because	
-  NQ	
-  was	
-  collaborating	
-  with	
-  ZTE’s	
-  sales	
-  partners	
-  to	
-  
-fake	
-  rankings.	
-  	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  We	
-  have	
-  just	
-  announced	
-  our	
-  global	
-  partnership	
-  with	
-  ZTE	
-  three	
-  weeks	
-  
-ago.	
-  NQ	
-  and	
-  ZTE	
-  have	
-  been	
-  strategic	
-  partners	
-  for	
-  many	
-  years.	
-  We	
-  will	
-  further	
-  clarify	
-  
-this	
-  issue	
-  today.	
-  
-	
-  
-Mao	
-  Wang:	
-  Could	
-  you	
-  give	
-  some	
-  robust	
-  data	
-  on	
-  daily	
-  active	
-  users	
-  and	
-  paid	
-  users?	
-  	
-  
-	
-  
-NQ	
-  Yu	
-  Lin:	
-  The	
-  active	
-  users	
-  we	
-  have	
-  currently,	
-  based	
-  on	
-  the	
-  number	
-  of	
-  users	
-  
-connecting	
-  to	
-  the	
-  server	
-  every	
-  month	
-  in	
-  the	
-  last	
-  quarter,	
-  is	
-  about	
-  120	
-  million.	
-  
-	
-  
-Jiu	
-  Chen:	
-  Among	
-  all	
-  the	
-  allegations	
-  from	
-  Muddy	
-  Waters,	
-  the	
-  key	
-  one	
-  is	
-  about	
-  the	
-  
-company	
-  Yidatong	
-  (YDT).	
-  They	
-  claimed	
-  to	
-  have visited 10 sites purportedly occupied 
-by YDT, all of which were empty or did not exist. The management of NQ has released 
-the address of YDT headquarters in a meeting. Could you release more information on 
-the business of YDT, the locations of its individual sites, the number of employees at 
-each location, and management background? This information is easily verified and very 
-persuasive information, and would solve 80% of the current problems in my opinion. 
  
-NQ Yu Lin: YDT is a service provider and provides mobile billing service, which is one 
+Figure 28 Graph of AMD insider trading activity 
 
 
-Page 12 of 18
-of the billing channels for NQ. We also have other payment methods such as 19pay and 
-Alipay. For small bills, mobile billing services such as YDT are very easy options. For 
-large bills, Shenzhoufu and Alipay are better. 
- 
-Danielz: NQ has 60% of the market in China, and millions of downloads from Google 
-abroad. However, a lot of Internet users in China have never heard of NQ. I suspect it is 
-not that well known overseas either. Does the company realize that there is a huge gap 
-between the amount of installation and recognition? What is the cause of this gap, and is 
-there any plan to solve this issue? 
- 
-NQ Yu Lin: Every company’s development is a process, just like a child growing up is a 
-process. If our brand has the same reputation as Tencent, Baidu or 360, NQ should not 
-have been only a $1 billion company, but a $10 billion company. In the early stage of our 
-development, we put our emphasis on the investment of products, technology and sale 
-channels. From this year on, we are strengthening our marketing, brand name, and 
-communication with the capital markets. You need to allow time for a child to grow up.   
- 
-To_Dominic: Muddy Waters apparently has some misunderstandings on the savings of 
-NQ. Could you answer the savings issue objectively, and directly respond to the issue 
-regarding the paid users? For instance, you can list the models and the sale numbers for 
-the top 10 paid cellphones. 
- 
-NQ Yu Lin: We have responded many times to similar questions before. To put it simply, 
-NQ and many cell phone companies, such as Huawei, ZTE, Lenovo, Coolpad, Gionee 
-and oppo, have long-term collaborations on software pre-installation. The global market 
-for Huawei, ZTE, Lenovo and CoolPad alone is close to $0.3 billion next year. Our users 
-are mostly in the Tier 2 – 6 cities, instead of the top tier cities where the investors live.  
- 
-Lao Yu: I heard that NQ has enough data in hand to respond the 81-page report. The 
-response is only delayed due to some process difficulties. Could you elaborate on what 
-the difficulties are? 
- 
-NQ Yu Lin: In the investors’ telecom last Friday, we made a lot of detailed responses, 
-including answers to almost every question. We will organize the notes and release them 
-on our IR website later today, for easy access by our investors. Currently, only the 
-English version is available. 
- 
-Xudong Zhu: Thanks for all the answers! Could you tell me which city in China has the 
-most registered NQ users? And how many users are there in that city? Thanks! 
- 
-NQ Yu Lin: The provinces with most users are Guangdong, Jiangsu, Zhejiang, and Henan.  
- 
-Lao Yu: You mentioned previously that NQ would file a lawsuit against Muddy Waters. 
-When will that happen? 
- 
-NQ Yu Lin: We have already filed the lawsuit in China. We will file more lawsuits in 
+None of AMD’s executives has acquired a single share in the open market in the 15 
 
 
-Page 13 of 18
-Hong Kong and in the U.S. later. We want to solve this issue through the legal process.  
- 
-Chao Wang: Search portals have become the focus of mobile competition now. At its 8-
-year anniversary, NQ announced that it would build advertisement and search platforms 
-in the future. Could you elaborate on the intention of this decision? What does NQ have 
-to compete with international giants? 
- 
-NQ Yu Lin: NQ aims to become the global mobile Internet platform company. We do not 
-do business on mobilizing the Internet service, as that is the advantage of traditional 
-giants in the field. We only design Internet services that are exclusively for mobile 
-phones. This is the advantage of NQ being a mobile-only and mobile-first platform 
-company.  
- 
-Si Ren: What is the business model of NQ? Are there any statistics on the activation rate 
-of pre-installed mobile phones? Or is it all included in the number of users?  
- 
-NQ Yu Lin: NQ has become a global mobile Internet platform company. Our income is 
-from mobile security, games, advertisements, a mobile search engine, and service for 
-mobilizing businesses. This year, mobile security is about 50% of the income; the others 
-constitute the remaining 50%. In the next two years, with the fast development of the 
-platform service, we will have a more balanced ratio of all 5 major businesses; each will 
-range between 15% and 30%. NQ as a platform company will have a high growth rate 
-and stronger anti-risk capability.   
- 
-Winwin20092010: When will the detailed and strong response to the report be out? Is NQ 
-actively working on it? Do you plan on increasing publicity?  
- 
-NQ Yu Lin: In the investors’ telecom last Friday, we gave a lot of detailed responses, 
-including answers to almost every question. We will organize the notes and release them 
-at our IR website later today, for easy access by our investors. Currently only the English 
-version is available. 
- 
-Horace: Do you have any word for the previous NQ shareholders? The huge loss this 
-time is a huge hit on shareholders’ confidence in NQ.  
- 
-NQ Yu Lin: We are very sorry for the losses of our shareholders. However, the losses 
-were caused by Muddy Waters’ false allegations and the induced panic among investors. 
-We have already filed a lawsuit in Beijing against Muddy Waters and the author of the 
-report.  
- 
-Xudong Zhu: You mentioned that NQ has collaborations with ZTE, Huawei, Coolpad and 
-Lenovo. But the $0.3 billion you mentioned is the total market from these four cellphone 
-companies. Could you give the details on the specific cellphone models that NQ 
-collaborates on? (Previously in a telecom, the models NQ provided were mostly from 
-Samsung. NQ claimed that these were the top 10 sellers.)  
- 
+months to February 2018. 
 
 
-Page 14 of 18
-NQ Yu Lin: In the investors’ telecom last Friday, we made a lot of detailed responses, 
-including answers to almost every question. We will organize the notes and release them 
-at our IR website later today, for easy access by our investors. Currently only the English 
-version is available. 
- 
-Luo Yin: There are no previously successful cases suing short-sellers. Why does NQ 
-think it will succeed? 
- 
-NQ Yu Lin: NQ has come a long way since the establishment of the company with $0.1 
-million. We have the world’s best and most fighting team. Our team is very calm this 
-time. We will solve any problem! We think it is the best time to invest in NQ.  
- 
-Lao Yu: In the 81-page report, Muddy Waters pointed out that your employees are 
-farmers from Jiangxi Province, and are only good at farming. From what I gathered, 
-Muddy Waters’ CEO, Carson Block, was in China from 1997 to 2008, trying to make 
-some money. During the 10 years, he has experienced many difficulties. His plan to open 
-a financial service company in China did not succeed in 1997, and he lost a lot in 2008 on 
-his private storage company in Shanghai. His love for China gradually turned into hate 
-after all these events, and he has been interested in killing the successful Chinese 
-companies to expand business overseas ever since. Do you think this report has anything 
-to do with Muddy Waters’ hate for Chinese companies?  Will you pursue justice for your 
-employees? 
-  
-NQ Yu Lin: Who says farmers cannot program? Poor people can also have the Chinese 
-dream! They are pointing at the CEO of one of our sub companies, Ruide.  The CEO 
-himself will sue Muddy Waters for it. He is a computer science major college graduate. 
-I’d say he has higher education than Steve Jobs and Bill Gates. 
- 
-Haitian Wang: How much is the cost for NQ to pre-install software on mobile phones? 
- 
-NQ Yu Lin: The price is changing with the market. This is confidential business 
-information. It is about 1 - 2 RMB per user activation. 
- 
-Haitian Wang: Will the third quarter revenue increase substantially as predicted? 
- 
-NQ Yu Lin: Of course, we have already predicted that the third quarter revenue will be 
-over $51 million.  
- 
-Youzi: You have been avoiding the real question. How many users does NQ have? 
- 
-NQ Yu Lin: In the investors’ telecom last Friday, we made a lot of detailed responses, 
-including answers to almost every question. We will organize the notes and release them 
-at our IR website later today, for easy access by our investors.  
- 
-Chao Wang: In the press release conference, NQ revealed that Bo Lin is a CEO who 
-sleeps in the couch, and Dr. Shi is a CEO who eats fast food lunch boxes. Are other 
+                                                                 
+36 http://ir.amd.com/static-files/a63127c4-569f-4fbe-9fcf-54c24dcfa808  
+37 https://www.anandtech.com/show/12233/amd-tech-day-at-ces-2018-roadmap-revealed-with-ryzen-apus-zen-on-12nm-
+vega-on-7nm  
+38 http://ir.amd.com/static-files/a63127c4-569f-4fbe-9fcf-54c24dcfa808  
 
 
-Page 15 of 18
-employees the same as these two? Do your employees work as hard as those from some 
-of the IT companies? What employee benefits do they have? Also, please take care of 
-your own health. Don’t work too hard. 
- 
-NQ Yu Lin: All employees at NQ work very hard. Our efficiency is much higher than 
-fellow companies in the same industry. Our principle is always hiring the best people, 
-and providing the best environment. 
- 
-Lao Yu: I was at your company’s 8-year anniversary press release conference. It was 
-proposed that the open platform, advertisement, and search service would make 15% of 
-the revenue. Another business would make 25% of the revenue. Is there any concrete 
-plan on how to promote these businesses? 
- 
-NQ Yu Lin: For example, we have over 3 million searches on our music searching service. 
-The largest music search engine in the world, Shazam, has 10 million searches per day. 
-We predict that our service will exceed Shazam and become the largest music search 
-engine in the world. We have our own music radar client, which is also installed on the 
-smart watches by Samsung. Also, a lot of music client cloud search such as kugou and 
-tiantiandongting are using our music search service.  
- 
-Pegg: May I ask why Suhai Ji left his post? 
- 
-NQ Yu Lin: Suhai was invited to join another IPO company. He led NQ to successfully 
-get listed while we were facing the difficulties from 315, and brought the company value 
-to $1 billion. A lot of companies have invited him to be their CFO. We have invited KB 
-to become our trusted CFO. KB was the managing director from the investment bank that 
-contributed to NQ’s success.  
- 
-Lao Yu: Rumor has it that ZTE had a representative who denied collaboration with NQ, 
-while at the same time NQ has already released the contract with ZTE to money.163.com. 
-So the misunderstanding was caused by that one ZTE employee providing false 
-information to the media. Since it damaged the reputation of NQ, will you take any action 
-on that ZTE employee? 
- 
-NQ Yu Lin: NQ believes in a company culture based on trust. We hope to build long-term 
-trusting relationship with our partners and the media. I personally think it is very 
-important to be tolerant. The more tolerant one is, the more successful his business is. 
- 
-Chao Wang: NQ is a mobile security company in transition to a mobile Internet company. 
-What do you see as the biggest difficulty and challenge the company is facing right now? 
- 
-NQ Yu Lin: We already overcame the biggest difficulties and challenges over the last 1 to 
-2 years. We currently have a very clear strategy and complete product line, based on NQ 
-Live platform, mobile security, games, advertisements, services on searching and the 
-mobile businesses.  
- 
 
+http://ir.amd.com/static-files/a63127c4-569f-4fbe-9fcf-54c24dcfa808
 
-Page 16 of 18
-Bujie Long: From this June to September, a lot of Chinese companies’ stocks have 
-increased substantially. Why did Muddy Waters decide to challenge NQ?  
- 
-NQ Yu Lin: NQ is a global mobile Internet company that is getting attention from more 
-and more investors. We had 350 investors calling in the telecom last Friday, which 
-demonstrated the attention NQ gets. It is inevitable to experience some difficulties and 
-challenges in the process of building a great company. Companies such as Baidu, New 
-Oriental, Focus Media Holding, and 360 all had similar experiences. 
- 
-Fu Sheng: Affected by the NQ case, all Chinese companies’ stocks had a fall on their 
-share values when the stock market opened yesterday. What do you think of the influence 
-of the NQ case?  
- 
-NQ Yu Lin: We hope that all listed Chinese companies in the U.S. will form an anti-
-Muddy-Waters group, to fight against short-selling firms like Muddy Waters. It is hard 
-for one company alone to fight with many short-selling firms, but will be a lot easier 
-when we unite and support each other.  
- 
-Bake Xing: What is the cost for NQ’s overseas operation? Why it cannot be processed 
-with level 1? Is it NQ’s fault or PwC’s fault? Or neither? 
- 
-NQ Yu Lin: This is misleading. Level 1 is for prices that can be proved through public 
-channels. For instance, stock assets are Level 1. Fixed-term deposit is the safest and least 
-risky way in China, but it is Level 2 in financial evaluation methods. 
- 
-Yangyang: Can you release the stock shares of everybody in the management team of NQ?  
- 
-NQ Yu Lin: Our founders have about 23%, plus options. The whole team holds over 40%. 
-Our employees have over 22%, the highest among all Internet companies.  
- 
-Shuli: According to the 2012 annual report of NQ, your company has 283.4 million 
-registered users until Dec 31, 2012, among which 164 million users (57.9%) are in China; 
-The average active users are 97.7 million per month, among which 56.9 million (58.2%) 
-are in China; The average paid users are 89 million per month, among which 59 million 
-(66.3%) are in China. From these data, Chinese users are the majority of NQ’s total users 
-and paid users. The Chinese market is the major market of NQ. However, people around 
-me do not feel that they can support these data. What is your explanation on this? PS, the 
-reason I listed these data is because a lot of NQ fans have been claiming that NQ’s main 
-market is overseas, and stating that NQ has never mentioned that its market is mainly 
-inside China. 
- 
-NQ Yu Lin: This is the third party report by SINO Market Research Company. Different 
-reports have different definitions on market and research methods. This is the main 
-reason for discrepancies in data. We suggest our users to read reports from SINO, Yiguan 
-and iResearch to get a more complete and less biased opinion. 
- 
+https://www.anandtech.com/show/12233/amd-tech-day-at-ces-2018-roadmap-revealed-with-ryzen-apus-zen-on-12nm-vega-on-7nm
 
+https://www.anandtech.com/show/12233/amd-tech-day-at-ces-2018-roadmap-revealed-with-ryzen-apus-zen-on-12nm-vega-on-7nm
 
-Page 17 of 18
-Shouzhen: I have two questions. First, is INMOTION SCV a product of NQ? It is very 
-different from the main business area of NQ. Why does NQ not focus on mobile Internet 
-security? Is it because NQ does not have enough confidence in the business model of 
-mobile Internet security area? Second, it has been reported previously that NQ invited 
-Jackie Chan to be the product spokesman. Is it true? The mobile Internet security field is 
-a relatively new business. Your users were mostly born after 1980. Jackie Chan does not 
-have a lot of supporters in this age group. What was the reason NQ invited Jackie Chan 
-as spokesman?  
- 
-NQ Yu Lin: NQ platform is the result of deliberate thoughts of the management team, and 
-is also our ambition to become the international giant in the mobile Internet company 
-space. We have made solid progress toward our goal in the last two years. Last Friday, 
-we revealed the future strategy for NQ in our 8-year anniversary event. We will post 
-videos from the event online in the near future. All are welcome to take a look. I believe 
-it will help the public to know NQ better. 
- 
-Abbey1991: I am using the GEAR watch from Samsung, but I cannot see any software 
-from NQ. Could you explain this? 
- 
-NQ Yu Lin: Music Radar is there. It’s developed by a subsidiary company of NQ. 
- 
-Fengzi Zhang: You are too busy to respond to my question. I am waiting for the stock to 
-go up.  
- 
-NQ Yu Lin: The Capital market is like the Pacific Ocean. There could be waves at any 
-time. NQ will continue working for the best benefits for our users, employees and 
-shareholders. The way to reward our investors is to keep a healthy long-term 
-development on the core business of our company.  
- 
-Duoduo: I have a question from an American friend. NQ has a lot of very good partners 
-such as China mobile and Samsung. Why can’t these partners come out to clear the lies 
-from Muddy Waters? 
+http://ir.amd.com/static-files/a63127c4-569f-4fbe-9fcf-54c24dcfa808
+Viceroy Research Group 22 viceroyresearch.org 
+
+
+Creative accounting to boost management compensation 
+As detailed in the FY2017 proxy statement, AMD management compensation is tied to financial performance 
+
+
+and stock price. Management bonuses are based on the company’s financial performance: with 50% of the 
+
+
+target bonus which consists approximately 15% of total compensation, weighted towards adjusted Non-GAAP 
+
+
+net income, and another 75% based on stock price appreciation.  
+
+
+
+
+
  
-NQ Yu Lin: We have just announced our partnership with international mobile giants 
-such as China mobile and Samsung. Muddy Waters is trying to make profit by generating 
-panic among investors.  
+Figures 29 & 30 Extracts from 2017 AMD Proxy Statement39 
+
+
+Common sense dictate stock prices move when there are positive earnings stories, and what better way to 
+
+
+flatter earnings and increase compensation than by excluding expenses? 
+
+
+On January 31, 2017, AMD published its CFO commentary for its FY2016 final quarter results, including outlook 
+
+
+and guidance for FY2017. As per the extract below, AMD had guided capital expenditures for the year of US$80 
+
+
+million: 
+
+
  
+Figure 31 Extract from AMD Q4 2016 CFO Commentary40 
+
+
+
+
+
+                                                                 
+39 http://ir.amd.com/static-files/83eeb3ba-5aed-4f7b-9a7a-0aa2e6e94bdd  
+40 http://ir.amd.com/static-files/f1094ee0-ffd3-4179-ba98-f21c738f9463  
+
+
+
+http://ir.amd.com/static-files/83eeb3ba-5aed-4f7b-9a7a-0aa2e6e94bdd
+
+http://ir.amd.com/static-files/f1094ee0-ffd3-4179-ba98-f21c738f9463
+Viceroy Research Group 23 viceroyresearch.org 
+
+
+Just a few months later, on May 1, 2017, guidance was raised to US$140 million, due to the capitalization of 
+
+
+production photomask sets beginning in Q1 2017:  
+
+
  
+Figure 32 Extract from AMD Q4 2016 CFO Commentary41 
+
+
+In its quarterly report for Q1 2017, AMD described its reasoning for capitalizing the mask costs: 
+
+
  
+Figure 33 Extract from AMD Q1 2017 10Q42 
+
+
+Photomasks are an essential part of the photolithographic manufacturing process. 
+
+
+For all intents and purposes AMD has stripped out US$60 million of expenses from the Income Statement and 
+
+
+recategorized it as capital expenditure for FY2017. As AMD emphasized in its Q1 earnings call, there is no impact 
+
+
+on free cash flow. The only impact it does have is on earnings.  
+
+
+The capitalization flatters AMD’s earnings in two ways: 
+
+
+1. Deferring expenses – The items are only capitalized once the masks are put into production, and as 
+
+
+such, any costs borne in the associated research and development will not be depreciated until the 
+
+
+masks are put into production. In FY2017, AMD admitted that there is no depreciation or amortization 
+
+
+charge associated with the capitalized costs. As such, AMD inflated its FY2017 earnings by US$60 million 
+
+
+just from this simple change in accounting43. 
+
+
+2. Spreading out the expenses – Based on the Company’s statements above, the mask costs will be 
+
+
+amortized over 2 years, instead of being expensed in the year incurred. This also helps inflate AMD’s 
+
+
+earnings. 
+
+
+As a Credit Suisse anaylst comments, the capitalization of the photomasks is an unusual practice44, and as AMD 
+
+
+itself states, it has no cash impact. The only real beneficiaries of inflating the bottom line are management. 
+
+
+Pre-tax income for FY2017 was US$69 million, and so without the US$60 million reduction in expenses from this 
+
+
+accounting game, which had no impact on 2017 cash flow, AMD would have made less than US$10 million. Based 
+
+
+on this being an unusual practice and AMD’s opaque justification that “the Company’s product development 
+
+
+process has become more predictable and thus supports capitalization,” we believe this was done solely so that 
+
+
+AMD could report higher net income.  
+
+
+AMD’s management has failed at securing its customers by sacrificing security for profit. It has inflated its 
+
+
+earnings through accounting changes and has continued selling stock when it can. Viceroy believes AMD’s 
+
+
+management decision to capitalize photomask costs was motivated by greed 
+
+
+                                                                 
+41 http://ir.amd.com/static-files/7cdff8d0-4a47-49c6-890d-9e98bfc653a1  
+42 https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/amd0930201710q.htm  
+43 AMD Analyst Day, 16 May 2017 
+44 Credit Suisse research report, 29 January 2018  
+
+
+
+http://ir.amd.com/static-files/7cdff8d0-4a47-49c6-890d-9e98bfc653a1
+
+https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/amd0930201710q.htm
+Viceroy Research Group 24 viceroyresearch.org 
+
+
+Conclusion 
+Make no mistake the AMD growth story is dead. 
+
+
+▪ Dependence on Ryzen and EPYC to meet growth forecasts – Analyst forecast growth from Ryzen and EPYC 
+
+
+product lines to constitute a median 76% of AMD’s revenue growth from FY2017 to FY2018, and a median 
+
+
+80% of the growth from FY2018 to FY2019. To fully illustrate the importance of this growth story, the 
+
+
+median CAGR from FY2017 to FY2019 excluding the growth from Ryzen or EPYC is just 2.25%.  
+
+
+▪ Loss of revenue from downtime and recalls – If, as we believe, AMD is required to conduct a product recall 
+
+
+and issue patches to fix the vulnerabilities detailed in the CTS report. Some of the crippling vulnerabilities 
+
+
+may be practically un-patchable. Experts believe that development and distribution of limited-effectiveness 
+
+
+patches will take more than 6 months, time during which Ryzen and EPYC product lines would be completely 
+
+
+vulnerable. Viceroy does not believe AMD will be able to survive such a blow without extremely dilutive 
+
+
+equity raises, or unreasonable levels of debt. 
+
+
+▪ Legal and regulatory – Given the endemic nature of the Masterkey, Ryzenfall, Fallout and Chimera 
+
+
+vulnerabilities and the limited ability of patches to remedy them, Viceroy believes an involuntary product 
+
+
+recall is imminent. AMD will likely face costly and lengthy legal action such as that currently levelled at Intel 
+
+
+over the Meltdown/Spectre fiasco. Coupled with financial implications, we believe AMD would prudently 
+
+
+file for Chapter 11 (Bankruptcy) in order to manage this issue. 
+
+
+▪ Significant reputational harm – The release of the CTS report has put an ignominious end to AMD’s 
+
+
+reputation as a secure hardware provider, especially in light of the negligent nature of the Chimera 
+
+
+vulnerabilities. Customers are unlikely to trust AMD again in the short and medium term 
+
+
+If, as we expect, AMD fails to achieve any additional growth in Ryzen or EPYC, then AMD will be loss-making 
+
+
+based on the majority of analyst models. Further we believe the financial damage caused makes AMD’s long-
+
+
+term survival a rocky proposition. 
+
+
+Neither the bull nor the bear case envisions the scenario that AMD is currently facing. Viceroy believes CTS Labs 
+
+
+has opened a Pandora’s Box of vulnerabilities with AMD’s Ryzen and EPYC product lines: the tone of the report 
+
+
+indicates that more vulnerabilities are likely to be discovered.  
+
+
+In light of CTS’s discoveries, the meteoric rise of AMD’s stock price now appears to be 
+
+
+totally unjustified and entirely unsustainable. We believe AMD is worth $0.00 and will 
+
+
+have no choice but to file for Chapter 11 (Bankruptcy) in order to effectively deal with 
+
+
+the repercussions of recent discoveries.
+Viceroy Research Group 25 viceroyresearch.org 
 
 
-Page 18 of 18
+Annexure – Impacts of AMD vulnerabilities

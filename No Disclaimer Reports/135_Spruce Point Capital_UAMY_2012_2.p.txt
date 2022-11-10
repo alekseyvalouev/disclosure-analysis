@@ -1,1286 +1,785 @@
-Muddy Waters Capital LLC 
-
-
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
-
-
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
-
-
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
-
-
-Page 1 of 34
-Report Date: August 25, 2016 
- 
-Company:  
-St. Jude Medical, Inc. 
- 
-Ticker:  
-STJ US 
- 
-Industry: Medical Devices 
- 
-
-
-Stock Price: $ 81.88  
- 
-Market Cap: $23.3 billion 
- 
-Float: 97.5% 
- 
-Average Volume: 1.9 million shares 
- 
-
-
- 
-This version has been updated state that Dr. Nayak speaks for himself, and not his employer.   
- 
-Summary 
- 
-Muddy Waters Capital is short St. Jude Medical, Inc. (STJ US).1  There is a strong possibility 
-that close to half of STJ’s revenue is about to disappear for approximately two years.  STJ’s 
-pacemakers, ICDs, and CRTs might – and in our view, should – be recalled and remediated.  
-(These devices collectively were 46% of STJ’s 2015 revenue.)  Based on conversations with 
-industry experts, we estimate remediation would take at least two years.  Even lacking a recall, 
-the product safety issues we present in this report offer unnecessary health risks and should 
-receive serious notice among hospitals, physicians and cardiac patients.   
- 
-We have seen demonstrations of two types of cyber attacks against STJ implantable cardiac 
-devices (“Cardiac Devices”): a “crash” attack that causes Cardiac Devices to malfunction – 
-including by apparently pacing at a potentially dangerous rate; and, a battery drain attack that 
-could be particularly harmful to device dependent users.2  Despite having no background in 
-cybersecurity, Muddy Waters has been able to replicate in-house key exploits that help to enable 
-these attacks.   
- 
-We find STJ Cardiac Devices’ vulnerabilities orders of magnitude more worrying than the 
-medical device hacks that have been publicly discussed in the past.  These attacks take less skill, 
-can be directed randomly at any STJ Cardiac Device within a roughly 50 foot radius, 
-theoretically can be executed on a very large scale, and most gallingly, are made possible by the 
-hundreds of thousands of substandard home monitoring devices STJ has distributed.3  The STJ 
-ecosystem, which consists of Cardiac Devices, STJ’s network, physician office programmers, 
-and home monitoring devices, has significant vulnerabilities.  These vulnerabilities highly likely 
-could be exploited for numerous other types of attacks.   
- 
-Key vulnerabilities can apparently be exploited by low level hackers.  Incredibly, STJ has 
-literally distributed hundreds of thousands of “keys to the castle” in the form of home monitoring 
-units (called “Merlin@home”) that in our opinion, greatly open up the STJ ecosystem to attacks.  
-These units are readily available on Ebay, usually for no more than $35.  Merlin@homes 
-generally lack even the most basic forms of security, and as this report shows, can be exploited 
-
-
-                                                             
-1 The short positions are held by funds Muddy Waters Capital LLC manages. 
-2 See Demonstrated Attacks – Likely Just Two of Many Possibilities infra. 
-3 It would have been illegal to attempt to validate the large scale attack theories. 
-
-
-Page 2 of 34
-to cause implanted devices to malfunction and harm users.  We believe that courts will hold 
-STJ’s lack of security in its Cardiac Device ecosystem is grossly negligent, unless STJ settles the 
-litigation we see as inevitable. 
- 
-The vulnerabilities result from an apparent lack of device security; and, the communication 
-protocols for the Cardiac Device ecosystem – which we believe lacks basic protections such as 
-encryption and authentication – are in fact compromised.  As a result, an attacker can 
-impersonate a Merlin@Home unit, and communicate with the Cardiac Devices – and likely even 
-STJ’s internal network.  While STJ might be able to patch one particular type of attack, the mass 
-distribution of access points to the inner workings of the ecosystem via the home monitoring 
-devices requires in our opinion, a lengthy system rework.   
- 
-Dr. Hemal Nayak, a cardio electrophysiologist at the University of Chicago, is recommending 
-his patients unplug their Merlin@home units; and, he is not going to implant STJ devices until 
-the problems discussed in this report are remediated.  (His statement is in the Appendix.)  Dr. 
-Nayak is the medical advisor to MedSec Holdings Ltd. (“MedSec”), which is the cybersecurity 
-research firm that identified the vulnerabilities in STJ’s ecosystem.4  (Dr. Nayak is also a 
-member of its board.)   
- 
-Background 
- 
-MedSec is a cybersecurity research firm focused on the healthcare industry.  It contacted Muddy 
-Waters after largely completing an assessment of major manufacturers’ pacemakers and 
-implantable cardioverter defibrillators (“ICDs”).5  
- 
-The lack of security in the STJ pacemaker and ICD infrastructure stunned MedSec.  STJ’s 
-apparent lack of device security is egregious, and in our view, likely a product of years of 
-neglect.  Moreover, STJ’s devices were even the subject of a U.S. Department of Homeland 
-Security investigation into cybersecurity flaws in 2014, yet these gaping holes seem to persist.6  
-As a result, neither MedSec nor Muddy Waters was confident that STJ would put patients before 
-profits if it were approached behind closed doors.  Muddy Waters and MedSec agreed that users’ 
-interests are best served by being made aware of these serious issues.  While standard practice in 
-the cybersecurity industry is to notify companies of vulnerabilities before discussing them 
-publicly,  MedSec licensed its research to Muddy Waters so that we could bring these issues to 
-light (without revealing detailed vulnerability information). Muddy Waters has engaged MedSec 
-as consultants in addition to licensing its research on STJ.  MedSec is receiving compensation 
-related to investment profits from the funds Muddy Waters manages.    
- 
-MedSec has given Muddy Waters multiple demonstrations evidencing how hollow STJ’s device 
-security is.  To illustrate the severity of these vulnerabilities, MedSec demonstrated two types of 
-
-
-                                                             
-4 Dr. Nayak had been granted an immaterial equity interest in MedSec prior to MedSec reaching its conclusions 
-regarding STJ. 
-5 MedSec believes this study is the first of its kind.  It expects to publicly release the study in September 2016. 
-6 http://www.reuters.com/article/us-cybersecurity-medicaldevices-insight-idUSKCN0IB0DQ20141022 
-
-
-Page 3 of 34
-attacks that could do severe harm to devices and users, and theoretically could be deployed on a 
-large scale.7   
- 
-In addition to making an investment case, the purpose of this report is to inform device users and 
-their physicians of these risks.  MedSec and we believe that users have a right to know that there 
-are serious security problems with their implanted Cardiac Devices, and the related devices.  
-However, we are withholding and redacting technical information that could give potential 
-attackers a roadmap.   
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  Regardless, Cardiac Device users should speak with their physicians about the risks.  
-Muddy Waters is providing the United States Food and Drug Administration and Department of 
-Homeland Security with a version of this report, and expects to facilitate dialogue between the 
-agencies and MedSec. 
- 
-As we detail in this report, Muddy Waters believes there is a strong possibility that STJ will need 
-to recall its pacemakers, ICDs, and CRTs while it hardens security of the device ecosystem.  This 
-recall would likely entail a moratorium on sales of these devices, and we estimate this 
-moratorium would be effective for a remediation period of at least two years.   
- 
-The devices MedSec studied, and that formed the basis for these conclusions included 
-pacemakers and ICDs; but, did not include CRTs.  Because the CRTs are compatible with the 
-compromised Merlin@home devices, this report assumes that they have similar vulnerabilities, 
-and should also be recalled and remediated.  (Were the CRTs not to have the expected or similar 
-vulnerabilities, then the products would not need to be recalled.) 
- 
-The Merlin@home devices were obtained second hand – often from online vendors.  The 
-programmers were obtained via a third party partnership with a licensed physician.  The 
-observations regarding device security in this report are derived from the substantial majority of 
-devices studied, and it is possible that newer versions of these devices have some security 
-enhancements that could eliminate some seemingly minor vulnerabilities in those particular 
-devices.   
- 
-However, even if new generations of devices have some enhancements, we still view the entire 
-ecosystem as greatly compromised.  There are likely hundreds of thousands of Merlin@home 
-devices with easily exploitable vulnerabilities in the world, and vulnerable devices are easily 
-purchased online for no more than $35.  This train has already left the station. 
- 
-STJ’s Compromised Cardiac Device Ecosystem 
- 
-For our purposes, the Cardiac Device ecosystem consists of four components: the implantable 
-device, the Merlin programmer, the STJ network, and the Merlin@home.8 
- 
-                                                             
-7 It would have been illegal to try to validate the ability to commit large scale attacks. 
-8 The device pictures supra are representative, and are not pictures of the actual devices studied. 
-
-
-Page 4 of 34
-Implantable Device 
- 
-
-
-
-
-
-The Cardiac Devices are implanted in patients typically to treat 
-tachycardia and bradycardia.  They are radio frequency (“RF”) 
-enabled, so that they can communicate with the Merlin@Home 
-devices and programmers.   
- 
-Cardiac Devices accounted for 46% of STJ’s 2015 revenue: 
- 
-
-
-ICDs and CRTs    $1,582 million      29% 
-Pacemakers            $941 million       17% 
- 
-
-
-Programmer 
- 
-
-
-
-
-
-Physician office programmers (called “Patient Care Systems”) 
-are roughly the size of a typewriter.  They are critically 
-important devices in the STJ Cardiac Device ecosystem.  The 
-programmer, typically used by a physician or medical 
-professional, is designed to interrogate, program, display data 
-and test STJ implantable devices.  Every feature that can be 
-changed in the implantable can be done by the programmer, as 
-there is no other device with a higher level of sophistication.  
-For an RF capable implantable device, a wand is used to unlock 
-the device, and then the transmission of data occurs over RF. 
-The programmers studied lack encryption and also present a 
-substantial vulnerability.   
-
-
-Merlin.net Network 
- 
-
-
-
-
-
-The STJ network enables the transfer of data between the 
-implanted devices, programmers, Merlin@home, and 
-physicians. Information transmitted includes patient data, remote 
-performance diagnostics, and updates related to the device. 
-
-
-Merlin@Home 
- 
-
-
-
-
-
-The Merlin@Home device, which is about the size of a 
-hardcover book, communicates with Cardiac Devices over RF.  
-Its purpose is to receive device and patient health data from the 
-Cardiac Devices, and then transmit it to STJ’s Merlin.net 
-network.  There are literally hundreds of thousands of @home 
-devices in the wild, and used devices with easily exploitable 
-vulnerabilities are readily available on Ebay.  The devices 
-contain critical information and code without encryption, and are 
-effectively “keys to the castle” that open the door to attackers.   
-
-
- 
-Any programmer or Merlin@home device can generally communicate with any Cardiac Device 
-because there is no strong authentication built into the protocol.  Attackers who can reverse 
-engineer the communication protocol can access and impersonate parts of the ecosystem, 
-including the Cardiac Devices.   
- 
-
-
-Page 5 of 34
-Usually, devices part of an ecosystem such as this one would have defenses including strong 
-authentication, encrypted software and code, anti-debugging tools, and anti-tampering 
-mechanisms.  A manufacturer might also might require wand activation before allowing RF 
-communication (meaning the home device would have to be within inches of the Cardiac 
-Device).  STJ’s major competitors have used the aforementioned techniques (among others) to 
-protect their protocols.  The Merlin@homes studied generally had none of these defenses.  
- 
-In Security Well Below Industry Standards infra, we present a table comparing STJ’s lack of 
-security to the major competitors studied.   
- 
-Hundreds of Thousands of Keys to the Castle 
- 
-Perhaps most shocking about STJ’s lack of security is that it has distributed hundreds of 
-thousands of devices that are apparently so easily analyzed for vulnerabilities.  There are 
-numerous Merlin@home units for sale on Ebay – usually for no more than $35.  The below 
-screenshot shows the ready availability of the Merlin@home devices on Ebay.9 
- 
-
-
-                                                             
-9 The search was run on August 3, 2016. 
-
-
-Page 6 of 34
-When a patient receives a Cardiac Device implant, it is usually bundled with a Merlin@Home 
-monitor. Previous generations of these devices were shown to be vulnerable to hacking within 
-very close proximity.10  However, these devices had wands that needed to be within inches of the 
-Cardiac Device in order to communicate.  Merlin@home devices and implants now have 
-additional RF capabilities, with a communications range of approximately 50 feet.  They now 
-pose a far more significant risk to user safety than before.  The Merlin@home devices MedSec 
-tested generally only required approximately 10 minutes to get access to the root directory.  
-                                                             
-10 http://www.secure-medicine.org/public/publications/icd-study.pdf 
-
-
-Page 7 of 34
-“Getting root” on the Merlin@home devices exposes sensitive STJ network credentials.  We 
-believe the ease of getting root shows how poor the device security is.  MedSec identified three 
-methods to get root on the @home devices. 
- 
-There are numerous ways in which the Merlin@home devices violate security standards (and 
-defy logic): 
- 
-
-
-• No apparent tamper-proofing or hardware identity protection.  Chip models are clearly 
-displayed, aiding the research process for an attacker. 
- 
-
-
-• Unprotected software.  While patient data is encrypted, the Merlin@home device has 
-entirely unencrypted software. Competing systems use some form of encryption to 
-protect the proprietary applications.  Extracting software from the @Home device can be 
-done by identifying the chip, and reading the data off it.  The Merlin@home’s Samsung 
-flash memory has been publicly documented to be vulnerable.11 
- 
-
-
-• Lack of a layered defense.  In MedSec’s opinion, the use of off-the-shelf components and 
-the lack of anti-debugging mechanisms made the Merlin@home device significantly 
-easier to reverse engineer and locate numerous vulnerabilities.  The manufacturer left 
-many developmental items on the devices that should not be present, such scripts that 
-allow debugging and development mode to be turned on.  All of the competitors 
-incorporated additional security measures.  Some manufacturers required short range 
-authentication (via a wand).   
- 
-
-
-• Easy availability of device firmware.  MedSec was also able to obtain the @home 
-device’s firmware in three ways: 
-o Decapitating the Samsung memory chip, 
-o Getting root on the @home device and simply copying the files to the USB port,  
-o [Redacted.] 
-
-
- 
-MedSec believes a software update was likely pushed to some of the Merlin@home devices that 
-made them appear more secure; however, in MedSec’s opinion, this update represented a very 
-slight change in security.  This might have been STJ’s response to the 2014 issues.  
-Merlin@home units manufactured in 2016 appear to have the same type of vulnerabilities.12 
- 
-Getting Root Opens the Door 
- 
-The first shocking thing one encounters when getting root on the Merlin@home device is 
-unencrypted security information that takes no additional effort to access.  This information 
-includes: 
- 
-
-
-                                                             
-11 See https://www.blackhat.com/docs/us-14/materials/us-14-Oh-Reverse-Engineering-Flash-Memory-For-Fun-And-
-Benefit-WP.pdf 
-12 Devices manufactured in 2016 are difficult to obtain on the secondary market.  MedSec was able to obtain one 
-such device, and was able to get root using a previously identified exploit. 
-
-
-Page 8 of 34
-• The toll-free access number for the Merlin network.  (The @home devices connect to the 
-Merlin network either through a phone line connection or a 3G token.) 
-
-
-• The User ID and Password for the Merlin network.  These credentials are static – i.e., 
-they are used to authenticate all @home devices on which MedSec got root.   
-
-
-• STJ server IP addresses (in older device versions),   
-• SSH keys (in older device version).  SSH keys are the “private” keys in a “public / 
-
-
-private” key pair system.  (See: https://wiki.archlinux.org/index.php/SSH_keys)  MedSec 
-is prohibited by law from testing whether these SSH keys are still in use by STJ’s 
-network.  Even if the SSH keys have been changed, their unencrypted existence on older 
-@home devices is shocking.  If the keys are still in use, they could assist an attacker with 
-a network-based attack. 
-
-
- 
-The network credentials present on the @home device likely could be exploited to obtain 
-confidential (and legally protected) patient data from the Merlin network.  Also due to legal 
-prohibitions, MedSec was unable to confirm this theory. 
- 
-Below are screenshots evidencing Muddy Waters got root on Merlin@home devices (using 
-exploits developed by MedSec): 
-
-
-
-
-
- 
- 
- 
- Security Well Below Industry Standards (the Case for Gross Negligence) 
- 
-We have little doubt that STJ is about to enter a period of protracted litigation over these 
-products.  Should these trials reach verdicts, we expect the courts will hold that STJ has been 
-
-
-Page 9 of 34
-grossly negligent in its product design.  (We estimate awards if litigated to a verdict could total 
-$6.4 billion.13)   
- 
-One of the purposes of this report is unapologetically to single out STJ for what we see as its 
-incompetence in, or indifference to, device security.  In contrast, some competitors’ devices had 
-some surprisingly advanced device security features on home monitoring units.  One competitor 
-went as far as developing a highly proprietary embedded OS, which is quite costly and rarely 
-seen.  Healthcare cyber security is a nascent field, and one in which manufacturers and providers 
-are challenged to catch up.  However, STJ’s lack of security is stunning in comparison to that of 
-its three major competitors.   
- 
-Medtronic (MDT US), the largest player in the space, took a much different approach to patient 
-remote monitoring using the MyCareLink Patient monitor device pictured below: 
-
-
-
-
-
-
-
-
-MDT’s MyCareLink monitor has a wand that has to be detached and put within inches of the 
-implantable to communicate – similar to earlier versions of STJ’s home monitoring devices.  As 
-a result, even if all of the MyCareLink monitors were compromised, an attacker would only be 
-able to modify the device to perform in person attacks over a distance of a few inches. 
- 
-The STJ communication protocol does not include the use of any unique or one-time tokens, 
-such as a user-provided password. Instead, devices exchange an IMD (a unique identifier) to 
-create sessions.  As a result, any programmer or Merlin @ Home device can communicate with 
-any Cardiac Device, and once the communication protocol is understood, generally any device 
-can be impersonated. 
- 
-MedSec and Muddy Waters believe it is prudent from a security standpoint for STJ to disable the 
-RF capability of patients’ implanted devices.  
- 
-The following table compares the security on STJ’s Merlin@home to the devices manufactured 
-by the three major competitors MedSec studied.  
-
-
-                                                             
-13 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of an estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Page 10 of 34
-Page 11 of 34
-The Merlin@home circuit board shows some of the device’s substandard security.  STJ’s RF 
-chip is clearly an off the shelf un-customized Zarlink chip.  (There is a readily available 
-datasheet that contains important information about the packet structure the Zarlink chip uses.)  
-In contrast, the other manufacturers have proprietary RF chips developed specifically for their 
-protocols.14  STJ also uses a Samsung memory chipset for which there is a public presentation 
-about how to extract the contents. Further, none of the major chips appear to be proprietary.  The 
-competitors’ devices contained numerous customized chips (with no publicly available data 
-sheets). 
- 
- 
-
-
-
-
-
- 
-Whether SJM’s conduct constitutes simple negligence, gross negligence, or recklessness we 
-leave to the courts, based on a full discovery record.  What we can say is that it constitutes an 
-extreme departure from industry standards, as evidenced by the security efforts its competitors 
-have made, and further shows a remarkable indifference to protecting its customers from 
-cybersecurity threats.  Regardless, we have little doubt that STJ is about to enter a period of 
-protracted litigation over these products.  Should these trials reach verdicts, we expect the courts 
-will hold that STJ has been grossly negligent in its product design.  (We estimate awards could 
-total $6.4 billion.15)   
- 
-Merlin Programmers are also Non-Secure 
- 
-Perhaps more worryingly, the physician office programmers are not well secured either. 
-Shockingly, the STJ programmer has an easily accessible removable SATA/IDE harddrive. The 
-hard drive is unencrypted and applications can be easily read from, modified, and rewritten to the 
-
-
-                                                             
-14 The competitors’ RF chips could be custom modified chips produced by a major manufacturer such as Zarlink. 
-15 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of a conservatively estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Samsung K9F1208 Family 
-Memory Chipset  
-
-
-Zarlink Chip 
-
-
-Page 12 of 34
-hard drive using a SATA/IDE to USB adapter cable. This makes the vulnerability discovery 
-process for an attacker significantly easier.  If the applications are reverse engineered it could 
-potentially allow an attacker emulate the full functionality of the programmer using custom 
-hardware in a much more compact form – e.g., a pocket size device.  
- 
-These devices are readily available online for a few thousand dollars – including occasionally on 
-Ebay.  A Merlin programmer available on Ebay on August 10, 2016: 
- 
-
-
-
-
-
-Page 13 of 34
-Incompetence or Indifference? 
- 
-We believe the foregoing issues evidence a company that either does not know how to do device 
-security, or does not care about it.  Ironically, STJ touts its claimed strength in network 
-security.16  It strikes us as bizarre that STJ seems so focused on its internal corporate network, 
-which is arguably its last line of defense (and does nothing to protect against local attacks), while 
-distributing hundreds of thousands of non-secure Merlin@home devices into the homes of its 
-customers. 
- 
-Although MedSec has spent considerable time researching STJ’s devices (and those of its major 
-competitors), it expects that there are numerous additional security issues with its Cardiac Device 
-ecosystem.  MedSec extrapolates this based on the obvious lack of attention to security evident 
-in the devices it has researched.  This seeming shoddiness is more likely than not a systemic 
-problem at STJ, rather than an isolated one.  
- 
-MedSec was able to review only a small portion of the massive code base, yet it found 
-vulnerabilities on a regular basis.  STJ should and could identify and fix these as subset of the 
-MedSec identified vulnerabilities, and new vulnerabilities will likely continue to exist, unless 
-                                                             
-16 STJ seems quite proud of its “CTAC” – “Cyber Threat Action Center”.  “CTAC’s mission is to identify, protect 
-against, respond to, and enhance resiliency against cyber security threats. Learn how St. Jude Medical fulfills this 
-mission by using threat intelligence to monitor for emerging threats against the healthcare industry and make 
-informed verdicts on events in its SIEM.” https://www.recordedfuture.com/st-jude-medical-webinar-announcement/ 
- 
-
-
-Page 14 of 34
-STJ reworks large portion of the code of the Merlin@home, Programmer, and implantable 
-Cardiac Devices.  The company should include anti-fuzzing, anti-debugging methods, buffer 
-overflow protection, integer overflow protection, and string format protection. 
- 
-Demonstrated Attacks – Likely Just Two of Many Possibilities 
- 
-In the U.S. alone, STJ has over 260,000 active Merlin@home devices in the homes of users of 
-Cardiac Devices.17  (The worldwide number is likely hundreds of thousands of units higher.)  
-Many Merlin@home users keep the devices in their bedrooms, connected to STJ’s network 
-while they sleep. 
- 
-With relatively little effort, MedSec exploited tools on the @home devices to code the attacks.  
-Then, using compromised @home devices or software defined radios (“SDR”), MedSec 
-demonstrated two types of potentially catastrophic attacks:18  
- 
-
-
-• “crash” attacks that remotely disable cardiac devices, and in some cases, appear to cause 
-the Cardiac Device to pace at a dangerous rate, and 
- 
-
-
-• a battery drain attack that remotely runs Cardiac Device batteries down. 
- 
-These attacks were all demonstrated locally – within 50 feet, which is the approximate broadcast 
-radius of a Merlin@home unit.  (More powerful antennae can theoretically increase the range.)  
-MedSec outlined an exact method that could be used to launch similar attacks on a large scale 
-basis – either through established techniques for [redacted], or possibly through STJ’s network 
-itself.  It would have been illegal for MedSec to test the proof of concept. 
- 
-It is important to note that MedSec demonstrated these attacks on pacemakers and ICDs.  CRTs, 
-which were 16% of 2015 revenue, were unavailable for the demonstrations.  Because these 
-attacks exploit the communication protocol between the Merlin@home devices and the Cardiac 
-Devices, MedSec is confident that CRTs are similarly vulnerable. 
- 
-
-
-a. “Crash Attacks” 
- 
-The Crash Attacks involve broadcasting a combination of signals that places Cardiac Devices 
-into a state of malfunction.  Many of the Cardiac Devices tested are vulnerable to attacks 
-broadcast through a single Merlin@home device that is either compromised, or via a software 
-defined radio (“SDR”) using a broadcast antenna.  The Crash Attacks generally took less than 
-one hour to take effect. 
-                                                             
-17 As of May 2014 – see http://investors.sjm.com/investors/financial-news/news-release-details/2014/Pacemaker-
-and-Defibrillator-Patients-Adhering-to-Remote-Monitoring-with-St-Jude-Medicals-Merlin-Technology-Saw-More-
-than-Double-Survival-Rate/default.aspx 
-18 “Software-defined radio (SDR) is a radio communication system where components that have been typically 
-implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead 
-implemented by means of software on a personal computer or embedded system.” - 
-https://en.wikipedia.org/wiki/Software-defined_radio (citing: Software Defined Radio: Architectures, Systems and 
-Functions (Markus Dillinger, Kambiz Madani, Nancy Alonistioti) Page xxxiii (Wiley & Sons, 2003, ISBN 0-470-
-85164-3)) 
-
-
-Page 15 of 34
-In many cases, the Crash Attack made the Cardiac Device completely unresponsive to 
-interrogations from Merlin@home devices and Merlin programmers.  It was therefore impossible 
-to tell whether, and how the Cardiac Devices, are functioning.  MedSec strongly suspects they 
-were in many cases “bricked” – i.e., made to be non-functional.  It is likely physicians would 
-explant a device that did not respond to the programmer.  
- 
-In some cases, a Cardiac Device subjected to a Crash Attack was still able to communicate with 
-the programmer, and the information displayed was alarming.  In a Crash Attack demonstration 
-we witnessed on an ICD, the Crash Attack appears to have caused the device to pace at a rapid 
-rate that could have adverse health consequences if it performed this way in a user.19  Below is a 
-screenshot from the programmer showing the apparent malfunction.  The red error messages 
-above the lowest line are also indicators that the device is malfunctioning.   
-
-
-                                                             
-19 Interpretation of pacing data by MedSec medical advisor and board member, Dr. Hemal Nayak.  See The 
-Appendix.   
-
-
-Page 16 of 34
-b. Battery Drain Attack 
- 
-MedSec has demonstrated a Battery Drain attack that generates signals from the Merlin@home 
-device to run down batteries in Cardiac Devices at a greatly accelerated rate.  The attack version 
-MedSec tested depleted the batteries at approximately three percent of capacity per 24-hour 
-period.20  MedSec has since optimized the code.  Many Merlin@home users have their devices in 
-                                                             
-20 The exact depletion rate depends on the type and version of device. 
-
-
-Page 17 of 34
-their bedrooms, making it possible to run down batteries while users are sleeping.21  While 
-untested, MedSec believes the new code would drain devices at six times the rate – or in 
-approximately two weeks of nightly broadcasts.  While the Battery Drain attack appears 
-inefficient for a local attack, it could have severe consequences if deployed on a large scale.22  A 
-minority of Cardiac Device users are device dependent, and they are the group to whom the 
-Battery Drain attack poses the most significant risk.23  
- 
-A large scale attack is theoretically possible either through [redacted] and possibly through STJ’s 
-own Merlin network.  An attack through the Merlin network could be possible because of the 
-compromised login credentials for the network, giving rise to the possibility that the network 
-would be unable to distinguish a genuine Merlin@home device from an attacker.  Even if the 
-particular vulnerabilities discussed in this report are fixed, the Cardiac Devices are likely 
-susceptible to other attacks without a new communication protocol in place.  Based on our 
-conversations with industry experts, we estimate it would take at least two years to deploy a new 
-protocol on the current generation of devices. 
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  MedSec’s medical advisor, Dr. Hemal Nayak, who is a cardiac electrophysiologist, has 
-advised his patients to disconnect their Merlin@home units.  He is no longer implanting STJ 
-devices until the problem is remediated.  (Dr. Nayak’s statement to physicians and patients is in 
-the Appendix.)   
- 
-Analysis of Recall Likelihood & FDA Medical Device Cybersecurity Regulatory 
-Framework 
- 
-We believe in-home communication compatible Cardiac Devices should be recalled, either 
-voluntarily by STJ or mandatorily by the U.S. Food and Drug Administration (“FDA”).  This 
-recall would likely take the form of a moratorium on selling new devices until STJ completes 
-development of a new RF communication protocol.  Based on our conversations with industry 
-experts, we estimate a two-year timeline to develop and deploy the protocol.   
- 
-FDA Statutory and Regulatory Basis for Device Recalls 
- 
-Manufacturers independently initiate the overwhelming majority of medical device recalls.24  
-These are labeled “voluntary” recalls conducted pursuant to 21 CFR Part 7. However, the FDA’s 
-authority pursuant to Section 518(e) of the Federal Food, Drug, and Cosmetic Act (“FDCA”)25 
-
-
-                                                             
-21 Per Dr. Hemal Nayak, MedSec medical advisor and board member. 
-22 Note that Cardiac Devices generally have an audible low battery indicator.  A concern is that physicians and 
-patients would assume a normal delay between onset of the indicator and depletion. 
-23 http://www.medscape.com/viewarticle/712198_2 
-24 In 2014, FDA released its “Medical Device Recall Report – FY 2003 to FY 2012” available at 
-http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHTra
-nsparency/UCM388442.pdf  (last accessed Aug. 22, 2016). That Report states “[i]n rare cases, such as when a 
-device firm in uncooperative, FDA may perform a mandatory recall. However, all medical device recalls during this 
-report period were performed on a voluntary basis by the firms.”  
-25 21 USC § 360h(e). 
-
-
-Page 18 of 34
-and its related regulations found in 21 CFR Part 810 to mandate medical device recalls likely 
-explains the high rate of “voluntary” recalls.26  Should STJ not voluntarily recall these Devices 
-once informed of the high probability that the device would cause serious, adverse health 
-consequences or death, the FDA has ample regulatory basis to order a recall.  There are three 
-major competing device manufacturers.  While not ostensibly part of the FDA’s analysis, it is 
-notable that recalling STJ’s Devices would not deprive patients of an essential device. 
- 
-FDA Draft Guidance Document on Postmarket Device Cybersecurity 
- 
-The FDA issued a draft guidance document entitled  “Postmarket Management of Cybersecurity 
-in Medical Devices” (the “Draft Guidance”) on January 22, 2016. The Draft Guidance details 
-FDA’s current thinking on “managing postmarket cybersecurity vulnerabilities for marketed 
-medical devices.” Specifically, the Draft Guidance provides requirements for circumstances in 
-which cybersecurity vulnerabilities must be reported to FDA and may require additional actions, 
-including recall.27,28   
- 
-The Draft Guidance focuses on “assessing the risk to the device’s essential clinical 
-performance”.29  Essential clinical performance is the “performance necessary to achieve 
-freedom from unacceptable risk”.30  Manufacturers define the essential clinical performance 
-standards.31  Our analysis assumes that STJ’s definition of essential clinical performance for the 
-Devices includes (whether explicitly or implicitly) the ability to communicate with physician 
-programmers, avoid rapid battery depletion, and maintain safe pacing.  Further, we emphasize 
-throughout this report our view that other researchers are likely to develop additional attacks that 
-could compromise the essential clinical performance of the Devices.  The Draft Guidance 
-acknowledges that “a cybersecurity vulnerability might impact all of the medical devices in a 
-manufacturer’s portfolio based on how their products are developed…”32 
- 
-The Draft Guidance provides that manufacturers assess the risk a vulnerability presents to 
-essential clinical performance by considering: a) the “exploitability” of the vulnerability, and b) 
-the severity of the impact to patients’ health if it were exploited.33  If a risk is “uncontrolled”, 
-
-
-                                                             
-26  “The vast majority of all recalls are voluntary… Recalls are almost always voluntary, meaning initiated by a firm. 
-A recall is deemed voluntary when the firm voluntarily removes or corrects marketed products or the FDA requests 
-the marketed products be removed or corrected.” FDA’s openFDA, available at 
-https://open.fda.gov/device/enforcement/ (last accessed Aug. 22, 2016). 
-27 FDA’s Draft Guidance Document, “Postmarket Management of Cybersecurity in Medical Devices – Draft 
-Guidance for Industyr and Food and Drug Administration Staff,” available at 
-http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm482022.pdf 
-(dated Jan. 22, 2016, last accessed Aug. 22, 2016).  
-28 The draft guidance is not a final agency action and is subject to modification prior to adoption. As for all FDA 
-guidance documents, the “draft guidance, when finalized, will represent the current thinking of the [FDA] on this 
-topic. It does not establish any rights for any person and is not binding on the FDA or the public.” topic. 
-29 Draft Guidance, part VI. 
-30 Draft Guidance, part IV.E. 
-31 Id. 
-32 Draft Guidance, part V.B. 
-33 Draft Guidance, part VI. 
-
-
-Page 19 of 34
-then manufacturers should remediate it.34  Based on our conversations with industry experts, we 
-estimate this remediation would take at least two years.   
- 
-In terms of understanding the probability of an attack taking place, University of Michigan 
-medical device cybersecurity research Kevin Fu pointed out that the malicious third party 
-controls the probability distribution of an attack.35 
- 
-To determine whether a risk is uncontrolled, the Draft Guidance suggests that manufacturers 
-look to cybersecurity vulnerability assessment tools to determine exploitability.  It mentions one 
-tool that could assist, called the “Common Vulnerability Scoring System”, version 3.0.36,37  
-Based on our inputs to the CVSS 3.0 model, the exploitability of the vulnerabilities for the 
-Devices ranges from “High” to “Critical”.  Further, FDA’s Draft Guidance indicates that 
-manufacturers “should also have a process for assessing the severity impact to health, if the 
-cybersecurity vulnerability were to be exploited.”38 The Draft Guidance suggests one for such 
-assessment to be the ANSI/AAMI/ISO 14971: 2007/®2010: Medical Devices – Application of 
-Risk Management to Medical Devices.39 Pursuant to this tool, a common term for assessing a 
-qualitative severity level resulting in patient death would be “catastrophic” while, on the lower 
-end of the severity spectrum, a common term for a severity level resulting in inconvenience or 
-temporary discomfort would be “negligible.”40  
- 
-As shown supra, MedSec has demonstrated an attack that can cause a Device to pace at a 
-potentially dangerous rhythm.  MedSec has also demonstrated a battery drain attack, and certain 
-Device dependent patients could experience severe health consequences if their Devices lost 
-power and failed to function.41  Based on the Draft Guidance and its recommended tools, we 
-therefore assess the severity of the exploit to patient health to be “catastrophic.”  The below 
-matrix from the Draft Guidance deems a vulnerability with high exploitability and catastrophic 
-impact if exploited an uncontrolled risk.42   
- 
- 
-
-
-                                                             
-34 Draft Guidance, part VIC. 
-35 https://www.youtube.com/watch?v=shTj9WVhVyU&feature=youtu.be 
-36 Draft Guidance, part VI.A. 
-37 The tool is available at: https://www.first.org/cvss/calculator/3.0 
-38 Draft Guidance, part VI.B. 
-39 Id. 
-40 Id. 
-41 According to MedSec medical advisor Dr. Hemal Nayak. 
-42 The matrix is in the Draft Guidance, part VI.C. 
-
-
-Page 20 of 34
-The Draft Guidance provides several examples of uncontrolled risks. One examples is strikingly 
-similar to the vulnerabilities and attacks MedSec has discovered: 
- 
-
-
-Examples of Vulnerabilities Associated with Uncontrolled Risk 
-That Must Be Remediated and Response Actions: 
- 
- A manufacturer becomes aware of a vulnerability via a researcher 
-that its Class III medical device (e.g., implantable defibrillator, 
-pacemaker, etc.) can be reprogrammed by an unauthorized user. If 
-exploited, this vulnerability could result in permanent impairment, 
-a life-threatening injury, or death.  The manufacturer is not aware 
-that the vulnerability has been exploited and determines that the 
-vulnerability is related to a hardcoded password, and cannot be 
-mitigated by the device’s design controls. The risk assessment 
-concludes that the exploitability of the vulnerability is moderate 
-and the risk to the device’s essential clinical performance is 
-uncontrolled. The manufacturer notifies appropriate stakeholders, 
-and distributes a validated emergency patch. The manufacturer is 
-not a participating member of an ISAO and reports this action to 
-the FDA under 21 CFR 806.10.43 
-
-
- 
-Pursuant to the Draft Guidance, FDA recommends specific changes to address vulnerabilities 
-associated with the types of uncontrolled risks described in this example. Among other actions, 
-the manufacturer should “identify and implement risk mitigations…such as a work-around or 
-temporary fix.”44 Additionally, manufacturers should report these vulnerabilities to FDA 
-pursuant to 21 CFR part 806.45 However, FDA states in the Draft Guidance that it does not 
-intend to enforce these reporting requirements if three circumstances are met: 1) there are no 
-known serious adverse events or deaths associated with the vulnerability, 2) within 30 days of 
-learning of the vulnerability, the manufacturer identifies and implements changes to lower the 
-                                                             
-43 Draft Guidance, part VII.B. 
-44 Id. 
-45 Id. 
-
-
-Page 21 of 34
-risk level and notifies users, and 3) the manufacturer is a participating member of an ISAO, like 
-NH-ISAC.46  
- 
-As described in more detail infra, it will likely be impossible for STJ to identify and implement 
-changes to the Devices within 30 days of learning of the vulnerabilities, and will therefore be 
-subject to the reporting requirements imposed by FDA under 21 CFR § 806.10, which includes 
-notification to all the customers in the distribution chain.47 
- 
-Recall Likelihood and Conclusions 
- 
-The vulnerability in the ecosystem is the compromised communication protocol between the 
-Merlin@home units and the Cardiac Devices.  Because in-home units are widely available and 
-easy to exploit, MedSec believes that STJ must develop a new communication protocol in order 
-to secure the Cardiac Devices.   
- 
-We estimate that it would take STJ at least two years to develop a new RF communication 
-protocol.  We assume the total team size required for this project would be 10 to 15 people.  We 
-understand that adding people to the team would likely not speed up the development time.  Our 
-assumption includes an expected approval timeline of three to six months.  
- 
-STJ’s lack of adequate attention to secure system architecture and design and implementation has 
-resulted in an embedded system eco-system that will be very difficult to remediate.  These 
-solutions would then need to be written into the existing code base. In simpler situations, a 
-security update can be applied to the protocol without affecting the rest of the system.  In this 
-case, STJ appears to have intertwined many of the different layers of communication throughout 
-the software.  As a result, it appears there is no part of the programming stack on which a 
-remediation effort could focus.  Large parts of the extremely large codebase would have to be re-
-written.  
- 
-To protect existing Device users, STJ could disable the Devices’ RF (radio frequency) 
-capabilities as a “compensating control”.  A compensating control is a countermeasure used in 
-the absence of sufficient controls designed into the device.48  MedSec’s observations of STJ’s 
-devices cause it to believe this is practicable to implement.  With the RF disabled, devices would 
-be unable to use the in-home devices and network and would need close proximity for 
-interrogation.  As a result, certain patients would need to see their physicians more frequently to 
-compensate for the lack of remote monitoring.49  It should be noted MedSec sees no reason to 
-expect STJ’s major competitors to interrupt access to their home monitoring networks. 
- 
-Pursuant to 21 CFR § 7.40, STJ should recall its Devices because the Devices present “a risk of 
-injury or gross caption or are otherwise defective” as demonstrated by MedSec’s research and in 
-light of FDA’s current medical device and cybersecurity policies. Should STJ not voluntarily 
-                                                             
-46 Id. 
-47 FDA’s “Guidance for Industry: Product Recalls, Including Removals and Corrections,” available at 
-http://www.fda.gov/Safety/Recalls/IndustryGuidance/ucm129259.htm (last accessed Aug. 22, 2016). 
-48 Draft Guidance, part IV.A. 
-49 According to MedSec medical advisor Dr. Hemal Nayak.  However, he points out that remote monitoring 
-improves patient outcomes and survival. 
-
-
-Page 22 of 34
-recall the Devices, FDA has a regulatory basis to and could mandate that STJ recall the Devices 
-pursuant to its recall authority granted under section 518(e) of the FDCA and 21 CFR part 810. 
- 
-Medical device recall precedents support our view that the devices should be recalled – in our 
-opinion, the risks and severity of the STJ vulnerabilities rise at least to the levels of the following 
-recalled devices.  
- 
-Hospira Pump Recall Case Study50 
- 
-In late 2013, well-known researcher Billy Rios purchased a Hospira Symbiq infusion pump on 
-eBay for around $100 on a lark. Such pumps are commonplace in hospitals where health care 
-providers use them to automatically deliver IV drips and injectable drugs to patients. Rios didn’t 
-have anything in particular in mind for the device, mostly looking to tinker. He soon discovered 
-that he could remotely take over the device, which could have lethal consequences if used 
-maliciously. 
- 
-Recognizing the implications of his discovery, Rios sent his detailed findings to the Department 
-of Homeland (DHS) Security Industrial Control Systems Cyber Emergency Response Team 
-(ICS-CERT). In turn, ICS-CERT notified the Food and Drug Administration (FDA) and sent a 
-report to Hospira. 
- 
-Interestingly, in 2013 Hospira had already decided to discontinue the Symbiq pump and planned 
-to spend $300-$350 million on doing away with its legacy pumps and developing replacements, 
-purportedly due to scrutiny by the FDA of quality issues.51,52 
- 
-Months passed without Rios hearing a word from Hospira and there was no indication that 
-government agencies were preparing to take action. Rios renewed the fight after a medical scare 
-forced him into a hospital—and hooked up to a Hospira pump—for several days. He filmed 
-himself hacking into the infusion pump and provided DHS and FDA with sample computer code. 
- 
-This tangible evidence showing how easily he could craft code that could kill someone prompted 
-the FDA to take action. In July 2015, it issued an advisory urging hospitals to stop using 
-Hospira’s infusion pump.53,54,55  
- 
-Pharmaceuticals giant Pfizer proceeded with its acquisition of Hospira (announced in February 
-2015) despite the negative publicity and closed the $17 billion deal in September 2015.  In May 
-
-
-                                                             
-50 This case study draws heavily from the November 2015 Bloomberg article It’s Way Too Easy to Hack the 
-Hospital: http://www.bloomberg.com/features/2015-hospital-hack/ 
-51 http://articles.chicagotribune.com/2013-05-02/business/ct-biz-0502-hospira-20130502_1_symbiq-infusion-device-
-hospira-chief-executive-f 
-52 http://phx.corporate-ir.net/phoenix.zhtml?c=175550&p=irol-newsArticle&ID=1813491 
-53 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm446809.htm 
-54 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm456815.htm 
-55 http://www.kaloramainformation.com/article/2015-08/FDA-Warning-Formalizes-Growing-Cybersecurity-
-Concerns-Medical-Devices 
-
-
-Page 23 of 34
-2016, however, reports surfaced that Pfizer was looking to sell Hospira’s troubled pump business 
-for $1.2-$2 billion.56  
- 
-Guidant Recall Case Study 
- 
-Johnson & Johnson announced that it was acquiring Guidant on December 15, 2004, for $76 a 
-share, at a cost of $25.4 billion.57  Shortly after the acquisition announcement, issues with 
-Guidant’s pacemakers and heart defibrillators arose. Almost 200,000 of its pacemakers and 
-88,000 heart defibrillators were impacted by safety warnings or recalls. Guidant had long failed 
-to notify doctors of the risks of one sort of defibrillator short-circuiting.58 The Securities and 
-Exchange Commission opened a formal inquiry into “product disclosures and trading in Guidant 
-stock”.  
- 
-Eliot Spitzer, New York's attorney general at the time, alleged that Guidant kept from the public 
-a design flaw in one of its defibrillators.59 Shortly afterward, Johnson & Johnson, invoked the 
-“material adverse change” clause (MAC).60,61  Guidant’s stock dropped to a low of $56.53 or 
-down 25.6% from the $76 offer price. Ultimately, Boston Scientific stepped in and bought 
-Guidant, but the acquisition proved to be even more costly with almost $9 billion of write downs 
-from 2006 to 2012 and a $600 million settlement with Johnson & Johnson in 2015.62,63,64   
-Boston Scientific’s market capitalization a few years after buying Guidant for $27.2 billion 
-dropped below $13 billion and hit a low of $7.7 billion in 2012.    
- 
-Boston Scientific Case Study 
- 
-Boston Scientific’s ill-fated 2006 acquisition of Guidant in 2006 came to a head in March 2010 
-when the company announced a recall of its entire lineup of implantable defibrillators, a legacy 
-Guidant business area. The news prompted an overnight 13% drop in Boston Scientific’s share 
-price, erased hundreds of millions in annual revenue, and resulted in a drop in total market share 
-for defibrillators from 28% to 22%. A study at the time by McKinsey, a consulting firm, 
-estimated that the company would lose $5 million each day these products were off the 
-market.6566 
- 
-Boston Scientific recalled (to their credit, voluntarily) the devices upon discovering that two 
-manufacturing process changes were made without FDA approval. The scope of those changes 
-
-
-                                                             
-56 http://www.biospace.com/News/pfizer-rumored-to-be-selling-its-hospira-pumps/417636 
-57 http://www.investor.jnj.com/releasedetail.cfm?releaseid=150615 
-58 http://www.washingtonpost.com/wp-dyn/content/article/2005/06/17/AR2005061700680.html 
-59 http://www.wsj.com/articles/SB113103013711487375 
-60 http://www.themiddlemarket.com/maj/20051201/31774-1.html 
-61 http://www.economist.com/node/5139360 
-62 https://www.lawyersandsettlements.com/articles/guidant_pacemaker/guidant-pacemakers-settlement-
-01212.html?utm_expid=3607522-
-13.Y4u1ixZNSt6o8v_5N8VGVA.0&utm_referrer=https%3A%2F%2Fwww.google.com% 
-63 http://www.wsj.com/articles/SB10001424052748704471204575210191743610672 
-64 http://blogs.wsj.com/moneybeat/2015/02/18/can-boston-scientific-finally-move-on-from-its-guidant-mistake/ 
-65 McKinsey and Company, The Business Case for Medical Device Quality, p. 4. 
-66 http://www.reuters.com/article/dealtalk-bostonscientific-idUKN0113666920100401 
-
-
-Page 24 of 34
-was not divulged. The company asked doctors to cease implanting the devices and return all 
-inventory, although implanted devices were deemed safe.67 
- 
-Boston Scientific Revenue Market Share Loss:  
-
-
- 
-*Millennium Research Group  
- 
-
-
-                                                             
-67 http://www.drugrecalllawyerblog.com/2010/03/heart_devices_and_the_companie.html 
-
-
-Page 25 of 34
-Boston Scientific ICD Revenue Drop (including Leads) after Recalls:  
-
-
- 
-*Millennium Research Group  
- 
- 
- 
- 
-Valuation 
-
-
-
-
-
-
-
-
-Network Shut Down and Repair Scenario:  
- 
-Assumes that St. Jude shuts down the Merlin@home network for eight quarters to repair and re-
-architect the entire network.  We think approximately 46% of St. Jude’s revenues could be 
-related or connected to the Merlin@home device.  This includes the entire CRM segment and 
-78% of the Heart Failure segment, or 16% of total revenues.  We sensitized our Discounted Cash 
-Flow (DCF) model with the following assumptions for eight quarters and modeled out a 
-subsequent recovery to normalized levels thereafter.  Given that this scenario is more of a topline 
-issue, we conservatively left expenses and margins relatively unchanged from management 
-guidance to demonstrate the negative impacts to the stock price.  In a more realistic scenario, 
-expenses, capital expenditures and interest expense could be a lot higher. 
-
-
-Page 26 of 34
-Main Assumptions: 
- 
-
-
-• Traditional CRM Segment Decline:  Traditional CRM segment (25% of 2015 Total 
-Revenues) drops to zero for eight quarters and then starts coming back in 2018 and 
-beyond.   
-
-
-• Heart Failure Segment Decline: Approximately 78% of the Heart Failure segment 
-(20% of 2015 Total Revenues) comes from CRT-D and CRT-P cardiac devices, which 
-are also connected to the Merlin@home device.  We reduce all Merlin network related 
-CRT revenues to zero and assume it goes under a network repair for eight quarters. 
-
-
-• Atrial Fibrillation Segment Growth: Management 2016 guidance is in the 10% to 11% 
-growth range.  In this scenario, the CRM network slow down also impacts the AF 
-segment, and we assume 8% growth through 2018 in this segment.  
-
-
-• Cardiovascular Segment Growth: According to management, the Cardiovascular 
-segment is expected to grow 1% to 3% for 2016. In this scenario, the Merlin@home 
-issues also negatively impact this segment and thus moves growth to zero percent. 
-
-
-• Neuromodulation Segment Growth: Management 2016 guidance, is in the 7% to 9% 
-range.  We think growth moves to 5% with technology security concerns in this segment. 
-
-
-• Gross Margins: Management 2016 guidance, of 69.0% to 69.5%, however we think 
-margins will be impacted by lower ASPs and pressure from the CRM segment and thus 
-assume 67% gross margin until 2Q18E.   
-
-
-• SG&A: Management 2016 guidance range of 31.3% to 31.8%, however we think the 
-percentage moves higher over an eight quarter period and closer to 33%.   
-
-
-• R&D: R&D is expected to remain in the 12.5% to 13% of sales range in our model and 
-where management has been guiding for 2016.  R&D moves to 17% for an eight quarter 
-period to leave the expense level relatively flat with 2015’s R&D spend levels.  
-
-
-• Other Expenses and Interest Expenses: Management guidance for 2016 of ~$155 
-million to $165 million, primarily driven by interest expense on our outstanding debt.  
-Interest costs would most likely increase in a scenario where their largest revenue 
-segment was under pressure, but for purposes of this exercise we are keeping expenses 
-in-line with current 2016 guidance through the entire DCF modeling period. 
-
-
-• Tax Rate: For full year 2016, we continue to expect the effective tax rate to be in the 
-range of 15.5% to 16.5%.   
-
-
-• Capital Expenditures: Capex as a percent of sales is expected to increase to 5% from a 
-historical range of 3% to 4% for an eight quarter time period and return to historical 
-ranges thereafter.  
-
-
-• Working Capital:  Working capital remains flat at zero.  
-• Assumes debt maturities are refinanced in the market at the moment at the same rate.  
-• Longer dated revenue growth rates of 12% in 2019E and 8% in 2020E, margins, capex 
-
-
-and tax rates recover to 2015 levels and remain relatively stable.  
-• Assuming no foreign currency fluctuations.  
-
-
-
-
-
-Page 27 of 34
-Main DCF Assumptions: 
- 
-
-
-• Growth and margins return to normalized levels after eight months, for example, 
-EBITDA margins move back to 28% in 2019, after declining to 24% in 2017.   
-
-
-• WACC: Sensitized WACC from the 6% to 11% range.  According to Bloomberg, 
-WACC was 7.7% prior to the merger announcement and peers are higher than the 6.5% 
-currently shown on Bloomberg.        
-
-
-• Perpetuity Growth Rate:  -5% to +3% growth 
-• Assumes a $1 billion settlement in four years for product liability class actions.  
-
-
- 
- 
-DCF and Stock Price Sensitivity Results: 
-
-
- 
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
-
-
-Page 28 of 34
-Share Loss and Revenue Loss Scenario:   
- 
-
-
-• In this scenario, the company loses market share and revenue, but continues to operate its 
-Traditional CRM and Heart Failure segment.  Even if the device is not recalled 
-immediately, we think physicians and hospitals could decrease their orders of these 
-cardiac devices given this cybersecurity issue.  
-
-
-• As an example, Thoratec, a heart circulatory device company that St. Jude Medical 
-acquired in 2015, experienced severe market share loss from 2012 to 2015, after 
-researchers published that the HeartMate II LVAD defect increased the chance of blood 
-clots.  The quarterly sales from peak to trough were down 18.4% in Q314, which was 
-primarily driven by safety concerns with their HeartMate products. Thoratec stock 
-dropped 30% on their 2Q14 earnings after experiencing greater than expected share loss 
-and missing expectations. 68 
-
-
-• We sensitized revenues in the Traditional CRM segment to drop 14.4% in 2016E, -20% 
-in 2017E and -8.7% in 2018E. 
-
-
-• The Heart Failure segment begins to decrease in 3Q16E, but grows 11.4% in 2016E and 
-declines 20% in 2017E and begins to stabilize at -8% growth in 2018E.   
-
-
-• Overall revenues are flat in 2018E, +12% in 2019E and +8% in 2020E. 
-
-
-                                                             
-68 http://www.bloomberg.com/news/articles/2013-11-27/thoratec-s-heart-pump-may-cause-blood-clots-study-
-suggests 
-http://www.massdevice.com/thoratec-nejm-article-cost-us-market-share/ 
- 
-
-
-Page 29 of 34
-• The remaining assumptions remained the same as the prior scenario.  
-
-
- 
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
-
-
- 
- 
- 
-Covenant Breach in 3Q16 Highly Likely: 
- 
-Under the network shutdown scenario, the company would breach their 4.0x bank loan covenant 
-in 3Q16.  We used Schedule 2 Section 7.13 in the Term Loan Agreement to calculate the 
-company’s Consolidated Leverage Ratio, using 2015 numbers and found that it could have 
-already breached their covenant.  Our calculation was closer to 4.45x vs. 4.25x as defined by the 
-covenant at that time.  There could have been a number of non-cash add backs that allowed it to 
-stay current with the covenant in 2015.     
-
-
-Page 30 of 34
-The company is already close to breaching the covenant and is suffering from a slowdown in its 
-Traditional CRM products.  We think any additional pressure on the topline would cause a 
-breach in the covenant in the near-term.  As a reminder, the covenant does step down to 4.0x in 
-2016 from 4.25x in 2015 and then down to 3.5x thereafter.  We believe the company will need to 
-renegotiate this covenant in a timely manner and banks could ask for security (potentially $3.8 
-billion of secured debt when including the revolver and term loan), higher lending rates and 
-lower the capacity on the $1.5 billion revolver, further straining liquidity.   Any default that 
-could arise from a covenant breach on the term loan would also be a cross default into the bonds.  
- 
-Potential Liquidity Issues: 
- 
-Liquidity could start becoming constrained after a covenant breach, which could lead to a 
-reduction to its $1.5 billion revolving credit facility and potential downgrades to their 
-commercial paper (CP) rating, which is currently at A-2/P-2.  The company is highly dependent 
-on its CP program for liquidity and currently has $387 million of commercial paper outstanding. 
-Any disruption in the CP rating could negatively impact their access to this market. St. Jude 
-Medical does have yearly debt amortization from its term loan, and its nearest bond maturity 
-($500 million) is in September 2018, which could be an issue to refinance if it does not address 
-
-
-Page 31 of 34
-these issues with its Merlin network. In 2015, the company generated $853 million of free cash 
-flow (Cash from Operating Activities less Capital Expenditures). 
- 
-Potential Credit Rating Downgrades: 
- 
-Rating agencies already have St. Jude Medical on negative watch for a downgrade.  The 
-companies increasing leverage profile from its recent acquisitions has tipped leverage over 
-4.25x, which is already high for a single A rated company.  According to a Moody’s report in 
-May 2016, Investment Grade Leverage (Debt/EBITDA) for 2015 was 2.35x vs.4.25x for STJ.69    
-Along with the potential Merlin network issues, we think agencies will need to reevaluate their 
-ratings and possibly downgrade their ratings increasing the company’s borrowing costs and cost 
-of capital.   
- 
- 
-  
-
-
-                                                             
-69 Moody’s Sector In-depth Report May 20, 2016, page 10 
-
-
-Page 32 of 34
-Appendix 
-Letter to Patients and Physicians from MedSec medical advisor and board member Dr. Hemal Nayak70 
-
-
- 
-Dr. Nayak speaks for himself, and not his employer. 
-
-
-
-
-
-
-
-
-                                                             
-70 Dr. Nayak has been granted an immaterial equity interest in MedSec. 
-
-
-Page 33 of 34
-Page 34 of 34
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 1/29
+
+
+United States Antimony Corp.: A Commodity Stock That Could Fall
+80%
+Aug. 23, 2012 9:00 AM ET33 comments
+by: Ben Axler
+
+
+United States Antimony Corp. (NYSEMKT:UAMY) is a former penny stock on the
+bulletin board that is being promoted as a play on antimony, a must-own commodity that is
+in short supply. In reality, demand for antimony remains constrained, and the company has
+never shown any earnings leverage to rising antimony prices. Investors are being led to
+believe the company sits on billions of dollars of antimony in Mexcio, yet the company has
+spent only a few million dollars on this asset, refuses to pay for an SEC compliant reserve
+report, and once wrote the asset off at $0 a few years ago (the asset was acquired from a
+related party). We believe UAMY's shares are worth no more than $0.50 cents, given the
+speculative nature of its Mexico operations, and inability to ever generate profits.
+
+
+To download the complete report click here.
+
+
+Key Research Highlights
+
+
+UAMY is Being Promoted as a Play on a Scarce Commodity
+
+
+A little over a year ago, UAMY was an obscure $0.50 cent stock on the bulletin board
+until a promotional campaign began touting it as an incredible play on antimony
+Antimony prices have already adjusted higher from 2008 -2011 in the post-crash
+commodity cycle. Prices have since stagnated, and continue to soften; there are plenty
+of global exploration projects underway to increase supply
+There are limited organic demand drivers to push prices higher, as global consumption
+of this commodity is tied to GDP growth, with no known new application drivers to spur
+added demand. Antimony's biggest end market is flame retardant products, and its
+second key end-market is lead acid batteries, which is in secular decline. Multiple
+substitutes of this commodity also exist, which will also suppress further price
+increases
+
+
+UAMY's Financials Are Suspect: It has Never Made a Profit
+
+
+UAMY is primarily a processor of the commodity, and just earns a small spread. Higher
+antimony prices have never provided earnings leverage to the company; UAMY has
+never made more than a penny per share in earnings over the past decade
+
+
+
+https://seekingalpha.com/symbol/UAMY
+
+http://www.sprucepointcap.com/UAMY_Initiation_Strong%20Sell_Aug%202012.pdf
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 2/29
+
+
+UAMY discloses two material weaknesses affecting its disclosure controls and
+financial reporting, both of which have not been remedied as of June 30, 2012. In fact,
+these material weaknesses have gone unremedied for over five years
+
+
+Numerous Holes and Risks in the Mexico Growth Story
+
+
+UAMY's growth case is to expand into antimony mining, but has no SEC compliant
+proven or probable reserves, and previously had written off the mining operation at $0
+a few years back. Since 2006, the company has only invested $5.5m in Mexican capex
+The company's filings contain numerous lapses in risk disclosures around their growth
+operations, which leave the door open for many shareholder lawsuits
+
+
+Weak Capital Structure with Significant Dilutive Instruments
+
+
+Numerous convertible preferred and warrant securities in the capital structure to dilute
+existing shareholders. UAMY is not shy about diluting, and quickly raised $2.8 million
+in June 2012 at a 28% discount to the closing price
+UAMY has a weak shareholder base that includes no institutional support (~1%); the
+stock is held ~63% by a retail base led by overly promotional promises that UAMY's
+antimony assets are worth billions
+
+
+Share Price is Significantly Overvalued and Likely to Fall
+
+
+UAMY's stock price is overvalued by at least 500-600%; there are numerous publicly
+traded global peers across the value chain in the industry to determine relative value.
+Trading at an EV/Revenues of 14x and a P/E ratio of 300x, UAMY's shares are priced
+for perfection with significant risk of a downside correction
+Global M&A transaction values for antimony assets also support our case that UAMY's
+share price is significantly overvalued. To illustrate, the only operating antimony mine
+in North America is Canada's Beaver Brook mine, which was acquired by Hunan
+Nonferrous in 2009 for $30 million.
+Given these very clear valuation benchmarks, we believe UAMY's share price is worth
+no more than $0.50 cents.
+
+
+Introduction
+
+
+United States Antimony Corp made its graduation from the bulletin board to the AMEX on
+May 21st at approximately $4.00 share, giving the company a $275 million valuation. The
+company was incorporated in Montana on January 1970 to mine and produce antimony
+products. In December 1983, the company suspended antimony mining operations, but
+continued to produce antimony products from domestic and foreign sources. In April 1998,
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 3/29
+
+
+the company formed United States Antimony SA de CV or USAMSA, to mine and smelt
+antimony in Mexico. On August 19, 2005, UAMY formed Antimonio de Mexico, S. A. de C.
+V. to explore and develop antimony and silver deposits in Mexico, which is presently being
+merged into USAMSA. Today, the company's principal business remains the production
+and sale of antimony products, along with zeolite products mined in Idaho.
+
+
+So what took UAMY multiple decades to achieve its listing status and a valuation more
+than a quarter billion dollars, as compared with it being a bulletin board stock with just a
+$30 million dollar valuation about a year ago? In our opinion, the answer is a lot of
+promotion aimed at retail investors, with attempts to draw a specious parallel between
+antimony and the rare earth investment story involving companies such as Molycorp
+(MCP), Avalon Rare Metals (NYSEMKT:AVL), Tasman Metals (NYSE:TSM) and Quest
+Rare Minerals (NYSEMKT:QRM). Antimony has none of the same demand characteriscs
+and growth potential.
+
+
+In our opinion, the company's recent AMEX listing is not a celebrated milestone of its
+corporate growth, but rather a catalyst and platform to sell its overvalued stock to new
+investors. Our analysis will show exactly what new investors are buying into - a company
+with material operational and financial weaknesses that do not justify even a fraction of the
+current stock price. We'll start with a quick primer to demystify the antimony market, and
+then illustrate why we believe the odds are in favor of UAMY's share price declining
+significantly from current levels.
+
+
+Click to enlarge
+
+
+The Reality of Antimony - Limited Supply, but even More Limited Demand Drivers
+
+
+
+https://seekingalpha.com/symbol/AVL
+
+https://seekingalpha.com/symbol/TSM
+
+https://seekingalpha.com/symbol/QRM
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-1345589954633701-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 4/29
+
+
+Antimony (SB) is a silvery-white, shining, soft and brittle metal. It is a semiconductor and
+has thermal conductivity lower than most metals. Due to its poor mechanical properties,
+pure antimony is only used in very small quantities; larger amounts are used for alloys and
+in antimony compounds. Antimony's abundance in the earth's crust is 0.2 ppm, making the
+element about as scarce as some of the heavier Rare Earth Elements (REEs) and a little
+above silver (AG). Scarcity and supply origins in China are about the only thing antimony
+has in common with REEs.
+
+
+Few Demand Drivers with Declining Growth
+
+
+According to the US Geological Survey (USGS) and European Commission (EC report),
+the largest end market for antimony is flame retardant products that find their way into
+electronics and clothes. Antimony's second biggest end-market is in lead-acid batteries,
+which is a declining due to the shift to newer battery technologies.
+
+
+Click to enlarge
+
+
+Whereas REEs are necessary for many of the next generation batteries in hybrid electric
+vehicles, antimony will not play any role in this future growth. Historical demand for
+antimony has exhibited a GDP-like 2.9% CAGR from 2007-2011 in the US, and a similar
+long-term rate for world consumption as estimated by Roskill in an April 2012 report
+entitled "Antimony: Changes in the Pattern of Supply and Demand." "However, the growth
+rate may actually decline going forward warns the EU Commission report. It's easy to
+understand why the EU report made this prediction given the anemic world growth rate
+and potential for displacement of lead acid batteries. Furthermore, there are few if any
+future technology applications that depend on antimony as a critical element.
+
+
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CE4QFjAA&url=http%3A%2F%2Fwww.roskill.com%2Fnews%2Fdownload-roskills-paper-on-the-changes-in-supply-and-demand-for-antimony%2Fat_download%2Fattachment1&ei=mCkYUM6sDaXL0QGR_4GIDQ&usg=AFQjCNHZjmIfemZxYbVpP4XKjNFmWZISRQ&sig2=eHEI0Q29oYXoFQuVx-QAPg
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455899890517304-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 5/29
+
+
+Supply Contracted in 2011, But Set to Increase in the Future
+
+
+Focusing on the supply aspects of antimony, there is no question that China has
+historically played a major role. China's Hunan Province hosts the world's largest known
+deposits and is believed to account for ~60% of world supply, with another 20% coming
+from other Chinese locations. As we've seen in many critical commodities such as rare
+earth and graphite, China has taken measures to more closely control their resources
+from mine to value added production, and reduce export quotas. The Chinese government
+took measures to shut down certain antimony mines and smelters in 2011 in an effort to
+control environmental issues and resolve safety problems. The tables below show the
+global locations of current antimony supplies and reserves. At the current production rate,
+there are safely 10 years of antimony reserves, and that doesn't account for additional
+exploration efforts that are currently underway to expand supplies.
+
+
+Including UAMY's efforts to expand production in Mexico, there are numerous other
+companies advancing antimony projects around the world. It should be noted that the
+USGS doesn't even recognize Mexico as having any reserves. Many of these projects
+include bringing on past producing mines. For example, Anchor Resources is advancing
+the Wild Cattle Creek project in Australia, while Adroit Resources is working to advance
+past producing mines in Italy. The Hillgrove mine in Australia is another example of a
+formerly producing mine that could quickly come into production if the right buyer can
+finance the reported $60m purchase price that the owner Straits Resources Ltd is seeking.
+
+
+
+http://www.straits.com.au/files/News/2012/12_05/Hillgrove%20Sale%20Update.pdf
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455900220679886-Ben-Axler_origin.png
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-1345590166572598-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 6/29
+
+
+Prices Have Already Adjusted Higher, Few Catalyst for Higher Prices
+
+
+The price of antimony has adjusted to reflect the actual and perceived supply shrinkage
+from China. Like many of the scarcer commodities tied to China, antimony prices peaked
+in 2011 at $8/lb ($17,600/mt) and have softened considerably since. In the absence of
+additional supply shrinkage, a material pick-up in global demand, or new uses for the
+material, antimony prices are likely to stay range bound for a while or continue to soften as
+market reports already indicate.
+
+
+Plenty of Substitutes for Antimony Will also Suppress Demand and Higher Prices
+
+
+The USGS lists plenty of substitutes for antimony. For example, compounds of chromium,
+titanium, zinc, and zirconium substitute for antimony chemicals in paints, pigments and
+enamels. Combinations of cadmium, calcium, copper, selenium, strontium, sulfur and tin
+can be used as substitutes for hardening lead. Selected organic compounds and hydrated
+aluminum oxide are widely accepted substitutes for flame retardants. The higher price of
+antimony also incentivizes additional substitution effects to take place. For example,
+phosphorus can be a substitute for antimony metal when it comes to production of flame
+retardants. Phosphorus has been one of the materials subject to a WTO ruling against
+China when it comes to their current export restrictions - which according to the ruling is
+unfair. A recent order by the WTO all but assures China will remove their current export
+barriers for this material. Phosphorus will then become an even more attractive substitute
+
+
+
+http://www.metalbulletin.com/Article/3066253/Antimony-prices-drop-again-as-summer-selloff-continues.html
+
+http://www.nytimes.com/2012/01/31/business/wto-orders-china-to-stop-export-taxes-on-minerals.html?pagewanted=all
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-1345590200906816-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 7/29
+
+
+to antimony metal based flame retardants. The result is that we will probably see many
+producers in the flame retardant business investing in new technology able to handle this
+material, making antimony metal less attractive.
+
+
+United States Antimony - Profitless Monopoly
+
+
+No company on the planet has ridden the illusion of the extraordinary profit potential of the
+antimony market than UAMY. No one can dispute that there is currently no antimony mine
+production in the U.S., and that UAMY owns the only smelter in Montana. However, given
+the magnitude of the company's share price move and its $200 million valuation, are
+investors completely understanding what they are purchasing and appropriately valuing
+the company's earnings potential?
+
+
+Limited Profitability, No Recent Cash Flow
+
+
+UAMY sells both antimony and zeolite products, with ~80% of revenues coming from
+antimony. While it is the only producer of antimony products, there are at least 10
+companies in the U.S. that produce and sell zeolites, which are used in the animal feed,
+odor control, pet litter, water and waste purification, fungicide or pesticide carrier, and
+horticulture markets. The rise in antimony prices have been the greatest driver of UAMY's
+revenue growth in the past few years. The company has seen stagnant antimony volumes
+since 2007, so the growth in its revenue is primarily a function of antimony price inflation.
+
+
+UAMY is purely a processor of antimony; they acquire the concentrates, and sell the final
+products at market prices to earn a low margin spread. An analysis of their costs indicate
+that, for the quarter ended March 31, 2012, raw materials were approximately 50% of cost
+of goods sold. Most of their production costs are fixed in nature, and cannot be decreased
+easily without decreasing production. While UAMY has managed to earn just 1 penny per
+share the past two years, a closer look at the company's free cash flow reveals a more
+perilous situation. The company has never generated a single dollar of free cash flow in
+the past five years, and is burning capital at an accelerated rate.
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 8/29
+
+
+Riskless Investment or Skeletons in the Closet?
+
+
+When we review prospective investments, we always pay close attention to the risk
+factors listed in a company's annual report or prospectus. What we found in UAMY's risk
+disclosures shocked us. We found only three risk factors faced by the company, which
+made us wonder if UAMY was the least risky investment we had ever evaluated, or a
+company that was hiding skeletons in the closet? The very first risk factor blew our mind:
+
+
+1) If we were liquidated, our common stockholders could lose part, or all, of their
+investment.
+
+
+"In the event of our dissolution, the proceeds (if any) realized from the liquidation of our
+assets will be distributed to our stockholders, only after the satisfaction of the claims of our
+creditors and preferred stockholders. The ability of a purchaser of shares to recover all, or
+any, portion of the purchase price for the shares, in that event, will depend on the amount
+of funds realized and the claims to be satisfied by those funds."
+
+
+On the surface, UAMY's balance sheet looks ok, with a positive book value of $11.6
+million, and no imminent debt obligations. The disclosure is a big red flag because we
+don't typically see companies warn investors so boldly upfront as a first risk factor that in
+liquidation they could lose all or part of their investment. Perhaps, the second risk factor is
+where investors should be paying closer attention:
+
+
+
+http://www.sec.gov/Archives/edgar/data/101538/000135448812001132/uamy_10k.htm
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455902900162501-Ben-Axler_origin.png
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455904355577357-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 9/29
+
+
+2) We may have unasserted liabilities for environmental reclamation.
+
+
+"Our research, development, manufacturing and production processes involve the
+controlled use of hazardous materials, and we are subject to various environmental and
+occupational safety laws and regulations governing the use, manufacture, storage,
+handling, and disposal of hazardous materials and some waste products….We do not
+have environmental liability insurance now, and we do not expect to be able to
+obtain insurance at a reasonable cost. "
+
+
+This disclosure should make any prudent investor worry. UAMY is in the business of
+processing potentially hazardous materials according to the EPA and it can't afford to
+obtain insurance at a reasonable price? The only reasonable interpretation we can draw
+from this statement, is that UAMY is operating an extremely risky business, such that no
+insurer is even willing to cover them at any premium rate.
+
+
+3) We have accruals for asset retirement obligations and environmental obligations
+
+
+"We have accruals totaling $241,500 on our balance sheet at December 31, 2011, for our
+environmental reclamation responsibilities and estimated asset retirement obligations. If
+we are not able to adequately perform these activities on a timely basis, we could be
+subject to fines and penalties from regulatory agencies."
+
+
+Of the three risk disclosure, this one appears to be the most innocuous. However, we are
+slightly skeptical that less than $250,000 is all that's necessary for environmental and
+reclamation activities for an operation such as UAMY's that's been around for decades.
+
+
+Overall, we are concerned by the dearth of risk factor disclosures made available to
+investors. UAMY operates in an extremely cyclical, capital intensive, and competitive
+business, yet offers no explanations that cover the multitude of ways that investors can be
+harmed. The company's international activities in Mexico, and possible dealings with
+China, also add another layer of risks not formally addressed to shareholders. These
+omissions may have real consequences for the company in the future at significant costs
+to shareholders through lawsuits if future results fail to materialize as expected.
+
+
+Capital Structure Leaves Little Value for Common Shareholders
+
+
+In the table below, we detail UAMY's capital structure. The major surprise for new
+shareholders should be the significant amount of preferred stock in the capital structure.
+The preferred stock has rights to earnings ahead of common shareholders, and offers
+
+
+
+http://www.epa.gov/ttn/atw/hlthef/antimony.html
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 10/29
+
+
+cumulative dividends that are currently in arrears. The preferred stock liquidation value of
+$5.7 million currently exceeds the amount of cash on hand, and is ~65% of the company's
+current book value.
+
+
+No "Smart Money" Institutional Shareholders Own UAMY
+
+
+If we are to believe that UAMY is a major force in the antimony market with significant
+upside earnings potential, and undiscovered asset value, surely we would expect to find
+some of the savviest hedge funds, value investors, and smart money crowd owning large
+blocks of shares. To the contrary, the current shareholder base is one of mystery and
+intrigue. While we are pleased to see the CEO has a large ownership stake, the remainder
+of the shareholders appear to have no experience in the mining business. The current
+roster of shareholders includes a dermatologist, dentist, veterinarian, and oil wildcatter.
+The majority of shares in the float are held by the public. Institutions appear to refuse
+owning the shares and currently have ~1%.
+
+
+Significant Dilution Appears to be Coming
+
+
+Why did UAMY wait decades to establish its listing on the AMEX? We believe that the
+listing was timed precisely to maximize its chances of selling its shares to new investors,
+and to capitalize on the misperception that antimony is the latest must own commodity.
+
+
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455905265025153-Ben-Axler_origin.png
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455906808452663-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 11/29
+
+
+We are not just speculating that this is the reason, we have proof it is already happening.
+On June 25, the company announced a quick capital raise of $2.8 million by issuing 953k
+of shares at $3.00 and nearly a half million warrants struck at $4.50. The company wasn't
+shy about sticking it hard to its existing investors through punitive dilution. The stock had
+closed the previous day at $4.20/share, so the issuance came at a whopping 28%
+discount to the closing price. This discount is 2x larger than the discount used for a $2
+million capital raise earlier this year on Jan 13, 2012.
+
+
+The most concerning aspect of UAMY's potential dilution is the overhang of the Series D
+preferred stock. The 1.75 million shares have a liquidation value of $4.7 million. It makes
+perfect sense to convert them and slowly sell them into the open market. We believe this
+major overhang could cause UAMY's share price to deflate sharply when the Series D
+preferred is converted. An additional 1.8 million warrants outstanding also mature in the
+next few years, with some in-the-money.
+
+
+There are also reasons why UAMY's largest shareholder, the Dugan family, could begin
+selling large blocks of their 6.3 million shares. According to public record, family patriarch
+Al Dugan recently passed away in October 2011. The oil and real estate business
+appeared to have been his core holdings; therefore, it would not be surprising to see his
+family holdings diversified away from riskier holdings such as UAMY stock.
+
+
+UAMY's Growth Plans Hinge on a Once Worthless Asset with No Proof of Any Reserves
+
+
+If there ever were a case to be made that UAMY's share price offered compelling value at
+a nearly $200 million valuation, there would have to be significant tangible evidence that
+the company owned vast antimony holdings, and had a clear path to production and
+earnings leverage. Investors are currently being lured by the prospect that UAMY will be
+realizing potential upside from their Los Juarez mining properties in Mexico. UAMY also
+owns the Puerto Blanco mill, and a smelter at Madero. Combined, UAMY is telling
+investors that these operations are expected to begin producing a significant portion of
+their raw materials in Q2'2012. The production of concentrated smelter feed from its
+Mexico operations shipped to the Montana smelter for refining is expected to allow UAMY
+to produce more products for sale during the ensuing reporting periods. It expects to have
+a lower production cost and a greater recovery of precious metals due to the increased
+smelter feed from Mexico.
+
+
+There is one very BIG problem with this business plan that investors must take a leap of
+faith on that UAMY bluntly discloses:
+
+
+
+http://finance.yahoo.com/news/united-states-antimony-corp-closes-154100666.html
+
+http://chronicle.augusta.com/obituaries/2011-10-19/albert-al-dugan-houston-texas
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 12/29
+
+
+We have no "proven reserves" or "probable reserves" of antimony or zeolite, as these
+terms are defined by the Securities and Exchange Commission.
+
+
+In other words, there are zero assurances that UAMY will produce any antimony quantities
+of sufficient quality and duration to cover any of its capital and operating costs. UAMY
+offers some explanation, which also leads more to hope than actual proof their Mexican
+assets have any value. It claims that its Mexican properties, including San Miguel I, II and
+part of San Juan III, were originally drilled by Penoles (Mexico's second largest mining
+company) in 1970, when antimony metal prices were high. They did not proceed with the
+property, due to the complex metallurgy of antimony. Subsequently, the Mexican
+Government did additional work and reported a reserve of 1,000,000 metric tons
+(NYSE:MT) grading 1.8% antimony and 8.1 ounces of silver per metric ton (opmt) in
+Consejo de Recursos Minerales (Publicacion M-4e). However, the Securities and
+Exchange Commission does not recognize this report, and the Company claims no
+reserves. We believe that if the metallurgy was difficult and uneconomic to develop
+30 years ago, chances are these assets are still difficult and uneconomic.
+
+
+An even closer look into UAMY's history in Mexico corroborates our suspicion. UAMY has
+two Mexican subsidiaries: ADM and USAMSA. Antimonio de Mexico SA de Cv "ADM" was
+incorporated in 2005 under the laws of Mexico and the State of Jalisco. On December 16,
+2005, ADM signed a contract and option agreement that gives ADM the exclusive right to
+explore and exploit the San Miguel I and San Miguel II concessions for an annual payment
+of $50,000, and an option to purchase payment of $100,000 annually. Total payments
+would not exceed $1,430,344, reduced by IVA taxes paid. During the years ended
+December 31, 2011, 2010 and 2009, $186,956, $186,956 and $86,956 was paid or
+accrued and capitalized as mineral rights towards ADM. ADM is presently being merged
+into United States Antimony, Mexico S.A. de C.V. "USAMSA," which was formed in 1998
+through a 50% interest. UAMY had written off its 50% stake as entirely worthless (aka $0)
+on December 31, 2005 due to volatile antimony prices and the lack of operating and
+development capital. During 2006, UAMY acquired the 50% interest in the stock of
+USAMSA for just $165,000 in the form of $48,500 of cash, $61,000 of UAMY common
+stock, and a $55,000 note payable. The company has spent $5.5 million since 2006 to
+prepare its Mexican operations for this supposed ramp in production, so we believe
+its shareholders shouldn't be terribly surprised if future results fail to meet
+expectations.
+
+
+
+https://seekingalpha.com/symbol/MT
+
+http://www.sec.gov/Archives/edgar/data/101538/000107261306000899/form10ksb_14251.txt
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 13/29
+
+
+UAMY Has Material Financial Weaknesses and Financial Control Issues
+
+
+As of June 30, 2012, UAMY's 10Q reported material weaknesses affecting its disclosure
+controls and procedures and, as a result of those weaknesses, its disclosure controls and
+procedures were not effective. These material weaknesses are as follows:
+
+
+The company lacks proper segregation of duties. The president authorizes the majority
+of the expenditures and signs checks
+During its year-end audit, the company's independent registered accountants
+discovered material misstatements in our financial statements that required audit
+adjustments
+
+
+We reviewed these material weaknesses and found that the company has had them listed
+since 2007. In other words, the company has failed to address these issues for over five
+years and has repeatedly had financial misstatements. Key Takeaway: Investors should
+approach the company's financials with extreme caution.
+
+
+UAMY is Excessively Overvalued, and Worth No More Than 50 Cents
+
+
+We have used a couple common sense approaches to determine that UAMY is
+excessively overvalued. First, let's consider the company's market value in relation to the
+market opportunity for antimony products. According to the company's own 10k disclosure
+on page 5, it estimate its share of the domestic antimony products market is approximately
+2%. This would imply a staggering $10.5 billion dollar market value for the entire U.S.
+antimony market. However, as we've shown earlier in our analysis, the entire world market
+for antimony products is approximately 169,000 metric tons. The current price is
+
+
+
+http://www.sec.gov/Archives/edgar/data/101538/000135448812003933/uamy_10q.htm
+
+http://www.sec.gov/Archives/edgar/data/101538/000107261308000812/form10ksb_15791.txt
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-1345590872256067-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 14/29
+
+
+approximately $14,000 per metric ton, which equates to $2.4 billion in annual world
+turnover. The U.S. consumes approximately 16% of world production, so we estimate a
+total revenue opportunity in the U.S. of approximately $372 million. This figure is nearly as
+large as UAMY's entire market cap even though the company only has a 2% share of the
+market. The absurdity of UAMY's valuation in relation to the total world and US market
+opportunity for antimony is illustrated below.
+
+
+We have also evaluated UAMY's value in relation to known antimony players across the
+world and determined its shares to be exorbitantly overvalued. In the table below, we have
+listed a variety of companies engaged in antimony mine production, value added products,
+and exploration.
+
+
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455922265034466-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 15/29
+
+
+The largest world producer and smelter of antimony is Hunan Nonferrous Metals (HK:
+2626), which produces 34,000 tons of antimony per year, and also produces zinc,
+tungsten, lead and other metals. The next largest producer of antimony products is
+Campine NV (EBR: CAMB) of Belgium. Lastly, Village Main Reef (JSE: VIL) in South
+Africa and Mandalay Resources (TSE: MDN) of Australia mine approximately 4,600 tons
+and 1,700 tons, respectively. Antimony is typically found near gold and silver deposits, so
+investors in these two companies also receive production ounces of these precious
+metals. At the bottom of the table is UAMY with a paltry 675 metric tons of antimony, and a
+de minims amount of gold, silver and zeolite.
+
+
+We have also tabulated a list of every deal we could find in the past few years that
+included an antimony asset and was stunned that the average deal size was
+approximately $40 million. The only operating mine in North America is Canada's Beaver
+Brook Antimony Mine which was acquired by Hunan Nonferrous in 2009 for $30 million.
+Even if we assume its value has doubled or tripled in the past few years given the rise in
+antimony prices, it would put the value of Beaver Brook at $60 - $90 million. Beaver Brook
+reportedly spent $15 million to revive the mine, planned to produce 6,000 metrics tons
+annually, and had only a 7 years of reserves. To put UAMY's Mexico ambitions in
+perspective, the company has spent under $6 million since 2006, is estimating a
+maximum throughput of 1,800 tons per annum, and has no proven reserves. From this
+perspective, UAMY's $200 million enterprise value appears wildly unjustified.
+
+
+
+http://www.thewesternstar.com/Business/Employment/2008-01-19/article-1479740/Mine-looking-for-40-skilled-workers/1
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455922891830869-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 16/29
+
+
+From a valuation perspective, there is no way to justify UAMY's exorbitant valuation.
+UAMY is trading at 14x sales vs. 0.9x peer average and a 300x P/E vs. a 13.5x peer
+average. If we applied the peer group multiples to UAMY's current financials, we estimate
+the share price would between $0.20 cents. Because the company has no proven or
+probable reserves, we give no credit for future revenue or earnings upside, which we view
+as entirely speculative. On the other hand, if you consider that the company has spent
+approximately $5.5 million on its Mexican operations since 2006, and take a leap of faith
+that it could yield a 3x return on the investment, this would be only worth an additional
+$0.30 cents per share or a total share price of approximately $0.50 cents.
+
+
+
+https://static.seekingalpha.com/uploads/2012/8/21/545066-13455926514555407-Ben-Axler_origin.png
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 17/29
+
+
+Conclusion: High Risk, Little Reward for Owning Shares of UAMY
+
+
+We have conducted months of research into United States Antimony and determined a
+highly unfavorable risk / reward proposition. We are concerned that investors are ascribing
+too high a value to the company's earnings potential and misunderstanding the prospects
+for the antimony market. The overvaluation of UAMY is directly attributable to excessive
+promotion of their earnings prospects. The promotion first started in April 2011, when the
+company p aid for promotion through a Wall St. Transcript interview. Shortly after, a
+reckless Forbes article intimated that UAMY might be the next Molycorp, and could do
+$100 million of revenues and $0.30 cents of earnings by 2013. With a year to go, UAMY
+would have to increase revenues and earnings by 7x and 30x to reach these lofty goals.
+UAMY is also covered by one sell-side research firm with an aggressive $5 target, and a
+SeekingAlpha blogger who makes unsubstantiated claims the company is sitting on
+billions worth of antimony and could be a $45 stock.
+
+
+Antimony is undoubtedly a scarce commodity, but demand potential is limited to a few end
+markets, and growth will not outperform GDP. Unlike rare earths, antimony will not play a
+leading role in future technologies, and has numerous substitutes. The price of antimony
+has already adjusted in the past few years to changes in China's policies, and is unlikely
+to move any higher now that Chinese growth is slowing, and new sources of supply are
+aggressively being explored and brought to market. UAMY is indeed the sole U.S.
+processor of antimony, but it controls only 2% of the US market, and has never been able
+to generate more than a penny of earnings.
+
+
+In our opinion, the company's recent AMEX listing is not a major corporate milestone to
+signal future upside opportunities for new shareholders. Rather, the listing provides a
+platform for the company to rapidly dilute public shareholders, and offer long-time holders
+a better means to liquidate large holdings. The company's capital structure also does not
+support additional value for common shareholders because of the large preferred stock
+classes that must be liquidated or converted.
+
+
+However, our biggest concern is the excessive valuation of the company at nearly $200
+million that hinges on them commercializing new antimony deposits in Mexico without any
+proven or probable reserves. Investors are risking major disappointment if actual results
+do not meet or beat expected results. Because of the deficient financial filings, material
+weaknesses, and omission of numerous risk factors, UAMY would face countless
+shareholder lawsuits.
+
+
+
+http://lark.twst.com/yagoo/alm607LAWRENCEONE12.html
+
+http://www.forbes.com/sites/investor/2011/06/10/is-tiny-united-states-antimony-the-next-molycorp/
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 18/29
+
+
+We have presented a plethora of comparable companies and transactions to show the
+degree of overvaluation in UAMY's share price. By giving no value to the Mexican
+operations due to its highly speculative nature, we believe UAMY's share price would be
+worth no more than $0.20 cents if it were valued at peer averages. On the other hand, if
+you consider that the company has spent only $5.5 million on its Mexican operations since
+2006 and it could yield even a wildly bullish return of 3x on the investment, this would be
+only worth an additional $0.30 cents per share or a total share price of $0.50 cents.
+Ironically, this is exactly where the share price was trading about a year ago before the
+first promotional efforts from the company began.
+
+
+Disclosure: I am short UAMY. I wrote this article myself, and it expresses my own
+opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have
+no business relationship with any company whose stock is mentioned in this article.
+
+
+Disclaimer: Use of the research produced by Spruce Point Capital Management, LLC is
+at your own risk. This is a short-biased report and you should assume the author of this
+report holds a short position and derivatives tied to the security of United States Antimony
+Corp. that will benefit from a decline in the price of the common stock. Following
+publication of the report, the author (including members, partners, affiliates, employees,
+and/or consultants) may transact in the securities of the companies covered herein. The
+author of this report has obtained all information used to form opinions and draw
+conclusions contained herein from sources believed to be accurate and reliable and has
+included references where available and practical. However, such information is presented
+"as is," without warranty of any kind- whether express or implied. The author of this report
+makes no representation, express or implied, as to the accuracy, timeliness, or
+completeness of any such information or with regard to the results to be obtained from its
+use. Forward looking statement and projections are inherently susceptible to uncertainty
+and involve many risks (known and unknown) that could cause actual results to differ
+materially from expected results. All expressions of opinion are subject to change without
+notice, and the author does not undertake to update or supplement this report or any of
+the information contained herein. Spruce Point Capital Management, LLC is not a
+broker/dealer or financial advisor and nothing contained herein should be construed as an
+offer or solicitation to buy or sell any investment or security mentioned in this report. You
+should do your own research and due diligence before making any investment decision
+with respect to securities covered herein, including, but not limited to, the suitability of any
+transaction to your risk tolerance and investment objectives and consult your own tax,
+financial and legal experts as warranted.
+
+
+
+https://seekingalpha.com/symbol/UAMY
+5/22/2018 United States Antimony Corp.: A Commodity Stock That Could Fall 80% - United States Antimony Corp. (NYSEMKT:UAMY) | Seeking Al…
+
+
+https://seekingalpha.com/article/823521-united-states-antimony-corp-a-commodity-stock-that-could-fall-80-percent 19/29
+
+

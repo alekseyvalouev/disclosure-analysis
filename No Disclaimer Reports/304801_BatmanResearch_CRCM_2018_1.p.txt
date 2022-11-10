@@ -1,1286 +1,2219 @@
-Muddy Waters Capital LLC 
-
-
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
-
-
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
-
-
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
-
-
-Page 1 of 34
-Report Date: August 25, 2016 
- 
-Company:  
-St. Jude Medical, Inc. 
- 
-Ticker:  
-STJ US 
- 
-Industry: Medical Devices 
- 
-
-
-Stock Price: $ 81.88  
- 
-Market Cap: $23.3 billion 
- 
-Float: 97.5% 
- 
-Average Volume: 1.9 million shares 
- 
-
-
- 
-This version has been updated state that Dr. Nayak speaks for himself, and not his employer.   
- 
-Summary 
- 
-Muddy Waters Capital is short St. Jude Medical, Inc. (STJ US).1  There is a strong possibility 
-that close to half of STJ’s revenue is about to disappear for approximately two years.  STJ’s 
-pacemakers, ICDs, and CRTs might – and in our view, should – be recalled and remediated.  
-(These devices collectively were 46% of STJ’s 2015 revenue.)  Based on conversations with 
-industry experts, we estimate remediation would take at least two years.  Even lacking a recall, 
-the product safety issues we present in this report offer unnecessary health risks and should 
-receive serious notice among hospitals, physicians and cardiac patients.   
- 
-We have seen demonstrations of two types of cyber attacks against STJ implantable cardiac 
-devices (“Cardiac Devices”): a “crash” attack that causes Cardiac Devices to malfunction – 
-including by apparently pacing at a potentially dangerous rate; and, a battery drain attack that 
-could be particularly harmful to device dependent users.2  Despite having no background in 
-cybersecurity, Muddy Waters has been able to replicate in-house key exploits that help to enable 
-these attacks.   
- 
-We find STJ Cardiac Devices’ vulnerabilities orders of magnitude more worrying than the 
-medical device hacks that have been publicly discussed in the past.  These attacks take less skill, 
-can be directed randomly at any STJ Cardiac Device within a roughly 50 foot radius, 
-theoretically can be executed on a very large scale, and most gallingly, are made possible by the 
-hundreds of thousands of substandard home monitoring devices STJ has distributed.3  The STJ 
-ecosystem, which consists of Cardiac Devices, STJ’s network, physician office programmers, 
-and home monitoring devices, has significant vulnerabilities.  These vulnerabilities highly likely 
-could be exploited for numerous other types of attacks.   
- 
-Key vulnerabilities can apparently be exploited by low level hackers.  Incredibly, STJ has 
-literally distributed hundreds of thousands of “keys to the castle” in the form of home monitoring 
-units (called “Merlin@home”) that in our opinion, greatly open up the STJ ecosystem to attacks.  
-These units are readily available on Ebay, usually for no more than $35.  Merlin@homes 
-generally lack even the most basic forms of security, and as this report shows, can be exploited 
-
-
-                                                             
-1 The short positions are held by funds Muddy Waters Capital LLC manages. 
-2 See Demonstrated Attacks – Likely Just Two of Many Possibilities infra. 
-3 It would have been illegal to attempt to validate the large scale attack theories. 
-
-
-Page 2 of 34
-to cause implanted devices to malfunction and harm users.  We believe that courts will hold 
-STJ’s lack of security in its Cardiac Device ecosystem is grossly negligent, unless STJ settles the 
-litigation we see as inevitable. 
- 
-The vulnerabilities result from an apparent lack of device security; and, the communication 
-protocols for the Cardiac Device ecosystem – which we believe lacks basic protections such as 
-encryption and authentication – are in fact compromised.  As a result, an attacker can 
-impersonate a Merlin@Home unit, and communicate with the Cardiac Devices – and likely even 
-STJ’s internal network.  While STJ might be able to patch one particular type of attack, the mass 
-distribution of access points to the inner workings of the ecosystem via the home monitoring 
-devices requires in our opinion, a lengthy system rework.   
- 
-Dr. Hemal Nayak, a cardio electrophysiologist at the University of Chicago, is recommending 
-his patients unplug their Merlin@home units; and, he is not going to implant STJ devices until 
-the problems discussed in this report are remediated.  (His statement is in the Appendix.)  Dr. 
-Nayak is the medical advisor to MedSec Holdings Ltd. (“MedSec”), which is the cybersecurity 
-research firm that identified the vulnerabilities in STJ’s ecosystem.4  (Dr. Nayak is also a 
-member of its board.)   
- 
-Background 
- 
-MedSec is a cybersecurity research firm focused on the healthcare industry.  It contacted Muddy 
-Waters after largely completing an assessment of major manufacturers’ pacemakers and 
-implantable cardioverter defibrillators (“ICDs”).5  
- 
-The lack of security in the STJ pacemaker and ICD infrastructure stunned MedSec.  STJ’s 
-apparent lack of device security is egregious, and in our view, likely a product of years of 
-neglect.  Moreover, STJ’s devices were even the subject of a U.S. Department of Homeland 
-Security investigation into cybersecurity flaws in 2014, yet these gaping holes seem to persist.6  
-As a result, neither MedSec nor Muddy Waters was confident that STJ would put patients before 
-profits if it were approached behind closed doors.  Muddy Waters and MedSec agreed that users’ 
-interests are best served by being made aware of these serious issues.  While standard practice in 
-the cybersecurity industry is to notify companies of vulnerabilities before discussing them 
-publicly,  MedSec licensed its research to Muddy Waters so that we could bring these issues to 
-light (without revealing detailed vulnerability information). Muddy Waters has engaged MedSec 
-as consultants in addition to licensing its research on STJ.  MedSec is receiving compensation 
-related to investment profits from the funds Muddy Waters manages.    
- 
-MedSec has given Muddy Waters multiple demonstrations evidencing how hollow STJ’s device 
-security is.  To illustrate the severity of these vulnerabilities, MedSec demonstrated two types of 
-
-
-                                                             
-4 Dr. Nayak had been granted an immaterial equity interest in MedSec prior to MedSec reaching its conclusions 
-regarding STJ. 
-5 MedSec believes this study is the first of its kind.  It expects to publicly release the study in September 2016. 
-6 http://www.reuters.com/article/us-cybersecurity-medicaldevices-insight-idUSKCN0IB0DQ20141022 
-
-
-Page 3 of 34
-attacks that could do severe harm to devices and users, and theoretically could be deployed on a 
-large scale.7   
- 
-In addition to making an investment case, the purpose of this report is to inform device users and 
-their physicians of these risks.  MedSec and we believe that users have a right to know that there 
-are serious security problems with their implanted Cardiac Devices, and the related devices.  
-However, we are withholding and redacting technical information that could give potential 
-attackers a roadmap.   
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  Regardless, Cardiac Device users should speak with their physicians about the risks.  
-Muddy Waters is providing the United States Food and Drug Administration and Department of 
-Homeland Security with a version of this report, and expects to facilitate dialogue between the 
-agencies and MedSec. 
- 
-As we detail in this report, Muddy Waters believes there is a strong possibility that STJ will need 
-to recall its pacemakers, ICDs, and CRTs while it hardens security of the device ecosystem.  This 
-recall would likely entail a moratorium on sales of these devices, and we estimate this 
-moratorium would be effective for a remediation period of at least two years.   
- 
-The devices MedSec studied, and that formed the basis for these conclusions included 
-pacemakers and ICDs; but, did not include CRTs.  Because the CRTs are compatible with the 
-compromised Merlin@home devices, this report assumes that they have similar vulnerabilities, 
-and should also be recalled and remediated.  (Were the CRTs not to have the expected or similar 
-vulnerabilities, then the products would not need to be recalled.) 
- 
-The Merlin@home devices were obtained second hand – often from online vendors.  The 
-programmers were obtained via a third party partnership with a licensed physician.  The 
-observations regarding device security in this report are derived from the substantial majority of 
-devices studied, and it is possible that newer versions of these devices have some security 
-enhancements that could eliminate some seemingly minor vulnerabilities in those particular 
-devices.   
- 
-However, even if new generations of devices have some enhancements, we still view the entire 
-ecosystem as greatly compromised.  There are likely hundreds of thousands of Merlin@home 
-devices with easily exploitable vulnerabilities in the world, and vulnerable devices are easily 
-purchased online for no more than $35.  This train has already left the station. 
- 
-STJ’s Compromised Cardiac Device Ecosystem 
- 
-For our purposes, the Cardiac Device ecosystem consists of four components: the implantable 
-device, the Merlin programmer, the STJ network, and the Merlin@home.8 
- 
-                                                             
-7 It would have been illegal to try to validate the ability to commit large scale attacks. 
-8 The device pictures supra are representative, and are not pictures of the actual devices studied. 
-
-
-Page 4 of 34
-Implantable Device 
- 
-
-
-
-
-
-The Cardiac Devices are implanted in patients typically to treat 
-tachycardia and bradycardia.  They are radio frequency (“RF”) 
-enabled, so that they can communicate with the Merlin@Home 
-devices and programmers.   
- 
-Cardiac Devices accounted for 46% of STJ’s 2015 revenue: 
- 
-
-
-ICDs and CRTs    $1,582 million      29% 
-Pacemakers            $941 million       17% 
- 
-
-
-Programmer 
- 
-
-
-
-
-
-Physician office programmers (called “Patient Care Systems”) 
-are roughly the size of a typewriter.  They are critically 
-important devices in the STJ Cardiac Device ecosystem.  The 
-programmer, typically used by a physician or medical 
-professional, is designed to interrogate, program, display data 
-and test STJ implantable devices.  Every feature that can be 
-changed in the implantable can be done by the programmer, as 
-there is no other device with a higher level of sophistication.  
-For an RF capable implantable device, a wand is used to unlock 
-the device, and then the transmission of data occurs over RF. 
-The programmers studied lack encryption and also present a 
-substantial vulnerability.   
-
-
-Merlin.net Network 
- 
-
-
-
-
-
-The STJ network enables the transfer of data between the 
-implanted devices, programmers, Merlin@home, and 
-physicians. Information transmitted includes patient data, remote 
-performance diagnostics, and updates related to the device. 
-
-
-Merlin@Home 
- 
-
-
-
-
-
-The Merlin@Home device, which is about the size of a 
-hardcover book, communicates with Cardiac Devices over RF.  
-Its purpose is to receive device and patient health data from the 
-Cardiac Devices, and then transmit it to STJ’s Merlin.net 
-network.  There are literally hundreds of thousands of @home 
-devices in the wild, and used devices with easily exploitable 
-vulnerabilities are readily available on Ebay.  The devices 
-contain critical information and code without encryption, and are 
-effectively “keys to the castle” that open the door to attackers.   
-
-
- 
-Any programmer or Merlin@home device can generally communicate with any Cardiac Device 
-because there is no strong authentication built into the protocol.  Attackers who can reverse 
-engineer the communication protocol can access and impersonate parts of the ecosystem, 
-including the Cardiac Devices.   
- 
-
-
-Page 5 of 34
-Usually, devices part of an ecosystem such as this one would have defenses including strong 
-authentication, encrypted software and code, anti-debugging tools, and anti-tampering 
-mechanisms.  A manufacturer might also might require wand activation before allowing RF 
-communication (meaning the home device would have to be within inches of the Cardiac 
-Device).  STJ’s major competitors have used the aforementioned techniques (among others) to 
-protect their protocols.  The Merlin@homes studied generally had none of these defenses.  
- 
-In Security Well Below Industry Standards infra, we present a table comparing STJ’s lack of 
-security to the major competitors studied.   
- 
-Hundreds of Thousands of Keys to the Castle 
- 
-Perhaps most shocking about STJ’s lack of security is that it has distributed hundreds of 
-thousands of devices that are apparently so easily analyzed for vulnerabilities.  There are 
-numerous Merlin@home units for sale on Ebay – usually for no more than $35.  The below 
-screenshot shows the ready availability of the Merlin@home devices on Ebay.9 
- 
-
-
-                                                             
-9 The search was run on August 3, 2016. 
-
-
-Page 6 of 34
-When a patient receives a Cardiac Device implant, it is usually bundled with a Merlin@Home 
-monitor. Previous generations of these devices were shown to be vulnerable to hacking within 
-very close proximity.10  However, these devices had wands that needed to be within inches of the 
-Cardiac Device in order to communicate.  Merlin@home devices and implants now have 
-additional RF capabilities, with a communications range of approximately 50 feet.  They now 
-pose a far more significant risk to user safety than before.  The Merlin@home devices MedSec 
-tested generally only required approximately 10 minutes to get access to the root directory.  
-                                                             
-10 http://www.secure-medicine.org/public/publications/icd-study.pdf 
-
-
-Page 7 of 34
-“Getting root” on the Merlin@home devices exposes sensitive STJ network credentials.  We 
-believe the ease of getting root shows how poor the device security is.  MedSec identified three 
-methods to get root on the @home devices. 
- 
-There are numerous ways in which the Merlin@home devices violate security standards (and 
-defy logic): 
- 
-
-
-• No apparent tamper-proofing or hardware identity protection.  Chip models are clearly 
-displayed, aiding the research process for an attacker. 
- 
-
-
-• Unprotected software.  While patient data is encrypted, the Merlin@home device has 
-entirely unencrypted software. Competing systems use some form of encryption to 
-protect the proprietary applications.  Extracting software from the @Home device can be 
-done by identifying the chip, and reading the data off it.  The Merlin@home’s Samsung 
-flash memory has been publicly documented to be vulnerable.11 
- 
-
-
-• Lack of a layered defense.  In MedSec’s opinion, the use of off-the-shelf components and 
-the lack of anti-debugging mechanisms made the Merlin@home device significantly 
-easier to reverse engineer and locate numerous vulnerabilities.  The manufacturer left 
-many developmental items on the devices that should not be present, such scripts that 
-allow debugging and development mode to be turned on.  All of the competitors 
-incorporated additional security measures.  Some manufacturers required short range 
-authentication (via a wand).   
- 
-
-
-• Easy availability of device firmware.  MedSec was also able to obtain the @home 
-device’s firmware in three ways: 
-o Decapitating the Samsung memory chip, 
-o Getting root on the @home device and simply copying the files to the USB port,  
-o [Redacted.] 
-
-
- 
-MedSec believes a software update was likely pushed to some of the Merlin@home devices that 
-made them appear more secure; however, in MedSec’s opinion, this update represented a very 
-slight change in security.  This might have been STJ’s response to the 2014 issues.  
-Merlin@home units manufactured in 2016 appear to have the same type of vulnerabilities.12 
- 
-Getting Root Opens the Door 
- 
-The first shocking thing one encounters when getting root on the Merlin@home device is 
-unencrypted security information that takes no additional effort to access.  This information 
-includes: 
- 
-
-
-                                                             
-11 See https://www.blackhat.com/docs/us-14/materials/us-14-Oh-Reverse-Engineering-Flash-Memory-For-Fun-And-
-Benefit-WP.pdf 
-12 Devices manufactured in 2016 are difficult to obtain on the secondary market.  MedSec was able to obtain one 
-such device, and was able to get root using a previously identified exploit. 
-
-
-Page 8 of 34
-• The toll-free access number for the Merlin network.  (The @home devices connect to the 
-Merlin network either through a phone line connection or a 3G token.) 
-
-
-• The User ID and Password for the Merlin network.  These credentials are static – i.e., 
-they are used to authenticate all @home devices on which MedSec got root.   
-
-
-• STJ server IP addresses (in older device versions),   
-• SSH keys (in older device version).  SSH keys are the “private” keys in a “public / 
-
-
-private” key pair system.  (See: https://wiki.archlinux.org/index.php/SSH_keys)  MedSec 
-is prohibited by law from testing whether these SSH keys are still in use by STJ’s 
-network.  Even if the SSH keys have been changed, their unencrypted existence on older 
-@home devices is shocking.  If the keys are still in use, they could assist an attacker with 
-a network-based attack. 
-
-
- 
-The network credentials present on the @home device likely could be exploited to obtain 
-confidential (and legally protected) patient data from the Merlin network.  Also due to legal 
-prohibitions, MedSec was unable to confirm this theory. 
- 
-Below are screenshots evidencing Muddy Waters got root on Merlin@home devices (using 
-exploits developed by MedSec): 
-
-
-
-
-
- 
- 
- 
- Security Well Below Industry Standards (the Case for Gross Negligence) 
- 
-We have little doubt that STJ is about to enter a period of protracted litigation over these 
-products.  Should these trials reach verdicts, we expect the courts will hold that STJ has been 
-
-
-Page 9 of 34
-grossly negligent in its product design.  (We estimate awards if litigated to a verdict could total 
-$6.4 billion.13)   
- 
-One of the purposes of this report is unapologetically to single out STJ for what we see as its 
-incompetence in, or indifference to, device security.  In contrast, some competitors’ devices had 
-some surprisingly advanced device security features on home monitoring units.  One competitor 
-went as far as developing a highly proprietary embedded OS, which is quite costly and rarely 
-seen.  Healthcare cyber security is a nascent field, and one in which manufacturers and providers 
-are challenged to catch up.  However, STJ’s lack of security is stunning in comparison to that of 
-its three major competitors.   
- 
-Medtronic (MDT US), the largest player in the space, took a much different approach to patient 
-remote monitoring using the MyCareLink Patient monitor device pictured below: 
-
-
-
-
-
-
-
-
-MDT’s MyCareLink monitor has a wand that has to be detached and put within inches of the 
-implantable to communicate – similar to earlier versions of STJ’s home monitoring devices.  As 
-a result, even if all of the MyCareLink monitors were compromised, an attacker would only be 
-able to modify the device to perform in person attacks over a distance of a few inches. 
- 
-The STJ communication protocol does not include the use of any unique or one-time tokens, 
-such as a user-provided password. Instead, devices exchange an IMD (a unique identifier) to 
-create sessions.  As a result, any programmer or Merlin @ Home device can communicate with 
-any Cardiac Device, and once the communication protocol is understood, generally any device 
-can be impersonated. 
- 
-MedSec and Muddy Waters believe it is prudent from a security standpoint for STJ to disable the 
-RF capability of patients’ implanted devices.  
- 
-The following table compares the security on STJ’s Merlin@home to the devices manufactured 
-by the three major competitors MedSec studied.  
-
-
-                                                             
-13 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of an estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Page 10 of 34
-Page 11 of 34
-The Merlin@home circuit board shows some of the device’s substandard security.  STJ’s RF 
-chip is clearly an off the shelf un-customized Zarlink chip.  (There is a readily available 
-datasheet that contains important information about the packet structure the Zarlink chip uses.)  
-In contrast, the other manufacturers have proprietary RF chips developed specifically for their 
-protocols.14  STJ also uses a Samsung memory chipset for which there is a public presentation 
-about how to extract the contents. Further, none of the major chips appear to be proprietary.  The 
-competitors’ devices contained numerous customized chips (with no publicly available data 
-sheets). 
- 
- 
-
-
-
-
-
- 
-Whether SJM’s conduct constitutes simple negligence, gross negligence, or recklessness we 
-leave to the courts, based on a full discovery record.  What we can say is that it constitutes an 
-extreme departure from industry standards, as evidenced by the security efforts its competitors 
-have made, and further shows a remarkable indifference to protecting its customers from 
-cybersecurity threats.  Regardless, we have little doubt that STJ is about to enter a period of 
-protracted litigation over these products.  Should these trials reach verdicts, we expect the courts 
-will hold that STJ has been grossly negligent in its product design.  (We estimate awards could 
-total $6.4 billion.15)   
- 
-Merlin Programmers are also Non-Secure 
- 
-Perhaps more worryingly, the physician office programmers are not well secured either. 
-Shockingly, the STJ programmer has an easily accessible removable SATA/IDE harddrive. The 
-hard drive is unencrypted and applications can be easily read from, modified, and rewritten to the 
-
-
-                                                             
-14 The competitors’ RF chips could be custom modified chips produced by a major manufacturer such as Zarlink. 
-15 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of a conservatively estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Samsung K9F1208 Family 
-Memory Chipset  
-
-
-Zarlink Chip 
-
-
-Page 12 of 34
-hard drive using a SATA/IDE to USB adapter cable. This makes the vulnerability discovery 
-process for an attacker significantly easier.  If the applications are reverse engineered it could 
-potentially allow an attacker emulate the full functionality of the programmer using custom 
-hardware in a much more compact form – e.g., a pocket size device.  
- 
-These devices are readily available online for a few thousand dollars – including occasionally on 
-Ebay.  A Merlin programmer available on Ebay on August 10, 2016: 
- 
-
-
-
-
-
-Page 13 of 34
-Incompetence or Indifference? 
- 
-We believe the foregoing issues evidence a company that either does not know how to do device 
-security, or does not care about it.  Ironically, STJ touts its claimed strength in network 
-security.16  It strikes us as bizarre that STJ seems so focused on its internal corporate network, 
-which is arguably its last line of defense (and does nothing to protect against local attacks), while 
-distributing hundreds of thousands of non-secure Merlin@home devices into the homes of its 
-customers. 
- 
-Although MedSec has spent considerable time researching STJ’s devices (and those of its major 
-competitors), it expects that there are numerous additional security issues with its Cardiac Device 
-ecosystem.  MedSec extrapolates this based on the obvious lack of attention to security evident 
-in the devices it has researched.  This seeming shoddiness is more likely than not a systemic 
-problem at STJ, rather than an isolated one.  
- 
-MedSec was able to review only a small portion of the massive code base, yet it found 
-vulnerabilities on a regular basis.  STJ should and could identify and fix these as subset of the 
-MedSec identified vulnerabilities, and new vulnerabilities will likely continue to exist, unless 
-                                                             
-16 STJ seems quite proud of its “CTAC” – “Cyber Threat Action Center”.  “CTAC’s mission is to identify, protect 
-against, respond to, and enhance resiliency against cyber security threats. Learn how St. Jude Medical fulfills this 
-mission by using threat intelligence to monitor for emerging threats against the healthcare industry and make 
-informed verdicts on events in its SIEM.” https://www.recordedfuture.com/st-jude-medical-webinar-announcement/ 
- 
-
-
-Page 14 of 34
-STJ reworks large portion of the code of the Merlin@home, Programmer, and implantable 
-Cardiac Devices.  The company should include anti-fuzzing, anti-debugging methods, buffer 
-overflow protection, integer overflow protection, and string format protection. 
- 
-Demonstrated Attacks – Likely Just Two of Many Possibilities 
- 
-In the U.S. alone, STJ has over 260,000 active Merlin@home devices in the homes of users of 
-Cardiac Devices.17  (The worldwide number is likely hundreds of thousands of units higher.)  
-Many Merlin@home users keep the devices in their bedrooms, connected to STJ’s network 
-while they sleep. 
- 
-With relatively little effort, MedSec exploited tools on the @home devices to code the attacks.  
-Then, using compromised @home devices or software defined radios (“SDR”), MedSec 
-demonstrated two types of potentially catastrophic attacks:18  
- 
-
-
-• “crash” attacks that remotely disable cardiac devices, and in some cases, appear to cause 
-the Cardiac Device to pace at a dangerous rate, and 
- 
-
-
-• a battery drain attack that remotely runs Cardiac Device batteries down. 
- 
-These attacks were all demonstrated locally – within 50 feet, which is the approximate broadcast 
-radius of a Merlin@home unit.  (More powerful antennae can theoretically increase the range.)  
-MedSec outlined an exact method that could be used to launch similar attacks on a large scale 
-basis – either through established techniques for [redacted], or possibly through STJ’s network 
-itself.  It would have been illegal for MedSec to test the proof of concept. 
- 
-It is important to note that MedSec demonstrated these attacks on pacemakers and ICDs.  CRTs, 
-which were 16% of 2015 revenue, were unavailable for the demonstrations.  Because these 
-attacks exploit the communication protocol between the Merlin@home devices and the Cardiac 
-Devices, MedSec is confident that CRTs are similarly vulnerable. 
- 
-
-
-a. “Crash Attacks” 
- 
-The Crash Attacks involve broadcasting a combination of signals that places Cardiac Devices 
-into a state of malfunction.  Many of the Cardiac Devices tested are vulnerable to attacks 
-broadcast through a single Merlin@home device that is either compromised, or via a software 
-defined radio (“SDR”) using a broadcast antenna.  The Crash Attacks generally took less than 
-one hour to take effect. 
-                                                             
-17 As of May 2014 – see http://investors.sjm.com/investors/financial-news/news-release-details/2014/Pacemaker-
-and-Defibrillator-Patients-Adhering-to-Remote-Monitoring-with-St-Jude-Medicals-Merlin-Technology-Saw-More-
-than-Double-Survival-Rate/default.aspx 
-18 “Software-defined radio (SDR) is a radio communication system where components that have been typically 
-implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead 
-implemented by means of software on a personal computer or embedded system.” - 
-https://en.wikipedia.org/wiki/Software-defined_radio (citing: Software Defined Radio: Architectures, Systems and 
-Functions (Markus Dillinger, Kambiz Madani, Nancy Alonistioti) Page xxxiii (Wiley & Sons, 2003, ISBN 0-470-
-85164-3)) 
-
-
-Page 15 of 34
-In many cases, the Crash Attack made the Cardiac Device completely unresponsive to 
-interrogations from Merlin@home devices and Merlin programmers.  It was therefore impossible 
-to tell whether, and how the Cardiac Devices, are functioning.  MedSec strongly suspects they 
-were in many cases “bricked” – i.e., made to be non-functional.  It is likely physicians would 
-explant a device that did not respond to the programmer.  
- 
-In some cases, a Cardiac Device subjected to a Crash Attack was still able to communicate with 
-the programmer, and the information displayed was alarming.  In a Crash Attack demonstration 
-we witnessed on an ICD, the Crash Attack appears to have caused the device to pace at a rapid 
-rate that could have adverse health consequences if it performed this way in a user.19  Below is a 
-screenshot from the programmer showing the apparent malfunction.  The red error messages 
-above the lowest line are also indicators that the device is malfunctioning.   
-
-
-                                                             
-19 Interpretation of pacing data by MedSec medical advisor and board member, Dr. Hemal Nayak.  See The 
-Appendix.   
-
-
-Page 16 of 34
-b. Battery Drain Attack 
- 
-MedSec has demonstrated a Battery Drain attack that generates signals from the Merlin@home 
-device to run down batteries in Cardiac Devices at a greatly accelerated rate.  The attack version 
-MedSec tested depleted the batteries at approximately three percent of capacity per 24-hour 
-period.20  MedSec has since optimized the code.  Many Merlin@home users have their devices in 
-                                                             
-20 The exact depletion rate depends on the type and version of device. 
-
-
-Page 17 of 34
-their bedrooms, making it possible to run down batteries while users are sleeping.21  While 
-untested, MedSec believes the new code would drain devices at six times the rate – or in 
-approximately two weeks of nightly broadcasts.  While the Battery Drain attack appears 
-inefficient for a local attack, it could have severe consequences if deployed on a large scale.22  A 
-minority of Cardiac Device users are device dependent, and they are the group to whom the 
-Battery Drain attack poses the most significant risk.23  
- 
-A large scale attack is theoretically possible either through [redacted] and possibly through STJ’s 
-own Merlin network.  An attack through the Merlin network could be possible because of the 
-compromised login credentials for the network, giving rise to the possibility that the network 
-would be unable to distinguish a genuine Merlin@home device from an attacker.  Even if the 
-particular vulnerabilities discussed in this report are fixed, the Cardiac Devices are likely 
-susceptible to other attacks without a new communication protocol in place.  Based on our 
-conversations with industry experts, we estimate it would take at least two years to deploy a new 
-protocol on the current generation of devices. 
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  MedSec’s medical advisor, Dr. Hemal Nayak, who is a cardiac electrophysiologist, has 
-advised his patients to disconnect their Merlin@home units.  He is no longer implanting STJ 
-devices until the problem is remediated.  (Dr. Nayak’s statement to physicians and patients is in 
-the Appendix.)   
- 
-Analysis of Recall Likelihood & FDA Medical Device Cybersecurity Regulatory 
-Framework 
- 
-We believe in-home communication compatible Cardiac Devices should be recalled, either 
-voluntarily by STJ or mandatorily by the U.S. Food and Drug Administration (“FDA”).  This 
-recall would likely take the form of a moratorium on selling new devices until STJ completes 
-development of a new RF communication protocol.  Based on our conversations with industry 
-experts, we estimate a two-year timeline to develop and deploy the protocol.   
- 
-FDA Statutory and Regulatory Basis for Device Recalls 
- 
-Manufacturers independently initiate the overwhelming majority of medical device recalls.24  
-These are labeled “voluntary” recalls conducted pursuant to 21 CFR Part 7. However, the FDA’s 
-authority pursuant to Section 518(e) of the Federal Food, Drug, and Cosmetic Act (“FDCA”)25 
-
-
-                                                             
-21 Per Dr. Hemal Nayak, MedSec medical advisor and board member. 
-22 Note that Cardiac Devices generally have an audible low battery indicator.  A concern is that physicians and 
-patients would assume a normal delay between onset of the indicator and depletion. 
-23 http://www.medscape.com/viewarticle/712198_2 
-24 In 2014, FDA released its “Medical Device Recall Report – FY 2003 to FY 2012” available at 
-http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHTra
-nsparency/UCM388442.pdf  (last accessed Aug. 22, 2016). That Report states “[i]n rare cases, such as when a 
-device firm in uncooperative, FDA may perform a mandatory recall. However, all medical device recalls during this 
-report period were performed on a voluntary basis by the firms.”  
-25 21 USC § 360h(e). 
-
-
-Page 18 of 34
-and its related regulations found in 21 CFR Part 810 to mandate medical device recalls likely 
-explains the high rate of “voluntary” recalls.26  Should STJ not voluntarily recall these Devices 
-once informed of the high probability that the device would cause serious, adverse health 
-consequences or death, the FDA has ample regulatory basis to order a recall.  There are three 
-major competing device manufacturers.  While not ostensibly part of the FDA’s analysis, it is 
-notable that recalling STJ’s Devices would not deprive patients of an essential device. 
- 
-FDA Draft Guidance Document on Postmarket Device Cybersecurity 
- 
-The FDA issued a draft guidance document entitled  “Postmarket Management of Cybersecurity 
-in Medical Devices” (the “Draft Guidance”) on January 22, 2016. The Draft Guidance details 
-FDA’s current thinking on “managing postmarket cybersecurity vulnerabilities for marketed 
-medical devices.” Specifically, the Draft Guidance provides requirements for circumstances in 
-which cybersecurity vulnerabilities must be reported to FDA and may require additional actions, 
-including recall.27,28   
- 
-The Draft Guidance focuses on “assessing the risk to the device’s essential clinical 
-performance”.29  Essential clinical performance is the “performance necessary to achieve 
-freedom from unacceptable risk”.30  Manufacturers define the essential clinical performance 
-standards.31  Our analysis assumes that STJ’s definition of essential clinical performance for the 
-Devices includes (whether explicitly or implicitly) the ability to communicate with physician 
-programmers, avoid rapid battery depletion, and maintain safe pacing.  Further, we emphasize 
-throughout this report our view that other researchers are likely to develop additional attacks that 
-could compromise the essential clinical performance of the Devices.  The Draft Guidance 
-acknowledges that “a cybersecurity vulnerability might impact all of the medical devices in a 
-manufacturer’s portfolio based on how their products are developed…”32 
- 
-The Draft Guidance provides that manufacturers assess the risk a vulnerability presents to 
-essential clinical performance by considering: a) the “exploitability” of the vulnerability, and b) 
-the severity of the impact to patients’ health if it were exploited.33  If a risk is “uncontrolled”, 
-
-
-                                                             
-26  “The vast majority of all recalls are voluntary… Recalls are almost always voluntary, meaning initiated by a firm. 
-A recall is deemed voluntary when the firm voluntarily removes or corrects marketed products or the FDA requests 
-the marketed products be removed or corrected.” FDA’s openFDA, available at 
-https://open.fda.gov/device/enforcement/ (last accessed Aug. 22, 2016). 
-27 FDA’s Draft Guidance Document, “Postmarket Management of Cybersecurity in Medical Devices – Draft 
-Guidance for Industyr and Food and Drug Administration Staff,” available at 
-http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm482022.pdf 
-(dated Jan. 22, 2016, last accessed Aug. 22, 2016).  
-28 The draft guidance is not a final agency action and is subject to modification prior to adoption. As for all FDA 
-guidance documents, the “draft guidance, when finalized, will represent the current thinking of the [FDA] on this 
-topic. It does not establish any rights for any person and is not binding on the FDA or the public.” topic. 
-29 Draft Guidance, part VI. 
-30 Draft Guidance, part IV.E. 
-31 Id. 
-32 Draft Guidance, part V.B. 
-33 Draft Guidance, part VI. 
-
-
-Page 19 of 34
-then manufacturers should remediate it.34  Based on our conversations with industry experts, we 
-estimate this remediation would take at least two years.   
- 
-In terms of understanding the probability of an attack taking place, University of Michigan 
-medical device cybersecurity research Kevin Fu pointed out that the malicious third party 
-controls the probability distribution of an attack.35 
- 
-To determine whether a risk is uncontrolled, the Draft Guidance suggests that manufacturers 
-look to cybersecurity vulnerability assessment tools to determine exploitability.  It mentions one 
-tool that could assist, called the “Common Vulnerability Scoring System”, version 3.0.36,37  
-Based on our inputs to the CVSS 3.0 model, the exploitability of the vulnerabilities for the 
-Devices ranges from “High” to “Critical”.  Further, FDA’s Draft Guidance indicates that 
-manufacturers “should also have a process for assessing the severity impact to health, if the 
-cybersecurity vulnerability were to be exploited.”38 The Draft Guidance suggests one for such 
-assessment to be the ANSI/AAMI/ISO 14971: 2007/®2010: Medical Devices – Application of 
-Risk Management to Medical Devices.39 Pursuant to this tool, a common term for assessing a 
-qualitative severity level resulting in patient death would be “catastrophic” while, on the lower 
-end of the severity spectrum, a common term for a severity level resulting in inconvenience or 
-temporary discomfort would be “negligible.”40  
- 
-As shown supra, MedSec has demonstrated an attack that can cause a Device to pace at a 
-potentially dangerous rhythm.  MedSec has also demonstrated a battery drain attack, and certain 
-Device dependent patients could experience severe health consequences if their Devices lost 
-power and failed to function.41  Based on the Draft Guidance and its recommended tools, we 
-therefore assess the severity of the exploit to patient health to be “catastrophic.”  The below 
-matrix from the Draft Guidance deems a vulnerability with high exploitability and catastrophic 
-impact if exploited an uncontrolled risk.42   
- 
- 
-
-
-                                                             
-34 Draft Guidance, part VIC. 
-35 https://www.youtube.com/watch?v=shTj9WVhVyU&feature=youtu.be 
-36 Draft Guidance, part VI.A. 
-37 The tool is available at: https://www.first.org/cvss/calculator/3.0 
-38 Draft Guidance, part VI.B. 
-39 Id. 
-40 Id. 
-41 According to MedSec medical advisor Dr. Hemal Nayak. 
-42 The matrix is in the Draft Guidance, part VI.C. 
-
-
-Page 20 of 34
-The Draft Guidance provides several examples of uncontrolled risks. One examples is strikingly 
-similar to the vulnerabilities and attacks MedSec has discovered: 
- 
-
-
-Examples of Vulnerabilities Associated with Uncontrolled Risk 
-That Must Be Remediated and Response Actions: 
- 
- A manufacturer becomes aware of a vulnerability via a researcher 
-that its Class III medical device (e.g., implantable defibrillator, 
-pacemaker, etc.) can be reprogrammed by an unauthorized user. If 
-exploited, this vulnerability could result in permanent impairment, 
-a life-threatening injury, or death.  The manufacturer is not aware 
-that the vulnerability has been exploited and determines that the 
-vulnerability is related to a hardcoded password, and cannot be 
-mitigated by the device’s design controls. The risk assessment 
-concludes that the exploitability of the vulnerability is moderate 
-and the risk to the device’s essential clinical performance is 
-uncontrolled. The manufacturer notifies appropriate stakeholders, 
-and distributes a validated emergency patch. The manufacturer is 
-not a participating member of an ISAO and reports this action to 
-the FDA under 21 CFR 806.10.43 
-
-
- 
-Pursuant to the Draft Guidance, FDA recommends specific changes to address vulnerabilities 
-associated with the types of uncontrolled risks described in this example. Among other actions, 
-the manufacturer should “identify and implement risk mitigations…such as a work-around or 
-temporary fix.”44 Additionally, manufacturers should report these vulnerabilities to FDA 
-pursuant to 21 CFR part 806.45 However, FDA states in the Draft Guidance that it does not 
-intend to enforce these reporting requirements if three circumstances are met: 1) there are no 
-known serious adverse events or deaths associated with the vulnerability, 2) within 30 days of 
-learning of the vulnerability, the manufacturer identifies and implements changes to lower the 
-                                                             
-43 Draft Guidance, part VII.B. 
-44 Id. 
-45 Id. 
-
-
-Page 21 of 34
-risk level and notifies users, and 3) the manufacturer is a participating member of an ISAO, like 
-NH-ISAC.46  
- 
-As described in more detail infra, it will likely be impossible for STJ to identify and implement 
-changes to the Devices within 30 days of learning of the vulnerabilities, and will therefore be 
-subject to the reporting requirements imposed by FDA under 21 CFR § 806.10, which includes 
-notification to all the customers in the distribution chain.47 
- 
-Recall Likelihood and Conclusions 
- 
-The vulnerability in the ecosystem is the compromised communication protocol between the 
-Merlin@home units and the Cardiac Devices.  Because in-home units are widely available and 
-easy to exploit, MedSec believes that STJ must develop a new communication protocol in order 
-to secure the Cardiac Devices.   
- 
-We estimate that it would take STJ at least two years to develop a new RF communication 
-protocol.  We assume the total team size required for this project would be 10 to 15 people.  We 
-understand that adding people to the team would likely not speed up the development time.  Our 
-assumption includes an expected approval timeline of three to six months.  
- 
-STJ’s lack of adequate attention to secure system architecture and design and implementation has 
-resulted in an embedded system eco-system that will be very difficult to remediate.  These 
-solutions would then need to be written into the existing code base. In simpler situations, a 
-security update can be applied to the protocol without affecting the rest of the system.  In this 
-case, STJ appears to have intertwined many of the different layers of communication throughout 
-the software.  As a result, it appears there is no part of the programming stack on which a 
-remediation effort could focus.  Large parts of the extremely large codebase would have to be re-
-written.  
- 
-To protect existing Device users, STJ could disable the Devices’ RF (radio frequency) 
-capabilities as a “compensating control”.  A compensating control is a countermeasure used in 
-the absence of sufficient controls designed into the device.48  MedSec’s observations of STJ’s 
-devices cause it to believe this is practicable to implement.  With the RF disabled, devices would 
-be unable to use the in-home devices and network and would need close proximity for 
-interrogation.  As a result, certain patients would need to see their physicians more frequently to 
-compensate for the lack of remote monitoring.49  It should be noted MedSec sees no reason to 
-expect STJ’s major competitors to interrupt access to their home monitoring networks. 
- 
-Pursuant to 21 CFR § 7.40, STJ should recall its Devices because the Devices present “a risk of 
-injury or gross caption or are otherwise defective” as demonstrated by MedSec’s research and in 
-light of FDA’s current medical device and cybersecurity policies. Should STJ not voluntarily 
-                                                             
-46 Id. 
-47 FDA’s “Guidance for Industry: Product Recalls, Including Removals and Corrections,” available at 
-http://www.fda.gov/Safety/Recalls/IndustryGuidance/ucm129259.htm (last accessed Aug. 22, 2016). 
-48 Draft Guidance, part IV.A. 
-49 According to MedSec medical advisor Dr. Hemal Nayak.  However, he points out that remote monitoring 
-improves patient outcomes and survival. 
-
-
-Page 22 of 34
-recall the Devices, FDA has a regulatory basis to and could mandate that STJ recall the Devices 
-pursuant to its recall authority granted under section 518(e) of the FDCA and 21 CFR part 810. 
- 
-Medical device recall precedents support our view that the devices should be recalled – in our 
-opinion, the risks and severity of the STJ vulnerabilities rise at least to the levels of the following 
-recalled devices.  
- 
-Hospira Pump Recall Case Study50 
- 
-In late 2013, well-known researcher Billy Rios purchased a Hospira Symbiq infusion pump on 
-eBay for around $100 on a lark. Such pumps are commonplace in hospitals where health care 
-providers use them to automatically deliver IV drips and injectable drugs to patients. Rios didn’t 
-have anything in particular in mind for the device, mostly looking to tinker. He soon discovered 
-that he could remotely take over the device, which could have lethal consequences if used 
-maliciously. 
- 
-Recognizing the implications of his discovery, Rios sent his detailed findings to the Department 
-of Homeland (DHS) Security Industrial Control Systems Cyber Emergency Response Team 
-(ICS-CERT). In turn, ICS-CERT notified the Food and Drug Administration (FDA) and sent a 
-report to Hospira. 
- 
-Interestingly, in 2013 Hospira had already decided to discontinue the Symbiq pump and planned 
-to spend $300-$350 million on doing away with its legacy pumps and developing replacements, 
-purportedly due to scrutiny by the FDA of quality issues.51,52 
- 
-Months passed without Rios hearing a word from Hospira and there was no indication that 
-government agencies were preparing to take action. Rios renewed the fight after a medical scare 
-forced him into a hospital—and hooked up to a Hospira pump—for several days. He filmed 
-himself hacking into the infusion pump and provided DHS and FDA with sample computer code. 
- 
-This tangible evidence showing how easily he could craft code that could kill someone prompted 
-the FDA to take action. In July 2015, it issued an advisory urging hospitals to stop using 
-Hospira’s infusion pump.53,54,55  
- 
-Pharmaceuticals giant Pfizer proceeded with its acquisition of Hospira (announced in February 
-2015) despite the negative publicity and closed the $17 billion deal in September 2015.  In May 
-
-
-                                                             
-50 This case study draws heavily from the November 2015 Bloomberg article It’s Way Too Easy to Hack the 
-Hospital: http://www.bloomberg.com/features/2015-hospital-hack/ 
-51 http://articles.chicagotribune.com/2013-05-02/business/ct-biz-0502-hospira-20130502_1_symbiq-infusion-device-
-hospira-chief-executive-f 
-52 http://phx.corporate-ir.net/phoenix.zhtml?c=175550&p=irol-newsArticle&ID=1813491 
-53 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm446809.htm 
-54 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm456815.htm 
-55 http://www.kaloramainformation.com/article/2015-08/FDA-Warning-Formalizes-Growing-Cybersecurity-
-Concerns-Medical-Devices 
-
-
-Page 23 of 34
-2016, however, reports surfaced that Pfizer was looking to sell Hospira’s troubled pump business 
-for $1.2-$2 billion.56  
- 
-Guidant Recall Case Study 
- 
-Johnson & Johnson announced that it was acquiring Guidant on December 15, 2004, for $76 a 
-share, at a cost of $25.4 billion.57  Shortly after the acquisition announcement, issues with 
-Guidant’s pacemakers and heart defibrillators arose. Almost 200,000 of its pacemakers and 
-88,000 heart defibrillators were impacted by safety warnings or recalls. Guidant had long failed 
-to notify doctors of the risks of one sort of defibrillator short-circuiting.58 The Securities and 
-Exchange Commission opened a formal inquiry into “product disclosures and trading in Guidant 
-stock”.  
- 
-Eliot Spitzer, New York's attorney general at the time, alleged that Guidant kept from the public 
-a design flaw in one of its defibrillators.59 Shortly afterward, Johnson & Johnson, invoked the 
-“material adverse change” clause (MAC).60,61  Guidant’s stock dropped to a low of $56.53 or 
-down 25.6% from the $76 offer price. Ultimately, Boston Scientific stepped in and bought 
-Guidant, but the acquisition proved to be even more costly with almost $9 billion of write downs 
-from 2006 to 2012 and a $600 million settlement with Johnson & Johnson in 2015.62,63,64   
-Boston Scientific’s market capitalization a few years after buying Guidant for $27.2 billion 
-dropped below $13 billion and hit a low of $7.7 billion in 2012.    
- 
-Boston Scientific Case Study 
- 
-Boston Scientific’s ill-fated 2006 acquisition of Guidant in 2006 came to a head in March 2010 
-when the company announced a recall of its entire lineup of implantable defibrillators, a legacy 
-Guidant business area. The news prompted an overnight 13% drop in Boston Scientific’s share 
-price, erased hundreds of millions in annual revenue, and resulted in a drop in total market share 
-for defibrillators from 28% to 22%. A study at the time by McKinsey, a consulting firm, 
-estimated that the company would lose $5 million each day these products were off the 
-market.6566 
- 
-Boston Scientific recalled (to their credit, voluntarily) the devices upon discovering that two 
-manufacturing process changes were made without FDA approval. The scope of those changes 
-
-
-                                                             
-56 http://www.biospace.com/News/pfizer-rumored-to-be-selling-its-hospira-pumps/417636 
-57 http://www.investor.jnj.com/releasedetail.cfm?releaseid=150615 
-58 http://www.washingtonpost.com/wp-dyn/content/article/2005/06/17/AR2005061700680.html 
-59 http://www.wsj.com/articles/SB113103013711487375 
-60 http://www.themiddlemarket.com/maj/20051201/31774-1.html 
-61 http://www.economist.com/node/5139360 
-62 https://www.lawyersandsettlements.com/articles/guidant_pacemaker/guidant-pacemakers-settlement-
-01212.html?utm_expid=3607522-
-13.Y4u1ixZNSt6o8v_5N8VGVA.0&utm_referrer=https%3A%2F%2Fwww.google.com% 
-63 http://www.wsj.com/articles/SB10001424052748704471204575210191743610672 
-64 http://blogs.wsj.com/moneybeat/2015/02/18/can-boston-scientific-finally-move-on-from-its-guidant-mistake/ 
-65 McKinsey and Company, The Business Case for Medical Device Quality, p. 4. 
-66 http://www.reuters.com/article/dealtalk-bostonscientific-idUKN0113666920100401 
-
-
-Page 24 of 34
-was not divulged. The company asked doctors to cease implanting the devices and return all 
-inventory, although implanted devices were deemed safe.67 
- 
-Boston Scientific Revenue Market Share Loss:  
-
-
- 
-*Millennium Research Group  
- 
-
-
-                                                             
-67 http://www.drugrecalllawyerblog.com/2010/03/heart_devices_and_the_companie.html 
-
-
-Page 25 of 34
-Boston Scientific ICD Revenue Drop (including Leads) after Recalls:  
-
-
- 
-*Millennium Research Group  
- 
- 
- 
- 
-Valuation 
-
-
-
-
-
-
-
-
-Network Shut Down and Repair Scenario:  
- 
-Assumes that St. Jude shuts down the Merlin@home network for eight quarters to repair and re-
-architect the entire network.  We think approximately 46% of St. Jude’s revenues could be 
-related or connected to the Merlin@home device.  This includes the entire CRM segment and 
-78% of the Heart Failure segment, or 16% of total revenues.  We sensitized our Discounted Cash 
-Flow (DCF) model with the following assumptions for eight quarters and modeled out a 
-subsequent recovery to normalized levels thereafter.  Given that this scenario is more of a topline 
-issue, we conservatively left expenses and margins relatively unchanged from management 
-guidance to demonstrate the negative impacts to the stock price.  In a more realistic scenario, 
-expenses, capital expenditures and interest expense could be a lot higher. 
-
-
-Page 26 of 34
-Main Assumptions: 
- 
-
-
-• Traditional CRM Segment Decline:  Traditional CRM segment (25% of 2015 Total 
-Revenues) drops to zero for eight quarters and then starts coming back in 2018 and 
-beyond.   
-
-
-• Heart Failure Segment Decline: Approximately 78% of the Heart Failure segment 
-(20% of 2015 Total Revenues) comes from CRT-D and CRT-P cardiac devices, which 
-are also connected to the Merlin@home device.  We reduce all Merlin network related 
-CRT revenues to zero and assume it goes under a network repair for eight quarters. 
-
-
-• Atrial Fibrillation Segment Growth: Management 2016 guidance is in the 10% to 11% 
-growth range.  In this scenario, the CRM network slow down also impacts the AF 
-segment, and we assume 8% growth through 2018 in this segment.  
-
-
-• Cardiovascular Segment Growth: According to management, the Cardiovascular 
-segment is expected to grow 1% to 3% for 2016. In this scenario, the Merlin@home 
-issues also negatively impact this segment and thus moves growth to zero percent. 
-
-
-• Neuromodulation Segment Growth: Management 2016 guidance, is in the 7% to 9% 
-range.  We think growth moves to 5% with technology security concerns in this segment. 
-
-
-• Gross Margins: Management 2016 guidance, of 69.0% to 69.5%, however we think 
-margins will be impacted by lower ASPs and pressure from the CRM segment and thus 
-assume 67% gross margin until 2Q18E.   
-
-
-• SG&A: Management 2016 guidance range of 31.3% to 31.8%, however we think the 
-percentage moves higher over an eight quarter period and closer to 33%.   
-
-
-• R&D: R&D is expected to remain in the 12.5% to 13% of sales range in our model and 
-where management has been guiding for 2016.  R&D moves to 17% for an eight quarter 
-period to leave the expense level relatively flat with 2015’s R&D spend levels.  
-
-
-• Other Expenses and Interest Expenses: Management guidance for 2016 of ~$155 
-million to $165 million, primarily driven by interest expense on our outstanding debt.  
-Interest costs would most likely increase in a scenario where their largest revenue 
-segment was under pressure, but for purposes of this exercise we are keeping expenses 
-in-line with current 2016 guidance through the entire DCF modeling period. 
-
-
-• Tax Rate: For full year 2016, we continue to expect the effective tax rate to be in the 
-range of 15.5% to 16.5%.   
-
-
-• Capital Expenditures: Capex as a percent of sales is expected to increase to 5% from a 
-historical range of 3% to 4% for an eight quarter time period and return to historical 
-ranges thereafter.  
-
-
-• Working Capital:  Working capital remains flat at zero.  
-• Assumes debt maturities are refinanced in the market at the moment at the same rate.  
-• Longer dated revenue growth rates of 12% in 2019E and 8% in 2020E, margins, capex 
-
-
-and tax rates recover to 2015 levels and remain relatively stable.  
-• Assuming no foreign currency fluctuations.  
-
-
-
-
-
-Page 27 of 34
-Main DCF Assumptions: 
- 
-
-
-• Growth and margins return to normalized levels after eight months, for example, 
-EBITDA margins move back to 28% in 2019, after declining to 24% in 2017.   
-
-
-• WACC: Sensitized WACC from the 6% to 11% range.  According to Bloomberg, 
-WACC was 7.7% prior to the merger announcement and peers are higher than the 6.5% 
-currently shown on Bloomberg.        
-
-
-• Perpetuity Growth Rate:  -5% to +3% growth 
-• Assumes a $1 billion settlement in four years for product liability class actions.  
-
-
- 
- 
-DCF and Stock Price Sensitivity Results: 
-
-
- 
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
-
-
-Page 28 of 34
-Share Loss and Revenue Loss Scenario:   
- 
-
-
-• In this scenario, the company loses market share and revenue, but continues to operate its 
-Traditional CRM and Heart Failure segment.  Even if the device is not recalled 
-immediately, we think physicians and hospitals could decrease their orders of these 
-cardiac devices given this cybersecurity issue.  
-
-
-• As an example, Thoratec, a heart circulatory device company that St. Jude Medical 
-acquired in 2015, experienced severe market share loss from 2012 to 2015, after 
-researchers published that the HeartMate II LVAD defect increased the chance of blood 
-clots.  The quarterly sales from peak to trough were down 18.4% in Q314, which was 
-primarily driven by safety concerns with their HeartMate products. Thoratec stock 
-dropped 30% on their 2Q14 earnings after experiencing greater than expected share loss 
-and missing expectations. 68 
-
-
-• We sensitized revenues in the Traditional CRM segment to drop 14.4% in 2016E, -20% 
-in 2017E and -8.7% in 2018E. 
-
-
-• The Heart Failure segment begins to decrease in 3Q16E, but grows 11.4% in 2016E and 
-declines 20% in 2017E and begins to stabilize at -8% growth in 2018E.   
-
-
-• Overall revenues are flat in 2018E, +12% in 2019E and +8% in 2020E. 
-
-
-                                                             
-68 http://www.bloomberg.com/news/articles/2013-11-27/thoratec-s-heart-pump-may-cause-blood-clots-study-
-suggests 
-http://www.massdevice.com/thoratec-nejm-article-cost-us-market-share/ 
- 
-
-
-Page 29 of 34
-• The remaining assumptions remained the same as the prior scenario.  
-
-
- 
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
-
-
- 
- 
- 
-Covenant Breach in 3Q16 Highly Likely: 
- 
-Under the network shutdown scenario, the company would breach their 4.0x bank loan covenant 
-in 3Q16.  We used Schedule 2 Section 7.13 in the Term Loan Agreement to calculate the 
-company’s Consolidated Leverage Ratio, using 2015 numbers and found that it could have 
-already breached their covenant.  Our calculation was closer to 4.45x vs. 4.25x as defined by the 
-covenant at that time.  There could have been a number of non-cash add backs that allowed it to 
-stay current with the covenant in 2015.     
-
-
-Page 30 of 34
-The company is already close to breaching the covenant and is suffering from a slowdown in its 
-Traditional CRM products.  We think any additional pressure on the topline would cause a 
-breach in the covenant in the near-term.  As a reminder, the covenant does step down to 4.0x in 
-2016 from 4.25x in 2015 and then down to 3.5x thereafter.  We believe the company will need to 
-renegotiate this covenant in a timely manner and banks could ask for security (potentially $3.8 
-billion of secured debt when including the revolver and term loan), higher lending rates and 
-lower the capacity on the $1.5 billion revolver, further straining liquidity.   Any default that 
-could arise from a covenant breach on the term loan would also be a cross default into the bonds.  
- 
-Potential Liquidity Issues: 
- 
-Liquidity could start becoming constrained after a covenant breach, which could lead to a 
-reduction to its $1.5 billion revolving credit facility and potential downgrades to their 
-commercial paper (CP) rating, which is currently at A-2/P-2.  The company is highly dependent 
-on its CP program for liquidity and currently has $387 million of commercial paper outstanding. 
-Any disruption in the CP rating could negatively impact their access to this market. St. Jude 
-Medical does have yearly debt amortization from its term loan, and its nearest bond maturity 
-($500 million) is in September 2018, which could be an issue to refinance if it does not address 
-
-
-Page 31 of 34
-these issues with its Merlin network. In 2015, the company generated $853 million of free cash 
-flow (Cash from Operating Activities less Capital Expenditures). 
- 
-Potential Credit Rating Downgrades: 
- 
-Rating agencies already have St. Jude Medical on negative watch for a downgrade.  The 
-companies increasing leverage profile from its recent acquisitions has tipped leverage over 
-4.25x, which is already high for a single A rated company.  According to a Moody’s report in 
-May 2016, Investment Grade Leverage (Debt/EBITDA) for 2015 was 2.35x vs.4.25x for STJ.69    
-Along with the potential Merlin network issues, we think agencies will need to reevaluate their 
-ratings and possibly downgrade their ratings increasing the company’s borrowing costs and cost 
-of capital.   
- 
- 
-  
-
-
-                                                             
-69 Moody’s Sector In-depth Report May 20, 2016, page 10 
-
-
-Page 32 of 34
-Appendix 
-Letter to Patients and Physicians from MedSec medical advisor and board member Dr. Hemal Nayak70 
-
-
- 
-Dr. Nayak speaks for himself, and not his employer. 
-
-
-
-
-
-
-
-
-                                                             
-70 Dr. Nayak has been granted an immaterial equity interest in MedSec. 
-
-
-Page 33 of 34
-Page 34 of 34
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 1/33
+
+
+Care.com: Multiple Deaths and Child
+Abuses, Fraudulent Billing, and a
+Harvey Weinstein Babysitter
+
+
+Edwin Dorsey Follow
+
+
+Jun 11, 2018 · 25 min read
+
+
+Care.com is the largest babysitting platform in the U.S., their largest shareholder is
+
+
+Google, their CEO advised President Obama, and they have facilitated at least five
+
+
+deaths and dozens of child abuse crimes. I first heard of Care.com after my friend
+
+
+received death threats from scammers on the site. In the eleven months since then I have
+
+
+launched an investigation into Care.com and what I found is troubling:
+
+
+· Care.com approved babysitters are linked to the deaths of at least five children (two of
+
+
+these babysitters had prior criminal histories, another was operating an unlicensed
+
+
+daycare)
+
+
+· Care.com babysitters have repeatedly abused children
+
+
+· Care.com’s caregiver screening appears to be nonexistent. For example, I was able to
+
+
+sign up and apply to babysitting jobs as Harvey Weinstein:
+
+
+
+https://medium.com/@erdorsey2?source=post_page-----7468edb54ea0----------------------
+
+https://medium.com/@erdorsey2?source=post_page-----7468edb54ea0----------------------
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0?source=post_page-----7468edb54ea0----------------------
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 2/33
+
+
+(I was later upgraded to Care.com’s second highest level of authenticity)
+
+
+· Care.com’s background checks have approved convicted felons, prostitutes, and people
+
+
+on probation
+
+
+· Scamming is common on Care.com and some babysitters have received death threats
+
+
+· Care.com bills users for unused services and repeatedly bills customers after they
+
+
+cancel their accounts
+
+
+· I believe Care.com creates fake “parents”/job opportunities so babysitters will upgrade
+
+
+so they can apply to nonexistent jobs
+
+
+· Care.com sells user data to advertisers. This is buried 7,000 words deep in its privacy
+
+
+policy and is not disclosed to investors.
+
+
+· I believe Care.com’s key investor metrics are incorrect. Care.com claims to have over 9
+
+
+million U.S. babysitters, but its own search feature suggests a number 80% lower. In
+
+
+addition, web traffic to Care.com is declining while it claims 100%+ user growth and
+
+
+Care.com’s numbers have other inconsistencies.
+
+
+· Care.com quietly acquired a staffing company in California. Without this acquisition I
+
+
+believe Care.com’s revenue growth would be negative.
+
+
+· After I signed up as Harvey Weinstein and tweeted out a photo of Care.com’s safety
+
+
+loopholes, Care.com’s CTO, David Krupinski, called my college and said I was
+
+
+manipulating the market for Care.com stock. He sold $700,000 in stock over the next
+
+
+three days.
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 3/33
+
+
+· Over 1,000 pages of consumer complaints against Care.com regarding unauthorized
+
+
+billing, safety concerns, and fake check scams are summarized and available at the very
+
+
+end of this report
+
+
+· If you have information on Care.com please contact me at edorsey@stanford.edu
+
+
+· Disclaimer: I am personally betting against Care.com stock.
+
+
+Safety
+Care.com babysitters are linked to the deaths of at least five children. On any large
+
+
+platform, unfortunate incidents will occur, but what makes Care.com particularly
+
+
+troubling is that babysitters often have prior criminal histories when they register on
+
+
+Care.com. Four of the five deaths related to Care.com babysitters are below:
+
+
+1. Care.com babysitter Sarah Gumm was convicted of murder and sentenced to 23 years
+
+
+in jail for beating a 3-month-old to death. Prior to registering on Care.com she had two
+
+
+DUIs, a “battery incident,” and a felony charge — all of which went undetected by
+
+
+Care.com’s background check.
+
+
+2. Care.com babysitter Sarah Cullen was convicted of murder and sentenced to 70 years
+
+
+in jail for killing a 4-month-old child. She had a DUI prior to registering on Care.com.
+
+
+3. Care.com babysitter Aisling McCarthy Brady had no prior criminal history prior to
+
+
+registering on Care.com, but had overstayed her visa. A one-year-old died in her care.
+
+
+She was found not guilty in a criminal charge, but the family was later awarded $4
+
+
+million in a new lawsuit.
+
+
+4. An unnamed Care.com babysitter had a child die in her care. It is unclear what
+
+
+happened to the babysitter, but she was running an unlicensed daycare while advertising
+
+
+on Care.com.
+
+
+5. (There is a fifth publicly disclosed case around June 2011 that I decline to identify out
+
+
+of respect for the family.)
+
+
+Care.com’s lack of oversight is not limited to the above. In November 2012 NBC Chicago
+
+
+did an investigation into Care.com’s background checks. They found Care.com approved
+
+
+a woman convicted on several counts of prostitution and Care.com approved a man
+
+
+
+mailto:edorsey@stanford.edu
+
+http://www.dailymail.co.uk/news/article-2719883/Parents-sue-popular-nanny-website-failing-background-check-baby-sitter-beat-daughter-death.html
+
+https://www.courthousenews.com/nanny-screener-failed-miserably-parents-say/
+
+http://komonews.com/news/local/childs-death-prompts-lawsuit-against-childcare-referral-company
+
+http://www.dailymail.co.uk/news/article-2266468/Aisling-McCarthy-Brady-Nanny-accused-causing-death-year-old-girl-care-hitting-head-EYES-bled.html
+
+http://www.anglocelt.ie/news/roundup/articles/2013/01/23/4014063-cavan-nanny-in-custody-over-us-toddler-death
+
+https://www.irishcentral.com/news/court-awards-4m-in-damages-in-aisling-brady-mccarthy-boston-nanny-case
+
+http://fox6now.com/2015/07/01/parents-speak-out-after-baby-boy-dies-at-babysitters-we-wont-give-up-until-we-have-an-answer/
+
+http://www.wisn.com/article/milwaukee-baby-dies-in-care-of-sitter/6327493
+
+https://www.nbcchicago.com/investigations/unit-5-babysitter-background-checks-179041071.html
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 4/33
+
+
+convicted of reckless conduct. Care.com said, “we are deeply disturbed by these
+
+
+findings.”
+
+
+In March 2015, a family hired Care.com babysitter Ann Guadagnino, only to discover she
+
+
+was a drug addict that had been charged with possession of heroin, possession of drug
+
+
+paraphernalia and was issued summonses for speeding and driving while in possession
+
+
+of a controlled dangerous substance. Care.com said, “There is no centralized database
+
+
+encompassing all criminal convictions … therefore, [databases we use are] sometimes
+
+
+missing or omitting recent criminal record charges.”
+
+
+In December 2015 the Boston Globe launched an investigation into Care.com babysitter
+
+
+Stephanie Lee Fox after she stole $280,000. A Boston Globe review “found 28 criminal
+
+
+cases against Fox, which included 111 charges… Fox was convicted of numerous charges
+
+
+including larceny, identity fraud, forgery, and receiving stolen property.” The Boston
+
+
+Globe also found Ms. Fox “was still on probation when she registered as a nanny on
+
+
+Care.com.” Care.com said, “The safety of our community is of paramount importance to
+
+
+us.”
+
+
+On March 2018, Care.com babysitter Jonathan Tavara-Nima was sentenced to 25 years
+
+
+for raping a seven-year-old girl he met on Care.com. Care.com said his account “would
+
+
+be removed and blacklisted.” Care.com didn’t mention that he had been arrested for
+
+
+child pornography charges five years earlier.
+
+
+Despite numerous abuses by Care.com babysitters, coverage almost always stops at the
+
+
+local news level. Below are just a sampling of stories on abuse by Care.com babysitters:
+
+
+Care.com babysitter Kelcher Foreman, Care.com babysitter Dana Cash, Care.com
+
+
+babysitter Brittney Lyon, Care.com babysitter Moriah Gonzales, Care.com babysitter
+
+
+Colin Cutler, Care.com babysitter Jonathan Tavara-Nima, Care.com babysitter Nephi
+
+
+Henderson, Care.com babysitter Ashley Zimmer, Care.com babysitter Brenda Floyd,
+
+
+Care.com babysitter Ryan Michael Spencer, Care.com babysitter Bryan Petersen,
+
+
+Care.com babysitter Guillermo Mendieta, Care.com babysitter Susan Conway-Lall,
+
+
+Care.com babysitters Brandi Leonard, and Richard Hennis (DOJ Announcement),
+
+
+Care.com babysitter Joshua Stephen Lapin-Bertone, Care.com babysitter Susan
+
+
+Devereaux, Care.com babysitter Joanne Simmons, Care.com babysitter Catherine
+
+
+Oppen, Care.com babysitter Joseph Lamica, Care.com babysitter Gina Groves, Care.com
+
+
+
+http://www.nj.com/hunterdon-county-democrat/index.ssf/2015/03/hunterdon_family_claims_online_company_recommended.html
+
+https://www.bostonglobe.com/metro/2015/10/08/nanny/Y9ecoS2DH1NYaTOV546nJL/story.html?p1=Article_Related_Box_Article_More
+
+http://www.nj.com/union/index.ssf/2017/05/babysitter_accused_of_sex_assault_of_girl_ordered.html
+
+https://www.statesmanjournal.com/story/news/crime/2018/05/17/salem-caregiver-sentenced-prison-stealing-17-k-90-year-old-elder-abuse/619921002/
+
+http://abc7.com/news/mother-of-fontana-twins-abused-speaks-out---exclusive/349676/
+
+http://www.sandiegouniontribune.com/communities/north-county/sd-no-babysitter-molestation-investigation-20170427-story.html
+
+http://www.latimes.com/local/lanow/la-me-ln-baby-abuse-livermore-20160303-story.html
+
+http://q13fox.com/2018/04/18/babysitter-who-used-care-com-charged-with-sexually-molesting-a-9-year-old-boy/
+
+http://www.nj.com/union/index.ssf/2017/05/babysitter_accused_of_sex_assault_of_girl_ordered.html
+
+https://www.dailybreeze.com/2017/08/11/hermosa-beach-dog-sitter-charged-with-burglarizing-pve-house/
+
+http://www.kron4.com/news/rohnert-park-ymca-teachers-aid-arrested-on-child-porn-charges/945091034
+
+https://www.dallasnews.com/news/texas/2017/01/24/caregiver-accused-hitting-94-year-old-houston-area-woman-feeding-dog-human-food
+
+https://ijr.com/2017/05/869926-fbi-arrests-teen-trading-child-porn-learn-took-photos-work/
+
+http://www.ksbw.com/article/aptos-babysitter-traded-child-porn-with-tiburon-babysitter-court-docs-state/9633925
+
+https://www.fontanaheraldnews.com/news/man-who-claimed-to-be-a-teaching-consultant-is-arrested/article_59cc7cd8-277e-11e7-a054-173fbe7d8708.html
+
+https://www.fox25boston.com/news/police-nanny-was-drunk-while-caring-for-salem-infant/14056493
+
+https://www.justice.gov/usao-co/pr/colorado-woman-and-man-arrested-and-charged-production-and-transportation-child
+
+http://www.wspa.com/news/fl-baby-sitter-accused-of-teaching-boy-to-set-off-bombs/1018439940
+
+https://www.boston.com/news/crime/2016/09/01/police-babysitter-hired-on-care-com-found-drunk-and-high-on-the-job
+
+https://www.palmbeachpost.com/news/crime--law/west-palm-police-babysitter-leaves-young-kids-alone-unlocked-home/e2lgS9Y7Zs1X5s3FCYaYfP/
+
+http://boston.cbslocal.com/2016/02/02/nanny-accused-stealing-wayland-family/
+
+https://www.democratandchronicle.com/story/news/2016/05/05/brighton-man-sentenced-child-porn/83989478/
+
+http://www.dailymail.co.uk/news/article-3524620/Babysitter-checked-Care-com-wanted-felon-stole-5-000-family-tried-op-en-credit-cards-name.html
+
+https://patch.com/new-hampshire/concord-nh/stolen-spices-quarters-copper-gift-cards-fentanyl-cops
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 5/33
+
+
+babysitter Ashley S. Hodgdon, Care.com babysitter Daniel Harker, Care.com babysitter
+
+
+Stephanie Fox, Care.com babysitter Benjamin Evan Nelson, Care.com babysitter Ann
+
+
+Guadagnino, Care.com babysitter Patricia Kathleen Soldeholm, Care.com babysitter
+
+
+Caleb Storey
+
+
+Harvey Weinstein Babysitter
+To test the security of Care.com I decided to apply as Harvey Weinstein. I was asked for a
+
+
+home address and birthdate. In both cases I did not use Harvey Weinstein’s actual home
+
+
+address or birthdate. I was also asked to consent to a background check. At the end of
+
+
+the process I was told, “Your profile has been submitted and is being reviewed for
+
+
+approval (within the next 72 hours) by our member care team.” To my amazement I
+
+
+passed Care.com’s review process. After adding a bogus Facebook and Twitter account
+
+
+(each with 0 friends/followers) I started applying to babysitting jobs.
+
+
+I successfully applied to multiple Care.com babysitting jobs as Harvey Weinstein:
+
+
+
+https://patch.com/new-hampshire/concord-nh/stolen-spices-quarters-copper-gift-cards-fentanyl-cops
+
+https://www.cp24.com/news/toronto-babysitter-faces-12-new-charges-in-sexual-assault-investigation-1.2857011
+
+https://abcnews.go.com/US/nanny-charged-stealing-280000-boston-family/story?id=34367556
+
+http://www.koin.com/news/jailed-babysitter-accused-of-child-sex-crimes_20180208085230837/960218202
+
+http://www.nj.com/hunterdon-county-democrat/index.ssf/2015/03/hunterdon_family_claims_online_company_recommended.html
+
+http://wtvr.com/2015/03/06/police-charge-drunk-caregiver-with-abuse-and-neglect-of-incapacitated-adult/
+
+http://www.wlwt.com/article/babysitter-pleads-guilty-to-child-porn-charges/3540424
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 6/33
+
+
+If Care.com had a human screen the profiles or just verified house addresses, names, or
+
+
+birthdays (very easy) this would not happen. Based on my experience it looks like
+
+
+anyone can sign up as a Care.com babysitter under whatever name they want.
+
+
+It gets worse. Care.com has three levels of babysitters: Newcomer, CareForce, and
+
+
+CarePro. Care.com was so convinced I was legitimate, my Harvey Weinstein profile was
+
+
+able to join the “CareForce” meaning I would show up in search results:
+
+
+I was also able to get CPR and First Aid certified without providing any evidence[1].
+
+
+This is not an isolated incident. In one case an Atlanta family hired the Care.com
+
+
+babysitter “Regina Christopher” to watch their 8-year-old son. However, “Regina
+
+
+Christopher was really Gina Groves, who had warrants out for her arrest in four Georgia
+
+
+counties for various charges.”
+
+
+According to the article, when [the family] spoke to someone at Care.com, the
+
+
+representative noted that she’d only paid for “one of the cheaper background checks.”
+
+
+When criticized on its safety procedures Care.com claims to be just a “marketplace” for
+
+
+caregivers. However, the word “marketplace” does not appear once on its homepage. In
+
+
+
+http://www.hlntv.com/articles/2015/11/09/are-online-nanny-services-safe/
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 7/33
+
+
+its legal filings, Care.com claims to do “basic caregiver screening” on all users and offers
+
+
+background checks on individual caregivers for extra cost. But what type of “caregiver
+
+
+screening” wouldn’t catch Harvey Weinstein? Or, at minimum, verify a name? Or check a
+
+
+sex offenders list? What type of background check wouldn’t catch DUIs? Or Felonies? Or
+
+
+a woman on probation? Or a convicted prostitute?
+
+
+Scammers & Death Threats
+Legitimate Care.com babysitters who sign up for the site often encounter scammers and
+
+
+some even receive death threats. The most common type of scam on Care.com is a fake
+
+
+check scam. Scammers pretend to be parents on Care.com and post a job for babysitters.
+
+
+The scammer says they are about to move to the area and send a fake check for to a
+
+
+caregiver as a first month’s payment. Then, the scammer “changes plans” and asks for
+
+
+the check back hoping the babysitter will send a real check before her bank realizes the
+
+
+original check is fake (takes 5–7 days). Below is a police report from a fake check scam
+
+
+where the babysitter ultimately received a death threat:
+
+
+(Source: San Antonio Police Department Public Records Request)
+
+
+I first heard of Care.com after my friend had a similar experience and went to the police
+
+
+to deal with the death threats. Others online have complained about similar incidents:
+
+
+“My daughter applied for a dog-sitting job that was a total scam- she wound up getting
+
+
+threats that someone would “slice her up” if she didn’t cash a fraudulent check. No help
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 8/33
+
+
+from care.com, but we did go to the police.” — July 2017 (Source)
+
+
+“I started receiving death threats to my cell phone, the sender had my HOME ADDRESS.
+
+
+I still lock the doors, terrified, every night. The care.com team did nothing but send an
+
+
+automated, impersonal response to my complaint.” — July 2017 (Source)
+
+
+Many other Care.com users had similar experiences with scammers, but without death
+
+
+threats:
+
+
+(Source: Massachusetts Attorney General Public Records Request)
+
+
+(Source: Illinois Attorney General Public Records Request)
+
+
+I received these complaints by sending public records requests to state attorney generals.
+
+
+You can find over 50 similar complaints at the very end of this report.
+
+
+Overbilling & Selling User Data
+
+
+
+https://www.sitejabber.com/reviews/www.care.com#989
+
+https://www.trustpilot.com/reviews/597f4779a64b41086cf08cd5
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 9/33
+
+
+Parents and caregivers can join Care.com for free, but most of the platform requires
+
+
+upgrading to paid one, three, or twelve-month subscriptions. Once the subscription term
+
+
+expires Care.com “auto-renews” the plan until the user cancels. This practice has
+
+
+generated 100s of complaints (which you can find at the very end of this report) but is
+
+
+generally permissible and practiced by other businesses — like gyms and software
+
+
+companies. What is troubling is that Care.com has repeatedly billed users after they
+
+
+canceled their subscriptions. One women had such difficulty getting Care.com to stop
+
+
+billing her that she wrote a letter to Care.com’s CEO and the Massachusetts Attorney
+
+
+General asking that her account be closed and to stop being billed. She also claims that
+
+
+after she closed her credit card account Care.com began charging her husband’s credit
+
+
+card without any authorization:
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 10/33
+
+
+(Source: Public Records Request to Massachusetts Attorney General)
+
+
+Complaints about billing after cancellation are common. You can see three more
+
+
+complaints below and you can find dozens more of similar complaints at the very end of
+
+
+this report.
+
+
+(Source: Public Records Request to Massachusetts Attorney General)
+
+
+(Source: Public Records Request to Illinois Attorney General)
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 11/33
+
+
+(Source: Public Records Request to Illinois Attorney General)
+
+
+Care.com also sells user data to advertisers. I found this after Care.com sent the
+
+
+Michigan Attorney General an internal screenshot of a user’s email preferences on an
+
+
+unrelated matter. Highlighted in red, “share information about me with third party
+
+
+communication facilitators so they may send me direct mail solicitations on behalf of
+
+
+other companies”:
+
+
+(Source: Public Records Request to Michigan Attorney General)
+
+
+Care.com never mentions selling user data during its sign-up process, or in its investors
+
+
+filings, or in its terms of use. (At 13,482 words Care.com’s terms of use is twice the
+
+
+length of the U.S. Constitution.) The one place Care.com does briefly mention sharing
+
+
+user data is at the very end of its 7,244 words Privacy Policy: “We may use third-party
+
+
+communications facilitators working on behalf of Care.com to send you marketing
+
+
+communications from third party advertisers that we think may be of interest to you.”
+
+
+(These are words 7,162 to 7,190 of its 7,244 word Privacy Policy — the very end.) Some
+
+
+
+https://www.care.com/terms-of-use-p1012.html#paymentAndRefund
+
+https://www.care.com/privacy-policy-p1013.html
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 12/33
+
+
+data Care.com gathers on users is number of children in a household, gender of children,
+
+
+age range of children, and general data on wealth (e.g., the pay range you offer sitters).
+
+
+Fake Accounts
+I believe Care.com may be creating fake accounts to entice users to pay money so they
+
+
+can upgrade and apply to nonexistent jobs. I want to be clear: I do not have proof
+
+
+Care.com is faking job postings, however numerous complaints online and to state
+
+
+attorney generals reference fake jobs postings and Care.com’s CEO previously worked
+
+
+for a company accused of creating fake job opportunities.
+
+
+Below are just some complaints people sent to their state attorney generals alleging fake
+
+
+job postings (you can see more complaints at the very end of this report):
+
+
+(Source: Public Records Request to Massachusetts Attorney General)
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 13/33
+
+
+(Source: Public Records Request to Massachusetts Attorney General)
+
+
+Here are some complaints from users online about fake jobs on Care.com:
+
+
+“After two months of paying for premium membership and contacting dozens of
+
+
+“employers” I didn’t receive a single response and realized that those job ads were all
+
+
+fake. Dating sites use the same tactics. They create fake profiles that are too good to be
+
+
+true to encourage people to subscribe.” — February 2015 (Source)
+
+
+“I believe Care.com has set up fake accounts with no families to respond back. I set up an
+
+
+alias account to respond to and vice versa and what do you know… no messages went
+
+
+through and both accounts were taken down with no explanation…” –April 2017
+
+
+(Source)
+
+
+“Fake Profiles and Job Postings!!! I just started using their services about 3 weeks ago
+
+
+and I’ve applied to MANY positions and only heard back from 2 individuals. The rest
+
+
+never replied and don’t appear to have even looked at my profile (there is a tab where
+
+
+you can check who has viewed your profile). Is each job posting getting so many
+
+
+applications that the users don’t even bother looking at some applicants? I find this
+
+
+doubtful.” –February 2016 (Source)
+
+
+“I feel like the site is a farce and that many of the ‘adverts’ are fake and aimed at certain
+
+
+postcodes in order to get people to buy credits and apply. Avoid” –May 2017 (source)
+
+
+“I think there are a lot of bogus jobs advertised on the site. Can’t prove it but when you
+
+
+apply for over 50 and get 0 responses, something’s up.” — October 2017 (Source)
+
+
+Before founding Care.com, founder/CEO Sheila Marcelo worked at TheLadders.com, a
+
+
+pay-to-join job site accused of faking job profiles:
+
+
+(Source)
+
+
+
+https://www.reviewopedia.com/care-com-reviews?page=5
+
+https://www.reviewopedia.com/care-com-reviews?page=1
+
+https://www.reviewopedia.com/care-com-reviews?page=3
+
+https://www.trustpilot.com/reviews/5921ead73cf253043cd9c0f4
+
+https://www.sitejabber.com/reviews/www.care.com#1073
+
+https://www.asktheheadhunter.com/3219/theladders-how-the-scam-works-2
+
+https://ofwempowerment.com/pilipino-ako-taas-noo/
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 14/33
+
+
+(Link to Lawsuit)
+
+
+I did not find any convictions of TheLadders.com for improper conduct, but I view the
+
+
+extreme amount of complaints against the TheLadders as a negative. Please note that
+
+
+Care.com CEO Sheila Marcelo was not accused of any wrongdoing, but she was VP and
+
+
+General Manager at TheLadders.
+
+
+Misleading Investors
+I believe Care.com mispresents its key user metrics and barely disclosed a recent
+
+
+acquisition that is its real source of growth.
+
+
+One of Care.com’s key investor metrics is the number of caregivers on its platform. In its
+
+
+2017 investor presentation Care.com claimed to have “9.2 million U.S. caregivers.” To
+
+
+test this claim I used Care.com’s own search tool to see how many caregivers are in each
+
+
+of the 25 biggest U.S. cities. The top 25 U.S. cities have about 10% of the U.S. population
+
+
+so you would expect them to have about 10% of Care.com’s U.S. caregivers. As a result,
+
+
+my search should yield about 920,000 profiles, but I found less than 1/5 that amount:
+
+
+
+http://corcodilos.com/files/20130311ladderscomplaint.pdf
+
+http://s1.q4cdn.com/647286967/files/Second-Quarter-2017-Investor-Relations-Deck.pdf
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 15/33
+
+
+(Care.com search feature)
+
+
+I believe this is strong evidence that Care.com’s U.S. caregiver base is well below the 9.2
+
+
+million claimed in its investor presentation.
+
+
+There are other inconsistencies in Care.com’s user metrics dating back to its IPO offering
+
+
+documents:
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 16/33
+
+
+(Source: Alexa Analytics)
+
+
+Alexa analytics for Care.com’s website shows only 2.7 million unique visitors for May
+
+
+2018, down from the 6.3 million+/month Care.com claimed in 2013. Maybe Care.com’s
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 17/33
+
+
+“unique visitors” declined over 50% over the last 5 years, but that would seem to
+
+
+contradict Care.com’s 100%+ growth in users:
+
+
+(Source: Slide 19 of Care.com’s most recent investor presentation)
+
+
+This slide is the bull thesis on Care.com. Who wouldn’t want to own a company growing
+
+
+60% per year? But there is overwhelming evidence it is misleading. Using Care.com’s
+
+
+own search feature suggests less than 2 million caregivers vs Care.com’s claimed 11.8
+
+
+million. If you believe that Care.com has 15.5 million families that would represent
+
+
+nearly 60% of families with children under 12 in the U.S. If there are only 3 million jobs
+
+
+posted how can you have 15.5 million families? How can user metrics be growing rapidly
+
+
+while web traffic is declining? Note that all four CAGRs listed in the above chart are
+
+
+overstated using Care.com’s own data. For example, the growth in job applications (top
+
+
+right) went from 1.1 million to 62.8 million from 2008 to 2017. Care.com’s stated CAGR
+
+
+is 66%, when it is actually 57%.
+
+
+
+http://s1.q4cdn.com/647286967/files/doc_presentations/2018/Care.com-Investor-Presentation_Q12018_FNL.pdf
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 18/33
+
+
+Also, on slide 5 of its most recent investor presentation, Care.com claimed to make “1
+
+
+match every 3 minutes.” This I down from “we make a care match about once every two
+
+
+minutes” Care.com’s co-founder said in 2014. But if Care.com is growing so fast why
+
+
+would matches become less frequent?
+
+
+Town & Country acquisition (no press release, no website
+update, 100% of revenue growth?)
+I believe Care.com quietly acquired a staffing company and without this acquisition
+
+
+revenue growth would be negative. According to page 94 of its 2017 10-K: “On January
+
+
+9, 2018, we entered into an agreement with Town & Country Resources, Inc. … we
+
+
+acquired certain assets for total potential consideration of $6.9 million.”
+
+
+Based on my research, Care.com put out no press release for the Town & Country
+
+
+acquisition, it was not mentioned in their investor presentation, and the Town & Country
+
+
+website makes no mention of a relationship with Care.com. However, Care.com did
+
+
+mention the acquisition in its quarterly earnings call and in its SEC filings.
+
+
+Staffing companies are unique in that they typically have high amounts of revenue
+
+
+relative to their market value. A typical publicly traded staffing company trades at about
+
+
+1/3 revenue. Using this metric alone implies that Town & Country has annual revenue
+
+
+around $21 million ($7million*3). In its Q1 press release Care.com said, “Revenue for
+
+
+the first quarter of 2018 was $47.3 million, an increase of 9% from $43.4 million in the
+
+
+first quarter of 2017.” This is revenue growth of $3.9 million ($47.3-$43.4=$3.9
+
+
+million). But it is perfectly possible that Care.com’s Town & Country acquisition added
+
+
+more than $3.9 million in revenue. In fact, my basic math implies Town & Country has
+
+
+quarterly revenue of $5.25 million. This means Care.com’s organic revenue is actually
+
+
+declining! (Headline growth of $3.9 million — acquisition related growth of $5.25
+
+
+million = organic decline of $1.35 million.)
+
+
+Financial Analysis (Over $10 million in insider sales, Less
+than $15,000 in buys)
+The last time a Care.com insider bought CRCM stock was in June 2016 when a board
+
+
+member bought $13,000. Over the last two years Care.com insiders sold over $10
+
+
+
+https://www.youtube.com/watch?v=Hnlz2hcN3Sg&feature=youtu.be&t=1m17s
+
+https://www.sec.gov/Archives/edgar/data/1412270/000141227018000012/a2017q410-kcarecom.htm
+
+https://tandcr.com/
+
+http://investsnips.com/list-of-publicly-traded-staffing-and-outsourcing-companies/
+
+http://investors.care.com/investors/investor-news/investor-news-details/2018/Carecom-Announces-First-Quarter-2018-Financial-Results/default.aspx
+
+https://www.sec.gov/Archives/edgar/data/1412270/000117911016027981/xslF345/edgar.xml
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 19/33
+
+
+million in stock. Why so much insider selling and no buying? I believe it’s because
+
+
+Care.com’s consumer business is starting to decline and Care.com executives know it.
+
+
+In 2013, Care.com’s revenues grew 68%. In 2014, revenues grew 36%. In 2015,
+
+
+revenues grew 25%. In 2016, revenues grew 17%. In 2017, revenues grew 8%. In Q1
+
+
+2018 revenue “grew” 9% (but without the acquisition I estimate revenues actually
+
+
+declined 3%). This is very problematic because analysts are projecting aggressive
+
+
+revenue growth going forward (Needham, the most bullish, predicts 10.3% revenue
+
+
+growth in 2018, and 13.1% in 2019). Absent any new acquisitions I do not see how
+
+
+Care.com will make those estimates.
+
+
+One option for Care.com would be raising prices. But Care.com already raised
+
+
+subscription prices nearly 30% in mid-2016 and the competition is becoming more
+
+
+aggressive. Sitterycity is even on pricing with Care.com, charging $140/year, and newer
+
+
+competitor UrbanSitter charges only $100/year. (It’s also worth noting that according to
+
+
+Alexa Web Analytics UrbanSitter and Sittercity both have increasing web traffic over the
+
+
+last year, while Care.com is declining).
+
+
+Above all else, Care.com users do not like the product. According to the online review
+
+
+site SiteJabber Care.com has 1.2 stars from 1,179 reviews and on review site HighYa
+
+
+Care.com has 1.1 stars from 57 reviews. (SitterCity has 2.4 stars from 16 reviews on
+
+
+SiteJabber, and UrbanSitter has 2.8/10 from TrustPilot).
+
+
+Care.com stock is up over 300% over the last 26 months for one reason: Google. Over
+
+
+the last 26 months, I believe Care.com’s fundamentals have deteriorated, revenue
+
+
+growth is slowing, consumer reviews are still bad, yet the stock is up 300%+ because
+
+
+Google Capital did a preferred stock deal with Care.com in June 2016.
+
+
+Google is not just the largest Care.com shareholder. According to page 92 of Care.com’s
+
+
+2017 10-K: “During fiscal 2017 and fiscal 2016, we recorded $1.9 million and $1.6 million
+
+
+of revenue from Care@Work arrangements with Alphabet Inc. and its affiliates,
+
+
+respectively. During fiscal 2017 and fiscal 2016, we incurred $12.3 million and $14.5
+
+
+million of selling and marketing expenses for internet based marketing services with
+
+
+Alphabet Inc. and its affiliates, respectively.”
+
+
+
+https://www.iparentinglife.com/sittercity-vs-care-com-which-is-best/
+
+https://www.urbansitter.com/pricing
+
+https://www.sitejabber.com/reviews/care.com
+
+https://www.highya.com/care-com-reviews
+
+https://www.sitejabber.com/reviews/sittercity.com
+
+https://www.trustpilot.com/review/urbansitter.com
+
+https://www.care.com/press-release-google-capital-invests-in-carecom-p1186-q78109137.html
+
+https://www.sec.gov/Archives/edgar/data/1412270/000141227018000012/a2017q410-kcarecom.htm
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 20/33
+
+
+It is one thing to make an investment in a public company. But to make an investment in
+
+
+a public company, become a >1% customer, have Care.com join your “job search”
+
+
+feature, and have their advertising costs go down on your platform seems a little odd. (I
+
+
+have no evidence of wrongdoing by Google/Alphabet but I have never seen an
+
+
+arrangement like this.) It’s also worth noting that Google Capital has had failed
+
+
+investments in the past (e.g., Outcome Health and LendingClub).
+
+
+Another indication that Care.com is in trouble is the large amount of insider selling. In
+
+
+September 2017 all four major executives (CEO, CFO, CTO, & General Counsel) created
+
+
+new 10b5–1 trading plans to dispose of Care.com stock. Below you can see the amount
+
+
+of stock sold in the 9 months since the plan was created compared to the sales in the 12
+
+
+months before it was instituted.
+
+
+The bottom line is you have a company customers dislike, that uses aggressive billing
+
+
+practices, that isn’t safe, and that is likely inflating important investor metrics. Quite
+
+
+simply, Care.com does not deserve to trade at four times revenue and 70x profit. I
+
+
+believe Care.com is desperate. That is why they did the Town & Country Acquisition.
+
+
+That is why they got very aggressive with their billing practices. That is why they cut
+
+
+corners. And that is why Care.com’s Co-founder and CTO called my college after I first
+
+
+wrote about Care.com.
+
+
+First Report
+On Monday October 30, 2017 I published a report on Scribd detailing some problems
+
+
+with Care.com. The stock fell 6%, but the report was not well distributed.
+
+
+On Tuesday October 31, Care.com board member Tony Florence resigned, effective
+
+
+immediately. His VC fund NEA management sold all of its CRCM stock within 6 months.
+
+
+(Please note: I am not implying any wrongdoing by Mr. Florence or NEA management.)
+
+
+
+https://www.care.com/press-release-carecom-joins-new-job-search-feature-on-google-p1186-q91289834.html
+
+https://www.scribd.com/document/363024736/Care-com-or-Scam-com-Deaths-Death-Threats-Fake-Profiles-and-the-Predatory-Babysitter
+
+https://www.sec.gov/Archives/edgar/data/1412270/000141227017000052/q32017earningsrelease8-kca.htm
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 21/33
+
+
+Also, on Tuesday Care.com co-founder/CTO David Krupinski called my college
+
+
+(Stanford) about my article and said I was manipulating the market for Care.com stock.
+
+
+On Wednesday David Krupinski sold 10,000 shares of CRCM stock (for ~$150,000).
+
+
+Later that day Care.com raised guidance for 2018 on their earnings call.
+
+
+On Thursday Mr. Krupinski sold another 10,000 shares of stock.
+
+
+On Friday Mr. Krupinski sold another 20,000 shares of stock.
+
+
+Since October 30th 2017, David Krupinski has sold ~200,000 shares of CRCM stock for
+
+
+~$4 million. (He now owns 200,000 shares).
+
+
+I believe the above facts exemplify two points. First, most Care.com shareholders are not
+
+
+aware of the issues outlined in this report. That is why a board member resigned the day
+
+
+after my report and his VC firm sold all its CRCM stock. Second, Care.com knows they
+
+
+are in trouble. A legitimate company would ignore my report, issue a rebuttal, or contact
+
+
+me directly, but I have never heard of a company contacting a student’s college. Also, Mr.
+
+
+Krupinski’s stock sales were part of an automatic trading plan initiated in September
+
+
+2017, however, he knew the stock sales were going to occur after he called my college
+
+
+and after Care.com raised its guidance.
+
+
+Conclusion
+I want to be clear about what this report is and isn’t. I believe that the perception of
+
+
+Care.com in the general public and public markets is wrong and I hope this report
+
+
+highlights why. Others will disagree with my view. I’m sure there are thousands of
+
+
+people who have used Care.com and liked it. Reports of abuse by Care.com babysitters
+
+
+have also declined in recent years (meaning Care.com may be improving their practices).
+
+
+That said, I believe the issues highlighted in this report are serious enough to be written
+
+
+publicly and I hope they are taken seriously.
+
+
+“The world is a dangerous place to live; not because
+of the people who are evil, but because of the people
+who don’t do anything about it.” –Albert Einstein
+
+
+
+https://www.sec.gov/Archives/edgar/data/1412270/000117911017013753/xslF345/edgar.xml
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 22/33
+
+
+. . .
+
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+
+. . .
+
+
+Disclaimer: I am personally betting against Care.com stock. You can follow me on twitter
+
+
+@BatmanResearch
+
+
+[1] My Care.com profile was eventually taken down. Once you message a family on the
+
+
+Care.com platform they can flag you. I believe this is what happened.
+
+
+[2] I used a zip code in the center of each city and did an unrestricted search for
+
+
+caregivers within a 10-mile radius.
+
+
+Below are hyperlinks and summaries of the 1,000+ pages of consumer complaints
+
+
+against Care.com I obtained via public records requests. To help navigate the documents
+
+
+I have constructed the key below the summarizes the main point of each complaint and
+
+
+bolded complaints I felt were particularly egregious.
+
+
+Massachusetts (167 Pages of records)
+
+
+2–3 Fake check scam, Lost $1973.37
+
+
+4–5, Care.com has called 10+ times asking person to leave review, CRCM won’t stop
+
+
+calling
+
+
+6–7, Autobilling
+
+
+8–9, closed account
+
+
+10–11, Autobilling, never received emails
+
+
+12–13 Canceled membership, was told wouldn’t be billed, but was billed $35
+
+
+
+https://twitter.com/BatmanResearch
+
+https://www.scribd.com/document/381502868/Massachusetts-AG-Care-com-complaints
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 23/33
+
+
+14–15, Autobilling, $175
+
+
+16–17, Autobilling, $700, never notified
+
+
+18–19, website does not specify up front that it is paid service
+
+
+20–21, Autobilling
+
+
+22–23, Fake check scam
+
+
+24–25, Care.com continues to bill despite being asked to stop, info not redacted
+
+
+26–27, Autobilling for 2 years, never received invoice “At what point does this kind of
+
+
+business model pass from unethical to illegal?”
+
+
+28–29 Autobilling, thought he was signing up for free trial
+
+
+30–31, Autobilling, lost $140
+
+
+32–33, Autobilling $185
+
+
+34–36, Autobilling, Though signed up for free account, instead billed $1,000+
+
+
+37–38, Autobilling, 3 months
+
+
+39–40, Autobilling, called and canceled twice, both times they said they cancelled
+
+
+but they kept billing her for two years
+
+
+41–42, Autobilling, $195 overcharge
+
+
+43–44, Autobilling, $310
+
+
+45–46, unautoroized charges
+
+
+47–48, Autobilling
+
+
+49–50, Autobilling, total of $827
+
+
+51–52, Fake check
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 24/33
+
+
+53–55, Autobilling
+
+
+56–57, Fake check, college student lost $2850
+
+
+58–59, Canceled account without reason
+
+
+60–61, Fake check, lost $3,590
+
+
+62–63, Fake check, lost $2022
+
+
+64–66, Autobilling, lost $553, detailed complaint against autobilling
+
+
+67–68, Autobilling
+
+
+69–70, Autobilling
+
+
+71–73, Daughter was victim of fake check scam
+
+
+74–75, Fake check scam (lost $3150.55?)
+
+
+76–77, Autobilling $668 total (it looks like once Care.com raised fees Care.com began
+
+
+autobilling more)
+
+
+78–79, Autobilling, says never received emails of new charges
+
+
+80–81, Autobilling
+
+
+82–83, Autobilling ($130)
+
+
+84–85, Autobilling, cancelled account but was still billed for 18 months, never
+
+
+given receipts
+
+
+86–87, says site does not make pet sitters follow law
+
+
+88–89, Physical letter to attorney general on autobilling
+
+
+90–91, Feels that Care.com fakes parents/job openings, very few parents have
+
+
+photos, rejections are worded similarly, “I feel these people are being made up”
+
+
+92–93, handwritten complaint on autobilling ($79)
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 25/33
+
+
+94–96, Autobilling, $390, “I feel like there should be a class action”
+
+
+97–99, Mixed up identity and cancelled account
+
+
+100–101, Fake check scam
+
+
+102–103, Daughter signed up on Care.com to be dog sitter, but ended up in fake check
+
+
+scam
+
+
+104–105, Fake check scam
+
+
+106–107, Autobilling, emailed four times trying to cancel ($260)
+
+
+108–109, Was told he canceled, but Care.com kept billing him
+
+
+110–111, Worked on site for 8 years, then Care.com terminated her for driving violation
+
+
+in 1997
+
+
+112–113, Fake check scam
+
+
+114–115, Autobilling
+
+
+116–117, Care.com agency refusing to give their tax ID, so woman can’t get tax expense
+
+
+refund
+
+
+118–119, “They continued to charge my credit card for a membership that was
+
+
+cancelled in March by email, customer service,and then on their website — $196
+
+
+…. Customer service contact twice to cancel because their cancellation submit
+
+
+button on the website did not appear to be working.” ($196) + failed background
+
+
+check
+
+
+120–121, $300 charge from Care.com, but never signed up for their service or
+
+
+knew of them
+
+
+122–124, “Leads me to believe that these “employers” are probably fake accounts
+
+
+setup by Care.com to deceive customers into thinking that there are legitimate jobs
+
+
+on their site and therefore pay (and/or continue to pay) for the monthly
+
+
+subscription costs.”
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 26/33
+
+
+125–126, Bad vetting and unqualified caretakers
+
+
+127–128, Posting false ads for caregivers and claiming to do Cori checks. Charging
+
+
+a fee for services.
+
+
+129–130, Bad Care.com caretaker
+
+
+131–132, $120 in unauthorized charges
+
+
+133–134, Account suspended for old dismissed criminal charge
+
+
+135–137, Autobilling, never received invoices
+
+
+138–139, Kept billing after cancelling over phone ($360)
+
+
+140–141, Autobilling
+
+
+142–143, Does not have Care.com account but was charged $420 by Care.com
+
+
+144–146, Can’t find a way to cancel
+
+
+147–148, “They won’t allow us to cancel our account.”
+
+
+149–150, “On May 3rd 2017, I received confirmation that I closed my account.
+
+
+Then on May 24th they charged me forservices that I cancelled”, cancelled account
+
+
+multiple times but stilled billed
+
+
+151–152, “I have been trying for weeks to cancel my membership and all I get is
+
+
+the run around.”
+
+
+153, Letter written to Care.com CEO Marcelo (Attorney General CC’d), billed for
+
+
+five years and even after cancelling credit card
+
+
+154–155, “CCI*Care has been able to find my new card info each time and charge
+
+
+me. When I look online, I am not the only one with this problem.”
+
+
+156–158, online complaint, claimed to do refund, but didn’t
+
+
+159–161, $507 in autobilling
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 27/33
+
+
+162–164, Autobilling, tried to cancel, but couldn’t ($270)
+
+
+165, One Page letter to Attorney General, Autobilling, now receipt or notification
+
+
+166–168, $59 unwanted/uninitiated charge from Care.com
+
+
+Florida (51 pages of records)
+
+
+1, Fake check scam
+
+
+2, Miscellaneous
+
+
+3, Filled out Care.com profile and never finished, Care.com gave phone number to
+
+
+scammers who are now contacting her
+
+
+4, Fake check scam
+
+
+5, Elder care agency on Care.com was not billing properly
+
+
+6–22, bizarre email chain alleging RICO, mob ties, and conspiracy (99% sure it’s
+
+
+nothing)
+
+
+23, Care.com has additional charges to message people after getting a background check
+
+
+24, Fake check scam
+
+
+25, Possible scam, Care.com did not take action
+
+
+26, Can’t pass Care.com’s background check after getting married and changing name
+
+
+27, someone using phone number and address of his old business on Care.com for
+
+
+odd purposes
+
+
+28, Follow up to complaint on page 26
+
+
+29, Fake check scam
+
+
+30, Fake check scam
+
+
+
+https://www.scribd.com/document/381503010/Florida-AG-Care-com-Complaints
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 28/33
+
+
+31, “Please identify this Website as dangerous for young women,” person received
+
+
+very suspicious job offer (likely fake check scam)
+
+
+32, Autobilling, though she cancelled, but was still charged
+
+
+33, “I have never done business with this company. I have never spoken to this
+
+
+company. this is a fraudulent charge to my bank account. I have tried to contact
+
+
+care.com and their number is not answered just goes dead when it rings.”
+
+
+34–40, email chain about fake check scam
+
+
+41–43, email chain about autobilling
+
+
+44–46, Daughter was almost victim of fake check scam
+
+
+47–50, Fake check scam
+
+
+51, Likely fake check scam
+
+
+Georgia (31 pages of records)
+
+
+1–2, Fake check scam
+
+
+3–6, Fake check scam
+
+
+7–9, Tried cancelling multiple times, but was stilled billed. Also, “I fear for the
+
+
+safety of child care services.”
+
+
+10–11, Daughter’s background check comes back for wrong person
+
+
+12–13, Fake check scam
+
+
+14, Fake check scam
+
+
+15, “She feels he is using this website to get people’s personal info.” — unclear
+
+
+16, Autobilling
+
+
+17, Fake check scam
+
+
+
+https://www.scribd.com/document/381503107/Georgia-AG-Care-com-Complaints
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 29/33
+
+
+18–19, Miscellaneous
+
+
+20–21, Fake check scam (lost $1980)
+
+
+22, Miscellaneous
+
+
+23–25, Fake check scam
+
+
+26–27, Fake check scam
+
+
+28–31, Fake check scam
+
+
+Illinois (48 pages of records)
+
+
+1, Fake check scam
+
+
+2–3, Autobilling
+
+
+4, Care.com gave email address to scammer, fake check scam (lost $1,630)
+
+
+5, Fake check scam
+
+
+6–11, Autobilling ($560)
+
+
+12–13, Fake check scam, also Care.com gave out personal info
+
+
+14–35, Fake check scam (with evidence of texts and emails)
+
+
+36, “randomly saw a complaint from another customer stating this and quickly
+
+
+logged in 1- 2 days after I signed up and cancelled my account so after the month
+
+
+of service was up it would automatically cancel and I wouldn’ t be charged. I even
+
+
+took a screen shot of the cancellation and emailed It to myself.” Autobilling
+
+
+37–39, Fake check scam (with emails and texts)
+
+
+40–43, Fake check scam (with photos of FedEx package)
+
+
+44, “I cancelled my subscription over the phone. However they have been
+
+
+continuing to charge my credit card to date. … I would like to have $360 refunded
+
+
+
+https://www.scribd.com/document/381503192/Illinois-AG-Care-com-Complaints
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 30/33
+
+
+to me. This is fraud.” Autobilling ($360)
+
+
+45, Fake check scam
+
+
+46–47, Fake check scam
+
+
+48, Autobilling ($78)
+
+
+Texas (35 Pages of Records)
+
+
+1, Autobilling
+
+
+2, Autobilling
+
+
+3–4, Man complains Care.com withdrew $37.89, but he never signed up or knew of
+
+
+company (Total $719.91)
+
+
+5–6, “As a result of an error by Care.com, Mr. Sevier’s account was never activated,
+
+
+but Mr. Sevier nevertheless was charged.”
+
+
+7–9, Letter to correct fact Care.com misspelled Sevier’s first name
+
+
+10–15, Care.com online complaints
+
+
+16–17, “I attempted to cancel my subscription online to care.com but was meet with
+
+
+“time out” failures on my computer for several days….” Talked to Care.com
+
+
+representative that said account was canceled. …” Care.com fraudulently removed
+
+
+money from my account after I called to VERBALLY cancel when their website kept
+
+
+timing out. I want my money back.” (Autobilling $84)
+
+
+18–20, Fake check scam
+
+
+21, Fake check scam (lost $2,775)
+
+
+22–25, Fake check scam
+
+
+26–28, Autobilling
+
+
+29–31, Suspended for bogus reason after 5 good years on Care.com
+
+
+
+https://www.scribd.com/document/381503967/Texas-AG-Care-com-Complaints
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 31/33
+
+
+32–33, Supervisor never followed up despite promising to do so
+
+
+34–35, “I would like for them to cancel my subscription and stop billing my credit
+
+
+card but believe they have purposely set up their website to prevent customers
+
+
+from doing it.” Canceled multiple times but still billed, Autobilling ($83.27)
+
+
+New Mexico (21 Pages of Records)
+
+
+1–2, Fake check scam
+
+
+3–4, Different type of fake check scam
+
+
+5–6, Daughter almost fell for fake check scam
+
+
+7–8, Fake check scam
+
+
+9–11, Fake check scam
+
+
+12–15, Fake check scam
+
+
+16–21, Likely fake check scam
+
+
+North Carolina — — — Five separate complaints (45 pages total)
+
+
+Reynolds (21 pages)
+
+
+1–21, Incorrect background check by Sterling Infosystems led to wrongful termination
+
+
+by Care.com (includes Care.com response)
+
+
+Littlejohn (6 pages)
+
+
+1–6, Fake check scam
+
+
+McConatha (5 Pages)
+
+
+1–5, Fake check scam
+
+
+Williams (4 Pages)
+
+
+1–4, Fake check scam (lost $2,865)
+
+
+
+https://www.scribd.com/document/381503865/New-Mexico-AG-Care-com-Complaints
+
+https://www.scribd.com/document/381503303/North-Carolina-AG-Complaint-2
+
+https://www.scribd.com/document/381503264/North-Carolina-AG-Complaint-1
+
+https://www.scribd.com/document/381503339/North-Carolina-AG-Care-com-Complaint-3
+
+https://www.scribd.com/document/381503384/North-Carolina-AG-Care-com-complaint-4
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 32/33
+
+
+Curtis (9 Pages)
+
+
+Autobilling, tried to cancel multiple times, but still billed ($245)
+
+
+Care.com gave response letter: Refunded the money, said she opened two accounts
+
+
+and it was confusing which one she canceled… ultimately refunded all the money
+
+
+requested**
+
+
+Michigan — -2 Separate complaints
+
+
+One made in 2015 (36 pages)
+
+
+1–36, Fraudulent billing/autobilling, Care.com responds with letter: No refund
+
+
+except for last month
+
+
+One made in 2013 (10 pages)
+
+
+1–10, Fake check scam
+
+
+Kansas (8 pages)
+
+
+1–3, Physical letter response from Kansas to me
+
+
+4–8, fake check scam (with copy of fake check)
+
+
+Washington AG Part 1 (207 Pages of Records — poorly organized)
+
+
+1–2, Introduction
+
+
+5, keep billing without authorization even after canceling
+
+
+12, Care.com email response to AG
+
+
+31–33, evidence of overbilling
+
+
+34–37, Care.com response (no refund)
+
+
+61, Identity theft/information sold, never signed up for Care.com
+
+
+84–85, Care.com response
+
+
+
+https://www.scribd.com/document/381503843/North-Carolin-AG-Care-com-Complaint-5
+
+https://www.scribd.com/document/381503764/Michigan-AG-Care-com-Complaint-2015
+
+https://www.scribd.com/document/381503805/Michigan-AG-Care-com-Complaint-2013
+
+https://www.scribd.com/document/381503724/Kansas-AG-Care-com-Complaints
+
+https://www.scribd.com/document/381503475/Washington-AG-Care-com-Complaints-Part-1
+10/30/2019 Care.com: Multiple Deaths and Child Abuses, Fraudulent Billing, and a Harvey Weinstein Babysitter
+
+
+https://medium.com/@erdorsey2/care-com-multiple-deaths-and-child-abuses-fraudulent-billing-and-a-harvey-weinstein-babysitter-7468edb54ea0 33/33
+
+
+102, Autobilling ($1,560) — wants $1,500 refund
+
+
+140–142, Care.com response (full refund?)
+
+
+146, 3 years of autobilling
+
+
+166–169, Care.com response ($741 refund)
+
+
+188, Fake check scam
+
+
+202–203, Care.com response
+
+
+207, Fake check scam
+
+
+Washington AG Part 2 (106 Pages of Records — poorly organized)
+
+
+26, Care.com billed even after cancelling account (total of $1238.30)
+
+
+48–50, Care.com response (refund $1,153.98)
+
+
+53, Denied listing on care.com
+
+
+58–59, Fake check scam
+
+
+64, Fake check scam (lost $2,000)
+
+
+88–89, Care.com response, disowns responsibility
+
+
+Fraud Stock Market Babysitting Scandal
+
+
+About Help Legal
+
+
+
+https://www.scribd.com/document/381503633/Washington-AG-Care-com-Complaints-Part-2
+
+https://medium.com/tag/fraud
+
+https://medium.com/tag/stock-market
+
+https://medium.com/tag/babysitting
+
+https://medium.com/tag/scandal
+
+https://medium.com/?source=post_page-----7468edb54ea0----------------------
+
+https://medium.com/about?autoplay=1&source=post_page-----7468edb54ea0----------------------
+
+https://help.medium.com/?source=post_page-----7468edb54ea0----------------------
+
+https://medium.com/policy/9db0094a1e0f?source=post_page-----7468edb54ea0----------------------

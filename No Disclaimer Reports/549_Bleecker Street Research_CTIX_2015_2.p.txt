@@ -1,320 +1,208 @@
-Muddy Waters Capital LLC 
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 1/18
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+Cellceutix: Why An Uplisting Is Not Possible Right Now
+Feb. 6, 2015 2:26 PM ET59 comments
+by: Bleecker Street Research
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+Summary
 
 
-Page 1 of 6
-August 29, 2016 
- 
+Cellceutix has been saying it will uplist to a major exchange for almost two years.
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+The company does not meet the Corporate Governance requirements to uplist.
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+CTIX admits in its 10-K that it will be "extremely difficult" for it to do the things
+required for an uplisting.
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
+Cellceutix (CTIX) has been talking about an uplisting for a long time.
 
 
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
+In March 2013, CEO Leo Ehrlich said in an interview with SA Contributor KarinCA that he
+had met with the NYSE earlier that month (March 2013).
 
 
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+Q: Now that CTIX trades actively and is close to, or meeting requirements to move
+to a higher exchange, are there any intentions to uplist to the Nasdaq or NYSE
+MKT?
+
+
+A: We are very focused on what we are working to accomplish in the near term with
+the development of Kevetrin and Prurisol, but moving to a senior exchange is
+definitely part of our overall plan to maximize exposure and shareholder value.
+Making some preliminary plans, I had a meeting with the NYSE earlier this month to
+discuss the process and was pleasantly surprised that they knew who we were
+already. As I'm sure you can tell, we don't let the moss grow under our feet at
+Cellceutix. We are always planning for the future, but we still recognize that there is
+work to be done in the here and now. As we meet our milestones, we will move
+forward. I am confident of that.
+
+
+In September 2013, Cellceutix announced that it had acquired the assets from a bankrupt
+PolyMedix. Mr. Ehrlich also said that Cellceutix would uplist to a major exchange "in the
+near future."
 
 
 
+https://seekingalpha.com/article/1273221-an-interview-with-leo-ehrlich-cellceutix-ceo
+
+http://cellceutix.com/cellceutix-acquires-polymedix-assets-from-bankruptcy-court-gains-ownership-of-two-clinical-stage-drugs-multiple-compounds-and-equipment-assets/#sthash.IPqof3kT.dpbs
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 2/18
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+As such, we have shifted our development strategy with our anti-psoriasis drug,
+Prurisol, to forego the planned Proof-of-Concept trial overseas and have already
+begun preparing the regulatory paperwork for the Food and Drug Administration to
+initiate a larger-scale, Phase 2/3 multi-center trial. The adjustment will save us
+hundreds of thousands of dollars and months of time that will now be better served
+to position us to potentially have up to five clinical trials ongoing in 2014. This
+acquisition dovetails very nicely in our goals to continue to build shareholder
+value and uplist to a senior exchange in the near future."
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+In September 2014, Cellceutix announced that it was appointing Dr. Barry Schechter to
+the Board of Directors and that the company was focused on an uplisting.
 
 
- 
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+Cellceutix is focused on meeting the remaining requirements necessary to uplist to a
+senior exchange. The Company believes that being listed on the New York Stock
+Exchange or NASDAQ will serve many valuable functions, including allowing large
+funds and institutions to invest who are otherwise not allowed to invest in OTC-listed
+companies, increased stock liquidity, and validating market potential for Cellceutix's
+extensive pipeline. Cellceutix plans to call for a shareholder meeting to elect
+additional independent directors for serving on its board and audit committee in the
+coming weeks. - See more
 
 
- 
-Credibility Assessment: St. Jude Medical (STJ) 
+And then again, in January 2015 Cellceutix announced that it was in plans to start a
+clinical trial in patients with Ulcerative Proctitis. Mr. Ehrlich also said that it was meeting
+with its legal counsel that day to discuss the company's application to the NASDAQ.
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+Cellceutix is also pleased to inform shareholders that due to recently reported
+positive events, the Company is actively moving forward with its intentions to uplist
+to the NASDAQ exchange and is meeting today with its legal counsel, K&L Gates, to
+review the Company's application for a move to the senior exchange.
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
+Two days after this press release, SA Contributor KarinCA published a rebuttal to my
+negative article. I encourage everyone interested in Cellceutix to read that article. In the
+comments of that article, as well as on Cellceutix message boards, investors have taken
+the mention of uplisting as fact. Despite Cellceutix talking about uplisting for almost two
+years now, longs seem to be sure that this is the time. Is it?
 
 
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+
+http://cellceutix.com/cellceutix-appoints-dr-barry-schechter-to-board-of-directors-as-company-focuses-on-meeting-requirements-for-stock-exchange-uplisting/#sthash.d3P7inFL.dpuf
+
+http://cellceutix.com/cellceutix-plans-clinical-trial-in-patients-with-ulcerative-proctitis/#sthash.CkXYj2tg.dpbs
+
+http://ctt.marketwire.com/?release=1171183&id=5289889&type=1&url=http%3a%2f%2fwww.klgates.com%2f
+
+https://seekingalpha.com/article/2859846-cellceutix-undervalued-by-90-plus-percent-expect-a-short-squeeze-soon
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
 
 
- 
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 3/18
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+The facts are that Cellceutix would not be allowed to uplist on any of the NASDAQ
+exchanges as it currently stands. You can view the requirements for NASDAQ uplisting
+here. CTIX meets the financial and liquidity for uplisting to the NASDAQ Capital Market,
+which is the least stringent of the NASDAQ tiers. Here are the Financial and Liquidity
+requirements
 
 
- 
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
- 
+So Cellceutix can uplist on the Equity Standard to the NASDAQ Capital Market based on
+the Financial and Liquidity requirements. Where Cellceutix falls short, however, is in the
+Corporate Governance requirements.
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+
+https://listingcenter.nasdaqomx.com/assets/initialguide.pdf
+
+https://static.seekingalpha.com/uploads/2015/2/1/6818211-14228442809737284-Bleecker-Street-Research_origin.png
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 4/18
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+Does Cellceutix have a Board made up of a majority of independent directors? It does
+not? You can see the definition of what an independent director is here. The definition is:
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+"'Independent director' means a person other than an executive officer or employee
+of the company or any other individual having a relationship which, in the opinion of
+the issuer's board of directors, would interfere with the exercise of independent
+judgment in carrying out the responsibilities of a director."
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+Below are the NASDAQ rules for who isn't considered an independent director.
 
 
-Page 6 of 6
+
+http://media.corporate-ir.net/media_files/irol/87/87823/corpgov/NASDAQ_Marketplace_Rule_4200.pdf
+
+https://static.seekingalpha.com/uploads/2015/2/5/6818211-14231862408106742-Bleecker-Street-Research_origin.png
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 5/18
+
+
+Cellceutix only has three people on its board. Leo Ehrlich, Dr. Krishna Menon, and as of
+October 1, 2014, Dr. Barry Schechter. There is no majority of independent directors on the
+board.
+
+
+Mr. Ehrlich is not independent because he is an executive officer.
+Dr. Menon is not independent because he is also an executive officer.
+It does appear that Dr. Barry Schechter would qualify as an independent director.
+
+
+However, according to Cellceutix's last 10-K, the company does not have any independent
+directors.
+
+
+Since we are not currently subject to corporate governance standards relating to the
+independence of our directors, we choose to define an "independent" director in
+accordance with the NASDAQ Global Market's requirements for independent
+directors (NASDAQ Marketplace Rule 4200). We do not currently have an
+independent director under the above definition. We do not list that definition on our
+Internet website.
+
+
+Cellceutix does not have an Audit Committee, which is a requirement for listing on the
+NASDAQ. The NASDAQ rules for an audit committee are below.
+
+
+The Audit Committee shall consist of three or more Directors, each of whom
+shall be an independent director within the meaning of the rules of the NASDAQ
+Stock Market and Section 10A of the Act. The number of Non-Industry Directors on
+the Audit Committee shall equal or exceed the number of Industry Directors on the
+Audit Committee. The Audit Committee shall include two Public Directors. A Public
+Director shall serve as Chair of the Committee. An Audit Committee member shall
+hold office for a term of one year.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1355250/000147793214005027/ctix_10k.htm
+
+https://static.seekingalpha.com/uploads/2015/2/6/6818211-14232376283877745-Bleecker-Street-Research_origin.png
+5/18/2018 Cellceutix: Why An Uplisting Is Not Possible Right Now - Innovation Pharmaceuticals Inc. (OTCMKTS:IPIX) | Seeking Alpha
+
+
+https://seekingalpha.com/article/2894046-cellceutix-why-an-uplisting-is-not-possible-right-now 6/18
+
+

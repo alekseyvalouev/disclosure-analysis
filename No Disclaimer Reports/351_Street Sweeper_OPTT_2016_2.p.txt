@@ -1,320 +1,282 @@
-Muddy Waters Capital LLC 
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 1/9
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+Ocean Power Technologies: Destined To Wipe Out?
+Sep. 30, 2016 3:11 PM ET17 comments
+by: The Street Sweeper
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+Summary
 
 
-Page 1 of 6
-August 29, 2016 
- 
+Expected approval in November of a lawsuit settlement will likely release stock that
+may dilute current shareholders.
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+The lawsuit alleges misleading statements by OPTT and systemic problems with its
+technology.
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+The SEC is investigating OPTT, including "public disclosure" issues.
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
+Revenues are always very low; losses are always very high. In FY 2016, revenues
+didn't reach $1 million but losses exceeded $13 million.
 
 
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
+Cash burn is ~$1 million monthly. The company depends on equity and debt
+financing. OPTT is the industry's worst in many metrics.
 
 
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+Ocean Power Technologies (NASDAQ:OPTT) has been riding a wave of momentum
+trading activity. Since mid-July, it's been a lot of fun. But TheStreetSweeper has spotted
+ferocious waves swelling up on the horizon, and we believe OPTT is careening toward a
+wipe out.
+
+
+OPTT began operating two decades ago and still hasn't figured out how to commercialize
+its system of generating electricity from ocean waves. On the surface, OPTT's virtually
+non-existent revenues appear to depend upon the government.
+
+
+Really though, stock offerings and debt have kept the company afloat. It closed two stock
+deals last quarter but is left with no committed sources of equity or debt financing right
+now.
+
+
+Meanwhile, OPTT has figured out how to attract a Securities and Exchange Commission
+investigation, and become the subject of a class action lawsuit poised with potential stock
+dilution for loyal stockholders.
+
+
+The stock is flying right now, partially because the market doesn't understand the
+insignificance of the September 13 announcement. The company hopes to develop a
+power buoy with the U.S. Office of Naval Research. The initial phase won't be complete
 
 
 
+https://seekingalpha.com/symbol/OPTT
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916038574/optt20160904_10q.htm
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 2/9
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+until early June 2017. And OPTT is only getting ~$250,000 for that phase and may receive
+up to another $500,000 more if it's completed and Naval Research finds the funding... a
+whole lot of ifs.
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+Let's look at nine factors TheStreetSweeper believes will dunk this stock.
 
 
- 
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+*1. Money Flies Out The Door Month After Month, Year After Year
 
 
- 
-Credibility Assessment: St. Jude Medical (STJ) 
+In the most recent quarter, OPTT made just $200,000. And it took ~15 times that to
+operate the business - a whopping $2.9 million.
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+(Source: Company SEC filing, TheStreetSweeper)
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
+In the entire fiscal year of 2016, the company's revenue didn't even reach $1 million, but
+losses hit the $13 million mark...
 
 
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+(Source: Company SEC filing, TheStreetSweeper)
 
 
- 
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+The financials are so awful that auditors say it's highly doubtful the company can even
+continue to operate. OPTT just stuffed its piggy bank with $3.6 million raised from a stock
+offering in July, increasing the total cash to $9 million.
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+But the company has been making nearly $1 million hits on the piggy bank each month,
+bringing the cash to about $7 million. That won't last long...
 
 
- 
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
- 
+*2. Investors On The Line
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+OPTT warns that it can't seem to stop burning up money and shareholders' investment
+ultimately may be lost:
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+
+http://finance.yahoo.com/news/ocean-power-technologies-announces-contract-131800593.html
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916038574/optt20160904_10q.htm
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916035299/optt20160430_10k.htm
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916038574/optt20160904_10q.htm
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 3/9
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+"If we are not successful in our efforts to raise additional capital sufficient to support
+our operations," the company's latest 10-Q warns, "we would be forced to cease
+operations, in which event investors would lose their entire investment in our
+company."
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+In fact, the potential for diluting OPTT stock once again could happen as soon as
+November...
 
 
-Page 6 of 6
+*3. Tragedy, Lawsuit, Dilution Overhanging
+
+
+The stock dilution threat is just around the corner, depending on a federal judge's approval
+of settlement terms of a consolidated lawsuit aimed at OPTT.
+
+
+The company has been sued by a class of investors who bought the stock around the time
+of the April 4, 2014 secondary offering at $3.10 per share. The lawsuit alleges OPTT and
+its CEO issued untrue and misleading statements between January and June 2014.
+
+
+At this point, it looks like OPTT will pay $500,000 and its insurer will pay $2.5 million under
+the settlement. Here's the potential dilution kicker: OPTT will also hand over 380,000
+shares under the current terms. That's about 12% of the 3.15 million shares outstanding.
+
+
+The court has scheduled a November 14, 2016 hearing to consider approving the
+settlement terms of the lawsuit.
+
+
+During the hearing, one confidential witness called the OPTT business a "Greek tragedy."
+The witness added that "it doesn't take a rocket scientist to figure out that (former CEO)
+Chuck Dunleavy and George (Taylor, Ocean Power co-founder) were just manipulating
+things."
+
+
+*4. Witnesses: Fundamental Problems Plague Technology
+
+
+Another witness testified that the company deployed a PowerBuoy in the sea off
+Scotland's northern coast at a cost of about $15 million. The device operated one to two
+days. The buoy remained in the ocean, according to testimony, on fears that removing it
+right away would damage OPTT's reputation.
+
+
+And a former engineering director testified that the technology has systemic problems.
+The amount of energy OPTT claimed it could produce at quoted prices was "impossible,"
+said the engineer.
+
+
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916035299/optt20160430_10k.htm
+
+http://securities.stanford.edu/filings-documents/1052/OPTI00_02/2015109_r01c_14CV03799.pdf
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 4/9
+
+
+One witness said a flawed hydraulic power system kept the Scotland buoy from producing
+even enough electricity to sustain its own operation, let alone enough for applications.
+
+
+Another said that, while everyone thought the buoy had been operational for four months,
+it actually took that long to get the buoy positioned in the sea. The witness said the buoy
+worked properly for about two hours over about two weeks of operation and produced no
+power.
+
+
+Testimony also indicated that the much-touted Lockheed Martin (NYSE:LMT) involvement
+with the Wave Project actually resulted in free help from Lockheed - but no investment.
+
+
+The $232 million project was called the world's biggest wave energy project and OPTT
+expected to receive around $65 million from Australia. Deemed commercially unviable, the
+project is now dead in the water... just like the terminated Oregon project.
+
+
+The ugly lawsuit allegations apparently made their way to the SEC...
+
+
+*5. The Securities and Exchange Commission Investigates OPTT
+
+
+The SEC is deep into an investigation that was recently expanded with the issuance of a
+second subpoena on July 12, 2016. This subpoena also revolves around Ocean Power's
+2014 public stock offering.
+
+
+The commission opened the investigation early last year with a subpoena related to
+"public disclosures" involving the company's now-defunct demonstration project.
+
+
+The lawsuits and regulatory investigation add yet another layer of expense, management
+distraction and uncertainty. But something is certain. Insiders are busy...
+
+
+*6. Insiders Yell "Sell!"
+
+
+Insiders have stayed busy unloading shares of their company. No insiders have bought
+stock since mid-2015 and the sellers over the past year have been big name folks.
+George Kirby is the CEO. He has sold 55,000 shares... at just ~$1.57 each.
+
+
+Mark Featherstone should know a thing or two about OPTT's financial condition and future
+because he's the principal accounting officer. He has dumped more than 4,100 shares this
+year, some for an average of $7.29 and others for $1.54.
+
+
+
+http://www.lockheedmartin.com/us/news/press-releases/2012/july/ocean-power-technologies-and-lockheed-martin-to-develop-wave-ene.html
+
+https://seekingalpha.com/symbol/LMT
+
+http://www.prnewswire.com/news-releases/ocean-power-technologies-and-lockheed-martin-to-develop-wave-energy-project-in-australia-162068815.html
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774914012729/optt20140711_8k.htm
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774914005630/optt20140331_8k.htm
+
+https://www.sec.gov/Archives/edgar/data/1378140/000143774916035299/optt20160430_10k.htm
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 5/9
+
+
+(Source: Insidertrading.org)
+
+
+At these high prices, it wouldn't be shocking to see even more insider selling very soon. If
+insiders have lost confidence in their company's future, why should other investors feel
+otherwise?
+
+
+*7. Industry's Worst Performer
+
+
+In metric after metric, OPTT is the industry's very worst performer:
+
+
+
+http://insidertrading.org/?sort_by=acceptance_datetime&asc=&symbol=optt&date_from=2015-09-28&date_to=2016-09-28&submit=+GO+
+
+https://static.seekingalpha.com/uploads/2016/9/30/saupload_Optt_20INSIDERS_20sell.png
+
+https://static.seekingalpha.com/uploads/2016/9/30/saupload_OPTT_20metric1.png
+
+https://static.seekingalpha.com/uploads/2016/9/30/saupload_OPTT_20metric2.png
+5/22/2018 Ocean Power Technologies: Destined To Wipe Out? - Ocean Power Technologies, Inc. (NASDAQ:OPTT) | Seeking Alpha
+
+
+https://seekingalpha.com/article/4009479-ocean-power-technologies-destined-wipe 6/9
+
+

@@ -1,1540 +1,635 @@
-Page 1 of 4	
-  
-
-
-	
-  
-Muddy	
-  Waters,	
-  LLC	
-  
-
-
-www.muddywatersrsearch.com	
-  
-  info@muddywatersresearch 
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
  
 
 
-Director	
-  of	
-  Research:	
-  	
-  Carson	
-  C.	
-  Block,	
-  Esq.	
-  
+Page 1                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+ShotSpotter – Court Case Exposes Failures of ShotSpotter 
+Technology 
+
+
+Executive Summary: 
+
+
+The Silvon Simmons case we recently uncovered reveals the many flaws of ShotSpotter (Nasdaq:  
+SSTI) and why we are short the company.  In Silvon Simmons, a police officer shot an allegedly 
+armed black suspect (Simmons) in the back.  The officer & suspect had 2 different accounts of 
+what happened: the officer said the suspect had a gun and fired at the officer before he shot 
+Simmons in the back, while the suspect said he was unarmed and never fired at the officer.  The 
+prosecution hinged their case on a ShotSpotter report saying there were 5 shots fired.  
+Ultimately, the Judge ruled ShotSpotter data inadmissible, labeling it as “unreliable scientific 
+evidence.” Simmons was acquitted and is now suing ShotSpotter and the police (Case - 6:17-cv-
+06176-MAT). 
+
+
+The ShotSpotter deficiencies that Simmons revealed included unreliable data and results that 
+could be modified after the fact.  In addition, other courts have refused to admit ShotSpotter data 
+because the technology has not “reached general acceptance in the scientific community” (State 
+of California vs Gillard - pg 54 line 27-28), principally because SSTI has not done the work to 
+get their results confirmed by independent analysis.   
+
+
+The Simmons case not only casts doubt on the integrity of the company’s data, but it also sheds 
+further light on fundamental problems with ShotSpotter’s technology.  For example, ShotSpotter 
+initially mistook the gunshots in Simmons for the sound made by helicopter rotors. They failed to 
+spot the shots.  Only when the Police Department informed ShotSpotter that shots had been fired 
+did they generate a report.  That report said 4 shots were fired, so the police department informed 
+SSTI of the officer’s story and requested them to look for more shots.   Then, ShotSpotter 
+employees modified that same forensic report (the “evidence”) again—days after the event—to 
+say 5 shots had been fired.   
+
+
+This case and others have been overlooked by sell-side analysts, who maintain buy ratings and 
+high price targets despite SSTI’s astronomical valuation (9.5x P/Sales). ShotSpotter has also 
+changed company policies to ensure that humans, rather than their software, are reviewing & 
+reporting possible shots fired.  This is perplexing, since the company markets itself as a SaaS 
+business.   
+
+
+Perhaps it is the flaws mentioned above that have led ShotSpotter to have difficulty retaining and 
+growing their city customer base.  Even after giving the product away for free for almost a year, 
+ShotSpotter was unable to convince a customer to become a recurring payer!  Fall River precinct 
+decided against re-upping their contract after free service from SSTI because, according to the 
+police chief, “ShotSpotter had reported too many false alarms of gunfire while missing actual 
+shots-fired incidents in Fall River.”  (Source) 
+  
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.democratandchronicle.com/story/news/2018/01/11/judge-reverses-conviction-man-who-shot-officer/1017531001/
+
+https://www.democratandchronicle.com/story/news/2018/01/11/judge-reverses-conviction-man-who-shot-officer/1017531001/
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+http://www.govtech.com/public-safety/After-Too-Many-Shots-Missed-Fall-River-Mass-Ends-Deal-with-ShotSpotter.html
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 2                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+The Bull Case for ShotSpotter 
+
+
+ShotSpotter is a gunshot detection system.  The company’s marketing materials say that the 
+technology detects at least 90% of gunshots fired within their deployment zones (a year ago, that 
+ratio was 80%).  Another part of SSTI’s offering is that they provide detailed forensic reports 
+and expert testimony that are meant to bolster investigation and prosecution.  The overall 
+viewpoint of customers is that it works—it’s just a question of how useful it is.  Some police 
+chiefs love it (Baltimore) and others find that resources can best be deployed elsewhere (San 
+Antonio Police Commentary).  District attorneys we have spoken to are especially fond of the 
+technology, since it enables them to play the sounds of live bullet fire inside the court room.  
+They say it is a powerful tool for swaying the emotions of jurors.   
+
+
+The bull case on ShotSpotter is predicated on the company expanding its areas of coverage 
+within existing cities, which ShotSpotter have done well so far, and on more cities signing up for 
+ShotSpotter, which they have struggled to execute.  There are also long-shot hopes of a big data 
+play & federal government contracts, which have failed to materialize and which the company 
+now downplays (source).  Bullish investors believe that the company will finally earn an 
+operating profit and generate positive FCF, something they have failed to do for over 20 years.  
+Since their revenues are recurring in nature (although most are 1-year contracts), ShotSpotter has 
+also gotten a SaaS company valuation multiple (9.5x sales) from Wall Street, despite the fact that 
+humans are actually doing the analysis, not software.  
+
+
+Enter the Silvon Simmons Case 
+
+
+The cases of NY State v. Silvon Simmons and the follow-on lawsuit Silvon Simmons v. Ferrigno, 
+City of Rochester, and ShotSpotter, et al (Case - 6:17-cv-06176-MAT) are an important 
+challenge to the prevailing ShotSpotter investment thesis.  Not only do these cases question the 
+validity of the technology’s results, but they also allege that ShotSpotter changed its report 
+(“evidence”) multiple times to comply with requests from local police.  Furthermore, as part of 
+these proceedings, the NY judge ruled that ShotSpotter data “was not reliable enough” to be the 
+sole physical evidence in the gun possession charge against Simmons. 
+
+
+Legal cases are essential to analyzing ShotSpotter’s effectiveness because the company avoids 
+allowing media or investors to analyze actual data. It does this by blocking Freedom of 
+Information Act Requests and avoiding subpoenas (pg 10 paragraph 44).  Thus, court documents 
+and testimony provide a rare glimpse into ShotSpotter’s trade secrets & process.   
+
+
+Was it 4 or 5 shots fired? A Man’s Life Hung in the Balance 
+
+
+Silvon Simmons is ultimately a dispute over 1 bullet.  If there were only 4 shots fired, then 
+Simmons’ story was true:  he was a defenseless black man shot in the back by a cop who has 
+received over 20 citizen complaints, many for use of excessive force (Pg 38 - Paragraph 264).  
+However, if there were 5 shots fired, then the cop’s story was correct: he shot a fleeing suspect in 
+self-defense after Silvon had fired first.     
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-shotspotter-20180601-story.html
+
+https://www.expressnews.com/news/local/article/San-Antonio-police-cut-pricey-gunshot-detection-11824797.php
+
+https://www.expressnews.com/news/local/article/San-Antonio-police-cut-pricey-gunshot-detection-11824797.php
+
+https://www.forbes.com/sites/mattdrange/2016/11/17/shotspotter-struggles-to-prove-impact-as-silicon-valley-answer-to-gun-violence/#2b6607f431cb
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+
+https://www.democratandchronicle.com/story/news/2018/01/11/judge-reverses-conviction-man-who-shot-officer/1017531001/
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 3                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+Simmons was ultimately acquitted of attempted aggravated murder against a police officer.  He 
+is now suing ShotSpotter, the police officers involved, and the City of Rochester for, among 
+other things, “fabricating and falsifying evidence.” (pg 30 2018-Q3-10Q)   
+
+
+Forensic evidence that supports Silvon’s story. 
+
+
+• DNA evidence: Simmons purportedly used a pistol, found at the scene, to fire at the 
+police officer. DNA evidence on the gun did not match Simmons’ DNA.   
+
+
+• Mechanical evidence: The gun’s magazine was found empty, but the gun was not in a 
+cocked-back position, as it should have been after firing the last round in the magazine. 
+Thus, it is unlikely the pistol was fired. 
+
+
+• Gunpowder residue request denial: Simmons asked that his clothes and hands be tested 
+for gunpowder residue, both verbally in the ambulance at the scene and again in writing 
+while he was in the hospital under police custody.  His requests were denied, and his 
+clothes disappeared, so neither the clothes nor his hands were tested to see if he had fired 
+a weapon. 
+
+
+Forensic evidence substantiating the officer’s story of a 5th shot: 
+
+
+• ShotSpotter: as far as we are aware, the only forensic evidence that supported a 5th shot 
+was ShotSpotter’s modified forensic report saying there were 5 shots fired. 
+
+
+The reliability of ShotSpotter evidence comes into question because, according to the testimony 
+of ShotSpotter paid expert Paul Greene and the forensic report itself, the analysis was actually 
+changed multiple times after communicating with the local police force (ShotSpotter’s 
+customer).   
+
+
+That’s right!  ShotSpotter “forensic evidence” was altered twice. 
+
+
+ShotSpotter Change #1 – The ShotSpotter system did not catch the shots fired in real time.  The 
+critical gunshots from this case were originally mistaken for sounds from a helicopter.  As a 
+result, ShotSpotter only discovered the shots when Rochester PD contacted ShotSpotter and gave 
+them a specific time & location of the weapon discharges.  ShotSpotter’s system failed to do its 
+one core job – detect gunshots. 
+
+
+Below is Paul Greene’s own testimony from the case (Paul Greene’s LinkedIn). 
+
+
+
+
+
+Source - Simmons vs ShotSpotter Inc, etc. 6:17-cv-06176-MAT (Link) 
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.sec.gov/Archives/edgar/data/1351636/000156459018029370/ssti-10q_20180930.htm
+
+https://www.linkedin.com/in/paul-greene-07a1317/
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 4                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+ShotSpotter Change #2 – ShotSpotter then reported that the Simmons incident involved 3 to 4 
+shots fired.  However, after being contacted by the Rochester PD, who asked the ShotSpotter 
+team to look for a 5th shot, ShotSpotter changed the report.  The final report matched the police 
+officer’s testimony. 
+
+
+
+
+
+Source - Simmons vs ShotSpotter Inc, etc. 6:17-cv-06176-MAT (Link) 
+
+
+Below is evidence from the Simmons case, never before seen by Wall Street, which shows 
+multiple changes to ShotSpotter’s own forensic report.  These adjustments to the evidence 
+occurred in the days after the shooting. 
+
+
+Misclassification as Helicopter Noise & Reclassification as 3 Shots, Then 4 Shots 
+
+
+
+
+
+
+
+
  
 
 
 
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 5                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+Change From 4 Shots to 5 Shots After Police Instruction 
+
+
+
+
+
+Source: People of NY vs Silvon Simmons - Motion in Limine Indict No 16/404 pg 20, 26 (link) 
+
+
+This begs the question: what other ShotSpotter forensic evidence can be changed upon request? 
+
+
+ShotSpotter Data can be Edited! 
+
+
+From further testimony by Paul Greene, the expert witness for ShotSpotter, investors learn that 
+subscribers (police stations) and ShotSpotter are actually able to edit the audio data.  
+
+
+
+
+
+
+
+
+Simmons vs ShotSpotter Inc, etc. 6:17-cv-06176-MAT (Link) 
+
+
+If ShotSpotter data can be altered by multiple parties, how trustworthy is it?  
+
+
+ShotSpotter’s Accuracy Claim was Invented by the Marketing Department: 
+
+
+In a 2017 attempted murder trial in San Francisco, Paul Greene testified that ShotSpotter’s claim 
+of 80% accuracy was invented by the marketing department. 
+
+
+“Our guarantee was put together by our sales and marketing department, not our 
+engineers,” Greene said.  “We need to give them [customers] a number,” Greene 
+continued. “We have to tell them something. … It’s not perfect.” (source) 
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+https://www.scribd.com/document/390597312/Simmons-v-SSTI-Amended-Complaint-27-8-18-Case-6-17-Cv-06176-MAT?secret_password=rxkMIoNwy4r8swnib2ge
+
+http://www.sfexaminer.com/courtroom-testimony-reveals-accuracy-sf-gunshot-sensors-marketing-ploy/
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 6                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+Is Precedent Being Set That Could Keep ShotSpotter Data & Testimony out 
+of the Courts in 2 of Their Largest Markets? 
+
+
+In Silvon Simmons, the NY judge ultimately ruled that the ShotSpotter data “was not reliable 
+enough” to be the sole physical evidence in the case. 
+
+
+In another case in California, State of California v. Todd Gillard, California Judge John Kennedy 
+ruled ShotSpotter’s location data and Paul Greene’s testimony inadmissible because ShotSpotter 
+has “not…reached general acceptance in the relevant scientific community”. (pg 54 ln 20-28 – 
+State of California vs Gillard case No 05-164004-0).  Despite Judge Kennedy’s ruling, which 
+stipulated that ShotSpotter needed to have objective studies conducted and reviewed to meet the 
+general acceptance requirements of the Kelly-Frye Rule, SSTI has failed to initiate such studies.  
+(pg 54 ln 1-19) 
+
+
+In fact, ShotSpotter has done exactly the opposite as far as transparency is concerned.  They have 
+coached cities on how to block Freedom of Information Act requests (Memo to SSTI Customers, 
+Birmingham, AL denials) and have even avoided supplying data in response to subpoenas (pg 10 
+paragraph 44).  Allowing the release of data would enable courts—and investors—to verify how 
+accurate ShotSpotter’s technology really is. 
+
+
+If you are a defense attorney looking to keep ShotSpotter data out of your courtroom, you now 
+have some powerful admissions from Paul Greene at your disposal: 
+
+
+• ShotSpotter & customers (Police Departments) can edit the raw audio data. 
+• ShotSpotter’s accuracy “guarantee” was created by their marketing department. 
+• The company will review & possibly change forensic reports after requests from police 
+
+
+departments. 
+
+
+Why Does This Matter for ShotSpotter’s Stock? 
+
+
+To roll out ShotSpotter in new cities, SSTI needs both city governments and the public to be on 
+board.  The service is a large cost for police departments’ stretched budgets, so it needs to be 
+both accurate and a net benefit for the community.   
+
+
+What the Simmons cases highlight is: 
+
+
+• ShotSpotter’s data is inaccurate – ShotSpotter missed shots fired right off the bat and then 
+changed the analysis after the fact. 
+
+
+• ShotSpotter evidence is not reliable enough for some courts in California & New York – 
+this makes it harder for other district attorneys to use the company’s forensic findings and 
+expert witnesses in the future. 
+
+
+• ShotSpotter’s flaws create reason for community activists to fight ShotSpotter 
+deployments in their cities, since police & SSTI can potentially change data, leading to 
+wrongful convictions.  
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.democratandchronicle.com/story/news/2018/01/11/judge-reverses-conviction-man-who-shot-officer/1017531001/
+
+https://www.democratandchronicle.com/story/news/2018/01/11/judge-reverses-conviction-man-who-shot-officer/1017531001/
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+http://rochester.indymedia.org/sites/default/files/shotspotter%20in%20limine%20FINAL.pdf
+
+https://www.documentcloud.org/documents/3221020-ShotSpotter-nationwide-memo-July-2015.html#document/p1
+
+http://www.wbrc.com/story/36361548/on-your-side-investigation-how-effective-is-shotspotter-in-birmingham/
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 7                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+City Expansion has Stalled out for SSTI – 2.4% Organic City Growth: 
+
+
+The sales effort to get new cities on board is falling short. SSTI’s bull case is predicated on more 
+cities signing up for ShotSpotter’s service; however, the number of sales to new customers 
+(cities) has slowed to a crawl.  The company has added only 5 net new cities in over 2 years, 
+which amounts to 2.4% annual organic city growth. 
+
+
+City count in July 2016 was 90, with 4 out of the 10 largest cities in the US (link).  City count as 
+of Q3 2018 was 95, with only 3 out of the 10 largest US cities.  Recent news reports published 
+since show ShotSpotter has also added Toronto, Canada; and a pilot in Columbus, Ohio. 
+Accordingly, we think they will report a Q4 2018 city count of 97.  
+
+
+Issues brought to light by former customers compound the problems already mentioned to make 
+SSTI’s sales effort challenging.  Some recent anecdotes from canceled customers: 
+
+
+• Fall River, MA says ShotSpotter technology worked less than 50% of the time (source).  
+Fall River Police Chief Al Dupree specifically cited that ShotSpotter missed detecting all 
+7 shots from a homicide in that city. Fall River was receiving ShotSpotter for free but did 
+not renew their service.  
+
+
+• San Antonio, TX canceled service, saying that in 15 months, officers made only 4 arrests 
+and confiscated 7 weapons that can be attributed to ShotSpotter.  The technology cost the 
+city $136,500 per arrest.  (source) 
+
+
+Another large risk comes from ShotSpotter having a majority of their customers on 1-year 
+contract terms (pg 17 – 2018 Q2-10Q).  Thus, if dissatisfaction becomes widespread, the 
+company could quickly see the number of cities and miles of coverage decline.   
+
+
+Disclosure Changes – More Humans, Less Software  
+
+
+SSTI markets themselves to Wall Street as a SaaS (Software as a Service) Company.  This has 
+resulted in the company’s receiving a lofty valuation of 9.5x Sales.  However, in Q2 2018, SSTI 
+added an additional step to its description of the Incident Review Center’s (IRC’s) reporting 
+process that reinforces how their approach is, in reality, a very human-based process.  
+
+
+• Q1 2018: …. If there is an interruption or delay in service from our IRC and a gunshot is 
+detected but not reviewed in the allotted time, our software will send an alert directly 
+to our customers. These automatic notifications, without the benefit of review by our 
+IRC, may be more likely to result in customers receiving a false positive alert, which 
+could cause our customers to divert resources unnecessarily. As a result, we could 
+experience a decline in customer satisfaction with our solutions and our reputation and 
+growth prospects could be harmed. (pg 30 – 2018 Q1-10Q) 
+
+
+• Q2 2018: … If there is an interruption or delay in service from our IRC and a gunshot is 
+detected but not reviewed in the allotted time, our software will queue the incident for 
+off line review. This may result in delayed notifications to our customers and as a 
+result, we could experience a decline in customer satisfaction with our solutions and our 
+reputation and growth prospects could be harmed. (pg 32 – 2018 Q2-10Q) 
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+http://www.shotspotter.com/system/content-uploads/ShotSpotter_FAQ_July_2016.pdf
+
+https://motherboard.vice.com/en_us/article/7xqk44/toronto-approves-shotspotter-gunshot-detecting-surveillance-tech-danforth-shooting
+
+http://www.govtech.com/public-safety/After-Some-Reluctance-Columbus-Ohio-Is-Rolling-Out-a-Gunshot-Detection-Program.html
+
+http://www.govtech.com/public-safety/After-Too-Many-Shots-Missed-Fall-River-Mass-Ends-Deal-with-ShotSpotter.html
+
+https://www.expressnews.com/news/local/article/San-Antonio-police-cut-pricey-gunshot-detection-11824797.php
+
+https://www.sec.gov/Archives/edgar/data/1351636/000156459018020335/ssti-10q_20180630.htm
+
+https://www.sec.gov/Archives/edgar/data/1351636/000156459018012943/ssti-10q_20180331.htm
+
+https://www.sec.gov/Archives/edgar/data/1351636/000156459018020335/ssti-10q_20180630.htm
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 8                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
+
+
+These disclosures suggest ShotSpotter may not trust its “software” not to send false positive 
+alerts.  False positives have long been a major complaint of the company’s customers. After 
+reviewing data from 7 cities, Forbes reported that “police were unable to find evidence of 
+gunshots between 30-70% of the time.” (source)  
+
+
+If the company doesn’t trust its own software to automatically send alerts, then how can public 
+markets give ShotSpotter a software-sized valuation? 
+
+
+Conclusion: 
+
+
+We are short ShotSpotter because: 
+
+
+• The Simmons case alleges unreliable data & reports that can be changed after the fact. 
+• ShotSpotter’s accuracy percentage is a product of their marketing department, not their 
+
+
+data scientists. 
+• ShotSpotter’s technology & testimony has been deemed inadmissible in certain courts in 
+
+
+2 of its major markets (CA & NY). 
+• ShotSpotter has made no known efforts to get independent confirmation of the validity of 
+
+
+their data for court use.  
+• ShotSpotter requires human analysis to prevent false positives that their software 
+
+
+generates. 
+• We believe 9.5x EV/Sales is an unsustainable valuation for this unprofitable company. 
+
+
+The insights into ShotSpotter’s flaws gained from the Simmons case shoot holes right through the 
+Wall Street bull case. 
+ 
+
+
+ 
+
+
+
+https://twitter.com/FuzzyPandaShort
+
+http://www.fuzzypandaresearch.com/terms/
+
+https://www.forbes.com/sites/mattdrange/2016/11/17/shotspotter-alerts-police-to-lots-of-gunfire-but-produces-few-tangible-results/#3fa43e51229e
+Written by Fuzzy Panda Research                                                                                                   November 16, 2018   
+ 
+
+
+Page 9                                                Use of this Report implies accepting Fuzzy Panda Research’s Terms of Service 
 
 
 Terms of Service: 
 
 
-By downloading from, or viewing material on, this website you agree to the following Terms of Service.  You agree that use of Muddy 
-Waters LLC’s research is at your own risk. In no event will you hold Muddy Waters LLC or any affiliated party liable for any direct or indirect 
-trading losses caused by any information on this site. You further agree to do your own research and due diligence before making any 
-investment decision with respect to securities covered herein.  You represent to Muddy Waters that you have sufficient investment 
-sophistication to critically assess the information, analysis and opinion on this site.  You further agree that you will not communicate the 
-contents of this report to any other person unless that person has agreed to be bound by these same terms of service.  If you download or 
-receive the contents of this report as an agent for any other person, you are binding your principal to these same Terms of Service. 
+By downloading from or viewing material on this website & by reading this report, you agree to the following Terms of Service. 
+You agree that use of the research on this website or report is at your own risk. In no event will you hold Fuzzy Panda Research 
+or any affiliated party, including officers, directors, employees and agents of Fuzzy Panda or any companies affiliated with him, 
+liable for any direct or indirect losses caused by any your use of information on this site. You further agree to do your own 
+research and due diligence before making any investment decision with respect to securities covered herein. You represent that 
+you have sufficient investment sophistication to critically assess the information, analysis and opinion on this site. You further 
+agree that you will not communicate the contents of reports and other materials on this site to any other person unless that person 
+has agreed to be bound by these same terms of service. If you download or receive the contents of reports or other materials on 
+this site as an agent for any other person, you are binding your principal to these same Terms of Service. 
+  
+You should assume that as of the publication date of their reports and research, Fuzzy Panda and possibly any companies 
+affiliated with them and their members, partners, employees, consultants, clients and/or investors (the “Fuzzy Panda Affiliates”) 
+have a short position in all stocks (and/or options, swaps, and other derivatives related to the stock) and bonds of companies 
+covered in such reports and research. They therefore stand to realize significant gains in the event that the prices of either equity 
+or debt securities of the subject companies decline.  Fuzzy Panda and the Fuzzy Panda Affiliates intend to continue transactions 
+in the securities of issuers covered on this site for an indefinite period after their first report on a subject company, and they may 
+be long, short, neutral at any time hereafter regardless of initial position and the views stated in Fuzzy Panda’ research.  Fuzzy 
+Panda will not update any report or information on this website to reflect such positions or changes in such positions. 
+  
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Fuzzy Panda offer, sell or buy any security to 
+or from any person through this site or reports on this site. Fuzzy Panda and the Fuzzy Panda Affiliates do not render investment 
+advice to anyone unless they have an investment adviser-client relationship with that person evidenced in writing.  You 
+understand and agree that Fuzzy Panda does not have any investment advisory relationship with you or fiduciary duties to you.  
+Giving investment advice requires knowledge of your financial situation, investment objectives, and risk tolerance, and Fuzzy 
+Panda has no such knowledge about you. 
+  
+If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
+professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
+“FPO”); or (b) high net worth entity falling within Article 49 of the FPO. 
+Fuzzy Panda’s research and reports express their opinions, which are based upon generally available information, field and online 
+research, and inferences and deductions through due diligence and the analytical process. To the best of their ability and belief, 
+all information contained in their reports is accurate and reliable, and has been obtained from public sources believed to be 
+accurate and reliable, and they have not obtained information from persons who are insiders or connected persons of the stock 
+covered or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. However, such information is 
+presented “as is,” without warranty of any kind, whether express or implied.  Fuzzy Panda makes no representation, express or 
+implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from 
+its use. Further, any report on this site contains a very large measure of analysis and opinion. All expressions of opinion and 
+conclusions are subject to change without notice, and Fuzzy Panda does not undertake to update or supplement any reports or any 
+of the information, analysis and opinion contained in them. 
  
-You should assume that as of the publication date of our reports and research, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors and/or their 
-clients and/or investors has a short position in all stocks (and/or options, swaps, and other derivatives related to the stock) and 
-bonds covered herein, and therefore stands to realize significant gains in the event that the price of either declines. We intend to 
-continue transacting in the securities of issuers covered on this site for an indefinite period after our first report, and we may be 
-long, short, or neutral at any time hereafter regardless of our initial recommendation.  
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to or from 
-any person through this site or reports on this site.  Muddy Waters, LLC is not registered as an investment advisor in any jurisdiction.  
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of:  (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "FPO"); or (b) 
-high net worth entity falling within Article 49 of the FPO. 
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences and 
-deductions through our due diligence and analytical process.  To the best of our ability and belief, all information contained herein is 
-accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not insiders or 
-connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. 
-However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy Waters, LLC makes no 
-representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to 
-be obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion.  All expressions of opinion 
-are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement any reports or any of the 
-information, analysis and opinion contained in them. 
- 
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the 
-downloaded file, copies / images / reproductions, or the link to these files) in any manner other than by providing the following link: 
-http://www.muddywatersresearch.com/research/. If you have obtained Muddy Waters research in any manner other than by download from 
-that link, you may not read such research without going to that link and agreeing to the Terms of Service. You further agree that any dispute 
-arising from your use of this report and / or the Muddy Waters Research website or viewing the material hereon shall be governed by the 
-laws of the State of California, without regard to any conflict of law provisions. You knowingly and independently agree to submit to the 
-personal and exclusive jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction 
-or applicable law, given that Muddy Waters, LLC has offices in California. The failure of Muddy Waters, LLC to exercise or enforce any right 
-or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of these Terms of Service is 
-found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the 
-parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Service remain in full force and effect, in 
-particular as to this governing law and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or 
-cause of action arising out of or related to use of this website or the material herein must be filed within one (1) year after such claim or 
-cause of action arose or be forever barred. 
+You agree that the expressions of information in this report are copyrighted and owned by Fuzzy Panda Research, and you 
+therefore agree not to distribute this report or any excerpts from it (whether the downloaded file, copies / images / reproductions, 
+or the link to these files) in any manner other than by providing the following link: www.fuzzypandaresearch.com. If you have 
+obtained Fuzzy Panda’s research in any manner other than by downloading from that link, you may not read such research 
+without going to that link and agreeing to the Terms of Service. You further agree that any dispute between you and Fuzzy Panda 
+and their affiliates arising from or related to the material on their website shall be governed by the laws of the State of California, 
+without regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
+jurisdiction of the state and federal courts located in California and waive your right to any other jurisdiction or applicable law. 
+The failure of Fuzzy Panda to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of 
+this right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, the 
+parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision and 
+rule that the other provisions of these Terms of Service remain in full force and effect, in particular as to this governing law and 
+jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of 
+or related to this report or the material on this website must be filed within one (1) year after such claim or cause of action arose 
+or be forever barred. 
 
 
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as 
-follows.  To be authorized to access such reports, you must agree to these terms, regardless of 
-whether you have downloaded its reports directly from this website or someone else has 
-supplied the report to you without authorization from Muddy Waters.
-Page 2 of 4	
-  
-
-
-Olam International Ltd. 
-Muddy Waters, LLC 
-
-
-February 8, 2013 
  
 
 
-Q2 Results – Still Feeling the Burn 
-	
-  
-Muddy	
-  Waters	
-  retains	
-  our	
-  original	
-  investment	
-  thesis	
-  and	
-  Strong	
-  Sell	
-  rating	
-  on	
-  
-Olam’s	
-  shares.	
-  	
-  Our	
-  analysis	
-  of	
-  Olam’s	
-  Q2	
-  2013	
-  results	
-  follows.	
-  
-	
-  
 
+https://twitter.com/FuzzyPandaShort
 
-• Olam’s	
-  main	
-  problems	
-  worsened	
-  in	
-  Q2.	
-  	
-  Its	
-  free	
-  cash	
-  burn	
-  was	
-  S$169.6	
-  
-million	
-  for	
-  the	
-  quarter,1	
-  and	
-  its	
-  borrowings	
-  increased	
-  5.6%	
-  QOQ	
-  to	
-  S$8,836.4	
-  
-million.	
-  	
-  Olam’s	
-  gross	
-  debt	
-  to	
-  LTM	
-  adjusted	
-  EBITDA	
-  is	
-  now	
-  9.5x,2	
-  compared	
-  
-to	
-  9.3x	
-  at	
-  the	
-  end	
-  of	
-  Q1.	
-  	
-  Olam’s	
-  net	
-  debt	
-  to	
-  LTM	
-  adjusted	
-  EBITDA	
-  is	
-  now	
-  
-8.4x,	
-  compared	
-  to	
-  7.8x	
-  at	
-  the	
-  end	
-  of	
-  Q1.	
-  	
-  These	
-  numbers	
-  are	
-  dangerously	
-  
-high.	
-  
-	
-  
-
-
-• While	
-  Olam	
-  generated	
-  positive	
-  operating	
-  cash	
-  flow	
-  in	
-  Q2	
-  (for	
-  only	
-  the	
-  13th	
-  
-time	
-  in	
-  the	
-  32	
-  quarters	
-  it	
-  has	
-  been	
-  public),	
-  interest	
-  expense	
-  was	
-  69.9%	
-  of	
-  
-OCF.3	
-  	
-  With	
-  Olam’s	
-  bonds	
-  yielding	
-  approximately	
-  7%	
-  to	
-  8%	
-  (which	
-  we	
-  feel	
-  is	
-  
-too	
-  low),	
-  Olam’s	
-  interest	
-  burden	
-  is	
-  not	
-  sustainable.	
-  	
-  	
-  
-
-
-	
-  
-• On	
-  the	
-  positive	
-  side,	
-  Olam	
-  management	
-  stated	
-  that	
-  it	
-  does	
-  not	
-  expect	
-  its	
-  debt	
-  
-
-
-to	
-  increase	
-  in	
-  2H	
-  2013.4	
-  	
-  Hopefully	
-  for	
-  investors,	
-  this	
-  prediction	
-  will	
-  turn	
-  out	
-  
-to	
-  be	
-  more	
-  accurate	
-  than	
-  Mr.	
-  Verghese’s	
-  November	
-  29,	
-  2012	
-  statement	
-  that	
-  
-Olam	
-  would	
-  not	
-  raise	
-  money	
-  through	
-  the	
-  markets	
-  for	
-  at	
-  least	
-  five	
-  months.	
-  	
-  It	
-  
-announced	
-  a	
-  US$750	
-  million	
-  bond	
-  financing	
-  four	
-  days	
-  after	
-  he	
-  spoke.5	
-  
-	
-  
-
-
-• Olam’s	
-  YOY	
-  Q2	
-  sales	
-  increase	
-  of	
-  24.3%	
-  supports	
-  our	
-  conclusion	
-  that	
-  Olam’s	
-  
-core	
-  trading	
-  business	
-  is	
-  faltering.6	
-  	
-  Tonnage	
-  grew	
-  far	
-  faster	
-  than	
-  sales	
-  –	
-  
-71.9%.	
-  	
-  Further,	
-  Olam’s	
-  PAT	
-  excluding	
-  extraordinary	
-  gains	
-  decreased	
-  YOY	
-  
-6.3%.	
-  	
-  Note	
-  that	
-  in	
-  Q2	
-  2013	
-  Olam	
-  had	
-  the	
-  benefit	
-  of	
-  a	
-  full	
-  quarter	
-  of	
-  
-ownership	
-  of	
-  nine	
-  newly	
-  acquired	
-  companies,	
-  which	
-  makes	
-  the	
-  comparison	
-  
-that	
-  much	
-  more	
-  startling.	
-  	
-  	
-  
-
-
-	
-  
-• One	
-  of	
-  the	
-  bright	
-  spots	
-  for	
-  Olam	
-  investors	
-  is	
-  that	
-  the	
-  Company	
-  appears	
-  to	
-  be	
-  
-
-
-trying	
-  to	
-  rein	
-  in	
-  its	
-  CapEx	
-  and	
-  acquisition	
-  spending.	
-  	
-  Some	
-  of	
-  management’s	
-  
-comments	
-  during	
-  the	
-  presentation	
-  indicate	
-  that	
-  it	
-  might	
-  be	
-  heeding	
-  our	
-  calls	
-  
-to	
-  dial	
-  back	
-  spending.	
-  	
-  Olam	
-  appears	
-  to	
-  have	
-  noted	
-  our	
-  criticism	
-  of	
-  the	
-  
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 Including S$25.8 million acquisition of non-controlling interest in the financing section of the cash flow 
-statement. 
-2 We adjust EBITDA to exclude biological gains and gains on sale. 
-3 Calculated as OCF minus taxes, excluding interest income and expense. 
-4 Q2 2013 results presentation ~ 1:03:45. 
-5 See MW’s December 4, 2012 report. 
-6 See our initial report, pp. 22-26.
-Page 3 of 4	
-  
-
-
-announced	
-  acquisition	
-  of	
-  a	
-  sugar	
-  mill	
-  in	
-  Brazil,7	
-  as	
-  it	
-  has	
-  cancelled	
-  the	
-  
-transaction.	
-  	
-  This	
-  is	
-  a	
-  positive	
-  for	
-  investors.	
-  
-	
-  
-
-
-• On	
-  the	
-  other	
-  hand,	
-  Olam’s	
-  acquisition	
-  selection	
-  is	
-  still	
-  questionable	
-  when	
-  
-viewing	
-  its	
-  mid-­‐December	
-  purchase	
-  of	
-  Seda	
-  Solubles.8	
-  	
-  Olam	
-  bought	
-  Seda	
-  out	
-  
-of	
-  receivership	
-  for	
-  approximately	
-  S$65	
-  million.	
-  	
-  The	
-  Seda	
-  transaction	
-  recalls	
-  
-Olam’s	
-  acquisition	
-  of	
-  highly	
-  troubled	
-  SK	
-  Foods,	
-  which	
-  MW	
-  has	
-  strongly	
-  
-criticized.9	
-  	
-  Seda	
-  was	
-  going	
-  to	
-  be	
-  sold	
-  to	
-  the	
-  PE	
-  fund	
-  Magnum	
-  Capital	
-  
-Industrial	
-  Partners	
-  in	
-  July	
-  2011;	
-  however,	
-  Magnum	
-  found	
-  accounting	
-  
-problems	
-  and	
-  did	
-  not	
-  complete	
-  the	
-  transaction.10	
-  	
-  Before	
-  Seda	
-  entered	
-  
-receivership,	
-  the	
-  controlling	
-  family	
-  was	
-  accused	
-  of	
-  diverting	
-  EUR	
-  62	
-  million	
-  
-from	
-  Seda.11	
-  	
-  	
-  
-
-
-	
-  
-• Olam	
-  spent	
-  S$360.0	
-  million	
-  on	
-  investments	
-  in	
-  the	
-  quarter,	
-  which	
-  was	
-  a	
-  
-
-
-worrying	
-  134.8%	
-  increase	
-  from	
-  the	
-  S$153.3	
-  million	
-  Olam	
-  spent	
-  in	
-  Q2	
-  2012.	
-  	
-  
-As	
-  we	
-  noted	
-  in	
-  our	
-  initial	
-  report,	
-  Olam’s	
-  non-­‐specific	
-  CapEx	
-  spending	
-  levels,	
-  
-which	
-  was	
-  $296.2	
-  million	
-  in	
-  Q2	
-  2013,	
-  is	
-  troublesome.12	
-  
-
-
-	
-  
-• We	
-  continue	
-  to	
-  have	
-  concerns	
-  about	
-  the	
-  Gabon	
-  urea	
-  fertilizer	
-  project.	
-  	
-  
-
-
-Management	
-  provided	
-  some	
-  color	
-  on	
-  the	
-  status,	
-  stating	
-  that	
-  it	
-  was	
-  currently	
-  
-experiencing	
-  “cost	
-  overruns”,	
-  which	
-  the	
-  Company	
-  is	
-  trying	
-  to	
-  work	
-  through.	
-  	
-  
-One	
-  issue	
-  is	
-  that	
-  Olam	
-  has	
-  not	
-  even	
-  signed	
-  the	
-  construction	
-  contracts	
-  yet.	
-  	
-  
-The	
-  only	
-  work	
-  that	
-  has	
-  taken	
-  place	
-  is	
-  some	
-  dredging.	
-  	
-  Given	
-  these	
-  facts,	
-  we	
-  
-would	
-  not	
-  characterize	
-  the	
-  budget	
-  issues	
-  as	
-  overruns.	
-  	
-  Rather,	
-  it	
-  seems	
-  to	
-  us	
-  
-that	
-  Olam’s	
-  expectations	
-  of	
-  project	
-  costs	
-  were	
-  unrealistic,	
-  which	
-  was	
-  likely	
-  a	
-  
-result	
-  of	
-  Olam’s	
-  inexperience	
-  in	
-  greenfield	
-  production.	
-  	
-  	
-  
-
-
-	
-  
-Management	
-  addressed	
-  our	
-  question	
-  about	
-  whether	
-  North	
-  American	
-  shale	
-  
-gas	
-  production	
-  eviscerates	
-  much	
-  of	
-  the	
-  rationale	
-  for	
-  the	
-  plant	
-  by	
-  stating	
-  that	
-  
-it	
-  expects	
-  to	
-  sell	
-  to	
-  markets	
-  other	
-  than	
-  North	
-  America.13	
-  	
-  However,	
-  Olam	
-  
-emphasized	
-  the	
-  North	
-  American	
-  market	
-  when	
-  it	
-  announced	
-  the	
-  project	
-  in	
-  
-November	
-  2010.14	
-  	
-  We	
-  interpret	
-  this	
-  redirection	
-  as	
-  additional	
-  evidence	
-  of	
-  
-haphazard	
-  planning.	
-  
-	
-  
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-7 See MW’s initial report on Olam dated November 27, 2012, p. 50. 
-8 http://olamonline.com/olam-international-acquires-soluble-coffee-assets-and-businesses-of-seda-solubles-
-for-us52m 
-9 See the initial report, pp. 64-75. 
-10 http://realdeals.eu.com/article/18815 
-11 http://vozpopuli.com/empresas/3028-los-duenos-de-seda-solubles-desviaron-62-millones-antes-de-
-declararse-insolventes 
-12 See our initial report, pp. 49-52.   
-13 See our initial report, pp. 87-89.   
-14 See Slides 21-22 of http://olamonline.com/wp-content/uploads/2011/12/nov152010-gabon_fertilizer-
-ppt.pdf
-Page 4 of 4	
-  
-
-
-Management	
-  stated	
-  that	
-  production	
-  costs	
-  at	
-  the	
-  facility	
-  once	
-  completed	
-  
-would	
-  be	
-  US$75	
-  per	
-  ton,	
-  which	
-  would	
-  be	
-  the	
-  lowest	
-  in	
-  the	
-  world.	
-  	
-  We	
-  advise	
-  
-investors	
-  to	
-  give	
-  little	
-  credence	
-  to	
-  this	
-  prognostication.	
-  	
-  	
-  
-	
-  
-More	
-  to	
-  the	
-  point,	
-  we	
-  would	
-  applaud	
-  Olam	
-  if	
-  it	
-  walks	
-  away	
-  from	
-  this	
-  project.	
-  	
-  
-The	
-  Company	
-  seems	
-  not	
-  have	
-  a	
-  handle	
-  on	
-  the	
-  costs,	
-  and	
-  certainly	
-  has	
-  missed	
-  
-its	
-  estimate	
-  of	
-  the	
-  timeframe	
-  involved.	
-  	
-  It	
-  is	
-  a	
-  highly	
-  complex	
-  project	
-  that	
-  is	
-  
-well	
-  outside	
-  of	
-  Olam’s	
-  core	
-  expertise.	
-  	
-  As	
-  we	
-  argued	
-  in	
-  our	
-  initial	
-  report,	
-  
-Olam’s	
-  execution	
-  of	
-  far	
-  simpler	
-  projects	
-  is	
-  often	
-  flawed.	
-  	
-  We	
-  view	
-  Olam’s	
-  
-inability	
-  to	
-  accurately	
-  forecast	
-  time	
-  and	
-  cost	
-  as	
-  a	
-  prelude	
-  of	
-  more	
-  problems	
-  
-to	
-  come	
-  if	
-  the	
-  project	
-  proceeds.	
-  
-
-
-	
-  
-• “I	
-  can	
-  give	
-  you	
-  any	
-  IRR	
-  you	
-  want	
-  by	
-  changing	
-  urea	
-  prices	
-  by	
-  $5	
-  or	
-  $10	
-  or	
-  
-
-
-changing	
-  natural	
-  gas	
-  prices	
-  by	
-  a	
-  couple	
-  of	
-  cents	
-  to	
-  the	
-  dollar”	
-  said	
-  Mr.	
-  
-Verghese	
-  at	
-  the	
-  results	
-  presentation	
-  in	
-  reference	
-  to	
-  the	
-  Gabon	
-  fertilizer	
-  
-project.	
-  	
-  This	
-  reality	
-  speaks	
-  to	
-  the	
-  speculative	
-  nature	
-  of	
-  the	
-  project	
-  for	
-  one.	
-  	
-  
-However,	
-  it	
-  emphasizes	
-  a	
-  more	
-  important	
-  truth	
-  about	
-  Olam	
-  –	
-  one	
-  that	
-  we	
-  
-discussed	
-  at	
-  length	
-  in	
-  our	
-  initial	
-  report.	
-  	
-  Olam’s	
-  fair	
-  value	
-  gains	
-  and	
-  Level	
-  
-Three	
-  derivative	
-  valuations	
-  are	
-  the	
-  products	
-  of	
-  models.	
-  	
-  The	
-  aforementioned	
-  
-quotation	
-  is	
-  perhaps	
-  the	
-  best	
-  criticism	
-  one	
-  could	
-  level	
-  at	
-  Olam’s	
-  accounting	
-  
-practices.	
-  
-	
-  
-
-
-• Olam	
-  sold	
-  and	
-  leased	
-  back	
-  4,800	
-  acres	
-  of	
-  land	
-  underneath	
-  its	
-  California	
-  
-almond	
-  orchards,	
-  booking	
-  proceeds	
-  of	
-  approximately	
-  S$68	
-  million	
-  and	
-  an	
-  
-accounting	
-  profit	
-  net	
-  of	
-  taxes	
-  of	
-  S$18.1	
-  million.	
-  15	
-  	
-  The	
-  pre-­‐tax	
-  gain	
-  was	
-  
-S$27.8	
-  million.16	
-  	
-  Olam	
-  touted	
-  this	
-  transaction	
-  as	
-  a	
-  positive	
-  for	
-  investors,	
-  
-showing	
-  how	
-  it	
-  can	
-  monetize	
-  some	
-  of	
-  its	
-  existing	
-  assets.	
-  	
-  Perhaps	
-  
-unsurprisingly,	
-  we	
-  take	
-  a	
-  different	
-  view.	
-  
-
-
-	
-  
-First,	
-  without	
-  the	
-  gain	
-  on	
-  the	
-  sale,	
-  Olam’s	
-  PAT	
-  would	
-  have	
-  decreased	
-  6.3%	
-  
-YOY.	
-  	
-  Second,	
-  because	
-  Olam	
-  realized	
-  an	
-  approximately	
-  70%	
-  gain	
-  on	
-  the	
-  sale,	
-  
-we	
-  assume	
-  that	
-  the	
-  lease	
-  terms	
-  are	
-  fairly	
-  burdensome	
-  to	
-  Olam.	
-  	
-  When	
-  Olam	
-  
-sold	
-  the	
-  land,	
-  it	
-  also	
-  sold	
-  it	
-  with	
-  the	
-  lease.	
-  	
-  If	
-  the	
-  consideration	
-  Olam	
-  received	
-  
-for	
-  the	
-  land	
-  was	
-  so	
-  rich	
-  relative	
-  to	
-  Olam’s	
-  allocation	
-  to	
-  the	
-  land	
-  cost,	
-  then	
-  it	
-  is	
-  
-likely	
-  due	
-  to	
-  Olam’s	
-  tenancy.	
-  	
-  (Another	
-  possibility	
-  is	
-  that	
-  Olam	
-  under-­‐
-allocated	
-  to	
-  land	
-  its	
-  purchase	
-  consideration	
-  for	
-  the	
-  ranches.)	
-  	
-  Regardless,	
-  
-Olam	
-  in	
-  effect	
-  took	
-  what	
-  was	
-  already	
-  a	
-  levered	
-  asset,	
-  and	
-  levered	
-  it	
-  even	
-  
-more.	
-  	
-  One	
-  could	
-  argue	
-  that	
-  this	
-  is	
-  really	
-  a	
-  case	
-  of	
-  expensive	
-  financing,	
-  rather	
-  
-than	
-  financial	
-  innovation.	
-  
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-15 Page 19 of http://olamonline.com/wp-content/uploads/2013/02/H1FY2013FinancialStatements.pdf 
-16 Page 19 of http://olamonline.com/wp-content/uploads/2013/02/H1FY2013FinancialStatements.pdf
+http://www.fuzzypandaresearch.com/terms/

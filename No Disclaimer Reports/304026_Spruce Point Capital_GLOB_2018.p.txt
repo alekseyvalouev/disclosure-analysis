@@ -1,612 +1,2512 @@
-Open Letter to SPRD Chairman re Muddy Waters’ Concerns 
+1
+2
+
+
+Full Legal Disclaimer
+
+
+This research presentation expresses our research opinions.  You should assume that as of the publication date of any presentation, report or letter, Spruce 
+Point Capital Management LLC (possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our subscribers 
+and clients has a short position in all stocks (and are long/short combinations of puts and calls on the stock) covered herein, including without limitation 
+Globant SA (“GLOB”), and therefore stand to realize significant gains in the event that the price of its stock declines. Following publication of any presentation, 
+report or letter, we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless of our 
+initial recommendation.  All expressions of opinion are subject to change without notice, and Spruce Point Capital Management does not undertake to update 
+this report or any information contained herein.  Spruce Point Capital Management, subscribers and/or consultants shall have no obligation to inform any 
+investor or viewer of this report about their historical, current, and future trading activities.
+
+
+This research presentation expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which are 
+based upon publicly available information, and all of which are set out in this research presentation.  Any investment involves substantial risks, including 
+complete loss of capital. Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum possible loss or 
+gain. Any information contained in this report may include forward looking statements, expectations, pro forma analyses, estimates, and projections. You 
+should assume these types of statements, expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for reasons beyond 
+Spruce Point Capital Management LLC’s control. This is not investment or accounting advice nor should it be construed as such. Use of Spruce Point Capital 
+Management LLC’s research is at your own risk. You should do your own research and due diligence, with assistance from professional financial, legal and 
+tax experts, before making any investment decision with respect to securities covered herein. All figures assumed to be in US Dollars, unless specified 
+otherwise.
+
+
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material facts 
+necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and reliable, 
+and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer, 
+or to any other person or entity that was breached by the transmission of information to Spruce Point Capital Management LLC. However, Spruce Point 
+Capital Management LLC recognizes that there may be non-public information in the possession of GLOB or other insiders of GLOB that has not been publicly 
+disclosed by GLOB. Therefore, such information contained herein is presented “as is,” without warranty of any kind – whether express or implied. Spruce Point 
+Capital Management LLC makes no other representations, express or implied, as to the accuracy, timeliness, or completeness of any such information or with 
+regard to the results to be obtained from its use. 
+
+
+This report’s estimated fundamental value only represents a best efforts estimate of the potential fundamental valuation of a specific security, and is not 
+expressed as, or implied as, assessments of the quality of a security, a summary of past performance, or an actionable investment strategy for an investor. 
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in which 
+such offer would be unlawful under the securities laws of such jurisdiction. Spruce Point Capital Management LLC is not registered as an investment advisor, 
+broker/dealer, or accounting firm.
+
+
+All rights reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point 
+Capital Management LLC.
+Executive Summary
+4
+
+
+Spruce Point Is Short Globant (NYSE: GLOB)
+For The Following Reasons:
+
+
+Organic Revenue Growth Is Slowing: Globant has “optically” achieved the fastest top line revenue growth within its peer group posting 
+revenue growth of 27.1%, 27.2%, and 28.1% in 2015, 2016, and 2017, respectively.  This top line growth has led investors to award Globant the 
+highest multiple in its peer group.  Globant's management team consistently touts that its organic exceeds 20%. Management goes out of its 
+way to avoid quantifying the attribution from M&A in discussing its revenue growth. In Globant’s year over year "results of operations" 
+discussion filed in its Form 20Fs, there is not a single mention or attribution to M&A when it discusses the drivers of revenue growth year over 
+year.  Our work uncovers a slowing organic growth profile versus the robust top line growth story that Globant portrays.  In 2017, we estimate 
+that almost half (>47%) of Globant's growth in 2017 was from acquisitions. 
+
+
+Globant SA (NYSE / LUX: GLOB) is a poorly organized roll-up of digital IT outsourcing companies. GLOB receives the highest 
+valuation in its sector by convincing investors it achieves consistent 20% p.a. organic sales growth. However, our forensic analysis 
+
+
+disproves management’s bold claims, and suggests that its growth is in fact rapidly decelerating below target. Once investors
+realize GLOB uses aggressive accounting and financial presentation methods to paper over a cash degenerative business, while 
+
+
+insiders quietly unload millions of dollars in stock, we expect shares to be materially re-rated lower by 40% to 50%.
+
+
+Cash Flow And Adjusted Earnings Metrics Reported By Globant Are Potentially Deceptive:  We warn investors not to rely on Adjusted EBITDA as 
+a cash flow proxy.  Globant’s bulls will point to a growing upward trajectory in Adjusted EPS and EBITDA.  We caution investors to be skeptical, 
+since Globant’s Adjusted EBITDA of $64.6m in 2016 translated into a paltry $7.4m of free cash flow. Globant does not even provide investors 
+regular cash flow statement reporting.  Globant does not appear to generate recurring cash flow from outsourcing technology services.  Rather, it 
+generates cash from trading investment securities. Globant regularly trades securities and its stellar track record has generated a cumulative 
+$68m of cash flow in the period from 2011 to 2016.  In regards to earnings, we have provided an adjusted income statement based on Globant’s 
+core business of outsourcing IT and software solutions.  We arrive at EPS results that are on average 36% lower since 2013 than the Adjusted EPS 
+that Globant reports. Recent 2017 IFRS results declined 15% YoY, and didn’t grow at all based on our normalized Adjusted EPS calculations. 
+
+
+Evidence of Accounting Games:  Globant lacks consistency with adjustments and add-backs, and even tries to convince investors to ignore 
+depreciation and amortization expense when presenting its adjusted results.  We have found instances where the same category of expenses are 
+not treated uniformly in its reconciliation of Adjusted Net Income; Globant makes the adjustment when it is favorable to add back the one-time 
+item and ignores the adjustment when it is unfavorable. There is also a pattern where Globant continuously revises IFRS or adjusted numbers.   
+The 2016 financials have been published three times (4Q16 press release, FY16 20F, and the 4Q17 press release) and we identify changes in each 
+subsequent release. We also found potential evidence of manipulation in quarterly earnings to meet consensus expectations.  Globant’s 4Q16 
+Adjusted EPS was originally reported within its guidance and matched consensus expectations of $0.31   When 4Q17 was reported on 2/15/18, 
+we found that its 4Q16 Adjusted EPS was subsequently revised to $0.27 which would have represented a $0.04 miss versus consensus.
+5
+
+
+Spruce Point Has Established A Short Position 
+In Globant (NYSE: GLOB), Sees 40% - 50% 
+Downside For The Following Reasons
+
+
+Corporate Strategy Initiatives Are Not Showing Signs of Progress:  In 2016, Globant introduced a new company wide model called 50-Squared.  
+The main goal of 50-squared is to focus Globant's team on the top 50 highest potential accounts that have the capacity to grow exponentially 
+over time.  We took a close look at its top 5 clients.  Four of its top clients (excluding its top client, Disney) only grew by an average of 2% in 
+2017.  We don’t see evidence that this strategy is gaining acceptance with its most important clients.   
+
+
+Insiders Selling Is Staggering:  Insiders have sold (or transferred) over 70% (+$80m) of shares since Globant’s IPO in July of 2014.  We think 
+investors may be unaware of the magnitude of selling by Globant’s founders and other insiders.  Globant’s status as a foreign private issuer 
+allows it an exemption from reporting the customary insider disclosure via Form 4s to the SEC.  Globant chooses to file paper forms with the SEC 
+via Form 144s.  Ironically, since the Luxembourg dual listing in August of 2016, Globant now files insider selling transactions electronically with 
+the Luxembourg stock exchange.   We find it peculiar that Globant now files insider selling transactions electronically with the Luxembourg 
+exchange and does not follow that same protocol with the SEC.  Further, the four founders all set up both revocable and irrevocable trusts.   
+All four founders in aggregate transferred over 3.0m shares (~$40m and ~10.4% of total share count) to irrevocable trusts at some point between 
+August 2014 and January 2015.  We believe that this transfer was done quietly with the potential motivation to allow for further insider selling
+
+
+Corporate Governance Should Be Questioned:  Globant has not maintained an independent board since its IPO. Given Globant's status as a 
+foreign private issuer, it is able to adhere to different corporate governance standards.   Globant has chosen home country status of Luxembourg, 
+and must adhere to its corporate laws.  There is no legal requirement under Luxembourg law to have a majority of independent directors.   
+Although, Globant states that its board is "currently" independent.  We analyzed the board independence over the last three years since its IPO.  
+The Board was not independent at the time of its IPO.   Furthermore, in both 2016 and 2017, the majority "independent" status was achieved by 
+a single board member, Francisco Alvarez-Demalde (founder of Riverwood).  Mr. Demalde at the time of its IPO represented Globant’s second 
+largest shareholder (Riverwood).   Although, this former major shareholder may not need a "cooling off" period to be considered independent, 
+we question why Globant would choose to achieve an independent Board in this manner.  Also, its latest addition to the board, Linda 
+Rotternburg (Endeavor), was also a pre and post IPO shareholder.
+
+
+Analysts See 10% Upside, A Terrible Risk/Reward Given Our 40% - 50% Downside Estimate: GLOB is trading at peak valuation on the belief that 
+it can maintain 20%+ organic revenue growth. Management continues to embrace the “organic” growth story while not sharing with investors 
+the underlying contributors to growth that would reveal its slowing profile. GLOB does not lead its peer group in any key metrics that warrant its 
+industry leading valuation (e.g. organic growth, EBITDA margin, FCF conversion, employee retention, or client diversification). Yet, the Street is 
+valuing GLOB at 3.4x, 19.7x and 31.0x 2018E sales, EBITDA, P/E, respectively. Furthermore, analysts ignore obvious accounting and financial 
+presentation issues that would give any prudent investor pause for concern. Once investors realize that GLOB’s organic growth rate is slowing, we 
+believe investors will recalibrate GLOB’s valuation in-line with industry peers. Our simple regression analysis linking valuation to organic growth 
+rate among IT outsourcing peers suggests 40% to 50% downside (approximately $24.50 to $29.50 per share)
+6
+
+
+Globant Connection To WPP And 
+Sir Martin Sorrell
+
+
+Globant’s Largest Shareholder Is WPP, A Company Under Pressure And Its CEO Are Under Investigation:  
+
+
+“WPP Is Looking at CEO Martin Sorrell’s Possible Misuse of Assets and Allegations of Improper Behavior​ Questions come as advertising giant 
+is facing cost-cutting pressures from clients and stepped-up competition from Google, Facebook”  Source: Wall St. Journal, 4/3/18
+
+
+• WPP’s financial results are under pressure 
+• It’s company structure has been described as “complicated”
+• Its CEO is being investigated for misuse of company assets and allegations of improper behavior
+• Spruce Point believes that WPP’s large ownership stake in Globant could be a major overhang on the share price. Mr Sorrell is a 
+
+
+member of Globant’s Board of Advisors, and WPP represents $6m+ of related-party revenue for Globant
+
+
+Source: Globant website
+
+
+Shareholder Shares Owned % Ownership
+
+
+WPP Luxembourg 
+Gamma Three S.á.r.l. (18)
+
+
+6,687,548 19.18%
+
+
+Capital World 
+Investors (19)
+
+
+3,778,613 10.84%
+
+
+GIC Private Limited (20) 2,514,950 7.21%
+
+
+BlackRock, Inc. (21) 1,800,418 5.16%
+
+
+JPMorgan Chase & 
+Co. (22)
+
+
+2,200,137 6.31%
+
+
+Entities affiliated with 
+Morgan Stanley (23)
+
+
+1,751,560 5.02%
+
+
+Source: Globant 2016 20-F
+
+
+
+https://www.wsj.com/articles/wpp-is-looking-at-ceo-martin-sorrells-possible-misuse-of-assets-and-allegations-of-improper-behavior-1522786432
+
+https://www.globant.com/about/advisors
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+7
+
+
+GLOB’s Capital Structure And Valuation
+
+
+Globant is trading at peak valuation on the inflated belief that its growth mainly stems from organic initiatives.   
+Further, management continues to embrace the “organic” growth story while not sharing with investors the underlying 
+
+
+contributors to growth
+
+
+Source: Bloomberg, Company Filings and Spruce Point Estimates
+
+
+$ in millions except per share figures
+
+
+Street Valuation 2017A 2018E 2019E
+Stock Price $49.00 EV / Sales 4.2x 3.4x 2.8x
+Diluted Shares 36.3 EV / Adj. EBITDA 31.3x 19.7x 16.2x
+Market Capitalization $1,778.7 Price / Adj. EPS 38.3x 31.0x 25.4x
+Total Debt Outstanding $6.0 Spruce Pt. Adj. P/E 49.0x
+Less: Cash and Equivalents $60.7 Price / Book Value 6.7x 5.5x 4.4x
+Total Enterprise Value $1,718.0 Growth and Margins
+
+
+Sales Growth 28.1% 21.7% 19.8%
+  Spruce Pt. Organic Sales Growth 14.8%
+Adj. EBITDA Margin 13.3% 17.3% 17.6%
+Adj. EPS Growth 17.4% 23.4% 22.2%
+  Spruce Pt. Adj EPS 0.0%
+Spruce Point’s View On Organic 
+Growth, EPS, EBITDA And FCF
+9
+
+
+Potentially Misleading Organic Growth Profile
+
+
+Globant consistently tells investors that most of its growth is organic (vs. from M&A).  
+We have done the work to prove otherwise.
+
+
+M&A represented approximately 50% of its total growth in 2017.  More alarming: organic growth is decelerating
+
+
+Sources:  4Q17 Press Release, FY16 20F, 1H17 6F
+(1)  Non-anniversaried revenues attributable to M&A transactions from the prior year period 
+(2)  Revenues attributable to M&A from the current year period.  For the Ratio and PointSource, revenues for 1H17 have been annualized. 
+
+
+Organic Growth 
+Is Decelerating
+
+
+Dollar Value Of 
+Growth Is Flat
+
+
+Total Growth vs. Organic Growth
+
+
+Growth Attribution Analysis ($ in Millions)
+
+
+2015 2016 2017
+Revenues $253.8 $322.9 $413.4
+
+
+Growth (%) 27.1% 27.2% 28.1%
+Growth ($) 54.2 69.1 90.6
+
+
+Growth Attribution (%)
+Organic 21.6% 18.7% 14.8%
+M&A 5.5% 8.5% 13.2%
+
+
+Total 27.1% 27.2% 28.1%
+
+
+% of Total Growth
+Organic 79.7% 68.8% 52.8%
+M&A 20.3% 31.2% 47.2%
+
+
+Total 100.0% 100.0% 100.0%
+
+
+M&A Attribution (%)
+Prior Year M&A(1) 1.9% 4.0% 5.3%
+Current Year M&A(2) 3.6% 4.5% 7.9%
+
+
+Total 5.5% 8.5% 13.2%
+
+
+Growth Attribution ($)
+Organic $43.2 $47.5 $47.8
+M&A 11.0 21.5 42.8
+
+
+Total $54.2 $69.1 $90.6
+
+
+Almost 50% of 
+Growth is 
+Acquired
+
+
+27.1% 27.2%
+28.1%
+
+
+21.6%
+
+
+18.7%
+
+
+14.8%
+
+
+2015 2016 2017
+
+
+Total Growth Organic Growth
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+10
+
+
+Spruce Point Adjusted EPS Estimates
+
+
+Globant does not include D&A in its Gross Margins or Adjusted SG&A.   Further, in its adjusted income statement, Globant does
+not exclude one-time gains found within the finance and income line items on its income statement.  Lastly, unlike its peers, 
+
+
+Globant does not tax effect adjustments in its Adjusted Income Statement Reconciliation
+
+
+Sources:  Spruce Point Estimates and Company Filings (IPO Prospectus, 4Q14 Press Release, 4Q15 Press Release, 4Q16 Press Release, 4Q17 Press Release)
+(1) Spruce Point estimates eliminates finance and other income, tax effects all other one-time adjustments (Globant does not), and assumes a normalized 35% historical corporate tax rate. 
+As the operations of the Argentine subsidiaries are the most significant source of net taxable income for Globant, the 35% corporate income tax rate of Argentina is used. 
+
+
+Globant’s Adjusted vs. Spruce Point Adjusted Income StatementGlobant vs. Spruce Point Adjusted EPS 
+
+
+Spruce Point’s adjusted EPS estimates are 36% lower than 
+Globant’s adjusted reported EPS results.   
+
+
+($ in millions, except per share figures)
+2013 2014 2015 2016 2017
+
+
+GLOB GLOB GLOB GLOB GLOB
+Adj. Spruce(1) Adj. Spruce(1) Adj. Spruce(1) Adj. Spruce(1) Adj. Spruce(1)
+
+
+Revenues 158.3 158.3 199.6 199.6 253.8 253.8 322.9 322.9 413.4 413.4
+Cost of Revenues (96.2) (99.4) (117.8) (121.7) (155.1) (159.6) (186.2) (190.5) (253.2) (256.9)
+
+
+Cost of revenues - Labor (96.2) (96.2) (117.8) (117.8) (155.1) (155.1) (186.2) (186.2) (253.2) (253.2)
+Cost of revenues - D&A 0.0 (3.2) 0.0 (3.8) 0.0 (4.4) 0.0 (4.3) 0.0 (3.8)
+Cost of revenues  - SBC 0.0 (0.2) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+
+Gross Profit 62.1 58.9 81.8 77.9 98.7 94.2 136.7 132.4 160.3 156.5
+GM% 39.2% 37.2% 41.0% 39.1% 38.9% 37.1% 42.3% 41.0% 38.8% 37.9%
+
+
+SG&A (50.3) (54.2) (52.5) (56.7) (64.8) (69.6) (71.1) (78.6) (87.4) (101.5)
+SG&A - Labor (50.3) (50.3) (52.5) (52.5) (64.8) (64.8) (72.0) (72.0) (89.1) (89.1)
+SG&A - D&A 0 (3.9) 0 (4.2) 0 (4.9) 0 (6.6) 0 (12.4)
+SG&A - SBC 0 (0.6) 0 0.0 0 0.0 0 0.0 0 0.0
+SG&A - Acqusition Expenses 0.0 0.0 0.0 0.0 0.0 0.0 0.9 0.0 1.7 0.0
+
+
+Impairtment of Tax Credits 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+D&A (7.2) 0.0 (8.0) 0.0 (9.3) 0.0 (10.9) 0.0 (16.1) 0.0
+EBIT 4.7 4.7 21.2 21.2 24.6 24.6 54.7 53.7 56.7 55.1
+
+
+Finance and Other 25.5 0.0 12.1 0.0 26.3 0.0 0.6 0.0 0.9 0.0
+
+
+EBT 30.2 4.7 33.3 21.2 50.9 24.6 55.3 53.7 57.6 55.1
+
+
+Income Taxes (6.0) (1.6) (8.9) (7.4) (18.4) (8.6) (14.3) (18.8) (8.1) (19.3)
+Tax Rate 20% 35% 27% 35% 36% 35% 26% 35% 14% 35%
+other adjustments
+
+
+Acquistion rel. 0.0 0.0 0.0 (3.0) (3.5)
+US settlement, net 0.0 0.0 0.0 0.8 0.0
+(Impairment) of Tax Credit (9.6) 1.5 1.8 0.0 0.0
+
+
+Net Income 14.6 3.0 25.9 13.8 34.3 16.0 38.8 34.9 46.1 35.8
+
+
+EPS $0.50 $0.11 $0.81 $0.43 $0.98 $0.46 $1.09 $0.99 $1.28 $0.99
+Diluted Shares 28.9 28.9 31.9 31.9 35.0 35.0 35.4 35.4 36.1 36.1
+
+
+2013 20152014 2016 2017
+
+
+$0.50 
+
+
+$0.81 
+
+
+$0.98 
+
+
+$1.09 
+
+
+$1.28 
+
+
+$0.11 
+
+
+$0.43 $0.46 
+
+
+$0.99 $0.99 
+
+
+Globant - adj Spruce Point - Adj
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414041841/v383376_f1a.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415007922/v400453_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416083045/v432028_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+11
+
+
+Adjusted EBITDA To FCF Conversion
+
+
+Globant’s investors need to be cognizant that “Adjusted” EBITDA does not translate into free cash flow
+
+
+Sources:  Spruce Point Estimates and Company Filings (IPO Prospectus, 4Q14 Press Release, 4Q15 Press Release, 4Q16 Press Release, FY14 20F, FY15 20F, FY16 20F)
+
+
+Adjusted EBITDA 
+Does Not 
+
+
+Translate into 
+Free Cash Flow
+
+
+Adjusted EBITDA to FCF reconciliation
+($ in Millions)
+
+
+2011 2012 2013 2014 2015 2016
+
+
+Adjusted EBITDA $12.4 $17.0 $11.8 $29.3 $33.9 $64.7
+Interest and other (1.2) (2.0) 25.5 12.1 26.3 0.6
+Net Acquisition Expenses 0.0 0.0 0.0 0.0 (0.3) (0.6)
+Cash Taxes (1.4) (0.7) (2.9) (11.0) (10.6) (8.2)
+Investment Gains 0.0 0.0 (30.4) (16.4) (37.5) (7.0)
+Other 0.2 1.4 2.0 2.7 10.8 5.0
+Working Capital (8.9) (8.0) (4.8) (2.4) (28.0) (23.1)
+Cash Flow from Operations $1.2 $7.7 $1.2 $14.3 ($5.3) $31.5
+
+
+Capital Expenditures (Capex) (5.4) (6.0) (5.0) (11.4) (13.6) (17.7)
+Acq. Of Intangible Assets (0.7) (1.4) (2.3) (2.5) (4.2) (6.4)
+Free Cash Flow ($4.9) $0.3 ($6.2) $0.4 ($23.1) $7.4
+
+
+Summary Conversion
+
+
+Free Cash Flow ($4.9) $0.3 ($6.2) $0.4 ($23.1) $7.4
+Adjusted EBITDA 12.4 17.0 11.8 29.3 33.9 64.7
+
+
+Conversion % -39.3% 1.9% -52.2% 1.4% -68.2% 11.5%
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414041841/v383376_f1a.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415007922/v400453_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416083045/v432028_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+12
+
+
+Cash Flows Are Not What They Appear. Globant 
+Has Generated $68m of Cash Flow From Investing
+
+
+Globant has yet to illustrate that its operations can generate any meaningful free cash flow, but Globant is generating 
+cash by trading stocks and bonds
+
+
+Globant has generated $68M of cash flow from trading 
+financial securities
+
+
+Sources:  Spruce Point Estimates and Company Filings (IPO Prospectus, 4Q14 Press Release, 4Q15 Press Release, 4Q16 Press Release, FY14 20F, FY15 20F, FY16 20F)
+
+
+($ in millions, except per share figures)
+2011 2012 2013 2014 2015 2016 '11 to '16
+
+
+Net Income $7.1 ($1.3) $13.8 $25.3 $31.6 $35.9
+Stock Based Comp 0.0 11.7 0.8 0.6 2.4 3.6
+D&A 2.5 4.8 7.2 8.0 9.3 10.9
+Taxes 0.3 (0.9) 3.1 (2.0) 7.9 6.1
+Gain on Bonds 0.0 0.0 (29.6) (12.6) (19.1) 0.0
+Investment Gains 0.0 0.0 (0.9) (3.8) (18.4) (7.0)
+Other 0.2 1.4 11.6 1.2 9.0 5.0
+Working Capital (8.9) (8.0) (4.8) (2.4) (28.0) (23.1)
+Cash Flow from Operations 1.2 7.7 1.2 14.3 (5.3) 31.5 50.6
+
+
+Capital Expenditures (Capex) (5.4) (6.0) (5.0) (11.4) (13.6) (17.7)
+Acq. of intangible Assets (0.7) (1.4) (2.3) (2.5) (4.2) (6.4)
+Free Cash Flow (4.9) 0.3 (6.2) 0.4 (23.1) 7.4 (26.0)
+
+
+FCF/ Share ($0.18) $0.01 ($0.21) $0.01 ($0.66) $0.21
+Diluted Shares Outstanding 27.0 27.3 28.9 31.9 35.0 35.4
+
+
+Cash Flow from Investing Items:
+Cash flow from trading and investing 0.9 1.5 20.3 (2.2) 27.4 20.4 68.3
+
+
+Total
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414041841/v383376_f1a.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415007922/v400453_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416083045/v432028_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+Management’s Potentially 
+Misleading Claims
+14
+
+
+Acquistion Incremental
+Amt # of Revenues from M&A(1)
+
+
+Date ($) Emp. 2016 2017
+
+
+2016 Acquisitions
+WAE 05/16 $19.9 40 $7.5 $3.3
+Difier 11/16 0.0 N/D 0.4 1.4
+L4 11/16 20.4 90 3.4 12.5
+
+
+Total 130 $17.1
+
+
+2017 Acquisitions
+
+
+Ratio(2) 02/17 10.7 45 10.1
+Pointsource(2) 06/17 30.2 97 15.4
+
+
+Total 142 $25.5
+
+
+2016 2017
+Total Company Revenues $322.9 $413.4
+
+
+Growth 28.1%
+
+
+Growth from M&A
+Growth from 2016 Acquisitions 5.3%
+Growth from 2017 Acquisitions 7.9%
+Total Growth from M&A 13.2%
+
+
+Globant’s Claims vs. Reality
+
+
+On Globant’s last conference call, it stated that two acquisitions contributed in the range of 4% to 4.5% of 2017 revenue 
+growth.  Our analysis assumes that at  approximately half of Globant’s growth was attributable to five acquisitions made 
+
+
+in 2016 and 2017
+
+
+Sources:  Bloomberg and Seeking Alpha Conference Call Transcripts and Company Filings (FY16 20F, 1H17 6K)
+(1)  Incremental revenues from M&A are deduced from the footnote section disclosure -- "impact of acquisitions on the results of the company"
+
+
+Revenue contribution for the first year are disclosed in the same footnote section -- "impact of acquisitions on the results of the company"
+Revenue contribution for the second year, which is likely conservative, is the difference between the implied annual revenues less what was implied in the first partial year period of the acquisition
+
+
+(2)  Implied revenues for Ratio and PointSource are half year periods ending June 30, 2017 and then annualized assuming a full 12 month calendar year
+
+
+4Q17 Conference Call – February 15, 2018:
+Alejandro Scannapieco (CFO): “We don't really disclose the organic/inorganic [Growth] . . . if you do a quick math on the two
+acquisitions that we made in 2017, PointSource and Ratio, roughly 110 people. If you take the average rate for a typical rate for 
+the U.S. [employee] and you [assume] 80% - 82% utilization. . . you're going to get to 400 - 450 basis points of contribution for 
+the full-year 2017. So still, organic growth was very strong in the year. We ended up the year growing 28% and probably 400 bps 
+to 450 bps of that came from the acquisitions of PointSource and Ratio.”
+
+
+Spruce Point 
+Uncovering 
+
+
+Reality
+
+
+Globant’s
+View
+
+
+A total of 5 acquisitions were made in 2016 and 2017 
+which were attributable for at least 13.3% of the growth.
+
+
+2016 acquisitions
+Contributed at least 5.3% of 2017’s total growth
+
+
+2017 acquisitions 
+(i.e. PointSource and Ratio) 
+contributed at least 7.9% of 2017’s total growth
+
+
+142 employees were acquired from 
+Ratio and PointSource
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+
+https://seekingalpha.com/article/4147498-globants-glob-ceo-martin-migoya-q4-2017-results-earnings-call-transcript?part=single
+15
+
+
+Acquisition since the beginning of 2015 ($ in Millions)
+
+
+Acq. Implied Prior Yr. Revenue
+Target Date Revs(1) $ % 
+
+
+Clarice 05/15 $16.7 199.6 8.4%
+DynaFlows 10/15 0.8 199.6 0.4%
+WAE 05/16 10.8 253.8 4.3%
+Difier 11/16 1.8 253.8 0.7%
+L4 11/16 15.9 253.8 6.3%
+Ratio(2) 02/17 12.1 322.9 3.8%
+PointSource(2) 06/17 26.6 322.9 8.2%
+
+
+$84.7
+
+
+Growth Rate Comments From Conference Call
+
+
+3Q17 Conference Call – November 16, 2017:
+Alejandro Scannapieco (CFO): “No acquisitions that we have made over the course of [Globant’s history] have been 
+more than 3% to 5% of our revenues”
+
+
+Spruce Point 
+Uncovering 
+
+
+Reality
+
+
+Globant’s
+View
+
+
+3 of its last 7 acquisitions 
+have represented between 
+6.3% and 8.4% of Globant’s 
+
+
+prior year revenues
+
+
+Sources:  Bloomberg Conference Call Transcripts, Company Filings (FY15 20F, FY16 20F, 1H17 6K)
+(1)  Implied annual revenues are deduced from the footnote section disclosure -- "impact of acquisitions on the results of the company"
+(2)  Implied revenues for Ratio and PointSource are half year periods ending June 30, 2017 and then annualized assuming a full 12 month calendar year
+
+
+Globant states that no acquisitions have been more than 3% to 5% of its revenues.  
+We estimate that three of Globant’s past seven acquisitions have represented over 6% of Globant’s prior year revenues  
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+16
+
+
+Growth Rate Comments From Conference Call 
+(Cont’d)
+
+
+3Q17 Conference Call – November 16, 2017:
+Alejandro Scannapieco (CFO): “[The] growth. . . it's pretty much organic. . . we have some tailwind from the acquisitions. But 
+keep in mind that PointSource and Ratio were very small tuck-in acquisitions. . . So, pretty much the growth is organic. . . So, the 
+growth remains mostly organic and within relationships that we have been forming. . .  looking into 2018, we're very optimistic 
+about keeping up with this level of organic growth.”
+
+
+“We have been able to keep up with this 20%-plus growth steadily. We're still aiming to have that 20%-plus organically. . . 
+That's the way to go and how we're going to be growing this company organically on a 20%-plus rate.”
+
+
+Spruce Point 
+Uncovering 
+
+
+Reality
+
+
+Globant’s
+View
+
+
+Sources:  Bloomberg and Seeking Alpha Conference Call Transcripts, Company Filings (FY15 20F, FY16 20F, 1H17 6K, 4Q17 Press Release)
+(1)  Non-anniversaried revenues attributable to M&A from the prior year period 
+(2)  Implied revenues for Ratio and PointSource (2017 Acquisitions) are half year periods ending June 30, 2017 and then annualized assuming a full 12 month calendar year
+
+
+Globant repetitively tells investors that its growth has been, and will remain, from internal “organic growth”
+
+
+Organic Growth was below 20% in 2016 and 2017 and will likely be far 
+below 20% in 2018.   
+
+
+If you repeat it, maybe investors will believe it.   Growth Attribution Analysis ($ in Millions)
+2015 2016 2017
+
+
+Revenues $253.8 $322.9 $413.4
+Growth (%) 27.1% 27.2% 28.1%
+Growth ($) 54.2 69.1 90.6
+
+
+Growth Attribution (%)
+Organic 21.6% 18.7% 14.8%
+M&A 5.5% 8.5% 13.2%
+
+
+Total 27.1% 27.2% 28.1%
+
+
+% of Total Growth
+Organic 79.7% 68.8% 52.8%
+M&A 20.3% 31.2% 47.2%
+
+
+Total 100.0% 100.0% 100.0%
+
+
+M&A Attribution (%)
+Prior Year M&A(1) 1.9% 4.0% 5.3%
+Current Year M&A(2) 3.6% 4.5% 7.9%
+
+
+Total 5.5% 8.5% 13.2%
 
 
  
-Dear Chairman Li: 
- 
-Muddy Waters, LLC has begun researching SPRD, and we have taken a short position in 
-it.  (Please see our disclaimer on the last page.)  We have identified a number of issues in 
-SPRD’s filings, and we believe that there is a high risk of material misstatement in the 
-reported financials since the time of Dr. Ping Wu’s resignation.  Our concerns are gravest 
-regarding 2010 and 2011 numbers.   
- 
-We are writing you an open letter so that our concerns and hopefully your responses are 
-transparent to SPRD shareholders.  The following letter contains questions relating to 
-many of our areas of concern.  Should you send us your response, we are happy to 
-disseminate it. 
- 
-
-
-I. SPRD reported that revenue increased 229.6% in 2010, after generally being 
-flat in 2007-2009.   Can you please explain the sales increase in light of the 
-following 2009 management changes: 
-
-
- 
-o Founder Ping Wu resigned as CEO in February 2009.   According to a 
-
-
-July 2010 interview in a respected business publication,1 Mr. Wu resigned 
-because the board had lost confidence in him.  SPRD’s sales cycle is four 
-to nine months2 and the turnaround began almost immediately after Mr. 
-Wu resigned – revenue grew quarter over quarter in Q3 2009 by 136.6%.  
-Therefore, the improved sales pipeline would have been evident under Mr. 
-Wu.   
-
-
- Why would the board have lost confidence in Mr. Wu when the 
-sales pipeline was so promising? 
-
-
- 
-o We note that CFO Richard Wei resigned in April 2009, which was one 
-
-
-month before SPRD completed a $44 million financing. 
- Because it would be unusual to fire a CFO during the financing 
-
-
-process, is it fair to assume that he chose to leave? 
- If “yes”, why would he have left with such strong sales in the 
-
-
-pipeline? 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 http://news.hexun.com/2010-07-12/124224431_3.html. 
-2 SPRD 2010 20-F p. 11. 
-
-
-
-
-
-Muddy Waters, LLC 
-www.muddywatersresearch.com 
-info@muddywatersresearch.com 
-
-
-June 28, 2011 
- 
-
-
-6/28/2011 Page 1
-II. MediaTek (2454.TW) had approximately 90% of the mainland China mobile 
-handset chip market in 2009.  Mobile handset chips are by far its largest 
-revenue source – currently accounting for more than 70% of revenue.3  
-Estimates now place MediaTek’s mainland market share at only 70%, with 
-SPRD at 20% (an increase of about 15 percentage points).  (It appears that 
-these estimates are based in part on SPRD’s reported numbers.)  However, 
-MediaTek reported that its 2010 revenue decreased by 1.4%.   
- 
-For MediaTek, which relies heavily on mobile handset chips, to have reported 
-a sales decline of only 1.4% while seemingly losing 15 percentage points of 
-market share to SPRD, the mainland China market for mobile handset chips 
-must have grown substantially in 2010.   
- 
-However, we note that both SPRD and MediaTek faced headwinds as 
-mainland China authorities cracked down in 2010 on gray market handset 
-manufacturers.  At the high end of the market, Qualcomm (NASDAQ: 
-QCOM) only grew its 2010 revenue 5.5%.   
- 
-By how much did SPRD’s mainland China markets (by product type) grow in 
-2010? 
- 
-
-
-III. SPRD’s disclosure related to its 2010 revenue is unhelpful and opaque.  The 
-2009 20-F disclosed RF transceiver and baseband semiconductor sales figures.  
-However, the 2010 20-F does not discuss sales of these products.  Instead the 
-2010 20-F discusses the percentage gains for sales of all bundled 
-semiconductors (without ascribing any dollar values).   
- 
-We take issue with the opaque 2010 disclosure because we believe that issuers 
-should provide “apples to apples” information in successive periods, and the 
-2010 disclosure is frankly vague and unhelpful. 
-
-
- 
-What were 2010 sales of RF transceivers, baseband semiconductors, and any 
-other products SPRD began selling in 2010? 
- 
-
-
-IV. SPRD’s lack of any cash income tax payment in 2010 is inconsistent with 
-prior years as well as the PRC’s provisional tax payment requirements.  The 
-table below shows SPRD’s pre-tax income, income tax provisions, and cash 
-taxes paid for 2008 – 2010. 
-
-
-
-
-
- 
- 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-3 http://www.taipeitimes.com/News/biz/archives/2011/04/30/2003502008 
-
-
-6/28/2011 Page 2
-The PRC Enterprise Income Tax law requires that companies pay provisional 
-income tax on a monthly or quarterly basis.  Companies must file a 
-provisional tax return within 15 days of the close of the month or quarter 
-along with the provisional payment.   
- 
-If SPRD generated $75.3 million in pre-tax profit in 2010, why didn’t it make 
-any cash tax payments? 
-
-
- 
-V. The near simultaneous turnover in 2009 among SPRD’s CFO, audit 
-
-
-committee, and auditor is troubling.  In October 2009, SPRD’s CFO, David 
-Wu, resigned after only four months in the role.  This was the second CFO in 
-2009 to resign.  In September 2009, audit committee member Ken Lu resigned 
-from the board.  In September 2009, Deloitte Touche Tohmatsu was 
-“removed” as auditor, and replaced by another Big Four auditor, 
-PriceWaterhouseCoopers Zhong Tian.   
- 
-Given that the turnover occurred while SPRD was in the midst of a stunning 
-turnaround, did the resignations and removal have anything to do with 
-discomfort about SPRD’s accounting?  If not, what were the reasons each 
-resigned (or was removed in the case of Deloitte)? 
- 
-
-
-VI. We note that the sizes of five balance sheet / cash flow statement accounts 
-grew tremendously in 2010.  These accounts are among those that we consider 
-high risk because they are primarily evidenced by paper documentation, rather 
-than their physical presence (as in machinery and equipment).  The abundance 
-of paper accounts on the balance sheet was one of the early signs to us that 
-Rino International Corp. was a fraud.  It is clear that auditors in China are 
-having significant problems evaluating the veracity of documents. 
- 
-As discussed infra, we note that 44.8% of SPRD’s 2010 year-end inventory is 
-“deferred cost”, which means that the inventory has been shipped to 
-customers, but has not yet been booked as revenue.  We therefore assume that 
-the auditors did not lay eyes on most (if not all) of the deferred cost inventory. 
- 
-The cash flow statement accounts that bother us the most because of their 
-unusual sizes in 2010 (compared to earlier years) are shown below – note that 
-all are operating cash flow accounts. 
- 
- 
-
-
-
-
-
-6/28/2011 Page 3
-As a general matter, can you explain why the size (in absolute value terms) of 
-each of these accounts is much larger than in the past?  What processes did the 
-auditors undertake to confirm the sizes of each of these accounts? 
- 
-
-
-VII. Among the accounts shown in the prior question, we are most concerned 
-about the increases in inventory (especially the deferred cost sub-account) and 
-advances from customers.  We believe that having enormous simultaneous 
-increases in advances from customers and deferred costs is implausible. 
- 
-
-
- 
- 
-A blogger recently stated that SPRD’s new clients are being given up to 90 
-days to inspect the chips because SPRD is a new supplier,4 which is the reason 
-for the deferred cost.  If SPRD agrees with that assessment, we are a bit 
-perplexed as to how SPRD would maintain good relationships with its 
-existing clients – presumably they would be unhappy with the preferential 
-treatment being given to new clients.  We note that MediaTek has no deferred 
-cost account, and thus does not appear to extend this policy.  The rationale 
-that new customers want the inspection period because SPRD is a new 
-supplier also strikes us as odd because SPRD and its main competitor 
-MediaTek are fabless semiconductor companies.  SPRD’s chips are assembled 
-by TSMC.  Supplier-specific product defects would therefore be more likely 
-due to design issues than manufacturing, and SPRD’s 20-F indicates that 
-clients test the designs before ordering.5 
- 
-Why have each of advances from customers and deferred cost become so 
-significant?   
-
-
- 
-VIII. We question the wisdom of paying $32.58 million for a 48.44% stake in 
-
-
-MobilePeak, which appears to be a distressed company.   
- 
-
-
-MobilePeak appears to be a distressed company that had an urgent need for 
-liquidity.  Rather than completing this acquisition in one step, SPRD 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-4 http://seekingalpha.com/article/276318-spreadtrum-compelling-value-after-broad-chinese-stock-sell-off 
-5 SPRD 2010 20-F, p. 11. 
-
-
-6/28/2011 Page 4
-purchased only 48.44% of MobilePeak for $32.58 million.  SPRD disclosed 
-that it “intends to purchase”6 the remaining equity by the conclusion of Q3.  
-As part of the initial purchase, SPRD loaned MobilePeak money to pay off its 
-convertible bridge loan.   
- 
-Per the below SAIC financials, MobilePeak generates virtually no revenue, 
-has negative net income, and has negative operating cash flow.  
-Management’s recent comment7 that it is “too early” to discuss MobilePeak’s 
-customers indicates that MobilePeak’s current revenue is still de minimis. 
- 
-
-
- 
- 
-MobilePeak’s investors include Sequoia, KPCB, and IDG,8 yet it was 
-evidently left to SPRD to provide liquidity to MobilePeak to repay a loan.  
-Given that MobilePeak’s shareholders chose to sell the company rather than 
-provide it with liquidity, we infer that they doubt its potential.  Further, given 
-that SPRD is using cash to fund the purchase rather than shares, we infer that 
-MobilePeak’s shareholders do not see substantial synergies in the transaction. 
- 
-Is SPRD acquiring MobilePeak in two stages because MobilePeak had an 
-urgent need for liquidity?  Why is SPRD acquiring a company that evidently 
-was unable to raise additional funds from its existing investors?  Given that 
-SPRD’s previous acquisition of Quorum Systems from large venture capital 
-investors resulted in impairment charges of $49.8 million (71.1%)9 within the 
-same year of completing the acquisition, what assurance can you offer that the 
-MobilePeak acquisition will be more successful? 
- 
-
-
-IX. The increase in ADSes since going public implies that insiders have been 
-selling shares at various times. We note that SPRD recently announced a share 
-buyback of up to $100 million. Should we expect that shareholder funds will 
-be used to purchase shares that insiders are selling? 
-
-
-
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-6 http://www.sec.gov/Archives/edgar/data/1287950/000114420411035005/v225555_ex99-1.htm 
-7 SPRD June 13, 2011 conference call. 
-8 http://web.archive.org/web/20090629063546/http://www.mobilepeak.com/about.htm#ai2 
-9 Based on the $55 million cash and $15 million stock purchase price. 
-
-
-6/28/2011 Page 5
-We appreciate your answering our questions, and we believe that SPRD shareholders will 
-also appreciate it.  Please address your response to: info@muddywatersresearch.com.  
-For your convenience, the following is a summary of the questions we have asked in this 
-letter.   
- 
-Best regards, 
-Carson Block 
- 
- 
-
-
-1. Per the interview with Mr. Wu, the board lost confidence in him.  Why would the 
-board have lost confidence in Mr. Wu when the sales pipeline was so promising? 
-
-
-2. Is it fair to assume that Mr. Wei voluntarily left his position as CFO? 
-3. If so, why would he have done so one month before completing the financing, and 
-
-
-with such a promising sales pipeline? 
-4. By how much did SPRD’s mainland China markets (by product type) grow in 
-
-
-2010? 
-5. What were 2010 sales of RF transceivers, baseband semiconductors, and any 
-
-
-other products SPRD began selling in 2010? 
-6. If SPRD generated $75.3 million in pre-tax profit in 2010, why didn’t it make any 
-
-
-cash tax payments? 
-7. Given that the turnover in the auditor, audit committee, and CFO position 
-
-
-occurred while SPRD was in the midst of a stunning turnaround, did the 
-resignations and removal have anything to do with discomfort about SPRD’s 
-accounting?   
-
-
-8. If not, what were the reasons each resigned (or was removed in the case of 
-Deloitte)? 
-
-
-9. As a general matter, can you explain why the size (in absolute value terms) of 
-each of the operating cash flow accounts we highlighted is much larger than in the 
-past?   
-
-
-10. What processes did the auditors undertake to confirm the sizes of each of these 
-accounts? 
-
-
-11. Why have each of advances from customers and deferred cost become so 
-significant?   
-
-
-12. Is SPRD acquiring MobilePeak in two stages because MobilePeak had an urgent 
-need for liquidity?   
-
-
-13. Why is SPRD acquiring a company that evidently was unable to raise additional 
-funds from its existing investors?   
-
-
-14. What assurance can you offer that the MobilePeak acquisition will be more 
-successful than the Quorum Systems acquisition? 
-
-
-15. Should we expect that shareholder funds will be used to purchase shares that 
-insiders are selling? 
-
-
- 
-Disclaimer: 
-
-
-Use of Muddy Waters LLC’s research is at your own risk. You should do your own 
-research and due diligence before making any investment decision with respect to 
-
-
-6/28/2011 Page 6
-securities covered herein. You should assume that as of the publication date of any 
-report or letter, Muddy Waters, LLC (possibly along with or through our members, 
-partners, affiliates, employees, and/or consultants) along with our clients and/or 
-investors has a short position in the stock (and/or options of the stock) covered 
-herein, and therefore stands to realize significant gains in the event that the price of 
-stock declines. Following publication of any report or letter, we intend to continue 
-transacting in the securities covered therein, and we may be long, short, or neutral 
-at any time hereafter regardless of our initial recommendation. This is not an offer 
-to sell or a solicitation of an offer to buy any security, nor shall any security be 
-offered or sold to any person, in any jurisdiction in which such offer would be 
-unlawful under the securities laws of such jurisdiction. Muddy Waters, LLC is not 
-registered as an investment advisor. To the best of our ability and belief, all 
-information contained herein is accurate and reliable, and has been obtained from 
-public sources we believe to be accurate and reliable, and who are not insiders or 
-connected persons of the stock covered herein or who may otherwise owe any 
-fiduciary duty or duty of confidentiality to the issuer. However, such information is 
-presented "as is," without warranty of any kind – whether express or implied. 
-Muddy Waters, LLC makes no representation, express or implied, as to the 
-accuracy, timeliness, or completeness of any such information or with regard to the 
-results to be obtained from its use. All expressions of opinion are subject to change 
-without notice, and Muddy Waters, LLC does not undertake to update or 
-supplement this report or any of the information contained herein. 
- 
-
-
-6/28/2011 Page 7
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+17
+
+
+Growth Rate Comment – Recent Contribution 
+From Acquisition
+
+
+4Q16 Conference Call – February 16, 2017:
+“Q - Amit Singh:  Hi, guys. This is Amit Singh for Jason. Just a quick question regarding your guidance for fiscal 2017. So the 
+revenue growth guidance is around 20% year-over-year. How much of that is sort of inorganic from L4? . . . 
+Q - Amit Singh: Okay. And is the inorganic contribution around 1%, 2% from L4?
+A - Martín Migoya (CEO): Oh, Ale, can you cover me on that?
+A - Alejandro Scannapieco: No. Definitely, definitely. It's pretty much in that range. . .So you are pretty much in the range. Yes.”
+
+
+Spruce Point 
+Uncovering 
+
+
+Reality
+
+
+Globant’s
+View
+
+
+Sources:  Bloomberg and Seeking Alpha Conference Call Transcripts, Company Filings (FY16 20F, 1H17 6K, 4Q17 Press Release)
+(1)  Implied annual revenues are deduced from the footnote section disclosure -- "impact of acquisitions on the results of the company"
+(2)  Implied revenues for Ratio and PointSource are half year periods ending June 30, 2017 and then annualized assuming a full 12 month calendar year
+
+
+Globant repetitively tells investors that its growth has been, and will remain, from internal “organic growth”
+
+
+Incremental revenues from L4 represented at 
+least 3.9% (not 1% to 2%) and probably closer to 
+
+
+5% as our work suggests that L4 was likely 
+growing over 20% per year
+
+
+Incremental
+Acq. Ann. Revenues from M&A(1)
+
+
+Date Revs(1) 2016 2017
+
+
+2016 Acquisitions
+WAE 05/16 $10.8 $7.5 $3.3
+Difier 11/16 1.8 0.4 1.4
+L4 11/16 15.9 3.4 12.5
+
+
+Total $28.5 $11.3 $17.1
+
+
+2017 Acquisitions
+Ratio(2) 02/17 $12.1 $10.1
+Pointsource(2) 06/17 26.6 15.4
+
+
+Total $38.7 $25.5
+
+
+2016 2017
+Total Company Revenues $322.9 $413.4
+
+
+Growth 28.1%
+
+
+Growth from M&A
+Growth from L4 Acquisition 3.9%
+Growth from all other Acquistions in 2016 and 2017 7.9%
+Total Growth from M&A 13.2%
+
+
+
+https://seekingalpha.com/article/4047031-globants-glob-ceo-martin-migoya-q4-2016-results-earnings-call-transcript?part=single
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+18
+
+
+Top 5 Client Analysis
+($ in millions)
+
+
+2013 2014 2015 2016 2017
+
+
+Top 5 Clients
+Total $ $40.2 $55.5 $83.6 $108.8 $121.4
+Average $ / Client 8.0 11.1 16.7 21.8 24.3
+
+
+Growth 38% 51% 30% 12%
+
+
+Disney
+Total $ $10.2 $17.5 $31.1 $31.0 $42.0
+
+
+Top 5 Clients (Excluding Disney)
+Total $ $30.0 $38.0 $52.5 $77.8 $79.4
+Average $ / Client 7.5 9.5 13.1 19.5 19.8
+
+
+Growth 27% 38% 48% 2%
+
+
+50 – Squared (Progress Update)
+
+
+We don’t see much evidence of wallet share growth amongst Globant’s top clients
+
+
+50 Squared Definition from Globant – 20F filed April 7, 2017
+“During 2016 we introduced a new model that intends to reshape our go-to-market strategy to scale our company in the coming 
+years, called 50 Squared. The main goal of this new approach is to focus our team in the top 50 high potential accounts that 
+have the capacity to grow exponentially over time. To do so, we have appointed our most senior people from Sales, Technology 
+and Operations to lead these teams and take our company to the next level. This account focus has become the most important 
+pillar of our go-to-market strategy and every account within Globant now has the goal to become part of this program.”
+
+
+Globant’s
+50 Squared
+
+
+Defined
+
+
+Spruce Point 
+Uncovering 
+
+
+Reality
+
+
+Source: Bloomberg Transcripts and Company Filings (IPO Prospectus, 4Q14 Press Release, 4Q15 Press Release, 4Q16 Press Release, 4Q17 Press Release, FY14 20F, FY15 20F, FY16 20F)
+
+
+Excluding Disney, there does 
+not seem to be much traction 
+
+
+in GLOB’s top 5 clients.  Its 
+top four clients (outside of 
+
+
+Disney) only grew 2% or 
+($300K/ year).  The expansion 
+of wallet share is not showing 
+
+
+up with its top clients.   
+
+
+Growth actually appears 
+to be slowing
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414041841/v383376_f1a.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415007922/v400453_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416083045/v432028_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+Accounting And Earnings Issues
+20
+
+
+Historical Adjusted Income Statement – Add 
+Backs Are Not Consistent 
+
+
+Adjustments to Net Income each year are not treated uniformly  
+
+
+Sources:  Company Filings (4Q15 Press Release, 4Q17 Press Release)
+
+
+A reversal of impairment for tax credits aided net income in 2014 and 2015, yet was not adjusted for in the 
+adjusted net income reconciliation.  In 2017, the exact opposite occurred, and Globant recorded a loss of $1.6M 
+related to the recognition of the allowance for impairment of tax credits.  In this instance, Globant treated this 
+item as an adjustment and added it back to adjusted net income.  
+
+
+IFRS Income Statement
+($ in Millions)
+
+
+No Adjustement is Made Adjustment is Made
+2014 2015 2016 2017
+
+
+Source:  4Q15 4Q15 4Q17 4Q17
+
+
+Revs $199.6 $253.8 $322.9 $413.4
+Cost of Revs (121.7) (160.3) (191.4) (262.6)
+Gross Profit 77.9 93.5 131.5 150.9
+
+
+SG&A (57.3) (71.6) (81.9) (110.9)
+(Impairment) of tax credits 1.5 1.8 0.0 (1.6)
+EBIT 22.1 23.7 49.6 38.4GM% #R F! #R F! #R F! #R F!
+Finance  and Other Income 12.1 26.3 0.6 0.9
+EBT 34.2 50.0 50.2 39.3
+
+
+Income Tax (8.9) (18.4) (14.3) (8.1)
+Tax Rate 26.1% 36.8% 28.5% 20.6%
+Net Income $25.3 $31.6 $35.9 $31.2GM% #R F! #R F! #R F! #R F!
+
+
+Adjustments to Net Income
+IFRS Net Income $25.3 $31.6 $35.9 $31.2
+
+
+SBC 0.6 2.4 3.6 14.5
+Impairment of tax credits 0.0 0.0 0.0 1.6
+
+
+US settlement agreement, net 0.0 0.0 0.8 0.0
+Acquisition related charges 0.0 0.3 (1.6) (1.2)
+
+
+Adj. Net Income $25.9 $34.3 $38.8 $46.1
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416083045/v432028_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+21
+
+
+FY16 -- IFRS Income Statement ($ in millions)
+
+
+Period 2016
+Source:  4Q16 FY16 4Q17
+Date 2/16/17 4/7/17 2/15/18
+
+
+Revenues $322.9 $322.9 $322.9
+Cost of Revenues (190.9) (191.4) (191.4)
+
+
+Gross Profit 131.9 131.5 131.5
+
+
+SG&A (81.3) (81.9) (81.9)
+Impairment of tax credits 0.0 0.0 0.0
+EBIT $50.6 $49.6 $49.6
+EBITDA 61.5 60.5 60.5
+
+
+Gain on Transaction w/ bonds 0.0 0.0 0.0
+Finance income 16.2 16.2 16.2
+Finance (expense) gain, net (19.2) (19.2) (19.2)
+other income, net 3.6 3.6 3.6
+EBT $51.2 $50.2 $50.2
+
+
+Income Tax (14.5) (14.3) (14.3)
+
+
+Net Income $36.7 $35.9 $35.9
+
+
+EPS $1.04 $1.01 $1.01
+Diluted Shares 35.4 35.4 35.4
+
+
+Adjustments to Net Income
+
+
+Period 2016 2016 2016
+Source:  4Q16 FY16 4Q17
+
+
+IFRS Net Income $36.7 $35.9 $35.9
+SBC 3.6 3.6 3.6
+Impairment of tax credits 0.0 0.0 0.0
+US settlement agreement, net 0.0 0.8 0.8
+Acquisition related charges 0.0 0.0 (1.6)
+
+
+Adj. Net Income $40.3 $40.3 $38.8
+Adj. EPS $1.14 $1.14 $1.09
+
+
+Fiscal Year 2016 – Is It Finally Right?  
+
+
+Fiscal Year 2016 metrics have now been reported differently in three occasions
+(4Q16 Press release, FY16 20F, 4Q17 Press release) 
+
+
+Sources:  Company Filings (4Q16 Press Release, FY16 20F, 4Q17 Press Release,)
+
+
+Cost of revenues and SG&A 
+(and related taxes) were 
+
+
+subsequently increased after 
+the initial 4Q16 press release
+
+
+We believe this is related to a 
+write down in the fair value of 
+
+
+contingent consideration 
+liabilities
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+22
+
+
+4Q16 Adjusted EPS Timeline – Guidance, 
+Reported, And Revised 
+
+
+The adjusted financials for 4Q16 were revised in the most recently reported quarter (4Q17)
+Globant shareholders were not privy to the actual $0.04 miss in 4Q16 EPS until 4Q17 was reported   
+
+
+Sources:  Bloomberg, Company Filings (3Q16 6K, 4Q16 6K, 4Q17 6K)
+
+
+4Q16 Adj EPS Guidance, Reported and Restated
+
+
+Period Actual Low High Date Source
+
+
+4Q16 Guidance $0.30 $0.33 11/14/2016 3Q16 PR
+
+
+4Q16 Reported $0.31 2/16/2017 4Q16 PR
+Consensus $0.31
+Beat / Miss $0.00
+
+
+4Q16 Restated $0.27 2/15/2018 4Q17 PR
+Consensus $0.31
+Beat / Miss ($0.04)
+
+
+Reconciliation from IFRS to adjusted metrics
+
+
+($ in Millions)
+Original Restated
+
+
+4Q16 4Q16
+Adjustments to Gross Profits
+IFRS Gross Profit 34.5 34.1
+
+
+D&A 1.1 1.1
+SBC 0.2 0.2
+
+
+Adj. Gross profit 35.8 35.4
+
+
+Adjustments to SG&A
+IFRS SG&A (22.3) (22.9)
+
+
+D&A 2.1 2.1
+SBC 0.7 0.7
+Acquisition related charges 0.0 0.3
+
+
+Adj. SG&A (19.6) (19.8)
+
+
+Adjustments to EBIT
+IFRS EBIT 12.2 11.2
+
+
+SBC 0.9 0.9
+Impairment of tax Credits 0.0 0.0
+Acquisition related charges 0.0 0.6
+
+
+Adj. EBIT 13.0 12.6
+
+
+Adjustments to Net Income
+IFRS Net Income 10.3 9.5
+
+
+SBC 0.9 0.9
+Impairment of tax credits 0.0 0.0
+US settlement agreement, net 0.0 0.8
+Acquisition related charges 0.0 (1.7)
+
+
+Adj. Net Income 11.2 9.5
+
+
+Adj. EPS $0.31 $0.27
+Diluted Shares 35.6 35.6
+
+
+Wall St. Has Penalized Two Recent Revenue and EPS Misses 
+By Globant’s Peer LXFT
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416134249/v452912_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417009573/v459716_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420418009319/tv486276_ex99-1.htm
+Insider Selling, Transfers To Trusts, 
+And Disclosure
+24
+
+
+Foreign Private Issuer Exemptions And 
+Departures From NYSE Corporate Governance
+
+
+Globant’s status as a foreign private issuer exposes shareholder to an unfair playing field.   
+Globant does not have to report insider selling via Form 4s electronically with the SEC
+
+
+Foreign Private Issuers are:
+Globant’s Significant Departures from NYSE listing 
+
+
+standards:
+
+
+•No Legal requirement under Luxembourg Law to have a 
+majority of independent directors
+
+
+•Luxembourg law recommends the Board of Directors have 
+an appropriate number of independent directors
+
+
+Majority of 
+Independent 
+
+
+Directors
+
+
+•No Legal requirement under Luxembourg Law (nor articles 
+of incorporation) to require the Board, on a case by case 
+basis, to express an opinion with regard to independence 
+or lack of independence of each individual investor
+
+
+Standards for 
+evaluating director 
+
+
+independence
+
+
+•No Legal requirement under Luxembourg Law (nor articles 
+of incorporation) to require shareholder approval for 
+equity compensation plans.
+
+
+•Further, Globant does not require shareholder approval 
+for the compensation criteria for executive management
+
+
+Shareholder 
+voting on equity 
+compensation 
+
+
+plans
+
+
+•No Legal requirement under Luxembourg Law to have 
+regularly scheduled executive sessions with non-
+management executives without management present
+
+
+Non Management 
+director meetings
+
+
+•CEO is not required to provide the NYSE with the annual 
+compliance certification in regards to NYSE corporate 
+governance standards
+
+
+CEO Certification
+
+
+Source: Company filings (FY16 20F, Corporate Governance PDF)
+
+
+Exempt from Regulation FD (Fair Disclosure)
+
+
+Exempt from filing insider trading reports 
+(Forms 3, 4, and 5)
+
+
+Able to adhere to different Corporate Governance 
+standards than U.S companies listed on the NYSE
+
+
+Globant’s status as foreign private issuer means they are exempt 
+from filing the traditional insider trading forms (i.e. Form 4s.)  
+Globant does file its transactions via form 144s, but these forms 
+are paper forms and are therefore not filed electronically with the 
+SEC.   This is important because many investors are likely unaware 
+of the magnitude of the insider selling.   
+
+
+We find Globant’s insider reporting methods to be deceiving as we 
+are unsure why Globant would now file insider sales electronically 
+with the Luxembourg exchange and not with the SEC.   
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+http://investors.globant.com/download/CorporateGovernanceGuidelines.pdf
+25
+
+
+We Estimate GLOB’s Founders Have Sold (Or 
+Transferred Ownership) of >$80M In Shares Since IPO
+
+
+We estimate GLOB founders sold (or transferred) over $80m of stock in the IPO, each of the subsequent secondary 
+offerings, and multiple open market sales.  Additionally, we believe that the irrevocable trusts may not have to file its 
+
+
+sales in the open market, making it difficult to track their current ownership
+
+
+Source: Bloomberg, and Company Filings (IPO Propsectus, March 2015 Secondary Prospectus, July 2015 Prospectus, FY14 20F, FY15 20F, FY16 20F, Luxembourg 
+Prospectus, Globant Minutes of AGMs)
+
+
+Founders Timeline of Selling and Transferring stock
+
+
+Migoya Englebienne Nocetti Umaran
+Date Price CEO CTO EVP COS Total
+
+
+Shares owned prior to IPO 7/16/2014 1,591,554 1,591,554 1,591,555 1,505,104 6,279,767
+Shares sold in IPO 7/17/2014 $10.00 (120,026) (120,026) (120,026) (113,506)
+Shares sold (7/14 -- 01/15) 7/14 -- 01/15 $13.20 (48,312) (48,312) (48,312) (45,688)
+Shares transferred to trust 7/14 -- 01/15 $13.20 (833,333) (833,333) (750,000) (625,000)
+Shares sold in secondary - March 2015 3/26/2015 $18.50 (80,500) (57,500) (69,000) (57,500)
+Shares Vested -- 2014 21,938 9,375 3,125 9,375
+Shares sold in secondary - July 2015 7/8/2015 $28.31 (153,125) (153,126) (153,125) (131,250)
+Shares Vested -- 2015 44,438 16,875 3,125 14,375
+Shares sold -- 144 (7/15/16) 7/15/2016 $42.06 (50,000) (50,000) (50,000) (50,000)
+Shares Vested -- 2016 30,000 10,000 0 6,250
+Shares sold -- 144 (3/29/17) 3/29/2017 $36.10 (30,000) 0 (45,000) (50,000)
+
+
+Total 372,634 365,508 362,343 462,160 1,562,644
+
+
+Total Shares sold 481,962 428,963 485,462 447,944
+Total Shares Transferred to Irrevocable Trusts 833,333 833,333 750,000 625,000
+
+
+Total Shares sold and Transferred 1,315,295 1,262,296 1,235,462 1,072,944 4,885,998
+
+
+Total Amount Sold ($M) ($10.8) ($9.3) ($11.2) ($10.4)
+Total Amount Transferred to Irrevocable Trusts ($M) ($11.0) ($11.0) ($9.9) ($8.2)
+
+
+Total Amount Sold and Transferred ($21.8) ($20.3) ($21.1) ($18.7) ($81.9)
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414043731/v384177_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415018994/v405689_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415041848/v415157_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://dl.bourse.lu/dl?v=ADyMFy5zxNFitbuuk6wDBklHM/JB9tyvXrHhArypKBYiwgjuJ6qgvqbft3w9goFgxRp1biRq5FSKRzIw7BBFz08wM23/LyLzVoIgrJGZs/RImEYNNo5t164f9ERxSNfcRfiOwNrS/9uE4OCuZvLSWA==
+
+http://investors.globant.com/shareholders-meetings
+26
+
+
+Shares Ownership disclosed in company filings
+
+
+IPO Secondary Secondary Luembourg
+Source 424B4 424B4 424B4 424B4 20F 424B4 424B4 20F Prospectus 20F 144s
+Date 05/14 07/14 01/15 03/15 04/15 05/15 07/15 04/16 08/16 03/17 03/17
+
+
+Direct Ownership by Founders     
+
+
+Martín Migoya 1,591,554 1,487,184 589,884 519,884 509,384 531,321 398,169 378,196 372,633 402,633 372,633
+Guibert Englebienne 1,591,554 1,487,184 589,884 539,884 532,384 541,759 408,606 388,633 355,508 365,508 365,508
+Nestor Nocetti 1,591,555 1,487,184 673,217 613,217 604,217 607,342 474,190 454,218 407,343 407,343 362,343
+Martín Umaran 1,505,104 1,406,403 720,910 670,910 663,410 672,785 558,655 541,536 505,911 512,161 462,161
+
+
+Shares beneficially owned 6,279,767 5,867,955 2,573,895 2,343,895 2,309,395 2,353,207 1,839,620 1,762,583 1,641,395 1,687,645 1,562,645
+
+
+Percent of Globant beneficially owned 21.5% 4.5%
+
+
+Ownership by Irrevocable Trusts created by the founders
+
+
+Kajur International S.A. (Martín Migoya) 833,333 803,333 798,833 798,833
+Etmyl S.A. (Guibert Englebienne) 833,333 783,333 775,833 775,833
+Fudmy Corporation S.A. (Nestor Nocetti) 750,000 710,000 704,000 704,000
+Gudmy S.A. (Martín Umaran) 625,000 575,000 567,500 491,413
+
+
+Founders Irrevocable Trusts Total 3,041,666 2,871,666 2,846,166 2,770,079
+
+
+???
+
+
+Insider Selling (And Maneuvering)
+
+
+The four founders have sold (or transferred ownership to irrevocable trusts) over 75% of their holdings since the IPO
+
+
+Each of the four separate trusts created by the founders 
+were selling shareholders in the secondary in March and 
+
+
+July 2015 -- that is how we are able to follow the partial trail 
+of the shares transferred and sold by the trust.  
+
+
+Shares beneficially owned by the four founders have been reduced from 6.3M (21.5%) to 1.6M (4.5%).   
+
+
+Approximately 3.0M shares were transferred by the 
+four founders into four separate irrevocable trusts prior 
+
+
+to January 31, 2015.  Each of these four irrevocable 
+trusts were formed under New Zealand Laws and their 
+shares were subsequently transferred to four separate 
+
+
+Uruguayan wholly owned companies. 
+
+
+We don’t believe these 
+trusts have to report 
+
+
+sales and can sell in the 
+open market without 
+
+
+disclosing in the U.S. or 
+Luxembourg.  
+
+
+Source: Bloomberg, and Company Filings (IPO Propsectus, March 2015 Secondary Prospectus, July 2015 Prospectus, FY14 20F, FY15 20F, FY16 20F, Luxembourg 
+Prospectus, Globant Minutes of Shareholder Meetings)
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420414043731/v384177_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415018994/v405689_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415041848/v415157_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+
+https://dl.bourse.lu/dl?v=ADyMFy5zxNFitbuuk6wDBklHM/JB9tyvXrHhArypKBYiwgjuJ6qgvqbft3w9goFgxRp1biRq5FSKRzIw7BBFz08wM23/LyLzVoIgrJGZs/RImEYNNo5t164f9ERxSNfcRfiOwNrS/9uE4OCuZvLSWA==
+
+http://investors.globant.com/shareholders-meetings
+27
+
+
+Disclosure Of Trusts
+
+
+The four founders all set up both revocable and irrevocable trusts.   For all eight trusts that were set up, Marcelo 
+Cabrera Errandonea is the sole director and holds dispositive and voting power (+12% of all Globant’s shares 
+
+
+outstanding) for all shares held by all eight trusts
+
+
+Source: Company Filings (March 2015 Secondary Prospectus, July 2015 Prospectus, FY16 20F)
+
+
+Marcelo Cabrera Errandonea is the sole director, holding both dispositive and voting for all eight of the trusts that were set up by the four founders.  The 
+footnote disclosure in the prospectuses filed for Globant’s two secondary offerings (March 2015 and July 2015) disclose that Mr. Errandonea controlled the vote 
+for 13% and 12.3% of Globant’s shares as of January 31, 2015 and May 31, 2015, respectively.  Outside of the prospectus disclosure where these trusts were 
+selling shareholders, Globant does not disclose the voting power held by Mr. Errandonea.  We believe a person or party having this much voting control as well 
+as changes in the voting control should be disclosed to investors.  
+
+
+Shares Controlled By Trusts For the Founders
+
+
+Date: 1/31/2015 5/31/2015 3/20/2017 Voting Power
+
+
+Revocable Trusts created by:
+Martin Migoya 307,665 307,665 207,040 Marcelo Cabrera Errandonea 
+Martin Umaran 402,990 402,990 359,241 Marcelo Cabrera Errandonea 
+Guibert Englebienne 307,665 307,665 0 Marcelo Cabrera Errandonea 
+Nestor Nocetti 349,332 349,332 212,770 Marcelo Cabrera Errandonea 
+
+
+Irrevocable Trusts created by:
+Martin Migoya 833,333 798,833 N/D Marcelo Cabrera Errandonea 
+Martin Umaran 625,000 567,500 N/D Marcelo Cabrera Errandonea 
+Guibert Englebienne 833,333 775,833 N/D Marcelo Cabrera Errandonea 
+Nestor Nocetti 750,000 704,000 N/D Marcelo Cabrera Errandonea 
+
+
+Total voting power of Martin Cabrera Errandonea 4,409,318 4,213,818
+% of Total 13.0% 12.3%
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415018994/v405689_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415041848/v415157_424b4.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417019512/v463666_20f.htm
+28
+
+
+A Closer Look At The Board
+
+
+The Board of Directors was not independent from its IPO until April 2016.  Since April 2016, the Board has consisted of  
+4 Independent Directors, 1 former Non-Independent (now Independent), and 4 Non-Independent directors    
+
+
+Source: Company Website, Shareholder Convening Notices for 2015, 2016, and 2017
+
+
+Indpendent (Y/N)
+Director Related Party Description 2015 2016 2017
+
+
+Martin Migoya Globant Founder, CEO No No No
+Guibert Andres Englebienne Globant Founder, CTO No No No
+Martin Gonzalo Umaran Globant Founder, COS No No No
+David J. Moore WPP #1 Shareholder (current) No No No
+Francisco Alvarez-Demalde Riverwood Previous 5% Shareholder (pre and post IPO) No Yes Yes
+Marcos Galperin Independent Director Yes Yes Yes
+Mario Vazquez Independent Director Yes Yes Yes
+Philip Odeen Independent Director Yes Yes Yes
+Timothy Mott Independent Director Yes Yes --
+Linda Rottenberg Endeavor Previous 1% Shareholder (pre and post IPO) -- -- Yes
+Bradford Eric Bernstein FTV Previous 5% Shareholder (pre and post IPO) No -- --
+
+
+# of Independent Directors 4 5 5
+Total # of Directors 10 9 9
+
+
+% independent 40% 56% 56%
+Majority Independent No Yes Yes
+
+
+We would prefer to see 
+the Board add individuals 
+
+
+that have full 
+independence and no 
+
+
+prior connection to 
+management
+
+
+
+http://investors.globant.com/shareholders-meetings
+Peer Group And Valuation
+30
+
+
+Easy To Debunk The Bull Case
+
+
+Bullish Promoters Spruce Point View
+
+
+Globant is a high growth company and will 
+continue to grow revenues +20% organically
+
+
+Globant has surpassed either revenue or 
+earnings expectations every quarter since it has 
+been public
+
+
+Acquisitions are used to strategically expand and 
+strengthen verticals
+
+
+Committed management team and investor 
+base with meaningful stake in the company
+
+
+Company wide initiatives such as “50-Squared” 
+are increasing wallet share for their largest 
+customers
+
+
+Globant’s organic revenue growth has slowed to 
+the mid-teens and we believe organic growth is 
+trending towards high single digits
+
+
+We found instances where adjustments have been 
+made to enhance EPS, as well as unexplained 
+retrospective revisions to prior quarters that would 
+have resulted in earnings misses
+
+
+Acquisitions are used to mask the organic 
+growth deceleration
+
+
+The four founders have sold or relinquished 
+control of over 70% of their holdings since the 
+IPO in mid-2014
+
+
+Four of Globant’s top 5 customers grew their 
+revenues in 2017 by 2%
+
+
+Premium valuation justified by differentiated 
+services, and superior financial performance
+
+
+Undifferentiated IT outsource provider with higher 
+business risk than peers (greater employee 
+turnover, more client concentration), and 
+inconsistent free cash flow generation
+31
+
+
+No Upside, Terrible Risk / Reward In GLOB
+
+
+Analysts see GLOB shares as fully valued, representing a poor risk/reward at the current level 
+
+
+Source: Bloomberg
+(1) Based on GLOB share price of $49.00
+
+
+Broker Recommendation Price Target
+
+
+SunTrust Robinson Humphrey Buy $59
+
+
+Cowen Outperform $55
+
+
+Wedbush Outperform $55 
+
+
+Itau BBA Securities Outperform $55 
+
+
+JP Morgan Overweight $54 
+
+
+Cantor Fitzgerald Neutral $47 
+
+
+KeyBanc Capital Markets Sector Weight --
+
+
+William Blair & Co Outperform --
+
+
+Average Price Target
+% Upside From Current (1)
+
+
+$54.00
++10%
+32
+
+
+Peak Valuation
+
+
+Price / Book EV / EBITDA EV / Sales
+
+
+Current and prospective investors are ascribing a near record multiple to GLOB’s share price, despite evidence that 
+organic growth is slowing. 
+
+
+2.0x
+
+
+3.0x
+
+
+4.0x
+
+
+5.0x
+
+
+6.0x
+
+
+7.0x
+
+
+8.0x
+
+
+9.0x
+
+
+2014 2015 2016 2017 Current
+2.0x
+
+
+7.0x
+
+
+12.0x
+
+
+17.0x
+
+
+22.0x
+
+
+27.0x
+
+
+32.0x
+
+
+37.0x
+
+
+42.0x
+
+
+2014 2015 2016 2017 Current
+2.0x
+
+
+2.5x
+
+
+3.0x
+
+
+3.5x
+
+
+4.0x
+
+
+4.5x
+
+
+5.0x
+
+
+2014 2015 2016 2017 Current
+33
+
+
+Peer Group Comparison
+
+
+Globant is the highest valued outsourced IT servicing company.  Globant is currently priced for perfection and we 
+believe the stock will re-rate when investors come to the realization that its organic growth is slowing 
+
+
+Source: Bloomberg, Company Filings and Spruce Point Estimates
+Financials have been calanderized for comparative purposes
+INFO and WPRO financials have been converted to current USD rates ($1 = 65 Indian Rupee)
+
+
+Stock % of EBITDA Enterprise Value Net
+Price 52-wk Revenue Growth Margin P/E EBITDA Sales Debt/ Dividend
+
+
+Name Ticker 4/3/2018 High EV 2017 2018E 2017 2018E 2017 2018E 2017 2018E 2017 2018E 18E EBITDA Yield
+Outsourced IT Services
+
+
+COGNIZANT TECH-A CTSH $80.05 94% $42,891 9.8% 9.6% 22.3% 23.8% 21.1x 17.6x 13.0x 11.1x 2.9x 2.6x -1.1x 1.0%
+INFOSYS LTD INFO $17.54 93% $34,763 2.4% 5.8% 26.6% 27.1% 16.3x 16.9x 12.2x 11.3x 3.2x 3.1x -1.2x 2.4%
+WIPRO LTD WPRO $4.37 85% $17,334 -0.6% 2.7% 20.9% 20.6% 16.3x 15.2x 9.8x 9.7x 2.1x 2.0x -1.4x 0.4%
+GENPACT LTD G $31.82 91% $6,868 6.5% 8.5% 17.8% 17.0% 19.6x 18.4x 14.1x 13.6x 2.5x 2.3x 1.4x 0.9%
+WNS HOLDINGS-ADR WNS $44.93 93% $2,155 24.5% 11.4% 18.2% 21.4% 21.4x 19.8x 17.0x 13.0x 3.1x 2.8x -0.6x 0.0%
+CONVERGYS CORP CVG $22.59 85% $2,191 -4.2% -5.4% 12.6% 12.4% 12.1x 13.4x 6.2x 6.7x 0.8x 0.8x 0.4x 1.8%
+TTEC HOLDINGS TTEC $30.90 71% $1,687 15.8% 2.8% 13.3% 13.5% 17.2x 15.8x 8.6x 8.3x 1.1x 1.1x 1.3x 1.7%
+EXLSERVICE EXLS $56.16 87% $1,717 11.1% 10.4% 17.6% 17.7% 21.2x 20.3x 12.8x 11.5x 2.3x 2.0x -1.4x 0.0%
+VIRTUSA CORP VRTU $48.10 91% $1,384 20.0% 22.2% 10.9% 8.0% 32.1x 22.9x 13.1x 14.7x 1.4x 1.2x -1.5x 0.0%
+SYKES ENTERPRISE SYKE $28.48 83% $1,153 8.6% 6.1% 10.8% 10.5% 14.2x 14.0x 6.8x 6.6x 0.7x 0.7x -0.4x 0.0%
+
+
+Max 24.5% 22.2% 26.6% 27.1% 32.1x 22.9x 17.0x 14.7x 3.2x 3.1x 1.4x 2.4%
+Average 9.4% 7.4% 17.1% 17.2% 19.1x 17.4x 11.4x 10.6x 2.0x 1.9x -0.4x 1.4%
+Min -4.2% -5.4% 10.8% 8.0% 12.1x 13.4x 6.2x 6.6x 0.7x 0.7x -1.5x 0.4%
+
+
+Digital Outsourcing Pure Plays
+EPAM Systems Inc EPAM $112.74 90% $5,422 25.0% 24.9% 18.1% 18.1% 32.6x 27.7x 20.6x 16.6x 3.7x 3.0x -1.7x 0.0%
+Luxoft Holding Inc LXFT $40.50 60% $1,291 17.0% 13.4% 15.3% 13.8% 14.3x 13.3x 9.6x 9.4x 1.5x 1.3x -0.5x 0.0%
+
+
+Max 25.0% 24.9% 18.1% 18.1% 32.6x 27.7x 20.6x 16.6x 3.7x 3.0x -0.5x 0.0%
+Average 21.0% 19.1% 16.7% 15.9% 23.4x 20.5x 15.1x 13.0x 2.6x 2.1x -1.1x 0.0%
+Min 17.0% 13.4% 15.3% 13.8% 14.3x 13.3x 9.6x 9.4x 1.5x 1.3x -1.7x 0.0%
+
+
+Globant SA GLOB $48.83 89% $1,720 28.1% 21.7% 17.2% 17.3% 38.1x 30.9x 24.2x 19.7x 4.2x 3.4x -0.6x 0.0%
+Globant SA - Adj 14.8%
+
+
+$ in mm, except per share figures
+34
+
+
+Per Avg.  Head Foreign Quarterly Employee Client
+CAPX / Sales 2017 2017 Private Cash Flow Attrition(1) Concentration(2)
+
+
+Name Ticker 2016 2017 Capex Revs Issuer Filed 2016 2017 Top 5 Top 10
+Digital Outsourcing Pure Plays
+EPAM Systems Inc EPAM 2.5% 2.1% $4,336 $60,004 No Yes 10% N/D 24% 34%
+Luxoft Holding Inc LXFT 3.2% 2.5% $7,032 $73,619 Yes Yes 10% 13% 49% 60%
+Globant SA GLOB 5.5% 4.5% $9,393 $66,770 Yes No 19% 18% 29% 43%
+
+
+PP&E Breakout 
+GLOB EPAM LXFT
+
+
+Computer Equip and Software $18.1 $70.5 $73.0
+Furniture and Supplies 5.1 28.9 16.7
+Office Fixtures 29.7
+Leasehold Improvements 13.2
+
+
+Total $52.9 $112.6 $89.7
+
+
+Employees 5,631 25,962 12,766
+Spend per Employee $9,394 $4,337 $7,026
+
+
+A Look At GLOB’s Two Closest Peers
+
+
+Globant has the highest valuation amongst its two closest peers, EPAM and Luxoft. We do not believe this is justified 
+given higher business risk, and lower financial transparency
+
+
+Source: Bloomberg, Spruce Point Estimates and Company Filings (EPAM 10K, LXFT 10K, LXFT Investor Presentation)
+Financials have been calanderized for comparative purposes
+(1) Annualized turnover of workforce
+(2) Percentage of revenues
+(3) Office Snapshots
+
+
+One of the few public companies 
+Spruce Point has ever seen that 
+avoids providing quarterly cash 
+
+
+flow statements
+
+
+Globant appears to spend more freely 
+on providing nice office fixtures for 
+
+
+employees, than on computer 
+equipment or software (3) 
+
+
+
+https://www.sec.gov/Archives/edgar/data/1352010/000135201017000006/epam-20161231x10k.htm#sE07ACC2416BBB2BF12C9757CB9267ADE
+
+https://www.sec.gov/Archives/edgar/data/1538375/000104746917004561/a2232656z20-f.htm#IT5A
+
+https://www.sec.gov/Archives/edgar/data/1538375/000110465918009349/a18-6094_1ex99d2.htm
+
+https://officesnapshots.com/2017/11/09/globant-offices-bogota-2/
+35
+
+
+Peer Group Comparison: 
+Digital Outsourcing Pure Plays
+
+
+Globant has the highest valuation amongst its two closest peers (Luxoft and EPAM) despite a weaker business profile
+
+
+Source: Bloomberg, Spruce Point Estimates and Company Filings
+Financial data has been calanderized for comparative purposes
+(1)  LXFT’s 2017 calendar year organic growth assumes $50M of annual revenues from Insys acquisition on July 18, 2016   
+(2)  Employee Turnover for EPAM was reported at 10.4% in Q316.  LXFT’s employee turnover reflects its fiscal year ending March 31.    
+
+
+Highest Valuation
+
+
+2018E EV / EBITDA
+
+
+2018E P/E
+
+
+2017 Revenue Growth (1)
+
+
+Peer Low or Middle of the Pack Performance
+
+
+2017 EBITDA Margin
+
+
+18%
+
+
+15%
+
+
+17%
+
+
+EPAM LXFT GLOB
+
+
+Employee 
+Turnover Rates (2)
+
+
+2017 Revenue Concentration –
+Top 10 Clients
+
+
+27.7x
+
+
+13.3x
+
+
+30.9x
+
+
+EPAM LXFT GLOB
+
+
+25%
+
+
+17%
+
+
+13%
+
+
+28%
+
+
+15%
+
+
+EPAM LXFT LXFT
+Organic
+
+
+GLOB GLOB
+Organic
+
+
+16.6x
+
+
+9.4x
+
+
+19.7x
+
+
+EPAM LXFT GLOB
+
+
+10.4% 10.3%
+
+
+19.3%
+
+
+12.7%
+
+
+18.0%
+
+
+EPAM LXFT GLOB
+2016 2017
+
+
+34%
+
+
+60%
+
+
+43%
+
+
+EPAM LXFT GLOB
+36
+
+
+Organic Growth And Valuation
+
+
+We ran a regression analysis to aid us in our valuation framework.  
+We included peers that had organic growth rates of at least 9%
+
+
+Source: Bloomberg, Company Filings and Spruce Point Estimates
+Tickers included in the analysis above include CTSH, WNS, TTEC, EXLS, VRTU, SYKE, EPAM, LXFT
+LXFT and WNS revenue growth rates have been adjusted to reflect our estimates of organic growth rate based on its recent acquisitions
+
+
+2018E EV / EBITDA vs. Sales Growth 2018E EV / Sales vs. Sales Growth
+
+
+Our linear regression on similar companies suggests a valuation 
+based on EBITDA of approximately 11.0x which equates to a 
+
+
+price target of approximately $28.00   
+
+
+Our linear regression on similar companies suggests a 
+valuation based on Sales of 1.8x which equates to a price 
+
+
+target of approximately $26.50
+
+
+CTSH
+
+
+WNS
+
+
+TTEC
+
+
+EXLS
+
+
+VRTU
+
+
+SYKE
+
+
+EPAM
+
+
+LXFT
+
+
+Spurce Point View, 
+15% "organic Growth, 
+
+
+11.0x EBITDA
+
+
+Globant View
+24% Sales Growth
+
+
+19.7x EBITDA
+
+
+5.0x
+
+
+7.0x
+
+
+9.0x
+
+
+11.0x
+
+
+13.0x
+
+
+15.0x
+
+
+17.0x
+
+
+19.0x
+
+
+21.0x
+
+
+8% 10% 12% 14% 16% 18% 20% 22% 24% 26%
+
+
+EV / 
+2018E
+
+
+EBITDA
+
+
+2017 Organic Sales Growth
+
+
+CTSH
+WNS
+
+
+TTEC
+
+
+EXLS
+
+
+VRTU
+
+
+SYKE
+
+
+EPAM
+
+
+LXFT
+
+
+Spruce Point 
+View
+
+
+15% organic 
+Growth…
+
+
+Globant View
+24% Sales Growth
+
+
+3.4X Sales
+
+
+0.0x
+
+
+0.5x
+
+
+1.0x
+
+
+1.5x
+
+
+2.0x
+
+
+2.5x
+
+
+3.0x
+
+
+3.5x
+
+
+4.0x
+
+
+8% 10% 12% 14% 16% 18% 20% 22% 24% 26%
+
+
+EV/
+2018E
+Sales
+
+
+2017 Organic Sales Growth
+37
+
+
+Price Target
+
+
+Globant’s lack of cash flow generation from its core operations, decelerating organic growth, and potentially 
+misleading claims by management are all reflected in our choice of its multiple range
+
+
+Source: Bloomberg, Company Filings and Spruce Point Estimates
+Assumes Net debt of $54.7M and 36.3M diluted shares outstanding and $49/sh price
+
+
+Valuation Scenarios
+
+
+Current Optimistic Regression Low
+2018E EBITDA $87.1 $87.1 $87.1 $87.1
+
+
+Multiple 19.7x 13.0x 11.0x 10.0x
+
+
+Implied Enterprise Value $1,718.0 $1,132.3 $958.1 $871.0
+
+
+Target Price $49.00 $32.70 $27.90 $25.50
+
+
+  % Downside 0.0% -33.3% -43.1% -48.0%
+
+
+Current Optimistic Regression Low
+2018E Sales $503.3 $503.3 $503.3 $503.3
+
+
+Multiple 3.4x 3.0x 1.8x 1.3x
+
+
+Implied Enterprise Value $1,718.0 $1,509.9 $905.9 $654.3
+
+
+Target Price $49.00 $43.10 $26.46 $19.53
+
+
+  % Downside 0.0% -12.0% -46.0% -60.1%
+Appendix
+39
+
+
+Globant Acquisitions
+
+
+Globant consistently tells investors that most of it growth is Organic (vs. from M&A).  
+We have done the work to prove otherwise!
+
+
+M&A represented at least 47% of its total growth in 2017.  More alarming is that organic growth is decelerating
+
+
+Sources: Company Filings (FY14 20F, FY15 20F, FY 16 20F, 1H17 6K)
+(1)  Implied annual revenues are deduced from the footnote section disclosure -- "impact of acquisitions on the results of the company”
+(2)  Revenue contribution for the first year are disclosed in the same footnote section -- "impact of acquisitions on the results of the company"
+
+
+Revenue contribution for the second year, which is likely conservative, is the difference between the implied annual revenues less what was reported in the first partial year period of 
+the acquisition
+
+
+(3)  Implied revenues for Ratio and PointSource are half year periods ending June 30, 2017 and then annualized assuming a full 12 month calendar year
+
+
+Implied
+Acqusition Annual Incremental Revenues from M&A(1)
+
+
+Target Date Amount ($) Employees Revs(1) 2011 2012 2013 2014 2015 2016 2017 2018
+
+
+Nextive /  Tecnologia 7/29/2011 $5.4 N/D $8.2 $4.0 $4.2
+Terraforum 10/26/2012 5.2 58 4.7 0.9 $3.9
+Huddle Group 10/11/2013 8.1 156 9.9 2.1 $7.8
+BlueStar Energy 10/10/2014 1.4 N/D 4.8 1.1 $3.7
+Clarice 5/14/2015 20.2 337 16.7 7.1 $9.6
+DynaFlows 10/22/2015 1.8 N/D 0.8 0.2 0.6
+WAE 5/23/2016 19.9 40 10.8 7.5 $3.3
+Difier 11/14/2016 0.0 N/D 1.8 0.4 1.4
+L4 11/14/2016 20.4 90 15.9 3.4 12.5
+Ratio(3) 2/28/2017 10.7 45 12.1 10.2 $1.9
+Pointsource(3) 6/1/2017 $30.2 97 $26.6 15.4 11.2
+Total $123.2 $112.3 $4.0 $5.1 $6.0 $8.8 $11.0 $21.5 $42.8 $13.1
+
+
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420415025184/v408086_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420416097409/v437453_20f.htm
+
+https://www.sec.gov/Archives/edgar/data/1557860/000114420417043882/v473530_ex99-1.htm
+40
+
+
+Related Parties Revenue Disclosure
+
+
+We believe that Globant should explicitly disclose to investors which of their related parties are affiliated with WPP.  We 
+believe the spirit of related party disclosure is to highlight to investors how much revenues are coming from your 
+
+
+largest shareholder
+
+
+Source: Company Filings
+
+
+WPP represents 99% of 
+related party revenue 
+
+
+since 2013  
+
+
+Other Related Parties 
+represent 1% of Related 
+
+
+Party Revenue
+
+
+Note 21:  WPP  and other Related Parties
+
+
+# Firm
+WPP 
+
+
+Owned? 2013 2014 2015 2016
+1 Acceleration eMarketing Yes - - 12 —
+2 Added Value Yes - - 361 790
+3 AkQA Yes 266 - -
+4 Blue State Digital Yes - - 41
+5 Burson Marsteller Yes - 121 261 59
+6 Digitarias Yes 43 - -
+7 Fbiz Comunicação Ltda. Yes - 518 267
+8 Geometry Global Yes - 146 2
+9 Grey Global Group Inc. Yes 635 974 1,011 1182
+
+
+10 Group M Worldwide Inc Yes 1,741 1,137 868 822
+11 Hogarth Yes 40 - -
+12 IBOPE Argentina Yes - - 6 244
+13 IBOPE Pesquisa de Mídia Ltda Yes - - 288
+14 JWT Yes 921 839 957 919
+15 Kantar Group Yes 306 1,754 282 674
+16 Kantar Media Yes 254 - -
+17 Kantar Operations Yes 213 - -
+18 Kantar Retail Yes - - 69 93
+19 Kantar World Panel Yes 1,897 - -
+20 Mindshare Yes 423 168 71
+21 Ogilvy & Mather Brasil Comunicat Yes - 49 - 611
+22 Rockfish Interactive Corporation Yes 122 193 77
+23 Tenthavenue Media ltd Yes - - 69
+24 TNS Yes 1,229 1,207 1,086 579
+25 VML Yes - 31 -
+26 Wunderman CATO Johnson S.A Yes - 24 -
+27 Young & Rubicam Yes 442 520 652 366
+
+
+28 Mercado Libre S.R.L. No 100
+29 Qualicorp No - - 275
+30 Coretech No 23
+
+
+WPP Total $8,532.0 $7,681.0 $6,380.0 $6,339.0
+% of Total 100% 100% 96% 98%
+
+
+Other $0.0 $0.0 $275.0 $123.0
+Total $8,532.0 $7,681.0 $6,655.0 $6,462.0
+
+
+Founder of Mercado Libre is 
+on the board of Globant and 
+
+
+was listed as a client since 
+2011.   Why was this not 
+
+
+disclosed until 2016?

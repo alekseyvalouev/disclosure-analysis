@@ -1,1303 +1,2983 @@
-!"#$%&"'()*
-!"#$%&$'())*$+,-#."$//01"$.#"#,.23$4"$,-$*%(.$%56$.4"78$$9%($"3%(:)$)%$*%(.$%56$.#"#,.23$,6)$)(#$)4:4;#62#$<#&%.#$=,746;$,6*$46>#"-=#6-$)#24"4%6$
-54-3$.#"?#2-$-%$"#2(.4-4#"$2%>#.#)$3#.#468$$9%($"3%(:)$,""(=#$-3,-$,"$%&$-3#$?(<:42,-4%6$),-#$%&$,6*$.#?%.-@$'())*$+,-#."@$//0$A?%""4<:*$,:%6;$54-3$%.$
--3.%(;3$%(.$=#=<#."@$?,.-6#."@$,&&4:4,-#"@$#=?:%*##"@$,6)B%.$2%6"(:-,6-"C$,:%6;$54-3$%(.$2:4#6-"$,6)B%.$46>#"-%."$3,"$,$"3%.-$?%"4-4%6$46$-3#$"-%27$A,6)B%.$
-%?-4%6"$%&$-3#$"-%27C$2%>#.#)$3#.#46@$,6)$-3#.#&%.#$"-,6)"$-%$.#,:4D#$"4;64&42,6-$;,46"$46$-3#$#>#6-$-3,-$-3#$?.42#$%&$"-%27$)#2:46#"8$$E%::%546;$?(<:42,-4%6$
-%&$,6*$.#?%.-@$5#$46-#6)$-%$2%6-46(#$-.,6",2-46;$46$-3#$"#2(.4-4#"$2%>#.#)$-3#.#46@$,6)$5#$=,*$<#$:%6;@$"3%.-@$%.$6#(-.,:$,-$,6*$-4=#$3#.#,&-#.$.#;,.):#""$
-%&$%(.$464-4,:$.#2%==#6),-4%68$$$F34"$4"$6%-$,6$%&&#.$-%$"#::$%.$,$"%:424-,-4%6$%&$,6$%&&#.$-%$<(*$,6*$"#2(.4-*@$6%.$"3,::$,6*$"#2(.4-*$<#$%&&#.#)$%.$"%:)$-%$,6*$
-?#."%6@$46$,6*$G(.4")42-4%6$46$53423$"(23$%&&#.$5%(:)$<#$(6:,5&(:$(6)#.$-3#$"#2(.4-4#"$:,5"$%&$"(23$G(.4")42-4%68$F%$-3#$<#"-$%&$%(.$,<4:4-*$,6)$<#:4#&@$,::$
-46&%.=,-4%6$2%6-,46#)$3#.#46$4"$,22(.,-#$,6)$.#:4,<:#@$,6)$3,"$<##6$%<-,46#)$&.%=$?(<:42$"%(.2#"$5#$<#:4#>#$-%$<#$,22(.,-#$,6)$.#:4,<:#@$,6)$53%$,.#$
-6%-$46"4)#."$%.$2%66#2-#)$?#."%6"$%&$-3#$"-%27$2%>#.#)$3#.#46$%.$53%$=,*$%-3#.54"#$%5#$,6*$&4)(24,.*$)(-*$%.$)(-*$%&$2%6&4)#6-4,:4-*$-%$-3#$4""(#.8$$$
-H%5#>#.@$"(23$46&%.=,-4%6$4"$?.#"#6-#)$I,"$4"@I$54-3%(-$5,..,6-*$%&$,6*$746)$J$53#-3#.$#K?.#""$%.$4=?:4#)8$$'())*$+,-#."@$//0$=,7#"$6%$.#?.#"#6-,L
--4%6@$#K?.#""$%.$4=?:4#)@$,"$-%$-3#$,22(.,2*@$-4=#:46#""@$%.$2%=?:#-#6#""$%&$,6*$"(23$46&%.=,-4%6$%.$54-3$.#;,.)$-%$-3#$.#"(:-"$-%$<#$%<-,46#)$&.%=$4-"$("#8$$
-M::$#K?.#""4%6"$%&$%?464%6$,.#$"(<G#2-$-%$23,6;#$54-3%(-$6%-42#@$,6)$'())*$+,-#."@$//0$)%#"$6%-$(6)#.-,7#$-%$(?),-#$%.$"(??:#=#6-$-34"$.#?%.-$%.$,6*$
-%&$-3#$46&%.=,-4%6$2%6-,46#)$3#.#468
+JOSH UPDATE
+This research presentation report expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which 
+are based upon publicly available information, and all of which are set out in this research presentation report.  Any investment involves substantial risks, 
+including complete loss of capital.  Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum 
+possible loss or gain. Any information contained in this report may include forward looking statements, expectations, pro forma analyses, estimates, and 
+projections.  You should assume these types of statements, expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for 
+reasons beyond Spruce Point Capital Management LLC’s control.  This is not investment or accounting advice nor should it be construed as such. Use of 
+Spruce Point Capital Management LLC’s research is at your own risk.  You should do your own research and due diligence before making any investment 
+decision with respect to securities covered herein. All figures assumed to be in US Dollars, unless specified otherwise.
+
 
+You should assume that as of the publication date of any presentation, report or letter, Spruce Point Capital Management LLC (possibly along with or 
+through our members, partners, affiliates, employees, and/or consultants) along with our subscribers and clients has a short position in all stocks (and/or 
+are long puts/short call options of the stock) covered herein, including without limitation Planet Fitness, Inc. (“PLNT”), and therefore stand to realize 
+significant gains in the event that the price of its stock declines. Following publication of any presentation, report or letter, we intend to continue 
+transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless of our initial recommendation. 
 
-!"#$%&'#(')(*$+$,#%-.(/,#+'0(/1(23'%45(6+71
 
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in 
+which such offer would be unlawful under the securities laws of such jurisdiction.  Spruce Point Capital Management LLC is not registered as an 
+investment advisor, broker/dealer, or accounting firm. 
 
-!"##$%&'()*+,%--.
-88819:;;<8,&$#+#$+$,#%-1%'9
 
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material 
+facts necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and 
+reliable, and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of 
+confidentiality to the issuer, or to any other person or entity that was breached by the transmission of information to Spruce Point Capital Management 
+LLC.  However, Spruce Point Capital Management LLC recognizes that there may be non-public information in the possession of Planet Fitness, Inc. or 
+other insiders of Planet Fitness, Inc. that has not been publicly disclosed by Planet Fitness, Inc. Therefore, such information contained herein is presented 
+“as is,” without warranty of any kind – whether express or implied. Spruce Point Capital Management LLC makes no other representations, express or 
+implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use. All rights 
+reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point Capital 
+Management LLC.
+3
+
+
+Table of Contents
 
-"0)'=9:;;<8,&$#+#$+$,#%-
 
+I. Executive Summary
+II. Brief Overview of Planet Fitness
+III. Summary of Fundamental Short Thesis
+IV. Loss of Competitive Advantage and Unrealistic Growth Expectations
+V. Accounting and Financial Disclosure Concerns
+VI. Governance and Related Party Issues
+VII. Valuation and Sell-Side Disconnect
+Executive Summary
+5
+
+
+Spruce Point Is Short Planet Fitness (“PLNT”)
+For the Following Reasons:
+
+
+1
+Questionable Business Strategy with Unachievable Revenue Goals: The fitness industry is intensely competitive, subjecting Planet to the 
+whim of changing consumer preferences (yoga, boot camp, barre burn, adventure courses), potential technology disruption from 
+wearables, and rife with examples of chains that over-expanded and failed (e.g. Bally Total Fitness, Curves, Town Sports). Planet Fitness 
+(“Planet” or “PLNT”) tries to differentiate itself with a “no judgment” model for the casual fitness user that doesn’t want to be 
+“gymtimidated,” at no-commitment, and a low entry price of $10/month (plus initiation fees). On average, its clubs have 6,500 members, 
+and it needs both densely populated markets and members who won’t use its gyms to make its financial model work! Furthermore, we 
+believe Planet’s revenue targets and growth rate are unrealistic and likely to disappoint current expectations. According to a former 
+Planet insider, Planet appears to have created a pre-IPO fairytale goal that it can quadruple its club base from over 1,000 to 4,000 
+locations, so unrealistic that it implies massive market share of approx. 40% and would severely cannibalize existing locations. With no 
+barriers to entry, competitors have already replicated Planet’s look, pricing plan, and “specialty black card” model. We’ve identified over 
+700 +comparable clubs with sub $20/month pricing that all are targeting Planet’s core customers.  With its competitive advantage 
+disappearing, we fear Planet will be left to compete solely on price - a proven deflationary force in the fitness industry. Highlighting our 
+concerns, we note Planet’s net income and operating cash flow barely grew in 2015 despite highlighting top line growth! Planet appears to 
+be trying hard to keep members from cancelling, but in the process has aggravated customers resulting in scores of internet complaints
+and Better Business Bureau citations. At the extreme, even a class action lawsuit from former club members has been filed claiming unfair 
+cancellation terms! Is it a surprise that Planet doesn’t disclose member churn? Signs of financial strain are manifesting itself in 2015 from 
+rapidly rising bad debt expense and Planet’s explosion in marketing and advertising costs to recruit new members. However, by our 
+estimate, Planet’s National Advertising Fund recently operated at a deficit despite a hefty requirement that 2% and 7% of total gross 
+monthly dues must be used for national and local advertising, respectively. 
 
-./01'2$3
 
+2 Planet is Really A Glorified Gym Equipment Seller With Unsustainable Margins: Over 95% of Planet’s clubs are franchise-owned, but 
+counter to appearances, equipment is more meaningful than appreciated at 43% of its sales and 26% of its EBITDA coming from high 
+margin equipment sales to franchises. According to Planet’s 2015 Franchise Disclosure Document, it imposes guidelines that franchisees 
+must purchase new equipment from its own entity, Planet Fitness Equipment LLC, and replace cardio and fitness equipment every 4 and 6 
+years, respectively; however, not as reoccurring as it appears. With a total estimated upfront cost to own a new franchise at $728k - $3.7m, 
+re-equipment costs at $320-$784k in years 4-6, and location remodeling costs of $75k - $550k every 4 years, Planet risks aggravating and 
+receiving push back from the marginally profitable franchisees that may decide it is not worth the cost to re-equip. Planet has to walk a fine 
+line in appeasing its current franchisees, which were responsible for opening 90% of new locations in 2015 and are expected to be a major 
+driver of its ambitious growth plan! We believe that Planet has made concessions to sacrifice equipment margins in an effort to boost its 
+effective royalty rate and scale it toward 5%. The reason for this is simple: Planet hopes to convince Wall St. analysts it should get a higher 
+valuation for more royalty payments! Planet’s equipment margins have also benefitted from supplier rebates, but like other financial 
+matters related to its equipment sales, Planet does not gives much disclosure into the exact impact
 
-4)5/00)2#'(6/23
 
 
-72#"+(*$3
+http://www.cnbc.com/2015/01/09/igh-rents-pose-a-challenge-to-gym-operators.html
 
+http://dealbook.nytimes.com/2008/12/03/bally-total-fitness-files-again-for-bankruptcy/
 
-4)1/*(%8'()3
+http://www.forbes.com/sites/karstenstrauss/2014/05/27/crash-diet-after-shedding-thousands-of-locations-can-curves-get-back-in-shape/#436be0fa63f8
 
+http://clubindustry.com/profits/town-sports-ceo-gallagher-leave-company
 
-9*65)3
+http://www.planetfitness.com/About-Planet-Fitness-Gym
 
+https://www.youtube.com/watch?v=98BkObFEzCI
 
-!'*:)(%.'13
+http://www.planetfitness.com/membership-types
 
+http://www.consumeraffairs.com/health_clubs/planet_fitness.html
 
->?1@(9"33"'0
+https://www.wdfi.org/apps/FranchiseSearch/details.aspx?id=609261&hash=251320875&search=external&type=GENERAL
+6
 
 
-;<=%>/?"0)3
+Spruce Point’s Base Case:
+50% Downside to $8.00 / share
 
 
-/-"0,(A$;",(6BC#$++(D'3;"0E+(F//A6G
+Valuation Disconnect and Downside Catalyst:  Valued at 5.5x 2017E sales and 13x 2017E EBITDA, Wall St. has embraced the Planet 
+story with 11 analysts saying “Buy” and setting an avg. target of $20.20/sh (+25% upside). In setting lofty price targets, analysts’ 
+stretch comparisons of Planet’s business to include “healthy living” comps (supermarkets e.g. Whole Foods), fast food operators 
+(e.g. Chipotle), and clothing retailers (e.g. Michael Kors); absurd comparisons to industries with different business risks! Planet 
+would like credit from investors for being a high value franchisor, but in our view, Planet’s valuation should be anchored toward gym 
+equipment makers (given its dependence on equipment sales), and to other clubs such as Life Time fitness (recently privatized) and 
+Town Sports. Analysts also fail to account for a hefty tax liability, which could saddle shareholders with debts of $1.40 -$7.20 / share! 
+We apply a 7x -10x EBITDA multiple and arrive at a price target of $4.65 - $12.00 /sh ($8.00 at the midpoint, or ~50% downside). We 
+estimate Planet’s private equity backer has a 3x return on its investment, and a big concentration of shares in its portfolio (est. 20%). 
+As a result, we expect a large secondary to act as an overhang and downside catalyst
 
 
-H&#'0E(H$33
+Accounting and Financial Disclosure: Planet IPO’ed in Aug 2015 under the Jobs Act, but in our opinion, should not be excused from a 
+plethora of questionable issues including:  1) Its lack of transparency on key performance metrics (e.g. member churn) and scant 
+disclosure of its performance targets post-IPO, 2) Potentially flawed / aggressive “gross” revenue accounting for equipment to 
+bolster its top line revenue, 3) Aggressive definition of “active” members to include pre-sales, 4) Appearance of undisclosed deficit 
+spending in Planet’s Advertising Fund, 5) Potential understatement of the tax benefits payable by $569m, 6) Potential 
+misclassification of placement revenue tied to equipment in franchise revenue (and related costs placed in SG&A), and 7) Weak 
+internal controls leading to the sentencing to prison of a Planet Fitness corporate systems manager in Jan 2016 who stole $1m 
+through a fraudulent invoice scheme. 
 
 
-I:&;''#(!"E"&,3(J;K$#&"+"0E
+4
+Governance Concerns: Planet’s road to the pubic markets is not without controversy. For example, New Hampshire’s governor failed 
+to disclose his ties to Planet both as an investor and Board member while lobbying state legislators for a tax change to benefit Planet. 
+Nor did he reveal that he and former Cabletron Chief Financial Officer David Kirkpatrick (an SEC investigated individual) played a 
+crucial role in the effort to take the company public three years ago. Planet was ultimately sold privately, a sale that resulted in two 
+lawsuits, with one of them being the former CFO who accused Planet of securities fraud. Our closer evaluation of Planet’s 
+governance reveals additional causes for concern. First, Planet’s FDD reveals a disclosure that one of its officers owns an indirect 
+interest in its equipment vendor, Planet Fitness Equipment LLC. This disclosure is not made to investors in its SEC filings. Upon review 
+of prior FDD documents, we also identified instances of related party steering of business to franchisee owned vendors (related 
+parties), also not disclosed in SEC filings, and which could disadvantage shareholders and other franchisees. Investors should be 
+cautioned that management is held accountable primarily to members of TSG Consumer, a private equity firm that controls 65% of 
+the voting power and 4 of 8 Board seats. Planet provides no transparency on target metrics its management must achieve to attain 
+cash bonuses; as a result, management can potentially fail to meet public guidance, and still get paid handsomely!
 
 
-A,#%-(@5(@?>>
+3
 
 
-L>@1@M
+5
 
 
-LN@?1M(9"33"'0
 
+http://www.justice.gov/usao-nh/pr/former-madbury-new-hampshire-resident-sentenced-33-months-jail-mail-fraud
 
-@?/'(3
+https://www.sec.gov/litigation/complaints/2007/comp20001.pdf
+Brief Overview of Planet Fitness
+8
 
 
-@1O(9"33"'0
+What is Planet Fitness?
 
 
-A+(60'()#%>'?")3
-LP1QN
+• Over 1,124 clubs (58 company owned / 1,066 franchised) across the U.S., Canada, Dominican Republic and Puerto Rico with 
+approximately 7.3 million members as of 12/31/15. Average club size is approx. 20,000 sqft. 
 
 
-A:;;<(R,&$#+5(SS/(-,+(,9,++$;("##$):&,T3$($K";$0%$(&-,&(
-//A6("+(,(+:T+&,0&",3()#,:;5(,0;(&-,&(9,0,E$9$0&("+(
-$0E,E"0E("0(,(%'K$#U:C(#$C3$&$(8"&-():#&-$#(;"++$9"0,&"'0(')(
-)#,:;:3$0&("0)'#9,&"'01((
+• 2015 Sales and Adj. EBITDA of $330m and $123m, respectively  (43% of sales and 26% EBITDA come from equipment sales)
+• Caters to casual fitness user that doesn’t want to be “gymtimidated” or “judged” at a gym
+• Very focused on cardio equipment over heavy free weights
+• Low cost monthly membership options
 
 
-R$(C#$+$0&(,(#$%'#;$;(&$3$C-'0$(%'0K$#+,&"'0(&-,&(%'0&,"0+(
-,0(,;9"++"'0(&-,&(//A6("+($0E,E"0E("0(+$%:#"&"$+()#,:;1((
+• Planet bets on its customers not using its facilities since its average membership per club is 6,500 people, with some 
+locations over 10,000 members
 
 
-R$(;'%:9$0&(&-,&("0(&-$(%':#+$(')(#$T:&&"0E(':#(*$C'#&5(
-/-,"#9,0(/-$0E(C#'K";$;(),T#"%,&$;("0)'#9,&"'01((
+• Black card conveys additional “benefits”
 
 
-R$(C#$+$0&(&-$(+,3$+(C#$+$0&,&"'0(8$(#$%$"K$;("0(V,0:,#<(
-)#'9(&-$(,)'#$9$0&"'0$;(+,3$+C$#+'0(F&-$(WH,3$+(X#$+$0&,U
-&"'0YG(&-,&(+-'8+(//A6(-,+()$8$#(&-,0(-,3)(')(&-$(T:+$+("&(
-%3,"9+1((
+Source: Planet Fitness
 
 
-R$(C#$+$0&(,(9"0"U;'%:9$0&,#<(')(&-$(3,#E$+&(C:#C'#&$;(
-'C$#,&'#(Z(H-,0E-,"(2,(H-"(Z(+C$%")"%,33<()'%:+"0E('0("&+(
-"0&$#U%"&<(T:+$+(,0;(;#"K$#+1([-$()"39(+-'8+(&-,&(//A6\+(
--,#;8,#$("+(0'&("0+&,33$;('0(&-$(T:+$+5(;$+C"&$(//A6\+(
-%3,"9(&'(-,K$(-,;(-,#;8,#$('0(&-$+$(T:+$+(+"0%$(,&(3$,+&(
-9";U@??O1((
-2 
-
-
-Muddy Waters, LLC has amassed irrefutable evidence that China MediaExpress Holdings, Inc. (“CCME”) is a substantial 
-fraud, and that management is engaging in a cover-up replete with further dissemination of fraudulent information.  In 
-light of the nature of the evidence, we believe that a de-listing from NASDAQ is not improbable; further, we believe that 
-management stands to lose additional credibility.  We therefore reduce our estimated value by one-third to $3.54. 
- 
-We present a recorded telephone conversation that contains an admission that CCME is engaging in securities fraud.  The 
-conversation took place on February 23rd between the CCME salesperson who provided us with the advertiser kit we cited 
-in our February 3, 2011 report (the “Report”) and one of our analysts.  The CCME salesperson initiated the conversation 
-without notice in response to investigative actions taken by CCME’s auditor, Deloitte Touche Tohmatsu (“Deloitte”).  
-During the conversation, the salesperson stated that: 
-
-
-• CCME has been doubling the number of buses on which it has installed equipment for purposes of its SEC filings; 
-and 
-
-
-• CCME replaced recently replaced the salesperson’s hard drive due to the increased scrutiny. 
- 
-The recording with subtitles is available at: http://www.youtube.com/watch?v=cLAm-dJh2fI 
- 
-We document that in the course of rebutting our Report, Chairman Cheng provided fabricated information.  In Chairman 
-Cheng’s February 7, 2011 letter (the “Chairman’s Letter”), Chairman Cheng challenged our assertion that CCME’s largest 
-purported contract does not exist.  His proof includes an “excerpt” of buses he claims are covered by the disputed 
-contract.  The excerpt contains license plate numbers of three buses.  We have official documentation (shown in Appendix 
-A) from the Shanghai Public Security Bureau Traffic Management Administrator (the “Traffic Administrator”) that shows 
-these three license plates numbers are fabricated. 
- 
-We present the sales presentation we received in January from the aforementioned salesperson (the “Sales Presentation”) 
-that shows CCME has fewer than half of the buses it claims.  The Sales Presentation (Appendix B), which shows CCME’s 
-buses by province and city, corroborates the following facts we presented in our earlier Report: 
-
 
-• CCME has fewer than half of the buses it claims; and 
-• its largest purported contract (with Shanghai Ba Shi for 1,892 buses) does not exist.  The number of buses for 
+http://www.planetfitness.com/membership-types
+9
 
 
-Shanghai-based operators in the presentation matches the number in the spreadsheet we received – 296. 
- 
-We present a mini-documentary of the largest purported operator – Shanghai Ba Shi – specifically focusing on its inter-
-city buses and drivers.  The film shows that CCME’s hardware is not installed on the buses, despite CCME’s claim to 
-have had hardware on these buses since at least mid-2008. 
- 
-The video is available at: http://www.youtube.com/watch?v=-COZ5l9ayzM 
- 
-If one questions whether it is Muddy Waters, LLC – and not CCME – that has fabricated information and documents, we 
-point out the following.  Our research director and sole member manager, Carson Block, is a United States citizen with 
-assets and family in, and significant ties to, the United States.  Although we do not know the extent of CCME 
-management’s ties to the United States, we venture to guess that they are significantly less than those of Mr. Block.
-3 
+Capital and Debt Structure 
 
 
-II. CCME Sales Representative’s Admission of Securities Fraud 
- 
-Background 
- 
-In January 2011, we cold called CCME’s headquarters in Fuzhou.  We asked to speak with the sales department, and we 
-were transferred to a salesperson.  During the course of our conversation with the representative, we described ourselves 
-as a medium-sized company that was interested in advertising throughout China on CCME’s buses.  From that point on, 
-our dialogue with the salesperson mainly took place over instant messenger.  The salesperson sent the electronic version 
-of the advertiser kit via instant messenger – including the Excel spreadsheet we subsequently posted on our website in 
-PDF format, as well as the Sales Presentation shown in Appendix B.  During the course of the dialogue, the representative 
-and we discussed the fact that CCME is publicly traded in the Untied States. 
- 
-As has been well documented, we released our February 3, 2011 report during the lengthy Chinese New Year holiday.  
-Following the holiday, the sales representative followed up with us about buying the ads we had discussed.  At that time, 
-our analyst told the salesperson that he and his manager had left their jobs with the potential advertiser. 
- 
-On February 23rd at approximately 13:00 China time, we sent a detailed letter to various partners at Deloitte with 
-previously unreleased evidence supporting our allegations of fraud.  Around 19:00 the same evening, our analyst received 
-a phone call from the sales representative.  The purpose of her call was to ask our analyst whether someone inside his 
-“former employer” disseminated the Sales Presentation outside of the company.  She evidently had not considered it 
-likely that the person with whom she had been speaking represents Muddy Waters, LLC. 
- 
-Because our analyst was unprepared to receive the call, he was only able to begin recording it after approximately two 
-minutes.  He believes that substantially all information that had been discussed during the initial unrecorded period is 
-repeated in the recorded portion.   
- 
-The Conversation 
- 
-We encourage investors to listen to the recording with subtitles, available at: http://www.youtube.com/watch?v=cLAm-
-dJh2fI  However, we provide the following translated excerpts (emphasis in bold added) of the conversation – the 
-complete transcript is in Appendix C: 
+Planet IPO’ed at $16 in Aug 2014. Its aggressive leverage and high valuation leave no margin for error. Investing in 
+the fitness industry involves significant risks, including changing consumer preferences and intense competition. 
+Recent example of public company failures in the fitness industry include Bally Total Fitness and Town Sports Int’l
 
 
-… 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
-
-
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
-
-
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
-
-
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example…
-4 
-
-
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
-
-
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of 
-vehicles we quoted you.  The number we reported is times two, or doubled.  Do you understand now? 
-
-
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
-
-
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
-
-
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
-
-
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve 
-claimed to the public is the total number, but the number we gave you is the vehicles installed with devices.  So 
-there are some conflicts. 
+PLNT paid its owners a handsome $140m 
+dividend pre-IPO by upsizing its term loan 
+by $120m and using $20m of cash. It pays 
+approx. 4.75% on the term loan. Moodys 
+assigned PLNT a B1 rating noting its 
+“aggressive financial policy” 
 
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number 
+PLNT also has an unused $40m revolver 
+expiring on 3/31/19 @ 4.75%
 
 
-we’ve reported to the market regulator.  What we’ve reported to the market regulator is the number under 
-contract.  The number I’ve given you is contracted with devices installed.  
+At Dec 31, 2015, the terms of PLNT’s senior 
+secured credit facility require it maintain a 
+leverage ratio of no more than 6.0x. The 
+covenant will become more restrictive over 
+time and  drop to 4.0x by 6/30/19
 
 
-… 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
+$ in mm (except per share and member amounts)
 
 
-sent you before. 
-Analyst: Have you given the same proposal to other customers? 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
+Stock Price $15.75 Valuation and Credit Stats
+Diluted Shares Outstanding 98.7 Metrics 2015E 2016E 2017E
+Market Capitalization $1,555 EV / Sales 6.5x 6.0x 5.5x
+Term Loan $484.9 EV / Adj. EBITDA 17.5x 15.2x 13.3x
+Tax Payable Liability $140.1 Price / Adj .EPS 29.2x 25.4x 21.9x
+Total Adjusted Debt $625.0 Debt / EBITDA 3.9x 3.4x 3.0x
+Plus: Minority Interest $14.3 EV / Fitness Club ($m) $1.9 $1.6 $1.4
+Less: Cash $31.4 EV / Member $296 $249 $217
+Total Enterprise Value $2,162.5
 
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
+Note: We include the 
+$140m book value of the 
+tax payable liability in our 
+valuation, although our 
+interpretation is that it 
+could be upwards of 
+$711m based on Planet’s 
+Risk Factor disclosures 
 
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been 
+$5.1 $5.1 $5.1 $5.1 $5.1 
 
 
-replaced at that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s. 
-…
-5 
+$466.8 
 
 
-Analysis 
- 
-The representative claimed that the discrepancy between the SEC filings and the buses quoted to us was because 
-approximately 50% of the buses have not yet had equipment installed; however, this explanation does not hold water.  As 
-we pointed out in our earlier report, one of the major discrepancies is in Shanghai.  As of July 2008, the company claimed 
-to have 2,127 buses belonging to Shanghai-based operators in the network,1 but the materials the sales representative sent 
-only show 296 Shanghai buses as of January 2011.   Thus, the overall discrepancy must be due to more than timing 
-differences between when CCME signs contracts and when it installs equipment. 
- 
-III. The License Plate Numbers in Chairman Cheng’s Rebuttal are Fabrications 
- 
-Background 
- 
-In the Report, we stated that CCME’s advertiser kit shows only 12,565 buses under contract as of January 2011, versus 
-over 27,200 that CCME claims to have for investor relation purposes.2  We also stated that the largest bus operator CCME 
-purports to have under contract, Shanghai Ba Shi3 (purportedly 1,892 buses), does not in fact have a contract with 
-CCME.4   
- 
-Chairman Cheng denied these assertions in the open Chairman’s Letter dated February 7, 2011 (Appendix D).  Ping Luo 
-(of Global Hunter Securities LLC) issued a report in support of Cheng’s rebuttal on February 17, 2011 (the “Luo 
-Report”).   
- 
-The Fabrications 
- 
-The Chairman’s Letter stated that CCME’s official advertiser kit includes 1,892 buses belonging to 上海巴士实业（集
+$13.3 $12.3 $12.3 $9.8 $9.8 $44.8 
+$3.0 $7.1 $7.1 $7.2 $7.2 
 
 
-团）股份有限公司(“Ba Shi Industrial”).5  He then proceeded to show an “excerpt” from the purported kit that contains 
-details on three Ba Shi Industrial buses, including license plate numbers.  (The majority of the buses in the real advertiser 
-kit include license plate numbers.)  The license plate numbers the Chairman cited are: 沪 A65072, 沪 A65075, and 沪
-A83822.6 7   
- 
-The license plate numbers the Chairman provided are fabricated.  Two of the plates – A65072 and A65075 – were issued 
-for small passenger cars (a Santana and a Zheng Tian pickup truck), and not for buses.   
+$108.5 
 
 
-                                                        
-1 http://www.ccme.tv/eng/pns/intercitybus.php, and 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-2 See Report p. 5.   
-3 CCME sowed some confusion about the name of the Ba Shi entity that operates long distance buses.  We clarify the name issue 
-infra.   
-4 See Report p. 6. 
-5 See Chairman’s Letter pp. 4-5. 
-6 Id. 
-7 Note that “沪” (“Hu”) is the character for Shanghai.
-6 
+$0
 
 
-See below for representative pictures of the vehicles.  We were unable to contact the registered owners to see whether 
-they had CCME hardware installed in their cars. 
- 
+$50
 
 
- 
-a “Zheng Tian”, similar to沪 A65072 
+$100
 
 
+$150
 
 
+$200
 
- 
-a “Santana”, similar to沪 A65075 
 
+$250
 
-We question the economics of installing hard drives and LCD panels in privately owned passenger cars. 
- 
-In contrast, A83822 had actually once belonged to 上海交运巴士客运（集团）有限公司 (“JB”).8  However, the 上海市
 
+$300
 
-公安局交通警察总队车管所 (the “Traffic Administrator”) had previously canceled the license plate.  Thus, this license 
-plate is no longer in use.   
- 
-Appendix A provides the official documentation of these facts with seals from the Traffic Administrator. 
- 
-We became aware of the possibility that the license plate numbers were fabricated when we showed the purported 
-numbers to one of our operations contacts at JB.  He told us that the plate numbers could not be correct because JB had 
-retired all, perhaps save for “one or two”, license plates with a single letter “A” in the plate number; and, further that it 
-had sold the buses that formerly had such plates.  He stated that the retirement process had begun in 2006 or 2007. 
-Shanghai used to issue license plates in alphabetical sequence.  License plates with a single letter “A” – i.e., no additional 
-letters contained in the license plate number – are among the oldest plates issued in Shanghai.  Thus the operations contact 
-immediately knew that any buses with such a license plate number were too old to be in the current fleet. 
- 
-Chairman Cheng’s statements are false. 
- 
 
+$350
 
-                                                        
-8 Infra FN 9.
-7 
 
+$400
 
-IV.  CCME’s Largest Purported Operator Relationship Still Does Not Exist 
- 
-CCME had to fabricate the previously discussed Shanghai Ba Shi license plates because CCME does not actually have a 
-relationship with its largest purported inter-city bus operator, Shanghai Ba Shi.  The following items prove that the 
-Shanghai Ba Shi relationship does not exist: 
 
+$450
 
-• The Sales Presentation we received with the advertiser kit, which resulted in the recorded fraud admission by 
-CCME’s sales representative (discussed in Part II), shows only 296 buses in Shanghai.  This is far less than the 
-1,892 buses CCME claims to have under contract with Shanghai Ba Shi. 
 
+$500
 
-• We had approximately five hours of meetings with officials ranging from station level operations personnel, to 
-top company managers at headquarters, of the Shanghai Ba Shi entity that operates the group’s inter-city buses.  
-We received confirmation at each level that CCME has not placed its hardware on Shanghai Ba Shi inter-city 
-buses. 
 
+2016 2017 2018 2019 2020 2021 and After
 
-• We shot a mini documentary of Shanghai Ba Shi inter-city buses along with driver interviews that show CCME 
-has placed no content or hardware on Shanghai Ba Shi inter-city buses. 
 
+Debt Amortization Leases Obligations under tax benefit arrangement
 
- 
-Background 
- 
-Whether as a result of confusion, or to cause it, neither CCME, Chairman Cheng, nor the Luo Report correctly refer to the 
-Shanghai Ba Shi entity that operates the group’s inter-city buses.9  The only entity10 that operates Shanghai Ba Shi inter-
-city buses is 上海交运巴士客运（集团）有限公司 (“Jaioyun Ba Shi” or “JB”). (More information on the entire Ba Shi 
-group, including JB, is available at the group’s website: www.84000.com.cn.  JB’s site, which links directly to the 
-aforementioned group site through the button that reads “Inter-city passenger transport” (“长途客运”), is 
-http://61.152.242.65/cygs/servlet/Srv?action_code=frontMenuToIndex&webSiteMemberId=1007.)  
- 
 
 
-                                                        
-9 CCME’s CTR reports refer to the entity in question as “Shanghai Ba-Shi (Group) Industrial Co. Ltd.”  See 
-http://www.cCCME.tv/eng/pns/intercitybus_02.pdf.  Chairman Cheng’s letter refers to it as “上海巴士实业（集团）股份有限公司, 
-which appears to refer to the same entity, Shanghai Ba Shi (Group) Industrial Co. Ltd.  However, this entity is listed on the Shanghai 
-Stock Exchange (600741), and changed its name to Hua Yu Automotive Systems Co. Ltd.  Importantly, its business appears to be 
-automotive parts, and not operating transportation; however, it likely has an equity stake in JB.  The Luo Report calls the entity 
-Shanghai Ba-Shi Public Transportation Group Co. Ltd., which appears to refer to 上海巴士公交（集团）有限公司.  This entity only 
-operates intra-city buses. 
-10 For purposes of this discussion, “entity” includes JB’s subsidiaries.
-8 
+https://www.moodys.com/research/Moodys-affirms-Planet-Fitness-B1-CFR-and-B1-bank-facility--PR_320866
+Summary of Fundamental 
+Short Thesis
+11
 
 
-Sales Presentation 
- 
-We received a Sales Presentation titled “China MediaExpress Pricing (Nationwide)” from the CCME sales representative.  
-The Sales Presentation shows the number of buses by province and certain cities, including Shanghai.  Below is the page 
-from the presentation that shows the number of buses CCME has in Shanghai.  It shows only 296 buses, which is far 
-fewer buses than the 1,892 CCME claims to have under its Shanghai Ba Shi relationship.  We include the complete 
-presentation as Appendix B.  
- 
+Planet Fitness: Bulls vs. Bears
 
 
- 
-The Sales Presentation shows 12,358 buses under contract nationwide – this is slightly fewer than what the spreadsheets 
-in the Report show.  Significantly, the Sales Presentation is the second version the salesperson sent us.  The first version 
-stated that there were approximately 1,600 buses under contract in Shanghai.  Upon receiving the first presentation, we 
-pointed out via instant messenger the inconsistency with the 296 buses in the spreadsheet.  (Most dialogue with the 
-salesperson took place through instant messenger.)  In response, the salesperson wrote: 
- 
+Bull Case
 
 
-“Sorry, there are 296 vehicles in Shanghai.  I made a mistake about the number.  I'll quote another price.”
-8 
+Bear Case
 
 
-Following the above exchange, the salesperson sent over the presentation shown above and in Appendix B.  It shows only 
-296 buses in Shanghai.   
- 
-JB Meetings 
- 
-We had approximately five hours of meetings with JB officials ranging from station level operations personnel to top 
-company managers at its headquarters.  The following summarizes the information we received during our meetings: 
+• Differentiated Business Model
+• Large Runway for Growth to 4,000 Clubs
+• Membership Growth Opportunity to Sustain High Single Digit 
 
 
-• None of the four JB representatives had ever heard of CCME – not by the name of CCME’s operating company 
-nor its trade name.  Earlier in the discussions, another Ba Shi contact (not from JB) telephoned in our presence a 
-division manager of the advertising arm of the Ba Shi group (which is a different entity than JB).  The advertising 
-division manager also stated that he had never heard of the company nor its trade name.  Thus, none of four JB 
-people with extensive operations knowledge, nor the Ba Shi advertising division manager, were familiar in any 
-way with CCME. 
+Comps Growth
+• Predictable and Recurring Revenue and Cash Flow
 
 
-• JB has only around 800 buses, all of which are inter-city.  The entire Shanghai Ba Shi group has approximately 
-2,000 buses, including intra-city, charter, and JB’s buses.  The above mentioned website for JB also states that it 
-has approximately 800 inter-city buses.  Assuming that a contract did exist, this number contradicts the 1,892 
-cited by CCME, Chairman Cheng, and the Luo Report. 
+• Differentiation Based Primarily On Price (potentially no longer the 
+case), a Deflationary Force in the Fitness Industry
 
 
-• JB only authorizes televisions produced by each bus’s manufacturer (e.g., King Long) and certain approved 
-aftermarket vendors, which does not include CCME, to be placed on its buses. 
+• No Barriers To Entry       Competition Rising Fast (700+ similar clubs)
+• 4,000 Clubs Arbitrarily Chosen as a Large Figure to Sell a Fairytale 
 
 
- 
-Video 
- 
-We filmed a mini documentary of JB inter-city buses and drivers.  The video is available at: 
-http://www.youtube.com/watch?v=-COZ5l9ayzM  
- 
-The footage shows: 
+Growth Story       Cannibalization Risk Makes 10% Revenue Growth 
+Expectations Difficult
 
 
-• Prior to the Shanghai 2010 World Expo, the JB buses had standard DVD players for showing movies. 
-• The Shanghai government gave JB hard drive controllers for the Expo.  The controllers show Expo content and 
+• Significant portion of business tied to success of re-equipment sales
+• Member Churn (Not Disclosed), Appears To Be Rising
+• Predictable Revenue and Cash Flow Not As Certain as Claimed Given 
 
 
-Expo ads.  They do not show content or ads provided by CCME or other parties. 
-• The manufacturer of the hard drive controllers is Inspur, which is a different company than CCME’s exclusive 
+Easy Cancellation Policy
+• Street appears to be missing up to +$700m tax receivable liability 
 
 
-supplier, Zhejiang Yusong (which CCME’s filings erroneously refer to as Hangzhou Yusong).11 
-• The drivers can choose whether to turn on the controllers and TVs.  Because passengers like to sleep on the buses, 
+which reduces equity value
+12
 
 
-at least one driver generally keeps the equipment off. 
-• Coca-Cola (one of CCME’s purported top advertisers) and similarly large companies have not shown ads on JB 
+Four Real Risks To The Bull Case
 
 
-buses. 
-• The controllers are supposed to be removed, and replaced with DVD players. 
+Increasing Competition With Limited Barriers To Entry: Planet is facing increased competition from both 
+1) identical fitness concepts designed to match its value / price / no judgment member proposition, and 
+2) increasing popularity of alternative fitness programs such as SoulCycle, Flywheel, Barre Workouts, 
+CrossFit programs, adventure course, and boot camps. The fitness industry is highly fragmented, with 
+many large players and seemingly deflationary pricing power. 
 
 
- 
-The below are recent still photographs of a JB inter-city bus. 
- 
-                                                        
-11 CCME December 31, 2009 Form 10-K, p. 18.
-10 
+Signs of Rapid Member Attrition: Planet doesn’t disclose its membership churn, which we believe is very 
+critical to evaluating its underlying performance. Planet advertises a “no commitment” policy which does not 
+guarantee cash flow stability – as such, this does not warrant a premium valuation. This shifts the burden on 
+Planet to flawlessly execute new club openings and high SSS performance to maintain its growth profile 
+with minimum cancellation. We already see evidence of rising churn as bad debt expense is rising rapidly
 
 
- 
-JB inter-city bus. Note the “JB” logo, which is on the sides of the buses shown in the video. 
+Unrealistic Club Goals, Potential For Cannibalization: It took Planet 23 years to reach 1,000 current 
+clubs, and it has guided investors towards a long-term target of 4,000 (with 1,000 currently under ADA). 
+Planet will have to compete for prime locations in densely populated areas that can accommodate clubs 
+upwards of 20,000 sqft, which can attract over 6,000 members per club. Planet’s expansion could reach 
+a saturation point where new clubs cannibalize existing ones
 
 
- 
-King Long CRT television (the bus manufacturer) – not CCME / Yusong LCD.
-11 
+Franchisees May Fight The Re-Model and Re-Equipment Requirements: Planet’s margins are 
+abnormally high as a result of it earning 20%+ margins on equipment sales and 65%+ on placement 
+revenues. These high margin revenue sources are not guaranteed. In our opinion, Planet places onerous 
+terms on its franchisees by requiring them to replace cardio and fitness equipment every 4 and 6 years, 
+respectively, at an estimated cost of $250 - $760k. This mandatory replacement is a requirement even if the 
+equipment is perfectly fine and functional! Additionally, franchisees must maintain the fitness facility 
+according to Planet’s standards, which may include substantial remodeling as frequently as every four years 
+at a cost of $75k - $550k. Overall, added costs of $325k - $1.3m could place a financial strain on the 
+marginally profitable and unprofitable clubs, forcing them to renegotiate with Planet.
+13
 
 
+Hot off the Press: New Risk Factors!
 
 
+Financial forecasting may differ materially from actual results.
 
- 
-No CCME controller. There is a media control box manufactured by Inspur in the dashboard. (For more information, see 
-http://www.inspur.com/Products/images_numeric/2010/6/12/56BA53E357CB41CB9AC8C83169492BC8.pdf).  CCME’s 
-exclusive hardware supplier is Zhejiang Yusong (supra p. 8).  The Shanghai government provided JB with the Inspur 
-controllers in order to show Expo-related content.
-Page  
 
+“Due to the inherent difficulty of predicting future events and results, our forecasted financial and 
+operational results may differ materially from actual results. Discrepancies between forecasted and actual 
+results could cause a decline in the price of our stock.”
 
-12 
 
+Changes in the industry could place strains on our management, employees, information systems 
+and internal controls, which may adversely impact our business.
 
-Appendix A 
-Traffic Administrator documents
-Page  
 
+“Changes in the industry affecting gym memberships and payment for gym memberships may place 
+significant demands on our administrative, operational, financial and other resources or require us to obtain 
+different or additional resources. Any failure to manage such changes effectively could seriously harm our 
+business. To be successful, we will need to continue to implement management information systems and 
+improve our operating, administrative, financial and accounting systems and controls in order to adapt 
+quickly to such changes. These changes may be time-consuming and expensive, increase management 
+responsibilities and divert management attention, and we may not realize a return on our investment in 
+these changes."
 
-13 
 
+Planet just released its first 10-K on March 4th 2016 after FY 2015 earnings. There are notable additions to 
+the risk factors from their prospectus filing in August 2015. 
 
-Appendix B 
-Sales Presentation
-高速有多长 品牌就传多远
 
+Notably, Planet’s risk factors appear contrary to both the Company’s and Analysts’ views on its model
 
-中国高速频道城际巴士车载电视
-广告投放方案
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+Planet has been issuing public guidance since Q2’2015. Why is it now just adding this risk factor?
 
-!   全国广告投放费用:
 
+Isn’t it unusual that Planet is finally acknowledging changes in its industry at the same time it is 
+warning that its outlook could be materially different from actual results?
+Loss of Competitive Advantage and 
+Unrealistic Growth Expectations
+15
 
-投放
 
+Planet Fitness Pitching a Fairytale Story 
+of Reaching 4,000 Clubs
 
-城市
 
+“The company has stated in its S-1 filing that it can quadruple its store count to over 4,000 stores in the U.S. itself. 
+That number is higher than any number I have heard before. There is no doubt in my mind as well as some 
+franchisees that encroachment issues will develop such as lower membership dues collection per club on the way to 
+4,000 locations”
 
-广告
 
+Planet Fitness Clubs Currently Total 1,121
 
-规格
 
+Source: Planet Fitness website
 
-发布
 
+A key part of Planet’s pitch to investors is that it can grow to 4,000 clubs from just over 1,100 today. 
+According to a quote from a former Executive Director of the Planet Fitness Independent Franchisee 
+Association (PFIFA), the 4,000 club target appears to be newly created not long prior to going public. 
 
-车辆(部)
 
 
-广告
+http://www.planetfitness.com/local-clubs
 
+http://www.bluemaumau.org/planet_fitness_files_ipo
+16
 
-时段
 
+The Absurdity of Planet’s Club Goals Simply 
+Illustrated
 
-刊例价
-万元/月
 
+Assuming Planet can add 200 clubs/yr for the next 10 years, and industry membership grows 2-3% p.a., 
+Planet will dominate the fitness industry with 39% market share....yeah right!
 
-车辆
 
+Planet cites the following statistics in its prospectus and 10-K:
 
-基数
 
+• According to the International Health, Racquet & Sportsclub Association (“IHRSA”), the United States health club industry generated 
+approximately $24.2 billion in 2014. The industry is highly fragmented, with 34,460 clubs across the United States serving 
+approximately 54 million members, according to IHRSA. 
 
-优惠
 
+• Over the next five years, industry sources project that U.S. health club industry revenues will grow at an annualized rate of
+approximately 3%, primarily attributed to an increase in discretionary spending coupled with continued consumer awareness and public 
+initiatives on the health benefits of exercise. We believe we are well-positioned to capitalize on these trends, and our impressive growth 
+reinforces our distinct approach to fitness and broad demographic appeal.
 
-折扣
 
+• Let’s assume the following to see what Planet’s market share would look like in 10 years:
 
-实收价格
 
+• Assume that approximately 75% of the total 54 million members (40 million members) are actually in Planet’s target market.1
 
-(元/ 月）
 
+Let’s also assume the membership base grows at 3% for the next 5 years and 2% thereafter. That works out to approximately 52 
+million total members by 2026 (in 10 years)
 
-四川 15秒 1039 A段 13.5 ／ 4.5折 60750元
-重庆 15秒 750 A段 14.5 0.7
 
+• Furthermore, let’s assume Planet adds 200 clubs per annum over the next 10 years.  It’s club count will be approximately 3,100
 
-4.5折 45675元
 
+• It’s current average members per club is approx. 6,500. This suggests that Planet’s membership count would grow to 20.1m
 
-江苏 15秒 2901 A段 16.6 2
-4.5折 149400元
 
+• If Planet could in fact grow to 20.1m members, it would have approximately 39% total market share....we doubt it! 
 
-福建 15秒 1564 A段 10.8 1.5
-4.5折 72900元
 
+1) Per Credit Suisse’s survey approximately 44% of those surveyed would pay under $20/month and 27% would pay $21-50/month (71% between the two categories). We 
+assume 75% for simplicity sake. 
 
-广东 15秒 1532 A段 19.6 1.5
-4.5折 132300元
 
 
-湖北 15秒 1087 A段 13.5 ／ 4.5折 60750元
+https://doc.research-and-analytics.csfb.com/docView?source_id=eqgl&document_id=1052235521&format=PDF&language=ENG&serialid=C1o3la5WitkiXFIFy4u7SY53BC2wDRANrkRWGwDN5HA=
+17
 
 
-青岛（山东
-省）
+Planet’s Target Market Could Be Shrinking As 
+Competition Encroaches
 
 
-15秒 750 A段 15.3 0.7
-4.5折 48195元
+Planet has suggested a 4,000 location goal, and is currently at 1,124 as of Dec 31, 2015. However, there 
+are already at least over 700 similar-styled no-judgment sub $20.00 / month gyms. Planet suggests it is 
+only at 25% market penetration, but it could already be over 40% if competitors are included. Many are 
 
 
-合肥（安徽
-省）
+growing faster than Planet!
 
 
-15秒 338 A段 12.8 0.3
-4.5折 18280元
-高速有多长 品牌就有多远高速有多长 品牌就有多远
+Fitness Club Current Number of Locations Source YoY Growth
 
 
-投放
+Planet Fitness 1,124 Source 22%
 
 
-城市
+Fitness 19 148 Source N/A
 
 
-广告
+Crunch 142 Source 59%
 
 
-规格
+Retro Fitness 140 Source 17%
 
 
-发布
+YouFit 115 Source 25%
 
 
-车辆(部)
+Fit-4-Less (Goodlife) 61 (including soon-to-be) Source 49%
 
 
-广告
+Blink Fitness 47 (including soon-to-be) Source 40%
 
 
-时段
+Charter Fitness 45 Source 11%
 
 
-刊例价
-元/月
+Blast Fitness 28 Source -10%
 
 
-车辆
+Total 1,850
 
 
-基数
 
+http://investor.planetfitness.com/investors/press-releases/press-release-details/2016/Planet-Fitness-Inc-Announces-Fourth-Quarter-and-Fiscal-Year-2015-Results/default.aspx
 
-优惠
+http://www.fitness19.com/convenient-locations/
 
+https://www.crunch.com/locations/
 
-折扣
+http://retrofitness.com/franchising/#closing
 
+http://www.youfit.com/find-club/all
 
-实收价格
+https://www.fit4less.ca/locations
 
+http://www.blinkfitness.com/locations
 
-(元/ 月）
+http://www.charterfitness.com/locations/find-a-location/
 
+http://www.blastfitness.com/blast-fitness-locations
+18
 
-浙江 15秒 127 A段 16.6 0.1 4.5折 7470元
 
+Stretching For Growth In Suboptimal 
+Locations Already Evident
 
-上海 15秒 296 A段 21.0 0.2
-4.5折
 
+Planet Fitness planned for Regency Mall Gym will replace about nine existing stores inside shopping center
+Feb 16, 2016
 
-18900元
 
+Planet Fitness will enter the Racine market with an 18,000-square-foot location in the struggling Regency Mall.
 
-江西 15秒 182 A段 9.9 0.1
-4.5折
 
+The gym will be located on the southwest end of the mall, 5502 Durand Ave., between the Burlington Coat Factory store and h.h.gregg. 
+Rendering of the Planet Fitness planned for Regency Mall in Racine. Rendering of the Planet Fitness planned for Regency Mall in Racine. Planet 
+Fitness will take up about nine existing store spaces, only two of which are active stores right now, said Tim Connolly, project director of 
+Cleveland-based K2M Design.
 
-4455元
 
+Connolly, whose firm is working on behalf of Regency Mall owner, CBL & Associates Properties, Inc., said construction on the gym’s shell will 
+begin in a few weeks. Planet Fitness will then take over and outfit the building, which will take another three to four months, Connolly said.  
+Planet Fitness, which will be open 24 hours a day, will not have an exterior entrance, but a security gate will be installed to block off the rest of 
+the mall concourse when the mall is closed, Connolly said.  The Racine plan commission approved the mall’s conditional use plan to allow the 
+gym inside of the mall last week.
 
-北京 15秒 548 A段 19.6 0.5
-4.5折
 
+Built in 1981, the 810,337-square-foot Regency Mall has struggled for several years to retain quality tenants. Sears closed its 89,119-square-
+foot store in 2014, and JCPenney did the same the following year, closing its 149,196-square-foot store. The mall has been able to hold onto 
+its other two anchor stores, the 80,000-square-foot Burlington Coat Factory store and a 105,869-square-foot Boston Store. Ross Dress for Less 
+and Jo-Ann Fabric and Craft Stores are also expected to open at the mall in spring.
 
-44100元
 
+Connolly believes the addition of Planet Fitness will bring more traffic to the mall, which could lead to more tenants and more retail activity for 
+the existing tenants. Planet Fitness has 24 locations in Wisconsin, including seven in the Milwaukee area. K2M Design is working on a similar 
+Planet Fitness proposal inside of East Towne Mall in Madison, which has not yet been approved.
 
-天津 15秒 760 A段 16.6 0.7
-4.5折
 
+Dec 20, 2015 “19yr old shot during 
+dispute at East Town Mall”
 
-52290元
 
+Dec 2, 2015 Median 
+Household Income down 
 
-河北 15秒 321 A段 15.3 0.3
-4.5折
 
+7.9% in Racine, WI
 
-20655元
 
+Source: Milwaukee Business News
 
-江西 15秒 163 A段 10.8 0.1
-4.5折
 
+As Planet Fitness expands nationally, it may be forced into economically challenged markets and struggle to find 
+good locations. As illustrated in the local Milwaukee article, Planet recently took a location in a struggling mall and 
 
-4860元
 
+is planning expansion into a neighboring mall where a shooting just occurred
 
-!  全国广告投放费用:
-高速有多长 品牌就传多远
 
 
-!  特别支持
+http://host.madison.com/wsj/news/local/crime-and-courts/shoppers-panic-as--year-old-shot-during-dispute-among/article_e739a252-b79b-535b-afc0-1de3d61f04ff.html
 
+http://www.jsonline.com/news/wisconsin/household-income-takes-sharp-downturn-in-most-of-wisconsin-b99627396z1-360196731.html
 
+http://www.biztimes.com/2016/02/16/planet-fitness-planned-for-regency-mall/
+19
 
 
+Rising Competition in All Geographies
 
-1、买一赠一”活动
-     ① 即买一个时段15秒赠送另一个时段15秒 实播两个时段。
 
+Workout Anytime
 
-     ②即买一个月15秒赠送另一个月15秒 实做一个月送一个月。  
-          注: 单时段: 每车每小时播一次广告，
 
+Source: Workout Anytime website
 
-               双时段：每车每小时播两次广告 
- 
-2、投播全国赠送：
 
+Charter Fitness
 
-      转场冠名广形式为投放方式：如*****提醒您精彩稍后继续   （排在常规     
-广告前，增加品牌关注度）
 
+Source: Charter Fitness website
 
-3、折上折：
-       投播全国地区的可在刊例折后的基础上再予以8折支持优惠。
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+Youfit – South Florida Fitness 19 - California
 
-感谢您的关注,
 
+Source: Google MapsSource: Youfit website
 
-真诚希望能够与贵司携手开拓市场,
 
 
-实现共赢！
+http://workoutanytime.com/locations
 
+http://www.charterfitness.com/locations/find-a-location/
 
-                      并祝
+https://www.google.com/maps/search/fitness19+california/@36.0937862,-122.1757783,6z
 
+http://www.youfit.com/locations/florida
+20
 
-                          商祺!
-Page 
-14 
 
+Limited Barriers To Entry
 
-Appendix C 
-Telephone call transcript
-Page  
 
+Look familiar? Both Planet Fitness and YouFit have similar color schemes.... 
 
-15 
 
+YouFit Planet Fitness
 
-(The conversation has already been in progress for about two minutes before the recording started.  The parties had 
-discussed in prior QQ conversations that CCME is listed in the United States.) 
-… 
 
+Source: YouFit
 
-Analyst: You want me to talk to my manager?  What do you want me to say?  What’s the situation? 
-CCME Rep: If you can, can you just tell him that the quoted proposal is for particular bus lines? 
-Analyst: Talk to my manager?  But the manager who worked on this project and I are no longer working for the 
 
 
-company.  Does it still make sense to talk with him? 
-CCME Rep: Oh, he also left this company? 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
+http://www.youfit.com/
+21
 
 
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
+Investment Pitch: 
+We Offer A “Judgment Free Zone”
 
 
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
+Planet Fitness Claims It’s a “Judgment Free Zone”...Crunch Won’t Judge You Either!
 
 
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example… 
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
+Source: Crunch
 
 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
 
+https://www.crunch.com/
+22
 
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of vehicles we 
-quoted you.  The number we reported is multiplied by two, or doubled.  Do you understand now? 
 
+Investment Pitch: Blue Sky International Growth 
+Opportunities!
 
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
 
+Planet Fitness tells investors it is planning international opportunities, with a focus on Canada. As of 
+Dec 31, 2015 Planet has 4 locations in Ontario, and has committed to open more than 100 additional 
 
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
 
+franchisee-owned stores in Canada. 
+Unfortunately, Canadians have already started to replicate Planet Fitness’ business model
 
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
 
+Source: Fit4less.ca
 
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve claimed 
-to the public is the total number, but the number we gave you is the vehicles installed with devices.  So there are some 
-conflicts. 
 
+Fit 4 Less Number of Clubs by Province; 
+$9.98 / month + Joining Fee
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number we’ve 
 
+4 6
+1
 
-reported to the market regulator.  What we’ve reported to the market regulator is the number under contract.  The number 
-I’ve given you is contracted with devices installed.  
 
+43
+3
 
-Analyst: I see.  And what do you want me to do to help you? 
-CCME Rep: There’s nothing you can help me with right now. 
-Analyst: Does your company know that it’s you? 
-CCME Rep: I have one question.  Have you told your colleagues I’m the person you contacted? 
-Analyst: No.  I’m the only person communicating with you from my company.  In my company, the person initially 
 
+Hone Fitness –
+Not a Black Card, But a Blue and Orange!
 
-in charge of something is responsible until it finishes. When you wanted to meet with my manager, he asked me to 
-communicate with you and make sure everything is ok through the finish.  Therefore, I’d be your only contact the entire 
-time.
-Page  
 
+Source: Hone Fitness
 
-16 
 
 
-CCME Rep: That’s good.  If there are people checking with you about me, then just tell them you don’t know me. 
-Analyst: ok, and actually those who were working on this matter have already left the company with my boss. There 
+https://www.fit4less.ca/locations
 
+http://www.honefitness.com/
+23
 
-are only two or three still staying in that company.  I’m not sure if they’re the people who passed out the information.  But 
-they don’t know you, and I’ve never mentioned you. 
 
+Alternative Forms of Fitness Rising....
 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
-sent you before. 
 
+Emerging Fitness Trend Examples
 
-Analyst: Have you given the same proposal to other customers？ 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
 
+Cycling
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
 
+Yoga
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been replaced at 
 
+Barre Burn
 
-that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s.  
-Analyst: Oh, I see. Then you’ll be ok. 
-CCME Rep: The problem is that they may find it in the server.  I feel so bad…. 
-Analyst: I don’t think they’re able to investigate me.  Are they able to find out who I am? 
-CCME Rep: I don’t know. They might find your QQ, or they might talk with you.  Just tell them you don’t know 
 
+Bootcamp
 
-whom you’ve been in contacted with?  Anyway, anything about China MediaExpress, please just don’t mention me. 
-Analyst: Ok, don’t worry.  I won’t talk about you, and also I’ve left that company already. 
-CCME Rep: You say you’ve left that company, but you’re still working for the old boss? 
-Analyst: Yes, but the company that was going to hire you doesn’t exist anymore. 
-CCME Rep: You mean that the company doesn’t exist anymore? 
-Analyst: No, the company still exists, but the people who used to work on this matter don’t work there anymore.  So 
 
+Adventure Courses
 
-if the auditing firm finds the company, there’s nobody there who knows what’s going on. 
-CCME Rep: Is it possible that any of your colleagues have passed on the proposals? 
-Analyst: All of them have this proposal because I sent it out to them before the meeting so they can prepare.  The 
 
+Other
+24
 
-chance of leakage from my sources is very slight. 
-CCME Rep: Maybe not possible, but maybe they found out from the managers who were at the meeting. 
-Analyst: I don't know, maybe the computers in your company were hacked? 
-CCME Rep: Really? 
-Analyst: I don’t know, but anything’s possible. 
-CCME Rep: It’s lucky that I didn’t leave my number on the proposal. 
-Analyst: If someone calls me asking about you, I’ll definitely tell them I don’t know.  Don’t worry, the chances are 
 
+Technology Giving Consumers 
+Exponentially More Fitness Options
 
-very low.
-Page  
 
+New companies such as Class Pass offer fitness users significantly more options and flexibility to 
+tailor a fitness routine. While more expensive at approximately $100/month, Class Pass gives members 
 
-17 
 
+access to numerous crossfit, yoga, barre burn, spinning, and yoga classes 
 
-CCME Rep: Ok. 
-Analyst: If there’s something you need help with, you can always call me. 
-CCME Rep: Please tell the manager to not pass out this proposal to anyone else. 
-Analyst: Ok, actually the proposal isn’t useful to us now.  Just as I told you yesterday – this matter won’t move 
 
+Source: Class Pass website
 
-forward.  So don’t worry, and I’ll tell them to delete it.  We don’t keep things that we’re not using.  
-CCME Rep: How many people were at the meeting? 
-Analyst: Maybe seven or eight, and not all of us have this proposal.  Each person on our team handles different 
 
+Class Pass is rapidly expanding to cities across the U.S. and abroad. To illustrate its appeal and the 
+challenges it could present to Planet Fitness, the map below shows the number of fitness classes available 
+to its members in Manhattan. Planet Fitness currently has just 10 clubs in Manhattan.... 
 
-things.  Some focused on Bus Online, some are in charge of China MediaExpress, and some are in charge of other media 
-companies.  For example, my colleague got the proposal from Bus online.  He’ll email it to me, and of course I’ll email 
-your proposal to him as well.  And our company isn’t big, there are only a few who know about this. 
 
 
-CCME Rep: Maybe the auditing firm was asking around and found your company? 
-Analyst: Most people in my company don’t know about this. Even if the auditing company asks them, they’ll have no 
+https://classpass.com/
+25
 
 
-idea. The people who were working on this case have left that company, and I’ll tell my colleagues and manager to keep 
-quiet. 
+Financial Strains Appear To Be 
+Playing Out Already....
 
 
-CCME Rep: Tell them that the vehicles we quoted before are all for particular lines. That is yet. 
-Analyst: Ok.  
-CCME Rep: Well, thank you. 
-Analyst: Don’t worry, nothing will happen. 
-CCME Rep: Thanks, Bye
-Page  
+Despite These “Impressive” Results, We Observe That Net Income and Cash Flow grew by just 2%!
 
 
-18 
+Digging beneath the surface of Planet’s 2015 results shows signs of weakness in its financial model. Net Income to 
+shareholders decreased, and cash from operations was up moderately. 
 
 
-Appendix D 
-Chairman Cheng’s letter
-! ! ! ! ! ! ! ! ! ! ! ! !
-!
-"#!$%&!'()&*(#+,*&-!).,!/&0*.,-1!
-!
+Planet and its analysts were quick to highlight seemingly impressive results for 2015 including: 
+1. 18% total revenue growth 
+2. System-wide same store sales of 7.7% 
+3. EBITDA growth of 22.8% 
+4. Club growth of 23.5% from the addition of 209 new clubs
+5. 20% “active” member growth to 7.3 million from 6.1 million
 
 
-"#!"$$"%&!'(!
-)*+,$!)-..-,)!$*"$!%"/)-0!1+."$2.-!)32#4)!2#!2$)!)$+%&!5,2%-6! ! 7"#"4-8-#$!"#0!9
-:+",0!+;!<2,-%$+,)!",-!&--#.(!"3",-!+;!$*-2,!,-)5+#)2'2.2$(!$+!5,+$-%$!+/,!2#1-)$+,)!
-;,+8!$*-)-!,-%&.-))!"#0!'")-.-))!"$$"%&)!"#0=!"%%+,02#4.(=!$*-!9+85"#(
-"/$*+,2>-0!$*-!-#4"4-8-#$!+;!+/$)20-!%+/#)-.!"#0!+$*-,!%+#)/.$"#$)!$+!"012)-!2$!
-32$*!,-4",0!$+!"55,+5,2"$-!%+/#$-,8-")/,-)6!
-!
-?+!".."(!$*-!%+#%-,#)!+;!$*+)-!)*",-*+.0-,)!3*+!*"1-!,-"0!$*-!'.+4!5+)$)!+;!$*-!
-)*+,$!)-..-,)!"#0!3+#0-,-0!2;!$*-,-!2)!"#(!'")2)!$+!$*-2,!)$"$-8-#$)=!8"#"4-8-#$!*")!
-5,+120-0!'-.+3!"!5,-.282#",(!,-12-3!+;!$*-!;"%$/".!2#"%%/,"%2-)!"#0!82).-"02#4!
-2##/-#0+!-85.+(-0!'(!$*-)-!'.+44-,)!;+,!$*-2,!)-.;@'-#-;2$6!
-!
+Source: Planet 10-K
 
 
-!
-!
-A#!B"#/",(!CD=!EFDD=!92$,+#!G-)-",%*!5/'.2)*-0!"!,-5+,$!-#$2$.-0! ?*-!9*2#"!G-1-,)-!
-7-,4-,!)$+ 6 ! A#!H-',/",(!D=!EFDD=!:,+#$-!9"52$".!
 
+http://www.sec.gov/Archives/edgar/data/1637207/000156459016014027/plnt-10k_20151231.htm
+26
 
-6 ! ! A#!H-',/",(!C=!
-EFDD=!7/00(!I"$-,)!
-,-%+88-#0"$2+#6! ! J"%*!+;!$*-)-!,-5+,$)!8"&-)!%-,$"2#!"..-4"$2+#)!"'+/$!9*2#"!
 
+Case Study: Failure of Town Sports (CLUB)
 
-=!".$*+/4*!#+#-!+;!
-$*-! 32$*!8"#"4-8-#$!+;!997J!
-+,=!$+!+/,!&#+3.-04-=!5-,;+,8-0!"#(!8-"#2#4;/.!0/-!02.24-#%-!+#!$*-!9+85"#(!+,!
-)+/4*$!$+!0-1-.+5!"!,24+,+/)!;2#"#%2".!8+0-.!+;!2$)!'/)2#-))!2#!$*-!8"##-,!"#(!I"..!
-K$,--$!,-)-",%*!"#".()$!3+/.06! ! I-!*"1-!-1-,(!,-")+#!$+!'-.2-1-!$*"$!-"%*!+;!$*-)-!
 
+Town Sports operates company owned fitness clubs in densely populated metropolitan markets like New York, 
+Boston, Philadelphia and D.C. Its financial performance has deteriorated in recent years as a result of changing 
 
-!"$!$*-!
--L5-#)-!+;!+/,!)$+%&*+.0-,)! !3*-#!$*-(!)/%%--0!2#!0,212#4!0+3#!$*-!5,2%-!+;!+/,!
-)$+%&6! ! ?*2)!%+#;.2%$!+;!2#$-,-)$!421-)!,2)-!$+!/#0-,)$"#0"'.-!0+/'$)!"'+/$!$*-2,!
-8+$21"$2+#!"#0!2#$-#$2+#)!"#0=!+;!%+/,)-=!$*-!+'M-%$212$(!"#0!.-42$28"%(!+;!$*-2,!
-,-5+,$)6 !
-!
-!
-?*-!8"##-,!2#!3*2%*!$*-!)*+,$!)-..-,)!)--8!$+!*"1-!$28-0!"#0!%++,02#"$-0!$*-2,!
-!"
-"
 
+fitness trends and lower priced gym options forcing comparable club revenue declines. Its EBIT margins peaked 
+shortly after going public in the 12% range. 
 
-#$$%&'(")*+,("-.'%"'/#-&"0*'-1+'#"('&+'#2,3" " 4,"0(-.2"'/#"+.%.,1-',"%$"'/#"-.'#&.#'"+.5"
-)06*-7-8-.2"+("1+.,"0.$%0.5#5"+**#2+'-%.("+("'/#,"7+."7&+$'9"'/#,"7+."1+:#"-'"*%%:"+("
--$"'/#&#"-("+"2&%0.5"(;#**"%$"7&-'-7-(1"+2+-.('"'/#"<%1)+.,";/#."-."&#+*-',"+**"'/#"
-7*+-1("#1#&2#"$&%1"+"(1+**"2&%0)"%$"(#*$=-.'#&#('#5")+&'-#(3" " >/#-&"0*'-1+'#")*+."-("
-.%'"+"7%1)*-7+'#5"%.#3" " ?("*%.2"+("'/#,"7+."5&-@#"5%;."'/#"('%7:")&-7#";/#."'/#"A3B3"
-1+&:#'("+&#"%)#."C#@#."-$"'/#&#"-("+"/%*-5+,"-."</-.+D"+.5"'/#."7%@#&"'/#-&"(/%&'"
-)%(-'-%."7/#+)*,"+.5"E0-7:*,9"'/#,"/+@#"+77%1)*-(/#5"'/#-&"2%+*3" " F'"5%#(".%'"'+:#"
-*%.2"$%&"'/#1"'%"1+:#"+")&%$-'"+'"'/#"#G)#.(#"%$"'/#"7%1)+.,"+.5"%'/#&"
-(/+&#/%*5#&(9")+&'-70*+&*,9"-$"+**#2+'-%.("+&#"1+5#";/-*#"60(-.#((#("-."</-.+"+&#"
-7*%(#53"
-"
->/#"<%1)+.,";-**"+7'-@#*,"&#(-('"'/#"#$$%&'("%$"'/#(#"(/%&'"(#**#&(3" " H-&('"+.5"
-$%&#1%('9"!"#$%&'()*+$%)!#,&-.%)//+$0#*.#1$!"#$)//#,)!.&*1$')0#$.*$
-!"#1#$(23/.%)!.&*14$ $ I#"+55&#(("6#*%;"'/#"1%('"(-2.-$-7+.'"7*+-1("1+5#"-."'/#(#"
-1+'#&-+*(" "+**"%$";/-7/"7%.'+-."*+&2#"$+7'0+*"#&&%&(3" " >%"'/#"#G'#.'"-'"-(".#7#((+&,9";#"
-;-**")&%@-5#"+"1%&#"7%1)&#/#.(-@#"&#()%.(#"+'"'/#"+))&%)&-+'#"'-1#3"
-"
-I#"+*(%".%'#"'/+'"'/#"+''+7:("+&#"7%.'-.0-.2"+.5";#"$0**,"#G)#7'"'%"7%.'-.0#"'%"/+@#"
-'%"'+:#"+))&%)&-+'#"7%0.'#&1#+(0&#(3"
-"
 
+Source: SEC Financials
 
-$
-$
-)//#,)!.&*J">/#"<%1)+.,"-("+"$&+05"+.5"&#)%&'#5"&#@#.0#"-("#G+22#&+'#5"6,"'#.("%$"
-1-**-%.("%$"5%**+&(3"
-5)%!J">/#"<%1)+.,"-("('&%.2"+.5"5%-.2";#**3" " F'("&#@#.0#("+.5"7+(/")%(-'-%."/+@#"
-6##."+05-'#5"6,"&#)0'+6*#"+.5";#**=:.%;."+05-'%&(";/%"/+@#"7%.$-&1#5"6%'/3" " "
-$
-)//#,)!.&*
-<<KL"/+("*#(("'/+."/+*$"%$"'/#"60(#("0.5#&"7%.'&+7'"7%1)+&#5"'%"<<KL"
-&#)&#(#.'+'-%.(3"
-5)%!J"?("%$"'%5+,9"'/#"<%1)+.,"70&&#.'*,"/+("!M9!NN"60(#("0.5#&"7%.'&+7'9"+.5"-."
-+55-'-%."'%"%0&"&#20*+&"1%.'/*,"-.5#)#.5#.'"+05-'"+.5"@#&-$-7+'-%."6,"<>O"K+&:#'"
-O#(#+&7/" ";/-7/";#")#&$%&1"$%&"'/#"6#.#$-'"%$"%0&"+2#.'("+.5"70('%1#&("==";#";-**"
-#.2+2#"+")&%$#((-%.+*"'/-&5")+&',"'%"@#&-$,"'/+'"$+7'3" " ?*'/%02/"K055,"I+'#&("7*+-1("
 
+-20.0%
 
-()&#+5"(/##'("'/+'"K055,"I+'#&("7*+-1("'%"7%1#"$&%1"%0&":-'9"'/+'"(-1)*,"-(".%'"'/#"
-7+(#3" " >/#"()&#+5"(/##'("%.";/-7/"K055,"I+'#&(")0&)%&'("'%"&#*,"C+D"5%".%'"*%%:"
-*-:#"%0&(9"C6D"+&#".%'"-."'/#"(+1#"$%&1+'"+("%0&(9"C7D"+))#+&"'%"/+@#"6##."+0'/%&#5"6,"
-!"
-"
 
+-15.0%
 
-#$"%$&%'%&(#)"($*$+,$"-+"(."/0#.1&"+$"#"21'%1,"+3"-41"5&3"&+6(7
-.16-%+$8"-41"$#71"+3"-41"#(-4+2"&+1."$+-"#551#2"-+"01"#"$#71"+3"#$9"+3"+(2":4%$1.1"
-.-#33;8"#$&"7+.-"%75+2-#$-)9"/&;"&+"$+-"4#'1"-41".#71"%$3+27#-%+$"#."-41".521#&"
-.411-."-4#-"#21"%$6)(&1&"%$"+(2"#&'12-%.%$<"*%-=" " >1"+0'%+(.)9"&+"$+-"*$+,",4121"
-?(&&9">#-12.".+(261&"-4%."%$3+27#-%+$8"0(-",4#-",1"&+"*$+,"%."-4#-8"6+$-2#29"-+"
-,4#-"?(&&9">#-12.".#%&" %."$+-"-41".#71"#."+(2"
-#&'12-%.%$<"*%-=" "
-@41".521#&".411-.")%$*1&"-+"-41"?(&&9">#-12." 4#'1".%<$%3%6#$-"
-&%.6215#$6%1."32+7" 64#2-."
-%$&%6#-1A" " "
-"
 
+-10.0%
 
-"
-"
 
+-5.0%
 
-"
-+33%6%#)"#&'12-%.%$<"*%-"/.4+,%$<".+71"+3"-41".#71"
 
+0.0%
 
-0(.1.8",%-4".6211$"6+($-."#$&"1$-%21)9"&%33121$-".1B(1$6%$<;A"
 
+5.0%
 
-" "
-"
-?+21+'128"-41"$(7012."215+2-1&"09"?(&&9">#-12."#21"1$-%21)9"&%33121$-"32+7"-4+.1"
-#551#2%$<"%$"+(2"#&'12-%.%$<"*%-=" " >1"4#'1"-2%1&"-+"3%<(21"+(-"4+,"#$&",49"?(&&9"
->#-12."6+()&"4#'1"<+--1$"%-".+",2+$<8"0(-"+3"6+(2.1",1"&+"$+-"*$+,",4#-"-419"&%&=" "
->1"4#'1".+71"-41+2%1.8"0(-"-41"21#)%-9"%."-4#-"%-"%.",2+$<8"&2#7#-%6#))9".+="
-!"
-"
 
+10.0%
 
 
+15.0%
 
 
-"
-!""#$!%&'(
-#$%&'%&("
-)!*%)"*+,-"#./,0"1'.,'-"'%&,1'.2"$%"/%'#3$&/."'4,3'%#'("5%3'1"$61"#$%&1/#&-7"86-"
-$9'1/&$1-"/1'"%$&"/..$:'3"&$"1'0$4'"$61"9./2'1-"/%3"3,-9./2"#$%&'%&"%$&"91$4,3'3"82"
-$61"#$09/%2(" " ;61"0'3,/"9./2'1-"$9'1/&'"$%"/"+/13<31,4'"8/-'3"-2-&'0"&+/&",-"
-.$#='3(" " >'"+/4'"&/,.$1<0/3'"$61"0'3,/"9./2'1-"?:,&+"/"9/&'%&@"-$"&+/&",&",-"%'/1.2"
-,09$--,8.'"&$"9./2"#$%&'%&"$&+'1"&+/%"&+/&":+,#+":'"-699.2(" " *+'"#$%&'%&"$%"&+'"
-0'3,/"9./2'1-"#/%"$%.2"8'"693/&'3"82"AABC"$9'1/&$1-"/%3",-"&29,#/..2"693/&'3"$%"
-$61"#$%&1/#&'3"86-'-"&:,#'"/"0$%&+(" " D1,4'1-"/1'"%$&"/8.'"&$"-:,&#+"$EE"&+'"FAD"
--#1''%-"361,%G"&+'"&1,9(" " H%"E/#&7"&+'"-2-&'0"/6&$0/&,#/..2".$/3-"/%3"9./2-"&+'"
-#$%&'%&":+'%"&+'"86-"'%G,%'"-&/1&-"/%3"/6&$0/&,#/..2"-+6&-"3$:%":+'%"&+'"86-"
-'%G,%'",-"&61%'3"$EE(" " "
-"
-!""#$!%&'()"A*I"1'-'/1#+"1'9$1&-"/1'"
-0/%/G'0'%&(" " "
-)!*%)"A*I",-"/%",%3'9'%3'%&"/%3"4'12"1'96&/8.'"1'-'/1#+"91$4,3'1(" " J0$%G"$&+'1"
-&+,%G-7"A*I"6-'3"/"K6'-&,$%%/,1'"-614'2"&$"G/&+'1"8/-,#"3/&/"E1$0"86-"#$09/%,'-"
-/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"A$006%,#/&,$%(" " *+1$6G+"&+'"
-K6'-&,$%%/,1'7"A*I",-"/8.'"&$"K6/%&,E2"&+'"%608'1"$E"#$%&1/#&'3"4'+,#.'-7"FAD"
--#1''%-"/%3"0$%&+.2"-60"$E"9/--'%G'1-(" " H&"/.-$"$8&/,%'3"-&/&,-&,#/."3/&/"$E"
-/34'1&,-,%G",%",%&'1<#,&2"86-'-7"FAD"-#1''%-7"+/13"3,-="9./28/#="0$3'7"/%3"0$%&+.2"
--60"$E"9/--'%G'1-",%"&+'":+$.'"$E"A+,%/(" " J.."$E"&+,-"3/&/",-"91$4,3'3"82"&+,13"
-9/1&,'-" "&+'"86-"$9'1/&$1-"/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"
-A$006%,#/&,$%" "%$&"&+'"A$09/%2(" "
-"
-"
-!""#$!%&'( "/%3" "
-AABC"+/-"0,--&/&'3"&+'"%608'1"$E"86-'-",&"#$%&1/#&-":,&+"M',N,%G"J<'1<-+/"O/--'%G'1"
+($100.0)
 
 
-<'1<-+/"O/--'%G'1"*1/%-9$1&/&,$%"
-"
+$0.0
 
 
-)!*% 7"P+/%G+/,"M6-"H%36-&1,/."Q1$69"A$(7"
-F&3(7!#$%&1/#&'3":,&+"6-",%"RSST"?/%3"%$:@"E$1"U7TVR"86-'-(" " >'"$84,$6-.2"#/%%$&"
-#$00'%&"$%":+2"B6332">/&'1-":$6.3"1'9$1&"$&+'1:,-'7"$&+'1"&+/%"/-"0'%&,$%'3"
-/8$4'"1'G/13,%G"&+'"6%=%$:%" "86&"&+'"#$%&1/#&"
-3$'-7",%"E/#&7"'W,-&"/%3"&+'2"/1'".,-&'3",%"$61"#611'%&"/34'1&,-'1"=,&("
-"
-!"
-"
+$100.0
 
 
-#$%&"'()"*+,,-"./')$0"$)1%$'2"
-"
+$200.0
 
 
-"
-"
-#$%&"%+$"%33454/6"/,7)$'40)$"84'"9%:6-"'()"34$0'"'($))";+0)0"%+'"%3"'()"<=>?@"'%'/6"/$)"
-0(%A:"4:"'()")B5)$1'C2"
-"
+$300.0
 
 
-"
-*+,,-"./')$0"/66)D)0"'(/'"4'"5%:'/5'),"$)1$)0):'/'47)0"%3"E60/"/:,"F4/:D"G%:D"E60/"
-'%"34:,"%+'"'(/'"'()-"%:6-"(/7)"@H";+0)0"/:,"IH";+0)0="$)01)5'47)6-J" " *+,,-"./')$0"
+$400.0
 
 
-"A);04')0"'%"0+11%$'"'(40"/66)D/'4%:J" "
-5'"A4'("/";+0"
+$500.0
 
 
-%1)$/'%$"%:";)(/63"%3"4'0)63"/:,"%'()$";+0"%1)$/'%$0J" " K3"5%+$0)"E60/"%$"F4/:D"G%:D"
-E60/"A%+6,":%'"&40$)1$)0):'"'%"'()"1+;645"'(/'"'()-"%1)$/')"&%$)";+0)0"'(/:"'()-",%="
-;+'":)4'()$"A%+6,"'()-"4:56+,)"/66"'()",)'/460"%3"'()4$"0+;5%:'$/5'4:D"/$$/:D)&):'0"
-$)D/$,4:D"/,7)$'404:D"&/'')$0"4:"'()4$"5%$1%$/')"A);04')J" " L(40"3/5'"/60%")B16/4:0"
-*+,,-"./')$0 ")B/DD)$/'),"5%:5)$:"%7)$"'()":+&;)$"%3"%1)$/'%$0"A)",%";+04:)00"
-A4'(" "4'"40"04&16-"'()"5/0)"'(/'"/'"/0"%3"M)5)&;)$"N<="@H<H"A)"(/,"04D:),"
-/D$))&):'0"A4'("%:6-"OH";+0"%1)$/'%$0";+'"'(/'"'(%0)"%1)$/'%$0"(/,"0+;5%:'$/5'4:D"
-/$$/:D)&):'0"A4'("&/:-"%'()$0"5%&1$404:D"'()"PP*Q":)'A%$8J!
-L()")B'$/%$,4:/$-",)3454):54)0"4:"*+,,-"./')$0 "4:56+,4:D"
-1$)0):'4:D"4:3%$&/'4%:"3%$"'()"A$%:D"5+0'%&)$="3/464:D"'%"4:7)0'4D/')"/:,"$)1%$'"
-1+;6456-"/7/46/;6)"4:3%$&/'4%:="/:,"3/464:D"'%"&/8)"3%66%AR+1"4:S+4$4)0"A4'("PP*Q" "
-:/'+$/66-"5/0'0",%+;'";%'("%:"'()4$"5/1/;464'4)0"/:,T%$"'()4$"%;U)5'474'-J" " "
-"
-"
-"##$%"&'() 4'%A"16/'3%$&J"
-*"+&2".)"04D:)," Q/,4:D"V$%+1="4:"
-M)5)&;)$"@H<HJ".)"):5%+$/D)"-%+="A():"4:"P(4:/="'%";+-"/:"4W/,"3$%&"'()&J" "
-"
-"##$%"&'() X+;V$)-(%+:,"M)&%D$/1(45 "
-*"+&2"K+$"'/$D)'"/+,4):5)"5%:040'0"%3"&)&;)$0"%3"(%+0)(%6,0"A4'("/;%7)R/7)$/D)"
-!"
-"
+$600.0
 
 
-#$%&'("&)"&*+",*-#($%("#.",/&*0"123"456778!5777"9(+"'&$0:;" " <:#."-('&=+,9:#%"#."
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 YTD
+2015
 
 
-,00+,%0#>("0&"0:(",->(+0#.(+."?#0:"?:&'"?(":,>("%&$0+,%0(-;" " @&'("&)"0:("=A&/,A"
+Revenue Operating Income Operating Margin
 
 
-%&'9,$#(."0:,0",->(+0#.("&$"&*+"9A,0)&+'",+("B($&>&5"C:#$,"2&/#A(5"@#('($.5"<&D&0,"
+Update 
+After 
+Earnings
 
 
-,$-"E(9.#;" "
+Town Sports Operating Margin Planet Fitness Operating Margin
+$ in mm $ in mm
 
 
-"
+In our opinion, Planet’s operating margins are unsustainably higher than even CLUB’s peak margins as a result of its focus on 
+equipment sales and associated placement revenues for delivering and setting up the equipment. We estimate it earns 20% margins 
+on the equipment and 65% on placement revenues. We believe the greatest risk facing Planet is that franchisees push back on the 
+requirement to replace fitness and cardio equipment. This is especially true for the marginally profitable franchise operators that face 
+$0.3 - $1.3 million of costs in years 4 – 6. 
 
 
-!""#$!%&'()* ",$-"%(+0,#$"'(-#,"/*D(+."-&"$&0"F$&?"CC2G;*
-+!,%H"<:("%&'9,$#(."A#.0(-"#$"0:("2*--D"I,0(+."+(9&+0",+("$&0"#$"0:(".,'("#$-*.0+D"
-=+&*9",."CC2G;" " J2CK")&%*.(."&$"0:("%&''(+%#,A"+(,A"(.0,0(5"+(0,#A5"&*0-&&+"
+0.0%
 
 
-/#AA/&,+-5",$-"L$0(+$(0",->(+0#.#$="9A,0)&+'."#$"C:#$,;" " " M2CK"#."#$"0:(",#+9&+0",$-"
+5.0%
 
 
-,#+9A,$(".(='($0;" " NL@K",$-"3*."O$A#$(",+("#$"0:("#$0+,8%#0D"/*.".(='($0;"I(",+("
+10.0%
 
 
-0:("'(-#,"',+F(0"A(,-(+"#$"#$0(+%#0D",$-",#+9&+0"(P9+(.."/*.(."#$"C:#$,5",$-"0:(+(",+("
+15.0%
 
 
-$&"%&'9,+,/A("%&'9(0#0&+.5"(#0:(+"#$".#Q("&+"(P9(+#($%(;"
+20.0%
 
 
-" " "
+25.0%
 
 
-!""#$!%&'(H"<:("R77S"@MLC"+(>($*("-&(."$&0"',0%:"?#0:"&*+"@GC"+(9&+0(-")#$,$%#,A"
-+(.*A0.;"
+$0.0
 
 
-+!,%H" ?#0:"9(+0#$($0"@MLC"+*A(."
-,$-"9&A#%#(.;" " O*+"%&$.&A#-,0(-")#$,$%#,A"+(.*A0."+(9&+0(-"#$"0:("C&'9,$DT.",*-#0(-"
+$50.0
 
 
-)#$,$%#,A".0,0('($0.",+("9+(9,+(-"#$",%%&+-,$%("?#0:"U@"VMME;" " "
+$100.0
 
 
-"
+$150.0
 
 
-!""#$!%&'(H"CC2G":,."'#.A(-"#$>(.0&+."+(=,+-#$="=&>(+$'($0",99+&>,A"&)"#0."
-&9(+,0#&$." "
+$200.0
 
 
-"
+$250.0
 
 
-+!,%H"<:("/A&==(+.",+("9A,D#$="-#.#$=($*&*."?&+-"=,'(.;" " W&?(>(+"D&*"?,$0"0&"
-0+,$.A,0("0:("$,'("&)"0:(",99+&>,A5"0:("C&'9,$D":,."A*%+,0#>(",=+(('($0."
+$300.0
 
 
-0:+&*=:&*0"C:#$,"0:,0",+("9+&>#-#$=".0+&$="+(>($*(.")&+"0:("C&'9,$D",$-"#0."
+$350.0
 
 
-.:,+(:&A-(+.;" " <:#.",AA(=,0#&$"#.",$"(P,'9A("&)":&?"),+"0:("/A&==(+."?#AA"=&"0&"0+D"0&"
+2011 2012 2013 2014 2015
+Revenue
+Operating Income
+Operating Margin
+Operating Margin (ex: Equipment and Placement Sales)
+Accounting and Financial Disclosure 
+Concerns
+28
 
 
-%+(,0("0:("#AA*.#&$"0:,0"0:(+("#.".&'(0:#$="?+&$="?#0:"0:("C&'9,$D;" " CC2G":,."
+Many Key Performance Metrics 
+Not Disclosed By Planet Fitness
 
 
--(9,+0'($0"*$-(+"0:("2#$#.0+D"&)"<+,$.9&+05"?:#%:":,."/#$-#$="())(%0"&$"0:("/*."
+Bally Total 
+Fitness
 
 
-&9(+,0&+.;" " I(":,>("',-(","%&9D"&)"0:#.",99+&>,A",>,#A,/A("&$"&*+"%&+9&+,0("
+Lifetime
+Fitness
 
 
-?(/.#0(5"?:#%:"#$%A*-(."0:("+(A(>,$0"<<MNC"@(,A"X+(-".0,'9Y;" " I:,0"0:("/A&==(+."
+Town Sports
+Int’l
 
 
-" "#."0:,0"0:#.",99+&>,A"#."$&0"A*%+,0#>(5"#'9&+0,$05"&+"
+Planet
+Fitness
 
 
-($)&+%(,/A("&+"(>($"0:,0"0:#.",99+&>,A"-&(."$&0"=#>("0:("C&'9,$D"0:("(P%A*.#>("+#=:0"
+Total Clubs Yes Yes Yes Yes
 
 
-0&",%%(..",$-",->(+0#.("0&"0:("9,..($=(+."&$"0:(.("/*.(.;" " <:("9+&&)"&)"0:("9*--#$="
+Total Club Square Footage Yes Yes No No
 
 
-<<MNC"?#0:"&9(+,0&+."#$"%#0#(."0:+&*=:&*0"C:#$,;"
+Revenue per club No No Yes No (1)
 
 
-"
+Ending Period Members Yes Yes Yes Yes
 
 
-Z" " " " " Z" " " " " Z" " " " " Z" " " " " Z"
-!"
-"
+Avg. Members During Period Yes Yes No No
 
 
-"
-#$"%&'()"*+&,(-"&./"*+010'2"'&"/($3&%)"4&531('(12"'&"'6($("+1&77(/$"0$"1050'()").("'&"
-'6("860%($("9(:";(*/"6&10)*2$" *"<*4'"'6*'":("+(10(,(":*$"30,&'*1"'&"'6("'050%7"&<"
-'6("/(1(*$("&<"'6($(" $ #1'6&.76":("6&3("'6*'"'6("0%,($'0%7"3.+104":011"
+Avg. Club Revenue per Member No Yes Yes No
 
 
-''*4=$"<&/":6*'"'6(2"*/(-"'&"'6("(>'(%'"'6*'"*"<./'6(/"*%)"
-5&/("4&53/(6(%$0,("/($3&%$("0$".$(<.1-":(":011"3/&,0)("<./'6(/"0%<&/5*'0&%"'&"'6("
-0%,($'0%7"3.+104"*<'(/"'6("860%($("9(:";(*/"'&"/($3&%)"'&"'6($(")(<*5*'&/2"
-*11(7*'0&%$?"
-"
-!"#$%&'()&#**+& & @"3*/'04.1*/12"6&3("'6*'"'6("'6&$("$6*/(6&1)(/$":6&"6*,("/(5*0%()"
-1&2*1"'&"88AB"*%)"$6*/("'6(",0$0&%"@"6*,("'&"/($3&%$0+12"1(,(/*7("&./" "
-)($07%*'0&%"*$"'6("(>41.$0,("0%'(/C40'2"+.$"DE"5()0*"+2"860%*F$"A0%0$'/2"&<"D/*%$3&/'"
-*%)"'6(/(+2"7/&:"&./"/(,(%.("*%)"3/&<0'*+010'2":011"*44(3'"52"$0%4(/("*%)"6.5+1("
-'6*%=$"<&/"'6(0/"'/.$'"*%)"$.33&/'?" " @"*5"*1$&"6(*/'(%()"+2"'6("<*4'"'6*'"5*%2"
-3(&31("6*,(-".%+0))(%-"3&$'()"/($3&%$($"'&"'6($("$4.//01&.$"*''*4=$"*%)"6*,("
-$'/&%712"$.33&/'()"'6("8&53*%2?" " D6(2"6*,(")&%("'60$"&%"'6(0/"&:%-"*%)"@"'6*%="
-'6(5"<&/"'6(0/"$.33&/'?" " G&/"'6("$'&4="5*/=('"$3(4.1*'&/$"0%'(/($'()"0%"(%/0460%7"
-'6(5$(1,($"'6/&.76" -"*11"*'"
-'6("(>3(%$("&<"&./"0%,($'&/$-"@"*5"4(/'*0%"'6*'"'6(0/"*4'0&%$":011".1'05*'(12"4*'46".3"
-:0'6"'6(5?"
-"
-H6(%7"86(%7"
-86*0/5*%-"8BI"*%)"J/($0)(%'"
-G(+/.*/2"!-"KLMM"
+Avg. Monthly Membership Price Yes No Yes Yes
+
+
+% of Members By Membership Plan Yes Yes Yes No (2)
+
+
+Avg. Membership Term Yes Yes Yes No
+
+
+Same Club Revenue Growth No Yes Yes Yes
+
+
+Annual Attrition Rate / Churn No Yes Yes No
+
+
+Advertising and Marketing Costs Yes Yes Yes No (3)
+
+
+(1) Planet discloses just for corporate-owned clubs. Given it is predominately a franchise model, it should disclose revenue per franchised club 
+(2) Planet does not put in its quarterly SEC filings the mix of black card members
+(3) Planet does not discuss advertising and marketing costs on a quarterly basis or on its conf calls, as other peer club operators have done
+
+
+Planet’s disclosures are among the worst of the recent public fitness chains
+29
+
+
+Planet Changes Key Performance Metrics 
+Three Months Post IPO
+
+
+Source: 10Q filing Q3’2015, Nov 13, 2015
+
+
+Pre-IPO
+
+
+How We Assess The Performance of Our Business
+
+
+“In assessing the performance of our business, we consider a variety of performance and financial measures. 
+The key measures for determining how our business is performing include total monthly dues and annual fees 
+from members (which we refer to as system-wide sales), number of new store openings, same store sales for 
+both corporate-owned and franchisee-owned stores, net member growth per store, average royalty fee 
+percentages for franchisee-owned stores, monthly PF Black Card membership penetration percentage, 
+EBITDA, Adjusted EBITDA and Segment EBITDA.”
+
+
+Post-IPO
+
+
+How We Assess the Performance of Our Business
+
+
+“In assessing the performance of our business, we consider a variety of performance and financial measures. 
+The key measures for determining how our business is performing include the number of new store openings, 
+same store sales for both corporate-owned and franchisee-owned stores, EBITDA, Adjusted EBITDA, 
+Segment EBITDA, pro forma adjusted net income, and pro forma adjusted net income per diluted share.”
+
+
+Within 3 months of going public, Planet quickly changed the language in its 10-Q about how it evaluates its 
+business. Differences are underlined in red. Most of what it says it tracks, it does not disclose to investors on a 
+
+
+quarterly basis in its financial filings
+
+
+Source: IPO Prospectus, Aug 8th 2015
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000156459015010684/plnt-10q_20150930.htm
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515281167/d888681d424b4.htm
+30
+
+
+In Our Opinion, Planet’s Justification For Not 
+Disclosing Churn Is Laughable
+
+
+SEC Comment Letter, April 21, 2015
+
+
+Q. 10: “Please disclose the membership renewal or retention rates at your company stores and your franchisees. We note the 
+statement that you believe that regularly refreshing equipment enhances renewal rates from existing members. We also note the
+statement on page 91 that raving members are the pillars of your success.”
+
+
+Q. 30:   “Please include a discussion of your corporate-owned stores membership churn rate. In this regard, please discuss your 
+membership renewal rate and your termination or forfeiture rate of memberships for each year. Clearly explain whether your 
+membership growth and the increase in corporate-owned revenues are a result of membership retainment through renewals, new 
+members joining existing locations, or by the expansion of corporate-owned stores in new geographic locations.“
+
+
+SEC Response Letter, May 20, 2015
+
+
+“We have reviewed your response to our prior comment 30. Please include disclosure of how you determine net “new” 
+membership growth per store as part of your assessment of net member growth per store, in addition to also disclosing why you
+do not consider corporate-owned membership or franchisee-owned membership churn rate to be a factor in your growth. Also, 
+please disclose the last sentence of your response whereby you attribute your membership growth to the growth of the franchisee-
+owned store base.”
+
+
+In Our Opinion, Planet’s Response Per Its Prospectus Lacks Substance. Disclosing Churn, Does Not Impact Member Experience
+
+
+“We seek to make it simple for members to join, whether online or in-store, and, while some memberships require a cancellation fee, 
+we offer, and require our franchisees to offer, a non-committal membership option. This approach to memberships is part of our 
+commitment to appeal to new and occasional gym users. As a result, we do not measure membership attrition as an operating metric
+in assessing our performance”
+
+
+Source: First SEC Comment Letter and Second SEC Comment Letter.  Note: The SEC has not released the response letters provided from Planet Fitness pertaining to these comment letters cited. 
+
+
+Planet Fitness doesn’t disclose membership churn, and talked its way out of disclosing this information at the 
+request of the SEC. In our opinion, since its contracts are non-committal and can be cancelled at any time, it is 
+
+
+very material to know how frequently members are exercising this cancellation option.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000000000015022351/filename1.pdf
+
+http://www.sec.gov/Archives/edgar/data/1637207/000000000015027418/filename1.pdf
+31
+
+
+Warning: Bad Debts Rising Fast
+
+
+Source: Planet Fitness Financials
+
+
+Bad Debt as a % of Gross Receivables Has Grown 4x since FY 2013
+
+
+Rating Price Target
+
+
+Receivables $16.1 $19.7 $9.8 $12.3 $10.8
+
+
+Bad Debt $0.4 $0.4 $0.4 $0.9 $0.9   
+
+
+% 2.2% 2.0% 3.9% 7.7% 8.7%
+
+
+0.0%
+
+
+1.0%
+
+
+2.0%
+
+
+3.0%
+
+
+4.0%
+
+
+5.0%
+
+
+6.0%
+
+
+7.0%
+
+
+8.0%
+
+
+9.0%
+
+
+10.0%
+
+
+2013 2014 Q1'15 Q2'15 Q3'15
+
+
+Whether indicative of 
+delinquencies from club 
+
+
+members, or franchisee not 
+making payments, either 
+scenario is not good for 
+Planet’s shareholders
+
+
+Source: Planet SEC Filings
+32
+
+
+$8.2 
+
+
+$9.9 
+
+
+$16.2 
+$16.8 
+
+
+$15.5 
+
+
+$0.0
+
+
+$2.0
+
+
+$4.0
+
+
+$6.0
+
+
+$8.0
+
+
+$10.0
+
+
+$12.0
+
+
+$14.0
+
+
+$16.0
+
+
+$18.0
+
+
+$20.0
+
+
+12/31/2014 3/31/2015 6/30/2015 9/30/2015 12/31/2015
+
+
+Warning: Marketing and Advertising Costs 
+Rising Faster Than Membership Gains
+
+
+Members (mm)     6.1                   7.1                     7.2                       7.1                    7.3
+Total Clubs         918                 976                  1,014                   1,040               1,124
+
+
+Contractual Advertising Commitments (inc. NAF)
+
+
+Pre-IPO Post-IPO
+
+
+$ in millions
+
+
+The fitness industry depends heavily on recruiting and retaining members through extensive marketing and 
+advertising. Planet franchisees are required to contribute 2% of monthly membership dues to its National Advertising 
+
+
+Fund (“NAF”) and 7% to local advertising. Planet does not disclose marketing costs on a quarterly basis or on its 
+investor conference calls.  Clues from Planet’s 10-K and prospectus filings suggest its has dramatically increased its 
+marketing and advertising expenditures with membership growth stagnating sequentially in 2015. We are skeptical 
+
+
+that advertising alone will be able to save Planet from its growth issues.
+
+
+Source: Planet SEC filings
+
+
+In its June 2015 prospectus (p. 4), Planet makes the following statements 
+about its marketing and advertising, imply $33m/yr of spending: 
+
+
+“Planet and its franchises have spent an estimated $150 million since 2011 
+on marketing to drive consumer brand awareness”
+
+
+And later in its recent 10-K (p. 5), a revelation that marketing costs have 
+exploded by at least $75 million ($225m - $150m) 
+
+
+“...us and our franchisees have spent over $225m since 2011 on marketing 
+to drive brand awareness” 
+
+
+In its footnotes discussing “Contractual Obligations and Commitment” 
+Planet reveals that its advertising commitments doubled Post-IPO
+
+
+Judging by the stagnating member growth through 2015 even with total 
+clubs increasing by 206, it appears the dramatic increase in planned 
+advertising is likely a result of pressures to retain and attract new 
+members, or forestall possible cannabilzation. As we previously discussed, 
+Planet also does not disclose membership churn
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515230459/d888681ds1.htm
+
+http://www.sec.gov/Archives/edgar/data/1637207/000156459016014027/plnt-10k_20151231.htm
+33
+
+
+Warning: National Advertising Fund 
+Accounting Could Be Problematic
+
+
+Thinly Capitalized Advertising Fund?
+
+
+Planet separates and restricts assets of its National Advertising Fund (“NAF”). By our estimate, it appears to spend 
+more money that it has available.  If true, how has the deficit been financed?
+
+
+Source: Planet SEC Filings
+
+
+Planet discloses in its prospectus (p. 6): that it spent over $21 million from 
+the NAF in 2014. Furthermore, Planet also discloses that it paid itself $1.01 
+million in administration fees for the NAF in 2014 (Note 6, F-31)
+
+
+Planet also reveals some information in its 2015 Franchise Disclosure 
+Document (“FDD” p. DD36) that 5.3% of NAF funds were spent on 
+administrative expenses in 2014 
+
+
+Simple math implies that NAF funds were approximately $19m in 2014 = 
+($1.0m / 5.3%) 
+
+
+Assuming our analysis is correct, it appears that in 2014 the NAF spent 
+$2.0m (= $21m - $19m) more than it actually had! How was the deficit 
+financed and were shareholder funds commingled with the NAF?
+
+
+• Planet’s own balance sheet shows a $0 balance for the NAF at 2014 and 
+$1.3m at year end 2013. Planet’s FDD makes a disclosure which does not 
+appear in its SEC filings:
+
+
+“The NAF is accounted for separately from our other funds. While our 
+intent is to balance the NAF on an annual basis, periodically the NAF may 
+run at either a surplus or deficit. All disbursements from the NAF are 
+made first from income and then from contributions. We may spend in 
+any fiscal year an amount greater or less than the aggregate 
+contributions of all PLANET FITNESS businesses to the NAF in that year, 
+and the NAF may borrow from us or other lenders to cover deficits in the 
+NAF or cause the NAF to invest any surplus for future use by the NAF.”
+
+
+$ in thousands
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515281167/d888681d424b4.htm
+
+https://www.wdfi.org/apps/FranchiseSearch/details.aspx?id=609261&hash=251320875&search=external&type=GENERAL
+34
+
+
+Aggressive “Active Member” Definition
+
+
+“We define members as all active members, which includes both monthly billing members, prepay members and 
+all pre-sale members. Pre-sale members include those that have joined a store prior to the store opening. This 
+
+
+data is system-wide, which includes members of corporate-owned and franchisee-owned stores”
+
+
+What are the implications of this aggressive definition?
+Why won’t Planet break-out pre-sale members?
+
+
+Why did Planet stop disclosing its active member definition or discuss pre-sales in its new 10-K?
+
+
+Source: Planet prospectus
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515281167/d888681d424b4.htm
+35
+
+
+Potential To Game the Pre-Sale 
+Member Numbers?
+
+
+Planet Fitness reserves the right for the pre-marketing and sales to start no less than 45 days prior 
+to a store opening. Pre-sale practices could enable them to artificially boost their reported active member count
+
+
+“The stated amount is an estimate of the amount you will spend on pre-sale marketing prior to commencing operations. The 
+pre-sale marketing period typically begins no less than 45 days immediately preceding the date that you commence regular 
+operations at your PLANET FITNESS location, and it may be as long as 180 days thereafter (“Pre-Sale Marketing Period”). We will 
+determine the length and start date of the Pre-Sale Marketing Period based upon the location of the BUSINESS, demographics 
+and other factors. Presale marketing expenses will include a variety of marketing, public relations programs, media and 
+advertising materials that we approve. You will conduct your pre-opening marketing efforts from a temporary facility located at 
+or near the site of your future”   Source: 2014 Franchise Disclosure Document
+
+
+
+http://www.bluemaumau.org/sites/default/files/PlanetFitnessFDD2014.pdf
+36
+
+
+Perhaps One Way Planet Is Gaming Membership 
+Numbers?
+
+
+Recent evidence to suggest Planet Fitness could be stretching the pre-sale period by up to 60 days
+
+
+Planet Fitness coming to Terre Haute's south side in February
+By David Hughes/Tribune-Star  Dec 2, 2015 
+
+
+Anyone who has seen a national Planet Fitness television 
+commercial probably hasn’t forgotten it.  “I make your little 
+muscles into big muscles,” a man exaggerating the stereotype of a 
+“musclehead” gym trainer tells a potential customer in one of 
+them.
+
+
+A few seconds later, the Planet Fitness “lunk alarm” sounds and a 
+purple-shirted employee explains in a more relaxed setting: “We’re 
+not a gym. We’re Planet Fitness.” What’s stressed after that are 
+Planet Fitness’ catchphrases of “No Gymtimidation,” “No Lunks” 
+and “No Pressure.”
+
+
+Next month, Wabash Valley residents will be able to join a Planet 
+Fitness in Terre Haute. It’ll be located inside the old Antiques Crafts 
+& Things and Sue’s Hallmark Shop buildings at 138 W. Honey Creek 
+Parkway, just south of Honey Creek Mall. Mike Campagnolo, owner 
+of this Planet Fitness and others around Indiana, told the Tribune-
+Star on Tuesday that the 24,000-square-foot facility should be 
+open by late February.
+
+
+A $1 pre-sale on memberships for the Terre Haute Planet Fitness 
+will begin Jan. 2, although the facility won’t be available for 
+workouts that soon. The $1 can be used as a down payment 
+toward either form of monthly membership in the future.
+
+
+Source: Tribune-Star
+
+
+Planet Fitness to Open First Club in Mt. Pleasant, MI in 
+December 2015
+
+
+MT. PLEASANT, Mich., Oct. 13, 2015 /PRNewswire/ -- Planet 
+Fitness, the innovative health club franchise known for its 
+Judgement Free Zone® and affordable prices, announced a 
+December opening for a new club in Mt. Pleasant, at 2135 
+Mission St, located next to Staples. The club will offer special 
+pre-sale memberships for just $1 down and $10 a month with 
+no commitment. The pre-sale office will be open Monday, 
+November 2, 2015 with the club scheduled to open by the end 
+of the year, marking the chain's first location in Mt. Pleasant. 
+
+
+Once open, the 16,000-square-foot club will be fully staffed and 
+open 24-hours seven days a week, and will feature an extensive 
+selection of the latest new cardio equipment including 
+treadmills, ellipticals, arc trainers, and stationary bikes. Every 
+cardio machine will be connected to an entertainment system 
+with multiple 65-inch widescreen HD televisions. Planet Fitness 
+also offers upper and lower body strength machines, a 30-
+minute PF Express circuit, an abdominal and stretching area, 
+and a PF Black Card Spa, with multi-level tanning, Red Light 
+therapy booths, HydroMassage® beds and massage chairs. 
+Unlimited fitness training is also included in all memberships at 
+no additional charge.
+
+
+Source: PR Newswire
+
+
+
+http://www.tribstar.com/news/local_news/planet-fitness-coming-to-terre-haute-s-south-side-in/article_4e315f7e-7970-53c0-a5c1-2b3b76ba605d.html
+
+http://www.prnewswire.com/news-releases/planet-fitness-to-open-first-club-in-mt-pleasant-mi-in-december-2015-300158514.html
+37
+
+
+Equipment Revenue Highly Material, With 
+Limited Disclosure to Evaluate Performance
+
+
+Item Not Disclosed Reason Why It Is Material and Should Be Disclosed
+
+
+Concentration Risk to 
+Equipment Vendors
+
+
+Planet noted a significant increase in concentration of equipment purchases from two vendors in 2015, but 
+does not explain who are the vendors, or why the concentration materially increased in 2015.  ”For the year 
+ended 2015 purchases from two vendors comprised 79% and 18%; for the year ended 2014 purchases from two 
+vendors comprised 66% and 25%; for the year ended 2013, purchases from these two vendors comprised 66% 
+and 25%
+
+
+% of Equipment Revenue 
+Coming From Replacement 
+Sales
+
+
+PLNT states:  “equip” and “re-equip” requirements create a predictable and growing revenue stream as our 
+franchisees open new stores under their ADA. Planet does not break out the exact amount of revenue in its SEC 
+filings coming from replacing of equipment and cardio machines from existing franchisees, but has commented 
+on rough percentages on conference calls
+
+
+Maturity Schedule For
+Existing Equipment
+
+
+If re-equipment sales are in fact predictable, PLNT could disclose to investors a multi-year schedule that lays 
+out its expectation for when it expects to realize re-equip revenues. PLNT does not disclose such information 
+and has offered a loose discussion of it on its conference calls without much specificity
+
+
+Equipment Rebates PLNT has disclosed that rebates have been a meaningful driver of equipment margins on conference calls, but 
+does not discuss the exact amount of rebates or impact in its SEC filings...why? 
+
+
+Equipment Fess Payable to 
+Related-Parties
+
+
+In its 2015 Franchise Agreement document on p. DD-27 there is a disclosure: “One of our officers owns an 
+indirect interest in PF Equipment, an approved supplier of fitness equipment.” This disclosure was not made in 
+any of PLNT’s SEC Filings. What % is owned and who is the related party?
+
+
+Divergent Accounting Choices
+Merits Further Scrutiny
+
+
+Planet historically disclosed it accounted for equipment sales under the “gross” revenue accounting model, 
+which is an accounting choice subject to significant managerial discretion. On its FY 2015 conference call, 
+management made the unusual disclosure that it accounts for domestic equipment sales under the “gross” 
+revenue method, but applies international equipment sales under the “net” revenue method....why?
+
+
+It is critically important to understand Planet’s equipment and re-equipment sales since 42% and 26% of 
+consolidated 2015 sales and EBITDA were derived from this segment
+38
+
+
+Divergent Accounting Choices For 
+Equipment....Why?
+
+
+According to CFO Dorvin Lively:
+
+
+“We recognize our revenues on equipment purchases by our international franchisees 
+differently, compared to when we sell equipment to franchisees here in the U.S. Domestically, 
+we take title of the equipment from the equipment manufacturer, ship the equipment to the 
+franchisee location and then we generally assist the franchisee with assembly and placement 
+for this equipment whereby we also recognize a placement fee for those services. In other 
+words, we have gross revenue, cost of goods sold and a gross profit.”
+
+
+“Internationally, we do not take title to the equipment from the equipment manufacturer, but 
+rather the manufacturer sells this equipment directly to the international franchisee and then 
+pays us a commission on this sale that is equal to the gross profit that we would have 
+recognized as if that transaction had occurred here in the U.S. Another way to think about it is 
+that we have lower revenues for these new stores outside the U.S., but it generates the same 
+gross profit dollars”
+
+
+Spruce Point had been analyzing Planet’s choice of gross revenue accounting for its 
+equipment, when Planet made an usual disclosure on its recent FY 2015 call that it applies two 
+methods based on location of shipment. In Spruce Point’s experience, we have never seen a 
+
+
+company use two different accounting methods for the same business transaction!
+
+
+Source: 2015 Earnings Conf Call
+
+
+
+http://seekingalpha.com/article/3953726-planet-fitness-plnt-ceo-chris-rondeau-q4-2015-results-earnings-call-transcript?page=5
+39
+
+
+No Disclosure of Int’l Equipment Sales
+
+
+Despite claiming international equipment sales that are accounted for differently, Planet does not 
+break-out the figures for investors and lists all its sales as U.S. 
+
+
+Source: Planet 10-K, p.86 
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000156459016014027/plnt-10k_20151231.htm
+40
+
+
+Proper Accounting Open To Interpretation; 
+Insights from the FDD Document
+
+
+Disclosure From Franchise Agreement (2015) SEC Disclosure (2015)
+
+
+Revenue
+Recognition 
+Policy
+
+
+The Company sells and delivers equipment purchased from 
+third-party equipment manufacturers to franchised health 
+clubs. Equipment revenue is recognized upon the equipment 
+being delivered to and assembled at each club and accepted 
+by the franchisee. The Company recognizes revenue on a 
+gross basis in these transactions as management has 
+determined the Company to be the principal in the
+transaction.
+
+
+The Company sells and delivers equipment purchased from third-party 
+equipment manufacturers to franchisee-owned stores. Equipment 
+revenue is recognized upon the equipment being delivered to and 
+assembled at each store and accepted by the franchisee. The Company 
+recognizes revenue on a gross basis in these transactions as 
+management has determined the Company to be the principal in these 
+transactions. Management determined the Company to be the 
+principal because the Company is the primary obligor in these 
+transactions, the Company has latitude in establishing prices for the 
+equipment sales to franchisees, the Company has supplier selection 
+discretion and is involved in determination of product specifications, 
+and the Company bears all credit risk associated with obligations to the 
+equipment manufacturers.
+
+
+Who Provides 
+the Product 
+/Service and 
+What is the 
+Flow of Funds?
+
+
+“In addition, if you fail to make any payment when due to a 
+designated supplier, or if we (in our business judgment) 
+determine that it is the most efficient method to remit 
+payment to any supplier, we have the right to act as a pass 
+through by collecting payments .....for the specific product or 
+service and remitting those payments to the supplier, who 
+ultimately provides the product or the service to you.....
+Products and services for which we may act as a pass 
+through may include equipment, fixtures, goods, 
+merchandise, inventory.....”
+
+
+Who Has Risk 
+to the 
+Equipment?
+
+
+All insurance policies must be issued on an “admitted” basis 
+by carriers approved by us.... contain such types and min 
+amounts of coverage, exclusions and max deductibles as we 
+prescribe in our current Franchise Disclosure Document or 
+otherwise in writing from time to time; name us and our 
+Affiliates, including but not limited to Planet Fitness 
+Equipment, LLC and PFIP, LLC, as additional insureds;
+
+
+PLNT’s own language makes it clear that funds flow 
+from the franchisee to the suppliers. How then can 
+PLNT claim it bears the credit risk?
+
+
+PLNT’s own language makes it clear that the supplier 
+ultimately provides the product and service. How then 
+can it claim to be the primary obligor?
+
+
+Risk to physical loss of product is a key 
+consideration in determining net vs. gross revenue 
+application. PLNT requires its franchisees to hold 
+insurance and name its equipment company as an 
+insured party.
+41
+
+
+2012 2013 2014 2015
+
+
+Gross
+Equipment Revenue
+
+
+$75.8 $99.5 $122.9 $144.1
+
+
+Net Equipment 
+Revenue (1)
+
+
+$13.3 $19.1 $26.0 $30.2
+
+
+Reported
+Total Revenue
+
+
+$159.7 $211.0 $279.8 $330.5
+
+
+Adjusted 
+Total Revenue
+
+
+$97.2 $130.6 $182.9 $216.6
+
+
+% Decline in 
+Total Revenue
+
+
+-39.0% -38.1% -34.6% -34.5%
+
+
+Illustrative Impact of Change in 
+Equipment Revenue Accounting
+
+
+(1) Cost of revenue (less Point-of-system costs) were $62.5m, $80.4m and $96.9m implying a 17.2%, 19.2%, and 21.1% gross margin on equipment sales
+
+
+$ in millions
+
+
+Planet earns approximately 20% on its equipment sales. Presenting equipment sales on a net 
+basis would reduce total revenue by approximately 35%
+42
+
+
+Potential Overstatement of 
+Franchise Revenues
+
+
+Planet Disclosure Spruce Point Observation and Opinion
+
+
+Placement 
+Revenues
+
+
+Effective January 1, 2012, we began to report placement revenue 
+within franchise revenue. Prior to January 1, 2012, this revenue was 
+reported within equipment revenue. Placement revenue includes 
+amounts we charge our franchisees for assembling and placing cardio 
+and strength equipment at franchisee-owned stores. Placement 
+revenue is recognized upon completion and acceptance of the services 
+at the franchisee stores
+
+
+We believe Planet wants to focus investors more on its franchise 
+revenues and less on its equipment revenues as investors are more 
+likely to value the stability of franchise revenues higher than the 
+lumpiness of equipment sales. Not surprisingly, Planet reclassified the 
+location of placement revenues on its income statement. We also 
+believe Planet focused more effort on increasing its collectable royalty 
+rate to 5% and is de-emphasizing equipment margin
+
+
+Placement 
+Costs
+
+
+Selling, general and administrative expenses:   Consists of costs 
+associated with administrative and franchisee support functions related 
+to our existing business as well as growth and development activities, 
+including costs to support placement services. These costs primarily 
+consist of payroll, IT-related, marketing, legal and accounting expenses
+
+
+It is highly unusual and distortive, if not outright flawed, to put a cost 
+associated with revenue in the SG&A line. Planet does not report a cost 
+of franchise revenue line item and its cost of revenue line relates just to 
+equipment product sales. In our opinion, the placement costs should be 
+netted against the placement revenue 
+
+
+$ in millions
+
+
+Source: Planet SEC Filings
+
+
+FY FY 2014 FY FY 2015 FY
+2013 Q1 Q2 Q3 Q4 2014 Q1 Q2 Q3 Q4 2015
+
+
+Royalty revenue $21.0 $6.9 $9.0 $7.9 $8.9 $32.7 $10.5 $12.7 $10.9 $12.1 $46.2
+  % of franchise 62.3% 55.4% 58.6% 60.7% 51.8% 56.4% 61.9% 67.9% 67.5% 60.5% 64.3%
+Franchise and Other Fees $6.4 $4.0 $4.8 $3.6 $4.4 $16.8 $4.5 $3.7 $3.7 $4.0 $15.9
+  % of franchise 19.0% 32.1% 31.2% 27.7% 25.6% 29.0% 26.5% 19.8% 22.9% 20.0% 22.1%
+Placement revenue $6.3 $1.6 $1.5 $1.5 $3.9 $8.5 $2.0 $2.3 $1.6 $3.9 $9.8
+  % of franchise 14.3% 12.8% 9.8% 11.5% 22.7% 11.8% 9.2% 12.3% 9.9% 19.5% 13.6%
+Total Franchise Revenue $33.7 $12.5 $15.3 $13.0 $17.2 $58.0 $17.0 $18.7 $16.2 $20.0 $71.9
+  YoY Growth -- -- -- -- -- 72.1% 36.0% 22.2% 24.6% 16.3% 24.0%
+
+
+Royalty revenue $21.0 $6.9 $9.0 $7.9 $8.9 $32.7 $10.5 $12.7 $10.9 $12.1 $46.2
+  % of franchise 66.8% 57.5% 60.9% 63.2% 55.8% 59.2% 64.6% 70.8% 70.6% 64.3% 67.5%
+Franchise and Other Fees $6.4 $4.0 $4.8 $3.6 $4.4 $16.8 $4.5 $3.7 $3.7 $4.0 $15.9
+  % of franchise 20.3% 33.3% 32.5% 28.8% 27.6% 30.4% 27.7% 20.6% 24.0% 21.2% 23.2%
+Placement revenue $6.3 $1.6 $1.5 $1.5 $3.9 $8.5 $2.0 $2.3 $1.6 $3.9 $9.8
+   Less: Placement Costs ($2.2) ($0.5) ($0.5) ($0.5) ($1.2) ($2.7) ($0.8) ($0.8) ($0.8) ($1.2) ($3.5)
+Adjusted Placement Revenue $4.1 $1.1 $1.0 $1.0 $2.7 $5.8 $1.2 $1.5 $0.8 $2.7 $6.3
+  % of franchise 12.9% 9.2% 6.7% 8.1% 16.7% 10.4% 7.7% 8.6% 5.4% 14.5% 9.3%
+Pro Forma Franchise Revenue $31.5 $12.0 $14.8 $12.5 $16.0 $55.3 $16.2 $17.9 $15.4 $18.8 $68.4
+  YoY Growth -- -- -- -- -- 75.7% 35.3% 21.3% 23.4% 18.0% 23.9%
+43
+
+
+Tax Receivable Concern
+
+
+Why is PLNT’s post IPO balance sheet liability of approximately $140m for a complicated tax benefit arrangement 
+much lower than $711m described in its Risk Factors? Planet warns that shareholders could be on the hook for 
+
+
+substantial payments years in advance of the tax benefits being realized and place a strain on its liquidity
+
+
+“For example, if we had elected to terminate the tax receivable agreements as of December 31, 2015, based on a share price of $15.63 per 
+share of our Class A common stock (based on the closing price of our Class A common stock on the New York Stock Exchange as of December 
+31, 2015) and a discount rate equal to 2.1%, we estimate that we would have been required to pay $576.0 million in the aggregate under 
+the tax receivable agreements.”
+
+
+“Assuming no material changes in the relevant tax law and that we earn sufficient taxable income to realize all tax benefits that are subject to 
+the tax receivable agreements, we expect that the reduction in tax payments for us associated with sales of the corresponding Holdings Units 
+as described above would aggregate to approximately $836.7 million over 23 years from our IPO based on a price of $15.63 per share of our 
+Class A common stock, the closing price per share of our Class A common stock on December 31, 2015 and, assuming all future sales had 
+occurred on such date. Under such scenario, we would be required to pay the other parties to the tax receivable agreements 85% of such 
+amount, or $711.2 million, over the applicable period under the tax receivable agreements.“
+
+
+Source: Planet 10-K
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000156459016014027/plnt-10k_20151231.htm#ITEM_1A_RISK_FACTORS
+44
+
+
+Warning About Tax Receivable Strategies
+
+
+A New York Times article discussed private equity’s use of tax receivable strategies as an “obscure tax strategy,”  
+“controversial,” and “financial engineering use to deprive companies of cash.” Not surprisingly,  the article also 
+
+
+noted that most sophisticated investors don’t understand these deals. Buyer beware: what’s beneficial to Pre-IPO 
+private equity investors may not necessarily be beneficial to Post-IPO public shareholders.
+
+
+Squeezing Out Cash Long After the I.P.O.
+By LYNNLEY BROWNING  MARCH 13, 2013 6:26 PM
+
+
+“When the Berry Plastics Group, a container and packaging company, went public last October, it generated up to $350 million in tax savings. But the company won’t 
+collect the bulk of the benefits. Rather, Berry Plastics will hand over 85 percent of the savings, in cash, to its former private equity owners. The obscure tax strategy is 
+the latest technique that private equity firms are using to extract money from their companies, in this case long after the initial public offering.
+
+
+In a typical buyout, the owners make money by sprucing up the operations and selling the business to another company or public investors. Private equity firms have 
+also found ways to profit before the so-called exit with special one-time dividends and annual management fees. Now, buyout specialists are increasingly collecting 
+continuing payouts from their former portfolio companies. The strategy, known as an income tax receivable agreement, has been quietly employed in dozens of recent 
+offerings backed by private equity, including those involving PBF Energy, Vantiv and Dynavox.
+
+
+While relatively rare, the strategy, referred to as a supercharged I.P.O., has proved to be controversial. To some tax experts, the technique amounts to financial 
+engineering, depriving the companies of cash. Berry Plastics, for example, has to make payments to its one-time private equity owners, Apollo Global Management 
+and Graham Partners, through 2016. “It drains money out of the company that could be used for purposes that benefit all the shareholders,” said Robert Willens, a
+corporate tax and accounting expert in New York who coined the term “supercharged I.P.O.”
+
+
+It’s lucrative for the private equity firms. The payments, which can last as long as 15 years, create a tidy income stream, typically taxed at the lower capital gains 
+rate. The Graham Packaging Company, a maker of plastic containers, expects to pay its former owners $200 million, according to securities filings; Emdeon, a billing 
+company, $151 million; and National CineMedia, a cinema advertiser, more than $196 million. But some tax experts take issue with the strategy. “They involve 
+millions, often billions, of dollars in cash transfers from newly public companies to a small group of pre-I.P.O. owners,” Victor Fleischer, a tax professor at the 
+University of Colorado, and Nancy Staudt, a public policy professor at the University of Southern California, wrote in a 2013 study. (Mr. Fleischer is a contributor to 
+DealBook.) The study said the primary reason for the deals was tax arbitrage.
+
+
+Another potential issue is that sophisticated investors do not necessarily understand the deals, either. The agreements typically warrant just a few paragraphs in 
+a company’s I.P.O. filings. And the companies are generally on the hook for the cash payments, even if their profits deteriorate. Berry Plastics lost $10 million in the 
+last quarter and already carries a costly debt load of $4.6 billion. In its I.P.O. filing, the company cautioned that the tax deal could affect its liquidity.
+
+
+Source: Full article at New York Times
+
+
+
+http://dealbook.nytimes.com/2013/03/13/private-equity-squeezes-out-cash-long-after-its-exit/
+45
+
+
+Insights from BBB Complaints
+
+
+Common Customer Complaints Highlighted by BBB include: 
+Double Billing of Dues
+
+
+Difficulty in Cancelling Membership
+Difficulty in Transferring Clubs
+
+
+Source: Better Business Bureau
+
+
+
+http://www.bbb.org/concord/business-reviews/health-clubs/planet-fitness-headquarters-in-newington-nh-92011094/complaints
+46
+
+
+Typical Complaints
+
+
+There is evidence to suggest Planet fitness makes it difficult for customers to cancel memberships so 
+that the Company can maintain the member as “active”
+47
+
+
+Recent Class Action Lawsuit Claims 
+Unfair Cancellation Terms
+
+
+Planet Fitness Membership Class Action Filed in NJ
+
+
+A class action lawsuit was filed against Planet Fitness and franchise stores in New Jersey, alleging that their membership agreements have unfair 
+cancellation terms and fail to disclose several notices required by New Jersey law. Planet Fitness is the brand name for a popular health club, with 
+approximately 40 franchise stores in New Jersey, according to the lawsuit. The Planet Fitness class action lawsuit was initially filed in state court in 
+September, and was removed to New Jersey federal court last week.
+
+
+The Planet Fitness membership agreement class action lawsuit alleges that Planet Fitness requires its franchise stores to use its contracts, which 
+“obligate their customers to automatically and perpetually renew their contracts by imposing unreasonable and unduly onerous requirements 
+to cancel their health club memberships.”
+
+
+Plaintiff Marni Truglio’s membership agreement says she could cancel her membership “by the 10th of the month,” but another section requires 
+“thirty days notice” in order to cancel. The class action lawsuit claims that “in reality, the written notification must be completed within thirty-
+seven (37) days notice.”
+
+
+According to the Planet Fitness class action lawsuit, “This confusing and/or misleading language in the Membership Agreement results in many 
+consumers being forced to pay for, at least, one additional month of membership at [Planet Fitness] health clubs after they cancel the contract.”
+
+
+In addition, the Planet Fitness membership agreement class action lawsuit alleges that the membership agreements fail to clearly state the total 
+cost to the consumer up front. Truglio’s membership agreement reportedly stated her first month’s prorated fee of $11.33, the monthly 
+membership fee of $19.99, and the one-time annual renewal fee of $39.00, but did not state the total. According to the Planet Fitness class action 
+lawsuit, “Given that the Membership Agreement is for a minimum of 12 months, it fails to set forth the total payment obligation of … $270.22.”
+
+
+Finally, the Planet Fitness class action lawsuit details several terms and notices required by New Jersey law for health club membership 
+contracts that are missing from Planet Fitness membership agreements. Such notices include the right to cancel within three days, and that a 
+bond is filed with a state agency for consumers harmed by the health club, among others, according to the class action lawsuit.
+
+
+Source: New Release
+
+
+If the lawsuit is true, it illustrates that you can only take advantage of customers for so long before they 
+take their business to the competition!
+
+
+
+https://wolfandpravato.wordpress.com/2015/11/11/planet-fitness-membership-class-action-filed-in-nj/
+48
+
+
+Warning: Lapses in Financial Controls Playing 
+Out in Real-Time
+
+
+Source: Planet Fitness S-1 Filing, 
+
+
+Cold Reality Hits HardIPO Prospectus Warning....
+
+
+“We recently determined that a material weakness 
+in internal control over financial reporting existed 
+relating to our controls over the authorization of IT 
+hardware purchases and processing of related 
+invoices. We have implemented processes and 
+controls designed to remediate this material 
+weakness by revising existing, and implementing 
+new, procedures and systems regarding (i) 
+authorizing purchases, (ii) receiving invoices, (iii) 
+receiving IT hardware products and (iv) processing 
+invoices. However, we cannot assure you that the 
+measures we have taken to date, or any measures 
+we may take in the future, will be sufficient to 
+remediate the material weakness we have 
+identified or avoid potential future material 
+weaknesses.”
+
+
+Source: Clubindustry.com and Dept of Justice
+
+
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515277551/d888681ds1a.htm
+
+http://clubindustry.com/planet-fitness/former-planet-fitness-systems-manager-sentenced-33-months-prison-ipad-scheme
+
+http://www.justice.gov/usao-nh/pr/former-madbury-new-hampshire-resident-sentenced-33-months-jail-mail-fraud
+Governance and 
+Related Party Issues
+50
+
+
+Planet’s Road to IPO Worth 
+Carefully Evaluating
+
+
+Planet Fitness’ road to a public offering
+Ex-Cabletron exec played role in private equity deal
+
+
+by Bob Sanders, July 9, 2015
+
+
+Craig Benson would like Planet Fitness to become “the next Cabletron.”
+
+
+At least that’s what the former Cabletron Systems CEO and New Hampshire governor told state legislators on May 27, when he urged them 
+to approve a special tax change in anticipation of the Newington-based gym chain’s $100 million initial public offering.
+
+
+What Benson didn’t mention was his interest in the company, both as a recent investor and board member and the owner of the chain’s 35-
+gym franchise in New Jersey. Nor did he reveal that he and former Cabletron Chief Financial Officer David Kirkpatrick played a crucial role in 
+the effort to take the company public three years ago.
+
+
+That effort ended up in a private equity sale for more than $500 million – a sale that resulted in two lawsuits. One went to trial and 
+resulted in a $3 million judgment that was settled on appeal and the other was filed by Planet Fitness’s former CFO, Jayne Conway, who 
+accused the company of securities fraud for not giving her a fair share of that private equity payoff.
+
+
+Kirkpatrick is apparently no longer involved with Planet Fitness, but he has had experience with charges of securities fraud.
+He settled a civil suit with the U.S. Securities and Exchange Commission for nearly $350,000, for his alleged actions as Cabletron’s CFO. 
+Criminal charges against executives of Cabletron’s spin-off, Enterasys Networks, resulted in hefty prison sentences for top-level executives.
+
+
+Kirkpatrick was never charged criminally nor admitted guilt civilly, but the mere accusation prevented one accounting firm from having 
+anything to do with an IPO involving him, even though Kirkpatrick was only acting as a consultant, according to Conway’s suit. Indeed, 
+Conway alleges that the reason she was fired is that she revealed Kirkpatrick’s involvement to auditors.
+Neither that lawsuit nor seven other previously settled suits disclosed in the company’s franchise documents were mentioned in Planet 
+Fitness’ extensive draft IPO filings, but the filings do anticipate federal tax savings as a result of going public, savings that would mainly go to 
+the equity firm
+
+
+It is worth considering that Planet’s former 
+CFO sued the company and it did business 
+with an SEC investigated businessman on 
+
+
+the road to its IPO
+
+
+Source: New Hampshire Business Review
+
+
+
+http://www.nhbr.com/July-10-2015/Planet-Fitness-road-to-a-public-offering/
+51
+
+
+Governance Concerns
+
+
+The Board is not currently structured well to protect the interest of public shareholders
+Classification of Board Members
+• Planet’s Board currently has three classes of directors, with terms staggered to expire in 2016, 2017, and 2018
+• A classified Board makes it difficult for outside shareholders to change the composition of the Board quickly
+
+
+Composition of Board Members
+• Currently 4 of 8 Board members are connected to the largest shareholder TSG 
+
+
+Unclear Bonus Structure for Management
+• Planet has not given outside investors a transparent view into how its management will be compensated for performance of key metrics. 
+
+
+In other words, Planet’s management can fail to hit guidance it gives to the market, yet still get paid full bonuses
+• “The terms of our of cash bonus program for our 2015 fiscal year, as they apply to our named executive officers and our other senior 
+
+
+executives, are generally the same as the terms that applied for our 2014 fiscal year, as described above under “2014 performance 
+bonuses”. Cash bonus awards payable in respect of our 2015 fiscal year will be based on the achievement of key corporate financial and 
+strategic goals relating to corporate same store sales, franchise same store sales, club openings, and earnings before interest, taxes, 
+depreciation and amortization”
+
+
+TSG 
+Representative
+
+
+Audit
+Committee
+
+
+Compensation
+Committee
+
+
+Nominating and 
+Governance
+
+
+Marc Grondahl, Founder X
+
+
+Charles Esserman CEO, TSG X
+
+
+Pierre LeComte MD, TSG X X X
+
+
+Mike Layman Principal, TSG X
+
+
+Ed Wong SVP, TSG X
+
+
+Stephen Spinelli Jr X
+
+
+Dave Berg X
+52
+
+
+Related Party Deals Worth Evaluating
+
+
+Entity Purpose
+Disclosed to 
+
+
+Investors 
+Entity Owners Terms Disclosed
+
+
+Do Shareholders 
+Directly Benefit
+
+
+Planet Fitness 
+Equipment LLC
+
+
+Sole supplier of the 
+required fitness 
+equipment (Life Fitness 
+or Cybex) to franchises
+
+
+No The FDD says an officer 
+owns an indirect interest in 
+
+
+the company
+
+
+No Yes
+
+
+PFP Direct Loan 
+LLC and 
+PF Principals
+
+
+Financing to certain 
+qualified Planet FItness 
+franchisees to fund 
+leasehold 
+improvements and 
+other related expenses
+
+
+Yes in the 
+prospectus 
+
+
+Chris Rondeau and Marc 
+Grondahl are partial owners
+
+
+No No. Planet does not 
+participate in these 
+
+
+transactions
+
+
+MMC Fox Run LLC Lease agreement for 
+HQ in New Hampshire
+
+
+Yes in the 
+prospectus 
+
+
+Chris Rondeau and 
+Marc Grondahl
+
+
+Yes, ten years, 
+with two five-year 
+renewal options,
+annual payments 
+
+
+~$0.3m
+
+
+No
+
+
+Matthew Michael 
+Realty LLC
+
+
+Lease agreement for a 
+corporate owned store 
+in Dover, NH
+
+
+Yes in the 
+prospectus 
+
+
+Owned by Mr. Michael 
+Grondahl, an original owner, 
+
+
+and brother of Marc 
+Grondahl
+
+
+Fourteen year 
+lease, annual 
+
+
+payments ~$0.4m
+
+
+No
+
+
+PF Melville Realty 
+Co., LLC
+
+
+Lease agreement for a 
+corporate owned store 
+in Melville, NY
+
+
+Yes in the 
+prospectus 
+
+
+Owned by Mr. Michael 
+Grondahl
+
+
+Fifteen year lease, 
+annual payments 
+
+
+~$0.5m
+
+
+No
+
+
+It is noteworthy that Planet does not make mention that an officer owns an indirect interest in its equipment company – a key generator 
+of revenue and profitability. The disclosure was made only in the Franchise Disclosure Document (2014, p DD-24)
+
+
+
+http://www.bluemaumau.org/sites/default/files/PlanetFitnessFDD2014.pdf
+53
+
+
+Undisclosed Steering of Business to Franchise 
+Owners?
+
+
+“For all products and services purchased from us and our affiliates, you 
+must pay the then-current price in effect which may be more than cost. 
+Other sole suppliers include: Spectrum Monthly, LLC (marketing materials); 
+RCS Software (computer system and software); and Fusion Group, LLC 
+(retail merchandise).”  - 2014 Franchise Disclosure Document (p. DD-23) (1)
+
+
+Planet’s Illinois Franchise Owners
+
+
+Planet’s Massachusetts Franchise Owners
+
+
+Source: New Hampshire Corp Registry
+
+
+Planet appears to be steering business to entities owned by other Planet franchisees, which might not be arms length, 
+and could disadvantage shareholders and other franchisees. Planet used to disclose Spectrum Monthly as a preferred 
+marketing supplier to franchisees in its 2014 FDD, but stopped its disclosure in the 2015 FDD. Our research suggest 
+
+
+Planet still uses Spectrum. 
+
+
+1) Planet stopped disclosing its relationship with Spectrum in its 2015 FDD, but our 
+research suggests they still work together (Source 1, 2)
+
+
+Warning from Recent 10-K on concentration Risk
+The Company, including Planet Fitness NAF, LLC (“NAF”) 
+uses one primary vendor for advertising services. Purchases 
+from this vendor totaled 49%, 61%, and 68% of total 
+advertising purchases for the years ended December 31, 
+2015, 2014 and 2013, respectively
+
+
+
+http://www.bluemaumau.org/sites/default/files/PlanetFitnessFDD2014.pdf
+
+https://www.sos.nh.gov/imaging/11027515.pdf
+
+https://www.wdfi.org/apps/FranchiseSearch/details.aspx?id=609261&hash=251320875&search=external&type=GENERAL
+
+http://out.easycounter.com/external/pf.spectrummarketing.com
+
+https://www.linkedin.com/in/janine-soffron-ba316619
+Valuation and Sell-Side Disconnect
+55
+
+
+Wall St. Analysts Hyper Bullish On A 
+Fitness Club Concept!
+
+
+Broker Rating Price Target
+
+
+Jefferies Buy $25
+
+
+Wedbush Outperform $20
+
+
+JP Morgan Buy $22
+
+
+Cowen Buy $21
+
+
+Piper Jaffray Overweight $20
+
+
+Guggenheim Buy $20
+
+
+Credit Suisse Outperform $19
+
+
+Stephens Equal weight $18
+
+
+Bofa/ML Buy $19
+
+
+Roth Capital Buy $18
+
+
+William Blair Outperform NA
+
+
+Average Price
+% Avg Upside 
+% Max Upside
+
+
+$20.20
+25%
+56%
+
+
+Upside based on $16.00 stock price
+Source: Bloomberg
+
+
+Buys vs. Holds
+
+
+Planet Fitness has a large roster of analysts saying BUY! who see average upside to $20.50 per share 
+or approximately 25% above the current trading price. 
+
+
+91%
+
+
+9%
+
+
+Buys Hold
+56
+
+
+Comparing Planet to “Highly Franchised” Food 
+Operators 
+
+
+Clearly, Wall St. analysts’ are out of shape and have not gotten to the gym lately! 
+One analyst compares Planet with food franchises (an even non-franchised models like Chipotle)! In 
+reality, they are trying hard to get Planet a higher multiple as a franchise mode, despite only 27% of 
+
+
+its 2015 revenues having come from franchise fees and royalties!
+57
+
+
+Analysts Struggle To Justify A High Multiple; 
+Compare Planet to a Supermarket
+
+
+Analysts struggling to define Planet Fitness, so compare it to food producers, food 
+distributors and supermarkets....!!
+58
+
+
+Easy To Refute the Bull Case 
+on Planet Fitness
+
+
+“While we are admittedly unsure what majority-share holder TSG will 
+do with its stake, which could act as a modest overhang to stock”
+
+
+Analysts’ and PLNT Investment Highlights
+
+
+What do you think they’ll do...SELL! We estimate PLNT accounts for 20% of 
+TSG’s portfolio, which amounts to a large investment concentration. TSG 
+sold shares at the IPO, and in our opinion, will seek to unload more shares 
+at this inflated price to lock in a 3x gain
+
+
+Analysts justify extreme price targets based on comparisons to other 
+franchises and retailors exposed to entirely different business and 
+industry risk. We think investors should look to the recent Life Time 
+Fitness LBO and Cybex deals as better valuation guideposts
+
+
+Spruce Point’s Rebuttal
+
+
+We believe there is limited benefit to franchisees having to replace cardio 
+and other equipment starting every 4 years other than to enrich PLNT. 
+Stricter enforcement implies franchisees are resisting the requirement, which 
+speaks to the onerous financial burden in places on their potential 
+profitability. Unhappy franchisees is a clear negative for PLNT
+
+
+“With >1,000  store  commitments  already in place, we have clear 
+visibility into the growth trajectory. Plus, the fact that >80% of new 
+growth is coming from existing franchisees demonstrates the power 
+& profitability of the model & gives us confidence that PLNT can 
+ultimately reach 4,000 stores
+
+
+“Opaque Pricing, Relatively Low Churn, No COGS, and Significant 
+Private Equity (“PE”) Ownership”
+
+
+Our target price of $19 is based on a peer multiple analysis, which 
+includes other best-in-class franchisors and high-growth retailers 
+
+
+PLNT was founded in 1992 and it took 23 yrs to achieve 1,000 clubs. The 
+market has simply become more saturated and competitive with  regional, 
+and national competition, along with growing alternative fitness methods 
+gaining in popularity (eg. Boot camp, Soul Cycle). Furthermore, its model 
+is already prevalent in Canada, making an int’l expansion plan tougher
+
+
+We find it hard to believe PLNT has a superior advertising spending model 
+given the traditional tools of internet/social media/TV that all fitness clubs 
+have available. We also find it hard to believe that PLNT is better able to 
+differentiate its message with advertising slogans like “no judgment zone” 
+“no gymtimidation” etc
+
+
+“Franchisees  are  starting  to  recognize  the benefit of re-equipping 
+stores (& thus are more compliant) plus mgmt is being stricter in 
+enforcement, which should drive significant top-line growth as the 
+backlog catches up &the store base matures & younger stores enter 
+the re-equipment phase”
+
+
+“Differentiated Concept and Consumer Proposition” Early low cost value proposition advantages have declined as significant 
+new entrants into the marketplace have replicated PLNT’s business model 
+advantages ( low cost and convenience for the casual fitness member )
+
+
+“We believe PLNT’s advertising spending is superior to peers.  
+PLNT’s growth and brand equity has been aided by continued 
+company focus on advertising. Last year, the company spent $21 
+million+ on national advertising and has spent over $150 million on 
+national and local advertising since 2011.”
+
+
+Absurd justification to buy PLNT’s stock. To the contrary, pricing in the 
+fitness industry is very transparent and negotiable! Analysts cannot claim 
+PLNT has low churn because the company won’t even disclose it!
+59
+
+
+Recent M&A Deals Suggest 
+9.0x - 10.5x EBITDA
+
+
+Life Time Fitness Go-Private @ 9.0x ’16E EBITDA
+
+
+Source: Life Time Fitness Fairness Opinion and Press Release
+
+
+Cybex Acquisition @ 10.5x ‘16E EBITDA
+
+
+Metric Period Value Multiple
+
+
+Sales LTM $1,313 3.1x
+
+
+2015E $1,404 2.9x
+
+
+2016E $1,516 2.7x
+
+
+EBITDA LTM $379 10.7x
+
+
+2015E $411 9.9x
+
+
+2016E $447 9.1x
+
+
+EPS 2015E $3.11 23.2x
+
+
+2016E $3.39 21.3x
+
+
+On Jan 20, 2016 Brunswick Corp (NYSE: BC) announced it would 
+acquire Cybex International Inc., a leading maker of commercial 
+fitness equipment, for $195m, subject to a working capital 
+adjustment. Cbex’s comprehensive strength category includes 
+selectorized, plate-loaded, functional and free weight 
+equipment. Cybex’s 2015 sales were estimated at about $169m.
+
+
+Earlier on October 2012 Cybex was acquired for $2.55 / per 
+share in a going private transaction valued at $67m with the 
+support of its largest shareholder and management. At the 
+time, according to its proxy statement, Cybex had 2015E Sales 
+of $160m and EBITDA estimate of $15.2m (implying a 9.5% 
+EBITDA margin)
+
+
+We assume Cybex achieved 9.5% EBITDA margins on its $169m 
+of 2015 revenues. Furthermore, we assume 5% revenue growth 
+in 2016 and 10% deal synergies and estimate Brunswick paid 
+approximately 10.5x Adj 2016E EBITDA for Cybex which had a 
+3yr Revenue and EBITDA CAGR of 5% and 17%, respectively
+
+
+Source: Brunswick Corp press release and Cybex Go Private Proxy Statement
+
+
+Metric Value Multiple
+
+
+2015 Sales $169.0 1.1x
+
+
+2015E Adj EBITDA $17.6 11.0x
+
+
+2016E Adj EBITDA $18.5 10.5x
+
+
+Figures in $mm except per share amounts
+
+
+On March 16, 2015 Life Time Fitness (NYSE: LTM) entered into 
+a deal to be acquired by TPG / Leonard Green for $72.10/sh or 
+$4.0bn. The deal valued the company around 3x Sales, 10x 
+EBITDA and 23x P/E.  LTM’s 3yr Revenue and EPS CAGR was 
+8% and 5%, respectively
+
+
+Furthermore, a fairness opinion conducted by Guggenheim 
+showed precedent M&A deals in the healthy living, leisure and 
+retail space averaging 9.0x
+
+
+
+http://www.sec.gov/Archives/edgar/data/1076195/000119312515118933/d851762dprem14a.htm
+
+http://news.lifetimefitness.com/press-release/company-news/life-time-fitness-enters-definitive-agreement-be-acquired-affiliates-leon
+
+https://globenewswire.com/news-release/2016/01/20/803461/0/en/Brunswick-Corporation-Acquires-Cybex-International-Solidifying-Life-Fitness-Segment-Leadership.html
+
+http://www.sec.gov/Archives/edgar/data/60876/000119312512513190/d432344dprer14a.htm
+60
+
+
+0.00
+
+
+1.00
+
+
+2.00
+
+
+3.00
+
+
+4.00
+
+
+5.00
+
+
+6.00
+
+
+7.00
+
+
+8.00
+
+
+9.00
+
+
+10.00
+
+
+$0.00
+
+
+$5.00
+
+
+$10.00
+
+
+$15.00
+
+
+$20.00
+
+
+$25.00
+
+
+CLUB Stock Price Volume in millions
+
+
+Town Sports Historical Valuation
+
+
+Historical EV /  LTM Sales
+
+
+Historical EV /  LTM EBITDA
+
+
+Source: Bloomberg
+
+
+Town Sports Int’l (Nasdaq: CLUB) is a relevant comp for Planet Fitness. It’s long-term EBITDA margin 
+averaged approximately 19%. In its first three years after going public, CLUB averaged 9% revenue growth  
+
+
+Historical CLUB Stock Price
+
+
+3.0x
+
+
+4.0x
+
+
+5.0x
+
+
+6.0x
+
+
+7.0x
+
+
+8.0x
+
+
+9.0x
+
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+
+Long-Term Average
+
+
+0.0x
+
+
+0.2x
+
+
+0.4x
+
+
+0.6x
+
+
+0.8x
+
+
+1.0x
+
+
+1.2x
+
+
+1.4x
+
+
+1.6x
+
+
+1.8x
+
+
+2.0x
+
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+
+Long-Term Average
+61
+
+
+Nautilus: A Good Valuation Comp 
+For Exercise Equipment
+
+
+Historical EV /  LTM Sales Historical EV /  LTM EBITDA
+
+
+Source: Bloomberg
+
+
+Given the high % of revenues coming from equipment sales, we believe it’s instructive to look at Nautlius 
+(NYSE: NLS), a marketer of exercise equipment, as a valuation benchmark. Planet reports 21% segment 
+
+
+EBITDA from equipment revenue, which compares with approximately 25% for Nautilus. Historically, NLS has 
+traded at 1x and 10.5x EV/Sales and EV/EBITDA, respectively
+62
+
+
+Spruce Point’s Base Case: $8.00 / share  or 
+50% Downside
+
+
+$ in millions Enterprise Value / 2017E EBITDA
+
+
+7.0x                            -- 10.0x 
+
+
+Est. Revenue $368 $368
+
+
+Est. EBITDA
+% margin
+
+
+$148
+40.3%
+
+
+$148
+40.3%
+
+
+Enterprise Value $1,040 $1,484
+
+
+(+)  Cash $31.4 $31.4
+
+
+(+)  Minority Interest $14.3 $14.3
+
+
+(-) Term Loan $484.9 $484.9
+
+
+(-)   Tax Liability (1) $140.1 $140.1
+
+
+Equity Value $459.7 $1,185.2
+
+
+Diluted Shares Outstanding 98.7 98.7
+
+
+Price Target $4.65 $12.00
+
+
+% Downside 70% 25%
+
+
+Investors have high growth expectations for Planet. We don’t believe its growth rate, margins, or 15x 2017E EBITDA 
+multiple are sustainable. We expect that by late 2016 / early 2017 that cracks in the growth story will appear and Planet 
+
+
+will be at higher risk of disappointing the Street.  At the lower end, we apply a 7x multiple, which is near CLUB’s 
+highest multiple ever attained, and at the high end we apply a 10x multiple, slightly less than fitness equipment comps 
+
+
+of Nautilus and Cybex. The midpoint of our target range is appox. $8.00 / share, or 50% downside 
+
+
+(1) We include the $140m book value of the tax payable liability in our valuation, although our interpretation is that it could be upwards of $711m based on Planet’s Risk Factor disclosures . 
+Analysts’ model fail to incorporate this liability which has actual cash flow implications to shareholders
+63
+
+
+Sensitivity Analysis to the Substantial
+Tax Receivable Payment
+
+
+$ in millions Balance Sheet Case Termination Case Base Case
+
+
+Assumed Tax Payable 
+To Related Parties
+
+
+$140 $576 $711
+
+
+Diluted shares o/s 98.7 98.7 98.7
+
+
+Approx.
+Per Share Impact
+
+
+$1.40 $5.80 $7.20
+
+
+% downside 9% 37% 46%
+
+
+Planet’s analysts appear to completely ignore the valuation impact of the tax receivable payments that benefit pre-IPO 
+owners 85%, and current shareholders 15%. These payments will have real cash flow impact to shareholders going 
+
+
+forward. Eleven analysts cover Planet, yet only 1 analyst we found even mentions the risk! The “Termination Case” and 
+“Base Case” are not included in Spruce Point’s valuation and target share price analysis, this represents an additional 
+
+
+$5.80 - $7.20 per  share price downside above and beyond our target range.
+
+
+Note: Termination and Base case assume $15.63 share price or approximately the current price. Conditions that could give rise to termination include 1) a 
+material breach of the agreement 2) at the election of the company, or 3)  asset sales, mergers, or change of control. Base case assumes no material change 
+in relevant tax law, and that Planet earns sufficient income to realize all the tax benefits of the agreements. All cases assume 23 year time horizon
+
+
+Jefferies Analyst:  “In addition, we note that there is some risk inherent in the company’s Up-C organizational structure. While this corporate 
+structure results in tax benefits for both Planet Fitness and its financial sponsor TSG Consumer Partners, it also saddles the company with a 
+tax receivable agreement, which Planet Fitness is obligated to pay over the course of the next 23 years regardless of their future 
+performance.”
+
+
+Spruce Point also notes: Payments under the tax receivable agreements are not conditioned on the Pre-IPO owners continued ownership of 
+Planet! What a great residual benefit to them, with some potential bad outcomes for new + existing Planet shareholders as illustrated below
+64
+
+
+Downside Catalyst: A Concentrated Owner 
+With A Big Win = Likely Motivated Seller
+
+
+According to PLNT’s IPO prospectus, TSG owns 65.8% of the voting power of the shares.  Its investment 
+totaled $479.3m (est. 9.0x EBITDA / $790k per club) and its cost basis is estimated at $3.39/sh Its current 
+
+
+investment is valued around $1.0 billion and likely to be monetized through a secondary.
+
+
+Source:  TSG Closes Two New Funds;  Wall St. Journal Article;  PLNT IPO Prospectus
+
+
+Slam Dunk Home Run for TSG from its Nov 2012 Planet Investment
+• TSG has extracted significant value from Planet Fitness through management fees, dividend payments and stock sales
+• Direct TSG investors received approximately $61.6m of net proceeds from the IPO offering
+• TSG received $4.3m of management fees paid 2012-2015 including a $1.0m termination fee for the management services arrangement
+• Refinancing and dividend payments:
+
+
+• On March 31, 2014, PLNT consummated a refinancing transaction whereby it borrowed $390.0m in term loans and obtained a 
+new $40.0m revolving credit facility. The proceeds were primarily used to repay $180.9m in outstanding debt, issue a $173.9 
+million dividend to members and acquire eight stores from a franchisee
+
+
+• On March 31, 2015, PLNT amended its credit agreement to provide for an increase of $120.0m in term loan borrowings for a 
+total of $506.1m. The full incremental borrowing of $120.0m plus $20.0m from cash on hand was used to fund a $140.0m 
+dividend to Class T and Class O Unit holders
+
+
+Large Investment Concentration Remains To Be Liquidated With IPO Lockup Expired
+• The current market value of TSG’s investment is estimated at approximately $1.0 billion and it was made in TSG6 which the company 
+
+
+says has $1.3 bn of committed capital
+• TSG raised a new fund and as of December 2015 reported $5 billion of assets under management 
+• The current $1.0 billion valuation of TSG’s stake in PLNT represents significant investment concentration risk – 20% of AUM – and is 
+
+
+likely to be monetized through additional secondary stock sales issuances
+
+
+
+http://www.tsgconsumer.com/news/article/index.php?id=77
+
+http://blogs.wsj.com/briefly/2015/06/23/planet-fitness-ipo-the-numbers/
+
+http://www.sec.gov/Archives/edgar/data/1637207/000119312515277551/d888681ds1a.htm#rom888681_4

@@ -1,578 +1,3315 @@
-1	
-  
+This research presentation report expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which 
+are based upon publicly available information, and all of which are set out in this research presentation report.  Any investment involves substantial risks, 
+including complete loss of capital.  Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum 
+possible loss or gain. Any information contained in this report may include forward looking statements, expectations, pro forma analyses, estimates, and 
+projections.  You should assume these types of statements, expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for 
+reasons beyond Spruce Point Capital Management LLC’s control.  This is not investment or accounting advice nor should it be construed as such. Use of 
+Spruce Point Capital Management LLC’s research is at your own risk.  You should do your own research and due diligence before making any investment 
+decision with respect to securities covered herein. All figures assumed to be in US Dollars, unless specified otherwise.
 
 
-Note: You should assume we have a short position in FMCN as of this report – prior to reading this report 
-see important disclaimer on the last page (page 12). 
+You should assume that as of the publication date of any presentation, report or letter, Spruce Point Capital Management LLC (possibly along with or 
+through our members, partners, affiliates, employees, and/or consultants) along with our subscribers and clients has a short position in all stocks (and/or 
+are long puts/short call options of the stock) covered herein, including without limitation Sabre Corporation. (“SABR”), and therefore stand to realize 
+significant gains in the event that the price of its stock declines. Following publication of any presentation, report or letter, we intend to continue 
+transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless of our initial recommendation. 
 
 
- 
-Muddy Waters, LLC 
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in 
+which such offer would be unlawful under the securities laws of such jurisdiction.  Spruce Point Capital Management LLC is not registered as an 
+investment advisor, broker/dealer, or accounting firm. 
 
 
-December 9, 2011 
- 
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material 
+facts necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and 
+reliable, and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of 
+confidentiality to the issuer, or to any other person or entity that was breached by the transmission of information to Spruce Point Capital Management 
+LLC.  However, Spruce Point Capital Management LLC recognizes that there may be non-public information in the possession of Sabre Corporation. or 
+other insiders of Sabre Corporation that has not been publicly disclosed by Sabre Corporation. Therefore, such information contained herein is presented 
+“as is,” without warranty of any kind – whether express or implied. Spruce Point Capital Management LLC makes no other representations, express or 
+implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use. All rights 
+reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point Capital 
+Management LLC.
+3
 
 
-Is “Independent” Verification in China Better than Toilet Paper? 
- 
-No.  Although independent verification reports in China and toilet paper are often 
-intended to hold the same substance, our research indicates that investors are much better 
-off sticking with 2-4 ply toilet paper in the bathroom.1   
- 
-Introduction 
- 
-In response to Muddy Waters’s disclosure in our November 21, 2011 report that FMCN’s 
-LCD commercial display network media kits show far fewer screens than FMCN claims 
-to have in its filings, FMCN announced that it would commission independent 
-verification of its network size. FMCN claims that it is in the process of engaging two 
-“reputable” firms to verify its LCD commercial display network screen count.2  Although 
-we do not know which firms FMCN will engage, the notion of having reputable firms 
-verify FMCN’s screen network size conjures up the Ghost of LCD Screen Frauds Past, 
-CTR Market Research.   
- 
-CTR is regarded, including by FMCN, as one of China’s premier independent market 
-research firms.3  Yet CTR’s research was integral in selling the China MediaExpress 
-Holdings, Inc. (OTC: CCME) fraud to investors.4  CTR shows us that a client can 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 Toilet paper generally has fewer chemicals than paper printed with laser toner. 
-2 http://www.sec.gov/Archives/edgar/data/1330017/000119312511325160/d262965dex991.htm, p. 3. 
-3 CTR shares this opinion – its website reads in part “As the foremost marketing information and insight 
-provider in China, CTR provides...”  See: http://www.ctrchina.cn/ctrwebsite/en/WeAretCTR-wearedo.php  
-4 Lest anybody be confused about whether CCME is a fraud, the following is an excerpt from the 8-K 
-CCME filed when its auditor, Deloitte Touche Tohmatsu, resigned: “DTT has informed the Company in its 
-resignation letter that it was no longer able to rely on the representations of management and that it had lost 
-confidence in the commitment of the Board and the Audit Committee to good governance and reliable 
-financial reporting. Prior to its resignation, DTT raised the following issues (some of which may be 
-considered to be disagreements) encountered during the audit, including: issues related to the authenticity 
-of bank statements; a loss of confidence in bank confirmation procedures carried out under 
-circumstances which DTT believed to be suspicious; issues concerning the validity of certain advertising 
-agents/customers and bus operators (including with respect to certain of the Company's top ten 
-customers); concerns over possible undisclosed bank accounts and bank loans; information on file with the 
-State Administration of Industry and Commerce as to certain subsidiaries appearing to be inconsistent with 
-comparable financial information provided to DTT; the verification of the validity of a sampling of tax 
-invoices issued in connection with certain large transactions; the verification of certain subsidiary tax 
-payments with the local office of the State Administration of Taxation; the verification of salary payments 
-made in cash directly to employee bank accounts; the verification of the production process for advertising 
-programs; and the potential double counting of a certain number of buses…DTT's letter also stated that 
-these issues may have adverse implications for the prior periods' financial reports, including the Company’s 
-consolidated financial statements for 2009 and DTT’s report thereon, and that in the absence of the further 
-investigatory procedures that DTT requested, DTT was unable to determine whether the prior periods' 
-financial statements are reliable, and accordingly whether continuing reliance should be placed on these
-2	
-  
+Table of Contents
 
 
-essentially get whatever result it wants from “independent” verifications in China – 
-particularly when it comes to confirming the existence tens of thousands of LCD screens.  
-After FMCN announces that the two independent firms have verified within two weeks5 
-all 178,382 screens in over 100 cities FMCN claims to have in its LCD commercial 
-network, we look forward to it addressing our more substantive concerns.   
- 
-FMCN has left open a number of critical issues from our reports, including issues 
-associated with the phantom acquisitions, its consistent overpayments for acquisitions, 
-and management self-dealing that continues to this day.  If FMCN still wants to talk 
-about screens, then it should explain why it previously claimed to have 17.6x more movie 
-theaters under contract in its theater network than actually existed in China.6  That’s an 
-independent verification FMCN can’t game. 
- 
-Whose Research Can Investors Trust? 
- 
-Although much of this report focuses on CTR’s farcical research for CCME, the point is 
-not about CTR.  Much independent research in China can produce similarly inaccurate 
-results.7  There are clear red flags regarding at least two other research providers 
-commonly cited by US-listed companies, iResearch and Sinomonitor International.  To 
-be clear, we do not see this as an issue of whether research companies are Chinese or 
-foreign-owned.  We believe that the conflicts and private sector corruption often present 
-in China business will include most to all foreign firms that offer similar services. 
- 
-We have concerns about China internet sector research produced by iResearch, which is 
-owned by former FMCN subsidiary Allyes.8  We counted 27 Chinese internet companies 
-that have cited iResearch in their SEC filings in the past year.  iResearch is a heavily 
-conflicted provider of industry research.  First, its direct owner, Allyes, is a major China 
-internet advertising agency.  During the time FMCN owned Allyes, there existed an even 
-greater conflict of interest for iResearch because of the strong venture capital presence on 
-FMCN’s board.  That conflict is greater if anything now because large venture capital 
-firm SilverLake now owns Allyes.  Most troubling is that iResearch actually makes 
-venture investments in Chinese companies itself.  It should therefore come as no surprise 
-that iResearch consistently issues rosy research in support of the China internet industry 
-and iResearch’s clients.   
- 
+I. Executive Summary
+II. Brief Overview of Sabre Corp
+III. Fundamental Short Thesis and Evidence Suggesting Limited/No Value Creation Post LBO
+IV. Accounting, Financial Disclosure, and Governance Concerns
+V. Valuation and Sell-Side Disconnect
+Executive Summary
+5
 
 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-financial statements or on DTT’s report on the Company’s 2009 financial statements.”  See: 
-http://www.sec.gov/Archives/edgar/data/1399067/000114420411017875/v215688_8ka.htm 
-5 FMCN stated that it expected the verification of its network to take two weeks during its November 22, 
-2011 call. 
-6 MW November 29, 2011 report on FMCN, pp. 3-4. 
-7 CCME offers another case study in support of this proposition – after being ordered de-listed following its 
-auditor’s resignation, CCME commissioned a credit rating from a Chinese credit rating agency and was 
-given AAA status. See: http://www.zerohedge.com/article/china-mediaexpress-holdings-gets-coveted-aaa-
-credit-rating  
-8 Shanghai Allyes Advertising Company (上海好耶广告有限公司) owns 50% of iResearch Marketing 
-Consulting Company (上海艾瑞市场咨询有限公司) and an Allyes subsidiary, and Shanghai Quanshi 
-Advertising Company(上海诠释广告有限公司), owns the remaining 50%.
-3	
-  
+Spruce Point Is Short Sabre Corp. (“SABR”)
+For the Following Reasons:
 
 
-Sinomonitor International is another firm that publicly traded Chinese companies cite in 
-support of their business models.  Sinomonitor International performed research for 
-Tudou Holdings Ltd. (NASDAQ: TUDO) that concludes TUDO is “the most valuable 
-online brand in China” and Tudou.com is the “most favored and recommended online 
-video website” in China.9  Yoku.com (NASDAQ: YOKU), TUDO’s direct competitor, 
-might dispute Sinomonitor International’s research.  YOKU’s market cap is 6x that of 
-TUDO.10  FMCN has cited Sinomonitor International in the past to support is claims 
-regarding penetration of the poster frame market.11  However, Sinomonitor International 
-is a joint venture between a Chinese firm and global advertising agency Dentsu.12  Dentsu 
-is also former joint venture partner of FMCN.13 
- 
-Private sector conflicts of interest – and outright private sector corruption – are too 
-significant in China for investors to put any faith in market research commissioned by 
-research subjects – it is anything but independent. 
- 
-Anatomy of Fecal Grade “Independent” Verification of an LCD Network – CCME 
-and CTR 
- 
-Muddy Waters has direct experience with independent research that significantly inflated 
-the size of a digital out-of-home advertising LCD network.  When we wrote our initial 
-report on CCME, we showed that the research CCME had commissioned CTR to provide 
-on CCME’s LCD network was utterly useless.  Note that FMCN is a fan of CTR’s 
-research – in its 2010 20-F, FMCN wrote: 
- 
+1 Sabre is Trying Hard to Mask Underlying Business Model Pressure and an LBO / re-IPO that Created Questionable Value: 
 
 
-We also purchase or commission studies containing relevant market study data 
-from reputable third-party market research firms, such as Nielsen Media 
-Research, CTR Market Research and Sinomonitor.14 
+Sabre Corp. (Nasdaq: SABR) is a travel tech company with a core business of operating a Global Distribution System (“GDS”), 
+a platform that facilitates travel by bringing together content such as inventory, prices, and availability from a broad array of 
+travel suppliers for a range of travel buyers such as online/physical travel agents and corporate travel departments. As a 
+middleman between buyers and suppliers, Sabre’s biggest risk is disintermediation, whereby its consumers bypass its 
+network, through emerging threats from Google, or even worse, suppliers imposing fees to customers for using it (e.g. 
+Lufthansa). To keep customers happy and loyal, Sabre must offer upfront cash incentives because its contracts are typically 
+short-term, and upwards of 20% of contracts renew annually. Our research suggests that Sabre has been offering increasing 
+incentive discounts (obscured by its Adjusted EBITDA), which has forced deflationary pricing as evident in declining revenue 
+per transaction. Sabre came public in 2014 after a highly promoted going private LBO in 2007 during the pre-financial crisis 
+buyout mania. Our research suggests that despite significant M&A and restructuring at Sabre while under private 
+ownership, there has been no value creation in its underlying business, which has sorely disappointed expectations. By 
+ignoring the headline “Adjusted” EBITDA and EPS results and focusing on underlying cash flow economics, it’s evident that 
+Sabre is at best a stagnant business. With Sabre’s share price +80% since its IPO, it is no surprise its private equity sponsors 
+have rapidly exited the stock through 4 secondary issuances, and reduced ownership from 80% at the IPO to 25% today!
 
 
- 
-Further, FMCN has previously used CTR to verify the scope of FMCN’s LCD network.15 
- 
-CTR’s research erroneously confirmed two bus operators CCME fraudulently claimed 
-were in its LCD network.  In fact, neither of these two operators ever had CCME screens 
-on any of their buses.  (Ironically, CCME had claimed that one of these companies was 
-the largest operator in its network.)  In instances in which CCME actually did business 
-with operators, CTR often grossly overstated the numbers of buses the companies 
-operated and the numbers of LCD screens.  In several of these cases, quick searches of 
-the operators’ websites would have revealed greatly numbers greatly different than those 
-CTR calculated.  CTR’s research on CCME’s LCD network was worthless, and we 
+2 Management Quietly Starts Liquidating Ahead of the Questionable Related-Party Acquisition of Abacus Int’l:
 
 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-9 TUDO August 2011 prospectus, p. 1. 
-10 Bloomberg DES function. 
-11 See FMCN January 2006 prospectus, p. 117. 
-12 See http://www.docstoc.com/docs/53202483/Dentsu-Announces-Development-of-VextMiner-DENTSU-
-editionChinese, pp. 3-4. 
-13 See MW November 21, 2011 report on FMCN, pp. 36-38. 
-14 FMCN 2010 20-F, p. 42. 
-15 FMCN January 2006 prospectus, p. 63.
-4	
-  
+As a result of underlying business pressures, we believe insiders were likely aware that revenue and earnings estimates 
+would not be met in 2015. Management quietly announced on the Q1 2015 conference call in May that it would start 
+liquidating shares under a 10b5-1 program. Realizing that Wall Street punishes earnings misses for “growth” stories 
+fiercely, and needing a cover-up to “beat” estimates, in our opinion, Sabre announced the acquisition of Abacus, its Asian 
+GDS affiliate. Sabre already owned 35%, and spun the transaction as a way to access faster growing markets, but there’s 
+evidence to suggest the transaction may have allowed the company to spring-load revenue and provide a band aid to an 
+injured business. Not surprisingly, by adjusting Sabre’s results for the consolidation of Abacus, Sabre’s Travel Network 
+segment barely grew in 2015, yet management is still touting mid to high single digit organic growth!
+6
 
 
-expect nothing more from the companies that FMCN commissions to verify the size of its 
-LCD network. 
- 
-CTR warranted that its research on CCME’s bus-based LCD network was “actual, 
-reliable”:
-5	
-  
+Spruce Point Sees $12 - $17 Per Share; 
+40% - 60% Downside 
 
 
-CTR stated that CCME’s LCD network had 2,127 buses in Shanghai with 5,114 screens.  
-In reality, CCME had no more than 296 buses with 315 screens in Shanghai. 
- 
+Evidence That Suggests Accounting Shenanigans To Inflate Operating Cash Flow and EBITDA: 
 
 
- 
- 
-CTR stated that CCME had two Shanghai-based bus operators in its network; however, in 
-reality CCME never had contracts with either of these operators.  CTR and CCME 
-purported that one of the companies, Shanghai Ba-Shi, was the largest operator in 
-CCME’s network.  These companies’ buses are based in Shanghai, and any researcher 
-who boarded a bus belonging to either of these two operators would have immediately 
-noted that CCME’s equipment had not been installed.
-6	
-  
+To support our concerns about the Abacus deal, we sourced its Singapore financial filings and were disappointed to find 
+discrepancies between the Abacus figures reported by Sabre to investors in its SEC filings. Even worse, we found 
+irregularities related to Sabre’s JV accounting that suggest it artificially inflated its operating cash flow by representing 
+excess dividends (returns of capital) as operating cash flows, when accounting rules dictate that dividends in excess of 
+earnings should be treated as investment cash flows. By pro forma adjusting the results, we find that Sabre’s operating 
+cash flows declined in 2015, while management represented that it increased! Aggressive accounting strategies appear to 
+be the norm with Sabre. Our forensic analysis suggests Sabre has become more aggressive in capitalizing upfront customer 
+incentives, which artificially increases both Adjusted EPS and Adjusted EBITDA. Investors are better served adjusting 
+Sabre’s financials to remove the effects of capitalization. As a result, we find Sabre’s EBITDA margin actually declined in 
+2015, but of course, management would like you to believe they expanded...oh the miracles of financial alchemy! Not 
+surprisingly, management’s cash bonuses, along with its sponsors’ management fees, are solely linked to reported 
+Adjusted EBITDA. This linkage provides clear incentives to game the Adjusted EBITDA figures.
 
 
-Despite the ease of discovering that CCME did not have agreements with either of these 
-operators, CTR’s research concluded that both operators are in CCME’s network, and 
-represented 2,127 buses with 5,114 CCME LCD screens.
-7	
-  
+3
 
 
-CTR concluded bus operator Beijing Long Xiang A-er-sha had 428 buses and 928 LCD 
-screens in CCME’s LCD network. 
- 
+Valuation Disconnect Suggesting 40% – 60% Downside:
 
 
- 
- 
-Beijing Long Xiang A-er-sha’s website showed that it only owned 58 buses.
-8	
-  
+Smelling a fee bonanza from repeated equity + debt issuances, a grand total of 13 analysts all have “Buy” recommendations
+and see upside to an average price target of $33.45 (+15%). In our opinion, it’s easy to refute the bull case from analysts’ 
+flawed investment assumptions. At approx. 3.4x and 10.5x 2016E Street sales and Adj. EBITDA estimates, respectively, Sabre 
+seems fairly valued to peers (on inflated street numbers) Amadeus and Travelport. During the heavily touted LBO, venerated 
+investment bankers at Goldman Sachs and Morgan Stanley issued a fairness opinion suggesting a terminal EBITDA multiple 
+range of 6.5x – 8.0x. Given our belief that post-LBO, no underlying financial improvement has been created, and at worst 
+accounting gimmicks are masking deterioration, we find it baffling how analysts justify the current valuation. Furthermore, 
+analysts’ fail to adjust their models for Sabre’s $387m tax receivable liability that starts coming due in 2017 and has real 
+cash implications. We also adjust Sabre’s financials for the aggressive capitalization of recurring and normal upfront cash 
+incentives. As a result, we derive a long-term price target of $12.00 - $17.00 per share, or 40-60% downside
 
 
-CTR concluded Beijing A-er-sha owned 207 buses and 439 LCD screens in CCME’s 
-LCD display network. 
- 
+4
+7
 
 
- 
- 
-Beijing A-er-sha’s website showed that it only owned 20 buses.
-9	
-  
+Primary Evidence to Suggest 
+Abacus Int’l Accounting Issues
 
 
-CTR concluded Fujian San-Fu Passenger Express owned 128 buses with 268 CCME 
-LCD screens. 
- 
+From Sabre Filings: Sabre Revenue From Abacus > Abacus PurchasesPrimary revenue 
+generated from Abacus is 
+data processing fees 
+associated with bookings 
+on the Sabre GDS
 
 
- 
-Fujian San-Fu’s website showed it owned 32 buses.
-10	
-  
+Revenue from Abacus is 
+notably higher than 
+related company purchase 
+of services reported by 
+Abacus! 
 
 
-CTR concluded that Fujian Min-shen-fa Express Passenger Transportation owned 50 
-buses with 104 LCD screens. 
- 
+A receivable from Abacus 
+on Sabre’s books, should 
+correspond to a payable 
+on Abacus’ books. 
 
 
- 
-Fujian Min-shen-fa’s website showed it owned nine buses.
-11	
-  
+Notably, the $29.3m that 
+Sabre reported in 2013, is 
+higher than the entire 
+trade payable of $20.1m 
+reported by Abacus!
 
 
-CTR concluded that Tianjin A-er-sha owned 122 buses with 252 CCME LCD screens. 
- 
+(*)  Abacus explicitly says that, “Accrued expenses relate mainly to accrued incentives payable 
+to travel agents.” Thus, we can rule out that amounts payable to Sabre are included here.
 
 
- 
- 
-Tianjin A-er-sha’s website stated it owned only 50 buses.
-12	
-  
+(*)
 
 
-Disclaimer: 
- 
-Use of Muddy Waters LLC’s research is at your own risk. You should do your own 
-research and due diligence before making any investment decision with respect to 
-securities covered herein. You should assume that as of the publication date of any report 
-or letter, Muddy Waters, LLC (possibly along with or through our members, partners, 
-affiliates, employees, and/or consultants) along with our clients and/or investors has a 
-short position in the stock (and/or options of the stock) covered herein, and therefore 
-stands to realize significant gains in the event that the price of stock declines. Following 
-publication of any report or letter, we intend to continue transacting in the securities 
-covered therein, and we may be long, short, or neutral at any time hereafter regardless of 
-our recommendation. This is not an offer to sell or a solicitation of an offer to buy any 
-security, nor shall any security be offered or sold to any person, in any jurisdiction in 
-which such offer would be unlawful under the securities laws of such jurisdiction. Muddy 
-Waters, LLC is not registered as an investment advisor. To the best of our ability and 
-belief, all information contained herein is accurate and reliable, and has been obtained 
-from public sources we believe to be accurate and reliable, and who are not insiders or 
-connected persons of the stock covered herein or who may otherwise owe any fiduciary 
-duty or duty of confidentiality to the issuer. However, such information is presented “as 
-is,” without warranty of any kind – whether express or implied. Muddy Waters, LLC 
-makes no representation, express or implied, as to the accuracy, timeliness, or 
-completeness of any such information or with regard to the results to be obtained from its 
-use. All expressions of opinion are subject to change without notice, and Muddy Waters, 
-LLC does not undertake to update or supplement this report or any of the information 
-contained herein. Before viewing the contents of this report, you agree that any dispute 
-arising from your use of this report or viewing the material herein shall be governed by 
-the laws of the State of California, without regard to any conflict of law provisions. You 
-knowingly and independently agree to submit to the personal and exclusive jurisdiction 
-of the superior courts located within the State of California and waive your right to any 
-other jurisdiction or applicable law, given that Muddy Waters, LLC has offices in 
-California. The failure of Muddy Waters, LLC to exercise or enforce any right or 
-provision of this disclaimer shall not constitute a waiver of this right or provision. You 
-agree that regardless of any statute or law to the contrary, any claim or cause of action 
-arising out of or related to use of this report or the material herein must be filed within 
-one (1) year after such claim or cause of action arose or be forever barred.
+(*)  Abacus explicitly says that, “parties are considered related to the Group if the Group has the ability, 
+directly or indirectly, to control the party, or exercise significant influence over the party in making financial 
+and operating decisions, or vice versa. Related parties may be individuals or other entities.” 
+
+
+(*)
+
+
+Abacus Int’l Pte Ltd (Singapore): Related-Party Transactions Abacus (Singapore): Statement of Financial Position
+8
+
+
+Operating Cash Flow Appears Overstated, 
+Actually Declined in 2015
+
+
+$ in millions
+
+
+Because Sabre received more dividends from its JVs than income in 2015, accounting rules dictate that 
+excess cash must be accounted for as a “Return of Capital” and not a “Return on Capital.” (1)
+
+
+As a result, we are justified in reclassifying $13.9m of cash from operations, to cash flow from investing. 
+On a pro-forma basis, Sabre’s Adjusted Free Cash Flow appears to have declined in 2015 by 2.6%! 
+
+
+(1) ASC 230-10-45-12 as noted in E&Y’s Statement of Cash Flows guide, June 2015
+(2) Represents dividends in excess of income, which should be reclassified as an investing cash flow, not from operations
+Source: Sabre SEC Filings
+
+
+Sabre Presents This To 
+Investors, Showing Growth 
+of 2.1% in 2015
+
+
+By Removing Return of 
+Capital, Adj. Free Cash Flow 
+Declined 2.6%!
+
+
+Just a coincidence that in 
+2015, a year we noted that 
+Sabre acquired Abacus to 
+mask underlying growth, 
+
+
+that JV dividends 
+exceeded actual income? 
+
+
+Sabre’s Pro-Forma Adjusted Free Cash Flow
+
+
+2011 2012 2013 2014 2015
+
+
+JV Equity Income $23.5 $21.3 $12.4 $12.1 $14.8
+
+
+JV Cash Distributions of income $13.3 $21.1 $10.6 $2.3 $28.7
+
+
+Dividends > JV Equity Income No No No No YES
+
+
+Sabre's Reported Adj. Free Cash Flow $171.0 $305.7 $181.7 $293.4 $299.5
+
+
+   % growth 78.8% -40.6% 61.4% 2.1%
+  Less: Return of Capital from JV (2) -- -- -- -- ($13.9)
+
+
+Pro Forma Adj. Free Cash Flow $171.0 $305.7 $181.7 $293.4 $285.7
+   % growth -- 78.8% -40.6% 61.4% -2.6%
+
+
+
+http://www.ey.com/publication/vwluassetsdld/financialreportingdevelopments_42856_cashflows_28july2015/$file/financialreportingdevelopments_42856_cashflows_28july2015.pdf?OpenElement
+9
+
+
+Evidence of Aggressive Upfront 
+Incentive Capitalization 
+
+
+$ in millions
+2013 2014 2015
+
+
+Sabre Reported 
+Adjusted EBITDA
+
+
+% margin
+
+
+$778.7
+30.8%
+
+
+$840.0
+31.9%
+
+
+$941.6
+31.8%
+
+
+Less: Amortization of 
+Upfront Incentive
+
+
+($36.6) ($45.4) ($43.5)
+
+
+Less: Capitalized Amount in 
+Excess of Amortization
+
+
+($10.0) ($8.3) ($20.0)
+
+
+Spruce Point Adj. EBITDA
+% margin
+% delta to reported
+
+
+$732.1
+29.0%
+5.9%
+
+
+$786.3
+29.9%
+6.4%
+
+
+$878.1
+29.7%
+6.7%
+
+
+Source: Sabre Financials
+
+
+While capitalization of upfront cash incentives is not outright disallowed under GAAP, Spruce Point believes it is 
+an aggressive accounting choice to capitalize normal and recurring operating expenses. This accounting choice 
+
+
+increases current period earnings by stretching out expenses over future periods. By our calculation, upfront 
+capitalize incentives surged from $53.7m to $63.5m in 2015, an 18% increase. We believe investors would be 
+
+
+better served by evaluating its business by deducting upfront cash incentives.   
+
+
+Pro Forma Adjusted EBITDA
+
+
+On an adjusted basis, margins deteriorated 
+in 2015 and the delta continues to expand!
+Brief Overview of Sabre Corp
+11
+
+
+Brief Overview of Sabre Corp.
+
+
+• 2015 Revenues of $2,102m and Adj. EBITDA of $877m  (71% of total revenue and 73% of total Adj. EBITDA1)
+• Global business-to-business travel marketplace and consists primarily of its Global Distribution System (“GDS”) and a broad set of 
+
+
+solutions that integrate with its GDS to add value for travel suppliers and travel buyers. GDS facilitates travel by bringing together travel 
+content such as inventory, prices, and availability from a broad array of travel suppliers, including airlines, hotels, car rental brands, rail 
+carriers, cruise lines and tour operators, with a large network of travel buyers, including online travel agencies (“OTAs”), offline travel 
+agencies, travel management companies (“TMCs”) and corporate travel departments 
+
+
+• During 2015, Sabre expanded Travel Network's presence in the Asia Pacific (“APAC”) region through the acquisition of the rema ining 65% 
+interest in Abacus International Pte Ltd (“AIPL”), a Singapore-based business-to-business travel e-commerce provider that serves APAC. 
+Prior to the acquisition, AIPL was 65% owned by a consortium of 11 airlines and the remaining 35% was owned by Sabre
+
+
+• 2015 Revenues of $872m and Adj. EBITDA of $323m (29% of total revenue and 27% of total Adj. EBITDA1)
+• Airline and Hospitality Solutions business offers a broad portfolio of software technology products and solutions, through so ftware-as-a-
+
+
+service (“SaaS”) and hosted delivery model, to airlines, hotel properties and other travel suppliers. Airline and Hospitality Solutions 
+aggregates Sabre’s Airline Solutions and Hospitality Solutions operating segments
+
+
+• Airline Solutions:  Provides software solutions that help airline customers better market, sell, serve and operate. Sabre offers airline software
+solutions in three functional suites: its reservation system, SabreSonic Customer Sales & Service (“SabreSonic”); and its commercial and 
+operations solutions, Sabre AirVision Marketing & Planning; and Sabre AirCentre Enterprise Operations 
+
+
+• Hospitality Solutions: Provides software and solutions to hotel properties around the world. Offerings include distribution through the SynXis 
+central reservation system (“CRS”), property management through SynXis Property Manager Solution (“PMS”), marketing services and
+consulting services that optimize distribution and marketing
+
+
+• In January 2016, Sabre completed the acquisition of the Trust Group of Companies (“Trust Group”), a central reservation, reve nue
+management and hotel
+
+
+Airline and Hospitality Solutions Segment
+
+
+(1) Pre-corp overhead
+
+
+Travel Networks Segment
+
+
+• Sabre Corp, headquartered in Southlake, TX comprises two segments: Travel Networks and Airline and Hospitality Solutions. In 2015, the 
+company reported total revenues of $2.9bn, Adj. EBITDA of $941m, Adj. Free Cash Flow of $299m, and Adj. EPS of $1.10/share
+
+
+• Sabre was taken private in 2007 by TPG and Silver Lake at a 30% premium for $32.75/share, valuing the deal at approximately $5.0bn 
+(including the assumption of $550m of net debt) and subsequently IPO’ed in April 2014 at $16.00 per share, giving Sabre an enterprise value 
+of $7.5bn. With an 80% post IPO appreciation in the shares, Sabre’s market cap and enterprise value are $7.8bn and $11.3bn, respectively
+12
+
+
+$17 $17 $17 
+
+
+$1,670 
+
+
+$49 
+
+
+$1,030 
+
+
+$6 
+$81 $77 $77 $77 $77 $77 $35 
+
+
+$370 
+
+
+$0
+
+
+$200
+
+
+$400
+
+
+$600
+
+
+$800
+
+
+$1,000
+
+
+$1,200
+
+
+$1,400
+
+
+$1,600
+
+
+$1,800
+
+
+2016 2017 2018 2019 2020 2021 and After
+Term Loan B Term Loan C Senior Secured Notes Mortgage Facilities Tax Receivable Agreement Credit Facility
+
+
+Capital and Debt Structure 
+
+
+Sabre IPO’ed at $16/share in April 2014. Its aggressive leverage, reflective of a junk credit status with S&P and 
+Moodys, and its high valuation leave no margin for error in disappointing Wall Street’s analysts. We will illustrate 
+
+
+later that Sabre’s true valuation is even higher given aggressive accounting for incentives which flatter Adj. EBITDA 
+
+
+Sabre has significant debt of 
+$3.2bn ($3.6bn inc. the TRA) 
+
+
+It has a $381m of available 
+revolving credit as of 12/31/15 
+which expires in 2018/2019
+
+
+$ in mm (except per share amounts)
+
+
+Note: We include the $387m 
+book value of the Tax Receivable 
+Agreement liability in our 
+valuation. It has near-term cash 
+implications, with payments 
+expected starting 2017
+
+
+Other liabilities that could affect 
+the valuation include $96m of 
+pension liabilities and $102m 
+representing the present value 
+of operating leases
+
+
+Note: Tax Receivable Agreement assumed payable over 5yrs starting in 2017. 
+(1) Pro forma for March 2016 debt maturity of $165m assumed to be paid down with cash.
+
+
+Stock Price $28.50 Street Valuation and Credit Stats
+Diluted Shares Outstanding 275.2 Metrics 2015A 2016E 2017E
+Market Capitalization $7,844 EV / Sales 3.8x 3.3x 3.1x
+Total Debt Outstanding (1) $3,194.6 EV / Adj. EBITDA 12.0x 10.3x 9.3x
+Tax Receivable Agreement ("TRA") $387.3 Price / Adj. EPS 25.9x 19.7x 16.7x
+Total Adjusted Debt $3,581.9 Debt / Adj. EBITDA 3.4x 2.9x 2.6x
+Plus: Minority Interest $1.4 Adj Debt / Adj. EBITDA 3.8x 3.3x 3.0x
+Less: Cash (1) $156.1
+Total Enterprise Value $11,271.1
+13
+
+
+0.0
+
+
+2.0
+
+
+4.0
+
+
+6.0
+
+
+8.0
+
+
+10.0
+
+
+12.0
+
+
+14.0
+
+
+16.0
+
+
+18.0
+
+
+20.0
+
+
+$10.00
+
+
+$15.00
+
+
+$20.00
+
+
+$25.00
+
+
+$30.00
+
+
+$35.00
+
+
+17-Apr-14 17-Jul-14 17-Oct-14 17-Jan-15 17-Apr-15 17-Jul-15 17-Oct-15 17-Jan-16
+
+
+Volume Closng Price
+
+
+Key Events Inflating Sabre’s Stock Price
+
+
+Sabre’s IPO priced well below the $18 - $20 indicated range, but has appreciated +80% on the back of earnings 
+increases, a debt refinancing, and selective M&A deals. Our report will focus on the “quality” of Sabre’s 
+
+
+earnings, especially in relation to the aggressive accounting for Sabre’s Abacus deal.
+
+
+April 2014: IPO @ 
+$16/share below 
+$18 - $20 range
+
+
+May 5, 2015: Mgmt. announces on 
+call 10b5-1 program to sell stock
+
+
+Feb 2016: TPG/Silver Lake 
+sell 20m shares for 
+$27.35/share
+
+
+Nov 2015: Acquires Trust Group for 
+$154m; Expected to contribute 
+~$40m of sales in 2016, accretive to 
+Adj. EBITDA + Adj. EPS neutral
+
+
+Nov 2015: Issues 5.25% Notes due 
+2023, repurchases $100m of stock 
+from TPG/Silver Lake. Sponsors sold
+30m shares in total at $29.27
+
+
+Aug 2015: TPG/Silver Lake. 
+Unload 19m shares at $26.85
+
+
+Jan 2015: Expedia acquires 
+Travelocity from Sabre for 
+$280m in cash
+
+
+Feb 2015: TPG/Silver Lake sell 
+27.37m shares @ $20.75
+
+
+April 2015: Sells $530m Senior 
+Secured Notes at 5.375% due ‘23 
+to redeem 8.5% Notes due ‘19
+
+
+May 20, 2015: Sponsors sell 27.6m 
+shares  @ $26.00
+
+
+May 14, 2015: Buys remaining 65% 
+stake in Abacus for $411m; deal 
+closes 1 month early; sales ?’s 
+
+
+
+http://www.reuters.com/article/sabrecorp-ipo-idUSL3N0N856V20140416
+
+http://seekingalpha.com/article/3141736-sabres-sabr-ceo-tom-klein-on-q1-2015-results-earnings-call-transcript?page=4
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=957332
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=944269
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=940698
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=940735
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=926869
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=892656
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=894839
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=904631
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=915083
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=913116
+Fundamental Short Thesis and 
+Evidence Suggesting Limited/No 
+Value Creation Post-LBO
+15
+
+
+Summary of Fundamental Concerns
+
+
+Sabre’s core Travel Network (GDS) business is under pressure while its transition to higher margin 
+services is slow to materialize, and coming with substantial capex costs. Furthermore, we believe little/no 
+
+
+financial value has been created at Sabre Pre/Post its LBO in 2007
+
+
+Deflation:  Loss of pricing power is evident in Sabre’s declining Revenue per Booking. Our forensic 
+accounting analysis also suggests that Sabre is having to substantially increase upfront customer 
+incentives, yet minimizes the current impact to its financials through aggressive capitalization
+Disintermediation:  Airlines look to cut costs from middlemen like Sabre. Lufthansa recently 
+imposed a fee to customers for going through a GDS. Google’s purchase of ITA Software in 2011 is 
+a major competitive threat that could intensify this trend. Google’s settlement with the Dept. of 
+Justice expires in Oct 2016, which could allow it to accelerate its direct to consumer model 
+
+
+Growth Masked By Questionable JV Consolidation: Underlying growth in the Travel Network 
+segment could be closer to zero, yet management is still touting its 6% organic revenue goals, 
+excluding the Abacus consolidation. Our forensic analysis suggests substantial issues, and earnings 
+estimates that would not have been met in 2015 absent the Abacus deal
+
+
+Short-Term Contracts with Significant Renewal Risk: Contracts are typically structured for 1 – 3 
+years and a meaningful portion of travel buyer agreements typically representing 15% -20% of 
+bookings are up for renewal in a given year!
+
+
+Debt: Sabre is saddled with $3.2bn of debt and another $387m of tax payments (“TRA”) which start 
+coming due in 2017. Sabre’s credit profile is “aggressive” and is rated Ba3 / B+ by Moodys’ / S&P, 
+respectively. Pro forma for the TRA, we estimate its leverage at 3.8x, leaving little margin for error
+16
+
+
+Critical Analysis of Sabre’s LBO
+
+
+On Dec 12, 2006 Silver Lake and Texas Pacific Group announced the acquisition of Sabre Corp for approximately $4.5 billion 
+and the assumption of $550m of debt for a total transaction value of approximately $5 billion. The cash offer of $32.75 per 
+
+
+share represented a 30% premium over the 60 day average closing share price.
+
+
+Valuation and Leverage Predicated on High Expectations:
+
+
+Greg Mondre, a Managing Director of Silver Lake Partners, said: “Sabre has a remarkable track record of pioneering and delivering best-in-
+class technology solutions for the global travel industry. We look forward to working with Sabre's talented management team as they 
+continue to deploy technology as a source of competitive advantage and value-add for customer”
+
+
+Key Sabre Management All Left:
+• Sabre CEO Sam Gilliland mysteriously ousted ahead of the IPO in 2014
+• Sabre Treasurer/Chief Accounting Officer/CFO Jeff Jackson leaves for Thayer Ventures
+• Sabre Controller, later promoted to CFO, Mark Miller, replaced by Rick Simonson in 2013
+
+
+According to TPG Partner Karl Peterson "We are excited by the opportunity to invest in Sabre given its leadership position in travel 
+technology and distribution and the strength of Travelocity and its other leading online brands. Sabre is well positioned to continue 
+innovating and we look forward to helping management profitably build upon this strong franchise.“
+
+
+Based on our analysis and opinion:
+• Jan 2015: Sabre dumps Travelocity / Lastminute.com as its popularity dwindles, financial performance deteriorates
+• Sabre has not been built profitability post acquisition. By analyzing a couple of key financial metrics, and not the headline
+
+
+Adjusted Non-GAAP EBITDA/EPS, it appears that limited/no value has been created at Sabre
+
+
+The Sabre acquisition, which closed in early 2007, was a relic of the pre-financial crisis leverage mania that started to unravel in 2008
+
+
+• The deal followed the sale of Travelport from Cendant to Blackstone for $4.3 billion in cash which closed in August 2006
+ The deal valued Travelport at approximately 7.6x LTM EBITDA and was levered 6.3x Total Debt / LTM EBITDA
+
+
+• TPG and Silver Lake’s acquisition of Sabre pushed the bar even higher! According to the fairness opinion, the deal was the richest and 
+most highly levered of all precedent transactions
+
+
+ Sabre was acquired at approximately 10.2x trailing EBITDA with 7.8x Debt / EBITDA
+
+
+
+http://www.sabre-holdings.com/newsroom/release.php?id=284
+
+https://skift.com/2013/09/04/sabre-ousts-chairman-and-brings-in-former-continental-ceo/
+
+http://www.thayerventures.com/team/jeff-jackson
+
+http://www.prnewswire.com/news-releases/sabre-appoints-rick-simonson-as-chief-financial-officer-198992741.html
+
+http://www.forbes.com/sites/amitchowdhry/2015/01/25/expedia-has-acquired-travelocity-for-280-million-in-cash/#2cd631ab5346
+
+http://www.prnewswire.com/news-releases/affiliate-of-blackstone-group-completes-acquisition-of-cendants-travelport-subsidiary-43-billion-transaction-represents-pe-firms-largest-equity-investment-in-the-technology-sector-56231172.html
+
+https://www.sec.gov/Archives/edgar/data/1020265/000119312507006351/dprem14a.htm#toc36613_14
+17
+
+
+Analyst Hype and Failed Expectations From 
+the LBO
+
+
+Sell-side analyst comments on Sabre have proven to be overly optimistic...shocker!
+
+
+Morgan Stanley Analyst: In a research note published before the agreement was announced, the 
+analyst suggested that Sabre’s would-be buyers might be able to afford an even higher price. “Under 
+private equity ownership aggressive cost-cutting could yield higher margins and lower [capital 
+expenditures], and in that case a $34 [per share] value could be possible.”  Source
+
+
+Bear Stearns Analyst: "While this transaction was widely anticipated, we think Sabre remains 
+attractive to financial and/or strategic buyers given the highly visible cash flows from the global 
+travel distribution business and the potential growth that the online travel agency (Travelocity) can 
+offer.“ Source
+
+
+Rochdale Securities Analyst:  “They (Sabre) have strong cash flow and good business fundamentals”  
+Source
+
+
+Reality check: A higher offer never emerged. Under private equity ownership, cost cuts 
+have not stemmed the surge in capex, making cash flow unchanged 
+
+
+Reality check: Only 1 strategic buyer expressed interest in Sabre. Travelocity was a bust and 
+was sold, and Sabre appears to be using accounting tricks to mask declining free cash flow
+
+
+Reality check: What may have been true in the past, may not be true in the present!
+
+
+
+http://www.reuters.com/article/sabre-swaps-idUSN1123108020061211
+
+http://dealbook.nytimes.com/2006/12/12/sabre-announces-deal-to-go-private/?_r=0
+
+http://www.deseretnews.com/article/650214493/Sabre-Holdings-to-be-purchased-by-buyout-firms-for-44-billion.html?pg=all
+18
+
+
+Limited Strategic Interest In Sabre
+
+
+Source Background of Merger. Sabre Proxy
+
+
+“In early October of 2006, Company Z contacted us and proposed discussions about a possible business combination 
+between Company Z and the Company. Company Z indicated that it would be capable of conducting diligence in a very 
+prompt manner because of its prior discussions with the Company and its understanding of our businesses. Our board 
+instructed management and our advisors to explore a potential combination with Company Z. On October 10, 2006, 
+Company Z sent us a draft merger agreement that contemplated an all cash acquisition of the Company. On October 11, 
+2006, our management and our financial co-advisors discussed with Company Z a possible combination of Company Z 
+and Sabre Holdings, including the key benefits and potential issues regarding such a combination.
+
+
+The board considered Company Z’s proposal and draft merger agreement and discussed with our management and 
+advisors a potential combination with Company Z at our board meeting on October 13, 2006. The discussion included a 
+consideration of the relative risks and merits of a combination with Company Z as compared to a possible take-private 
+transaction that would not present any potentially significant regulatory or other non-consummation risk or delay. After 
+a period during which our senior management and advisors discussed with Company Z the potential issues that 
+would be presented in a combination transaction, our board instructed our management to cease discussions with 
+Company Z and inform Company Z that the board was focused on avoiding substantial non-consummation risk for 
+the Company. Our management informed Company Z of this decision.
+
+
+“During the exploratory sale process, we were also contacted on several occasions by certain other companies, with 
+which we had very preliminary discussions regarding potential strategic transactions. None of these discussions 
+progressed to a significant extent, and no other company made a specific proposal to acquire Sabre Holdings”
+
+
+The short case is supported in knowing there was limited strategic interest in acquiring Sabre during the prior 
+strategic alternative process. Given our belief that Sabre’s growth remains at risk of further deterioration, and that 
+accounting gimmickry appears to be used to embellish its result, we think strategic buyer interest will continue to 
+
+
+remain unlikely.
+
+
+
+https://www.sec.gov/Archives/edgar/data/1020265/000119312507006351/dprem14a.htm#toc36613_14
+19
+
+
+Evidence of Disintermediation: 
+Lufthansa Imposes Fees on GDS Use
+
+
+In June 2015, Lufthansa, took the decisive step to penalize customers with higher fees for booking tickets indirectly 
+through GDS providers such as Sabre. Lufthansa was noted as a major customer of Sabre. 
+
+
+What is stopping other airlines from following Lufthansa’s lead – such as Air France-KLM – also reportedly
+evaluating a similar surcharge pricing strategy?
+
+
+According to Sabre’s S-1 IPO Filing (1): “Our largest Travel Network suppliers include American Airlines, Delta, US 
+Airways, United, Air Canada, Lufthansa, Air France, British Airways and Emirates”
+
+
+(1) Sabre: S-1, p. 144
+(2) Lufthansa press release
+
+
+Lufthansa Redirects Commercial Strategy (2):
+
+
+“The new commercial strategy also includes a clear cost differentiation in the various booking channels. Presently, the costs 
+for using global distribution systems (GDS) are several times higher than for other booking methods, such as our own 
+online portal www.LH.com. In total, the yearly GDS costs come to a three-digit million euro amount for the Lufthansa Group. 
+These services, however, are primarily used by other partners in the value chain. A large number of services are paid by the 
+Lufthansa Group carriers, but are only partly used by them. Among others, the GDS services comprise functionalities, which 
+offer many extra services in addition to the basic features of booking, processing and ticketing. Such examples include the 
+option of combining and booking world-wide, multi-airline flight offers, as well as, an integrated booking and invoice 
+processing.
+
+
+As of 1 September 2015, the Lufthansa Group airlines will, therefore, include a surcharge, the “Distribution Cost Charge” 
+(DCC) of EUR 16 for every ticket issued by a booking channel using GDS. The new charge will not be added to flight tickets 
+purchased using own booking channels. This predominately includes the airlines’ websites 
+(www.LH.com, www.swiss.com,www.austrian.com, www.brusselsairlines.com), as well as, the service center and ticket 
+counter at the airports. Travel agencies will also be able to book tickets without the DCC, using the online portal 
+at www.LHGroup-agent.com. Furthermore, corporate customers will be able to book their individually negotiated contract 
+rates excluding the DCC at www.LH.com. Customers of Lufthansa Group Airlines can of course count on continued fare 
+transparency. The display of the ticket will always show the final fare.”
+
+
+
+http://www.reuters.com/article/airlines-iata-tickets-air-france-klm-idUSL5N0YU4JM20150608
+
+https://www.sec.gov/Archives/edgar/data/1597033/000119312514015201/d652688ds1.htm
+
+https://www.lufthansagroup.com/en/press/news-releases/singleview/archive/2015/june/02/article/3527.html
+
+http://www.lh.com/
+
+http://www.lh.com/
+
+http://www.swiss.com/
+
+http://www.austrian.com/
+
+http://www.brusselsairlines.com/
+
+http://www.lhgroup-agent.com/
+
+http://www.lh.com/
+20
+
+
+Major Downside Catalyst Forthcoming: 
+Google Threat Rises in October 2016
+
+
+In July 2010, Google announced its acquisition of ITA Software for $700m. Google said the acquisition of ITA, which 
+organizes data such as flight times, ticket availability and prices, will enable it to create online search tools to help people find 
+such information more easily on the Web. The deal spooked industry participants, who formed a group and released a video 
+
+
+in an attempt to warn about the dangers of Google entering the business (1). In April 2011, the Dept. of Justice cleared the 
+transaction, but imposed conditions limiting how Google could use the technology.
+
+
+(1) Video:  Google Buys ITA – A Travel Story
+(2) Washington Post
+(3) Sabre 2015 10K, page 42
+
+
+After the Justice Department’s consent decree expires in October 2016, Google will be able to do what it pleases with ITA, and 
+that makes people like internet travel experts Ed Hasbrouck nervous (2) 
+
+
+“The real danger is of Google dominance of personalized pricing,” he says. “Imagine Google being able to incorporate everything it 
+knows about you from your use of all Google services into decisions about what price to put on each airline ticket. Airlines or 
+services with less info on which to base such price personalization would have a hard time competing with Google.”
+
+
+Direct to Consumer Threat by Google
+
+
+“Travel suppliers continue to look for ways to decrease their costs and to 
+increase their control over distribution. Airline consolidations, pricing 
+pressure during contract renegotiations and the use of direct distribution 
+may continue to subject our business to challenges. The shift from 
+indirect distribution channels, such as our GDS, to direct distribution 
+channels, may result from increased content availability on supplier 
+operated websites or from increased participation of meta search 
+engines, such as Kayak and Google, which direct consumers to supplier 
+operated websites. This trend may adversely affect our Travel Network 
+contract renegotiations with suppliers that use alternative distribution 
+channels. For example, airlines may withhold part of their content for 
+distribution exclusively through their own direct distribution channels or 
+offer more attractive terms for content available through those direct 
+channels.”
+
+
+Direct to Consumer Risk Factor Mentioned by Sabre (3)
+
+
+Source: Google
+
+
+
+http://www.wsj.com/articles/SB10001424052748703571704575341270531117614
+
+http://www.nytimes.com/2011/04/09/technology/09google.html
+
+https://vimeo.com/16378851
+
+https://www.washingtonpost.com/lifestyle/travel/google-flight-search-four-years-in-success-or-not/2014/10/02/bfb69036-45ab-11e4-9a15-137aa0153527_story.html
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+
+https://www.justice.gov/atr/case/us-v-google-inc-and-ita-software-inc
+21
+
+
+Sabre’s Results Appear To Significantly Fail 
+Initial Expectations
+
+
+Low High Note
+
+
+Projected 2012 Revenue $3,841 $3,947 Company Long-Term Projections at LBO 
+March 19, 2007; 8-K filing
+
+
+Less: Divestitures ($767) ($767) “Discontinued Ops and Dispositions”
+2014 10-K p. 80
+
+
+Plus: Acquisitions $60 $179 Sabre says “Pro forma info related to 
+acquisitions occurring during 2013, 2012 
+and 2011 has not been included, as the 
+
+
+effect would not be material to our 
+consolidated financial statements.” 
+
+
+Source S-1 (p. F-50). We assume 1-3x sales 
+multiple paid on $179m of acquisitions
+
+
+Adjusted Revenue $3,134 $3,359 Projected 2012 sales – total sales of 
+divestitures +  estimated acquisition sales
+
+
+2012 Reported Revenue $2,382 $2,382 10-K filing
+
+
+% Below projections -24% -29%
+
+
+• Sabre’s Management outlined long-term projections for its business from 2007-2012 in its proxy statement prior to its take private 
+transaction which closed March 20, 2007
+
+
+• Since then, Sabre has made numerous divestitures and some acquisitions, although many acquisitions have been immaterial to results
+• We attempted to reconcile actual 2012 revenues vs. projections by adjusting the reported results for acquisitions and divestitures
+• Our back of the envelope estimate suggests that Sabre’s 2012 results sorely disappointed expectations and could be further 
+
+
+evidence of erosion of its core business
+
+
+
+https://www.sec.gov/Archives/edgar/data/1020265/000119312507057661/d8ka.htm
+
+https://www.sec.gov/Archives/edgar/data/1597033/000156459015001223/sabr-10k_20141231.htm
+
+https://www.sec.gov/Archives/edgar/data/1597033/000119312515019572/d793574ds1.htm
+
+https://www.sec.gov/Archives/edgar/data/1597033/000156459015001223/sabr-10k_20141231.htm
+
+https://skift.com/2014/02/03/sabre-took-losses-on-four-out-of-six-asset-sales-in-2012-and-2013/
+22
+
+
+Questionable LBO Value Creation 
+
+
+Post-LBO IPO Financials
+Capex Up / Free Cash Flow Unchanged
+
+
+Pre-LBO
+Sabre Financials
+
+
+Both Sabre and its analysts would love investors to focus on its growing Adjusted EPS and EBITDA. However, the sad 
+reality is that despite years of financial engineering, restructuring, and transitioning to more SAAS solutions, Sabre’s 
+
+
+free cash flow and margins remain largely unchanged from Pre-LBO levels.
+This has very important implications for Sabre’s valuation, which we discuss later in the valuation section.
+
+
+Source: Sabre 2006 10-K Source: Sabre 2015 10-K. 2015 Adj. Free Cash Flow adjusted lower for the 
+excess JV dividend
+
+
+$78 
+$92 
+
+
+$109 
+
+
+$283 
+
+
+$164 
+
+
+$270 
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+$0
+
+
+$50
+
+
+$100
+
+
+$150
+
+
+$200
+
+
+$250
+
+
+$300
+
+
+$350
+
+
+2004 2005 2006
+
+
+Traditional Capex Adj. Free Cash Flow
+
+
+Capex Margin Adj Free Cash Flow Margin
+
+
+$ in millions
+
+
+$210 
+$227 
+
+
+$287 
+
+
+$182 
+
+
+$293 $286 
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+$0
+
+
+$50
+
+
+$100
+
+
+$150
+
+
+$200
+
+
+$250
+
+
+$300
+
+
+$350
+
+
+2013 2014 2015
+
+
+Traditional Capex Adj. Free Cash Flow
+
+
+Capex Margin Adj. Free Cash Flow Margin
+
+
+$ in millions
+
+
+
+https://www.sec.gov/Archives/edgar/data/1020265/000110465907013510/a07-4902_110k.htm
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+23
+
+
+$200,000
+
+
+$220,000
+
+
+$240,000
+
+
+$260,000
+
+
+$280,000
+
+
+$300,000
+
+
+$320,000
+
+
+$340,000
+
+
+$360,000
+
+
+$380,000
+
+
+$400,000
+
+
+2004 2005 2006 // 2013 2014 2015
+
+
+Questionable LBO Value Creation (Cont’d)
+
+
+Pre / Post LBO
+Adjusted Cash Flow Per Employee
+
+
+Pre / Post LBO
+Revenues Per Employee
+
+
+As a technology company, it’s disappointing that Sabre has not found a way to leverage technology to make its 
+business more efficient. As indicated in the charts below, the company has not been able to increase the efficiency of 
+
+
+its business as measured by Revenue per Employee and Adj. Cash Flow per Employee.
+We believe this supports our view that a valuation expansion for Sabre is not warranted. 
+
+
+Employees:        6,700            8,800             9,000                                 10,000 (1)         8,000          9,100     
+
+
+$0
+
+
+$5,000
+
+
+$10,000
+
+
+$15,000
+
+
+$20,000
+
+
+$25,000
+
+
+$30,000
+
+
+$35,000
+
+
+$40,000
+
+
+$45,000
+
+
+$50,000
+
+
+2004 2005 2006 // 2013 2014 2015
+
+
+Employees:        6,700            8,800             9,000                               10,000 (1)        8,000            9,100     
+
+
+(1) Employees as of 9/30/13. Source: Sabre SEC Filings
+24
+
+
+Worst Cash Returns in the Industry
+
+
+2015 Operating Cash Flow / Avg. Employees (1) 2015 Cash Return on Assets (2)
+
+
+$33,411 
+
+
+$55,745 
+
+
+$109,745 
+
+
+$0
+
+
+$20,000
+
+
+$40,000
+
+
+$60,000
+
+
+$80,000
+
+
+$100,000
+
+
+$120,000
+
+
+SABR TVPT AMS
+
+
+5.7%
+
+
+9.0%
+
+
+18.0%
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+16.0%
+
+
+18.0%
+
+
+20.0%
+
+
+SABR TVPT AMS
+
+
+(2) Defined as 2015 operating cash flow divided by average assets from 2014/15. 
+Sabre’s operating cash flow adjusted to remove excess dividend from JVs
+
+
+(1) Defined as 2015 operating cash flow divided by average employees from 
+2014/15. Sabre’s operating cash flow adjusted to remove excess dividend from JVs. 
+Travelport’s figures includes IGTS employees
+
+
+Source: SEC and Company financials
+
+
+EBITDA is inherently susceptible to accounting distortions. Instead, we evaluate its business by comparing its 
+operating cash flow to average assets and employees vs. peers Travelport and Amadeus. 
+
+
+We find that Sabre has the worst capital efficiency in the industry. 
+
+
+Average
+
+
+Average
+25
+
+
+Strong Evidence of Deflation: 
+Signs of a Cracking Business Model
+
+
+Management does not steer investors towards evaluating revenue per transaction, but we’ve unraveled 
+the mystery for investors; the picture is not pretty!
+
+
+$ in millions
+
+
+Source: Sabre Financial Filings
+
+
+Management does not highlight these metrics, 
+and for good reason! However, we have 
+calculated them and believe they are highly 
+relevant and key performance indicators for the 
+business. The results are clear: Sabre’s revenue 
+per transaction has been in a deflationary spiral
+
+
+Two sources of revenue for the Travel Network 
+Segment: 1) Transaction-based revenue and 2) 
+Media Revenue. Management only provides the 
+Transaction-based revenue and total segment 
+revenue, so we can deduce the media revenue 
+contribution
+
+
+Segment Gross Profit has contracted each year. 
+Transaction-based margin contraction could even be 
+worse, but we are unable to determine this since 
+management does not break out the impact of the 
+media revenue 
+
+
+On the surface, it appears billable bookings are 
+rising sharply, suggesting a healthy business. 
+Note: 2015 growth aided by the Abacus deal
+
+
+2013 2014 2015
+
+
+Direct Billable Bookings - Air 314,275 321,962 384,309
+Direct Billable Bookings - Non-Air 53,503 54,122 58,414
+Total Direct Billable Bookings 367,778 376,084 442,723
+
+
+Travel Network Segment
+Transaction Based $1,589.0 $1,615.0 $1,887.0
+  % growth -0.1% 1.6% 16.8%
+Media Revenue $232.5 $239.8 $215.8
+  % growth 13.3% 3.1% -10.0%
+Total Revenue $1,821.5 $1,854.8 $2,102.8
+  % growth 1.5% 1.8% 13.4%
+
+
+Cost of Revenue $960.7 $991.5 $1,128.9
+  % margin 52.7% 53.5% 53.7%
+Gross Profit $860.8 $863.3 $973.9
+  % margin 47.3% 46.5% 46.3%
+
+
+Total Segment Revenue Per 
+Total Direct Billable Booking $4.95 $4.93 $4.75
+  % growth 4.8% -0.4% -3.7%
+
+
+Transaction Based Revenue Per 
+Total Direct Billable Booking $4.32 $4.29 $4.26
+  % growth 3.2% -0.6% -0.7%
+26
+
+
+Is Sabre a Buy While Insiders Jump 
+Ship and the Company Dilutes?
+
+
+Since its IPO in April 2014, the three largest beneficial owners of Sabre have conducted 4 secondary issuances, 
+and dropped their combined beneficial ownership from 95% (pre-IPO) to 25% as of March 2nd, 2016. 
+
+
+While insiders have been selling, the Company has quietly been diluting shareholders. 
+Basic shares outstanding have risen by 17m or 6.5% since the IPO
+
+
+45%
+38%
+
+
+33%
+27% 24%
+
+
+19% 14%
+
+
+28%
+
+
+23%
+
+
+20%
+
+
+17%
+15%
+
+
+11%
+9%
+
+
+23%
+
+
+20%
+
+
+17%
+
+
+14%
+
+
+12%
+
+
+10%
+
+
+2%
+
+
+255
+
+
+260
+
+
+265
+
+
+270
+
+
+275
+
+
+280
+
+
+0%
+
+
+10%
+
+
+20%
+
+
+30%
+
+
+40%
+
+
+50%
+
+
+60%
+
+
+70%
+
+
+80%
+
+
+90%
+
+
+100%
+
+
+Pre-IPO IPO
+April 2014
+
+
+Feb-15 May-15 Aug-15 Nov-15 Feb-16
+
+
+TPG Silver Lake Sovereign Co-Invest Shares Outstanding (RHS)
+
+
+Source: Sabre SEC Filings
+
+
+Shares O
+utstanding
+
+
+To
+ta
+
+
+l B
+en
+
+
+ef
+ic
+
+
+ia
+l O
+
+
+w
+ne
+
+
+rs
+hi
+
+
+p
+Accounting, Financial and 
+Governance Concerns
+28
+
+
+Governance Concern: EBITDA is the Sole 
+Driving Force Behind Management + Owner Fees
+
+
+It’s important to evaluate the incentive structure that motivates management and insiders. Accordingly, we observe that 
+Sabre’s management variable incentive comp is entirely linked to Adjusted EBITDA. Furthermore, its shareholders also 
+
+
+extract management fees tied to Adjusted EBITDA. Therefore, we believe investors should carefully scrutinize the quality of 
+Sabre’s EBITDA to make sure management and insiders are not inflating this metric to extract unjust compensation.
+
+
+Source: Sabre Proxy Statement
+
+
+Management Services Agreement
+
+
+On March 30, 2007, we entered into the MSA with affiliates of TPG and Silver Lake (the “Managers”) to provide us with management, advisory and 
+consulting services. Pursuant to the MSA, we have been required to pay to the Managers management fees, payable quarterly in arrears, totaling 
+to between $5 million to $7 million per year, the actual amount of which is calculated based upon 1% of Adjusted EBITDA, as defined in the MSA, 
+earned by the company in such fiscal year up to a maximum of $7 million. During the years ended December 31, 2013, 2012 and 2011, the annual 
+management fee paid to the Managers was $7 million in each year. Additionally, we reimbursed the Managers for all out-of-pocket expenses 
+incurred by them or their affiliates in connection with services provided to us pursuant to the MSA. For the years ended December 31, 2013 and 
+2012 the amount reimbursed in expenses was $2 million and $1 million, respectively. For the year ended December 31, 2011, the amount 
+reimbursed in expenses was not material. In connection with the completion our initial public offering in April 2014 and in contemplation of 
+providing continued services to the company after the initial public offering, the Managers received a fee payable pursuant to the MSA in an amount 
+equal to, in the aggregate, $21 million plus other unpaid fees and expenses and, thereafter, the MSA was terminated. The MSA included customary 
+exculpation and indemnification provisions in favor of the affiliates of TPG and Silver Lake.
+
+
+Corporate Performance Measure
+
+
+For purposes of the 2014 EIP, the Compensation Committee selected EBITDA as the sole performance measure. The Compensation Committee 
+believed this measure continued to be the best indicator of both corporate and business segment profitability and that overall profitability would 
+best position us for a successful re-entry into the public marketplace. For purposes of the 2014 EIP, EBITDA was adjusted to exclude the following 
+items: goodwill impairments, prior period non-cash adjustments, and one-time costs associated with specific business enhancement initiatives. 
+Our Board of Directors approved these adjustments to better reflect the efforts and performance of our executive officers in relation to the 
+current year’s business performance, as well as to encourage them to make decisions that improve the potential for future growth without being 
+penalized for the short-term investment required to achieve that growth. In addition to these adjustments, for purposes of the 2014 EIP, EBITDA 
+was calculated before making allowance for the amounts payable pursuant to the Sabre Corporation Variable Compensation Plan, our annual 
+incentive compensation plan for employees at the level below senior vice president (“Adjusted Pre-VCP/EIP EBITDA”) (Spruce Point Note: 
+Sabre does not provide details on the materiality of this adjustment).
+
+
+
+http://www.sec.gov/Archives/edgar/data/1597033/000119312515134095/d845371ddef14a.htm
+29
+
+
+Abacus Deal in 2015 Deserves Major Scrutiny
+
+
+Sabre announced its acquisition of 65% of Abacus in May 2015. 
+This related party transaction deserves significant scrutiny because Sabre previously controlled 35% of Abacus 
+
+
+before acquiring the remaining ownership and consolidating results!
+
+
+Source: Company press release and presentation
+
+
+Quick Background on Abacus International Pte Ltd.
+
+
+• Singapore-based Asian Pacific GDS operator
+• Owned by a consortium of 11 Asian airlines alongside Sabre
+• Abacus serves more than 100,000 travel agents across the Asia-Pacific region’s 59 markets and has both global and uniquely 
+
+
+local relationships with airlines and hotels, including the a portfolio of low-cost content and Chinese airline content
+
+
+• 600 employees
+
+
+Quick Overview of Transaction Terms
+
+
+• Paid $411 million in net cash for the 65% it didn’t own and guided to $50m of incremental EBITDA for 2016
+• Implies total valuation of $632m enterprise value or 8x 2016E EBITDA
+
+
+• Sabre projected funding with $250m of cash and $160m of incremental net debt
+• Pro forma Net Debt / LTM Adj. EBITDA leverage would increase to 3.0x from 3.3x
+
+
+• The acquisition includes new long-term distribution agreements between Sabre and the 11 airline owners of Abacus
+• Sabre projected $10m of annual cost synergies by 2017
+• Originally projected to close on Aug 1st, the deal closed July 1st
+
+
+
+http://www.sabre.com/insights/releases/sabre-to-acquire-abacus-international/
+
+http://investors.sabre.com/events.cfm
+30
+
+
+Critical Abacus Review: Industry View vs. 
+Management and Analyst Promotion
+
+
+The Real Industry Insider Scoop
+
+
+Source: Tnooz , “Sabre is Ready to spend $500m, and Abacus is likely target” - Jan 27, 2015
+Tnooz,  “Sabre confirms $411 million Abacus takeover”- May 14, 2015
+
+
+• Asset shuffling? On February 24, 2012, Sabre completed the sale 
+of its 51% stake in Sabre Pacific, which had been jointly owned, to 
+Abacus for $46m million of proceeds. Now, the company will re-
+inherit Sabre Pacific, through its Abacus buyout!
+
+
+• Sabre is doubling down on its traditional, low-margin, air GDS 
+business: Runs counter to the [IPO] narrative of growth led by 
+the hospitality services division
+
+
+• Abacus has lost significant Asia Pacific market share to rivals:
+For a decade, Abacus has been losing market share to rivals 
+Amadeus and Travelport in a steady loss of a point a year
+
+
+• In 2002, Abacus/Sabre had 57% market share of GDS 
+bookings in Asia Pacific, counted as one-way segment 
+volume, on average.
+
+
+• Today that figure is much lower, in the mid-30s 
+percentage-wise, said sources
+
+
+• Higher Incentives to come? Sabre has lost share because it has 
+been slower to hike fees it charges its partner airlines. 
+Amadeus/Travelport receive higher fees from suppliers allowing 
+them to pay higher incentive fees to travel agency subscribers. 
+Sabre might be willing to match competitors’ higher level of 
+incentives to travel agents, speculates one former executive.
+
+
+Sabre’s Management Deal Promotion
+• CEO Klein: “Acquiring Abacus immediately combines the global 
+
+
+capabilities of Sabre with the deep local market expertise of the 
+leading Asia-Pacific GDS. This powerful combination will give 
+customers even more innovation and service options, while allowing 
+Sabre to accelerate growth globally in a very capital efficient way –
+and to gain regional synergies in all three of our businesses serving 
+travel agents, airlines and hospitality companies.”
+
+
+• CEO of Abacus Robert Bailey: “With our extended network in Asia-
+Pacific, Abacus has built a trusted brand of unique significance and 
+scale. We now have the opportunity to take the business forward even 
+faster, broadening the scope within the Sabre family and with the 
+support of our shareholder carriers. This is great news for the industry 
+in Asia-Pacific....”
+
+
+• Warning: Robert Bailey left Abacus a few months later to be CEO 
+at Linkswood Group according to his LinkedIn Profile
+
+
+Analyst Bullish Comments
+• Morgan Stanley: “Abacus now gives Sabre control over an entity with 
+
+
+substantial presence in the largest, fastest growth travel market in 
+the world”
+
+
+• Goldman Sachs: “Still, we view the announcement positively as it 
+removes uncertainty and helps simplify the passenger booking 
+numbers as well as the income statement”
+
+
+• Deutsche Bank: “..We would expect Sabre to accelerate Abacus 
+growth from 7% in 2014 to high single/low double digit growth 
+through share gains”
+
+
+
+https://www.tnooz.com/article/sabre-ready-buy-abacus-likely-target/
+
+https://www.tnooz.com/article/Sabre-Abacus/
+
+https://www.linkedin.com/in/robert-bailey-121246
+31
+
+
+Warning: Management Quietly Started 
+Dumping Shares Ahead of the Abacus Deal
+
+
+Sabre’s management started a 10b5-1 insider stock sale program in early May 5, 2015 less than ten days before the Abacus 
+transaction was announced on May 14, 2015. It is also noteworthy that management did not put this disclosure in writing 
+
+
+within its earnings press release, its 10-Q filing or by 8-K filing. Instead, management made the selective disclosure during its 
+conference call. While not a technical disclosure violation, best practices may have merited expanded disclosure.
+
+
+Q1 2015 Conference Call: May 5, 2015 
+
+
+"Before turning the call over to Rick to walk through the financials and the forward look, there is one housekeeping matter that I 
+wanted to address. Several members of the executive team, myself included, have entered into 10b5-1 plans to begin selling a portion 
+of our Sabre equity. As you know, we were privately held for over seven years and during that time no equity was sold by 
+management. As a result, several of us have options that will be expiring in the near term and normal needs for diversification after 
+such a long period. We'll continue to hold significant stakes in Sabre stock, keeping our interests aligned with yours.“
+
+
+While exact details of the 10b5-1 program have not been 
+disclosed to investors, we analyzed recent sales through 
+Form 4 filings:
+
+
+• As of the latest proxy statement filed 2/28/15, all 
+executive officers and directors owned 6.2m shares or 
+2.3% of total shares outstanding
+
+
+• Form 4 filings indicate that a range of executives and 
+directors have sold including the CEO/CFO and EVP of 
+Sabre Travel Network 
+
+
+• We estimate total insider sales of 2.3m shares at 
+$27.15/sh average price, reaping $64.4m in proceeds
+
+
+• Viewed in context of insider holdings pre-10b5-1, 
+insiders have sold 37% of their holdings
+
+
+Note: The CFO joined in March 2013, and others such as 
+Alex Alt in 2012. To suggest they all held stock for 7 years 
+
+
+is slightly misleading!
+
+
+Source: Bloomberg
+
+
+Insider Sales of Sabre Shares
+
+
+
+http://www.sec.gov/Archives/edgar/data/1597033/000156459015003257/sabr-ex991_2015050533.htm
+
+http://www.sec.gov/Archives/edgar/data/1597033/000156459015003303/sabr-10q_20150331.htm
+
+http://seekingalpha.com/article/3141736-sabres-sabr-ceo-tom-klein-on-q1-2015-results-earnings-call-transcript?page=4
+32
+
+
+Warning: Low Quality Earnings Guidance 
+Raise Post Abacus Deal Announcement
+
+
+Spruce Point has consistently warned its readers about the perils of investing in companies that have characteristics of 
+diverging earnings and cash flow. Little more than two months after issuing updated guidance for the Abacus acquisition, 
+
+
+Sabre increased guidance during its Q2’2015 earnings results. In Sabre’s case, its “Adjusted” EBITDA and EPS started 
+diverging from free cash flow after it “raised guidance” post the acquisition of Abacus.  
+
+
+Source: Abacus Presentation, May 14, 2015 Source: Q2 2015 Earnings Presentation, Aug 4, 2015
+
+
+Sabre increased sales guidance by 2.1%, Adj. EBITDA by 2.8%, and Adjusted EPS range by 4.7% - 5.0%, yet high-end Adjusted Free Cash Flow fell 
+by 3.3% from $300m+ to $290m+. The increase was specifically called out to be related to the Travel Network by the CFO on the conf call:
+
+
+“Now, specific to Travel Network, strong first half growth and continued momentum has led us to increase our full year expectations. We expect 
+continued strong Travel Network growth in the back half of the year even before considering the impact of Abacus. So, excluding Abacus, we now 
+expect full year Travel Network revenue growth of over 5% on bookings growth of approximately 6%, well within our medium-term expectations of 
+4% to 6% topline growth, and ahead of our expectations we previously communicated for 2015 in Travel Network. Including Abacus, beginning July 
+1, we now expect Travel Network revenue growth of 13% or more driven by bookings growth of approximately 17%.”
+
+
+Adj. FCF Falls
+
+
+Updated Abacus Guidance - May 14, 2015 Shortly After on August 4, 2015
+
+
+All Metrics Rise
+
+
+
+http://files.shareholder.com/downloads/AMDA-2OXSEI/1595392477x0x829572/3BE5CDDB-6656-499B-8986-0482A64E0E70/Sabre_to_Acquire_Abacus_FINAL.pdf
+
+http://files.shareholder.com/downloads/AMDA-2OXSEI/1595392477x0x843293/F03C30F9-A0EA-42A5-8F40-B54255B8EEAC/SABR_Q2_2015_Earnings_FINAL.pdf
+
+http://seekingalpha.com/article/3397185-sabre-sabr-thomas-klein-on-q2-2015-results-earnings-call-transcript?page=4
+33
+
+
+Warning:  Low Quality Earnings, Or Worse, 
+Evidence of Spring-Loading Revenues?
+
+
+• According to the Abacus deal investor presentation, Sabre estimated that 2015 revenue would increase by $120m 
+(assuming 8/1/15 closing) as a result of the Abacus acquisition consolidation
+
+
+• However, the deal actually closed a month earlier on 7/1/15
+• In its Q3’15 10-Q (p. 7) and later in its FY 2015 10-K filing (p. 78), Sabre made the following disclosures:
+
+
+“Since the acquisition date, Abacus contributed $96 million of revenue and $1 million of income from continuing 
+operations for the three and nine months ended September 30, 2015” (1)
+
+
+“Since the acquisition date, Abacus contributed $187 million of revenue and $13 million of income from continuing 
+operations for the year ended December 31, 2015” 
+
+
+• Warning: Something Does Not Add Up!
+ How is it possible that Q4 revenues declined to $91m ($187m - $96m), yet income surged $12m ($13m - $1m) or 
+
+
+1,200%. Sabre guided to $10m of total synergies by 2017. Did it somehow exceed its target in just 1 quarter? 
+
+
+ By closing one month early, Sabre added $67m of incremental revenue in 2015 above the $120m estimate ($187m -
+$120m)
+
+
+ Recall that the $120m initial revenue estimate assuming an 8/1/15 closing would result in 5 months of revenue 
+consolidation or approximately $24m of sales per month. Therefore, we would have expected approximately $144m 
+($120m+$24m) of full year 2015 Abacus revenue from the addition of the extra month 
+
+
+(1) Note: When asked on the  Q3’15 earnings conference call, the CFO said the impact of the Abacus acquisition was approximately $70-75m for the quarter, significantly less than disclosed in the 10-Q 
+which was filed with the SEC on the same day.
+
+
+Given that Abacus and Sabre were related parties in this M&A transaction, there is an above average risk of “Spring-Loading” 
+or earnings and cash flow management around deals. 
+
+
+This accounting maneuver came under scrutiny during the Tyco scandal and has been studied by academics at Yale
+
+
+
+http://files.shareholder.com/downloads/AMDA-2OXSEI/1595392477x0x829572/3BE5CDDB-6656-499B-8986-0482A64E0E70/Sabre_to_Acquire_Abacus_FINAL.pdf
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=920172
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703315000072/sabr10q93015.htm
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+
+http://seekingalpha.com/article/3620566-sabres-sabr-ceo-tom-klein-q3-2015-results-earnings-call-transcript?page=13
+
+http://faculty.som.yale.edu/jakethomas/papers/quietperiodEM.pdf
+34
+
+
+Warning:  Questionable Earnings “Beat” in 2015
+
+
+• So how did Q3 financial results play out for Sabre? The company reported revenue of $785m and $0.29c of Adj. EPS and beat 
+Wall St. estimates by just 1 cent and revenue estimates by just $11.7m!
+
+
+“Earnings, adjusted for one-time gains and costs, came to 29 cents per share. The results exceeded Wall Street expectations. 
+The average estimate of six analysts surveyed by Zacks Investment Research was for earnings of 28 cents per share. The 
+provider of technology services to the travel industry posted revenue of $785 million in the period, which also beat Street 
+forecasts. Six analysts surveyed by Zacks expected $773.3 million“ 
+
+
+Source: Associated Press
+
+
+• Also in Q4, Sabre yet again beat Wall St. earnings estimates by 1 cent, but disappointed on the revenue line by posting 
+$758.5.m vs. $762.1m estimates. 
+
+
+“Earnings, adjusted for one-time gains and costs, were 27 cents per share. The results exceeded Wall Street expectations. 
+The average estimate of four analysts surveyed by Zacks Investment Research was for earnings of 26 cents per share. The 
+provider of technology services to the travel industry posted revenue of $758.5 million in the period, falling short of Street 
+forecasts. Four analysts surveyed by Zacks expected $762.1 million.”
+
+
+Source: Associated Press
+
+
+Given our concerns raised on the previous slide about the Abacus transaction and numbers not making 
+sense, it’s worth questioning the quality of the earnings “beats” in subsequent quarters. 
+
+
+
+http://investors.sabre.com/releasedetail.cfm?ReleaseID=939191
+
+http://finance.yahoo.com/news/sabre-beats-street-3q-forecasts-130948847.html
+
+http://finance.yahoo.com/news/sabre-tops-4q-profit-forecasts-131932564.html
+35
+
+
+The Ugly Reality
+
+
+By adjusting Sabre’s financials to remove the impact of Abacus, we find that its revenue growth rate 
+declined significantly during 2015, well below management’s guidance range of 4% - 6% (1)
+
+
+Q3 2015: 10-Q filing post 7/1/15 close (page 7)
+
+
+“Since the acquisition date, Abacus contributed $96 million of revenue and $1 million of income from continuing operations for the three and nine 
+months ended September 30, 2015”
+
+
+FY 2015: 10-K filing (page 78)
+
+
+“Since the acquisition date, Abacus contributed $187 million of revenue and $13 million of income from continuing operations for the year ended 
+December 31, 2015”
+
+
+$ in millions
+
+
+Source: Sabre Financial Filings
+
+
+2014 2015
+Q3 Q4 Q1 Q2 Q3 Q4
+
+
+Total Consolidated Revenue $672.5 $646.1 $710.3 $707.1 $785.0 $758.5
+  % growth 9.3% 3.1% 6.6% 9.4% 16.7% 17.4%
+Travel Network Revenue $466.3 $434.4 $507.9 $494.5 $569.2 $531.2
+  % growth 3.7% -1.4% 3.3% 7.0% 22.1% 22.3%
+
+
+Abacus Revenue Contribution -- -- -- -- $96.0 $91.0
+
+
+Pro Forma Total Revenue (ex: Abacus) $672.5 $646.1 $710.3 $707.1 $689.0 $667.5
+  % growth 9.3% 3.1% 6.6% 9.4% 2.5% 3.3%
+Pro Forma Travel Network (ex: Abacus) $466.3 $434.4 $507.9 $494.5 $473.2 $440.2
+  % growth 3.7% -1.4% 3.3% 7.0% 1.5% 1.3%
+
+
+(1) “So, excluding Abacus, we now expect full year Travel Network revenue growth of over 5% on bookings growth of approximately 6%, well within our medium-term expectations of 4% to 6% topline 
+growth, and ahead of our expectations we previously communicated for 2015 in Travel Network.”  Source: Q2’2015 Conf Call – Aug 5, 2015
+
+
+
+http://www.sec.gov/Archives/edgar/data/1597033/000159703315000072/sabr10q93015.htm
+
+http://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+
+http://seekingalpha.com/article/3397185-sabre-sabr-thomas-klein-on-q2-2015-results-earnings-call-transcript?page=4
+36
+
+
+Management Still Touting Travel Network 
+Growth Excluding Abacus into 2016....
+
+
+Sabre’s management is still touting 6% growth in the Travel Network segment well into 2016 despite strong 
+evidence to suggest they fell well short of this goal in 2015!
+
+
+Source: FY 2015 Earnings Presentation, Feb 8, 2016
+
+
+“At Travel Network we delivered global growth and increased 
+share. Globally, our 2015 share increased a full point to 36.6% 
+with 80 basis points of growth in North America and 170 basis 
+points of growth in EMEA. Acquiring Abacus bolstered our 
+position giving us control of our destiny in the fastest-growing 
+travel region in the world. With that integration well underway, 
+we're now getting much deeper with our Asia-Pacific customers 
+to ensure that we have the right solutions for the market and 
+create opportunities to grow market share. In EMEA we 
+continue to grow the business which is much faster than market 
+growth rates.”
+
+
+CFO on FY 2015 Conference Call, Feb 9, 2016
+
+
+“Travel Network revenue increased 22% and EBITDA increased 
+21% in the quarter supported by our overall bookings growth. 
+Excluding the impact of consolidating Abacus, Travel Network 
+revenue increased approximately 6% in the quarter. Bookings 
+increased 33% in the quarter. Growth was driven by the 
+acquisition of Abacus as well as solid growth across our North 
+America and Europe, Middle East, Africa business. Even when 
+excluding the positive impact of the Abacus acquisition, global 
+bookings increased a strong 8% overall in the quarter.”
+
+
+
+http://files.shareholder.com/downloads/AMDA-2OXSEI/1595392477x0x873961/C35287F4-186E-465D-952A-90DF998CB00C/Sabre_Q4_Earnings_Presentation_FINAL.pdf
+
+http://seekingalpha.com/article/3879916-sabres-sabr-ceo-tom-klein-q4-2015-results-earnings-call-transcript?page=4
+37
+
+
+Management Still Touting Travel Network 
+Growth Excluding Abacus (cont’d)
+
+
+Management has continued to tout its core travel network business is growing mid to high single digits 
+organically despite evidence to the contrary
+
+
+Source: Goldman Sachs Tech and Internet Conf, Feb 10 2016
+
+
+<Q - James Schneider>: That's super helpful overview. So, maybe, Rick, you want to take the guidance question. 
+Maybe just, I think by any stretch the 2016 guidance you guys issued yesterday was pretty strong. Can you maybe 
+just help us – but also include the effect of a couple of acquisitions in there that you've done. So can you maybe 
+unpack first the guidance, kind of what the impact of the acquisitions is and then kind of what the underlying 
+volume assumptions are on the Travel Network side, as well as the kind of growth assumptions...
+
+
+<A - Richard A. Simonson>: Sure.
+
+
+<Q - James Schneider>: ...for solutions?
+
+
+<A - Richard A. Simonson>: For 2016, so in the Travel Network side, and it's been very representative of what we 
+showed in fourth quarter where we had strong double-digit top line revenue and bookings growth. That was 
+benefited from our acquisition of Abacus, the go-to-market entity that we had a minority interest. We took full 
+control of that. But our underlying bookings in the fourth quarter, revenue and bookings, we're running 6%, 7%, 
+8%. And again, so our core business is growing above the rate of general travel growth. That sets up well on how 
+we're positioned and a bit of market share gain overall. We see that trend repeating itself essentially in 2016 and 
+that's how you get to those strong teens growth rate in revenue and bookings for Travel Network. But you still 
+have mid to high-single digit organic growth rate adjusting for the Abacus acquisition and Travel Network.
+
+
+
+http://www.alacrastore.com/thomson-streetevents-transcripts/Sabre-Corp-at-Goldman-Sachs-Technology-Conference-T5906914
+38
+
+
+More Evidence Suggesting Abacus Int’l
+Accounting Issues
+
+
+From Sabre Filings: Sabre Revenue From Abacus > Abacus PurchasesPrimary revenue 
+generated from Abacus is 
+data processing fees 
+associated with bookings 
+on the Sabre GDS
+
+
+Revenue from Abacus is 
+notably higher than 
+related company purchase 
+of services reported by 
+Abacus! 
+
+
+A receivable from Abacus 
+on Sabre’s books, should 
+correspond to a payable 
+on Abacus’ books. 
+
+
+Notably, the $29.3m that 
+Sabre reported in 2013, is 
+higher than the entire 
+trade payable of $20.1m 
+reported by Abacus!
+
+
+(*)  Abacus explicitly says that, “Accrued expenses relate mainly to accrued incentives payable 
+to travel agents.” Thus, we can rule out that amounts payable to Sabre are included here.
+
+
+(*)
+
+
+(*)  Abacus explicitly says that, “parties are considered related to the Group if the Group has the ability, 
+directly or indirectly, to control the party, or exercise significant influence over the party in making financial 
+and operating decisions, or vice versa. Related parties may be individuals or other entities.” 
+
+
+(*)
+
+
+Abacus Int’l Pte Ltd (Singapore): Related- Party Transactions Abacus (Singapore): Statement of Financial Position
+39
+
+
+Abacus Singapore Filings Not Matching 
+Sabre’s Balance Sheet Disclosure
+
+
+Abacus Int’l Pte Ltd. Singapore Filings Abacus Financial Disclosure by Sabre Corp.
+
+
+Source: Sabre 2014 10-K, Note 5 – Equity Method Investments
+
+
+Source:  Singapore Registry
+
+
+Note:  Abacus reports under Singapore Financial Reporting Standards
+
+
+
+http://www.sec.gov/Archives/edgar/data/1597033/000156459015001223/sabr-10k_20141231.htm
+
+https://www.bizfile.gov.sg/
+
+https://www.psi.gov.sg/
+40
+
+
+Abacus Singapore Filings Not Matching 
+Sabre’s Income St. Disclosure
+
+
+Abacus Int’l Pte Ltd. Singapore Filings
+
+
+Source: Sabre 2014 10-K, Note 5 – Equity Methord Investments
+
+
+Source: Sabre 2014 10-K, Note 5 – Equity Method Investments
+
+
+Abacus Financial Disclosure by Sabre Corp.
+
+
+Source:  Singapore Registry
+
+
+Note:  Abacus reports under Singapore Financial Reporting Standards
+
+
+
+http://www.sec.gov/Archives/edgar/data/1597033/000156459015001223/sabr-10k_20141231.htm
+
+http://www.sec.gov/Archives/edgar/data/1597033/000156459015001223/sabr-10k_20141231.htm
+
+https://www.bizfile.gov.sg/
+
+https://www.psi.gov.sg/
+41
+
+
+More Evidence of Joint Venture Accounting 
+Concerns
+
+
+$ in thousands
+
+
+Sabre recognizes its proportionate share of earnings from joint ventures under the “Equity Method” which means it 
+recognizes non-cash earnings through the income statement, and deducts it from the cash flow statement. 
+
+
+However, actual cash dividends received are accounted for as an increase in operating cash flow. 
+Take careful notice that in 2015, dividends exceeded the actual earnings from joint ventures. 
+
+
+Source: Sabre 2015 10K
+
+
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+42
+
+
+Operating Cash Flow Appears Overstated, 
+Actually Declined in 2015
+
+
+$ in millions
+
+
+Because Sabre received more dividends than income in 2015, accounting rules dictate that excess cash 
+must be accounted for as a “Return of Capital” and not a “Return on Capital.” (1)
+
+
+As a result, we are justified in reclassifying $13.9m of cash from operations, to cash flow from investing. 
+On a pro-forma basis, Sabre’s Adjusted Free Cash Flow appears to have declined in 2015 by 2.6%! 
+
+
+(1) ASC 230-10-45-12 as noted in E&Y’s Statement of Cash Flows guide, June 2015
+(2) Represents dividends in excess of income, which should be reclassified as an investing cash flow, not from operations
+Source: Sabre SEC Filings
+
+
+Sabre Presents This To 
+Investors, Showing Growth 
+of 2.1% in 2015
+
+
+By Removing Return of 
+Capital, Adj. Free Cash Flow 
+Declined 2.6%!
+
+
+Just a coincidence that in 
+2015, a year we noted that 
+Sabre acquired Abacus to 
+mask underlying growth, 
+
+
+that JV dividends 
+exceeded actual income? 
+
+
+Sabre’s Pro-Forma Adjusted Free Cash Flow
+
+
+2011 2012 2013 2014 2015
+
+
+JV Equity Income $23.5 $21.3 $12.4 $12.1 $14.8
+
+
+JV Cash Distributions of income $13.3 $21.1 $10.6 $2.3 $28.7
+
+
+Dividends > JV Equity Income No No No No YES
+
+
+Sabre's Reported Adj. Free Cash Flow $171.0 $305.7 $181.7 $293.4 $299.5
+
+
+   % growth 78.8% -40.6% 61.4% 2.1%
+  Less: Return of Capital from JV (2) -- -- -- -- ($13.9)
+
+
+Pro Forma Adj. Free Cash Flow $171.0 $305.7 $181.7 $293.4 $285.7
+   % growth -- 78.8% -40.6% 61.4% -2.6%
+
+
+
+http://www.ey.com/publication/vwluassetsdld/financialreportingdevelopments_42856_cashflows_28july2015/$file/financialreportingdevelopments_42856_cashflows_28july2015.pdf?OpenElement
+43
+
+
+Evidence of Aggressive Upfront 
+Incentive Capitalization 
+
+
+While capitalization of upfront cash incentives is not outright disallowed under GAAP, Spruce Point believes it is 
+an aggressive accounting choice to capitalize normal and recurring operating expenses. This accounting choice 
+
+
+increases current period earnings by stretching out expenses over future periods. In the next few slides, our 
+analysis will illustrate that Sabre appears to be making more aggressive use of this capitalization strategy. By our 
+
+
+calculation, upfront capitalize incentives surged from $53.7m to $63.5m in 2015, an 18% increase. We believe 
+investors would be better served by evaluating its business by deducting upfront cash incentives.   
+
+
+Pro Forma Adjusted EBITDA
+
+
+$ in millions
+2013 2014 2015
+
+
+Sabre Reported 
+Adjusted EBITDA
+
+
+% margin
+
+
+$778.7
+30.8%
+
+
+$840.0
+31.9%
+
+
+$941.6
+31.8%
+
+
+Less: Amortization of 
+Upfront Incentive
+
+
+($36.6) ($45.4) ($43.5)
+
+
+Less: Capitalized Amount in 
+Excess of Amortization
+
+
+($10.0) ($8.3) ($20.0)
+
+
+Spruce Point Adj. EBITDA
+% margin
+% delta to reported
+
+
+$732.1
+29.0%
+5.9%
+
+
+$786.3
+29.9%
+6.4%
+
+
+$878.1
+29.7%
+6.7%
+
+
+Source: Sabre Financials
+
+
+Pro Forma Adjusted EBITDA
+
+
+On an adjusted basis, margins deteriorated 
+in 2015 and the delta continues to expand!
+44
+
+
+Evidence of Aggressive Accounting For 
+Customer Incentives (cont’d)
+
+
+Sabre warns of upfront incentives it must offer, but does not focus attention on quantifying the impact for investors:
+
+
+“We must compete with other GDSs and other competitors for their business by offering competitive upfront incentive consideration, which, due 
+to the strong bargaining power of these large travel buyers, tend to increase in each round of contract renewals.”(1)
+
+
+Isn’t it ironic that prior to finalizing its take-private LBO in 2007, Sabre led investors to believe that incentive costs would fall!
+
+
+“Additionally, with the launch of our Efficient Access Solution (see Note 5 to the Consolidated Financial Statements) we expect to lower incentive 
+costs over time” (2)
+
+
+Pre-LBO Sabre capitalized and amortized expenses over a short period of generally 3 years: 
+
+
+“Certain service contracts with significant travel agency subscribers contain booking productivity clauses and other provisions that allow 
+subscribers to receive cash payments or other consideration. We establish liabilities for these commitments and recognize the related expense as 
+the subscribers earn incentives based on the applicable contractual terms. Accrued incentives liabilities at December 31, 2006 and 2005 were 
+approximately $107 million and $82 million, respectively. Periodically, we make cash payments to subscribers at inception or modification of a 
+service contract which are deferred and amortized over the expected life of the service contract, which is generally three years.” (2)
+
+
+Post-LBO Sabre capitalizes incentives and amortizes them 3-5 years to earnings, allowing it to stretch out and reduce expenses
+
+
+“Our Travel Network business at times provides upfront incentive consideration to travel agency subscribers at the inception or modification 
+of a service contract, which are capitalized and amortized to cost of revenue over an average expected life of the service contract, generally 
+over three to five years. Such consideration is made with the objective of increasing the number of clients or to ensure or improve customer 
+loyalty. Such service contract terms are established such that the supplier and other fees generated over the life of the contract will exceed the 
+cost of the incentive consideration provided upfront. Such service contracts with travel agency subscribers require that the customer commit to 
+achieving certain economic objectives and generally have terms requiring repayment of the upfront incentive consideration if those objectives 
+are not met.” (1) 
+
+
+(1) Sabre’s 2015 10-K, page 6 and page 38
+(2) Sabre 2007 10-K, Trends in Cost Reduction, page 33 and Summary of Significant Accounting Policies, page 77 
+
+
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+
+https://www.sec.gov/Archives/edgar/data/1020265/000110465907013510/a07-4902_110k.htm
+45
+
+
+Upfront Customer Incentives Rising Fast As a 
+% of Travel Network Revenues
+
+
+Customer Incentives Payments Not Reconciling
+
+
+• Sabre reports beginning and ending account balances within “Other 
+Assets”, and non-cash amortization of upfront customer incentives
+
+
+• By mathematical deduction, we can calculate the annual capitalized 
+incentive amount
+
+
+• There’s a slight discrepancy in 2014 of $2.6m in 2014
+
+
+Incentives Payments Growing as % of Travel Network Revenue
+
+
+• Comparing reported capitalized amounts to Travel Network 
+revenue, we find it growing rapidly as a % of revenue
+
+
+• Aggressively capitalization policies are worthy of close scrutiny
+3.00%
+
+
+3.05%
+
+
+3.10%
+
+
+3.15%
+
+
+3.20%
+
+
+3.25%
+
+
+3.30%
+
+
+3.35%
+
+
+3.40%
+
+
+3.45%
+
+
+$0.0
+
+
+$10.0
+
+
+$20.0
+
+
+$30.0
+
+
+$40.0
+
+
+$50.0
+
+
+$60.0
+
+
+$70.0
+
+
+2013 2014 2015
+
+
+Capitalized Upfront Incentives % of travel network revenue
+
+
+Rising Upfront Incentives to Revenues
+
+
+Cash Flow Statement Shows Upfront Incentives
+$ in mm 2013 2014 2015
+
+
+Beginning 
+Balance
+
+
+$69.7 $81.6 $90.0
+
+
+Amortization of 
+Upfront Incentive
+
+
+($36.6) ($45.4) ($43.5)
+
+
+Capitalized
+Upfront Incentives
+
+
+$48.6 $53.7 $63.5
+
+
+Ending 
+Balance
+
+
+$81.6 $90.0 $109.9
+
+
+(1) Sabre discloses beginning, ending and amortization amounts. Capitalized upfront 
+incentives can be deduced mathematically. 2014 figures not reconciling
+
+
+Accounts Not Reconciling (1)
+46
+
+
+Ratio of Upfront Incentive Capitalization to 
+Amortization Exploded in 2015
+
+
+$ in mm Q1’15 Q2’15 Q3’15 Q4’15
+
+
+Capitalized Incentives $6.5 $16.5 $23.4 $17.1
+
+
+Amortized Incentives ($11.2) ($10.9) ($9.5) ($11.9)
+
+
+Ratio Capitalized/Amortized 0.6x 1.5x 2.5x 1.4x
+
+
+Source: Sabre Financials
+
+
+0.00x
+
+
+0.50x
+
+
+1.00x
+
+
+1.50x
+
+
+2.00x
+
+
+2.50x
+
+
+3.00x
+
+
+Q1'15 Q2'15 Q3'15 Q4'15
+
+
+Coincidence the 
+ratio spiked after 
+the Abacus deal?
+
+
+<Q: Analyst, James Schneider>: “Good morning. 
+Congratulations, and thanks for taking my question. I was 
+wondering if you can maybe address how the new airline 
+agreements, the long-term agreements differ from the old 
+ones you might have had, both – maybe just if you can 
+comment on with directionally pricing and what is the term 
+length of the new agreements?”
+
+
+<A: CEO, Thomas Klein>: “Yeah. I'm not going to give you a 
+whole lot of detail there, Jim. I appreciate why you asked 
+the question, but there's only so much and so far I can go. 
+They are confidential contracts. I will say they are very 
+long-term and they lock in any of the components that we 
+felt drove value in the joint venture.”
+
+
+CEO Dodges Question on Abacus Call
+47
+
+
+Also Worth Investigating Questionable 
+Accounting for Deferred Customer Advances?
+
+
+(1) Assumed 4yr amortization, in line with 3-5 yr contract disclosures
+
+
+Source: 2015 Annual Report
+
+
+2013 2014 2015 Comment
+Total Depreciation and Amort. $287.0 $289.6 $351.5 from Cash Flow Statement
+  Less: D&A of property and internal software $123.4 $157.6 $213.5 Page 34
+  Less: Intangibles Asset Amort. $129.0 $96.0 $107.0 Note 5, Page 83
+  Less: Amort of Capitalized Implementation Costs $34.1 $35.9 $31.4 Page 34
+Residual D&A $0.5 $0.2 ($0.5)
+
+
+Also not included above related to pension:
+Amortization of Prior Service Credit ($1.4) ($1.4) ($1.4)
+Amortization of Actuarial Loss $7.4 $4.9 $7.0
+Net Amortization $6.0 $3.5 $5.6 Note 14, p. 100, inc in SG&A
+
+
+$ in millions
+
+
+$ in millions
+
+
+Based on all 
+amortization and 
+
+
+depreciation 
+disclosures, it is 
+
+
+impossible to 
+determine that 
+
+
+Sabre amortizes any 
+customer advances 
+
+
+or discounts
+
+
+Sabre only reports the annual ending 
+account balance for Deferred Customer 
+
+
+Discounts, contained in “Other Assets, Net” 
+Assuming a 4yr amortization period 
+
+
+suggests 2015 annual amortization of 
+$36.1m The account is growing, which 
+suggests capitalizations > amortization. 
+Notably, capitalization is rising as a % of 
+
+
+total revenues
+
+
+Sabre says that “Deferred Customer Advances and Discounts are amortized are amortized in future periods as the related 
+revenue is earned.” If this is true, our forensic analysis fails to identify these amortization amounts, but it appears they are
+
+
+rapidly growing as a % of revenue
+
+
+2013 2014 2015
+Beginning Balance $47.7 $89.8 $144.4
+Estimated Amortization (1) ($11.9) ($22.5) ($36.1)
+Estimted Capitalization $54.0 $77.0 $103.8
+  YoY Growth -- 42.5% 34.7%
+Ending Balance $89.8 $144.4 $212.0
+
+
+Total Revenue $2,523.5 $2,631.4 $2,960.9
+Capitalization % of Revenue 2.1% 2.9% 3.5%
+
+
+
+https://www.sec.gov/Archives/edgar/data/1597033/000159703316000136/sabr-10k_20151231.htm
+Valuation and Sell-Side Disconnect
+49
+
+
+Wall St. Analysts Hyper Bullish On 
+Sabre Corp...Unanimous Buy!
+
+
+Broker Rating Price Target
+
+
+Morgan Stanley Overweight $36
+
+
+Bofa / Merrill Buy $35
+
+
+Goldman Sachs Buy $35
+
+
+Pacific Crest Buy $35
+
+
+Deutsche Bank Buy $34
+
+
+Jefferies Buy $33
+
+
+Stern Agee Buy $33
+
+
+Bernstein Outperform $32
+
+
+Mizuho Buy $32
+
+
+Evercore Buy $32
+
+
+Oppenheimer Outperform $32
+
+
+Cowen Outperform $32
+
+
+William Blair Outperform --
+
+
+Average Price
+% Avg Upside 
+% Max Upside
+
+
+$33.42
+17%
+26%
+
+
+Upside based on $29.00 stock price
+Source: Bloomberg
+
+
+Buys vs. Holds
+
+
+Sabre Corp has a large roster of analysts saying unanimously “BUY!” On average analysts’ see upside 
+to $33.42 per share or approximately 17% above the current trading price. 
+
+
+Buy/Outperform Hold Sell
+50
+
+
+Easy To Refute the Bull Case 
+on Sabre Corp.
+
+
+“Guidance over Street expectations was a bright spot considering the 
+company has established a track record of beating its guidance since 
+going public in 2014”
+
+
+Analysts’ Investment Highlights
+
+
+This analyst doesn’t appear to have looked carefully! In our opinion, 
+Sabre closed the Abacus deal a month early and may have spring-loaded 
+revenues to account for its Q2’15 earnings beat. Furthermore, by 
+removing the effect of the Abacus deal, Sabre would have all but certainly 
+missed its 2015 targets
+
+
+Spruce Point’s Rebuttal
+
+
+“Free Cash Flow generation is finally inflecting”
+
+
+Sounds like wishful thinking. What good are barriers when deflation is 
+causing decreasing revenue per transaction and customer incentives are 
+rising? Furthermore, barriers cannot stop the disintermediation away from 
+GDS that is occurring as evidenced by the Lufthansa news and Google’s 
+entry in to the business
+
+
+“As Sabre continues to execute with better visibility around core 
+revenue growth, expanding EBITDA margins, declining leverage, long-
+term EPS growth, a 2.0% dividend yield and real investor return as 
+fundamentals accelerate out of 2015, we expect Sabre's multiple to re-
+rate to levels closer to that of Amadeus' with headwinds and 
+Travelocity noise behind the company.”
+
+
+“Defensive growth + catalysts = 2016 outperformer. As one of the 
+more defensive names in tech, potential catalysts ahead and front-
+end loaded guidance, we expect the shares to outperform”
+
+
+There is nothing defensive about Sabre’s business. Its Travel Network 
+business (>70% of revenues and EBITDA) is not a guaranteed recurring 
+revenue source with long sticky contracts, but rather tied to the cyclicality 
+of the airline and travel business. Our research suggest its core business 
+is not growing at the mid single digit rate management suggests, but in 
+fact is at best stagnant
+
+
+“SABR is well established with over $2.7 billion in revenue, 
+substantial barriers to entry in the core GDS business, and is set up 
+for strong and improving fundamentals into 2016/2017, in our view”
+
+
+Yes, inflecting downward! Our forensic analysis suggests that Sabre 
+included JV dividends in excess of JV income to bolster 2015 operating 
+cash flow. By reclassifying the excess dividend as an investment cash 
+flow, we find that Sabre’s Adjusted Free Cash Flow declined in 2015!
+
+
+“Bull case includes the company sees a pricing lift as it penetrates 
+new European and emerging markets which can be 20%+ higher
+than its concentrated market in the US.”
+
+
+In our opinion, Sabre’s multiple should re-rate lower not higher! There’s 
+no evidence that under private ownership, and since coming public again 
+in 2014, that Sabre’s has improved its overall cash flow or capital 
+efficiency. The fairness opinion from the LBO suggested a terminal 
+EBITDA multiple of 6.5x -8.0x. We believe this is the appropriate valuation 
+range given Sabre’s fundamental challenges and low earnings quality
+
+
+How many times have investors been pitched “blue sky international 
+opportunities”  C’mon sell-side analysts, come up with an original selling 
+point please! Sabre operates in a globally competitive business. It would 
+be overly optimistic to assume Sabre can easily penetrate any mature 
+market and achieve substantially higher pricing
+51
+
+
+What’s the Right EBITDA Multiple?
+
+
+Announce Date Acquirer Target EV / LTM EBITDA Debt / LTM EBITDA
+
+
+March 2003 CVC and Teachers Merchant Bank Worldspan 5.0x 3.1x
+
+
+Jan 2005 BC Partners and Cinven Amadeus 7.8x 5.4x
+
+
+June 2006 Blackstone Travelport 7.6x 6.3x
+
+
+Dec 2006 Travelport Worldspan 5.5x 4.5x
+
+
+Average 6.5x 4.8x
+
+
+Dec 2006 TPG / Silver Lake Sabre Corp 10.2x 7.8x
+
+
+May 2015 Sabre Abacus 8.0x (1) 3.3x
+
+
+“Goldman Sachs selected exit multiples ranging from 5.5x to 7.5x in order to calculate the terminal value based upon factors including 
+precedent transaction analyses and the Company’s forward EBITDA Multiple prior to announcement.”
+
+
+“Morgan Stanley selected exit multiples ranging from 7.0x to 8.0x last twelve months EBITDA in order to calculate the terminal value by 
+applying this multiple to Sabre Holdings’ estimated fiscal year 2011 EBITDA. The exit multiples of 7.0x to 8.0x were based upon analyses of 
+transaction multiples of selected precedent transactions.”
+
+
+“Bear Stearns used LTM EBITDA exit multiples of 7.0x to 8.0x for the Multi-Year Outlook cases and 6.5x to 7.5x for the Extended Outlook 
+cases. In estimating the terminal value exit multiples, Bear Stearns considered Sabre Holdings’ current and recent trading multiples, adjusted 
+downward to reflect declining future growth in EBITDA as projected by Sabre Holdings’ relative to current EBITDA growth rates.”
+
+
+(1) Based on Sabre’s 2016E EBITDA
+
+
+Precedent Acquisitions in Travel GDS 
+
+
+Sabre’s LBO multiple at 10.2x was a function of a leverage bubble that ultimately burst. Precedent transactions 
+(including its Abacus deal), and its own fairness opinion, suggest a long-term “terminal multiple” in the 6.5x - 8.0x 
+
+
+range. Given evidence of core deterioration in its business being masked by accounting shenanigans, Sabre should 
+not get a multiple expansion. 
+
+
+
+https://www.sec.gov/Archives/edgar/data/1020265/000119312507006351/dprem14a.htm#toc36613_14
+52
+
+
+Analysts Again Fail to Include Hefty Tax 
+Receivable Agreement in the Valuation
+
+
+As noted in our previous research on Planet Fitness, we believe tax receivable agreements (“TRA”) are widely 
+misunderstood and often ignored by analysts and investors for their impact on cash flow and valuation (1). 
+
+
+Sabre has a “TRA” with imminent cash flow implications and problematic accounting implications
+
+
+(1) Private Equity Squeezing Out Cash Long After the IPO, NY Times, March 13, 2013
+
+
+According to Sabre:
+
+
+• “Based on current tax laws and assuming that we and our subsidiaries earn sufficient taxable income to realize 
+the full tax benefits subject to the TRA, we estimate that future payments under the TRA relating to the Pre-
+IPO Tax Assets to total $387 million.”
+
+
+• “Any payments made under the TRA will be classified as a financing activity in our statement of cash flows.”
+
+
+Warning: We believe this would be an incorrect financial classification of TRA payments. In reality, the 
+payments should be classified as operating cash flows!  There are numerous examples of companies 
+correctly accounting for payments as deductions of operating cash flows, and ultimately free cash flow  
+including PBF Energy, Change Healthcare, Premier, Inc., and Berry Plastics
+
+
+• “The timing of future payments under the TRA is uncertain and dependent on the timing of the realization of 
+taxable income. We expect to make the total required payments over the next five years with no material 
+payments to occur before 2017. “
+
+
+Warning: Expected payments are rapidly approaching. Analysts largely fail to account for these payments 
+as a reduction to operating and free cash flow
+
+
+
+http://dealbook.nytimes.com/2013/03/13/private-equity-squeezes-out-cash-long-after-its-exit/
+
+https://www.sec.gov/Archives/edgar/data/1534504/000153450416000118/pbf-2015123110k.htm
+
+https://www.sec.gov/Archives/edgar/data/1444598/000119312516503653/d152055d10k.htm
+
+https://www.sec.gov/Archives/edgar/data/1577916/000157791615000009/pinc-2015630x10k.htm
+
+https://www.sec.gov/Archives/edgar/data/1378992/000137899215000049/bpg10k2015.htm
+53
+
+
+7.0x
+
+
+10.1x
+11.1x
+
+
+13.2x
+
+
+0.0x
+
+
+2.0x
+
+
+4.0x
+
+
+6.0x
+
+
+8.0x
+
+
+10.0x
+
+
+12.0x
+
+
+14.0x
+
+
+TVPT SABR PF Adj SABR AMS
+
+
+1.0x
+
+
+2.8x
+
+
+3.3x
+
+
+3.7x
+
+
+0.0x
+
+
+0.5x
+
+
+1.0x
+
+
+1.5x
+
+
+2.0x
+
+
+2.5x
+
+
+3.0x
+
+
+3.5x
+
+
+4.0x
+
+
+AMS SABR PF Adj SABR TVPT
+
+
+5.2%
+
+
+12.5%
+
+
+17.0%
+
+
+31.8%
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+35.0%
+
+
+AMS PF Adj SABR TVPT SABR
+
+
+Valuation Inflated on Abnormally High EPS 
+Growth Expectations
+
+
+EV / 2016E Adj. EBITDA
+
+
+2016E EPS GrowthNet Debt / 2016E EBITDA
+
+
+On the surface, Sabre’s valuation appears 
+in-line with peers Travelport (Nasdaq: 
+TVPT) and Amadeus (BME: AMS). 
+However, by adjusting its enterprise value 
+for the tax receivable agreement liability 
+and its EBITDA for the aggressive 
+capitalization of upfront incentives, 
+Sabre’s valuation is rich. Sabre’s high YoY 
+EPS growth is a function of the partial 
+year 2015 Abacus consolidation, is 
+supporting the valuation.
+
+
+Average
+
+
+Average
+
+
+Average
+
+
+Based on Spruce Point estimate adjusted
+54
+
+
+Realistic Price Target Implies 
+40% - 60% Downside
+
+
+Sabre’s valuation needs to be re-rated to reflect its terminal multiple indicated by the exact same analysts that 
+conducted its fairness opinion in 2007. A lower valuation is justified by the heightened risks facing (disintermediation, 
+
+
+deflation, greater incentives) and its inability to deliver any measurable cash flow improvement. Furthermore, Sabre 
+should trade at a discount due to the evidence we presented which suggests accounting irregularities. 
+
+
+$ in millions Enterprise Value / 2016 EBITDA
+
+
+6.5x                     -- 8.0x
+
+
+2016E Revenue $3,410 $3,410
+
+
+2016E EBITDA (1) $1,025 $1,025
+
+
+Enterprise Value $6,663 $8,200
+
+
+(+)  Cash and Equiv. (2) $156 $156
+
+
+(-) Financial Debt (2) $3,195 $3,195
+
+
+(-)   Tax Receivable Agreement $387 $387
+
+
+(-) Minority Interest $1 $1
+
+
+Equity Value $3,238 $4,775
+
+
+Diluted Shares 275.2 275.2
+
+
+Approx. Price Target $12.00 $17.00
+
+
+% Downside -60% -40%
+(1) We adjust street estimates lower by approximately $65m to account for the effect of capitalizing upfront incentives
+(2) Adjusted for repayment of $165m of debt that matured in March 2016

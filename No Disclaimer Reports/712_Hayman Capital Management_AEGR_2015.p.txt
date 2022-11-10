@@ -1,1962 +1,6401 @@
-Disclaimer:
-Use of Muddy Waters LLC’s research is at your own risk.  You should do your own research and due diligence before making any investment decision 
-with respect to securities covered herein.  You should assume that as of the publication date of any report, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors has a short position in the stock (and/or 
-options of the stock) covered herein, and therefore stands to realize significant gains in the event that the price of stock declines.  Following publication 
-of any report, we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless 
-of our initial recommendation.   This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any 
-person, in any jurisdiction in which such offer would be unlawful under the securities laws of such jurisdiction. To the best of our ability and belief, all 
-information contained herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are 
-not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer.   
-However, such information is presented "as is," without warranty of any kind – whether express or implied.  Muddy Waters, LLC makes no representa-
-tion, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use.  
-All expressions of opinion are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement this report or any 
-of the information contained herein.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+
+
+
+
+
+
+Filed on behalf of Coalition for Affordable Drugs VIII, LLC 
+
+
+By: Dr. Gregory Gonsalves 
+
+
+Reg. No. 43,639 
+
+
+2216 Beacon Lane 
+
+
+Falls Church, Virginia 22043 
+
+
+(571) 419-7252 
+
+
+gonsalves@gonsalveslawfirm.com 
+
+
+
+
+
+UNITED STATES PATENT AND TRADEMARK OFFICE 
+
+
+
+
+
+BEFORE THE PATENT TRIAL AND APPEAL BOARD 
+
+
+
+
+
+COALITION FOR AFFORDABLE DRUGS VIII, LLC, Petitioner 
+
+
+v. 
+
+
+TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, 
+
+
+Patent Owner, based on Electronic Records of PTO 
+
+
+U.S. Patent 8,618,135 to Rader 
+
+
+Filing Date: March 11, 2011 
+
+
+Issue Date: December 31, 2013 
+
+
+TITLE: METHODS FOR TREATING DISORDERS OR DISEASES ASSOCIATED WITH 
+
+
+HYPERLIPIDEMIA AND HYPERCHOLESTEROLEMIA WHILE MINIMIZING SIDE EFFECTS 
+
+
+
+
+
+IPR Trial No. TBD 
+
+
+
+
+
+Petition for Inter Partes Review of U.S. Patent No. 8,618,135  
+
+
+
+
+
+
+
+
+Mail Stop "PATENT BOARD" 
+
+
+Patent Trial and Appeal Board  
+
+
+U.S. Patent and Trademark Office 
+
+
+P.O. Box 1450 
+
+
+Alexandria, VA 22313-1450
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+i 
+
+
+
+
+
+TABLE OF CONTENTS 
+
+
+I. MANDATORY NOTICES UNDER 37 C.F.R. § 42.8. .................................. 1 
+
+
+A. Real Party-in-Interest (37 C.F.R. § 42.8(B)(1)). ................................... 1 
+
+
+B. Related Matters (37 C.F.R. § 42.8(b)(2)). ............................................. 3 
+
+
+C. Notice of Lead and Back-Up Counsel (37 C.F.R. § 42.8(b)(3)). .......... 3 
+
+
+D. Service Information under 37 C.F.R. § 42.8(b)(4). ............................... 3 
+
+
+E. Service on Patent Owner Under 37 C.F.R. §§ 42.106(a) and 
+
+
+42.105(a). ............................................................................................... 3 
+
+
+II. GROUNDS FOR STANDING UNDER 37 C.F.R. § 42.104(A). .................. 4 
+
+
+III. IDENTIFICATION OF CHALLENGE (37 C.F.R. § 42.104(B)). ................. 4 
+
+
+IV. INTRODUCTION AND SUMMARY OF ARGUMENT. ............................. 5 
+
+
+V. THE ‘135 PATENT PRIORITY DATE IS MARCH 7, 2005; THE 
+
+
+‘915 PROVISIONAL DOES NOT SUPPORT THE ISSUED 
+
+
+CLAIMS. ......................................................................................................... 8 
+
+
+A. No Support for the Full Scope of the Claimed Dose Ranges. .............. 8 
+
+
+B. In Addition, No Support for “the Piperidine N-oxide Thereof”. ........10 
+
+
+VI. SCOPE AND CONTENT OF THE PRIOR ART. ........................................12 
+
+
+A. Elevated Serum Cholesterol and Lipid Levels Were Recognized 
+
+
+Risk Factors For Cardiovascular Disease. ..........................................12 
+
+
+B. Known Drug Classes and Dosing Regimens Pre-March 2003. ..........12 
+
+
+C. The Content of the MTP Inhibitor Art Pre-March 2004. ....................15 
+
+
+1. Pink Sheet 2004 is Prior Art. ....................................................15 
+
+
+2. Stein’s 2004 Presentation – Published Before March 5, 
+
+
+2004 and Again by At Least April 15, 2004 – is Prior 
+
+
+Art. ............................................................................................16
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+ii 
+
+
+
+
+
+3. The Prior Art Taught Step-Wise MTP Inhibitor Dosing 
+
+
+Over Seven Levels; the Rationale; and Expected 
+
+
+Efficacy. ....................................................................................22 
+
+
+VII. U.S. PATENT NO. 8,618,135 AND ITS FILE HISTORY. .........................24 
+
+
+A. The ‘135 Patent Repeats Information Already Known to 
+
+
+Ordinarily-Skilled Artisans. ................................................................24 
+
+
+B. The ‘135 Patent File History. ..............................................................26 
+
+
+C. The European Opposition Proceedings. ..............................................28 
+
+
+VIII. THE LEVEL OF ORDINARY SKILL IN THE ART. .................................28 
+
+
+IX. CLAIM CONSTRUCTION STATEMENT (37 C.F.R. 
+
+
+§ 42.104(B)(3)). .............................................................................................29 
+
+
+X. EXPLANATION OF GROUNDS FOR UNPATENTABILITY. ................30 
+
+
+A. Ground I: Obviousness Over Pink Sheet 2004 in View of 
+
+
+Chang. ..................................................................................................31 
+
+
+1. The Claimed Lomitapide Escalating-Dosing Approach 
+
+
+was Already Taught for Implitapide. ........................................32 
+
+
+2. Motivation to Combine Pink Sheet 2004 with Chang. .............39 
+
+
+3. Reasonable Expectation of Success With Lomitapide. ............43 
+
+
+B. Ground II: Obviousness Over Stein 2004 in View of Chang. ............46 
+
+
+1. There Are No Non-Obvious Differences. .................................46 
+
+
+2. Motivation to Combine Stein 2004 with Chang. ......................53 
+
+
+3. Reasonable Expectation of Success With Lomitapide. ............55 
+
+
+C. Secondary Considerations Presented During Prosecution Do 
+
+
+Not Rebut the Prima Facie Case of Unpatentability. .........................56 
+
+
+XI. CONCLUSION. .............................................................................................60
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+iii 
+
+
+
+
+
+EXHIBIT LIST PURSUANT TO 37 C.F.R. § 42.63(e) AND 
+
+
+TABLE OF ABBREVIATIONS
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+iv 
+
+
+
+
+
+Ex. No. Description 
+
+
+1001 Certified U.S. Patent No. 8,618,135 to Rader. 
+
+
+1002 Declaration of Randall M. Zusman, M.D. 
+
+
+1003 Declaration of Michael Mayersohn, Ph.D. 
+
+
+1004 Affidavit of Christopher Butler, Office Manager, Internet Archive, 
+
+
+authenticating Internet Archive URLs (June 16, 2015) (attaching as 
+
+
+Ex. A:  
+
+
+PPD News & IR Presentations (2004/04/15) (available at 
+
+
+https://web.archive.org/web/20040415065142/http://ppdi.com/PPD_6
+
+
+_12.htm)). 
+
+
+1005 Affidavit of Christopher Butler, Office Manager, Internet Archive, 
+
+
+authenticating Internet Archive URLs (June 12, 2015) (attaching as 
+
+
+Ex. A:  
+
+
+PPD News Releases(2004/02/13) (available at 
+
+
+https://web.archive.org/web/20040213233245/http://www.ppdi.com/P
+
+
+PD_U6.htm?ID=126662); 
+
+
+PPD News & IR Presentations(2003/12/12) (available at 
+
+
+https://web.archive.org/web/20031212193444/http://ppdi.com/PPD_6
+
+
+_12.htm); 
+
+
+PPD News & IR Presentations (2004/06/04) (available at 
+
+
+https://web.archive.org/web/20040604203252/http://www.ppdi.com/P
+
+
+PD_6_12.htm)). 
+
+
+1006 Certified U.S. Provisional Patent Application No. 60/550,915. 
+
+
+1007 U.S. Patent No. 8,618,135 (highlighting dosing information not 
+
+
+present in U.S. Provisional Patent Application No. 60/550,915). 
+
+
+1008 U.S. Patent Application No. 13/046,118. 
+
+
+1009 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Amendment and Response to Oct. 2, 2012 Office Action (Mar. 4, 
+
+
+2013).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+v 
+
+
+
+
+
+1010 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Declaration of William Sasiela, Ph.D. (Apr. 8, 2010). 
+
+
+1011 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Notice of Allowance (May 10, 2013). 
+
+
+1012 In re Application of: Rader, U.S. Patent Application No13/046,118, 
+
+
+Notice of Allowance (Sept. 3, 2013). 
+
+
+1013 Bayer/PPD Implitapide Development Follows Zetia Model As Statin 
+
+
+Add-On, 66 THE PINK SHEET 17 (Feb. 16, 2004). 
+
+
+1014 Evan Stein, CEO & President, MRL Int’l (Division of PPD), 
+
+
+Presentation Given at PPD’s Analyst Day, Microsomal Triglygeride 
+
+
+[sic] Transfer Protein (MTP) Inhibitor (implitapide) program (Feb. 5, 
+
+
+2004). 
+
+
+1015 George Chang et al., Microsomal triglyceride transfer protein (MTP) 
+
+
+inhibitors: Discovery of clinically active inhibitors using high-
+
+
+throughput screening and parallel synthesis paradigms, 5 CURRENT 
+
+
+OPINION IN DRUG DISCOVERY & DEV. 562 (2002). 
+
+
+1016 Charles E. Chandler et al., CP-346086: an MTP inhibitor that lowers 
+
+
+plasma cholesterol and triglycerides in experimental animals and in 
+
+
+humans, 44 J. OF LIPID RES. 1887 (2003). 
+
+
+1017 FDA approves Zetia -- first new class to treat cholesterol since statins 
+
+
+introduced, DRUGS.COM (Oct. 28, 2002), 
+
+
+http://www.drugs.com/news/fda-approves-zetia-first-new-class-
+
+
+cholesterol-since-statins-introduced-3164.html (last visited July 22, 
+
+
+2015). 
+
+
+1018 John R. Wetterau et al., An MTP Inhibitor That Normalizes 
+
+
+Atherogenic Lipoprotein Levels in WHHL Rabbits, 282 SCI. 751 
+
+
+(1998). 
+
+
+1019 U.S. Patent No. 5,712,279 to Biller et al. 
+
+
+1020 Evan Stein, OPPOSITION AGAINST EUROPEAN PATENT NO. 1 725 234 
+
+
+B9 (filed Aug. 21, 2013).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+vi 
+
+
+
+
+
+1021 THOMPSON PDR, PHYSICIANS’ DESK REFERENCE 506-09, 1101-06, 
+
+
+1813-21, 2036-41, 2126-31, 2547-51, 2729-31, 2865-68 (57th ed. 
+
+
+2003) (excerpting product information for Tricor®, Pravachol®, 
+
+
+Advicor®, Niaspan®, Mevacor®, Zocor®, Lipitor®, Colestid®, and 
+
+
+Lescol®). 
+
+
+1022 THOMPSON PDR, PHYSICIANS’ DESK REFERENCE 2118-23, 3085-89 
+
+
+(58th ed. 2004) (excerpting product information for Zetia®). 
+
+
+1023 U.S. FOOD & DRUG ASS’N, ESTIMATING THE MAXIMUM SAFE 
+
+
+STARTING DOSE IN INITIAL CLINICAL TRIALS FOR THERAPEUTICS IN 
+
+
+ADULT HEALTHY VOLUNTEERS: GUIDANCE FOR INDUSTRY (2005). 
+
+
+1024 Prices and coupons for 30 capsules of Juxtapid 5mg, 10mg, 20mg, 
+
+
+30mg, 40mg and 60mg (brand), GOODRX.COM, 
+
+
+http://www.goodrx.com/juxtapid (last visited July 16, 2015). 
+
+
+1025 Dan Mangan, ‘Fast Money’ faux pas: Firm draws FDA warning, DOJ 
+
+
+subpoena, CNBC.COM (Jan. 13, 2014), 
+
+
+http://www.cnbc.com/id/101327742 (last visited July 22, 2015).   
+
+
+1026 Malcolm Rowland & Thomas N. Tozer, CLINICAL 
+
+
+PHARMACOKINETICS: CONCEPTS AND APPLICATIONS 57 (3d ed. 1995). 
+
+
+1027 Curriculum Vitae of Randall M. Zusman, M.D. 
+
+
+1028 Documents considered by Randall M. Zusman, M.D. 
+
+
+1029 Curriculum Vitae of Michael Mayersohn, Ph.D. 
+
+
+1030 Documents considered by Michael Mayersohn, Ph.D. 
+
+
+1031 Third Report of the National Cholesterol Education Program (NCEP) 
+
+
+Expert Panel on Detection, Evaluation and Treatment of High Blood 
+
+
+Cholesterol in Adults (Adult Treatment Panel III) Final Report, 106 
+
+
+CIRCULATION 3143 (2002). 
+
+
+1032 Michael Mayersohn, Principles and Applications of 
+
+
+Pharmacokinetics, in MEDICAL TOXICOLOGY 282 (Richard C. Dart 
+
+
+ed., 3d ed. 2004).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+vii 
+
+
+
+
+
+1033 Masashi Shiomi & Takashi Ito, MTP inhibitor decreases plasma 
+
+
+cholesterol levels in LDL receptor-deficient WHHL rabbits by 
+
+
+lowering the VLDL secretion, 431 EUR. J. OF PHARMACOLOGY 127 
+
+
+(2001). 
+
+
+1034 Declaration of Jeffery A. Marx. 
+
+
+1035 Press Release, Cigna Corp., Cigna Announces Appearance at CIBC 
+
+
+Healthcare Conference (Nov. 7, 2003), 
+
+
+http://newsroom.cigna.com/article_display.cfm?article_id=236. 
+
+
+1036 Press Release, Gilead Scis., Gilead Sciences to Present at the 7th 
+
+
+Annual Lehman Brothers Global Healthcare Conference on Friday, 
+
+
+March 5th; Webcast Available Through Gilead Corporate Website 
+
+
+(Mar. 4, 2004),  
+
+
+http://gilead.com/news/press-releases/2004/3/gilead-sciences-to-
+
+
+present-at-the-7th-annual-lehman-brothers-global-healthcare-
+
+
+conference-on-friday-march-5th-webcast-available-through-gilead-
+
+
+corporate-website?mode=print. 
+
+
+1037 Press Release, PR Newswire, Dot Hill to Present at Robert W. Baird 
+
+
+2004 Growth Stock Conference (May 4, 2004), 
+
+
+http://www.prnewswire.com/news-releases/dot-hill-to-present-at-
+
+
+robert-w-baird-2004-growth-stock-conference-73777807.html. 
+
+
+1038 Margaret A. McDowell et al., Anthropometric Reference Data for 
+
+
+Children and Adults: U.S. Population, 1999-2002, CDC ADVANCE 
+
+
+DATA FROM VITAL & HEALTH STATS. NO. 361 (2005). 
+
+
+1039 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Amendment (Sept. 25, 2013). 
+
+
+1040 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Supplemental Information Disclosure Statement (Sept. 25, 2013). 
+
+
+1041 In re Application of: Rader, U.S. Patent Application No. 13/046,118, 
+
+
+Notice of Allowance (Oct. 29, 2013).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+viii 
+
+
+TABLE OF ABBREVIATIONS 
+
+
+Abbreviation Definition 
+
+
+‘915 
+
+
+Provisional 
+U.S. Provisional Patent Application No. 60/550,915 
+
+
+‘268 patent U.S. Patent No. 7,932,268 
+
+
+‘923 
+
+
+application 
+U.S. Patent Application No. 10/591,923 (issued as ‘268 patent) 
+
+
+‘135 patent U.S. Patent No. 8,618,135 
+
+
+‘118 
+
+
+application 
+U.S. Patent Application No. 13/046,118 (issued as ‘135 patent) 
+
+
+ApoB Apolipoprotein B 
+
+
+CFAD Coalition For Affordable Drugs VIII, LLC 
+
+
+Credes Hayman Credes Master Fund, L.P. 
+
+
+HCM Hayman Capital Management, L.P.  
+
+
+HCMF Hayman Capital Master Fund, L.P. 
+
+
+HDL High density lipoprotein 
+
+
+HeFH Heterozygous familial hypercholesterolemia 
+
+
+HI Hayman Investments, L.L.C. 
+
+
+HOF Hayman Orange Fund SPC – Portfolio A 
+
+
+HoFH Homozygous familial hypercholesterolemia  
+
+
+HOM Hayman Offshore Management, Inc. 
+
+
+IDL Intermediate-density lipoprotein 
+
+
+LDL Low density lipoprotein
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+ix 
+
+
+Abbreviation Definition 
+
+
+LDL-C Low density lipoprotein cholesterol 
+
+
+Lp(a) Lipoprotein (a) 
+
+
+Mayersohn 
+
+
+Declaration of Michael Mayersohn, Ph.D. in Support of 
+
+
+Coalition for Affordable Drug’s Petition  for Inter Partes Review 
+
+
+of U.S. Patent No. 8,618,135 
+
+
+MTP Microsomal triglyceride transfer proteins 
+
+
+TG Triglycerides 
+
+
+Total-C Total cholesterol 
+
+
+VLDL Very low density lipoprotein  
+
+
+WHHL Watanabe-heritable hyperlipidemic 
+
+
+Zusman 
+
+
+Declaration of Randall M. Zusman, M.D. in Support of Coalition 
+
+
+for Affordable Drug’s Petition for Inter Partes Review of U.S. 
+
+
+Patent No. 8,618,135
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+x 
+
+
+TABLE OF AUTHORITIES 
+
+
+                     PAGES 
+
+
+Federal Cases 
+
+
+Allergan v. Sandoz, 
+
+
+726 F.3d 1286 (Fed. Cir. 2013) ............................................................................56 
+
+
+Alza Corp. v. Mylan Labs., Inc., 
+
+
+464 F.3d 1286 (Fed. Cir. 2006) ............................................................................44 
+
+
+Bayer Healthcare Pharms. Inc.  v. Watson Pharms. Inc., 
+
+
+713 F.3d 1369 (Fed. Cir. 2013) ......................................................... 39, 40, 41, 44 
+
+
+Carnegie Mellon Univ. v. Hoffman-La Roche, Inc., 
+
+
+541 F.3d 1115 (Fed. Cir. 2008) ............................................................................10 
+
+
+Ex parte Zeying Ma & Yubai Bi, 
+
+
+Appeal 2013-001589, 2014 WL 1005343 (P.T.A.B. January 27, 2014) .............10 
+
+
+Galderma Laboratories, L.P. v. Tolmar, Inc., 
+
+
+737 F.3d 731 (Fed. Cir. 2013) ....................................................................... 38, 52 
+
+
+Graham v. John Deere Co., 
+
+
+383 U.S. 1 (1966) .............................................................................................5, 56 
+
+
+Hoffman-LaRoche, Inc. v. Apotex, Inc., 
+
+
+748 F.3d 1326 (Fed. Cir. 2013) ............................................................................59 
+
+
+In re Dillon, 
+
+
+919 F.2d 688 (Fed Cir. 1990) ...............................................................................56 
+
+
+In re Hall, 
+
+
+781 F.2d 897 (Fed. Cir. 1986) ....................................................................... 20, 22 
+
+
+In re Klopfenstein, 
+
+
+380 F.3d 1345 (Fed. Cir. 2004) ..................................................................... 17, 18 
+
+
+In re Vaeck, 
+
+
+947 F.2d 488 (Fed. Cir. 1991) ..............................................................................10
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+xi 
+
+
+KSR Int’l Co. v. Teleflex Inc., 
+
+
+550 U.S. 398 (2007) ...................................................................................... 40, 41 
+
+
+Lockwood v. Am. Airlines, Inc., 
+
+
+107 F.3d 1565 (Fed. Cir. 1997) .............................................................................. 8 
+
+
+McNeil-PPC, Inc. v. L. Perrigo Co., 
+
+
+337 F.3d 1362 (Fed. Cir. 2003) ............................................................................44 
+
+
+Medichem, S.A. v. Rolabo, S.L., 
+
+
+437 F.3d 1157 (Fed. Cir. 2006) ............................................................................43 
+
+
+Merck & Co., Inc. v. Teva Pharms., USA, Inc., 
+
+
+395 F.3d 1364 (Fed. Cir. 2005) ..................................................................... 42, 60 
+
+
+Muniauction, Inc. v. Thomson Corp., 
+
+
+32 F.3d 1318 (Fed. Cir. 2008) ..............................................................................57 
+
+
+Novozymes A/S v. Dupont Nutrition Biosciences APS, 
+
+
+723 F.3d 1336 (Fed. Cir. 2013) ............................................................................11 
+
+
+Ormco Corp. v. Align Tech., Inc., 
+
+
+463 F.3d 1299 (Fed. Cir. 2006) ............................................................................57 
+
+
+Orthopedic Equip. Co. v. United States, 
+
+
+702 F.2d 1005 (Fed. Cir. 1983) ............................................................................60 
+
+
+Pfizer, Inc. v. Apotex, Inc., 
+
+
+480 F.3d 1348 (Fed. Cir. 2007) ............................................................................56 
+
+
+Purdue Pharma, L.P. v. Faulding, Inc., 
+
+
+230 F.3d 1320 (Fed. Cir. 2000) ............................................................................10 
+
+
+Santarus, Inc. v. Par Pharm., Inc., 
+
+
+694 F.3d 1344 (Fed. Cir. 2012) ............................................................................45 
+
+
+Senju Pharm. Co. v. Lupin Ltd., 
+
+
+780 F.3d 1337 (Fed. Cir. 2015) ..................................................................... 42, 57 
+
+
+Suffolk Techs., LLC v. AOL Inc., 
+
+
+752 F.3d 1358 (Fed. Cir. 2014) ............................................................................20
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+xii 
+
+
+Trading Techs. Int’l Inc. v. eSpeed, Inc., 
+
+
+595 F.3d 1340 (Fed. Cir. 2010) ..........................................................................8, 9 
+
+
+Tyco Healthcare Grp. LP v. Mut. Pharm. Co., 
+
+
+642 F.3d 1370 (Fed. Cir. 2011) ............................................................................32 
+
+
+Voter Verified, Inc. v. Premier Election Solutions, Inc., 
+
+
+698 F.3d 1374 (Fed. Cir. 2012) ..................................................................... 17, 20 
+
+
+Wyers v. Master Lock Co., 
+
+
+616 F.3d 1231 (Fed. Cir. 2010) ..................................................................... 56, 57 
+
+
+Federal Statutes 
+
+
+35 U.S.C. § 102 ........................................................................................................17 
+
+
+35 U.S.C. § 102(a) ........................................................................................... passim 
+
+
+35 U.S.C. § 102(b) ........................................................................................... passim 
+
+
+35 U.S.C. § 312 .......................................................................................................... 1 
+
+
+35 U.S.C. § 314(a) ...................................................................................................31 
+
+
+Federal Regulations 
+
+
+21 C.F.R. § 50.25 (2001) .........................................................................................59 
+
+
+37 C.F.R. § 42.10(b) .................................................................................................. 1 
+
+
+37 C.F.R. § 42.100(b) ..............................................................................................29 
+
+
+37 C.F.R. § 42.108 ..................................................................................................... 1 
+
+
+37 C.F.R. § 42.15(a) ................................................................................................... 1 
+
+
+37 C.F.R. § 42.22(A).................................................................................................. 8 
+
+
+37 C.F.R. § 42.63(e) ................................................................................................... 1 
+
+
+37 C.F.R. § 42.8(a)(1) ................................................................................................ 1 
+
+
+37 C.F.R. § 42.8(b)(1) ................................................................................................ 1
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+xiii 
+
+
+45 C.F.R. § 46.116 (2001) .......................................................................................59
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+1 
+
+
+
+
+
+Coalition For Affordable Drugs VIII LLC (“CFAD” or “Petitioner”) requests 
+
+
+inter partes review (35 U.S.C. § 312 and 37 C.F.R. § 42.108) seeking cancellation 
+
+
+of Claims 1-10 of U.S. Patent No. 8,618,135 (“the ‘135 patent”) (Exhibit (“CFAD 
+
+
+Ex.”) 1001) issued December 31, 2013 to Daniel J. Rader.  A Power of Attorney (37 
+
+
+C.F.R. § 42.10(b)) and an Exhibit List (37 C.F.R. § 42.63(e)), are concurrently-filed.  
+
+
+Please charge the required $23,000 fee (37 C.F.R. § 42.15(a)) to Deposit Acct. No. 
+
+
+50-3626 (Customer ID No. 60024).  The Office is authorized to charge any fee 
+
+
+deficiencies and credit any overpayments to Deposit Acct. No. 50-3626 (Customer 
+
+
+ID No. 60024). 
+
+
+I. MANDATORY NOTICES UNDER 37 C.F.R. § 42.8. 
+
+
+Petitioner provides the following mandatory notices under 37 C.F.R. 
+
+
+§§ 42.8(a)(1) and 42.8(b). 
+
+
+A. Real Party-in-Interest (37 C.F.R. § 42.8(B)(1)). 
+
+
+Pursuant to 37 C.F.R. § 42.8(b)(1), Petitioner certifies that Coalition For 
+
+
+Affordable Drugs VIII LLC, Hayman Credes Master Fund, L.P. (“Credes”), 
+
+
+Hayman Orange Fund SPC – Portfolio A (“HOF”), Hayman Capital Master Fund, 
+
+
+L.P. (“HCMF”), Hayman Capital Management, L.P. (“HCM”), Hayman Offshore 
+
+
+Management, Inc. (“HOM”), Hayman Investments, L.L.C. (“HI”), J. Kyle Bass, and 
+
+
+Erich Spangenberg are the real parties in interest (collectively “RPI”).  The RPI 
+
+
+hereby certify the following information: CFAD VIII is a wholly owned subsidiary
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+2 
+
+
+
+
+
+of Credes.  Credes is a limited partnership.  HOF is a segregated portfolio company.  
+
+
+HCMF is a limited partnership.  HCM is the general partner and investment manager 
+
+
+of Credes and HCMF.  HCM is the investment manager of HOF.  HOM is the 
+
+
+administrative general partner of Credes and HCMF.  HI is the general partner of 
+
+
+HCM.  J. Kyle Bass is the sole member of HI and the sole shareholder of HOM.  
+
+
+CFAD VIII, Credes, HOF and HCMF act, directly or indirectly, through HCM as 
+
+
+the general partner and/or investment manager of Credes, HOF and HCMF.  nXnP 
+
+
+is a paid consultant to HCM.  Erich Spangenberg is the Manager and majority 
+
+
+member of nXnP.  IPNav is a paid consultant to nXnP.  Erich Spangenberg is the 
+
+
+Manager and majority member of IPNav.  Other than J. Kyle Bass in his capacity of 
+
+
+the Chief Investment Officer of HCM, and nXnP and Erich Spangenberg in his 
+
+
+capacity as the Manager/CEO of nXnP, no other person (including any investor, 
+
+
+limited partner, or member or any other person in any of CFAD VIII, Credes, HOF, 
+
+
+HCMF, HCM, HOM, HI, nXnP or IPNav) has authority to direct or control (i) the 
+
+
+timing of, filing of, content of, or any decisions or other activities relating to this 
+
+
+petition or (ii) any timing, future filings, content of, or any decisions or other 
+
+
+activities relating to the future proceedings related to this Petition.  All of the costs 
+
+
+associated with this petition will be borne by HCM, CFAD VIII, Credes, HOF and/or 
+
+
+HCM.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+3 
+
+
+
+
+
+B. Related Matters (37 C.F.R. § 42.8(b)(2)). 
+
+
+Petitioner is concurrently filing a Petition for Inter Partes Review of U.S. 
+
+
+Patent No. 7,932,268, which is a member of the same family as the ‘135 patent.   
+
+
+C. Notice of Lead and Back-Up Counsel (37 C.F.R. § 42.8(b)(3)). 
+
+
+      Lead Counsel      Back-Up Counsel 
+
+
+Dr. Gregory Gonsalves 
+
+
+Reg. No. 43,639 
+
+
+2216 Beacon Lane 
+
+
+Falls Church, Virginia 22043 
+
+
+(571) 419-7252 
+
+
+gonsalves@gonsalveslawfirm.com 
+
+
+Christopher Casieri 
+
+
+Reg. No. 50,919 
+
+
+MCNEELY, HARE & WAR, LLP 
+
+
+12 Roszel Road, Suite C104 
+
+
+Princeton, NJ 08540 
+
+
+Phone:  (609) 731-3668 
+
+
+Fax: (202) 478-1813 
+
+
+chris@miplaw.com 
+
+
+
+
+
+D. Service Information under 37 C.F.R. § 42.8(b)(4). 
+
+
+Please address all correspondence to the Lead Counsel at the above address.  
+
+
+Petitioner consents to electronic service by email to: 
+
+
+gonsalves@gonsalveslawfirm.com and chris@miplaw.com. 
+
+
+E. Service on Patent Owner Under 37 C.F.R. §§ 42.106(a) and 
+42.105(a). 
+
+
+This petition is being served by Express Mail on The Trustees of the 
+
+
+University of Pennsylvania, owners of the ‘135 patent, at their address of record 
+
+
+according to the USPTO PAIR database: The Trustees of the University of 
+
+
+Pennsylvania, 3160 Chestnut Street Suite 200, Center for Technology Transfer, 
+
+
+Philadelphia, PA 19104-6283.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+4 
+
+
+
+
+
+II. GROUNDS FOR STANDING UNDER 37 C.F.R. § 42.104(A). 
+
+
+Petitioner certifies that the ‘135 patent is available for inter partes review, and 
+
+
+that Petitioner is not barred or estopped from requesting an inter partes review 
+
+
+challenging the patent claims on the grounds identified in this Petition.  No RPI has 
+
+
+filed a civil action challenging the validity of the ‘135 patent, nor has any RPI been 
+
+
+served with a complaint alleging infringement of the ‘135 patent more than one year 
+
+
+prior to the filing of this Petition. 
+
+
+The public interest requires ensuring monopoly privileges are not granted by 
+
+
+an invalid patent, particularly because Juxtapid® sells for more than $900.00 per pill, 
+
+
+and costs nearly $330,000 per patient per year.  (See CFAD Ex. 1024; CFAD Ex. 
+
+
+1025).  Patentee and its licensee, Aegerion Pharmaceuticals, Inc., have secured such 
+
+
+pricing through FDA regulatory exclusivity and BMS’s lomitapide molecule 
+
+
+patents, but cannot extend it with the obvious ‘135 patent.  
+
+
+III. IDENTIFICATION OF CHALLENGE (37 C.F.R. § 42.104(b)). 
+
+
+Petitioner respectfully requests inter partes review and cancellation of claims 
+
+
+1-10 of the ‘135 patent based on the grounds set forth in the table below: 
+
+
+Ground Challenged 
+
+
+Claims 
+
+
+Statutory 
+
+
+Basis  
+
+
+References 
+
+
+1 1-10 § 103 Pink Sheet 2004 in view of Chang 
+
+
+2 1-10 § 103 Stein 2004 in view of Chang 
+
+
+Sections IV-X below explain how the ‘135 patent claims—properly 
+
+
+construed—are unpatentable on the grounds listed above.  See Graham v. John
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+5 
+
+
+
+
+
+Deere Co., 383 U.S. 1, 17-18 (1966) (reciting four-factor obviousness test).   
+
+
+In support of these grounds for unpatentability, Petitioner submits the expert 
+
+
+declaration of Randall M. Zusman, M.D. to discuss the relevant field and art in 
+
+
+general, and the factual and opinion bases for each of the Graham factors underlying 
+
+
+Petitioner’s Grounds 1 and 2.  (CFAD Ex. 1002).  Petitioner also submits the 
+
+
+declaration of pharmacokinetics expert Michael Mayersohn, Ph.D., on the specific 
+
+
+dosing-related teachings.  (CFAD Ex. 1003).  Petitioner further relies on the Exhibits 
+
+
+set forth on the concurrently filed Exhibit List, including the Pink Sheet 2004 (CFAD 
+
+
+Ex. 1013), Stein 2004 (CFAD Ex. 1014), and Chang (CFAD Ex. 1015) references.  
+
+
+Pink Sheet 2004 and Stein 2004 publications were not before the examiner during 
+
+
+the substantive prosecution of the application leading to the ‘135 patent; patentee 
+
+
+submitted those references in September 2013 only after receiving a second Notice 
+
+
+of Allowance.  Chang was cited but never substantively discussed.  
+
+
+IV. INTRODUCTION AND SUMMARY OF ARGUMENT. 
+
+
+The ‘135 patent claims are invalid.  They merely claim methods of using a 
+
+
+known drug, to treat known medical conditions, for which the drug was known to be 
+
+
+effective, with known dose-titration methods disclosed in the prior art.   
+
+
+The ‘135 patent issued on December 31, 2013 from Application No. 
+
+
+13/046,118 (the ‘118 Application) filed March 11, 2011, itself a continuation of
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+6 
+
+
+
+
+
+Application No. 10/591,923 (the ‘923 Application) filed March 7, 2005.1  The patent 
+
+
+recognizes hyperlipidemia and hypercholesterolemia are characterized by elevated 
+
+
+serum levels of cholesterol (total and LDL-C) and lipids (e.g., triglycerides (TG)), 
+
+
+which increase the risk of cardiovascular disease.  (CFAD Ex. 1001, col. 1:24 – col. 
+
+
+2:3).  The ‘135 patent characterizes as inventive treating hyperlipidemia or 
+
+
+hypercholesterolemia with drugs that inhibit microsomal triglyceride transfer 
+
+
+proteins (“MTP”), i.e., MTP inhibitors, by applying step-wise escalating dosing 
+
+
+regimens.  (See id. at col. 7:11-24; col. 11:60 – col. 13:23). 
+
+
+Administering anti-cholesterol drugs in step-wise escalating doses was 
+
+
+standard practice with, e.g., statins, fibrates, and niacin.  (CFAD Ex. 1002 
+
+
+(“Zusman”) ¶¶ 37-38, 40, 43-47).  Dr. Evan Stein specifically taught applying step-
+
+
+wise escalating dosing to the MTP inhibitor implitapide to treat hyperlipidemia and 
+
+
+hypercholesterolemia—facts published before the relevant filing date.  (See CFAD 
+
+
+Ex. 1013; CFAD Ex. 1014).  Dr. Stein also disclosed the rationales for this dosing 
+
+
+approach:  minimizing side effects, rendering MTP inhibitors marketable as adjunct 
+
+
+therapy to statins; and treating patients not effectively treated by statins.  (Zusman, 
+
+
+¶¶ 69-70, 103-04; CFAD Ex. 1003 (“Mayersohn”) ¶¶ 57, 59-60). 
+
+
+                                           
+1 Patentee cannot claim priority to its March 5, 2004 provisional application given 
+
+
+the elements of the issued claims of the ‘135 patent.  (See Section V, below).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+7 
+
+
+
+
+
+The ‘135 patent’s named inventor, Dr. Rader, was a clinical investigator on 
+
+
+the September 2003 implitapide studies Dr. Stein designed and led.  (CFAD 
+
+
+Ex. 1020:8).  Dr. Rader filed his provisional application in March 2004.  But before 
+
+
+then, two February 2004 publications (one by Dr. Stein and another by The Pink 
+
+
+Sheet) had already disclosed Dr. Stein’s implitapide step-wise escalating dosing.  
+
+
+(See Section IX, below).  Yet Dr. Rader initially claimed he invented step-wise 
+
+
+dosing for all MTP inhibitors.  (See CFAD Ex. 1008:28-31).  As issued, the ‘135 
+
+
+patent claims merely apply Dr. Stein’s step-wise escalating dosing approach to the 
+
+
+MTP inhibitor lomitapide.  (See CFAD Ex. 1001, col. 19:42-67 (claim 1)).   
+
+
+The ordinarily-skilled artisan required no great leap to apply Dr. Stein’s 
+
+
+implitapide dosing regimen to other MTP inhibitors such as lomitapide.  (Zusman, 
+
+
+¶ 33; Mayersohn, ¶ 27).  Lomitapide was a known, potent MTP inhibitor.  (See 
+
+
+CFAD Ex. 1001, col. 5:47–col. 6:19; Zusman, ¶ 24).  The prior art taught 
+
+
+lomitapide’s efficacy in vitro, in animal models, and in humans, and also taught 
+
+
+lomitapide had clinical effects similar to implitapide.  (Zusman, ¶¶ 62-63, 96-99; 
+
+
+Mayersohn, ¶¶ 18-19; see also CFAD Ex. 1015:563-66).  
+
+
+ As detailed below, the published prior art disclosures and the skilled artisan’s 
+
+
+motivation to apply step-wise escalating dosing regimens to MTP inhibitors 
+
+
+(including lomitapide) with a reasonable expectation of success render independent 
+
+
+claims 1, 9, and 10, and dependent claims 6-8 of the ‘135 patent obvious at the time
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+8 
+
+
+
+
+
+of filing.  The additional elements found in dependent claims 2-5 merely reflect uses, 
+
+
+targets, and results already known or inherent in the dosing method itself.  (Zusman, 
+
+
+¶¶ 150-165; CFAD Ex. 1015:562, 565-66). 
+
+
+For the reasons set forth herein, under 37 C.F.R. § 42.22(A), Petitioner 
+
+
+requests Inter Partes Review and cancellation of claims 1-10.  Petitioner’s detailed 
+
+
+statement of the reasons for the relief requested appears in Sections V-X below. 
+
+
+V. THE ‘135 PATENT PRIORITY DATE IS MARCH 7, 2005; THE ‘915 
+PROVISIONAL DOES NOT SUPPORT THE ISSUED CLAIMS. 
+
+
+The ‘135 patent claims receive the benefit of U.S. Provisional Patent 
+
+
+Application 60/550,915 (“the ‘915 Provisional”) only if that application “describe[s] 
+
+
+an invention, and . . . in sufficient detail that one skilled in the art can clearly 
+
+
+conclude that [Dr. Rader] invented the claimed invention as of the filing date 
+
+
+sought,” such that he was “in possession of” the invention.  See Lockwood v. Am. 
+
+
+Airlines, Inc., 107 F.3d 1565, 1572 (Fed. Cir. 1997); Trading Techs. Int’l Inc. v. 
+
+
+eSpeed, Inc., 595 F.3d 1340, 1359 (Fed. Cir. 2010).  The ‘915 Provisional does not 
+
+
+support the claimed dose ranges or the piperidine N-oxide derivatives.   
+
+
+A. No Support for the Full Scope of the Claimed Dose Ranges. 
+
+
+Independent claim 1 recites a step-wise escalating dose method where the first 
+
+
+dose ranges from “about 2 to about 13 mg/day”; the second “from about 5 to about 
+
+
+30 mg/day” and the third “from about 10 to about 50 mg/day,” with dose escalation 
+
+
+at “about 1 to about 5 weeks.”  (CFAD Ex. 1001, col. 19:40–67).  Independent claims
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+9 
+
+
+
+
+
+9 and 10 recite similar dosing steps, but change the timing of the dose escalation.  
+
+
+(See id., col. 20:23 – col. 21:18).  The ‘135 patent’s specification lists various dose 
+
+
+ranges and numbers of dosing steps for MTP inhibitors.  (See id. at col. 11:60 – 
+
+
+13:29).  That section includes the particular dose ranges claimed (id. at col. 12:45-
+
+
+51), but this language was conspicuously absent from the ‘915 Provisional, which 
+
+
+focused on different dose-range combinations.  (Compare CFAD Ex. 1006:14-15).  
+
+
+The claimed dose ranges are new matter.  (Zusman, ¶ 82; see CFAD Ex. 1007 
+
+
+(“Demonstrative”)). 
+
+
+While the claim terms need not appear in haec verba, the provisional lacks 
+
+
+any equivalent description of the claimed subject matter.  The particular numerical 
+
+
+ranges claimed (e.g., about 2-13 mg/day for the first dose) cannot be teased out of 
+
+
+the multiplicity of dose ranges listed in the ‘915 Provisional, either expressly or 
+
+
+inherently.  (Zusman, ¶¶ 83-90; Mayersohn, ¶¶ 76-103).  Nor can Patentee support 
+
+
+the full scope of the claimed ranges merely by pointing to a species within, or a 
+
+
+genus beyond, the ‘915 Provisional.  See Trading Techs., 595 F.3d at 1359 (skilled 
+
+
+artisan must understand from the application “the genus that is being claimed has 
+
+
+been invented, not just the species of a genus”) (citations omitted); Carnegie Mellon 
+
+
+Univ. v. Hoffman-La Roche, Inc., 541 F.3d 1115, 1124 (Fed. Cir. 2008) (skilled 
+
+
+artisan must visualize or recognize from the specification all members of the claimed 
+
+
+genus).  Nor may Patentee support the claimed mg/day doses from the other dose
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+10 
+
+
+
+
+
+amounts, sometimes expressed as mg/day, other times as mg/kg, found in the ‘915 
+
+
+Provisional.  See Ex parte Zeying Ma & Yubai Bi, Appeal 2013-001589, 2014 WL 
+
+
+1005343, at *3-*4 (P.T.A.B. January 27, 2014) (specification’s thirty-five 
+
+
+embodiments across six tables omitted specifically-claimed ranges).  
+
+
+Patentee’s specification deliberately added new matter reciting the claimed 
+
+
+dose/range combinations to the ‘923 Application filed in March 2005, confirming 
+
+
+the ‘915 Provisional lacked the “illustrative examples or terminology” or “blaze 
+
+
+marks” skilled artisans require to identify and determine the particular genus 
+
+
+ultimately claimed.  See In re Vaeck, 947 F.2d 488, 496 (Fed. Cir. 1991); Purdue 
+
+
+Pharma, L.P. v. Faulding, Inc., 230 F.3d 1320, 1326-27 (Fed. Cir. 2000).  Without 
+
+
+the ‘915 Provisional date, the ‘135 patent’s priority date is March 7, 2005.  
+
+
+B. In Addition, No Support for “the Piperidine N-oxide Thereof”. 
+
+
+The ‘135 patent claims require using an MTP inhibitor that is either the 
+
+
+illustrated compound (lomitapide), salts thereof, or “the piperidine N-oxide thereof.”  
+
+
+(CFAD Ex. 1001, col. 19:40 – col. 21:18).  The specification lacks any example by 
+
+
+structure, chemical language, synthetic process or clinical test showing a lomitapide 
+
+
+“piperidine N-oxide” derivative.  The ‘915 Provisional nowhere uses the term, or 
+
+
+presents by structure, a “piperidine N-oxide.”  The only discussion of “piperidine” 
+
+
+compounds in the ‘915 Provisional beyond the proffered chemical structures is, “[i]n 
+
+
+some embodiments the MTP inhibitors are piperidine, pyrrolidine or azetidine
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+11 
+
+
+
+
+
+compounds.”  (CFAD Ex. 1006:11).  The ‘915 Provisional thus fails to adequately 
+
+
+describe or support the claimed “piperidine N-oxide” lomitapide derivative or its 
+
+
+therapeutic use.  
+
+
+Patentee cannot rely on the many patents incorporated by reference in the ‘915 
+
+
+Provisional’s specification, which encompass a massive genus of structures, to 
+
+
+support a purported lomitapide piperidine N-oxide derivative.  See Novozymes A/S 
+
+
+v. Dupont Nutrition Biosciences APS, 723 F.3d 1336, 1343, 1346 (Fed. Cir. 2013).  
+
+
+In Novozymes, the patentee’s provisional disclosed “a potentially enormous number” 
+
+
+of structural variants with myriad combination possibilities at multiple structural 
+
+
+locations.  Id. at 1343.  Like the ‘915 Provisional, Novozymes’ “did not point out the 
+
+
+specific [structural] variants later claimed in the [issued] patent,” but gave “only 
+
+
+generalized guidance.”  Id. at 1343, 1346.  The ‘915 Provisional’s generalized 
+
+
+piperidine discussion never identifies an N-oxide “variant that actually satisfies the 
+
+
+claims, nor is there anything to suggest that [patentee] actually possessed such a 
+
+
+variant at the time of filing.”  Id. at 1348.  The ‘915 Provisional fails to adequately 
+
+
+describe or support the “piperidine N-oxide thereof” limitation.  
+
+
+Because the ordinarily-skilled artisan would not accept that Dr. Rader 
+
+
+“possessed” treatment methods using piperidine N-oxide compounds of lomitapide 
+
+
+at the time of filing, the ‘135 patent claims do not receive the benefit of the ‘915 
+
+
+Provisional filing date.  The references presented below are therefore prior art under
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+12 
+
+
+
+
+
+pre-AIA 35 U.S.C. § 102(a) whatever the priority date, and also under pre-AIA 35 
+
+
+U.S.C. § 102(b) because, as shown below, they were published more than a year 
+
+
+before the filing of the ‘923 Application.   
+
+
+VI. SCOPE AND CONTENT OF THE PRIOR ART. 
+
+
+Subsections A and B below discuss the state of the art before March 5, 2003, 
+
+
+while subsection C covers up to March 5, 2004.    
+
+
+A. Elevated Serum Cholesterol and Lipid Levels Were Recognized 
+Risk Factors For Cardiovascular Disease. 
+
+
+Decades ago, doctors and scientists recognized hypercholesterolemia (high 
+
+
+serum cholesterol levels) and hyperlipidaemia (high serum lipid levels) as key 
+
+
+atherosclerotic cardiovascular disease (“ASCVD”) risk factors.  ASCVD was and 
+
+
+remains a major cause of premature mortality in the Western world.  (See Zusman, 
+
+
+¶¶ 35-42; CFAD Ex. 1001, col. 1:24-25).  The field has been actively researched for 
+
+
+decades; cholesterol- and lipid-lowering drugs are commonplace in the physician’s 
+
+
+armamentarium and patients’ medicine cabinets.  (Zusman, ¶¶ 43-49). 
+
+
+B. Known Drug Classes and Dosing Regimens Pre-March 2003. 
+
+
+Fibrates, statins and niacin were known drug classes used with 
+
+
+hypercholesterolemic patients to reduce lipid levels before March 2003.  (Id.)  Due 
+
+
+to their side effect profiles, such drugs were frequently administered using step-wise 
+
+
+dose escalation.  (See id. at ¶¶ 43-47, 65; see also CFAD Ex. 1021 (fibrate doses 
+
+
+“individualized according to patient response” and “adjusted if necessary” at “4 to 8
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+13 
+
+
+
+
+
+week intervals.”); CFAD Ex. 1021, (LIPITOR®, ZOCOR®, MEVACOR®) 
+
+
+(recommending starting patients on the drug at low doses and titrating upward 
+
+
+according to “patient response” at intervals of “4 weeks or more.”); CFAD Ex. 1021, 
+
+
+(NIASPAN®) (drug dosed beginning “at 500 mgs qhs in order to reduce the 
+
+
+incidence and severity of side effects;” after four weeks, the dose doubles; and after 
+
+
+the eighth week the physician is to “titrate to patient response and tolerance” up to a 
+
+
+maximum recommended dose of 2000 mg daily with the daily dose not “increased 
+
+
+more than 500 mg in a 4-week period.”)).  
+
+
+MTP inhibitors.  Microsomal triglyceride transfer proteins (MTP) play a 
+
+
+central role in lipoprotein assembly.  They mediate triglyceride absorption from the 
+
+
+intestine and lipoprotein secretions from the liver by linking lipids to apolipoprotein 
+
+
+B (apoB).  MTP inhibitors reduce plasma levels of LDL-C, VLDL lipoproteins and 
+
+
+chylomicrons.  (See Zusman, ¶¶ 55-58; CFAD Ex. 1015:562-63).  By 2003, some 
+
+
+MTP inhibitors had shown significant animal and human efficacy, including with 
+
+
+subjects with familial hypercholesterolemia (“FH”).  (See Zusman, ¶¶ 59-61; CFAD 
+
+
+Ex. 1015:564-67).  But, administering MTP inhibitors as a monotherapy at higher 
+
+
+doses—needed to achieve lipid-lowering effects comparable to statins—
+
+
+unsurprisingly produced comparatively higher side effects, including liver-fat 
+
+
+accumulation.  (See Zusman, ¶¶ 64, 69; CFAD Ex. 1015:567). 
+
+
+Chang highlighted three MTP inhibitors as having progressed to human
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+14 
+
+
+
+
+
+clinical trials by 2003:  Pfizer’s CP-346086; Bayer’s 13-9952 (implitapide); and 
+
+
+BMS’s 201038 (lomitapide).  Chang reported the three drugs had “similar efficacy” 
+
+
+in clinical studies.  (CFAD Ex. 1015:566).  Chang also recognized that “MTP 
+
+
+inhibitors have demonstrated impressive lipid lowering efficacy in clinical studies,” 
+
+
+but also that “potentially significant adverse effects surround this mechanism.”  (See 
+
+
+id. at 567).  Several drug companies looking at MTP inhibitors as monotherapy 
+
+
+alternatives to statins had dropped their MTP inhibitor programs—including BMS 
+
+
+with lomitapide.  (See id.; CFAD Ex. 1001, col. 8:27-30).  As Chang explained, those 
+
+
+decisions were not because the drugs didn’t work; rather, “statins have raised the 
+
+
+hurdles for successfully marketing MTP inhibitors, or any other future lipid lowering 
+
+
+approach.”  (CFAD Ex. 1015:567) (emphasis added).  Chang concluded that “a 
+
+
+readily managed therapeutic index will be critical for the progression of inhibiting 
+
+
+MTP as a viable chronic lipid lowering therapy.”  (Id.)   
+
+
+Combination therapy.  In November 2002 FDA granted Merck approval to 
+
+
+market ezetimibe (ZETIA®), alone or combined with a statin, to reduce elevated 
+
+
+total-C, LDL-C, and Apo B in primary hyperlipidemia patients, and in combination 
+
+
+to reduce elevated total-C and LDL-C in patients with homozygous familial 
+
+
+hypercholesterolemia (HoFH).  (Zusman, ¶¶ 70-71; CFAD Ex. 1017:2; CFAD Ex. 
+
+
+1022, (ZETIA®)).  Merck’s ZETIA® success renewed interest in MTP inhibitors.  
+
+
+Shortly after ZETIA®’s approval, and at least by September 2003, Dr. Stein was
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+15 
+
+
+
+
+
+pursuing clinical trials of implitapide for adjunctive therapy, combination use, and 
+
+
+use in HoFH patients.  (See CFAD Ex. 1020:2-3, 8-9 (citing ref. D8)).       
+
+
+C. The Content of the MTP Inhibitor Art Pre-March 2004. 
+
+
+The literature resolved Chang’s concerns about managing MTP inhibitors’ 
+
+
+therapeutic index for commercial marketing purposes, in: (1) a February 5, 2004 
+
+
+presentation by Dr. Evan Stein discussing PPD, Inc.’s plans for the MTP inhibitor 
+
+
+implitapide (Stein 2004); and (2) a February 16, 2004 Pink Sheet article—
+
+
+“Bayer/PPD Implitapide Development Follows Zetia Model As Statin Add-On”—
+
+
+reporting on Dr. Stein’s presentation and publishing his dosing strategy for MTP 
+
+
+inhibitors (Pink Sheet 2004).  (See Zusman, ¶¶ 137-40, 142-43, 206, 208-11, 213-
+
+
+15).  Dr. Stein acknowledged the marketing hurdles Chang noted, but taught 
+
+
+ZETIA®’s success created an opportunity and model for MTP inhibitors.  (See 
+
+
+CFAD Ex. 1013:1).  Dr. Stein’s publications also disclosed step-wise dosing of MTP 
+
+
+inhibitors addressing Chang’s therapeutic index concerns.  (See CFAD Ex. 1014:37-
+
+
+38; see also CFAD Ex. 1015:567; Zusman, ¶¶ 103-05, 110).  
+
+
+In Section X below, Petitioner relies on Pink Sheet 2004 in view of Chang 
+
+
+(Ground I), or Stein 2004 in view of Chang (Ground II) to demonstrate that claims 
+
+
+1-10 of the ‘135 patent are invalid for obviousness.    
+
+
+1. Pink Sheet 2004 is Prior Art. 
+
+
+“The Pink Sheet” is a printed publication directed to the pharmaceutical and
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+16 
+
+
+
+
+
+biopharmaceutical industries which provides “[u]p-to-date pharma/biotech news—
+
+
+at your desk—from your trusted source for over 65 years.”  (See CFAD Ex. 1013:1).  
+
+
+In addition to print and mail circulation, the Pink Sheet is available online and 
+
+
+circulated in electronic format to subscribers, providing headlines and breaking news 
+
+
+alerts with links to stories analyzing notable events, industry news, and trends.  (See 
+
+
+http://www.pharmamedtechbi.com/publications/the-pink-sheet-daily; Zusman, 
+
+
+¶¶ 106-07; Mayersohn, ¶¶ 23-24).  The Pink Sheet was and would have been 
+
+
+reviewed and considered by persons of ordinary skill in the art.  (Zusman, ¶¶ 106-
+
+
+07; Mayersohn, ¶¶ 23-24).  The Pink Sheet 2004 reference was published and dated 
+
+
+February 16, 2004.  (See CFAD Ex. 1013; Mayersohn, ¶ 23).  There is thus no 
+
+
+reasonable dispute that Pink Sheet 2004 is within the scope and content of the prior 
+
+
+art under pre-AIA Section 102(a) irrespective of priority date.  It is also prior art 
+
+
+under pre-AIA Section 102(b) since Patentee cannot claim priority to the ‘915 
+
+
+Provisional.  (See Section V above). 
+
+
+2. Stein’s 2004 Presentation – Published Before March 5, 2004 
+and Again by At Least April 15, 2004 – is Prior Art. 
+
+
+The February 5, 2004 Stein presentation was given (and webcast) at PPD, 
+
+
+Inc.’s Analyst Day and publicized weeks beforehand.  PPD distributed a hyperlink 
+
+
+for “all interested parties” to register for the event or the webcast.  (See CFAD Ex. 
+
+
+1005:4).  Stein 2004 was targeted to financial analysts, investors, and skilled artisans 
+
+
+interested in drug discovery and development; it was reported in The Pink Sheet, a 
+
+
+
+http://www.pharmamedtechbi.com/publications/the-pink-sheet-daily
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+17 
+
+
+
+
+
+publication targeting the pharmaceutical industry.  (Zusman, ¶¶ 106-10; Mayersohn, 
+
+
+¶¶ 23-25).  The presentation itself and the underlying slide set are each “printed 
+
+
+publication” prior art under pre-AIA 35 U.S.C. §§ 102(a) and (b).   
+
+
+To be a prior art “printed publication” under 35 U.S.C. § 102, “the reference 
+
+
+[must be] made sufficiently accessible to the public interested in the art before the 
+
+
+critical date.”  See, e.g., Voter Verified, Inc. v. Premier Election Solutions, Inc., 698 
+
+
+F.3d 1374, 1380 (Fed. Cir. 2012) (internal quotations and citations omitted).  Stein’s 
+
+
+presentation and his underlying slides (later posted online) were two separate 
+
+
+publications of Stein 2004 under the four-factor test used to determine whether 
+
+
+“ephemeral” or transient presentations qualify as “printed publications”  under 35 
+
+
+U.S.C. § 102.  See In re Klopfenstein, 380 F.3d 1345, 1350 (Fed. Cir. 2004) (“[a] the 
+
+
+length of time the display was exhibited, [b] the expertise of the target audience, [c] 
+
+
+the existence (or lack thereof) of reasonable expectations that the material displayed 
+
+
+would not be copied, and [d] the simplicity or ease with which the material displayed 
+
+
+could have been copied.”). 
+
+
+The Stein Presentation itself qualifies under Klopfenstein as Section 102 
+
+
+prior art when presented.  Klopfenstein’s first factor (time displayed) focuses on “the 
+
+
+opportunity of the public in capturing, processing and retaining the information 
+
+
+conveyed by the reference.”  380 F.3d at 1350.  This factor confirms Stein 2004 was 
+
+
+published, since a skilled artisan could have captured (or recorded), processed and
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+18 
+
+
+
+
+
+retained the relevant material—including the material arguably of most interest to 
+
+
+an ordinarily-skilled artisan: the “Proposed MTP Development Plan” describing the 
+
+
+implitapide trials and dosing regimen.  (See CFAD Ex. 1014:36-38).  The Pink Sheet 
+
+
+2004 captured and published the salient concepts—including the increased step-wise 
+
+
+dosing regimen.  (See CFAD Ex. 1013). 
+
+
+The second factor (expertise of the target audience) also confirms Stein 2004 
+
+
+as a Section 102 publication.  “A reference, ‘however ephemeral its existence,’ may 
+
+
+be a ‘printed publication’ if it ‘goes direct to those whose interests make them likely 
+
+
+to observe and remember whatever it may contain that is new and 
+
+
+useful.’”  Klopfenstein, 380 F.3d at 1351 (citations omitted).  PPD, Inc., through the 
+
+
+Stein 2004 presentation, reported its plans to develop the MTP inhibitor implitapide 
+
+
+(licensed from Bayer), which was a member of a promising new class of lipid-
+
+
+lowering drugs with a new mechanism of action.  (See Zusman, ¶ 20 (skilled artisans 
+
+
+were “particularly interested in drugs under development from a different drug class 
+
+
+with a different mechanism of action”).  Implitapide was known in the art to have 
+
+
+shown success in early clinical studies.  (See CFAD Ex. 1015:566).  PPD had 
+
+
+publicized its Investor Day presentation for weeks, and provided a hyperlink for “all 
+
+
+interested parties” to register for the event or the webcast.  (CFAD Ex. 1005:4).  The 
+
+
+skilled artisan would have taken great interest in this presentation.  (See Zusman, ¶¶ 
+
+
+20-22).  Stein 2004 was targeted directly to skilled artisans and others interested in
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+19 
+
+
+
+
+
+drug discovery and development, and was reported in The Pink Sheet, a publication 
+
+
+targeting the pharmaceutical industry.  (See Zusman, ¶¶ 106-10; Mayersohn, ¶¶ 23-
+
+
+25).  The information was available “direct[ly] to those whose interests make them 
+
+
+likely to observe and remember” what Stein offered that was “new and useful.”  See 
+
+
+Klopfenstein, 380 F.3d at 1351.  
+
+
+The third factor (expectation of copying) again favors finding Stein 2004 was 
+
+
+a publication.  There is no evidence Stein or PPD intended to keep Stein’s 
+
+
+presentation private; no expectation of privacy in a webcast presentation exists 
+
+
+absent attempts to keep it private.  See Klopfenstein, 380 F.3d at 1351.  Finally, the 
+
+
+fourth factor (ease of copying) favors Stein 2004’s publication.  It would have been 
+
+
+simple for the skilled artisan to copy the relevant information from the Stein 
+
+
+presentation.  The Pink Sheet did copy and distribute the step-wise escalating dosing 
+
+
+regimen.  (See CFAD Ex. 1013).  Under Klopfenstein, Stein 2004 became a “printed 
+
+
+publication” when delivered; it is Section 102 prior art to the ‘135 patent.   
+
+
+The Stein Presentation Slides, once posted online for viewing/download, 
+
+
+were a second, re-publication of Stein 2004.  Stein 2004’s slides meet Klopfenstein 
+
+
+for all of the reasons discussed above for the Stein 2004 presentation.  And, PPD 
+
+
+posted the Stein 2004 slides on a clearly marked, tabbed and indexed page (“PPD 
+
+
+News and IR Presentations”) (see CFAD Ex. 1004:4-5) on a public website 
+
+
+(www.ppdi.com) (see id.), making the presentation available for review or download 
+
+
+
+http://www.ppdi.com/
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+20 
+
+
+
+
+
+before the critical date by anyone with a browser and Internet connection.  Such an 
+
+
+online document/recording is a Section 102 printed publication.  See Suffolk Techs., 
+
+
+LLC v. AOL Inc., 752 F.3d 1358, 1364-65 (Fed. Cir. 2014); Voter Verified, 698 F.3d 
+
+
+at 1380-81.   
+
+
+Stein was available for download before March 5, 2004: Petitioner need not 
+
+
+prove the specific date Stein 2004 became publicly available, only that in the 
+
+
+ordinary course of PPD, Inc.’s business, Stein 2004 would have been accessible by 
+
+
+the critical date.  See, e.g., In re Hall, 781 F.2d 897 (Fed. Cir. 1986).  Evidence of 
+
+
+routine business practices may establish the performance of a specific act.  Id. at 899 
+
+
+(doctoral thesis was “most probably” publicly available before the critical date based 
+
+
+on the “library’s general practice” and “estimating the time it would have taken to 
+
+
+make the [thesis] available.”).  Here, PPD, Inc.’s January 2004 press release for the 
+
+
+February 5, 2004 Analyst Day stated that it would make Stein 2004 available online 
+
+
+“shortly after the call for on-demand replay.”  (CFAD Ex. 1005:4).  This statement 
+
+
+suggests that Stein 2004 was posted online for download within days of the February 
+
+
+5, 2004 presentation, and thus well before March 5, 2004. 
+
+
+Furthermore, the Internet Archives’ recorded images of the same “PPD News 
+
+
+and IR Presentations” webpage on which Stein 2004 was posted show that PPD, Inc. 
+
+
+had an established pattern and practice in 2003-2004, i.e., an ordinary course of 
+
+
+business, of uploading presentations to its website for review and download within
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+21 
+
+
+
+
+
+a few days of their delivery.  (See id. at 5-6 (11/11/03 presentation at CIBC 
+
+
+Healthcare Conference posted within 6 days); CFAD Ex. 1004:4-5 (3/5/04 
+
+
+presentation at Lehman Brothers 7Th Annual Global Healthcare Conference posted 
+
+
+within 21 days); and CFAD Ex. 1005:7-8 (5/6/04 presentation at Robert W. Baird 
+
+
+2004 Growth Stock Conference posted within 1 day)).2   
+
+
+The Table below reports the Wayback Machine’s archived versions of the 
+
+
+“PPD News and IR Presentations”, and illustrates this practice: 
+
+
+Archive Date3 
+
+
+Date Webpage 
+
+
+ “Last 
+
+
+Modified”4  
+
+
+Most Recent 
+
+
+Presentation5 
+
+
+Presentation 
+
+
+Posted Within: 
+
+
+Dec. 12, 2003 Nov. 17, 2003 Nov. 11, 2003 6 days 
+
+
+April 15, 2004 March 26, 2004 March 5, 2004 21 days 
+
+
+June 4, 2004 May 7, 2004 May 6, 2004 1 day 
+
+
+Even assuming the longest delay noted above (21 days), the Stein 2004 presentation 
+
+
+was “most probably” posted no later than February 26, 2004—thus before March 5, 
+
+
+                                           
+2 The Marx Declaration and exhibits establish the conference dates for these PPD 
+
+
+presentations. (See CFAD Ex. 1034; CFAD Ex. 1035 (Cigna Press Release); CFAD 
+
+
+Ex. 1036 (Gilead Press Release); CFAD Ex. 1037 (PR Newswire)). 
+
+
+3 The date the Internet Archive captured the image of the webpage. 
+
+
+4 The date the imaged PPD webpage was last modified, as stated on that page. 
+
+
+5 The conference dates.  (See CFAD Ex. 1035; CFAD Ex. 1036; CFAD Ex. 1037).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+22 
+
+
+
+
+
+2004.  See Hall, 781 F.2d at 899.  
+
+
+ Thus, Stein 2004 became a printed publication on the day it was presented, 
+
+
+but at least by the time it was posted to the PPD website “shortly after”—which per 
+
+
+PPD’s own statement, custom and practice was “most probably” before the March 
+
+
+5, 2004 filing date of  the ‘915 Provisional.  See Hall, 781 F.2d at 899. 
+
+
+Finally, if there were any doubt Stein 2004 was published before March 5, 
+
+
+2004, it was surely available for download no later than April 15, 2004, as captured 
+
+
+by the Internet Archive.  (See CFAD Ex. 1004:4-5).  This information, coupled with 
+
+
+the affidavit provided by the Internet Archive (CFAD Ex. 1004), also establishes 
+
+
+Stein 2004 as a prior art printed publication.  Stein 2004 is prior art under at least 35 
+
+
+U.S.C. §§ 102(a) and (b).  (See Section V, above).  
+
+
+3. The Prior Art Taught Step-Wise MTP Inhibitor Dosing Over 
+Seven Levels; the Rationale; and Expected Efficacy. 
+
+
+As noted above, Chang seemingly left open the question of how to position 
+
+
+MTP inhibitors to make them commercially attractive given the success of statins.  
+
+
+Pink Sheet 2004 and Stein 2004 each answered this question by publishing PPD’s 
+
+
+planned approach with the MTP inhibitor implitapide.  (Zusman, ¶¶ 69, 100-10; 
+
+
+CFAD Ex. 1013, passim; CFAD Ex. 1014:19-45).  
+
+
+Pink Sheet 2004 recognized Dr. Stein had identified a different way to view 
+
+
+MTP inhibitors.  Rather than replacing statin therapy, artisans could follow the 
+
+
+pathway established with ZETIA®: use them as add-on therapy in combination with
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+23 
+
+
+
+
+
+statins.  (Zusman, ¶¶ 69, 77-78, 108; CFAD Ex. 1013:2).  This option was attractive, 
+
+
+because ZETIA® had “come onto the market and obtain[ed] a significant market 
+
+
+share.”  (CFAD Ex. 1013:2 (quoting Stein)).  As Stein 2004 noted, “Even 3% of [the 
+
+
+lipid-reducing] Market is “Block Buster”.  (CFAD Ex. 1014:45). 
+
+
+The Pink Sheet 2004 and Stein 2004 provide another reason to pursue MTP 
+
+
+inhibitors: “even high-dose statins are ineffective or inadequate” for patients with 
+
+
+homozygous and severe heterozygous familial hypercholesterolemia (“HoFH” and 
+
+
+“HeFH”).  (Zusman, ¶¶ 50-54, 69, 102-04, 110; CFAD Ex. 1013:2 (quoting Stein); 
+
+
+CFAD Ex. 1014:40-42).  Stein 2004 taught for HeFH patients (~500,000 in the U.S.), 
+
+
+“current drug therapies lower LDLC about 50-60%, but about 50% of subjects still 
+
+
+have LDLC higher than current treatment goals.”  (CFAD Ex. 1014:40).  For HoFH 
+
+
+patients (hundreds in the U.S.) “current drug therapies lower LDLC about 30-40%, 
+
+
+but seldom below 300-400 mg/dl,” with “‘heroic’ treatments such as LDL apheresis 
+
+
+every 1-2 weeks, or liver transplantation.”  (Id. at 42). 
+
+
+Both the Pink Sheet 2004 and Stein 2004 also taught an efficacy range MTP 
+
+
+inhibitors could safely target, and market as adjunct therapy based on ZETIA®’s 
+
+
+success producing about 18% to 24% LDL-C reduction over statin therapy alone.  
+
+
+(Zusman, ¶¶ 69, 103, 108; CFAD Ex. 1014:33-34; CFAD Ex. 1013:2).  The Pink 
+
+
+Sheet also published Stein’s guidance that the toxicity seen in previous MTP 
+
+
+inhibitor clinical trials resulted from the high doses used to seek LDL-C reduction
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+24 
+
+
+
+
+
+comparable to statins.  Those trials did not seek reductions in the ~20% range, which 
+
+
+could be accomplished using lower doses.  (Zusman, ¶ 69, 108; CFAD Ex. 1013:2).  
+
+
+Pink Sheet 2004 and Stein 2004 both identified the proposed implitapide dosing 
+
+
+regimen designed to produce an expected additional ~18% to 24% LDL-C reduction: 
+
+
+a starting dose of 10 mg daily; escalating by 5 mg/day every five weeks (e.g., 15, 
+
+
+20, 25, 30, 35 mg) to a maximum dose of 40 mg/day.  (Zusman, ¶¶ 105, 110; 
+
+
+Mayersohn, ¶¶ 58, 61; CFAD Ex. 1013:2; CFAD Ex. 1014:37-38).  The ordinarily-
+
+
+skilled artisan would have reasonably expected this proposed dosing regimen to 
+
+
+resolve Chang’s expressed concerns about managing an appropriate “therapeutic 
+
+
+index” for MTP inhibitors.  (See CFAD Ex. 1015:567; see also Zusman ¶¶ 137-40, 
+
+
+142-43, 206, 208-11, 213-15). 
+
+
+As described below, the Examiner had neither Pink Sheet 2004 nor Stein 2004 
+
+
+during the substantive prosecution of the ‘118 Application; patentee submitted those 
+
+
+only after the second Notice of Allowance.  Chang was before the Examiner, but 
+
+
+never substantively relied on.  Thus, the PTO was unable to fully evaluate the scope 
+
+
+and teachings of the prior art on step-wise escalating dosing. 
+
+
+VII. U.S. PATENT NO. 8,618,135 AND ITS FILE HISTORY. 
+
+
+A. The ‘135 Patent Repeats Information Already Known to 
+Ordinarily-Skilled Artisans.   
+
+
+The ‘135 patent suggests it was surprising and inventive to discover “methods 
+
+
+of treating a subject suffering from a disorder associated with hyperlipidemia while
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+25 
+
+
+
+
+
+reducing side-effects” by administering “at least three step-wise, increasing doses of 
+
+
+the MTP inhibitor.”  (CFAD Ex. 1001, col. 7:11-24; col. 6:65-7:3).  As noted above, 
+
+
+this was Stein’s published approach for implitapide. 
+
+
+The ‘135 patent concedes “MTP inhibitors, methods of use and preparation 
+
+
+thereof are known to the art skilled,” including BMS-201038 (lomitapide).  (Id. at 
+
+
+col. 8:5-6; 8:20-24).  It states a study in “the best accepted” HoFH animal model 
+
+
+showed BMS-201038 “effectively reduced plasma cholesterol levels in a dose 
+
+
+dependent manner” (id. at col. 6:9-10), with an ED50 value of 1.9 mg/kg, and a dose 
+
+
+of 10 mg/kg “essentially normaliz[ing] cholesterol levels with no alteration in 
+
+
+plasma AST or ALT.”  (Id. at col. 6:8-15).  This in turn indicated “MTP inhibition 
+
+
+by BMS-201038 might be effective in substantially reducing cholesterol levels in 
+
+
+patients with hoFH.”  (Id. at col. 6:16-19).  Chang reported this information.  
+
+
+(Zusman, ¶¶ 96-99; see CFAD Ex. 1015:565 (“BMS-201038 also showed efficacy 
+
+
+in the WHHL rabbit, demonstrating an ED50 value for total plasma cholesterol and 
+
+
+triglyceride lowering of 1.9 mg/kg and a complete normalization of atherogenic 
+
+
+apoB-containing lipoprotein particles at a dose of 10 mg/kg”)).   
+
+
+The ‘135 patent recognized that HoFH patients were treated with statins plus 
+
+
+ezetimibe (ZETIA®) as combination therapy, as Dr. Stein taught in the Pink Sheet 
+
+
+and Stein 2004.  The patent characterizes the resulting total reduction of LDL-C by 
+
+
+27% as “far from optimal.”  (CFAD Ex. 1001, col. 3:56-64).  The ‘135 patent asserts
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+26 
+
+
+
+
+
+there was a “tremendous unmet medical need for new medical therapies for hoFH.”  
+
+
+(Id. at col. 4:20-21).  Yet the ‘135 patent nowhere shows that its purportedly 
+
+
+inventive lomitapide dosing regimen could or would reduce LDL-C levels by more 
+
+
+than 27% in HoFH patients.  Indeed, patentee originally sought claims to at least 30 
+
+
+or 50% reductions (CFAD Ex. 1006:25-28); issued dependent claims 3 and 4 only 
+
+
+claim 15% and 25% comparative reductions—aligned with Dr. Stein’s implitapide 
+
+
+targets and ZETIA®’s performance.  (See CFAD Ex. 1001, col. 20:3-11; Zusman, 
+
+
+¶¶ 69, 103, 108. Cf. CFAD Ex. 1014:33-34; CFAD Ex. 1013:2).  
+
+
+B. The ‘135 Patent File History. 
+
+
+Patentee filed the ‘118 Application (CFAD Ex. 1008) leading to the ‘135 
+
+
+patent on March 11, 2011 as a continuation of the ‘923 Application which led to the 
+
+
+‘268 patent (filed March 7, 2005).  The ‘118 application’s original claims 
+
+
+encompassed using any MTP inhibitor to treat “a disorder associated with 
+
+
+hyperlipidemia or hypercholesterolemia” with at least three step-wise increasing 
+
+
+dose levels.  (CFAD Ex. 1008:28).  On March 4, 2013, in response to various 
+
+
+rejections, the patentee limited independent claim 1 to treating hyperlipidemia or 
+
+
+hypercholesterolemia, using “[lomitapide] . . .  or the piperidine N-oxide thereof,” 
+
+
+added certain dosing ranges formerly found in dependent claims, and specified 
+
+
+“wherein each dose level is administered . . . for about 1 to 5 weeks.”  The patentee 
+
+
+also added application claim 26 (now issued claim 9).  (See CFAD Ex. 1009:2, 4).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+27 
+
+
+
+
+
+To overcome the § 103 rejection, patentee relied in part upon a declaration from Dr. 
+
+
+William Sasiela, who noted that dosing patients with MTP inhibitors at a constant 
+
+
+level creates significant adverse effects, and previous developers of MTP inhibitors 
+
+
+had discontinued development.  (See id. at 7; CFAD Ex. 1010).  Sasiela also opined 
+
+
+on alleged unexpected results produced by the claimed method.  (CFAD Ex. 1010:3).  
+
+
+At that time, no one disclosed that Dr. Stein had already done step-wise dose 
+
+
+escalation with implitapide, or that Dr. Rader had served as a clinical researcher 
+
+
+for Dr. Stein during the implitapide trials.  On May 10, 2013, the PTO issued the 
+
+
+first Notice of Allowance.  (CFAD Ex. 1011).  
+
+
+After patentee submitted a Request for Continuing Examination (RCE) and 
+
+
+another Initial Disclosure Statement (IDS), the PTO issued a second Notice of 
+
+
+Allowance on September 3, 2013.  (CFAD Ex. 1012).  But three weeks later, 
+
+
+patentee filed another RCE along with amendments and another IDS.  The 
+
+
+amendments added what is now issued claim 10 (CFAD Ex. 1039:4-5), while the 
+
+
+IDS enclosed prior art including Pink Sheet 2004 and Stein 2004, and the European 
+
+
+Opposition briefs.  (CFAD Ex. 1040:3-5).  
+
+
+So, Pink Sheet 2004 and Stein 2004 took their places among the five columns 
+
+
+of prior art listed on the face of the ‘135 patent.  Neither these references nor Chang 
+
+
+2002 were substantively discussed during prosecution; the Examiner issued a third 
+
+
+Notice of Allowance without comment.  (See CFAD Ex. 1041).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+28 
+
+
+
+
+
+C. The European Opposition Proceedings.    
+
+
+On August 21, 2013, Dr. Evan Stein—the author of Stein 2004 and subject of 
+
+
+Pink Sheet 2004—opposed a foreign counterpart to the ‘268 patent, European Patent 
+
+
+1 725 234 B9 (“the ‘234 patent”).  (See CFAD Ex. 1020).  The Opposition asserted 
+
+
+the ‘234 patent claims are unpatentable for various reasons, including obviousness 
+
+
+over prior art including Stein 2004.  (See id., passim).  In the opposition Dr. Stein 
+
+
+stated that the patentee, Dr. Rader, had been “a consultant and clinical investigator 
+
+
+in clinical research projects with implitapide.”  (Id. at 2). 
+
+
+In addition to Stein 2004, the Opposition cites excerpts from the implitapide 
+
+
+clinical trial reports posted on www.ClinicalTrials.gov [reference D8].  (Id. at 2-3).  
+
+
+It notes that the trials began in September 2003 and assessed implitapide as a 
+
+
+treatment for “homozygous as well as heterozygous familial hyperlipidemia and 
+
+
+hypercholesterolemia.”  (Id. at 8).  The Opposition states that the implitapide studies 
+
+
+“were designed, conducted and guided by Dr. Stein, who included Dr. Rader, 
+
+
+inventor of the opposed patent, as a consultant and one of the clinical investigators 
+
+
+for these studies.”  (Id. (emphasis added)).  The parties settled.  
+
+
+VIII. THE LEVEL OF ORDINARY SKILL IN THE ART. 
+
+
+A person of ordinary skill in the art as relevant to this proceeding would have 
+
+
+had a high level of education (graduate and/or post-graduate degrees) in a pertinent 
+
+
+discipline such as medicine, medicinal chemistry, pharmacology, pharmacokinetics,
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+29 
+
+
+
+
+
+or drug development and delivery.  Such a person with a medical degree (M.D.) 
+
+
+would also have 3-5 years of experience treating patients in the 
+
+
+cardiovascular/cardiac field, which would itself provide knowledge of dose-titration; 
+
+
+dose-selection as balanced against side effects in individual patients; and 
+
+
+developments in the clinical field.  (Zusman, ¶¶ 28-29, 32; Mayersohn, ¶ 26).  A 
+
+
+non-M.D. would have a similarly advanced education, and the experiences and skill 
+
+
+sets appropriate to their specialty.  (See Zusman, ¶¶ 30-32; Mayersohn, ¶ 26). 
+
+
+IX. CLAIM CONSTRUCTION STATEMENT (37 C.F.R. § 42.104(B)(3)). 
+
+
+Under 37 C.F.R. § 42.100(b), the claim terms of the ‘135 patent are presumed 
+
+
+to take on their ordinary and customary meaning based on the broadest reasonable 
+
+
+interpretation (“BRI”) of the claim language in light of the specification.  Petitioner 
+
+
+proposes the following as at least included in the BRI:  
+
+
+     • “A subject suffering hyperlipidemia or hypercholesterolemia” includes humans 
+
+
+and non-human mammals, e.g. rabbits.  (CFAD Ex. 1001, col. 11:31-32; Zusman, 
+
+
+¶¶ 91-92). 
+
+
+     • “effective amount” includes drug amounts improving any hyperlipidemia or 
+
+
+hypercholesterolemia disease marker, or inhibiting MTP activity (including by as 
+
+
+little as 10%).  (See, e.g., CFAD Ex. 1001, col. 8:66-col.9:2; Zusman, ¶¶ 91-92). 
+
+
+    • “about” means approximately.  (Zusman, ¶¶ 91-92). 
+
+
+    • “piperidine N-oxide thereof” is undefined by structure or chemical name within
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+30 
+
+
+
+
+
+the ‘135 patent’s specification.  A general chemistry understanding of “N-oxide” 
+
+
+upon a piperidine ring found in lomitapide requires adding an oxygen atom (O) to 
+
+
+the nitrogen atom (N): .  (See CFAD Ex. 1019, col. 11:26-35, col. 124:20-56).  
+
+
+The claims encompass this and other devisable piperidine N-oxides. 
+
+
+  •  “Severe” hypercholesterolemia means a subject’s cholesterol values cause 
+
+
+increased cardiovascular disease risks, and did not satisfactorily respond to initial 
+
+
+lipid-lowering treatment.  (See CFAD Ex. 1001, col. 4:63-67; Zusman, ¶¶ 91-92).  
+
+
+  • “control levels” must at least include, when applied to a particular blood 
+
+
+component, “a level of a particular blood component” obtained from the subject 
+
+
+either: (a) “in the absence of treatment” or (b) “receiving a placebo”; or (c) 
+
+
+“receiving a different treatment,” including a subject receiving treatment “not 
+
+
+including at least three step-wise, increasing dosages of an MTP inhibitor.”  (See 
+
+
+CFAD Ex. 1001, col. 10:55-65; Zusman, ¶¶ 91-92). 
+
+
+X. EXPLANATION OF GROUNDS FOR UNPATENTABILITY. 
+
+
+To support institution, this petition for inter partes review must demonstrate 
+
+
+“a reasonable likelihood that the petitioner would prevail with respect to at least one 
+
+
+of the claims challenged in the petition.”  35 U.S.C. § 314(a).  Petitioner should 
+
+
+prevail here because each element of ‘135 patent claims 1-10 are taught by, or would 
+
+
+have been obvious over, the Pink Sheet 2004 in view of Chang; and Stein 2004 in 
+
+
+view of Chang.  See 35 U.S.C. § 103(a).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+31 
+
+
+
+
+
+Petitioner has analyzed the proper priority date (Section V), and the claims 
+
+
+are obvious under any possible date.  The level of ordinary skill in the art was high 
+
+
+(see Section VIII).  Petitioner’s cited references are prior art.  (See Sections V-VI).  
+
+
+The ordinarily-skilled artisan had motivation to combine teachings from Pink Sheet 
+
+
+2004 with Chang (Ground I); and Stein 2004 with Chang (Ground II) and reasonably 
+
+
+expect success.  No non-obvious differences exist between either combination and 
+
+
+the claimed subject matter; the claims are invalid.  
+
+
+A. Ground I: Obviousness Over Pink Sheet 2004 in View of Chang. 
+
+
+To issue the claims, the Examiner accepted representations in the Sasiela 
+
+
+Declaration that MTP inhibitor development was discontinued due to side effects, 
+
+
+so it was unexpected that MTP inhibitors could work as claimed.  (See Section VII, 
+
+
+above).  Patentee’s representations were inaccurate, as shown by the cited prior art. 
+
+
+The core issue is whether it would have been obvious for one of ordinary skill 
+
+
+to administer MTP inhibitors via an escalating dosing regimen falling anywhere 
+
+
+within the claimed ranges to treat hyperlipidemia and/or hypercholesterolemia.  See 
+
+
+Tyco Healthcare Grp. LP v. Mut. Pharm. Co., 642 F.3d 1370 (Fed. Cir. 2011) 
+
+
+(claims to dosing “6 to 8 milligrams” and “7.5 milligrams” of temazepam obvious 
+
+
+given prior art teaching doses of “5 to 15 mg”).  “Yes.”  
+
+
+As discussed above, the person of ordinary skill in the art had advanced 
+
+
+degrees and experience with medical research.  (See Section VIII, above).  Chang is
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+32 
+
+
+
+
+
+prior art under pre-AIA 35 U.S.C. § 102(b).  (See Section VI, above).  Pink Sheet 
+
+
+2004 is prior art under pre-AIA 35 U.S.C. § 102(a) no matter which priority date 
+
+
+applies; and prior art under pre-AIA 35 U.S.C. § 102(b) because the ‘135 patent 
+
+
+cannot benefit from the ‘915 Provisional.  (See Sections V & VI, above).       
+
+
+1. The Claimed Lomitapide Escalating-Dosing Approach was 
+Already Taught for Implitapide. 
+
+
+The following claim chart (bold emphasis added) compares the ‘135 patent 
+
+
+claims to the combination of the Pink Sheet 2004 and Chang.  There are no non-
+
+
+obvious differences from the skilled artisan’s perspective: 
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+Claim 1. A method of 
+
+
+treating a subject suffering 
+
+
+hyperlipidemia or 
+
+
+hypercholesterolemia,  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the method comprising  
+
+
+Pink Sheet 2004 discloses PPD sought to 
+
+
+demonstrate “implitapide’s safety and efficacy in 
+
+
+homozygous and severe heterozygous familial 
+
+
+hypercholesterolemia” in humans and that 
+
+
+implitapide “is also being studied for 
+
+
+hypertriglyceridemia.”  CFAD Ex. 1013:2. 
+ 
+
+
+Patients “targeted for implitapide therapy will likely 
+
+
+be the 5%-7% of high cholesterol patients that are 
+
+
+statin intolerant, and the 10%-15% who are at high 
+
+
+risk for cardiovascular disease and have not reached 
+
+
+their LDL goals, Stein indicated.”  Id. at 2. 
+ 
+
+
+“The lipid lowering and anti-atherosclerosis effects 
+
+
+of MTP inhibitors have been consistently observed 
+
+
+and broadly demonstrated across all series evaluated 
+
+
+using a wide variety of representative animal 
+
+
+models.”  CFAD Ex. 1015:564.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+33 
+
+
+
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+administering to the subject 
+
+
+an effective amount of an 
+
+
+MTP inhibitor, wherein said 
+
+
+administration comprises at 
+
+
+least three step-wise, 
+
+
+increasing dose levels of the 
+
+
+MTP inhibitor 
+
+
+“PPD is conducting three 39-week Phase II studies 
+
+
+with dose titration occurring every five weeks based 
+
+
+on safety and tolerability examined at four weeks. 
+
+
+The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  CFAD Ex. 1013:2. 
+ 
+
+
+Pink Sheet 2004 discloses that the planned dosage 
+
+
+ranges of implitapide – used as adjunct therapy - 
+
+
+will lower LDL-C by “another 18-24%.”  See id.   
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+mg/day, a second dose level 
+
+
+is from about 5 to about 30 
+
+
+mg/day, and a third dose level 
+
+
+is from about 10 to about 50 
+
+
+mg/day; and  
+
+
+“The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  Id. 
+ 
+
+
+[i.e. 10 mg/day for 5 weeks; 15 mg/day for 5 weeks; 
+
+
+20 mg/day for 5 weeks; 25 mg/day for 5 weeks; 30 
+
+
+mg/day for 5 weeks; 35 mg/day for 5 weeks; and 40 
+
+
+mg/day for 5 weeks] 
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+ 
+[lomitapide], or a 
+
+
+pharmaceutically acceptable 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof, and 
+
+
+Chang reports the MTP inhibitor CP-346086 lowers 
+
+
+plasma cholesterol and triglycerides in humans and 
+
+
+animals dependent on the dosage and incubation 
+
+
+time.  CFAD Ex. 1015:564-66. 
+ 
+
+
+“Similar efficacy was reported for BAY-13-9952 
+
+
+[implitapide], which produced a dose-dependent 
+
+
+decrease in total cholesterol (45%), LDL cholesterol 
+
+
+(55%) and triglycerides (29%) after 4 weeks of 
+
+
+treatment at an oral dose of 160 mg/day. BMS-
+
+
+201038 [lomitapide] also showed similar efficacy 
+
+
+in phase I and phase II clinical trials.” Id. at 566; 
+
+
+see also id. at Fig. 2. 
+
+
+wherein each dose level is 
+
+
+administered to the subject 
+
+
+for about 1 to about 5 weeks. 
+
+
+“PPD is conducting three 39-week Phase II studies 
+
+
+with dose titration occurring every five weeks based 
+
+
+on safety and tolerability examined at four weeks. 
+
+
+The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  CFAD Ex. 1013:2. 
+
+
+Claim 2. The method 
+
+
+of claim 1 wherein the 
+
+
+PPD hopes to “demonstrate implitapide's safety and 
+
+
+efficacy in . . . severe heterozygous familial
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+34 
+
+
+
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+disorder is severe 
+
+
+hypercholesterolemia. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+hypercholesterolemia ‘where even high-dose statins 
+
+
+are ineffective or inadequate,’ Stein said.”  Id. 
+ 
+
+
+To “treat[] patients with dyslipidemias that extends 
+
+
+beyond primary hypercholesterolemia, the 
+
+
+pharmaceutical industry has targeted inhibition of 
+
+
+microsomal triglyceride transfer protein (MTP)”  
+
+
+CFAD Ex. 1015:562. 
+
+
+Claim 3. The method 
+
+
+of claim 1 wherein one or 
+
+
+more of Total Cholesterol, 
+
+
+LDL, fasting triglycerides 
+
+
+(TG), VLDL, lipoprotein (a) 
+
+
+(Lp(a)), and apolipoproteins 
+
+
+A-I, A-II, B, and E are 
+
+
+reduced by at least 15%, 
+
+
+compared to control levels. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Sheet 2004 states planned implitapide dose 
+
+
+ranges (used as adjunct therapy) will lower LDL-C 
+
+
+by “another 18-24%.”  See CFAD Ex. 1013:2.   
+ 
+
+
+“While Stein acknowledged that MTP inhibitor 
+
+
+projects have been pursued by a number of 
+
+
+companies, . . . he argued that the toxicity seen with 
+
+
+some of those projects was related to the high doses 
+
+
+used during trials.  ‘None of them were looking at 
+
+
+LDL reductions or cholesterol reductions’ as low as 
+
+
+the 20% range, he said.”  Id. 
+ 
+
+
+“Similar efficacy was reported for BAY-13-9952, 
+
+
+which produced a dose-dependent decrease in total 
+
+
+cholesterol (45%), LDL cholesterol (55%) and 
+
+
+triglycerides (29%) after 4 weeks of treatment at an 
+
+
+oral dose of 160 mg/day. BMS-201038 [lomitapide] 
+
+
+also showed similar efficacy in phase I and phase II 
+
+
+clinical trials.”  CFAD Ex. 1015:566. 
+
+
+Claim 4. The method 
+
+
+of claim 1 wherein one or 
+
+
+more of Total Cholesterol, 
+
+
+LDL, fasting triglycerides 
+
+
+(TG), VLDL, lipoprotein (a) 
+
+
+(Lp(a)), and apolipoproteins 
+
+
+A-I, A-II, B, and E are reduced 
+
+
+by at least 25%, compared to 
+
+
+control levels. 
+
+
+See Claim 3, supra.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+35 
+
+
+
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+Claim 5. The method 
+
+
+of claim 1 wherein the MTP 
+
+
+inhibitor is administered 
+
+
+orally. 
+
+
+“Similar efficacy was reported for BAY-13-9952 … 
+
+
+a dose-dependent decrease in total cholesterol 
+
+
+(45%), LDL cholesterol (55%) and triglycerides 
+
+
+(29%) after 4 weeks of treatment at an oral dose of 
+
+
+160 mg/day.  BMS-201038 [lomitapide] also 
+
+
+showed similar efficacy in phase I and phase II 
+
+
+clinical trials.”  CFAD Ex. 1015:566. 
+
+
+Claim 6. The method of claim 
+
+
+1 wherein said increasing dose 
+
+
+levels further comprise a 
+
+
+fourth dose level. 
+
+
+“The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  CFAD Ex. 1013:2. 
+ 
+
+
+[i.e. 10 mg/day for 5 weeks; 15 mg/day for 5 weeks; 
+
+
+20 mg/day for 5 weeks; 25 mg/day for 5 weeks; 30 
+
+
+mg/day for 5 weeks; 35 mg/day for 5 weeks; and 40 
+
+
+mg/day for 5 weeks] 
+
+
+Claim 7.The method of claim 
+
+
+1 wherein said increasing dose 
+
+
+levels further comprise a 
+
+
+fourth and a fifth dose level. 
+
+
+See Claim 6, supra. 
+
+
+
+
+
+Claim 8.The method of claim 
+
+
+1, wherein said fourth dose 
+
+
+level is from about 20 to about 
+
+
+60 mg/day, and said fifth dose 
+
+
+level is from about 30 to about 
+
+
+75 mg/day. 
+
+
+See Claim 6, supra. 
+
+
+
+
+
+Claim 9. A method of 
+
+
+treating a subject suffering 
+
+
+from hyperlipidemia or 
+
+
+hypercholesterolemia, the 
+
+
+method comprising 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+administering to the subject 
+
+
+an effective amount of an 
+
+
+MTP inhibitor, 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+wherein said administration 
+
+
+comprises at least three step-
+
+
+wise, increasing dose levels 
+
+
+of the MTP inhibitor 
+
+
+See Claim 1, supra.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+36 
+
+
+
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+mg/day, administered to the 
+
+
+subject for about 2 weeks; a 
+
+
+second dose level is from 
+
+
+about 5 to about 30 mg/day, 
+
+
+administered to the subject 
+
+
+for about 2 weeks to about 4 
+
+
+weeks; and a third dose level 
+
+
+is from about 10 to about 50 
+
+
+mg/day, administered to the 
+
+
+subject for about 2 weeks to 
+
+
+about 4 weeks; and 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+“PPD is conducting three 39-week Phase II studies 
+
+
+with dose titration occurring every five weeks based 
+
+
+on safety and tolerability examined at four weeks. 
+
+
+The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  CFAD Ex. 1013:2. 
+ 
+
+
+
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+ 
+[lomitapide], or a 
+
+
+pharmaceutically acceptable 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof. 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+Claim 10. A method of 
+
+
+treating a subject suffering 
+
+
+from hyperlipidemia or 
+
+
+hypercholesterolemia, the 
+
+
+method comprising 
+
+
+See Claim 1, supra.  
+ 
+
+
+
+
+
+administering to the subject 
+
+
+an effective amount of an 
+
+
+MTP inhibitor, 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+wherein said administration 
+
+
+comprises at least three step-
+
+
+wise, increasing dose levels 
+
+
+of the MTP inhibitor 
+
+
+See Claim 1, supra.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+37 
+
+
+
+
+
+U.S. 8,618,135 Pink Sheet 2004 in view of Chang 
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+mg/day, administered to the 
+
+
+subject for about 1 to about 12 
+
+
+weeks; a second dose level is 
+
+
+from about 5 to about 30 
+
+
+mg/day, administered to the 
+
+
+subject for about 4 weeks; and 
+
+
+a third dose level is from 
+
+
+about 10 to about 50 mg/day, 
+
+
+administered to the subject for 
+
+
+about 4 weeks; and 
+
+
+See Claim 1, supra.  
+  
+
+
+“PPD is conducting three 39-week Phase II studies 
+
+
+with dose titration occurring every five weeks based 
+
+
+on safety and tolerability examined at four weeks. 
+
+
+The starting dose will be 10 mg daily, escalating by 
+
+
+5 mg/day every five weeks to a maximum 40 
+
+
+mg/day.”  CFAD Ex. 1013:2. 
+ 
+
+
+
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+ 
+[lomitapide], or a 
+
+
+pharmaceutically acceptable 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof. 
+
+
+See Claim 1, supra.  
+
+
+
+
+
+
+
+
+(See Zusman, ¶¶ 116-86, 261 (confirming each element and that the skilled artisan’s 
+
+
+general knowledge renders dose escalation timing obvious)).   
+
+
+ As described in the chart above, the Pink Sheet 2004 teaches a method of 
+
+
+treating a subject suffering from hyperlipidemia or hypercholesterolemia, the 
+
+
+method comprising administering to the subject an effective amount of an MTP 
+
+
+inhibitor (implitapide), wherein said administration comprises at least three (actually 
+
+
+up to seven) step-wise increasing dose levels of the MTP inhibitors.  (See CFAD Ex. 
+
+
+1013:2; Zusman, ¶¶ 110, 123, 126-27, 129-30).  The first dose level taught therein 
+
+
+is between about 2 to about 13 mg/day, a second dose level is between about 5 to
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+38 
+
+
+
+
+
+about 30 mg/day, and a third dose level is between about 10 to about 50 mg/day (see 
+
+
+id.), and each dose level is administered to the subject for about 1 to about 5 weeks 
+
+
+(CFAD Ex. 1013:2; Zusman, ¶¶ 110, 131-32, 135).  Lipid-lowering drugs generally 
+
+
+were titrated upwards at intervals that ranging from 2 to 4 weeks or more.  (Zusman, 
+
+
+¶ 47).  Thus, the claimed intervals fall within the known dose titration ranges already 
+
+
+known for evaluating safety/tolerability.  Galderma Laboratories, L.P. v. Tolmar, 
+
+
+Inc., 737 F.3d 731, 737-38 (Fed. Cir. 2013) (obviousness of prior art range).  
+
+
+The Pink Sheet 2004 does not specifically disclose the MTP inhibitor 
+
+
+represented by: [lomitapide], or a pharmaceutically acceptable salt or piperidine N-
+
+
+oxide thereof.  Chang teaches a method of treating a subject suffering from 
+
+
+hyperlipidemia or hypercholesterolemia using MTP inhibitors specifically including 
+
+
+lomitapide (CFAD Ex. 1015:564-66, Zusman, ¶¶ 124-25, 133-34).  
+
+
+The sole difference between Chang and subject matter encompassed by the 
+
+
+claims is that while Chang disclosed lomitapide and its clinical activity as an MTP 
+
+
+inhibitor, Chang did not expressly teach using lomitapide in an escalated-dose 
+
+
+regimen.  (See Zusman, ¶¶ 123-28, 133-34).  But Pink Sheet 2004 teaches the 
+
+
+escalating-dose regimen not found in Chang.  (Id. at ¶¶ 129-32, 135).  The Pink Sheet 
+
+
+2004 dosing regimen escalates the dose by the 5 week mark, which meets the “about 
+
+
+1 to about 5 weeks”, “about four weeks”, and “about 1 to about 12 weeks” limitations 
+
+
+in claims 1, 9 and 10.  (Zusman, ¶¶ 178-79, 184-85).
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+39 
+
+
+
+
+
+A skilled artisan considering the teachings of Pink Sheet 2004 would also 
+
+
+understand that the disclosed dosing schedule (5-week steps) is a conservative 
+
+
+approach in a clinical trial designed to evaluate safety and tolerability.  (See Zusman, 
+
+
+¶¶ 135, 180; Mayersohn, ¶¶ 66, 71).  They would also understand that acceptable 
+
+
+results at the 4-week mark indicate that intervals shorter than 5 weeks (i.e. 4 weeks 
+
+
+or less) would be acceptable.  (See Zusman, ¶¶ 135, 180; Mayersohn, ¶¶ 66, 71).  
+
+
+Indeed, dose-titration at 2-4 week intervals was established clinical practice for 
+
+
+many cholesterol-lowering medications (see Section VI).  Finally, varying the timing 
+
+
+of the dose escalation according to the patient’s clinical response represents obvious, 
+
+
+routine optimization for persons of ordinary skill in the art; it has been practiced for 
+
+
+many years with lipid-lowering medications.  (See Zusman, ¶¶ 168, 175, 180, 185; 
+
+
+Mayersohn, ¶¶ 20, 66, 71, 74).  
+
+
+ “With every limitation of the asserted claims thus disclosed in the cited 
+
+
+references, the question . . . becomes whether a person of ordinary skill in the art 
+
+
+would have been motivated to combine those teachings to derive the claimed subject 
+
+
+matter with a reasonable expectation of success.”  Bayer Healthcare Pharms. Inc.  
+
+
+v. Watson Pharms. Inc., 713 F.3d 1369, 1375 (Fed. Cir. 2013).   
+
+
+2. Motivation to Combine Pink Sheet 2004 with Chang. 
+
+
+“[A]ny need or problem known in the field of endeavor at the time of 
+
+
+invention . . . can provide a reason for combining the elements in the manner
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+40 
+
+
+
+
+
+claimed.”  KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 420 (2007).  The ordinarily-
+
+
+skilled artisan was motivated to combine the Pink Sheet 2004 with Chang, and vice 
+
+
+versa.  (Zusman, ¶¶ 136-44; Mayersohn, ¶¶ 19, 46-48, 63-65).   
+
+
+Chang identified three MTP inhibitors furthest along in clinical evaluation—
+
+
+CP-346086, implitapide, and lomitapide— and taught each worked in humans and 
+
+
+were similarly effective.  (Zusman, ¶¶ 96-99, 136-68; CFAD Ex. 1015:566-67).  
+
+
+Chang recognized the problem with MTP inhibitors’ side-effect profiles:  they could 
+
+
+not compete commercially with statins as monotherapy.  (See CFAD Ex. 1015:566-
+
+
+67; CFAD Ex. 1001, col. 8:27-30).  Chang’s statement of the problem was 
+
+
+motivation to look to other references for solutions.  See Bayer, 713 F.3d at 1375-
+
+
+76.  As in Bayer, “the references in this case go beyond illuminating a known 
+
+
+problem, they also expressly propose the claimed solution.”  Id.   
+
+
+Pink Sheet 2004 reports Dr. Stein’s solution to the problem Chang articulated:  
+
+
+follow the clinical model established with ZETIA®, and use MTP inhibitors to target 
+
+
+(a) niche conditions like HoFH and (b) levels of clinical improvement acceptable for 
+
+
+adjunct therapy (in the ~18-24% range), by using a lower dose starting at 10 mg/day, 
+
+
+evaluating the dose every 4 weeks, then escalating stepwise by 5 mg/day every 4-5 
+
+
+weeks to a maximum 40 mg daily dose.  (Zusman, ¶¶ 108-10, 139-43; Mayersohn, 
+
+
+¶¶ 45-46).  As in Bayer, “the prior art’s direct recommendations to use [escalated 
+
+
+step-wise] dosing regimens . . . would have motivated one of ordinary skill in the art
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+41 
+
+
+
+
+
+to implement” the dosing regimen “for use with known” MTP inhibitors, including 
+
+
+lomitapide, “as recited in the asserted claims.”  Bayer, 713 F.3d at 1376; see also id. 
+
+
+at 1371 (a known “strategy to reduce side effects has been to reduce the . . . dose 
+
+
+provided in each pill”).   
+
+
+Likewise, the person of ordinary skill in the art reading Pink Sheet 2004 would 
+
+
+have been motivated to identify other MTP inhibitors that would work for the same 
+
+
+purposes and patients.  (Zusman, ¶¶ 93-95, 144; Mayersohn, ¶¶ 45-48).  A review of 
+
+
+the literature—or any one of a number of basic electronic searches—would have 
+
+
+readily led that person to Chang.  (Zusman, ¶¶ 93-95, 144).  Chang confirmed three 
+
+
+MTP inhibitors had advanced to human clinical trials, and of the two performing at 
+
+
+least comparably to implitapide, one was lomitapide.  (Id. at ¶¶ 97-98; Mayersohn, 
+
+
+¶¶ 49-56; CFAD Ex. 1015:566-67).  Thus, the skilled artisan would have been 
+
+
+motivated to combine the Pink Sheet 2004 and Chang teachings, and to apply the 
+
+
+implitapide dosing strategy to lomitapide.  
+
+
+At the very least, given these facts, lomitapide would have been obvious to 
+
+
+try in place of implitapide.  See KSR, 550 U.S. at 402-03 (when “there are a finite 
+
+
+number of identified, predictable solutions, a person of ordinary skill in the art has 
+
+
+good reason to pursue the known options within his or her technical grasp”, and 
+
+
+resulting success “is likely the product not of innovation but of ordinary skill and 
+
+
+common sense.”); Merck & Co., Inc. v. Teva Pharms., USA, Inc., 395 F.3d 1364,
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+42 
+
+
+
+
+
+1375 (Fed. Cir. 2005) (to find patentee’s “weekly-dosing idea non-obvious because 
+
+
+it went against prevailing wisdom, the court must still explain why [patentee] and 
+
+
+not [the prior art] should get credit for the idea” when patentee’s “idea added nothing 
+
+
+to what came before”).     
+
+
+Ordinarily-skilled artisans are also motivated to engage in routine 
+
+
+experimentation to optimize the subject matter they study.  See Senju Pharm. Co. v. 
+
+
+Lupin Ltd., 780 F.3d 1337, 1353 (Fed. Cir. 2015) (choosing 0.01% w/v EDTA for 
+
+
+ophthalmic formulation was “not unexpected or surprising,” but obvious “product 
+
+
+of routine optimization”).  This principle applies to any minor modification to 
+
+
+Stein’s dosing regimen, e.g., increasing the dose “about” every two weeks, or 
+
+
+“about” every four weeks, or “about” every two to four weeks, or “about” one to 12 
+
+
+weeks as claimed rather than evaluating at 4 weeks and increasing the dose by the 
+
+
+5-week mark.  To a skilled artisan, increasing the dose at five week intervals is 
+
+
+increasing the dose at “about four weeks”  (Zusman, ¶¶ 135, 178-79, 184-85), and 
+
+
+dose-titration of cholesterol-lowering drugs at two to four week intervals was and 
+
+
+remains routine clinical practice.  (Id. at ¶¶ 43-47, 64-67).   
+
+
+The claimed dosing intervals also reflect routine variation when applying the 
+
+
+combined teachings of Pink Sheet 2004 and Chang (Id. at ¶¶ 168, 175, 180, 185; 
+
+
+Mayersohn, ¶ 20, 66, 71, 74), and were thus obvious to the ordinarily-skilled artisan 
+
+
+by March 2004.  (Zusman, ¶¶ 168, 175, 180, 185).  The other limitations of the
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+43 
+
+
+
+
+
+dependent claims are also obvious for all the reasons set forth above (see pp. 32-39), 
+
+
+and in the case of claims 3-4 are inherent results of the method of claim 1.  (Zusman, 
+
+
+¶¶ 150-86). 
+
+
+Having established the motivation to combine Pink Sheet 2004 and Chang, 
+
+
+we next ask whether the skilled artisan would reasonably expect to succeed using 
+
+
+lomitapide rather than implitapide in the Stein dosing regimen.  “Yes.” 
+
+
+3. Reasonable Expectation of Success With Lomitapide. 
+
+
+Reasonable expectation of success “does not require a certainty of success.”  
+
+
+Medichem, S.A. v. Rolabo, S.L., 437 F.3d 1157, 1165 (Fed. Cir. 2006) (emphasis 
+
+
+original).  To create a reasonable expectation, the prior art must provide enough 
+
+
+guidance, parameters or direction to the skilled artisan (in light of their background 
+
+
+and knowledge), versus merely general ideas or vague suggestions.  See id.  Here, 
+
+
+the detailed teachings of Pink Sheet 2004 and Chang provide the ordinarily-skilled 
+
+
+artisan a reasonable expectation of success that applying the Pink Sheet 2004’s 
+
+
+dosing regimen to lomitapide would help patients in the manner claimed.  
+
+
+For a skilled artisan reading Pink Sheet 2004, it would have been obvious to: 
+
+
+identify other MTP inhibitors that performed at least comparably to implitapide in 
+
+
+the clinic; use them in the escalating dosing regimen; and reasonably expect them to 
+
+
+again work comparably to implitapide.  (Zusman, ¶¶ 145-48, Mayersohn, ¶¶ 18-19, 
+
+
+48).  Chang identifies two other MTP inhibitors that had progressed into human
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+44 
+
+
+
+
+
+clinical trials: the Pfizer compound CP-346086 and lomitapide [BMS 201038].  
+
+
+(Zusman, ¶¶ 96-99; CFAD Ex. 1015:566-67).  Even if the skilled artisan had to 
+
+
+choose between those two, lomitapide would have been preferred because it had 
+
+
+been successfully tested in WHHL rabbits, the animal model for human HoFH.  (See 
+
+
+Zusman, ¶¶ 97, 146; Mayersohn, ¶¶ 18, 51-53; CFAD Ex. 1015:565).  One of 
+
+
+ordinary skill would expect—based on the public data on implitapide in animals and 
+
+
+humans, and lomitapide in animals—to be able to substitute lomitapide into the 
+
+
+implitapide escalating dose regimen and achieve a working treatment method with 
+
+
+no more than routine adjustments.  (Zusman, ¶¶ 145-48; Mayersohn, ¶¶ 18, 54, 65).  
+
+
+See Bayer, 713 F.3d at 1376; Alza Corp. v. Mylan Labs., Inc., 464 F.3d 1286, 1295 
+
+
+(Fed. Cir. 2006) (prior art creating expectation of “a general, albeit imperfect, 
+
+
+correlation between a drug’s lipophilicity and its colonic absorptivity” supported 
+
+
+motivation and reasonable expectation of success); McNeil-PPC, Inc. v. L. Perrigo 
+
+
+Co., 337 F.3d 1362, 1369-70 (Fed. Cir. 2003) (combination obvious where “several 
+
+
+other well-known antidiarrheals with simethicone had been described in the prior 
+
+
+art”).  
+
+
+The ordinarily-skilled artisan also would have a reasonable expectation of 
+
+
+success with lomitapide at least because, as described above: (a) Stein pursued the 
+
+
+identical approach with implitapide; (b) as MTP inhibitors, implitapide and 
+
+
+lomitapide possessed a similar mechanism and degree of action (see, e.g., CFAD Ex.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+45 
+
+
+
+
+
+1015:562-64); (c) the existing lomitapide data suggested that it should be dosed 
+
+
+similarly to implitapide; and (d) escalating step-wise dosing, adjusted to account for 
+
+
+side effects at the claimed intervals, was routine clinical practice.  (Zusman, ¶¶ 43-
+
+
+47, 59-67, 97-98, 103-05; Mayersohn, ¶¶ 18-19, 47-54).  
+
+
+As for the dependent claims, both the Pink Sheet 2004 and Chang taught using 
+
+
+MTP inhibitors for severe hypercholesterolemia (claim 2).  (Zusman, ¶¶ 152-54).  
+
+
+Claims 3 and 4 recite reductions of 15% and 25% in known markers for MTP 
+
+
+inhibition activity, which fall within the ranges the prior art taught to target.  (Id. at 
+
+
+¶¶ 155-62; Section VI, above).  The claimed reductions also result inherently from 
+
+
+the treatment.  See Santarus, Inc. v. Par Pharm., Inc., 694 F.3d 1344, 1354 (Fed. 
+
+
+Cir. 2012) (limitation was “an inherent property of the formulation, and an obvious 
+
+
+formulation cannot become nonobvious simply by administering it to a patient and 
+
+
+claiming the resulting serum concentrations”).  Claim 5’s oral dosing was known 
+
+
+and expected to work; Chang teaches lomitapide and implitapide were designed as 
+
+
+oral drugs.  (Zusman, ¶¶ 163-65).  The Pink Sheet 2004 teaches the fourth and fifth 
+
+
+dose steps and amounts recited in claims 6-8.  (Id. at ¶¶ 166-76).  Finally, the degree 
+
+
+of efficacy and severity of side-effects of MTP inhibitors are dose-dependent.  (See 
+
+
+CFAD Ex. 1015:564-567; Zusman, ¶¶ 64-67; Mayersohn, ¶¶ 17-18, 51, 53-56).  So, 
+
+
+starting with a lower dose was expected to reduce side effects.  This was the general 
+
+
+practice and result with many lipid-lowering drugs, e.g. fibrates, statins and niacin.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+46 
+
+
+
+
+
+(Zusman, ¶¶ 64-67, 174; see Section IX, above). 
+
+
+Given the above, there are no non-obvious differences between the claims and 
+
+
+the prior art.  Further, as discussed below, the alleged secondary considerations of 
+
+
+nonobviousness are weak at best, and cannot undermine or refute this strong 
+
+
+showing of obviousness.  Subject matter encompassed by claims 1-10 would have 
+
+
+been obvious when filed, so those claims are invalid. 
+
+
+B. Ground II: Obviousness Over Stein 2004 in View of Chang. 
+
+
+The central issue for Ground II is similar to that stated above for Ground I.  
+
+
+The level of ordinary skill in the art (Section VIII) and the scope and content of the 
+
+
+prior art (Section VI) are identical, so there is no need to repeat them here.  The 
+
+
+February 5, 2004 Stein presentation (Stein 2004) is “printed publication” prior art 
+
+
+under pre-AIA 35 U.S.C. §§ 102(a) and (b) as set forth above in Sections V-VI.  
+
+
+1. There Are No Non-Obvious Differences. 
+
+
+The critical teachings of Stein 2004 are similar to the critical teachings of Pink 
+
+
+Sheet 2004.  Yet Stein 2004 provides additional non-cumulative information.  For 
+
+
+example, Stein 2004 goes into detail about the background of the art; the challenges 
+
+
+faced by MTP inhibitors; Stein’s proposed solutions; the proven efficacy of 
+
+
+implitapide; the role for MTP inhibitors as useful therapies; and an even more 
+
+
+detailed marketing strategy and rationale.  (CFAD Ex. 1014:7-45).  Stein 2004 also 
+
+
+provides clinical data from previous implitapide trials in animals and humans.  (Id.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+47 
+
+
+
+
+
+at 23-32).  To the extent the Board has any doubts about the motivation of the skilled 
+
+
+artisan or their expectation of success from Pink Sheet 2004, Stein 2004 necessarily 
+
+
+puts those doubts to rest.   
+
+
+The following claim chart shows an element-by-element comparison between 
+
+
+the ‘135 patent claims and the combination of Stein 2004 and Chang (bold emphasis 
+
+
+added).  There are no non-obvious differences to the skilled artisan: 
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+Claim 1. A method of 
+
+
+treating a subject suffering 
+
+
+hyperlipidemia or 
+
+
+hypercholesterolemia, the 
+
+
+method comprising  
+
+
+“Phase I, Multiple-Day Dose Escalation Study of 
+
+
+Implitapide (BAY 13-9952) . . . Evaluation of the 
+
+
+safety and tolerability of increasing doses of 
+
+
+implitapide administered for 10 days to 
+
+
+hyperlipidemic patients”  CFAD Ex. 1014:27-28.  
+
+
+See also id. at 29-32. 
+ 
+
+
+“[I]nhibition of MTP should reduce plasma lipids by 
+
+
+preventing triglyceride-rich, apoB-containing 
+
+
+lipoprotein assembly in the liver and intestine.”  
+
+
+CFAD Ex. 1015:563. 
+ 
+
+
+“The lipid lowering and anti-atherosclerosis effects 
+
+
+of MTP inhibitors have been consistently observed 
+
+
+and broadly demonstrated across all series evaluated 
+
+
+using a wide variety of representative animal 
+
+
+models.”  Id. at 564. 
+
+
+administering to the subject an 
+
+
+effective amount of an MTP 
+
+
+inhibitor, wherein said 
+
+
+administration comprises at 
+
+
+least three step-wise, increasing 
+
+
+dose levels of the MTP 
+
+
+inhibitor 
+
+
+“Three studies with virtually identical design: All 
+
+
+are ≅39 weeks duration with dose titration schedule 
+
+
+every 5 weeks based on safety and tolerability at 4 
+
+
+weeks . . . Starting dose is 10 mg daily with 
+
+
+escalation by 5 mg every 5 weeks to maximum of 40 
+
+
+mg.”  CFAD Ex. 1014:38. 
+ 
+
+
+See id., 28-29, 32 (reporting implitapide Phase I and 
+
+
+Phase II trial results (efficacy at listed doses)). 
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+“Starting dose is 10 mg daily with escalation by 5 
+
+
+mg every 5 weeks to maximum of 40 mg.”  Id. at 38;
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+48 
+
+
+
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+mg/day,  
+
+
+
+
+
+a second dose level is from 
+
+
+about 5 to about 30 mg/day,  
+
+
+
+
+
+and a third dose level is from 
+
+
+about 10 to about 50 mg/day; 
+
+
+and  
+
+
+see also id. at 37. 
+ 
+
+
+[i.e. 10 mg/day for 5 weeks; 15 mg/day for 5 weeks; 
+
+
+20 mg/day for 5 weeks; 25 mg/day for 5 weeks; 30 
+
+
+mg/day for 5 weeks; 35 mg/day for 5 weeks; and 40 
+
+
+mg/day for 5 weeks] 
+ 
+
+
+“Challenge to find ‘Therapeutic’ window, i.e. 
+
+
+efficacy without toxicity. . . . Potential to control 
+
+
+both fat malabsorption and GI side effects with 
+
+
+lower doses.”  Id. at 21; see id. at 31.   
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+ 
+[lomitapide] or a 
+
+
+pharmaceutically acceptable 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof, and 
+
+
+Chang reports CP-346086 lowers human and animal 
+
+
+plasma cholesterol and triglycerides in in dose-
+
+
+dependent manner.  CFAD Ex. 1015:564-66. 
+ 
+
+
+“Similar efficacy was reported for BAY-13-9952 
+
+
+[implitapide], which produced a dose-dependent 
+
+
+decrease in total cholesterol (45%), LDL cholesterol 
+
+
+(55%) and triglycerides (29%) after 4 weeks of 
+
+
+treatment at an oral dose of 160 mg/day. BMS-
+
+
+201038 [lomitapide] also showed similar efficacy 
+
+
+in phase I and phase II clinical trials.”  Id. at 566; 
+
+
+see also id. at Fig. 2. 
+
+
+wherein each dose level is 
+
+
+administered to the subject for 
+
+
+about 1 to about 5 weeks. 
+
+
+“Three studies with virtually identical design: All 
+
+
+are ≅39 weeks duration with dose titration schedule 
+
+
+every 5 weeks based on safety and tolerability at 4 
+
+
+weeks . . . Starting dose is 10 mg daily with 
+
+
+escalation by 5 mg every 5 weeks to maximum of 
+
+
+40 mg.”  CFAD Ex. 1014:38 (emphasis added). 
+
+
+Claim 2. The method of claim 
+
+
+1 wherein the disorder is 
+
+
+severe hypercholesterolemia. 
+
+
+“Potential for very large reductions VLDL and LDL, 
+
+
+Chylos and remnants . . . May still have role in 
+
+
+HoFH, HeFH, FCH and hyperchylomicronemia”  Id. 
+
+
+at 21; see also id. at 19-26. 
+ 
+
+
+ “With the goal of developing a therapy for treating 
+
+
+patients with dyslipidemia that extends beyond  
+
+
+primary hypercholesterolemia, the pharmaceutical 
+
+
+industry has targeted inhibition of microsomal 
+
+
+triglyceride transfer protein (MTP) as a mechanism 
+
+
+for reducing not only  plasma total and LDL
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+49 
+
+
+
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+cholesterol, but also plasma very low density 
+
+
+lipoprotein (VLDL) cholesterol and triglycerides.”  
+
+
+CFAD Ex. 1015:562; see also id. at 563. 
+
+
+Claim 3. The method of claim 
+
+
+1 wherein one or more of 
+
+
+Total Cholesterol, LDL, 
+
+
+fasting triglycerides (TG), 
+
+
+VLDL, lipoprotein (a) 
+
+
+(Lp(a)), and lipoprotein B are 
+
+
+reduced by at least 15%, 
+
+
+compared to control levels. 
+
+
+See CFAD Ex. 1014:28-29, 32 (reporting 
+
+
+implitapide Phase I and Phase II trial results). 
+ 
+
+
+“Similar efficacy was reported for BAY-13-9952 
+
+
+[implitapide], which produced a dose-dependent 
+
+
+decrease in total cholesterol (45%), LDL cholesterol 
+
+
+(55%) and triglycerides (29%) after 4 weeks of 
+
+
+treatment at an oral dose of 160 mg/day. BMS-
+
+
+201038 [lomitapide] also showed similar efficacy in 
+
+
+phase I and phase II clinical trials.”  CFAD Ex. 
+
+
+1015:566. 
+
+
+Claim 4. The method of claim 
+
+
+1 wherein one or more of 
+
+
+Total Cholesterol, LDL, … 
+
+
+(TG), VLDL,… (Lp(a)), and 
+
+
+lipoprotein B are reduced by 
+
+
+at least 25%, compared to 
+
+
+control levels. 
+
+
+See CFAD Ex. 1014:28-29, 32 (reporting 
+
+
+implitapide Phase I and Phase II trial results). 
+ 
+
+
+Dose (mg/day) LDL-C Total-C apoB 
+
+
+20 mg -10% -12% -2% 
+
+
+40 mg -31% -22% -17% 
+
+
+80 mg -32% -27% -28% 
+
+
+160 mg -61% -54% -55% 
+ 
+
+
+Claim 5. The method of claim 
+
+
+1 wherein the MTP inhibitor is 
+
+
+administered orally. 
+
+
+Similar efficacy was reported for BAY-13-9952 
+
+
+[implitapide], which produced a dose-dependent 
+
+
+decrease in total cholesterol (45%), LDL cholesterol 
+
+
+(55%) and triglycerides (29%) after 4 weeks of 
+
+
+treatment at an oral dose of 160 mg/day. BMS-
+
+
+201038 also showed similar efficacy in phase I and 
+
+
+phase II clinical trials.”  CFAD Ex. 1015:566. 
+
+
+Claim 6. The method of claim 
+
+
+1 wherein said increasing dose 
+
+
+levels further comprise a 
+
+
+fourth dose level. 
+
+
+“Three studies with virtually identical design: All 
+
+
+are ≅39 weeks duration with dose titration schedule 
+
+
+every 5 weeks based on safety and tolerability at 4 
+
+
+weeks . . . Starting dose is 10 mg daily with 
+
+
+escalation by 5 mg every 5 weeks to maximum of 40 
+
+
+mg.”  CFAD Ex. 1014:38. 
+ 
+
+
+[i.e. 10 mg/day for 5 weeks; 15 mg/day for 5 weeks; 
+
+
+20 mg/day for 5 weeks; 25 mg/day for 5 weeks; 30 
+
+
+mg/day for 5 weeks; 35 mg/day for 5 weeks; and 40
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+50 
+
+
+
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+mg/day for 5 weeks] 
+
+
+Claim 7. The method of claim 
+
+
+1 wherein said increasing dose 
+
+
+levels further comprise a fourth 
+
+
+and a fifth dose level. 
+
+
+
+
+
+See Claim 6, supra. 
+
+
+Claim 8. The method of claim 
+
+
+7, wherein said fourth dose 
+
+
+level is from about 20 to about 
+
+
+60 mg/day, and said fifth dose 
+
+
+level is from about 30 to about 
+
+
+75 mg/day. 
+
+
+
+
+
+See  Claim 6, supra. 
+
+
+Claim 9. A method of treating 
+
+
+a subject suffering from 
+
+
+hyperlipidemia or 
+
+
+hypercholesterolemia, the 
+
+
+method comprising 
+
+
+See Claim 1, supra. 
+
+
+
+
+
+administering to the subject 
+
+
+an effective amount of an 
+
+
+MTP inhibitor, 
+
+
+See Claim 1, supra. 
+
+
+wherein said administration 
+
+
+comprises at least three step-
+
+
+wise, increasing dose levels 
+
+
+of the MTP inhibitor 
+
+
+See Claim 1, supra. 
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+mg/day, administered to the 
+
+
+subject for about 2 weeks; a 
+
+
+second dose level is from 
+
+
+about 5 to about 30 mg/day, 
+
+
+administered to the subject 
+
+
+for about 2 weeks to about 4 
+
+
+weeks; and a third dose level 
+
+
+is from about 10 to about 50 
+
+
+mg/day, administered to the 
+
+
+subject for about 2 weeks to 
+
+
+about 4 weeks; and 
+
+
+“Proposed MTP Development plan…Start at low 
+
+
+doses, 10 mg and dose titrate by 5mg based on 
+
+
+‘safety’ every 5 weeks…”  CFAD Ex. 1014:37. 
+ 
+
+
+“Three studies … with dose titration schedule every 
+
+
+5 weeks based on safety and tolerability at 4 
+
+
+weeks… Starting dose is 10 mg daily with escalation 
+
+
+by 5 mg every 5 weeks to maximum of 40 mg.”  
+
+
+CFAD Ex. 1014:38. 
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+See Claim 1, supra.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+51 
+
+
+
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+ 
+[lomitapide], or a 
+
+
+pharmaceutically acceptable 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof. 
+
+
+Claim 10. A method of 
+
+
+treating a subject suffering 
+
+
+from hyperlipidemia or 
+
+
+hypercholesterolemia, the 
+
+
+method comprising 
+
+
+See Claim 1, supra. 
+
+
+
+
+
+administering to the subject 
+
+
+an effective amount of an 
+
+
+MTP inhibitor, 
+
+
+See Claim 1, supra. 
+
+
+
+
+
+wherein said administration 
+
+
+comprises at least three step-
+
+
+wise, increasing dose levels 
+
+
+of the MTP inhibitor 
+
+
+See Claim 1, supra. 
+
+
+
+
+
+wherein a first dose level is 
+
+
+from about 2 to about 13 
+
+
+mg/day, administered to the 
+
+
+subject for about 1 to about 
+
+
+12 weeks; a second dose level 
+
+
+is from about 5 to about 30 
+
+
+mg/day, administered to the 
+
+
+subject for about 4 weeks; 
+
+
+and a third dose level is from 
+
+
+about 10 to about 50 mg/day, 
+
+
+administered to the subject 
+
+
+for about 4 weeks; and 
+
+
+“Three studies with virtually identical design: All 
+
+
+are ≅39 weeks duration with dose titration schedule 
+
+
+every 5 weeks based on safety and tolerability at 4 
+
+
+weeks . . . Starting dose is 10 mg daily with 
+
+
+escalation by 5 mg every 5 weeks to maximum of 
+
+
+40 mg.”  CFAD Ex. 1014:38. 
+
+
+
+
+
+See also Claim 9, supra. 
+
+
+
+
+
+wherein the MTP inhibitor is 
+
+
+represented by:  
+
+
+ 
+[lomitapide], or a 
+
+
+pharmaceutically acceptable 
+
+
+See Claim 1, supra.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+52 
+
+
+
+
+
+U.S. 8,618,135 Stein 2004 in view of Chang 
+
+
+salt thereof or the piperidine 
+
+
+N-oxide thereof. 
+
+
+
+
+
+(See Zusman, ¶¶ 187-260, 262 (confirming each element, and that the skilled 
+
+
+artisan’s general knowledge renders dose escalation timing obvious)). 
+
+
+ As described in the chart above, Stein 2004 teaches a method of treating a 
+
+
+subject suffering from hyperlipidemia or hypercholesterolemia, the method 
+
+
+comprising administering to the subject an effective amount of an MTP inhibitor 
+
+
+(implitapide), wherein said administration comprises at least three (actually up to 
+
+
+seven) step-wise increasing dose levels of the MTP inhibitors.  (See CFAD Ex. 
+
+
+1014:27-32, 37-38; Zusman ¶¶ 103-05, 194, 197-98, 200).  The first dose level 
+
+
+taught therein is from about 2 to about 13 mg/day, a second dose level is from about 
+
+
+5 to about 30 mg/day, and a third dose level is from about 10 to about 50 mg/day 
+
+
+(CFAD Ex. 1014:37-38; Zusman ¶¶ 201-02), and each dose level is administered to 
+
+
+the subject for about 1 to about 5 weeks (CFAD Ex. 1014:37-38; Zusman ¶¶ 201-
+
+
+02).  Lipid-lowering drugs generally were titrated upwards at intervals of 2 to 4 
+
+
+weeks, or longer. (Zusman, ¶ 47).  Thus, the claimed intervals fall into the known 
+
+
+dose titration ranges already used to evaluate safety/tolerability.  See Galderma, 737 
+
+
+F.3d at 737-38 (obviousness of prior art range).  
+
+
+Stein 2004 does not specifically disclose the MTP inhibitor represented by 
+
+
+[lomitapide], or a pharmaceutically acceptable salt or piperidine N-oxide thereof.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+53 
+
+
+
+
+
+Chang teaches a method of treating a subject suffering from hyperlipidemia or 
+
+
+hypercholesterolemia using MTP inhibitors specifically including lomitapide.  
+
+
+(CFAD Ex. 1015:564-66; Zusman, ¶¶ 195-96, 199, 203-04).  
+
+
+The sole difference between Chang and the claimed subject matter is that 
+
+
+Chang did not expressly teach using lomitapide in an escalated-dose regimen.  
+
+
+(Zusman, ¶¶ 194-99, 203-04).  But Stein 2004 teaches the escalating-dose regimen 
+
+
+not found in Chang.  (Id. at ¶¶ 200-02, 205).  The Stein 2004 dosing regimen 
+
+
+increases the dose by the 5 week mark, which meets the “about 1 to about 5 weeks”, 
+
+
+“about four weeks”, and “about 1 to about 12 weeks” limitations in claims 1, 9 and 
+
+
+10.  (Zusman, ¶¶ 252-53, 259).  Petitioner incorporates by reference the remaining 
+
+
+discussion in Section X.A.1.   
+
+
+2. Motivation to Combine Stein 2004 with Chang. 
+
+
+The motivation to combine Stein 2004 with Chang corresponds to the 
+
+
+motivation to combine set forth in Ground One.  (See Zusman, ¶¶ 206-16; 
+
+
+Mayersohn, ¶¶ 19, 46-48, 63-65, 68-70).  Therefore, Petitioner incorporates by 
+
+
+reference the analysis in Section X.B.2 about Chang’s teachings, the Pink Sheet 
+
+
+2004 teachings also found in Stein 2004, and the motivation to combine them.  But 
+
+
+additional Stein 2004 teachings further motivate the skilled artisan. 
+
+
+For example, Stein 2004 reports that the U.S. “lipid lowering market is now 
+
+
+the largest therapeutic segment at ≅ $16 to $18 billion.”  (CFAD Ex. 1014:7).  Stein
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+54 
+
+
+
+
+
+also reports that market growth, while slowing, remained “in the double digits”, and 
+
+
+“[a]s a class statins are by far the largest component with each percentage of market 
+
+
+share worth ≅ $160,000,000 per year.”  (Id.)  Stein 2004 also clarified the nature of 
+
+
+the market opportunity for MTP inhibitors as adjunctive therapy: “New therapeutic 
+
+
+agents will be additive or complementary not competitive with statins or even 
+
+
+existing agents.”  (Id.)  The size of this potential market would surely have motivated 
+
+
+the skilled artisan–as would Dr. Stein’s proposed solution to managing side-effects 
+
+
+by using known dosing techniques.  
+
+
+Stein 2004 also provides additional detail about the clinical need for MTP 
+
+
+inhibitors not explicitly noted in Pink Sheet 2004.  Stein teaches there is “[s]till large 
+
+
+potential unmet need for additional, for [sic] even moderately effective (15-20%), 
+
+
+LDLC lowering agents,” (Id. at 45), and taught how to satisfy that need.  (Id. at 22-
+
+
+43).  The presentation touts the clinical potential for MTP inhibitors as a class, and 
+
+
+motivates the ordinarily-skilled artisan to investigate further: “MTP inhibition offers 
+
+
+the widest potential for reducing production of the atherogenic lipoproteins 
+
+
+including chylomicrons, VLDL, IDL, and LDL.”  (Id. at 45).  
+
+
+Stein 2004 also would encourage the skilled artisan to reasonably expect 
+
+
+success by teaching that applying stepwise escalating dosing will achieve the desired 
+
+
+clinical targets with lower doses.  Stein 2004 confirmed the “[i]nitial ‘hurdles’ and 
+
+
+expectations are modest and based on existing scientific data.”  (Id. at 44)
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+55 
+
+
+
+
+
+(emphasis added).  Significantly, given Chang’s expressed concerns about an 
+
+
+appropriate therapeutic index and marketing hurdles for MTP inhibitors, the skilled 
+
+
+artisan would understand from Stein 2004 that the MTP inhibitor need only produce 
+
+
+a modest result to justify pursuit.  (Zusman, ¶¶ 105, 210-14).  
+
+
+All of these teachings in Stein 2004, as well as the detailed implitapide trial 
+
+
+data in the presentation (CFAD Ex. 1014:23-32), provide additional motivation to 
+
+
+the ordinarily-skilled artisan to pursue other MTP inhibitors which could work 
+
+
+according to the plan Stein proposed for implitapide.  As noted above, that search 
+
+
+would quickly lead to Chang and to lomitapide.  (Zusman, ¶¶ 93-95, 144).   
+
+
+3. Reasonable Expectation of Success With Lomitapide. 
+
+
+The analysis of the skilled artisan’s reasonable expectation of success when 
+
+
+substituting lomitapide for implitapide in the stepwise escalating dosing regimen 
+
+
+taught by Stein 2004 in view of Chang correlates to the Pink Sheet 2004/Chang 
+
+
+combination analysis.  (See id. at ¶¶ 217-21; Mayersohn, ¶¶ 18-19, 48, 54, 65).  
+
+
+Petitioner incorporates by reference here the “reasonable expectation of success” 
+
+
+analysis in Section X.A.3 above.  But further Stein 2004 teachings confirm the 
+
+
+reasonable expectation of success, including the implitapide trial data (CFAD Ex. 
+
+
+1014:23-32) and Dr. Stein’s teachings that the success required need only be modest 
+
+
+to justify pursuing MTP inhibitors.  (Id. at 44; Zusman, ¶¶ 105, 210-14).   
+
+
+Given the above, there are no non-obvious differences between the claims and
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+56 
+
+
+
+
+
+the prior art.  Further, as discussed below, the alleged secondary considerations of 
+
+
+nonobviousness asserted during the ‘135 prosecution cannot undermine or refute the 
+
+
+strong showing of obviousness.  From the perspective of one of ordinary skill in the 
+
+
+art, claims 1-10 were obvious when filed.  They are invalid. 
+
+
+C. Secondary Considerations Presented During Prosecution Do Not 
+Rebut the Prima Facie Case of Unpatentability. 
+
+
+An obviousness analysis must consider “secondary considerations” evidence 
+
+
+when presented.  See Graham v. John Deere, 383 U.S. at 17-18.  Petitioner submits 
+
+
+no substantial evidence of secondary considerations exists, but nevertheless 
+
+
+addresses Patentee’s arguments raised during prosecution. 
+
+
+With Petitioner having presented a strong prima facie case of obviousness 
+
+
+(Sections IV-X.B. above), Patentee has the burden to produce secondary 
+
+
+considerations evidence with nexus to the claims to refute that case.  See In re Dillon, 
+
+
+919 F.2d 688, 692-93 (Fed Cir. 1990) (en banc).  Patentee cannot do so here.  See 
+
+
+Wyers v. Master Lock Co., 616 F.3d 1231, 1246 (Fed. Cir. 2010) (secondary 
+
+
+considerations “simply cannot overcome a strong prima facie case of obviousness”); 
+
+
+accord Pfizer, Inc. v. Apotex, Inc., 480 F.3d 1348, 1371 (Fed. Cir. 2007); Allergan 
+
+
+v. Sandoz, 726 F.3d 1286, 1293 (Fed. Cir. 2013).   
+
+
+First, “where the inventions represented no more than ‘the predictable use of 
+
+
+prior art elements according to their established functions,’ the secondary 
+
+
+considerations are inadequate to establish nonobviousness as a matter of law.”
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+57 
+
+
+
+
+
+Wyers, 616 F.3d at 1246 (quoting KSR, 550 U.S. at 417).  The prior art here taught 
+
+
+each element of the ‘135 patent claims, and their predictable and expected results.  
+
+
+See Senju, 780 F.3d at 1353 (routine experimental work was obvious).  
+
+
+Second, the patentee argued during prosecution that the alleged “failure of 
+
+
+others” to solve the side-effects problem, “unexpected results” from the claimed 
+
+
+stepwise dosing regimen, and alleged “industry skepticism” were objective evidence 
+
+
+of the nonobviousness of the ‘135 patent claims.  (See CFAD Ex. 1009:7-9; see also 
+
+
+CFAD Ex. 1010:1-2).  None withstand scrutiny. 
+
+
+No failure of others.  Dr. Stein’s solution for MTP inhibitor dosing—
+
+
+escalating step-wise dosing—was already published.  This alone is fatal to patentee’s 
+
+
+argument, because it precludes any nexus to the ‘135 patent claims.  Ormco Corp. 
+
+
+v. Align Tech., Inc., 463 F.3d 1299, 1311-12 (Fed. Cir. 2006); see also Muniauction, 
+
+
+Inc. v. Thomson Corp., 532 F.3d 1318, 1327-28 (Fed. Cir. 2008) (nexus required to 
+
+
+give substantial weight to secondary considerations evidence).   
+
+
+Patentee’s related argument that “scientists and investigators of the failed 
+
+
+[circa-1990s BMS lomitapide] trial, did not appear to arrive at any solution to these 
+
+
+adverse events” is also wrong.  (CFAD Ex. 1009:8; CFAD Ex. 1010:1).  Those 
+
+
+“others” were dosing lomitapide in the hope of competing commercially with statin 
+
+
+drugs as monotherapy.  (See Zusman, ¶ 266; CFAD Ex. 1001, col. 8:27-30 (BMS 
+
+
+decided side effects “made it unlikely that BMS-201038 could be developed as a
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+58 
+
+
+
+
+
+drug for large scale use in the treatment of hypercholesterolemia”); see also CFAD 
+
+
+Ex. 1013:2 (“‘None of them were looking at LDL reductions or cholesterol 
+
+
+reductions’ as low as the 20% range, [Stein] said. ‘They didn’t consider that viable 
+
+
+in terms of marketing.’”).  BMS’s decision to discontinue lomitapide development 
+
+
+for economic reasons does not demonstrate scientific or technological obstacles to 
+
+
+(or the nonobviousness of) the claimed invention.  See Orthopedic Equip. Co. v. 
+
+
+United States, 702 F.2d 1005, 1013 (Fed. Cir. 1983).  Indeed, patentee’s proposed 
+
+
+solutions—dose-escalation of lomitapide in combination therapy, treatment of 
+
+
+HoFH and other niche diseases, therapeutic improvements in the 15-25% range, 
+
+
+etc.—merely copy Stein’s prior art solutions.  (See CFAD Ex. 1001, col. 7:49-60; 
+
+
+col. 10:35-42; col.11:33 – 13:62; Cf. CFAD Ex. 1013:2; CFAD Ex. 1014:7, 33-38; 
+
+
+Zusman, ¶¶ 76-78, 267; Mayersohn, ¶¶ 72-73).  
+
+
+No unexpected results.  The Sasiela Declaration asserts reduced side effects 
+
+
+from the claimed escalating dosing regimen was a “surprising” and “unexpected 
+
+
+result.”  (See CFAD Ex. 1010:2-3).  To the contrary, this was the natural result 
+
+
+flowing from applying Stein’s escalating-dose method to lomitapide.  (Zusman, 
+
+
+¶¶ 74-76, 265).  Before March 2004, ordinarily-skilled artisans would reasonably 
+
+
+expect reduced side-effects to result from using lower initial doses of anti-
+
+
+cholesterol drugs, including MTP inhibitors, in an escalating dosing regimen.  (See 
+
+
+id. at ¶¶ 74-76, 265; CFAD Ex. 1014:31, 36-38; CFAD Ex. 1013:2; CFAD Ex.
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+59 
+
+
+
+
+
+1021).  This is especially so given the known dose dependency of the cholesterol-
+
+
+lowering effects of MTP inhibitors, and their gastrointestinal and hepatic side-
+
+
+effects.  (See Zusman, ¶ 265; CFAD Ex. 1015:564-67).   
+
+
+No skepticism.  Patentee argued skilled artisans were allegedly “skeptical” 
+
+
+about the benefits of step-wise dosing for MTP inhibitors as shown by alleged 
+
+
+teaching away in the references cited by the Examiner.  (See CFAD Ex. 1009:7-9).  
+
+
+Any purported skepticism was resolved by the publication of the Pink Sheet 2004 or 
+
+
+Stein 2004 references.  See Hoffman-LaRoche, Inc. v. Apotex, Inc., 748 F.3d 1326, 
+
+
+1330-31 (Fed. Cir. 2013).  Indeed, Dr. Stein’s active pursuit and promotion of a step-
+
+
+wise, escalating dosing regimen for MTP inhibitors in phase II clinical trials of 
+
+
+implitapide confirms a lack of skepticism in the art.  (Zusman, ¶ 268; CFAD Ex. 
+
+
+1014: 31, 36-38; CFAD Ex. 1013:2).  To obtain informed consent and ethically 
+
+
+conduct Phase II clinical trials, researchers must reasonably expect some positive 
+
+
+clinical benefit.  See 21 C.F.R. § 50.25 (2001); 45 C.F.R. § 46.116 (2001).  
+
+
+Finally, Patentee did not argue “commercial success” before the Examiner; no 
+
+
+lomitapide products were then sold.  Any such argument now would fail for at least 
+
+
+these reasons: (a) there can be no nexus between the ‘135 patent claims and any 
+
+
+alleged commercial success of success of Juxtapid®–lomitapide, its uses, and 
+
+
+escalating step-wise dosing were all known in the prior art; (b) BMS blocking 
+
+
+patents on lomitapide (as a compound) have protected Juxtapid® from competing
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+60 
+
+
+
+
+
+lomitapide products; and (c) Juxtapid® has enjoyed regulatory market exclusivity 
+
+
+since its 2012 approval.  See Merck & Co., 395 F.3d at 1377 (finding commercial 
+
+
+success “not significantly probative” where others were “legally barred” from 
+
+
+“commercially testing the [prior art] ideas.”).  But regardless of the commercial 
+
+
+opportunity, the core of the obviousness analysis remains in the science.  Marketing 
+
+
+challenges or the absence of an attractive commercial opportunity are not evidence 
+
+
+of non-obviousness.  Businessmen not pursuing a path “for economic reasons is not 
+
+
+the same as saying that it could not be done because skilled persons in the art felt 
+
+
+that there was some technological incompatibility that prevented” the invention.  
+
+
+Orthopedic Equip. Co., 702 F.2d at 1013.  
+
+
+XI. CONCLUSION. 
+
+
+The prior art and evidence presented show a substantial likelihood that each 
+
+
+of the challenged claims of the ‘135 patent are invalid under 35 U.S.C. § 103.  
+
+
+Petitioner therefore requests that the Board grant this Petition for inter partes review 
+
+
+and find the claims of the ‘135 patent are invalid. 
+
+
+      Respectfully submitted, 
+
+
+Dated: August 28, 2015 By: /Gregory Gonsalves/ 
+
+
+ Dr. Gregory Gonsalves 
+
+
+Reg. No. 43,639 
+
+
+2216 Beacon Lane 
+
+
+Falls Church, Virginia 22043 
+
+
+(571) 419-7252 
+
+
+gonsalves@gonsalveslawfirm.com
+Petition for Inter Partes Review of USPN 8,618,135 
+ 
+
+
+61 
+
+
+
+
+
+CERTIFICATE OF SERVICE 
+
+
+
+
+
+Pursuant to 37 C.F.R. §§ 42.6(e) and 42.105, I, Dr. Gregory J. Gonsalves, 
+
+
+hereby certify that on this 28th day of August, 2015, I caused to be served a true and 
+
+
+correct copy of the foregoing Petition for Inter Partes Review of U.S. Patent No. 
+
+
+8,618,135 (and accompanying exhibits 1001 - 1041) in its entirety by U.S. Express 
+
+
+Mail, on the following: 
+
+
+Goodwin Procter LLP 
+
+
+ATTN: Theresa C. Kavanaugh 
 
 
-Director of Research: Carson C. Block, Esq.
+53 State Street 
 
 
-Muddy Waters, LLC
-www.muddywatersresearch.com
+Exchange Place 
 
 
-info@muddywatersresearch
+Boston, MA 02109-2881 
 
 
-Company:
 
 
-CCME: Taking the Short Bus to Profits
 
+Patent owner’s correspondence 
 
-Recommendation:
 
+address of record for U.S. Patent No. 
 
-Industry:
 
+8,618,135 
 
-Report Date:
 
 
-Price:
 
 
-Market Cap:
+The Trustees of the University of 
 
 
-10.2 million
+Pennsylvania 
 
 
-Avg Volume:
+3160 Chestnut Street, Suite 200 
 
 
-China Media Express Holdings (CCME)
+Center for Technology Transfer 
 
 
-Strong Sell
+Philadelphia, PA 19104-6283 
 
 
-Outdoor Digital Advertising
 
 
-February 3, 2011
 
+Patent owner of U.S. Patent No. 
 
-$16.61
 
+8,618,135 
 
-$559.3 million
 
 
-Float:
 
 
-1.7 million
+Dated:  August 28, 2015 By: /Gregory Gonsalves/ 
 
 
-Estimated Value:
-$5.28
+ Dr. Gregory Gonsalves 
 
 
-Muddy Waters, LLC believes that CCME is engaging in a 
-massive “pump and dump” scheme whereby it significantly 
-inflates revenue and profits in order to enrich management 
-through earn-outs and stock sales.
+Reg. No. 43,639 
 
 
-We estimate that CCME’s actual 2009 revenue was no more 
-than $17 million (versus $95.9 million it reported).  
+2216 Beacon Lane 
 
 
-The data CCME provides to advertisers shows that it has 
-fewer than half of the 27,200 buses it claims to have.
+Falls Church, Virginia 22043 
 
 
-The CTR reports that the Company uses to support its 
-claims contain gross errors that we conclude are due to 
-manipulation by the management.
+(571) 419-7252 
 
 
-We estimate that over half of CCME’s network buses do not 
-actually play CCME content.  Rather, drivers play DVD 
-movies that are often provided by passengers.
-
-
-We caught CCME’s management telling a particularly 
-egregious lie – that its new website (www.switow.com) has 
-entered into an agreement with Apple (or one of Apple’s) 
-distributors.  Neither is true.
-
-
-Similar to RINO, CCME is an obscure company in its 
-industry.  Media buyers who would have to know it if 
-CCME were to be believed have never even heard the 
-Company’s name before.
-
-
-CCME’s core audience is sub-Greyhound Bus demo-
-graphic.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-2	
-  
-
-
-CCME: Riding the Short Bus to Profits 
- 
-Muddy Waters, LLC believes that China MediaExpress Holdings, Inc. (“CCME” or the 
-“Company”) is engaging in a massive “pump and dump” scheme.  The Company is significantly 
-inflating its revenue and earnings in order to pay management earn-outs and inflate the stock 
-price so insiders can sell.   
- 
-Management owns approximately $312 million worth of shares.  An institutional investor 
-informed us that management was quite interested in selling him $50 million worth of their 
-shares.  In October 2010, a party closely connected to management sold nine million dollars of 
-stock.1 
- 
-We estimate that CCME’s actual 2009 revenue was no more than $17 million versus reported 
-revenue of $95.9 million, an overstatement of over 464%.  Note that the SAIC financial 
-statements of the operating company, Fujian Focus Media Co. Ltd., show 2009 revenue of 
-$760,000 (generating a net loss of $920,000), and 2008 revenue of $337,000 (generating a net 
-loss of $890,000).   
- 
-We doubt that CCME would have been profitable on $17 million in revenue, but giving it the 
-benefit of the doubt, we would assume net income of $1.7 million, or basic EPS of $.05.  We 
-place a 5x multiple on the earnings due to our belief that the real earnings could very well be 
-lower than $.05.  This yields a value of $.25 per share.  We add in the cash balance to value the 
-Company.  If one assumes that the $169.9 million in cash on the balance sheet is accurate, which 
-is a large assumption considering we do not believe the reported income, one would value 
-CCME at $5.28 per share.  However, to the extent that the cash balance is inflated, we would 
-value CCME at a lower price.  Therefore our per share valuation is currently $5.28, but is subject 
-to change should we believe that the cash number is incorrect. 
- 
-CCME: The Myth 
- 
-CCME would have investors believe that it places televisions to show advertising and non-
-advertising content on over 27,200 long distance buses.  CCME would also have investors 
-believe that it has generated approximately $214 million in advertising revenue in 2010,2 with 
-much of it coming from large marketers such as The Coca-Cola Company (NYSE: KO) and 
-Lenovo (HKSE: 992).  CCME also trumpets its airport express bus operation, which it claims 
-generated $15 million in revenue in Q3 2010 from only six airports. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 The seller was Thousand Space Holdings Ltd., which is beneficially owned by Lin Ou Wen, who was an investor 
-in the business prior to the SPAC transaction. 
-2 See Global Hunter Securities, LLC “Continued due diligence on CCME reinforces our thesis; Reiterate Buy” 
-(February 1, 2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-3	
-  
-
-
-CCME states that its audiences consists of middle-income professionals with disposable income, 
-and is thus attractive to advertisers.  CCME also paints a picture of these valuable travelers 
-dutifully watching the CCME’s content on one of two screens on the typical CCME bus. 
- 
-CCME supports its contentions on bus network size, viewership, and demographics by citing 
-research it commissioned from CTR Media Intelligence (“CTR”).  In an attempt to prove its 
-legitimacy and strong cash generation capability, it announced plans to pay a semi-annual 
-dividend equal to 5% to 10% of earnings.3 
- 
-BUSted – a Small Advertising Company Creating a Lot of Wealth for Management. 
- 
-CCME tells investors that it has over 27,200 buses in its network.4  However, it tells advertisers 
-that it only has 12,565 buses in its network.  CCME management tells investors that its 
-utilization rate (minutes sold divided by minutes available for sale) is close to 100%.  A 100% 
-utilization rate would be hard to achieve if it refrains from selling ads on more than half of its 
-buses.  (As a side note, CCME’s China digital outdoor media comps have utilization rates in the 
-20% to 30% range.) 
- 
-The CTR research upon which CCME relies to (re)assure investors contains gross errors.  We 
-found that the largest operator in the report never had a business relationship with CCME.  We 
-also found that the CTR research exaggerates the numbers of buses of 13 operators by a 
-collective 424%.  We hold CCME management responsible for these errors. 
- 
-The next issue is that over half of CCME’s network buses do not actually play CCME content.  
-Many of the buses in which CCME installs hard drives and screens also have DVD players 
-connected to the screens.  We surveyed over 50 CCME buses, and the majority was playing 
-DVDs instead of CCME content.  Often the passengers bring DVDs that they ask the drivers to 
-play.  There is nothing unique or high tech about CCME’s hard drive systems.  You can buy 
-them from CCME’s supplier on Alibaba– we were quoted US$320 for the same system CCME 
-purchases.   
- 
-We caught CCME’s management telling a particularly egregious lie.  It recently announced it 
-had created an online shopping platform that has an agreement with Apple Inc. (NASDAQ: 
-AAPL – yes, THAT Apple) or one of AAPL’s distributors.  AAPL made clear to us that it has no 
-such relationship with CCME’s subsidiary.  Further, AAPL keeps tight control over its 
-distribution in China, with only two authorized online distributors (including Amazon.com’s 
-China subsidiary).  None of AAPL’s China distributors have authority to sub-license.   
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-3 See CCME press release “China MediaExpress Holdings, Inc. Announces Dividend Policy” (December 16, 2010). 
-4 See CCME press release “China MediaExpress Holdings, Inc. Announces Three New Contracts” (January 13, 
-2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-4	
-  
-
-
-Reminiscent of RINO, CCME is in reality an obscure company in its industry.  None of the 
-major media buyers with whom we spoke – including several who represent CCME’s purported 
-customers – had even heard of CCME.   
- 
-CCME’s core audience is a sub-Greyhound Bus demographic, which is largely unattractive to all 
-but local businesses (e.g., local restaurants and hotels).  Much has been made about having 
-performed due diligence by seeing commercials from large advertisers on CCME’s network 
-buses.  In this case, seeing is not believing.  
- 
-It is not uncommon for small media companies in China to show ads from large prestigious 
-brands with which they have no contract or business relationship.  Usually this is done in order to 
-impress potential advertisers.  We suspect that CCME does this to a fair extent, but to impress 
-investors. 
- 
-The purpose of this fraud is to generate earn-outs for management, and to increase the market 
-value their stock so they can sell it.  An institutional investor informed us that CCME 
-management was quite interested in selling him approximately $50 million of their shares.  In 
-October 2010, a party closely connected to management sold nine million dollars of stock.5 
- 
-Management (including through companies owned by family and close associates) owns 
-approximately 18.3 million shares of stock (54.1% of the shares outstanding).6  At current 
-market value, that equals $312 million. There has been some fanfare around a 104,000-share 
-management purchase in December 2010.  We view this purchase, along with the dividend that 
-the Company announced it intends to pay (essentially a partial return of investor funds), as 
-investor relations expenses.   
- 
-Similar to RINO, there is an underlying business – it is just much smaller than reported. The 
-Company appears focused on Beijing inter-city buses and its airport express buses.  However, we 
-suspect this focus has less to do with generating real profit, and more to do with projecting 
-credibility to investors. 
- 
-CCME has far Fewer Buses in its Network than it Claims.   
- 
-CCME has far fewer buses than it claims.  In its most recent press release, the Company claimed 
-to have “over 27,200” buses under contract.7  However, the spreadsheet provided as part of its 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-5 The seller was Thousand Space Holdings Ltd., which is beneficially owned by Lin Ou Wen, who was an investor 
-in the business prior to the SPAC transaction. 
-6 Based on 33.8 million basic shares outstanding. 
-7 See CCME press release “China MediaExpress Holdings, Inc. Announces Three New Contracts” (January 13, 
-2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-5	
-  
-
-
-advertiser kit shows that CCME has only 12,565 buses.8  Approximately 700 of these buses are 
-not in scheduled service – they are actually charter buses.  The salesperson with whom we spoke 
-stated that the spreadsheet we have is current and accurate.  
- 
-Further, we identified substantial inaccuracies in the August 2008 CTR report that CCME relies 
-on to demonstrate the size of its network to investors.9  The inaccuracies we identified are: 1) the 
-largest operator in the report never worked with CCME, and 2) the report exaggerated the 
-numbers of buses of 13 operators by a collective 424%. 
- 
-CCME’s Advertiser Kit Shows that it has Fewer than Half of the Buses it Claims 
- 
-The most current spreadsheet CCME provides to prospective advertisers shows only 12,565 
-buses in its network.10 The Muddy Waters, LLC website contains PDF versions of CCME’s bus 
-network spreadsheet.11  The salesperson assured us that the spreadsheet is accurate and complete 
-as of January 2011. 
- 
-Approximately 700 of the buses in this spreadsheet are not scheduled inter-city buses.  Rather 
-they are charter buses available for rent by tour groups.   Such audiences are almost valueless for 
-advertisers because of their unknown demographics and the impossibility of knowing when or 
-how often ads will be shown. 
- 
-As we discuss in this report, we believe that fewer than half of the buses in CCME’s network 
-actually show CCME content.  Thus the effective size of CCME’s bus network is far smaller 
-than what it shows prospective advertisers.   
- 
-The CTR Report, on which the Company Asks Investors to Rely, Contains Gross Inaccuracies 
- 
-The August 2008 CTR Report that CCME places on its website12 to support its claims about 
-network size is wholly inaccurate.  It lists at least two – and possibly more – companies that are 
-not present in the advertiser kit.13  It exaggerates the number of buses owned by 13 companies by 
-6,347 buses (4.2x).  We verified these surprising discrepancies through conversations with three 
-bus operators and internet searches. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-8 We make this data available for download in PDF format at http://www.muddywatersresearch.com/wp-
-content/uploads/2011/02/2011_CCME_BusInfo_ByCity.zip 
-9 The CTR report is available on CCME’s website (http://www.ccme.tv/eng/pns/intercitybus.php), and at 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-10 Supra FN 8. 
-11 Id. 
-12 Supra FN 9.  
-13 The reason for the uncertainty is that the advertiser kit does not break out all provinces by company.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-6	
-  
-
-
-Similar to RINO, we verified that CCME’s largest relationship does not exist.  We spoke with 
-the largest operator in the CTR report, Shanghai Ba Shi about CCME.  Ba Shi told us that it 
-never had a business relationship with CCME.  This comports with the advertiser kit,14 but 
-wholly contradicts the CTR report.  We spoke with Beijing A-er-sha Passenger Transportation 
-Co. Ltd. (“Alsa”) and Beijing Xiang Long A-er-sha Passenger Transportation Co. Ltd. (“Xiang 
-Long Alsa”).  The CTR report claims Alsa and Xiang Long Alsa have 207 and 428 buses, 
-respectively.  Alsa told us that it has only approximately 20 buses.  Xiang Long Alsa told us it 
-has only approximately 60 buses.  These numbers comport with the data in the advertiser kit.15  
-We provide screen shots of various operators’ websites below the table that also validate the 
-advertiser kit data where available, and additionally contradict the CTR report with respect to 
-two Fujian companies. 
- 
- 
-The table below compares the data in the CTR report to the data in the advertiser kit spreadsheet.  
-Following the table, we include screenshots from some of the bus companies’ websites that 
-validate the numbers in the advertiser kit and another table showing discrepancies by market.  
-We therefore believe that the reports CTR prepares for the Company are wholly unreliable.  We 
-do not believe that CTR developed these inaccurate numbers in a vacuum.  We therefore hold the 
-Company responsible for these misstatements. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-14 Supra FN 8. 
-15Id.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-7	
-  
-
-
-
-
-
-
-
-
-The CTR report says it owns 428 buses.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-8	
-  
-
-
- 
-The CTR report says it owns 207 buses. 
-
-
-
-
-
-The CTR report says it owns 128 buses. 
- 
-
-
-
-
-
-The CTR report says it owns 50 buses.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-9	
-  
-
-
-
-
-
-The CTR report says it owns 122 buses. 
- 
-The websites above corroborate the data in the advertiser kit, and show that the CTR report is 
-valueless.  The below is a comparison of discrepancies between the CTR report and the 
-advertiser kit by city.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-10	
-  
-
-
- 
-The above-described issues reflect the potential problems in relying on market research 
-sponsored by the target company. Again, it is obvious to us that CTR did not develop these 
-inaccurate numbers in a vacuum, and we hold the Company responsible for these misstatements. 
- 
-Approximately 25% of CCME’s Network Operator Buses are Independently Owned, and 
-Are Not Covered by Agreements with CCME.   
- 
-According to the bus drivers and operators with whom we spoke, approximately 25% of the 
-buses in a given operator’s network are independently owned and operated.  These buses are not 
-be covered by agreements between CCME and the operators.   The independently owned buses 
-typically do not have CCME equipment.  We need to conduct further investigation to see 
-whether this portion has already been excluded from the advertising kit spreadsheet. 
- 
-We Believe that Over Half of the Buses on which CCME has Placed Screens do not 
-Actually Show CCME’s Content, which Makes CCME’s Revenue Claims More 
-Outlandish. 
- 
-Many of the buses in CCME’s network also have DVD players connected to the CCME-
-provided screens.  Based on our surveys of over 50 buses, we believe that fewer than half of the 
-buses in CCME’s network are actually showing CCME’s content.  The drivers instead show 
-DVDs.  (Passengers often lend DVDs to the drivers to show during the trip.)  
- 
-CCME’s screens are connected to DVD players that can override CCME Content.  CCME’s hard 
-drive players are installed in bus dashboards similar to the way one would install an aftermarket 
-car stereo.  In many cases, the buses already had a DVD player installed in the dashboard.  
-CCME will then install its player in the slot above or below the DVD player.  The following two 
-pictures show bus dashboards with CCME equipment. 
- 
-
-
- 
- 
-CCME ad player on top, DVD player in middle, 
-bottom hardware unknown. 
-
-
- 
- 
-CCME ad player on top, DVD player below. 
- 
- 
-
-
-Bus drivers generally have the option to play whichever option they choose – CCME content or 
-DVDs.   We note that driver compliance is higher in Beijing though.  According to one
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-11	
-  
-
-
-driver in Beijing (confirmed in CCME’s network), his company removed the DVD players on its 
-buses because of copyright issues.  We also learned the CCME is directly paying some of the 
-Beijing drivers to play its content.  CCME seems to pay extra attention to Beijing operation 
-because it uses it as a showcase for investors.   
- 
-Below is a picture of a CCME screen that is clearly connected to a bus DVD player. 
- 
-
-
-
-
-
-Bus drivers often play DVDs that passengers bring onboard. 
- 
- 
-
-
-
-
-
-A CCME monitor with external connector visible.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-12	
-  
-
-
- 
-Upsetting the Apple Cart 
- 
-In an apparent attempt to confer legitimacy on itself, CCME states that it is doing business with 
-prestigious multinational brands, including Apple Inc. (NASDAQ: AAPL).  This is a lie.   
- 
-On December 28, 2010, the Company issued a press release in which it announced that it had 
-launched an online shopping platform, www.switow.com16 (“SWITOW”). In the release, it stated 
-that “[SWITOW] has already signed contracts with many prestigious global and Chinese 
-domestic companies or their distributors such as Apple…”   
- 
-AAPL only has two online distributors in China, one of which is Amazon.com subsidiary Joyo 
-(www.amazon.cn).  AAPL does not have any agreement with SWITOW (or CCME).  Further it 
-does not permit its China licensees to sub-license.  Therefore, CCME is abjectly lying about this 
-agreement. 
- 
-CCME Claims that its Top 10 Advertisers Include Large Global Brands.  We Doubt this is 
-True. 
- 
-Seeing is not believing in this case.  It is not uncommon for small media companies in China to 
-show ads from large prestigious brands with which they have no contract or business 
-relationship.  Usually this is done in order to impress potential advertisers.  We suspect that 
-CCME does this to a fair extent, but to impress investors. 
- 
-We surveyed six major buyers of outdoor digital media in China to understand their opinions of 
-CCME’s platform.  This proved to be difficult because none of them had ever heard of CCME.  
-Strangely, these buyers represent some of the same advertisers that CCME trumpets as clients.  It 
-is hard to imagine that the clients buy CCME media outside of the buyers – after all, CCME 
-claims that the large majority of its revenue comes through agencies, rather than directly. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-16 See CCME press release “China MediaExpress Holdings, Inc. Launches New Shopping Platform – SWITOW” 
-(December 28, 2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-13	
-  
-
-
- 
-The following are the six buyers we surveyed (including the respondents’ titles), along with a list 
-of each company’s major clients. 
- 
-
-
- 
- 
-Three of CCME’s Top Ten advertisers are represented by media buyers that have never heard of 
-CCME.  Note that CCME claims three of its Top Ten advertisers are China Mobile, Master 
-Kong, and The Coca-Cola Company (NYSE: KO).17Those advertisers are represented in the 
-above table respectively by Kinetic and Heartland.   
- 
-It is particularly telling that Heartland has not heard of CCME.  All of KO’s outdoor media 
-buying in Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Shenyang, 
-and Dalian is done by Heartland.18CCME claims to have sales centers in all but three of the 
-foregoing cities.19KO spends 20% to 30% of its annual China media budget through 
-Heartland.20Yet, the Associate Director at Heartland we surveyed had never heard of CCME. 
- 
-Two of CCME’s other purported advertisers are also represented by media buyers that have 
-never heard of the Company.  CCME claims that Toyota and Lenovo are advertisers.  A CCME 
-investor presentation goes so far as attribute the following quote to Lenovo: “China 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-17 See Appendix. 
-18 See http://www.cei.asia/searcharticle/2010_02/Heartland-China-retains-Coca-Cola-Chinas-out-of-home-media-
-account/38795. 
-19 See Appendix. 
-20id.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-14	
-  
-
-
-MediaExpress’ media is much lower cost than traditional media, which is the main reason we 
-chose CCME.”21 
- 
-It appears the two media buyers that consider Lenovo to be a major client were unaware their 
-client had developed an interest in low cost media. 
- 
-We asked these buyers how many hours of airtime they buy each month from AirMedia Group, 
-Inc. (NASDAQ: AMCN), Focus Media Holding Ltd. (NASDAQ: FMCN), VisionChina Media 
-Inc. (NASDAQ: VISN), and Bus Online Co. Ltd. (private). Note that VISN and Bus Online are 
-major operators of intra-city (as opposed to CCME’s model of inter-city) bus digital televisions.   
- 
-Q: Approximately how many hours of airtime do you purchase for your clients each month on 
-the following platforms? 
- 
-
-
- 
- 
-Again, none of the buyers had even heard of CCME, which is profound considering that three of 
-the buyers purchase slots on intra-city bus operators VISN and Bus Online. 
- 
-Two Small Media Buyers That Buy Intra-City Bus Digital Media Had Also Never Heard of 
-CCME. 
- 
-We decided to test a theory that the most profitable outdoor digital media company in China 
-would be better known among smaller media buyers.  Our results were no better.  We spoke with 
-two smaller Shanghai-based media buyers that buy advertising on Bus Online’s platform.  
-Neither company – Shanghai Yun Xiang Advertising Co. Ltd. nor Shanghai Jun Zhe Advertising 
-Co. Ltd. – had ever heard of CCME. 
- 
-Like RINO, CCME’s “Competitors” Do Not Know the Company.   
- 
-We consider it to be a bad sign when a company’s reported financials would make it among the 
-largest in its industry, yet the competition does not know much – or anything – about it.  This 
-was one of the most telling aspects of our work on RINO, and it is present again with CCME. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-21 See Appendix.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-15	
-  
-
-
-Management at VISN and AMCN told us that they have not been exposed to CCME through 
-industry circles. Rather, they first learned about CCME from investor queries.  The person with 
-whom we spoke at Bus Online (privately owned) had not previously heard of CCME.  (Note that 
-VISN and Bus Online operate intra-city bus digital advertising networks.)  In contrast, AMCN, 
-VISN, and Bus Online are quite familiar with each other as well as with FMCN – both on 
-personal and business levels.  We doubt that CCME could have flown under the radar to this 
-extent while being far and away the most profitable digital outdoor media company in China. 
- 
-CCME Claims that the Beijing Airport Express Bus Contract will Generate $30 million to 
-$36 million per year.  We Believe the Real Number is Many Millions of Dollars Lower. 
- 
-We do not believe that the airport express buses – particularly the Beijing Capital Airport 
-express bus – generate anywhere near the revenue that CCME claims they do.  CCME reported 
-that its airport express bus business generated about $15 million in Q3 2010 revenue.22  
-Management states that the Beijing Capital Airport express buses account for 50% to 60% of the 
-airport express bus revenue.  On an annualized basis, Beijing Capital Airport express buses 
-would generate approximately $30 million to $35 million.   
- 
-These numbers are beyond belief when compared to the $35 million to $40 million in digital 
-advertising annual revenue that AMCN generates at Beijing Capital Airport for the following 
-reasons: 
- 
-
-
-• CCME has televisions on approximately 100 Beijing Capital Airport express buses.  
-AMCN has 119 82” standalone digital frames, 58 108” digital frames in baggage claims, 
-418 52” TV-attached digital frames, and 418 46” digital TV screens.  In other words, 
-AMCN has almost 1,000% more digital advertising points in the airport.  (Note that all of 
-the 23 airport express buses we surveyed had only one TV screen each.  We subsequently 
-discuss CCME’s misrepresentations about the number of screens per bus.) 
-
-
-• CCME’s televisions provide exposure to the traveler segment that is more cost conscious 
-because they eschew taking private cars and taxis to the airport.  AMCN’s digital screens 
-cover every passenger in every terminal – including the highest income demographics. 
-
-
- 
-Further AMCN, and then FMCN, used to operate the digital televisions on the Beijing Capital 
-Airport express buses.  AMCN and FMCN, despite being far less profitable than CCME, were 
-evidently unmotivated to keep the routes.  AMCN management could not provide us with the 
-historical figures (the airport express business was pre-IPO), but they stated categorically that 
-they generated far less revenue than $30 million.  Given that AMCN and FMCN each generate 
-lower gross margins than CCME purports to generate, one wonders why they would leave such a 
-profitable business to CCME – particularly given that based on our surveys of media buyers, 
-AMCN and FMCN would seem to be in much better positions to sell the ads. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-22 See CCME September 30, 2010 Form 10-Q.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-16	
-  
-
-
-We have observed that out of its entire network, the airport express buses (particularly Beijing) 
-come closest to resembling the Company’s description – the only issue we identified with the 
-airport express bus operations is the probable gap between reported revenue and real revenue.   
- 
-We Believe that the Revenue for the Five Other CCME Airport Express Routes is Similarly 
-Overstated. 
- 
-AMCN offers another opportunity to put CCME’s reported numbers in perspective.  CCME is 
-claiming that it generated $15 million in Q3 2010 from express buses operating at six airports.  
-This number is about 200% the Q3 2010 revenue that AMCN derived from its 2,200 digital 
-television screens in 38 airports, including in 26 of the 30 busiest airports in China.   
- 
-CCME Has Little Presence in China’s Two Largest Media Markets in China: Beijing and 
-Shanghai. 
- 
-CCME Has Little Presence in China’s Two Largest Media Markets in China: Beijing and 
-Shanghai, Giving us Additional Reason to Doubt CCME’s Reported Numbers. 
- 
-CCME’s spreadsheet lists only 296 buses in Shanghai, which is the second largest ad market in 
-China. Even worse, 278 of the buses are charter tour buses. In other words, they are not regularly 
-scheduled long distance buses.  Major advertisers do not value advertising in charter buses 
-because the unknown demographics and the impossibility of knowing when and how often ads 
-will be shown.  We doubt that CCME generates more than a de minimus amount of revenue from 
-Shanghai. 
- 
-CCME only operates 548 long distances buses that travel to Beijing, which is China’s largest ad 
-market. The 548 represents no more than 2.0% of the “over 27,200” buses claims to operate.  
-(We discuss the Beijing airport buses previously in this report.)   
- 
-With such an insignificant presence in China’s two largest media markets, we do not believe 
-CCME’s reported revenue numbers. 
- 
-CCME is also Lying to Investors about the Numbers of Screens on its Buses.  We Interpret 
-this as Confirming the Business Model is not Very Profitable. 
- 
-CCME tells investors that it has an average of over two LCD Screens per bus.23  This is not true.  
-CCME’s sales spreadsheet shows an average of 1.45 screens per bus.24  In our fieldwork, we 
-surveyed over 50 buses, and found that only buses on the Beijing to Qidong route had more than 
-one screen.  Therefore we believe that the advertiser kit is fairly accurate with respect to screens. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-23 See the CTR report at http://www.ccme.tv/eng/pns/intercitybus_02.pdf.  
-24 This is based on the screen tallies for 5,864 buses.  There are a number of buses in the spreadsheet for which the 
-Company does not list the number of screens.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-17	
-  
-
-
-Lying about the screens is significant for two reasons: First, with only one screen per bus, it is 
-hard to hold the attention of many of the passengers, which implies that the platform delivers less 
-value to advertisers.  Second, we believe that CCME’s unwillingness to spend $200 per bus more 
-on an extra screen (despite claiming it actually does) shows that the business is much less 
-profitable than CCME claims. 
- 
-CCME is Lying About the Number of Bus Operators with which it does Business.  In this 
-Case, we are Somewhat Impressed. 
- 
-CCME claims that it deals with only 63 bus operators,25 which gives the impression that its 
-market consists of large players and is thus easier to manage.  In reality, its sales spreadsheet lists 
-approximately 25026 bus operators.  A number of these operators have only a handful of buses.  
-(Note that there are 5,222 buses – 41.6% – for which for which the sheet does not list operators, 
-so the total number of operators is likely a decent bit larger.) 
- 
-The significantly larger number of operators means that it is harder to control whether the drivers 
-are playing CCME content or DVDs.  A larger number of bus operators presumably makes 
-maintaining the equipment and updating the content more difficult.  Kudos to CCME’s 
-management for anticipating that investors may look less favorably on the Company’s model if it 
-stated the true number of operators.  This is clearly a more sophisticated management than those 
-on which we have written in the past. 
- 
-CCME’s Target Audience is Mainly a Sub-Greyhound Demographic. 
- 
-CCME’s claim that its typical inter-city bus passenger is a middle-income white-collar office 
-worker27 is wrong.  Inter-city buses are the Greyhounds of China, except lower end.  Unlike in 
-the United States (which has a similar land mass to China), China has an excellent rail network.  
-Its network consists of a range of travel options – high speed trains similar to those in Europe 
-and Japan to conventional multi-class and sleeper trains.  There are ample affordable rail options 
-for middle-income office workers.  Beyond trains, China has a first rate air transportation 
-network, and private car ownership is becoming common among middle-income families. 
- 
-With the exception of routes into and out of Tier 1 cities (which are a small percentage of 
-CCME’s routes), the prevailing demographic on China’s inter-city buses is low-end, consisting 
-of migrant workers, students, maids, and subsistence farmers.   
- 
-Make no mistake, China’s poor are much poorer and less educated than America’s poor.  There 
-are myriad articles discussing the gap between China’s poor and middle class, so we will not 
-dwell on this point.  Narrowing this gap is one of the government’s top priorities, but it will take 
-two or more generations to bring the gap in line with developed countries. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-25 CCME Form 10-Q September 30, 2010 p. 16. 
-26 The ambiguity is due to some possible type-o’s in the advertiser kit spreadsheet. 
-27 See Appendix.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-18	
-  
-
-
-VISN and Bus Online illustrate how low-end the CCME demographic is.  VISN and Bus Online 
-operate live television broadcasts (inherently more valuable to advertisers than recorded content) 
-on intra-city buses.  Intra-city buses typically serve daily commuters – many of who have office 
-jobs in the cities.   
- 
-In our survey of media buyers, we asked them to rate and comment on the suitability of VISN 
-and Bus Online’s platforms for advertising i) a mass market beverage (e.g., Coca-Cola or Pepsi) 
-and ii) a personal computer (e.g., Lenovo).  (We asked the same questions of CCME’s platform, 
-but none could comment because of their lack of familiarity with CCME.)  The questions and the 
-buyers’ responses are as follows: 
- 
-Q: Please rate the suitability of each platform for advertising a mass-market beverage (e.g. 
-Coca-Cola, Pepsi) from 1 to 5 (with 5 being highly suitable, 3 somewhat suitable, and 1 
-unsuitable). Provide an explanation for your answer. 
- 
-
-
-
-
-
- 
- 
- 
-Q: Please rate the suitability of each platform for advertising a personal computer (e.g., Lenovo) 
-from 1 to 5 (with 5 being highly suitable, 3 somewhat suitable, and 1 unsuitable) ” and provide a 
-brief explanation of the reason for your answer:
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-19	
-  
-
-
-From the above responses, it becomes clear that rider demographics on intra-city buses are a 
-concern for higher price point products.  There is a large gap between the income levels of intra- 
-and inter-city bus riders.   
- 
-CCME’s Business Has Low Barriers to Entry (Aside from Lack of Attractiveness).  That 
-Special Hardware?  Fuggedaboutit. 
- 
-To the extent that CCME does not have major competition, it is because the business model is 
-unattractive. CCME’s hardware supplier, Hangzhou Yusong (“Yusong”), sells its controllers and 
-screens to any willing buyer on Alibaba.  According to our conversation with Yusong, a “long 
-distance bus ad player and screen” cost only $320 (RMB 2,100) together.  There is a discount for 
-volume orders.  The supplier also said that there are a lot of companies in Shenzhen that produce 
-such systems.   
- 
-We understand that CCME is expecting to increase its capital expenditures.  Unless it plans to 
-actually buy buses, we do not understand how there is such a need. 
- 
-
-
-
-
-
-The hard disk advertising controller from CCME’s supplier.  Note that anybody can buy this or similar products 
-from this supplier, as well as others who make similar equipment.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-20	
-  
-
-
- 
-Financials  
- 
-We estimate that CCME generated 2009 revenue no greater than $17 million.  We base this 
-estimate on the metric of revenue per employee in sales and marketing.  While advertising 
-revenue is not perfectly correlated to sales / marketing employees, we believe that the correlation 
-is strong. 
- 
-The below table shows 2009 revenue, revenue by employee, and revenue by sales / marketing 
-employee for AMCN, FMCN, VISN, and CCME.  Note that AMCN’s media is generally the 
-most expensive because it reaches the top tier market in China; therefore, it is unsurprising that 
-its revenue per sales and marketing employee is the highest by a decent margin. 
- 
-
-
- 
- 
-CCME’s 10-K suggests that it has only seven sales people.  Because we believe that CCME 
-likely has more than seven salespeople, we added the 63 “business operation” employees to the 
-seven client service employees. Based on our visit to CCME’s Fuzhou headquarters and Beijing 
-office, we believe that 70 salespeople is a fair estimate of the number of salespeople CCME has. 
- 
-
-
- 
- 
-Because VISN has a somewhat similar business model to that of CCME, we chose VISN’s 
-revenue per sales and marketing employee as a baseline.  For the numerous reasons outlined in 
-this report, we believe that the productivity of a CCME salesperson would be far less than that of 
-his counterpart at VISN.  (Our dealing with a salesperson in CCME’s Fuzhou headquarters 
-reinforced that view.)   
- 
-Regardless, we discounted the productivity of VISN’s salespeople only 25%.  Multiplying that 
-by our estimate of 70 salespeople, we arrive at $17.2 million in revenue.  We note that FMCN 
-had a 2009 net income margin of 9%.  AMCN and VISN both lost money that year.  To be 
-generous to CCME, if we assume it had a 10% net income margin, then it generated net income 
-of $1.7 million or diluted EPS of $.05.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-21	
-  
-
-
-CCME may respond that it has an army of agents serving as proxy salespeople, but that would 
-further call into question its gross margin.  Agencies would clearly seek to earn a return on their 
-investments in staff.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-22	
-  
-
-
-
-
-
-
-
-
-APPENDIX 
-Selected slides from the CCME November, 2010 investor presentation deck
- CCME operates an advertising media network targeting the travelling population
-
-
-Inter­city Buses
-• Connecting 1st­, 2nd­, 
-
-
-and 3rd­tier cities
-• Average journey time 
-
-
-around 2.5 hours
-
-
-Network
-
-
-• Average age 30 (majority male)
-• Travel for business or tourism
-• Mid­to­high income group
-
-
-Airport Express Buses
-• Connecting airport to 
-
-
-cities
-• Average journey time 
-
-
-around 1 hour
-
-
-Target Audience
-
-
-• PMEB group (Professional, 
-Management, Executives, 
-Businessman) is majority
-
-
-• High education level
-• High income and consumption 
-
-
-level group
-
-
-Business Overview
-
-
-3
-Our target: to generate 50% sales from direct advertisers by 2013, while maintaining good 
-relationship with agencies
-
-
-Sales Agencies
-• Over 30 agencies, 2­4 agencies in each 
-
-
-region (as of June 2010)
-• Cooperating for an average of 2.5 years
-• All agencies are major regional 
-
-
-advertising companies
-• Annual media purchase contract, 
-
-
-monthly settlement
-
-
-Direct Sales Team                           
-• 113 salespeople ­ stationed in 14 sales 
-
-
-center (as of June 2010)
-• Provides services to agencies, 
-
-
-meanwhile actively seeking direct 
-advertisers
-
-
-• Clients  who 
-purchase regional 
-media ads, such as 
-Aier Ophthalmology , 
-Haier and China 
-Telecom provincial 
-subsidiaries
-
-
-• 21 minutes of 
-advertising time sold 
-every month
-
-
-• Clients who purchase 
-national media ads, 
-such as Industry Bank, 
-Micoe, Alibaba
-
-
-• 11.2 minutes of 
-advertising time sold 
-every month
-
-
- CCME’s sales model is to further grow its agency sales channel, and 
-actively develop its direct sales channel
-
-
-Sales Model
-
-
-Agencies
-Sales Centers
-
-
-Beijing
-
-
-Tianjin
-Huhehot
-
-
-Shijiazhuang
-
-
-Nanjing
-
-
-Chongqing
-
-
-Hefei
-
-
-Changzhi
-
-
-Fuzhou
-
-
-Guangzhou
-
-
-WuhanChengdu
-Shanghai
-
-
-Qingdao
-
-
-• Serve agents e.g., feedback on 
-broadcasting monitoring
-
-
-• Visit each agent 2­3 times per week
-
-
-5
-Advertiser’s Voice
-Pepsi: China MediaExpress promotes our products to tier 2 cities and towns by its large scale inter­city bus network, which is 
-highly helpful to our sales expansion.
-CMCC: China MediaExpress’ network penetrates large target audience precisely.  It fits our products very well. 
-Lenovo: ChinaMediaExpress’ media cost is much lower than traditional media, which is the main reason that we chose CCME
-
-
-Selected  Advertisers
-Rank 2009 1H’ 10
-
-
-Brand Sector Ad minutes Brand Sector Ad minutes
-1 CMCC Telecom 40.28 China Telecom Telecom 60
-
-
-2 Coca cola F&B 36.33 CMCC Telecom 58.5
-3 Unit­present F&B 36.08 Coca cola F&B 52.5
-4 China 
-
-
-Telecom Telecom 36.08 Unit­present F&B 51.75
-
-
-5 Pepsi F&B 33.33 Pepsi F&B 49
-6 Master Kong F&B 27.42 Eratat Apparel 41
-7 Eratat Apparel 20.25 Xiduoduo F&B 39.5
-8 Xiduoduo F&B 18.00 Master Kong F&B 35.25
-9 GuJingGong F&B 17.83 GuJingGong F&B 29.5
-10 Rejiaman Health care products 17.33 Seven wolf Apparel 28.5
-
-
- Our advertising clients are national brands mainly: food & beverage (F&B), 
-telecom and apparel sectors
-
-
-Top Ten Advertisers
-
-
-Advertisers
-
-
-6
+gonsalves@gonsalveslawfirm.com

@@ -1,320 +1,649 @@
-Muddy Waters Capital LLC 
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 1/11
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+Unilife Corporation: How This Hypodermic Needle Company Keeps
+Jabbing Investors
+Feb. 28, 2014 9:45 AM ET5 comments
+by: The Street Sweeper
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+By Sonya Colberg, Senior Investigative Reporter
 
 
-Page 1 of 6
-August 29, 2016 
- 
+Federal investigators uncovered "recurring systemic issues" at Unilife Corp. (UNIS) and
+voiced "concern over the firm's promotional materials," according to FDA records obtained
+by TheStreetSweeper.
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+And despite the misconception that a key lawsuit has been dismissed, the company still
+battles its fired vice president's federal complaint alleging UNIS duped shareholders and
+broke FDA regulations, TheStreetSweeper has learned.
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+A huge pension system that owns shares of UNIS has also just filed litigation alleging the
+company wastes shareholders' money.
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
+Contentious issues pile up as the prefilled syringe company continues to try to answer an
+ongoing Securities and Exchange Commission investigation.
 
 
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
+TheStreetSweeper's investigation into those issues and others suggests that the
+unprofitable Pennsylvania company hawking 90-cent syringes is worth just a fraction of its
+roughly $450 million market cap.
 
 
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+Additional red flags whipping this Aussie-rooted company include:
+
+
+1. Reality falls short of promotions
+
+
+2. Lawsuit says CEO advises: "Deny everything"
+
+
+3. Challenging contract agreements
+
+
+4. Key product challenges
+
+
+*FDA inspection report reveals problems
+
+
+U.S. Food and Drug Administration investigators discovered "recurring systemic issues"
+and voiced "concern over the firm's promotional materials," according to paper copies of
+an inspection report obtained by TheStreetSweeper from the FDA.
 
 
 
+http://finance.yahoo.com/q?s=unis
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312514043402/d665636d10q.htm
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 2/11
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+Spurred by a consumer complaint, the FDA sent two investigators to York, a central
+Pennsylvania community, to spend four days last spring investigating the Unilife
+operations.
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+Alan Shortall, the chief executive, told analysts that the FDA had no findings and even
+called the company's system "exemplary."
 
 
- 
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+But the report indicates things did not go smoothly.
 
 
- 
-Credibility Assessment: St. Jude Medical (STJ) 
+Investigators noted "significant weaknesses with respect to production and configuration
+management of validation and verification (V&V) test articles."
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+These are among the issues listed by former vice president Talbot Smith in his
+whistleblower lawsuit - a lawsuit that is still very much alive, though many people believe
+otherwise.
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
+The FDA investigators also wrote about "poorly documented" non-conforming lots.
 
 
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+Investigators noted, "We observed some evidence of vendor performance issues as
+indicated by a relatively high level of in-process nonconformities …"
 
 
- 
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+Investigators noted 26 complaints about UNIS products, including inability to deliver a 1
+unit dose, rubber detached from a syringe and a spring popping out of a syringe plunger.
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+The agents were clearly dissatisfied with management's explanation for why a full
+investigation was not done.
 
 
- 
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
- 
+"(Another investigator) and I explained that there should have been a more reasonable
+explanation and investigation into the cause of the complaint instead of saying that they
+didn't have the product to examine," wrote the lead investigator.
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+During the closeout meeting with Mr. Shortall and three other employees, an investigator
+said that the device history records "were full of NCRs," or non-conformance reports.
+Since the records dealt with the company's discontinued legacy syringes, the agents didn't
+press for further formal investigation of those products.
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+Investigators also told management that they were concerned about the company's
+promotional materials targeting investors and shareholders, which were collected for
+referral and "subsequent review by the Agency."
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+The company did not respond to TheStreetSweeper's request for an interview.
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+
+https://seekingalpha.com/article/1685592-unilife-management-discusses-q4-2013-results-earnings-call-transcript?part=single
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 3/11
 
 
-Page 6 of 6
+*Despite "absolutely incorrect" reports, UNIS still deals with a former executive's
+eye-popping lawsuit.
+
+
+A lawsuit by former vice president Talbot Smith alleges he was fired because he reported
+regulatory violations to the feds. Based on the UNIS press release and reports in
+publications, many investors assume this significant lawsuit was recently dismissed.
+
+
+"Those reports are absolutely incorrect," said Mr. Smith's attorney Virginia Hardwick when
+TheStreetSweeper brought those two reports to her attention.
+
+
+"We stand by the allegations in the complaint," she said.
+
+
+The securities fraud lawsuit that was actually voluntarily dismissed Jan. 8 was filed by
+Byron Brandt, partially based on issues posed in a Forbes story.
+
+
+The latest filing in Mr. Smith's case indicates the parties plan a conference call on April 17
+to possibly schedule a settlement conference.
+
+
+Mr. Smith's lawsuit contains issues of interest to investors as they try to assess the
+company and its management:
+
+
+1. The lawsuit says the company directed employees to run scrap through production lines
+to make visiting investors think UNIS was churning out syringes when it was not. The
+company has denied this ever happened.
+
+
+However, TheStreetSweeper has sources close to the situation who have produced the
+dates that employees participated in fake production runs and other details of these
+"Potemkin villages."
+
+
+2.The lawsuit also contains a complaint Mr. Smith filed with the UNIS board of directors
+shortly before he was fired. It alleges Mr. Shortall directed employees to break into a
+terminated research and development executive's car and steal his computer. We have
+the police report - available here - showing a theft occurred. If this crime proves accurate
+and is traced back to the company as Mr. Smith contends, it would speak unflattering
+volumes about UNIS' culture and management's character.
+
+
+3. Syringe production costs were about twice what Sanofi would be willing to pay,
+according to the lawsuit. Mr. Smith, a Sanford University graduate, reported to fellow
+executives that producing the Unifill syringes would cost about 90 cents apiece, yet UNIS
+expected to charge Sanofi only 50 to 55 cents apiece. Mr. Smith claims that an employee
+was subsequently told to create better-looking estimates.
+
+
+
+http://thestreetsweeper.org/undersurveillance.html
+
+http://ir.unilife.com/releasedetail.cfm?ReleaseID=820862
+
+http://www.ydr.com/business/ci_24976207/lawsuit-dismissed-against-unilife-corp
+
+https://ecf.paed.uscourts.gov/cgi-bin/HistDocQry.pl?974179787954538-L_1_0-1
+
+http://www.forbes.com/sites/abrambrown/2013/09/04/how-is-a-329m-syringe-company-still-unprofitable-after-11-years/
+
+http://thestreetsweeper.org/undersurveillance.html
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 4/11
+
+
+The company denies those allegations and contends that its former vice president was
+wrong and uninformed.
+
+
+4. The company's answer to the lawsuit says the Sanofi deal sets prices at just over 94
+cents for high volume supply.
+
+
+Here is what Mr. Shortall said during the September 2013 Morgan Stanley Healthcare
+Conference:
+
+
+But what I can say is that I have said previously that we are expecting to get an average
+price on the Unifill of around $0.90. We've already done one transaction which is
+approximately at $1.50 per unit, and I still think that we can actually hit that target and
+that's what we'll be aiming for.
+
+
+So here it is in a nutshell: if the syringes cost about 90 cents to produce and sell for about
+94 cents - or even $1.50 - UNIS is in a heap of trouble.
+
+
+*Lawsuit: CEO tells ex-girlfriend "deny everything."
+
+
+While the Smith lawsuit is more current, an earlier one is just as interesting to investors
+sizing up the situation.
+
+
+Mr. Shortall's ex-girlfriend, the mother of two young sons, sued him in 2006 for breach of
+trust.
+
+
+The girlfriend said she loaned Mr. Shortall a total of more than $47,000. He told her "You
+will be a rich woman …" after investing in the company.
+
+
+Mr. Shortall promised her 222,000 shares of the Australia-based UNIS predecessor,
+Unitract PTY, in exchange for part of the cash he received, according to court records. The
+judge determined those shares weren't transferred and ordered Mr. Shortall to pay her
+$548,452.
+
+
+Sometime after the couple split up, an Australian newspaper reporter Ben Hills was about
+to run a story that portrayed Mr. Shortall's background from his time as a consultant to car
+dealers selling car alarms, on through his association with three collapsed businesses. Mr.
+Shortall attempted to handle the situation with less-than-honest finesse, according to court
+records:
+
+
+In about the middle of January 2004 the defendant rang the plaintiff and told her that there
+would be a newspaper story published which would be critical of him. He said, "if Ben Hills
+contacts you, you are to deny everything. I cannot transfer the shares to you now as
+
+
+
+http://global.factiva.com.ezproxy.lib.ou.edu/ha/default.aspx
+
+http://www.lawlink.nsw.gov.au/scjudgments/2006nswsc.nsf/00000000000000000000000000000000/d64036ba162bbf9cca2572410080caff?opendocument
+
+http://www.smh.com.au/articles/2004/01/16/1073878029672.html
+
+http://www.lawlink.nsw.gov.au/scjudgments/2006nswsc.nsf/00000000000000000000000000000000/d64036ba162bbf9cca2572410080caff?opendocument
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 5/11
+
+
+everyone is watching me." He also said to her "tell anyone who asks not to sell their
+shares, the price will probably drop, but it will go up again."
+
+
+*Reality falls short of promotions
+
+
+The never-boring Mr. Shortall continues to heavily promote his company, frequently telling
+investors how great the company is doing and emphasizing that the pipeline is "teeming."
+
+
+And he consistently promotes the same contract again and again, to try to ameliorate bad
+financial news.
+
+
+During the May 9, 2013 earnings call, for example, Mr. Shortall said:
+
+
+Thank you, Todd. Good afternoon and good morning to those in Australia. Before we
+discuss the quarter, I am excited to tell you that we are getting ready to announce
+our first major long-term supply contract for the Unifill syringe. This is a significant
+multi-year commercial supply contract with a major pharmaceutical customer that
+generates revenue immediately.
+
+
+Almost everyone wanted to jump up and shout for what sounded like a brand-new,
+exciting development (which sounded much like one announced five years earlier). This
+time, an analyst with Jefferies & Co. wanted clarification amidst all the excitement.
+
+
+Under the analyst's questioning, Mr. Shortall admitted the company had already disclosed
+the contract and another one months earlier.
+
+
+Before the Feb. 3 earnings call, the CEO claimed his company was "entering a period of
+hyper-growth," with an upcoming "tsunami" of deals. He touted a dozen deals expected by
+the end of 2013. But when it came time to face eager investors during the earnings call,
+he couldn't name a single new deal.
+
+
+Unfortunately, UNIS got only half-way to the year's goal of a dozen deals.
+
+
+There are many other instances where hyped hopes and dreams simply failed to
+materialize, though we'll mention just two more.
+
+
+The company's 2008 letter to shareholders promised "the first commercial sale of Unifill
+Prefilled Syringes to occur towards the end of 2010."
+
+
+That hasn't happened. The company just signed its first supply contract but hasn't
+executed on it four years after the commercial sales were expected to begin.
+
+
+
+https://seekingalpha.com/article/1990151-unilifes-ceo-discusses-f2q-2014-results-earnings-call-transcript?source=yahoo
+
+http://ir.unilife.com/releasedetail.cfm?ReleaseID=442244
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513215777/d537582dex991.htm
+
+https://seekingalpha.com/article/1990151-unilifes-ceo-discusses-f2q-2014-results-earnings-call-transcript?source=yahoo
+
+http://ir.unilife.com/releases.cfm?ReleasesType=&Year=2013
+
+http://ir.unilife.com/releasedetail.cfm?releaseid=442243
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 6/11
+
+
+The letter also noted: UNIS ought to have the capacity to crank out 400 million units yearly
+at the end of 2013.
+
+
+That hasn't happened. The company's latest 10-K states the current capacity is 60 to 70
+million units.
+
+
+It's a company-killer, of course, if a business can't meet the manufacturing requirements of
+customers. Analysts frequently question UNIS management on that issue, since they're
+concerned that the company may not be able to crank out several 100 million units in time.
+
+
+"We actually will have that equipment in place, in time, tuned, ready to go and fully
+operational to cover that product coming off the line …. for any of our pharmaceutical
+customers," Mr. Shortall recently said, adding that customers usually give UNIS about one
+to two years to gear up production.
+
+
+Should investors believe it?
+
+
+In the FDA report obtained by TheStreetSweeper, investigators noted, "The firm is not
+actively manufacturing any commercial product…" If the pharmaceutical companies
+demand the production levels required to maintain their exclusive contracts, will UNIS be
+able to meet that large demand even though it's never actually produced even the 60-70
+million that the plant currently has the capacity to produce?
+
+
+We recommend investors consider those comments and issues within the context of our
+investigation.
+
+
+*Recent agreements are good news for UNIS but fall far short of the hype.
+
+
+UNIS announced Unifill product supply contracts with Sanofi and Hikma. UNIS described
+this good news in the December filing this way:
+
+
+These two contracts alone instantly position Unilife to become the second largest provider
+of prefilled syringes in the world.
+
+
+Sounds impressive except that the braggadocio leaves out the fact that "second largest" is
+teeny. Again, in UNIS filings, the company admits that the syringe business is already
+sewn up.
+
+
+Industry gorilla Becton Dickinson (NYSE:BDX) is one of five peers that have locked up 95
+percent of the market. It could obviously squash UNIS like a cockroach.
+
+
+Click here or see below to check the filing in which UNIS admits this:
+
+
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513366717/d584327d10k.htm
+
+http://www.secinfo.com/%24/SEC/Filings.asp?CIK=1476170&Find=hikma&Page=1&List=Hits&Show=Each
+
+http://finance.yahoo.com/q;_ylt=AhKoZ0jCk68qe80xcVv.IlfxVax_;_ylu=X3oDMTE5bWI3NmJoBHBvcwMxMgRzZWMDeWZpU3ltYm9sTG9va3VwUmVzdWx0cwRzbGsDYmR4?s=BDX
+
+https://seekingalpha.com/symbol/BDX
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513366717/d584327d10k.htm
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 7/11
+
+
+We are aware of five companies which specialize in the production and supply of glass
+ready-to-fill syringes. These companies are BD, Gerresheimer, MGlas AG, Schott and
+Nuova Ompi. We estimate the market concentration rate for these five companies to be
+approximately 95%. We believe BD's market share to be in excess of 50%, as it has
+supply relationships with most pharmaceutical companies and contract manufacturing
+organizations.
+
+
+BDX reported $41 revenue per share and diluted earnings per share of $4.67.
+
+
+But UNIS reported 9 cents revenue per share and a minus12 cents EPS.
+
+
+*Contract and change issues pose red flags for the key product, Unifill.
+
+
+Sanofi is in command of the arrangement with UNIS. The 150 million yearly Unifill order
+mentioned in the press release is simply the amount Sanofi needs to buy if it wants to
+maintain exclusivity.
+
+
+When and if UNIS gets ramped up about four years after market entry, according to
+company filings, the arrangement wouldn't be a slam-dunk. If there's a hitch or a company
+like Becton Dickinson undercuts UNIS, it's an easy switch away from Unifill.
+
+
+But there's a potentially even bigger red flag wrapping around the deal to possibly use
+Unifill syringes to deliver Sanofi's anti-thrombotic drug Lovenox.
+
+
+The Lovenox patent has expired and generic competition overall has already punched the
+company in the nose, indicates Sanofi's recent half-year report, here.
+
+
+Lovenox is down almost a full 15 percent.
+
+
+So UNIS is putting a lot of faith in a drug that's plunged into an ongoing nosedive.
+
+
+Also, a pharma company isn't necessarily stuck with UNIS just because it has agreed to
+use limited numbers of its prefilled syringes in clinical trials. The FDA will allow the
+company to switch to another brand of syringe.
+
+
+"As with any marketing application, a sponsor may make a post-market change in
+accordance with the application requirements," said an FDA spokeswoman in an email to
+TheStreetSweeper.
+
+
+"For example, typically post-market component changes require a prior approval
+supplement," she said.
+
+
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=64106&p=irol-newsArticle&ID=1872246&highlight=
+
+http://finance.yahoo.com/q/ks?s=UNIS+Key+Statistics
+
+http://en.sanofi.com/Images/33448_Half_Year_Financial_Report2013_Web.pdf
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 8/11
+
+
+Couldn't Unifill easily be picked up by another pharma should something go awry with the
+Sanofi deal?
+
+
+No, not that easily. Unifill syringes are designed just for Sanofi, according to filings.
+Though the Hikma deal involves Unifill, it sounds as though a similar Unifill deal is unlikely.
+Federal filings state UNIS may not be able to satisfy the biocompatibility needs of other
+companies. So potential customers with different manufacturing processes may be
+unobtainable.
+
+
+Check out this telling line from the filing about biocompatibility issues:
+
+
+Such events may require design, material or process changes to our product, or restrict
+our ability to enter into supply relationships with other pharmaceutical companies and
+accordingly, may have a material adverse effect on our results of operations and financial
+condition.
+
+
+Auditors have warned of issues that "continue to raise substantial doubt about the
+Company's ability to continue as a going concern." So the last thing UNIS needs is more
+of the operating/financial troubles noted in the company filing.
+
+
+*Living like a king
+
+
+So UNIS is losing millions and management is handing investors a minus 190 percent
+return on their money.
+
+
+But its executives are living like kings.
+
+
+They can thank the CEO's brand of showmanship that puts P.T. Barnum to shame and
+likely contributes to the lofty share price.
+
+
+And they can also thank their compensation committee with its laugh-out-loud justification
+for overpaying the folks running a company that can't seem to turn a dime in profit.
+
+
+The lowest paid of the bunch is Mr. Shortall, who last year received more than $690,000,
+compared with $6 million including unrealized stock awards the prior year.
+
+
+Including hefty bonuses and stock, the other four officers last year received about $1
+million apiece.
+
+
+Even more stunning is what UNIS pays its directors.
+
+
+Altogether, the directors earned a total of just over $2 millionin the last two years. For
+attending a few meetings.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513366717/d584327d10k.htm
+
+https://seekingalpha.com/article/1895521-an-analysis-of-unilifes-products-shows-a-weak-business-case
+
+http://finance.yahoo.com/q/ks?s=UNIS+Key+Statistics
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513392396/d599830ddef14a.htm
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513392396/d599830ddef14a.htm
+
+https://www.sec.gov/Archives/edgar/data/1476170/000119312512424648/d419597ddef14a.htm#toc419597_5
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513392396/d599830ddef14a.htm#toc599830_8
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 9/11
+
+
+In that period, the unprofitable company generated just over $8 million in revenue.
+
+
+So the non-employee directors handed themselves about 25 percent of the company's
+revenues.
+
+
+Each director's annual retainer fee alone jumped $10,000 to $35,000 last December. And
+they'll get 35,000 UNIS shares yearly worth about $160,000 in today's market. All courtesy
+of the shareholder-approved pay scale created by the three directors on the compensation
+committee.
+
+
+Just for attending a few meetings a year.
+
+
+*How does UNIS explain this level of self-enrichment?
+
+
+An entertaining piece of prose gently tucked into the SEC filings tells the tale of rationale.
+
+
+The company justifies the executive compensation by comparing itself to the likes of
+Natus Medical (NASDAQ:BABY) with its $700+ million market cap and $300+ million in
+revenue last fiscal year and Exactech (NASDAQ:EXAC) with its $317 million market cap
+and over $200 million revenue. Both profitable.
+
+
+Compare those with UNIS, whose market cap is now over $450 million and revenue for
+the year reached just $2.7 million . No profit.
+
+
+It may get downright irritating when viewed in context with the following:
+
+
+1. While directors were busy trying to justify being overpaid, auditors were busy combing
+UNIS financials.
+
+
+2. KPMG auditors wrote the following going-down-in-flames statement on UNIS:
+
+
+3. "… the Company has incurred recurring losses from operations and has limited cash
+resources, which raise substantial doubt about its ability to continue as a going concern."
+
+
+*"Excessive and wasteful" legal claims pit a huge pension plan against UNIS as it
+struggles to continue as a going concern.
+
+
+Indeed, efforts "to recover allegedly 'excessive and wasteful' compensation paid to the
+non-executive directors since 2010," form the crux of the latest lawsuit filed against UNIS,
+as disclosed in its 10-Q filing with the SEC as a "derivative complaint" or a lawsuit filed by
+a shareholder seeking to enforce or defend a right/claim that the company has failed to
+do.
+
+
+
+http://finance.yahoo.com/q/is?s=UNIS&annual
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513392396/d599830ddef14a.htm#toc599830_8
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312513392396/d599830ddef14a.htm
+
+http://finance.yahoo.com/q/ks?s=baby&ql=1
+
+http://finance.yahoo.com/q/ks?s=baby&ql=1
+
+http://finance.yahoo.com/q/ks?s=exac&ql=1
+
+http://finance.yahoo.com/q/ks?s=EXAC+Key+Statistics
+
+http://finance.yahoo.com/q/is?s=UNIS+Income+Statement&annual
+
+https://www.sec.gov/Archives/edgar/data/1476170/000119312513366717/d584327d10k.htm
+
+http://www.sec.gov/Archives/edgar/data/1476170/000119312514043402/d665636d10q.htm
+
+http://legal-dictionary.thefreedictionary.com/Derivative+suit
+5/23/2018 Unilife Corporation: How This Hypodermic Needle Company Keeps Jabbing Investors - Unilife Corporation (NASDAQ:UNIS) | Seeking Al…
+
+
+https://seekingalpha.com/article/2058353-unilife-corporation-how-this-hypodermic-needle-company-keeps-jabbing-investors 10/11
+
+

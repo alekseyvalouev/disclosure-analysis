@@ -1,1275 +1,394 @@
-Muddy Waters Capital LLC 
+THIS RESEARCH REPORT EXPRESSES SOLELY OUR OPINIONS. Use Prescience Point Capital Management’s research opinions at your own risk. This is not investment 
+advice nor should it be construed as such. You should do your own research and due diligence before making any investment decisions with respect to the 
+securities covered herein. Forward-looking statement and projections are inherently susceptible to uncertainty and involve many risks (known and unknown) 
+that could cause actual results to differ materially from expected results. You should assume we have a short interest in Middleby stock and therefore stand 
+to realize significant gains in the event that the price of such instrument declines. Please refer to our full disclaimer located on the last page of this report. 
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
-
-
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
-
-
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
-
-
-Page 1 of 34
-Report Date: August 25, 2016 
- 
-Company:  
-St. Jude Medical, Inc. 
- 
-Ticker:  
-STJ US 
- 
-Industry: Medical Devices 
- 
-
-
-Stock Price: $ 81.88  
- 
-Market Cap: $23.3 billion 
- 
-Float: 97.5% 
- 
-Average Volume: 1.9 million shares 
- 
-
-
- 
-This version has been updated state that Dr. Nayak speaks for himself, and not his employer.   
- 
-Summary 
- 
-Muddy Waters Capital is short St. Jude Medical, Inc. (STJ US).1  There is a strong possibility 
-that close to half of STJ’s revenue is about to disappear for approximately two years.  STJ’s 
-pacemakers, ICDs, and CRTs might – and in our view, should – be recalled and remediated.  
-(These devices collectively were 46% of STJ’s 2015 revenue.)  Based on conversations with 
-industry experts, we estimate remediation would take at least two years.  Even lacking a recall, 
-the product safety issues we present in this report offer unnecessary health risks and should 
-receive serious notice among hospitals, physicians and cardiac patients.   
- 
-We have seen demonstrations of two types of cyber attacks against STJ implantable cardiac 
-devices (“Cardiac Devices”): a “crash” attack that causes Cardiac Devices to malfunction – 
-including by apparently pacing at a potentially dangerous rate; and, a battery drain attack that 
-could be particularly harmful to device dependent users.2  Despite having no background in 
-cybersecurity, Muddy Waters has been able to replicate in-house key exploits that help to enable 
-these attacks.   
- 
-We find STJ Cardiac Devices’ vulnerabilities orders of magnitude more worrying than the 
-medical device hacks that have been publicly discussed in the past.  These attacks take less skill, 
-can be directed randomly at any STJ Cardiac Device within a roughly 50 foot radius, 
-theoretically can be executed on a very large scale, and most gallingly, are made possible by the 
-hundreds of thousands of substandard home monitoring devices STJ has distributed.3  The STJ 
-ecosystem, which consists of Cardiac Devices, STJ’s network, physician office programmers, 
-and home monitoring devices, has significant vulnerabilities.  These vulnerabilities highly likely 
-could be exploited for numerous other types of attacks.   
- 
-Key vulnerabilities can apparently be exploited by low level hackers.  Incredibly, STJ has 
-literally distributed hundreds of thousands of “keys to the castle” in the form of home monitoring 
-units (called “Merlin@home”) that in our opinion, greatly open up the STJ ecosystem to attacks.  
-These units are readily available on Ebay, usually for no more than $35.  Merlin@homes 
-generally lack even the most basic forms of security, and as this report shows, can be exploited 
-
-
-                                                             
-1 The short positions are held by funds Muddy Waters Capital LLC manages. 
-2 See Demonstrated Attacks – Likely Just Two of Many Possibilities infra. 
-3 It would have been illegal to attempt to validate the large scale attack theories. 
-
-
-Page 2 of 34
-to cause implanted devices to malfunction and harm users.  We believe that courts will hold 
-STJ’s lack of security in its Cardiac Device ecosystem is grossly negligent, unless STJ settles the 
-litigation we see as inevitable. 
- 
-The vulnerabilities result from an apparent lack of device security; and, the communication 
-protocols for the Cardiac Device ecosystem – which we believe lacks basic protections such as 
-encryption and authentication – are in fact compromised.  As a result, an attacker can 
-impersonate a Merlin@Home unit, and communicate with the Cardiac Devices – and likely even 
-STJ’s internal network.  While STJ might be able to patch one particular type of attack, the mass 
-distribution of access points to the inner workings of the ecosystem via the home monitoring 
-devices requires in our opinion, a lengthy system rework.   
- 
-Dr. Hemal Nayak, a cardio electrophysiologist at the University of Chicago, is recommending 
-his patients unplug their Merlin@home units; and, he is not going to implant STJ devices until 
-the problems discussed in this report are remediated.  (His statement is in the Appendix.)  Dr. 
-Nayak is the medical advisor to MedSec Holdings Ltd. (“MedSec”), which is the cybersecurity 
-research firm that identified the vulnerabilities in STJ’s ecosystem.4  (Dr. Nayak is also a 
-member of its board.)   
- 
-Background 
- 
-MedSec is a cybersecurity research firm focused on the healthcare industry.  It contacted Muddy 
-Waters after largely completing an assessment of major manufacturers’ pacemakers and 
-implantable cardioverter defibrillators (“ICDs”).5  
- 
-The lack of security in the STJ pacemaker and ICD infrastructure stunned MedSec.  STJ’s 
-apparent lack of device security is egregious, and in our view, likely a product of years of 
-neglect.  Moreover, STJ’s devices were even the subject of a U.S. Department of Homeland 
-Security investigation into cybersecurity flaws in 2014, yet these gaping holes seem to persist.6  
-As a result, neither MedSec nor Muddy Waters was confident that STJ would put patients before 
-profits if it were approached behind closed doors.  Muddy Waters and MedSec agreed that users’ 
-interests are best served by being made aware of these serious issues.  While standard practice in 
-the cybersecurity industry is to notify companies of vulnerabilities before discussing them 
-publicly,  MedSec licensed its research to Muddy Waters so that we could bring these issues to 
-light (without revealing detailed vulnerability information). Muddy Waters has engaged MedSec 
-as consultants in addition to licensing its research on STJ.  MedSec is receiving compensation 
-related to investment profits from the funds Muddy Waters manages.    
- 
-MedSec has given Muddy Waters multiple demonstrations evidencing how hollow STJ’s device 
-security is.  To illustrate the severity of these vulnerabilities, MedSec demonstrated two types of 
-
-
-                                                             
-4 Dr. Nayak had been granted an immaterial equity interest in MedSec prior to MedSec reaching its conclusions 
-regarding STJ. 
-5 MedSec believes this study is the first of its kind.  It expects to publicly release the study in September 2016. 
-6 http://www.reuters.com/article/us-cybersecurity-medicaldevices-insight-idUSKCN0IB0DQ20141022 
-
-
-Page 3 of 34
-attacks that could do severe harm to devices and users, and theoretically could be deployed on a 
-large scale.7   
- 
-In addition to making an investment case, the purpose of this report is to inform device users and 
-their physicians of these risks.  MedSec and we believe that users have a right to know that there 
-are serious security problems with their implanted Cardiac Devices, and the related devices.  
-However, we are withholding and redacting technical information that could give potential 
-attackers a roadmap.   
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  Regardless, Cardiac Device users should speak with their physicians about the risks.  
-Muddy Waters is providing the United States Food and Drug Administration and Department of 
-Homeland Security with a version of this report, and expects to facilitate dialogue between the 
-agencies and MedSec. 
- 
-As we detail in this report, Muddy Waters believes there is a strong possibility that STJ will need 
-to recall its pacemakers, ICDs, and CRTs while it hardens security of the device ecosystem.  This 
-recall would likely entail a moratorium on sales of these devices, and we estimate this 
-moratorium would be effective for a remediation period of at least two years.   
- 
-The devices MedSec studied, and that formed the basis for these conclusions included 
-pacemakers and ICDs; but, did not include CRTs.  Because the CRTs are compatible with the 
-compromised Merlin@home devices, this report assumes that they have similar vulnerabilities, 
-and should also be recalled and remediated.  (Were the CRTs not to have the expected or similar 
-vulnerabilities, then the products would not need to be recalled.) 
- 
-The Merlin@home devices were obtained second hand – often from online vendors.  The 
-programmers were obtained via a third party partnership with a licensed physician.  The 
-observations regarding device security in this report are derived from the substantial majority of 
-devices studied, and it is possible that newer versions of these devices have some security 
-enhancements that could eliminate some seemingly minor vulnerabilities in those particular 
-devices.   
- 
-However, even if new generations of devices have some enhancements, we still view the entire 
-ecosystem as greatly compromised.  There are likely hundreds of thousands of Merlin@home 
-devices with easily exploitable vulnerabilities in the world, and vulnerable devices are easily 
-purchased online for no more than $35.  This train has already left the station. 
- 
-STJ’s Compromised Cardiac Device Ecosystem 
- 
-For our purposes, the Cardiac Device ecosystem consists of four components: the implantable 
-device, the Merlin programmer, the STJ network, and the Merlin@home.8 
- 
-                                                             
-7 It would have been illegal to try to validate the ability to commit large scale attacks. 
-8 The device pictures supra are representative, and are not pictures of the actual devices studied. 
-
-
-Page 4 of 34
-Implantable Device 
- 
-
-
-
-
-
-The Cardiac Devices are implanted in patients typically to treat 
-tachycardia and bradycardia.  They are radio frequency (“RF”) 
-enabled, so that they can communicate with the Merlin@Home 
-devices and programmers.   
- 
-Cardiac Devices accounted for 46% of STJ’s 2015 revenue: 
- 
-
-
-ICDs and CRTs    $1,582 million      29% 
-Pacemakers            $941 million       17% 
- 
-
-
-Programmer 
- 
-
-
-
-
-
-Physician office programmers (called “Patient Care Systems”) 
-are roughly the size of a typewriter.  They are critically 
-important devices in the STJ Cardiac Device ecosystem.  The 
-programmer, typically used by a physician or medical 
-professional, is designed to interrogate, program, display data 
-and test STJ implantable devices.  Every feature that can be 
-changed in the implantable can be done by the programmer, as 
-there is no other device with a higher level of sophistication.  
-For an RF capable implantable device, a wand is used to unlock 
-the device, and then the transmission of data occurs over RF. 
-The programmers studied lack encryption and also present a 
-substantial vulnerability.   
-
-
-Merlin.net Network 
- 
-
-
-
-
-
-The STJ network enables the transfer of data between the 
-implanted devices, programmers, Merlin@home, and 
-physicians. Information transmitted includes patient data, remote 
-performance diagnostics, and updates related to the device. 
-
-
-Merlin@Home 
- 
-
-
-
-
-
-The Merlin@Home device, which is about the size of a 
-hardcover book, communicates with Cardiac Devices over RF.  
-Its purpose is to receive device and patient health data from the 
-Cardiac Devices, and then transmit it to STJ’s Merlin.net 
-network.  There are literally hundreds of thousands of @home 
-devices in the wild, and used devices with easily exploitable 
-vulnerabilities are readily available on Ebay.  The devices 
-contain critical information and code without encryption, and are 
-effectively “keys to the castle” that open the door to attackers.   
-
-
- 
-Any programmer or Merlin@home device can generally communicate with any Cardiac Device 
-because there is no strong authentication built into the protocol.  Attackers who can reverse 
-engineer the communication protocol can access and impersonate parts of the ecosystem, 
-including the Cardiac Devices.   
- 
-
-
-Page 5 of 34
-Usually, devices part of an ecosystem such as this one would have defenses including strong 
-authentication, encrypted software and code, anti-debugging tools, and anti-tampering 
-mechanisms.  A manufacturer might also might require wand activation before allowing RF 
-communication (meaning the home device would have to be within inches of the Cardiac 
-Device).  STJ’s major competitors have used the aforementioned techniques (among others) to 
-protect their protocols.  The Merlin@homes studied generally had none of these defenses.  
- 
-In Security Well Below Industry Standards infra, we present a table comparing STJ’s lack of 
-security to the major competitors studied.   
- 
-Hundreds of Thousands of Keys to the Castle 
- 
-Perhaps most shocking about STJ’s lack of security is that it has distributed hundreds of 
-thousands of devices that are apparently so easily analyzed for vulnerabilities.  There are 
-numerous Merlin@home units for sale on Ebay – usually for no more than $35.  The below 
-screenshot shows the ready availability of the Merlin@home devices on Ebay.9 
- 
-
-
-                                                             
-9 The search was run on August 3, 2016. 
-
-
-Page 6 of 34
-When a patient receives a Cardiac Device implant, it is usually bundled with a Merlin@Home 
-monitor. Previous generations of these devices were shown to be vulnerable to hacking within 
-very close proximity.10  However, these devices had wands that needed to be within inches of the 
-Cardiac Device in order to communicate.  Merlin@home devices and implants now have 
-additional RF capabilities, with a communications range of approximately 50 feet.  They now 
-pose a far more significant risk to user safety than before.  The Merlin@home devices MedSec 
-tested generally only required approximately 10 minutes to get access to the root directory.  
-                                                             
-10 http://www.secure-medicine.org/public/publications/icd-study.pdf 
-
-
-Page 7 of 34
-“Getting root” on the Merlin@home devices exposes sensitive STJ network credentials.  We 
-believe the ease of getting root shows how poor the device security is.  MedSec identified three 
-methods to get root on the @home devices. 
- 
-There are numerous ways in which the Merlin@home devices violate security standards (and 
-defy logic): 
- 
-
-
-• No apparent tamper-proofing or hardware identity protection.  Chip models are clearly 
-displayed, aiding the research process for an attacker. 
- 
-
-
-• Unprotected software.  While patient data is encrypted, the Merlin@home device has 
-entirely unencrypted software. Competing systems use some form of encryption to 
-protect the proprietary applications.  Extracting software from the @Home device can be 
-done by identifying the chip, and reading the data off it.  The Merlin@home’s Samsung 
-flash memory has been publicly documented to be vulnerable.11 
- 
-
-
-• Lack of a layered defense.  In MedSec’s opinion, the use of off-the-shelf components and 
-the lack of anti-debugging mechanisms made the Merlin@home device significantly 
-easier to reverse engineer and locate numerous vulnerabilities.  The manufacturer left 
-many developmental items on the devices that should not be present, such scripts that 
-allow debugging and development mode to be turned on.  All of the competitors 
-incorporated additional security measures.  Some manufacturers required short range 
-authentication (via a wand).   
- 
-
-
-• Easy availability of device firmware.  MedSec was also able to obtain the @home 
-device’s firmware in three ways: 
-o Decapitating the Samsung memory chip, 
-o Getting root on the @home device and simply copying the files to the USB port,  
-o [Redacted.] 
-
-
- 
-MedSec believes a software update was likely pushed to some of the Merlin@home devices that 
-made them appear more secure; however, in MedSec’s opinion, this update represented a very 
-slight change in security.  This might have been STJ’s response to the 2014 issues.  
-Merlin@home units manufactured in 2016 appear to have the same type of vulnerabilities.12 
- 
-Getting Root Opens the Door 
- 
-The first shocking thing one encounters when getting root on the Merlin@home device is 
-unencrypted security information that takes no additional effort to access.  This information 
-includes: 
- 
-
-
-                                                             
-11 See https://www.blackhat.com/docs/us-14/materials/us-14-Oh-Reverse-Engineering-Flash-Memory-For-Fun-And-
-Benefit-WP.pdf 
-12 Devices manufactured in 2016 are difficult to obtain on the secondary market.  MedSec was able to obtain one 
-such device, and was able to get root using a previously identified exploit. 
-
-
-Page 8 of 34
-• The toll-free access number for the Merlin network.  (The @home devices connect to the 
-Merlin network either through a phone line connection or a 3G token.) 
-
-
-• The User ID and Password for the Merlin network.  These credentials are static – i.e., 
-they are used to authenticate all @home devices on which MedSec got root.   
-
-
-• STJ server IP addresses (in older device versions),   
-• SSH keys (in older device version).  SSH keys are the “private” keys in a “public / 
-
-
-private” key pair system.  (See: https://wiki.archlinux.org/index.php/SSH_keys)  MedSec 
-is prohibited by law from testing whether these SSH keys are still in use by STJ’s 
-network.  Even if the SSH keys have been changed, their unencrypted existence on older 
-@home devices is shocking.  If the keys are still in use, they could assist an attacker with 
-a network-based attack. 
-
-
- 
-The network credentials present on the @home device likely could be exploited to obtain 
-confidential (and legally protected) patient data from the Merlin network.  Also due to legal 
-prohibitions, MedSec was unable to confirm this theory. 
- 
-Below are screenshots evidencing Muddy Waters got root on Merlin@home devices (using 
-exploits developed by MedSec): 
-
-
-
-
-
- 
- 
- 
- Security Well Below Industry Standards (the Case for Gross Negligence) 
- 
-We have little doubt that STJ is about to enter a period of protracted litigation over these 
-products.  Should these trials reach verdicts, we expect the courts will hold that STJ has been 
-
-
-Page 9 of 34
-grossly negligent in its product design.  (We estimate awards if litigated to a verdict could total 
-$6.4 billion.13)   
- 
-One of the purposes of this report is unapologetically to single out STJ for what we see as its 
-incompetence in, or indifference to, device security.  In contrast, some competitors’ devices had 
-some surprisingly advanced device security features on home monitoring units.  One competitor 
-went as far as developing a highly proprietary embedded OS, which is quite costly and rarely 
-seen.  Healthcare cyber security is a nascent field, and one in which manufacturers and providers 
-are challenged to catch up.  However, STJ’s lack of security is stunning in comparison to that of 
-its three major competitors.   
- 
-Medtronic (MDT US), the largest player in the space, took a much different approach to patient 
-remote monitoring using the MyCareLink Patient monitor device pictured below: 
-
-
-
-
-
-
-
-
-MDT’s MyCareLink monitor has a wand that has to be detached and put within inches of the 
-implantable to communicate – similar to earlier versions of STJ’s home monitoring devices.  As 
-a result, even if all of the MyCareLink monitors were compromised, an attacker would only be 
-able to modify the device to perform in person attacks over a distance of a few inches. 
- 
-The STJ communication protocol does not include the use of any unique or one-time tokens, 
-such as a user-provided password. Instead, devices exchange an IMD (a unique identifier) to 
-create sessions.  As a result, any programmer or Merlin @ Home device can communicate with 
-any Cardiac Device, and once the communication protocol is understood, generally any device 
-can be impersonated. 
  
-MedSec and Muddy Waters believe it is prudent from a security standpoint for STJ to disable the 
-RF capability of patients’ implanted devices.  
- 
-The following table compares the security on STJ’s Merlin@home to the devices manufactured 
-by the three major competitors MedSec studied.  
-
-
-                                                             
-13 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of an estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Page 10 of 34
-Page 11 of 34
-The Merlin@home circuit board shows some of the device’s substandard security.  STJ’s RF 
-chip is clearly an off the shelf un-customized Zarlink chip.  (There is a readily available 
-datasheet that contains important information about the packet structure the Zarlink chip uses.)  
-In contrast, the other manufacturers have proprietary RF chips developed specifically for their 
-protocols.14  STJ also uses a Samsung memory chipset for which there is a public presentation 
-about how to extract the contents. Further, none of the major chips appear to be proprietary.  The 
-competitors’ devices contained numerous customized chips (with no publicly available data 
-sheets). 
- 
- 
-
-
-
-
-
  
-Whether SJM’s conduct constitutes simple negligence, gross negligence, or recklessness we 
-leave to the courts, based on a full discovery record.  What we can say is that it constitutes an 
-extreme departure from industry standards, as evidenced by the security efforts its competitors 
-have made, and further shows a remarkable indifference to protecting its customers from 
-cybersecurity threats.  Regardless, we have little doubt that STJ is about to enter a period of 
-protracted litigation over these products.  Should these trials reach verdicts, we expect the courts 
-will hold that STJ has been grossly negligent in its product design.  (We estimate awards could 
-total $6.4 billion.15)   
  
-Merlin Programmers are also Non-Secure 
  
-Perhaps more worryingly, the physician office programmers are not well secured either. 
-Shockingly, the STJ programmer has an easily accessible removable SATA/IDE harddrive. The 
-hard drive is unencrypted and applications can be easily read from, modified, and rewritten to the 
-
-
-                                                             
-14 The competitors’ RF chips could be custom modified chips produced by a major manufacturer such as Zarlink. 
-15 Assumes damages of $15,000 per each of 260,000 Merlin@home device users, plus damages of $5,000 per each 
-of a conservatively estimated 490,000 U.S. Cardiac Device users who do not use Merlin@home. 
-
-
-Samsung K9F1208 Family 
-Memory Chipset  
-
-
-Zarlink Chip 
-
-
-Page 12 of 34
-hard drive using a SATA/IDE to USB adapter cable. This makes the vulnerability discovery 
-process for an attacker significantly easier.  If the applications are reverse engineered it could 
-potentially allow an attacker emulate the full functionality of the programmer using custom 
-hardware in a much more compact form – e.g., a pocket size device.  
  
-These devices are readily available online for a few thousand dollars – including occasionally on 
-Ebay.  A Merlin programmer available on Ebay on August 10, 2016: 
  
-
-
-
+ test 
+\ 
 
 
-Page 13 of 34
-Incompetence or Indifference? 
- 
-We believe the foregoing issues evidence a company that either does not know how to do device 
-security, or does not care about it.  Ironically, STJ touts its claimed strength in network 
-security.16  It strikes us as bizarre that STJ seems so focused on its internal corporate network, 
-which is arguably its last line of defense (and does nothing to protect against local attacks), while 
-distributing hundreds of thousands of non-secure Merlin@home devices into the homes of its 
-customers. 
- 
-Although MedSec has spent considerable time researching STJ’s devices (and those of its major 
-competitors), it expects that there are numerous additional security issues with its Cardiac Device 
-ecosystem.  MedSec extrapolates this based on the obvious lack of attention to security evident 
-in the devices it has researched.  This seeming shoddiness is more likely than not a systemic 
-problem at STJ, rather than an isolated one.  
- 
-MedSec was able to review only a small portion of the massive code base, yet it found 
-vulnerabilities on a regular basis.  STJ should and could identify and fix these as subset of the 
-MedSec identified vulnerabilities, and new vulnerabilities will likely continue to exist, unless 
-                                                             
-16 STJ seems quite proud of its “CTAC” – “Cyber Threat Action Center”.  “CTAC’s mission is to identify, protect 
-against, respond to, and enhance resiliency against cyber security threats. Learn how St. Jude Medical fulfills this 
-mission by using threat intelligence to monitor for emerging threats against the healthcare industry and make 
-informed verdicts on events in its SIEM.” https://www.recordedfuture.com/st-jude-medical-webinar-announcement/ 
- 
 
 
-Page 14 of 34
-STJ reworks large portion of the code of the Merlin@home, Programmer, and implantable 
-Cardiac Devices.  The company should include anti-fuzzing, anti-debugging methods, buffer 
-overflow protection, integer overflow protection, and string format protection. 
- 
-Demonstrated Attacks – Likely Just Two of Many Possibilities 
- 
-In the U.S. alone, STJ has over 260,000 active Merlin@home devices in the homes of users of 
-Cardiac Devices.17  (The worldwide number is likely hundreds of thousands of units higher.)  
-Many Merlin@home users keep the devices in their bedrooms, connected to STJ’s network 
-while they sleep. 
- 
-With relatively little effort, MedSec exploited tools on the @home devices to code the attacks.  
-Then, using compromised @home devices or software defined radios (“SDR”), MedSec 
-demonstrated two types of potentially catastrophic attacks:18  
- 
 
 
-• “crash” attacks that remotely disable cardiac devices, and in some cases, appear to cause 
-the Cardiac Device to pace at a dangerous rate, and 
- 
 
 
-• a battery drain attack that remotely runs Cardiac Device batteries down. 
- 
-These attacks were all demonstrated locally – within 50 feet, which is the approximate broadcast 
-radius of a Merlin@home unit.  (More powerful antennae can theoretically increase the range.)  
-MedSec outlined an exact method that could be used to launch similar attacks on a large scale 
-basis – either through established techniques for [redacted], or possibly through STJ’s network 
-itself.  It would have been illegal for MedSec to test the proof of concept. 
+The Middleby Corporation (MIDD) is a debt-fueled roll-up that has used M&A 
+to mask deteriorating organic growth and weak cash flow pre-COVID-19.  
+Consensus expects record profitability and margins in FY 21 despite 
+restaurants permanently closing doors at a record pace, over-levered 
+chains cutting unit growth & capex, and large franchisee groups teetering on 
+bankruptcy.  Add a flood of used equipment hitting the market soon and 
+MIDD finds itself in a treacherous downward spiral.  As net debt hovers near 
+all-time highs and profits face unprecedented hurdles, MIDD won’t be able to 
+acquire itself out of its problems.  Shares are down >50% YTD and are likely to 
+get cut in half again.   
  
-It is important to note that MedSec demonstrated these attacks on pacemakers and ICDs.  CRTs, 
-which were 16% of 2015 revenue, were unavailable for the demonstrations.  Because these 
-attacks exploit the communication protocol between the Merlin@home devices and the Cardiac 
-Devices, MedSec is confident that CRTs are similarly vulnerable. 
- 
 
 
-a. “Crash Attacks” 
- 
-The Crash Attacks involve broadcasting a combination of signals that places Cardiac Devices 
-into a state of malfunction.  Many of the Cardiac Devices tested are vulnerable to attacks 
-broadcast through a single Merlin@home device that is either compromised, or via a software 
-defined radio (“SDR”) using a broadcast antenna.  The Crash Attacks generally took less than 
-one hour to take effect. 
-                                                             
-17 As of May 2014 – see http://investors.sjm.com/investors/financial-news/news-release-details/2014/Pacemaker-
-and-Defibrillator-Patients-Adhering-to-Remote-Monitoring-with-St-Jude-Medicals-Merlin-Technology-Saw-More-
-than-Double-Survival-Rate/default.aspx 
-18 “Software-defined radio (SDR) is a radio communication system where components that have been typically 
-implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead 
-implemented by means of software on a personal computer or embedded system.” - 
-https://en.wikipedia.org/wiki/Software-defined_radio (citing: Software Defined Radio: Architectures, Systems and 
-Functions (Markus Dillinger, Kambiz Madani, Nancy Alonistioti) Page xxxiii (Wiley & Sons, 2003, ISBN 0-470-
-85164-3)) 
-
-
-Page 15 of 34
-In many cases, the Crash Attack made the Cardiac Device completely unresponsive to 
-interrogations from Merlin@home devices and Merlin programmers.  It was therefore impossible 
-to tell whether, and how the Cardiac Devices, are functioning.  MedSec strongly suspects they 
-were in many cases “bricked” – i.e., made to be non-functional.  It is likely physicians would 
-explant a device that did not respond to the programmer.  
+Prescience Point Research Opinions: 
  
-In some cases, a Cardiac Device subjected to a Crash Attack was still able to communicate with 
-the programmer, and the information displayed was alarming.  In a Crash Attack demonstration 
-we witnessed on an ICD, the Crash Attack appears to have caused the device to pace at a rapid 
-rate that could have adverse health consequences if it performed this way in a user.19  Below is a 
-screenshot from the programmer showing the apparent malfunction.  The red error messages 
-above the lowest line are also indicators that the device is malfunctioning.   
 
 
-                                                             
-19 Interpretation of pacing data by MedSec medical advisor and board member, Dr. Hemal Nayak.  See The 
-Appendix.   
-
-
-Page 16 of 34
-b. Battery Drain Attack 
- 
-MedSec has demonstrated a Battery Drain attack that generates signals from the Merlin@home 
-device to run down batteries in Cardiac Devices at a greatly accelerated rate.  The attack version 
-MedSec tested depleted the batteries at approximately three percent of capacity per 24-hour 
-period.20  MedSec has since optimized the code.  Many Merlin@home users have their devices in 
-                                                             
-20 The exact depletion rate depends on the type and version of device. 
-
-
-Page 17 of 34
-their bedrooms, making it possible to run down batteries while users are sleeping.21  While 
-untested, MedSec believes the new code would drain devices at six times the rate – or in 
-approximately two weeks of nightly broadcasts.  While the Battery Drain attack appears 
-inefficient for a local attack, it could have severe consequences if deployed on a large scale.22  A 
-minority of Cardiac Device users are device dependent, and they are the group to whom the 
-Battery Drain attack poses the most significant risk.23  
- 
-A large scale attack is theoretically possible either through [redacted] and possibly through STJ’s 
-own Merlin network.  An attack through the Merlin network could be possible because of the 
-compromised login credentials for the network, giving rise to the possibility that the network 
-would be unable to distinguish a genuine Merlin@home device from an attacker.  Even if the 
-particular vulnerabilities discussed in this report are fixed, the Cardiac Devices are likely 
-susceptible to other attacks without a new communication protocol in place.  Based on our 
-conversations with industry experts, we estimate it would take at least two years to deploy a new 
-protocol on the current generation of devices. 
- 
-We are unaware of any imminent threat to patient safety.  However, we believe it is prudent from 
-a security standpoint for STJ to immediately disable the RF capability of patients’ implanted 
-devices.  MedSec’s medical advisor, Dr. Hemal Nayak, who is a cardiac electrophysiologist, has 
-advised his patients to disconnect their Merlin@home units.  He is no longer implanting STJ 
-devices until the problem is remediated.  (Dr. Nayak’s statement to physicians and patients is in 
-the Appendix.)   
- 
-Analysis of Recall Likelihood & FDA Medical Device Cybersecurity Regulatory 
-Framework 
- 
-We believe in-home communication compatible Cardiac Devices should be recalled, either 
-voluntarily by STJ or mandatorily by the U.S. Food and Drug Administration (“FDA”).  This 
-recall would likely take the form of a moratorium on selling new devices until STJ completes 
-development of a new RF communication protocol.  Based on our conversations with industry 
-experts, we estimate a two-year timeline to develop and deploy the protocol.   
- 
-FDA Statutory and Regulatory Basis for Device Recalls 
- 
-Manufacturers independently initiate the overwhelming majority of medical device recalls.24  
-These are labeled “voluntary” recalls conducted pursuant to 21 CFR Part 7. However, the FDA’s 
-authority pursuant to Section 518(e) of the Federal Food, Drug, and Cosmetic Act (“FDCA”)25 
-
-
-                                                             
-21 Per Dr. Hemal Nayak, MedSec medical advisor and board member. 
-22 Note that Cardiac Devices generally have an audible low battery indicator.  A concern is that physicians and 
-patients would assume a normal delay between onset of the indicator and depletion. 
-23 http://www.medscape.com/viewarticle/712198_2 
-24 In 2014, FDA released its “Medical Device Recall Report – FY 2003 to FY 2012” available at 
-http://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHTra
-nsparency/UCM388442.pdf  (last accessed Aug. 22, 2016). That Report states “[i]n rare cases, such as when a 
-device firm in uncooperative, FDA may perform a mandatory recall. However, all medical device recalls during this 
-report period were performed on a voluntary basis by the firms.”  
-25 21 USC § 360h(e). 
-
-
-Page 18 of 34
-and its related regulations found in 21 CFR Part 810 to mandate medical device recalls likely 
-explains the high rate of “voluntary” recalls.26  Should STJ not voluntarily recall these Devices 
-once informed of the high probability that the device would cause serious, adverse health 
-consequences or death, the FDA has ample regulatory basis to order a recall.  There are three 
-major competing device manufacturers.  While not ostensibly part of the FDA’s analysis, it is 
-notable that recalling STJ’s Devices would not deprive patients of an essential device. 
- 
-FDA Draft Guidance Document on Postmarket Device Cybersecurity 
- 
-The FDA issued a draft guidance document entitled  “Postmarket Management of Cybersecurity 
-in Medical Devices” (the “Draft Guidance”) on January 22, 2016. The Draft Guidance details 
-FDA’s current thinking on “managing postmarket cybersecurity vulnerabilities for marketed 
-medical devices.” Specifically, the Draft Guidance provides requirements for circumstances in 
-which cybersecurity vulnerabilities must be reported to FDA and may require additional actions, 
-including recall.27,28   
- 
-The Draft Guidance focuses on “assessing the risk to the device’s essential clinical 
-performance”.29  Essential clinical performance is the “performance necessary to achieve 
-freedom from unacceptable risk”.30  Manufacturers define the essential clinical performance 
-standards.31  Our analysis assumes that STJ’s definition of essential clinical performance for the 
-Devices includes (whether explicitly or implicitly) the ability to communicate with physician 
-programmers, avoid rapid battery depletion, and maintain safe pacing.  Further, we emphasize 
-throughout this report our view that other researchers are likely to develop additional attacks that 
-could compromise the essential clinical performance of the Devices.  The Draft Guidance 
-acknowledges that “a cybersecurity vulnerability might impact all of the medical devices in a 
-manufacturer’s portfolio based on how their products are developed…”32 
- 
-The Draft Guidance provides that manufacturers assess the risk a vulnerability presents to 
-essential clinical performance by considering: a) the “exploitability” of the vulnerability, and b) 
-the severity of the impact to patients’ health if it were exploited.33  If a risk is “uncontrolled”, 
-
-
-                                                             
-26  “The vast majority of all recalls are voluntary… Recalls are almost always voluntary, meaning initiated by a firm. 
-A recall is deemed voluntary when the firm voluntarily removes or corrects marketed products or the FDA requests 
-the marketed products be removed or corrected.” FDA’s openFDA, available at 
-https://open.fda.gov/device/enforcement/ (last accessed Aug. 22, 2016). 
-27 FDA’s Draft Guidance Document, “Postmarket Management of Cybersecurity in Medical Devices – Draft 
-Guidance for Industyr and Food and Drug Administration Staff,” available at 
-http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm482022.pdf 
-(dated Jan. 22, 2016, last accessed Aug. 22, 2016).  
-28 The draft guidance is not a final agency action and is subject to modification prior to adoption. As for all FDA 
-guidance documents, the “draft guidance, when finalized, will represent the current thinking of the [FDA] on this 
-topic. It does not establish any rights for any person and is not binding on the FDA or the public.” topic. 
-29 Draft Guidance, part VI. 
-30 Draft Guidance, part IV.E. 
-31 Id. 
-32 Draft Guidance, part V.B. 
-33 Draft Guidance, part VI. 
-
-
-Page 19 of 34
-then manufacturers should remediate it.34  Based on our conversations with industry experts, we 
-estimate this remediation would take at least two years.   
- 
-In terms of understanding the probability of an attack taking place, University of Michigan 
-medical device cybersecurity research Kevin Fu pointed out that the malicious third party 
-controls the probability distribution of an attack.35 
- 
-To determine whether a risk is uncontrolled, the Draft Guidance suggests that manufacturers 
-look to cybersecurity vulnerability assessment tools to determine exploitability.  It mentions one 
-tool that could assist, called the “Common Vulnerability Scoring System”, version 3.0.36,37  
-Based on our inputs to the CVSS 3.0 model, the exploitability of the vulnerabilities for the 
-Devices ranges from “High” to “Critical”.  Further, FDA’s Draft Guidance indicates that 
-manufacturers “should also have a process for assessing the severity impact to health, if the 
-cybersecurity vulnerability were to be exploited.”38 The Draft Guidance suggests one for such 
-assessment to be the ANSI/AAMI/ISO 14971: 2007/®2010: Medical Devices – Application of 
-Risk Management to Medical Devices.39 Pursuant to this tool, a common term for assessing a 
-qualitative severity level resulting in patient death would be “catastrophic” while, on the lower 
-end of the severity spectrum, a common term for a severity level resulting in inconvenience or 
-temporary discomfort would be “negligible.”40  
- 
-As shown supra, MedSec has demonstrated an attack that can cause a Device to pace at a 
-potentially dangerous rhythm.  MedSec has also demonstrated a battery drain attack, and certain 
-Device dependent patients could experience severe health consequences if their Devices lost 
-power and failed to function.41  Based on the Draft Guidance and its recommended tools, we 
-therefore assess the severity of the exploit to patient health to be “catastrophic.”  The below 
-matrix from the Draft Guidance deems a vulnerability with high exploitability and catastrophic 
-impact if exploited an uncontrolled risk.42   
- 
- 
+• Demand for MIDD’s equipment enters a vicious downward spiral as purchases disappear & used 
+equipment floods the market:  MIDD had been struggling from lower capex and pushed out projects from its large chain restaurant customers 
+since at least Q3 19.  In fact, a few large franchisee groups were flirting with bankruptcy pre-COVID-19.  Now, as record numbers of restaurants 
+close permanently (National Restaurant Association estimates it will be at least ~15%) and major chain customers halt unit growth and cut 
+capex, demand is disappearing.  Moreover, even in the off-chance restaurants stage a “V” shaped recovery, a flood of lightly used equipment 
+about to enter the market will wreak havoc on pricing and demand for MIDD products.   
+    
 
 
-                                                             
-34 Draft Guidance, part VIC. 
-35 https://www.youtube.com/watch?v=shTj9WVhVyU&feature=youtu.be 
-36 Draft Guidance, part VI.A. 
-37 The tool is available at: https://www.first.org/cvss/calculator/3.0 
-38 Draft Guidance, part VI.B. 
-39 Id. 
-40 Id. 
-41 According to MedSec medical advisor Dr. Hemal Nayak. 
-42 The matrix is in the Draft Guidance, part VI.C. 
-
-
-Page 20 of 34
-The Draft Guidance provides several examples of uncontrolled risks. One examples is strikingly 
-similar to the vulnerabilities and attacks MedSec has discovered: 
- 
+• Channel checks reveal commercial foodservice equipment purchases are down as much as 85% and some distributors are trying to put 
+inventory back to MIDD: In conversations with MIDD’s customers/distributors and competitors, we were told foodservice equipment purchase 
+activity was down as much as 85%, a stark contrast to consensus at -8% for FY 20.  In addition, a large commercial foodservice distributor and 
+one of MIDD’s biggest customers indicated they were working to see how much equipment they could return! 
 
 
-Examples of Vulnerabilities Associated with Uncontrolled Risk 
-That Must Be Remediated and Response Actions: 
- 
- A manufacturer becomes aware of a vulnerability via a researcher 
-that its Class III medical device (e.g., implantable defibrillator, 
-pacemaker, etc.) can be reprogrammed by an unauthorized user. If 
-exploited, this vulnerability could result in permanent impairment, 
-a life-threatening injury, or death.  The manufacturer is not aware 
-that the vulnerability has been exploited and determines that the 
-vulnerability is related to a hardcoded password, and cannot be 
-mitigated by the device’s design controls. The risk assessment 
-concludes that the exploitability of the vulnerability is moderate 
-and the risk to the device’s essential clinical performance is 
-uncontrolled. The manufacturer notifies appropriate stakeholders, 
-and distributes a validated emergency patch. The manufacturer is 
-not a participating member of an ISAO and reports this action to 
-the FDA under 21 CFR 806.10.43 
 
 
- 
-Pursuant to the Draft Guidance, FDA recommends specific changes to address vulnerabilities 
-associated with the types of uncontrolled risks described in this example. Among other actions, 
-the manufacturer should “identify and implement risk mitigations…such as a work-around or 
-temporary fix.”44 Additionally, manufacturers should report these vulnerabilities to FDA 
-pursuant to 21 CFR part 806.45 However, FDA states in the Draft Guidance that it does not 
-intend to enforce these reporting requirements if three circumstances are met: 1) there are no 
-known serious adverse events or deaths associated with the vulnerability, 2) within 30 days of 
-learning of the vulnerability, the manufacturer identifies and implements changes to lower the 
-                                                             
-43 Draft Guidance, part VII.B. 
-44 Id. 
-45 Id. 
-
-
-Page 21 of 34
-risk level and notifies users, and 3) the manufacturer is a participating member of an ISAO, like 
-NH-ISAC.46  
- 
-As described in more detail infra, it will likely be impossible for STJ to identify and implement 
-changes to the Devices within 30 days of learning of the vulnerabilities, and will therefore be 
-subject to the reporting requirements imposed by FDA under 21 CFR § 806.10, which includes 
-notification to all the customers in the distribution chain.47 
- 
-Recall Likelihood and Conclusions 
- 
-The vulnerability in the ecosystem is the compromised communication protocol between the 
-Merlin@home units and the Cardiac Devices.  Because in-home units are widely available and 
-easy to exploit, MedSec believes that STJ must develop a new communication protocol in order 
-to secure the Cardiac Devices.   
- 
-We estimate that it would take STJ at least two years to develop a new RF communication 
-protocol.  We assume the total team size required for this project would be 10 to 15 people.  We 
-understand that adding people to the team would likely not speed up the development time.  Our 
-assumption includes an expected approval timeline of three to six months.  
- 
-STJ’s lack of adequate attention to secure system architecture and design and implementation has 
-resulted in an embedded system eco-system that will be very difficult to remediate.  These 
-solutions would then need to be written into the existing code base. In simpler situations, a 
-security update can be applied to the protocol without affecting the rest of the system.  In this 
-case, STJ appears to have intertwined many of the different layers of communication throughout 
-the software.  As a result, it appears there is no part of the programming stack on which a 
-remediation effort could focus.  Large parts of the extremely large codebase would have to be re-
-written.  
- 
-To protect existing Device users, STJ could disable the Devices’ RF (radio frequency) 
-capabilities as a “compensating control”.  A compensating control is a countermeasure used in 
-the absence of sufficient controls designed into the device.48  MedSec’s observations of STJ’s 
-devices cause it to believe this is practicable to implement.  With the RF disabled, devices would 
-be unable to use the in-home devices and network and would need close proximity for 
-interrogation.  As a result, certain patients would need to see their physicians more frequently to 
-compensate for the lack of remote monitoring.49  It should be noted MedSec sees no reason to 
-expect STJ’s major competitors to interrupt access to their home monitoring networks. 
- 
-Pursuant to 21 CFR § 7.40, STJ should recall its Devices because the Devices present “a risk of 
-injury or gross caption or are otherwise defective” as demonstrated by MedSec’s research and in 
-light of FDA’s current medical device and cybersecurity policies. Should STJ not voluntarily 
-                                                             
-46 Id. 
-47 FDA’s “Guidance for Industry: Product Recalls, Including Removals and Corrections,” available at 
-http://www.fda.gov/Safety/Recalls/IndustryGuidance/ucm129259.htm (last accessed Aug. 22, 2016). 
-48 Draft Guidance, part IV.A. 
-49 According to MedSec medical advisor Dr. Hemal Nayak.  However, he points out that remote monitoring 
-improves patient outcomes and survival. 
-
-
-Page 22 of 34
-recall the Devices, FDA has a regulatory basis to and could mandate that STJ recall the Devices 
-pursuant to its recall authority granted under section 518(e) of the FDCA and 21 CFR part 810. 
- 
-Medical device recall precedents support our view that the devices should be recalled – in our 
-opinion, the risks and severity of the STJ vulnerabilities rise at least to the levels of the following 
-recalled devices.  
- 
-Hospira Pump Recall Case Study50 
- 
-In late 2013, well-known researcher Billy Rios purchased a Hospira Symbiq infusion pump on 
-eBay for around $100 on a lark. Such pumps are commonplace in hospitals where health care 
-providers use them to automatically deliver IV drips and injectable drugs to patients. Rios didn’t 
-have anything in particular in mind for the device, mostly looking to tinker. He soon discovered 
-that he could remotely take over the device, which could have lethal consequences if used 
-maliciously. 
- 
-Recognizing the implications of his discovery, Rios sent his detailed findings to the Department 
-of Homeland (DHS) Security Industrial Control Systems Cyber Emergency Response Team 
-(ICS-CERT). In turn, ICS-CERT notified the Food and Drug Administration (FDA) and sent a 
-report to Hospira. 
- 
-Interestingly, in 2013 Hospira had already decided to discontinue the Symbiq pump and planned 
-to spend $300-$350 million on doing away with its legacy pumps and developing replacements, 
-purportedly due to scrutiny by the FDA of quality issues.51,52 
- 
-Months passed without Rios hearing a word from Hospira and there was no indication that 
-government agencies were preparing to take action. Rios renewed the fight after a medical scare 
-forced him into a hospital—and hooked up to a Hospira pump—for several days. He filmed 
-himself hacking into the infusion pump and provided DHS and FDA with sample computer code. 
- 
-This tangible evidence showing how easily he could craft code that could kill someone prompted 
-the FDA to take action. In July 2015, it issued an advisory urging hospitals to stop using 
-Hospira’s infusion pump.53,54,55  
- 
-Pharmaceuticals giant Pfizer proceeded with its acquisition of Hospira (announced in February 
-2015) despite the negative publicity and closed the $17 billion deal in September 2015.  In May 
-
-
-                                                             
-50 This case study draws heavily from the November 2015 Bloomberg article It’s Way Too Easy to Hack the 
-Hospital: http://www.bloomberg.com/features/2015-hospital-hack/ 
-51 http://articles.chicagotribune.com/2013-05-02/business/ct-biz-0502-hospira-20130502_1_symbiq-infusion-device-
-hospira-chief-executive-f 
-52 http://phx.corporate-ir.net/phoenix.zhtml?c=175550&p=irol-newsArticle&ID=1813491 
-53 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm446809.htm 
-54 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm456815.htm 
-55 http://www.kaloramainformation.com/article/2015-08/FDA-Warning-Formalizes-Growing-Cybersecurity-
-Concerns-Medical-Devices 
-
-
-Page 23 of 34
-2016, however, reports surfaced that Pfizer was looking to sell Hospira’s troubled pump business 
-for $1.2-$2 billion.56  
- 
-Guidant Recall Case Study 
- 
-Johnson & Johnson announced that it was acquiring Guidant on December 15, 2004, for $76 a 
-share, at a cost of $25.4 billion.57  Shortly after the acquisition announcement, issues with 
-Guidant’s pacemakers and heart defibrillators arose. Almost 200,000 of its pacemakers and 
-88,000 heart defibrillators were impacted by safety warnings or recalls. Guidant had long failed 
-to notify doctors of the risks of one sort of defibrillator short-circuiting.58 The Securities and 
-Exchange Commission opened a formal inquiry into “product disclosures and trading in Guidant 
-stock”.  
- 
-Eliot Spitzer, New York's attorney general at the time, alleged that Guidant kept from the public 
-a design flaw in one of its defibrillators.59 Shortly afterward, Johnson & Johnson, invoked the 
-“material adverse change” clause (MAC).60,61  Guidant’s stock dropped to a low of $56.53 or 
-down 25.6% from the $76 offer price. Ultimately, Boston Scientific stepped in and bought 
-Guidant, but the acquisition proved to be even more costly with almost $9 billion of write downs 
-from 2006 to 2012 and a $600 million settlement with Johnson & Johnson in 2015.62,63,64   
-Boston Scientific’s market capitalization a few years after buying Guidant for $27.2 billion 
-dropped below $13 billion and hit a low of $7.7 billion in 2012.    
- 
-Boston Scientific Case Study 
- 
-Boston Scientific’s ill-fated 2006 acquisition of Guidant in 2006 came to a head in March 2010 
-when the company announced a recall of its entire lineup of implantable defibrillators, a legacy 
-Guidant business area. The news prompted an overnight 13% drop in Boston Scientific’s share 
-price, erased hundreds of millions in annual revenue, and resulted in a drop in total market share 
-for defibrillators from 28% to 22%. A study at the time by McKinsey, a consulting firm, 
-estimated that the company would lose $5 million each day these products were off the 
-market.6566 
- 
-Boston Scientific recalled (to their credit, voluntarily) the devices upon discovering that two 
-manufacturing process changes were made without FDA approval. The scope of those changes 
-
-
-                                                             
-56 http://www.biospace.com/News/pfizer-rumored-to-be-selling-its-hospira-pumps/417636 
-57 http://www.investor.jnj.com/releasedetail.cfm?releaseid=150615 
-58 http://www.washingtonpost.com/wp-dyn/content/article/2005/06/17/AR2005061700680.html 
-59 http://www.wsj.com/articles/SB113103013711487375 
-60 http://www.themiddlemarket.com/maj/20051201/31774-1.html 
-61 http://www.economist.com/node/5139360 
-62 https://www.lawyersandsettlements.com/articles/guidant_pacemaker/guidant-pacemakers-settlement-
-01212.html?utm_expid=3607522-
-13.Y4u1ixZNSt6o8v_5N8VGVA.0&utm_referrer=https%3A%2F%2Fwww.google.com% 
-63 http://www.wsj.com/articles/SB10001424052748704471204575210191743610672 
-64 http://blogs.wsj.com/moneybeat/2015/02/18/can-boston-scientific-finally-move-on-from-its-guidant-mistake/ 
-65 McKinsey and Company, The Business Case for Medical Device Quality, p. 4. 
-66 http://www.reuters.com/article/dealtalk-bostonscientific-idUKN0113666920100401 
-
-
-Page 24 of 34
-was not divulged. The company asked doctors to cease implanting the devices and return all 
-inventory, although implanted devices were deemed safe.67 
- 
-Boston Scientific Revenue Market Share Loss:  
 
+• Pre-COVID-19 MIDD was able to hide deteriorating organic growth and low-quality M&A with acquisition accounting:  For years, MIDD has been 
+making successively larger but lower quality acquisitions to obfuscate deteriorating and negative organic growth, a classic red flag of 
+desperation.  Negative pro forma growth in FY 19 implies revenue from recent targets deteriorated after they were acquired.  As demand 
+disappears and leverage hovers near all-time highs, MIDD’s debt-fueled roll-up strategy is set to implode.    
 
- 
-*Millennium Research Group  
- 
 
 
-                                                             
-67 http://www.drugrecalllawyerblog.com/2010/03/heart_devices_and_the_companie.html 
 
 
-Page 25 of 34
-Boston Scientific ICD Revenue Drop (including Leads) after Recalls:  
+• Sell-side expectations for record profit and margins in FY 21 will be impossible to achieve, shares have over 50% downside:  Despite these 
+unprecedented hurdles, consensus still expects MIDD to post record profit and margins in FY 21; this is unachievable.  Even if the economy has 
+a “V” shaped recovery, we are doubtful the restaurant industry will fully participate given the damage already done.  Moreover, even if 
+restaurant demand sees a “V” shaped recovery, MIDD won’t participate in it, as restaurants delay capex, grapple with heavier debt loads and 
+lost revenue, and used equipment sales eat into revenue.  Not to mention, margins at MIDD’s largest and most profitable business (Commercial 
+Foodservice) have declined for three years in a row. Simply, if MIDD can’t expand margins in one of the largest economic expansions on record, 
+how will it do so against the most challenging fundamental backdrop we’ve ever seen.  We value Middleby’s shares at $26.91, implying 50% 
+downside.          
 
 
+DATE OF REPORT 
+04/15/20 
  
-*Millennium Research Group  
+SHARE PRICE 
+$54.00 
  
+AVG DAILY VOLUME 
+1.3M 
  
+MARKET CAP 
+$3.0B 
  
- 
-Valuation 
-
-
-
-
-
-
-
-
-Network Shut Down and Repair Scenario:  
+NET DEBT 
+$1.8B 
  
-Assumes that St. Jude shuts down the Merlin@home network for eight quarters to repair and re-
-architect the entire network.  We think approximately 46% of St. Jude’s revenues could be 
-related or connected to the Merlin@home device.  This includes the entire CRM segment and 
-78% of the Heart Failure segment, or 16% of total revenues.  We sensitized our Discounted Cash 
-Flow (DCF) model with the following assumptions for eight quarters and modeled out a 
-subsequent recovery to normalized levels thereafter.  Given that this scenario is more of a topline 
-issue, we conservatively left expenses and margins relatively unchanged from management 
-guidance to demonstrate the negative impacts to the stock price.  In a more realistic scenario, 
-expenses, capital expenditures and interest expense could be a lot higher. 
-
-
-Page 26 of 34
-Main Assumptions: 
  
-
-
-• Traditional CRM Segment Decline:  Traditional CRM segment (25% of 2015 Total 
-Revenues) drops to zero for eight quarters and then starts coming back in 2018 and 
-beyond.   
-
-
-• Heart Failure Segment Decline: Approximately 78% of the Heart Failure segment 
-(20% of 2015 Total Revenues) comes from CRT-D and CRT-P cardiac devices, which 
-are also connected to the Merlin@home device.  We reduce all Merlin network related 
-CRT revenues to zero and assume it goes under a network repair for eight quarters. 
-
-
-• Atrial Fibrillation Segment Growth: Management 2016 guidance is in the 10% to 11% 
-growth range.  In this scenario, the CRM network slow down also impacts the AF 
-segment, and we assume 8% growth through 2018 in this segment.  
-
-
-• Cardiovascular Segment Growth: According to management, the Cardiovascular 
-segment is expected to grow 1% to 3% for 2016. In this scenario, the Merlin@home 
-issues also negatively impact this segment and thus moves growth to zero percent. 
-
-
-• Neuromodulation Segment Growth: Management 2016 guidance, is in the 7% to 9% 
-range.  We think growth moves to 5% with technology security concerns in this segment. 
-
-
-• Gross Margins: Management 2016 guidance, of 69.0% to 69.5%, however we think 
-margins will be impacted by lower ASPs and pressure from the CRM segment and thus 
-assume 67% gross margin until 2Q18E.   
-
-
-• SG&A: Management 2016 guidance range of 31.3% to 31.8%, however we think the 
-percentage moves higher over an eight quarter period and closer to 33%.   
-
-
-• R&D: R&D is expected to remain in the 12.5% to 13% of sales range in our model and 
-where management has been guiding for 2016.  R&D moves to 17% for an eight quarter 
-period to leave the expense level relatively flat with 2015’s R&D spend levels.  
-
-
-• Other Expenses and Interest Expenses: Management guidance for 2016 of ~$155 
-million to $165 million, primarily driven by interest expense on our outstanding debt.  
-Interest costs would most likely increase in a scenario where their largest revenue 
-segment was under pressure, but for purposes of this exercise we are keeping expenses 
-in-line with current 2016 guidance through the entire DCF modeling period. 
-
-
-• Tax Rate: For full year 2016, we continue to expect the effective tax rate to be in the 
-range of 15.5% to 16.5%.   
-
-
-• Capital Expenditures: Capex as a percent of sales is expected to increase to 5% from a 
-historical range of 3% to 4% for an eight quarter time period and return to historical 
-ranges thereafter.  
-
-
-• Working Capital:  Working capital remains flat at zero.  
-• Assumes debt maturities are refinanced in the market at the moment at the same rate.  
-• Longer dated revenue growth rates of 12% in 2019E and 8% in 2020E, margins, capex 
-
-
-and tax rates recover to 2015 levels and remain relatively stable.  
-• Assuming no foreign currency fluctuations.  
-
-
-
-
-
-Page 27 of 34
-Main DCF Assumptions: 
  
-
-
-• Growth and margins return to normalized levels after eight months, for example, 
-EBITDA margins move back to 28% in 2019, after declining to 24% in 2017.   
-
-
-• WACC: Sensitized WACC from the 6% to 11% range.  According to Bloomberg, 
-WACC was 7.7% prior to the merger announcement and peers are higher than the 6.5% 
-currently shown on Bloomberg.        
-
-
-• Perpetuity Growth Rate:  -5% to +3% growth 
-• Assumes a $1 billion settlement in four years for product liability class actions.  
-
-
  
  
-DCF and Stock Price Sensitivity Results: 
-
-
  
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
-
-
-Page 28 of 34
-Share Loss and Revenue Loss Scenario:   
  
-
 
-• In this scenario, the company loses market share and revenue, but continues to operate its 
-Traditional CRM and Heart Failure segment.  Even if the device is not recalled 
-immediately, we think physicians and hospitals could decrease their orders of these 
-cardiac devices given this cybersecurity issue.  
 
+The Middleby Corporation 
+NASDAQ: MIDD 
 
-• As an example, Thoratec, a heart circulatory device company that St. Jude Medical 
-acquired in 2015, experienced severe market share loss from 2012 to 2015, after 
-researchers published that the HeartMate II LVAD defect increased the chance of blood 
-clots.  The quarterly sales from peak to trough were down 18.4% in Q314, which was 
-primarily driven by safety concerns with their HeartMate products. Thoratec stock 
-dropped 30% on their 2Q14 earnings after experiencing greater than expected share loss 
-and missing expectations. 68 
 
-
-• We sensitized revenues in the Traditional CRM segment to drop 14.4% in 2016E, -20% 
-in 2017E and -8.7% in 2018E. 
-
-
-• The Heart Failure segment begins to decrease in 3Q16E, but grows 11.4% in 2016E and 
-declines 20% in 2017E and begins to stabilize at -8% growth in 2018E.   
-
-
-• Overall revenues are flat in 2018E, +12% in 2019E and +8% in 2020E. 
-
-
-                                                             
-68 http://www.bloomberg.com/news/articles/2013-11-27/thoratec-s-heart-pump-may-cause-blood-clots-study-
-suggests 
-http://www.massdevice.com/thoratec-nejm-article-cost-us-market-share/ 
+TARGET PRICE: $26.91
+presciencepoint.com @presciencepoint 
  
 
 
-Page 29 of 34
-• The remaining assumptions remained the same as the prior scenario.  
 
-
- 
-Sensitivity to St. Jude Medical’s current stock price is in the lower table.  
 
 
- 
- 
- 
-Covenant Breach in 3Q16 Highly Likely: 
- 
-Under the network shutdown scenario, the company would breach their 4.0x bank loan covenant 
-in 3Q16.  We used Schedule 2 Section 7.13 in the Term Loan Agreement to calculate the 
-company’s Consolidated Leverage Ratio, using 2015 numbers and found that it could have 
-already breached their covenant.  Our calculation was closer to 4.45x vs. 4.25x as defined by the 
-covenant at that time.  There could have been a number of non-cash add backs that allowed it to 
-stay current with the covenant in 2015.     
-
-
-Page 30 of 34
-The company is already close to breaching the covenant and is suffering from a slowdown in its 
-Traditional CRM products.  We think any additional pressure on the topline would cause a 
-breach in the covenant in the near-term.  As a reminder, the covenant does step down to 4.0x in 
-2016 from 4.25x in 2015 and then down to 3.5x thereafter.  We believe the company will need to 
-renegotiate this covenant in a timely manner and banks could ask for security (potentially $3.8 
-billion of secured debt when including the revolver and term loan), higher lending rates and 
-lower the capacity on the $1.5 billion revolver, further straining liquidity.   Any default that 
-could arise from a covenant breach on the term loan would also be a cross default into the bonds.  
- 
-Potential Liquidity Issues: 
- 
-Liquidity could start becoming constrained after a covenant breach, which could lead to a 
-reduction to its $1.5 billion revolving credit facility and potential downgrades to their 
-commercial paper (CP) rating, which is currently at A-2/P-2.  The company is highly dependent 
-on its CP program for liquidity and currently has $387 million of commercial paper outstanding. 
-Any disruption in the CP rating could negatively impact their access to this market. St. Jude 
-Medical does have yearly debt amortization from its term loan, and its nearest bond maturity 
-($500 million) is in September 2018, which could be an issue to refinance if it does not address 
-
-
-Page 31 of 34
-these issues with its Merlin network. In 2015, the company generated $853 million of free cash 
-flow (Cash from Operating Activities less Capital Expenditures). 
- 
-Potential Credit Rating Downgrades: 
- 
-Rating agencies already have St. Jude Medical on negative watch for a downgrade.  The 
-companies increasing leverage profile from its recent acquisitions has tipped leverage over 
-4.25x, which is already high for a single A rated company.  According to a Moody’s report in 
-May 2016, Investment Grade Leverage (Debt/EBITDA) for 2015 was 2.35x vs.4.25x for STJ.69    
-Along with the potential Merlin network issues, we think agencies will need to reevaluate their 
-ratings and possibly downgrade their ratings increasing the company’s borrowing costs and cost 
-of capital.   
- 
- 
   
+The Middleby Corporation (NASDAQ: MIDD) 2 
 
 
-                                                             
-69 Moody’s Sector In-depth Report May 20, 2016, page 10 
 
 
-Page 32 of 34
-Appendix 
-Letter to Patients and Physicians from MedSec medical advisor and board member Dr. Hemal Nayak70 
+
+
+
+
+Table of Contents 
+
+
+Executive Summary...................................................................................................................................................................................... 3 
+Consensus “V” Shaped Recovery with Record Profit & Margins in FY 21 is 
+Implausible ................................................................................................................................................................................................................ 4 
+Even if The Economy Had a “V” Shaped Recovery, The Restaurant Industry 
+Wouldn’t Fully Participate as Stimulus Won’t Be Enough and Will Create 
+Unintended Consequences ............................................................................................................................................................. 6 
+Restaurant Industry Severely Impaired From COVID-19; Commercial 
+Foodservice Equipment Purchases Down as Much as 85% ............................................................ 10 
+Major Customers are Halting Unit Growth & Large Over-Levered Franchisee 
+Groups Flirt with Bankruptcy ......................................................................................................................................................... 14 
+M&A Obfuscates Poor Organic Growth & Weak Cash Flow; Roll-Up Strategy Will 
+Be Limited for the Foreseeable Future ............................................................................................................................ 16 
+Negative Pro Forma Growth Implies Revenue from M&A Deteriorated Post-
+Acquisition ................................................................................................................................................................................................................ 19 
+Commercial Foodservice Customers Were Pushing Out Orders Pre-Virus, Now 
+It Will Only Get Worse ............................................................................................................................................................................. 20 
+Bloated Balance Sheet Inventory an Incremental Headwind to Profitability; Full 
+Channel May Exacerbate Lower Revenue ............................................................................................................... 22 
+Valuation: Shares Have 50.0% Downside ................................................................................................................... 24 
+Disclaimer ................................................................................................................................................................................................................ 27 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 3 
+
+
+
+
+
+
+
+
+Executive Summary 
+
+
+Prescience Point is short The Middleby Corporation (NASDAQ: MIDD) as the Company is a debt-fueled roll-up 
+that has used M&A to mask deteriorating organic growth and weak cash flow pre-COVID-19.  Consensus 
+expects record profitability and margins in FY 21 despite restaurants permanently closing doors at a record 
+pace, over-levered chains cutting unit growth & capex, and large franchisee groups teetering on bankruptcy.  
+Add a flood of used equipment hitting the market soon and MIDD finds itself in a treacherous downward 
+spiral.  As net debt hovers near all-time highs and profits face unprecedented hurdles, MIDD won’t be able to 
+acquire itself out of its problems.  Shares are down >50% YTD and are likely to get cut in half again.   
+ 
+Middleby is heavily exposed to quick-and full-service restaurants, retail outlets, and hotel kitchens.  The 
+Company generates over two-thirds of its revenue from commercial kitchen and foodservice customers.  In 
+addition, the Commercial Foodservice segment is Middleby’s most profitable business.  The remaining one-
+third of revenue comes from the sale of residential kitchen equipment and food processing equipment for 
+protein and bakery production.         
+ 
+Middleby is best described as a levered roll-up.  Since FY 01, the Company has made more than 90 
+acquisitions.  However, M&A activity started to pick-up dramatically around FY 13, right as organic growth 
+peaked.  Since, Middleby began making successively larger but lower quality acquisitions to hide 
+deteriorating and negative organic growth, a classic red flag of desperation.  Indeed, cumulative adjusted 
+free cash flow has been negative every year since FY 13 but the Company has been able to use acquisition 
+accounting to flatter metrics.  Moreover, Middleby’s Commercial Foodservice margins (it’s largest and most 
+profitable business) have declined for three consecutive years.        
+ 
+In FY 18, Middleby spent a record ~$1.2 billion on M&A most of which related to the acquisition of Taylor 
+Company for $1.0 billion (3.2x sales), its largest and most expensive acquisition ever.  However, negative pro 
+forma growth in FY 19 suggests revenue from these deals (including Taylor) deteriorated after they were 
+acquired by Middleby.       
+ 
+Since at least Q3 19, Middleby has talked about pressure from large restaurant chains lowering capex and 
+pushing out projects.  Shelter-in-place restrictions across the US have made the situation so dire, we believe 
+the restaurant industry may be severely impaired.  Indeed, the National Restaurant Association estimates at 
+least ~15% of restaurants will close permanently within the next month.  Major customers have already made 
+announcements to halt unit growth and curb capex.  Not to mention, a few over-levered large franchisee 
+groups were already flirting with bankruptcy pre-virus.  Our conversations with Middleby’s competitors, 
+customers/distributors, and end-users suggest current equipment sales are down as much as 85% and will 
+likely remain under significant pressure for the remainder of the year.  In addition, the record number of 
+bankruptcies will prompt a flood of gently used equipment into the market, exacerbating weakening demand 
+and pricing pressure on equipment manufacturers.  In addition, Middleby’s historical growth lever, M&A, will be 
+handicapped as the recent record M&A pushed leverage near all-time highs.               
+ 
+Despite these unprecedented hurdles, consensus still expects Middleby to post record profit and margins in 
+FY 21.  Simply, we think this is unachievable.  Even if the economy has a “V” shaped recovery, we are doubtful 
+the restaurant industry will fully participate given the unprecedented damage already done.  Moreover, even 
+if restaurant demand sees a “V” shaped recovery, Middleby won’t participate in it, as restaurants delay capex, 
+grapple with heavier debt loads and lost revenue, and used equipment sales eat into revenue.  Using more 
+realistic FY 21 EBITDA estimates, we value Middleby’s shares at $26.91, implying 50% downside.   
+ 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 4 
+
+
+
+
+
+
+
+
+Consensus “V” Shaped Recovery with Record Profit & Margins in FY 21 is 
+Implausible  
+
+
+Consensus currently expects FY 20 revenue to decline high-single-digits with a slight rebound in FY 21.  In 
+absolute terms, that implies Middleby’s FY 21 revenue will be slightly above what it generated in FY 18.  These 
+expectations are implausible because even if the economy and the restaurant industry had a “V” shaped 
+recovery in FY 20, Middleby wouldn’t participate as restaurants delay capex, grapple with heavier debt loads 
+and lost revenue, and used equipment sales eat into revenue.   
+ 
+Keep in mind, Middleby’s customers were already slowing capex and pushing out projects before COVID-19.  
+Several large franchisee groups were also on the brink of bankruptcy pre-COVID-19.  We believe the 
+restaurant industry could be severely impaired as at least ~15% of restaurants are expected to close 
+permanently within the next month, which could prove conservative.  Even after restrictions are lifted, 
+consumer behavior is likely to change from lingering virus fears (especially for those most at risk) meaning 
+restaurant traffic will remain below pre-virus levels.   
+ 
+Our discussions with industry experts including competitors, distributors, and restaurant operators suggest 
+foodservice equipment sales are currently down well over 50.0% (in some cases as much as 85%) and are 
+expected to remain depressed throughout the year.  Moreover, certain distributors discussed exploring the 
+used equipment market for the first time in years as a lot of gently used equipment floods the market due to 
+a record number of restaurant bankruptcies.  In short, the growth outlook for Middleby was bad pre-virus and 
+now it’s even worse.         
+ 
+
+
+Revenue Expectations are Too Optimistic   
+
+
+($ in millions) 
 
 
  
-Dr. Nayak speaks for himself, and not his employer. 
+Source: November 2019 Investor Presentation, Consensus estimates 
+
+
+ 
+Despite FY 19 EBITDA and EBITDA margin missing expectations, consensus expects FY 20 EBITDA to only be 
+down slightly with margin improvement and FY 21 EBITDA to eclipse FY 19 levels and margin to accelerate at 
+the fastest rate in over a decade (140 basis points) to record profitability.  These estimates will be nearly 
+impossible to achieve and anchor on unwarranted optimism about a “V” shaped recovery.  Simply, how can 
+
+
+11.2% 
+
+
+19.0% 21.3% 
+
+
+37.6% 
+
+
+14.5% 
+11.6% 
+
+
+24.2% 
+
+
+3.0% 
+
+
+16.6% 
+
+
+8.7% 
+
+
+(8.4%)
+
+
+0.9% 
+
+
+(20.0%)
+
+
+(10.0%)
+
+
+0.0%
+
+
+10.0%
+
+
+20.0%
+
+
+30.0%
+
+
+40.0%
+
+
+FY 10 FY 11 FY 12 FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19 FY 20E FY 21E
+$0.0
+
+
+$500.0
+
+
+$1,000.0
+
+
+$1,500.0
+
+
+$2,000.0
+
+
+$2,500.0
+
+
+$3,000.0
+
+
+$3,500.0
+
+
+Revenue year-over-year Revenue
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 5 
 
 
 
@@ -1278,9 +397,3375 @@ Dr. Nayak speaks for himself, and not his employer.
 
 
 
-                                                             
-70 Dr. Nayak has been granted an immaterial equity interest in MedSec. 
+Middleby report record EBITDA and EBITDA margins when at least 15% of restaurants have closed doors 
+permanently and margins in its largest and most profitable business were deteriorating pre-COVID-19? 
+ 
 
 
-Page 33 of 34
-Page 34 of 34
+Record Profitability in FY 21 is Unrealistic  
+
+
+($ in millions) 
+
+
+ 
+Source: November 2019 Investor Presentation, Consensus estimates 
+
+
+ 
+We present two alternative scenarios to consensus: 
+ 
+
+
+• Base Case:  In our Base Case, we estimate FY 20 revenue will decline ~25.0%, significantly worse than 
+consensus, but slightly better than our due diligence that suggests foodservice equipment sales are 
+currently down more than 50.0% with an estimated FY 20 exit-rate of minus 15.0%.  We estimate FY 21 
+revenue to pick-up slightly with 3.0% growth.  Moreover, we estimate FY 20 and FY 21 EBITDA margin to 
+be flat with FY 19 at 21.6%, which is slightly below peak margins from a few years ago.        
+
+
+  
+• Bear Case: In our Bear Case, we estimate FY 20 revenue will decline ~33.0% with a slightly larger 
+
+
+rebound in FY 21 of 5.0% growth.  In addition, we estimate FY 20 EBITDA margin will decline 150 basis 
+points to 20.1%, slightly below trough profitability in FY 18, and FY 21 EBITDA margin will be flat.     
+ 
+
+
+21.4% 
+21.8% 
+
+
+21.6% 
+21.3% 
+
+
+22.5% 
+
+
+22.0% 
+
+
+22.7% 
+22.4% 
+
+
+20.9% 
+
+
+21.6% 
+
+
+22.3% 
+
+
+23.7% 
+
+
+19.5%
+
+
+20.0%
+
+
+20.5%
+
+
+21.0%
+
+
+21.5%
+
+
+22.0%
+
+
+22.5%
+
+
+23.0%
+
+
+23.5%
+
+
+24.0%
+
+
+FY 10 FY 11 FY 12 FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19 FY 20E FY 21E
+$0.0
+
+
+$100.0
+
+
+$200.0
+
+
+$300.0
+
+
+$400.0
+
+
+$500.0
+
+
+$600.0
+
+
+$700.0
+
+
+Non-GAAP EBITDA Non-GAAP EBITDA margin
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 6 
+
+
+
+
+
+
+
+
+Prescience Point Estimates  
+
+
+(in millions) FY 19 FY 20E FY 21E 
+
+
+Consensus       
+
+
+Revenue  $2,959.4  $2,711.0  $2,735.0  
+
+
+Year-over-year  8.7%  (8.4%) 0.9%  
+
+
+EBITDA margin  21.6%  22.3%  23.7%  
+
+
+EBITDA  $638.2  $604.0  $647.0  
+
+
+Prescience Point Base Case       
+
+
+Revenue  $2,959.4  $2,231.7  $2,298.7  
+
+
+Year-over-year  8.7%  (24.6%) 3.0%  
+
+
+EBITDA margin  21.6%  21.6%  21.6%  
+
+
+EBITDA  $638.2  $481.3  $495.7  
+
+
+Prescience Point Bear Case       
+
+
+Revenue  $2,959.4  $2,004.4  $2,064.6  
+
+
+Year-over-year  8.7%  (32.3%) 5.0%  
+
+
+EBITDA margin  21.6%  20.1%  20.1%  
+
+
+EBITDA  $638.2  $402.2  $414.3  
+
+
+Source: Consensus estimates, Prescience Point estimates    
+
+
+
+
+
+Even if The Economy Had a “V” Shaped Recovery, The Restaurant Industry 
+Wouldn’t Fully Participate as Stimulus Won’t Be Enough and Will Create 
+Unintended Consequences    
+
+
+Government stimulus packages will certainly alleviate some of the near-term cost pressures restaurant 
+owners face but it’s not enough to save the industry from undergoing a significant transformation.  
+Specifically: 
+ 
+
+
+• At least ~15% of US restaurants are expected to close permanently: Discussed herein, almost 15% of US 
+restaurants are expected to close permanently and we anticipate this number to grow in the 
+coming months.  In some cases, stimulus measures were maybe too late and/or restaurant owners 
+were operating on too thin of margins.  Regardless, stimulus packages may provide restaurant 
+owners/employees money for basic living expenses but it likely won’t bring back these restaurants.  
+    
+
+
+• Most of the revenue loss is permanent: We agree that there will be some pent-up demand for dining 
+out when shelter-in-place orders are lifted.  However, it will only compensate for a fraction of the lost 
+revenue while restaurants were closed. 
+ 
+
+
+• Stimulus packages won’t cure virus fears:  Candidly, it doesn’t matter how much money the 
+government is willing to hand out, it won’t cure COVID-19.  Consequently, many consumers, 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 7 
+
+
+
+
+
+
+
+
+particularly those most at risk, may not dine-out even when shelter-in-place orders are lifted.  It’s 
+difficult to quantify this risk, but until there is a readily available vaccine and/or widely accepted 
+therapeutic treatments, we believe store traffic will be below pre-virus levels.   
+ 
+
+
+• Quarantine may alter eating habits: After weeks of quarantine and cooking meals at-home, we 
+believe there is a real possibility of consumer behavior changes in favor of at-home meals that are 
+healthier and/or cheaper than dining-out.         
+ 
+
+
+Collectively, we believe the items above suggest (1) the number of US restaurants will shrink by at least 15%, (2) 
+the restaurants that do survive will broadly be in a worse financial situation than pre-virus due to 
+permanently lost revenue, (3) store traffic will remain below pre-virus levels and may take much longer to 
+ramp-up than expected (i.e. no “V” shaped recovery for restaurant traffic/sales).  As a result, restaurants will 
+have to push out capex decisions including expensive remodels and equipment replacements and slow or 
+even indefinitely stop unit growth to shore-up extended balance sheets.  All of which pose serious risks to 
+Middleby’s core business.   
+ 
+Unintended consequences: Federal unemployment benefit incentivizes hourly workers to not go back to work        
+ 
+In the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”), under Federal Pandemic 
+Unemployment Compensation (“FPUC”), states will administer an additional $600 weekly payment for 
+individuals who are collecting regular Unemployment Compensation.1  For context, this equates to an 
+additional $15/hour for a 40-hour work week.  The average maximum unemployment benefit across the US is 
+$464/week.  So, recently laid-off or furloughed individuals could receive an unemployment benefit as high as 
+$1,064/week ($53,200/year annualized) or $26.60/hour.   
+     
+
+
+Avg. Maximum Unemployment Benefit is Only $464/week, FPUC will Double Paychecks 
+
+
+ 
+Source: https://fileunemployment.org/unemployment-benefits/unemployment-benefits-comparison-by-state/ 
+
+
+ 
+Indeed, not all individuals will receive the maximum unemployment benefit.  In fact, we estimate most hourly 
+workers will not, as the average minimum wage across the US is only $9.12/hour.  
+ 
+
+
+ 
+1 The FPUC benefit payments will end after payments for the last week of unemployment before July 31, 2020.  
+
+
+$0
+$100
+
+
+$200
+$300
+$400
+$500
+$600
+$700
+$800
+$900
+
+
+A
+la
+
+
+sk
+a
+
+
+A
+la
+
+
+b
+a
+
+
+m
+a
+
+
+A
+rk
+
+
+a
+n
+
+
+sa
+s
+
+
+A
+riz
+
+
+o
+n
+
+
+a
+C
+
+
+a
+lif
+
+
+o
+rn
+
+
+ia
+C
+
+
+o
+lo
+
+
+ra
+d
+
+
+o
+C
+
+
+o
+n
+
+
+n
+ec
+
+
+tic
+ut
+
+
+D
+is
+
+
+t o
+f C
+
+
+o
+lu
+
+
+m
+b
+
+
+ia
+D
+
+
+el
+a
+
+
+w
+a
+
+
+re
+Fl
+
+
+o
+rid
+
+
+a
+G
+
+
+eo
+rg
+
+
+ia
+H
+
+
+a
+w
+
+
+a
+ii
+
+
+Io
+w
+
+
+a
+Id
+
+
+a
+h
+
+
+o
+Ill
+
+
+in
+o
+
+
+is
+In
+
+
+d
+ia
+
+
+n
+a
+
+
+Ka
+n
+
+
+sa
+s
+
+
+Ke
+n
+
+
+tu
+ck
+
+
+y
+Lo
+
+
+ui
+si
+
+
+a
+n
+
+
+a
+M
+
+
+a
+ss
+
+
+a
+ch
+
+
+us
+e
+
+
+tt
+s
+
+
+M
+a
+
+
+ry
+la
+
+
+n
+d
+
+
+M
+a
+
+
+in
+e
+
+
+M
+ic
+
+
+h
+ig
+
+
+a
+n
+
+
+M
+in
+
+
+n
+es
+
+
+o
+ta
+
+
+M
+is
+
+
+so
+ur
+
+
+i
+M
+
+
+is
+si
+
+
+ss
+ip
+
+
+p
+i
+
+
+M
+o
+
+
+n
+ta
+
+
+n
+a
+
+
+N
+o
+
+
+rt
+h
+
+
+ C
+a
+
+
+ro
+lin
+
+
+a
+N
+
+
+o
+rt
+
+
+h
+ D
+
+
+a
+ko
+
+
+ta
+N
+
+
+eb
+ra
+
+
+sk
+a
+
+
+N
+ew
+
+
+ H
+a
+
+
+m
+p
+
+
+sh
+ire
+
+
+N
+ew
+
+
+ J
+er
+
+
+se
+y
+
+
+N
+ew
+
+
+ M
+ex
+
+
+ic
+o
+
+
+N
+ev
+
+
+a
+d
+
+
+a
+N
+
+
+ew
+ Y
+
+
+o
+rk
+
+
+O
+h
+
+
+io
+O
+
+
+kl
+a
+
+
+h
+o
+
+
+m
+a
+
+
+O
+re
+
+
+g
+o
+
+
+n
+Pe
+
+
+n
+ns
+
+
+yl
+va
+
+
+n
+ia
+
+
+Rh
+o
+
+
+d
+e 
+
+
+Is
+la
+
+
+n
+d
+
+
+So
+ut
+
+
+h
+ C
+
+
+a
+ro
+
+
+lin
+a
+
+
+So
+ut
+
+
+h
+ D
+
+
+a
+ko
+
+
+ta
+Te
+
+
+n
+n
+
+
+es
+se
+
+
+e
+Te
+
+
+xa
+s
+
+
+U
+ta
+
+
+h
+V
+
+
+irg
+in
+
+
+ia
+V
+
+
+er
+m
+
+
+o
+n
+
+
+t
+W
+
+
+a
+sh
+
+
+in
+g
+
+
+to
+n
+
+
+W
+is
+
+
+co
+n
+
+
+si
+n
+
+
+W
+e
+
+
+st
+ V
+
+
+irg
+in
+
+
+ia
+W
+
+
+yo
+m
+
+
+in
+g
+
+
+Max. Weekly Unemployment Benefit
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.dol.gov/newsroom/releases/eta/eta20200404
+
+https://www.dol.gov/newsroom/releases/eta/eta20200404
+
+https://fileunemployment.org/unemployment-benefits/unemployment-benefits-comparison-by-state/
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 8 
+
+
+
+
+
+
+
+
+Avg. Minimum Wage is Only $9.12/hour, FPUC will More Than Double Paychecks of the Lowest Earners 
+
+
+ 
+Source: https://www.dol.gov/agencies/whd/mw-consolidated 
+
+
+ 
+However, individuals that previously earned less than $15/hour will see their income at least double while on 
+unemployment due to the additional FPUC stimulus.  In addition, part-time individuals that earned greater 
+than $26.60/hour but worked less than 40-hours/week could also earn more while on unemployment. 
+Essentially, any individual that earned less than $26.60/hour on average (based on a 40-hour work week) will 
+be making more money on unemployment than if they went back to work.    
+ 
+We believe this is currently an underappreciated but enormous near-term risk for employers that recently 
+had to lay-off or furlough employees.  While consensus (and certainly the current Administration) are 
+adamant about a “V” shaped recovery once the economy re-opens, we remain skeptical.  While the 
+additional money under FPUC will undoubtedly assist individuals to meet their most basic needs (i.e. food, 
+rent, utilities, etc.), it may actually hinder near-term growth as many hourly-wage individuals are currently 
+incentivized to not go back work.   
+ 
+Consequently, businesses that rely heavily on hourly-wage employees may have incredible difficultly 
+immediately re-hiring previously laid-off or furloughed employees.  For purposes of this report, we are 
+specifically focused on the restaurant industry, but the impact will be widespread across industries (e.g. 
+hotels, retail, casinos, gig economy, etc.). Indeed, FPUC has created an unintended catch-22 for operators:   
+ 
+
+
+• Open business with inadequate staff levels (if that’s possible) = less efficiency, reduced hours, 
+limited offerings, etc.:  Restaurants that depend on hourly-wage employees may not be able staff 
+locations appropriately because the new unemployment economics incentivize individuals to not 
+work.  Inadequately staffed restaurants may have to reduce hours of operation, limit menu 
+items/offerings, and/or take a host of other growth prohibitive actions to operate understaffed.   
+                
+
+
+• Pay a premium to properly staff restaurant = lower profitability:  In order to be appropriately staffed, 
+operators may have to pay an hourly premium to incentivize individuals to come back to work 
+immediately.  In the near-term, this would weigh heavily on profitability. 
+ 
+
+
+In some cases, we anticipate unit economics will be so poor under either scenario that business operators 
+may not even want to re-open until after the FPUC rolls-off at the end of July.  In addition, both scenarios play 
+
+
+$0.00
+
+
+$2.00
+
+
+$4.00
+
+
+$6.00
+
+
+$8.00
+
+
+$10.00
+
+
+$12.00
+
+
+$14.00
+
+
+$16.00
+A
+
+
+la
+sk
+
+
+a
+A
+
+
+la
+b
+
+
+a
+m
+
+
+a
+A
+
+
+rk
+a
+
+
+n
+sa
+
+
+s
+A
+
+
+riz
+o
+
+
+n
+a
+
+
+C
+a
+
+
+lif
+o
+
+
+rn
+ia
+
+
+C
+o
+
+
+lo
+ra
+
+
+d
+o
+
+
+C
+o
+
+
+n
+n
+
+
+ec
+tic
+
+
+ut
+D
+
+
+is
+t o
+
+
+f C
+o
+
+
+lu
+m
+
+
+b
+ia
+
+
+D
+el
+
+
+a
+w
+
+
+a
+re
+
+
+Fl
+o
+
+
+rid
+a
+
+
+G
+eo
+
+
+rg
+ia
+
+
+H
+a
+
+
+w
+a
+
+
+ii
+Io
+
+
+w
+a
+
+
+Id
+a
+
+
+h
+o
+
+
+Ill
+in
+
+
+o
+is
+
+
+In
+d
+
+
+ia
+n
+
+
+a
+Ka
+
+
+n
+sa
+
+
+s
+Ke
+
+
+n
+tu
+
+
+ck
+y
+
+
+Lo
+ui
+
+
+si
+a
+
+
+n
+a
+
+
+M
+a
+
+
+ss
+a
+
+
+ch
+us
+
+
+e
+tt
+
+
+s
+M
+
+
+a
+ry
+
+
+la
+n
+
+
+d
+M
+
+
+a
+in
+
+
+e
+M
+
+
+ic
+h
+
+
+ig
+a
+
+
+n
+M
+
+
+in
+n
+
+
+es
+o
+
+
+ta
+M
+
+
+is
+so
+
+
+ur
+i
+
+
+M
+is
+
+
+si
+ss
+
+
+ip
+p
+
+
+i
+M
+
+
+o
+n
+
+
+ta
+n
+
+
+a
+N
+
+
+o
+rt
+
+
+h
+ C
+
+
+a
+ro
+
+
+lin
+a
+
+
+N
+o
+
+
+rt
+h
+
+
+ D
+a
+
+
+ko
+ta
+
+
+N
+eb
+
+
+ra
+sk
+
+
+a
+N
+
+
+ew
+ H
+
+
+a
+m
+
+
+p
+sh
+
+
+ire
+N
+
+
+ew
+ J
+
+
+er
+se
+
+
+y
+N
+
+
+ew
+ M
+
+
+ex
+ic
+
+
+o
+N
+
+
+ev
+a
+
+
+d
+a
+
+
+N
+ew
+
+
+ Y
+o
+
+
+rk
+O
+
+
+h
+io
+
+
+O
+kl
+
+
+a
+h
+
+
+o
+m
+
+
+a
+O
+
+
+re
+g
+
+
+o
+n
+
+
+Pe
+n
+
+
+ns
+yl
+
+
+va
+n
+
+
+ia
+Rh
+
+
+o
+d
+
+
+e 
+Is
+
+
+la
+n
+
+
+d
+So
+
+
+ut
+h
+
+
+ C
+a
+
+
+ro
+lin
+
+
+a
+So
+
+
+ut
+h
+
+
+ D
+a
+
+
+ko
+ta
+
+
+Te
+n
+
+
+n
+es
+
+
+se
+e
+
+
+Te
+xa
+
+
+s
+U
+
+
+ta
+h
+
+
+V
+irg
+
+
+in
+ia
+
+
+V
+er
+
+
+m
+o
+
+
+n
+t
+
+
+W
+a
+
+
+sh
+in
+
+
+g
+to
+
+
+n
+W
+
+
+is
+co
+
+
+n
+si
+
+
+n
+W
+
+
+e
+st
+
+
+ V
+irg
+
+
+in
+ia
+
+
+W
+yo
+
+
+m
+in
+
+
+g
+
+
+Minimum Wage
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.dol.gov/agencies/whd/mw-consolidated
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 9 
+
+
+
+
+
+
+
+
+out negatively even if store traffic returns to pre-virus levels immediately after shelter-in-place orders are 
+lifted.  As discussed, we believe that level of traffic is highly unlikely.            
+ 
+Restaurant traffic in China appears weak even after quarantines were lifted 
+ 
+It’s not a perfect corollary but looking at China post-quarantine suggests restaurant traffic and general 
+consumer consumption is still under pressure and below pre-virus levels.  On 04/04/20, the South China 
+Morning Post (“SCMP”) highlighted that even though the lockdown was lifted, shops, bars, and restaurants 
+remained empty in Beijing.   
+ 
+
+
+Many restaurants, cafes and pubs remained closed in the city, where vigilance remains high about a 
+second wave of infections. Among those that were open, there were few customers to be seen.  (South 
+China Morning Post, 04/04/20) 
+
+
+ 
+In addition, it appears there may be change in consumption behavior in favor of home cooked meals to save 
+money.      
+ 
+
+
+The nearly two month-long lockdown has changed the consumption behavior of Chinese residents, 
+many of whom have turned to home cooking to cut their spending.  (South China Morning Post, 
+04/04/20) 
+
+
+ 
+While SCMP may be anecdotal, real-time Beijing congestion levels appear to corroborate lower consumer 
+activity.  As seen below, congestion levels during the week have returned to normal but weekend congestion 
+remains well below 2019 averages, implying people are going to work but still significantly limiting recreational 
+activity.2     
+ 
+
+
+Beijing Weekend Congestions Levels Have Not Returned to Normal After Quarantine 
+
+
+ 
+Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic/, as of 04/10/20 
+
+
+
+
+
+ 
+2 Monday, April 6th, was a Chinese national holiday.   
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.scmp.com/coronavirus/greater-china/article/3078342/coronavirus-chinas-deserted-shops-and-restaurants-show
+
+https://www.scmp.com/coronavirus/greater-china/article/3078342/coronavirus-chinas-deserted-shops-and-restaurants-show
+
+https://www.scmp.com/coronavirus/greater-china/article/3078342/coronavirus-chinas-deserted-shops-and-restaurants-show
+
+https://www.scmp.com/coronavirus/greater-china/article/3078342/coronavirus-chinas-deserted-shops-and-restaurants-show
+
+https://www.scmp.com/coronavirus/greater-china/article/3078342/coronavirus-chinas-deserted-shops-and-restaurants-show
+
+https://www.tomtom.com/en_gb/traffic-index/beijing-traffic/
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 10 
+
+
+
+
+
+
+
+
+Restaurant Industry Severely Impaired From COVID-19; Commercial 
+Foodservice Equipment Purchases Down as Much as 85%  
+
+
+Middleby is heavily exposed to quick-and full-service restaurants, retail outlets, and hotel kitchens.  The 
+Company generates over two-thirds of its revenue from commercial kitchen and foodservice customers.  In 
+addition, the Commercial Foodservice segment is Middleby’s most profitable business.  The remaining one-
+third of revenue comes from the sale of residential kitchen equipment and food processing equipment for 
+protein and bakery production.         
+ 
+
+
+Sales to Commercial Foodservice Customers Account for 2/3 of Revenue & Have the Highest Margins     
+
+
+ 
+Source: June 2019 Investor Presentation 
+
+
+ 
+One of Middleby’s largest customers said commercial foodservice equipment orders are down as much 85%   
+ 
+During the course of our research, we spoke with several industry experts including Middleby’s foodservice 
+equipment competitors, customers/distributors, and franchisee operators that purchase/use Middleby 
+products.  Across the board, we were told current purchase activity is down over 50.0% and in some cases as 
+much as 85.0%.  Moreover, the current purchase activity is primarily disposables, cold storage (e.g. freezers), 
+and some replacement parts, not cooking and warming equipment (e.g. ovens, fryers, etc.).   
+ 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/f39204d4-1040-4d4c-afc1-751522124272
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 11 
+
+
+
+
+
+
+
+
+
+
+
+Source: Executive, Commercial Foodservice distributor & Middleby customer 
+
+
+ 
+On 03/27/20, the National Restaurant Association (“NRA”) published the results of a survey illustrating the dire 
+status of the restaurant industry.  The key takeaways are:   
+ 
+
+
+• More than 50% of restaurants are currently closed, at least ~15% expected to close permanently: 3% 
+of operators have permanently closed their restaurant.  Given there are more than 1.0 million 
+restaurant locations in the US, we estimate this equates to ~30,000 restaurants.3  In addition, another 
+11% of operators anticipated closing permanently within the next 30 days (i.e. over 100,000 
+restaurants).  44% of operators have temporarily closed their restaurant.     
+
+
+
+
+
+3% of Restaurants Have Already Closed Permanently with Another 11% Expected within 30 Days    
+
+
+ 
+Source: National Restaurant Association  
+
+
+ 
+We asked an executive at a large commercial foodservice distributor about the NRA’s estimates and they 
+replied:  
+
+
+ 
+3 https://www.restaurant.org/research/restaurant-statistics/restaurant-industry-facts-at-a-glance 
+
+
+“We are operating at about 15% capacity right now, we’re 
+seeing about 15% of normal volumes right now.  So, a 
+
+
+really really deep hit.” 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.restaurant.org/Downloads/PDFs/business/COVID19-Infographic.pdf
+
+https://www.restaurant.org/research/restaurant-statistics/restaurant-industry-facts-at-a-glance
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 12 
+
+
+
+
+
+
+
+
+
+
+
+Source: Executive, Commercial Foodservice distributor 
+
+
+ 
+• Lost revenue will be massive and lead to unprecedented layoffs: In just the last three weeks of 
+
+
+March, aggregate restaurant sales declined by ~50.0% equating to $25.0 billion and more than 3.0 
+million restaurant employees were laid off.   
+
+
+
+
+
+In the Last Three Weeks of March Restaurants Sales Declined by 50% = $25B in Lost Sales 
+
+
+ 
+Source: National Restaurant Association  
+
+
+ 
+• Total March sales could be down 60% and April will be even worse: The NRA estimated total March 
+
+
+restaurant sales could be down 60.0% or $45.0 billion.  Moreover, April might be worse, and sales 
+could be down over $60.0 billion.   
+
+
+“It’s going to be a disaster for the industry…many 
+customers have already notified us that they will not 
+come out this...[NRA’s 15% estimate for permanently closed 
+restaurants] is an extremely optimistic number, I think it 
+will be significantly more than 15.0%.” 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.restaurant.org/Downloads/PDFs/business/COVID19-Infographic.pdf
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 13 
+
+
+
+
+
+
+
+
+Total March Losses could be $45B & April Losses Could be over $60B 
+
+
+ 
+Source: National Restaurant Association  
+
+
+ 
+The implications of global shelter-in-place restrictions have had devasting and unprecedented 
+consequences on the restaurant industry.  In addition, it’s exposed the fragility of many over-levered 
+restaurant operators without enough liquidity.  Major restaurant chains have balked at rent payments, unit 
+growth plans have been shuttered, and unfortunately, millions of employees have been furloughed or laid off.  
+We don’t believe these issues get resolved instantaneously nor will the industry have a “V” shaped recovery 
+once the shelter-in-place orders are lifted.  Recall, an estimated ~15.0% of restaurants have already closed 
+permanently, and the final tally could be much higher.                
+ 
+Massive influx of used foodservice equipment will wreak havoc on pricing and demand for new equipment 
+ 
+In addition, we believe there is an underappreciated second derivative effect from record restaurant 
+bankruptcies that will have an immediate and huge negative impact on commercial foodservice equipment 
+volumes and pricing.  An executive at one of Middleby’s largest customers put it this way: 
+   
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.restaurant.org/Downloads/PDFs/business/COVID19-Infographic.pdf
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 14 
+
+
+
+
+
+
+
+
+
+
+
+Source: Executive, Commercial Foodservice distributor & Middleby customer 
+
+
+
+
+
+Major Customers are Halting Unit Growth & Large Over-Levered 
+Franchisee Groups Flirt with Bankruptcy    
+
+
+While Middleby’s customer base is highly diversified, it regularly includes a slide highlighting its “Premier” 
+customers in its Investor Presentations.  Many of these “Premier” customers have already made 
+announcements about halted unit growth and capex.      
+ 
+
+
+MIDD’s “Premier” Customers are Heavily Impacted by the Recent Shelter-in-Place Orders  
+
+
+ 
+Source: November 2019 Investor Presentation 
+
+
+ 
+• Cheesecake Factory suspends new unit growth and won’t pay rent:  In its FY 19 10K, Cheesecake 
+
+
+Factory had originally guided for unit growth to accelerate in FY 20 with as many as 20 new 
+restaurants.  However, in a Press Release in late March, the Company announced it had curtailed its 
+planned unit growth and was evaluating additional measures to further preserve financial flexibility.  
+
+
+“A lot of our customers will go under and you will see a flood of used 
+equipment that is relatively new hit the market, there will be a drop in 
+demand for new product and new equipment…We are positioning 
+ourselves to get into the used market…Not only am I not going to be 
+purchasing from them [Middleby] at the prior levels, but I will start 
+purchasing their [Middleby] products used from bankrupt and 
+liquidating customers and then resell it at a fraction of the cost.”   
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+
+https://www.sec.gov/Archives/edgar/data/887596/000110465920032031/cake-20200101x10k97b528.htm
+
+https://www.sec.gov/Archives/edgar/data/887596/000110465920037114/tm2013456-1_8k.htm
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 15 
+
+
+
+
+
+
+
+
+In another Press Release, the Company indicated it was not planning to pay rent on its leases for the 
+month of April.    
+ 
+
+
+• Darden deferring capex including new store openings:  In its Press Release on 04/07/20, Darden 
+announced it was deferring nearly all of its capital spending including opening new restaurants.   
+ 
+
+
+• YUM! Brands allowing US franchisees to defer all capital obligations for remodels/new units:  In its 
+Press Release on 03/25/20, YUM! Brands (i.e. KFC, Pizza Hut, & Taco Bell) announced it was allowing US 
+franchisees to defer all 2020 capital obligations for remodels and new unit development through 
+the end of the year.   
+
+
+ 
+These are only a few of many examples.  Most of the companies above provided a public COVID-19 business 
+update but some deferred discussing guidance until CY Q1 20 results were reported.  As a result, we expect 
+more similar announcements in the coming weeks as public companies start to report results.   
+ 
+Second largest US franchisee defaulted earlier this year (pre-COVID-19) and could file for bankruptcy   
+ 
+NPC International, Inc. (“NPC”) is the second largest US franchisee and the largest Pizza Hut and Wendy’s 
+franchisee, operating 1,231 Pizza Hut and 392 Wendy’s restaurants, with annual revenue of approximately $1.6 
+billion.  In September 2019, Moody’s downgraded NPC’s corporate family rating to Caa1 from B3 due to 
+continued weak operating performance, persistent cost and margin pressure, high leverage, weak interest 
+coverage with high capex requirements, and pressured liquidity.  For the twelve-month period ended 
+06/25/19, NPC’s net debt to EBITDA was over 7.0x.    
+ 
+
+
+The downgrade of the CFR to Caa1 reflects NPC's continued weak operating performance with 
+persistent cost and margin pressure," stated Adam McLaren, Moody's Senior Analyst. High leverage 
+and weak interest coverage, along with elevated capital expenditure requirements have pressured 
+the company's liquidity.  (Moody’s Press Release, 09/13/19) 
+
+
+ 
+In February 2020, Bloomberg reported NPC was exploring restructuring options including a bankruptcy filing 
+due to “debt struggles amid relentless competition.”  Moreover, NPC had recently defaulted on ~$800.0 million 
+of debt after skipping loan payments.  It’s important to point out that NPC was struggling pre-COVID-19, its 
+dire situation has only gotten worse.    
+ 
+
+
+NPC International Inc. is exploring restructuring options including a bankruptcy filing as the company 
+saddled with $1 billion of debt struggles amid relentless restaurant competition…The operator of about 
+1,600 restaurants, including Pizza Hut and Wendy’s brands, recently defaulted on about $800 million of 
+debt after it chose to skip loan payments. (Bloomberg, 02/19/20) 
+
+
+ 
+Fourth largest US franchisee is over-levered and cutting capex to pay down debt 
+ 
+Carrols Restaurant Group, Inc. (“TAST”) is the fourth largest US franchisee and the largest Burger King 
+franchisee.  Carrols operates 1,034 Burger King restaurants and 65 Popeyes restaurants.  On its Q4 19 Earnings 
+Call, Carrols indicated it was going to “aggressively” reduce capex to generate cash and de-lever the 
+balance sheet.  Indeed, Carrol’s FY 20 net debt/EBITDA is 6.3x.   
+ 
+
+
+[We] decided to reset our growth and capital allocation strategy in 2020 to prioritize organic sales and 
+margin improvement within our current restaurant portfolio and to aggressively reduce our capital 
+spending in order to generate free cash flow and de-lever our balance sheet…In total, we expect to 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.sec.gov/Archives/edgar/data/887596/000110465920038955/tm2013935d1_8k.htm
+
+https://www.sec.gov/Archives/edgar/data/940944/000094094420000017/ex991pressreleaseapr72.htm
+
+https://www.businesswire.com/news/home/20200325005377/en/
+
+https://www.moodys.com/research/Moodys-downgrades-NPC-Internationals-CFR-to-Caa1-outlook-remains-negative--PR_409994
+
+https://www.bloomberg.com/news/articles/2020-02-19/pizza-hut-operator-npc-said-to-mull-options-including-bankruptcy
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 16 
+
+
+
+
+
+
+
+
+reduce our net capital expenditures in 2020 to approximately $55 million to $65 million. This compares 
+favorably to our net capital expenditures of about $100 million in 2019.  (TAST CEO Mr. Daniel T. Accordino, 
+Q4 19 Earnings Call, 02/25/20) [emphasis added] 
+
+
+ 
+NPC and Carrols are both illustrative and cautionary tales about the dangers of too much leverage on too 
+thin of margins in an increasingly competitive market.  It remains to be seen how damaging the shelter-in-
+place restrictions will be on their respective operations, but it could be disastrous.  At a minimum, kitchen 
+upgrades/spending for their stores will be pushed out indefinitely.         
+ 
+
+
+M&A Obfuscates Poor Organic Growth & Weak Cash Flow; Roll-Up 
+Strategy Will Be Limited for the Foreseeable Future 
+
+
+Middleby has always been acquisitive.  Since FY 01, the Company has made more than 90 acquisitions.  
+However, M&A activity started to pick up dramatically around FY 13 which interestingly coincided with peak 
+organic growth.  Since FY 13, organic growth has consistently trended lower while nearly all reported growth 
+came from M&A.   
+    
+
+
+Since FY 13 MIDD Used More M&A to Offset Deteriorating Organic Growth 
+
+
+ 
+Source: Company 10Ks, 10Qs 
+
+
+ 
+In addition, M&A has obfuscated Middleby’s true underlying earnings power and free cash flow.  Highly 
+acquisitive companies can report flattering cash flow metrics given the inherent nature of acquisition 
+accounting.  Working capital (i.e. inventory, receivables, payables, etc.) acquired via M&A is recorded in cash 
+from operations, while the cash paid for the acquisition is reported in cash from investing activities.  So, if the 
+target operated with positive working capital (i.e. inventory + receivables > payables), the acquiror’s cash 
+from operations would increase without a corresponding cash outflow for the acquired assets.  
+Consequently, these mechanics can provide an unsustainable boost to cash from operations and free cash 
+flow without any improvement in the acquiror’s underlying/organic business.  As a result, we use adjusted free 
+cash flow to assess a highly acquisitive company’s earnings quality and the performance of acquisitions 
+post-integration. 4        
+
+
+ 
+4 Adjusted free cash flow = cash flow from operations - capital expenditures - cash paid for acquisitions 
+
+
+11.2% 
+
+
+19.0% 
+21.3% 
+
+
+37.6% 
+
+
+14.5% 
+11.6% 
+
+
+24.2% 
+
+
+3.0% 
+
+
+16.6% 
+
+
+8.7% 
+5.4% 7.0% 
+
+
+7.2% 
+10.4% 
+
+
+8.4% 
+
+
+0.4% 
+3.9% 
+
+
+(3.6%)
+(0.8%)
+
+
+0.1% 
+
+
+$0.0
+
+
+$200.0
+
+
+$400.0
+
+
+$600.0
+
+
+$800.0
+
+
+$1,000.0
+
+
+$1,200.0
+
+
+$1,400.0
+
+
+FY 10 FY 11 FY 12 FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19
+(10.0%)
+
+
+(5.0%)
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+35.0%
+
+
+40.0%
+
+
+Revenue growth (reported) Revenue growth (organic) Cash paid for acquisitions
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://seekingalpha.com/article/4326949-carrols-restaurant-group-inc-tast-ceo-dan-accordino-on-q4-2019-results-earnings-call?part=single
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 17 
+
+
+
+
+
+
+
+
+
+
+
+Adjusted Free Cash Flow More Negative Than Positive Implying Poor Cash Conversion from M&A 
+
+
+($ in millions) 
+
+
+ 
+Source: Company 10K & 10Q filings, Prescience Point calculations 
+
+
+ 
+While a large drop in FY 18 adjusted free cash flow would be expected due to the size of the Taylor acquisition, 
+cumulative adjusted free cash flow has been negative since FY 13 and generally became successively more 
+negative each year.  At a minimum, we believe earnings quality and cash conversion is much weaker than it 
+appears.  Given Middleby does not provide granular detail on post-M&A cash flow, we believe certain 
+acquisitions may (1) have significantly lower cash conversion than Middleby and/or (2) be materially 
+underperforming.           
+ 
+
+
+Cumulative Adjusted Free Cash Flow Negative Since FY 13 
+
+
+($ in millions) 
+
+
+ 
+Source: Company 10K & 10Q filings, Prescience Point calculations 
+
+
+
+
+
+($38.3)
+
+
+$69.1 
+
+
+($58.5)
+
+
+$58.5 
+
+
+($335.0)
+
+
+$0.8 
+
+
+($121.4)
+
+
+$58.4 
+
+
+($55.3)
+
+
+($865.1)
+
+
+$51.2 
+
+
+($1,000.0)
+
+
+($500.0)
+
+
+$0.0
+
+
+$500.0
+
+
+$1,000.0
+
+
+$1,500.0
+
+
+FY 09 FY 10 FY 11 FY 12 FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19
+
+
+Free cash flow Cash paid for acquisitions Adjusted free cash flow
+
+
+($38.3)
+
+
+$30.8 
+
+
+($27.7)
+
+
+$30.8 
+
+
+($304.3) ($303.5)
+($424.9) ($366.5) ($421.8)
+
+
+($1,286.9)($1,235.7)($1,400.0)
+
+
+($1,200.0)
+
+
+($1,000.0)
+
+
+($800.0)
+
+
+($600.0)
+
+
+($400.0)
+
+
+($200.0)
+
+
+$0.0
+
+
+$200.0
+
+
+FY 09 FY 10 FY 11 FY 12 FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19
+
+
+Cumulative adjusted free cash flow (since FY 09)
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 18 
+
+
+
+
+
+
+
+
+Middleby’s leverage has ebbed and flowed over the years between 1.0x and 3.0x EBITDA.  Historically, the 
+Company would lever-up for M&A and then focus on paying down the debt to repeat the cycle.  Middleby’s 
+credit facility limits leverage to a maximum of 4.0x, which may be adjusted to 4.5x with certain qualified 
+acquisitions.   
+ 
+
+
+Satisfy certain financial covenants: (i) a minimum Interest Coverage Ratio (as defined in the Amended 
+Facility) of 3.00 to 1.00 and (ii) a maximum Leverage Ratio of Funded Debt less Unrestricted Cash to Pro 
+Forma EBITDA (each as defined in the Amended Facility) of 4.00 to 1.00, which may be adjusted to 4.50 
+to 1.00 for a four consecutive fiscal quarter period in connection with certain qualified acquisitions, 
+subject to the terms and conditions contained in the Amended Facility.  (FY 19 10K)   
+
+
+
+
+
+Leverage will Limit/Prevent Large M&A  
+
+
+ 
+Source: November 2019 Investor Presentation 
+
+
+ 
+While the recent market turmoil could create some attractive acquisition opportunities, we believe Middleby 
+will be somewhat limited in its ability to capitalize on lower multiples.  In Q2 18, Middleby made its largest and 
+most expensive acquisition (Taylor Company for $1.0 billion or 3.2x sales) putting it near the top end of its 
+leverage range at nearly 3.0x LTM EBITDA.  Moreover, anchoring on LTM EBITDA could materially understate 
+Middleby’s true leverage.  Our Base Case FY 20 EBITDA estimate implies a leverage ratio of 3.7x and our Bear 
+Case implies a ratio of 4.4x.    
+ 
+ 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.sec.gov/Archives/edgar/data/769520/000076952020000004/midd-2019122819x10kq4.htm
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 19 
+
+
+
+
+
+
+
+
+Pro Forma Leverage Ratios Near Covenant Thresholds 
+
+
+ 
+Source: November 2019 Investor Presentation 
+
+
+
+
+
+Negative Pro Forma Growth Implies Revenue from M&A Deteriorated 
+Post-Acquisition    
+
+
+Middleby doesn’t provide great granularity or specific commentary on acquisition performance once a 
+target has been consolidated.  However, buried deep in the footnotes of its 10Qs and 10Ks, Middleby discloses 
+pro forma revenue which we can use to assess aggregate performance of acquired companies.  The 
+Company’s pro forma results assume acquisitions made in the current and prior year were all completed on 
+the first day of the prior fiscal year.  For example, pro forma results for Q3 19 assumed the 2018 acquisitions of 
+Hinds-Bock, Ve.Ma.C, Josper, Firex, Taylor, M-TEK and Crown and the 2019 acquisitions of EVO, Cooking Solutions 
+Group, Powerhouse, Ss Brewtech and Pacproinc were all completed on December 31, 2017 (the first day of FY 
+18).  
+ 
+
+
+In accordance with ASC 805 “Business Combinations”, the following unaudited pro forma results of 
+operations for the nine months ended September 28, 2019 and September 29, 2018, assumes the 2018 
+acquisitions of Hinds-Bock, Ve.Ma.C, Josper, Firex, Taylor, M-TEK and Crown and the 2019 acquisitions of 
+EVO, Cooking Solutions Group, Powerhouse, Ss Brewtech and Pacproinc were completed on 
+December 31, 2017 (first day of fiscal year 2018).  (Q3 19 10Q) 
+
+
+ 
+The rapid deterioration of pro forma growth throughout FY 19 implies revenue from acquisitions declined 
+post-deal close and raises a red flag about whether Middleby overpaid for recent deals.  Recall, the Taylor 
+acquisition in Q2 18 for $1.0 billion was the largest and most expensive at 3.2x sales.  At a minimum, we believe 
+aggregate M&A since FY 18 significantly underperformed initial expectations.   
+ 
+
+
+2.9 
+
+
+3.7 
+
+
+4.4 
+
+
+0.0
+
+
+1.0
+
+
+2.0
+
+
+3.0
+
+
+4.0
+
+
+5.0
+
+
+Consensus Presience Point Base Case Presience Point Bear Case
+
+
+FY 20E EV/EBITDA
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+
+https://www.sec.gov/Archives/edgar/data/769520/000076952019000015/middleby10-qq32019.htm
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 20 
+
+
+
+
+
+
+
+
+Growth from M&A was also Deteriorating Pre-Virus  
+
+
+ 
+Source: Company 10Ks, 10Qs 
+
+
+
+
+
+Commercial Foodservice Customers Were Pushing Out Orders Pre-Virus, 
+Now It Will Only Get Worse 
+
+
+Middleby’s reported and organic revenue growth were already significantly slowing before COVID-19.  In fact, 
+Middleby talked about rollouts from major restaurant chains failing to materialize as early as Q3 19.   
+ 
+
+
+Major rollouts by used restaurant chains are continuing to take longer to materialize, which is leading 
+to lower-than-expected organic revenue growth. I expect these challenging market conditions to 
+remain in the fourth quarter and could potentially impact Q1 -- we look forward to improving organic 
+revenue performance as we progress through 2020.  (CFO Mr. Brian E. Mittelman, Q3 19 Earnings Call, 
+11/06/19) [emphasis added]  
+
+
+ 
+In Q4 19, Middleby continued to indicate lower spending from its largest restaurant chain customers 
+negatively impacted growth.   
+ 
+
+
+At our Commercial Foodservice segment, lower spending across the industry, particularly at our 
+largest restaurant chain customers continue to impact revenue growth.   (CEO Mr. Timothy Fitzgerald, 
+Q4 19 Earnings Call, 02/26/20) [emphasis added] 
+
+
+ 
+Since customer purchase activity was significantly slowing pre-virus, it’s hard to believe customer purchases 
+will have a “V” shaped rebound post-crisis.  To the contrary, we anticipate remodels, upgrades, and new 
+builds get pushed out even further or cancelled all together as restaurants grapple with less traffic, lower 
+sales, and heavier debt burdens.    
+ 
+
+
+0.1% 
+
+
+(1.8%)
+
+
+(4.1%)
+
+
+(1.3%)
+
+
+(5.0%)
+
+
+(4.0%)
+
+
+(3.0%)
+
+
+(2.0%)
+
+
+(1.0%)
+
+
+0.0%
+
+
+1.0%
+
+
+Q1 19 Q2 19 Q3 19 Q4 19
+
+
+Pro forma revenue growth
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://seekingalpha.com/article/4303386-middleby-corporations-midd-ceo-tim-fitzgerald-on-q3-2019-results-earnings-call-transcript?part=single
+
+https://seekingalpha.com/article/4327463-middleby-corporation-midd-ceo-tim-fitzgerald-on-q4-2019-results-earnings-call-transcript
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 21 
+
+
+
+
+
+
+
+
+Commercial Foodservice Growth was Struggling Pre-Virus 
+
+
+ 
+Source: Company 10Qs and 10Ks 
+
+
+ 
+Recently increased Asia Pacific/China exposure will negatively impact FY 20 results  
+ 
+In Q4 19, Asia accounted for 10.0% of revenue, the highest level since at least 2017.  In addition, on its Q3 19 
+Earnings Call, Middleby highlighted it was “expanding” its China operations with the opening of a new factory 
+that came online in November 2019.   
+ 
+
+
+We are also expanding our China operations with the opening of a new factory coming online this 
+month. This facility will allow us to increase capabilities and operate at a higher capacity with greater 
+efficiency. We will also be able to deliver product quickly in the region and sharpen our focus on local 
+growth in the Asian region. We'll be adding a number of new products for the local market in 2020 and 
+offering solutions for specific chain customers expanding into the Asian market. (CEO Mr. Timothy 
+FitzGerald, Q3 19 Earnings Call, 11/06/19) 
+
+
+ 
+Given much of China was under quarantine during Q1 20, we anticipate the recent expansion will be a 
+headwind to near-term performance.  In addition, recent commentary and traffic trends imply the 
+underperformance may persist into at least Q2 20.      
+ 
+
+
+(2.0%) (1.4%)
+
+
+4.3% 4.1% 5.3% 3.4% 2.3% 
+0.5% 0.4% 
+
+
+13.7% 15.3% 
+
+
+24.1% 
+
+
+32.9% 
+
+
+27.0% 27.1% 
+23.9% 
+
+
+6.2% 5.9% 
+
+
+Q4 17 Q1 18 Q2 18 Q3 18 Q4 18 Q1 19 Q2 19 Q3 19 Q4 19
+(5.0%)
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+35.0%
+
+
+Revenue year-over-year (organic) Revenue year-over-year
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://seekingalpha.com/article/4303386-middleby-corporations-midd-ceo-tim-fitzgerald-on-q3-2019-results-earnings-call-transcript?part=single
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 22 
+
+
+
+
+
+
+
+
+Recent Expansion in China May Weight on Near-Term Results   
+
+
+ 
+Source: November 2019 Investor Presentation 
+
+
+ 
+Commercial Foodservice is Middleby’s most profitable segment with the highest margins.  However, 
+Commercial Foodservice profitability has been steadily deteriorating in each of the last three years.  Recall, 
+consensus expects FY 20 and FY 21 EBITDA margin to expand.  If Middleby can’t expand Commercial 
+Foodservice margins in one of the biggest economic expansions in history, how will it achieve record 
+profitability when the restaurant industry is facing unprecedented closures and major chains were already 
+pushing out projects pre-virus?        
+ 
+
+
+Commercial Foodservice EBITDA Margin Has Been Deteriorating Since FY 17 
+
+
+ 
+Source: Company 10Qs and 10Ks 
+
+
+
+
+
+Bloated Balance Sheet Inventory an Incremental Headwind to 
+Profitability; Full Channel May Exacerbate Lower Revenue   
+
+
+28.4% 
+27.8% 
+
+
+28.2% 
+
+
+29.3% 
+
+
+27.8% 
+
+
+26.3% 
+25.6% 
+
+
+FY 13 FY 14 FY 15 FY 16 FY 17 FY 18 FY 19
+23.0%
+
+
+24.0%
+
+
+25.0%
+
+
+26.0%
+
+
+27.0%
+
+
+28.0%
+
+
+29.0%
+
+
+30.0%
+
+
+Non-GAAP EBITDA margin
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://middlebycorporation.gcs-web.com/static-files/22dc8e5a-6e17-42b6-83d5-22b3e3d465eb
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 23 
+
+
+
+
+
+
+
+
+In Q4 19, DSI increased 10.9% year-over-year to 111 days, well above normal levels.  Middleby did not discuss Q4 
+19 inventory levels but attributed the spike in Q3 19 to (1) purchasing in advance of potential price increases 
+expected from tariffs, (2) building to mitigate risk around fulfilment rates, and (3) lower than anticipated sales.   
+ 
+
+
+Significant increases in inventory in the first half of the year have negatively impacted cash flows 
+during the nine-month ended September 28, 2019.  The increases are attributable to various factors 
+including purchasing in advance of potential price increases expected from tariffs and building to 
+mitigate risk around order fulfillment rates. Inventory levels also have been impacted by lower than 
+anticipated sales levels.  (Q3 19 10Q)        
+
+
+
+
+
+DSIs Near Peak Highs 
+
+
+ 
+Source: Prescience Point calculations.  DSI = average inventory / COGS * days in the period 
+
+
+ 
+Discussions with Middleby’s customers/distributors indicated channels are full, purchase activity will slow 
+going forward, and inventory may get put back to Middleby  
+ 
+We spoke with executives at some of the largest distributors of commercial foodservice equipment in the US 
+including some of Middleby’s biggest customers and the takeaways were ominous.  One executive estimated 
+that their stocking levels are “normal to slightly above normal right now” but would get “cut in half” over the 
+coming months as restaurants go out of business and halt capex.  The executive also indicated their 
+purchase activity going forward would be much slower as demands drops and they keep less stock.  In fact, 
+the distributor said they even wanted to put inventory back to Middleby.     
+ 
+
+
+89 
+96 98 
+
+
+113 
+100 103 99 104 97 
+
+
+107 108 107 
+100 
+
+
+107 104 102 100 
+
+
+115 114 
+124 
+
+
+111 
+
+
+0
+
+
+20
+
+
+40
+
+
+60
+
+
+80
+
+
+100
+
+
+120
+
+
+140
+
+
+Q4 14 Q1 15 Q2 15 Q3 15 Q4 15 Q1 16 Q2 16 Q3 16 Q4 16 Q1 17 Q2 17 Q3 17 Q4 17 Q1 18 Q2 18 Q3 18 Q4 18 Q1 19 Q2 19 Q3 19 Q4 19
+
+
+DSI
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+
+https://www.sec.gov/Archives/edgar/data/769520/000076952019000015/middleby10-qq32019.htm
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 24 
+
+
+
+
+
+
+
+
+
+
+
+Source: Executive, Commercial Foodservice distributor & Middleby customer 
+
+
+ 
+As we discussed earlier, distributors are also exploring the used equipment market for the first time in years 
+as a lot of gently used equipment floods the market due to a record number of restaurant bankruptcies.  
+Combine Middleby’s bloated balance sheet inventory with cuts to distributor inventory levels and increased 
+competition from lower priced used inventory and it’s a disaster for demand.   
+ 
+
+
+Valuation: Shares Have 50.0% Downside  
+
+
+Middleby’s shares currently trade near the low-end of its peer group range at 7.8x FY 20 EV/EBTIDA and 7.3x FY 
+21 EV/EBITDA.  While its gross margin and adjusted EBITDA margin are in-line with the peer group average, 
+Middleby is less diversified than its peers and is a lot more dependent on restaurants and commercial 
+kitchens.  Arguably, two of the most negatively impacted end markets due to shelter-in-place restrictions.   
+ 
+
+
+“We’re cutting our stocking levels in half.  As we see demand 
+dropping, we’re cutting them in half. And we are working with our 
+suppliers to see what we can return. At a bare minimum I can tell you 
+we are not going to be purchasing anything soon…we have excess 
+inventory levels and we have to see it go down before we hit that re-
+order point.”   
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 25 
+
+
+
+
+
+
+
+
+     FY 19 EV/EBITDA P/E 
+
+
+Company Name Ticker 
+Share 
+Price 
+
+
+Market 
+Cap. 
+
+
+E/V 
+Gross 
+
+
+Margin 
+
+
+Adj. 
+EBITDA 
+Margin 
+
+
+FY 20E FY 21E FY 20E FY 21E 
+
+
+($ in millions, except share price)           
+
+
+Barnes Group Inc B $41.29  $2,051.1  $2,792.0  36.7%  23.0%  9.3x 8.3x 14.2x 12.4x 
+Colfax Corp CFX $23.15  $2,658.3  $4,908.7  42.4%  23.2%  9.2x 8.3x 12.5x 10.7x 
+Dover Corp DOV $87.70  $12,444.5  $15,127.6  36.9%  20.5%  11.6x 10.9x 15.3x 14.1x 
+Illinois Tool Works Inc. ITW $155.92  $48,587.2  $54,368.2  42.0%  27.1%  16.1x 14.6x 23.1x 20.2x 
+John Bean Technologies Corp JBT $79.47  $2,452.6  $3,112.3  30.8%  15.0%  11.4x 10.7x 18x 16.1x 
+Lincoln Electric Holdings Inc LECO $76.61  $4,512.8  $5,061.4  33.4%  15.6%  11.8x 10.7x 17.8x 15.3x 
+Nordson Corp NDSN $144.92  $8,181.8  $9,200.3  54.3%  26.7%  15.5x 14.2x 23.4x 20.7x 
+Enpro Industries, Inc NPO $41.53  $837.9  $1,374.0  33.5%  14.0%  8.9x 7.8x 17.8x 15x 
+Pentair Plc PNR $32.23  $5,294.5  $6,241.1  35.6%  19.9%  11.5x 10.8x 14.1x 12.9x 
+Wabco Holdings Inc. WBC $135.13  $6,898.4  $6,863.2  29.6%  13.5%  14.7x 13.3x 21.2x 22.7x 
+Welbilt, Inc. WBT $4.92  $633.8  $1,907.4  35.7%  18.0%  9.2x 7.9x 17.2x 9.2x 
+           
+Max   $48,587.2  $54,368.2  54.3%  27.1%  16.1x 14.6x 23.4x 22.7x 
+Avg.   $8,595.7  $10,086.9  37.3%  19.7%  11.7x 10.7x 17.7x 15.4x 
+Min   $633.8  $1,374.0  29.6%  13.5%  8.9x 7.8x 12.5x 9.2x 
+           
+Middleby Corp MIDD $54.00  $2,941.5  $4,720.2  37.3%  21.6%  7.8x 7.3x 9x 8.4x 
+
+
+Source: Thomson Reuters           
+
+
+ 
+Middleby’s EV/EBITDA multiple has contracted significantly but remains above trough levels.  We posit the 
+current outlook is as bad as we’ve ever seen for the restaurant industry.  For our Base Case, we used 
+Middleby’s current EV/EBITDA multiple.  However, for our Bear Case we used a slight discount from current 
+levels as our Bear Case EBITDA would put Middleby in a significantly more precarious debt situation.      
+ 
+
+
+EV/EBITDA has Pulled-In but Still Above Trough Levels  
+
+
+ 
+Source: Thomson Reuters 
+
+
+ 
+We value Middleby based on FY 21 non-GAAP EBITDA.  We think this is most appropriate as many investors may 
+give companies a pass on FY 20 given the unprecedented impact from COVID-19.  Our two scenarios are:  
+
+
+0
+
+
+2
+
+
+4
+
+
+6
+
+
+8
+
+
+10
+
+
+12
+
+
+14
+
+
+16
+
+
+18
+
+
+20
+
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 26 
+
+
+
+
+
+
+
+
+ 
+• Base Case:  In our Base Case, we estimate FY 20 revenue will decline ~25.0%, significantly worse than 
+
+
+consensus, but slightly better than our due diligence that suggests foodservice equipment sales are 
+currently down more than 50.0% with an estimated FY 20 exit-rate of minus 15.0%.  We estimate FY 21 
+revenue to pick-up slightly with 3.0% growth.  Moreover, we estimate FY 20 and FY 21 EBITDA margin to 
+be flat with FY 19 at 21.6%, which is slightly below peak margins from a few years ago.        
+
+
+  
+• Bear Case: In our Bear Case, we estimate FY 20 revenue will decline ~33.0% with a slightly larger 
+
+
+rebound in FY 21 of 5.0% growth.  In addition, we estimate FY 20 EBITDA margin will decline 150 basis 
+points to 20.1%, slightly below trough profitability in FY 18, and FY 21 EBITDA margin will be flat.     
+
+
+
+
+
+Base Case & Bear Case Valuation on FY 21 EV/EBITDA 
+
+
+(in millions, except share price) Consensus Base Bear 
+
+
+FY 21 non-GAAP EBITDA $647.0  $495.7  $414.3  
+
+
+EV/EBITDA multiple  7.4  7.4  6.5  
+
+
+Enterprise value $4,786.44  $3,667.12  $2,692.63  
+
+
+Less: debt  ($1,873.1) ($1,873.1) ($1,873.1) 
+
+
+Add: cash  $94.5  $94.5  $94.5  
+
+
+Equity value  $3,007.8  $1,888.5  $914.0  
+
+
+Shares outstanding (diluted)  55.7  55.7  55.7  
+
+
+Share price  $54.00  $33.90  $16.41  
+
+
+Current price  $54.00  $54.00  $54.00  
+
+
+Downside risk  --  (37.2%) (69.6%) 
+
+
+Source: Consensus estimates, Prescience Point estimates    
+
+
+   
+Based on our probability weighted blended price target, we value Middleby shares at $26.91. 
+ 
+
+
+MIDD Shares have 50% Downside 
+
+
+Base Case price target $33.90  
+
+
+Probability   60.0%  
+
+
+Bear Case price target $16.41  
+
+
+Probability   40.0%  
+
+
+Blended price target $26.91  
+
+
+Current price $54.00  
+
+
+Downside risk  (50.2%) 
+
+
+Source: Prescience Point estimates  
+
+
+ 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint
+presciencepoint.com @presciencepoint 
+ 
+
+
+
+
+
+  
+The Middleby Corporation (NASDAQ: MIDD) 27 
+
+
+
+
+
+
+
+
+Disclaimer 
+
+
+This research report expresses our research opinions, which we have based upon certain facts, all of which are 
+based upon publicly available information, and all of which are set out in this research report.  Any investment 
+involves substantial risks, including complete loss of capital.  Any forecasts or estimates are for illustrative 
+purpose only and should not be taken as limitations of the maximum possible loss or gain. Any information 
+contained in this report may include forward looking statements, expectations, and projections.  You should 
+assume these types of statements, expectations, and projections may turn out to be incorrect for reasons 
+beyond Prescience Point Capital Management’s (“Prescience Point”) control. This report should only be 
+considered in its entirety. Each section should be read in the context of the entire report, and no section, 
+paragraph, sentence or phrases is intended by its authors to stand alone or to be interpreted in isolation 
+without reference to the rest of the report. The section headings contained in this report are for reference 
+purposes only and may only be considered in reference to the detailed statements of opinions in their 
+respective sections.   This is not investment advice nor should it be construed as such. Use of Prescience Point’s 
+research is at your own risk.  You should do your own research and due diligence before making any investment 
+decision with respect to securities covered herein. 
+
+
+You should assume that as of the publication date of any report or letter, Prescience Point (possibly along with 
+or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or 
+investors has a short position in all stocks (and/or are long puts/short call options of the stock) covered herein, 
+including without limitation The Middleby Corporation (“MIDD”), and therefore stands to realize significant gains 
+in the event that the price of its stock declines. Following publication of any report or letter, we intend to 
+continue transacting in the securities covered therein, and we may be long, short, or neutral at any time 
+hereafter regardless of our initial recommendation. 
+
+
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold 
+to any person, in any jurisdiction in which such offer would be unlawful under the securities laws of such 
+jurisdiction.   
+
+
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and 
+reliable and does not omit to state material facts necessary to make the statements herein not misleading, 
+and all information has been obtained from public sources we believe to be accurate and reliable, and who 
+are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary 
+duty or duty of confidentiality to the issuer, or to any other person or entity that was breached by the 
+transmission of information to Prescience Point.  However, Prescience Point recognizes that there may be non-
+public information in the possession of MIDD or other insiders of MIDD that has not been publicly disclosed by 
+MIDD. Therefore, such information contained herein is presented “as is,” without warranty of any kind – whether 
+express or implied.  Prescience Point makes no other representations, express or implied, as to the accuracy, 
+timeliness, or completeness of any such information or with regard to the results to be obtained from its use.     
+
+
+ 
+
+
+
+https://www.presciencepoint.com/
+
+https://twitter.com/PresciencePoint

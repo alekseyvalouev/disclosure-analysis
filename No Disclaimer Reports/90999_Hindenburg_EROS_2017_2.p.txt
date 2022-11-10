@@ -1,320 +1,420 @@
-Muddy Waters Capital LLC 
+GET OUR LATEST REPO�TS DELIVERED TO YOUR INBOX
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+email address SUBSCRIBE
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+Summary: Eros International (NYSE:E�OS)
+An entity outside Eros’s corporate structure both receives short term loans from Eros and
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+simultaneously records large payables to an Eros related party.
 
 
-Page 1 of 6
-August 29, 2016 
- 
+The entity, Ayngaran International Films Private Limited (“AIFPL”) appears to report very
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+little other �nancial activity.
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+AIFPL’s short-term loans & advances represent 249x its annual revenue, and trade
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
+payables represent 289x its annual revenue.
 
 
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
+We believe the above raises new red �ags relating to Eros’s receivables accounting.
 
 
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+Today we intend to provide support for longstanding questions posed by short sellers relating
+
+
+to Eros’s potentially misleading accounts receivables
+
+
+(https://seekingalpha.com/article/3981030-eross-secret-undisclosed-related-party-links-uae).
+
+
+Eros has consistently maintained a large uncollected accounts receivables balance which has
+
+
+indicated at the very least that the company has unusual di�culty in collecting its revenue. At
+
+
+worst, the balance could be indicative of illegitimate revenue transactions or ‘round tripping
+
+
+(http://smallbusiness.chron.com/meaning-round-tripping-accounting-65720.html),’ a means of
+
+
+boosting the operating metrics of a company without ultimately providing any real economic
+
+
+bene�t.
+Privacy  - Terms
+
+
+Eros International: New Receivables
+Accounting Red Flags
+
+
+Published on August 24, 2017
 
 
 
+https://seekingalpha.com/article/3981030-eross-secret-undisclosed-related-party-links-uae
+
+http://smallbusiness.chron.com/meaning-round-tripping-accounting-65720.html
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+Accounting Questions
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+In an earlier report on Eros (NYSE:EROS (https://seekingalpha.com/symbol/EROS)), we had
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+outlined suspicions relating to Eros Television Private Limited
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+(https://seekingalpha.com/article/4093602-eros-earnings-review-abundance-red-�ags), an
 
 
- 
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+entity that appears to sit outside of the Eros corporate structure and records little �nancial
 
 
- 
-Credibility Assessment: St. Jude Medical (STJ) 
+activity with the exception of a series of advances and payables.
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+Recently, we learned of yet another entity, Ayngaran International Films Private Limited
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
+(“AIFPL”) that demonstrates a similar pattern: it appears to sit outside the Eros corporate
 
 
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+structure and shows little �nancial activity with the exception of a series of large advances and
 
 
- 
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+payables. The added insight gleaned from this example is that (i) a recent annual Director’s
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+Report �ling (https://www.slideshare.net/HindenburgResearch/aifpl-directors-report) clearly
 
 
- 
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
- 
+identi�es Eros as the key lender to AIFPL; and (ii) the �ling clearly identi�es “related party” as
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+the primary benefactor of AIFPL’s payables. (as presented in detail below). Related party
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+entities are later de�ned in the �ling and consist of Eros subsidiaries or related
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+entities/individuals.
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+In short, the �ling seems to show that Eros lends to AIFPL which then simultaneously owes
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+large payables to Eros controlled or related parties. AIFPL records little other �nancial activity.
 
 
-Page 6 of 6
+We believe this evidence renews questions relating to Eros’s receivables accounting practices.
+
+
+Who Owns AIFPL?
+
+
+In order to demonstrate that AIFPL sits outside the Eros corporate structure, we pulled the full
+
+
+equity ownership (https://www.slideshare.net/HindenburgResearch/aifpl-shareholders-list) of
+
+
+the entity from the Indian corporate �lings database. AIFPL is shown as having 3
+
+
+owner/directors who collectively own 100% of the equity in the entity.
+
+
+Neither Eros nor any of Eros’s corporate entities own any equity in AIFPL, as shown in the
+
+
+linked ownership table above.
+
+
+AIFPL’s 2016 Directors Report
+
+
+The 2016 annual directors report for AIFPL
+
+
+(https://www.slideshare.net/HindenburgResearch/aifpl-directors-report) came out in early
+
+
+August in the Indian Ministry of Corporate A�airs �lings database. As per page 2 of the report,Privacy  - Terms
+
+
+
+https://seekingalpha.com/symbol/EROS
+
+https://seekingalpha.com/article/4093602-eros-earnings-review-abundance-red-flags
+
+https://www.slideshare.net/HindenburgResearch/aifpl-directors-report
+
+https://www.slideshare.net/HindenburgResearch/aifpl-shareholders-list
+
+https://www.slideshare.net/HindenburgResearch/aifpl-directors-report
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+the entity recorded revenue of only INR 861,660 and a modest loss of INR 4,517,078.
+
+
+Despite the minimal top line and bottom line activity, on page 1 of the report we see that the
+
+
+entity recorded a whopping INR 249,021,049 in trade payables and INR 214,728,169 in short
+
+
+term loans and advances, as shown below:
+
+
+Privacy  - Terms
+
+
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+We �nd the above to be a jarring fact pattern. We simply cannot envision a reasonable scenario
+
+
+where a company’s trade payables are 289x larger than its annual revenue. Similarly, we
+
+
+believe it is odd that a lender would extend a short term loan representing 249x the borrower’s
+
+
+annual revenue.
+
+
+As shown in later notes in the Director’s Report on page 6, the loan is explicitly mentioned as
+
+
+originating from “ICD – Eros International Media P Ltd”. ICD stands for inter-corporate deposit
+
+
+(http://www.biz�nance.co.in/page.php?page-id=29#sthash.odOwM1mu.dpbs), a form of
+
+
+company to company loan that is prevalent in India. Similarly, the majority of trade payables
+
+
+are shown as being to a related party:
+
+
+Privacy  - Terms
+
+
+
+http://www.bizfinance.co.in/page.php?page-id=29#sthash.odOwM1mu.dpbs
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+As de�ned later in the report, related party entities consist of 4 Eros subsidiaries (per Eros’s 20-
+
+
+F �ling (https://www.sec.gov/Archives/edgar/data/1532981/000117152017000332/ex8-1.htm))
+
+
+or related parties of those subsidiaries connected through key management personnel of
+
+
+AIFPL:
+
+
+The two entities not owned by Eros in the list above (Ayngaran International Singapore Pte ltd
+
+
+and Ayngaran Travels and Cargo Pvt. Ltd) are connected to Eros through AIFPL’s key
+
+
+management personnel:
+
+
+Kumarasamy Karunamoorthy is listed as a key management person of the AIFPL entity.
+
+
+He is also a current director
+
+
+(https://beta.companieshouse.gov.uk/company/05957372/o�cers) of Eros-owned
+
+
+(https://s3-eu-west-1.amazonaws.com/document-api-images-
+
+
+prod/docs/8xf2JoQV1MzQDetYf7ASYsv9W1yc2qw54jiK-C8Eb2I/application-pdf?
+
+
+AWSAccessKeyId=ASIAJV3BQ2DRAUUNSRQQ&Expires=1503531661&Signature=KhBPGuSL
+
+
+%2FUcKqFqU2ItyU9N%2F6qA%3D&x-amz-security-
+
+
+token=FQoDYXdzEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDFRwmhl5dNdXpLwigy
+
+
+K3A%2FUw28replbaljzHNPDmH2Hww3XqT8kFl%2FTvpp0cXLbf2YahYWQWciegKH8B6UNS
+
+
+4aAwjW4gf28pG6JPtT7pSGNH0c0fHphLtvTnTt9rAnTO0YtP5GbJr4nIOiRVP560FA014mHhjg
+
+
+RiF7NYwUYGJcKhjF0X1ej6CS3RpCxvIjwz5kC%2FVODhRjOOjCRhQ6MFJZ9ntZdgO26VInCph
+
+
+qr4XGiuhkLW%2FLiF7USKNpmBS2%2B8UGuJd3Go7kD30gPEdTKJUqI96fTpiJS2hxWyMScU
+
+
+elmrj8u2gyXpnUULu9SzdjDNhwtrttmU44DdghmwuTW8OWLbz5g10Q%2BQ5BCZZ60eyhu
+
+
+1M5CAD9pKyZQ6scqMca5OQ%2FVVDVPAiczsLCI87q5MBnBodr1%2FdYT25%2Bn5yaOifVs
+
+
+3drRULQmNw8GogHKeQppTxHtJ4CQTN%2BK7bYdJqPvxrGWyklXzaxHaPjIx9jYqNtvoW6E1
+
+
+%2B4l7tMcgJOfDKSDTIIb8IGisSFuP7rvmYzQSYjhx9RaHBrEukGj%2BqLBDGlqjHQehsHcaXw
+
+
+JsVqyGrF5t47zf4znBbcBzFpNSpytQc0eAcZB8ry4o3JX3zAU%3D) Ayngaran International UK
+
+
+Ltd; and
+
+
+Arun Pandian, (https://en.wikipedia.org/wiki/Arun_Pandian) listed as a key management
+
+
+person of AIFPL, is a producer associated with the same Eros-owned Ayngaran
+Privacy  - Terms
+
+
+
+https://www.sec.gov/Archives/edgar/data/1532981/000117152017000332/ex8-1.htm
+
+https://beta.companieshouse.gov.uk/company/05957372/officers
+
+https://s3-eu-west-1.amazonaws.com/document-api-images-prod/docs/8xf2JoQV1MzQDetYf7ASYsv9W1yc2qw54jiK-C8Eb2I/application-pdf?AWSAccessKeyId=ASIAJV3BQ2DRAUUNSRQQ&Expires=1503531661&Signature=KhBPGuSL%2FUcKqFqU2ItyU9N%2F6qA%3D&x-amz-security-token=FQoDYXdzEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDFRwmhl5dNdXpLwigyK3A%2FUw28replbaljzHNPDmH2Hww3XqT8kFl%2FTvpp0cXLbf2YahYWQWciegKH8B6UNS4aAwjW4gf28pG6JPtT7pSGNH0c0fHphLtvTnTt9rAnTO0YtP5GbJr4nIOiRVP560FA014mHhjgRiF7NYwUYGJcKhjF0X1ej6CS3RpCxvIjwz5kC%2FVODhRjOOjCRhQ6MFJZ9ntZdgO26VInCphqr4XGiuhkLW%2FLiF7USKNpmBS2%2B8UGuJd3Go7kD30gPEdTKJUqI96fTpiJS2hxWyMScUelmrj8u2gyXpnUULu9SzdjDNhwtrttmU44DdghmwuTW8OWLbz5g10Q%2BQ5BCZZ60eyhu1M5CAD9pKyZQ6scqMca5OQ%2FVVDVPAiczsLCI87q5MBnBodr1%2FdYT25%2Bn5yaOifVs3drRULQmNw8GogHKeQppTxHtJ4CQTN%2BK7bYdJqPvxrGWyklXzaxHaPjIx9jYqNtvoW6E1%2B4l7tMcgJOfDKSDTIIb8IGisSFuP7rvmYzQSYjhx9RaHBrEukGj%2BqLBDGlqjHQehsHcaXwJsVqyGrF5t47zf4znBbcBzFpNSpytQc0eAcZB8ry4o3JX3zAU%3D
+
+https://en.wikipedia.org/wiki/Arun_Pandian
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+International UK Ltd. Kavitha Pandian (the other listed key management person) is his
+
+
+daughter.
+
+
+What Now?
+
+
+We have reached out to Eros’s investor relations contact and to CEO Jyoti Deshpande last week
+
+
+seeking comment on the economic rationale for the business purposes behind the AIFPL
+
+
+transactions. As of this writing, we have not heard back, but will update this should we hear
+
+
+clari�cation from the company.
+
+
+We have also written to the SEC on this matter and will likely write to Eros’s auditors, Grant
+
+
+Thornton India LLP. In the meantime, we urge caution to investors in Eros.
+
+
+Disclosure: I am/we are short EROS. I wrote this article myself, and it expresses my own
+
+
+opinions. I am not receiving compensation for it. I have no business relationship with any
+
+
+company whose stock is mentioned in this article.
+
+
+Posted in Uncategorized (https://hindenburgresearch.com/category/uncategorized/)  · 
+
+
+2 thoughts on “Eros International: New Receivables
+Accounting Red Flags”
+Pingback: Eros International: On-The-Ground Research, Employee Interviews, and Private
+
+
+Company Documents Expose Egregious Accounting Irregularities - Hindenburg Research
+
+
+(https://hindenburgresearch.com/eros-international-on-the-ground-research-employee-
+
+
+interviews-and-private-company-documents-expose-egregious-accounting-irregularities/)
+
+
+Pingback: New Hindenburg Investigation Into Eros International Short - ValueWalk
+
+
+(https://www.valuewalk.com/2019/06/hindenburg-investigation-eros-international-next-gen/)
+
+
+Comments are closed.
+
+
+Privacy  - Terms
+
+
+
+https://hindenburgresearch.com/category/uncategorized/
+
+https://hindenburgresearch.com/eros-international-on-the-ground-research-employee-interviews-and-private-company-documents-expose-egregious-accounting-irregularities/
+
+https://www.valuewalk.com/2019/06/hindenburg-investigation-eros-international-next-gen/
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/
+© 2022 Hindenburg Research (//hindenburgresearch.com). All Rights Reserved · Legal Disclaimer (/legal-
+
+
+disclaimer) · Privacy Policy (/privacy-policy)
+
+
+Theme by Robert DeVore (https://robertdevore.com).
+
+
+Privacy  - Terms
+
+
+
+https://hindenburgresearch.com/
+
+https://hindenburgresearch.com/legal-disclaimer
+
+https://hindenburgresearch.com/privacy-policy
+
+https://robertdevore.com/
+
+https://www.google.com/intl/en/policies/privacy/
+
+https://www.google.com/intl/en/policies/terms/

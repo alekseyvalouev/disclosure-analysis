@@ -1,320 +1,737 @@
-Muddy Waters Capital LLC 
+Viceroy Research Group 1 viceroyresearch.org 
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+Athenex – Rehash  
+Athenex recycle press re leases to pump investors . Viceroy release 
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+details of further con flicts with Athenex CROs. 
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+October 28, 2019 – This report will continue to touch on major Athenex conflict of interest issues. 
 
 
-Page 1 of 6
-August 29, 2016 
- 
+▪ In another slap to the face for invetors, Athenex, instead of addressing any of the major issues Viceroy have 
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+put forward, have chosen to instead re-publish a press release from March 4, 2019, marketing the results 
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+of topical medication with their project partner, Almirall. 
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
+▪ In case the connections to fraud were not already apparent, Almirall has recently settled both a $3.5m 
 
 
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
+Department of Justice and $3.1m California Department of Insurance claims relating to kickbacks and 
 
 
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+bribery of physicians for the promotion of their product. Athenex aim to use Almirall for their vast sales 
+
+
+network. 
+
+
+▪ Viceroy today release data showing PharmaEssentia, Athenex CRO, is also a related party. To recap, all three 
+
+
+major Athenex CROs have an interest in the approval and ongoing success of the products they are 
+
+
+conducting the trials for, as we have previously reported on CIDAL and ZenRx. 
+
+
+▪ Athenex CEO Johnson Yiu Nam Lau is a busy man, moonlighting at yet another anti-cancer company, 
+
+
+Taiwanese comapny Taivex Therapeutics. Investors should be asking what Athenex’s Chief Executive 
+
+
+Officer is doing at another anti-cancer biotechnology company, especially if he finds the time to be credited 
+
+
+in numerous academic papers sponsored by that company, and what possible conflicts of interest may have 
+
+
+arisen. 
 
 
 
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+We conclude that Athenex exists to abuse capital markets and enrich its management through related party 
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+transactions and licensing deals, rather than bring revolutionary drugs into the market.   
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+Viceroy value ATNX stock at US$2.83 – a 71% downside –the sum of its tangible book value and 1x 
+
+
+valuation on its licensing & consulting revenue streams, for the year ending June 30, 2019. With ATNX’s 
+
+
+questionable license acquisitions and management’s precedent for overstated top line figures in previous 
+
+
+ventures: this is optimistic. 
+
+
+
+
+
+Viceroy remain short Athenex. 
+
+
+
+
+
+A link to Viceroy’s previous reports are as follows: 
+
+
+Report 1: 
+
+
+https://viceroyresearch.org/2019/10/22/athenex-too-little-too-late/ 
+
+
+Report 2: 
+
+
+https://viceroyresearch.org/2019/10/23/athenex-where-theres-smoke/ 
+
+
+Report 3: 
+
+
+https://viceroyresearch.org/2019/10/24/athenex-no-integrity/ 
+
+
+Report 4: 
+
+
+https://viceroyresearch.org/2019/10/25/athenex-bonus-round/   
+
+
+
+https://viceroyresearch.org/2019/10/22/athenex-too-little-too-late/
+
+https://viceroyresearch.org/2019/10/23/athenex-where-theres-smoke/
+
+https://viceroyresearch.org/2019/10/24/athenex-no-integrity/
+
+https://viceroyresearch.org/2019/10/25/athenex-bonus-round/
+Viceroy Research Group 2 viceroyresearch.org 
+
+
+1. Athenex moves into recycling 
+On October 28, 2019 Athenex released a press release titled: “Athenex Announces Progress Update from Partner 
+
+
+Almirall on Tirbanibulin Ointment”1 
 
 
  
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+Figure XX Athenex Announces Progress Update from Partner Almirall on Tirbanibulin Ointment 
+
+
+This is a complete rehash of a release dated March 4, 2019 relating to a March 2, 2019 presentation2. There is 
+
+
+no new information about the clinical trial, nor have new results come to light. The only new content on this 
+
+
+press release is the quote by Athenex Chief Medical Officer Rudolf Kwan who is either 7 months late to the party, 
+
+
+or putting on a brave face. 
+
+
+We must question the motives of rehashing a positive press release in the context of Viceroy’s publication of its 
+
+
+research into Athenex. As with Ebix, we believe this type of misleading announcements constitutes stock 
+
+
+promotion and serves to stray away from addressing any major issues we have highlighted. 
+
+
+In their defense, it may be difficult to refute allegations of related party transactions given the fact management 
+
+
+have continuously disclosed that the company frequently engages in transactions that are not at arms’-length. 
 
 
  
-Credibility Assessment: St. Jude Medical (STJ) 
+Figure XX Extract – ATNX 10Q – Q2 2019 
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+It will be curious to see Athenex’s auditors first ever internal control attestation report at the end of 2019, as 
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
-
-
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+the company falls from exemption under emerging growth company. 
 
 
  
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+Figure XX Extract – ATNX 10Q – Q2 2019 
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+In case the connections to fraud were not already apparent, Almirall has recently settled a $3.5m Department 
+
+
+of Justice and $3.1m California Department of Insurance claims relating to kickbacks and bribery of physicians 
+
+
+for the promotion of their product. Athenex aim to use Almirall for their vast sales network3. 
 
 
  
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
+1 https://web.archive.org/web/20191028084356/https://ir.athenex.com/news-releases/news-release-details/athenex-
+announces-progress-update-partner-almirall-tirbanibulin 
+2 https://www.biospace.com/article/releases/almirall-and-athenex-announce-positive-topline-results-from-two-phase-iii-
+studies-of-kx2-391-ointment-1-percent-featured-in-late-breaker-program-at-the-2019-american-academy-of-dermatology-
+annual-meeting/  
+3 https://www.fiercepharma.com/pharma/doj-secures-yet-another-pharma-kickbacks-settlement-time-from-almirall  
+
+
+
+https://web.archive.org/web/20191028084356/https:/ir.athenex.com/news-releases/news-release-details/athenex-announces-progress-update-partner-almirall-tirbanibulin
+
+https://web.archive.org/web/20191028084356/https:/ir.athenex.com/news-releases/news-release-details/athenex-announces-progress-update-partner-almirall-tirbanibulin
+
+https://www.biospace.com/article/releases/almirall-and-athenex-announce-positive-topline-results-from-two-phase-iii-studies-of-kx2-391-ointment-1-percent-featured-in-late-breaker-program-at-the-2019-american-academy-of-dermatology-annual-meeting/
+
+https://www.biospace.com/article/releases/almirall-and-athenex-announce-positive-topline-results-from-two-phase-iii-studies-of-kx2-391-ointment-1-percent-featured-in-late-breaker-program-at-the-2019-american-academy-of-dermatology-annual-meeting/
+
+https://www.biospace.com/article/releases/almirall-and-athenex-announce-positive-topline-results-from-two-phase-iii-studies-of-kx2-391-ointment-1-percent-featured-in-late-breaker-program-at-the-2019-american-academy-of-dermatology-annual-meeting/
+
+https://www.fiercepharma.com/pharma/doj-secures-yet-another-pharma-kickbacks-settlement-time-from-almirall
+Viceroy Research Group 3 viceroyresearch.org 
+
+
+2. Taivex 
+Athenex CEO Johnson Yiu Nam Lau is a busy man: especially given he is moonlighting at yet another anti-cancer 
+
+
+company, Taiwanese comapny Taivex Therapeutics (泰緯生命科技股份有限公司). Taivex’s management 
+page states it’s original investor be Taivex, LLC, a company launched by Lau in 2010. 
+
+
+
+
+
+Figure XX Taivex.com History4 
+
+
+Taivex acquired all its anticancer patents during Lau’s tenure at Athenex, raising questions as to why he didn’t 
+
+
+simply bring them into the Athenex umbrella5. Of course, he could have been planning to resell them to the 
+
+
+company for a profit, if history is any guide.  
+
+
+Taivex is still active, in April 17, 2019 Taiwan’s National Health Research Institutes entered into a licensing 
+
+
+agreement for DBPR216, an anti-cancer developmental drug candidate6. We are unable to ascertain if this 
+
+
+undisclosed activity is in breach of Lau’s employment agreement without more information on DBPR216 and 
+
+
+Taivex’s other formulations.  
+
+
+
+
+
+We are unable to ascertain if this undisclosed activity is in breach of Lau’s employment agreement without more 
+
+
+information on DBPR216 and Taivex’s other formulations. 
+
+
+Investors should be asking what Athenex’s Chief Executive Officer is doing at another anti-cancer biotechnology 
+
+
+company, especially if he finds the time to be credited in numerous academic papers sponsored by that 
+
+
+company. 
+
+
+3. PharmaEssentia 
+Our previous research has shown how Athenex’s Contract Research Organisations (CROs) ZenRx and CIDAL are 
+
+
+conflicted with incentives to produce favorable clinical trial results. Another CRO is similarly conflicted, 
+
+
+Taiwanese operator PharmaEssentia7 (TWSE:6446). PharmaEssentia is conducting clincal trials for several of 
+
+
+Athenex’s products including Oraxol for breast cancer, Oraxol + Ramucirumab for Gastric Cancer and KX-01 for 
+
+
+psoriasis.  
+
+
+There are several ties between PharmaEssentia and Athenex 
+
+
+• Athenex owns a 68,000 share equity stake in PharmaEssentia worth ~US$250,000 likely received as part 
+
+
+of certain regulatory and milestone payments 
+
+
+• Athenex receives consulting and cost-sharing funds from PharmaEssentia (include relevant amount) 
+
+
+• PharmaEssentia holds the exclusive license for development and commercialization of Oraxol and 
+
+
+Oratecan in Taiwan, Vietnam and Singapore. 
+
+
+ 
+4 https://web.archive.org/web/20191028094544/http://www.taivex.com/en/board.html 
+5 https://web.archive.org/web/20191028094355/http://taivex.com/en/news.html  
+6 http://enews.nhri.org.tw/en/?p=765 
+7 http://www.pharmaessentia.com/ 
+
+
+
+https://web.archive.org/web/20191028094544/http:/www.taivex.com/en/board.html
+
+https://web.archive.org/web/20191028094355/http:/taivex.com/en/news.html
+
+http://enews.nhri.org.tw/en/?p=765
+
+http://www.pharmaessentia.com/
+Viceroy Research Group 4 viceroyresearch.org 
+
+
+• PharmaEssentia holds the exclusive license for KX-01 and KX-02 for treating psoriasis and other non-
+
+
+malignant skin conditions in China, Taiwan, Macau, Hong Kong, Singapore and Malaysia. 
+
+
+To recap, all three major Athenex CROs have an interest in the approval and ongoing success of the products 
+
+
+they are conducting the trials for. We are currently investigating Athenex’s clinical trial relationships and will 
+
+
+keep the market informed of our research as and when it becomes relevant. 
+
+
+However even the CRO’s appear to be getting screwed by the many stumbling blocks in Oraxol’s development. 
+
+
+We previously discussed how Hanmi Pharmeceutical, after a decade of almost no progress on the Orascovery 
+
+
+platform, handballed it to Athenex for US$7.5m upfront. It appears like Athenex is now doing the same to its 
+
+
+Contract Research Organisation, PharmaEssentia. 
+
+
+ 
+Figure XX PharmaEssentia presentation8 
+
+
+PharmaEssentia originally had grand plans for Oraxol: PharmaEssentia CEO Ko-Chung Lin believed that Oraxol, 
+
+
+Oratecan and KX-01 would be available for sale “within two or three years”. 
+
+
+ 
+Figure XX 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+8 http://www.pharmaessentia.com/uploads/images/6446_20190514_法說會簡報.pdf 
+
+
+
+http://www.pharmaessentia.com/uploads/images/6446_20190514_%E6%B3%95%E8%AA%AA%E6%9C%83%E7%B0%A1%E5%A0%B1.pdf
+Viceroy Research Group 5 viceroyresearch.org 
+
+
+Attention: Whistleblowers 
+
+
+Viceroy encourage any parties with information pertaining to misconduct within Athenex, its affiliates or any other entity to 
+
+
+file a report with the appropriate regulatory body.  
+
+
+We also understand first-hand the retaliation whistleblowers sometimes face for championing these issues. Where possible, 
+
+
+Viceroy is happy act as intermediaries in providing information to regulators and reporting information in the public interest 
+
+
+in order to protect the identities of whistleblowers. 
+
+
+You can contact the Viceroy team via email on viceroy@viceroyresearch.com.  
+
+
+About Viceroy 
+
+
+Viceroy Research are an investigative financial research group. As global markets become increasingly opaque and complex 
+
+
+– and traditional gatekeepers and safeguards often compromised – investors and shareholders are at greater risk than ever 
+
+
+of being misled or uninformed by public companies and their promoters and sponsors. Our mission is to sift fact from fiction 
+
+
+and encourage greater management accountability through transparency in reporting and disclosure by public companies 
+
+
+and overall improve the quality of global capital markets. 
+
+
+Important Disclaimer – Please read before continuing 
+
+
+This report has been prepared for educational purposes only and expresses our opinions. This report and any statements 
+
+
+made in connection with it are the authors’ opinions, which have been based upon publicly available facts, field research, 
+
+
+information, and analysis through our due diligence process, and are not statements of fact. All expressions of opinion are 
+
+
+subject to change without notice, and we do not undertake to update or supplement any reports or any of the information, 
+
+
+analysis and opinion contained in them. We believe that the publication of our opinions about public companies that we 
+
+
+research is in the public interest. We are entitled to our opinions and to the right to express such opinions in a public forum. 
+
+
+You can access any information or evidence cited in this report or that we relied on to write this report from information in 
+
+
+the public domain.  
+
+
+To the best of our ability and belief, all information contained herein is accurate and reliable, and has been obtained from 
+
+
+public sources we believe to be accurate and reliable, and who are not insiders or connected persons of the stock covered 
+
+
+herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. We have a good-faith belief in 
+
+
+everything we write; however, all such information is presented "as is," without warranty of any kind – whether express or 
+
+
+implied.  
+
+
+In no event will we be liable for any direct or indirect trading losses caused by any information available on this report. Think 
+
+
+critically about our opinions and do your own research and analysis before making any investment decisions. We are not 
+
+
+registered as an investment advisor in any jurisdiction. By downloading, reading or otherwise using this report, you agree to 
+
+
+do your own research and due diligence before making any investment decision with respect to securities discussed herein, 
+
+
+and by doing so, you represent to us that you have sufficient investment sophistication to critically assess the information, 
+
+
+analysis and opinions in this report. You should seek the advice of a security professional regarding your stock transactions.  
+
+
+This document or any information herein should not be interpreted as an offer, a solicitation of an offer, invitation, marketing 
+
+
+of services or products, advertisement, inducement, or representation of any kind, nor as investment advice or a 
+
+
+recommendation to buy or sell any investment products or to make any type of investment, or as an opinion on the merits 
+
+
+or otherwise of any particular investment or investment strategy. 
+
+
+Any examples or interpretations of investments and investment strategies or trade ideas are intended for illustrative and 
+
+
+educational purposes only and are not indicative of the historical or future performance or the chances of success of any 
+
+
+particular investment and/or strategy. As of the publication date of this report, you should assume that the authors have a 
+
+
+direct or indirect interest/position in all stocks (and/or options, swaps, and other derivative securities related to the stock) 
+
+
+and bonds covered herein, and therefore stand to realize monetary gains in the event that the price of either declines.  
+
+
+The authors may continue transacting directly and/or indirectly in the securities of issuers covered on this report for an 
+
+
+indefinite period and may be long, short, or neutral at any time hereafter regardless of their initial recommendation. 
+
+
+
+
+
  
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+
+mailto:viceroy@viceroyresearch.com
+Viceroy Research Group 6 viceroyresearch.org 
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+Annexure A 
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+We believe it is fitting that re reiterate our previous summaries, and stand behind our work in its entirety, given 
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+management have decided not to address our data in specifics: 
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+Viceroy value ATNX stock at US$2.83 – a 71% downside –the sum of its tangible book value and 1x valuation 
 
 
-Page 6 of 6
+on its licensing & consulting revenue streams, for the year ending June 30, 2019. With ATNX’s questionable 
+
+
+license acquisitions and management’s precedent for overstated top line figures in previous ventures: this is 
+optimistic. 
+
+
+Management – A Company of Rogues 
+
+
+▪ Several members of Athenex’s management team have a history of what appears to be either gross 
+
+
+incompetence in fiduciary duties or clever mismanagement in infamous frauds internationally, 
+
+
+collectively resulting in billions of dollars of write-offs including Sino Forest and Suntech.  
+
+
+▪ ATNX directors have also acted as sellers and drop-shippers to rip off Athenex shareholders with margin-
+
+
+stealing exercises through their investment entity: Avalon Global. Cash has consistently exited the 
+
+
+business via similar related party deals.  
+
+
+▪ Breaches in corporate governance principles: Athenex directors screwed investors by purchasing CDE for 
+
+
+themselves and flipping it to Athenex for a 262% profit in 6 weeks. The company failed to report the 
+
+
+circumstances of the transaction in any meaningful way. 
+
+
+▪ In a separate instance, Directors pocketed a 3,300% profit by flipping an “anti-cancer mechanism” license 
+
+
+to Athenex for US$5m, for which they paid just US$150,000 just 6 months earlier.  
+
+
+▪ Directors award themselves millions of dollars’ worth of stock at no cost through the issuance of 
+
+
+promissory notes that are cancelled on a time-vested basis.  
+
+
+▪ Athenex directors have an uncanny ability to avoid any disclosure or reference to their involvement in 
+
+
+historical fraud or related party deals. It's Viceroy's view that if investors were aware, they would not 
+
+
+have bought $ATNX in the first place.    
+
+
+▪ Athenex’s CFO J. Nick Riehle left unexpectedly for a “planned” retirement, just 10 months after joining the 
+
+
+company but is now seeking work as a consultant. 
+
+
+▪ Our investigations have found ties between Polymed and its management team’s ties to the largest taxol 
+
+
+smuggling ring in history Hande Yunnan, resulting in 50 arrests and 32 imprisonments. Major perpetrators 
+
+
+and shareholders of this scheme now work for Athenex.   
+
+
+▪ Polymed appears to continue sourcing its taxol from Hande Yunnan, despite the fact that our investigations 
+
+
+show Hande Yunnan no longer produce taxol. 
+
+
+▪ Further inspection of Polymed’s management show inconsistencies in prior executive roles, specifically of 
+
+
+William Zuo. Zuo was also the US liaison of bringing smuggled taxol to the USA. 
+
+
+▪ A deep dive into Chinese regulatory notes from the Ministry of Emergency Management, coupled with 
+
+
+Polymed’s history of objectionable site inspections by Chinese regulators and the FDA, lead us to believe 
+
+
+that Polymed’s manufacturing facility suspension was anything but voluntary. In any event, Athenex’s 
+
+
+manufacturing facility does not manufacture anything. 
+
+
+▪ Viceroy dismantles photoshopped Polymed advertisements for its facilities and expose chemical 
+
+
+manufacturing facilities we believe are non-existent or outsourced.
+Viceroy Research Group 7 viceroyresearch.org 
+
+
+Oraxol – Flagship or Shipwreck? 
+
+
+Athenex has been reliant on the marketed prospect of Oraxol in order to obtain access to capital, having 
+
+
+received going concern qualifications from Deloitte since 2016 and current yearly cash-burn rates of ~$100m. 
+
+
+The company has raised ~US$360m in equity and US$80m in debt since 2017. Even if R&D costs are removed 
+
+
+from the equation, Athenex’s licensing and consulting segments are operationally loss-making.  
+
+
+▪ After consultation with industry specialists and oncologists, Viceroy believes Athenex’s flagship paclitaxel 
+
+
+drug, Oraxol, cannot compete with the current standard of care available in the USA.   
+
+
+▪ Oraxol’s clinical trial’s control dosing regimen of IV paclitaxel as monotherapy is an outdated treatment 
+
+
+schedule dating from the 1990’s.  
+
+
+▪ Oraxol’s marketed quality of life improvements are redundant. Patients will still require IV /treatment 
+
+
+post-treatment, alongside complications from oral treatment.  
+
+
+▪ Oraxol’s side effects appear more severe than those of the current US standard of care, Abraxane, and may 
+
+
+require hospitalization due to their life-threatening nature. Reported adverse effects grade 4 neutropenia, 
+
+
+grade 3 vomiting and unspecified GI complications were more severe than IV paclitaxel intake.  
+
+
+▪ None of Oraxol’s clinical trials have included a US patient component. While the FDA does allow data 
+
+
+overseas trials, these results are treated with much higher scrutiny. Viceroy believe ATNX studies are being 
+
+
+conducted in South America due to a lower local standard of care: US patients could not be enticed to trial 
+
+
+a drug against an outdated active control regimen.   
+
+
+▪ Athenex’s Orascovery program – key to its marketed value proposition – was purchased for just US$7.5m 
+
+
+upfront in 2011 after its previous owner experienced decade-long development delays with little headway 
+
+
+into development. The Orascovery platform is busted.  
+
+
+▪ Through consultation with experts, we believe Athenex’s pursuit of the 505b(2) pathway for Oraxol will be 
+
+
+hampered by the fact that its paclitaxel delivery mechanism, HM30181A, has never been approved by the 
+
+
+FDA. The FDA may require Athenex to pursue a further NDA for HM30181A. 
+
+
+▪ Viceroy have identified what we believe to be Intellectual Property Theft from UK company Immunocore.  
+
+
+XLifeSc’s flagship technology (in which ATNX put $35m upfront) may already be owned by GSK and further 
+
+
+along the development pipeline: GSK’s solution is currently undergoing phase 2 trials in the US. 
+
+
+Athenex’s operational and R&D cash-burn rate is over US$100m a year – the company would be lucky to survive 
+
+
+until HY 2020 without needing a further cash injection from investors. Even if Athenex scrapped its R&D 
+
+
+completely, the company’s revenue streams operate at a substantial loss. 
+
+
+Accordingly, we believe our valuation of $2.83 is optimistic, and will be realized in the short term. We do not 
+
+
+see a future for the company in its current state.

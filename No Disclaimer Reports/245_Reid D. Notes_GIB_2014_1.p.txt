@@ -1,1875 +1,497 @@
-Muddy Waters Capital, LLC 
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
 
 
- info@muddywatersresearch.com 
-Director of Research:  Carson C. Block, Esq.	
-  
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 1/12
 
 
+CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part
+1)
+Top Idea | Jan. 15, 2014 3:00 PM ET6 comments
+by: Reid D. Notes
 
 
+Please read our disclosure at the end of this entry. All figures in CAD unless noted
+otherwise.
 
 
+This is the first in a series of entries on CGI Group, Inc. (NYSE:GIB) in which we will
+explore CGI's financial disclosures, prospects for growth, and valuation. We are short
+CGI's stock.
 
 
-Terms of Service: 
+In this entry, we introduce CGI's Logica acquisition and explain a set of accounting
+techniques that the SEC has referred to as "cookie jar" accounting.
 
 
-By downloading from, or viewing material on, this website you agree to the following Terms of Service. You agree that use 
-of the research on this website is at your own risk. In no event will you hold Muddy Waters LLC, Muddy Waters Capital 
-LLC, or any affiliated party liable for any direct or indirect trading losses caused by any information on this site. You further 
-agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, 
-analysis and opinion on this site. You further agree that you will not communicate the contents of this report to any other 
-person unless that person has agreed to be bound by these same terms of service. If you download or receive the 
-contents of this report as an agent for any other person, you are binding your principal to these same Terms of Service. 
+We also suggest investors read a recent article about CGI's accounting written by Bethany
+McLean and published by Vanity Fair. In the article, McLean compares CGI's accounting
+with techniques that were used at Tyco International Ltd. before Tyco was investigated by
+the SEC. McLean is a respected financial journalist who became well-known for her
+reporting on accounting issues at Enron.
 
 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC 
-(possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our 
-clients and/or investors and/or their clients and/or investors has a short position in all stocks (and/or options, 
-swaps, and other derivatives related to the stock) and bonds covered herein, and therefore stands to realize 
-significant gains in the event that the price of either declines. We intend to continue transacting in the securities 
-of issuers covered on this site for an indefinite period after our first report, and we may be long, short, or neutral 
-at any time hereafter regardless of our initial position and views as stated in our research. 
+CGI and the Logica acquisition
 
 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any 
-security to or from any person through this site or reports on this site. Muddy Waters Capital LLC is not registered as an 
-investment advisor in any jurisdiction. 
+CGI ("CGI" or the Company) is, by market cap, the largest publicly-traded technology
+company listed in Canada. The Company is an IT and business process services provider
+that has become famous for its involvement as the lead contractor for the healthcare.gov
+website. (The Washington Post reported last week that the Obama administration decided
+to replace CGI because the Company "had not been effective enough in fixing… the
+federal website.")
 
 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an 
-investment professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) 
-Order 2005 (the “FPO”); or (b) high net worth entity falling within Article 49 of the FPO. 
+Since its founding in 1976, CGI has acquired over 70 companies, including the consulting
+business of Bell Canada in 1998, AMS in 2004, and Stanley Inc. in 2010. In August of
+2012, CGI paid a 60% premium for Logica PLC's common shares, valuing Logica's
+enterprise at roughly $3.6 billion. Logica had not earned its cost of capital for years prior to
+the takeover.
 
 
-Our research and reports express our opinions, which we have based upon generally available information, field research, 
-inferences and deductions through our due diligence and analytical process. To the best of our ability and belief, all 
-information contained herein is accurate and reliable, and has been obtained from public sources we believe to be 
-accurate and reliable, and who are not insiders or connected persons of the stock covered herein or who may otherwise 
-owe any fiduciary duty or duty of confidentiality to the issuer. However, such information is presented “as is,” without 
-warranty of any kind, whether express or implied. Muddy Waters Capital LLC makes no representation, express or 
-implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be 
-obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion. All 
-expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not undertake to update 
-or supplement any reports or any of the information, analysis and opinion contained in them. 
+The Logica acquisition was a milestone for CGI. We estimate that over 90% of CGI's
+European revenues come from operations that were part of Logica before the acquisition,
+and the Company's revenues have more than doubled since the acquisition.
 
 
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information 
-(whether the downloaded file, copies / images / reproductions, or the link to these files) in any manner other than by 
-providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained Muddy Waters Capital 
-LLC research in any manner other than by download from that link, you may not read such research without going to that 
-link and agreeing to the Terms of Service. You further agree that any dispute arising from your use of this report and / or 
-the Muddy Waters Research website or viewing the material hereon shall be governed by the laws of the State of 
-California, without regard to any conflict of law provisions. You knowingly and independently agree to submit to the 
-personal and exclusive jurisdiction of the superior courts located within the State of California and waive your right to any 
-other jurisdiction or applicable law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy 
-Waters Capital LLC to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of 
-this right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, 
-the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the 
-provision and rule that the other provisions of these Terms of Service remain in full force and effect, in particular as to this 
-governing law and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or 
-cause of action arising out of or related to use of this website or the material herein must be filed within one (1) year after 
-such claim or cause of action arose or be forever barred. 
-
-
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as 
-follows.  To be authorized to access such reports, you must agree to these terms, regardless of 
-whether you have downloaded its reports directly from this website or someone else has 
-supplied the report to you without authorization from Muddy Waters.   
-	
-  
-
-
-Page 1 of 22
-When Genius Fails 
- 
- 
-Report Date: December 16, 2015 
- 
-Company:  
-Groupe Casino Guichard-Perrachon SA 
- 
-Ticker:  
-CO FP 
- 
-Industry: General Retail 
- 
-
-
- 
-Estimated Value (€): 6.91 / share 
-
-
-  
-Stock Price (€): 48.97 
-
-
- 
-Market Cap (€): 5.66 billion 
-
-
- 
-Float: 56.5m 
-
-
- 
-Avg Volume: 724,000 
-
-
- 
- 
-Groupe Casino (CO FP) is one of the most overvalued and misunderstood companies we 
-have ever come across.1  The basic problem with Casino is that its financial statements 
-are literally meaningless to understanding the company’s (poor) health.  They do not 
-distinguish between what Casino owns and what it owes.  (Spoiler: we estimate Casino’s 
-LTM leverage ratio at 8.9x.)  
- 
-Casino’s controlling shareholder Jean-Charles Naouri is a genius.  He won first prizes in 
-France’s high school Latin and Greek exams, completed his baccalaureate degree at 15, 
-and earned a PhD in math in only one year.  Like the geniuses who founded the hedge 
-fund Long-Term Capital Management, which spectacularly collapsed, Mr. Naouri has an 
-affinity for leverage.  One would expect Casino to be a relatively boring hypermarket 
-retailer; however, together with its parent, Rallye SA (RAL FP), Casino increasingly 
-resembles a highly levered hedge fund.  One example is Casino’s total return swaps on 
-listed equities, which we estimate have a mark-to-market loss of approximately €500 
-million. 
- 
-Casino and Rallye are now experiencing their version of a “six sigma event”, with 
-emerging markets (80% of consolidated EBITDA) unwinding, currencies selling-off, and 
-a sharply deteriorating core business.  Casino obfuscates these problems by (i) adding 
-complexity to its already convoluted structure and financials, (ii) engaging in financial 
-engineering to improve the optics of its financials, and (iii) by hollowing out the 
-productive value of the businesses in order to keep Rallye from collapsing.   
- 
-Our report peels away many layers of the onion to show that Casino is dangerously 
-leveraged, and is being managed for the very short-term.  We explain that Casino’s shares 
-are worth as little as €6.91, and correspondingly, the shares of Rallye are likely going to 
-zero.  If Casino trades at our estimated value of €6.91, the recovery on Rallye’s bonds 
-should be about €0.15.    
- 
-Key Findings 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 The full legal name of the listed company is Groupe Casino Guichard-Perrachon SA. 
-
-
-Page 2 of 22
-We are short shares of France-based retail conglomerate Casino (CO FP) because their 
-value could be as little as €6.91 per share, which is 86.2% lower than its last close.  We 
-are short Casino’s credit, which S&P rates BBB-, because we estimate Casino’s LTM 
-adjusted leverage is 8.9x, and the parent has €3.3 billion in maturities coming due 
-through 2017.2  We are short shares of Casino’s parent and largest shareholder Rallye SA 
-(RAL FP) because we value them at zero.  We are short the credit of Rallye because we 
-consider a default probable in the next two years.   
- 
-Our base case value for Casino shares is €6.91.  This is based on estimates of LTM 
-numbers.  Casino’s financial statements greatly mislead investors about the value of 
-Casino’s equity.  Casino management then obfuscates and refuses to release key 
-clarifying information, thereby continuing the misperception of value that is clear to 
-insiders.  On the surface, Casino appears to be prudently managed with moderate 
-leverage (net debt to EBITDA) of only 3.0x.  Unfortunately, Casino shareholders have far 
-less cash and cash flow to meet those obligations than it appears.   
- 
-Casino has only fractional ownership in a number of businesses that it fully consolidates.  
-That is, even though Casino only owns portions of these businesses – in one case only 
-14.2% – Casino reports their results as though they were its own.  Casino then borrows 
-against these numbers.  The concept is similar to a trustee of someone else’s trust taking 
-the trust’s account statements to the bank and getting a loan based on the assets.  (The 
-trustee would obviously be acting illegally; Casino’s accounting is legal.)  We estimate 
-Casino’s LTM leverage ratio is 8.9x.3  Ideally, a company consolidating results of 
-proportionally-owned companies has the debt spread out among the consolidated 
-companies.  That is not the case with Casino – there is a massive gap between what is 
-owned, and what is owed.  Casino owns only 49% of the estimated LTM EBITDA, but 
-owes 93% of adjusted net debt.   
- 
-Casino’s leverage, compounded by the massive debt at its parent, RAL, is causing 
-management to hollow out the productive value of Casino.  Even though Casino realized 
-€1.7 billion by cramming an abusive transaction down the throats of one of the 
-companies it consolidates, Almacenes Exito SA, parent-level and consolidated cash have 
-both dropped precipitously while debt has climbed.  Casino’s consolidated subsidiary 
-GPA is one of the largest tax dodgers in Brazil, according to the government’s official 
-list.  Casino guarantees this liability for up to € 3 billion.  (Our debt and leverage 
-calculations do not include this contingent liability.)   
- 
-A bulge bracket bank raised the possibility that Rallye becomes a zero – in a recent note, 
-the bank estimated that if Casino shares hit €46, then Rallye has no equity value left.  We 
-see the Casino deleveraging “plan” that was announced December 15th as an empty, and 
-desperate ploy to buy time for Rallye by trying to prop up Casino’s price.  (Casino had 
-previously closed at €45.995.)   
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-2 €1.9 billion of commercial paper, estimated €500 million of TRSes, €379 million of 2016 bonds, €538 
-million of 2017 bonds. 
-3 We explain the basis for the adjustments and estimates in detail in the report.   
-
-
-Page 3 of 22
-The deleveraging “plan” is clearly shambolic.  The press release read that the 
-deleveraging would be accomplished through asset sales.  But when Casino held the call 
-to explain the announcement, the CFO repeatedly stated that sale proceeds might be used 
-for dividends or capital expenditures.  When analysts asked pointed questions and 
-pressed on where Casino would get the money to deleverage, the CFO made vague 
-statements about France free cash flow rising substantially from its present level, which 
-seems to be about zero.  We estimate that debt is € 10.9 billion, and the France 
-subsidiaries just below the parent have net cash of € 1.7 billion.  The notion that a 
-company with this little free cash flow, and that is using asset sales for other purposes, 
-and somehow burning substantial amounts of cash in ways that have not been explained, 
-can pay off meaningful amounts of debt over the next year is astonishing.  
- 
-
-
-I. The fundamental problem with Casino 
- 
-The basic problem with Casino is that its financial statements are literally meaningless to 
-understanding the company’s (poor) health.  It has about half the EBITDA its financials 
-show, but almost all of the debt.   
- 
-For the LTM period, it appears as though Casino has EBITDA of €2.6 billion.  However, 
-its true economic ownership (“proportional”) EBITDA really is only €1.4 billion.4  To 
-eliminate the income inflation of financial engineering, EBITDA likely should be further 
-adjusted downward by approximately €165 million to €1.2 billion.5   
- 
-While Casino’s financials overstate EBITDA by an estimated 100%, the portrayal of the 
-debt is much more accurate.  Casino’s real net debt is approximately 93% of the amount 
-shown on the consolidated financials.  In other words, while Casino’s chairman wrote in 
-the 2014 annual report Casino’s balance sheet was “strong” and its leverage ratio was a 
-conservative 1.8x, a leverage calculation based on debt and EBITDA actually owned by 
-Casino, along with estimated adjustments to offset financial engineering profits, results in 
-a leverage ratio at that time of 6.1x.  (Note the substantial deterioration in our estimated 
-leverage ratio since then.) 
- 
-Casino’s financials are so misleading because it consolidates financials of businesses in 
-which it has only fractional stakes.  For example, while Casino only owns 14.2% of Latin 
-America electronics retailer Via Varejo it consolidates the entire amount of Via Varejo’s 
-EBITDA, which on a LTM basis accounted for approximately 21% of Casino’s overall 
-reported EBITDA. 6  Casino fully consolidates the financial statements of this business 
-because accounting standards require a company to fully consolidate results of companies 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-4 The LTM period is through June 2015 for Casino-France Retail and BigC Vietnam, and through 
-September 2015 for the other business segments, based on public filings for CBD, Exito, Via Varejo, BigC 
-Thailand, and Cnova. 
-5 See Section IV. 
-6 Casino owns a 50% interest in a holding company that owns 37.5% of CBD, which owns 43.3% of Via 
-Varejo. Casino also directly owns 3.7% of CBD and 54.8% of Grupo Exito. Grupo Exito owns the other 
-50% of the holding company that owns CBD. This results in Casino owning 14% of Via Varejo through its 
-32.73% ownership of CBD. 
-
-
-Page 4 of 22
-over which it exercises control.  However, consolidation does not confer rights to cash 
-flows.  Dividends are distributed in proportion to the actual ownership of the business. 
-Casino has an indirect stake in Via Varejo through its 32.73% ownership of common 
-shares of CBD.  The non-controlling shareholders of CBD largely own preferred 
-common shares.7  Preferred common shares are better protected than common shares 
-when it comes to dividend payments, dissolution of the business, and also have 
-withdrawal rights that can force Casino to buy the preferred shares in certain situations.8 
-
-
-The bar graph below shows the difference between the consolidated EBITDA Casino 
-reports, and what it proportionally owns.9 
-
-
- 
- 
-* LTM estimates based on September 30th results where available, and June 30th results 
-where not. 
- 
-  
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-7 CBD Form 20F 2014, p. 73. 
-8 CBD Form 20F 2014, p. 87. 
-9 Note that these are LTM estimates, gleaned from a combination of September 30th and June 30th reports. 
-
-
-€2,450 
-
-
-€1,210 
-
-
-€0 
-
-
-€500 
-
-
-€1,000 
-
-
-€1,500 
-
-
-€2,000 
-
-
-€2,500 
-
-
-€3,000 
-
-
-Consolidated EBITDA Proportional EBITDA 
-
-
-Casino Consolidated v. Proportional 
-EBITDA LTM* 
-
-
-in millions of Euro 
-
-
-Page 5 of 22
-These bar graphs show the EBITDA that 
-Casino consolidates by entity, along with 
-Casino’s economic (or “proportional”) 
-ownership of EBITDA. Note: Charts for 
-Casino’s operations in France Retail and 
-BigC Vietnam are not included because 
-these are 100% owned. 
-
-
-
-
-
-€816 
-
-
-€267 
-
-
-€0 
-€200 
-€400 
-€600 
-€800 
-€1,000 
-
-
-Consolidated 
-EBITDA 
-
-
-Proportional 
-EBITDA 
-
-
-CBD/GPA Consolidated v. 
-Proportional EBITDA LTM Sep 
-
-
-2015 
-in millions of Euro 
-
-
-€500 
-
-
-€71 
-
-
-€0 
-€100 
-€200 
-€300 
-€400 
-€500 
-€600 
-
-
-Consolidated 
-EBITDA 
-
-
-Proportional 
-EBITDA 
-
-
-Via Varejo Consolidated v. 
-Proportional EBITDA LTM Sep 
-
-
-2015 
-in millions of Euro 
-
-
-€347 
-
-
-€203 
-
-
-€0 
-
-
-€100 
-
-
-€200 
-
-
-€300 
-
-
-€400 
-
-
-Consolidated 
-EBITDA 
-
-
-Proportional 
-EBITDA 
-
-
-BigC Thailand Consolidated v. 
-Proportional EBITDA LTM Sep 
-
-
-2015 
-in millions of Euro 
-
-
-€255 
-
-
-€140 
-
-
-€0 
-€50 
-€100 
-€150 
-€200 
-€250 
-€300 
-
-
-Consolidated 
-EBITDA 
-
-
-Proportional 
-EBITDA 
-
-
-Exito Consolidated v. Proportional 
-EBITDA LTM Sep 2015 
-
-
-in millions of Euro 
-
-
-€8 
-
-
-€4 
-
-
-€0 
-
-
-€2 
-
-
-€4 
-
-
-€6 
-
-
-€8 
-
-
-€10 
-
-
-Consolidated 
-EBITDA 
-
-
-Proportional 
-EBITDA 
-
-
-Cnova Consolidated v. 
-Proportional EBITDA LTM Sep 
-
-
-2015 
-in millions of Euro 
-
-
-Page 6 of 22
-Below is a graph comparing reported leverage to economic, adjusted leverage.10  This is 
-the real issue with Casino – it has far more debt to enterprise value than investors realize. 
-
-
- 
- 
-*Casino’s reported LTM leverage is as of June 30th; MWC LTM leverage is as of September 30th for 
-consolidated companies that report quarterly, blended with parent reporting as of June 30th. 
- 
-Deconstructing Casino’s Economics is Cumbersome 
- 
-It takes a lot of time and effort to sort through all of the data to back out what really 
-belongs to Casino.  Accounting standards mandate consolidation when there is effective 
-control of a company, but we have never seen consolidation practices lead to such an 
-egregious misrepresentation of financial health.  Credit ratings analysts are fooled by 
-Casino’s presentation and mistakenly estimate proportional leverage at 4x, which is why 
-Casino has to date been rated as investment grade.11  As a result of this complexity, 
-investors, lenders, and ratings analysts have completely misjudged Casino’s value, health, 
-and risk.  We expect Casino to re-rate. 
-
-
- 
-To deconstruct the financial statements into its component parts so that a proportional 
-EBITDA number can be calculated, as well as to understand the composition of debt and 
-cash at each of the underlying businesses, we start with the consolidated financial 
-statements for Casino Group and the Casino Parent.  Then we analyze public filings from 
-consolidated listed companies in which Casino owns a partial interest. These entities are:  
-CBD, Via Varejo, Grupo Exito, BigC Thailand, and Cnova.  Casino also provides 
-segment reporting for the French retail segment, the listed entities and BigC Vietnam on 
-an annual and semi-annual basis.  Once the business segments have been deconsolidated 
-the legal ownership for the respective business can be applied to calculate a proportional 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-10 Adjustment for likely France retail EBITDA inflation of €165 million through related party transactions. 
-11 S&P RatingsDirect Report on Casino Guichard-Perrachon & Cie S.A., December 11, 2015, p. 4 
-
-
-3.00x 
-
-
-8.90x 
-
-
-0.00x 
-1.00x 
-2.00x 
-3.00x 
-4.00x 
-5.00x 
-6.00x 
-7.00x 
-8.00x 
-9.00x 
-
-
-10.00x 
-
-
-Casino Published MWC Proportional 
-
-
-Casino Reported LTM Leverage vs. 
-MWC LTM Leverage*  
-
-
-Page 7 of 22
-financial metric (EBITDA, debt, cash, etc.). The below table sets forth the ownership 
-interests Casino has in its core businesses that are 100% fully consolidated on its 
-financial statements. 
-
-
-
-
-
-The above shows what the parent owns.  However, it is a bit misleading in that CBD 
-already consolidates Via Varejo and GPA (see Appendix 1).  Therefore, when valuing 
-these two entities in Section VI, we do not place separate values on them because those 
-values are captured in CBD’s enterprise value.  It is also important to note that all debt at 
-the listed companies is already factored into the equity prices, which is why it is 
-important to de-consolidate the debt and cash for valuation purposes. 
- 
-The next issue is determining what the parent owes.  The following table allocates debt 
-and cash between the listed consolidated subsidiaries and the wholly owned entities. 
- 
-
-
- 
- 
-In our Equity Valuation Section VI, we use €9.2 billion as the net debt figure. 
- 
-
-
-II. Casino’s €2 billion Deleveraging Sham 
- 
-On December 15th, Casino issued a press release titled “Casino Group Decides to 
-Strengthen its Financial Flexibility with a Deleveraging Plan above € 2BN in 2016”.  
-While the company stated the board developed this “plan” as part of its annual strategic 
-
-
-Page 8 of 22
-review, it is clear that it had not been thought through.  Casino’s CFO, Antoine Giscard 
-D’Estaing, was unable to explain how the asset sales will occur, expected prices or 
-valuations, or the tax implications.  Despite trumpeting this as a “deleveraging”, Mr. 
-Giscard D’Estaing was also unable to explain how proceeds would be upstreamed to pay 
-off debt.  He added to the confusion by holding out the possibility the proceeds might be 
-used for dividends or even local investments.   
-
-
-When pressed on the contradictions between deleveraging and paying anybody other than 
-creditors, he implied that hugely improved internal cash flow could close the gap.  
-Although Mr. Giscard D’Estaing was careful not to offer any of his own guidance, he 
-helpfully pointed out that “some analysts” are forecasting France EBITDA to grow by 
-€100 million to €150 million in 2016.  Mr. Giscard D’Estaing also let listeners know that 
-“some analysts” are forecasting that France FCF will grow from its “close to zero” level 
-today to €200 million to €300 million next year.12   However, he did not mention that 
-other analysts (including ourselves) have repeatedly asked the company whether France 
-EBITDA and FCF have been inflated through the asset sale transactions with related 
-party Mercialys.  (Spoiler: we estimate Casino used these transactions by definition to 
-inflate 2014 and LTM EBITDA by € 140 million and € 165 million.)  Because Casino 
-either repurchases or leases back these properties, they are effectively just financing – 
-i.e., they should never be included in EBITDA or have valuation multiples applied to 
-them.   
-
-
-Casino investors heard a similar story about six months ago when the company 
-announced a €1.7 billion deleveraging transaction by force-feeding some assets to Exito 
-largely at an above market price.  Exito investors, whose shares have declined by 37.5% 
-since the announcement, might be surprised to learn that we estimate Casino’s 
-proportional net debt grew from €9.7 billion to €10.8 billion from FY 2014 through 30-
-September, while economic ownership in these assets fell.  This growth in net debt is also 
-despite the (not as well publicized) €607 million of asset sales to related party Mercialys 
-during the same period. We encourage investors to again make Mr. Giscard D’Estaing 
-uncomfortable by insisting he explain where these “deleveraging” proceeds have gone.  
-
-
-The table below shows the aftermath to Exito of Casino’s “value creating” transaction, in 
-relation to its Bloomberg LatAm comps. 
-
-
- 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-12 Mr. Giscard D’Estaing stated “So some analysts have forecast at this stage of an improvement from a 
-level [of FCF] which is close today to a 0,…” 
-
-
-Page 9 of 22
-Cynics might think that Casino did not have a real deleveraging plan to announce this 
-week, and that they had ulterior motives for issuing the press release.  Casino stock had 
-closed the day before at €45.99.  In a recent note, a bulge bracket bank estimated Rallye’s 
-value at zero when Casino trades at €46.  Rallye management touts that it has €1.8 billion 
-of borrowing capacity (at Rallye).13  These borrowings require Rallye to pledge Casino 
-shares to secure borrowings.14   
-
-
-III. Hollowing Out to Sustain Liquidity 
- 
-To maintain liquidity, Casino resorts to hollowing out the business through asset sales 
-that destroy the productive value of the company.  Casino’s free cash flow appears to fall 
-well short of debt service requirements at Casino and at its parent, Rallye SA (RAL FP).  
-Rallye is Casino’s largest shareholder, and controls the company.  Rallye has effectively 
-become a parasite because it has borrowed so much against the dividend stream it 
-anticipated receiving from Casino.  (Rallye has € 2.8 billion net debt, compared to a 
-market cap of only € 731.7 million.15)  The problem now is that free cash flow from 
-Casino’s deteriorating businesses cannot sustain the dividends Rallye requires to service 
-its mountain of debt.   
- 
-We estimate that in 2014, Rallye incurred interest expense of approximately €95 million.  
-Because substantially all of Rallye’s cash flows come from Casino dividends, Casino has 
-to dividend out roughly twice that amount for Rallye to service its debt.  Casino guides 
-that annual interest expense in France is roughly € 150 million.  (Note that a rough 
-calculation based on bonds outstanding generates annual interest in excess of €300 
-million.  The lower number is apparently due to an interest rate swap.  We are unable to 
-understand how an interest rate swap would have this profound an affect on France 
-interest.)  The interest expense on the perpetual securities, which must be paid in order 
-for Casino to pay dividends, is approximately €50 million.  Therefore, Casino’s de facto 
-financing obligations roughly total at least €425 million annually, and we would expect a 
-number close to €600 million without the quixotic interest rate swaps.  We estimate that, 
-and Mr. Giscard D’Estaing confirmed during the December 15th call, Casino’s France 
-free cash flow is approximately zero at present.  The bleak math here is not hard.   
- 
-Mr. Naouri is thus faced with a choice between bad and worse.  “Worse” to him is to 
-cease Casino’s dividends and let Rallye collapse.  If Rallye collapsed, he would lose most 
-if not his entire Casino holding.  “Bad” is to suck as much cash out of Casino as possible 
-in order to pay Rallye interest, even though that means value destructive asset sales, 
-leveraging up Casino subsidiaries, and prioritizing dividends over prudent financial and 
-debt management.  Absent a substantial improvement in the business, this modus 
-operandi could impair recovery value for Casino bondholders.  Given our estimate of 
-proportional leverage of 8.9x, Casino should think long-term, stop selling assets to pay 
-dividends, and use free cash flow to reduce proportional leverage.  
- 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-13 Rallye Annual Report 2014, p. 181. 
-14 Email from Rallye investor relations 
-15 Source: S&P Capital IQ. 
-
-
-Page 10 of 22
-It is unfortunate to see Casino put its wholly owned BigC Vietnam business up for sale.  
-While Mr. Giscard D’Estaing tried to dismiss BigC Vietnam as only 2.5% of 
-international revenue, he did offer that it is growing at a mid-teens rate with EBIT 
-margins approximately 5.5%.  BigC Vietnam is exactly the type of business Casino 
-shareholders want to own.  Selling this business clearly illustrates that Casino is 
-liquidating – not growing.  The venality of Casino’s management further underscored by 
-Exito’s planned sale of stakes in its malls. Consider how poor the commercial real estate 
-market in Colombia is right now: is definitely not selling into strength.  
- 
-As investors who are short Casino’s stock we would love to see Casino liquidate all of its 
-assets. Reason being, our valuation indicates that the sum of the parts of Casino’s assets 
-are worth only €6.91 per share  
- 
-
-
-IV. Casino Likely Inflates France EBITDA to Disguise Deterioration 
- 
-
-
-Casino’s France retail June 2015 LTM EBITDA was likely inflated by real estate 
-transactions with Mercialys by up to €165 million. Casino sold €607 million in real estate 
-to Mercialys between January 1, 2014 and June 30, 2015. 16   We estimate these 
-transactions generated accounting net gains on sale of €218 million.17  We believe these 
-gains have been accounted for in a manner that inflates EBITDA.  Regardless of whether 
-these gains are included in EBITDA, the fact that Casino generally either leases or buys 
-back these properties makes these sales de facto financing transactions.  To the extent 
-Mercialys pays prices that generate gains on sales for Casino, presumably it is because 
-Casino is going to effectively repay Mercialys (either through lease or purchase), making 
-the entire concept of gains on sale spurious.   
- 
-It is our understanding that these sales are largely of stores where due to shrinkage of 
-Casino’s business, there is now excess space.   Casino sells the locations to Mercialys, 
-which then downsizes the Casino store footprint and reconfigures the excess space for 
-lease or sale to third parties.  Casino has a repurchase or lease option for the downsized 
-location. 
- 
-On a LTM basis, our estimate of likely EBITDA inflation from these transactions is €165 
-million.  If we are largely correct about the inflation of France retail EBITDA, it means 
-that the core business in France has been in a significant decline since 2013. 
- 
-
-
- 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-16 Groupe Casino 2014 Registration Document, p.47 and Groupe Casino Interim Financial Report, 30 June 
-2015, p. 28.. 
-17 See Table: Analysis of Casino-Mercialys Real Estate Transactions 
- 
-
-
-Page 11 of 22
-To estimate these numbers, we first backed into the gains on sale in each period.  We did 
-this by finding the disclosures on the “neutralisation” for the gains on sales to Mercialys.  
-Because Casino owns 40.25% of Mercialys, Casino makes an accounting adjustment to 
-avoid flowing 40.25% of the gain on sale to Casino’s balance sheet.  The neutralisations 
-were €36 million, €94 million, and €38 million respectively in H1 2014, FY  2014, and 
-H1 2015.  Dividing each neutralisation by 40.25% yields the total gain on sale.   
- 
-To find the amount of gain on sale that Casino booked, we subtracted the neutralisation 
-from the aggregate gain on sale.  In H1 2015, Casino also reported €22 million in gains 
-on sale from Mercialys selling properties to an affiliate, Hyperthetis Participations.  The 
-results are as follows: 
- 
-Table: Analysis of Casino-Mercialys Real Estate Transactions 
-
-
- 
- 
-We believe that substantially all of these gains are included in EBITDA.  We recently 
-emailed Casino’s director of investor relations the following question: 
- 
-
-
-“I read the CFO's comments in the earnings transcripts and spoke [to] some of the 
-equity analysts who told me that the gain on sale is included in French EBITDA, 
-can you please confirm.” 
- 
-
-
-We received a reply that appears to confirm Casino includes such gains in EBITDA: 
- 
-
-
-“If you mean by “gain on sale” the gain from real estate promotion (i.e. the selling 
-of walls/sites + rights to build attached and one day the option to buy back the 
-walls of the shrunken stores) yes it is included in the EBIT/EBITDA” 
-
-
- 
-The aforementioned answer is not as clear as it could be, which is consistent with 
-Casino’s muddling on this issue.  On the October 15, 2015 Casino earnings call, an 
-analyst asked Mr. Giscard D’Estaing to quantify the gains on sale flowing through 
-EBITDA.18  Mr. Giscard D’Estaing’s response was lengthy and failed to address the 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-
-
-18 The question was “…I think traditionally, your French EBIT include a bit of a capital gain from 
-property-related transactions.  Could you provide us with a number, how much of these capital 
-
-
-Page 12 of 22
-question, other than to say the company does not disclose the “exact number”, but that 
-the numbers are fairly consistent from year-to-year.  There is one portion of the response 
-we found interesting for its defensiveness: 
- 
-
-
-“…The very important message here is, there is value creation here, both for the 
-owner of the stores, the parkings and I think where new activity is created, this is 
-us and there is value creation as well from Mercialys.  So the message here is we 
-expect these renovations to continue and we expect to generate some profits from 
-these projects in the future as well.  I think in the interest of the investor 
-community, we might organize, together with Régine and the team of Mercialys, 
-a site visit so people realize that this is not financial engineering…”19 
- 
-
-
-Regardless of the denial, booking gains from sale on these transactions seems exactly like 
-financial engineering.   
- 
-The disclosure of Casino’s treatment of the proportional gains on sales from Mercialys to 
-Hyperthetis is consistent with our belief that Casino flows substantially all of its real 
-estate gains through EBITDA: 
- 
-
-
-“Mercialys created the company Hyperthetis Participations including 6 real estate 
-assets resulting from the asset transfers made by Casino to Mercialys in 2014. 
-This newly created company is 51% held by Mercialys and 49% by a third party 
-investor. The transaction resulted in the recognition in “other income” of an 
-additional fraction of 49% of the profit from the sale which had previously been 
-eliminated to the extent of 40%. On the other hand, the dilution of the Group in 
-Hyperthetis Participations was recognised in share of profit of equity-accounted 
-entities.”20  
-
-
- 
-(“Other income” flows into operating income, which is the basis for the EBITDA 
-calculation.)   
- 
-If Casino flows much of the gains from sale through EBITDA, it would on the surface 
-appear to contradict its accounting policy, which could be why IR refers to the 
-transactions as “real estate promotion”, rather than “disposal”.  The policy disclosure 
-reads: 
- 
-
-
-“An item of property, plant and equipment is derecognised on disposal or when 
-no future economic benefits are expected from its use or disposal.  The gain or 
-loss arising from the derecognition of an asset is determined as the difference 
-between the net sale proceeds, if any, and the carrying amount of the asset.  It is 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-gains you expect to contribute to your French profit this year, and also maybe how this amount 
-compared to last year?  And related to that, should we be expecting a lot of these transactions to 
-happen also next year, and is that included in your budget?” 
-
-
- 
-19 15 October 2015 Casino Q3 Sales/Trading Statement Call 
-20 Casino H1 2015 Results, p. 28. 
-
-
-Page 13 of 22
-recognised in profit or loss (“Other operating income and expense”) when the 
-asset is derecognised.”21 
-
-
- 
-(“Other operating income” is below the operating income line, and would traditionally be 
-excluded from EBITDA.)   
- 
-Casino’s disclosures of the components of Other Operating Income support our 
-contention that substantially all of the gains on property sales to Mercialys flow into 
-EBITDA.  In 2013, Casino disclosed Other Operating Income from gains on asset 
-disposals:22,23 
- 
-
-
- 
- 
-In 2014, there was no disclosure about significant asset disposal gains in Other Operating 
-Income, leading us to believe that substantially all of the gains were excluded from Other 
-Operating Income, and therefore are included in Casino’s EBITDA.24 
- 
-
-
-
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-21 Casino 2014 Financial Statements, p. 72; 2013 Financial Statements, p. 31. 
-22 Casino 2013 Financial Statements, p. 11. 
-23 Casino slightly restated the amount of 2013 disposals upward by €3 million in 2014. 
-24 Casino 2014 Registration Document, p. 20. 
-
-
-Page 14 of 22
-Investors should adjust Casino’s EBITDA to exclude any accounting gains from the sale 
-of real estate.  Because the sale of real estate relates primarily to downsizing excess retail 
-square footage, these are really gains from operational restructuring.   Further, because 
-Casino essentially repays Mercialys for these purchases (either by leasing or buying the 
-properties), these sales are really financing cash flows, and including them in operating 
-cash flow would be highly misleading. It is unclear if bank covenants require the 
-company to eliminate these gains from EBITDA calculations.  
- 
-Mercialys’s creation of the Hyperthetis joint venture allows Casino to book another gain 
-on sale when Mercialys sells properties to the joint venture.  Casino also has a call option 
-to buy back these properties at market price covering 100% of the assets of Hyperthetis 
-that can be exercised from 30 September 2020 to 31 March 2022.25 This again illustrates 
-it is a financing transaction for Casino, and that it is possibly dressed up as operating cash 
-flow. 
- 
-
-
-V. S&P Methodology Understates Casino Proportional Debt 
-
-
-S&P calculates Casino’s proportional lease adjusted debt as of FY 2014 to be €9.4 
-billion.  We believe S&P’s methodology significantly understates the amount.  Our 
-proportional lease adjusted debt calculation as of FY 2014 is €15.6 billion.  We estimate 
-that the LTM lease adjusted debt has blown out to €17.7  billion.26  The table below 
-compares S&P’s methodology to our own: 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-25 Groupe Casino Interim Financial Report, 30 June 2015, Section 3.2.3, p. 28. 
-26 Estimate based on September 30th filings where available, June 30th where not. 
-
-
-Page 15 of 22
-Based on FY 2014, the items we include that S&P does not are i) the full value of the 
-intermediate hybrid securities, ii) the total return swap liability, and iii) an additional €7.9 
-billion of operating lease adjustments. 
-
-
-• We include the full value of the intermediate hybrids because Casino must pay the 
-hybrid coupons before paying dividends to Casino shareholders.  Because 
-Casino’s controlling shareholder, Rallye, needs Casino’s dividends to avoid 
-collapsing, Casino is de facto obligated to pay the hybrid dividends.   
-
-
-• The total return swaps on notional value €735 million of CBD and BigC Thailand 
-equities (as of FY 2014) are liabilities that Casino must eventually settle 
-(provided the underlying positions remain negative).  Starting in 2011, Casino 
-entered into a series of TRS transactions in the shares of CBD and BigC Thailand.  
-Those shares have declined precipitously, and as of H1 2015, Casino had a TRS 
-liability of € 371 million.27  We estimate that due to continuing declines in the 
-underlying securities, as of 16 December 2015, the liability has increased to 
-approximately €480 million.28  We are not sure of the rationale for the TRSes 
-other than they seem to be levered punts.   
-
-
-• We believe S&P has greatly understated Casino’s operating lease obligations.  
-Credit convention is to multiply operating lease expense (on long-term leases) by 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-27 Groupe Casino Interim Financial Report, 30 June 2015, p. 35. 
-28 Based on the estimated reference price of the underlying securities relative to the trading price. 
-
-
-Page 16 of 22
-eight in order to adjust for the debt they represent.  S&P discounts Casino’s 
-contracted lease expenses to the present.  The problem is that Casino nominally 
-has short-term leases, but Casino obviously needs to renew the leases to continue 
-operating its business.  As a result, S&P assumes a small number of future lease 
-payments. 
- 
-We believe that S&P should assume that Casino renews the leases required to 
-generate the level of EBITDA necessary for the rating.  To illustrate the absurdity 
-of S&P’s approach in this situation, take an example of two identical retailers – 
-one with a 10-year lease and one with a 1-year lease.  Under S&P’s methodology, 
-the company with the 10-year lease would be a much worse credit.  This 
-obviously does not jibe with reality.  (The reality is Casino is going to renew these 
-leases if it is going to stay in business.)  We wonder whether Casino structures its 
-leases as short-term in order to game S&P’s debt calculation methodology.   
-
-
-S&P’s BBB- rating is based in large part on the leverage ratio.  S&P uses December 31, 
-2014 numbers, which in Casino’s case, are significantly better than its LTM numbers.  
-Casino and its subsidiaries have evidenced significant deterioration since 2014.  Casino 
-itself reports semi-annually, but its listed subsidiaries report quarterly.  We have 
-estimated LTM numbers for Casino as a group by using the September 30th financials 
-where available, and holding steady Casino’s balance sheet numbers from June 30th.   
-
-
- 
-VI. Equity Valuation 
-
-
- 
- 
-EBITDA is the main metric driving the enterprise and equity valuations.  Casino has both 
-listed public company investments and private wholly owned investments.  For the listed 
-public company investments, we use Casino’s ownership interest in the common shares 
-multiplied by the current public market-trading price of the stock.  We value Casino’s 
-wholly owned privately held businesses using EBITDA and an E/V to EBITDA multiple.   
-Casino has wholly owned businesses including the French retail entities and BigC 
-Vietnam.    
- 
-We calculate the EBITDA for the wholly owned France Retail operation, adjust to 
-remove an estimated financial engineering contribution of €165 million in 2014, apply a 
-multiple that reflects the health of the business (8x), and subtract the net debt to arrive at 
-an equity value of €5.7 billion.  For the wholly owned Vietnam retail operation, we apply 
-a multiple that reflects the health of the business (10x), and subtract the net debt to arrive 
-at an equity value of €468 million.  We then take the sum total of all of the equity values 
-for the wholly owned and partially owned businesses (€4.5 billion), and add non core 
-assets (€1 billion) to arrive at a value that is distributable or applied to cover the parent 
-debt and financial obligations.  The residual value that is left is the Casino equity value: 
-€6.91 per share.  
-
-
-Page 17 of 22
-Our base case sum-of-the-parts valuation is € 782 million (€6.91 per share).  The following table shows our methodology and 
-calculations. 
- 
-
-
-Page 18 of 22
-Appendix 1: Rallye and Groupe Casino Corporate Structure 
-
-
-Page 19 of 22
-Page 20 of 22
-Page 21 of 22
-Page 22 of 22
+
+https://seekingalpha.com/symbol/GIB
+
+http://www.vanityfair.com/politics/2013/12/obamacare-website-cgi
+
+http://money.cnn.com/2006/01/13/news/companies/enronoriginal_fortune/
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 2/12
+
+
+The market has reacted positively to the Logica deal. The enterprise value of CGI has
+risen over 50% following the close of the acquisition to nearly $15 billion. Bullish sell-side
+analysts (mostly from Canada) cite the expected transformation of the Logica business as
+a reason to own the stock. These same bullish analysts model margin expansion in CGI's
+European businesses.
+
+
+Deutsche Bank is the only sell-side firm that has a "sell" rating on the Company's stock; it
+is also the only bulge bracket firm providing research coverage on CGI.
+
+
+What is cookie jar accounting? How does it relate to acquisition accounting?
+
+
+Cookie jar accounting is when a company understates profits in one period, so that it can
+overstate profits in a subsequent period. The understated profits in the first period build a
+"cookie jar" of losses that can be reversed to increase earnings in the subsequent periods.
+
+
+Companies can manipulate accruals on the balance sheet (such as receivables, work-in-
+progress, deferred revenues, and provisions) in order to create the losses that function as
+earnings cookie jars. For example, if a company creates a provision to accrue for
+expected future losses in one period, the same company can record a gain in a
+subsequent period if those expected losses do not materialize. Arthur Levitt, the former
+Chairman of the SEC, explained the concept in a 1998 speech:
+
+
+"[An] illusion played by some companies is using unrealistic assumptions to estimate
+liabilities for such items as sales returns, loan losses or warranty costs. In doing so,
+they stash accruals in cookie jars during the good times and reach into them when
+needed in the bad times."
+
+
+Restructurings can present opportunities for companies to create earnings cookie jars.
+Walter Schuetze, the SEC's former Chief Accountant of the Division of Enforcement,
+explained this in a 1999 speech entitled Cookie Jar Reserves :
+
+
+
+http://www.sec.gov/news/speech/speecharchive/1998/spch220.txt
+
+http://www.sec.gov/news/speech/speecharchive/1999/spch276.htm
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 3/12
+
+
+"The occasion of a merger also spawns the wholesale establishment of restructuring
+or merger reserves… Write-offs of the carrying amounts of bad receivables. Write-
+offs of cost of obsolete inventory. Write-downs of plant and equipment costs, which,
+miraculously at the date of the merger, become nonrecoverable, whereas those
+same costs were considered recoverable the day before the merger... Recognition of
+liabilities for moving people. For training people. For training people not yet hired.
+For retraining people… Or some liabilities that go by the title of "other." It is no
+wonder that investors and analysts are complaining about the credibility of these
+numbers."
+
+
+Acquisitions are interesting moments to engage in cookie jar accounting because losses
+recorded by the target company before the deal has closed are offset with an increase in
+the goodwill of the acquiring company. This means that an acquirer can build a cookie jar
+without ever recording losses in its reported EPS. This is because goodwill acts as a plug
+on an acquirer's balance sheet between the price paid for a target company and the net
+book value of the target company.
+
+
+Are Logica's earnings patterns consistent with cookie jar accounting?
+
+
+The Logica acquisition was announced in May 2012 and did not close until August 2012.
+The accounting related to the acquisition was partly summarized in a Business Acquisition
+Report that was filed on November 11, 2012 in three Schedules (A, B, and C). Schedule B
+contains Logica's financials for the six months ended June 30, 2012, before those
+financials were harmonized with CGI's internal accounting policies.
+
+
+We combined Logica's historical financial statements, Schedule B of the Business
+Acquisition Report, and CGI filings in order to see how the adjusted operating profit of its
+businesses changed over time.
+
+
+
+http://www.sec.gov/Archives/edgar/data/1061574/000119312512452209/d433155dex991.htm
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB1.jpg
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 4/12
+
+
+What we find is that the profitability of Logica businesses dropped dramatically in the
+period immediately preceding the August 2012 acquisition and exceeded the 2010 levels
+after the acquisition. The financial statements for 1H 2012 show £190 million (or $304
+million) of adjusted operating losses. Those financials were unaudited and prepared by
+CGI - not by Logica - even though they correspond to a period preceding the acquisition.
+
+
+The 1H 2012 losses are noteworthy because they are inconsistent with the +6.5% margin
+guidance that was given by Logica just weeks before the end of that period, on May 11,
+2012. We quote from a Profit Forecast that was reviewed by Logica's auditors and filed
+with the UK regulators:
+
+
+"Our full year revenue and margin guidance remains unchanged despite our
+expectation of a subdued second quarter given the impact of elections in several
+countries and a cautious economic outlook for our main markets. Full year revenue
+growth is expected to be in the range of -2% to +2% and we expect our full year
+2012 operating margin to be above 6.5% even in tough market conditions" [Note that
+'operating margin' here refers to the adjusted operating margin we have used in our
+analysis].
+
+
+The difference between Logica's +6.5% full-year guidance and the -10.2% result reported
+by CGI is roughly 17 points of adjusted operating margin. Using Logica's reported £1,866
+million of revenues for the corresponding period, 17 points of adjusted operating margin is
+equal to over £300 million or roughly $500 million in adjusted operating profit.
+
+
+
+https://static.seekingalpha.com/uploads/2014/1/10668871_13897614547091_0.png
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 5/12
+
+
+This $500 million figure is equal to nearly 80% of all earnings before income taxes earned
+by CGI in fiscal 2013.
+
+
+We leave it to the reader to determine whether this pattern of earnings followed by losses
+followed by margin expansion is consistent with cookie jar accounting as described by the
+SEC.
+
+
+What caused the 1H 2012 Logica losses?
+
+
+In the November 2012 earnings call, CGI's management provided several explanations for
+Logica's 1H 2012 losses.
+
+
+The slowdown in the Company's revenue during this period was attributed to a) general
+softness in Europe, b) seasonality, and c) "the sideways drift that always occurs or almost
+always occurs in a targeted company between the announcement date and the closing
+date." We will not address these three issues here, except to note that a) and b) should
+have been anticipated in the guidance given by Logica on May 11, and c) would only have
+affected 30 days of results, between May 31 and June 30.
+
+
+Logica's losses in this period were also due to certain provisions that are disclosed on
+note 2 and page 6 of Schedule B of the Business Acquisition Report. We thought that the
+provisions circled in red below were interesting.
+
+
+These provisions were unaudited non-cash charges to Logica's operating income that
+were applied by CGI's management and totaled roughly £173 million, or $277 million.
+David Anderson, CGI's CFO, explained the reasons for taking these charges in the
+November 2012 conference call:
+
+
+"There was also a provision taken for other claims in the amount of £34 million. Most
+were project delivery issues having surfaced during this period for which we are
+actively engaged to rectify. Then there was the £139 million provision taken for
+expected future losses and write-offs on in-flight contracts. Simply put, we reviewed
+the cost to complete Logica's fixed price contracts using the same screen that we
+used for CGI. We then decided it was necessary to recognize forecasted cost
+overruns and penalties across a number of projects."
+
+
+
+https://seekingalpha.com/article/1033631-cgi-groups-ceo-discusses-f4q-2012-results-earnings-call-transcript
+
+https://seekingalpha.com/article/1033631-cgi-groups-ceo-discusses-f4q-2012-results-earnings-call-transcript
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB4.jpg
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 6/12
+
+
+Reversing these provisions would allow CGI to record additional operating income without
+generating additional operating cash flows.
+
+
+We were surprised to see these provisions because Logica undertook its own
+independent "thorough review" of its contracts in Q4 2011, which resulted in a one-time
+charge of roughly £39 million. We would have expected this Q4 2011 review to capture
+any necessary provisions.
+
+
+Did CGI reverse any of the 1H 2012 Logica provisions?
+
+
+We learn on pages 24-25 of CGI's fiscal 2013 MD&A that CGI saw working capital
+increase $282 million in FY 2013, and that $80 million of that figure is attributable to "the
+utilization of approximately $80.0 million of the estimated losses on revenue-generating
+contracts which originated from the acquisition" [emphasis added].
+
+
+The reversal of $80 million of the contract provisions generated operating income of $80
+million for CGI but did not generate any cash flow.
+
+
+We are curious about what detailed assumptions led CGI first to write down the value of
+these contracts prior to the acquisition, and write up the value of these contracts after the
+acquisition. Again, we leave it to the reader to determine whether this pattern of contract
+valuation is consistent with cookie jar accounting techniques.
+
+
+How much did other working capital accounts move?
+
+
+If a company is engaging in cookie jar accounting, we should expect to see large moves in
+working capital accounts. Changes in working capital are one component of the difference
+between earnings and cash flow from operations. When working capital grows in a
+company, the company generates less cash than it otherwise would with the same
+earnings but no increase in working capital.
+
+
+Page 10 of CGI's FY 2013 financials shows us that CGI's working capital grew $282
+million in fiscal 2013. The size of this increase is meaningful relative to CGI's $456 million
+of earnings generated over the same period. The $282 million figure is subtracted from the
+earnings to derive the operating cash flow.
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 7/12
+
+
+Note 26 of the same set of CGI FY 2013 financials contains a breakdown of this $282
+million increase in working capital. The relevant table from this note is shown below.
+
+
+Here, we learn the remarkable fact that the Company's total working capital grew by $282
+million even though accounts receivable shrunk by $280 million, and accrued
+compensation grew by $164 million. Both the shrinking of accounts receivable and the
+increase in accrued compensation had the effect of reducing CGI's working capital.
+
+
+Therefore, without the movement in accounts receivable and accrued compensation, the
+working capital would have increased $726 million instead of $282 million.
+
+
+We focus our analysis on the receivables and accrued compensation accounts because
+we wonder whether CGI can shrink its receivables and grow the accrued compensation
+further. Receivables and accrued compensation are generally tied to short-term timing
+differences between accruals and cash flows. Reader should note that:
+
+
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB5.jpg
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB6.jpg
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB2.jpg
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 8/12
+
+
+Accounts receivable shrunk because CGI received more cash from its customers than
+it billed, but over time, CGI cannot receive more cash than it bills.
+Accrued compensation increased because CGI recognized charges for compensation
+in excess of amounts paid out in cash for compensation; in the long term, CGI should
+make cash payments that match these accruals.
+
+
+We think it is interesting to consider that if receivables and accrued compensation had not
+moved over fiscal 2013, the operating cash flow would have been cut by 66% and
+reduced to $227 million instead of $671 million.
+
+
+The $726 million of growth in working capital excluding receivables and accrued
+compensation is partly due to reversals of valuation adjustments that were made by CGI
+upon the close of the Logica acquisition. The valuation adjustments (made in accounts
+such as work in progress and deferred revenue) will be analyzed in a subsequent Seeking
+Alpha entry. For the moment, we will note that the reversals generated earnings but no
+cash flows in fiscal 2013.
+
+
+We will leave it to the reader to determine whether a $726 million increase in working
+capital excluding receivables and accrued compensation, which creates earnings but no
+cash flows and is driven by reversals of charges taken in a prior-period acquisition, is
+consistent with the use of cookie jar accounting.
+
+
+What has CGI's CFO said about its accounting for the Logica acquisition?
+
+
+David Anderson, CGI's CFO, has not, to our knowledge, specifically addressed the $80
+million reversal of charges at Logica recorded in the 1H 2012 stub period in Schedule B of
+the Business Acquisition Report.
+
+
+However, Anderson has made several comments related to other aspects of CGI's
+accounting for the Logica acquisition. For example, he has addressed the earnings impact
+of the valuation adjustments made in the Logica purchase price allocation.
+
+
+Here, we cite two comments made by Anderson in regard to the Company's accounting
+for the Logica acquisition:
+
+
+Q2 2013 earnings call: "When we take a look at all the net adjustments up and down, it
+wasn't really that significant. If you were to look at note number seven in the financial
+
+
+
+https://seekingalpha.com/article/1385481-cgi-group-management-discusses-q2-2013-results-earnings-call-transcript
+
+https://static.seekingalpha.com/uploads/2014/1/16/saupload_GIB3.jpg
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 9/12
+
+
+statements, it did look like there were some other changes that were taking place. A
+number of those changes were nothing more than just reclassifications, items that
+were in the short term that have been reclassified to long-term and vice versa. So as
+we just work our way through the 12 months, we're looking at those assumptions and
+we just continue to refine those as better information comes forward. To date, there's
+only been about a 3.8% adjustment to the goodwill, so it hasn't really been
+significant or material. It hasn't really driven any significant impact to the P&L. Again,
+just slight refinements within some of the regions and we're trying to make sure that
+you get visibility to that. We will continue to monitor some of the projects, etc."
+
+
+Q3 2013 earnings call: "As you know, under IFRS companies have 12 months from the
+date of an acquisition to complete the allocation of the purchase price. After nine
+months, a cumulative impact of all the adjustments to the purchase price
+allocation on our EPS was negligible representing 0.6%."
+
+
+In future entries on Seeking Alpha, we will examine issues related to the Logica purchase
+price allocation onto CGI's balance sheet, and will compare our findings with these and
+other management statements.
+
+
+Summary
+
+
+In this note, we have discussed the following:
+
+
+Cookie jar accounting is when a company understates profits in one period, so that it
+can overstate profits in a subsequent period.
+Logica's business showed years of steady adjusted operating profits until the period
+just preceding CGI's acquisition of the company; following the acquisition, CGI's
+European operations saw margin expansion.
+Logica's losses in 1H 2012 were inconsistent with guidance provided by the company
+in May 2012; the difference between May's guidance and June's results was roughly
+$500 million in adjusted operating profit.
+The losses in Logica's 1H 2012 were partly due to non-cash provisions taken on
+contracts.
+$80 million of these provisions were reversed by CGI in fiscal 2013; the reversal of
+these provisions generated $80 million of operating income but no operating cash flow.
+The total increase in CGI's working capital over fiscal 2013 was $282 million, even
+though accounts receivable shrunk by $280 million and accrued compensation grew
+by $164 million.
+
+
+
+https://seekingalpha.com/article/1589942-cgi-group-management-discusses-q3-2013-results-earnings-call-transcript
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 10/12
+
+
+Had accounts receivable and accrued compensation remained unchanged over fiscal
+2013, CGI's working capital would have increased by roughly $726 million, a figure
+which is larger than CGI's pre-tax earnings for fiscal 2013. This is important because
+when working capital grows in a company, it generates less cash flow than it otherwise
+would with the same earnings and no working capital increase.
+This $726 million figure is partly the result of the reversal of valuation adjustments that
+were made by CGI for the Logica acquisition. These reversals generated earnings but
+no cash.
+It is unclear whether and how much CGI will be able to continue shrinking accounts
+receivable and growing accrued compensation.
+
+
+In subsequent notes, we will continue discussion of CGI's acquisition accounting and will
+also look at topics such as organic growth, bookings, government margins, government
+subsidies, and restructuring charges.
+
+
+Full Disclaimer:
+
+
+This article is for informational purposes only and is not investment advice, and does not
+constitute an agreement, offer, a solicitation of an offer, or a recommendation to purchase
+or sell any particular security or pursue any investment or trading strategy. This article
+should not be construed as legal, tax, investment, financial or other advice. This analysis
+reflects our current opinions regarding CGI Group, Inc. Funds managed by us have an
+economic interest in the price movement of CGI Group, Inc.'s securities and specifically a
+decrease in the price of CGI Group Inc.'s shares. Our views and these economic interests
+are subject to change and we expressly disclaim any obligation to update the data,
+information or opinions contained in this analysis. We acknowledge that there may be
+confidential information in the possession of the companies discussed in this presentation
+that could lead such companies to disagree with our conclusions. Although we may do so,
+we do not expect to announce subsequent changes in our thinking or economic interests
+regarding CGI Group, Inc., but it is possible that there will be developments in the future
+that cause us to change our holdings in CGI Group, Inc.'s securities. We have based this
+analysis on public sources, including CGI Group, Inc.'s public filings, which can be
+obtained at sedar.com and sec.gov. While we believe the information presented in this
+article to be accurate, we make no representation or warranty to that effect, and we
+cannot guarantee that any projection or opinion expressed in this article will be realized.
+
+
+Disclosure: I am short GIB. I wrote this article myself, and it expresses my own opinions.
+I am not receiving compensation for it (other than from Seeking Alpha). I will direct
+Seeking Alpha to donate any compensation from this article to charity. I have no business
+
+
+
+http://sedar.com/
+
+http://sec.gov/
+5/22/2018 CGI Group: Cookie Jar Accounting And The Logica Acquisition (Part 1) - CGI Group Inc. (NYSE:GIB) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1947571-cgi-group-cookie-jar-accounting-and-the-logica-acquisition-part-1 11/12
+
+

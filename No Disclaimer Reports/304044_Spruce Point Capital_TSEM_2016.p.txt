@@ -1,1962 +1,4481 @@
-Disclaimer:
-Use of Muddy Waters LLC’s research is at your own risk.  You should do your own research and due diligence before making any investment decision 
-with respect to securities covered herein.  You should assume that as of the publication date of any report, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors has a short position in the stock (and/or 
-options of the stock) covered herein, and therefore stands to realize significant gains in the event that the price of stock declines.  Following publication 
-of any report, we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless 
-of our initial recommendation.   This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any 
-person, in any jurisdiction in which such offer would be unlawful under the securities laws of such jurisdiction. To the best of our ability and belief, all 
-information contained herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are 
-not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer.   
-However, such information is presented "as is," without warranty of any kind – whether express or implied.  Muddy Waters, LLC makes no representa-
-tion, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use.  
-All expressions of opinion are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement this report or any 
-of the information contained herein.
+3
 
 
-Director of Research: Carson C. Block, Esq.
+I. Executive Summary
+II. Brief Overview of Tower Semiconductor Ltd
+III. A Business Model Appearing To Be In Peril
 
 
-Muddy Waters, LLC
-www.muddywatersresearch.com
+a) Key Business Issues
+b) Underinvestment in Capex and R&D
+c) Focus on Revenues, But Where’s the Free Cash Flow?
+d) Deals Dependent on Dilution Causing Share Count to Grow Faster Than Revenues! 
 
 
-info@muddywatersresearch
+IV. Management and Corporate Governance Don’t Look Too Pretty
+a) Does Tower’s CEO Have a College Education?
+b) Dissecting a Stock Promotion Sounding Too Good To Be True
+c) Tower’s Questionably Reckless Compensation Strategies
 
 
-Company:
+V. A Closer Look at the Micron and Panasonic Deals Concerns Spruce Point…
+a) Accounting Magic: Repeated Use of Bargain Purchase Gains on the Micron and Panasonic Deals
+b) Strong Evidence of Asset Inflation From Panasonic’s Disclosure
+c) Shifting Expenses to Juice Gross Margins?
 
 
-CCME: Taking the Short Bus to Profits
+VI. Numerous Red Flags Point to Potential Accounting Scheme
+a) Summary of Key Accounting Concerns
+b) Financial Reporting and Disclosures Significantly Below Industry Standard
+c) Mountain of Debt and Playbook For Possible Accounting Manipulations
+d) Warning: Tower’s Auditor Cited By the PCAOB For Numerous Audit Deficiencies
+e) Alchemy of Tower’s Financial Results: Non-GAAP Abuse and Exclusion of Depreciation and Amortization
+f) Deceptive Change in Capex Presentation Enabling Free Cash Flow Overstatement?
+g) Tower Resorting to Accounting Games 101: Changing Useful Life Assumptions for PP&E?
+h) Accounting Issues With Series F Convertible Debt
+i) Questionable Bank Debt Revaluation
 
 
-Recommendation:
+VII. Are Shareholders Telegraphing that Tower’s Share Price is Overvalued?
+VIII. Valuation Disconnect: Seeing Through the Stock Promotion and Analyst Oversight
 
 
-Industry:
+a) Tower Has Received Best of Breed Stock Coverage
+b) It’s Unanimous! Tower is a Buy With Big Upside
+c) Don’t Be Fooled By Seemingly “Cheap” Valuation
 
 
-Report Date:
+IX. Appendix
+5
 
 
-Price:
-
-
-Market Cap:
-
-
-10.2 million
-
-
-Avg Volume:
-
-
-China Media Express Holdings (CCME)
-
-
-Strong Sell
-
-
-Outdoor Digital Advertising
-
-
-February 3, 2011
-
-
-$16.61
-
-
-$559.3 million
-
-
-Float:
-
-
-1.7 million
-
-
-Estimated Value:
-$5.28
-
-
-Muddy Waters, LLC believes that CCME is engaging in a 
-massive “pump and dump” scheme whereby it significantly 
-inflates revenue and profits in order to enrich management 
-through earn-outs and stock sales.
-
-
-We estimate that CCME’s actual 2009 revenue was no more 
-than $17 million (versus $95.9 million it reported).  
-
-
-The data CCME provides to advertisers shows that it has 
-fewer than half of the 27,200 buses it claims to have.
-
-
-The CTR reports that the Company uses to support its 
-claims contain gross errors that we conclude are due to 
-manipulation by the management.
-
-
-We estimate that over half of CCME’s network buses do not 
-actually play CCME content.  Rather, drivers play DVD 
-movies that are often provided by passengers.
-
-
-We caught CCME’s management telling a particularly 
-egregious lie – that its new website (www.switow.com) has 
-entered into an agreement with Apple (or one of Apple’s) 
-distributors.  Neither is true.
-
-
-Similar to RINO, CCME is an obscure company in its 
-industry.  Media buyers who would have to know it if 
-CCME were to be believed have never even heard the 
-Company’s name before.
-
-
-CCME’s core audience is sub-Greyhound Bus demo-
-graphic.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-2	
-  
-
-
-CCME: Riding the Short Bus to Profits 
- 
-Muddy Waters, LLC believes that China MediaExpress Holdings, Inc. (“CCME” or the 
-“Company”) is engaging in a massive “pump and dump” scheme.  The Company is significantly 
-inflating its revenue and earnings in order to pay management earn-outs and inflate the stock 
-price so insiders can sell.   
- 
-Management owns approximately $312 million worth of shares.  An institutional investor 
-informed us that management was quite interested in selling him $50 million worth of their 
-shares.  In October 2010, a party closely connected to management sold nine million dollars of 
-stock.1 
- 
-We estimate that CCME’s actual 2009 revenue was no more than $17 million versus reported 
-revenue of $95.9 million, an overstatement of over 464%.  Note that the SAIC financial 
-statements of the operating company, Fujian Focus Media Co. Ltd., show 2009 revenue of 
-$760,000 (generating a net loss of $920,000), and 2008 revenue of $337,000 (generating a net 
-loss of $890,000).   
- 
-We doubt that CCME would have been profitable on $17 million in revenue, but giving it the 
-benefit of the doubt, we would assume net income of $1.7 million, or basic EPS of $.05.  We 
-place a 5x multiple on the earnings due to our belief that the real earnings could very well be 
-lower than $.05.  This yields a value of $.25 per share.  We add in the cash balance to value the 
-Company.  If one assumes that the $169.9 million in cash on the balance sheet is accurate, which 
-is a large assumption considering we do not believe the reported income, one would value 
-CCME at $5.28 per share.  However, to the extent that the cash balance is inflated, we would 
-value CCME at a lower price.  Therefore our per share valuation is currently $5.28, but is subject 
-to change should we believe that the cash number is incorrect. 
- 
-CCME: The Myth 
- 
-CCME would have investors believe that it places televisions to show advertising and non-
-advertising content on over 27,200 long distance buses.  CCME would also have investors 
-believe that it has generated approximately $214 million in advertising revenue in 2010,2 with 
-much of it coming from large marketers such as The Coca-Cola Company (NYSE: KO) and 
-Lenovo (HKSE: 992).  CCME also trumpets its airport express bus operation, which it claims 
-generated $15 million in revenue in Q3 2010 from only six airports. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 The seller was Thousand Space Holdings Ltd., which is beneficially owned by Lin Ou Wen, who was an investor 
-in the business prior to the SPAC transaction. 
-2 See Global Hunter Securities, LLC “Continued due diligence on CCME reinforces our thesis; Reiterate Buy” 
-(February 1, 2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-3	
-  
-
-
-CCME states that its audiences consists of middle-income professionals with disposable income, 
-and is thus attractive to advertisers.  CCME also paints a picture of these valuable travelers 
-dutifully watching the CCME’s content on one of two screens on the typical CCME bus. 
- 
-CCME supports its contentions on bus network size, viewership, and demographics by citing 
-research it commissioned from CTR Media Intelligence (“CTR”).  In an attempt to prove its 
-legitimacy and strong cash generation capability, it announced plans to pay a semi-annual 
-dividend equal to 5% to 10% of earnings.3 
- 
-BUSted – a Small Advertising Company Creating a Lot of Wealth for Management. 
- 
-CCME tells investors that it has over 27,200 buses in its network.4  However, it tells advertisers 
-that it only has 12,565 buses in its network.  CCME management tells investors that its 
-utilization rate (minutes sold divided by minutes available for sale) is close to 100%.  A 100% 
-utilization rate would be hard to achieve if it refrains from selling ads on more than half of its 
-buses.  (As a side note, CCME’s China digital outdoor media comps have utilization rates in the 
-20% to 30% range.) 
- 
-The CTR research upon which CCME relies to (re)assure investors contains gross errors.  We 
-found that the largest operator in the report never had a business relationship with CCME.  We 
-also found that the CTR research exaggerates the numbers of buses of 13 operators by a 
-collective 424%.  We hold CCME management responsible for these errors. 
- 
-The next issue is that over half of CCME’s network buses do not actually play CCME content.  
-Many of the buses in which CCME installs hard drives and screens also have DVD players 
-connected to the screens.  We surveyed over 50 CCME buses, and the majority was playing 
-DVDs instead of CCME content.  Often the passengers bring DVDs that they ask the drivers to 
-play.  There is nothing unique or high tech about CCME’s hard drive systems.  You can buy 
-them from CCME’s supplier on Alibaba– we were quoted US$320 for the same system CCME 
-purchases.   
- 
-We caught CCME’s management telling a particularly egregious lie.  It recently announced it 
-had created an online shopping platform that has an agreement with Apple Inc. (NASDAQ: 
-AAPL – yes, THAT Apple) or one of AAPL’s distributors.  AAPL made clear to us that it has no 
-such relationship with CCME’s subsidiary.  Further, AAPL keeps tight control over its 
-distribution in China, with only two authorized online distributors (including Amazon.com’s 
-China subsidiary).  None of AAPL’s China distributors have authority to sub-license.   
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-3 See CCME press release “China MediaExpress Holdings, Inc. Announces Dividend Policy” (December 16, 2010). 
-4 See CCME press release “China MediaExpress Holdings, Inc. Announces Three New Contracts” (January 13, 
-2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-4	
-  
-
-
-Reminiscent of RINO, CCME is in reality an obscure company in its industry.  None of the 
-major media buyers with whom we spoke – including several who represent CCME’s purported 
-customers – had even heard of CCME.   
- 
-CCME’s core audience is a sub-Greyhound Bus demographic, which is largely unattractive to all 
-but local businesses (e.g., local restaurants and hotels).  Much has been made about having 
-performed due diligence by seeing commercials from large advertisers on CCME’s network 
-buses.  In this case, seeing is not believing.  
- 
-It is not uncommon for small media companies in China to show ads from large prestigious 
-brands with which they have no contract or business relationship.  Usually this is done in order to 
-impress potential advertisers.  We suspect that CCME does this to a fair extent, but to impress 
-investors. 
- 
-The purpose of this fraud is to generate earn-outs for management, and to increase the market 
-value their stock so they can sell it.  An institutional investor informed us that CCME 
-management was quite interested in selling him approximately $50 million of their shares.  In 
-October 2010, a party closely connected to management sold nine million dollars of stock.5 
- 
-Management (including through companies owned by family and close associates) owns 
-approximately 18.3 million shares of stock (54.1% of the shares outstanding).6  At current 
-market value, that equals $312 million. There has been some fanfare around a 104,000-share 
-management purchase in December 2010.  We view this purchase, along with the dividend that 
-the Company announced it intends to pay (essentially a partial return of investor funds), as 
-investor relations expenses.   
- 
-Similar to RINO, there is an underlying business – it is just much smaller than reported. The 
-Company appears focused on Beijing inter-city buses and its airport express buses.  However, we 
-suspect this focus has less to do with generating real profit, and more to do with projecting 
-credibility to investors. 
- 
-CCME has far Fewer Buses in its Network than it Claims.   
- 
-CCME has far fewer buses than it claims.  In its most recent press release, the Company claimed 
-to have “over 27,200” buses under contract.7  However, the spreadsheet provided as part of its 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-5 The seller was Thousand Space Holdings Ltd., which is beneficially owned by Lin Ou Wen, who was an investor 
-in the business prior to the SPAC transaction. 
-6 Based on 33.8 million basic shares outstanding. 
-7 See CCME press release “China MediaExpress Holdings, Inc. Announces Three New Contracts” (January 13, 
-2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-5	
-  
-
-
-advertiser kit shows that CCME has only 12,565 buses.8  Approximately 700 of these buses are 
-not in scheduled service – they are actually charter buses.  The salesperson with whom we spoke 
-stated that the spreadsheet we have is current and accurate.  
- 
-Further, we identified substantial inaccuracies in the August 2008 CTR report that CCME relies 
-on to demonstrate the size of its network to investors.9  The inaccuracies we identified are: 1) the 
-largest operator in the report never worked with CCME, and 2) the report exaggerated the 
-numbers of buses of 13 operators by a collective 424%. 
- 
-CCME’s Advertiser Kit Shows that it has Fewer than Half of the Buses it Claims 
- 
-The most current spreadsheet CCME provides to prospective advertisers shows only 12,565 
-buses in its network.10 The Muddy Waters, LLC website contains PDF versions of CCME’s bus 
-network spreadsheet.11  The salesperson assured us that the spreadsheet is accurate and complete 
-as of January 2011. 
- 
-Approximately 700 of the buses in this spreadsheet are not scheduled inter-city buses.  Rather 
-they are charter buses available for rent by tour groups.   Such audiences are almost valueless for 
-advertisers because of their unknown demographics and the impossibility of knowing when or 
-how often ads will be shown. 
- 
-As we discuss in this report, we believe that fewer than half of the buses in CCME’s network 
-actually show CCME content.  Thus the effective size of CCME’s bus network is far smaller 
-than what it shows prospective advertisers.   
- 
-The CTR Report, on which the Company Asks Investors to Rely, Contains Gross Inaccuracies 
- 
-The August 2008 CTR Report that CCME places on its website12 to support its claims about 
-network size is wholly inaccurate.  It lists at least two – and possibly more – companies that are 
-not present in the advertiser kit.13  It exaggerates the number of buses owned by 13 companies by 
-6,347 buses (4.2x).  We verified these surprising discrepancies through conversations with three 
-bus operators and internet searches. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-8 We make this data available for download in PDF format at http://www.muddywatersresearch.com/wp-
-content/uploads/2011/02/2011_CCME_BusInfo_ByCity.zip 
-9 The CTR report is available on CCME’s website (http://www.ccme.tv/eng/pns/intercitybus.php), and at 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-10 Supra FN 8. 
-11 Id. 
-12 Supra FN 9.  
-13 The reason for the uncertainty is that the advertiser kit does not break out all provinces by company.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-6	
-  
-
-
-Similar to RINO, we verified that CCME’s largest relationship does not exist.  We spoke with 
-the largest operator in the CTR report, Shanghai Ba Shi about CCME.  Ba Shi told us that it 
-never had a business relationship with CCME.  This comports with the advertiser kit,14 but 
-wholly contradicts the CTR report.  We spoke with Beijing A-er-sha Passenger Transportation 
-Co. Ltd. (“Alsa”) and Beijing Xiang Long A-er-sha Passenger Transportation Co. Ltd. (“Xiang 
-Long Alsa”).  The CTR report claims Alsa and Xiang Long Alsa have 207 and 428 buses, 
-respectively.  Alsa told us that it has only approximately 20 buses.  Xiang Long Alsa told us it 
-has only approximately 60 buses.  These numbers comport with the data in the advertiser kit.15  
-We provide screen shots of various operators’ websites below the table that also validate the 
-advertiser kit data where available, and additionally contradict the CTR report with respect to 
-two Fujian companies. 
- 
- 
-The table below compares the data in the CTR report to the data in the advertiser kit spreadsheet.  
-Following the table, we include screenshots from some of the bus companies’ websites that 
-validate the numbers in the advertiser kit and another table showing discrepancies by market.  
-We therefore believe that the reports CTR prepares for the Company are wholly unreliable.  We 
-do not believe that CTR developed these inaccurate numbers in a vacuum.  We therefore hold the 
-Company responsible for these misstatements. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-14 Supra FN 8. 
-15Id.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-7	
-  
-
-
-
-
-
-
-
-
-The CTR report says it owns 428 buses.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-8	
-  
-
-
- 
-The CTR report says it owns 207 buses. 
-
-
-
-
-
-The CTR report says it owns 128 buses. 
- 
-
-
-
-
-
-The CTR report says it owns 50 buses.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-9	
-  
-
-
-
-
-
-The CTR report says it owns 122 buses. 
- 
-The websites above corroborate the data in the advertiser kit, and show that the CTR report is 
-valueless.  The below is a comparison of discrepancies between the CTR report and the 
-advertiser kit by city.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-10	
-  
-
-
- 
-The above-described issues reflect the potential problems in relying on market research 
-sponsored by the target company. Again, it is obvious to us that CTR did not develop these 
-inaccurate numbers in a vacuum, and we hold the Company responsible for these misstatements. 
- 
-Approximately 25% of CCME’s Network Operator Buses are Independently Owned, and 
-Are Not Covered by Agreements with CCME.   
- 
-According to the bus drivers and operators with whom we spoke, approximately 25% of the 
-buses in a given operator’s network are independently owned and operated.  These buses are not 
-be covered by agreements between CCME and the operators.   The independently owned buses 
-typically do not have CCME equipment.  We need to conduct further investigation to see 
-whether this portion has already been excluded from the advertising kit spreadsheet. 
- 
-We Believe that Over Half of the Buses on which CCME has Placed Screens do not 
-Actually Show CCME’s Content, which Makes CCME’s Revenue Claims More 
-Outlandish. 
- 
-Many of the buses in CCME’s network also have DVD players connected to the CCME-
-provided screens.  Based on our surveys of over 50 buses, we believe that fewer than half of the 
-buses in CCME’s network are actually showing CCME’s content.  The drivers instead show 
-DVDs.  (Passengers often lend DVDs to the drivers to show during the trip.)  
- 
-CCME’s screens are connected to DVD players that can override CCME Content.  CCME’s hard 
-drive players are installed in bus dashboards similar to the way one would install an aftermarket 
-car stereo.  In many cases, the buses already had a DVD player installed in the dashboard.  
-CCME will then install its player in the slot above or below the DVD player.  The following two 
-pictures show bus dashboards with CCME equipment. 
- 
-
-
- 
- 
-CCME ad player on top, DVD player in middle, 
-bottom hardware unknown. 
-
-
- 
- 
-CCME ad player on top, DVD player below. 
- 
- 
-
-
-Bus drivers generally have the option to play whichever option they choose – CCME content or 
-DVDs.   We note that driver compliance is higher in Beijing though.  According to one
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-11	
-  
-
-
-driver in Beijing (confirmed in CCME’s network), his company removed the DVD players on its 
-buses because of copyright issues.  We also learned the CCME is directly paying some of the 
-Beijing drivers to play its content.  CCME seems to pay extra attention to Beijing operation 
-because it uses it as a showcase for investors.   
- 
-Below is a picture of a CCME screen that is clearly connected to a bus DVD player. 
- 
-
-
-
-
-
-Bus drivers often play DVDs that passengers bring onboard. 
- 
- 
-
-
-
-
-
-A CCME monitor with external connector visible.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-12	
-  
-
-
- 
-Upsetting the Apple Cart 
- 
-In an apparent attempt to confer legitimacy on itself, CCME states that it is doing business with 
-prestigious multinational brands, including Apple Inc. (NASDAQ: AAPL).  This is a lie.   
- 
-On December 28, 2010, the Company issued a press release in which it announced that it had 
-launched an online shopping platform, www.switow.com16 (“SWITOW”). In the release, it stated 
-that “[SWITOW] has already signed contracts with many prestigious global and Chinese 
-domestic companies or their distributors such as Apple…”   
- 
-AAPL only has two online distributors in China, one of which is Amazon.com subsidiary Joyo 
-(www.amazon.cn).  AAPL does not have any agreement with SWITOW (or CCME).  Further it 
-does not permit its China licensees to sub-license.  Therefore, CCME is abjectly lying about this 
-agreement. 
- 
-CCME Claims that its Top 10 Advertisers Include Large Global Brands.  We Doubt this is 
-True. 
- 
-Seeing is not believing in this case.  It is not uncommon for small media companies in China to 
-show ads from large prestigious brands with which they have no contract or business 
-relationship.  Usually this is done in order to impress potential advertisers.  We suspect that 
-CCME does this to a fair extent, but to impress investors. 
- 
-We surveyed six major buyers of outdoor digital media in China to understand their opinions of 
-CCME’s platform.  This proved to be difficult because none of them had ever heard of CCME.  
-Strangely, these buyers represent some of the same advertisers that CCME trumpets as clients.  It 
-is hard to imagine that the clients buy CCME media outside of the buyers – after all, CCME 
-claims that the large majority of its revenue comes through agencies, rather than directly. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-16 See CCME press release “China MediaExpress Holdings, Inc. Launches New Shopping Platform – SWITOW” 
-(December 28, 2011).
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-13	
-  
-
-
- 
-The following are the six buyers we surveyed (including the respondents’ titles), along with a list 
-of each company’s major clients. 
- 
-
-
- 
- 
-Three of CCME’s Top Ten advertisers are represented by media buyers that have never heard of 
-CCME.  Note that CCME claims three of its Top Ten advertisers are China Mobile, Master 
-Kong, and The Coca-Cola Company (NYSE: KO).17Those advertisers are represented in the 
-above table respectively by Kinetic and Heartland.   
- 
-It is particularly telling that Heartland has not heard of CCME.  All of KO’s outdoor media 
-buying in Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Shenyang, 
-and Dalian is done by Heartland.18CCME claims to have sales centers in all but three of the 
-foregoing cities.19KO spends 20% to 30% of its annual China media budget through 
-Heartland.20Yet, the Associate Director at Heartland we surveyed had never heard of CCME. 
- 
-Two of CCME’s other purported advertisers are also represented by media buyers that have 
-never heard of the Company.  CCME claims that Toyota and Lenovo are advertisers.  A CCME 
-investor presentation goes so far as attribute the following quote to Lenovo: “China 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-17 See Appendix. 
-18 See http://www.cei.asia/searcharticle/2010_02/Heartland-China-retains-Coca-Cola-Chinas-out-of-home-media-
-account/38795. 
-19 See Appendix. 
-20id.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-14	
-  
-
-
-MediaExpress’ media is much lower cost than traditional media, which is the main reason we 
-chose CCME.”21 
- 
-It appears the two media buyers that consider Lenovo to be a major client were unaware their 
-client had developed an interest in low cost media. 
- 
-We asked these buyers how many hours of airtime they buy each month from AirMedia Group, 
-Inc. (NASDAQ: AMCN), Focus Media Holding Ltd. (NASDAQ: FMCN), VisionChina Media 
-Inc. (NASDAQ: VISN), and Bus Online Co. Ltd. (private). Note that VISN and Bus Online are 
-major operators of intra-city (as opposed to CCME’s model of inter-city) bus digital televisions.   
- 
-Q: Approximately how many hours of airtime do you purchase for your clients each month on 
-the following platforms? 
- 
-
-
- 
- 
-Again, none of the buyers had even heard of CCME, which is profound considering that three of 
-the buyers purchase slots on intra-city bus operators VISN and Bus Online. 
- 
-Two Small Media Buyers That Buy Intra-City Bus Digital Media Had Also Never Heard of 
-CCME. 
- 
-We decided to test a theory that the most profitable outdoor digital media company in China 
-would be better known among smaller media buyers.  Our results were no better.  We spoke with 
-two smaller Shanghai-based media buyers that buy advertising on Bus Online’s platform.  
-Neither company – Shanghai Yun Xiang Advertising Co. Ltd. nor Shanghai Jun Zhe Advertising 
-Co. Ltd. – had ever heard of CCME. 
- 
-Like RINO, CCME’s “Competitors” Do Not Know the Company.   
- 
-We consider it to be a bad sign when a company’s reported financials would make it among the 
-largest in its industry, yet the competition does not know much – or anything – about it.  This 
-was one of the most telling aspects of our work on RINO, and it is present again with CCME. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-21 See Appendix.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-15	
-  
-
-
-Management at VISN and AMCN told us that they have not been exposed to CCME through 
-industry circles. Rather, they first learned about CCME from investor queries.  The person with 
-whom we spoke at Bus Online (privately owned) had not previously heard of CCME.  (Note that 
-VISN and Bus Online operate intra-city bus digital advertising networks.)  In contrast, AMCN, 
-VISN, and Bus Online are quite familiar with each other as well as with FMCN – both on 
-personal and business levels.  We doubt that CCME could have flown under the radar to this 
-extent while being far and away the most profitable digital outdoor media company in China. 
- 
-CCME Claims that the Beijing Airport Express Bus Contract will Generate $30 million to 
-$36 million per year.  We Believe the Real Number is Many Millions of Dollars Lower. 
- 
-We do not believe that the airport express buses – particularly the Beijing Capital Airport 
-express bus – generate anywhere near the revenue that CCME claims they do.  CCME reported 
-that its airport express bus business generated about $15 million in Q3 2010 revenue.22  
-Management states that the Beijing Capital Airport express buses account for 50% to 60% of the 
-airport express bus revenue.  On an annualized basis, Beijing Capital Airport express buses 
-would generate approximately $30 million to $35 million.   
- 
-These numbers are beyond belief when compared to the $35 million to $40 million in digital 
-advertising annual revenue that AMCN generates at Beijing Capital Airport for the following 
-reasons: 
- 
-
-
-• CCME has televisions on approximately 100 Beijing Capital Airport express buses.  
-AMCN has 119 82” standalone digital frames, 58 108” digital frames in baggage claims, 
-418 52” TV-attached digital frames, and 418 46” digital TV screens.  In other words, 
-AMCN has almost 1,000% more digital advertising points in the airport.  (Note that all of 
-the 23 airport express buses we surveyed had only one TV screen each.  We subsequently 
-discuss CCME’s misrepresentations about the number of screens per bus.) 
-
-
-• CCME’s televisions provide exposure to the traveler segment that is more cost conscious 
-because they eschew taking private cars and taxis to the airport.  AMCN’s digital screens 
-cover every passenger in every terminal – including the highest income demographics. 
-
-
- 
-Further AMCN, and then FMCN, used to operate the digital televisions on the Beijing Capital 
-Airport express buses.  AMCN and FMCN, despite being far less profitable than CCME, were 
-evidently unmotivated to keep the routes.  AMCN management could not provide us with the 
-historical figures (the airport express business was pre-IPO), but they stated categorically that 
-they generated far less revenue than $30 million.  Given that AMCN and FMCN each generate 
-lower gross margins than CCME purports to generate, one wonders why they would leave such a 
-profitable business to CCME – particularly given that based on our surveys of media buyers, 
-AMCN and FMCN would seem to be in much better positions to sell the ads. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-22 See CCME September 30, 2010 Form 10-Q.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-16	
-  
-
-
-We have observed that out of its entire network, the airport express buses (particularly Beijing) 
-come closest to resembling the Company’s description – the only issue we identified with the 
-airport express bus operations is the probable gap between reported revenue and real revenue.   
- 
-We Believe that the Revenue for the Five Other CCME Airport Express Routes is Similarly 
-Overstated. 
- 
-AMCN offers another opportunity to put CCME’s reported numbers in perspective.  CCME is 
-claiming that it generated $15 million in Q3 2010 from express buses operating at six airports.  
-This number is about 200% the Q3 2010 revenue that AMCN derived from its 2,200 digital 
-television screens in 38 airports, including in 26 of the 30 busiest airports in China.   
- 
-CCME Has Little Presence in China’s Two Largest Media Markets in China: Beijing and 
-Shanghai. 
- 
-CCME Has Little Presence in China’s Two Largest Media Markets in China: Beijing and 
-Shanghai, Giving us Additional Reason to Doubt CCME’s Reported Numbers. 
- 
-CCME’s spreadsheet lists only 296 buses in Shanghai, which is the second largest ad market in 
-China. Even worse, 278 of the buses are charter tour buses. In other words, they are not regularly 
-scheduled long distance buses.  Major advertisers do not value advertising in charter buses 
-because the unknown demographics and the impossibility of knowing when and how often ads 
-will be shown.  We doubt that CCME generates more than a de minimus amount of revenue from 
-Shanghai. 
- 
-CCME only operates 548 long distances buses that travel to Beijing, which is China’s largest ad 
-market. The 548 represents no more than 2.0% of the “over 27,200” buses claims to operate.  
-(We discuss the Beijing airport buses previously in this report.)   
- 
-With such an insignificant presence in China’s two largest media markets, we do not believe 
-CCME’s reported revenue numbers. 
- 
-CCME is also Lying to Investors about the Numbers of Screens on its Buses.  We Interpret 
-this as Confirming the Business Model is not Very Profitable. 
- 
-CCME tells investors that it has an average of over two LCD Screens per bus.23  This is not true.  
-CCME’s sales spreadsheet shows an average of 1.45 screens per bus.24  In our fieldwork, we 
-surveyed over 50 buses, and found that only buses on the Beijing to Qidong route had more than 
-one screen.  Therefore we believe that the advertiser kit is fairly accurate with respect to screens. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-23 See the CTR report at http://www.ccme.tv/eng/pns/intercitybus_02.pdf.  
-24 This is based on the screen tallies for 5,864 buses.  There are a number of buses in the spreadsheet for which the 
-Company does not list the number of screens.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-17	
-  
-
-
-Lying about the screens is significant for two reasons: First, with only one screen per bus, it is 
-hard to hold the attention of many of the passengers, which implies that the platform delivers less 
-value to advertisers.  Second, we believe that CCME’s unwillingness to spend $200 per bus more 
-on an extra screen (despite claiming it actually does) shows that the business is much less 
-profitable than CCME claims. 
- 
-CCME is Lying About the Number of Bus Operators with which it does Business.  In this 
-Case, we are Somewhat Impressed. 
- 
-CCME claims that it deals with only 63 bus operators,25 which gives the impression that its 
-market consists of large players and is thus easier to manage.  In reality, its sales spreadsheet lists 
-approximately 25026 bus operators.  A number of these operators have only a handful of buses.  
-(Note that there are 5,222 buses – 41.6% – for which for which the sheet does not list operators, 
-so the total number of operators is likely a decent bit larger.) 
- 
-The significantly larger number of operators means that it is harder to control whether the drivers 
-are playing CCME content or DVDs.  A larger number of bus operators presumably makes 
-maintaining the equipment and updating the content more difficult.  Kudos to CCME’s 
-management for anticipating that investors may look less favorably on the Company’s model if it 
-stated the true number of operators.  This is clearly a more sophisticated management than those 
-on which we have written in the past. 
- 
-CCME’s Target Audience is Mainly a Sub-Greyhound Demographic. 
- 
-CCME’s claim that its typical inter-city bus passenger is a middle-income white-collar office 
-worker27 is wrong.  Inter-city buses are the Greyhounds of China, except lower end.  Unlike in 
-the United States (which has a similar land mass to China), China has an excellent rail network.  
-Its network consists of a range of travel options – high speed trains similar to those in Europe 
-and Japan to conventional multi-class and sleeper trains.  There are ample affordable rail options 
-for middle-income office workers.  Beyond trains, China has a first rate air transportation 
-network, and private car ownership is becoming common among middle-income families. 
- 
-With the exception of routes into and out of Tier 1 cities (which are a small percentage of 
-CCME’s routes), the prevailing demographic on China’s inter-city buses is low-end, consisting 
-of migrant workers, students, maids, and subsistence farmers.   
- 
-Make no mistake, China’s poor are much poorer and less educated than America’s poor.  There 
-are myriad articles discussing the gap between China’s poor and middle class, so we will not 
-dwell on this point.  Narrowing this gap is one of the government’s top priorities, but it will take 
-two or more generations to bring the gap in line with developed countries. 
- 
-
-
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-25 CCME Form 10-Q September 30, 2010 p. 16. 
-26 The ambiguity is due to some possible type-o’s in the advertiser kit spreadsheet. 
-27 See Appendix.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-18	
-  
-
-
-VISN and Bus Online illustrate how low-end the CCME demographic is.  VISN and Bus Online 
-operate live television broadcasts (inherently more valuable to advertisers than recorded content) 
-on intra-city buses.  Intra-city buses typically serve daily commuters – many of who have office 
-jobs in the cities.   
- 
-In our survey of media buyers, we asked them to rate and comment on the suitability of VISN 
-and Bus Online’s platforms for advertising i) a mass market beverage (e.g., Coca-Cola or Pepsi) 
-and ii) a personal computer (e.g., Lenovo).  (We asked the same questions of CCME’s platform, 
-but none could comment because of their lack of familiarity with CCME.)  The questions and the 
-buyers’ responses are as follows: 
- 
-Q: Please rate the suitability of each platform for advertising a mass-market beverage (e.g. 
-Coca-Cola, Pepsi) from 1 to 5 (with 5 being highly suitable, 3 somewhat suitable, and 1 
-unsuitable). Provide an explanation for your answer. 
- 
-
-
-
-
-
- 
- 
- 
-Q: Please rate the suitability of each platform for advertising a personal computer (e.g., Lenovo) 
-from 1 to 5 (with 5 being highly suitable, 3 somewhat suitable, and 1 unsuitable) ” and provide a 
-brief explanation of the reason for your answer:
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-19	
-  
-
-
-From the above responses, it becomes clear that rider demographics on intra-city buses are a 
-concern for higher price point products.  There is a large gap between the income levels of intra- 
-and inter-city bus riders.   
- 
-CCME’s Business Has Low Barriers to Entry (Aside from Lack of Attractiveness).  That 
-Special Hardware?  Fuggedaboutit. 
- 
-To the extent that CCME does not have major competition, it is because the business model is 
-unattractive. CCME’s hardware supplier, Hangzhou Yusong (“Yusong”), sells its controllers and 
-screens to any willing buyer on Alibaba.  According to our conversation with Yusong, a “long 
-distance bus ad player and screen” cost only $320 (RMB 2,100) together.  There is a discount for 
-volume orders.  The supplier also said that there are a lot of companies in Shenzhen that produce 
-such systems.   
- 
-We understand that CCME is expecting to increase its capital expenditures.  Unless it plans to 
-actually buy buses, we do not understand how there is such a need. 
- 
-
-
-
-
-
-The hard disk advertising controller from CCME’s supplier.  Note that anybody can buy this or similar products 
-from this supplier, as well as others who make similar equipment.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-20	
-  
-
-
- 
-Financials  
- 
-We estimate that CCME generated 2009 revenue no greater than $17 million.  We base this 
-estimate on the metric of revenue per employee in sales and marketing.  While advertising 
-revenue is not perfectly correlated to sales / marketing employees, we believe that the correlation 
-is strong. 
- 
-The below table shows 2009 revenue, revenue by employee, and revenue by sales / marketing 
-employee for AMCN, FMCN, VISN, and CCME.  Note that AMCN’s media is generally the 
-most expensive because it reaches the top tier market in China; therefore, it is unsurprising that 
-its revenue per sales and marketing employee is the highest by a decent margin. 
- 
-
-
- 
- 
-CCME’s 10-K suggests that it has only seven sales people.  Because we believe that CCME 
-likely has more than seven salespeople, we added the 63 “business operation” employees to the 
-seven client service employees. Based on our visit to CCME’s Fuzhou headquarters and Beijing 
-office, we believe that 70 salespeople is a fair estimate of the number of salespeople CCME has. 
- 
-
-
- 
- 
-Because VISN has a somewhat similar business model to that of CCME, we chose VISN’s 
-revenue per sales and marketing employee as a baseline.  For the numerous reasons outlined in 
-this report, we believe that the productivity of a CCME salesperson would be far less than that of 
-his counterpart at VISN.  (Our dealing with a salesperson in CCME’s Fuzhou headquarters 
-reinforced that view.)   
- 
-Regardless, we discounted the productivity of VISN’s salespeople only 25%.  Multiplying that 
-by our estimate of 70 salespeople, we arrive at $17.2 million in revenue.  We note that FMCN 
-had a 2009 net income margin of 9%.  AMCN and VISN both lost money that year.  To be 
-generous to CCME, if we assume it had a 10% net income margin, then it generated net income 
-of $1.7 million or diluted EPS of $.05.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-21	
-  
-
-
-CCME may respond that it has an army of agents serving as proxy salespeople, but that would 
-further call into question its gross margin.  Agencies would clearly seek to earn a return on their 
-investments in staff.
-February	
-  3,	
-  2011	
-  
-	
-  
-
-
-	
-  
-	
-  
-
-
-22	
-  
-
-
-
-
-
-
-
-
-APPENDIX 
-Selected slides from the CCME November, 2010 investor presentation deck
- CCME operates an advertising media network targeting the travelling population
-
-
-Inter­city Buses
-• Connecting 1st­, 2nd­, 
-
-
-and 3rd­tier cities
-• Average journey time 
-
-
-around 2.5 hours
-
-
-Network
-
-
-• Average age 30 (majority male)
-• Travel for business or tourism
-• Mid­to­high income group
-
-
-Airport Express Buses
-• Connecting airport to 
-
-
-cities
-• Average journey time 
-
-
-around 1 hour
-
-
-Target Audience
-
-
-• PMEB group (Professional, 
-Management, Executives, 
-Businessman) is majority
-
-
-• High education level
-• High income and consumption 
-
-
-level group
-
-
-Business Overview
+1
 
 
 3
-Our target: to generate 50% sales from direct advertisers by 2013, while maintaining good 
-relationship with agencies
 
 
-Sales Agencies
-• Over 30 agencies, 2­4 agencies in each 
+Questionable Business Strategy: In our opinion, Tower is a collection of old semi foundries cobbled together from acquisitions, 
+which produce significantly below industry average GAAP gross margins (from 2012-2014 Tower 9% vs. 23% peer average). Having 
+gone through numerous financial restructurings in the past, Tower promotes large revenue goals reaching $1bn, and a large Non-
+GAAP EPS headline of questionable merit, but has amassed ($695m) of negative cumulative free cash flow since 2004! Not having
+the capital support or free cash flows to fund the large capex requirements to compete in the semiconductor manufacturing 
+industry, Tower spends just 15% of sales on capex vs. peers at 40% of sales. Its recent deals (e.g. Micron and Panasonic) reflect a 
+short-term business strategy designed to bolster revenue growth for short periods, which allow its partners to sunset aged 
+product cycles. It also allows Tower to book abnormal bargain purchase gains and trumpet the potential for new revenue sources 
+from selling unused fab capacity. However, Tower’s recent write-down of its acquired Japanese fab from Micron should be a 
+warning sign of the pitfalls inherent in Tower’s business strategy. Micron, once a key purchaser of product from Tower, now no 
+longer buys product from it – one example that Tower is not participating in declining industry growth other than picking up old 
+fab facilities.  The Panasonic deal shocked Spruce Point: Tower marks the JV at a 250%+ premium to that of Panasonic’s valuation
 
 
-region (as of June 2010)
-• Cooperating for an average of 2.5 years
-• All agencies are major regional 
+Questionable Management, Corporate Governance and Long-Term Alignment With Shareholders:  Tower’s CEO mysteriously 
+omits his educational achievements, which suggests he did not even graduate from college, and is bizarre for a mature billion dollar 
+semi foundry business. Meanwhile, the CEOs of Tower’s key peers all have advanced degrees, many with PhD’s. An apparent lack of 
+formal education has not stopped Tower’s CEO from overseeing a company that has ravaged shareholders with massive dilution, 
+well-timed stock options at inconsistently defined strike prices, and extravagant compensation and perks. Tower’s group of 18 
+insiders earn a lavish 13% of SG&A expense (up from 6.6% in 2006 and compared with peers at 2 – 7.5%). Management is paid 
+handsomely for promoting in the media that it will earn hundreds of millions a year for investors, issuing frequent press releases 
+touting multimillion and billon $ market opportunities, yet haven’t demonstrated any sustained free cash flow in years
 
 
-advertising companies
-• Annual media purchase contract, 
+Punitive Equity Deals Hurt Shareholder Value: Acquiring revenues has come at a steep cost to shareholders: Since 2005, Tower’s 
+share count has increased 33% p.a., outpacing revenue growth of 25% p.a. Its recent deals with Micron, Panasonic, and Maxim 
+have each entailed significant equity issuances, and, in our opinion, reflect Tower’s dependence on propagating its share price to 
+support deal activity. Not surprisingly, Tower has had difficulty maintaining a stable roster of shareholders. All of its earlier strategic 
+shareholders (Sandisk, Alliance Semi, Macronix, Toshiba, QuickLogic) in the development of its second Israeli fab have sold, and its 
+two largest Israeli shareholders (Israel Corp and Bank Leumi) have liquidated their stock holdings over the past two years (despite 
+maintaining various board positions). Furthermore, the third largest shareholder, Bank Hapoalim, recently reduced its holding. U.S. 
+shareholders should ask themselves do they know Tower better than the Israeli banks which financed it, along with Israel Corp, 
+one of the country’s largest holding companies?
 
 
-monthly settlement
+2
+6
 
 
-Direct Sales Team                           
-• 113 salespeople ­ stationed in 14 sales 
-
-
-center (as of June 2010)
-• Provides services to agencies, 
-
-
-meanwhile actively seeking direct 
-advertisers
-
-
-• Clients  who 
-purchase regional 
-media ads, such as 
-Aier Ophthalmology , 
-Haier and China 
-Telecom provincial 
-subsidiaries
-
-
-• 21 minutes of 
-advertising time sold 
-every month
-
-
-• Clients who purchase 
-national media ads, 
-such as Industry Bank, 
-Micoe, Alibaba
-
-
-• 11.2 minutes of 
-advertising time sold 
-every month
-
-
- CCME’s sales model is to further grow its agency sales channel, and 
-actively develop its direct sales channel
-
-
-Sales Model
-
-
-Agencies
-Sales Centers
-
-
-Beijing
-
-
-Tianjin
-Huhehot
-
-
-Shijiazhuang
-
-
-Nanjing
-
-
-Chongqing
-
-
-Hefei
-
-
-Changzhi
-
-
-Fuzhou
-
-
-Guangzhou
-
-
-WuhanChengdu
-Shanghai
-
-
-Qingdao
-
-
-• Serve agents e.g., feedback on 
-broadcasting monitoring
-
-
-• Visit each agent 2­3 times per week
+4
 
 
 5
-Advertiser’s Voice
-Pepsi: China MediaExpress promotes our products to tier 2 cities and towns by its large scale inter­city bus network, which is 
-highly helpful to our sales expansion.
-CMCC: China MediaExpress’ network penetrates large target audience precisely.  It fits our products very well. 
-Lenovo: ChinaMediaExpress’ media cost is much lower than traditional media, which is the main reason that we chose CCME
 
 
-Selected  Advertisers
-Rank 2009 1H’ 10
+Evidence Suggesting Brazen Accounting Scheme To Forestall Bankruptcy Threat: In 2013 with its stock price at a multi-year low, 
+Tower indicated it had a wall of debt maturities coming due in 2015. Coincidentally, in Dec 2013 Tower announced what it described 
+as a “momentous” and “revolutionary foundry concept” JV deal with Panasonic which would add $400m+ of revenues. Panasonic’s 
+tone was much more muted, and described the transaction as a consequence of difficulty in competing using these very same fab
+facilities. In our opinion, Tower may have heavily promoted the Panasonic deal to inflate its stock, and convert its Series F debt to 
+equity to relive its debt burden. We have evidence to suggest Tower inflated the value of the JV’s assets from approx. $100m to 
+$300m in order to inflate a bargain purchase gain to bolster its equity. Furthermore, Tower has engaged in other questionable
+accounting maneuvers to give the appearance of strong Non-GAAP gross margins, profitability, and free cash flow such as: 1) Shifting 
+COGS expenses to R&D and SG&A; 2) Changing the presentation of capex from “gross” to “net”; 3) Extending the useful life of its 
+assets to reducing depreciation expense; 4) Excluding depreciation and amortization to present Non-GAAP results (not industry 
+standard); 5) Haircutting its convertible and bank debt by inappropriately interpreting the accounting guidance. It should also be no
+surprise that Tower’s financial reporting and transparency is sub-standard compared with peers. We observe Tower doesn’t report 
+key performance metrics and financial details such as 1) Revenue by technology or application; 2) Utilization figures; 3) Allowance for 
+doubtful accounts; 4) Intercompany sales, and; 5) Financial guidance beyond sales among other things
 
 
-Brand Sector Ad minutes Brand Sector Ad minutes
-1 CMCC Telecom 40.28 China Telecom Telecom 60
+Analyst Misperceptions and Valuation Disconnect:  Analysts price targets range from $17 - $28 per share (average $22/sh) 
+suggesting 75% upside from the current price. Analysts base these price targets on the assumption that Tower will grow 2016 
+revenues and Non-GAAP EPS by 13% and 23%, respectively, with larger peers and industry forecasts suggesting low single digit 
+revenue growth, and declining YoY EPS. It is no surprise that analysts’ are claiming that Tower’s shares are cheap while trading at 
+just 4.2x and 5.8x 2016E P/Non-GAAP EPS and EV/EBITDA, respectively. In our opinion, Tower’s Non-GAAP EBITDA and EPS is so 
+highly adjusted with questionable accounting assumptions, that analysts’ estimates are practically useless. In our opinion, the true 
+story is that Tower has a speculative business model that does not appear to make money, and appears dependent on issuing its
+inflated equity to finance transactions with larger industry counterparties. As a result, we view a sales-based multiple as more
+appropriate for valuing Tower. Its stock is currently trading at a 1.4x 2016E EV/Revenues. Investors should look at recent semi stocks 
+dogged with accounting issues such as Magnachip Semiconductor (NYSE: MX) and Marvel Tech (Nasdaq: MRVL) as appropriate 
+valuation peers. MX, which like Tower also operates outsourced foundry services,  recently went through an accounting restatement 
+tied to errors in, among other things, revenue recognition, cost of goods sold, inventory reserves, capitalization, expense recognition 
+and allocation, as well as related business practices, for distributor, non-distributor customers and vendors. Its core business loses 
+money and it trades at 0.5x EV/revenues. Valuing Tower at between 0.5x and 0.8x 2016E revenues gets us a valuation range of 
+approximately $3.00 - $6.00 per share (50 -75% downside).  Ongoing shareholder dilution would not be foreign for TSEM’s stock.
+8Source: Tower Investor Presentation, August 2015
 
 
-2 Coca cola F&B 36.33 CMCC Telecom 58.5
-3 Unit­present F&B 36.08 Coca cola F&B 52.5
-4 China 
+Original fab acquired 
+from National 
+Semiconductor in 1993
 
 
-Telecom Telecom 36.08 Unit­present F&B 51.75
+Fab 2 built in 2001 and commenced 
+production in 2003. Original shareholders 
+Toshiba, SanDisk, Alliance Semi, Toshiba, 
+Macronix all liquidate
 
 
-5 Pepsi F&B 33.33 Pepsi F&B 49
-6 Master Kong F&B 27.42 Eratat Apparel 41
-7 Eratat Apparel 20.25 Xiduoduo F&B 39.5
-8 Xiduoduo F&B 18.00 Master Kong F&B 35.25
-9 GuJingGong F&B 17.83 GuJingGong F&B 29.5
-10 Rejiaman Health care products 17.33 Seven wolf Apparel 28.5
+Fab 3 Acquired from Jazz Technologies 
+in 2008; formerly spun-off from 
 
 
- Our advertising clients are national brands mainly: food & beverage (F&B), 
-telecom and apparel sectors
+Conexant in 2002
 
 
-Top Ten Advertisers
+Discarded from 
+Panasonic in 2013 
+due to competitive 
 
 
-Advertisers
+issues. TSEM 
+formed a JV with 
 
 
-6
+Panasonic and 
+owns 51% 
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-presentations
+9
+
+
+ Sept 2008:  $250m debt forgiveness with Israeli banks in exchange for convertible equity at $1.42/share1 and a $20m 
+equity injection
+
+
+ In May 2008, TSEM announced it would acquire Jazz Semiconductor in an all-stock deal for an enterprise value of $169m:
+• History:  The assets were originally spun-out of Conexant as announced in 2002. Originally called “SpecialtySemi” 
+
+
+before changing its name to Jazz Semiconductor, it was backed with capital from The Carlyle Group
+• Acquicor, a special purpose acquisition company (SPAC) raised $173m and in Sept 2006 acquired Jazz for $253m 
+• Acquicor’s Jazz transaction was noted as a failure, particularly as the SPAC had a roster of big name, successful 
+
+
+investors from Apple (Gil Amelio, Steve Wozniak and Ellen Hancock)
+• By 2010, Jazz would need to restructure its debt:
+
+
+• June 2010, June 2010, and July 2010: Jazz debt exchange of approximately $80m in aggregate principal 
+amount of its outstanding $123m of 8% convertible senior bonds due 2011 for new non-convertible senior 
+bonds due 2015. In addition, exchanging bond holders received warrants for the purchase of approximately 
+25 million Tower ordinary shares at an exercise price of $1.70/share1
+
+
+ March 2013: Israeli Bank loan extension, resulting in 2013 and 2014 principal payments being reduced from $105m to 
+$30m. The outstanding loan of $131m, which was originally set to be paid starting September 2013, would be payable in 
+10 quarterly installments, starting on March 2014 and ending on June 2016
+
+
+ May 2013:  Equity rights offering proposed in the amount of $60m
+ Oct 2014:  Bank debt refinancing
+ March 2015: Accelerated Series F conversion
+
+
+1) TSEM announced a 15:1 reverse split on 8/2/12
+
+
+Warning: As a result of TSEM’s inability to create free cash flows over time, starting from 2008, the 
+
+
+Company engaged in three debt restructuring agreements, 2 of which were with Israeli banks and 1 
+
+
+was conducted by its US subsidiary (JAZZ) with US banks and creditors.
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891308002515/zk85855.htm
+
+http://www.prnewswire.com/news-releases/tower-semiconductor-to-acquire-jazz-technologies-59293722.html
+
+http://www.eetimes.com/document.asp?doc_id=1177182
+
+http://www.carlyle.com/news-room/news-release-archive/jazz-semiconductor-merge-acquicor-technology-inc
+
+http://archive.fortune.com/2008/03/17/technology/lashinsky_aquicor.fortune/index.htm?postversion=2008031806
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310001484/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310001702/zk1008483.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310001786/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313000692/zk1312798.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313000692/zk1312798.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313001670/zk1313205.htm
+
+http://www.towerjazz.com/prs/2014/1027.html
+
+http://www.towerjazz.com/prs/2015/0310.html
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1721366
+10
+
+
+0.00
+
+
+1.00
+
+
+2.00
+
+
+3.00
+
+
+4.00
+
+
+5.00
+
+
+6.00
+
+
+7.00
+
+
+8.00
+
+
+9.00
+
+
+$0.00
+
+
+$2.00
+
+
+$4.00
+
+
+$6.00
+
+
+$8.00
+
+
+$10.00
+
+
+$12.00
+
+
+$14.00
+
+
+$16.00
+
+
+$18.00
+
+
+$20.00
+
+
+2
+-J
+
+
+a
+n
+
+
+-1
+3
+
+
+2
+-F
+
+
+e
+b
+
+
+-1
+3
+
+
+2
+-M
+
+
+a
+r-
+
+
+1
+3
+
+
+2
+-A
+
+
+p
+r-
+
+
+1
+3
+
+
+2
+-M
+
+
+a
+y
+
+
+-1
+3
+
+
+2
+-J
+
+
+u
+n
+
+
+-1
+3
+
+
+2
+-J
+
+
+u
+l-
+
+
+1
+3
+
+
+2
+-A
+
+
+u
+g
+
+
+-1
+3
+
+
+2
+-S
+
+
+e
+p
+
+
+-1
+3
+
+
+2
+-O
+
+
+ct
+-1
+
+
+3
+
+
+2
+-N
+
+
+o
+v
+
+
+-1
+3
+
+
+2
+-D
+
+
+e
+c-
+
+
+1
+3
+
+
+2
+-J
+
+
+a
+n
+
+
+-1
+4
+
+
+2
+-F
+
+
+e
+b
+
+
+-1
+4
+
+
+2
+-M
+
+
+a
+r-
+
+
+1
+4
+
+
+2
+-A
+
+
+p
+r-
+
+
+1
+4
+
+
+2
+-M
+
+
+a
+y
+
+
+-1
+4
+
+
+2
+-J
+
+
+u
+n
+
+
+-1
+4
+
+
+2
+-J
+
+
+u
+l-
+
+
+1
+4
+
+
+2
+-A
+
+
+u
+g
+
+
+-1
+4
+
+
+2
+-S
+
+
+e
+p
+
+
+-1
+4
+
+
+2
+-O
+
+
+ct
+-1
+
+
+4
+
+
+2
+-N
+
+
+o
+v
+
+
+-1
+4
+
+
+2
+-D
+
+
+e
+c-
+
+
+1
+4
+
+
+2
+-J
+
+
+a
+n
+
+
+-1
+5
+
+
+2
+-F
+
+
+e
+b
+
+
+-1
+5
+
+
+2
+-M
+
+
+a
+r-
+
+
+1
+5
+
+
+2
+-A
+
+
+p
+r-
+
+
+1
+5
+
+
+2
+-M
+
+
+a
+y
+
+
+-1
+5
+
+
+2
+-J
+
+
+u
+n
+
+
+-1
+5
+
+
+2
+-J
+
+
+u
+l-
+
+
+1
+5
+
+
+2
+-A
+
+
+u
+g
+
+
+-1
+5
+
+
+2
+-S
+
+
+e
+p
+
+
+-1
+5
+
+
+2
+-O
+
+
+ct
+-1
+
+
+5
+
+
+2
+-N
+
+
+o
+v
+
+
+-1
+5
+
+
+2
+-D
+
+
+e
+c-
+
+
+1
+5
+
+
+Volume Share Price
+
+
+12/20/13: Announces Panasonic JV 
+formation (TPSCo), acquires 3 semi factories 
+in Japan. “Revenue to increase by 
+~$400m/yr, enabling a $900m annual run 
+rate opportunity starting Q2 2014 and 
+improving profitability following the 
+closing of this transaction”
+
+
+3/20/14: Reduces net debt 
+through June 2015 by 
+$55m; Issues new un-
+secured bonds maturing in 
+2018, for $45m of the $94m 
+8% Bonds due June 2015. 
+
+
+6/30/14: $85m 
+5yr Term Loan for 
+TPSCo, TIBOR+2%
+
+
+10/27/14: Refinances Bank 
+Debt with a $111m Term 
+Loan due 2018 @ L+3.9%. 
+Reduces the principal 
+payments for 2015 and 
+2016 from $101m to $24m
+
+
+12/8/14: Buys 
+Back Its $45m 
+8% Notes due 
+2015. Reduces 
+Debt Due June 
+2015 to Zero
+
+
+2/23/15: FY 2014 results trumpet 
+strong organic growth, 2x Increase 
+in YoY EBITDA. Guides to 70% YoY 
+Revenue Growth in Q1’15
+
+
+3/26/15: Accelerates Conversion of 
+Series F Convertible Bonds, 
+Reduces Debt by $80m, Reducing 
+Interest Costs by $10m in 15/16
+
+
+11/18/15: 
+Acquisition of 
+Maxim’s 8in fab in 
+TX for $40m of 
+TSEM shares 
+
+
+9/7/15: 
+Announces $30m 
+advance payment 
+from customer to 
+be used for Capex 
+
+
+4/30/15: Kenon 
+(NYSEL KEN), 
+24% owner of 
+TSEM, asks 
+shareholders to 
+vote on share 
+distribution
+
+
+Our presentation will explore the questionable nature of the Panasonic deal, and the appearance of  
+
+
+brazen accounting scheme we believe may have been used to forestall financial calamity
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1886363
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1910343
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1941028
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1981632
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1995569
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2018778
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2028734
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2113620
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2085708
+
+http://www.sec.gov/Archives/edgar/data/1611005/000119312515159529/d919211dex991.htm
+11
+
+
+$ in millions, except per share amounts
+
+
+Tower Semiconductor’s enterprise value and valuation needs to be correctly adjusted for its true 
+
+
+amount of debt outstanding, multitude of dilutive securities, and our estimated value of Panasonic’s 
+
+
+non-controlling interest (NCI) in TPSCo. As we will illustrate later in our presentation, we believe Tower 
+
+
+has taken overt actions to reduce its book value of debt outstanding, and minimize the value of the NCI.
+
+
+(1) 82.1m outstanding shares (13D filed 1/11/16), 3.1m shares to be issued to Maxim, 13m possible shares underlying options and warrants, 3m underlying debentures series F, 3m 
+underlying capital notes.
+(2) Assumes $10m debt reduction from FY 2014 amount outstanding of $101m
+(3) Balance outstanding per Jazz Technologies, Inc 10Q filing on 9/30/15
+(4) Based on Dec 8, 2015 Press Release
+(5) Based on the mid point of our adjusted estimate for the true value of the non-controlling interest (see: Slide), less approx. $40m of estimated accumulated losses
+
+
+  FY Ended 12/31 
+
+
+TSEM Stock Price $12.50 Valuation Metrics 2015E 2016E 2017E
+
+
+Diluted Shares Outstanding (1) 104.0 EV / Sales 1.6x 1.4x 1.3x
+
+
+Market Capitalization $1,300.0 EV / Adj. EBITDA 6.3x 5.8x 5.2x
+
+
+Israeli Bank Debt (2) $91.0 Price / GAAP EPS NM 9.2x 6.1x
+
+
+Wells Fargo Line (3) $20.0 Price / Non-GAAP Adj. EPS 5.2x 4.2x 3.9x
+
+
+TPSCo Japanese Loan A $73.0
+
+
+TPSCo Japanese Loan B  (4) $70.0 Credit Metrics
+
+
+Series F Convertible Debenture $0.8 Debt / Adj. EBITDA 1.3x 1.0x 0.6x
+
+
+Series D Debentures $5.8
+
+
+Jazz Senior Notes $58.6
+
+
+Total Financial Obligations $319.2
+
+
+Plus: Non-controlling interest (5) $100.0
+
+
+Less: Cash and Equivalents ($155.3)
+
+
+Enterprise Value (EV) $1,563.9
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000119312516426323/d112149dsc13da.htm
+
+http://www.sec.gov/Archives/edgar/data/1337675/000117891315003525/zk1517609.htm
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2120841
+12
+
+
+Warning: Significant near-term maturities due in the next three years
+
+
+2016:  $55m  2017: $89m  2018: $144m
+
+
+Source: Tower Financials and Recent TPSCo Term Loan Announcement (Dec 2015)
+
+
+$ in millions
+
+
+$14.0 
+
+
+$56.0 
+
+
+$21.0 $20.0 
+
+
+$0.8 
+
+
+$58.6 
+
+
+$20.0 $20.9 $20.9 
+$20.9 
+
+
+$10.4 
+$12.1 
+
+
+$24.3 $24.3 $24.3 
+
+
+$0
+
+
+$10
+
+
+$20
+
+
+$30
+
+
+$40
+
+
+$50
+
+
+$60
+
+
+$70
+
+
+2016 2017 2018 2019 2020
+
+
+Israeli Bank Debt Series F Convertible Debentures
+
+
+Series D Debentures Jazz Notes
+
+
+Wells Fargo Facility TPSCo Yen Loan A
+
+
+TPSCo Yen Loan B
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2120841
+14
+
+
+ TSEM operates in the semiconductor manufacturing sector, an industry characterized by extreme price competition, short 
+product cycles leading to rapid product obsolescence, and high capital intensity. It competes against lean and efficient global 
+players. While all of TSEM’s manufacturing facilities are located in developed countries (Israel, US, Japan), in which the 
+operating expenses, including costs of workforce and maintenance, are relatively high, the manufacturing facilities of its 
+direct competitors are located in lower cost geographies such as China, Taiwan, Korea and Malyasia
+
+
+ As illustrated in the table below, TSEM’s margins are, and have been for a long time, significantly lower than those of 
+comparable companies:
+
+
+ TSEM’s business strategy revolves around purchasing old and outdated fabrication facilities in developed countries. In the 
+short period following the purchase, the sellers keep providing orders over the duration of the remaining product life cycles, 
+and by doing so covers some of the fixed operating costs
+
+
+ Tower has to prove it can bring new customers to these facilities, to absorb significant unused capacity, while it carries a high 
+fixed-cost burden of operation (and in certain cases, unionized elder workforce where TSEM bears the liabilities for 
+retirement and redundancy costs when the assets are retired)
+
+
+ TSEM’s recent Micron deal, which resulted in a shut down of the facility and large impairment costs illustrate the challenges
+of sustaining this strategy. Its recent Panasonic deal, promoted with great promise, may ultimately result in a similar outcome,
+and we will explore this transaction in greater detail further in the presentation
+
+
+ Tower may face challenges implementing its strategy in countries such as China, Taiwan, South Korea or India, where in recent 
+years new fabrication facilities with advanced technologies are being built with massive capital investment and cooperation 
+between some of the big player in the industry
+
+
+Key Financial
+Metrics
+
+
+Taiwan
+Semi.
+
+
+United
+Micro.
+
+
+Semi.
+Mfct Int’l
+
+
+Vanguard 
+Int’l Semi.
+
+
+Dongbu
+Hitek Average
+
+
+Tower
+Semi.
+
+
+Avg Gross Margin 48% 19% 22% 31% 19% 28% 9%
+
+
+Avg EBITDA Margin 63% 34% 35% 34% N/A 42% 23%
+
+
+Source: Average reported financial results from 2012-2014 per each company
+15
+
+
+Tower’s largest peers spend approximately 40% of annual sales on capex needs (maintenance and growth) and 
+
+
+9% of sales on R&D. With new fabs running into the billions (eg. Taiwan Semi’s planned $3bn fab in China), the 
+
+
+costs of maintaining competitiveness in the industry are sizeable. Tower has spent approximately 15% of sales 
+
+
+on capex and 6% on R&D in the past few years – well below average. 
+
+
+Note: Capex is presented on a gross basis (before any proceeds from asset or property sales). 
+Source: Company financials
+
+
+0%
+
+
+10%
+
+
+20%
+
+
+30%
+
+
+40%
+
+
+50%
+
+
+60%
+
+
+Taiwan Semi United Micro Semi Mfct'g Int'l Tower
+
+
+2012 2013 2014 Peer Avg.
+
+
+$8.5   $9.6
+
+
+$9.1 
+
+
+$1.8
+
+
+$1.1
+$1.4
+
+
+$0.5
+
+
+$0.8
+
+
+$1.0
+
+
+$0.1 $0.08
+
+
+$0.1
+
+
+$ in billions
+
+
+Capex R&D Margin
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+Vanguard Tower Taiwan Semi SMI UMC Magnachip
+
+
+2012 2013 2014 Peer Average
+
+
+% of Revenue
+
+
+
+http://www.wsj.com/articles/taiwan-semiconductor-plans-to-build-chip-plant-in-china-1449503714
+16
+
+
+Source: Tower Investor Presentation, August 2015
+
+
+To support our opinion that Tower doesn’t really make money, we have included below Tower’s first and 
+
+
+second slides from its recent investor presentation. Tower is quick to point out its significant revenue 
+
+
+growth over the past decade,  and recent revenue growth relative to peers. However, what Tower does 
+
+
+not focus on are more critical financial metrics investors use to value a company such as EPS, EBITDA, 
+
+
+Cash Flow, or Return on Invested Capital (ROIC)
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-presentations
+17
+
+
+ TSEM appears to be a struggling company lagging behind the industry that approaches 
+customers who need small batches and/or need chips for products that are at their end of a 
+life cycle. This technological lag leads to TSEM’s inability to integrate its products with 
+technologically advanced digital chips, a problem that will only worsen in the future
+
+
+ In addition, in our opinion TSEM is not an attractive purchase for a potential buyer, as it carries 
+restrictions regarding the transfer and use of intellectual property and know how imposed by 
+the state of Israel who gave the company significant amounts of grants for the construction of 
+its Israeli fabs. Nevertheless, the state of Israel might remove this restriction in order to 
+prevent the company from entering into default and mass layoffs of Israeli workers
+
+
+ As a result of its business issues, TSEM does not appear to generate free cash flow according 
+to our analysis on the next slide
+
+
+ TSEM appears to use various subtle financial presentation distortions and accounting 
+gimmicks to cover-up its business problems and its inability to generate free cash flows
+
+
+ Meanwhile, TSEM frequently trumpets its business dealings with extensive press releases that 
+often tout billion dollar market opportunities (example 1, 2, 3) and its recent Panasonic JV deal 
+(which we will explore in great depth), which it calls “A Revolutionary Foundry Concept” (see 
+Sept 2015 Company Presentation) – still these market opportunities have not generated in 
+cumulative free cash flows
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-news&nyo=0
+
+http://www.businesswire.com/news/home/20130311005568/en/TowerJazz-Gaining-Sizeable-Share-Multi-Billion-Dollar-Front-End
+
+http://www.prnewswire.com/news-releases/phasor-solutions-and-towerjazz-demonstrate-paradigm-shift-in-multi-billion-dollar-satellite-communications-and-radar-market-158535705.html
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2127954
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-presentations
+18
+
+
+From 2004 to Q3’15, TSEM reportedly generated cumulative free cash flow losses of $607m.
+*
+While it appears 
+
+
+that recently reported financial results indicate free cash flow is growing, we will present evidence later in the 
+
+
+presentation that suggests TSEM changed its definition of capex from “gross” to “net.” This change could be 
+
+
+confusing investors and inflating the appearance of free cash flow from 2013-Current. 
+
+
+See this slide for complete details
+
+
+* TSEM changed its capex presentation from gross to net of PP&E sales.  Adjusted FCF for 2013 and 2014 were ($40)m and $3m, respectively. YTD 2015 Adjusted FCF 
+cannot be determined since TSEM does not provide investors details to determine proceeds from sold PP&E. Adjusted Cumulative FCF 2004-2014 is ($695)m
+Source:  Tower Financials
+
+
+($190)
+
+
+($289)
+
+
+($480)
+
+
+($571)
+
+
+($645) ($636)
+($620) ($629)
+
+
+($658)
+($693)
+
+
+($645)
+($607)
+
+
+($800)
+
+
+($700)
+
+
+($600)
+
+
+($500)
+
+
+($400)
+
+
+($300)
+
+
+($200)
+
+
+($100)
+
+
+$0
+
+
+$100
+
+
+$200
+
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013* 2014*
+YTD
+
+
+2015*
+
+
+GAAP Net Income Operating Cash Flow Capex Free Cash Flow Cumulative Free Cash Flow
+
+
+$ in millions
+19
+
+
+ As a result of the company’s inability to generate free cash flows over time, all of the 
+company’s recent M&A transactions were funded, almost solely, with equity issuance 
+(except for the Micron deal which 2/3 of it was funded with cash):
+• May 2008: JAZZ stock-for-stock deal of approx. $40m 
+• April 2011: Micron deal total consideration of $62.6m, of which $40m was cash 
+
+
+and the rest was funded with equity issuance of 19.7 million ordinary shares.
+• Dec 2013: Panasonic deal total consideration of $7.4m funded with issuance of 
+
+
+870,454 TSEM ordinary share issuance
+• Nov 2015: Maxim Deal, total consideration of $40m that will be funded with 
+
+
+TSEM ordinary share issuance
+ The fact that TSEM funds its M&A activity mostly with equity issuance (expensive 
+
+
+capital), reveals potential difficulties it faces in raising cheaper debt from banks 
+and/or institutional investors
+
+
+ The frequent equity issuance could indicate that Tower believes its share price and 
+market capitalization is overpriced
+
+
+
+http://www.prnewswire.com/news-releases/tower-semiconductor-to-acquire-jazz-technologies-59293722.html
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1545433
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1886363
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2113620
+20
+
+
+$0
+
+
+$200
+
+
+$400
+
+
+$600
+
+
+$800
+
+
+$1,000
+
+
+$1,200
+
+
+0.0
+
+
+10.0
+
+
+20.0
+
+
+30.0
+
+
+40.0
+
+
+50.0
+
+
+60.0
+
+
+70.0
+
+
+80.0
+
+
+90.0
+
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 Q4'2015
+(2)
+
+
+TSEM’s management does not appear to have created long-term shareholder value. While TSEM’s revenue 
+
+
+growth from $100m in 2005, to almost $1 billion in 2015, appears impressive on the surface, it needs to be viewed 
+
+
+in the context of management’s ability to grow revenues in a shareholder friendly manner. We find that TSEM’s 
+
+
+basic share count has grown faster than its revenues. Meanwhile, sustainable GAAP profits remain elusive. 
+
+
+Ordinary shares o/s (LHS) Total Revenues (RHS)
+
+
+Share Count CAGR:      34% (1)
+
+
+Total Revenue CAGR:   25%
+
+
+1. CAGR= Compounded Annual Growth Rate. Revenue CAGR assumes 2015E Sales of $958m per Wall St. Estimates and 2015 yr end share count
+2. Based on recent Jan 11, 2016 13D filing share count of 82.1m and pro forma for estimated Maxim share issuance of 3.1m
+
+
+$ in millions
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000119312516426323/d112149dsc13da.htm
+22
+
+
+Biography
+Russell Ellwanger
+Chief Executive Officer
+
+
+Mr. Ellwanger was appointed Chief Executive Officer in May 2005. Previously, from 1998 to 2005, he 
+served in various executive positions for Applied Materials Corporation, including Group Vice President, 
+General Manager of the Applied Global Services (AGS) division from 2004 to 2005, and Group Vice 
+President, General Manager of the CMP and Electroplating Business Group from 2002 to 2004.
+
+
+Mr. Ellwanger also served as Corporate Vice President, General Manager of the Metrology and Inspection 
+Business Group from 2000 to 2002, during which he was based in Israel. From 1998 to 2000, he served as 
+Vice President of Applied Materials’ 300-mm Program Office, USA.
+
+
+Mr. Ellwanger also served as General Manager of Applied Materials’ Metal CVD Division from 1997 to 
+1998 and from 1996 to 1997, he served as Managing Director of CVD Business Development, during which 
+he was based in Singapore. In addition, Mr. Ellwanger held various managerial positions at Novellus 
+Systems, Inc. from 1992 to 1996 and at Philips Semiconductors from 1980 to 1992.
+
+
+Tower’s 8 person executive management team has its biographies listed on the company’s 
+
+
+website. Each executive lists his or her academic credentials except the CEO!
+
+
+Source:  TowerJazz website
+
+
+No Formal Education Listed
+
+
+
+http://towerjazz.com/executive-management.html
+
+http://towerjazz.com/executive-management.html#ellwanger
+23
+
+
+In the semiconductor manufacturing industry, it is typical for the CEO/President to have an 
+
+
+advanced educational degree
+
+
+Taiwan
+Semi.
+
+
+United
+Micro.
+
+
+Semi.
+Mfct Int’l
+
+
+Vanguard Int’l 
+Semi.
+
+
+Dongbu
+Hitek
+
+
+Tower
+Semi.
+
+
+President/CEO Dr. Morris Chang Po Wen Yen Tzu-Yin Chiu Leuh Fang Chang-Sik Choi Russell Ellwanger
+
+
+Academic
+Credentials
+
+
+Dr. Chang received 
+his B.S. and M.S. 
+
+
+degrees in 
+Mechanical 
+
+
+Engineering from 
+M.I.T. in 1952 and 
+
+
+1953, and his Ph.D. 
+in Electrical 
+
+
+Engineering from 
+Stanford in 1964. He 
+
+
+has received 
+honorary doctorates 
+
+
+from seven 
+universities.
+
+
+Mr. Yen earned his 
+bachelor's degree 
+
+
+in Chemical 
+Engineering from 
+
+
+National Tsing Hua 
+University and his 
+
+
+masters in 
+Chemical 
+
+
+Engineering from 
+National Taiwan 
+
+
+University.
+
+
+Dr. Chiu holds a 
+bachelor's degree 
+from Rensselaer 
+
+
+Polytechnic 
+Institute, a Ph.D. 
+
+
+in electrical 
+engineering and 
+
+
+computer science 
+from the 
+
+
+University of 
+California, 
+
+
+Berkeley, and an 
+executive MBA 
+from Columbia 
+
+
+University
+
+
+M.S., Material 
+Science & 
+
+
+Engineering, 
+University of 
+Washington
+
+
+Dr. Choi earned 
+his Ph.D in 
+Electronic 
+
+
+Engineering 
+from North 
+
+
+Carolina 
+University and 
+
+
+both his Master 
+and Bachelor 
+
+
+degrees in 
+Material 
+
+
+Engineering 
+from Seoul 
+
+
+National 
+University.
+
+
+???
+
+
+Source Website Website Website Website Website Website
+
+
+
+http://www.tsmc.com/english/aboutTSMC/executives.htm
+
+http://www.umc.com/English/about/a.asp
+
+http://www.smics.com/eng/investors/ir_management.php#114300
+
+http://www.vis.com.tw/visCom/english/a_about/a0103_executive.htm
+
+http://www.businesswire.com/news/home/20120315005820/en/Samsung-EVP-Dr.-Chang-Sik-Choi-Joins-Dongbu
+
+http://towerjazz.com/executive-management.html#ellwanger
+24
+
+
+“We'll earn hundreds 
+of millions a year”
+
+
+March 29, 2015
+Tower Semiconductor Ltd. (Nasdaq: TSEM; TASE: TSEM), once on the verge of 
+bankruptcy, has a current market cap of NIS 5.2 billion - the same as First International 
+Bank of Israel (TASE: FTIN) and Migdal Insurance and Financial Holdings Ltd. (TASE: 
+MGDL), Israel's largest insurance company. No, this is not an overinflated bubble 
+about to burst. Russell Ellwanger, the company's American CEO, has led a long 
+process of recovery and building with many stumbling blocks since 2005.
+
+
+Ellwanger, who will celebrate a decade in his post on May 1, does not conceal his excitement when he hears that Tower Semiconductor's 
+share is getting closer to inclusion in the Tel Aviv 25 index. For him, the inclusion of an industrial-technological company like Tower 
+Semiconductor in the index of Israel's 25 largest Tel Aviv Stock Exchange (TASE) companies is both a personal achievement and a milestone for 
+the local industry. "Being on the Tel Aviv 25 will be very exciting for us. I can't say whether or not it will happen, but if it does, it will be 
+fantastic, amazing," he says in a special "Globes" interview marking his 10th anniversary as company CEO.
+
+
+Tower Semiconductor, which manufacturers chips at its fabs in Migdal HaEmek, in California, and in Japan, is the hottest story on the TASE 
+over the past 15 months. The company's market cap was still at NIS 650 million as recently as December 2013, following a 75% plunge in its 
+value within 18 months, but in the last two weeks of 2013, the share skyrocketed 50%, after Ellwanger revealed an unexpected deal with 
+Japanese electronic products company Panasonic.
+
+
+So far this year, Tower Semiconductor's share has added 250% to its value, a jump that, last week, led most of the company's holders of 
+Series F bonds convertible bonds to consent to early conversion of their bonds on preferred terms. This development will push Tower 
+Semiconductor's market cap up to NIS 5.2 billion, putting it in 28th place on the TASE in market cap. This massive conversion of debt to 
+equity is also expected to enable Tower Semiconductor to report cash balances in excess of its debt in its financial statements for the first 
+quarter of 2015 – something that had seemed almost inconceivable.
+
+
+“Russell Ellwanger took Tower Semiconductor from the brink of bankruptcy to 
+
+
+being the hottest stock in Tel Aviv. He looks back, and sketches the next goal.”
+
+
+Source: Globes Israel, March 29, 2015
+
+
+
+http://www.globes.co.il/en/article-tower-ceo-well-earn-hundreds-of-millions-a-year-1001023374
+25
+
+
+An excellent Seeking Alpha article by Author Jay Yoon recently explored the questionable compensation strategies used by 
+
+
+TSEM’s management to extract increasing cash comp and stock gains reaped at the expensive of shareholders with punitive 
+
+
+and well-timed option grants.
+
+
+Source:  Seeking Alpha Article by Jay Yoon: “TowerJazz: A Deeper Analysis of Management’s Troubling Behavior”
+
+
+Fiscal
+Year
+
+
+Inconsistent Option Strike 
+Determination Method
+
+
+2005
+(p.61)
+
+
+the opening market price of our 
+shares on the date of the board 
+
+
+approval of the grants
+
+
+2006
+(p.66)
+
+
+90 day average closing price of our 
+shares prior to grant
+
+
+2009
+(p.59)
+
+
+the closing price TSEM’s shares on 
+the trading day immediately prior 
+
+
+to the date of approval of the grant
+
+
+2013
+(F-42)
+
+
+30 trading days immediately prior 
+to the date of grant
+
+
+Research Highlights: 
+ Since Russell Ellwanger took over as CEO in 2005, TSEM’s management team has continuously enriched themselves with an excessive 
+
+
+amount of options at the expense of shareholders
+ The Company appears to be using various techniques to minimize the exercise price of its options, as well as timing grants to coincide 
+
+
+with key business events
+ Management has also received large pay increases despite poor business performance. In less than ten years, total cash compensation 
+
+
+to management has increased over 4x
+ Due to the questionable actions of the board and the more lenient nature of certain Israeli securities laws, it is unlikely that 
+
+
+management will change their behavior in the future
+
+
+Large Option Grants Under Ellwanger’s Tenure TSEM Stock Price vs. Key Option Grants Near 
+
+
+Cyclical Low Prices
+
+
+
+http://seekingalpha.com/article/2926056-towerjazz-a-deeper-analysis-of-managements-troubling-behavior
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891305000838/zk51591.txt
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891306001285/zk62596.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310001138/zk1008214.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891314001662/zk1414867.htm
+26
+
+
+TSEM’s insiders appear to be good at increasing total compensation despite the substantial accumulated capital 
+
+
+losses to shareholders. Total comp has risen at a 19% CAGR from 2005-2014. However, the compensation appears 
+
+
+more egregious when viewed in the context as a percentage of TSEM’s total marketing, general and administrative 
+
+
+(aka SG&A) expenses. As the table and chart below indicates, total comp is approximately 13.3% of expenses, up 
+
+
+from approximately 8% in 2005. TSEM’s Board and management, a team of 18 people, reap the benefits in an 
+
+
+organization with just shy of 4,000 total employees! Its total comp to SG&A is way out of line with competitors.
+
+
+Ordinary shares o/s (LHS)
+
+
+Note: Total compensation includes cash, fees, bonuses and perks. Total compensation calculated as a % of marketing, general and admin expense
+Source: Tower and Peer Company Financials. 
+
+
+$ in millions
+
+
+$1.4 
+$1.7 
+
+
+$3.0 
+
+
+$3.6 $3.6 
+
+
+$4.2 
+
+
+$6.6 
+
+
+$5.9 
+$6.3 
+
+
+$7.8 
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+16.0%
+
+
+$0.0
+
+
+$1.0
+
+
+$2.0
+
+
+$3.0
+
+
+$4.0
+
+
+$5.0
+
+
+$6.0
+
+
+$7.0
+
+
+$8.0
+
+
+$9.0
+
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+
+Peer
+2014 
+SG&A 
+
+
+Insider 
+Total 
+Comp
+
+
+Total 
+Comp / 
+SG&A
+
+
+Taiwan 
+Semi.
+
+
+$760.1 $58.0 7.6%
+
+
+United 
+Micro
+
+
+$239.3 $5.0 2.1%
+
+
+Semi.
+Mfct’ing
+Int’l
+
+
+$177.6 $9.2 5.2%
+
+
+Tower $58.8 $7.8 13.3%
+28
+
+
+Gains recognized from bargain purchases are rare in practice, yet TSEM has twice recorded gains on purchases 
+
+
+from sophisticated, multinational companies as sellers. In our opinion, the bargain purchase gains were created 
+
+
+either from inflating the values of the acquired assets, or from deflating the value of non-controlling interest (NCI = 
+
+
+the value of the equity not acquired by Tower) and/or not recognizing contingent liabilities of the acquisition.
+
+
+Seller
+Announced / 
+
+
+Closed
+Assets Purchase Guarantee
+
+
+Consideration 
+($mm)
+
+
+Bargain Purchase 
+Gain Recognized
+
+
+Micron
+4/4/11 /
+6/5/11
+
+
+Purchase of Micron’s 
+fab facility in 
+
+
+Nishiwaki City, 
+Hyogo, Japan
+
+
+TowerJazz to manufacture 
+products for Micron in the Japan 
+
+
+facility for approximately the next 
+three years
+
+
+$40m cash / 
+$22.6m stock
+
+
+(19.7m shares)  
+
+
+Initially: $10.5m but 
+increased to: $19.5m 
+
+
+(Note: A)
+
+
+Panasonic
+12/20/13 /
+
+
+4/11/14
+
+
+Acquires 3 of 
+Panasonic’s 
+
+
+semiconductor 
+factories in Japan, 
+
+
+51% of JV
+
+
+Panasonic committed to acquire 
+its products from the JV for a 
+period of at least 5 years of 
+
+
+volume production ($400m/yr)
+
+
+Issues $7.4m of 
+TSEM stock for 51% 
+
+
+of JV
+
+
+Initially: $150m “derived from 
+high value assigned to Tower’s 
+
+
+stake in TPSC”
+Increased to: $166m per 
+
+
+Annual Report
+
+
+ Bargain purchase: refers to a situation where the fair value of the net assets acquired exceeds the fair value of 
+consideration transferred. Such excess is sometimes referred to as “negative goodwill”
+
+
+ Mathematically:  Bargain Gain = Fair Value of Assets Acquired – Noncontrolling Interest (NCI) – TSEM Value Paid
+ Financial Statement Impact:  EPS and Book Equity become overstated
+ As illustrated in the table below, M&A deals conducted during the years 2011 (Micron) and 2014 (Panasonic) yielded gains 
+
+
+from bargain purchase of $20m and $166m, respectively
+ The aforementioned gains seem even more peculiar when examining the parties to these transactions: Micron and 
+
+
+Panasonic, two much larger and global companies, which have a fiduciary duty towards their shareholder to create value, 
+and whose financial stability aren’t in question
+
+
+Tower Deals With Bargain Purchase Gains
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1545433
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1570828
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1630290
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1886363
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1914334
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1931152
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+29
+
+
+On first pass, TSEM reports a $19.5m gain on acquisition from the Micron deal, everything seems great!
+
+
+ In our opinion, the purchase price allocation, the value of net tangible assets appears artificially inflated to $82m (Left Table)
+ As a result, Tower recognized a gain from bargain purchase in the amount of $19.5m (increased from $10.5m)  (Right Table)
+ TSEM paid $62.6m in a combination of $20m cash + $22.6m of TSEM stock
+ Because the consideration paid ($62.6m) was less than the consideration received (estimated by TSEM at $82.1m), the 
+
+
+company recognized a bargain purchase gain on acquisition of $19.5m ($82.1 – $62.6m)
+
+
+TSEM Reports Gain on AcquisitionFinal Purchase Price Allocation
+1
+
+
+Sources: 20-F Annual Report, 4/30/12
+Q3’2011 Press Release, 11/15/11
+
+
+(a) The calculation of gain from acquisition presented above, has been updated 
+from approximately $10.4m to approximately $19.5m, following the conclusion of 
+the purchase price allocation
+
+
+1. The revised final valuation  mainly showed an increase in current assets from $17m to $25.8m 
+
+
+$ in thousands
+
+
+$ in thousands
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891312001224/zk1211364.htm
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1630290
+30
+
+
+$19.5m “Bargain Purchase Gain” later resulting in a $55m loss....
+
+
+ In early 2015 when announcing FY 2014 earnings, and after the Panasonic deal was announced, Tower ceased its 
+operations in the Nishiwaki facility and recorded significant operational losses in addition to a $55m impairment
+
+
+ The aforementioned chain of events, cast a big question mark on the appropriateness of the $19.5m bargain 
+purchase gain, which the company recognized during 2011 with the completion of the Micron deal
+
+
+Source: 20-F Annual Report, 5/14/15
+
+
+$ in thousands
+
+
+TSEM Operating Results: 2012 - 2014
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2018778
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+31
+
+
+ Micron Last Disclosed its Ownership of TSEM Shares as of Feb 28, 2013 
+1
+
+
+“Marketable equity securities included approximately 1.3 million ordinary shares of Tower Semiconductor Ltd. (Note: 
+adjusted for 15:1 reverse stock split) received in connection with the sale of our wafer fabrication facility in Japan in 
+June 2011. As of February 28, 2013, 0.3 million shares received were subject to resale restriction and were valued 
+using a protective put model (Level 2). Resale restriction had lapsed for the remaining 1.0 million shares and they were 
+valued using quoted market prices (Level 1).”  
+
+
+Source:  Q1’2013 10Q filed 4/8/13
+
+
+1)  Micron’s subsequent 10Q filed on 7/8/13 no longer disclosed the ownership of TSEM stock
+
+
+ Micron’s Disclosure of the Tower Transaction:
+
+
+On June 2, 2011, we sold our wafer fabrication facility in Japan (the "Japan Fab") to Tower Semiconductor Ltd. 
+("Tower"). Under the arrangement, Tower paid $40 million in cash and approximately 20 million of Tower ordinary 
+shares. In addition, we will receive an aggregate amount of $20 million in twelve equal monthly installments 
+beginning in the second quarter of 2012. We recorded a gain of $54 million (net of transaction costs of $3 million) 
+in connection with the sale of the Japan Fab. We also recorded a tax provision of $74 million related to the gain on 
+the sale and to write down certain deferred tax assets associated with the Japan Fab. In connection with the sale of 
+the Japan Fab, we entered into a supply agreement for Tower to manufacture products for us in the facility through 
+approximately May 2014.
+
+
+Source:  2011 Annual Report, p. 29
+
+
+Curiously, in what appears a vote of no confidence in TSEM, Micron sold its TSEM stock in early 2013, 
+
+
+before its revenue deal with TSEM expired in mid 2014.
+
+
+
+http://www.sec.gov/Archives/edgar/data/723125/000072312513000042/a2013q2.htm
+
+http://www.sec.gov/Archives/edgar/data/723125/000072312513000108/a2013q3.htm
+
+http://www.sec.gov/Archives/edgar/data/723125/000072312511000189/mu-912011x10k.htm
+32
+
+
+ In March 2014, Tower acquired from Panasonic 51% of a newly established company, TowerJazz Panasonic Semiconductor Co., Ltd., 
+(“TPSCo”), that manufactures products for Panasonic and potentially other third parties, using Panasonic's three semiconductor 
+manufacturing facilities located in Hokuriku Japan
+
+
+ Panasonic transferred its semiconductor wafer manufacturing process and capacity tools (8 inch and 12 inch) at three fabs to TPSCo, and 
+entered into a five-year manufacturing agreement in a yearly estimated sales amount of $400m
+
+
+ As consideration for Tower 51% equity holding in TPSCo, TSEM issued to Panasonic 870,454 of its ordinary shares valued at approx. $7.4m
+ In the Purchase Price Allocation, we believe the value of net tangible assets was artificially inflated such that it summed to $181m. As a result 
+
+
+(and as a result of deflating the balance of NCI by approximately $93 million contrary to generally accepted accounting principles), TSEM 
+recognized a gain from bargain purchase in the amount of approximately $166.4m
+
+
+ To date, we estimate TPSCo has incurred cumulative losses of approximately $42m. In the tables below the NCI shrunk from $7.1m to a 
+negative balance of $13.7m on 6/30/15, or a cumulative loss of $20.5m, which represents 49%, so the total loss is $20.5 / 49% = $42m. 2 
+years into the JV, research estimates it has achieved a small amount of third party revenues at $10m/quarter, a far cry from projected growth 
+of $50m/quarter – this also impacts capacity yielding significant unused production room, our estimate is over 30% of unused capacity 
+
+
+Positive Initial Non-Controlling Interest
+
+
+Source: Q3’2014 Financial Filings
+
+
+Non-Controlling Interest Negative at 6/30/15
+
+
+Source: Q2’2015 Financial Filings
+Note: TSEM has not yet provided the NCI balance at 9/30/15
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891314003499/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315002510/exhibit_99-1.htm
+33
+
+
+ Tower listed its purchase price allocation of TPSCo (left table below): 
+
+
+• Total assets of $361.2m and net assets acquired were $180.3m
+
+
+ Meanwhile, Panasonic disclosed its view on TPSCo in a press release in Japan in December 2013 (right side table):
+
+
+• Total Assets of JPY 10.3bn ($98.8m) and Net Assets of JPY 1.5bn ($14.4m) 
+
+
+TSEM’s Purchase Price Allocation
+
+
+Source: Q2’14 Financial Filings Source: Panasonic Press Release, 12/20/13
+
+
+Panasonic’s Disclosure
+
+
+$ in thousands
+
+
+What could be greater evidence of a potential accounting scheme than 2 companies marking an 
+
+
+identical transaction at different values! TSEM’s valuation is 250%+ greater than Panasonic’s!
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891314002638/exhibit_99-1.htm
+
+http://www.panasonic.com/content/panasonic/global/en/corporate/ir/pdf/en131220.pdf
+34
+
+
+Purpose of the JV of Diffusion Plants in Hokuriku Region
+
+
+The semiconductor market has seen intensifying 
+competition, causing dramatic changes to the business 
+environment. To respond to this change, Panasonic has 
+moved forward with a variety of measures that include 
+structural transformation of the business, such as a shift 
+from a focus on the audio-visual market to the 
+automotive and industrial market, and the development 
+of products and solutions that take advantage of 
+Panasonic’s strengths of low power consumption, image 
+processing, and compound technology
+
+
+In order to respond to aim for accelerated enhancement 
+of competitiveness and new growth of the 
+semiconductor business, Panasonic decided to transfer 
+the business relating to Semiconductor Wafer 
+Manufacturing Process to the New Company, and 
+thereafter, transfer of the 51% of shares in the New 
+Company to TJ and make the New Company to be a joint 
+venture company
+
+
+Compare and contrast Panasonic and TSEM’s press releases announcing the formation of the JV.  Panasonic’s 
+
+
+suggest a deal done out of necessity under gloomy conditions, whereas TSEM’s promotes the deal as 
+
+
+“momentous” and “growth like no one else can (accomplish).” 
+
+
+Amir Elstein, TowerJazz Chairman, stated, "I am pleased that 
+we completed this strategic and momentous business 
+agreement with Panasonic. The consolidation of our 
+Japanese operations, resulting in significant reduction in fixed 
+costs with an actual increase in available capacity and an 
+enhanced technology offering, will strongly impact the 
+company’s future profitability and shareholder value."
+
+
+Russell Ellwanger, TowerJazz CEO, commented, "This joint 
+venture and partnership brings together two leaders –
+Panasonic, an acknowledged analog components and 
+systems leader, and TowerJazz, a recognized analog foundry 
+leader – to create a company that will serve and grow the 
+analog foundry space as no existing single foundry company 
+can. Over these months of negotiations and business and 
+operational strategic planning and alignment, we have gained 
+great respect for the technical capability and the great 
+personal and corporate character of our Panasonic partner at 
+all levels with which we've interacted. Already, enabled by 
+this partnership, additional customers and products have 
+been brought within the TowerJazz manufacturing umbrella 
+whilst others anxiously await first engagements."
+
+
+Source: Panasonic Press Release, Dec 20, 2013 Source: TSEM Press Release, Dec 20, 2013
+
+
+Panasonic’s Press Release Tower’s Closing Press Release
+
+
+
+http://www.panasonic.com/content/panasonic/global/en/corporate/ir/pdf/en131220.pdf
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1914334
+35
+
+
+Cody Acree - Ascendiant Capital Markets - Analyst
+
+
+“That is great, Russell. Thank you very much. Oren, maybe for 
+you on the operating expense side because we did see such a 
+large jump, can you just give us a bit of visibility as to what you 
+are expecting going forward?”
+
+
+Oren Shirazi - TowerJazz - SVP of Finance and CFO
+
+
+“Yes, so like I stated in my part of the script, we have some of 
+the costs that we knew that exist in the Panasonic transaction. 
+Of course the Panasonic transaction brings positive EBITDA --
+we didn't say exactly how much -- but when we went in-depth 
+and looked at the costs, we saw that some portion of that 
+should be allocated financially from cost of goods to R&D and 
+SG&A of course like any other company. And indeed the R&D 
+resources invested in TPS Co. in this Panasonic tower company 
+is really big, really large so we allocated from COGS to R&D and 
+SG&A the proper costs and basically what you see now and 
+maybe a little bit because it is the first quarter maybe it is a 
+little bit higher than usual but basically what you see now is a 
+good indicator for the coming quarter which is just a 
+classification internally between COGS and R&D. The total 
+amount in the P&L is the same like we expected.”
+
+
+Tower guides investors every quarter to look foremost at its revenues, and secondly, at its Non-GAAP Gross 
+
+
+Margin. Curiously, the CFO disclosed that Tower would shift expenses from COGS to R&D and SG&A as part of 
+
+
+the TPSCo formation. We find it difficult to understand how the CFO can justify a COGS expense as being R&D.  
+
+
+Source: Q2’2014 Earnings Conference Call Source: TSEM Press Release, Nov 11. 2015
+
+
+CFO’s Confusing Explanation TSEM Earnings Promotes Non-GAAP Gross Margin
+
+
+
+http://www.towerjazz.com/prs/2015/1111.html
+36Source: SEC Comment Letter, 9/30/15
+
+
+SEC Comment Letter Questions Panasonic Deal
+
+
+Question 3. We see that in March 2014, you acquired 51% of the 
+shares of TPSCo. through the issuance of common shares with a fair 
+market value of approximately $7.4 million, and recorded a gain of 
+$166 million. Please address the following:
+• Describe for us the specific types of assets acquired and liabilities 
+
+
+assumed and tell us
+• Panasonic’s historical cost basis associated with each significant 
+
+
+classification.
+• Tell us the methodologies utilized to value each type of asset 
+
+
+acquired and liability
+• assumed, and describe the significant assumptions in each model.
+• Describe for us how pricing for products sold to Panasonic will be 
+
+
+established.
+
+
+Question 4. You disclose that the fair values of TPSCo’s assets and 
+liabilities are based on a valuation performed by third party 
+professional valuation experts. Please revise future filings to clarify 
+the nature and extent of the third party valuation experts’ 
+involvement and management’s reliance on the work of the valuation 
+experts. Refer to Question 141.02 of the Compliance and Disclosure 
+Interpretations on Securities Act Sections, which can be found at 
+http://www.sec.gov/divisions/corpfin/guidance/sasinterp.htm, and 
+would be applicable to the extent your Form 20-F is incorporated by 
+reference into any registration statement
+
+
+Response to Q4: “We accept your comment and will 
+revise in future filings the related disclosure to clarify the 
+nature and extent of the third party valuation experts’ 
+involvement and management’s reliance on the work of 
+the valuation experts In connection with such disclosure 
+we will refer to the guidance in the Staff’s response to 
+Question 141.02 of the Compliance and Disclosure 
+Interpretations on Securities Act Sections.”
+
+
+Response to Q3: Historical cost basis in Panasonic books was 
+approximately JPY 165 billion, or approximately $1.65 billion 
+(using an average exchange ratio of 100 JPY to each $1). The 
+methodologies used- to value each type of asset acquired 
+assumed and the significant assumptions in each model 
+were as follows:
+(a) Machinery: 96% sales comparison approach / 4% cost 
+
+
+approach
+(b) Intangibles: Relief-from-royalty method
+(c) Inventory: WIP valued on future selling price per contract 
+
+
+less cost of completion less normal margin 
+Pricing is negotiated between the parties annually. Prices 
+implemented a regressive price per product for gradually 
+increasing orders, as such volume discounts are common
+
+
+Source: TSEM Response to SEC Comment Letter , 10/28/15
+
+
+TSEM Response to SEC
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000000000015047924/filename1.pdf
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315003199/filename1.htm
+37
+
+
+ As part of purchase price accounting , Tower is required according to GAAP (ASC 805), to record and present on its balance 
+sheet the value of the NCI (Non-Controlling Interest) in TPSCo at fair value estimated through valuation techniques and 
+methods 
+
+
+ The requirement to use valuation techniques and methods in order to estimate the fair value of NCI is detailed in the 
+following public accounting guides:
+
+
+• PwC: Business Combinations and Noncontrolling Interests (2014)
+
+
+• E&Y: Business Combinations (Oct 2015) 
+
+
+ In contradiction to U.S. GAAP guidance, it appears that Tower elected to estimate and record the value of TPSCo’s NCI based 
+on the consideration paid for its 51% stake in TPSCo resulting in the NCI being valued at $7.12m on TSEM’s balance sheet
+
+
+• Recall that TSEM issued $7.4m of stock for 51% of TPSCo
+
+
+• The implied equity value is therefore ($7.4m divided by 51%) = $14.5m
+
+
+• The implied value of the NCI is therefore $7.4m multiplied by Panasonic’s 49% = $7.12m
+
+
+ E&Y’s guide specifically addresses the inappropriateness of using the consideration paid in a transaction to measure the fair
+value of the NCI:
+
+
+“Given the considerations noted above, it generally is not appropriate to estimate the fair value of the noncontrolling
+interest in a private company as simply the noncontrolling percentage of the equity value determined from grossing up 
+the consideration transferred by the percentage of the company obtained by the acquirer. For example, if an acquirer paid 
+$100 million for an 80% controlling stake in a private company, it would not be appropriate to assume that the fair value 
+of the 20% noncontrolling interest is $25 million (i.e., 20% of an equity value calculated as $100 million divided by the 80% 
+interest acquired). Additional analysis and valuation procedures are required”
+
+
+By Maximizing the Accounting of the FV of Assets Acquired and Minimizing The Value of the NCI, 
+
+
+TSEM Can Maximize The Value of its Bargain Purchase Gain
+
+
+Bargain Gain = FV of Assets Acquired – NCI – TSEM Value Paid
+
+
+
+https://www.pwc.com/us/en/cfodirect/assets/pdf/accounting-guides/pwc-business-combinations-noncontrolling-interests.pdf
+
+http://www.ey.com/UL/en/AccountingLink/Publications-library-Financial-Reporting-Developments
+38Source: PWC Business Combinations and Noncontrolling Interests, p. 444
+
+
+$ in millions Value Range Comment
+
+
+Expected Sales 
+of TPSCo
+
+
+$400m
+Stated by TSEM 
+
+
+publicly
+
+
+EV/Sales Multiple 0.6x – 1.0x
+TSEM fwd sales mult. 
+was 0.75x at 3/31/14
+
+
+Implied EV of TPSCo $240 - $400m
+
+
+Net Financial Debt $28m
+($85.2-$57.5m)=Yen 
+Bank financing less 
+
+
+cash received
+
+
+Equity Value $212 - $372m
+
+
+Non-controlling 
+Interest
+
+
+49%
+Panasonic’s 
+
+
+ownership %
+
+
+Est. Fair Value of 
+TPSCo NCI
+
+
+$104m - $182m
+Compare with TSEM’s 
+
+
+$7.1m value
+
+
+We estimate a range of $104 - $182m for the value of TPSCo’s NCR, significantly more than the $7.1m recorded by TSEM
+
+
+ An alternative approach for valuing TPSCo’s NCI involves looking at public company multiple methods. The PwC guide gives 
+an example that is based on a multiple of net income. 
+
+
+ Detailed projections of TPSCo were not available at the time of the transaction. However, TSEM did say it expected the deal 
+to produce $400m of revenues per annum. We are justified in using a multiple of sales based valuation approach
+
+
+PWC Illustrates Market-Based Multiple Approach to Valuing the NCI Our Estimate of TPSCo’s 49% NCI Value
+
+
+
+https://www.pwc.com/us/en/cfodirect/assets/pdf/accounting-guides/pwc-business-combinations-noncontrolling-interests.pdf
+40
+
+
+Accounting Tactic Timing Implication to Financial Statements
+
+
+Large GAAP/Non-GAAP
+Divergence, Driven By 
+Excluding Depreciation from 
+Non-GAAP results
+
+
+Q1’2007 Shortly after the appointment of the CEO (and his grant of options totaling 4% of the company), 
+TSEM started presenting Non-GAAP results, excluding depreciation and amortization from its 
+financial results. For capital intensive businesses such as semiconductor manufacturing, this is 
+highly unusual reporting practice (none of TSEM’s peers present this way) as it ignores an ongoing 
+cost of doing business
+
+
+Repeated Use of Bargain 
+Purchase Gains
+
+
+2011 and 
+2014
+
+
+As noted in the earlier section, TSEM accounted for two deals that resulted in rare “bargain 
+purchase gains” totaling $19.5m in 2011 and $166m in 2014. In our opinion, this occurred as a 
+result of either 1) inflating the purchase price allocation of the assets or, 2) deflating the valuation 
+of the non-controlling interest. In either event, these gains bolstered both EPS and Equity
+
+
+Beneficial Conversion Feature 
+(“BCF”) Accounting
+
+
+Q3’2012 In our opinion, incorrect BCF accounting allowed TSEM to reduce Series F convertible debt by 
+approximately $50m, while overstating equity by the same amount
+
+
+Shifting Expenses Q4’2014 As noted in the prior section, TSEM stated that it moved expenses from COGS to R&D and SG&A as 
+part of looking at the TPSCo deal. TSEM places a heavy emphasis on reporting increasing Non-GAAP 
+Gross Margin to investors. This odd adjustment merits scrutiny as it was not adequately explained
+
+
+Fair Value Remeasurement 
+of Bank Debt Q4’2014
+
+
+TSEM lowered the book value of its bank debt by $24m (correspondingly increasing its book equity 
+by a similar amount) by applying a Level 3 “income approach method.” Under GAAP, TSEM should 
+have used a Level I method by referencing its publicly traded debentures in Israel, a more 
+appropriate valuation method that would not have dictated lowering the value of its bank debt
+
+
+Change in Definition of 
+Capital Expenditures
+
+
+Q4’2014 The industry standard definition of Free Cash Flow is Cash from Operations less Gross Capital 
+Expenditures. Starting at FY End 2014, TSEM changed its reporting to Net Capex (net of asset sales), 
+creating the appearance of positive Free Cash Flow (inclusive of asset sales). Reduced disclosures 
+have make it difficult to determine if TSEM is truly cash flow positive (in our opinion it is not)
+
+
+Change of Accounting for 
+PP&E Affecting Useful Lives 
+for Depreciable Assets
+
+
+Q2’2015 Unjustified changes to the estimated useful lives of machinery and equipment (15yrs from 7yrs and 
+facility systems and infrastructure (extended to 25yrs from 14 yrs). For the three months period 
+ended June 30, 2015, the impact of these extended estimated useful lives was approximately $14m 
+reduced depreciation expenses which resulted in a net increase of approx. $6.8m, of net profit.
+41
+
+
+Taiwan
+Semi.
+
+
+United
+Micro.
+
+
+Semi.
+Mfct Int’l
+
+
+Vanguard 
+Int’l Semi.
+
+
+Tower
+Semi.
+
+
+Sales Guidance
+
+
+Monthly Sales Reporting
+
+
+ASPs
+
+
+Shipments
+
+
+Sales by Technology
+
+
+Sales by Application
+
+
+Intercompany sales
+
+
+Gross Margin Guidance
+
+
+Operating Margin Guidance
+
+
+Capex Guidance
+
+
+Detailed Capacity / Utilization
+
+
+Allowance for doubtful accts
+
+
+Source Here Here Here Here Here
+
+
+Tower only 
+discloses total 
+
+
+relative changes 
+in ASPs and 
+
+
+shipments, not 
+absolute figures
+
+
+Tower only 
+discloses Capex 
+intentions when 
+asked by analysts 
+on conf. calls and 
+does not put its 
+
+
+figures in writing
+
+
+
+https://www.sec.gov/Archives/edgar/data/1046179/000119312515345144/d198921d6k.htm
+
+http://www.umc.com/English/pdf/UMC15Q3_report.pdf
+
+https://www.sec.gov/Archives/edgar/data/1267482/000130901415000753/exhibit1.htm
+
+http://www.vis.com.tw/visCom/servlet/DownloadServlet?download_type=view&file_id=405&SORUCE_DOC_ID=$sourceId&INSERT_TABLE_NAME=VIS_IQR_ATT_FILE&edit_flag=true&max_file_size=1&upload_type=Database&system_type=web_iqr&category=Investor Conference Presentation Materials
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm#5
+42
+
+
+Income Statement Item Our Observations of Potential Issues
+
+
+Revenue TSEM only provides revenue guidance and primarily grows through M&A.  An example of organic revenue 
+destruction would be the from the Micron deal where revenues collapsed to nil over the course of the three year 
+contract. TSEM doesn’t disclose sources of revenues (by technology, application, or for engineering, design and 
+support services). TSEM also does not break-out intercompany revenues
+
+
+Cost of Revenues In relation to the Panasonic JV, TSEM has re-classified certain undisclosed expense items from Cost of Revenues to 
+SG&A and R&D, how could these items be confused?  The implication is that the numbers are harder to compare 
+over periods. TSEM changed depreciation and amortization assumptions to lower GAAP expenses, and removes 
+these expenses completely to show low Non-GAAP costs. Also in 2014, TSEM mysteriously boosted related-party 
+energy purchases from Israel Corp, which could be below market prices. This amounts to 2% of COGS. Now the 
+Israel Corp is no longer a shareholder, will costs increase in the future?
+
+
+Gross Profit Not surprising that TSEM’s GAAP gross margins are significantly below peers, and its Non-GAAP gross margin is 
+significantly inflated from removing depreciation and amortization
+
+
+R&D Expense TSEM spends below industry average R&D. See cost of revenue commentary above on R&D reclassifications
+
+
+Marketing and G&A See cost of revenue commentary above
+
+
+Nishiwaki Restructuring 
+& Impairment
+
+
+Questionable charges in light of the fact TSEM booked a gain on the initial transaction
+
+
+Interest expense, net TSEM has used debt revaluation tactics to lower reported interest expense. In our opinion, it also used a highly 
+promotional Panasonic deal to inflate the stock, and cause a conversion of debt to lower its interest  burden
+
+
+Gain from Acquisition Bargain purchase gains are rare in accounting practice, yet TSEM has twice recorded these gains. The gains 
+improve earnings and also inflate book equity
+
+
+Profit before taxes TSEM directs investors and readers to Non-GAAP numbers to avoid all the above negative issues at various line 
+items in the income statement. On a GAAP and free cash flow basis, TSEM’s numbers are negative
+
+
+We’ve attempted to illustrate the income statement impact from some of the accounting issues 
+
+
+highlighted on the previous slide.
+43
+
+
+• In our opinion, during 2013 TSEM most likely realized that without drastic moves, starting at 2015, it would not be able to 
+service its liabilities, and could face solvency issues. Accordingly, TSEM’s stock price approached a multi-year low in late 
+2013. A payment schedule of the company’s financial liabilities, as illustrated by TSEM’s June 2013 investor presentation, 
+revealed that during 2015 TSEM would need to repay $292m of its financial liabilities (in addition to $55m scheduled 
+repayment during 2013-2014)
+
+
+• It is reasonable to assume TSEM’s management knew it could face difficulties meeting upcoming debt maturities utilizing 
+solely its free cash flows (we previously illustrated our belief that TSEM doesn’t generate positive free cash flows)
+
+
+• It is possible that TSEM’s management plotted a plan to inflate its stock price (which was trading under $4/share in late 
+2013), by promoting a “Revolutionary” deal with Panasonic, all for the purpose of allowing Series F debentures conversion 
+feature to be “in the money” such that TSEM could convert its debt into shares, allowing it to avoid its repayment
+
+
+• In order to execute this plan, we find evidence of many questionable accounting and financial presentation changes that 
+are consistent with our belief that TSEM’s management was under pressure to keep the stock afloat
+
+
+June 2013 Investor Presentation
+
+
+
+http://www.sec.gov/Archives/edgar/containers/fix067/928876/000117891313001853/zk1313292.htm
+44
+
+
+• In the first step, we believe TSEM executed the Panasonic deal, while spreading grand statements according to which this 
+deal would generate significant profits, in addition to recognizing a gain from bargain purchase of $166m 
+
+
+• In reality, we estimate TSEM has realized estimated operating losses of approximately $40m (during a period of 1.25 
+years). Our opinion is supported by the growing loss of the JV’s non-controlling interest (NCI)
+
+
+• Starting around 2012, in order to obscure its business problems, we believe TSEM appears to have engaged in various 
+aggressive accounting techniques, all of which serve to overstate book equity, accounting profits, and free cash flow
+
+
+• After a meteoric increase in the company’s share price, which started after the announcement of the Panasonic deal, 
+during March 2015, the company initiated a plan to accelerate the conversion of its Series F debentures in order to 
+prevent insolvency
+
+
+• The reality proved that Tower’s plan was a success: As of 6/30/15, out of Series F $231m debt, $197m were converted to 
+shares, such the outstanding balance of Series F debentures is almost zero (Source: Bloomberg)
+
+
+• Nevertheless, despite the conversion of the majority of Series F debentures, which significantly decreased the company’s 
+debt burden, we believe that TSEM’s business problems remain unchanged: TSEM constantly increases its income without 
+generating free cash flows, and enters into short-term agreements, which in our opinion may be expected to end badly 
+(operating losses during their operation and significant write-offs when the original deal term ends, similarly to the way 
+the Micron deal ended)
+
+
+• From March 2013 – July 2015 TSEM’s two largest shareholders completely eliminated their share holdings according to 
+filings, while the third largest reduced ownership
+
+
+• Curiously, during 2013 the Public Company Accounting Oversight Board (PCAOB) issued a report to TSEM’s auditor, 
+Deloitte Brightman Almagor, Zohar & Co noting significant audit deficiencies. While TSEM was not specifically mentioned, 
+it is certainly worth carefully considering that the auditor had only 17 issuer clients at the time the report was issued
+
+
+An array of questionable accounting changes, appears to have allowed TSEM to inflate its stock, relieve its debt 
+
+
+burden with a conversion of debt to equity, and allow its largest Israeli shareholders to liquidate their stock 
+
+
+positions from March 2013 onward
+45
+
+
+Source: Tower’s Financial Filings
+46
+
+
+Last PCAOB inspection report on TSEM’s auditor, issued Nov 25, 2013. The report noted multiple instances 
+
+
+audit deficiencies. Brightman had only 17 issuer clients.
+
+
+Source: PCAOB Audit Inspection Report, Nov 25, 2013
+
+
+
+http://pcaobus.org/Inspections/Reports/Documents/Brightman_Almagor_Zohar_Co.pdf
+47
+
+
+Frog aka GAAP EPS Prince aka Non-GAAP EPS
+48
+
+
+TSEM GAAP v. Non-GAAP Gross Margins
+
+
+-30.0%
+
+
+-20.0%
+
+
+-10.0%
+
+
+0.0%
+
+
+10.0%
+
+
+20.0%
+
+
+30.0%
+
+
+40.0%
+
+
+50.0%
+
+
+60.0%
+
+
+70.0%
+
+
+2007 2008 2009 2010 2011 2012 2013 2014 YTD 2015
+
+
+GAAP Non-GAAP Difference
+
+
+Source: Tower Financials
+
+
+ Not long after CFO and CEO Shirzi and Russell Ellwanger were appointed in October 2004 and April 2005, respectively, TSEM began 
+to report its financial results on a Non-GAAP basis. The majority of the difference stems from excluding depreciation and 
+amortization expenses
+
+
+ On Nov 19, 2015, an Israeli business website called “The Marker” published an article authored by Shlomy Shuv, CPA. Mr. Shuv is 
+considered to be an accounting expert in Israel specializing in detecting accounting problems. According to Mr. Shuv:
+
+
+“It’s hard to accept excluding depreciation expenses in a heavily intensive capital investments company such as Tower…even 
+in the American jungle of Non-GAAP reporting there are basic rules…the SEC rules forbid a local or foreign company to report 
+(Reg G) – including in its press release, a Non-GAAP financial measure, which together with the rest of the attached information
+might mislead or confuse the investors…item 10(e) of Regulation S-K prohibits to eliminate or smooth items identified as non-
+recurring, infrequent or unusual, when the nature of the charge or gain is such that it is reasonably likely to recur within two
+years, or there was a similar charge or gain within the prior two years. In the SEC official fillings, the company needs not only to 
+detail the adjustment, but also to explain its importance.” 
+
+
+
+http://www.businesswire.com/news/home/20041028005333/en/Tower-Semiconductor-CFO-Amir-Harel-Resign-Company
+
+http://www.businesswire.com/news/home/20050421005318/en/Towers-Board-Directors-Appoints-Russell-Ellwanger-Chief
+
+http://www.themarker.com/markets/ifrs/1.2779811
+49
+
+
+TSEM’s recent Q3’15 financial press release contain a dizzying amount of footnotes. The most 
+
+
+questionable adjustment is its removal of depreciation and amortization from Cost of Revenues, R&D 
+
+
+and Marketing and G&A expense items. 
+
+
+(a) Includes depreciation and amortization expenses in the amounts of $47,439 and $39,944 and stock based compensation expenses in the amounts of $256 and $297 for the three months ended March 31, 2015 and March 31, 2014 respectively. (b) Includes depreciation and amortization 
+expenses in the amounts of $96 and $29 and stock based compensation expenses in the amounts of $319 and $259 for the three months ended March 31, 2015 and March 31, 2014 respectively. (c) Includes depreciation and amortization expenses in the amounts of $497 and $200 and stock 
+based compensation expenses in the amounts of $735 and $750 for the three months ended March 31, 2015 and March 31, 2014 respectively. (d) Non-GAAP interest expense, net include only interest on an accrual basis. (e) Non-GAAP income tax expense include taxes paid during the period on a 
+cash basis. (f) The differences between the above-referenced GAAP profit (loss) results for the first quarter of 2015 as compared with the comparable periods' results are mainly due to: (i) $85 million other non cash financing expenses included in the three months ended March 31, 2015, 
+primarily reflecting accelerated accretion resulted from the successful $162 million accelerated conversion of debentures series F (ii) $151 million gain from the acquisition of TPSCo included in the first quarter of 2014; and (iii) $71 million of costs related to Nishiwaki Fab cessation of operations 
+recorded in the three months ended March 31, 2014. (*) Other non cash financing expense, net for the three months ended March 31, 2015 comprised primarily of accelerated accretion and amortization resulting from the $162 million accelerated conversions of debentures series F. 
+
+
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2047395
+50
+
+
+A review of TSEM’s peer semiconductor companies illustrates that not a single one adjusts its financial 
+
+
+results to exclude depreciation or amortization.
+
+
+Company / Ticker Country Non-GAAP adjustments
+
+
+Magnachip / MX Korean Reports Non-GAAP EPS with no reconciliation in its press 
+releases
+
+
+Taiwan Semiconductor / TSM Taiwan Does not report adjusted results
+
+
+United Microelectronics / UMC Taiwan Does not report adjusted results
+
+
+Texas Instruments / TXN US Reports “Free Cash Flow” as a Non-GAAP measure as 
+CFO – Capex
+
+
+Intel / INTC US Reports “Non-GAAP Cash and LT Investments”
+
+
+Semiconductor 
+Manufacturing Int’l / SMI
+
+
+China Reports Non-GAAP operating expenses “adjusted to exclude 
+the effect of employee bonus accrual, government funding 
+
+
+and gain from the disposal of living quarters”
+
+
+Amkor Technology / AMKR US Reports Non-GAAP gross margin and EPS “adjusted for litigation 
+settlement expense”
+
+
+STMicroelectronic Swiss Reports Non-GAAP operating income and EPS “adjusted for 
+impairment and restructuring charges”
+
+
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312515357987/d69870dex991.htm
+
+http://www.tsmc.com/english/investorRelations/quarterly_results.htm
+
+http://www.umc.com/English/investors/Quarterly_2010-2019/Q3_2015.asp
+
+http://www.ti.com/corp/docs/investor_relations/earnings.html
+
+http://www.intc.com/results.cfm
+
+http://www.smics.com/attachment/201511111526071712880446_en.pdf
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=115640&p=irol-newsArticle&ID=2014947
+
+http://investors.st.com/phoenix.zhtml?c=111941&p=irol-reportsOther
+51
+
+
+Tower Presented in its 2014 Annual Report its Internal Investments as “Net” Capex
+
+
+Prior Year Annual Reports Show Results as “Gross” Capex and Proceeds from PP&E Sales
+
+
+(a) Including proceeds related to sale and disposal of property and equipment in the amounts of $45,464 and $4,775 for the years ended December 31, 2014 and 2013, respectively.
+52
+
+
+Currently, TSEM no longer even provides footnote details on asset sales. Furthermore, its own numbers 
+
+
+are not consistently presented between the cash flow statement, and the MD&A section which discusses 
+
+
+sources of liquidity
+
+
+Source: Tower Q2’2015 Financials and MD&A
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315002510/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315002510/exhibit_99-2.htm
+53
+
+
+In our opinion, it is possible TSEM  made a change in the presentation of its capex in order to create a 
+
+
+potentially confusing view to the untrained eye of free cash flows in the amount of $48m during 2014. 
+
+
+ Cash flows from operations during 2014 summed to $97.7m ($125.3m excluding Nishiwaki fab closure employee related 
+retirement cost), while purchases of property, plant and equipment (PP&E) summed to $50.2m (net of sales of PP&E), creating a
+potentially misleading representation as if the company has $47.5m free cash flows ($75.1m excluding Nishiwaki fab closure 
+employee related retirement cost).
+
+
+ A thorough examination of TSEM’s cash flows from investing activities in 2014 reveals that it is presented net of a $45.4m cash 
+flow from realization of PP&E sales. Digging even deeper uncovers that out of the approximate $45m of received from realization 
+of PP&E sales, approximately $40m was related to realization of asset sales in the Nishiwaki fab, which is a one time line item:
+
+
+B. LIQUIDITY AND CAPITAL RESOURCES
+
+
+As of December 31, 2014, we had an aggregate amount of $187.2 million in cash and cash equivalents, as compared to $122.9 million 
+of cash, cash equivalents and interest bearing deposits as of December 31, 2013, which included $10 million of designated deposits.
+
+
+The increase in cash balance during the year was attributed mainly to $125.3 million cash generated from operating activities 
+including interest payments of $34.0 million (or $159.3 million excluding these $34.0 interest payments) and excluding Japanese 
+employee retirement related payments; investments of $99.4 million in fixed assets, net $57.6 million of cash in TPSCo associated 
+with its establishment; repayment of $51.4 million of debt; proceeds from exercise of options and bond issuance of $19.6 million; and 
+a receipt of an $85.9 million loan from JA Mitsui Leasing,  Ltd. and Bank of Tokyo (BOT) Lease Co., Ltd, two Japanese banks, that was 
+used to repay the bridge loan previously received from Panasonic; in addition, funds received from Nishiwaki assets sale,  net of 
+Japanese employee retirement related payments, amounted to $12.6 million.
+
+
+ This amount excludes employee related retirement cost in the amount of $27m, implying that the gross amount related to the 
+realization of the Nishiwaki’s assets totaled $40m). If we adjust the cash flow from investing to exclude the one time $40m 
+received from the Nishiwaki’s assets, the resulting cash flow from PP&E sales is $90m and the free cash flow is jus $8m ($35m 
+excluding Nishiwaki fab closure employee related retirement cost)
+54
+
+
+ TSEM’s statement of cash flows buries additional capital investment details in the amount of $27m during 2014, which we can 
+see at the bottom of the statement under the title “Non Cash Activities: Investments in property and equipment”
+
+
+ This capital investment was most likely carried out using supplier credit resulting in increased cash flows from operations
+
+
+At the Bottom of its Cash Flow Statement, TSEM Reveals Non-Cash Capex 
+
+
+ To support our opinion, on the next slide we have shown how two of Tower’s competitors disclose capex:
+
+
+1. Taiwan Semiconductor: In the current liabilities of its balance sheet, it provides a very detailed disclosure of its 
+accounts payable which includes: 1) trade payables, 2) related party payables, and 3) payables to contracts and 
+equipment suppliers
+
+
+2. United Microelectronics: provides details on payables related to capex at the bottom of its cash flow statements
+
+
+ If we increase the Capex by an additional $27.5m, we conclude that during 2014 TSEM had a free cash flow deficit of 
+approximately $20m (positive $7.5m free cash flows excluding Nishiwaki fab closure employee related retirement cost)
+55
+
+
+Taiwan Semiconductor’s Model Disclosure of Accounts Payable
+
+
+Source: Taiwan Semiconductor 2014 20-F Annual Report, p. F-4
+
+
+United Microelectronics Capex Disclosure Details
+
+
+Source: United Micro 2014 20-F Annual Report, p. F-9
+
+
+
+http://www.sec.gov/Archives/edgar/data/1046179/000119312515126836/d901494d20f.htm
+
+http://www.sec.gov/Archives/edgar/data/1033767/000119312515138989/d910283d20f.htm
+56
+
+
+ We observe that Tower lists large “short-term liabilities” in the amount of $166.9m deep in its footnotes. This figure dwarfs its 
+reported trade accounts payable ($98.6m) and other current liabilities ($16.6m) on the balance sheet at 12/31/14
+
+
+ This suggests that Tower might not be recognizing the full amount of its capex payables on its balance sheet.
+ As a result, its likely that Tower’s working capital condition might not be accurately portrayed 
+
+
+Source: Tower 2014 20-F Annual Report, p. 55
+
+
+Tower’s Tabular Disclosure of Contractual Obligations
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+57
+
+
+According to Note D from the Q2’2015 Financial Statements:
+
+
+“In connection with periodic review of the reasonableness of the estimated remaining useful lives of property, plant and equipment of 
+the Company’s foundry manufacturing facilities, it was determined that the estimated useful lives of machinery and equipment 
+should be extended to 15 years from 7 years and the useful lives of facility systems and infrastructure should be extended to 25
+years from 14 years. The Company extended the estimated useful life of these assets as a result of use of mature technologies, longer 
+processes and products’ life cycles, the versatility of manufacturing equipment, facility systems and infrastructure to provide better 
+flexibility to meet changes in customer demand and the ability to re-use equipment over several technology cycles significantly 
+extending the estimated usage period of such assets. For the three months period ended June 30, 2015, the impact of these extended 
+estimated useful lives was approximately $14,000 of reduced depreciation expenses which resulted in a net increase of 
+approximately $6,800 of net profit.”
+
+
+During the second quarter of 2015, Tower decided to alter its fixed assets useful lives assumption in 
+
+
+a manner which led to a decrease in the company’s depreciation expenses
+
+
+Accounting Assumptions for Depreciation Out of Line With Peers:
+
+
+Seller TowerJazz
+United 
+
+
+Microelectronic
+Semiconductor
+
+
+Manufacturing Int’l (SMIC)
+Vanguard Int’l 
+Semiconductor
+
+
+Taiwan 
+Semiconductor
+
+
+Machinery &
+Equipment
+(Source)
+
+
+15 yrs
+(p. 9)
+
+
+3 – 11 yrs
+(p. F-31)
+
+
+5 – 10 yrs
+(p. F-28)
+
+
+3 – 5 yrs
+(p. 159)
+
+
+2 – 5 yrs
+(p. F-23)
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315002510/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/1033767/000119312515138989/d910283d20f.htm
+
+http://www.sec.gov/Archives/edgar/data/1267482/000110465915031004/a15-9715_120f.htm
+
+http://www.vis.com.tw/visCom/english/d_ir/d02_annual.htm
+
+http://www.sec.gov/Archives/edgar/data/1046179/000119312515126836/d901494d20f.htm
+58
+
+
+ On October 25, 2010, the company announced $82m of commitments (approx. $100m ultimately raised) for Series F Convertible 
+Debentures (Series F). Series F debentures carry an annual rate of 7.8% payable semiannually in NIS but linked to the $/NIS exchange rate. 
+The debentures principal payment were scheduled to be paid in two installment of $53m on Dec 2015 and Dec 2016:
+
+
+• The debentures were convertible into Tower's ordinary shares during the period commencing in Sept 2012 and ending in Dec 2016, 
+with a conversion price that shall be equal to 120% of the avg. trading price of its shares on the Tel-Aviv Stock Exchange during the 
+15 trading days before Sept 18, 2012, provided that in no event will the price be more than NIS 6.5, and not less than NIS 1.0 
+
+
+• In 2012, Tower raised an additional $105m (Feb 2012: $80m and Oct 2012: $25m) through the expansion of Series F debentures, 
+such that the total aggregated amount raised by Series F amounted to $231m  
+
+
+ The conversion price was initially 38.21 NIS par value of debentures into one ordinary share. In June 2013, the conversion ratio was 
+adjusted to NIS 36.276 ($9.80/share)
+
+
+ As reported in Q3’2012, Tower classified $110m of its Series F debentures as equity, and reduced long-term debt by a corresponding 
+amount as disclosed below:
+
+
+“In accordance with ASC 470-20 (formerly EITF 98-5 and EITF 00-27), a Beneficial Conversion Feature (BCF) exists for bonds series F, 
+which has been measured in accordance with such standards at $110 thousands, classified as an increase in shareholders' equity with a 
+correspondence decrease in the carrying value of the debentures presented as long term liabilities; said amount will be accreted  through 
+the remaining life of the debentures to the non-cash financing expenses.”
+
+
+ On March 10, 2015, just one month after reporting its “Highest Ever Quarterly and FY 2014 Revenues With Strong Organic Growth,” Tower 
+offered to accelerate the conversion of $40m of Series F debentures. This conversion included a 1% benefit. The proposal was 
+oversubscribed, such that $80m were converted. After this conversion, Series F debentures remaining principal amounted to 
+approximately $35m
+
+
+ In the next slide, we will illustrate why we believe this account presentation appears misleading, and designed to enhance the financial 
+position of TSEM by reducing debt + overstating equity
+
+
+In our opinion, the Series F debentures were incorrectly accounted for to understate debt and improve the 
+
+
+appearance of TSEM’s financial condition. Furthermore, by over-hyping recent deals and inflating TSEM’s earnings 
+
+
+and share price, the company could convert the Series F debentures to equity and relieve its financial burden.
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310002768/exhibit_99-1.htm
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1664718
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1748675
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1759033
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2024109
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2018778
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2028734
+59
+
+
+ The BCF guidance addresses situations in which a debt or equity security is issued with a nondetachable (embedded) conversion 
+option that is beneficial to the investor (in the money) at inception because the conversion option has an effective strike price 
+that is less than the market price of the underlying stock at the commitment date.
+
+
+• The accounting for a BCF requires that the BCF be recognized by allocating the intrinsic value (not the fair value) of the 
+conversion option to additional paid-in capital, resulting in a discount on the convertible instrument.
+
+
+ In accordance with ASC 470, the Commitment Date is defined as follows:
+
+
+"The commitment date is the date when an agreement has been reached that meets the definition of a firm 
+commitment.”
+
+
+ Definition of a “Firm Commitment” - an agreement with an unrelated party, binding on both parties and usually legally 
+enforceable, with the following characteristics:
+
+
+a. The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of 
+the transaction. The fixed price may be expressed as a specified amount of an entity’s functional currency or of a foreign 
+currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an 
+agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is 
+subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify 
+as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the 
+market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
+
+
+b. The agreement includes a disincentive for nonperformance that is sufficiently large to make performance probable. In 
+the legal jurisdiction that governs the agreement, the existence of statutory rights to pursue remedies for default 
+equivalent to the damages suffered by the nondefaulting party, in and of itself, represents a sufficiently large disincentive
+for nonperformance to make performance probable for purposes of applying the definition of a firm commitment
+
+
+In our opinion, TSEM’s interpretation of the accounting treatment for a Beneficial Conversion Feature (BCF) was not 
+
+
+in accordance with GAAP and in particular ASC 470-20 and its specific interpretations. Therefore, we believe TSEM’s 
+
+
+debt, as of 30 September 2012, was understated by $50m to $110m and its equity overstated by the same amount
+
+
+Source:  For accounting interpretations see  PWC Financing transactions: debt, equity and the instruments in between, March 2015
+
+
+
+https://www.pwc.com/us/en/cfodirect/assets/pdf/accounting-guides/pwc-guide-financing-transactions-debt-equity-second-edition-2015.pdf
+60
+
+
+ Recall The Facts:  
+
+
+1. Approx. $100m of Series F convertible debentures were issued in October 2010 and additional $105m (Feb 2012: $80m and Oct 2012: $25m) 
+through the expansion of Series F debentures, such that the total aggregated amount raised by Series F amounted to $231m. 
+
+
+2. The debentures were convertible into Tower's ordinary shares during the period commencing in Sept 2012 and ending in Dec 2016, with a 
+conversion price equal to 120% of the avg. trading price of its shares on the Tel-Aviv Stock Exchange during the 15 trading days before Sept 18, 2012
+
+
+ As of the Series F issuance date in Oct 2010, one of the most significant conditions of conversion deal was not set: the fixed conversion price
+
+
+ The conversion price was set on September 18, 2012 (at the time of the determination of the conversion price). Thus, the commitment date as defined 
+in ASC 470 is this date  (assuming BCF accounting is relevant) and not the issuance dates, as assumed by TSEM
+
+
+ From the way the conversion price was determined (20% premium on the average price), it’s clear that on September 18, 2012, which is the 
+commitment date for the purpose of examining the existence of BCF, a BCF didn’t exist as the conversion feature, by definition, was out of the 
+money by 20%!
+
+
+ The accounting treatment at the initial issuance date (in 2010) - According to Note 12 of TSEM’s annual financial statement 20-F 2010, Series F (as a 
+whole) was carried at amortized cost. Tower evaluated the conversion feature in accordance with the criteria established in ASC 815-40 “Contracts in 
+Entity’s Own Equity” and concluded that bifurcation is not required (i.e., Series F as a whole, was accounted for as a liability under the amortized cost 
+method)
+
+
+ Therefore, starting with TSEM’s Q3’2012 financial statements,  and assuming TSEM’s initial accounting treatment of Series F convertible debt described
+above was appropriate, we believe its shareholder’s equity is inflated by approximately $50m, while on the other hand, the company’s financial 
+liabilities balance was deflated in the same amount
+
+
+TSEM examined the existence of a BCF and estimated its value in relation to Series F issuance dates, while these 
+
+
+dates didn’t fulfil the definition of “commitment date” since the conversion rate was not yet known.
+
+
+We Believe TSEM’s Series F Debt Maturity is Artificially Low By $110m
+
+
+Source: 2012 Annual Report, Note 13A
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891311001431/zk1109871.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313001288/zk1313025.htm
+61
+
+
+In Our Opinion, The Proper Accounting Treatment for Tower's Convertible Debentures Series F:
+
+
+• As we learned, under U.S. GAAP significant analysis takes place before addressing a beneficial conversion feature
+(BCF). One must first rule out the application of embedded derivative accounting under ASC 815
+
+
+• In our opinion, as of the issuance dates, an examination of whether embedded derivative exists in accordance with
+ASC 815, should have yielded a positive result1. That is, TSEM should have bifurcated Series F convertible debt and
+revalue the embedded derivative at fair value through P&L at every reporting period until the determination of the
+conversion price (the bifurcated derivative in this case is a conversion Asian (call) option, which its strike price
+depends on the average price of the underlying asset (Tower share price) during a predetermined averaging period).
+
+
+• It should be noted that bifurcated derivatives should be reassessed every reporting period to determine if they
+continue to require bifurcation. That is, they are reassessed to see if they still meet the definition of a derivative and
+still fail to qualify for any scope exception from derivative accounting. In our opinion, in 2012 when the conversion
+price was set, the "fixed-for-fixed" concept (pursuant to ASC 815-40-15-5 through 15-8) was held, and the
+embedded conversion feature of Series F was no longer considered a bifurcated derivative.
+
+
+• ASC 815-15-35-4 requires a previously bifurcated conversion option that no longer requires bifurcation to be
+reclassified from a liability to equity at its then-current fair value on the date of reclassification. The conversion
+option is not recombined with the host debt instrument. Gains or losses recognized when the bifurcated conversion
+option was accounted for at fair value during the period that the conversion option was classified as a liability are
+not reversed
+
+
+• We estimated (using Black and Scholes model) that the amount to be reclassified to the equity would have been
+approximately $60 million (i.e. this is the estimated fair value of the embedded derivative at the conversion price
+determination date)
+
+
+• Given the aforementioned, in our opinion, TSEM’s improper accounting treatment resulted in its equity being
+inflated by approximately $50m as of Q3-2012 ( =$110m-$60m)
+
+
+1) See Appendix for a flow chart dictating the required analysis
+62
+
+
+ Tower’s remaining bank loan principal balance as of 12/31/14 was $101m related to loans the company borrowed from Bank 
+Leumi and Bank Hapoalim (“Israeli Banks”) (Source: 2014 20-F, p.49). These loans carry a yearly interest rate of LIBOR + 3.9% and 
+its principal is expected to be repaid over the next years until 2018. For the propose of ensuring the repayment of these loans, 
+Tower had to pledge all of its assets as a collateral. Tower is obligated toward the Israeli Banks to maintain certain restrictive 
+financial covenants
+
+
+ TSEM disclosed the following in on page F-20 in the notes to the debt facility agreement with the Israeli Banks:
+
+
+“Loans received under the Facility Agreement, as amended to date, are presented at fair value, with changes in value reflected 
+in the statements of operations, following adoption by the Company of ASC 825-10 “Fair Value Option” and Tower’s election to 
+apply the fair value option to the Facility Agreement.”
+
+
+ GAAP allows a company to revalue its loan principal; however, according to ASC 820, which details the fair value hierarchy and 
+determines the priority of inputs to be used in valuation techniques, highest priority must be given to (unadjusted) quoted prices 
+in active markets for identical assets or liabilities and the lowest priority to unobservable inputs
+
+
+ For details of the fair value hierarchy in accordance with ASC 820 see PwC’s Fair Value Measurement Guide (2015) guide below:
+
+
+Figure 4-3: Characteristics of Each Level in the Fair Value Hierarchy 
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+
+https://www.pwc.com/us/en/cfodirect/assets/pdf/accounting-guides/pwc-fair-value-measurement-2015.pdf
+63
+
+
+12/31/14 2015 2016 2017 2018
+
+
+Principal o/s $101.0 $91.0 $77.0 $21.0 --
+
+
+Principal Pmt $10.0 $14.0 $56.0 $21.0
+
+
+Approx. Interest Pmt $4.2 $3.8 $3.2 $0.9
+
+
+Total Pmt (P+I) $14.2 $17.8 $59.2 $21.9
+
+
+Maturity (yrs) 0.5 1.5 2.5 3.5
+
+
+ As presented in the table below from TSEM’s 20-F Annual Report (Note 12-A), TSEM revalued its bank debt principal by $24m 
+(the notes further specify it to be specific to the Israeli bank debt) such that ($101m -$24m) = $77m was represented on its 
+balance sheet as of 12/31/14.
+
+
+ A revaluation of the debt at year end 2014 at yield consistent with a junk credit is highly suspicious in light of the fact that just two 
+months earlier, Tower had refinanced its bank debt at L+3.9%
+
+
+ Based on Tower’s remaining loans principal “Fair Value” of $77m, and according to an estimated principal repayment schedule as 
+detailed in the company’s financial statements, and L+3.9bp cost of debt, we have calculated the embedded yield approx. 17.0%.
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+
+http://mayafiles.tase.co.il/RPdf/927001-928000/P927007-00.pdf
+64
+
+
+ In Note 14 (D) of TSEM’s 2014 Annual Report, is details its “Fair Value Measurements” and “Valuation Techniques” details:
+
+
+“Tower's loans - for Tower’s loans from the Israeli Banks, fair value is based on the income approach using a present value 
+technique under which the cash flows used in the technique reflect the cash stream expected to be used to satisfy the obligation 
+over its economic life. Tower discounted expected cash flows as forecasted each quarter using the appropriate discount rate for 
+the applicable maturity based on the expected contractual payments, by observing yields on similar traded debts.”
+
+
+ TSEM specifies that Level 3 or “Significant Unobservable Inputs” were used to measure the debt’s fair value:
+
+
+ TSEM also discloses it has recognized a gain through earnings in respect of the measurement
+65
+
+
+ As of 12/31/14, Tower’s Senior Unsecured debentures, which are linked to Israeli CPI, with a duration of approximately 1.5 years
+(Series D) were traded at a price that reflected a 3.5% YTM (See below data from Bloomberg and Israeli’s Triple-A System for bond 
+prices). Adjusting the aforementioned yield to the bank loans and for currency risk results in an appropriate yield of approximately 
+5.5%.
+
+
+ However, since the bank loans are secured with TSEM’s assets serving as collateral (Senior Secured), a downward adjustment needs to 
+be made from the YTM of unsecured traded debt, which we conservatively estimate at 1.0%-1.5%.
+
+
+ Given the aforementioned Series D YTM, and the appropriate adjustments (duration, currency and seniority), we believe that the bank 
+loans’ contractual interest (LIBOR + 3.9%) represent fair market conditions
+
+
+ As a result, it is our opinion is appears that TSEM’ revaluation of its banks loans, as of 12/31/14, and in complete contrast to generally 
+accepted accounting principles, inflated the company’s shareholder’s equity in an estimated net (after adjusting for taxes) amount of 
+$20m
+
+
+We found that TSEM has traded debt on the Tel Aviv Stock Exchange, which could have been utilized in order to directly 
+
+
+estimate the appropriate discount rate, which would have be classified as “Level 2.” This implies that TSEM had to, first and 
+
+
+foremost, estimate its banks loan discount rate using its traded debt, and not the “income approach” using a discounted 
+
+
+cash flow analysis! 
+
+
+31/12/2014 128.20 1.47 3.54 372 Sr Unsecured 38,598,341
+
+
+31/12/2014 142.90 1.49 -11.39 -1,197 Sr Unsecured 738,513,648
+
+
+(2) Inflation linked bond denominated in ILS  - Coupon & Principal linked to 
+
+
+Israeli CPI.
+
+
+(3) USD Linked Bond denominated in ILS- Coupon & Principal linked to 
+
+
+USD/ILS exchange rate.
+
+
+(1) Data Source: "Triple-A" system.
+
+
+Amt. 
+
+
+Outstanding 
+
+
+(ILS)
+
+
+Series B4 - Tower Straight Bond (traded in the Tel-Aviv Stock Exchange) 
+(1), (2)
+
+
+Amt. 
+
+
+Outstanding 
+
+
+(ILS)
+
+
+Series C6 - Tower Convertible Bond (traded in the Tel-Aviv Stock Exchange) 
+(1), (3)
+
+
+Spread over 
+
+
+Benchmark 
+
+
+(in bps) Ranking
+
+
+RankingDate
+
+
+Dirty 
+
+
+Price
+
+
+Duration 
+
+
+(in Years)
+
+
+YtM (real 
+
+
+yield in %)
+
+
+Spread over 
+
+
+Benchmark 
+
+
+(in bps)
+
+
+Date
+
+
+Dirty 
+
+
+Price
+
+
+Duration 
+
+
+(in Years)
+
+
+YtM 
+
+
+(nominal 
+
+
+yield in %)
+
+
+Source: Bloomberg
+66
+
+
+ In its 2014 20-F Annual Report (Note 11B, p. F-20), Tower omits financial disclosure of the key and material covenants it is 
+expected to maintain:
+
+
+“The Facility Agreement also contains certain restrictive financial ratios and covenants. Satisfying these financial ratios and 
+covenants is a material provision of the Facility Agreement. If, as a result of any default, the Israeli Banks were to 
+accelerate Tower’s obligations, Tower would be obligated, to, among other things, immediately repay all loans made by the 
+Israeli Banks plus penalties, and the Israeli Banks would be entitled to exercise the remedies available to them under the 
+Facility Agreement, including enforcement of their liens against all of Tower ’s assets. The Facility Agreement contains. 
+among others, (i) a mechanism for early repayment of certain principal amounts based on excess cash flow Tower may 
+incur; (ii) required financial ratios and covenants Tower has to meet, as well as definitions of event of defaults.”
+
+
+ From an examination of the company’s 2011 20-F Annual Report (p. 48 and filed April 4, 2012), we found the following:
+
+
+“Under the terms of its amended facility agreement, Tower must meet certain financial ratios, including mainly financial 
+covenants relating to quarterly sales and quarterly EBITDA (earnings excluding interest, taxes, depreciation and 
+amortization). Under the terms of the amended facility agreement, satisfying these financial ratios and covenants is a 
+material provision.”
+
+
+ And further from the 2010-F Annual Report (p. 49):
+
+
+“Under the terms of its amended facility agreement, Tower must meet certain financial ratios, including mainly financial 
+covenants relating to quarterly sales, quarterly earnings before interest, taxes, depreciation and amortization (quarterly 
+EBITDA), “life of loan coverage ratio” (which is the ratio of the Fab 2 net cash flow to the total debt related to Fab 2 in any 
+quarter), ratio of debt to EBITDA and ratio of equity to assets. Under the terms of the amended facility agreement, 
+satisfying these financial ratios and covenants is a material provision”
+
+
+Disturbing pattern of TSEM providing shareholders less and less visibility into its 
+
+
+material financial bank debt covenants. Is it a coincidence that discussion about the covenants was 
+
+
+reduced leading up to the “momentous” and “revolutionary” business agreement with Panasonic?
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315001676/zk1516675.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891312001224/zk1211364.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891311001431/zk1109871.htm
+68
+
+
+What Exactly Is Meant By “Long-Term”
+
+
+Within Two Years, Israel Corp Would Completely Liquidate Its 39% Position
+
+
+Source: Tower Press Release, March 25, 2013
+
+
+Israel Corporation Has Elected to Convert All of Its TowerJazz Capital Notes into Ordinary Shares
+
+
+Israel Corporation Stated It Has No Intention to Trade or Sell the Ordinary Shares and Will Hold 
+Them as a Long-Term Strategic Investment
+
+
+MIGDAL HAEMEK, Israel, March 25, 2013 – TowerJazz, the global specialty foundry leader, today 
+announced that the Israel Corporation, its major shareholder, has elected to convert all its capital 
+notes into approximately 13.7 million ordinary shares of the Company. IC stated in its recent annual 
+report filed on March 21, 2013 that it has no intention to trade or sell the ordinary shares it holds, 
+totaling approximately 39% of the Company's ordinary shares.
+
+
+Nir Gilad, Israel Corporation CEO, stated: "The conversion of our capital notes into shares is in line 
+with our long term investment in TowerJazz, our belief in TowerJazz's strategy and our wish to 
+become a major shareholder with 39% strategic ownership. As we stated in our financial 
+statements, we have no intention to sell or trade these shares".
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313000889/zk1312875.htm
+69
+
+
+ Up until 1/7/15 (“the Structure Split Date”), Israel Corporation Limited (Symbol: ILCO), which is one of Israel’s largest 
+holding companies, was the majority shareholder in Tower holding 27% equity stake
+
+
+ On the Structure Split Date, Israel Corp operations were split, such that:
+ Its high quality holdings (cash cows) remained in direct ownership (Israel Chemicals and Bazan Group), 
+ Its less successful holdings, such as Zim, Qoros and Tower, were transferred to Kenon Holdings Ltd., a company 
+
+
+denominated in Singapore and traded on NYSE and TASE under the ticker “KEN”
+ Simultaneously, Israel Corp distributed the Kenon shares as dividend in kind to its shareholders resulting in Israel 
+
+
+Corp balances being clean from any Kenon holdings.
+ On April 30, 2015, Tower’s parent company Kenon proposed to its shareholders that it would distribute its Tower 
+
+
+share as dividend in kind
+• The distribution considered some, or all, of the 18,030,041 ordinary shares of Tower held by Kenon, as well as 
+
+
+1,699,795 ordinary shares of Tower underlying the 1,699,795 Series 9 Warrants of Tower held by Kenon
+ On May 27, 2015, Kenon approved the distribution of its Tower shares
+
+
+• 100% of the Kenon shareholders voting at the EGM voted in favor of the Proposal
+ In light of our belief that Tower has poor free cash flows, and illiquid assets with limited marketability, it appears to 
+
+
+have had few options of repaying its $197m of outstanding Series F debentures due in June 2015
+ The conversion of Series F debentures totaling approximately $200m prevented Tower from the possibility of 
+
+
+reaching insolvency, strengthen its shareholder’s equity, and reduced its financing expense all at the expense of 
+significant dilution of its shareholders (which by now are accustomed to dilution after many rounds of dilutions over 
+the years of Tower operations)
+
+
+Is it just a coincidence that TSEM’s largest shareholder decided to distribute its shares in-kind at 
+
+
+a multi-year high in the stock, and following “record financial results.” 
+
+
+
+http://ir.israelcorp.com/phoenix.zhtml?c=170379&p=irol-news
+
+http://www.sec.gov/Archives/edgar/data/1611005/000119312515159529/d919211dex991.htm
+
+http://www.sec.gov/Archives/edgar/data/1611005/000119312515201010/d932772d6k.htm
+70
+
+
+Source: 2012 20-F Annual Report
+
+
+Major Owners as of March 31, 2013
+
+
+Source:2014 Notice of General Shareholder Meeting
+
+
+Major Owners as of April 30, 2014
+
+
+Current Owners
+
+
+Source: 2015 Notice of General Shareholder Meeting and 13D/A Bank Hapoalim filed 1/11/16
+
+
+Two Israeli Shareholder Have Liquidated With 
+Bank Hapoalim Reducing Ownership to 4.8%
+
+
+Something To Consider!
+
+
+Why Did The Israeli Banks 
+and Institutions That Helped 
+Fund and Restructure TSEM 
+Just Eliminate/Reduce Their 
+
+
+Holdings? What did they 
+know that foreign investors 
+
+
+do not?
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891313001288/zk1313025.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891314001810/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891315002508/exhibit_99-1.htm
+
+http://www.sec.gov/Archives/edgar/data/902528/000119312516426014/d118039dsc13da.htm
+71
+
+
+% Fully Diluted Share Ownership
+
+
+Beneficial
+Shareholder
+
+
+2002 2005 2007 2008 2009 2010
+
+
+Sandisk Corp 11.66% 10.33% 5.14% 2.43% 1.83% --
+
+
+Alliance 
+Semiconductor
+
+
+11.60% 9.52% -- -- -- --
+
+
+Macronix Int’l 11.26% 7.04% 2.61% 1.23% -- --
+
+
+Ontario 
+Teachers Pension
+
+
+7.43% -- -- -- -- --
+
+
+Source Source Source Source Source Source Source
+
+
+Tower’s former strategic shareholders primarily invested in the production of Fab 2. They 
+
+
+were eventually diluted into non-existence. Not a single strategic shareholder remains today
+
+
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891303000179/d30110.txt
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891306001285/zk62596.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891308001507/zk85345.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891309001535/zk96862.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891310001138/zk1008214.htm
+
+http://www.sec.gov/Archives/edgar/data/928876/000117891311001431/zk1109871.htm
+73
+
+
+Promoting 
+Broker
+
+
+Initiation
+Conference 
+
+
+Date
+Notes
+
+
+Rodman & 
+Renshaw
+
+
+Initiation: 9/12/10
+“Market Outperform/Aggressive Risk, $2 Price 
+
+
+Target” 
+Note: Analyst Kumar would later re-initiate a buy at 
+
+
+Maxim Securities in May 2012 and re-initiate at 
+Imperial Capital in June 2014
+
+
+8/18/10
+8/24/11
+
+
+Rodman & Renshaw Halts Broker 
+Dealer Business
+
+
+Rodman & Renshaw Shuts Down China Research Amid “Market 
+Conditions” aka no buyers for China Fraudcaps
+
+
+Kaufman -- 9/14/10 Kaufman Bros Closes Down
+
+
+LD Micro -- 12/2/14
+Why is TSEM (billion dollar mkt cap) presenting at a conference with 
+speculative microcaps and others targeted by short-sellers such as 
+
+
+MGNA, BOFI, BTX?
+
+
+Roth Capital -- 3/15/10
+Roth Capital Reverses Course on China after a string of corporate-
+
+
+accounting scandals
+
+
+Ascendiant 
+Capital
+
+
+-- 1/26/15 Promotional call with TSEM management
+
+
+Chardan 
+Capital
+
+
+Initiation: 2/3/10
+“Despite its checkered past and weak balance sheet, 
+
+
+Chardan analyst believes the company has turned the 
+corner and as such offers investors an opportunity to 
+
+
+put new money to work in a growing company.”
+
+
+--
+Chardan also linked to China fraud underwriting –
+
+
+speculative foreign company underwriting
+
+
+Oppenheimer
+
+
+Initiation: 12/14/15
+Initiating with Outperform & $20 PT
+
+
+“With a revenue run-rate of $1B and demand 
+outstripping TSEM's supply, we see the company as a 
+
+
+unique growth story with improving GMs/FCFs”
+
+
+8/11/15
+7/25/11
+
+
+Oppenheimer also involved with questionable China IPOs.
+Recent Spruce Point shorts covered by Oppenheimer include: 
+
+
+NCR, AMETEK, iRobot 
+
+
+Collins Stewart 7/2/2008 Collins Stewart acquired by Canaccord!
+
+
+
+http://www.globes.co.il/en/article-1000587990
+
+http://www.globes.co.il/en/article-1000750539
+
+http://www.streetinsider.com/Analyst+Comments/Imperial+Capital+Starts+Tower+Semiconductor+(TSEM)+at+Outperform/9605982.html
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1511375
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1599780
+
+http://www.businessinsider.com/rodman-and-renshaw-to-suspend-broker-dealer-2012-9
+
+http://www.reuters.com/article/rodman-china-idUSN1E79G1RG20111017
+
+http://www.gotsige.com/press-releases/jsp/getIRevents.jsp
+
+http://www.wsj.com/articles/SB10001424052970204740904577195050091466204
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1992346
+
+http://www.ldmicro.com/p/main-event.html
+
+https://www.highbeam.com/doc/1G1-222129834.html
+
+http://www.wsj.com/articles/SB10001424127887324073504578114421922362286
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=2010248
+
+http://www.chardancm.com/news/press-releases/chardan-capital-markets-initiates-coverage-towerjazz-tsem
+
+http://usatoday30.usatoday.com/money/markets/story/2011-12-26/china-us-merger-cautionary-tale/52233828/1
+
+http://seekingalpha.com/news/2983186-cypress-towerjazz-get-bullish-oppenheimer-coverage
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&id=2064788
+
+http://ir.towerjazz.com/phoenix.zhtml?c=79678&p=irol-newsArticle&ID=1588276
+
+http://www.sec.gov/Archives/edgar/containers/fix067/928876/000117891308001742/zk85487.htm
+
+http://www.ft.com/intl/cms/s/0/a2068314-2729-11e1-b9ec-00144feabdc0.html
+74
+
+
+Broker Rating Price Target
+
+
+Drexel Hamilton Buy $28
+
+
+Chardan Buy $24
+
+
+Craig-Hallum Buy $22
+
+
+Bank Hapoalim** Buy $21
+
+
+Oppenheimer Outperform $20
+
+
+Leader Capital Buy $17
+
+
+Average Price
+% Avg Upside 
+% Max Upside
+
+
+$22.00
+76%
+
+
+124%
+
+
+** A current TSEM shareholder of course says Buy!
+Upside based on $12.50 stock price
+Source: Bloomberg
+
+
+Buys vs. Holds
+
+
+TSEM analysts see average upside to $22/share or 47% above the current trading price. Notably, 
+
+
+analysts base their price targets on Tower’s Non-GAAP EPS which we pointed out excludes 
+
+
+depreciation and amortization and is not industry standard presentation.
+
+
+Buy Hold Sell
+
+
+
+http://www.globes.co.il/en/article-bank-hapoalim-sees-68-upside-in-tower-semiconductor-1001067138
+75
+
+
+Stock '15E-'16E Enterprise Value Net Debt/
+
+
+Price Ent.  Revenue EPS P/E EBITDA Sales 2015E
+
+
+Name Ticker 1/14/2016 Value Growth Growth 2015E 2016E 2015E 2016E 2015E 2016E EBITDA 
+
+
+Taiwan Semi TSM $20.48 $96,680 6.4% -3.4% 11.5x 11.9x 5.9x 5.4x 3.7x 3.5x -0.5x
+
+
+United Micro UMC $1.67 $4,345 -1.3% -14.3% 11.9x 13.9x 2.6x 2.3x 1.0x 1.0x 0.1x
+
+
+Semi. Mft Int'l SMI $4.63 $4,812 15.3% -10.8% NM 14.0x 6.5x 5.6x 2.2x 1.9x 0.4x
+
+
+Amkor AMKR $5.65 $2,367 35.3% 31.3% 17.7x 13.5x 3.5x 3.0x 0.8x 0.6x 1.5x
+
+
+Marvell Tech MRVL $8.29 $1,944 -7.2% 21.4% 19.7x 16.3x 6.4x 6.4x 0.7x 0.8x NM
+
+
+Magnachip MX $3.72 $283 1.8% -4.1% NM NM NM NM 0.4x 0.4x NM
+
+
+Max 35.3% 31.3% 19.7x 16.3x 6.5x 6.4x 3.7x 3.5x 1.5x
+
+
+Average 8.4% 3.4% 15.2x 13.9x 5.0x 4.6x 1.5x 1.4x 0.4x
+
+
+Min -7.2% -14.3% 11.5x 11.9x 2.6x 2.3x 0.4x 0.4x -0.5x
+
+
+TowerJazz TSEM $12.50 $1,564 13.7% 23.3% 5.2x 4.2x 6.4x 4.5x 1.6x 1.4x 0.7x
+
+
+Source: Company financials, Wall St. estimates.
+
+
+$ in millions, except per share figures
+
+
+TSEM “looks cheap” on large revenue 
+and EPS growth estimates, but in our 
+opinion, the revenue and EPS quality 
+are very low. There is not enough 
+evidence to suggest that TSEM’s 
+earnings translate to Free Cash Flow 
+
+
+Magnachip / MRVL are great comps 
+for TSEM, both having been 
+ensnared in recent accounting 
+scandals. MX is the more relevant of 
+the two since it operates an 
+outsourced foundry service business.
+
+
+Typically, you get what you pay for and there is no free lunch with investing. We believe TSEM is cheap because it 
+
+
+trades on highly “adjusted Non-GAAP” results, yet has not proven an ability to generate sustained free cash flow.  It is 
+
+
+not unreasonable to value TSEM on a multiple of revenue and compare its valuation to Magnachip, a foundry services 
+
+
+provider that loses money, and had accounting issues come to light.
+76
+
+
+Magnachip Marvell Technologies
+
+
+Announces 
+Non-Reliance 
+on Financials
+
+
+Restates Financials, 
+Worse than 
+Expected
+
+
+PwC 
+Resigns
+
+
+Discloses Internal 
+Probe, Warns of 
+Q2 Loss
+
+
+Marvel designs, develops and markets analog and mixed-signal, digital 
+signal processing and embedded and standalone integrated circuits
+
+
+9/11/15: Announces the Audit Committee is conducting an independent 
+investigation of certain accounting and internal control matters 
+consisting of a review of certain revenue recognition issues Q2’2016 and 
+associated issues with whether senior management’s operating style 
+during the period resulted in an open flow of information and 
+communication to set an appropriate tone for an effective control 
+environment. 
+10/20/15: Announces the resignation of its Auditor PwC
+
+
+Magnachip is designer and manufacturer of analog and mixed-signal 
+semiconductor products and offers foundry services
+
+
+3/6/14: Issues non-reliance on financials; Audit Committee determines 
+incorrect recognized revenue on certain transactions, and a determination 
+of one or more  material weaknesses over internal controls and reporting. 
+Oct 2014: Identified numerous accounting errors, most of which involved 
+revenue recognition, COGS, inventory reserves, fixed asset capitalization, 
+and expense recognition and allocation. It also identified deficiencies 
+regarding business practices related to distributors, non-distributor 
+customers and vendors. 
+2/13/15: Completes restatement, holds conf-call, disappoints investors
+12/10/15 and 12/28/15: Settles shareholder litigation; Director resigns
+
+
+Director 
+Resigns
+
+
+Recent accounting scandals in the semiconductor industry have taken a long time to unfold, and have blind-sided 
+
+
+investors with steep losses. Each of Marvell and Magnachip currently trade at approx. 0.5x – 0.8x 2016E revenues.
+
+
+Source: Google Finance Source: Google Finance
+
+
+
+http://www.sec.gov/Archives/edgar/data/1058057/000119312515317840/d64331dnt10q.htm
+
+http://www.sec.gov/Archives/edgar/data/1058057/000119312515353300/d37372d8k.htm
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312514093731/d691434d8k.htm
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312515046779/d834271d10q.htm
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312515048426/0001193125-15-048426-index.htm
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312515401471/d33673d8k.htm
+
+http://www.sec.gov/Archives/edgar/data/1325702/000119312515418559/d103046d8k.htm
+78
+
+
+Source: E&Y Issuer’s Accounting for 
+Debt and Equity Financings, Oct 2015
+79
+
+
+1) Box A: Is the debt instrument required to be accounted for at fair value under US GAAP or, if eligible, has the issuer elected to recognize the
+
+
+debt at fair value?
+
+
+Answer: No.
+
+
+The debt instrument doesn't require fair value application, and the company has not elected the fair value method (under ASC 820).
+
+
+2) Box B: Does the debt instrument contain embedded features?
+
+
+Answer: Yes.
+
+
+The instrument (Series F) is a convertible bond (hybrid instrument). As such, it comprised of a debt host and a conversion option (embedded feature).
+
+
+3) Box D: Evaluate each embedded feature for bifurcation from a debt host instrument. Box D(A): Is there a conversion or exchange feature?
+
+
+Answer: Yes.
+
+
+The debt instrument includes conversion option.
+
+
+4) Box D1: Is the feature clearly and closely related to the debt host?
+
+
+Answer: No.
+
+
+The economic characteristics and risks of the embedded feature are not clearly and closely related to the economic characteristics and risks of the host
+
+
+contract.
+
+
+5) Box D2: Does the feature meet the definition of a derivative?
+
+
+Answer: Yes.
+
+
+A separate instrument with the same terms as the embedded derivative would be considered a derivative instrument subject to derivative accounting (the initial
+
+
+net investment for the hybrid instrument should not be considered to be the initial net investment for the embedded derivative).
+
+
+6) Box D3: Is the feature eligible for an exception from derivative accounting?
+
+
+Answer: No.
+
+
+The conversion price for the Series F Convertible Debentures was unknown at the original issue date (October 2010), and it shall be equal to 120% of the
+
+
+average trading price of the Company’s ordinary share on the Tel-Aviv Stock Exchange (TASE) during the 15 trading days in Israel before September 18, 2012.
+
+
+Therefore, the "fixed-for-fixed" concept wasn't held due to the fact you don't know what would be the conversion price (and therefore, you don't know what
+
+
+would be the conversion ratio, i.e., the number of common shares received at the time of conversion for each convertible security).
+
+
+7) Conclusion (Box E): Bifurcate from the proceeds allocated to the debt host the fair value of a single derivative that comprises all of the
+
+
+individual features requiring bifurcation.

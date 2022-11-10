@@ -1,1303 +1,4300 @@
-!"#$%&"'()*
-!"#$%&$'())*$+,-#."$//01"$.#"#,.23$4"$,-$*%(.$%56$.4"78$$9%($"3%(:)$)%$*%(.$%56$.#"#,.23$,6)$)(#$)4:4;#62#$<#&%.#$=,746;$,6*$46>#"-=#6-$)#24"4%6$
-54-3$.#"?#2-$-%$"#2(.4-4#"$2%>#.#)$3#.#468$$9%($"3%(:)$,""(=#$-3,-$,"$%&$-3#$?(<:42,-4%6$),-#$%&$,6*$.#?%.-@$'())*$+,-#."@$//0$A?%""4<:*$,:%6;$54-3$%.$
--3.%(;3$%(.$=#=<#."@$?,.-6#."@$,&&4:4,-#"@$#=?:%*##"@$,6)B%.$2%6"(:-,6-"C$,:%6;$54-3$%(.$2:4#6-"$,6)B%.$46>#"-%."$3,"$,$"3%.-$?%"4-4%6$46$-3#$"-%27$A,6)B%.$
-%?-4%6"$%&$-3#$"-%27C$2%>#.#)$3#.#46@$,6)$-3#.#&%.#$"-,6)"$-%$.#,:4D#$"4;64&42,6-$;,46"$46$-3#$#>#6-$-3,-$-3#$?.42#$%&$"-%27$)#2:46#"8$$E%::%546;$?(<:42,-4%6$
-%&$,6*$.#?%.-@$5#$46-#6)$-%$2%6-46(#$-.,6",2-46;$46$-3#$"#2(.4-4#"$2%>#.#)$-3#.#46@$,6)$5#$=,*$<#$:%6;@$"3%.-@$%.$6#(-.,:$,-$,6*$-4=#$3#.#,&-#.$.#;,.):#""$
-%&$%(.$464-4,:$.#2%==#6),-4%68$$$F34"$4"$6%-$,6$%&&#.$-%$"#::$%.$,$"%:424-,-4%6$%&$,6$%&&#.$-%$<(*$,6*$"#2(.4-*@$6%.$"3,::$,6*$"#2(.4-*$<#$%&&#.#)$%.$"%:)$-%$,6*$
-?#."%6@$46$,6*$G(.4")42-4%6$46$53423$"(23$%&&#.$5%(:)$<#$(6:,5&(:$(6)#.$-3#$"#2(.4-4#"$:,5"$%&$"(23$G(.4")42-4%68$F%$-3#$<#"-$%&$%(.$,<4:4-*$,6)$<#:4#&@$,::$
-46&%.=,-4%6$2%6-,46#)$3#.#46$4"$,22(.,-#$,6)$.#:4,<:#@$,6)$3,"$<##6$%<-,46#)$&.%=$?(<:42$"%(.2#"$5#$<#:4#>#$-%$<#$,22(.,-#$,6)$.#:4,<:#@$,6)$53%$,.#$
-6%-$46"4)#."$%.$2%66#2-#)$?#."%6"$%&$-3#$"-%27$2%>#.#)$3#.#46$%.$53%$=,*$%-3#.54"#$%5#$,6*$&4)(24,.*$)(-*$%.$)(-*$%&$2%6&4)#6-4,:4-*$-%$-3#$4""(#.8$$$
-H%5#>#.@$"(23$46&%.=,-4%6$4"$?.#"#6-#)$I,"$4"@I$54-3%(-$5,..,6-*$%&$,6*$746)$J$53#-3#.$#K?.#""$%.$4=?:4#)8$$'())*$+,-#."@$//0$=,7#"$6%$.#?.#"#6-,L
--4%6@$#K?.#""$%.$4=?:4#)@$,"$-%$-3#$,22(.,2*@$-4=#:46#""@$%.$2%=?:#-#6#""$%&$,6*$"(23$46&%.=,-4%6$%.$54-3$.#;,.)$-%$-3#$.#"(:-"$-%$<#$%<-,46#)$&.%=$4-"$("#8$$
-M::$#K?.#""4%6"$%&$%?464%6$,.#$"(<G#2-$-%$23,6;#$54-3%(-$6%-42#@$,6)$'())*$+,-#."@$//0$)%#"$6%-$(6)#.-,7#$-%$(?),-#$%.$"(??:#=#6-$-34"$.#?%.-$%.$,6*$
-%&$-3#$46&%.=,-4%6$2%6-,46#)$3#.#468
+2
 
 
-!"#$%&'#(')(*$+$,#%-.(/,#+'0(/1(23'%45(6+71
+Full Legal Disclaimer
 
 
-!"##$%&'()*+,%--.
-88819:;;<8,&$#+#$+$,#%-1%'9
+This research presentation expresses our research opinions. You should assume that as of the publication date of any presentation, report or letter, Spruce Point 
+Capital Management LLC (possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our subscribers and clients has 
+a short position in all stocks (and are long/short combinations of puts and calls on the stock) covered herein, including without limitation WD-40 Company (“WDFC”), 
+and therefore stand to realize significant gains in the event that the price of its stock declines. Following publication of any presentation, report or letter, we intend 
+to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless of our initial recommendation. All 
+expressions of opinion are subject to change without notice, and Spruce Point Capital Management does not undertake to update this report or any information 
+contained herein. Spruce Point Capital Management, subscribers and/or consultants shall have no obligation to inform any investor or viewer of this report about 
+their historical, current, and future trading activities.
 
 
-"0)'=9:;;<8,&$#+#$+$,#%-
+This research presentation expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which are based upon 
+publicly available information, and all of which are set out in this research presentation. Any investment involves substantial risks, including complete loss of capital. 
+Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum possible loss or gain. Any information contained in 
+this report may include forward looking statements, expectations, pro forma analyses, estimates, and projections. You should assume these types of statements, 
+expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for reasons beyond Spruce Point Capital Management LLC’s control. This is 
+not investment or accounting advice nor should it be construed as such. Use of Spruce Point Capital Management LLC’s research is at your own risk. You should do 
+your own research and due diligence, with assistance from professional financial, legal and tax experts, before making any investment decision with respect to 
+securities covered herein. All figures assumed to be in US Dollars, unless specified otherwise.
 
 
-./01'2$3
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material facts 
+necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and reliable, and who 
+are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer, or to any 
+other person or entity that was breached by the transmission of information to Spruce Point Capital Management LLC. However, Spruce Point Capital Management 
+LLC recognizes that there may be non-public information in the possession of WDFC or other insiders of WDFC that has not been publicly disclosed by WDFC. 
+Therefore, such information contained herein is presented “as is,” without warranty of any kind – whether express or implied. Spruce Point Capital Management LLC 
+makes no other representations, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be 
+obtained from its use. 
 
 
-4)5/00)2#'(6/23
+This report’s estimated fundamental value only represents a best efforts estimate of the potential fundamental valuation of a specific security, and is not expressed 
+as, or implied as, assessments of the quality of a security, a summary of past performance, or an actionable investment strategy for an investor. This is not an offer to 
+sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in which such offer would be unlawful 
+under the securities laws of such jurisdiction. Spruce Point Capital Management LLC is registered with the SEC as an investment advisor. Spruce Point Capital 
+Management LLC is not registered as a broker/dealer or accounting firm.
 
 
-72#"+(*$3
+All rights reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point Capital 
+Management LLC.
+3
 
 
-4)1/*(%8'()3
+Spruce Point’s Success Shorting Consumer 
+And Retail Product Companies
 
 
-9*65)3
+Spruce Point Capital Is An Industry Recognized Research Activist Investment Firm Founded In 2009
+• Founded by Ben Axler, a former investment banker with 20 years experience on Wall Street
+• Named one of the top Activist Short sellers in world in 2020 by Activist Insight Review
+• Unparalleled record of seeing through the stock promotion hype machine with insightful short-selling opinions
 
 
-!'*:)(%.'13
+Report Nasdaq: CSTE | Aug 2015 / Oct 2015 Nasdaq: BDBD| 2/26/13 and 3/5/13* Nasdaq: CHD | 9/5/19 Nasdaq: IRBT| Nov 2018, Mar 2019
 
 
->?1@(9"33"'0
+Market Cap $1.7 billion $1.0 billion $22.7 billion $2.0 billion
 
 
-;<=%>/?"0)3
+Company 
+Promotion
 
 
-/-"0,(A$;",(6BC#$++(D'3;"0E+(F//A6G
+Leading quartz countertop maker 
+capable of producing sustainable 43% 
 
 
-H&#'0E(H$33
+and 26% gross and EBITDA margins. The 
+Company claimed it needed to construct 
 
 
-I:&;''#(!"E"&,3(J;K$#&"+"0E
+a U.S. manufacturing facility
 
 
-A,#%-(@5(@?>>
+Smart roll-up acquirer of food brands 
+including: Smart Balance butter, and 
+leading gluten free products such as 
 
 
-L>@1@M
+Glutino, Udi’s and Evol
 
 
-LN@?1M(9"33"'0
+Best of breed roll-up acquiror of 
+personal care and consumer products 
+with the core Arm & Hammer brand 
 
 
-@?/'(3
+providing a stable backbone to diversify 
+into other products
 
 
-@1O(9"33"'0
+Premium robot vacuum protected 
+against cheap, 
 
 
-A+(60'()#%>'?")3
-LP1QN
+low-end competition
 
 
-A:;;<(R,&$#+5(SS/(-,+(,9,++$;("##$):&,T3$($K";$0%$(&-,&(
-//A6("+(,(+:T+&,0&",3()#,:;5(,0;(&-,&(9,0,E$9$0&("+(
-$0E,E"0E("0(,(%'K$#U:C(#$C3$&$(8"&-():#&-$#(;"++$9"0,&"'0(')(
-)#,:;:3$0&("0)'#9,&"'01((
+Our Criticism Our intense fundamental and forensic 
+due diligence uncovered evidence of 
 
 
-R$(C#$+$0&(,(#$%'#;$;(&$3$C-'0$(%'0K$#+,&"'0(&-,&(%'0&,"0+(
-,0(,;9"++"'0(&-,&(//A6("+($0E,E"0E("0(+$%:#"&"$+()#,:;1((
+slowing U.S. growth, and margin 
+pressure being covered-up. We also 
+expressed grave concerns about the 
+Company’s strategy to build a U.S. 
 
 
-R$(;'%:9$0&(&-,&("0(&-$(%':#+$(')(#$T:&&"0E(':#(*$C'#&5(
-/-,"#9,0(/-$0E(C#'K";$;(),T#"%,&$;("0)'#9,&"'01((
+manufacturing facility and believed its 
+capex costs seemed overstated, which 
+would allow capitalization of costs on 
 
 
-R$(C#$+$0&(&-$(+,3$+(C#$+$0&,&"'0(8$(#$%$"K$;("0(V,0:,#<(
-)#'9(&-$(,)'#$9$0&"'0$;(+,3$+C$#+'0(F&-$(WH,3$+(X#$+$0&,U
-&"'0YG(&-,&(+-'8+(//A6(-,+()$8$#(&-,0(-,3)(')(&-$(T:+$+("&(
-%3,"9+1((
+the balance sheet and potentially 
+overstate earnings
 
 
-R$(C#$+$0&(,(9"0"U;'%:9$0&,#<(')(&-$(3,#E$+&(C:#C'#&$;(
-'C$#,&'#(Z(H-,0E-,"(2,(H-"(Z(+C$%")"%,33<()'%:+"0E('0("&+(
-"0&$#U%"&<(T:+$+(,0;(;#"K$#+1([-$()"39(+-'8+(&-,&(//A6\+(
--,#;8,#$("+(0'&("0+&,33$;('0(&-$(T:+$+5(;$+C"&$(//A6\+(
-%3,"9(&'(-,K$(-,;(-,#;8,#$('0(&-$+$(T:+$+(+"0%$(,&(3$,+&(
-9";U@??O1((
+Boulder Brands was facing a patent 
+cliff on its Smart Balance butter and 
+
+
+embarked on an expensive and 
+levered acquisition spree to diversify 
+into the faddish gluten free market. 
+
+
+Segment realignments and 
+questionable accounting were being 
+used to mask fundamental strains. 
+
+
+The CEO Hughes was highly 
+promotional and had a questionable 
+
+
+history of value creation 
+
+
+New management is more aggressive, 
+using financial and accounting tactics to 
+
+
+inflate the share price. The recent 
+acquisition of FLAWLESS hair care was 
+
+
+expensive and will disappoint investors. 
+Governance lapses have allowed 
+
+
+management to reap unjust bonuses 
+based on non-cash gains. Shares at $80 
+
+
+trade 8% above analyst targets
+
+
+Increasingly high-end competitors 
+taking share in robot vacuum space 
+
+
+and pressuring ASPs. History of 
+failures in non-vacuum products 
+
+
+suggests inability to grow mop sales 
+or successfully launch lawnmower. 
+Rising DSIs suggest financial strain. 
+
+
+Distributor acquisitions obscure 
+underlying sales declines
+
+
+Successful 
+Outcome
+
+
+Two CEO/CEO’s and two CFO/CFO’s of 
+Caesarstone have subsequently 
+
+
+resigned. The Company has reported 
+numerous manufacturing problems in 
+
+
+both its new U.S. production and Israeli 
+facilities. Gross margins contracted to 
+25%. The share price has fallen >70% 
+
+
+from our initiation price
+
+
+Boulder took a significant goodwill 
+impairment charge in Q3’2014 and 
+guided results significantly below 
+
+
+estimates by finally admitting 
+headwinds in its spreads business and 
+
+
+margin pressures. In June 2015, the 
+CEO resigned
+
+
+Within the first quarter after our report, 
+CHD reported disappointing Q3 sales 
+
+
+results, cut its full year sales  guidance, 
+and issued Q4 earnings at $0.54, below 
+the $0.62 expected. CHD blamed higher 
+
+
+sales and marketing expenses on 
+FLAWLESS. CHD’s new 10-K added risk 
+factors around financial controls and it 
+Chief Accounting Officer is “retiring”
+
+
+Disappointing sales growth due to 
+slower-than-projected robotic mop 
+
+
+sales. Gross margins continue to 
+decline due to increasing 
+
+
+competition at both the low and 
+high end of the market. 
+
+
+FY outlook lowered. Long-time CFO 
+Alison Dean announces transition 
+
+
+plan in Feb 2020
+
+
+* Reports produced by Prescience Point of which Mr. Axler was a contributing author. Past performance is no guarantee of future success. Please read our disclaimer at the front of this presentation
+
+
+
+https://www.activistinsight.com/resources/reports/
+
+https://www.sprucepointcap.com/cste-ltd/
+
+https://www.sprucepointcap.com/cste-ltd-followup/
+
+https://seekingalpha.com/article/1224721-boulder-brands-expiring-patents-financial-obfuscation-and-extreme-leverage-could-drop-this-stock-70-percent
+
+http://www.sprucepointcap.com/boulder-brands/
+
+https://www.sprucepointcap.com/church-dwight-co-inc/
+
+https://www.sprucepointcap.com/irobot-corp-update-4/
+
+https://www.sprucepointcap.com/irobot-corp-update-5/
+
+http://ir.caesarstone.com/news-releases/news-release-details/caesarstone-announces-departure-ceo
+
+https://www.businesswire.com/news/home/20180322005616/en/Caesarstone%C2%A0Announces%C2%A0Raanan%C2%A0Zilberman%E2%80%99s%C2%A0Resignation-Appointment-Yair-Averbuch-Interim-Chief-Executive%C2%A0Officer
+
+http://ir.caesarstone.com/news-releases/news-release-details/caesarstone-announces-planned-transition-new-chief-financial
+
+https://www.businesswire.com/news/home/20181001005148/en/GMS-Announces-Resignation-Chief-Financial-Officer
+
+https://www.sec.gov/Archives/edgar/data/1331301/000114420414065481/v393439_ex99-1.htm
+
+https://www.sec.gov/Archives/edgar/data/1331301/000114420415036382/v412846_ex99-1.htm
+
+https://finance.yahoo.com/news/factors-know-ahead-church-dwights-150803337.html
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/313927/000119312520046450/d845490d8k.htm
+
+https://investor.irobot.com/news-releases/news-release-details/irobot-announces-cfo-transition
+4
+
+
+Table of Contents
+
+
+Executive Summary
+
+
+Unravelling The Product Hype And Long-Term Secular Challenges
+
+
+Recent Channel Checks Show Increasing Competition And Discounting
+
+
+Evidence of Stretched Accounting, Severe Financial Distress And Why 
+This Recession Will Be Worse Than The Past
+
+
+“Family Tribal” Governance And Management Concerns
+
+
+Valuation Extreme Leads To Horrible Risk / Reward: Simple Downside Case
+
+
+Appendix: What’s The Silver Lining
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+6
+
+
+5
+
+
+7
+Executive Summary
+6
+
+
+Spruce Point Is Short WD-40 (Nasdaq: WDFC) 
+And Estimates 55% - 60% Downside Risk
+
+
+At The Core, WD-40 Is An Oil-Based Lubricant Being Sold At Above Market Prices And Heavily Dependent On Its Brand Equity
+ WD-40 relies on a trade secret, and has no patents, to protect itself in the market place from dozens of cheaper all-purpose and specialty 
+
+
+lubricants in a variety of saturated retail channels, and user end markets
+ WD-40’s heaviest users are maintenance and repair specialists, notably in the auto market. A long-term challenge facing it is the 
+
+
+electrification of cars, which have fewer moving parts and require less regular maintenance
+ In addition, WD-40 sells into the bicycle and motorcycle markets. Each of these markets are also under long-term pressure from changing 
+
+
+customer preferences, in addition to the electrification of the market. Independent bicycle dealerships are in long-term decline, while 
+children (the next generation of users) are also purchasing fewer bicycles
+
+
+ We believe the product is also coming under increasing regulatory scrutiny. By analyzing changes in its product fact sheet, we see that 
+more disclosures about the hazardous nature of the chemicals contained in the product are being highlighted
+
+
+ Because of these hazards, we believe WD-40 is not well suited to an e-commerce environment. In fact, WD-40 recently added a 
+disclosure statement in its product fact sheet that it does not recommend transporting it by air. The FAA also added WD-40 to its list of 
+products that cannot be carried on, or packed in luggage, by the public when flying commercial air
+
+
+Spruce Point believes that WD-40 (Nasdaq: WDFC or “the Company”) is widely misunderstood and believed to be defensive, but in reality, 
+is facing both long and short-term secular pressures. With the Company recently upsizing and drawing down 100% of its credit facility, a 
+
+
+size 1,500% larger than the previous recession in 2008-2009, we believe a massive hole in its balance sheet has been exposed. Our 
+forensic review and channel checks indicate record bloated inventories, and material financial strain. We believe it will have to drastically 
+
+
+reduce its optimistic 3-7% sales target and re-set investor expectations meaningfully lower. Trading near all-time highs and at an 
+unprecedented 6x sales and 28x EBITDA, we believe shares are a horrible risk/reward. We see 55% - 60% downside risk ($75-$85/share).   
+
+
+A Highly 
+Promotional 
+
+
+Business Under 
+Long-Term 
+Pressures
+
+
+Even
+Before The 
+
+
+Coronavirus
+Scare
+
+
+Not Recession 
+Proof. This 
+
+
+Time Around 
+Will Be MUCH 
+
+
+Worse
+
+
+A Major Hole In 
+Its Balance 
+
+
+Sheet Exposed
+
+
+Investors Fail To Understand Changes In WD-40’s Business That Expose It To Much Greater Risk Today vs. The Last Crisis
+ Late Friday on March 27th, WD-40 drew down the remainder of its $150m credit facility. During the prior crisis, it had a small $10m facility 
+
+
+that was never utilized. We believe this gigantic draw down exposes a major hole and problem with its business. WD-40 is levered only 
+0.7x Net Debt to EBITDA and projected to generate $30m+ of free cash flow. Why would it need to max out its credit line?
+
+
+ In our view, WD-40 has no visibility in an economic recession. It missed FY 2009 sales and EPS estimates by 13% and almost 10% at 
+the mid-points, respectively. In FY 2008 it missed sales and EPS by 5% and 13% and the mid-points, respectively. This time around, the 
+economic crisis is greater, and we expect a much larger miss of its targets
+
+
+ WD-40’s business has grown much more international today vs. the last financial crisis 10yrs ago. Today: 63% international sales vs. 
+52% during the last crisis. WD-40 now obscures country-level revenue detail. However, we estimate the U.K is 37% of total revenues vs. 
+9% during the last crisis. We estimate 75% of WD-40’s cash is in its U.K. subsidiary. First Brexit, and now a coronavirus scare, has sent 
+the Pound to multi-year lows which we believe has compounded WD-40’s challenges
+
+
+ Working capital strain has materially intensified. Based on our analysis, working capital to sales is currently 16.3% of sales, almost double 
+the 8.6% of sales in 2007
+
+
+ By closely examining the composition of WD-40’s inventory accounts, we observe that Finished Goods make up an increasing 
+percentage of the overall balance, and more than prior to entering the last crisis. Days of Inventory and its Cash Conversion Cycle are 
+near all-time highs. In our opinion, this suggests that inventory is building up and not selling-through to customers
+7
+
+
+Spruce Point Is Short WD-40 (Nasdaq: WDFC) 
+And Estimates 55% - 60% Downside Risk
+
+
+We Believe WD-40 Has Few, If Any, Growth Avenues Left And The Company Is Leaving Subtle Hints We’re Right
+ As a 65+ year old company relying on a core lubricant product, it’s easy to understand that finding new markets and introducing new and 
+
+
+successful products can be challenging 
+ We observe that WD-40 is taking actions consistent with a mature company, including investing less and less in R&D every year, and 
+
+
+covering-up disclosures about challenged products and ventures (recently WD-40 BIKE)
+ WD-40 continues touting geographic expansion with a $1bn market opportunity. A year ago, it even listed Venezuela and Iran as market 
+
+
+opportunities for its products. However, it recently omitted these countries from its latest investor presentation
+ By far, WD-40 has been promoting its ambitions in China, once claiming sales would be $100m. Yet, 17 years ago it admitted that 25% of 
+
+
+the market was counterfeits. We find evidence that counterfeits continue to plague its growth ambitions there. Asia-Pacific and China have 
+recently become an extreme weak spot for the Company, and while it blames the issue on “formulation changes” and China holidays, we 
+suspect there are more structural issues that will hamper its ability to reach its lofty Chinese goals
+
+
+ WD-40 is also promoting a new product for the recreational vehicle (RV) industry, but the timing of the introduction is terrible given that 
+nearly all major RV industry players have suspended production, and there’s concern that long-term industry sales have peaked
+
+
+ With respect to channel distribution, we find that WD-40 has already penetrated major categories: mass merchants (WalMart, Target), 
+home improvement stores (Home Depot, Lowes, Ace Hardware), auto repair shops (AutoZone, Advanced Auto, Pep Boys), drug stores
+(Rite Aid, CVS), and dollar stores (Family Dollar, Dollar General)
+
+
+ Our channel checks show some retailers offering their own store brands, like WalMart, and in some cases offering competing products up 
+to 60% lower in price than WD-40’s comparable product. In the home improvement and auto center market, we find that PB Blaster is 
+becoming a formidable competitor, driving more intense price promotion
+
+
+ WD-40 recently started disclosing reductions to sales for rebates, coupons and cash incentives. The disclosure may have been pushed by 
+the auditor, which recently added rebates and marketing program accruals as a “Critical Audit Matter”. By closely analyzing recent trends, 
+we find that WD-40 gave its largest incentives in Q1 2020. We believe this supports our channel check concerns
+
+
+Growth 
+Objectives 
+
+
+Highly 
+Likely 
+
+
+To Disappoint
+
+
+Alarming 
+Governance 
+Challenges
+
+
+Accounting 
+And Audit 
+Concerns
+
+
+Too Cozy of A 
+Tribal Culture
+
+
+Recent Management Transition Plan Announcement More Evidence That The Best Days Are Behind WD-40
+ A majority of the executives are 60+ years old, and with a small company of ~500 employees, investors should pay attention to recent 
+
+
+management transition plans. Unfortunately, not all are in shareholders’ best interest such as the CEO now assuming the Chairman role
+ WD-40 recently promoted internally a new Chief Accounting Officer. A background check reveals that during her previous tenure at Cymer 
+
+
+(formerly: Nasdaq: CYMI), it disclosed accounting errors and a material weakness related to income tax accounting. It’s noteworthy that 
+WD-40 just disclosed a $0.63 per share reserve for uncertain taxes
+
+
+ In our view, there is evidence insiders act in their own best interest. Insiders have misdirected 62% of total free cash flow since 2007 
+towards stock repurchases at increasingly inflated prices. This has allowed insiders to materially reduce their ownership and capital at-risk. 
+Current insiders own a record low 1.9% of total shares 
+
+
+ In addition, we see evidence of management making usual adjustment to EBITDA bonus targets by ignoring certain expenses that look 
+ordinary and necessary to execute its business plan
+
+
+ WD-40 would benefit from replacing its auditor PwC, which has audited the Company for so long that no one is even sure when the 
+relationship began. The current audit partner has a self-proclaimed focus on healthcare and biotech, not retail or chemicals
+8
+
+
+Spruce Point Is Short WD-40 (Nasdaq: WDFC) 
+And Estimates 55% - 60% Downside Risk
+
+
+Covered By Just Two Analysts Suggesting 15% Upside, No One Has Explored The Downside Case Until Now
+ Despite a $2.7 billion dollar market cap, WD-40 is largely under-followed by the sell-side brokerage community. Instead, it appears the 
+
+
+CEO has sought endorsement from retail investors through channels such as CNBC’s Mad Money
+ The two analysts covering it have price targets of $210 and $225, implying approximately 15% of upside on average. Yet, we don’t
+
+
+believe either analyst has conducted a rigorous forensic review and channel checks that indicate significant financial strain and long-term 
+challenges that will cap upside potential
+
+
+ The analysts push the Company narrative that WD-40 is recession resistant, yet don’t point out that during the last crisis WD-40 wildly 
+missed its targets and experienced declining sales and EPS. We believe this time around, the magnitude of the miss will be greater
+
+
+ Collectively, the analysts still see top line growth this year of 1.3% which will rebound to 6.6% in FY 2021. We view both of these 
+forecasts as wildly optimistic in light of continued long-term challenges, and price increases put though in the recent past which aren’t 
+likely to be repeated. To be clear, we view analysts’ estimates as aggressive even before the recent economic turmoil brought about by 
+the virus
+
+
+ Sell-side analysts also point to the recent plunge in oil as a catalyst to buy the stock. While we acknowledge that 33% of WD-40’s cost to 
+produce a can is petroleum-based specialty chemicals, this benefit comes at the same time as severely depressed economic activity 
+also affects sales. In addition, WD-40’s competitors (already pricing products below WD-40) get the same benefit and can become even 
+more price aggressive to take share 
+
+
+ Furthermore, the magnitude of oil’s decline during the last crisis is comparable to today’s from a percentage decline of approximately 
+70%. We see that it took until Q3 for the Company to say that oil benefited gross margin by 200bps, and that was a full year after oil 
+peaked over $140/bbl in July 2008. What’s also important to realize is that WD-40 had ~40 days of inventory outstanding then vs. ~80 
+today. As a result, we believe it will take even longer for it to realize the full benefit of lower oil
+
+
+ WD-40’s valuation relative to its own selected peers set of specialty chemical and auto part distributors exposes its extreme valuation. Its 
+valuation becomes even more expensive once it becomes evident that overly aggressive estimates for 2020-2021 will be difficult to 
+achieve. The multiple has actually expanded during the current crisis to all-time highs, and the bullish analysts’ even think there is more 
+room for valuation expansion. We beg to differ. Only distorted financial logic would argue that WD-40 should experience multiple
+expansion while an enormous hole in its balance sheet exists.
+
+
+ Currently trading at 6x and 27x 2020E consensus sales and EBITDA, WD-40 is priced beyond perfection. Once investors come to grips 
+with the reality that WD-40 will repeatedly miss aggressive forecasts set by management, and reiterated by analysts, we believe its 
+multiple will compress to more realistic levels in-line with low/no growth consumer product and specialty chemical peers. At a generous 
+2x and 12x sales and EBITDA multiple on our lower financial forecasts we estimate 55% – 60% downside risk
+
+
+ For investors holding out hope that WD-40 is a take-over target, we point out that larger companies such as Dupont and Newell Brands 
+have competing products in the space; neither have invested in developing the product category, or made an offer for WD-40. 
+Furthermore, any financial or private equity buyer would struggle to make the math work at its current excessive valuation
+
+
+Slanted 
+“Consensus”
+View of Just 
+
+
+Two Sell-Side 
+Analysts
+
+
+Extreme 
+Valuation
+
+
+Disconnected 
+From Reality
+
+
+A Horrible 
+Risk / Reward
+
+
+WD-40 represents a highly asymmetric risk / reward given current extreme valuation and lack of analysts exercising 
+skepticism or having conducted a rigorous forensic analysis of the Company’s financial condition.
+9
+
+
+Well Oiled Machine, Or Clever Stock Promotion?
+
+
+WD-40’s share price defies logic and trades at an extreme valuation. Post the last financial crisis in 2018, management 
+has directed ~62% of total free cash flow into repurchasing shares at increasingly inflated prices, while it methodically 
+
+
+reduces its stake in the Company to almost nothing. The Company claims it is “recession resistant”, but we will explain 
+why we expect the Company to experience significantly worse financial performance vs. the prior cycle, and investors 
+
+
+should brace for significant disappointment. 
+
+
+Source: Bloomberg
+
+
+March 2020: Expands and draws 
+down full $150m revolver
+
+
+Dec 2020: New Chief 
+Accounting Officer Appointed
+
+
+Dec 2019: Discounts 
+Increase At Retail 
+
+
+June 2019:
+“Succession Plan” 
+Announced
+
+
+July 2019::
+Surprise Tax 
+Reversal Disclosed
+
+
+Jan 2014: Former Secretary And 
+IR Executive Changes Last Name 
+To the CEO’s Indicating A Close 
+Family Relationship Two Months 
+After Signing Form 4 Stock Sales
+
+
+Feb 2019: 
+Chief Strategy 
+Officer 
+Retires
+
+
+March 2007: First $35m 
+repurchase program
+
+
+June 2016: New $75m 
+repurchase program
+
+
+Oct 2014: New $75m 
+repurchase program
+
+
+June 2018: 
+$75m 
+repurchase 
+program
+
+
+Sept 2008: Enters into $10m
+Revolving credit facility
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513220000013/wdfc-20200323x8k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000023/wdfc-20190624xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000037/wdfc-20190726xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000020/wdfc-20190610x8k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312507075463/dex991.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513216000076/wdfc-20160707xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513214000022/wdfc-20141016xex99.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513218000035/wdfc-20180831x10k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312508214535/d10k.htm
+10
+
+
+Spruce Point Believes WD-40 Is The Exact 
+Opposite of What A Good Business Looks Like
+
+
+WD-40 Promotion Spruce Point Cold Reality
+
+
+Limited barriers to entry. Easy to replicate lubricants. 
+Limited pricing power. Increasing regulatory burden. 
+Financial disclosures have become more opaque. Long-
+term market concerns in auto that is being electrified
+Small market with little growth. Larger companies 
+with greater resources already in the market see little 
+need to invest in it, or acquire WD-40
+
+
+Unsustainable advantage. House brands at major 
+retailers priced at a significant discount. WD-40’s 
+R&D spend declines every year. Has to become 
+more promotional to maintain position. Hazardous 
+chemical product not well suited for an e-commerce 
+driven environment 
+Major hole in the balance sheet exposed by record 
+revolver recently drawn 15x bigger in size than the last 
+cycle despite the business being 30%+ bigger 
+
+
+Retracting international growth expansion. The 
+“China” story is not as robust as it appears
+
+
+Aging management team with all-time low 
+ownership. Governance going backward with the 
+CEO becoming Chairman and paying executives on 
+EBITDA that removes seemingly normal expenses. 
+Chief Accounting Officer with a history of exposed 
+errors and a material weakness at prior firm
+
+
+Returns flattered by FCF directed at wasteful stock 
+repurchases at inflated multiples to reduce 
+shareholder equity and allow insiders to sell stock
+
+
+Source: WD-40 Corporate Presentation, Feb 2020
+
+
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2020/02/Corporate-Overview-February-2020.pdf
+Unravelling The Product Hype And 
+Long-Term Secular Challenges
+12
+
+
+Promotional Company And CEO
+
+
+WD-40 “secret formula” is not patented, and instead a “trade secret”. The CEO, a salesman by background, used the 
+Company’s 65 anniversary as a publicity event to showcase itself  with armored guards. However an expert lab analysis 
+
+
+decomposed the WD-40’s chemicals and claims to have figured out the secret sauce. In addition, WD-40’s regulatory 
+Safety Data Sheet also give clues about its composition.(1) What’s left, we believe, is nothing more than a blue and white 
+
+
+can which can be easily replicated as we’ll show later.
+
+
+Source: Times of San Diego, Sept 2018
+
+
+“Trade secret protection, particularly for the Company’s most valuable product formulation for the WD-40 Multi-Use Product, requires 
+specific agreements, policies and procedures to assure the secrecy of information classified as a trade secret. If such agreements, 
+policies and procedures are not effective to maintain the secrecy of the Company’s trade secrets or if chemical disclosure regulations do 
+not allow for continued protection of essential elements of the Company’s trade secret formulations, the loss of trade secret protection 
+could have an adverse effect on the Company’s financial condition.
+
+
+WD-40 
+Risk Factor
+
+
+“San Diego’s 
+WD-40 
+
+
+Company 
+marked its 65th 
+anniversary by 
+hiring Brinks 
+
+
+guards to escort 
+the secret 
+formula for 
+
+
+spray lubricant 
+to a local bank 
+
+
+vault.”
+
+
+Source: Wired Magazine, April 2009   and
+
+
+WD-40 Acts Like Its Secret Sauce Is Important But Experts Have Figured It Out
+
+
+1) WD-40
+
+
+
+https://timesofsandiego.com/business/2018/09/13/wd-40-marks-65th-anniversary-by-securing-iconic-products-secret-formula/
+
+https://www.wired.com/2009/04/st-whatsinside-6/
+
+https://files.wd40.com/pdf/sds/mup/wd-40-multi-use-product-aerosol-low-voc-sds-us-ghs.pdf
+13
+
+
+Product Innovator Or Not?
+
+
+WD-40 says one thing, but does another when it comes to R&D spending. It stresses the importance of innovation and 
+new product development to its long-term success. Yet, over the long-term its R&D spending keeps falling. 
+
+
+Source: Company filings
+
+
+$ in mm 2015 2016 2017 2018 2019
+
+
+Net Sales $378.2 $380.7 $380.5 $408.5 $423.3 
+
+
+R&D Expense $9.0 $7.7 $8.4 $7.0 $6.5 
+
+
+% Margin 2.4% 2.0% 2.2% 1.7% 1.5%
+
+
+Fiscal Year Ended Aug 31
+
+
+Decreasing R&D Spending
+
+
+“The Company recognizes the importance of innovation and renovation to its long-term success and is focused on 
+and committed to research and new product development activities, primarily in its maintenance product group. The 
+Company’s product development team engages in consumer research, product development, current product improvement 
+and testing activities. The product development team also leverages its development capabilities by partnering with a 
+network of outside resources including the Company’s current and prospective outsource suppliers. In addition, the research 
+and development team engages in activities and product development efforts which are necessary to ensure that the 
+Company meets all regulatory requirements for the formulation of its products.”
+
+
+WD-40 
+Stresses 
+
+
+R&D Per Its 
+Filings
+
+
+So why does the Company spend less and less on R&D every single year?
+Spruce 
+Point 
+
+
+Reality
+14
+
+
+“Dominant” In An Industry Larger Players 
+In The Market Deem Less Attractive?
+
+
+WD-40 talks about its market dominance and great market position. Spruce Point believes it is a market that others 
+chose to largely underinvest in because there either isn’t enough growth, or its not financially attractive enough to 
+deepen the channel. For example much larger companies with greater financial resources, including DuPont and 
+
+
+Newell Brands, each have multi-purpose lubricants, yet neither appear to have interest in acquiring WD-40 or 
+expanding their offering further.   
+
+
+Dupont Elmer’s (owned by Newell Brands)
+
+
+Source: Spruce Point research
+15
+
+
+Largest Auto End User Under Long-Term 
+Pressure In An Electric Vehicle World
+
+
+Setting aside the current economic crisis where industrial and transportation activities are depressed, we observe that 
+WD-40’s largest end user is in maintenance, repair and overhaul services. In particular, as articulated by the CEO, the 
+major end market exposure is in the automotive sector. Unfortunately, experts believe the long-term green solution is 
+
+
+towards electric cars, which have fewer moving parts, break-down less frequently, and require less maintenance. 
+This inevitably translates into less use of WD-40’s lubricants in the long-term.  
+
+
+Source: WD-40 Corporate Presentation, Feb 2020
+
+
+“The great thing about our end users is the variety of our end users. From that, what we call our novice end-users. The guys sitting on 
+his patio on a Saturday afternoon, drinking his beer, using about $0.40 worth of WD-40 multi-use product a year. To the guy who's 
+earning his living, whether it be in San Diego or London or Shanghai or Sydney, make repairing a motor vehicle who could 
+use up to $70 worth of WD-40 a year. Our lifestyle products like 3-IN-ONE, our new range of 3-IN-ONE RV products that are helping 
+RV and camper -- people, campers, keep their equipment in good condition. And then WD-40 specialist, a line of product developed
+especially for those heavy end users.”
+
+
+CEO Ridge
+Shareholder 
+
+
+Meeting
+
+
+Dec 2019
+
+
+“The electric vehicle has one moving part, the motor, 
+whereas the gasoline-powered vehicle has hundreds of 
+moving parts. Fewer moving parts in the electric vehicle 
+
+
+leads to another important difference. The electric vehicle 
+requires less periodic maintenance and is more reliable.”
+
+
+Source: Idaho National Lab
+
+
+“They have fewer moving parts, so there's less to build and 
+less to break down. Many of the jobs needed to put internal-
+combustion vehicles on the road and keep them there, CRS 
+says, will no longer be needed..Conventional powertrains 
+may have as many as 2,000 moving parts, Canis notes, 
+
+
+while electric powertrains may have as few 20.”
+
+
+Source: “More Electric Cars Means Fewer Mechanical Jobs”, Forbes, March 2019
+
+
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2020/02/Corporate-Overview-February-2020.pdf
+
+https://avt.inl.gov/sites/default/files/pdf/fsev/compare.pdf
+
+https://www.forbes.com/sites/jeffmcmahon/2019/05/30/more-electric-cars-fewer-manufacturing-jobs/#34a0a62e3378
+16
+
+
+What About Bicycles?
+
+
+WD-40 sells to independent bike dealers and claims “Passionate Hobbyists” are end users. Unfortunately, kids (or future 
+hobbyists) are less interested in bikes both in the U.S. and in the U.K., WD-40’s largest foreign market. Casual and 
+
+
+regular bicyclists are in perpetual decline as are independent dealerships. 
+
+
+Source: WD-40 Corporate Presentation, Feb 2020
+
+
+“And from 2018 to 2019, children’s bicycle sales decreased 7 percent in 
+dollars and 7.5 percent in bikes sold, a drop serious enough that retailers 
+have already goosed prices to make up for lower demand, according to 
+market research firm NPD Group.”
+
+
+Source: Washington Post, June 4, 2019
+
+
+Also In The U.K. Where WD-40 Has A Large Presence
+
+
+“Across the country, cycle shops that have been a regular fixture of their local 
+high streets for decades are closing down in their droves”
+
+
+“Youngsters say cycling is ‘too scary’, bike sales are static and stores are 
+closing, as highlighted by James Corden last week.”
+
+
+Source: “How millennials have put a spoke in the wheels of Britain’s bicycle 
+shops”, The Guardian, Jan 2019
+
+
+“The Company’s products are sold primarily through 
+mass retail and home center stores, warehouse club 
+stores, grocery stores, hardware stores, automotive 
+parts outlets, sports retailers, independent bike 
+dealers, online retailers and industrial distributors 
+and suppliers.”
+
+
+WD-40
+Annual Report
+
+
+Source: Sports & Fitness Industry Association
+
+
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2020/02/Corporate-Overview-February-2020.pdf
+
+https://www.washingtonpost.com/sports/2019/06/04/fewer-kids-are-riding-buying-bicycles-industry-is-worried/
+
+https://www.theguardian.com/business/2019/jan/12/millenials-cycle-shop-closures
+17
+
+
+What About Bicycles And Motorbikes? 
+
+
+Recent data from the National Bicycle Dealers indicate a substantial decline of independent bike dealerships. Meanwhile, 
+using iconic Harley Davidson as a proxy for motorcycle demand, we observe that sales fell for a fifth year in a row as the 
+
+
+it struggles to find new buyers, and has its own electric bike debut. 
+
+
+“According to the National Bicycle Dealers 
+Association’s 2017 report, the number of 
+
+
+independent bike dealers (IBDs) in the US has 
+decreased from 4,256 in 2010 to 3,700 in 2016, a total 
+
+
+decline of 13 percent.”
+
+
+“In some part, this has mirrored flat to declining revenues 
+in the bike industry as a whole—an overall decline of 3.5 
+
+
+percent over the same period.”
+
+
+Source: “Hey, Bike Shops: Stop Treating Customers Like 
+Garbage”, Bicycling.com, June 2019
+
+
+Harley has for years failed to increase sales in the 
+United States, its top market accounting for more than 
+
+
+half of its motorcycles sold. As its tattooed, baby-
+boomer base ages, the Milwaukee-based company is 
+
+
+finding it challenging to woo new customers.
+
+
+“Harley said Tuesday that retail sales volumes dropped 
+4.3% last year from 2018. Motorcycle sales in the U.S., 
+Harley’s biggest market, fell 5.2% in 2019, the fifth straight 
+annual decline” 
+
+
+Source: “Harley struggles to fire up new generation of 
+riders with electric bike debut”, CNBC, June 2019
+
+
+Source: “Harley-Davidson’s U.S. Motorcycle Sales Drop 
+for Fifth Straight Year”,  WSJ, Jan 28, 2020
+
+
+Kids (the future) And Current Enthusiasts Motorcyclists
+
+
+
+https://www.bicycling.com/culture/a27496999/bike-shops-need-change/
+
+https://www.cnbc.com/2019/10/07/reuters-america-focus-harley-struggles-to-fire-up-new-generation-of-riders-with-electric-bike-debut.html
+
+https://www.wsj.com/articles/harley-davidson-reports-weaker-motorcycle-sales-in-u-s-11580215262
+18
+
+
+WD-40 Bike Failures
+
+
+Failures in the bicycle market, notably WD-40 Bike Company LLC and WD-40 BIKE appear to be failures. After being 
+touted by management, they are now no longer discussed or separately reported. 
+
+
+“Strategic initiative number four, which is our global innovation efforts. We created a new business unit called WD-40 Bike 
+Company, LLC. WD-40 Bike will be dedicated to solving cycling maintenance problems of riders, delivering WD-40-
+branded solutions that are easy to use, easy to find, provide good value, and will get the job done right.” 
+>>>> Four Years Later Dissolved
+
+
+WD-40
+New Bike 
+Business
+Q4 2012
+
+
+“In the full year, as we reported our blue and yellow can with the little red top, the Multi-Use Product, it grew in the year 
+about 7.5%. Specialist, as we reported, was up nearly 22%. BIKE was up about 28%.”
+
+
+WD-40
+CEO Ridge
+
+
+Q4 2018
+
+
+“And then you said that you are putting the BIKE under the new Specialist packaging, or I am assuming also manage as 
+under the Specialist group. Why keep the financial data where it is and not including -- and not included going forward in 
+the Specialist group?
+
+
+Analyst
+
+
+Q1 2020
+
+
+“Well, because we report it now in the other group, and we wouldn't be a comparable because it wasn't in there before. So 
+we've decided, at this time, to leave it out as a line on its own.”
+
+
+CEO Ridge
+
+
+Q1 2020
+
+
+Last Financial Disclosure Q4 2018
+
+
+Now Re-branding And No Longer Disclosing
+
+
+
+https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=200726410024-21068400
+19
+
+
+Growth End Markets Such As RVs Suspended
+
+
+WD-40 has been touting its new product marketed to the recreational vehicle (RV) industry. Unfortunately, the RV market 
+has grinded to a halt with numerous component and manufacturers suspending production. 
+
+
+“The great thing about our end users is the variety of our end users……Our lifestyle products like 3-IN-ONE, our new 
+range of 3-IN-ONE RV products that are helping RV and camper -- people, campers, keep their equipment in 
+good condition.”
+
+
+CEO Ridge
+Shareholder
+
+
+Meeting 
+Dec 2019
+
+
+"As the coronavirus pandemic continues to evolve, Thor remains focused on the safety of its employees, their families, and all of the communities 
+in which we operate. The concern for the safety of our people is always paramount but the situation of today is unique and calls for action. As 
+state governments, including Indiana and Ohio where a substantial number of our production facilities exist, declare statewide emergencies 
+requiring their citizens to stay at home except for limited circumstances, Thor is today announcing the temporary suspension of all of its production 
+in North America. Additionally, a substantial portion of our production in Europe is temporarily suspended as well," said Bob Martin, President and 
+CEO of Thor Industries.” Source
+
+
+RV Leader 
+Thor Industries
+(Nasdaq: THO)
+
+
+March 23, 2020
+
+
+“In an effort to protect the health and safety of its team members, align production with current demand levels, and adhere to federal and state 
+mandates, LCI Industries will temporarily suspend production at select manufacturing facilities across the U.S. and Europe, effective various days 
+through the end of the week. The temporary suspension of production is on a plant by plant basis, consistent with government mandates or due to 
+customer closures. Production at facilities, which are considered essential, will continue, utilizing reduced staff in conjunction with heightened 
+cleaning and sanitization processes. “As the impact of the evolving COVID-19 pandemic continues, we are suspending production at certain 
+manufacturing facilities, with 15 of our sites anticipated to remain open after the end of the week. We have also implemented a number of actions 
+to ensure we are adhering to guidelines set forth by the World Health Organization and the Centers for Disease Control and Prevention. We are 
+monitoring the situation closely and are poised to promptly re-start production at closed facilities as soon as OEM and dealer partners see a less 
+restricted consumer environment,” commented Jason Lippert, LCI Industries’ President and Chief Executive Officer.”  Source
+
+
+LCI Industries
+(Nasdaq: LCII)
+
+
+March 25, 2020
+
+
+“Winnebago Industries, Inc. (Nasdaq:WGO) today announced it will be temporarily suspending most production activities at the Company’s 
+Winnebago, Grand Design RV, Newmar, and Chris-Craft facilities. This action is in response to the national spread of the coronavirus, the national 
+emergency associated with the virus, and unforeseeable change in business circumstances that have accompanied it. These steps are designed 
+to lower the probability of coronavirus exposure to employees and adjust future production output relative to a fast-changing demand landscape 
+for the Company’s products. Winnebago Industries and its businesses will remain open and perform essential activities for its dealers and end 
+customers, including remote retail support for dealers, along with technical care, warranty administration, and parts fulfillment. Each of the 
+Company’s businesses will suspend production during the week of March 23rd and based on present conditions, the manufacturing suspension is 
+currently anticipated to last through April 12th.”  Source
+
+
+Winnebago
+(Nasdaq: WGO)
+
+
+March 23, 2020
+
+
+
+https://www.sec.gov/Archives/edgar/data/730263/000156459020012232/d886987dex991.htm
+
+https://investors.lci1.com/news/news-details/2020/LCI-Industries-Provides-Business-Update-Regarding-COVID-19/default.aspx
+
+https://winnebago.gcs-web.com/news-releases/news-release-details/winnebago-industries-temporarily-suspending-production-because
+20
+
+
+A Product Under More Regulatory Scrutiny
+
+
+As a chemical product manufacturer and distributor, WD-40 is subject to various laws and regulations. As can be seen 
+from current and historical product fact sheets, the Hazardous Identification disclosures have been expanded.
+
+
+Source: WD-40Source: WD-40
+
+
+Then: 2012 Now: 2019/20
+
+
+
+https://files.wd40.com/pdf/sds/mup/wd-40-multi-use-product-aerosol-low-voc-sds-us-ghs.pdf
+
+https://www.wd40company.com/files/pdf/wd-40-ae38549276.pdf
+21
+
+
+A Product Not Suited For An E-Commerce 
+Driven Retail Environment
+
+
+WD-40 has recently expanded its safety disclosure to give explicit advice not to ship its aerosol products by 
+air. This presents potential challenges in an e-commerce driven world where air transportation is a critical 
+
+
+shipment route.  
+
+
+Source: WD-40
+
+
+Source: WD-40
+
+
+Then: 2012
+
+
+Now: 2019/20
+
+
+
+https://files.wd40.com/pdf/sds/mup/wd-40-multi-use-product-aerosol-low-voc-sds-us-ghs.pdf
+
+https://www.wd40company.com/files/pdf/wd-40-ae38549276.pdf
+22
+
+
+Even The FAA Explicitly Warns….
+
+
+The Federal Aviation Authority (FAA) recently clarified its list of flammable aerosols in its public guidance. 
+WD-40 was explicitly listed as not allowed as a carry on or checked bag.   
+
+
+Source: FAA
+
+
+
+https://www.faa.gov/hazmat/packsafe/
+23
+
+
+Rolling Back Int’l Growth Potential
+
+
+Spruce Point does not take WD-40’s global ambitions credibly. The Company last year suggested it had opportunities in 
+Venezuela, Iran, and Columbia. This year, these countries are conspicuously absent from the list. Yet, WD-40 still claims 
+
+
+$1.0 billion of global market opportunities with both fewer countries and a slower world economy.
+
+
+Source: WD-40 Corporate Presentation, Jan 2019 Source: WD-40 Corporate Presentation, Feb 2020
+
+
+Venezuela, Iran 
+and Columbia 
+
+
+no longer 
+attractive?
+
+
+2019 Opportunities 2020 Opportunities
+
+
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2019/Corporate-Overview-FINAL.pdf
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2020/02/Corporate-Overview-February-2020.pdf
+24
+
+
+China Hype: Blue Sky Opportunities
+
+
+WD-40 lists China as its biggest opportunity and the CEO has made claims of $100m in potential revenue in 2016. 
+Fast forward to Q1 2020, the Company produced $2.3m of sales, or a run rate of just $9.2m 
+
+
+Source: WD-40 Corporate Presentation, Feb 2020
+
+
+2020 Opportunities
+
+
+“Today, the China market is our third largest market 
+for WD-40 in the world.”
+
+
+CEO Ridge Comments
+
+
+2018 
+Shareholder 
+
+
+Meeting
+
+
+“We expect China to eventually be $100 million 
+revenue, so we will gain the leverage there.”
+
+
+Q1 
+2016
+
+
+“We made an investment in China 14 years ago to 
+open our own subsidiary there. China is now the 
+second largest market in the world for our blue and 
+yellow can with the little red top. We anticipate we'll 
+continue to see double-digit growth in China going 
+forward.”
+
+
+Q4 2019
+
+
+“In China, net sales in U.S. dollars decreased to $2.3 
+million in the first quarter, down 23% compared to last 
+year due to the timing of customer orders.”
+
+
+Q1 2020
+
+
+“Of this 30 basis points (gross margin impact), 20 
+was due to a formulation change that we made to our 
+WD-40 Multi-Use Product in Asia-Pacific.”
+
+
+
+https://s21.q4cdn.com/612895086/files/doc_presentations/2020/02/Corporate-Overview-February-2020.pdf
+25
+
+
+China Reality: Never-Ending Counterfeit 
+Challenges
+
+
+Spruce Point believes part of WD-40’s international challenges, and why It will continue to disappoint expectations, is 
+rampant counterfeiting. The problem persists in China, where more than 17 years ago, it admitted that 25% of share in 
+China was counterfeit. The Company has been silent on the matter since. As recently as last year, a criminal gang was 
+
+
+busted in China for producing and distributing counterfeits. Despite this, sales in China continue to disappoint. 
+
+
+“The fake WD-40 is sold in cans which 
+feature a slightly smaller 350ml can. The 
+fake WD-40 also can be distinguished by 
+
+
+the description on the can which is printed in 
+Chinese. The real WD-40 is made in USA. It 
+is sold in a 382ml can and features printed 
+
+
+instructions in English and 
+Chinese.” (source)
+
+
+FAKEREAL
+
+
+“US Customs and Border Protection (CBP) 
+has seized a shipment containing nearly 
+1,500 cans of counterfeit WD-40 brand 
+
+
+lubricant sent from China at the San Juan 
+Area Port…counterfeit versions of WD-40 
+
+
+products have been circulating in the 
+Singapore market.”(2)
+
+
+“WD-40 has estimated 
+50% market share in 
+China. Counterfeit product 
+in China has an additional 
+25% market share.” (1)
+
+
+1) “WD-40 tries can shaping to foil counterfeiters”, Packworld, 10/31/2003 
+2) “Fake WD-40 intercepted in Puerto Rico”, Securingindustry.com, 11/18/16
+
+
+2019: “Recently, under the unified command of Changzhou Public Security Bureau and 
+the coordination among the economic investigation team, Tianning police station and 
+
+
+relevant police departments, two large criminal gangs of counterfeiting “WD-40” rust 
+removers were cracked, with 20 suspects being caught, 10 dens of counterfeit 
+
+
+production, sales and warehousing and 2 production lines of counterfeits being 
+destroyed, 28,000 bottles of finished and semi-finished counterfeit reagents being 
+detained, and valued at over 4.2 million yuan. The whole criminal chain of production, 
+
+
+processing and packaging was completely destroyed. From 2015 up to now, the two 
+criminal gangs colluded with each other to sell the fake “WD-40” rust removers, lubricants, 
+
+
+cleansers and looseners, valued at over 50 million yuan in total”. (source)
+
+
+WD-40 North 
+America 
+
+
+President 
+Mike 
+
+
+Freeman
+(2003)
+
+
+
+https://www.rev.com.sg/2016/11/beware-fake-wd-40/
+
+https://www.packworld.com/design/materials-containers/news/13337544/wd40-tries-can-shaping-to-foil-counterfeiters
+
+https://www.securingindustry.com/electronics-and-industrial/fake-wd-40-intercepted-in-puerto-rico/s105/a3046/#.Xn9aoIhKiUk
+
+http://english.ipraction.gov.cn/article/TypicalCases/201905/20190500219336.shtml
+26
+
+
+Latin America Challenges
+
+
+WD-40 blamed Latin American challenges on Argentina, citing sales down 10%. We conducted a channel check at a 
+major home improvement chain that sells in Argentina, Peru, Uruguay, Columbia and Mexico and Brazil. At the low end, 
+a 5.5oz container cost over $6.00 or more than 2x the price available in the U.S. The fact of the matter is that WD-40 is an 
+
+
+expensive product in some countries where the locals may seek cheaper alternatives. 
+
+
+Source: Sodimac Homecenter 
+Converted at 38 peso per US$
+
+
+Latin American Channel Check: Uruguay (Dec 2019) Recent Comments on Latin America
+
+
+“We had -- we suffered from the Argentinian 
+economic situation. We had some phasing issues in 
+Mexico with orders. And then our business in Central 
+America and the Caribbean was phased based upon 
+price increases that happened last year, and there 
+was pre-price increase buying last year, so the 
+comparison wasn't favorable. So they were the main 
+three areas that caused the Latin America business 
+to be down. It's the first time we've seen Latin 
+America fail to grow since 2012 and we certainly 
+expect normal service to be resumed in 2020.”
+
+
+WD-40
+COO
+
+
+Steve Brass
+
+
+“And in Latin America, obviously, maintenance was 
+down 10%. You mentioned some economic 
+challenges that exist in this region. Can you break 
+that down specifically by country where you may 
+have an outsized impact? Is there any sort of specific 
+disruption that's affecting you more so than, I guess, 
+other regions in that area?”
+
+
+Analyst
+G. Research
+
+
+Q4 2019
+
+
+$16.00
+13.2oz
+
+
+$11.30
+13.2oz
+
+
+$10.23
+11.0oz
+
+
+$6.03
+5.5oz
+
+
+Spruce Point 
+Interview With A 
+Former WD-40 
+
+
+Employee
+
+
+Spruce Point: “What are some of the challenges faced by WD-40 in emerging markets”
+
+
+Response: “Well ya know, in some countries they use home-made lubricants or cheaper solutions.”
+
+
+
+https://www.sodimac.cl/sodimac-cl/
+Recent Channel Checks Show 
+Increasing Competition And 
+Discounting
+28
+
+
+Key Auto Market Channel Becoming More 
+Competitive
+
+
+Spruce Point believes that WD-40 is facing increased pressure in the national specialty auto channel, dominated by 
+players like AutoZone and Advance Auto Parts. Based on our research, PB Blaster has become a formidable competitor. 
+
+
+AutoZone(1) Advance Auto Parts
+
+
+1) AutoZone has reduced hours during the virus crisis
+Source: Spruce Point research, Q2 2020
+
+
+Spruce Point 
+Interview With A 
+Former WD-40 
+
+
+Employee
+
+
+Spruce Point: “Is there anything in the competitive environment that’s changed or should worry a WD-40 investor?”
+
+
+Response: “I would definitely research a company called PB Blaster to see what they’re doing.”
+
+
+It’s very evident from our primary research that PB Plaster is intensely competing for shelf 
+and advertising space with WD-40 at very low price points.
+
+
+
+https://www.autozone.com/diy/company-news/autozone-covid-19-update
+29
+
+
+Auto Market Channel Becoming More 
+Competitive (Cont’d)
+
+
+Pep Boys is another major automotive service retailer owned by Icahn Enterprises since 2016. Pep Boys operates more 
+than 9,000 service bays in approximately 1,000 locations in 35 states and Puerto Rico. On a recent channel check, we 
+found that WD-40 was the only lubricant on the shelf being discounted. In addition, Pep Boys is offering even greater 
+
+
+price discounting on its website. 
+
+
+Source: Spruce Point research, Q2 2020 Source: Pep Boys
+
+
+In-Store Discount More Discounts Online
+
+
+
+https://www.pepboys.com/search/?text=wd-40
+30
+
+
+Dollar Stores’ Direct Competition
+
+
+Selling into the dollar store channel presents significant challenges for WD-40. We found house and generic lubricant 
+brands at Family Dollar and Dollar General at approximately 33% - 60% less. DollarTree, which doesn’t sell WD-40, 
+
+
+markets 4oz Tool Bench Hardware Spray Lubricant for $1.00.(1)
+
+
+~33%
+Less Expensive Than WD-40
+
+
+~59%
+Less Expensive Than WD-40
+
+
+Family Dollar Dollar General
+
+
+Source: Spruce Point research
+1) DollarTree website and can be found in-store
+
+
+
+https://www.dollartree.com/tool-bench-hardware-spray-lubricant-4oz-cans/266964
+31
+
+
+Leading National Hardware Store
+
+
+PB ~39%
+Less Expensive 
+
+
+Than WD-40
+
+
+Source: Spruce Point research, Q2 2020
+1) Home Depot press release
+
+
+Significant aisle end 
+promotion must 
+
+
+cost WD-40 dearly
+
+
+Lowe’s Home ImprovementHome Depot
+
+
+PB has better 
+placement. WD-40 at 
+the bottom of shelf
+
+
+At key national hardware and home improvement stores such as Home Depot and Lowe’s, WD-40 also competes heavily 
+with PB Blaster for shelf space and on price. During the current crisis, Home Depot is curtailing regular hours.(1)
+
+
+
+https://corporate.homedepot.com/newsroom/covid-19-update-how-home-depot-preparing-and-responding
+32
+
+
+Other Hardware Stores Directly Compete
+
+
+In business since 1924, Ace Hardware is the largest home improvement franchise company in the world, with over 
+5,100 stores operating in over 60 countries.(1)  We find that Ace has a competing product on its shelves at 
+
+
+approximately 50% less than WD-40’s. 
+
+
+~50%
+Less Expensive Than WD-40
+
+
+1) Ace Hardware
+Source: Spruce Point research, Q2 2020
+
+
+
+https://www.acehardwareintl.com/
+33
+
+
+WD-40 Stands Little Chance Against 
+Retail Behemoth Wal-Mart
+
+
+As the largest brick-and-mortar retailer in North America (US, Mexico, Canada), WalMart has chosen to compete 
+directly against WD-40 with its own lubricant priced nearly 50% less.
+
+
+~49%
+Less Expensive Than WD-40
+
+
+Source: Spruce Point research, Q2 2020
+34
+
+
+WD-40 Is Not The Best: Experts And Customers 
+Claim JB-80 Is The Best On The Market
+
+
+While WD-40 may justify its higher price by its best-in-class product quality, our research suggests this may not be 
+not true. WD-40 may be the most widespread brand name, but it may not be the superior product. One customer 
+
+
+compared JB-80 to the LED light blub of lubricants. Its more expensive than the traditional solution but requires less 
+frequent applications due to its significantly longer duration.
+
+
+Source: Spruce Point research
+
+
+Customers believe the 
+products quality and 
+
+
+lasting duration justify 
+speeding a premium price 
+
+
+for JB-80
+
+
+“JB-80 is twice as good. It's teflon based, last twice as long and viscosity is thicker. 
+It's much better.”
+
+
+“The Company has started to take off over the last few years. This is the product 
+that put them on the map.”
+
+
+“The sales guy walked into the store with the product. He sprayed it and WD-40 
+onto two wheels, then spun them. The one with JB-80 spun twice as fast and spun 
+for more than twice as long.H
+
+
+ar
+dw
+
+
+ar
+e 
+
+
+S
+to
+
+
+re
+ 
+
+
+O
+w
+
+
+ne
+r
+
+
+“It’s like an LED light blub. Higher investment up 
+front but last more than twice as long.“
+
+
+“I use it for my industrial conveyor belt. Since I switched 
+from WD-40, I’ve only needed to use it twice a year 
+versus every month or two.”C
+
+
+us
+to
+
+
+m
+er
+
+
+Customers claim JB-80 is 
+superior to WD-40
+
+
+“The incredible multi-use 
+spray lubricant that’s 
+
+
+TWICE AS GOOD!”
+- Justice Brothers
+
+
+5-Star Amazon Reviews
+
+
+Our Primary Research Proved Similar Results
+
+
+
+https://justicebrothers.com/products/automotive/specialty-products/jb-80/
+35
+
+
+Only Desperate Buyers At Drug Stores
+
+
+Consumers that would be absolutely desperate and have an immediate need for WD-40 would pay more than a 100% 
+premium to the price at a national drugstore chain. Although, we doubt that the first place that comes to mind to find 
+
+
+WD-40 is CVS or Rite Aid. We suspect much of this overpriced inventory isn’t selling well. 
+
+
+Walgreen’s Rite Aid CVS
+
+
+Same product 
+under $4 at 
+
+
+WalMart
+36
+
+
+Discount And Rebate Strain
+
+
+WD-40 recently started disclosing reductions to sales for rebates, coupons and cash incentives. The disclosure may 
+have been pushed by the auditor, which recently added rebates and marketing program accruals as a “Critical Audit 
+
+
+Matter”. By closely analyzing recent trends, we find that WD-40 gave its largest incentives in Q1 2020. This is supported 
+by our channel checks which show greater in-store promotion.  
+
+
+Source: Company filings
+
+
+$ in mm
+Q1
+
+
+11/30/18
+Q2
+
+
+2/28/19
+Q3
+
+
+5/31/19
+Q4
+
+
+8/31/19
+Q1
+
+
+11/30/19
+
+
+Rebates $4.3 $4.5 $4.6 $4.8 $5.0 
+
+
+Coupons $0.1 $0.1 $0.2 $0.0 $0.0
+
+
+Cash Discounts $1.0 $1.0 $1.2 $1.0 $1.0
+
+
+Total Sales Discounts (A) $5.4 $5.6 $6.0 $5.8 $6.0
+
+
+Net Sales (Reported) (B) $101.3 $101.3 $114.0 $106.7 $98.6
+
+
+Gross Sales C=(A+B) $106.7 $106.9 $120.0 $112.5 $104.6
+
+
+Total Discounts / 
+Gross Sales =(A/C)
+
+
+5.1% 5.2% 5.0% 5.2% 5.7%
+
+
+“The principal considerations for our determination that performing procedures relating to the cooperative marketing program accruals is a 
+critical audit matter are (i) there was significant judgment by management to estimate the cooperative marketing program accruals, which 
+in turn led to a high degree of auditor judgment in performing procedures to evaluate the status of trade promotion activities within the 
+cooperative marketing program accruals, and (ii) there was a high level of audit effort and subjectivity in performing procedures to 
+evaluate the current and past trade promotion spending patterns and the status of trade promotion activities used to determine the 
+cooperative marketing program accruals.”
+
+
+Rebates 
+Added As 
+“Critical 
+
+
+Audit 
+Matter”
+Evidence of Stretched Accounting, 
+Severe Financial Distress And Why This 
+Recession Will Be Worse Than The Past
+38
+
+
+Liquidity Becomes Tight
+
+
+Late Friday on March 27th, WD-40 disclosed it had drawn down its entire credit facility. We will explain why the 
+magnitude of the draw down should be incredibly alarming in the context of its business.  
+
+
+Source: 8-K
+
+
+Source: 8-K
+
+
+“During the week of March 23, 2020, WD-40 
+Company (the “Company”) drew an additional 
+$80.0 million in U.S. Dollars under its existing 
+line of credit agreement with Bank of America, 
+
+
+N.A. (the “Credit Agreement”), bringing the 
+balance on the line of credit to approximately 
+$149.0 million. As a result of this additional 
+
+
+borrowing, the Company has now drawn almost 
+the entirety of the $150.0 million available under 
+
+
+the Credit Agreement.  Although the Company 
+does not have any current need for this additional 
+liquidity, the Company decided to draw this $80.0 
+
+
+million to ensure future liquidity given the significant 
+impact on global financial markets and the 
+
+
+economy as a result of the recent coronavirus 
+outbreak. For additional information on the terms 
+and conditions of the Credit Agreement, see the 
+Company’s Current Report on Form 8-K filed on 
+
+
+March 19, 2020, which includes a copy of the 
+Credit Agreement as Exhibit 10(a), incorporated 
+
+
+herein by reference.”
+
+
+“On March 16, 2020, WD-40 Company (the “Company”) entered into 
+an Amended and Restated Credit Agreement (the “Amended and 
+Restated Credit Agreement”) with Bank of America, N.A. (“Bank of 
+America”). The Amended and Restated Credit Agreement modifies 
+the Company’s existing Credit Agreement dated June 17, 2011 (as 
+amended on January 7, 2013, May 13, 2015, November 16, 2015, 
+September 1, 2016, November 15, 2017, February 23, 2018 and 
+January 22, 2019, the “Credit Agreement”). Capitalized terms not 
+
+
+otherwise defined in this report have the meaning given to such terms 
+in the Amended and Restated Credit Agreement.  The Amended and 
+
+
+Restated Credit Agreement increases the Revolving 
+Commitment from $100.0 million to $150.0 million and increases 
+
+
+the sublimit for the Revolving Commitment for borrowing by 
+WD-40 Company Limited, a wholly owned operating subsidiary 
+of the Company for Europe, the Middle East, Africa and India, 
+
+
+from $50.0 million to $100.0 million. In addition to other non-
+material and technical amendments to the Credit Agreement, the 
+Amended and Restated Agreement modifies certain restrictive 
+
+
+covenants. An exception to a prohibition on Investments has been 
+added to allow for intercompany loans or advances from any Loan 
+Party to Subsidiaries which are not Loan Parties in an aggregate 
+
+
+amount of up to $5.0 million outstanding at any time.  In addition, an 
+exception for Investments not otherwise covered by an exception has 
+been increased from $2.5 to $5.0 million. The Amended and Restated 
+Credit Agreement includes a new schedule of Permitted Consolidated 
+Capital Expenditures to permit the Company to make contemplated 
+
+
+capital investments in the current and future fiscal years of up to 
+$30.5 million in fiscal year 2020, $19.0 million in fiscal year 2021, and 
+
+
+$15.0 million for fiscal years 2022, 2023, 2024 and 2025”
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513220000010/wdfc-20200316x8k.htm
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513220000013/wdfc-20200323x8k.htm
+39
+
+
+A Hole Appears In WD-40’s Balance Sheet
+
+
+Source: Company filings
+Note: WD-40 increased capex projections from $25m to $31m for 2020, but given historical operating cash flow of $60m+ per year and projected net income of $65-$66.2m, 
+it shouldn’t need such a high borrowing
+1) Excludes operating leases
+
+
+At Time Before 
+Credit Facility Draw
+
+
+Financial Crisis
+2007-2010
+
+
+Coronavirus Scare
+2020
+
+
+Relative 
+Increase
+
+
+Trailing LTM Net Sales $317.1 $420.6 +33%
+
+
+Trailing EBITDA $46.5 $88.4 +90%
+
+
+Cash on Hand
+Less: Total Debt (1)
+
+
+Net Debt
+
+
+$42.0
+($42.9)
+
+
+$0.9
+
+
+$28.7
+($90.2)
+$61.5
+
+
++67x
+
+
+Net Debt / EBITDA 0.0x 0.7x --
+
+
+Credit Facility
+
+
+In September 2008, we entered into an 
+unsecured loan agreement for the 
+
+
+aforementioned $10 million credit facility, 
+which expires in October 2011. The proceeds 
+
+
+of the new credit facility are available for 
+general working capital purposes.  The credit 
+
+
+facility is currently undrawn.
+
+
+As of November 30, 2019, the Company had a balance 
+of $58.6 million of outstanding draws on the line of 
+credit. During the week of March 23, 2020, WD-40 
+
+
+Company (the “Company”) drew an additional $80.0 
+million in U.S. Dollars under its existing line of credit 
+agreement with Bank of America, N.A. (the “Credit 
+
+
+Agreement”), bringing the balance on the line of credit 
+to approximately $149.0 million. As a result of this 
+
+
+additional borrowing, the Company has now drawn 
+almost the entirety of the $150.0 million available 
+
+
+under the Credit Agreement
+
+
++1,500%
+
+
+Something looks incredibly wrong with the magnitude of WD-40’s recent full credit draw-down. WD-40’s balance sheet 
+still appears quite strong with Net Debt / EBITDA of just 0.7x. During the great financial crisis, WD-40 secured a $10m 
+credit facility which it never had to use. Recently, WD-40 used 100% of an upsized $150m credit facility. To put this in 
+
+
+perspective, the credit facility is 15x bigger despite sales and EBITDA having grown 33% and 90% respectively.
+40
+
+
+Evidence of Ballooning Inventory
+
+
+Source: Company filings
+
+
+By closely examining the composition of WD-40’s inventory accounts, we observe that Finished Goods make up an 
+increasing percentage of the overall balance, and more than prior to entering the last crisis. In our opinion, this 
+
+
+suggests that inventory is building up and not selling-through to customers. 
+
+
+$ in mm
+Pre-Financial Crisis Prior Financial Crisis Recent Results
+
+
+2005 2006 2007 2008 2009 2018 2019 Q1 2020
+
+
+Product at Packers $1.8 $1.4 $1.4 $2.5 $1.8 $2.8 $3.2 $3.6 
+
+
+Raw Materials and components $0.7 $1.1 $1.0 $3.8 $3.2 $3.7 $4.4 $5.8 
+
+
+Work-In-Process N/A $2.2 $1.5 $1.2 $1.2 $0.4 $0.3 $0.5 
+
+
+Finished Goods $7.4 $12.0 $10.7 $13.3 $11.5 $29.6 $32.9 $33.9  
+
+
+Total Inventory $9.9 $16.7 $14.6 $20.8 $17.7 $36.5 $40.8 $43.8 
+
+
+% of Total
+
+
+Product at Packers 18% 8% 10% 12% 10% 8% 8% 8%
+
+
+Raw Materials and components 7% 7% 7% 18% 18% 10% 11% 13%
+
+
+Work-In-Process N/A 13% 10% 6% 7% 1% 1% 1%
+
+
+Finished Goods 75% 72% 73% 64% 65% 81% 81% 78%
+
+
+Total Inventory 100% 100% 100% 100% 100% 100% 100% 100%
+
+
+Increasing % of Finished Goods In Inventory Account
+41
+
+
+Evidence of Increasing Financial Strain
+
+
+WD-40’s days of inventory outstanding and cash conversion cycle are extremely elevated.. 
+
+
+Days Inventory Outstanding Cash Conversion Cycle
+
+
+Source: Bloomberg
+
+
+10.00
+
+
+20.00
+
+
+30.00
+
+
+40.00
+
+
+50.00
+
+
+60.00
+
+
+70.00
+
+
+80.00
+
+
+90.00
+
+
+Q
 2 
 
 
-Muddy Waters, LLC has amassed irrefutable evidence that China MediaExpress Holdings, Inc. (“CCME”) is a substantial 
-fraud, and that management is engaging in a cover-up replete with further dissemination of fraudulent information.  In 
-light of the nature of the evidence, we believe that a de-listing from NASDAQ is not improbable; further, we believe that 
-management stands to lose additional credibility.  We therefore reduce our estimated value by one-third to $3.54. 
- 
-We present a recorded telephone conversation that contains an admission that CCME is engaging in securities fraud.  The 
-conversation took place on February 23rd between the CCME salesperson who provided us with the advertiser kit we cited 
-in our February 3, 2011 report (the “Report”) and one of our analysts.  The CCME salesperson initiated the conversation 
-without notice in response to investigative actions taken by CCME’s auditor, Deloitte Touche Tohmatsu (“Deloitte”).  
-During the conversation, the salesperson stated that: 
+20
+05
 
 
-• CCME has been doubling the number of buses on which it has installed equipment for purposes of its SEC filings; 
-and 
-
-
-• CCME replaced recently replaced the salesperson’s hard drive due to the increased scrutiny. 
- 
-The recording with subtitles is available at: http://www.youtube.com/watch?v=cLAm-dJh2fI 
- 
-We document that in the course of rebutting our Report, Chairman Cheng provided fabricated information.  In Chairman 
-Cheng’s February 7, 2011 letter (the “Chairman’s Letter”), Chairman Cheng challenged our assertion that CCME’s largest 
-purported contract does not exist.  His proof includes an “excerpt” of buses he claims are covered by the disputed 
-contract.  The excerpt contains license plate numbers of three buses.  We have official documentation (shown in Appendix 
-A) from the Shanghai Public Security Bureau Traffic Management Administrator (the “Traffic Administrator”) that shows 
-these three license plates numbers are fabricated. 
- 
-We present the sales presentation we received in January from the aforementioned salesperson (the “Sales Presentation”) 
-that shows CCME has fewer than half of the buses it claims.  The Sales Presentation (Appendix B), which shows CCME’s 
-buses by province and city, corroborates the following facts we presented in our earlier Report: 
-
-
-• CCME has fewer than half of the buses it claims; and 
-• its largest purported contract (with Shanghai Ba Shi for 1,892 buses) does not exist.  The number of buses for 
-
-
-Shanghai-based operators in the presentation matches the number in the spreadsheet we received – 296. 
- 
-We present a mini-documentary of the largest purported operator – Shanghai Ba Shi – specifically focusing on its inter-
-city buses and drivers.  The film shows that CCME’s hardware is not installed on the buses, despite CCME’s claim to 
-have had hardware on these buses since at least mid-2008. 
- 
-The video is available at: http://www.youtube.com/watch?v=-COZ5l9ayzM 
- 
-If one questions whether it is Muddy Waters, LLC – and not CCME – that has fabricated information and documents, we 
-point out the following.  Our research director and sole member manager, Carson Block, is a United States citizen with 
-assets and family in, and significant ties to, the United States.  Although we do not know the extent of CCME 
-management’s ties to the United States, we venture to guess that they are significantly less than those of Mr. Block.
-3 
-
-
-II. CCME Sales Representative’s Admission of Securities Fraud 
- 
-Background 
- 
-In January 2011, we cold called CCME’s headquarters in Fuzhou.  We asked to speak with the sales department, and we 
-were transferred to a salesperson.  During the course of our conversation with the representative, we described ourselves 
-as a medium-sized company that was interested in advertising throughout China on CCME’s buses.  From that point on, 
-our dialogue with the salesperson mainly took place over instant messenger.  The salesperson sent the electronic version 
-of the advertiser kit via instant messenger – including the Excel spreadsheet we subsequently posted on our website in 
-PDF format, as well as the Sales Presentation shown in Appendix B.  During the course of the dialogue, the representative 
-and we discussed the fact that CCME is publicly traded in the Untied States. 
- 
-As has been well documented, we released our February 3, 2011 report during the lengthy Chinese New Year holiday.  
-Following the holiday, the sales representative followed up with us about buying the ads we had discussed.  At that time, 
-our analyst told the salesperson that he and his manager had left their jobs with the potential advertiser. 
- 
-On February 23rd at approximately 13:00 China time, we sent a detailed letter to various partners at Deloitte with 
-previously unreleased evidence supporting our allegations of fraud.  Around 19:00 the same evening, our analyst received 
-a phone call from the sales representative.  The purpose of her call was to ask our analyst whether someone inside his 
-“former employer” disseminated the Sales Presentation outside of the company.  She evidently had not considered it 
-likely that the person with whom she had been speaking represents Muddy Waters, LLC. 
- 
-Because our analyst was unprepared to receive the call, he was only able to begin recording it after approximately two 
-minutes.  He believes that substantially all information that had been discussed during the initial unrecorded period is 
-repeated in the recorded portion.   
- 
-The Conversation 
- 
-We encourage investors to listen to the recording with subtitles, available at: http://www.youtube.com/watch?v=cLAm-
-dJh2fI  However, we provide the following translated excerpts (emphasis in bold added) of the conversation – the 
-complete transcript is in Appendix C: 
-
-
-… 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
-
-
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
-
-
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
-
-
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example…
+Q
 4 
 
 
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
+20
+05
 
 
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of 
-vehicles we quoted you.  The number we reported is times two, or doubled.  Do you understand now? 
+Q
+2 
 
 
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
+20
+06
 
 
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
+Q
+4 
 
 
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
+20
+06
 
 
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve 
-claimed to the public is the total number, but the number we gave you is the vehicles installed with devices.  So 
-there are some conflicts. 
+Q
+2 
 
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number 
+20
+07
 
 
-we’ve reported to the market regulator.  What we’ve reported to the market regulator is the number under 
-contract.  The number I’ve given you is contracted with devices installed.  
+Q
+4 
 
 
-… 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
+20
+07
 
 
-sent you before. 
-Analyst: Have you given the same proposal to other customers? 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
+Q
+2 
 
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
+20
+08
 
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been 
+Q
+4 
 
 
-replaced at that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s. 
-…
-5 
+20
+08
 
 
-Analysis 
- 
-The representative claimed that the discrepancy between the SEC filings and the buses quoted to us was because 
-approximately 50% of the buses have not yet had equipment installed; however, this explanation does not hold water.  As 
-we pointed out in our earlier report, one of the major discrepancies is in Shanghai.  As of July 2008, the company claimed 
-to have 2,127 buses belonging to Shanghai-based operators in the network,1 but the materials the sales representative sent 
-only show 296 Shanghai buses as of January 2011.   Thus, the overall discrepancy must be due to more than timing 
-differences between when CCME signs contracts and when it installs equipment. 
- 
-III. The License Plate Numbers in Chairman Cheng’s Rebuttal are Fabrications 
- 
-Background 
- 
-In the Report, we stated that CCME’s advertiser kit shows only 12,565 buses under contract as of January 2011, versus 
-over 27,200 that CCME claims to have for investor relation purposes.2  We also stated that the largest bus operator CCME 
-purports to have under contract, Shanghai Ba Shi3 (purportedly 1,892 buses), does not in fact have a contract with 
-CCME.4   
- 
-Chairman Cheng denied these assertions in the open Chairman’s Letter dated February 7, 2011 (Appendix D).  Ping Luo 
-(of Global Hunter Securities LLC) issued a report in support of Cheng’s rebuttal on February 17, 2011 (the “Luo 
-Report”).   
- 
-The Fabrications 
- 
-The Chairman’s Letter stated that CCME’s official advertiser kit includes 1,892 buses belonging to 上海巴士实业（集
+Q
+2 
 
 
-团）股份有限公司(“Ba Shi Industrial”).5  He then proceeded to show an “excerpt” from the purported kit that contains 
-details on three Ba Shi Industrial buses, including license plate numbers.  (The majority of the buses in the real advertiser 
-kit include license plate numbers.)  The license plate numbers the Chairman cited are: 沪 A65072, 沪 A65075, and 沪
-A83822.6 7   
- 
-The license plate numbers the Chairman provided are fabricated.  Two of the plates – A65072 and A65075 – were issued 
-for small passenger cars (a Santana and a Zheng Tian pickup truck), and not for buses.   
+20
+09
 
 
-                                                        
-1 http://www.ccme.tv/eng/pns/intercitybus.php, and 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-2 See Report p. 5.   
-3 CCME sowed some confusion about the name of the Ba Shi entity that operates long distance buses.  We clarify the name issue 
-infra.   
-4 See Report p. 6. 
-5 See Chairman’s Letter pp. 4-5. 
-6 Id. 
-7 Note that “沪” (“Hu”) is the character for Shanghai.
-6 
+Q
+4 
 
 
-See below for representative pictures of the vehicles.  We were unable to contact the registered owners to see whether 
-they had CCME hardware installed in their cars. 
- 
+20
+09
 
 
- 
-a “Zheng Tian”, similar to沪 A65072 
+Q
+2 
 
 
+20
+10
 
 
+Q
+4 
 
- 
-a “Santana”, similar to沪 A65075 
 
+20
+10
 
-We question the economics of installing hard drives and LCD panels in privately owned passenger cars. 
- 
-In contrast, A83822 had actually once belonged to 上海交运巴士客运（集团）有限公司 (“JB”).8  However, the 上海市
 
+Q
+2 
 
-公安局交通警察总队车管所 (the “Traffic Administrator”) had previously canceled the license plate.  Thus, this license 
-plate is no longer in use.   
- 
-Appendix A provides the official documentation of these facts with seals from the Traffic Administrator. 
- 
-We became aware of the possibility that the license plate numbers were fabricated when we showed the purported 
-numbers to one of our operations contacts at JB.  He told us that the plate numbers could not be correct because JB had 
-retired all, perhaps save for “one or two”, license plates with a single letter “A” in the plate number; and, further that it 
-had sold the buses that formerly had such plates.  He stated that the retirement process had begun in 2006 or 2007. 
-Shanghai used to issue license plates in alphabetical sequence.  License plates with a single letter “A” – i.e., no additional 
-letters contained in the license plate number – are among the oldest plates issued in Shanghai.  Thus the operations contact 
-immediately knew that any buses with such a license plate number were too old to be in the current fleet. 
- 
-Chairman Cheng’s statements are false. 
- 
 
+20
+11
 
-                                                        
-8 Infra FN 9.
-7 
 
+Q
+4 
 
-IV.  CCME’s Largest Purported Operator Relationship Still Does Not Exist 
- 
-CCME had to fabricate the previously discussed Shanghai Ba Shi license plates because CCME does not actually have a 
-relationship with its largest purported inter-city bus operator, Shanghai Ba Shi.  The following items prove that the 
-Shanghai Ba Shi relationship does not exist: 
 
+20
+11
 
-• The Sales Presentation we received with the advertiser kit, which resulted in the recorded fraud admission by 
-CCME’s sales representative (discussed in Part II), shows only 296 buses in Shanghai.  This is far less than the 
-1,892 buses CCME claims to have under contract with Shanghai Ba Shi. 
 
+Q
+2 
 
-• We had approximately five hours of meetings with officials ranging from station level operations personnel, to 
-top company managers at headquarters, of the Shanghai Ba Shi entity that operates the group’s inter-city buses.  
-We received confirmation at each level that CCME has not placed its hardware on Shanghai Ba Shi inter-city 
-buses. 
 
+20
+12
 
-• We shot a mini documentary of Shanghai Ba Shi inter-city buses along with driver interviews that show CCME 
-has placed no content or hardware on Shanghai Ba Shi inter-city buses. 
 
+Q
+4 
 
- 
-Background 
- 
-Whether as a result of confusion, or to cause it, neither CCME, Chairman Cheng, nor the Luo Report correctly refer to the 
-Shanghai Ba Shi entity that operates the group’s inter-city buses.9  The only entity10 that operates Shanghai Ba Shi inter-
-city buses is 上海交运巴士客运（集团）有限公司 (“Jaioyun Ba Shi” or “JB”). (More information on the entire Ba Shi 
-group, including JB, is available at the group’s website: www.84000.com.cn.  JB’s site, which links directly to the 
-aforementioned group site through the button that reads “Inter-city passenger transport” (“长途客运”), is 
-http://61.152.242.65/cygs/servlet/Srv?action_code=frontMenuToIndex&webSiteMemberId=1007.)  
- 
 
+20
+12
 
-                                                        
-9 CCME’s CTR reports refer to the entity in question as “Shanghai Ba-Shi (Group) Industrial Co. Ltd.”  See 
-http://www.cCCME.tv/eng/pns/intercitybus_02.pdf.  Chairman Cheng’s letter refers to it as “上海巴士实业（集团）股份有限公司, 
-which appears to refer to the same entity, Shanghai Ba Shi (Group) Industrial Co. Ltd.  However, this entity is listed on the Shanghai 
-Stock Exchange (600741), and changed its name to Hua Yu Automotive Systems Co. Ltd.  Importantly, its business appears to be 
-automotive parts, and not operating transportation; however, it likely has an equity stake in JB.  The Luo Report calls the entity 
-Shanghai Ba-Shi Public Transportation Group Co. Ltd., which appears to refer to 上海巴士公交（集团）有限公司.  This entity only 
-operates intra-city buses. 
-10 For purposes of this discussion, “entity” includes JB’s subsidiaries.
-8 
 
+Q
+2 
 
-Sales Presentation 
- 
-We received a Sales Presentation titled “China MediaExpress Pricing (Nationwide)” from the CCME sales representative.  
-The Sales Presentation shows the number of buses by province and certain cities, including Shanghai.  Below is the page 
-from the presentation that shows the number of buses CCME has in Shanghai.  It shows only 296 buses, which is far 
-fewer buses than the 1,892 CCME claims to have under its Shanghai Ba Shi relationship.  We include the complete 
-presentation as Appendix B.  
- 
 
+20
+13
 
- 
-The Sales Presentation shows 12,358 buses under contract nationwide – this is slightly fewer than what the spreadsheets 
-in the Report show.  Significantly, the Sales Presentation is the second version the salesperson sent us.  The first version 
-stated that there were approximately 1,600 buses under contract in Shanghai.  Upon receiving the first presentation, we 
-pointed out via instant messenger the inconsistency with the 296 buses in the spreadsheet.  (Most dialogue with the 
-salesperson took place through instant messenger.)  In response, the salesperson wrote: 
- 
 
+Q
+4 
 
-“Sorry, there are 296 vehicles in Shanghai.  I made a mistake about the number.  I'll quote another price.”
-8 
 
+20
+13
 
-Following the above exchange, the salesperson sent over the presentation shown above and in Appendix B.  It shows only 
-296 buses in Shanghai.   
- 
-JB Meetings 
- 
-We had approximately five hours of meetings with JB officials ranging from station level operations personnel to top 
-company managers at its headquarters.  The following summarizes the information we received during our meetings: 
 
+Q
+2 
 
-• None of the four JB representatives had ever heard of CCME – not by the name of CCME’s operating company 
-nor its trade name.  Earlier in the discussions, another Ba Shi contact (not from JB) telephoned in our presence a 
-division manager of the advertising arm of the Ba Shi group (which is a different entity than JB).  The advertising 
-division manager also stated that he had never heard of the company nor its trade name.  Thus, none of four JB 
-people with extensive operations knowledge, nor the Ba Shi advertising division manager, were familiar in any 
-way with CCME. 
 
+20
+14
 
-• JB has only around 800 buses, all of which are inter-city.  The entire Shanghai Ba Shi group has approximately 
-2,000 buses, including intra-city, charter, and JB’s buses.  The above mentioned website for JB also states that it 
-has approximately 800 inter-city buses.  Assuming that a contract did exist, this number contradicts the 1,892 
-cited by CCME, Chairman Cheng, and the Luo Report. 
 
+Q
+4 
 
-• JB only authorizes televisions produced by each bus’s manufacturer (e.g., King Long) and certain approved 
-aftermarket vendors, which does not include CCME, to be placed on its buses. 
 
+20
+14
 
- 
-Video 
- 
-We filmed a mini documentary of JB inter-city buses and drivers.  The video is available at: 
-http://www.youtube.com/watch?v=-COZ5l9ayzM  
- 
-The footage shows: 
 
+Q
+2 
 
-• Prior to the Shanghai 2010 World Expo, the JB buses had standard DVD players for showing movies. 
-• The Shanghai government gave JB hard drive controllers for the Expo.  The controllers show Expo content and 
 
+20
+15
 
-Expo ads.  They do not show content or ads provided by CCME or other parties. 
-• The manufacturer of the hard drive controllers is Inspur, which is a different company than CCME’s exclusive 
 
+Q
+4 
 
-supplier, Zhejiang Yusong (which CCME’s filings erroneously refer to as Hangzhou Yusong).11 
-• The drivers can choose whether to turn on the controllers and TVs.  Because passengers like to sleep on the buses, 
 
+20
+15
 
-at least one driver generally keeps the equipment off. 
-• Coca-Cola (one of CCME’s purported top advertisers) and similarly large companies have not shown ads on JB 
 
+Q
+2 
 
-buses. 
-• The controllers are supposed to be removed, and replaced with DVD players. 
 
+20
+16
 
- 
-The below are recent still photographs of a JB inter-city bus. 
- 
-                                                        
-11 CCME December 31, 2009 Form 10-K, p. 18.
-10 
 
+Q
+4 
 
- 
-JB inter-city bus. Note the “JB” logo, which is on the sides of the buses shown in the video. 
 
+20
+16
 
- 
-King Long CRT television (the bus manufacturer) – not CCME / Yusong LCD.
-11 
 
+Q
+2 
 
 
+20
+17
 
 
- 
-No CCME controller. There is a media control box manufactured by Inspur in the dashboard. (For more information, see 
-http://www.inspur.com/Products/images_numeric/2010/6/12/56BA53E357CB41CB9AC8C83169492BC8.pdf).  CCME’s 
-exclusive hardware supplier is Zhejiang Yusong (supra p. 8).  The Shanghai government provided JB with the Inspur 
-controllers in order to show Expo-related content.
-Page  
+Q
+4 
 
 
-12 
+20
+17
 
 
-Appendix A 
-Traffic Administrator documents
-Page  
+Q
+2 
 
 
-13 
+20
+18
 
 
-Appendix B 
-Sales Presentation
-高速有多长 品牌就传多远
+Q
+4 
 
 
-中国高速频道城际巴士车载电视
-广告投放方案
-高速有多长 品牌就有多远高速有多长 品牌就有多远
+20
+18
 
 
-!   全国广告投放费用:
+Q
+2 
 
 
-投放
+20
+19
 
 
-城市
+Q
+4 
 
 
-广告
+20
+19
 
 
-规格
+10.00
 
 
-发布
+30.00
 
 
-车辆(部)
+50.00
 
 
-广告
+70.00
 
 
-时段
+90.00
 
 
-刊例价
-万元/月
+110.00
 
 
-车辆
+130.00
 
 
-基数
+Q
+2 
 
 
-优惠
+20
+05
 
 
-折扣
+Q
+4 
 
 
-实收价格
+20
+05
 
 
-(元/ 月）
+Q
+2 
 
 
-四川 15秒 1039 A段 13.5 ／ 4.5折 60750元
-重庆 15秒 750 A段 14.5 0.7
+20
+06
 
 
-4.5折 45675元
+Q
+4 
 
 
-江苏 15秒 2901 A段 16.6 2
-4.5折 149400元
+20
+06
 
 
-福建 15秒 1564 A段 10.8 1.5
-4.5折 72900元
+Q
+2 
 
 
-广东 15秒 1532 A段 19.6 1.5
-4.5折 132300元
+20
+07
 
 
-湖北 15秒 1087 A段 13.5 ／ 4.5折 60750元
+Q
+4 
 
 
-青岛（山东
-省）
+20
+07
 
 
-15秒 750 A段 15.3 0.7
-4.5折 48195元
+Q
+2 
 
 
-合肥（安徽
-省）
+20
+08
 
 
-15秒 338 A段 12.8 0.3
-4.5折 18280元
-高速有多长 品牌就有多远高速有多长 品牌就有多远
+Q
+4 
 
 
-投放
+20
+08
 
 
-城市
+Q
+2 
 
 
-广告
+20
+09
 
 
-规格
+Q
+4 
 
 
-发布
+20
+09
 
 
-车辆(部)
+Q
+2 
 
 
-广告
+20
+10
 
 
-时段
+Q
+4 
 
 
-刊例价
-元/月
+20
+10
 
 
-车辆
+Q
+2 
 
 
-基数
+20
+11
 
 
-优惠
+Q
+4 
 
 
-折扣
+20
+11
 
 
-实收价格
+Q
+2 
 
 
-(元/ 月）
+20
+12
 
 
-浙江 15秒 127 A段 16.6 0.1 4.5折 7470元
+Q
+4 
 
 
-上海 15秒 296 A段 21.0 0.2
-4.5折
+20
+12
 
 
-18900元
+Q
+2 
 
 
-江西 15秒 182 A段 9.9 0.1
-4.5折
+20
+13
 
 
-4455元
+Q
+4 
 
 
-北京 15秒 548 A段 19.6 0.5
-4.5折
+20
+13
 
 
-44100元
+Q
+2 
 
 
-天津 15秒 760 A段 16.6 0.7
-4.5折
+20
+14
 
 
-52290元
+Q
+4 
 
 
-河北 15秒 321 A段 15.3 0.3
-4.5折
+20
+14
 
 
-20655元
+Q
+2 
 
 
-江西 15秒 163 A段 10.8 0.1
-4.5折
+20
+15
 
 
-4860元
+Q
+4 
 
 
-!  全国广告投放费用:
-高速有多长 品牌就传多远
+20
+15
 
 
-!  特别支持
+Q
+2 
 
 
+20
+16
 
 
+Q
+4 
 
-1、买一赠一”活动
-     ① 即买一个时段15秒赠送另一个时段15秒 实播两个时段。
 
+20
+16
 
-     ②即买一个月15秒赠送另一个月15秒 实做一个月送一个月。  
-          注: 单时段: 每车每小时播一次广告，
 
+Q
+2 
 
-               双时段：每车每小时播两次广告 
- 
-2、投播全国赠送：
 
+20
+17
 
-      转场冠名广形式为投放方式：如*****提醒您精彩稍后继续   （排在常规     
-广告前，增加品牌关注度）
 
+Q
+4 
 
-3、折上折：
-       投播全国地区的可在刊例折后的基础上再予以8折支持优惠。
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+20
+17
 
-感谢您的关注,
 
+Q
+2 
 
-真诚希望能够与贵司携手开拓市场,
 
+20
+18
 
-实现共赢！
 
+Q
+4 
 
-                      并祝
 
+20
+18
 
-                          商祺!
-Page 
-14 
 
+Q
+2 
 
-Appendix C 
-Telephone call transcript
-Page  
 
+20
+19
 
-15 
 
+Q
+4 
 
-(The conversation has already been in progress for about two minutes before the recording started.  The parties had 
-discussed in prior QQ conversations that CCME is listed in the United States.) 
-… 
 
+20
+19
 
-Analyst: You want me to talk to my manager?  What do you want me to say?  What’s the situation? 
-CCME Rep: If you can, can you just tell him that the quoted proposal is for particular bus lines? 
-Analyst: Talk to my manager?  But the manager who worked on this project and I are no longer working for the 
 
+Last 
+Crisis
 
-company.  Does it still make sense to talk with him? 
-CCME Rep: Oh, he also left this company? 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
 
+Last 
+Crisis
+42
 
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
 
+Evidence of Peak Financial Strain
 
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
 
+Source: Company filings
 
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example… 
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
 
+Spruce Point’s working capital analysis has proven a prescient indicator of numerous financial disasters. 
+We conducted a similar analysis on WD-40 and find that its current working capital to LTM sales ratio is materially 
 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
 
+higher today at 16.3% of sales than it was prior to the last financial crisis. 
 
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of vehicles we 
-quoted you.  The number we reported is multiplied by two, or doubled.  Do you understand now? 
 
+$ in mm
 
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
 
+Pre-Financial Crisis Prior Financial Crisis Recent Results
 
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
 
+2005 2006 2007 2008 2009 2018 2019 Q1 2020
 
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
 
+Trailing 12 Month Revenues (A) $263.2 $286.9 $307.8 $317.1 $292.0 $408.5 $423.4 $420.6 
 
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve claimed 
-to the public is the total number, but the number we gave you is the vehicles installed with devices.  So there are some 
-conflicts. 
 
+Total Current Assets $101.2 $115.5 $130.6 $119.5 $120.8 $168.0 $148.0 $149.2 
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number we’ve 
 
+Less: Cash and Investments ($37.1) ($45.4) ($61.1) ($42.0) ($46.0) ($49.1) ($27.3) ($28.7)
 
-reported to the market regulator.  What we’ve reported to the market regulator is the number under contract.  The number 
-I’ve given you is contracted with devices installed.  
 
+Total Adjusted Current Assets (B) $64.1 $70.1 $69.5 $77.5 $74.8 $118.9 $120.7 $120.5 
 
-Analyst: I see.  And what do you want me to do to help you? 
-CCME Rep: There’s nothing you can help me with right now. 
-Analyst: Does your company know that it’s you? 
-CCME Rep: I have one question.  Have you told your colleagues I’m the person you contacted? 
-Analyst: No.  I’m the only person communicating with you from my company.  In my company, the person initially 
 
+Total Current Liabilities $46.7 $43.7 $53.9 $54.6 $48.2 $85.9 $74.6 $81.0 
 
-in charge of something is responsible until it finishes. When you wanted to meet with my manager, he asked me to 
-communicate with you and make sure everything is ok through the finish.  Therefore, I’d be your only contact the entire 
-time.
-Page  
 
+Less: Short-Term Debt ($10.7) ($10.7) ($10.7) ($10.7) ($10.7) ($23.6) ($21.2) ($29.1)
 
-16 
 
+Total Adjusted Current Liabilities (C) $36.0 $33.0 $43.2 $43.9 $37.5 $62.3 $53.4 $51.9 
 
-CCME Rep: That’s good.  If there are people checking with you about me, then just tell them you don’t know me. 
-Analyst: ok, and actually those who were working on this matter have already left the company with my boss. There 
 
+Adjusted Working Capital (B – C) = D $28.1 $37.2 $26.3 $33.6 $37.3 $56.6 $67.3 $68.6 
 
-are only two or three still staying in that company.  I’m not sure if they’re the people who passed out the information.  But 
-they don’t know you, and I’ve never mentioned you. 
 
+Working Capital % of LTM Sales (D/A) 10.7% 13.0% 8.6% 10.6% 12.8% 13.9% 15.9% 16.3%
 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
-sent you before. 
 
+Increasing Working Capital Intensity = Increasing Strain
+43
 
-Analyst: Have you given the same proposal to other customers？ 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
 
+Extreme Exposure To Currency
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
 
+We estimate 75% of WD-40’s cash is in its U.K. subsidiary. A falling British Pound creates material risk to the business. 
+The Company doesn’t quantify the amount, but based on its UK filings, we can estimate the exposure. First Brexit, and 
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been replaced at 
 
+now a coronavirus scare, has sent the Pound to multi-year lows
 
-that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s.  
-Analyst: Oh, I see. Then you’ll be ok. 
-CCME Rep: The problem is that they may find it in the server.  I feel so bad…. 
-Analyst: I don’t think they’re able to investigate me.  Are they able to find out who I am? 
-CCME Rep: I don’t know. They might find your QQ, or they might talk with you.  Just tell them you don’t know 
 
+British Pound / US$ Under Pressure
 
-whom you’ve been in contacted with?  Anyway, anything about China MediaExpress, please just don’t mention me. 
-Analyst: Ok, don’t worry.  I won’t talk about you, and also I’ve left that company already. 
-CCME Rep: You say you’ve left that company, but you’re still working for the old boss? 
-Analyst: Yes, but the company that was going to hire you doesn’t exist anymore. 
-CCME Rep: You mean that the company doesn’t exist anymore? 
-Analyst: No, the company still exists, but the people who used to work on this matter don’t work there anymore.  So 
 
+SourceSource: 10-K
 
-if the auditing firm finds the company, there’s nobody there who knows what’s going on. 
-CCME Rep: Is it possible that any of your colleagues have passed on the proposals? 
-Analyst: All of them have this proposal because I sent it out to them before the meeting so they can prepare.  The 
 
+Source: Bloomberg
 
-chance of leakage from my sources is very slight. 
-CCME Rep: Maybe not possible, but maybe they found out from the managers who were at the meeting. 
-Analyst: I don't know, maybe the computers in your company were hacked? 
-CCME Rep: Really? 
-Analyst: I don’t know, but anything’s possible. 
-CCME Rep: It’s lucky that I didn’t leave my number on the proposal. 
-Analyst: If someone calls me asking about you, I’ll definitely tell them I don’t know.  Don’t worry, the chances are 
 
+“All of our foreign subsidiaries currently operate in 
+currencies other than the U.S. Dollar and a 
 
-very low.
-Page  
 
+significant portion of our consolidated cash 
+balance is denominated in these foreign 
 
-17 
 
+functional currencies, particularly at our U.K. 
+subsidiary which operates in Pound Sterling. As 
+a result, our cash and cash equivalents balances are 
 
-CCME Rep: Ok. 
-Analyst: If there’s something you need help with, you can always call me. 
-CCME Rep: Please tell the manager to not pass out this proposal to anyone else. 
-Analyst: Ok, actually the proposal isn’t useful to us now.  Just as I told you yesterday – this matter won’t move 
 
+subject to the effects of the fluctuations in these 
+functional currencies against the U.S. Dollar at the 
 
-forward.  So don’t worry, and I’ll tell them to delete it.  We don’t keep things that we’re not using.  
-CCME Rep: How many people were at the meeting? 
-Analyst: Maybe seven or eight, and not all of us have this proposal.  Each person on our team handles different 
 
+end of each reporting period.”
 
-things.  Some focused on Bus Online, some are in charge of China MediaExpress, and some are in charge of other media 
-companies.  For example, my colleague got the proposal from Bus online.  He’ll email it to me, and of course I’ll email 
-your proposal to him as well.  And our company isn’t big, there are only a few who know about this. 
 
+WD-40 
+2019
 
-CCME Rep: Maybe the auditing firm was asking around and found your company? 
-Analyst: Most people in my company don’t know about this. Even if the auditing company asks them, they’ll have no 
 
+Annual Report
 
-idea. The people who were working on this case have left that company, and I’ll tell my colleagues and manager to keep 
-quiet. 
 
+Corona 
+Scare
 
-CCME Rep: Tell them that the vehicles we quoted before are all for particular lines. That is yet. 
-Analyst: Ok.  
-CCME Rep: Well, thank you. 
-Analyst: Don’t worry, nothing will happen. 
-CCME Rep: Thanks, Bye
-Page  
 
 
-18 
+https://www.gov.uk/government/organisations/companies-house
 
+https://www.sec.gov/Archives/edgar/data/105132/000010513218000035/wdfc-20180831x10k.htm
+44
 
-Appendix D 
-Chairman Cheng’s letter
-! ! ! ! ! ! ! ! ! ! ! ! !
-!
-"#!$%&!'()&*(#+,*&-!).,!/&0*.,-1!
-!
 
+Greater International Exposure Will 
+Exacerbate WD-40’s Pain This Cycle
 
-"#!"$$"%&!'(!
-)*+,$!)-..-,)!$*"$!%"/)-0!1+."$2.-!)32#4)!2#!2$)!)$+%&!5,2%-6! ! 7"#"4-8-#$!"#0!9
-:+",0!+;!<2,-%$+,)!",-!&--#.(!"3",-!+;!$*-2,!,-)5+#)2'2.2$(!$+!5,+$-%$!+/,!2#1-)$+,)!
-;,+8!$*-)-!,-%&.-))!"#0!'")-.-))!"$$"%&)!"#0=!"%%+,02#4.(=!$*-!9+85"#(
-"/$*+,2>-0!$*-!-#4"4-8-#$!+;!+/$)20-!%+/#)-.!"#0!+$*-,!%+#)/.$"#$)!$+!"012)-!2$!
-32$*!,-4",0!$+!"55,+5,2"$-!%+/#$-,8-")/,-)6!
-!
-?+!".."(!$*-!%+#%-,#)!+;!$*+)-!)*",-*+.0-,)!3*+!*"1-!,-"0!$*-!'.+4!5+)$)!+;!$*-!
-)*+,$!)-..-,)!"#0!3+#0-,-0!2;!$*-,-!2)!"#(!'")2)!$+!$*-2,!)$"$-8-#$)=!8"#"4-8-#$!*")!
-5,+120-0!'-.+3!"!5,-.282#",(!,-12-3!+;!$*-!;"%$/".!2#"%%/,"%2-)!"#0!82).-"02#4!
-2##/-#0+!-85.+(-0!'(!$*-)-!'.+44-,)!;+,!$*-2,!)-.;@'-#-;2$6!
-!
 
+Looking carefully today vs. the last financial crisis, we see that WD-40 is materially more exposed to international 
+markets today (63%) vs. the last crisis (52%). The Company now obscures country-level revenue detail. However, we 
 
-!
-!
-A#!B"#/",(!CD=!EFDD=!92$,+#!G-)-",%*!5/'.2)*-0!"!,-5+,$!-#$2$.-0! ?*-!9*2#"!G-1-,)-!
-7-,4-,!)$+ 6 ! A#!H-',/",(!D=!EFDD=!:,+#$-!9"52$".!
 
+estimate the U.K is 37% of total revenues vs. 9% during the last crisis. 
 
-6 ! ! A#!H-',/",(!C=!
-EFDD=!7/00(!I"$-,)!
-,-%+88-#0"$2+#6! ! J"%*!+;!$*-)-!,-5+,$)!8"&-)!%-,$"2#!"..-4"$2+#)!"'+/$!9*2#"!
 
+Global operations outside the U.S. expose the Company to uncertain conditions, foreign currency exchange rate risk and 
+other risks in international markets.  The Company’s sales outside of the U.S. were approximately 63% of consolidated net sales in 
+fiscal year 2019 and one of its strategic initiatives includes maximizing the WD-40 Multi-Use Product through geographic expansion 
+and market penetration. 
 
-=!".$*+/4*!#+#-!+;!
-$*-! 32$*!8"#"4-8-#$!+;!997J!
-+,=!$+!+/,!&#+3.-04-=!5-,;+,8-0!"#(!8-"#2#4;/.!0/-!02.24-#%-!+#!$*-!9+85"#(!+,!
-)+/4*$!$+!0-1-.+5!"!,24+,+/)!;2#"#%2".!8+0-.!+;!2$)!'/)2#-))!2#!$*-!8"##-,!"#(!I"..!
-K$,--$!,-)-",%*!"#".()$!3+/.06! ! I-!*"1-!-1-,(!,-")+#!$+!'-.2-1-!$*"$!-"%*!+;!$*-)-!
 
+Source: 2019 10-K
 
-!"$!$*-!
--L5-#)-!+;!+/,!)$+%&*+.0-,)! !3*-#!$*-(!)/%%--0!2#!0,212#4!0+3#!$*-!5,2%-!+;!+/,!
-)$+%&6! ! ?*2)!%+#;.2%$!+;!2#$-,-)$!421-)!,2)-!$+!/#0-,)$"#0"'.-!0+/'$)!"'+/$!$*-2,!
-8+$21"$2+#!"#0!2#$-#$2+#)!"#0=!+;!%+/,)-=!$*-!+'M-%$212$(!"#0!.-42$28"%(!+;!$*-2,!
-,-5+,$)6 !
-!
-!
-?*-!8"##-,!2#!3*2%*!$*-!)*+,$!)-..-,)!)--8!$+!*"1-!$28-0!"#0!%++,02#"$-0!$*-2,!
-!"
-"
 
+Source: 2009 10-K
 
-#$$%&'(")*+,("-.'%"'/#-&"0*'-1+'#"('&+'#2,3" " 4,"0(-.2"'/#"+.%.,1-',"%$"'/#"-.'#&.#'"+.5"
-)06*-7-8-.2"+("1+.,"0.$%0.5#5"+**#2+'-%.("+("'/#,"7+."7&+$'9"'/#,"7+."1+:#"-'"*%%:"+("
--$"'/#&#"-("+"2&%0.5"(;#**"%$"7&-'-7-(1"+2+-.('"'/#"<%1)+.,";/#."-."&#+*-',"+**"'/#"
-7*+-1("#1#&2#"$&%1"+"(1+**"2&%0)"%$"(#*$=-.'#&#('#5")+&'-#(3" " >/#-&"0*'-1+'#")*+."-("
-.%'"+"7%1)*-7+'#5"%.#3" " ?("*%.2"+("'/#,"7+."5&-@#"5%;."'/#"('%7:")&-7#";/#."'/#"A3B3"
-1+&:#'("+&#"%)#."C#@#."-$"'/#&#"-("+"/%*-5+,"-."</-.+D"+.5"'/#."7%@#&"'/#-&"(/%&'"
-)%(-'-%."7/#+)*,"+.5"E0-7:*,9"'/#,"/+@#"+77%1)*-(/#5"'/#-&"2%+*3" " F'"5%#(".%'"'+:#"
-*%.2"$%&"'/#1"'%"1+:#"+")&%$-'"+'"'/#"#G)#.(#"%$"'/#"7%1)+.,"+.5"%'/#&"
-(/+&#/%*5#&(9")+&'-70*+&*,9"-$"+**#2+'-%.("+&#"1+5#";/-*#"60(-.#((#("-."</-.+"+&#"
-7*%(#53"
-"
->/#"<%1)+.,";-**"+7'-@#*,"&#(-('"'/#"#$$%&'("%$"'/#(#"(/%&'"(#**#&(3" " H-&('"+.5"
-$%&#1%('9"!"#$%&'()*+$%)!#,&-.%)//+$0#*.#1$!"#$)//#,)!.&*1$')0#$.*$
-!"#1#$(23/.%)!.&*14$ $ I#"+55&#(("6#*%;"'/#"1%('"(-2.-$-7+.'"7*+-1("1+5#"-."'/#(#"
-1+'#&-+*(" "+**"%$";/-7/"7%.'+-."*+&2#"$+7'0+*"#&&%&(3" " >%"'/#"#G'#.'"-'"-(".#7#((+&,9";#"
-;-**")&%@-5#"+"1%&#"7%1)&#/#.(-@#"&#()%.(#"+'"'/#"+))&%)&-+'#"'-1#3"
-"
-I#"+*(%".%'#"'/+'"'/#"+''+7:("+&#"7%.'-.0-.2"+.5";#"$0**,"#G)#7'"'%"7%.'-.0#"'%"/+@#"
-'%"'+:#"+))&%)&-+'#"7%0.'#&1#+(0&#(3"
-"
 
+During The Last 
+Financial Crisis, 
 
-$
-$
-)//#,)!.&*J">/#"<%1)+.,"-("+"$&+05"+.5"&#)%&'#5"&#@#.0#"-("#G+22#&+'#5"6,"'#.("%$"
-1-**-%.("%$"5%**+&(3"
-5)%!J">/#"<%1)+.,"-("('&%.2"+.5"5%-.2";#**3" " F'("&#@#.0#("+.5"7+(/")%(-'-%."/+@#"
-6##."+05-'#5"6,"&#)0'+6*#"+.5";#**=:.%;."+05-'%&(";/%"/+@#"7%.$-&1#5"6%'/3" " "
-$
-)//#,)!.&*
-<<KL"/+("*#(("'/+."/+*$"%$"'/#"60(#("0.5#&"7%.'&+7'"7%1)+&#5"'%"<<KL"
-&#)&#(#.'+'-%.(3"
-5)%!J"?("%$"'%5+,9"'/#"<%1)+.,"70&&#.'*,"/+("!M9!NN"60(#("0.5#&"7%.'&+7'9"+.5"-."
-+55-'-%."'%"%0&"&#20*+&"1%.'/*,"-.5#)#.5#.'"+05-'"+.5"@#&-$-7+'-%."6,"<>O"K+&:#'"
-O#(#+&7/" ";/-7/";#")#&$%&1"$%&"'/#"6#.#$-'"%$"%0&"+2#.'("+.5"70('%1#&("==";#";-**"
-#.2+2#"+")&%$#((-%.+*"'/-&5")+&',"'%"@#&-$,"'/+'"$+7'3" " ?*'/%02/"K055,"I+'#&("7*+-1("
 
+International Sales 
+Was The #7 Risk 
+Factor And Sales 
 
-()&#+5"(/##'("'/+'"K055,"I+'#&("7*+-1("'%"7%1#"$&%1"%0&":-'9"'/+'"(-1)*,"-(".%'"'/#"
-7+(#3" " >/#"()&#+5"(/##'("%.";/-7/"K055,"I+'#&(")0&)%&'("'%"&#*,"C+D"5%".%'"*%%:"
-*-:#"%0&(9"C6D"+&#".%'"-."'/#"(+1#"$%&1+'"+("%0&(9"C7D"+))#+&"'%"/+@#"6##."+0'/%&#5"6,"
-!"
-"
 
+Were 52% of Total. 
+More Country 
 
-#$"%$&%'%&(#)"($*$+,$"-+"(."/0#.1&"+$"#"21'%1,"+3"-41"5&3"&+6(7
-.16-%+$8"-41"$#71"+3"-41"#(-4+2"&+1."$+-"#551#2"-+"01"#"$#71"+3"#$9"+3"+(2":4%$1.1"
-.-#33;8"#$&"7+.-"%75+2-#$-)9"/&;"&+"$+-"4#'1"-41".#71"%$3+27#-%+$"#."-41".521#&"
-.411-."-4#-"#21"%$6)(&1&"%$"+(2"#&'12-%.%$<"*%-=" " >1"+0'%+(.)9"&+"$+-"*$+,",4121"
-?(&&9">#-12.".+(261&"-4%."%$3+27#-%+$8"0(-",4#-",1"&+"*$+,"%."-4#-8"6+$-2#29"-+"
-,4#-"?(&&9">#-12.".#%&" %."$+-"-41".#71"#."+(2"
-#&'12-%.%$<"*%-=" "
-@41".521#&".411-.")%$*1&"-+"-41"?(&&9">#-12." 4#'1".%<$%3%6#$-"
-&%.6215#$6%1."32+7" 64#2-."
-%$&%6#-1A" " "
-"
 
+Level Disclosure 
+Was Provided 
 
-"
-"
 
+WD-40’s #1 Risk 
+Factor Is That 63% 
 
-"
-+33%6%#)"#&'12-%.%$<"*%-"/.4+,%$<".+71"+3"-41".#71"
 
+of Sales Are 
+Outside The U.S.
 
-0(.1.8",%-4".6211$"6+($-."#$&"1$-%21)9"&%33121$-".1B(1$6%$<;A"
 
+Current Disclosure 
+Provides No 
 
-" "
-"
-?+21+'128"-41"$(7012."215+2-1&"09"?(&&9">#-12."#21"1$-%21)9"&%33121$-"32+7"-4+.1"
-#551#2%$<"%$"+(2"#&'12-%.%$<"*%-=" " >1"4#'1"-2%1&"-+"3%<(21"+(-"4+,"#$&",49"?(&&9"
->#-12."6+()&"4#'1"<+--1$"%-".+",2+$<8"0(-"+3"6+(2.1",1"&+"$+-"*$+,",4#-"-419"&%&=" "
->1"4#'1".+71"-41+2%1.8"0(-"-41"21#)%-9"%."-4#-"%-"%.",2+$<8"&2#7#-%6#))9".+="
-!"
-"
 
+Country-Level 
+Sales, Only 
 
 
+Regional
 
 
-"
-!""#$!%&'(
-#$%&'%&("
-)!*%)"*+,-"#./,0"1'.,'-"'%&,1'.2"$%"/%'#3$&/."'4,3'%#'("5%3'1"$61"#$%&1/#&-7"86-"
-$9'1/&$1-"/1'"%$&"/..$:'3"&$"1'0$4'"$61"9./2'1-"/%3"3,-9./2"#$%&'%&"%$&"91$4,3'3"82"
-$61"#$09/%2(" " ;61"0'3,/"9./2'1-"$9'1/&'"$%"/"+/13<31,4'"8/-'3"-2-&'0"&+/&",-"
-.$#='3(" " >'"+/4'"&/,.$1<0/3'"$61"0'3,/"9./2'1-"?:,&+"/"9/&'%&@"-$"&+/&",&",-"%'/1.2"
-,09$--,8.'"&$"9./2"#$%&'%&"$&+'1"&+/%"&+/&":+,#+":'"-699.2(" " *+'"#$%&'%&"$%"&+'"
-0'3,/"9./2'1-"#/%"$%.2"8'"693/&'3"82"AABC"$9'1/&$1-"/%3",-"&29,#/..2"693/&'3"$%"
-$61"#$%&1/#&'3"86-'-"&:,#'"/"0$%&+(" " D1,4'1-"/1'"%$&"/8.'"&$"-:,&#+"$EE"&+'"FAD"
--#1''%-"361,%G"&+'"&1,9(" " H%"E/#&7"&+'"-2-&'0"/6&$0/&,#/..2".$/3-"/%3"9./2-"&+'"
-#$%&'%&":+'%"&+'"86-"'%G,%'"-&/1&-"/%3"/6&$0/&,#/..2"-+6&-"3$:%":+'%"&+'"86-"
-'%G,%'",-"&61%'3"$EE(" " "
-"
-!""#$!%&'()"A*I"1'-'/1#+"1'9$1&-"/1'"
-0/%/G'0'%&(" " "
-)!*%)"A*I",-"/%",%3'9'%3'%&"/%3"4'12"1'96&/8.'"1'-'/1#+"91$4,3'1(" " J0$%G"$&+'1"
-&+,%G-7"A*I"6-'3"/"K6'-&,$%%/,1'"-614'2"&$"G/&+'1"8/-,#"3/&/"E1$0"86-"#$09/%,'-"
-/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"A$006%,#/&,$%(" " *+1$6G+"&+'"
-K6'-&,$%%/,1'7"A*I",-"/8.'"&$"K6/%&,E2"&+'"%608'1"$E"#$%&1/#&'3"4'+,#.'-7"FAD"
--#1''%-"/%3"0$%&+.2"-60"$E"9/--'%G'1-(" " H&"/.-$"$8&/,%'3"-&/&,-&,#/."3/&/"$E"
-/34'1&,-,%G",%",%&'1<#,&2"86-'-7"FAD"-#1''%-7"+/13"3,-="9./28/#="0$3'7"/%3"0$%&+.2"
--60"$E"9/--'%G'1-",%"&+'":+$.'"$E"A+,%/(" " J.."$E"&+,-"3/&/",-"91$4,3'3"82"&+,13"
-9/1&,'-" "&+'"86-"$9'1/&$1-"/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"
-A$006%,#/&,$%" "%$&"&+'"A$09/%2(" "
-"
-"
-!""#$!%&'( "/%3" "
-AABC"+/-"0,--&/&'3"&+'"%608'1"$E"86-'-",&"#$%&1/#&-":,&+"M',N,%G"J<'1<-+/"O/--'%G'1"
+Source
 
 
-<'1<-+/"O/--'%G'1"*1/%-9$1&/&,$%"
-"
 
+http://d18rn0p25nwr6d.cloudfront.net/CIK-0000105132/f7bf0eda-28ea-42f9-b5bc-cf41350786e9.pdf
 
-)!*% 7"P+/%G+/,"M6-"H%36-&1,/."Q1$69"A$(7"
-F&3(7!#$%&1/#&'3":,&+"6-",%"RSST"?/%3"%$:@"E$1"U7TVR"86-'-(" " >'"$84,$6-.2"#/%%$&"
-#$00'%&"$%":+2"B6332">/&'1-":$6.3"1'9$1&"$&+'1:,-'7"$&+'1"&+/%"/-"0'%&,$%'3"
-/8$4'"1'G/13,%G"&+'"6%=%$:%" "86&"&+'"#$%&1/#&"
-3$'-7",%"E/#&7"'W,-&"/%3"&+'2"/1'".,-&'3",%"$61"#611'%&"/34'1&,-'1"=,&("
-"
-!"
-"
+https://www.sec.gov/Archives/edgar/data/105132/000119312509209188/d10k.htm
 
+https://www.gov.uk/government/organisations/companies-house
+45
 
-#$%&"'()"*+,,-"./')$0"$)1%$'2"
-"
 
+WD-40 “Recession Resistant” According To 
+The CEO 
 
-"
-"
-#$%&"%+$"%33454/6"/,7)$'40)$"84'"9%:6-"'()"34$0'"'($))";+0)0"%+'"%3"'()"<=>?@"'%'/6"/$)"
-0(%A:"4:"'()")B5)$1'C2"
-"
 
+Investors should not rely on history for a guide to WD-40’s future. The CEO claimed last year that the business was 
+recession resistant, and that business was stable, and would have grown, if not for currency movements. 
 
-"
-*+,,-"./')$0"/66)D)0"'(/'"4'"5%:'/5'),"$)1$)0):'/'47)0"%3"E60/"/:,"F4/:D"G%:D"E60/"
-'%"34:,"%+'"'(/'"'()-"%:6-"(/7)"@H";+0)0"/:,"IH";+0)0="$)01)5'47)6-J" " *+,,-"./')$0"
 
+“And then can you just, I mean, there's been a lot of investor anxiety, I guess, over the potential for a recession 
+in the U.S., at least. Can you just remind me how your business behaves in a recession? Is it actually a 
+little bit countercyclical? Or can you just give a little bit color about the nature of your business in that kind of 
+environment?”
 
-"A);04')0"'%"0+11%$'"'(40"/66)D/'4%:J" "
-5'"A4'("/";+0"
 
+WD-40 
+Analyst 
+Linda 
 
-%1)$/'%$"%:";)(/63"%3"4'0)63"/:,"%'()$";+0"%1)$/'%$0J" " K3"5%+$0)"E60/"%$"F4/:D"G%:D"
-E60/"A%+6,":%'"&40$)1$)0):'"'%"'()"1+;645"'(/'"'()-"%1)$/')"&%$)";+0)0"'(/:"'()-",%="
-;+'":)4'()$"A%+6,"'()-"4:56+,)"/66"'()",)'/460"%3"'()4$"0+;5%:'$/5'4:D"/$$/:D)&):'0"
-$)D/$,4:D"/,7)$'404:D"&/'')$0"4:"'()4$"5%$1%$/')"A);04')J" " L(40"3/5'"/60%")B16/4:0"
-*+,,-"./')$0 ")B/DD)$/'),"5%:5)$:"%7)$"'()":+&;)$"%3"%1)$/'%$0"A)",%";+04:)00"
-A4'(" "4'"40"04&16-"'()"5/0)"'(/'"/'"/0"%3"M)5)&;)$"N<="@H<H"A)"(/,"04D:),"
-/D$))&):'0"A4'("%:6-"OH";+0"%1)$/'%$0";+'"'(/'"'(%0)"%1)$/'%$0"(/,"0+;5%:'$/5'4:D"
-/$$/:D)&):'0"A4'("&/:-"%'()$0"5%&1$404:D"'()"PP*Q":)'A%$8J!
-L()")B'$/%$,4:/$-",)3454):54)0"4:"*+,,-"./')$0 "4:56+,4:D"
-1$)0):'4:D"4:3%$&/'4%:"3%$"'()"A$%:D"5+0'%&)$="3/464:D"'%"4:7)0'4D/')"/:,"$)1%$'"
-1+;6456-"/7/46/;6)"4:3%$&/'4%:="/:,"3/464:D"'%"&/8)"3%66%AR+1"4:S+4$4)0"A4'("PP*Q" "
-:/'+$/66-"5/0'0",%+;'";%'("%:"'()4$"5/1/;464'4)0"/:,T%$"'()4$"%;U)5'474'-J" " "
-"
-"
-"##$%"&'() 4'%A"16/'3%$&J"
-*"+&2".)"04D:)," Q/,4:D"V$%+1="4:"
-M)5)&;)$"@H<HJ".)"):5%+$/D)"-%+="A():"4:"P(4:/="'%";+-"/:"4W/,"3$%&"'()&J" "
-"
-"##$%"&'() X+;V$)-(%+:,"M)&%D$/1(45 "
-*"+&2"K+$"'/$D)'"/+,4):5)"5%:040'0"%3"&)&;)$0"%3"(%+0)(%6,0"A4'("/;%7)R/7)$/D)"
-!"
-"
 
+Weiser
 
-#$%&'("&)"&*+",*-#($%("#.",/&*0"123"456778!5777"9(+"'&$0:;" " <:#."-('&=+,9:#%"#."
 
+CEO Ridge 
+Response 
+To Analyst
 
-,00+,%0#>("0&"0:(",->(+0#.(+."?#0:"?:&'"?(":,>("%&$0+,%0(-;" " @&'("&)"0:("=A&/,A"
 
+“We're not recession proof, but we have been called recession resistant. And past history, I've been 
+around for 30 years in the business. We've come through, we continued to invest in our business through the 
+recessions, whether there will -- and the other thing that plays even more in our favor now is our geographic 
+diversity. In 2008, when we had the financial crisis, our business was actually sideways, we actually 
+grew a little, and if it wasn't for the collapse, if you will, of the pound-U.S. dollar exchange rate, we would have 
+grown. But the impact was more in the U.S., not in Europe. So let's hope that we don't talk ourselves into a 
+recession, and let's hope that we continue to make large hotdogs and put them on good buns and don't actually 
+find ourselves in that position. But we feel that our spread across geography and our spread across trade 
+channels gives us the best chance we can possibly have to ride through different economic conditions in 
+different countries at different times around the world.”
 
-%&'9,$#(."0:,0",->(+0#.("&$"&*+"9A,0)&+'",+("B($&>&5"C:#$,"2&/#A(5"@#('($.5"<&D&0,"
 
+Next Slide Please!
 
-,$-"E(9.#;" "
 
+Source: Q1 2019 earnings call
 
-"
 
+Notice he doesn’t talk about 
+Asia this time around
 
-!""#$!%&'()* ",$-"%(+0,#$"'(-#,"/*D(+."-&"$&0"F$&?"CC2G;*
-+!,%H"<:("%&'9,$#(."A#.0(-"#$"0:("2*--D"I,0(+."+(9&+0",+("$&0"#$"0:(".,'("#$-*.0+D"
-=+&*9",."CC2G;" " J2CK")&%*.(."&$"0:("%&''(+%#,A"+(,A"(.0,0(5"+(0,#A5"&*0-&&+"
 
 
-/#AA/&,+-5",$-"L$0(+$(0",->(+0#.#$="9A,0)&+'."#$"C:#$,;" " " M2CK"#."#$"0:(",#+9&+0",$-"
+https://seekingalpha.com/article/4232487-wdminus-40-companys-wdfc-ceo-garry-ridge-on-q1-2019-results-earnings-call-transcript?part=single
+46
 
 
-,#+9A,$(".(='($0;" " NL@K",$-"3*."O$A#$(",+("#$"0:("#$0+,8%#0D"/*.".(='($0;"I(",+("
+Reality From The Financial Crisis
 
 
-0:("'(-#,"',+F(0"A(,-(+"#$"#$0(+%#0D",$-",#+9&+0"(P9+(.."/*.(."#$"C:#$,5",$-"0:(+(",+("
+It’s unclear what the CEO meant when he said its business was “sideways” during the last crisis. All of its key 
+financial metrics declined by single digits. Today, its business is more levered and has greater international exposure. 
 
 
-$&"%&'9,+,/A("%&'9(0#0&+.5"(#0:(+"#$".#Q("&+"(P9(+#($%(;"
+As a result, we expect a much larger impact to Company results. 
 
 
-" " "
+Source: 2009 10-K
 
 
-!""#$!%&'(H"<:("R77S"@MLC"+(>($*("-&(."$&0"',0%:"?#0:"&*+"@GC"+(9&+0(-")#$,$%#,A"
-+(.*A0.;"
+EPS -4%
 
 
-+!,%H" ?#0:"9(+0#$($0"@MLC"+*A(."
-,$-"9&A#%#(.;" " O*+"%&$.&A#-,0(-")#$,$%#,A"+(.*A0."+(9&+0(-"#$"0:("C&'9,$DT.",*-#0(-"
+EBIT -7%
 
 
-)#$,$%#,A".0,0('($0.",+("9+(9,+(-"#$",%%&+-,$%("?#0:"U@"VMME;" " "
+Sales -8%
 
 
-"
+Gross Profit -3%
 
 
-!""#$!%&'(H"CC2G":,."'#.A(-"#$>(.0&+."+(=,+-#$="=&>(+$'($0",99+&>,A"&)"#0."
-&9(+,0#&$." "
 
+https://www.sec.gov/Archives/edgar/data/105132/000119312509209188/d10k.htm
+47
 
-"
 
+Already Missing Targets Before Things Went 
+From Bad To Horrible
 
-+!,%H"<:("/A&==(+.",+("9A,D#$="-#.#$=($*&*."?&+-"=,'(.;" " W&?(>(+"D&*"?,$0"0&"
-0+,$.A,0("0:("$,'("&)"0:(",99+&>,A5"0:("C&'9,$D":,."A*%+,0#>(",=+(('($0."
 
+Spruce Point believes that long-term fundamental challenges are already beginning to weigh on WD-40, and this is before the macro 
+environment went from bad to horrible with the coronavirus. Notice the acute weakness in Asia, notably China, where management 
 
-0:+&*=:&*0"C:#$,"0:,0",+("9+&>#-#$=".0+&$="+(>($*(.")&+"0:("C&'9,$D",$-"#0."
 
+claims it has a large market opportunity. The CEO is adamant that recent results “no way reflect a trend”.
 
-.:,+(:&A-(+.;" " <:#.",AA(=,0#&$"#.",$"(P,'9A("&)":&?"),+"0:("/A&==(+."?#AA"=&"0&"0+D"0&"
 
+• Total net sales for the first quarter were $98.6 million, a decrease of 3 percent compared to the prior year fiscal quarter. 
+Translation of the Company's foreign subsidiary results from their functional currencies to U.S. dollars had an unfavorable 
+impact on sales for the first quarter. On a constant currency basis, total net sales for the first quarter would have been $100.8 
+million, relatively constant compared to the prior year fiscal quarter. 
 
-%+(,0("0:("#AA*.#&$"0:,0"0:(+("#.".&'(0:#$="?+&$="?#0:"0:("C&'9,$D;" " CC2G":,."
 
+• Diluted earnings per share were $0.88 compared to $0.95 in the prior year fiscal quarter.
+• Gross margin percentage was 54.3 percent compared to 55.1 percent in the prior year fiscal quarter.
+• Net sales of maintenance products, which are considered the primary growth focus for the Company, decreased 3 percent in 
 
--(9,+0'($0"*$-(+"0:("2#$#.0+D"&)"<+,$.9&+05"?:#%:":,."/#$-#$="())(%0"&$"0:("/*."
 
+the first quarter when compared to the prior year fiscal quarter. This decrease was due primarily to lower sales of WD-40 
+Multi-Use Product within the Asia-Pacific segment
 
-&9(+,0&+.;" " I(":,>("',-(","%&9D"&)"0:#.",99+&>,A",>,#A,/A("&$"&*+"%&+9&+,0("
 
+• Net sales in Asia-Pacific decreased 15 percent in the first quarter due to a 21 percent decrease in sales in the Asia-
+Pacific distributor markets and a 23 percent decrease in sales in China. The decline in sales in both regions was attributable 
+to the timing of customer orders from period to period. These declines were partially offset by higher sales in Australia which 
+increased 5 percent compared to the prior year fiscal quarter.
 
-?(/.#0(5"?:#%:"#$%A*-(."0:("+(A(>,$0"<<MNC"@(,A"X+(-".0,'9Y;" " I:,0"0:("/A&==(+."
 
+Terrible 
+Results In Q1 
+2020 Which 
 
-" "#."0:,0"0:#.",99+&>,A"#."$&0"A*%+,0#>(5"#'9&+0,$05"&+"
 
+Management 
+Always 
 
-($)&+%(,/A("&+"(>($"0:,0"0:#.",99+&>,A"-&(."$&0"=#>("0:("C&'9,$D"0:("(P%A*.#>("+#=:0"
 
+Blames on 
+Currencies
 
-0&",%%(..",$-",->(+0#.("0&"0:("9,..($=(+."&$"0:(.("/*.(.;" " <:("9+&&)"&)"0:("9*--#$="
 
+Source: Q1 2020 press release and conference call
 
-<<MNC"?#0:"&9(+,0&+."#$"%#0#(."0:+&*=:&*0"C:#$,;"
 
+"Our guidance reflects the Company's current view of the business," said Jay Rembolt, WD-40 Company's vice president and 
+chief financial officer.  "The revenue softness we experienced in the first quarter was primarily driven by the timing of customer 
+orders and we expect that sales activity will shift into later quarters.  We remain comfortable with our current guidance range 
+and are reiterating it today.“
 
-"
 
+CEO Ridge on Conference Call: “Though these results may look disappointing, they no way reflect a trend. In fact, we see 
+lots of opportunities for growth as we continue to maximize the product line through geographic expansion, increased market 
+penetration and premiumization of the blue and yellow can with a little red top”.
 
-Z" " " " " Z" " " " " Z" " " " " Z" " " " " Z"
-!"
-"
 
+The Company reiterates the following guidance for fiscal year 2020:
+• Net sales growth is projected to be between 3 and 7 percent with net sales expected to be between $436m and $453m.
+• Gross margin percentage for the full year is expected to be between 54 and 55 percent. 
+• Advertising and promotion investments are projected to be between 5.5 and 6.0 percent of net sales.
+• The provision for income tax is expected to be between 20 and 22 percent.
+• Net income is projected to be between $65.0 million and $66.2 million.
+• Diluted earnings per share is expected to be between $4.74 and $4.83 based on an estimated 13.7 million weighted average 
 
-"
-#$"%&'()"*+&,(-"&./"*+010'2"'&"/($3&%)"4&531('(12"'&"'6($("+1&77(/$"0$"1050'()").("'&"
-'6("860%($("9(:";(*/"6&10)*2$" *"<*4'"'6*'":("+(10(,(":*$"30,&'*1"'&"'6("'050%7"&<"
-'6("/(1(*$("&<"'6($(" $ #1'6&.76":("6&3("'6*'"'6("0%,($'0%7"3.+104":011"
 
+shares outstanding.
 
-''*4=$"<&/":6*'"'6(2"*/(-"'&"'6("(>'(%'"'6*'"*"<./'6(/"*%)"
-5&/("4&53/(6(%$0,("/($3&%$("0$".$(<.1-":(":011"3/&,0)("<./'6(/"0%<&/5*'0&%"'&"'6("
-0%,($'0%7"3.+104"*<'(/"'6("860%($("9(:";(*/"'&"/($3&%)"'&"'6($(")(<*5*'&/2"
-*11(7*'0&%$?"
-"
-!"#$%&'()&#**+& & @"3*/'04.1*/12"6&3("'6*'"'6("'6&$("$6*/(6&1)(/$":6&"6*,("/(5*0%()"
-1&2*1"'&"88AB"*%)"$6*/("'6(",0$0&%"@"6*,("'&"/($3&%$0+12"1(,(/*7("&./" "
-)($07%*'0&%"*$"'6("(>41.$0,("0%'(/C40'2"+.$"DE"5()0*"+2"860%*F$"A0%0$'/2"&<"D/*%$3&/'"
-*%)"'6(/(+2"7/&:"&./"/(,(%.("*%)"3/&<0'*+010'2":011"*44(3'"52"$0%4(/("*%)"6.5+1("
-'6*%=$"<&/"'6(0/"'/.$'"*%)"$.33&/'?" " @"*5"*1$&"6(*/'(%()"+2"'6("<*4'"'6*'"5*%2"
-3(&31("6*,(-".%+0))(%-"3&$'()"/($3&%$($"'&"'6($("$4.//01&.$"*''*4=$"*%)"6*,("
-$'/&%712"$.33&/'()"'6("8&53*%2?" " D6(2"6*,(")&%("'60$"&%"'6(0/"&:%-"*%)"@"'6*%="
-'6(5"<&/"'6(0/"$.33&/'?" " G&/"'6("$'&4="5*/=('"$3(4.1*'&/$"0%'(/($'()"0%"(%/0460%7"
-'6(5$(1,($"'6/&.76" -"*11"*'"
-'6("(>3(%$("&<"&./"0%,($'&/$-"@"*5"4(/'*0%"'6*'"'6(0/"*4'0&%$":011".1'05*'(12"4*'46".3"
-:0'6"'6(5?"
-"
-H6(%7"86(%7"
-86*0/5*%-"8BI"*%)"J/($0)(%'"
-G(+/.*/2"!-"KLMM"
+
+Yet Somehow 
+Management
+
+
+Remains 
+Confident It Can 
+
+
+Still Achieve 
+Growth
+
+
+
+https://investor.wd40company.com/investors/news-and-events/press-releases/press-release-details/2020/WD-40-Company-Reports-First-Quarter-2020-Financial-Results/default.aspx
+
+https://seekingalpha.com/article/4316087-wdminus-40-co-wdfc-ceo-garry-ridge-on-q1-2020-results-earnings-call-transcript?part=single
+48
+
+
+Limited Visibility Into Financial Targets 
+During Past Recession
+
+
+In our view, WD-40 has no visibility in an economic recession. It missed FY 2009 sales and EPS estimates by 13% and 
+almost 10% at the mid-point, respectively. In FY 2008 it missed sales and EPS by 5% and 13% and the mid-points, 
+
+
+respectively. This time around, the economic crisis is greater, and we expect a much larger miss of its targets.
+
+
+WD-40 Company expects fiscal year 2009 net sales to grow 2%-8% to $323-$343 million. 
+The company expects earnings per share of $1.65 to $1.85 based on an estimated 16.6 million 
+shares outstanding. “These are very unusual times and we are aware that we may need to 
+do things differently,” Ridge said
+
+
+FY 2009 
+Guidance
+
+
+Oct 15, 2008
+
+
+FY 2009 
+Actual
+
+
+Oct 14, 2009
+
+
+Year-to-date net sales were $292.0 million, down 7.9% from the same period last year. 
+Diluted EPS of $1.58
+Source: FY 2009 press release
+
+
+Source: FY 2008 press release
+
+
+In fiscal year 2008, WD-40 Company expects net sales to grow 7%-10% to $329-$339 million. 
+The company expects net income of $31.1-$32.8 million in 2008, achieving earnings per share 
+of $1.83 to $1.93 based on an estimated 17.0 million shares outstanding.
+
+
+FY 2008 
+Guidance
+
+
+Oct 17, 2007
+
+
+FY 2008 
+Actual
+
+
+Oct 15, 2008
+
+
+Year-to-date net sales grew 3.0% to $317.1 million. Diluted EPS of $1.64. “Fiscal 2008 can be 
+characterized as the best of times and the worst of times,” said Garry Ridge.
+
+
+Source: FY 2008 press release
+
+
+Source: FY 2007 press release
+
+
+FY 2009 Actual vs. Expected
+
+
+FY 2008 Actual vs. Expected
+
+
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312509207924/dex991.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312508210967/dex991.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312508210967/dex991.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000119312507220295/dex991.htm
+“Family Tribal” Governance And 
+Management Concerns
+50
+
+
+Tribal Organization A Little Too Close For 
+Comfort…
+
+
+WD-40 is a small company with 495 employees. It touts its “tribe” members – reference to a close-knit group with 
+common values and a sense of belonging. 
+
+
+Source: WD-40
+
+
+
+https://tribe.wd40company.com/our-tribe/tribal-culture/
+51
+
+
+Recent Organizational Changes And Long-
+Term Company Direction
+
+
+We believe investors fail to see that the current long-tenured management team is rapidly aging (the average executive 
+age is 60 years old) and that organization changes could strain the Company. WD-40 has only 495 employees, and if it 
+
+
+cannot promote internally, will have to recruit outside talent. 
+
+
+Individual Date Change
+
+
+Rae Ann Partlo 12/10/2019
+To serve as the Company’s Principal Accounting Officer effective immediately. Ms. Partlo, age 55, will continue 
+
+
+to serve in her current role as Vice President, Corporate Controller, a position she has held since December 2013
+
+
+Garry Ridge 6/24/2019
+At the December 2019 annual meeting the board intends to appoint Garry Ridge as board chair. Mr. Ridge 
+
+
+currently serves as president and chief executive officer of WD-40 Company and is a member of the company’s 
+board of directors
+
+
+Steve Brass
+6/24/2019
+
+
+Steve Brass has been appointed to the role of president and chief operating officer of the company. Steve Brass 
+has been with the company since 1991 and most recently held the role of division president, Americas and chief 
+
+
+brand officer
+
+
+Patricia Olsem
+6/24/2019 Patricia Olsem has been promoted to the role of division president, Americas. Patricia Olsem has been with the 
+
+
+company since 2005 and most recently held the role of SVP and general manager of the United States
+
+
+Linda Lang 6/18/2019
+Linda A. Lang provided notice to the board of directors of WD-40 Company that she will not stand for re-
+
+
+election as a director at the Company’s December 2019 annual meeting of shareholders. Ms. Lang has been a 
+director of the Company since 2004 and she has served as Chair of the board of directors since 2016
+
+
+Michael L. Freeman 2/1/2019
+Retired as an officer and employee of WD-40 Company.  Immediately prior to his retirement, Mr. Freeman was 
+
+
+serving as the Company’s Chief Strategy Officer
+
+
+Recent Changes
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513219000058/wdfc-20191210x8k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000023/wdfc-20190624xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000023/wdfc-20190624xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000023/wdfc-20190624xex99_1.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000023/wdfc-20190624x8k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000020/wdfc-20190610x8k.htm
+52
+
+
+Insiders Have Limited Alignment And Sell 
+Stock While The Company Buys It
+
+
+Post financial crisis, share repurchases have intensified to unprecedented levels. Meanwhile, insider stock ownership 
+has plummeted. As a result, insiders have almost nothing at risk and limited alignment with shareholders
+
+
+Source: Company 
+proxy and financial 
+statements
+
+
+1995 2000 2008 2017 2018 2019
+Total Insider Ownership 
+
+
+(mm of shares)
+1.3 1.3 1.6 0.5 0.3 0.2
+
+
+% of Total 16.7% 8.2% 9.1% 3.6% 2.1% 1.9%
+
+
+CEO Ridge Ownership 3,392 71,003 182,155 83,958 89,715 94,392
+
+
+$0.0
+
+
+$50.0
+
+
+$100.0
+
+
+$150.0
+
+
+$200.0
+
+
+$250.0
+
+
+$300.0
+
+
+$350.0
+
+
+$400.0
+
+
+$0.0
+
+
+$5.0
+
+
+$10.0
+
+
+$15.0
+
+
+$20.0
+
+
+$25.0
+
+
+$30.0
+
+
+$35.0
+
+
+$40.0
+
+
+$45.0
+
+
+Annual Repurchases Cumulative Repurchases (RHS)
+
+
+Insiders Have Less And Less At Risk
+
+
+WD-40 Company Stock Repurchases
+53
+
+
+Repurchases In Context
+
+
+Spruce Point believes management has wasted significant shareholder capital repurchasing its shares at increasingly 
+excessive valuations. (See: valuation section) 
+
+
+Source: Company financial statements
+
+
+Date Cash From Ops Capex Free Cash Flow Repurchases
+2007 $51.7 $2.6 $49.1 $17.3 
+2008 $29.4 $5.8 $23.6 $17.7 
+2009 $34.6 $3.0 $31.6 $0.0 
+2010 $56.4 $1.8 $54.6 $0.0 
+2011 $30.0 $2.9 $27.1 $41.4 
+2012 $34.2 $3.8 $30.4 $39.8 
+2013 $51.6 $2.9 $48.7 $31.4 
+2014 $38.7 $4.1 $34.6 $42.8 
+2015 $55.1 $5.8 $49.3 $30.3 
+2016 $60.4 $4.4 $56.0 $32.1 
+2017 $55.6 $20.2 $35.4 $31.1 
+2018 $64.8 $12.4 $52.4 $22.6 
+2019 $62.9 $13.3 $49.6 $29.6 
+
+
+Q1 2020 $15.2 $6.0 $9.2 $6.0
+Total $640.6 $89.0 $551.6 $342.1
+
+
+62% of cash flow blown on 
+share repurchases
+54
+
+
+Absurd Bonus Calculations
+
+
+We illustrated how WD-40 insiders have used the corporate buyback in a period where they have sold a significant 
+amount of stock to reduce their ownership to record low levels. In addition, we believe insiders milk compensation 
+with loose pay practices. To illustrate, management recently adjusted its EBITDA bonus calculation for advertising 
+and sales promotion expense “to increase digital presence and build brand awareness”. Excuse our ignorance, but 
+
+
+how can this cost not reasonably be expected to form a part of the Company’s core operations?
+
+
+Source: Proxy Statement
+
+
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000054/wdfc-20191031xdef14a.htm
+55
+
+
+Chief Accounting Officer’s Past History With 
+Errors And Material Weaknesses 
+
+
+Spruce Point believes that investors should be concerned that Ms. Rae Ann Partlo, WD-40’s long-time Corporate 
+Controller, and now Chief Accounting Officer, came from Cymer Inc. Cymer, a manufacturer of light sources for the 
+
+
+semiconductor industry, which also was based in San Diego. During Ms. Partlo’s tenure at Cymer, it disclosed 
+accounting errors and a material weakness related to income tax accounting. This is interesting in light of the Company 
+
+
+disclosing provisions for uncertain tax in July 2019 that were used to lower EPS estimates by $0.63 cents.(1) WD-40’s 
+auditor also disclosed income taxes and the uncertain tax position as a “Critical Audit Matter” in the recent 10-K.(2)
+
+
+Source: WD-40 8-K
+
+
+Source: Cymer 2004 Annual Report
+
+
+Source: Cymer 2005 Annual Report
+1) “WD-40 Company To Record Reserve For Uncertain 
+
+
+Tax Position”, press release
+2) 10-K, p. F-2
+
+
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513219000058/wdfc-20191210x8k.htm
+
+https://www.sec.gov/Archives/edgar/data/897067/000110465905011471/a05-1735_110k.htm
+
+https://www.sec.gov/Archives/edgar/data/897067/000110465906016922/a05-21590_110k.htm
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000037/wdfc-20190726xex99_1.htm
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/105132/000010513219000050/wdfc-20190831x10k.htm
+56
+
+
+Who’s Auditing WD-40?
+
+
+Audit Partner Self-Proclaimed Focus on 
+Biotechnology and Healthcare
+
+
+Other Public Companies Audited By WD-40’s 
+Engagement Partner
+
+
+Source: PCAOBSource: Twitter
+
+
+Spruce Point believes its time for a new auditor to review WD-40’s books. PwC has been the auditor since at least 
+1972, but in reality has no idea how long its been checking the books. The current audit partner admits she is focused 
+
+
+on the biotechnology and healthcare industries, not chemicals or consumer products which is more germane to 
+WD-40’s business. Her other listed clients, Sophiris Biotech and Vital Therapies (now Immunic) are penny stock and 
+
+
+microcap companies. 
+
+
+
+https://pcaobus.org/engagement-partners/0023800310
+
+https://twitter.com/hyzer_pwc?ref_src=twsrc%5egoogle|twcamp%5eserp|twgr%5eauthor
+Valuation Extreme Leads To Horrible 
+Risk / Reward: Simple Downside Case
+58
+
+
+A Retail Geared Stock Promotion?
+
+
+Spruce Point is concerned to see WD-40’s CEO promoting his investment case on Jim Cramer’s Mad Money, a venue 
+that attracts many retail investors. The CEO offered a perplexing view on his Company, claiming they are in the 
+
+
+“memories” business. 
+
+
+“If you asked me what business we’re in, we’re in the memories 
+business. We create positive lasting memories by solving 
+problems in factories, homes and workshops of the world”
+
+
+Source: CNBC
+
+
+
+https://www.cnbc.com/video/2019/03/08/wd-40-ceo-were-launching-a-toolbox-friendly-smart-straw-next-year.html
+59
+
+
+Sell-Side Promotion
+
+
+WD-40 has just two analysts that form the “consensus” bullish view, a view we argue is based on incomplete analysis 
+and overly-optimistic assumptions. Recent optimism centers on oil input costs declining, which is a potential benefit 
+we address later, that is at least 6 months away, and won’t forestall extreme short and long-term demand destruction. 
+
+
+With an average sell-side price target of $217.50 (implying just 9% upside), we see an incredibly poor risk/reward. 
+
+
+March 27, 2020
+
+
+Source: TheFly
+
+
+Is this a joke? WDFC’s 
+multiple is already 
+
+
+astronomical
+
+
+With current volatility the 
+market can move 5% in a day. 
+An 8% pullback is laughable, 
+
+
+when the analyst hasn’t 
+quantified the potential 
+
+
+downside risk or why one 
+should buy when WDFC just 
+tapped a 15x increase in its 
+revolver vs. the last crisis. 
+
+
+Really? Has the analysts 
+investigated bloated 
+inventory channels?
+
+
+Decreasing moat and 
+model that won’t 
+
+
+prove resilient this 
+time around
+
+
+
+https://thefly.com/landingPageNews.php?id=3061576&headline=WDFC-WD-upgraded-to-Buy-from-Neutral-at-DA-Davidson
+60
+
+
+Baffling Expanding Valuation
+
+
+WD-40’s valuation is disconnected from reality, yet overly bullish sell-side analysts see room for more expansion? 
+As the world has faced an unprecedented slow-down, its valuation has increased even while its financial prospects and 
+
+
+condition deteriorate.  
+
+
+Enterprise Value / 1 Year Forward EBITDA Enterprise Value / 1 Year Forward Sales
+
+
+Source: Bloomberg
+
+
+Long-Term Average
+Long-Term Average
+61
+
+
+Perplexing Relative Valuation
+
+
+WD-40’s valuation relative to its own selected peers set of specialty chemical and auto part distributors exposes its 
+extreme valuation. Its valuation becomes even more expensive once it becomes evident that overly aggressive 
+
+
+estimates for 2020-2021 will be difficult to achieve.   
+
+
+Source: Bloomberg and Spruce Point adjustments
+Note: Peers from WD-40’s proxy statement 
+
+
+$ in millions, except per share figures
+
+
+Stock Adj LTM LTM LTM '19E-'20E Enterprise Value Net 
+Price Ent. Gross EBITDA FCF Sales EPS P/E EBITDA Sales Price/ Debt '20 Dividend
+
+
+Name (Ticker) 4/1/2020 Value Margin Margin Margin Growth Growth 2020E 2021E 2020E 2021E 2020E 2021E Book EBITDA Yield
+
+
+Prestige Brands (PBH) $37.07 $3,624 57.4% 35.0% 20.9% 0.0% 4.0% 12.5x 11.8x 11.1x 11.0x 3.8x 3.8x 1.6x 5.3x NA
+
+
+Quaker Houghton (KWR) $111.45 $2,812 34.6% 15.0% 5.9% 3.5% -1.2% 19.4x 14.7x 11.2x 9.5x 1.9x 1.8x 1.6x 3.3x 1.4%
+
+
+Ingevity (NGVT) $35.00 $2,725 37.3% 30.6% 12.4% 0.3% -1.5% 7.2x 6.1x 6.9x 6.2x 2.1x 2.0x 2.8x 3.2x NA
+
+
+Sensient Tech. (SXT) $41.20 $2,358 31.4% 17.2% 10.4% -9.5% -18.2% 17.1x 14.7x 15.7x 11.2x 2.0x 1.9x 2.0x 4.1x 3.8%
+
+
+Dorman Products (DORM) $49.93 $1,591 34.3% 14.7% 6.6% 3.8% 28.8% 15.2x 13.0x 9.3x 8.5x 1.5x 1.5x 2.1x -0.2x NA
+
+
+Innospec (IOSP) $64.41 $1,611 30.8% 13.3% 8.7% -3.8% -0.3% 14.1x 13.0x 8.7x 9.0x 1.1x 1.1x 1.7x 0.1x 1.6%
+
+
+American Vanguard (AVD) $13.46 $555 37.9% 10.7% -0.8% 8.7% 35.0% 21.4x 17.3x 9.8x 9.1x 1.1x 1.1x 1.2x 2.7x 0.6%
+
+
+Max 57.4% 35.0% 20.9% 8.7% 35.0% 21.4x 17.3x 15.7x 11.2x 3.8x 3.8x 2.8x 5.3x 3.8%
+
+
+Average 37.7% 19.5% 9.2% 0.4% 6.7% 15.3x 12.9x 10.4x 9.2x 1.9x 1.9x 1.9x 2.6x 1.8%
+
+
+Min 30.8% 10.7% -0.8% -9.5% -18.2% 7.2x 6.1x 6.9x 6.2x 1.1x 1.1x 1.2x -0.2x 0.6%
+
+
+WD-40 (WDFC) $188.60 $2,661 51.1% 21.0% 12.1% 1.3% 17.3% 38.3x 34.0x 27.6x 25.2x 6.1x 5.6x 17.8x 0.7x 1.4%
+
+
+
+https://www.sec.gov/Archives/edgar/data/105132/000010513219000054/wdfc-20191031xdef14a.htm
+62
+
+
+0.0x
+
+
+5.0x
+
+
+10.0x
+
+
+15.0x
+
+
+20.0x
+
+
+25.0x
+
+
+30.0x
+
+
+NGVT DORM IOSP AVD KWR PBH SXT WDFC -15.0%
+
+
+-10.0%
+
+
+-5.0%
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+SXT IOSP PBH WDFC NGVT KWR DORM AVD
+
+
+-30%
+
+
+-20%
+
+
+-10%
+
+
+0%
+
+
+10%
+
+
+20%
+
+
+30%
+
+
+40%
+
+
+SXT NGVT KWR IOSP PBH WDFC DORM AVD
+
+
+0.0x
+
+
+5.0x
+
+
+10.0x
+
+
+15.0x
+
+
+20.0x
+
+
+25.0x
+
+
+30.0x
+
+
+35.0x
+
+
+40.0x
+
+
+45.0x
+
+
+NGVT PBH IOSP DORM SXT KWR AVD WDFC
+
+
+Valuation Relative To Growth In Graphics
+
+
+Enterprise Value / 1 Year Forward EBITDA 2020E Revenue Growth
+
+
+Price / 1 Year EPS 2020E EPS Growth
+
+
+Average
+
+
+Average Average
+
+
+Average
+63
+
+
+Food For Thought: 
+Is WD-40 More Valuable Than Coca-Cola?
+
+
+Coca-Cola is an iconic world-wide American brand that also depends on its “trade secret” formula and brand equity. To put WD-40’s 
+extreme valuation in perspective, we compare the two. Not only does Coca-Cola have broader diversification, but also significantly higher 
+
+
+margins and growth potential despite being 88x larger. 
+
+
+$ in mm WD-40                  Coca-Cola
+
+
+LTM Sales
+% growth
+
+
+$420.6
+2.0%
+
+
+$37,079
+8.6%
+
+
+Gross Profit (1)
+% margin
+
+
+$214.8
+51.1%
+
+
+22,618
+60.7%
+
+
+EBITDA
+% margin 
+
+
+$93.0
+21.7%
+
+
+12,249
+32.9% 
+
+
+Free Cash Flow
+% margin
+
+
+$51.1
+12.1%
+
+
+$8,417
+22.6%
+
+
+EV / Sales 6.3x 7.1x
+
+
+EV / EBITDA 28.0x 22.0x
+
+
+Price / LTM EPS 48.0x 26.0x
+
+
+Source: Company filings and Bloomberg
+1) WD-40’s gross margins are adjusted as they are not comparable to other consumer product companies. Other companies include costs related to distribution of their 
+products in cost of products sold, whereas WD-40 excludes the portion associated with amounts paid to third parties for shipment to its customers from its distribution centers 
+and contract manufacturers and include these costs in selling, general and administrative expenses
+64
+
+
+55% - 60% Downside Risk
+
+
+$ in mm Consensus Spruce Point What Is the 2 Analyst “Consensus” Missing
+
+
+Net Sales
+growth %
+
+
+$429.0
+1.3%
+
+
+$387.0 -$408.0
+-3.0% to -8.0% 
+
+
+• Price increases from 2018-19 cannot be sustained with competing products at dollar 
+stores, WalMart and other key channels 50%+ lower
+
+
+• Significant foreign exposure, primarily to the U.K. where the Pound hit decade+ 
+lows. We estimate 37% of sales in the U.K. 
+
+
+• Continued disappointment in Asia/Pacific, notably China 
+• Bloated inventory in the channel, will be hard to push more
+• Long-term headwinds in auto, bike, and motorbike maintenance channel
+• Challenges selling new RV product into a stalled market
+• During the last crisis, WD-40 missed its projections by 13% at the midpoint and this 
+
+
+crisis is arguably more severe
+
+
+Gross Profit
+% margin 
+
+
+$236.0
+55.0% 
+
+
+$209.0 - $220.0
+54.0% 
+
+
+• Estimating too much near-term benefit from falling oil prices. WD-40 already has 90 
+days of unsold inventory, and oil will take another 120+ days to cycle through the 
+financials
+
+
+• Competitors also get the same oil benefit, and can become more price aggressive
+• Even now before lower oil prices, the competition is price discounting 
+
+
+EBITDA
+% margin 
+
+
+$93.0
+21.7%
+
+
+$64.5 - $76.0
+16.7% - 18.6% 
+
+
+• We don’t assume WD-40 takes any immediate cost reduction measures to SG&A
+
+
+Price Target
+% upside / (downside)
+
+
+$217.5
++15%
+
+
+$75.0 – $85.0
+(55% - 60%)
+
+
+• A generous 2x sales multiple (vs. 6x) for a low/no growth company under short and 
+long-term pressure or 12x EBITDA (vs 26x)
+
+
+• Pro forma for incremental revolver borrowing and 13.9m shares
+
+
+Commentary
+
+
+• Defensive in a 
+recession
+
+
+• Imminent oil 
+benefit
+
+
+• Multiple expansion
+
+
+• More exposed now than 
+ever to a crisis
+
+
+• Hole in balance sheet
+• Oil won’t save WD-40
+• Multiple contraction
+
+
+CEO Ridge often says, “these targets are probably wrong and roughly right”. We believe analysts targets are probably wrong, and Spruce 
+Point is roughly right that WD-40 will severely disappoint optimistic expectations.
+
+
+Source: Spruce Point analysis and research
+Appendix: What’s The Silver Lining?
+66
+
+
+Drop In Oil Prices Not A Near-Term Benefit
+
+
+Some bulls might argue that the unprecedented drop in crude oil is a massive windfall for WD-40. The Company says that 33% of its 
+cost of to produce a can is petroleum-based specialty chemicals. Of course, the problem is that low oil prices are coinciding with 
+
+
+severely depressed economic activity which we expect to materially depress sales. In addition, WD-40’s competitors (already pricing 
+products below WD-40) get the same benefit and can become even more price aggressive to take share. Moreover, the impact of oil 
+prices flowing through is upwards of 120 days, and that is after the Company must work through its record bloated finished goods
+
+
+inventory. Current inventory days outstanding are near 80.   
+
+
+Days Inventory Outstanding
+
+
+Source: Bloomberg
+
+
+10.00
+
+
+20.00
+
+
+30.00
+
+
+40.00
+
+
+50.00
+
+
+60.00
+
+
+70.00
+
+
+80.00
+
+
+90.00
+
+
+Q
+1 
+
+
+20
+07
+
+
+Q
+3 
+
+
+20
+07
+
+
+Q
+1 
+
+
+20
+08
+
+
+Q
+3 
+
+
+20
+08
+
+
+Q
+1 
+
+
+20
+09
+
+
+Q
+3 
+
+
+20
+09
+
+
+Q
+1 
+
+
+20
+10
+
+
+Q
+3 
+
+
+20
+10
+
+
+Q
+1 
+
+
+20
+11
+
+
+Q
+3 
+
+
+20
+11
+
+
+Q
+1 
+
+
+20
+12
+
+
+Q
+3 
+
+
+20
+12
+
+
+Q
+1 
+
+
+20
+13
+
+
+Q
+3 
+
+
+20
+13
+
+
+Q
+1 
+
+
+20
+14
+
+
+Q
+3 
+
+
+20
+14
+
+
+Q
+1 
+
+
+20
+15
+
+
+Q
+3 
+
+
+20
+15
+
+
+Q
+1 
+
+
+20
+16
+
+
+Q
+3 
+
+
+20
+16
+
+
+Q
+1 
+
+
+20
+17
+
+
+Q
+3 
+
+
+20
+17
+
+
+Q
+1 
+
+
+20
+18
+
+
+Q
+3 
+
+
+20
+18
+
+
+Q
+1 
+
+
+20
+19
+
+
+Q
+3 
+
+
+20
+19
+
+
+Q
+1 
+
+
+20
+20
+
+

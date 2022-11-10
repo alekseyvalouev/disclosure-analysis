@@ -1,340 +1,447 @@
-Muddy Waters Capital LLC 
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block 
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 1/17
 
 
+ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel
+Overvaluation
+Jan. 9, 2014 9:00 AM ET27 comments
+by: Kerrisdale Capital Management
 
 
-
-These Terms of Use govern current reports published by Muddy Waters Research and supersede any prior Terms of Use for older reports of Muddy Waters 
-Research, which you may download from the Muddy Waters Research’s website. 
-
-
- 
-The reports on this website have been prepared by Muddy Waters Capital LLC (“Muddy Waters Capital”).  We refer to Muddy Waters Research and Muddy Waters Capital collectively 
-as “Muddy Waters” and individually these entities are referred to as a “Muddy Waters Entity”.  You should assume that, as of the publication date of a Muddy Waters report, 
-Muddy Waters Related Persons (possibly along with or through its members, partners, affiliates, employees, and/or consultants), Muddy Waters Related Persons clients 
-and/or investors and/or their clients and/or investors have a short position in one or more of the securities of a Covered Issuer (and/or options, swaps, and other derivatives 
-related to one or more of these securities), and therefore stand to realize significant gains in the event that the prices of either equity or debt securities of a Covered Issuer 
-decline or appreciate. Muddy Waters Research, Muddy Waters Capital and/or the Muddy Waters Related Persons intend to continue transacting in the securities of Covered Issuers for 
-an indefinite period after an initial report on a Covered Person, and such person may be long, short, or neutral at any time hereafter regardless of their initial position and views as stated 
-in the research report published by Muddy Waters Research or Muddy Waters Capital. Neither Muddy Waters Research nor Muddy Waters Capital will update any report or 
-information on its website to reflect changes in positions that may be held by a Muddy Waters Related Person.  Each report specifies the publisher and owner of that report.  All reports 
-are for informational purposes only.  Under no circumstances should any of these reports or any information herein be construed as investment advice, or as an offer to sell or the 
-solicitation of an offer to buy any securities or other financial instruments. 
+It's certainly been a year to remember for investors, with the benchmark S&P 500 up 30%,
+the tech-heavy NASDAQ-100 up 37%, and many sectors, including cloud computing,
+rising further yet. Last year provided great opportunities to make money, as every dip in
+the market has been an excellent buying opportunity.
 
 
-Muddy Waters Research is an online research publication that produces due diligence-based reports on publicly traded securities, and Muddy Waters Capital LLC is an investment 
-adviser registered with the U.S. Securities and Exchange Commission.  The reports are the property of the applicable Muddy Waters Entity that published that report.    This website is 
-owned by Muddy Waters Research.  The opinions, information and reports set forth herein are solely attributable to the applicable Muddy Waters Entity and are not attributable to any 
-Muddy Waters Related Person (defined below) (other than the applicable Muddy Waters Entity). 
+But the tech euphoria has gotten out of hand in certain sectors. In many ways, the
+investing community seems to be repeating its mistakes from the irrational exuberance of
+the late 1990s. Many investors are buying stocks not due to fundamentals, but rather due
+to sexy-sounding stories of future growth combined with momentum: as in that previous
+internet tech era, people are again buying stocks principally because the stocks are
+already rising and have garnered investor enthusiasm.
 
 
-By downloading from, or viewing material on this website, you agree to the following Terms of Use. You agree that use of the research on this website is at your own risk. You (or any 
-person you are acting as agent for) agree to hold harmless Muddy Waters Research, Muddy Waters Capital and its affiliates and related parties, including, but not limited to any 
-principals, officers, directors, employees, members, clients, investors, consultants and agents (collectively, the “Muddy Waters Related Persons”) for any direct or indirect losses 
-(including trading losses) attributable to any information on this website or in a research report. You further agree to do your own research and due diligence before making any 
-investment decision with respect to securities of the issuers covered herein (each, a “Covered Issuer”) or any other financial instruments that reference the Covered Issuer or any 
-securities issued by the Covered Issuer. You represent that you have sufficient investment sophistication to critically assess the information, analysis and opinion on this website. You 
-further agree that you will not communicate the contents of reports and other materials on this site to any other person unless that person has agreed to be bound by these Terms of Use. 
-If you access this website, download or receive the contents of reports or other materials on this website on your own behalf, you agree to and shall be bound by these Terms of Use. If 
-you access this website, download or receive the contents of reports or other materials on this website as an agent for any other person, you are binding your principal to these same 
-Terms of Use. 
+In the case of ServiceNow (NYSE:NOW), we've already discussed the very low likelihood
+that the company can grow into its valuation. Longs are overestimating ServiceNow's
+addressable markets and software capabilities. Investors were shown another red flag last
+Thursday when NOW's Chief Technology Officer, Arne Josefsberg, who joined the
+business in October 2011 after 25 years with Microsoft, unexpectedly resigned from his
+position.
 
 
-This is not an offer to sell or a solicitation of an offer to buy any security. Neither Muddy Waters Research nor any Muddy Waters Related Person (including Muddy Waters Capital) 
-are offering, selling or buying any security to or from any person through this website or reports on this website. Muddy Waters Research is affiliated with Muddy Waters Capital. 
-Muddy Waters Capital is an investment adviser with the U.S. Securities and Exchange Commission and is not registered as investment adviser in any other jurisdiction. Muddy Waters 
-Capital does not render investment advice to anyone unless it has an investment adviser-client relationship with that person evidenced in writing. You understand and agree that Muddy 
-Waters Capital does not have any investment advisory relationship with you or does not owe fiduciary duties to you. Giving investment advice requires knowledge of your financial 
-situation, investment objectives, and risk tolerance, and Muddy Waters Capital has no such knowledge about you. 
+But enough has been said about ServiceNow's business prospects. We'd rather focus on
+the more basic similarities between the current environment and 1999. One of the most
+jarring flashbacks has been the return of extremely sloppy and dubious sell-side research.
+While we have not quite hit the excesses of the tech bubble yet, we're seeing disturbing
+reminders of that past mania.
 
 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment professional falling within Article 19 of the Financial 
-Services and Markets Act 2000 (Financial Promotion) Order 2005 (the “FPO”); or (b) high net worth entity falling within Article 49 of the FPO (each a “Permitted Recipient”).  In 
-relation to the United Kingdom, the research and materials on this website are being issued only to, and are directed only at, persons who are Permitted Recipients and, without 
-prejudice to any other restrictions or warnings set out in these Terms of Use, persons who are not Permitted Recipients must not act or rely on the information contained in any of the 
-research or materials on this website.  
+During the 1990's tech boom, abuses within equity research led to SEC enforcement
+actions, industry bans and a litany of new regulations to curtail the regular exchange of
+stock promotion for investment banking business. Reg FD was enacted in 2000, Henry
+Blodget was banned from the industry and "Chinese Walls" sprang up all over the industry.
 
 
-The research and reports presented on this website express the opinion of the applicable Muddy Waters Entity only.  Reports are based on generally available information, field research, 
-inferences and deductions through the applicable Muddy Waters Entity’s due diligence and analytical process. To the best of the applicable Muddy Waters Entity’s ability and belief, 
-all information contained herein is accurate and reliable, and has been obtained from public sources that the applicable Muddy Waters Entity believe to be accurate and reliable, and 
-who are not insiders or connected persons of the Covered Issuers or who may otherwise owe a fiduciary duty, duty of confidentiality or any other duty to the Covered Issuer (directly or 
-indirectly). However, such information is presented “as is,” without warranty of any kind, whether express or implied.  With respect to their respective research reports, Muddy Waters 
-Research and Muddy Waters Capital makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to 
-be obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion. All expressions of opinion are subject to change without notice, and 
-neither Muddy Waters Research nor Muddy Waters Capital undertakes to update or supplement any reports or any of the information, analysis and opinion contained in them.  
-
-
-In no event shall Muddy Waters Research, Muddy Waters Capital or any Muddy Waters Related Persons be liable for any claims, losses, costs or damages of any kind, including direct, 
-indirect, punitive, exemplary, incidental, special or, consequential damages, arising out of or in any way connected with any information on this website. This limitation of liability 
-applies regardless of any negligence or gross negligence of Muddy Waters Research, Muddy Waters Capital or any Muddy Waters Related Persons. You accept all risks in relying on 
-the information on this website. 
-
-
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the downloaded file, copies / images / reproductions, 
-or the link to these files) in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained research published by Muddy 
-Waters Research or Muddy Waters Capital in any manner other than by download from that link, you may not read such research without going to that link and agreeing to the Terms 
-of Use. You further agree that any dispute between you and Muddy Waters Research and its affiliates arising from or related to this report and / or the Muddy Waters Research website 
-or viewing the material hereon shall be governed by the laws of the State of California, without regard to any conflict of law provisions. You knowingly and independently agree to 
-submit to the personal and exclusive jurisdiction of the state and federal courts located in San Francisco, California and waive your right to any other jurisdiction or applicable law, 
-given that Muddy Waters Research and its affiliates are based in San Francisco, California. The failure of Muddy Waters Research or Muddy Waters Capital to exercise or enforce any 
-right or provision of these Terms of Use shall not constitute a waiver of this right or provision. You agree that each Muddy Waters Related Person is a third-party beneficiary to these 
-Terms of Use. If any provision of these Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give 
-effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Use remain in full force and effect, in particular as to this governing law 
-and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to this website or the material on this 
-website must be filed within one (1) year after the occurrence of the alleged harm that gave rise to such claim or cause of action, or such claim or cause of action be forever barred. 
+Ten years later, it appears that history is repeating itself. With the IPO and secondary
+offering markets as hot as they've been in ages, it seems that banks may again be putting
+deal-making ahead of quality research.
 
 
 
+https://seekingalpha.com/symbol/NOW
+
+http://www.sec.gov/Archives/edgar/data/1373715/000137371514000002/nowform8-k.htm
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
 
 
-Page 1 of 7
-EHTH: Booking Revenues Today that it Will Collect in 2029 
- 
- 
-We estimate that – prior to any tail revenue adjustment – it takes EHTH nine years to fully 
-collect each dollar of Medicare Advantage revenue it books.  With tail revenue adjustments, 
-EHTH’s collection period seemingly extends to 20 years.  EHTH’s future cash flows are 
-therefore highly speculative.   
- 
-Our first report detailed our view that EHTH’s revenue recognition practices are unduly 
-aggressive, particularly because the model is based on stickier cohorts that came through higher 
-quality channels than EHTH’s 2018 and 2019 cohorts.  Seemingly lost in the mix by investors is 
-the mismatch between EHTH revenues and cash collection.  EHTH’s highly aggressive revenue 
-recognition practices mask that its growth-at-all-costs strategy has transformed it from a 
-marginally profitable business into one that is destroying significant value while incinerating 
-cash. 
- 
-We calculate the cash collections to match receivables for the 2019 customer cohort will take 
-approximately nine years to come in, even using EHTH’s stated historical churn to estimate 
-member attrition. 
- 
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 2/17
 
 
+In the specific case of ServiceNow, analysts have gotten sloppy on one of the most basic
+inputs of equity valuation: the number of fully diluted shares of common stock. Visit a
+basic finance website such as Yahoo Finance or Google and you'll see 138.7 million
+shares for ServiceNow, leading to a market cap of about $8.1bn at the current $58 share
+price. You could forgive an ordinary retail investor for assuming that this information is
+accurate.
 
 
-
-Put another way, EHTH can expect to collect only about 64% of booked Medicare Advantage 
-revenue during the three-year period for which it estimates revenue. 
- 
-This timing mismatch is pushed out even further by EHTH’s separate “tail revenue” adjustment, 
-which we view as aggressive and oversized.  EHTH books MA tail revenue at the end of three 
-years, which may appear reasonable at first glance: this is the same timespan as the company’s 
-stated average MA life. But, given the small remaining member base at the time EHTH is 
-booking this additional revenue, they are still facing down an additional six years of uncollected 
-receivables before the tail revenue even begins to get collected.   
- 
+However, professional investors should always be aware of the total capital structure,
+rather than just the number of current outstanding shares, which is one of many inputs to
+determine valuation. In the case of young companies, particularly in technology, analysts
+can't overlook stock option grants to employees. Since tech startups tend to be short on
+cash and long on blue sky potential, they forgo paying higher compensation in the short-
+run and defer it via options. Usually this doesn't make too much of a difference in the long
+run, but if a company is particularly successful, and/or its shares perform exceedingly well,
+the impact of options grants given to executives and early-hire employees can be
+dramatic.
 
 
-Page 2 of 7
-As we detailed (and the promotional management has failed to acknowledge), future collections 
-have associated costs relating to member retention and revenue sharing.  Without incurring these 
-costs, EHTH would not be able to collect the cash to match its revenues.  However, by booking 
-future estimated gross cash inflows now and continuing to state there are no ongoing costs, 
-EHTH is amplifying a mismatch between its revenue and costs.   
- 
-We estimate that after factoring in ongoing costs, EHTH cash collections do not even meet the 
-initial receivable booked, to say nothing of the company’s later tail revenue adjustments.  We see 
-such forecasts as unmitigated accounting aggression by EHTH’s management, who obfuscate 
-with the help of the company’s black-box statistical model. 
- 
- 
-Understanding the Cash Collection Timeline 
- 
-EHTH assumes an average Medicare Advantage member life of approximately three years when 
-it books revenue for a given customer cohort.  However, gross cash inflows take much longer 
-than three years to match the revenue EHTH recognizes.  Since many members churn much 
-sooner than three years, long-lived members must, in theory, make up the difference.  We 
-calculate that as a result, it takes nine years for the revenue EHTH books from MA members to 
-be collected.  This long delay makes management churn assumptions ever more critical, even as 
-member churn has steadily elevated from Q4 2017 to Q1 2020. 
- 
-To calculate cash collections for each member that remains paying, we assume that, consistent 
-with company statements, EHTH’s Year One receipts per MA member are 40% of the LTV, paid 
-upfront.1  We use the unconstrained MA LTV of $1,089, since 7% of applications do not convert 
-to paying members, consistent with company commentary.  This yields Year One collections of 
-$435 for a member, assuming the member does not churn during the first three months of 
-enrollment.  If a member does churn in the first quarter of membership, EHTH is generally 
+ServiceNow has more than 25 million outstanding in-the-money stock options, in addition
+to almost 5 million restricted stock units ("RSUs") (2013 10-Q3). With the options having
+an average strike price of $8.12 and RSUs providing no future cash to ServiceNow's
+treasury at all, these 30 million issued shares represent a tremendous dilutive overhang to
+the company's share count. When these 30 million shares convert into common stock, the
+company will raise only ~$200 million in proceeds but be burdened with $1.75bn of newly
+traded common stock.
 
 
-																																																													
-1 Sell-Side Research Q&A with EHTH, March 2020 
+In reality there are 169 million shares of ServiceNow, or 165.4 million using the treasury
+stock method, rather than the 139 million you see reported at sites such as Yahoo or
+Google. And it's excusable that these free finance sites are wrong; you get what you pay
+for. This is why an investor should always check a company's filings rather than simply
+trusting a free website's computer-generated financial information.
 
 
-Page 3 of 7
-subject to full commission claw backs, which we also account for.2  Commissions relating to 
-Years Two, Three, and beyond of a member’s plan life are equal to each other, so we split the 
-remainder of the $1,089 unconstrained LTV evenly between Years Two and Three of the 
-average customer life.  This yields $327 in cash collections per remaining member for each year 
-after Year One.  
- 
-Per the company’s disclosures, only a fraction of members remains by the end of Year Three, 
-which slows the pace of gross cash inflows relative to the three-year average MA life.  To arrive 
-at a company-favorable churn estimate, we use EHTH figures.  First, we suppose 7% of 
-approved applicants do not ever become paying members.  Then, we use EHTH’s stated yearly 
-churns to derive the proportion of MA members leaving the platform each month.  Although we 
-believe both the numerator and denominator of the company’s churn calculation are aggressive 
-(see our April 8, 2020 report), we use these numbers in the absence of more accurate disclosures 
-from the company.  Translating our month-over-month churn assumptions into annual churn 
-along the lines of the company’s presentation, our estimates remain comparable.3 
- 
+It's less excusable when professional equity research analysts, trained at top business
+schools and working at prestigious investment banks, are no more reliable than Yahoo
+Finance. We first noted a year ago that several bulge bracket analysts were overlooking
+the option pool. We figured that analysts would quickly correct what we figured was merely
+a simple oversight.
 
 
 
+http://www.sec.gov/Archives/edgar/data/1373715/000137371513000101/now-2013930x10q.htm
+
+https://seekingalpha.com/article/1101901-servicenow-disaffected-customers-mark-the-peak-of-its-hype-cycle
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
 
 
-Combining our estimates of cash collections per paying member per year with estimated member 
-churn yields a nine-year payback period for EHTH’s booked revenues.  Such a repayment 
-horizon stretches significantly beyond what the company’s three-year average life estimate 
-suggests to investors, which, in our view, highlights the aggressive assumptions of EHTH’s 
-revenue recognition. 
- 
-EHTH generates cash corresponding to its tail revenue only from members who still remain in 
-Year Ten onward.  We forecast 24 years of total life for the cohort, which is company-favorable, 
-given the average 65-year-old American can expect to live an additional 19.2 years.4  Even under 
-these generous assumptions, tail revenue cash collections only amount to $227 per member,  or 
-22.4% of the initial receivable booked.  To the extent that actual churn is higher than what 
-EHTH forecasts, cash collections will struggle to match booked tail revenues. 
- 
- 
-  
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 3/17
 
 
-																																																													
-2 EHTH Investor Relations representative, March 2020 
-3 EHTH computes churn as a percentage of the company-defined metric Initial Paying Members, and it bases its 
-calculations on its own estimates in addition to historical data. Source: EHTH Q4 2019 Earnings Call Presentation, 
-p. 14 
-4 https://www.ssa.gov/oact/STATS/table4c6.html 
+But it's now been more than a year, and analysts are still willingly sticking with their clearly
+inaccurate numbers. Numerous banks continue to mislead clients with wildly inaccurate
+share counts and market capitalizations for ServiceNow.
 
 
-Page 4 of 7
-How Tail Revenue Adjustments Work 
- 
-For each MA member cohort, EHTH books revenue twice.  The first time is when an application 
-is approved by CMS.  At this time, the company records revenue per member equal to the 
-constrained LTV, which was $1,013 at year-end 2019.5  However, the company also maintains 
-that it is in a position to capture revenue in excess of the LTV, owing primarily to two factors.  
-First, a small, residual “tail” of customers persists long enough that commissions received 
-exceed what the receivables balance implies.6  Second, the company’s MA commission rates for 
-existing members have grown alongside increases in CMS-mandated maximum commission 
-rates.  EHTH books tail revenue adjustments to account for this additional purported customer 
-longevity and the higher commission rates.  
- 
-We understand that historically, EHTH only made revenue adjustments for customer lives once 
-all receivables had been collected.7  As we explain supra, this collection period for the initial 
-revenues booked lasts approximately a decade.  Given that no EHTH Medicare Advantage 
-cohort of size has reached that age, eHealth’s revenue adjustments for MA were historically 
-modest: $917,000 in 2017 and -$124,000 in 2018.8  However, in Q4 2019, EHTH executed a 
-change of policy.  It booked all estimated tail revenue for cohorts aged three years or more, $50.8 
-million, in one period.9   
- 
-The company’s stated reasoning for beginning to book tail revenue was that member churn 
-becomes more predictable after the three-year average life elapses.  But this assertion appears 
-unsupported by recent developments at EHTH.  As we laid out in our initial report, member 
-churn and the company’s customer profile are markedly worse than those of the older cohorts the 
-company is relying on.   
- 
-We believe that EHTH has now decided to book an additional ~15 years of forecasted 
-commissions in order to squeeze further revenue growth out of their customer base.  In our view, 
-plucking backward-looking estimated revenues from ever further into the future only amounts to 
-a heightening of EHTH’s aggressive practices, even as those future revenues become harder to 
-collect. 
- 
- 
-Management Continues to Misrepresent the Business 
- 
-In a recent conference appearance, EHTH CEO Scott Flanders continued to defend the 
-company’s aggressive use of LTVs, stating, “[ASC] 606 accounting was mandated for all 
-participants in this marketplace because when we enroll a senior, yes, if no action is taken, the 
-commission is payable in perpetuity.”10  However, we view this response as a misdirection: MA 
-plan members pay monthly premiums and can freely switch their plans for three months of the 
+Data to calculate the correct share count is easily found in ServiceNow's latest 10Q-3
+2013:
 
 
-																																																													
-5 EHTH 2019 10-K, p. 48 
-6 EHTH Q3 2019 Earnings Call 
-7 Sell-side research report, February 2020 
-8 EHTH 2019 10-K, p. 85 
-9 EHTH 2019 Q4 Earnings Call Transcript 
-10 RBC Capital Markets Global Healthcare Conference, May 2020 
+Here, we see 138.7 million shares of common stock, 4.8 million Restricted Stock Units
+(RSUs), and 25.5 million outstanding stock options. RSUs cost employees nothing to
+exercise, so those are virtually assured to turn into common stock as they vest. Now let's
+check the outstanding options to see where their strike price is on average:
 
 
-Page 5 of 7
-year.  Many businesses with similar opt-out customer arrangements recognize sales as they come 
-in, rather than booking the tortured, multi-decade revenue forecast that EHTH does.  Publicly 
-traded gym chains, commercial landlords, and home security providers generally recognize 
-revenues in the period they are received.  An example of a cash burning business that booked 
-estimates of future income in current periods is Enron.  Given EHTH’s voracious appetite for 
-cash and highly speculative future cash flows, what could go wrong? 
- 
-Moreover, EHTH invests a significant sum in making sure that “no action is taken”: two former 
-EHTH employees informed us that the company instructs agents to make outreach calls to 
-prevent members from switching.11 
- 
-The sheer number of seniors leaving EHTH is troubling.  This is evidenced by the company’s 
-growing churn rate, which surpassed 50% in Q1 2019 for the first time since ASC 606 adoption.  
-Management downplays this trend, but EHTH’s churn has increased over ten percentage points 
-YoY: 
- 
+Given that the average exercise price for the options is $8, compared to a current share
+price of $58, and even the most recently granted round of options are still well in the
+money, it should be assumed that the vast majority of these options will turn into common
+stock as well. Thus, adding together the 138.7 million common shares, the 4.8 million
+RSUs, and 21.9 million dilutive impact from the options (using the treasury method), we
+arrive at 165.4 million fully diluted outstanding shares, which results in a market cap of
+$9.6bn. Not so difficult.
 
 
- 
- 
-In our view, it is unjustifiable for EHTH to book nine years of estimated customer cash receipts 
-upfront, particularly when it is losing more than half its customers in the first year.  At the same 
-time, the company’s blue-sky forecasts leave no room for the possibility that EHTH’s all-
-important carrier relationships fray amid the declining customer lead quality furnished to 
-insurers. 
- 
-Then, there is the matter of the years of costs the company continues to ignore as it recognizes its 
-forecasted revenue.   
- 
- 
-After Adding Ongoing Costs, Receivables Cannot be Recovered 
- 
-EHTH claims there are no ongoing costs to the business.  As we pointed out in our initial report, 
-this fiction is foundational to the company’s optically profitable growth, allowing it to recognize 
-years of revenue while ignoring the continued expenses needed to service members and the 
-EHTH platform. 
- 
-We identified approximately $75 of ongoing costs per member per year over the life of the 
-customer relating to customer support, revenue sharing agreements, accounting and back office, 
-information technology, and other expenses needed to be able to continue to operate the business 
-to service and support existing members.   This $75 per member per year is material when 
-viewed alongside not just the three-year stated customer life, but also against the nine years of 
-estimated cash collections underlying the LTV.   We booked these liabilities against the LTV to 
-calculate variable income per member.  Over the nine-year period in question, total variable 
-																																																													
-11 EHTH Former Executives A and C 
+By comparison, below is a quick tour around various investment banks' reports for the
+company. These figures were pulled from the batch of October 23-24th reports following
+NOW's Q3 2013 results.
 
 
-Page 6 of 7
-income does not even meet the initial receivables balance booked. 
- 
+Wells Fargo:
 
 
- 
- 
-We believe management’s refusal to acknowledge ongoing costs is intentional, and it masks the 
-fact that EHTH is a fundamentally value destructive business.  In our view, management shows 
-their brazenness when EHTH goes on to book further tail revenues despite failing to reach its 
-stated MA LTV. 
- 
- 
-Flawed and Misleading Accounting Masks Economic Reality 
- 
-We do not believe the Company has the data or history to justify booking sales as far away as 
-2040, especially as EHTH has only been serving MA members in meaningful size for four years.  
-Rather, EHTH’s adjustments are not only aggressive, as we demonstrated above, but they benefit 
-from the confusion introduced by management’s statistical model.  In our view, EHTH is a stock 
-promotion built on the back low quality (high churn) sales growth, reporting profits that do not 
-properly match revenue to ongoing costs, and resulting in both the management and company 
-issuing equity on the back of this short-termism and misrepresented business. 
+
+https://static.seekingalpha.com/uploads/2014/1/8/559143-13891947586249692-Kerrisdale-Capital-Management_origin.jpg
+
+https://static.seekingalpha.com/uploads/2014/1/8/559143-13891947586249692-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
 
 
-Page 7 of 7
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 4/17
+
+
+Wells Fargo claims 137.5 million shares. Did they simply lift this figure from Reuters?
+
+
+Barclays:
+
+
+Barclays claims 136.8 million shares. At least Barclays can blame FactSet Fundamentals
+for getting it wrong, perhaps?
+
+
+Credit Suisse:
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 5/17
+
+
+Credit Suisse follows Barclays' lead with a similarly erroneous 136.8 million figure.
+
+
+Deutsche Bank:
+
+
+Deutsche Bank diverges from the others using a share count of 147 million (still well off
+the correct figure) to arrive at its mistaken market cap, which they make sure to provide in
+both dollars and Euros.
+
+
+Susquehanna:
+
+
+
+https://static.seekingalpha.com/uploads/2014/1/8/559143-1389194845917822-Kerrisdale-Capital-Management_origin.jpg
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 6/17
+
+
+Susquehanna follows the example of several other firms that really like that 136.8 million
+share count figure.
+
+
+Stephens:
+
+
+Notice that Stephens specifically characterizes its share count as "fully diluted." Not only
+does Stephens attach itself to the inaccurate 136.8 million figure, but by including the
+words "fully diluted," Stephens earns itself a special spot within the ServiceNow equity
+research hall of shame.
+
+
+Janney:
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 7/17
+
+
+Janney, not bucking consensus, uses the faulty 136.8 million figure as well.
+
+
+The preceding reports were prepared before the release of NOW's 10-Q3 2013 on
+November 4th. Yet this does not excuse the oversight of the option pool. As of 10-Q2,
+NOW still had 136.8 million common shares, 27.5 million options with an average strike
+price of $7.16, and 3.9 million RSUs. At a $52.96 share price, this would equate to 164.5
+fully diluted million shares, still nowhere near the figures cited in the brokerage reports.
+
+
+Furthermore, the justification that options are "anti-dilutive" given NOW's ongoing net
+income losses is ridiculous. Option grants are not free, nor does the conversion right
+disappear, just because a business isn't profitable.
+
+
+We also want to be clear that there are a handful of firms that do list the correct share
+count for ServiceNow. In contrast with all the erroneous tables above, here is a table from
+JMP Securities, for example, whose analysts actually did their math properly and account
+for the upcoming new shares:
+
+
+Bravo JMP! For correctly calculating something as basic as shares outstanding!
+
+
+It is important to note that investment banking analysts normally are capable of
+determining the correct number of shares outstanding in a company's stock. It's perplexing
+that the majority of the Street won't or can't get the number right here. It truly is unusual to
+see so many firms be this wrong about something this basic and remain mistaken for such
+a long period of time. By contrast, check out the below November 19th, 2013 price target
+upgrade from Citigroup's Yaron Werber:
+
+
+
+http://www.sec.gov/Archives/edgar/data/1373715/000137371513000061/now-2013630x10q.htm
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 8/17
+
+
+Werber digs far enough into the weeds to calculate that a previously dilutive convertible
+note/warrant package is being retired prematurely, and as such, the consensus view of the
+outstanding share count is too high. Not only had the Street (correctly) factored in a
+previously announced potential dilutive overhang, but now an analyst realized the
+overhang will have been cleared and in turn adjusted the price target accordingly. This is
+the sort of analysis we expect from professional investment analysts, which makes the
+grossly misleading ServiceNow coverage all the more ludicrous.
+
+
+Why are the Analysts so Wrong?
+
+
+The bigger question may indeed be why analysts are unable or unwilling to factor in 27
+million shares, or $1.55bn worth of capitalization, of way-in-the-money soon-to-be
+common stock. Previously, you could have ascribed the error to mere sloppiness. Perhaps
+everyone was pulling their numbers from Yahoo Finance or otherwise not digging into the
+SEC filings enough to pull out the real number of outstanding shares.
+
+
+But since we launched our coverage on ServiceNow more than a year ago and highlighted
+the fact that the majority of analysts were using grossly inaccurate share counts, it seems
+harder to attribute the misstatement to mere sloppiness at this late date. A simple
+oversight like that, once pointed out, is easy to correct.
+
+
+In theory, there is a so-called "Chinese wall" between the parts of investment banks that
+analyze companies and the parts of investment banks that earn fees from companies by
+providing them services such as IPO and secondary underwriting advisory. In practice,
+however, it is often questionable whether or not there is much separation between the
+research and banking arms of financial firms.
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 9/17
+
+
+Take, for example, the recent Evoke Pharma IPO (NASDAQ:EVOK). Aegis Capital was
+the sole bookrunner for the Evoke IPO, no doubt earning a healthy fee for its services.
+Earlier this month, following the IPO, Aegis' biotech analyst launched coverage for Evoke,
+then trading at $8, with a jaw-dropping $60 price target. Needless to say, a 650% upside
+target raises eyebrows, and the more conspiratorially-minded person might draw a
+connection between Aegis' ambitious price target and Aegis' earning of Evoke's IPO fees.
+Any company considering Aegis' IPO services in the future will likely recall the
+underwriter's most favorable research opinions for IPOs it has recently underwritten. If you
+were seeking to define the phrases "perverse incentive" or "moral hazard" in a business
+textbook, this sort of example would come to mind.
+
+
+Historically, the "wall" between investment research and banking has often resembled
+clear cellophane as opposed to anything reliably separating the two divisions. During the
+last tech boom, CEOs were openly telling analysts to raise their investment ratings before
+they'd consider doing banking business with the analyst's firm. For example, Bernie
+Ebbers, former CEO of MCI WorldCom, was asked if he'd do a banking deal with Merrill
+Lynch. Ebbers replied, "No. We have to have a better rating before Merrill Lynch would do
+the investment banking." This doling out of banking fees based on investment research
+ratings was common practice, as former telecoms analyst Dan Reingold, in his book,
+recounted: "Bernie [Ebbers] wasn't one to mince words. He simply said aloud what others
+thought to themselves."
+
+
+Later on during the cycle, Jack Grubman, Salomon Smith Barney's former rock star
+telecom analyst, was asked by Salomon's president to "take a fresh look" at his long-
+standing negative opinion on AT&T. Grubman soon upgraded AT&T shares. Seemingly as
+a result, Salomon reaped lucrative fees from a deal involving an AT&T wireless subsidiary
+spin-off. Grubman, for doing his part to generate banking business, was able to leverage
+his upgrade to get his employer to donate $1 million to the 92nd Street Y so that Grubman
+could get his children accepted into an exclusive Manhattan nursery school.
+
+
+After examples like this, it's no wonder that market participants began to have doubts
+about the independence of Wall Street research. Former New York Attorney General Eliot
+Spitzer confirmed people's worst fears when his investigation hit the mother lode of
+wrongdoing at Merrill. Among internal emails at Merrill relating to Goto.com, a stock they
+had a "buy" rating on, Spitzer found one where an investor emailed Merrill about the
+company: "What's so interesting about GOTO except banking fees????" A Merrill
+research analyst replied: "nothin." Or from one Merrill analyst to another: "I don't want to
+be a whore for f-ing management. We are losing people money and I don't like it. john and
+
+
+
+https://seekingalpha.com/symbol/EVOK
+
+http://www.renaissancecapital.com/ipohome/news/gastrointestinal-biotech-evoke-pharma-sets-terms-for-%2427-million-ipo-15745.html
+
+http://www.benzinga.com/analyst-ratings/analyst-color/13/11/4092370/update-aegis-capital-initiates-coverage-on-evoke-pharma-
+
+http://www.amazon.com/Confessions-Wall-Street-Analyst-Information/dp/0060747706
+
+http://www.nytimes.com/2002/11/14/business/wall-st-and-the-nursery-school-a-new-york-story.html
+
+http://nypost.com/2002/04/09/spitzer-guns-for-merrill/
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 10/17
+
+
+mary smith are losing their retirement because we don't want [the CEO of Goto.com] to be
+mad at us." In another example, former Merrill analyst Henry Blodget referred to a stock
+he had a buy rating on as a "piece of s--t" in an internal e-mail.
+
+
+Despite all the talk of a wall between investment research and banking fees, it's clear
+where Wall Street's biases lie. Which brings us back to ServiceNow, as NOW has been a
+most prodigious generator of banking fees itself. A cynical person might suspect that
+ServiceNow's propensity to unceasingly emit new stock and debt, and in the process offer
+lucrative fees to investment bankers, is in some way tempting analysts to look for the
+bright side of ServiceNow's rather cloudy forward business prospects.
+
+
+Hypothetically, one great way for analysts to juice up their analysis and be able to have
+their models spit out more optimistic price targets would be to undercount, inadvertently or
+intentionally, the number of outstanding shares. For ServiceNow, by ignoring the existence
+of 27 million fully diluted shares, analysts have an extra $1.55bn of breathing room to use
+when constructing their valuation estimates.
+
+
+For a look at this in action, consider Janney's valuation model from its October 7th
+Initiating Coverage report for ServiceNow:
+
+
+Janney employs a discounted cash flow analysis model. Their model assumes optimistic
+growth rates of free cash flow, rising from $8 million this year to $74 million by 2015, $339
+million in 2017, and all the way up to more than $1.6 billion by 2022. Obviously, it seems a
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 11/17
+
+
+little ridiculous to forecast a 132% compound growth rate of cash generation over the next
+five years when in fact ServiceNow's free cash flow generation has been virtually nil over
+the past several years and has shown little sign of turning the corner in recent quarters.
+
+
+But even granting this most optimistic of forecasts, Janney's model still only deduces a net
+present value of $53.11 per share ($6.8bn of net present value plus cash). This doesn't
+seem bad (or particularly good) given that the stock is trading at $58. But when you realize
+that Janney only accounted for 134 million shares, contrasted with the 165.4 million actual
+fully diluted shares of ServiceNow, you have to re-run the math. Dividing that $6.8bn of net
+present value plus the cash balance of $347m by 165.4 million fully diluted shares, you
+see that Janney's real price target is near $43! Even if ServiceNow manages to meet
+Janney's lofty operating growth targets, the stock is still overvalued by 25% at present
+levels!
+
+
+And Janney is far from the most optimistic of analysts on the street. Other more bullish
+firms have much more outlandish price targets. For ServiceNow, which generates almost
+no cash and loses money on a net income basis despite having conquered close to a
+quarter of the market share in its rather limited addressable market (particularly since
+peak penetration is likely only around 50% given security concerns around using a cloud-
+based service for sensitive data), it's hard to fathom what sort of upside analysts are
+fantasizing about.
+
+
+How It's All Going To End
+
+
+ServiceNow has a reasonably good ITSM product, and it will likely continue gaining share
+in that market. From its current 30% market share (Gartner estimates market size near
+$1.5bn), NOW could, with good operating performance, get to maybe 50% market share
+as more clients move from BMC's legacy solutions to ServiceNow's cloud offering.
+
+
+The touted great upside of the IT operations and PaaS is simply unlikely to occur. Analysts
+are hyper-focused on the platform area because ServiceNow's current operations cannot
+come close to justifying the company's daunting $9.6bn market cap. We don't believe the
+platform business is sufficiently promising to justify the sky-high valuation multiples.
+
+
+ServiceNow insiders have been dumping shares, issuing dilutive financings, and waiving
+lock-up commitments for IPO shares in order to, it seems, squeeze as much cash as
+possible out of its overinflated share price. Wall Street analysts complacently keep offering
+up fanciful research opinions including a basic $1.6bn misstatement of ServiceNow's
+market cap, while the banking teams keep collecting fees off ServiceNow's latest public
+offerings. Needless to say, this probably won't end well for investors late to the party.
+
+
+
+https://seekingalpha.com/article/1006341-servicenow-decelerating-growth-limited-market-size-point-to-large-downside
+
+https://seekingalpha.com/article/1042731-servicenow-insiders-dumping-shares-indicates-overvaluation
+
+http://www.sec.gov/Archives/edgar/data/1373715/000119312513440351/d625922d8k.htm
+
+http://www.businesswire.com/news/home/20121109006088/en/ServiceNow-Announces-Partial-Release-Lock-up-Agreement-Director#.UsxcubQ2_P8
+5/23/2018 ServiceNow: Widespread Mistakes In Analyst Share Counts Fuel Overvaluation - ServiceNow (NYSE:NOW) | Seeking Alpha
+
+
+https://seekingalpha.com/article/1935851-servicenow-widespread-mistakes-in-analyst-share-counts-fuel-overvaluation 12/17
+
+

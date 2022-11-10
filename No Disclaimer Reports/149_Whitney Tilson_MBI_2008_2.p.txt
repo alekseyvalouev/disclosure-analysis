@@ -1,320 +1,217 @@
-Muddy Waters Capital LLC 
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 1/17
 
 
-	
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as follows. To be authorized to 
-access such reports, you must agree to these terms, regardless of whether you have downloaded its reports directly from 
-the Muddy Waters Research website or someone else has supplied the report to you without authorization from Muddy 
-Waters Capital. 
+MBIA's GIC Exposure Could Trigger a Liquidity Crisis
+Jun. 28, 2008 5:57 PM ET37 comments
+by: Whitney Tilson
 
 
- 
-By downloading from, or viewing material on the Muddy Waters Research website, you agree to the following Terms of Service. 
-You agree that use of Muddy Waters Capital LLC’s research is at your own risk. In no event will you hold Muddy Waters Capital 
-LLC, Muddy Waters, LLC or any affiliated party liable for any direct or indirect trading losses caused by any information on this 
-site. You further agree to do your own research and due diligence before making any investment decision with respect to securities 
-covered herein. You represent that you have sufficient investment sophistication to critically assess the information, analysis and 
-opinion contained herein. You further agree that you will not communicate the contents of this transcript to any other person unless 
-that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
-other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
-with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
-and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
-to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
-declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
-and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
-or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
-only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
-evidenced in writing. 
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
-"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
-and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
-herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
-insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
-the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
-Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
-information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
-analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
-undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
- 
-You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
-in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
-Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
-going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
-reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
-regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
-jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
-law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
-enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
-these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
-should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
-of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
-of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
-herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+MBIA was down 26% this week -- and I'm surprised it wasn't more, given the news last
+Thursday and Friday. 
 
 
-Page 1 of 6
-August 29, 2016 
- 
+In Bill Ackman's presentation last Wednesday (which is posted at
+www.valueinvestingcongress.com), he revealed an area of exposure for many of the bond
+insurers that I hadn't previously been aware of: Guaranteed Investment Contracts (GICs).
+I knew MBIA had an investment management division that sold GICs, but didn't fully
+understand their structure and how toxic this business can be in the event of a
+downgrade. It's really quite ironic that everyone (myself included) has been so focused on
+the company's structured finance exposure, but something out of left field like GICs might
+be what triggers a liquidity crisis that takes the company under. 
 
 
-STJ: Still Non-Secure 
- 
- 
-This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
-response contained very little substance, and actually included admissions to several key points.  
-There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
-ecosystem, and our belief in the need for recall and remediation. 
- 
-There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
-address the substance.1 
- 
- 
-1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
-vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
-bizarre statement because:  
- 
+Allow me to explain what a GIC is. Let's say a municipality like Wichita does a $100 million
+bond offering to build some schools (or bridges or whatever). Immediately after the
+offering, it has $100 million in the bank, but it doesn't need all of the money up front.
+Instead, as the schools are built, it pays the costs over time -- let's say $25 million per
+year. 
 
 
-• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
-near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
-connected to the devices for a continuous time period.3 
- 
+MBIA (and many other bond insurers) of course have relationships with countless
+municipalities, so they set up investment management divisions to tap these relationships
+and help municipalities invest the money they raised so they could earn some extra return.
+(In many cases, the bond insurer offers a package deal in which it wraps the bonds and
+also invests the proceeds -- possible illegal tying, but that's another story.) The produce
+the bond insurers sold to the munitipalities was a guaranteed investment contract, which
+was of course marketed as 100% safe, secure, liquid, triple-A, blah, blah, blah (you see
+where this story's going, don't you? Think auction rate securities...).  
 
 
-• It completely ignores our comments about broadcasting an attack through a software-
-defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
-(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
-Because the security on the Merlin@home device is seemingly so poor, it would be 
-relatively easy for an attacker to develop software that runs on a laptop, communicates 
-with the implantable devices, and is broadcast from a more powerful antenna.  We 
-discussed SDRs twice in the report, referring to a “software defined radio”.4  
-
-
- 
-2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
-the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
-admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
-believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
-that its updates have addressed these issues. 
- 
-
-
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home™ devices (i.e., those that have not been updated through 
-the automated remote upgrade process).” 
+A GIC would typically be structured to pay out over time -- in the case of the example
+above, Wichita would give MBIA the $100 million it had just raised and in return MBIA
+Asset Management would give Wichita a GIC that promised to pay out $25 million per
+year plus interest a tiny bit higher than what Wichita could have earned by putting it in
+Treasuries. MBIA Asset Management (part of the publicly traded holding company) would,
 
 
 
+http://www.valueinvestingcongress.com/
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
 
 
-                                                             
-1 This report is written for investors, and is deliberately non-technical.  
-2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
-shortened compared to laboratory range in which the device is not implanted.  
-3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
-these (and other) attacks against STJ devices could be executed on a large scale basis. 
-4 See Report, p. 15. 
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 2/17
 
 
-Page 2 of 6
-If STJ were to expressly state that its software updates addressed all of the findings, such a 
-statement would strike us as completely wrong.  STJ seems not to understand that many of the 
-issues identified by MedSec on the Merlin@home device cannot be addressed with software 
-updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
-The large number of available devices, combined with the seeming lack of protection makes the 
-job of an adversary much easier. 
- 
-Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
-drives.   
- 
- 
-3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
-ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
-used between devices does not sufficiently authenticate the end points.  In other words, 
-authentication was not built in to the communications protocol used between devices.  
- 
- 
-4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
-communications it sends.  This appeared to be an attempt to impress readers with a specific 
-purported security feature of the device. 
- 
+in turn, have MBIA's insurance sub provide 100% financing, taking advantage of its AAA
+rating (and taking all of the risk; more non-arm's-length dealings...), and the MBIA holding
+company would simply pocket the spread. Finally, MBIA would invest the money in various
+securities, attempting to match their duration with the expected payout timetables of the
+GICs.  
 
 
-“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
-applicable national data privacy and security requirements in all countries where the 
-Merlin.net PCN is used.” 
+A nice feature of this set-up for MBIA was that it sold a steadily increasing amount of
+GICs, so it could pay off maturing GICs with incoming cash from new GICs -- not a Ponzi
+scheme, because there are assets backing it up, but the liquidity characteristics of the GIC
+business allowed MBIA, if it wanted (or if it got sloppy or greedy), to invest the GIC assets
+in illiquid and/or long-dated securities. 
 
 
- 
-In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
-performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
-"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
-the most basic encryption protections expected to protect patient data.5 
- 
- 
-5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
-attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
-video is available at https://vimeo.com/180593205 
- 
- 
-We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
-following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
-polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
-portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
-Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+This was a wonderful business for everyone as long as markets were tranquil, assets
+were liquid and held their value, MBIA's customers continued to buy new GICs and,
+critically, MBIA maintained its AAA rating. None of these things are true today, however.  
 
 
- 
-Credibility Assessment: St. Jude Medical (STJ) 
+In particular, many GICs have a clause that says if MBIA is downgraded, it had to
+immediately repay or post "eligible collateral" on most or all of the GIC. Sure enough,
+MBIA was downgraded five notches by Moody's last Thursday and, as a result, on Friday
+after the close, MBIA released the following statement:
 
 
-27 August, 2016 
-                                                             
-5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
-6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+As a result of the downgrade to A2, MBIA expects that it will require $2.9 billion to
+satisfy potential termination payments under Guaranteed Investment Contracts
+(GICs). In addition, MBIA expects to be required to post approximately $4.5 billion in
+eligible collateral to satisfy potential collateral posting requirements under GIC's as a
+result of the downgrade. MBIA Inc. has total assets of $25 billion related to its ALM
+business, of which $15.2 billion is available to satisfy these requirements including
+approximately $4.0 billion in cash and liquid short-term investments; $1.0 billion of
+unpledged eligible collateral on hand; and approximately $10.2 billion of other
+unpledged diversified securities with an average rating of Double-A. In addition,
+MBIA Inc. also has available another $1.4 billion in cash, including the proceeds of
+its recent equity offering.
 
 
-Page 3 of 6
-This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
-(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
-Outlined below are the portions of their response which offer the clearest display of such 
-indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
-window in a traditional question and answer exchange. In the case of a written response, such as 
-this, a more global assessment is made. As a general rule the greater the number of indicators 
-identified the higher the likelihood of deception. For the sake of length I have in some places 
-condensed, paraphrased, or summarized statements made by each party. In other places, where it 
-is more beneficial, I have included full transcription.  
- 
-The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
-and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
-advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
-size and quality of the data sample being analyzed.  Errors and omissions may be contained 
-herein.  
- 
-Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
-their accuser towards the positive. The underlying goal of this linguistic device is to convince the 
-other party that the accused would never do the thing they are accused of because they are not 
-that kind of person, or in this case, that kind of company. When one cannot clearly show through 
-the presentation of facts that they did not do the bad thing, then they must resort to another 
-approach. Focusing on the kind of person/company they are is a subtle diversion away from the 
-actual actions they took or failed to take – the bad thing they are being accused of. When used by 
-corporations, as opposed to individuals defending themselves, Convincing Statements often take 
-the form of sales language, canned corporate speak, and highly generalized statements that 
-contain very little real information. STJ’s response contains a litany of these Convincing 
-Statements: 
- 
+Translation: "Contrary to everything we've ever said about no accelerating liabilities in any
+part of our business, we now have to immediately come up with $7.4 billion of cash and
+eligible collateral (U.S Treasury or agency securities, with appropriate haircuts -- roughly
+5%). But don't worry, we have $25 billion of assets..."
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
 
 
-“Our top priority is to reassure our patients….” 
-“St. Jude Medical stands behind the security and safety….” 
-“St. Jude Medical will remain ever vigilant and dedicated….” 
-“…..are not aware of such threats and will remain vigilant to the…..” 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner…” 
-“Patient safety has always been our top priority and we have every reason to believe….” 
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 3/17
 
 
- 
-Don’t be fooled by the fact that this kind of language is used often – deception is a very common 
-part of human communication. It is the dense cluster of these statements in a relatively short 
-rebuttal that indicates deception.  
- 
-Exclusionary Qualifiers are used by deceptive persons when they wish to deny a specific portion 
-of an accusation, while leaving the door slightly open to other portions. The below is a perfect 
-example: 
- 
+$25 billion of assets to cover $7.4 billion of liabilities sounds reassuring -- perhaps that's
+why the stock was up on the open Monday (giving us the opportunity to short more) -- but
+in reality MBIA is in big trouble because it never expected to have to come up with huge
+amounts of cash on short notice. Here's why: 
 
 
-Page 4 of 6
-“Our analysis concluded that the majority of the observations in the report apply to older 
-versions of the Merlin@home devices (i.e., those that have not been updated through the 
-automated remote upgrade process).”  
+When MBIA says that it has "$15.2 billion is available to satisfy these requirements", it
+means that $9.8 billion of its ALM (Asset/Liability Management) business assets are
+already collateralized. And there's not really $15.2 billion left to meet the collateral call --
+that's based on MBIA's cost, but according to MBIA's own filings, this was impaired by
+$1.4 billion as of 3/31 -- and the actual impairment today is surely much greater, for two
+reasons: 1) prices of these securities have declined this quarter and 2) the estimated
+values are based on an orderly sale, not a rushed sale to meet a collateral call (speaking
+of which, I spoke with a senior fixed income trader today who said there are lots of sellers
+but absolutely no buyers for fixed income securities, as financial firms are looking to
+reduce their holdings going into the close of the quarter). 
 
 
- 
-By inserting the word “majority” they are indicating that some of the observations made by 
-MWC apply to more current versions of the Merlin@home devices. If this is true, then they are 
-acknowledging some legitimacy to MWC’s claims. If their primary goal is to ensure the 
-complete security of all of their devices then they would use this opportunity to provide clear 
-guidance to all customers on how to fully secure them. Instead, they offer an additional 
-Convincing Statement coupled with a Perception Qualifier: 
- 
+In reality, as MBIA admits in its press release, it has only $5 billion in cash or cash
+equivalents in its ALM business, plus the $1.4 billion recently raised by the holding
+company (no wonder it didn't downstream the $900 million!), so it needs to come up with
+another $1 billion from the "approximately $10.2 billion of other unpledged diversified
+securities with an average rating of Double-A" -- not an easy thing to do in this ghastly
+market. 
 
 
-“We are confident in the technology that we provide and in our process for continuously 
-building upon our security protocols and processes.” 
+Can MBIA come up with the $7.4 billion it needs to pay off a lucky subset of its creditors?
+Sure, but only by pledging all of its cash and selling its best, most liquid securities, which
+is exactly what it's doing right now according to the article below that just came out on the
+WSJ web site. But what about all of its other creditors -- the holders of GICs and medium
+term notes that come due next month (and the month after that and the month after that) --
+which are secured by increasingly low-quality, illiquid assets?  
 
 
- 
-This statement is a veiled admission to lesser security quality in previous devices – many of 
-which are currently being used by patients – and the need to continue improving their existing 
-security protocols and processes. The insertion of the phrase “We are confident…” is a 
-commonly used Perception Qualifier. Its goal is to add credibility to their assertion without 
-providing fact, as the facts are likely not their ally. Their statement offers no technical, 
-measurable, or quantifiable reason for their confidence…we are just supposed to feel better 
-because they are confident.  
- 
-Borrowed Credibility. When companies repeatedly refer to regulatory bodies, legal processes, 
-and industry standards, one should be cautious. It is not hard to produce a long list of companies 
-that satisfied all of these requirements while simultaneously committing fraud or gross 
-negligence. Reference to these agencies and processes, therefore, is an attempt to borrow the 
-credibility of those organizations when their credibility is taking a hit.  
- 
-These references are a critical piece of their Diversion Narrative – a story designed to “look 
-away” from the specific issue to a better story about past compliance with regulatory processes. 
-When your child brings home a report card with four A’s and one D, be prepared for him or her 
-to divert the narrative away from the D to the four A’s. He or she may even be tempted to 
-remind you of past report cards that did not contain any D’s.  
- 
-The real concern. It is my opinion that STJ tipped their hand in the following statement: 
- 
+This is the kind of liquidity crunch that has led many financial companies to file for
+bankruptcy. If MBIA were to do so, it would obviously wipe out the equity, but it would at
+least treat all creditors fairly rather than early ones getting paid in full and later ones left
+holding the bag (this is the same issue that exists for policyholders at MBIA's insurance
+sub as well, by the way).
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
 
 
-“We recognize the importance of providing physicians with up-to-date and accurate 
-information in a timely and responsible manner so that they can make informed patient 
-care decisions. Our analysis reinforces the need for researchers and manufactures to 
-work together to discuss and resolve potential issues together to avoid unnecessarily 
-alarming patients.”  
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 4/17
 
 
- 
-Their analysis? Are they referring to their analysis of the MWC report? If so, are they consenting 
-to the notion that MWC’s findings represent “potential issues” that require collaboration between 
-“researchers and manufacturers”? Would it not be more correct to say “MWC’s analysis has 
-brought to light multiple issues that underscore the need for researchers and manufacturers to 
+When MBIA finally sinks beneath the waves, its management, board, analysts and
+defenders will surely cry that no-one could have predicted this perfect storm, yada, yada,
+yada, but in fact Bill Ackman spelled it all out five and a half years ago in 66 pages of
+excruciating detail in his original presentation on MBIA, Is MBIA Triple A? (attached), in
+which he concluded:
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
 
 
-Page 5 of 6
-work together to discuss and resolve”? I’d say it does - and constitutes a veiled admission that 
-significant security issues exist. It further points to their frustration with MWC’s public display 
-of their findings, as does the following statement in their opening paragraph: “… while we would 
-have preferred the opportunity to review a detailed account of the information…” The extremely 
-rapid rebuttal produced by STJ, its lack of substance, and the clusters of deceptive behaviors it 
-contains, suggests their core agenda is to inject optimism back into the market, not necessarily 
-the “responsible working together to discuss and resolve potential issues…” tack they purport.  
- 
-Conclusion 
-Given the density of the clusters of deceptive indicators in this rebuttal it is highly likely that STJ 
-is being deceptive about the cyber security of its cardiac devices and their knowledge of their 
-existing limitations. Their agenda is to manage the perception of the market in the short term 
-from pessimism to optimism, erode the credibility of the MWC report and present confidence in 
-the face of specific allegations while simultaneously failing (or choosing not) to insert inarguable 
-facts to the contrary.   
- 
- 
- 
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 5/17
 
 
-Page 6 of 6
+A two-notch downgrade could have catastrophic consequences for the company. It
+would likely create problems for the renewal of MBIA’s SPV commercial paper. It
+might also cause a reduction in the value of all of MBIA’s wrapped obligations
+including all of Triple-A One’s assets. The decline in values of these assets, in turn,
+could trigger covenant defaults in the SPV’s liquidity facilities, further exacerbating its
+immediate liquidity crisis.
+
+
+
+
+
+Additionally, Moody’s reports that MBIA’s ISDA documentation contains increasing
+collateral requirements in the event of a downgrade of the company. The company’s
+municipal GIC portfolio also has rating downgrade triggers. 86 Perhaps most
+significantly, a downgrade could shut off a material percentage of the company’s
+cash flow, for MBIA may be unable to write new premium without a AAA rating.
+
+
+
+
+
+A Barclays Capital research report which is available on MBIA’s website explains:
+
+
+Spiraling down…down…and down?
+
+
+In the event of a financial guarantor being downgraded, will a vicious circle
+lead to rapid rating deterioration and potential bankruptcy? This is a much-
+debated question in that a financial guarantor who relies on its credit ratings for
+its business franchise could face a rapid decline in new business in the event
+of a downgrade, which could precipitate further downgrades.
+
+
+
+
+
+It appears to us that an actual or perceived downgrade of MBIA would have
+draconian consequences to the company and create substantial drains on the
+company’s liquidity. The self-reinforcing and circular nature of the company’s
+exposures makes it, we believe, a poor candidate for a AAA rating.
+
+
+
+
+
+In light of MBIA’s enormous leverage, the company’s credit quality, underwriting,
+transparency, accounting, and track record must be beyond reproach. The company
+can simply not afford any significant risk of loss in its nearly $500 billion of net par
+exposure, for a mere 20 to 35 basis points loss would equate to levels sufficient to
+5/23/2018 MBIA's GIC Exposure Could Trigger a Liquidity Crisis - MBIA Inc. (NYSE:MBI) | Seeking Alpha
+
+
+https://seekingalpha.com/article/83057-mbias-gic-exposure-could-trigger-a-liquidity-crisis 6/17
+
+

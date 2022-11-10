@@ -1,1303 +1,5003 @@
-!"#$%&"'()*
-!"#$%&$'())*$+,-#."$//01"$.#"#,.23$4"$,-$*%(.$%56$.4"78$$9%($"3%(:)$)%$*%(.$%56$.#"#,.23$,6)$)(#$)4:4;#62#$<#&%.#$=,746;$,6*$46>#"-=#6-$)#24"4%6$
-54-3$.#"?#2-$-%$"#2(.4-4#"$2%>#.#)$3#.#468$$9%($"3%(:)$,""(=#$-3,-$,"$%&$-3#$?(<:42,-4%6$),-#$%&$,6*$.#?%.-@$'())*$+,-#."@$//0$A?%""4<:*$,:%6;$54-3$%.$
--3.%(;3$%(.$=#=<#."@$?,.-6#."@$,&&4:4,-#"@$#=?:%*##"@$,6)B%.$2%6"(:-,6-"C$,:%6;$54-3$%(.$2:4#6-"$,6)B%.$46>#"-%."$3,"$,$"3%.-$?%"4-4%6$46$-3#$"-%27$A,6)B%.$
-%?-4%6"$%&$-3#$"-%27C$2%>#.#)$3#.#46@$,6)$-3#.#&%.#$"-,6)"$-%$.#,:4D#$"4;64&42,6-$;,46"$46$-3#$#>#6-$-3,-$-3#$?.42#$%&$"-%27$)#2:46#"8$$E%::%546;$?(<:42,-4%6$
-%&$,6*$.#?%.-@$5#$46-#6)$-%$2%6-46(#$-.,6",2-46;$46$-3#$"#2(.4-4#"$2%>#.#)$-3#.#46@$,6)$5#$=,*$<#$:%6;@$"3%.-@$%.$6#(-.,:$,-$,6*$-4=#$3#.#,&-#.$.#;,.):#""$
-%&$%(.$464-4,:$.#2%==#6),-4%68$$$F34"$4"$6%-$,6$%&&#.$-%$"#::$%.$,$"%:424-,-4%6$%&$,6$%&&#.$-%$<(*$,6*$"#2(.4-*@$6%.$"3,::$,6*$"#2(.4-*$<#$%&&#.#)$%.$"%:)$-%$,6*$
-?#."%6@$46$,6*$G(.4")42-4%6$46$53423$"(23$%&&#.$5%(:)$<#$(6:,5&(:$(6)#.$-3#$"#2(.4-4#"$:,5"$%&$"(23$G(.4")42-4%68$F%$-3#$<#"-$%&$%(.$,<4:4-*$,6)$<#:4#&@$,::$
-46&%.=,-4%6$2%6-,46#)$3#.#46$4"$,22(.,-#$,6)$.#:4,<:#@$,6)$3,"$<##6$%<-,46#)$&.%=$?(<:42$"%(.2#"$5#$<#:4#>#$-%$<#$,22(.,-#$,6)$.#:4,<:#@$,6)$53%$,.#$
-6%-$46"4)#."$%.$2%66#2-#)$?#."%6"$%&$-3#$"-%27$2%>#.#)$3#.#46$%.$53%$=,*$%-3#.54"#$%5#$,6*$&4)(24,.*$)(-*$%.$)(-*$%&$2%6&4)#6-4,:4-*$-%$-3#$4""(#.8$$$
-H%5#>#.@$"(23$46&%.=,-4%6$4"$?.#"#6-#)$I,"$4"@I$54-3%(-$5,..,6-*$%&$,6*$746)$J$53#-3#.$#K?.#""$%.$4=?:4#)8$$'())*$+,-#."@$//0$=,7#"$6%$.#?.#"#6-,L
--4%6@$#K?.#""$%.$4=?:4#)@$,"$-%$-3#$,22(.,2*@$-4=#:46#""@$%.$2%=?:#-#6#""$%&$,6*$"(23$46&%.=,-4%6$%.$54-3$.#;,.)$-%$-3#$.#"(:-"$-%$<#$%<-,46#)$&.%=$4-"$("#8$$
-M::$#K?.#""4%6"$%&$%?464%6$,.#$"(<G#2-$-%$23,6;#$54-3%(-$6%-42#@$,6)$'())*$+,-#."@$//0$)%#"$6%-$(6)#.-,7#$-%$(?),-#$%.$"(??:#=#6-$-34"$.#?%.-$%.$,6*$
-%&$-3#$46&%.=,-4%6$2%6-,46#)$3#.#468
+1
+2
 
 
-!"#$%&'#(')(*$+$,#%-.(/,#+'0(/1(23'%45(6+71
+Full Legal Disclaimer
 
 
-!"##$%&'()*+,%--.
-88819:;;<8,&$#+#$+$,#%-1%'9
+This research presentation expresses our research opinions.  You should assume that as of the publication date of any presentation, report or letter, Spruce 
 
 
-"0)'=9:;;<8,&$#+#$+$,#%-
+Point Capital Management LLC (possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our subscribers 
 
 
-./01'2$3
+and clients has a short position in all stocks (and are long/short combinations of puts and calls on the stock) covered herein, including without limitation Kratos 
 
 
-4)5/00)2#'(6/23
+Defense & Security Solutions, Inc. (“KTOS”), and therefore stand to realize significant gains in the event that the price of its stock declines. Following 
 
 
-72#"+(*$3
+publication of any presentation, report or letter, we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any 
 
 
-4)1/*(%8'()3
+time hereafter regardless of our initial recommendation.  All expressions of opinion are subject to change without notice, and Spruce Point Capital 
 
 
-9*65)3
+Management does not undertake to update this report or any information contained herein.  Spruce Point Capital Management, subscribers and/or consultants 
 
 
-!'*:)(%.'13
+shall have no obligation to inform any investor or viewer of this report about their historical, current, and future trading activities.
 
 
->?1@(9"33"'0
+This research presentation expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which are 
 
 
-;<=%>/?"0)3
+based upon publicly available information, and all of which are set out in this research presentation.  Any investment involves substantial risks, including 
 
 
-/-"0,(A$;",(6BC#$++(D'3;"0E+(F//A6G
+complete loss of capital. Any forecasts or estimates are for illustrative purpose only and should not be taken as limitations of the maximum possible loss or 
 
 
-H&#'0E(H$33
+gain. Any information contained in this report may include forward looking statements, expectations, pro forma analyses, estimates, and projections. You 
 
 
-I:&;''#(!"E"&,3(J;K$#&"+"0E
+should assume these types of statements, expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for reasons beyond 
 
 
-A,#%-(@5(@?>>
+Spruce Point Capital Management LLC’s control. This is not investment or accounting advice nor should it be construed as such. Use of Spruce Point Capital 
 
 
-L>@1@M
+Management LLC’s research is at your own risk. You should do your own research and due diligence, with assistance from professional financial, legal and 
 
 
-LN@?1M(9"33"'0
+tax experts, before making any investment decision with respect to securities covered herein. All figures assumed to be in US Dollars, unless specified 
 
 
-@?/'(3
+otherwise.
 
 
-@1O(9"33"'0
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material facts 
 
 
-A+(60'()#%>'?")3
-LP1QN
+necessary to make the statements herein not misleading, and all information has been obtained from public sources we believe to be accurate and reliable, 
 
 
-A:;;<(R,&$#+5(SS/(-,+(,9,++$;("##$):&,T3$($K";$0%$(&-,&(
-//A6("+(,(+:T+&,0&",3()#,:;5(,0;(&-,&(9,0,E$9$0&("+(
-$0E,E"0E("0(,(%'K$#U:C(#$C3$&$(8"&-():#&-$#(;"++$9"0,&"'0(')(
-)#,:;:3$0&("0)'#9,&"'01((
+and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer, 
 
 
-R$(C#$+$0&(,(#$%'#;$;(&$3$C-'0$(%'0K$#+,&"'0(&-,&(%'0&,"0+(
-,0(,;9"++"'0(&-,&(//A6("+($0E,E"0E("0(+$%:#"&"$+()#,:;1((
+or to any other person or entity that was breached by the transmission of information to Spruce Point Capital Management LLC. However, Spruce Point 
 
 
-R$(;'%:9$0&(&-,&("0(&-$(%':#+$(')(#$T:&&"0E(':#(*$C'#&5(
-/-,"#9,0(/-$0E(C#'K";$;(),T#"%,&$;("0)'#9,&"'01((
+Capital Management LLC recognizes that there may be non-public information in the possession of KTOS or other insiders of KTOS that has not been publicly 
 
 
-R$(C#$+$0&(&-$(+,3$+(C#$+$0&,&"'0(8$(#$%$"K$;("0(V,0:,#<(
-)#'9(&-$(,)'#$9$0&"'0$;(+,3$+C$#+'0(F&-$(WH,3$+(X#$+$0&,U
-&"'0YG(&-,&(+-'8+(//A6(-,+()$8$#(&-,0(-,3)(')(&-$(T:+$+("&(
-%3,"9+1((
+disclosed by KTOS. Therefore, such information contained herein is presented “as is,” without warranty of any kind – whether express or implied. Spruce Point 
 
 
-R$(C#$+$0&(,(9"0"U;'%:9$0&,#<(')(&-$(3,#E$+&(C:#C'#&$;(
-'C$#,&'#(Z(H-,0E-,"(2,(H-"(Z(+C$%")"%,33<()'%:+"0E('0("&+(
-"0&$#U%"&<(T:+$+(,0;(;#"K$#+1([-$()"39(+-'8+(&-,&(//A6\+(
--,#;8,#$("+(0'&("0+&,33$;('0(&-$(T:+$+5(;$+C"&$(//A6\+(
-%3,"9(&'(-,K$(-,;(-,#;8,#$('0(&-$+$(T:+$+(+"0%$(,&(3$,+&(
-9";U@??O1((
-2 
-
-
-Muddy Waters, LLC has amassed irrefutable evidence that China MediaExpress Holdings, Inc. (“CCME”) is a substantial 
-fraud, and that management is engaging in a cover-up replete with further dissemination of fraudulent information.  In 
-light of the nature of the evidence, we believe that a de-listing from NASDAQ is not improbable; further, we believe that 
-management stands to lose additional credibility.  We therefore reduce our estimated value by one-third to $3.54. 
- 
-We present a recorded telephone conversation that contains an admission that CCME is engaging in securities fraud.  The 
-conversation took place on February 23rd between the CCME salesperson who provided us with the advertiser kit we cited 
-in our February 3, 2011 report (the “Report”) and one of our analysts.  The CCME salesperson initiated the conversation 
-without notice in response to investigative actions taken by CCME’s auditor, Deloitte Touche Tohmatsu (“Deloitte”).  
-During the conversation, the salesperson stated that: 
-
-
-• CCME has been doubling the number of buses on which it has installed equipment for purposes of its SEC filings; 
-and 
-
-
-• CCME replaced recently replaced the salesperson’s hard drive due to the increased scrutiny. 
- 
-The recording with subtitles is available at: http://www.youtube.com/watch?v=cLAm-dJh2fI 
- 
-We document that in the course of rebutting our Report, Chairman Cheng provided fabricated information.  In Chairman 
-Cheng’s February 7, 2011 letter (the “Chairman’s Letter”), Chairman Cheng challenged our assertion that CCME’s largest 
-purported contract does not exist.  His proof includes an “excerpt” of buses he claims are covered by the disputed 
-contract.  The excerpt contains license plate numbers of three buses.  We have official documentation (shown in Appendix 
-A) from the Shanghai Public Security Bureau Traffic Management Administrator (the “Traffic Administrator”) that shows 
-these three license plates numbers are fabricated. 
- 
-We present the sales presentation we received in January from the aforementioned salesperson (the “Sales Presentation”) 
-that shows CCME has fewer than half of the buses it claims.  The Sales Presentation (Appendix B), which shows CCME’s 
-buses by province and city, corroborates the following facts we presented in our earlier Report: 
-
+Capital Management LLC makes no other representations, express or implied, as to the accuracy, timeliness, or completeness of any such information or with 
 
-• CCME has fewer than half of the buses it claims; and 
-• its largest purported contract (with Shanghai Ba Shi for 1,892 buses) does not exist.  The number of buses for 
 
+regard to the results to be obtained from its use. 
 
-Shanghai-based operators in the presentation matches the number in the spreadsheet we received – 296. 
- 
-We present a mini-documentary of the largest purported operator – Shanghai Ba Shi – specifically focusing on its inter-
-city buses and drivers.  The film shows that CCME’s hardware is not installed on the buses, despite CCME’s claim to 
-have had hardware on these buses since at least mid-2008. 
- 
-The video is available at: http://www.youtube.com/watch?v=-COZ5l9ayzM 
- 
-If one questions whether it is Muddy Waters, LLC – and not CCME – that has fabricated information and documents, we 
-point out the following.  Our research director and sole member manager, Carson Block, is a United States citizen with 
-assets and family in, and significant ties to, the United States.  Although we do not know the extent of CCME 
-management’s ties to the United States, we venture to guess that they are significantly less than those of Mr. Block.
-3 
 
+This report’s estimated fundamental value only represents a best efforts estimate of the potential fundamental valuation of a specific security, and is not 
 
-II. CCME Sales Representative’s Admission of Securities Fraud 
- 
-Background 
- 
-In January 2011, we cold called CCME’s headquarters in Fuzhou.  We asked to speak with the sales department, and we 
-were transferred to a salesperson.  During the course of our conversation with the representative, we described ourselves 
-as a medium-sized company that was interested in advertising throughout China on CCME’s buses.  From that point on, 
-our dialogue with the salesperson mainly took place over instant messenger.  The salesperson sent the electronic version 
-of the advertiser kit via instant messenger – including the Excel spreadsheet we subsequently posted on our website in 
-PDF format, as well as the Sales Presentation shown in Appendix B.  During the course of the dialogue, the representative 
-and we discussed the fact that CCME is publicly traded in the Untied States. 
- 
-As has been well documented, we released our February 3, 2011 report during the lengthy Chinese New Year holiday.  
-Following the holiday, the sales representative followed up with us about buying the ads we had discussed.  At that time, 
-our analyst told the salesperson that he and his manager had left their jobs with the potential advertiser. 
- 
-On February 23rd at approximately 13:00 China time, we sent a detailed letter to various partners at Deloitte with 
-previously unreleased evidence supporting our allegations of fraud.  Around 19:00 the same evening, our analyst received 
-a phone call from the sales representative.  The purpose of her call was to ask our analyst whether someone inside his 
-“former employer” disseminated the Sales Presentation outside of the company.  She evidently had not considered it 
-likely that the person with whom she had been speaking represents Muddy Waters, LLC. 
- 
-Because our analyst was unprepared to receive the call, he was only able to begin recording it after approximately two 
-minutes.  He believes that substantially all information that had been discussed during the initial unrecorded period is 
-repeated in the recorded portion.   
- 
-The Conversation 
- 
-We encourage investors to listen to the recording with subtitles, available at: http://www.youtube.com/watch?v=cLAm-
-dJh2fI  However, we provide the following translated excerpts (emphasis in bold added) of the conversation – the 
-complete transcript is in Appendix C: 
 
+expressed as, or implied as, assessments of the quality of a security, a summary of past performance, or an actionable investment strategy for an investor. 
 
-… 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
-
-
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
-
-
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
-
-
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example…
-4 
-
-
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
-
-
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of 
-vehicles we quoted you.  The number we reported is times two, or doubled.  Do you understand now? 
-
-
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
-
-
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
-
-
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
-
-
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve 
-claimed to the public is the total number, but the number we gave you is the vehicles installed with devices.  So 
-there are some conflicts. 
 
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any person, in any jurisdiction in which 
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number 
 
+such offer would be unlawful under the securities laws of such jurisdiction. Spruce Point Capital Management LLC is not registered as an investment advisor, 
 
-we’ve reported to the market regulator.  What we’ve reported to the market regulator is the number under 
-contract.  The number I’ve given you is contracted with devices installed.  
 
+broker/dealer, or accounting firm.
 
-… 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
 
+All rights reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point 
 
-sent you before. 
-Analyst: Have you given the same proposal to other customers? 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
 
+Capital Management LLC.
+3
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
 
+About Spruce Point Capital Management
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been 
 
+Spruce Point believes it is time for significant change at Kratos (Nasdaq: KTOS). Based on our research 
 
-replaced at that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s. 
-…
-5 
 
+suggesting abysmal financial and compliance failures leading to a recent criminal conviction of a senior 
 
-Analysis 
- 
-The representative claimed that the discrepancy between the SEC filings and the buses quoted to us was because 
-approximately 50% of the buses have not yet had equipment installed; however, this explanation does not hold water.  As 
-we pointed out in our earlier report, one of the major discrepancies is in Shanghai.  As of July 2008, the company claimed 
-to have 2,127 buses belonging to Shanghai-based operators in the network,1 but the materials the sales representative sent 
-only show 296 Shanghai buses as of January 2011.   Thus, the overall discrepancy must be due to more than timing 
-differences between when CCME signs contracts and when it installs equipment. 
- 
-III. The License Plate Numbers in Chairman Cheng’s Rebuttal are Fabrications 
- 
-Background 
- 
-In the Report, we stated that CCME’s advertiser kit shows only 12,565 buses under contract as of January 2011, versus 
-over 27,200 that CCME claims to have for investor relation purposes.2  We also stated that the largest bus operator CCME 
-purports to have under contract, Shanghai Ba Shi3 (purportedly 1,892 buses), does not in fact have a contract with 
-CCME.4   
- 
-Chairman Cheng denied these assertions in the open Chairman’s Letter dated February 7, 2011 (Appendix D).  Ping Luo 
-(of Global Hunter Securities LLC) issued a report in support of Cheng’s rebuttal on February 17, 2011 (the “Luo 
-Report”).   
- 
-The Fabrications 
- 
-The Chairman’s Letter stated that CCME’s official advertiser kit includes 1,892 buses belonging to 上海巴士实业（集
 
+Kratos Director, we are calling for the resignation of its CEO Eric Demarco and CFO Deanna Lund.
 
-团）股份有限公司(“Ba Shi Industrial”).5  He then proceeded to show an “excerpt” from the purported kit that contains 
-details on three Ba Shi Industrial buses, including license plate numbers.  (The majority of the buses in the real advertiser 
-kit include license plate numbers.)  The license plate numbers the Chairman cited are: 沪 A65072, 沪 A65075, and 沪
-A83822.6 7   
- 
-The license plate numbers the Chairman provided are fabricated.  Two of the plates – A65072 and A65075 – were issued 
-for small passenger cars (a Santana and a Zheng Tian pickup truck), and not for buses.   
 
+Report Date Company / Ticker
+Enterprise Value 
 
-                                                        
-1 http://www.ccme.tv/eng/pns/intercitybus.php, and 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-2 See Report p. 5.   
-3 CCME sowed some confusion about the name of the Ba Shi entity that operates long distance buses.  We clarify the name issue 
-infra.   
-4 See Report p. 6. 
-5 See Chairman’s Letter pp. 4-5. 
-6 Id. 
-7 Note that “沪” (“Hu”) is the character for Shanghai.
-6 
 
+At Report Date ($ billions)
+CEO Departure / Date
 
-See below for representative pictures of the vehicles.  We were unable to contact the registered owners to see whether 
-they had CCME hardware installed in their cars. 
- 
 
+7/13/17 Gentex / GNTX $4.7 Fred Bauer / Jan 2018
 
- 
-a “Zheng Tian”, similar to沪 A65072 
 
+4/13/16 Sabre Corp / SABR $11.2 Tom Klein / June 2016
 
 
+12/17/15 Intertain / IT.TO $1.5 John FitzGerald / Feb 2016
 
 
- 
-a “Santana”, similar to沪 A65075 
+8/19/15 Caesarstone / CSTE $1.7 Yos Shiran / May 2016
 
 
-We question the economics of installing hard drives and LCD panels in privately owned passenger cars. 
- 
-In contrast, A83822 had actually once belonged to 上海交运巴士客运（集团）有限公司 (“JB”).8  However, the 上海市
+2/10/15 Greif / GEF $3.2 David Fischer / Oct 2015
 
 
-公安局交通警察总队车管所 (the “Traffic Administrator”) had previously canceled the license plate.  Thus, this license 
-plate is no longer in use.   
- 
-Appendix A provides the official documentation of these facts with seals from the Traffic Administrator. 
- 
-We became aware of the possibility that the license plate numbers were fabricated when we showed the purported 
-numbers to one of our operations contacts at JB.  He told us that the plate numbers could not be correct because JB had 
-retired all, perhaps save for “one or two”, license plates with a single letter “A” in the plate number; and, further that it 
-had sold the buses that formerly had such plates.  He stated that the retirement process had begun in 2006 or 2007. 
-Shanghai used to issue license plates in alphabetical sequence.  License plates with a single letter “A” – i.e., no additional 
-letters contained in the license plate number – are among the oldest plates issued in Shanghai.  Thus the operations contact 
-immediately knew that any buses with such a license plate number were too old to be in the current fleet. 
- 
-Chairman Cheng’s statements are false. 
- 
+11/13/14 AMETEK / AME $14.0 Frank Hermance / May 2016
 
 
-                                                        
-8 Infra FN 9.
-7 
+1/15/14 LKQ Corp / LKQ $11.8 Robert Wagman / March 2017
 
 
-IV.  CCME’s Largest Purported Operator Relationship Still Does Not Exist 
- 
-CCME had to fabricate the previously discussed Shanghai Ba Shi license plates because CCME does not actually have a 
-relationship with its largest purported inter-city bus operator, Shanghai Ba Shi.  The following items prove that the 
-Shanghai Ba Shi relationship does not exist: 
+3/5/13 Boulder Brands / BDBD $1.0 Stephen Hughes / June 2015
 
 
-• The Sales Presentation we received with the advertiser kit, which resulted in the recorded fraud admission by 
-CCME’s sales representative (discussed in Part II), shows only 296 buses in Shanghai.  This is far less than the 
-1,892 buses CCME claims to have under contract with Shanghai Ba Shi. 
+6/14/12 Bazaarvoice / BV $1.2 Bret Hurt /  Nov 2012
 
 
-• We had approximately five hours of meetings with officials ranging from station level operations personnel, to 
-top company managers at headquarters, of the Shanghai Ba Shi entity that operates the group’s inter-city buses.  
-We received confirmation at each level that CCME has not placed its hardware on Shanghai Ba Shi inter-city 
-buses. 
+CEO Departures Post Recent Spruce Point Research Activism 
 
 
-• We shot a mini documentary of Shanghai Ba Shi inter-city buses along with driver interviews that show CCME 
-has placed no content or hardware on Shanghai Ba Shi inter-city buses. 
+Spruce Point Capital Is An Industry Recognized Research Activist Investment Firm Founded In 2009
 
 
- 
-Background 
- 
-Whether as a result of confusion, or to cause it, neither CCME, Chairman Cheng, nor the Luo Report correctly refer to the 
-Shanghai Ba Shi entity that operates the group’s inter-city buses.9  The only entity10 that operates Shanghai Ba Shi inter-
-city buses is 上海交运巴士客运（集团）有限公司 (“Jaioyun Ba Shi” or “JB”). (More information on the entire Ba Shi 
-group, including JB, is available at the group’s website: www.84000.com.cn.  JB’s site, which links directly to the 
-aforementioned group site through the button that reads “Inter-city passenger transport” (“长途客运”), is 
-http://61.152.242.65/cygs/servlet/Srv?action_code=frontMenuToIndex&webSiteMemberId=1007.)  
- 
+• Founded by Ben Axler, a former investment banker with 17 years experience on Wall Street
 
 
-                                                        
-9 CCME’s CTR reports refer to the entity in question as “Shanghai Ba-Shi (Group) Industrial Co. Ltd.”  See 
-http://www.cCCME.tv/eng/pns/intercitybus_02.pdf.  Chairman Cheng’s letter refers to it as “上海巴士实业（集团）股份有限公司, 
-which appears to refer to the same entity, Shanghai Ba Shi (Group) Industrial Co. Ltd.  However, this entity is listed on the Shanghai 
-Stock Exchange (600741), and changed its name to Hua Yu Automotive Systems Co. Ltd.  Importantly, its business appears to be 
-automotive parts, and not operating transportation; however, it likely has an equity stake in JB.  The Luo Report calls the entity 
-Shanghai Ba-Shi Public Transportation Group Co. Ltd., which appears to refer to 上海巴士公交（集团）有限公司.  This entity only 
-operates intra-city buses. 
-10 For purposes of this discussion, “entity” includes JB’s subsidiaries.
-8 
+• Ranked the #1 Short-Seller in the world by Sumzero after a comprehensive study of 12,000 analyst recommendations 
+dating back to 2008 (March 2015)
 
 
-Sales Presentation 
- 
-We received a Sales Presentation titled “China MediaExpress Pricing (Nationwide)” from the CCME sales representative.  
-The Sales Presentation shows the number of buses by province and certain cities, including Shanghai.  Below is the page 
-from the presentation that shows the number of buses CCME has in Shanghai.  It shows only 296 buses, which is far 
-fewer buses than the 1,892 CCME claims to have under its Shanghai Ba Shi relationship.  We include the complete 
-presentation as Appendix B.  
- 
+• Ranked the #13 Most Influential FinTweeter on Twitter according to Sentieo analysis (Dec 2016)
 
 
- 
-The Sales Presentation shows 12,358 buses under contract nationwide – this is slightly fewer than what the spreadsheets 
-in the Report show.  Significantly, the Sales Presentation is the second version the salesperson sent us.  The first version 
-stated that there were approximately 1,600 buses under contract in Shanghai.  Upon receiving the first presentation, we 
-pointed out via instant messenger the inconsistency with the 296 buses in the spreadsheet.  (Most dialogue with the 
-salesperson took place through instant messenger.)  In response, the salesperson wrote: 
- 
 
+http://www.sprucepointcap.com/gentex-corp/
 
-“Sorry, there are 296 vehicles in Shanghai.  I made a mistake about the number.  I'll quote another price.”
-8 
+http://ir.gentex.com/news-releases/news-release-details/gentex-corporation-announces-retirement
 
+http://www.sprucepointcap.com/sabre-corp/
 
-Following the above exchange, the salesperson sent over the presentation shown above and in Appendix B.  It shows only 
-296 buses in Shanghai.   
- 
-JB Meetings 
- 
-We had approximately five hours of meetings with JB officials ranging from station level operations personnel to top 
-company managers at its headquarters.  The following summarizes the information we received during our meetings: 
+https://www.sabre.com/insights/releases/sabre-corporation-announces-ceo-transition/
 
+http://www.sprucepointcap.com/it-the-intertain-group-ltd/
 
-• None of the four JB representatives had ever heard of CCME – not by the name of CCME’s operating company 
-nor its trade name.  Earlier in the discussions, another Ba Shi contact (not from JB) telephoned in our presence a 
-division manager of the advertising arm of the Ba Shi group (which is a different entity than JB).  The advertising 
-division manager also stated that he had never heard of the company nor its trade name.  Thus, none of four JB 
-people with extensive operations knowledge, nor the Ba Shi advertising division manager, were familiar in any 
-way with CCME. 
+http://www.marketwired.com/press-release/intertain-group-independent-committee-review-completed-tsx-it-2098672.htm
 
+http://www.sprucepointcap.com/cste-ltd/
 
-• JB has only around 800 buses, all of which are inter-city.  The entire Shanghai Ba Shi group has approximately 
-2,000 buses, including intra-city, charter, and JB’s buses.  The above mentioned website for JB also states that it 
-has approximately 800 inter-city buses.  Assuming that a contract did exist, this number contradicts the 1,892 
-cited by CCME, Chairman Cheng, and the Luo Report. 
+http://ir.caesarstone.com/releasedetail.cfm?ReleaseID=972280
 
+http://www.sprucepointcap.com/grief-inc/
 
-• JB only authorizes televisions produced by each bus’s manufacturer (e.g., King Long) and certain approved 
-aftermarket vendors, which does not include CCME, to be placed on its buses. 
+http://investor.greif.com/press-releases/press-release-details/2015/-Greif-Announces-CEO-Transition/default.aspx
 
+http://www.sprucepointcap.com/ametek-inc/
 
- 
-Video 
- 
-We filmed a mini documentary of JB inter-city buses and drivers.  The video is available at: 
-http://www.youtube.com/watch?v=-COZ5l9ayzM  
- 
-The footage shows: 
+http://www.ametek.com/pressreleases/news/2016/may/ametekannouncesexecutive?news_lang=en
 
+http://www.sprucepointcap.com/lkq-corp/
 
-• Prior to the Shanghai 2010 World Expo, the JB buses had standard DVD players for showing movies. 
-• The Shanghai government gave JB hard drive controllers for the Expo.  The controllers show Expo content and 
+http://investor.lkqcorp.com/investor-relations/press-releases/press-release-details/2017/LKQ-Corporation-Announces-Leadership-Transition/default.aspx
 
+http://www.sprucepointcap.com/boulder-brands/
 
-Expo ads.  They do not show content or ads provided by CCME or other parties. 
-• The manufacturer of the hard drive controllers is Inspur, which is a different company than CCME’s exclusive 
+https://www.sec.gov/Archives/edgar/data/1331301/000114420415036382/v412846_8k.htm
 
+http://www.sprucepointcap.com/bazaarvoice/
 
-supplier, Zhejiang Yusong (which CCME’s filings erroneously refer to as Hangzhou Yusong).11 
-• The drivers can choose whether to turn on the controllers and TVs.  Because passengers like to sleep on the buses, 
+https://www.sec.gov/Archives/edgar/data/1330421/000119312512451859/d435652dex991.htm
 
+http://www.businessinsider.com/ten-best-short-sellers-on-sumzero-2016-3
 
-at least one driver generally keeps the equipment off. 
-• Coca-Cola (one of CCME’s purported top advertisers) and similarly large companies have not shown ads on JB 
+https://sentieo.com/blog/are-you-tracking-2016s-most-influential-fintweeters/
+4
 
 
-buses. 
-• The controllers are supposed to be removed, and replaced with DVD players. 
+Kratos Is Just Another Overhyped 
+Robotics / Drone Company. Spruce Point Has 
+Excelled Shorting These Types of Companies
 
 
- 
-The below are recent still photographs of a JB inter-city bus. 
- 
-                                                        
-11 CCME December 31, 2009 Form 10-K, p. 18.
-10 
+Report Date(s) June 27 / Aug 18 / Sept 13 Nov 8, 2017
 
 
- 
-JB inter-city bus. Note the “JB” logo, which is on the sides of the buses shown in the video. 
+Criticism
 
 
- 
-King Long CRT television (the bus manufacturer) – not CCME / Yusong LCD.
-11 
+Stagnant robotic and technology company 
+with limited product innovation. Will come 
 
 
+under severe product/price competition 
+from new entrants. IRBT’s distributor 
 
 
+acquisitions are defensive and continue to 
+reflect its poor capital allocation. The share 
 
- 
-No CCME controller. There is a media control box manufactured by Inspur in the dashboard. (For more information, see 
-http://www.inspur.com/Products/images_numeric/2010/6/12/56BA53E357CB41CB9AC8C83169492BC8.pdf).  CCME’s 
-exclusive hardware supplier is Zhejiang Yusong (supra p. 8).  The Shanghai government provided JB with the Inspur 
-controllers in order to show Expo-related content.
-Page  
 
+price surge in early 2017 would not be 
+sustainable. iRobot is heavily promoted to 
+retail investors who would suffer 20%-60% 
 
-12 
 
+long-term downside risk
 
-Appendix A 
-Traffic Administrator documents
-Page  
 
+Stagnant UAV / drone company with limited 
+product innovation, poor capital allocation, 
 
-13 
 
+terrible governance and insider alignment with 
+shareholders. AVAV’s extreme share price 
 
-Appendix B 
-Sales Presentation
-高速有多长 品牌就传多远
 
+appreciation in 2017 would lead to 
+disappointment along with its move into the 
+consumer drone space. Heavily promoted by 
 
-中国高速频道城际巴士车载电视
-广告投放方案
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+analysts and investor blogs as a “play” on drones, 
+despite not being a leader in its industry. We 
+estimate 30%-50% long-term downside risk
 
-!   全国广告投放费用:
 
+Successful 
+Outcome
 
-投放
 
+New competition (SharkNinja and others) 
+stormed the market with lower price 
+vacuum robotics, thereby pressuring 
 
-城市
 
+iRobot’s margins.  Its share price crashed 
+20% in Feb 2018 as its outlook missed lofty 
 
-广告
 
+analyst expectations
 
-规格
 
+AVAV’s share price plunged nearly 18% as its Q3 
+earnings result all but assured it would miss full 
 
-发布
 
+year targets. Its backlog shrunk QoQ and the CEO 
+dodged answering specific questions about the 
+progress of its new consumer drone business
 
-车辆(部)
 
 
-广告
+http://www.sprucepointcap.com/irobot-corp-update/
 
+http://www.sprucepointcap.com/irobot-corp-update-2/
 
-时段
+http://www.sprucepointcap.com/irobot-corp-update-3/
 
+http://www.sprucepointcap.com/aerovironment-inc/
 
-刊例价
-万元/月
+https://www.marketwatch.com/story/irobot-shares-drop-more-than-20-as-earnings-outlook-miss-street-view-2018-02-07
 
+https://www.fool.com/investing/2018/03/07/why-shares-of-aerovironment-inc-plunged-18-today.aspx
+Executive Summary
+6
 
-车辆
 
+Spruce Point Believes Kratos (Nasdaq: KTOS) Is A 
+“Strong Sell” With 40% - 70% Downside Risk
 
-基数
 
+Terrible Business Through Multiple Reinventions Now Hyping Drones: Originally a dotcom darling named Wireless Facilities that IPO’ed in 
+1999 with hopes of being the leading provider of outsourced services for wireless networks, the Company collapsed and later took a large 
+accounting restatement when material weaknesses were revealed. Under new management, a name change to Kratos in 2007, and a 
+divestment of businesses, the Company started focusing its efforts on products and solutions related to Command, Control, Communications, 
+Computing, Combat Systems, Intelligence, Surveillance and Reconnaissance (“C5ISR”). After failing to execute on these opportunities, Kratos is 
+now promoting its billion dollar opportunities in unmanned systems (drones) in the hopes of finally turning the corner to sustain profits and 
+free cash flow, both of which have been forever illusive for shareholders
 
-优惠
 
+After a reckless and failed acquisition spree from 2008-2012, Kratos teetered on credit default before divesting a key division to 
 
-折扣
 
+deleverage, and pivoting focus to hype its unmanned systems (aka drones) business. With its share price rising, and a wave of equity 
 
-实收价格
 
+offerings, Kratos has made a remarkable come back. However, after a close forensic analysis, we question the legitimacy of Kratos’ 
 
-(元/ 月）
 
+success and its ability to hit its aspirational goals of $800m of revenues at 10% EBITDA margins. Given the propensity of Kratos to over-
 
-四川 15秒 1039 A段 13.5 ／ 4.5折 60750元
-重庆 15秒 750 A段 14.5 0.7
 
+promise and under-deliver, we do not believe it warrants its premium valuation. We see 40%-70% downside risk
 
-4.5折 45675元
 
+Significant Value Destruction Through Wasted Mergers and Acquisitions: From 2008–2012, Kratos acquired ten businesses for nearly $1bn. 
+These deals contributed an estimated $801m and $129m of sales and EBITDA (16.1% margin). Yet, recent results suggest $239m and $69m of 
+sales and EBITDA losses, net of divestitures, and margins are a pathetic 7.2%. Kratos looks like an abysmal failure run by management adept at 
+value destruction. Share dilution is +24% p.a. since the current management team took control, while cumulative free cash flow is -$25m. 
+Leverage skyrocketed to >10x EBITDA, forcing it to initiate a strategic review process in 2015, which resulted in the divestment of its Electronics 
+Products Division, allowing it to avert default. Kratos is now selling its Public Safety business at a depressed valuation of 0.5x and 6.5x 2018E 
+sales and EBITDA (despite claiming it will generate free cash flow this year) and impaired more goodwill. Brace for additional disappointment.
+Warning About Management History Associated With Past Scandal: Kratos is led by Eric DeMarco (CEO) and Deanna Lund (CFO) since 2003-
+2004. These executives joined from Titan Corp, where DeMarco was COO and Lund was Titan’s Controller. Titan was a tainted defense 
+contractor that in 2005 paid the largest fine in history (at the time) to settle criminal and civil charges that it violated the Foreign Corrupt 
+Practices Act. Lockheed Martin aborted a takeover of Titan Corp after conducting its due diligence on this matter. According to shareholder 
+lawsuit documents, Titan engaged in a scheme to inflate revenues and book fictitious receivables. Titan used “middlemen” and “private 
+consulting companies” with ties to foreign government officials to secure business. The litigation says confidential witnesses claim DeMarco 
+knew about the corruption and DeMarco was responsible for transferring funds to Benin, the African country involved. DeMarco was also 
+allegedly the source of the “percentage of completion accounting techniques learned from the ‘Andersen school of accounting’ that allowed 
+Titan to either overstate or prematurely state revenues at the company.” We note that Kratos CFO Deanna Lund  omits from her current 
+biography that she worked at Arthur Andersen, the defunct auditor that collapsed after the Enron scandal. Management has placed another 
+former financial partner from its Titan Corp days on the Audit Committee as an “independent” member, so we worry that adequate oversight is 
+absent. Management owns virtually no stock and appears more focused on milking its cash compensation by reaping a large % of EBITDA
+7
 
-江苏 15秒 2901 A段 16.6 2
-4.5折 149400元
 
+Spruce Point Believes Kratos (Nasdaq: KTOS) Is A 
+“Strong Sell” For The Following Reasons:
 
-福建 15秒 1564 A段 10.8 1.5
-4.5折 72900元
 
+Kratos Doesn’t Behave Ethically And Has A History of Association With Bad Activities: Engaging middlemen and private consulting companies 
+to gain illicit business appears to be a notable tactic that has followed CEO DeMarco from Titan Corp to Kratos. Coincidence or not? Spruce 
+Point uncovered an undisclosed corruption case late last year of a senior Kratos Director pleading guilty to conspiring with others (including an 
+Army Colonel), and using a shell company OzTEK Research LLC to fraudulent obtain $20m worth of contracts over a decade from the US Army 
+in Georgia. Ethical problems and government sanctions appear more the norm, rather than one-off lapses of judgement at Kratos; we have 
+identified a disturbing pattern of problems associated with Kratos’ businesses over the years which investors need to strongly evaluate
 
-广东 15秒 1532 A段 19.6 1.5
-4.5折 132300元
 
+The Bull Case On Kratos’ Drone Business Appears More Promotion Than Reality: With a newly adopted compensation clawback for financial 
+misstatement in place by November 2015, Kratos ramped its promotion of its drone opportunity, while along the way conducting three dilutive 
+equity raises. We believe its drone segment is an amalgamation of two legacy acquired businesses that are subscale and represent a meager 
+1% of unmanned system market share and DoD government spending. Many of its hyped programs are experimental and high risk in nature, 
+with no guarantee of commercial success, and not currently making money. Kratos has already stopped commenting on certain programs, 
+including Gremlins and UTAP-22. Its most hyped program (LCASD) requires Kratos to front 82% of the capital. Kratos would like investors to 
+believe the deal allows it to protect its IP, but in our view, it shows the Air Force’s desire to push the risk (and cost) to Kratos, while providing it 
+a cheap abandonment option. We estimate Kratos has spent a meager $63m on capex and R&D for its drone ambitions since 2013. The only 
+two pure play drone companies, AeroVironment and Parrot SA, have spent $255m and $365m, respectively, during the same period. Although 
+each company operates in a different market segment for drones, Kratos touts its drones to be “high performance jet aircraft made of special 
+composite materials”; this heightens our concerns that Kratos is materially underspending to become a credible unmanned systems player
 
-湖北 15秒 1087 A段 13.5 ／ 4.5折 60750元
 
+Beware History of Failure To Meet Expectations, Cash Flow Struggles More Evident: Bulls are buying into Kratos story that it can reach $800m 
+of revenues (pre PSS divestiture) at 10% EBITDA margin, while generating positive free cash flow. Our analysis of its ability to hit its financial 
+targets (especially free cash flow) suggests investors should brace for disappointment. In addition to recent executive turnover in key positions 
+(chief accountant, drone president, and CIO), Kratos quietly started disclosing a large loss accrual on contracts, rising 500% between 2015 and 
+2016. Its business mix has deteriorated (declining backlog and highest % of fixed-price, high risk contracts in its history). Its historical backlog 
+definition is very aggressive, so take it with a grain of salt. However, most alarming in Q3’17 Kratos materially increased its cash burn estimate, 
+cut drone capex in Q4’17, has DSOs rising to multi-year highs, and unexpectedly sold its PSS segment at a depressed value to raise cash
 
-青岛（山东
-省）
 
+Analysts See +29% Upside, A Terrible Risk/Reward Considering We See 40%-70% Downside: Kratos has among the highest valuation in the 
+aerospace and defense sector (20x and 70x 2018E EBITDA and P/E), despite having weak margins, poor management that cannot prevent 
+activities that run afoul of laws, suspect accounting that doesn’t depreciate corporate segment assets, and a history of failure. Its valuation is at 
+a multiyear high, based on the hope that this time is different. Analysts are bullish, and some arbitrarily pencil in a few dollars per share for 
+“future potential drone opportunities.” Many long-term fundamental Kratos holders have ditched the stock, leaving rules-based indices to buy. 
+Valuing Kratos at a discount to peers on EBITDA, free cash flow, and book value we estimate 40%-70% downside ($3.15-$6.30/sh)
+8
 
-15秒 750 A段 15.3 0.7
-4.5折 48195元
 
+Kratos CEO DeMarco
 
-合肥（安徽
-省）
 
+Litigation brought against CEO DeMarco while an executive at Titan Corp suggested that confidential witnesses knew he played 
 
-15秒 338 A段 12.8 0.3
-4.5折 18280元
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+an active role in fraud and was the source of “the Andersen school of accounting” – a reference to the disgraced auditing firm, 
 
-投放
 
+Arthur Andersen, where Kratos’ current CFO Lund worked (though she omits it from her biography).
 
-城市
 
+The shareholder litigation case was settled for $61.5m and Titan paid $28.5m in FCPA fines.
 
-广告
 
+Source: Titan Inc Securities Litigation and Settlement for $61.5m
+Source: Titan Pays $28.5m to settle Foreign Bribery 
 
-规格
 
 
-发布
+http://securities.stanford.edu/filings-documents/1030/TTN04-01/2004917_r01c_04676.pdf
 
+https://www.gilardi.com/pdf/tcrp1not.pdf
 
-车辆(部)
+http://www.nytimes.com/2005/03/02/business/titan-corp-to-pay-285-million-in-fines-for-foreign-bribery.html
+9
 
 
-广告
+Kratos: A Collection of Tainted Assets
 
 
-时段
+“You Get What You Pay For” - A sum of the parts analysis for Kratos doesn’t look pretty
 
 
-刊例价
-元/月
+Kratos Defense & Security Solutions (KTOS)
 
 
-车辆
+Charges of Fraud and 
+Regulatory Issues
 
 
-基数
+Including a recent indictment 
+of a Senior Kratos Director 
 
 
-优惠
+for a $20m scheme
+(undisclosed June ‘17)
 
 
-折扣
+Herley Industries
+• Chairman indicted on allegations of 
 
 
-实收价格
+misrepresenting costs, and creating fake 
+bids to the gov’t
 
 
-(元/ 月）
+• Auditor revokes opinion
+• Herley pays $9.5m in fines + pleads guilty
+• Herley fails to sell itself at auction
+• Kratos acquires Herley for $270m in 2011
 
 
-浙江 15秒 127 A段 16.6 0.1 4.5折 7470元
+As part of the Herley acquisition, acquired 
+Micro Systems, based in Ft. Walton Beach, 
 
 
-上海 15秒 296 A段 21.0 0.2
-4.5折
+FL. In 2009, a competitor brought legal 
+action claiming that through former 
 
 
-18900元
+employees it obtained trade secrets to 
+unfairly compete
 
 
-江西 15秒 182 A段 9.9 0.1
-4.5折
+Integral Systems
+• CEO convicted of sex offense
+• Failed strategic sale in 2006
+• Defense Audit Agency found 
 
 
-4455元
+accounting weaknesses
+• SEC sanctions company for 
 
 
-北京 15秒 548 A段 19.6 0.5
-4.5折
+employing Gary Prince, a formerly 
+convicted executive
 
 
-44100元
+• Kratos acquires in 2011 for $241m
 
 
-天津 15秒 760 A段 16.6 0.7
-4.5折
+Composite Engineering
+• A core component of Kratos’ drone 
 
 
-52290元
+ambitions, based near Sacramento, CA
+• Jan 2015: Settles with US Dept. of 
 
 
-河北 15秒 321 A段 15.3 0.3
-4.5折
+Justice on allegations of inflating costs
+• Spent nothing on R&D at time of its 
 
 
-20655元
+acquisition
+• Growth plummeted post-acquisition
+• One of the founders has left
+• Kratos acquires in 2012 for $164m 
 
 
-江西 15秒 163 A段 10.8 0.1
-4.5折
+Undocumented Accounting Concerns 
+“Corporate Activities” Assets The 
 
 
-4860元
+Fastest Growing Category Not Being 
+Depreciated –We Estimate GAAP 
 
 
-!  全国广告投放费用:
-高速有多长 品牌就传多远
+Earnings Overstated By ~$2m, 
+Material For A Cash Burning Business
 
 
-!  特别支持
+Kratos Three Largest Acquisitions All Tainted
 
 
+These are the two core businesses 
+central to Kratos’ highly promoted 
+Drone aspirations, which generates 
 
 
+negative operating profit
+10
 
-1、买一赠一”活动
-     ① 即买一个时段15秒赠送另一个时段15秒 实播两个时段。
 
+KTOS’s Capital Structure and Valuation
 
-     ②即买一个月15秒赠送另一个月15秒 实做一个月送一个月。  
-          注: 单时段: 每车每小时播一次广告，
 
+Source: Company filings. Pro forma for $300m bond issue
 
-               双时段：每车每小时播两次广告 
- 
-2、投播全国赠送：
 
+Figures adjusted for sale of PSS segment and reflect incremental cash proceeds of $70m
 
-      转场冠名广形式为投放方式：如*****提醒您精彩稍后继续   （排在常规     
-广告前，增加品牌关注度）
 
+1) Pre-sale of PSS segment
 
-3、折上折：
-       投播全国地区的可在刊例折后的基础上再予以8折支持优惠。
-高速有多长 品牌就有多远高速有多长 品牌就有多远
 
+2) Kratos does not depreciate its $127m of “corporate activities” segment asset. We model 2.5% annual depreciation expense 
 
-感谢您的关注,
 
+Kratos is trading at peak valuation on the inflated belief that “this time is different” and that its aspirations in the 
 
-真诚希望能够与贵司携手开拓市场,
 
+heavily promoted unmanned systems (aka: Drones) will drive nearly $800m of revenues and near record 10% 
 
-实现共赢！
 
+EBITDA margins. (1) We believe investors should brace for disappointment, a cold hard fact of management’s 
 
-                      并祝
 
+repeated ability to over-promise and under-deliver.
 
-                          商祺!
-Page 
-14 
 
+$ in mm, except per share figures
 
-Appendix C 
-Telephone call transcript
-Page  
 
+Street Valuation (CY) 2017E 2018E 2019E
 
-15 
 
+Stock Price $10.50 EV / Sales 2.0x 1.8x 1.7x
 
-(The conversation has already been in progress for about two minutes before the recording started.  The parties had 
-discussed in prior QQ conversations that CCME is listed in the United States.) 
-… 
 
+Diluted Shares Outstanding 103.5 EV / EBITDA 25.0x 19.8x 18.3x
 
-Analyst: You want me to talk to my manager?  What do you want me to say?  What’s the situation? 
-CCME Rep: If you can, can you just tell him that the quoted proposal is for particular bus lines? 
-Analyst: Talk to my manager?  But the manager who worked on this project and I are no longer working for the 
 
+Market Capitalization $1,086.8 EV / FCF NM 76.7x NA
 
-company.  Does it still make sense to talk with him? 
-CCME Rep: Oh, he also left this company? 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
 
+Credit Facility due 2019 $0.0 Price / Adj EPS 87.5x 70.0x 32.2x
 
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
 
+6.5% Notes due 2025 $300.0 Price / Book 2.1x -- --
 
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
 
+Israeli Term Loan $1.0 Growth and Margins 2017E 2018E 2019E
 
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example… 
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
 
+Total Debt Outstanding $301.0 Sales Growth 9.8% 8.6% 11.0%
 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
 
+Less: Cash and Equivalents $199.6 EBITDA Margin 8.0% 9.3% 9.1%
 
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of vehicles we 
-quoted you.  The number we reported is multiplied by two, or doubled.  Do you understand now? 
 
+Enterprise Value $1,188.2 EPS Growth 271.4% 25.0% 117.3%
 
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
 
+Spruce Pt. Adjusted 2017E 2018E 2019E
 
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
 
+Price / Adj EPS (2) 110.6x 80.7x 34.3x
+Evidence of Financial Struggles
+12
 
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
 
+$0
 
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve claimed 
-to the public is the total number, but the number we gave you is the vehicles installed with devices.  So there are some 
-conflicts. 
 
+$200
 
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number we’ve 
 
+$400
 
-reported to the market regulator.  What we’ve reported to the market regulator is the number under contract.  The number 
-I’ve given you is contracted with devices installed.  
 
+$600
 
-Analyst: I see.  And what do you want me to do to help you? 
-CCME Rep: There’s nothing you can help me with right now. 
-Analyst: Does your company know that it’s you? 
-CCME Rep: I have one question.  Have you told your colleagues I’m the person you contacted? 
-Analyst: No.  I’m the only person communicating with you from my company.  In my company, the person initially 
 
+$800
 
-in charge of something is responsible until it finishes. When you wanted to meet with my manager, he asked me to 
-communicate with you and make sure everything is ok through the finish.  Therefore, I’d be your only contact the entire 
-time.
-Page  
 
+$1,000
 
-16 
 
+$1,200
 
-CCME Rep: That’s good.  If there are people checking with you about me, then just tell them you don’t know me. 
-Analyst: ok, and actually those who were working on this matter have already left the company with my boss. There 
 
+$1,400
 
-are only two or three still staying in that company.  I’m not sure if they’re the people who passed out the information.  But 
-they don’t know you, and I’ve never mentioned you. 
 
+$1,600
 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
-sent you before. 
 
+$1,800
 
-Analyst: Have you given the same proposal to other customers？ 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
 
+Kratos: A Long-Term Loser 
 
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
 
+Long-term Kratos investors have been burned, but a repositioning of the Company as a play on unmanned aerial systems (aka 
 
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been replaced at 
 
+Drones) has sparked a nearly 4x increase in its share price from 2015 – near all time lows. Investors should be very concerned that  
 
-that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s.  
-Analyst: Oh, I see. Then you’ll be ok. 
-CCME Rep: The problem is that they may find it in the server.  I feel so bad…. 
-Analyst: I don’t think they’re able to investigate me.  Are they able to find out who I am? 
-CCME Rep: I don’t know. They might find your QQ, or they might talk with you.  Just tell them you don’t know 
 
+a clawback for financial misstatement was adopted right before its stock price increased, allowing the Company to raise nearly 
 
-whom you’ve been in contacted with?  Anyway, anything about China MediaExpress, please just don’t mention me. 
-Analyst: Ok, don’t worry.  I won’t talk about you, and also I’ve left that company already. 
-CCME Rep: You say you’ve left that company, but you’re still working for the old boss? 
-Analyst: Yes, but the company that was going to hire you doesn’t exist anymore. 
-CCME Rep: You mean that the company doesn’t exist anymore? 
-Analyst: No, the company still exists, but the people who used to work on this matter don’t work there anymore.  So 
 
+$350m of equity. During this period, its Chief Accounting Officer resigned, a Director was indicted in a $20m fraud by the 
 
-if the auditing firm finds the company, there’s nobody there who knows what’s going on. 
-CCME Rep: Is it possible that any of your colleagues have passed on the proposals? 
-Analyst: All of them have this proposal because I sent it out to them before the meeting so they can prepare.  The 
 
+Dept. of Justice and the Company made its first disclosure of a large contract loss accrual.
 
-chance of leakage from my sources is very slight. 
-CCME Rep: Maybe not possible, but maybe they found out from the managers who were at the meeting. 
-Analyst: I don't know, maybe the computers in your company were hacked? 
-CCME Rep: Really? 
-Analyst: I don’t know, but anything’s possible. 
-CCME Rep: It’s lucky that I didn’t leave my number on the proposal. 
-Analyst: If someone calls me asking about you, I’ll definitely tell them I don’t know.  Don’t worry, the chances are 
 
+$0
 
-very low.
-Page  
 
+$2
 
-17 
 
+$4
 
-CCME Rep: Ok. 
-Analyst: If there’s something you need help with, you can always call me. 
-CCME Rep: Please tell the manager to not pass out this proposal to anyone else. 
-Analyst: Ok, actually the proposal isn’t useful to us now.  Just as I told you yesterday – this matter won’t move 
 
+$6
 
-forward.  So don’t worry, and I’ll tell them to delete it.  We don’t keep things that we’re not using.  
-CCME Rep: How many people were at the meeting? 
-Analyst: Maybe seven or eight, and not all of us have this proposal.  Each person on our team handles different 
 
+$8
 
-things.  Some focused on Bus Online, some are in charge of China MediaExpress, and some are in charge of other media 
-companies.  For example, my colleague got the proposal from Bus online.  He’ll email it to me, and of course I’ll email 
-your proposal to him as well.  And our company isn’t big, there are only a few who know about this. 
 
+$10
 
-CCME Rep: Maybe the auditing firm was asking around and found your company? 
-Analyst: Most people in my company don’t know about this. Even if the auditing company asks them, they’ll have no 
 
+$12
 
-idea. The people who were working on this case have left that company, and I’ll tell my colleagues and manager to keep 
-quiet. 
 
+$14
 
-CCME Rep: Tell them that the vehicles we quoted before are all for particular lines. That is yet. 
-Analyst: Ok.  
-CCME Rep: Well, thank you. 
-Analyst: Don’t worry, nothing will happen. 
-CCME Rep: Thanks, Bye
-Page  
 
+$16
 
-18 
 
+March 2017: 
 
-Appendix D 
-Chairman Cheng’s letter
-! ! ! ! ! ! ! ! ! ! ! ! !
-!
-"#!$%&!'()&*(#+,*&-!).,!/&0*.,-1!
-!
 
+Raises 
 
-"#!"$$"%&!'(!
-)*+,$!)-..-,)!$*"$!%"/)-0!1+."$2.-!)32#4)!2#!2$)!)$+%&!5,2%-6! ! 7"#"4-8-#$!"#0!9
-:+",0!+;!<2,-%$+,)!",-!&--#.(!"3",-!+;!$*-2,!,-)5+#)2'2.2$(!$+!5,+$-%$!+/,!2#1-)$+,)!
-;,+8!$*-)-!,-%&.-))!"#0!'")-.-))!"$$"%&)!"#0=!"%%+,02#4.(=!$*-!9+85"#(
-"/$*+,2>-0!$*-!-#4"4-8-#$!+;!+/$)20-!%+/#)-.!"#0!+$*-,!%+#)/.$"#$)!$+!"012)-!2$!
-32$*!,-4",0!$+!"55,+5,2"$-!%+/#$-,8-")/,-)6!
-!
-?+!".."(!$*-!%+#%-,#)!+;!$*+)-!)*",-*+.0-,)!3*+!*"1-!,-"0!$*-!'.+4!5+)$)!+;!$*-!
-)*+,$!)-..-,)!"#0!3+#0-,-0!2;!$*-,-!2)!"#(!'")2)!$+!$*-2,!)$"$-8-#$)=!8"#"4-8-#$!*")!
-5,+120-0!'-.+3!"!5,-.282#",(!,-12-3!+;!$*-!;"%$/".!2#"%%/,"%2-)!"#0!82).-"02#4!
-2##/-#0+!-85.+(-0!'(!$*-)-!'.+44-,)!;+,!$*-2,!)-.;@'-#-;2$6!
-!
 
+$86.3m @ 
 
-!
-!
-A#!B"#/",(!CD=!EFDD=!92$,+#!G-)-",%*!5/'.2)*-0!"!,-5+,$!-#$2$.-0! ?*-!9*2#"!G-1-,)-!
-7-,4-,!)$+ 6 ! A#!H-',/",(!D=!EFDD=!:,+#$-!9"52$".!
 
+$7.25/sh
 
-6 ! ! A#!H-',/",(!C=!
-EFDD=!7/00(!I"$-,)!
-,-%+88-#0"$2+#6! ! J"%*!+;!$*-)-!,-5+,$)!8"&-)!%-,$"2#!"..-4"$2+#)!"'+/$!9*2#"!
 
+Sept 2017: Raises 
 
-=!".$*+/4*!#+#-!+;!
-$*-! 32$*!8"#"4-8-#$!+;!997J!
-+,=!$+!+/,!&#+3.-04-=!5-,;+,8-0!"#(!8-"#2#4;/.!0/-!02.24-#%-!+#!$*-!9+85"#(!+,!
-)+/4*$!$+!0-1-.+5!"!,24+,+/)!;2#"#%2".!8+0-.!+;!2$)!'/)2#-))!2#!$*-!8"##-,!"#(!I"..!
-K$,--$!,-)-",%*!"#".()$!3+/.06! ! I-!*"1-!-1-,(!,-")+#!$+!'-.2-1-!$*"$!-"%*!+;!$*-)-!
 
+$186m @ $12.25/sh
+Nov 2017: Issues 
 
-!"$!$*-!
--L5-#)-!+;!+/,!)$+%&*+.0-,)! !3*-#!$*-(!)/%%--0!2#!0,212#4!0+3#!$*-!5,2%-!+;!+/,!
-)$+%&6! ! ?*2)!%+#;.2%$!+;!2#$-,-)$!421-)!,2)-!$+!/#0-,)$"#0"'.-!0+/'$)!"'+/$!$*-2,!
-8+$21"$2+#!"#0!2#$-#$2+#)!"#0=!+;!%+/,)-=!$*-!+'M-%$212$(!"#0!.-42$28"%(!+;!$*-2,!
-,-5+,$)6 !
-!
-!
-?*-!8"##-,!2#!3*2%*!$*-!)*+,$!)-..-,)!)--8!$+!*"1-!$28-0!"#0!%++,02#"$-0!$*-2,!
-!"
-"
 
+$300m 6.5% Snr 
 
-#$$%&'(")*+,("-.'%"'/#-&"0*'-1+'#"('&+'#2,3" " 4,"0(-.2"'/#"+.%.,1-',"%$"'/#"-.'#&.#'"+.5"
-)06*-7-8-.2"+("1+.,"0.$%0.5#5"+**#2+'-%.("+("'/#,"7+."7&+$'9"'/#,"7+."1+:#"-'"*%%:"+("
--$"'/#&#"-("+"2&%0.5"(;#**"%$"7&-'-7-(1"+2+-.('"'/#"<%1)+.,";/#."-."&#+*-',"+**"'/#"
-7*+-1("#1#&2#"$&%1"+"(1+**"2&%0)"%$"(#*$=-.'#&#('#5")+&'-#(3" " >/#-&"0*'-1+'#")*+."-("
-.%'"+"7%1)*-7+'#5"%.#3" " ?("*%.2"+("'/#,"7+."5&-@#"5%;."'/#"('%7:")&-7#";/#."'/#"A3B3"
-1+&:#'("+&#"%)#."C#@#."-$"'/#&#"-("+"/%*-5+,"-."</-.+D"+.5"'/#."7%@#&"'/#-&"(/%&'"
-)%(-'-%."7/#+)*,"+.5"E0-7:*,9"'/#,"/+@#"+77%1)*-(/#5"'/#-&"2%+*3" " F'"5%#(".%'"'+:#"
-*%.2"$%&"'/#1"'%"1+:#"+")&%$-'"+'"'/#"#G)#.(#"%$"'/#"7%1)+.,"+.5"%'/#&"
-(/+&#/%*5#&(9")+&'-70*+&*,9"-$"+**#2+'-%.("+&#"1+5#";/-*#"60(-.#((#("-."</-.+"+&#"
-7*%(#53"
-"
->/#"<%1)+.,";-**"+7'-@#*,"&#(-('"'/#"#$$%&'("%$"'/#(#"(/%&'"(#**#&(3" " H-&('"+.5"
-$%&#1%('9"!"#$%&'()*+$%)!#,&-.%)//+$0#*.#1$!"#$)//#,)!.&*1$')0#$.*$
-!"#1#$(23/.%)!.&*14$ $ I#"+55&#(("6#*%;"'/#"1%('"(-2.-$-7+.'"7*+-1("1+5#"-."'/#(#"
-1+'#&-+*(" "+**"%$";/-7/"7%.'+-."*+&2#"$+7'0+*"#&&%&(3" " >%"'/#"#G'#.'"-'"-(".#7#((+&,9";#"
-;-**")&%@-5#"+"1%&#"7%1)&#/#.(-@#"&#()%.(#"+'"'/#"+))&%)&-+'#"'-1#3"
-"
-I#"+*(%".%'#"'/+'"'/#"+''+7:("+&#"7%.'-.0-.2"+.5";#"$0**,"#G)#7'"'%"7%.'-.0#"'%"/+@#"
-'%"'+:#"+))&%)&-+'#"7%0.'#&1#+(0&#(3"
-"
 
+Notes due 2025
 
-$
-$
-)//#,)!.&*J">/#"<%1)+.,"-("+"$&+05"+.5"&#)%&'#5"&#@#.0#"-("#G+22#&+'#5"6,"'#.("%$"
-1-**-%.("%$"5%**+&(3"
-5)%!J">/#"<%1)+.,"-("('&%.2"+.5"5%-.2";#**3" " F'("&#@#.0#("+.5"7+(/")%(-'-%."/+@#"
-6##."+05-'#5"6,"&#)0'+6*#"+.5";#**=:.%;."+05-'%&(";/%"/+@#"7%.$-&1#5"6%'/3" " "
-$
-)//#,)!.&*
-<<KL"/+("*#(("'/+."/+*$"%$"'/#"60(#("0.5#&"7%.'&+7'"7%1)+&#5"'%"<<KL"
-&#)&#(#.'+'-%.(3"
-5)%!J"?("%$"'%5+,9"'/#"<%1)+.,"70&&#.'*,"/+("!M9!NN"60(#("0.5#&"7%.'&+7'9"+.5"-."
-+55-'-%."'%"%0&"&#20*+&"1%.'/*,"-.5#)#.5#.'"+05-'"+.5"@#&-$-7+'-%."6,"<>O"K+&:#'"
-O#(#+&7/" ";/-7/";#")#&$%&1"$%&"'/#"6#.#$-'"%$"%0&"+2#.'("+.5"70('%1#&("==";#";-**"
-#.2+2#"+")&%$#((-%.+*"'/-&5")+&',"'%"@#&-$,"'/+'"$+7'3" " ?*'/%02/"K055,"I+'#&("7*+-1("
 
+June 2017: 
 
-()&#+5"(/##'("'/+'"K055,"I+'#&("7*+-1("'%"7%1#"$&%1"%0&":-'9"'/+'"(-1)*,"-(".%'"'/#"
-7+(#3" " >/#"()&#+5"(/##'("%.";/-7/"K055,"I+'#&(")0&)%&'("'%"&#*,"C+D"5%".%'"*%%:"
-*-:#"%0&(9"C6D"+&#".%'"-."'/#"(+1#"$%&1+'"+("%0&(9"C7D"+))#+&"'%"/+@#"6##."+0'/%&#5"6,"
-!"
-"
 
+Kratos Director 
 
-#$"%$&%'%&(#)"($*$+,$"-+"(."/0#.1&"+$"#"21'%1,"+3"-41"5&3"&+6(7
-.16-%+$8"-41"$#71"+3"-41"#(-4+2"&+1."$+-"#551#2"-+"01"#"$#71"+3"#$9"+3"+(2":4%$1.1"
-.-#33;8"#$&"7+.-"%75+2-#$-)9"/&;"&+"$+-"4#'1"-41".#71"%$3+27#-%+$"#."-41".521#&"
-.411-."-4#-"#21"%$6)(&1&"%$"+(2"#&'12-%.%$<"*%-=" " >1"+0'%+(.)9"&+"$+-"*$+,",4121"
-?(&&9">#-12.".+(261&"-4%."%$3+27#-%+$8"0(-",4#-",1"&+"*$+,"%."-4#-8"6+$-2#29"-+"
-,4#-"?(&&9">#-12.".#%&" %."$+-"-41".#71"#."+(2"
-#&'12-%.%$<"*%-=" "
-@41".521#&".411-.")%$*1&"-+"-41"?(&&9">#-12." 4#'1".%<$%3%6#$-"
-&%.6215#$6%1."32+7" 64#2-."
-%$&%6#-1A" " "
-"
 
+Fulton indicted 
 
-"
-"
 
+for fraud by 
 
-"
-+33%6%#)"#&'12-%.%$<"*%-"/.4+,%$<".+71"+3"-41".#71"
 
+Dept. of Justice
 
-0(.1.8",%-4".6211$"6+($-."#$&"1$-%21)9"&%33121$-".1B(1$6%$<;A"
 
+Nov 2016: 
 
-" "
-"
-?+21+'128"-41"$(7012."215+2-1&"09"?(&&9">#-12."#21"1$-%21)9"&%33121$-"32+7"-4+.1"
-#551#2%$<"%$"+(2"#&'12-%.%$<"*%-=" " >1"4#'1"-2%1&"-+"3%<(21"+(-"4+,"#$&",49"?(&&9"
->#-12."6+()&"4#'1"<+--1$"%-".+",2+$<8"0(-"+3"6+(2.1",1"&+"$+-"*$+,",4#-"-419"&%&=" "
->1"4#'1".+71"-41+2%1.8"0(-"-41"21#)%-9"%."-4#-"%-"%.",2+$<8"&2#7#-%6#))9".+="
-!"
-"
 
+Raises $76.1m 
 
 
+@ $6.00/sh
 
 
-"
-!""#$!%&'(
-#$%&'%&("
-)!*%)"*+,-"#./,0"1'.,'-"'%&,1'.2"$%"/%'#3$&/."'4,3'%#'("5%3'1"$61"#$%&1/#&-7"86-"
-$9'1/&$1-"/1'"%$&"/..$:'3"&$"1'0$4'"$61"9./2'1-"/%3"3,-9./2"#$%&'%&"%$&"91$4,3'3"82"
-$61"#$09/%2(" " ;61"0'3,/"9./2'1-"$9'1/&'"$%"/"+/13<31,4'"8/-'3"-2-&'0"&+/&",-"
-.$#='3(" " >'"+/4'"&/,.$1<0/3'"$61"0'3,/"9./2'1-"?:,&+"/"9/&'%&@"-$"&+/&",&",-"%'/1.2"
-,09$--,8.'"&$"9./2"#$%&'%&"$&+'1"&+/%"&+/&":+,#+":'"-699.2(" " *+'"#$%&'%&"$%"&+'"
-0'3,/"9./2'1-"#/%"$%.2"8'"693/&'3"82"AABC"$9'1/&$1-"/%3",-"&29,#/..2"693/&'3"$%"
-$61"#$%&1/#&'3"86-'-"&:,#'"/"0$%&+(" " D1,4'1-"/1'"%$&"/8.'"&$"-:,&#+"$EE"&+'"FAD"
--#1''%-"361,%G"&+'"&1,9(" " H%"E/#&7"&+'"-2-&'0"/6&$0/&,#/..2".$/3-"/%3"9./2-"&+'"
-#$%&'%&":+'%"&+'"86-"'%G,%'"-&/1&-"/%3"/6&$0/&,#/..2"-+6&-"3$:%":+'%"&+'"86-"
-'%G,%'",-"&61%'3"$EE(" " "
-"
-!""#$!%&'()"A*I"1'-'/1#+"1'9$1&-"/1'"
-0/%/G'0'%&(" " "
-)!*%)"A*I",-"/%",%3'9'%3'%&"/%3"4'12"1'96&/8.'"1'-'/1#+"91$4,3'1(" " J0$%G"$&+'1"
-&+,%G-7"A*I"6-'3"/"K6'-&,$%%/,1'"-614'2"&$"G/&+'1"8/-,#"3/&/"E1$0"86-"#$09/%,'-"
-/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"A$006%,#/&,$%(" " *+1$6G+"&+'"
-K6'-&,$%%/,1'7"A*I",-"/8.'"&$"K6/%&,E2"&+'"%608'1"$E"#$%&1/#&'3"4'+,#.'-7"FAD"
--#1''%-"/%3"0$%&+.2"-60"$E"9/--'%G'1-(" " H&"/.-$"$8&/,%'3"-&/&,-&,#/."3/&/"$E"
-/34'1&,-,%G",%",%&'1<#,&2"86-'-7"FAD"-#1''%-7"+/13"3,-="9./28/#="0$3'7"/%3"0$%&+.2"
--60"$E"9/--'%G'1-",%"&+'":+$.'"$E"A+,%/(" " J.."$E"&+,-"3/&/",-"91$4,3'3"82"&+,13"
-9/1&,'-" "&+'"86-"$9'1/&$1-"/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"
-A$006%,#/&,$%" "%$&"&+'"A$09/%2(" "
-"
-"
-!""#$!%&'( "/%3" "
-AABC"+/-"0,--&/&'3"&+'"%608'1"$E"86-'-",&"#$%&1/#&-":,&+"M',N,%G"J<'1<-+/"O/--'%G'1"
+Nov 2017: 
 
 
-<'1<-+/"O/--'%G'1"*1/%-9$1&/&,$%"
-"
+Increases FY17 
 
 
-)!*% 7"P+/%G+/,"M6-"H%36-&1,/."Q1$69"A$(7"
-F&3(7!#$%&1/#&'3":,&+"6-",%"RSST"?/%3"%$:@"E$1"U7TVR"86-'-(" " >'"$84,$6-.2"#/%%$&"
-#$00'%&"$%":+2"B6332">/&'1-":$6.3"1'9$1&"$&+'1:,-'7"$&+'1"&+/%"/-"0'%&,$%'3"
-/8$4'"1'G/13,%G"&+'"6%=%$:%" "86&"&+'"#$%&1/#&"
-3$'-7",%"E/#&7"'W,-&"/%3"&+'2"/1'".,-&'3",%"$61"#611'%&"/34'1&,-'1"=,&("
-"
-!"
-"
+cash burn estimate 
 
 
-#$%&"'()"*+,,-"./')$0"$)1%$'2"
-"
+to ($51)-($58)m
 
 
-"
-"
-#$%&"%+$"%33454/6"/,7)$'40)$"84'"9%:6-"'()"34$0'"'($))";+0)0"%+'"%3"'()"<=>?@"'%'/6"/$)"
-0(%A:"4:"'()")B5)$1'C2"
-"
+from ($23)-(28)m 
 
 
-"
-*+,,-"./')$0"/66)D)0"'(/'"4'"5%:'/5'),"$)1$)0):'/'47)0"%3"E60/"/:,"F4/:D"G%:D"E60/"
-'%"34:,"%+'"'(/'"'()-"%:6-"(/7)"@H";+0)0"/:,"IH";+0)0="$)01)5'47)6-J" " *+,,-"./')$0"
+during Q3 results
+Jan 2016: Comment letters from 
 
 
-"A);04')0"'%"0+11%$'"'(40"/66)D/'4%:J" "
-5'"A4'("/";+0"
+the SEC about material adverse 
 
 
-%1)$/'%$"%:";)(/63"%3"4'0)63"/:,"%'()$";+0"%1)$/'%$0J" " K3"5%+$0)"E60/"%$"F4/:D"G%:D"
-E60/"A%+6,":%'"&40$)1$)0):'"'%"'()"1+;645"'(/'"'()-"%1)$/')"&%$)";+0)0"'(/:"'()-",%="
-;+'":)4'()$"A%+6,"'()-"4:56+,)"/66"'()",)'/460"%3"'()4$"0+;5%:'$/5'4:D"/$$/:D)&):'0"
-$)D/$,4:D"/,7)$'404:D"&/'')$0"4:"'()4$"5%$1%$/')"A);04')J" " L(40"3/5'"/60%")B16/4:0"
-*+,,-"./')$0 ")B/DD)$/'),"5%:5)$:"%7)$"'()":+&;)$"%3"%1)$/'%$0"A)",%";+04:)00"
-A4'(" "4'"40"04&16-"'()"5/0)"'(/'"/'"/0"%3"M)5)&;)$"N<="@H<H"A)"(/,"04D:),"
-/D$))&):'0"A4'("%:6-"OH";+0"%1)$/'%$0";+'"'(/'"'(%0)"%1)$/'%$0"(/,"0+;5%:'$/5'4:D"
-/$$/:D)&):'0"A4'("&/:-"%'()$0"5%&1$404:D"'()"PP*Q":)'A%$8J!
-L()")B'$/%$,4:/$-",)3454):54)0"4:"*+,,-"./')$0 "4:56+,4:D"
-1$)0):'4:D"4:3%$&/'4%:"3%$"'()"A$%:D"5+0'%&)$="3/464:D"'%"4:7)0'4D/')"/:,"$)1%$'"
-1+;6456-"/7/46/;6)"4:3%$&/'4%:="/:,"3/464:D"'%"&/8)"3%66%AR+1"4:S+4$4)0"A4'("PP*Q" "
-:/'+$/66-"5/0'0",%+;'";%'("%:"'()4$"5/1/;464'4)0"/:,T%$"'()4$"%;U)5'474'-J" " "
-"
-"
-"##$%"&'() 4'%A"16/'3%$&J"
-*"+&2".)"04D:)," Q/,4:D"V$%+1="4:"
-M)5)&;)$"@H<HJ".)"):5%+$/D)"-%+="A():"4:"P(4:/="'%";+-"/:"4W/,"3$%&"'()&J" "
-"
-"##$%"&'() X+;V$)-(%+:,"M)&%D$/1(45 "
-*"+&2"K+$"'/$D)'"/+,4):5)"5%:040'0"%3"&)&;)$0"%3"(%+0)(%6,0"A4'("/;%7)R/7)$/D)"
-!"
-"
+changes and potential debt 
 
 
-#$%&'("&)"&*+",*-#($%("#.",/&*0"123"456778!5777"9(+"'&$0:;" " <:#."-('&=+,9:#%"#."
+acceleration
 
 
-,00+,%0#>("0&"0:(",->(+0#.(+."?#0:"?:&'"?(":,>("%&$0+,%0(-;" " @&'("&)"0:("=A&/,A"
+Aug 2004: Announced 
 
 
-%&'9,$#(."0:,0",->(+0#.("&$"&*+"9A,0)&+'",+("B($&>&5"C:#$,"2&/#A(5"@#('($.5"<&D&0,"
+multi-year accounting 
 
 
-,$-"E(9.#;" "
+restatement. 10-K notes 
 
 
-"
+material weaknesses
 
 
-!""#$!%&'()* ",$-"%(+0,#$"'(-#,"/*D(+."-&"$&0"F$&?"CC2G;*
-+!,%H"<:("%&'9,$#(."A#.0(-"#$"0:("2*--D"I,0(+."+(9&+0",+("$&0"#$"0:(".,'("#$-*.0+D"
-=+&*9",."CC2G;" " J2CK")&%*.(."&$"0:("%&''(+%#,A"+(,A"(.0,0(5"+(0,#A5"&*0-&&+"
+April 2004: Deanna Lund 
 
 
-/#AA/&,+-5",$-"L$0(+$(0",->(+0#.#$="9A,0)&+'."#$"C:#$,;" " " M2CK"#."#$"0:(",#+9&+0",$-"
+joins as CFO, formerly 
 
 
-,#+9A,$(".(='($0;" " NL@K",$-"3*."O$A#$(",+("#$"0:("#$0+,8%#0D"/*.".(='($0;"I(",+("
+Controller at Titan Corp. Eric 
 
 
-0:("'(-#,"',+F(0"A(,-(+"#$"#$0(+%#0D",$-",#+9&+0"(P9+(.."/*.(."#$"C:#$,5",$-"0:(+(",+("
+DeMarco assumes CEO. 
 
 
-$&"%&'9,+,/A("%&'9(0#0&+.5"(#0:(+"#$".#Q("&+"(P9(+#($%(;"
+Formerly COO at Titan Corp
 
 
-" " "
+March 2005: Titan Corp 
 
 
-!""#$!%&'(H"<:("R77S"@MLC"+(>($*("-&(."$&0"',0%:"?#0:"&*+"@GC"+(9&+0(-")#$,$%#,A"
-+(.*A0.;"
+settles criminal and civil 
 
 
-+!,%H" ?#0:"9(+0#$($0"@MLC"+*A(."
-,$-"9&A#%#(.;" " O*+"%&$.&A#-,0(-")#$,$%#,A"+(.*A0."+(9&+0(-"#$"0:("C&'9,$DT.",*-#0(-"
+charges, pays $28.5m in 
 
 
-)#$,$%#,A".0,0('($0.",+("9+(9,+(-"#$",%%&+-,$%("?#0:"U@"VMME;" " "
+largest Foreign Corrupt 
 
 
-"
+Practices case in history
 
 
-!""#$!%&'(H"CC2G":,."'#.A(-"#$>(.0&+."+(=,+-#$="=&>(+$'($0",99+&>,A"&)"#0."
-&9(+,0#&$." "
+Nov 2015: 
 
 
-"
+Clawback for 
 
 
-+!,%H"<:("/A&==(+.",+("9A,D#$="-#.#$=($*&*."?&+-"=,'(.;" " W&?(>(+"D&*"?,$0"0&"
-0+,$.A,0("0:("$,'("&)"0:(",99+&>,A5"0:("C&'9,$D":,."A*%+,0#>(",=+(('($0."
+accounting 
 
 
-0:+&*=:&*0"C:#$,"0:,0",+("9+&>#-#$=".0+&$="+(>($*(.")&+"0:("C&'9,$D",$-"#0."
+restatement 
 
 
-.:,+(:&A-(+.;" " <:#.",AA(=,0#&$"#.",$"(P,'9A("&)":&?"),+"0:("/A&==(+."?#AA"=&"0&"0+D"0&"
+adopted by the 
 
 
-%+(,0("0:("#AA*.#&$"0:,0"0:(+("#.".&'(0:#$="?+&$="?#0:"0:("C&'9,$D;" " CC2G":,."
+Comp 
 
 
--(9,+0'($0"*$-(+"0:("2#$#.0+D"&)"<+,$.9&+05"?:#%:":,."/#$-#$="())(%0"&$"0:("/*."
+Committee
 
 
-&9(+,0&+.;" " I(":,>("',-(","%&9D"&)"0:#.",99+&>,A",>,#A,/A("&$"&*+"%&+9&+,0("
+May 2016: 
 
 
-?(/.#0(5"?:#%:"#$%A*-(."0:("+(A(>,$0"<<MNC"@(,A"X+(-".0,'9Y;" " I:,0"0:("/A&==(+."
+Chief 
 
 
-" "#."0:,0"0:#.",99+&>,A"#."$&0"A*%+,0#>(5"#'9&+0,$05"&+"
+Acct’g 
 
 
-($)&+%(,/A("&+"(>($"0:,0"0:#.",99+&>,A"-&(."$&0"=#>("0:("C&'9,$D"0:("(P%A*.#>("+#=:0"
+Officer 
 
 
-0&",%%(..",$-",->(+0#.("0&"0:("9,..($=(+."&$"0:(.("/*.(.;" " <:("9+&&)"&)"0:("9*--#$="
+Duckworth 
 
 
-<<MNC"?#0:"&9(+,0&+."#$"%#0#(."0:+&*=:&*0"C:#$,;"
+Resigns
 
 
-"
+Jan 2017: 
 
 
-Z" " " " " Z" " " " " Z" " " " " Z" " " " " Z"
-!"
-"
+Drone 
 
 
-"
-#$"%&'()"*+&,(-"&./"*+010'2"'&"/($3&%)"4&531('(12"'&"'6($("+1&77(/$"0$"1050'()").("'&"
-'6("860%($("9(:";(*/"6&10)*2$" *"<*4'"'6*'":("+(10(,(":*$"30,&'*1"'&"'6("'050%7"&<"
-'6("/(1(*$("&<"'6($(" $ #1'6&.76":("6&3("'6*'"'6("0%,($'0%7"3.+104":011"
+president 
 
 
-''*4=$"<&/":6*'"'6(2"*/(-"'&"'6("(>'(%'"'6*'"*"<./'6(/"*%)"
-5&/("4&53/(6(%$0,("/($3&%$("0$".$(<.1-":(":011"3/&,0)("<./'6(/"0%<&/5*'0&%"'&"'6("
-0%,($'0%7"3.+104"*<'(/"'6("860%($("9(:";(*/"'&"/($3&%)"'&"'6($(")(<*5*'&/2"
-*11(7*'0&%$?"
-"
-!"#$%&'()&#**+& & @"3*/'04.1*/12"6&3("'6*'"'6("'6&$("$6*/(6&1)(/$":6&"6*,("/(5*0%()"
-1&2*1"'&"88AB"*%)"$6*/("'6(",0$0&%"@"6*,("'&"/($3&%$0+12"1(,(/*7("&./" "
-)($07%*'0&%"*$"'6("(>41.$0,("0%'(/C40'2"+.$"DE"5()0*"+2"860%*F$"A0%0$'/2"&<"D/*%$3&/'"
-*%)"'6(/(+2"7/&:"&./"/(,(%.("*%)"3/&<0'*+010'2":011"*44(3'"52"$0%4(/("*%)"6.5+1("
-'6*%=$"<&/"'6(0/"'/.$'"*%)"$.33&/'?" " @"*5"*1$&"6(*/'(%()"+2"'6("<*4'"'6*'"5*%2"
-3(&31("6*,(-".%+0))(%-"3&$'()"/($3&%$($"'&"'6($("$4.//01&.$"*''*4=$"*%)"6*,("
-$'/&%712"$.33&/'()"'6("8&53*%2?" " D6(2"6*,(")&%("'60$"&%"'6(0/"&:%-"*%)"@"'6*%="
-'6(5"<&/"'6(0/"$.33&/'?" " G&/"'6("$'&4="5*/=('"$3(4.1*'&/$"0%'(/($'()"0%"(%/0460%7"
-'6(5$(1,($"'6/&.76" -"*11"*'"
-'6("(>3(%$("&<"&./"0%,($'&/$-"@"*5"4(/'*0%"'6*'"'6(0/"*4'0&%$":011".1'05*'(12"4*'46".3"
-:0'6"'6(5?"
-"
-H6(%7"86(%7"
-86*0/5*%-"8BI"*%)"J/($0)(%'"
-G(+/.*/2"!-"KLMM"
+“retires” 
+
+
+Dec 2016:
+
+
+New CIO 
+
+
+appointed
+
+
+Feb 2017: $17m 
+
+
+contract accrual 
+
+
+loss disclosed in 
+
+
+10K footnotes
+
+
+Mar 18: Sell 
+
+
+PSS division 
+
+
+at depressed 
+
+
+valuation
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465917014908/a17-7778_18k.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465917056753/a17-18529_48k.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465917067080/a17-25044_48k.htm
+
+https://www.justice.gov/usao-sdga/pr/army-colonel-and-others-indicted-20-million-bribery-and-fraud-scheme-arising-out-fort
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465916158926/a16-22124_18k.htm
+
+https://seekingalpha.com/article/4119943-kratos-ktos-ceo-eric-demarco-q3-2017-results-earnings-call-transcript
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925816000054/filename1.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465904022302/a04-8844_1ex99d1.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465904027990/a04-10604_110ka.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000119312504070898/dex991.htm
+
+http://www.nytimes.com/2005/03/02/business/titan-corp-to-pay-285-million-in-fines-for-foreign-bribery.html
+
+https://www.sec.gov/Archives/edgar/data/1069258/000104746916011993/a2228087zdef14a.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925816000074/departureofofficer.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000002/beamanpressrelease.htm
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-appoints-kevin-walden-chief-information-officer
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000002/beamanpressrelease.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000009/ktos20161225form10-k.htm
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1059132
+13
+
+
+Kratos: A Business Model In 
+Constant Transition
+
+
+Prior to 2007 we were an independent provider of outsourced engineering and network deployment services, security systems 
+
+
+engineering and integration services and other technical services for the wireless communications industry, the U.S. government 
+
+
+and enterprise customers. In 2006 and 2007, we undertook a transformation strategy whereby we divested our commercial 
+
+
+wireless-related businesses and chose to pursue business with the federal government, primarily the U.S. Department of 
+
+
+Defense, through strategic acquisitions. On September 12, 2007, we changed our name from Wireless Facilities, Inc. (WFI) 
+
+
+to Kratos Defense & Security Solutions, Inc. (Kratos). Our new name reflects our revised focus as a defense contractor and 
+
+
+security systems integrator for the federal government, for state and local agencies, and certain commercial customers.
+
+
+We are a specialized technology focused security business providing mission critical products, solutions and services for 
+
+
+domestic and international customers, with our principal customers being agencies of the U.S. Government. Our core 
+
+
+capabilities are sophisticated engineering, manufacturing, technology development, system integration, and test and evaluation 
+
+
+offerings for national security platforms and programs. Our principal products and solutions are related to Command, 
+
+
+Control, Communications, Computing, Combat Systems, Intelligence, Surveillance and Reconnaissance (“C5ISR”). We 
+
+
+offer our customers products, solutions, services and expertise to support their mission critical needs by leveraging our skills
+
+
+across our core offering areas in C5ISR.
+
+
+Kratos 2007 to 2015:   $1 billion of Acquisitions To Become a C5ISR Play
+
+
+Kratos Today:  Unmanned Systems (aka. Drone) Hype
+
+
+Kratos Prior to 2007: Dotcom Hype As Wireless Facilities (WFI)
+
+
+Kratos is a government contractor at the forefront of the DoD’s Third Offset Strategy and Rapid Innovation Initiatives. Kratos is a 
+
+
+leading technology, intellectual property, proprietary product and system company focused on the U.S. and its allies’ national 
+
+
+security. Kratos is a recognized industry leader in the rapid development, demonstration and fielding of high technology systems
+
+
+and products at an affordable cost. Kratos’ primary focus areas are unmanned systems, satellite communications, microwave 
+
+
+electronics, cyber security/warfare, training systems, missile defense and combat systems. We believe that our technology, 
+
+
+intellectual property, proprietary products and designed-in positions on our customers’ programs, platforms and systems, 
+
+
+providing us with sole and single source positions with our offerings is a competitive advantage and high barrier to entry into our 
+
+
+markets. Our work force is primarily technically oriented and highly skilled with a significant number of employees holding national 
+
+
+security clearances. Our entire organization is focused on executing our strategy of becoming the leading technology and 
+
+
+intellectual property based company in our industry
+14
+
+
+Evidence of a Challenged Business Model
+
+
+Share Dilution Negative Cumulative Free Cash Flow Adj EBITDA Margin and Per Share
+
+
+EBITDA per share (RHS)
+
+
+This historical context for those new to the “evolving” Kratos story is abysmal.
+
+
+The Company has diluted shareholders at a rate of 20%+ p.a. and has generated negative cumulative free cash flow 
+
+
+throughout its public history. This has resulted in just $0.53 cents of “Adjusted” EBITDA per share to existing holders.
+
+
+Source: KTOS financials, adjusted for 10:1 reverse split in June 2009 
+
+
+Cumulative Amount
+
+
+-
+
+
+20.0
+
+
+40.0
+
+
+60.0
+
+
+80.0
+
+
+100.0
+
+
+120.0
+
+
+1
+9
+
+
+9
+8
+
+
+1
+9
+
+
+9
+9
+
+
+2
+0
+
+
+0
+0
+
+
+2
+0
+
+
+0
+1
+
+
+2
+0
+
+
+0
+2
+
+
+2
+0
+
+
+0
+3
+
+
+2
+0
+
+
+0
+4
+
+
+2
+0
+
+
+0
+5
+
+
+2
+0
+
+
+0
+6
+
+
+2
+0
+
+
+0
+7
+
+
+2
+0
+
+
+0
+8
+
+
+2
+0
+
+
+0
+9
+
+
+2
+0
+
+
+1
+0
+
+
+2
+0
+
+
+1
+1
+
+
+2
+0
+
+
+1
+2
+
+
+2
+0
+
+
+1
+3
+
+
+2
+0
+
+
+1
+4
+
+
+2
+0
+
+
+1
+5
+
+
+2
+0
+
+
+1
+6
+
+
+2
+0
+
+
+1
+7 ($60.0)
+
+
+($40.0)
+
+
+($20.0)
+
+
+$0.0
+
+
+$20.0
+
+
+$40.0
+
+
+$60.0
+
+
+$80.0
+1
+9
+
+
+9
+8
+
+
+1
+9
+
+
+9
+9
+
+
+2
+0
+
+
+0
+0
+
+
+2
+0
+
+
+0
+1
+
+
+2
+0
+
+
+0
+2
+
+
+2
+0
+
+
+0
+3
+
+
+2
+0
+
+
+0
+4
+
+
+2
+0
+
+
+0
+5
+
+
+2
+0
+
+
+0
+6
+
+
+2
+0
+
+
+0
+7
+
+
+2
+0
+
+
+0
+8
+
+
+2
+0
+
+
+0
+9
+
+
+2
+0
+
+
+1
+0
+
+
+2
+0
+
+
+1
+1
+
+
+2
+0
+
+
+1
+2
+
+
+2
+0
+
+
+1
+3
+
+
+2
+0
+
+
+1
+4
+
+
+2
+0
+
+
+1
+5
+
+
+2
+0
+
+
+1
+6
+
+
+2
+0
+
+
+1
+7
+
+
+($10.0)
+
+
+($5.0)
+
+
+$0.0
+
+
+$5.0
+
+
+$10.0
+
+
+$15.0
+
+
+$20.0
+
+
+(20.0%)
+
+
+(15.0%)
+
+
+(10.0%)
+
+
+(5.0%)
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+1
+9
+
+
+9
+8
+
+
+1
+9
+
+
+9
+9
+
+
+2
+0
+
+
+0
+0
+
+
+2
+0
+
+
+0
+1
+
+
+2
+0
+
+
+0
+2
+
+
+2
+0
+
+
+0
+3
+
+
+2
+0
+
+
+0
+4
+
+
+2
+0
+
+
+0
+5
+
+
+2
+0
+
+
+0
+6
+
+
+2
+0
+
+
+0
+7
+
+
+2
+0
+
+
+0
+8
+
+
+2
+0
+
+
+0
+9
+
+
+2
+0
+
+
+1
+0
+
+
+2
+0
+
+
+1
+1
+
+
+2
+0
+
+
+1
+2
+
+
+2
+0
+
+
+1
+3
+
+
+2
+0
+
+
+1
+4
+
+
+2
+0
+
+
+1
+5
+
+
+2
+0
+
+
+1
+6
+
+
+2
+0
+
+
+1
+7
+
+
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=401886
+15
+
+
+Kratos Appeared To Be Teetering on Financial 
+Destruction Prior To Its Recent “Success”
+
+
+Before Kratos’ magic stock rally began in 2016, and it divested its Electronics Products Division to Ultra Electronics in June 2015, 
+
+
+the Board hired an investment bank to assist in a formal review of Kratos’ strategic alternatives. (1) 
+
+
+The Company’s financial condition was deteriorating significantly with Net Debt / EBITDA > 10x and EBITDA interest coverage 
+
+
+hovering around 1x. Kratos’ financial condition even caught the attention of the SEC, which started issuing comment letters 
+
+
+about its line of credit and conditions of default in the event of a material adverse change. (2)
+
+
+$ in mm 2010 2011 2012 2013 2014 June 2015
+
+
+Cash and Equiv. $10.8 $67.9 $48.4 $54.2 $33.5 $22.2
+
+
+Short-Term Debt $0.6 $1.6 $1.5 $1.3 $1.1 --
+
+
+Long-Term Debt $226.1 $607.7 $610.8 $613.9 $655.4 $663.0
+
+
+Equity $169.9 $312.6 $324.1 $295.8 $224.3 $198.7
+
+
+Interest Expense, Net $22.3 $51.1 $66.1 $63.7 $54.3 $50.3
+
+
+Reported EBITDA $39.7 $93.0 $115.4 $100.3 $60.7 $36.9
+
+
+Credit Metrics
+
+
+Total Debt / 
+Debt and Equity
+
+
+57% 66% 65% 68% 75% 77%
+
+
+Net Debt / EBITDA 5.4x 5.8x 4.9x 5.6x 10.3x 12.1x
+
+
+EBITDA / 
+Interest Expense, Net
+
+
+1.8x 1.8x 1.7x 1.6x 1.1x 1.1x
+
+
+Credit Rating B+/B3 B+/B3 B/B3 B/B3 B-/Caa1 B-/Caa2
+
+
+Source: Kratos Financial results
+
+
+1) 2014 10-K, p.23
+
+
+2) SEC Comment Letter re: FY 2014 10-K filed March 13, 2015
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925815000009/ktos2014form10-k.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000000000015059573/filename1.pdf
+16
+
+
+Kratos Management Has 
+Destroyed Tremendous Value
+
+
+Date Target
+Business 
+Segment
+
+
+Deal Value Est. Sales Est. EBITDA Margin EV/ Sales EV/EBITDA
+
+
+12/24/2008 Digital Fusion Gov't Solutions $37.0 $40.0 $4.0 10.0% 0.9x 9.3x
+
+
+5/19/2010 Gichner Holdings Gov't Solutions $133.0 $147.1 $17.7 12.1% 0.9x 7.5x
+
+
+8/9/2010 DEI Services Gov't Solutions $14.0 $17.5 $1.5 8.6% 0.8x 9.3x
+
+
+12/7/2010 Southside Container Gov't Solutions $13.7 $9.0 $2.5 27.8% 1.5x 5.5x
+
+
+12/15/2010 Henry Bros Electrics Public Safety $56.6 $65.0 $8.1 12.4% 0.9x 7.0x
+
+
+11/15/2011 SecureInfo (2) Gov't Solutions $20.3 $20.3 $2.5 12.3% 1.0x 8.1x
+
+
+7/27/2011 Integral Systems Gov't Solutions $241.1 $175.0 $35.0 20.0% 1.4x 6.9x
+
+
+3/25/2011 Herley Industries Gov't Solutions $270.7 $193.3 $37.1 19.2% 1.4x 7.3x
+
+
+12/30/2011 Critical Infrastructure Public Safety $18.8 $40.0 $4.5 11.3% 0.5x 4.2x
+
+
+7/2/2012 Composite Engineering Gov't Solutions $164.2 $94.0 $16.0 17.0% 1.7x 10.3x
+
+
+Total Kratos Acquisitions: $969.4 $801.2 $128.9 16.1% 1.2x 7.5x
+
+
+Divestiture: (1)
+6/1/15
+
+
+US/UK Electronics to 
+Ultra Electronics
+
+
+Gov't Solutions $265.0 $109.0 $22.0 20.1% 2.3x 10.7x
+
+
+$ in millions
+
+
+(1) Divested revenues of $109m and $22m of EBITDA sourced from 10-K F-28 and Ultra press release, respectively. Excludes recent PSS sale.
+
+
+(2) Revenue estimated based on 1x sales multiple
+
+
+It’s easy to see how Kratos has destroyed significant value. Since 2008, Kratos spent nearly $1bn on acquisitions that have 
+
+
+contributed an estimated $801m and $129m of revenues and EBITDA, respectively. Yet, recent results suggest over $237m and 
+
+
+$69m of sales and EBITDA losses, net of divestitures. (1) It is time for management to resign from its failed business strategy
+
+
+Financials 2008A (A) + Acquisitions (B) Less: Divestures (C) =Pro Forma (D) FY 2017 (E) Deterioration (D-E)
+
+
+Sales $297.3 $801.2 ($109.0) $989.5 $751.9 ($237.6)
+
+
+EBITDA $16.8 $128.9 ($22.0) $123.7 $54.4 ($69.3)
+
+
+Kratos Key Acquisitions and Divestitures
+
+
+Kratos Estimated Financial Performance Bridge Shows Massive Financial Destruction
+
+
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=350320
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=458382
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=498321
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=535418
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=515294
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=624170
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=577550
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=548153
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=636460
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=671622
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=915664
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925816000059/ktos20151227form10-k.htm
+
+https://www.ultra-electronics.com/media/press-releases/ultra-acquires-leading-rf-and-microwave-supplier
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465909015519/a09-7276_1ex99d1.htm
+17
+
+
+Kratos Controversial Deals
+
+
+• June 2006: Herley and its Chairman Lee Blatt were 
+
+
+indicted for fraud  (Source)
+
+
+• Alleged overcharging the U.S. military by 
+
+
+misrepresenting manufacturing costs, creating fake 
+
+
+bids to justify price
+
+
+• Profited up to 300% on $3.9M of sales of electronic 
+
+
+components
+
+
+• August 2006: Auditor issues letter saying it could no 
+
+
+longer rely on representations of management, and 
+
+
+withdrew its audit opinion (Source)
+
+
+• May 2008: Herley paid $9.5m in fines and plead guilty 
+
+
+(Source)
+
+
+• April 2009: Herley fails to sell itself at auction (Source)
+
+
+• March 2011: Kratos acquires Herley for $270m (Source)
+
+
+A quick investigative look into Integral Systems and Herley Industries – Kratos’ two largest acquisitions – reveals 
+
+
+significant question marks about the financial, accounting, and managerial integrity of the assets acquired.
+
+
+Integral Systems Herley Industries
+
+
+• Oct 2006: Provides update that a strategic alternatives 
+
+
+process has not resulted in a sale  (Source)
+
+
+• From 2006 to 2009, Integral churns through five CEOs:
+
+
+• Steven Chamberlain (sentenced for sex offense)
+
+
+• Peter Gaffney  (Source)
+
+
+• Alan Baldwin (Source)
+
+
+• John Higginbotham (Source)
+
+
+• Paul Casner (Source)
+
+
+• July 2009: SEC issues cease and desist order to Integral 
+
+
+arising out of its failure to disclose that Gary A. Prince, an 
+
+
+Integral Executive, had previously been convicted of 
+
+
+conspiracy to commit securities fraud (Source)
+
+
+• Jan 2010: Discloses that as of January 27, 2010, the 
+
+
+Defense Contract Audit Agency found its accounting 
+
+
+system to be inadequate and identified certain significant 
+
+
+deficiencies in its accounting systems, controls, policies 
+
+
+and procedures (Source)
+
+
+• July 2011: Kratos acquires Integral for $241m (Source)
+
+
+
+http://www.washingtonpost.com/wp-dyn/content/article/2006/06/06/AR2006060600734.html
+
+https://www.sec.gov/Archives/edgar/data/47035/000120180006000141/hrly8ka-aug2006ex16.txt
+
+http://6abc.com/archive/6123036/
+
+https://www.reuters.com/article/herley-sale/update-1-herley-industries-fails-to-sell-itself-sources-idUSN0853581620090408
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=548153
+
+https://www.sec.gov/Archives/edgar/data/718130/000119312506213868/dex991.htm
+
+http://www.washingtonpost.com/wp-dyn/content/article/2006/05/04/AR2006050401824.html
+
+https://www.bizjournals.com/washington/stories/2007/06/04/daily6.html
+
+https://www.reuters.com/article/integralsystems-ceo/integral-systems-names-ceo-cfo-on-interim-basis-idUSWNAS300020070601
+
+http://www.satellitetoday.com/telecom/2008/07/15/higginbotham-brings-experience-new-plans-to-integral-systems/
+
+http://spacenews.com/paul-casner-chief-executive-integral-systems-inc/
+
+https://www.sec.gov/litigation/admin/2009/34-60401.pdf
+
+https://www.sec.gov/Archives/edgar/data/718130/000119312510276719/d10k.htm
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=577550
+18
+
+
+Negative Operating Leverage
+
+
+Kratos has been touting for years that its investment in corporate infrastructure will provide leverage to expand 
+
+
+margins. In fact, the exact opposite has happened. EBITDA margins have contracted 470 bps with cash SG&A margin 
+
+
+up 320 bps. Recall that Kratos acquired 10 companies with an average EBITDA margin of 16.1% - what happened?  
+
+
+$ in mm 2013 2014 2015 2016 2017
+
+
+Total Revenues
+% growth 
+
+
+$844.1
+-0.6% 
+
+
+$763.0
+-9.6%
+
+
+$657.1
+-13.9% 
+
+
+$668.7
+1.8% 
+
+
+$751.9
+12.4%
+
+
+Reported EBITDA
+% margin
+
+
+$100.3 
+11.9%
+
+
+$60.7
+8.0% 
+
+
+$44.6
+6.8% 
+
+
+$45.0
+6.7%
+
+
+$54.4
+7.2%
+
+
+Selling, General, 
+Administrative Exp. (SG&A)
+
+
+% margin
+
+
+$172.8
+20.5% 
+
+
+$153.6
+20.1% 
+
+
+$150.7
+22.9% 
+
+
+$146.3
+21.9% 
+
+
+$160.6
+21.4%
+
+
+Less: Non-Cash Stock 
+Comp Expense
+
+
+($7.2) ($3.6) ($6.1) ($5.1) ($7.8)
+
+
+Less: Amortization in SG&A ($32.8) ($19.1) ($13.0) ($10.5) ($10.4)
+
+
+Pro Forma Cash SG&A Exp.
+% margin
+
+
+$132.8
+15.7% 
+
+
+$130.9
+17.2% 
+
+
+$131.6
+20.0% 
+
+
+$130.7
+19.5% 
+
+
+$142.4
+18.9%
+
+
+Total Employees 3,800 3,600 2,900 2,900 2,900
+
+
+Cash SG&A per Employee $34,947 $36,361 $45,379 $45,069 $49,103
+
+
+Source: Kratos Financial results. 
+
+
+470 bps EBITDA 
+
+
+margin contraction. 
+
+
+On the surface, 
+
+
+SG&A margin is 
+
+
+only +90 bps from 
+
+
+2013-2017 using 
+
+
+Kratos reported 
+
+
+figures
+
+
+On a pro forma 
+
+
+cash adjusted 
+
+
+basis, SG&A 
+
+
+margin is 
+
+
++320 bps
+
+
+Cash SG&A per 
+
+
+employee 
+
+
++8.8% p.a.
+
+
+From Kratos in 2013 : “Capitalize on Corporate Infrastructure Investments. In recent periods, we have made significant investments in our senior 
+
+
+management and corporate infrastructure in anticipation of future revenue growth. These investments included hiring senior executives with significant 
+
+
+experience in the national security industry, strengthening our internal controls over financial reporting and accounting staff in support of public company 
+
+
+reporting requirements, and expanding our backlog and bid and proposal pipeline. We will be allocating additional resources in our pursuit of new and larger 
+
+
+contract opportunities, leveraging our increased scale and robust past performance qualifications. We believe our management experience and corporate 
+
+
+infrastructure are more typical of a company with a much larger revenue base than ours. We therefore anticipate that, to the extent our revenue grows, 
+
+
+we will be able to leverage this infrastructure base and increase our operating margins.”   Source: 2013 10-K, p. 9
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925814000011/ktos2013form10-k.htm
+19
+
+
+Backlog and Revenue Mix Deterioration; 
+New Disclosure On Loss Accruals
+
+
+The quality of Kratos business has declined in recent years. We observe it just reported its highest quarter of fixed-
+
+
+price contract revenue. These contracts carry the highest risk of reduced profit and financial loss. Meanwhile, backlog 
+
+
+continues to decline while the book to bill ratio hit a low of 0.8x in 2017. 
+
+
+$ in mm 2012 2013 2014 2015 2016 Q1 2017 Q2 2017 Q3 2017 2017
+
+
+Contract Type
+
+
+Fixed Price 
+Contracts
+
+
+65% 80% 83% 80% 83% 86% 85% 88% 88%
+
+
+Cost Plus Fee 24% 14% 12% 14% 12% 9% 11% 6% 8%
+
+
+Time and 
+Materials
+
+
+11% 6% 5% 6% 5% 5% 4% 6% 4%
+
+
+Backlog
+
+
+Funded $674.0 $541.0 $662.0 $528.7 $626.1 $616.2 $543.8 $586.2 $531.1
+
+
+Unfunded $626.0 $559.0 $438.0 $385.1 $273.6 $262.1 $222.7 $212.7 $199.3
+
+
+Total Backlog
+% YoY 
+
+
+growth
+
+
+$1,300.0
++18% 
+
+
+$1,100.0
+-15% 
+
+
+$1,100.0
+0% 
+
+
+$913.8
+-17% 
+
+
+$899.7
+-2% 
+
+
+$878.3
+-3% 
+
+
+$766.5
+-12% 
+
+
+$798.9
+-11% 
+
+
+$730.4
+-19%
+
+
+Contractual Purchase Orders $276.7 $219.1 $109.9 $95.8 $139.7 -- -- -- $138.2
+
+
+Book To Bill 1.1x 1.1x 1.4x 0.8x 1.0x 0.9x 0.4x 1.2x 0.8x
+
+
+Loss Accrual -- -- -- $3.5 $17.7 -- -- -- $10.3
+
+
+Warning; Kratos just started disclosing accruals for contract losses deep in its financial footnotes, and it rose 500% YoY: “On a portion of the fixed price-
+
+
+completion contracts, revenue is recognized in accordance with Topic 605 using the percentage-of-completion method based on the ratio of total costs incurred to 
+
+
+date compared to estimated total costs to complete the contract. Estimates of costs to complete include material, direct labor, overhead, and allowable indirect 
+
+
+expenses for government contracts. These cost estimates are reviewed and, if necessary, revised on a contract-by-contract basis. If, as a result of this review, 
+
+
+management determines that a loss on a contract is probable, then the full amount of estimated loss is charged to operations in the period. As of December 25, 
+
+
+2016 and December 27, 2015, accrued expenses included the accrual for losses on contracts of $17.7 million and $3.5 million, respectively.” 10-K, F-8
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000009/ktos20161225form10-k.htm
+20
+
+
+Aggressive Backlog Presentation
+
+
+Kratos has historically used a very aggressive definition of backlog to sell investors on its investment merits. Its 10-K proclaims one of 
+
+
+its “Competitive Strengths” is its “Significant cash flow visibility driven by stable backlog”; yet, a close look at how it used to define 
+
+
+Total Backlog, specifically the Unfunded Backlog portion, shows that it includes both the value of unexercised options and revenue 
+
+
+estimates for types of ID/IQ contracts. While this presentation is not unprecedented, it is certainly the most aggressive definition.  
+
+
+No surprise, KTOS will be restating backlog sharply lower to comply with AUS 2014-09 adoption.
+
+
+Company
+Include
+
+
+Unexercised
+Options
+
+
+Include 
+IDIQ 
+
+
+Contracts
+Backlog Description
+
+
+Kratos
+
+
+Unfunded backlog reflects our estimate of future revenue under awarded government contracts and task orders for which either funding has not yet 
+been appropriated or the expenditure has not yet been authorized. Our total backlog does not include estimates of revenue from government wide 
+acquisition contracts (“GWACs”) or General Services Administration (“GSA”) schedules beyond awarded or funded task orders, but our unfunded 
+backlog does include estimates of revenue beyond awarded or funded task orders for other types of indefinite delivery or indefinite quantity 
+contracts based on our experience under such contracts and similar contracts. Unfunded backlog also includes priced options, which consist of the 
+aggregate contract revenues expected to be earned as a result of a customer exercising an option period that has been specifically defined in the 
+original contract award.
+
+
+AeroVironment
+We define unfunded backlog as the total remaining potential order amounts under cost reimbursable and fixed price contracts with multiple 
+one-year options, and indefinite delivery, indefinite quantity, or IDIQ contracts.
+
+
+Mantech
+
+
+We define backlog as our estimate of the remaining future revenues from existing signed contracts, assuming the exercise of all options relating to 
+such contracts and including executed task orders issued under Indefinite Quantity/Indefinite Delivery (ID/IQ) contracts. We also include an estimate 
+of revenues for solutions that we believe we will be asked to provide in the future under the terms of ID/IQ contracts for which there are established 
+patterns of revenues.
+
+
+CACI
+We calculate our unfunded backlog based on the aggregate contract revenue we have the potential to realize.  On unfunded contract work, 
+including amounts based on the assumed exercise of options under such contract
+
+
+SAIC
+Negotiated unfunded backlog represents estimated amounts of revenue to be earned in the future from negotiated contracts for which funding has 
+not been appropriated or otherwise authorized and from unexercised priced contract options. Negotiated unfunded backlog does not include any 
+estimate of future potential task orders expected to be awarded under IDIQ, GSA schedules or other master agreement contract vehicles
+
+
+Cubic
+
+
+The difference between total backlog and funded backlog represents options under multiyear CGD Services contracts. Funding for these contracts 
+comes from annual operating budgets of the U.S. government and the options are normally exercised annually. Funded backlog includes unfilled 
+firm orders for our products and services for which funding has been both authorized and appropriated by the customer (Congress, in the case of 
+U.S. government agencies). Options for the purchase of additional systems or equipment are not included in backlog until exercised. In addition to 
+the amounts identified above, we have been selected as a participant in or, in some cases, the sole contractor for several substantial indefinite 
+delivery/indefinite quantity (ID/IQ) contracts. ID/IQ contracts are not included in backlog until an order is received
+
+
+Lockheed 
+Martin
+
+
+Our backlog includes both funded (firm orders for our products and services for which funding has been both authorized and appropriated by the 
+customer) and unfunded (firm orders for which funding has not been appropriated) amounts. We do not include unexercised options or potential 
+orders under indefinite-delivery, indefinite-quantity agreements in our backlog. 
+
+
+Northrup
+Grumman
+
+
+Total backlog includes both funded backlog (firm orders for which funding is authorized and appropriated) and unfunded backlog. Unexercised 
+contract options and indefinite delivery indefinite quantity (IDIQ) contracts are not included in backlog until the time the option or IDIQ task order is 
+exercised or awarded. For multi-year service contracts with non-U.S. Government customers having no stated contract values, backlog includes only 
+the amounts committed by the customer. 
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000009/ktos20161225form10-k.htm
+
+https://www.sec.gov/Archives/edgar/data/1368622/000155837017004963/avav-20170430x10k.htm
+
+https://www.sec.gov/Archives/edgar/data/892537/000089253717000004/mant12-31x201610k.htm
+
+https://www.sec.gov/Archives/edgar/data/16058/000156459016024672/caci-10k_20160630.htm
+
+https://www.sec.gov/Archives/edgar/data/1571123/000156459017005636/saic-10k_20170203.htm
+
+https://www.sec.gov/Archives/edgar/data/26076/000155837017009028/cub-20170930x10k.htm
+
+https://www.sec.gov/Archives/edgar/data/936468/000093646818000009/lmtq4201710k.htm
+
+https://www.sec.gov/Archives/edgar/data/936468/000093646818000009/lmtq4201710k.htm
+21
+
+
+Kratos History of Regulatory Issues
+
+
+Here’s What Kratos Says
+
+
+Date Kratos Regulatory Sanctions
+
+
+May 2007
+
+
+The Securities and Exchange Commission today announced that it obtained an 
+emergency asset freeze against the former stock options administrator of San Diego-
+based Wireless Facilities, Inc. (WFI – now Kratos), who was charged with defrauding 
+the company and its shareholders by causing the unauthorized issuance and transfer 
+of over 700,000 shares of WFI stock and stock options to himself and his wife.
+
+
+July 2009
+
+
+Indictment Charges Civilian Navy Employees and Contractors with Fraud and 
+Bribery (FBI, San Diego) The indictment also charges Jackie Godwin, a former 
+manager at Kratos Defense Security Solutions, Inc. (Kratos), a large San Diego-based 
+defense prime contractor, who hired the subcontractors as directed by Gary 
+Alexander according to the scheme. 
+
+
+June 2012
+
+
+Dept. of Labor Office of Federal Contract Compliance: Compensation data provided 
+by Kratos for employees as of June 1, 2012, revealed that Kratos provided lower 
+compensation to the minority, female employee when compared to the similarly 
+situated non-minority, male employee 
+
+
+Jan 2015
+
+
+Sacramento Defense Contractor Agrees To Pay $2 Million To Settle Allegations Of 
+Inflating Costs (Dept. of Justice, Eastern California) Composite Engineering Inc., a 
+Sacramento-based subsidiary of Kratos Defense & Security Solutions that 
+manufactures remote-controlled subscale aircraft for the U.S. military, has agreed to 
+pay the United States $2 million to resolve allegations that it violated the False 
+Claims Act by submitting inflated costs in connection with a 2007 contract, United 
+States Attorney Benjamin Wagner announced today.
+
+
+June 2017
+
+
+Army Colonel and Others Indicted In $20 Million Bribery and Fraud Scheme Arising 
+Out Of Fort Gordon, Georgia Dwayne Fulton, 58, an employee of Kratos was indicted 
+for his alleged role to solicit and bribe an army official in exchange for rigging the 
+award of$20m in US Army contracts to a minority owned business. According to a 
+press release, Fulton was a Director of Kratos-MRD Adv Telecom Group in Augusta
+
+
+Here’s What The Evidence Suggests
+
+
+Source: Kratos website
+
+
+Are regulatory infractions just a cost of doing business at Kratos, or emblematic of a rogue corporate culture designed 
+
+
+to inflate financial results at all costs for the benefit of insider enrichment?
+
+
+
+https://www.sec.gov/litigation/litreleases/2007/lr20101.htm
+
+https://archives.fbi.gov/archives/sandiego/press-releases/2009/sd070709.htm
+
+https://www.dol.gov/ofccp/foia/files/Micro_Systems_Inc_Redacted.pdf
+
+https://www.justice.gov/usao-edca/pr/sacramento-defense-contractor-agrees-pay-2-million-settle-allegations-inflating-costs
+
+https://www.justice.gov/usao-sdga/pr/army-colonel-and-others-indicted-20-million-bribery-and-fraud-scheme-arising-out-fort
+
+http://files.shareholder.com/downloads/WFII/0x0x238891/1c4cd083-1cbc-4d0a-b35e-562de748afaf/KTOS_News_2008_10_6_General.pdf
+
+http://www.kratosdefense.com/about-kratos/ethics-and-compliance
+22
+
+
+Has Kratos Booked Illicit Revenues And 
+Will It Restate Its Financials?
+
+
+New Problem Identified By Kratos Solution:  Commit Fraud on America?
+
+
+Source: Kratos 2014 10-K
+
+
+Kratos recently included a risk factor warning that minority-owned and other small businesses sponsored by the SBA could disadvantage 
+
+
+the Company. Isn’t it peculiar that a Kratos Director Dwayne Fulton recently pled guilty to scheme involving procuring contracts under the 
+
+
+guise of a minority owned small business? How much illicit revenues has Kratos booked; will it restate its financials?
+
+
+A preference for minority-owned, small and small 
+
+
+disadvantaged businesses could impact our ability 
+
+
+to be a prime contractor on certain governmental 
+
+
+procurements.
+
+
+As a result of the Small Business Administration 
+
+
+("SBA") set-aside program, the federal government may 
+
+
+decide to restrict certain procurements only to bidders 
+
+
+that qualify as minority-owned, small, or small 
+
+
+disadvantaged businesses. As a result, we would not 
+
+
+be eligible to perform as a prime contractor on those 
+
+
+programs and in general would be restricted to no more 
+
+
+than 49% of the work as a subcontractor on those 
+
+
+programs. An increase in the amount of procurements 
+
+
+under the SBA set-aside program may impact our 
+
+
+ability to bid on new procurements as a prime 
+
+
+contractor or restrict our ability to recompete on 
+
+
+incumbent work that is placed in the set-aside program.
+
+
+Source: Plea Agreement, USA vs. Fulton, Nov 9, 2017
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925815000009/ktos2014form10-k.htm
+Kratos Latest Hype: 
+Unmanned Aerial Drones
+24
+
+
+Kratos Unmanned Systems (Drone) 
+Business Hyped Despite Abysmal Results
+
+
+There is ample evidence to suggest that Kratos’ Unmanned System (“US” or “UAV”) segment is a mediocre 
+
+
+combination of acquired businesses. We remind investors that segment revenues are still below 2013 levels, and 
+
+
+operating profits (still negative). 
+
+
+$ in mm 2012 2013 2014 2015 2016 2017
+
+
+Sales
+% growth
+
+
+$92.3 
+--
+
+
+$121.6 
+31.7%
+
+
+$81.5
+-33.0% 
+
+
+$66.3
+-18.7% 
+
+
+$75.8
+14.3%
+
+
+$121.7
+60.6%
+
+
+Operating Income (1)
+% margin
+
+
+$3.5
+3.8%
+
+
+($17.2)
+-14.1%
+
+
+($9.8)
+-12.0%
+
+
+($16.2)
+-24.4%
+
+
+($27.7)
+-36.5%
+
+
+($3.0)
+-2.5%
+
+
+Segment
+Assets (2)
+
+
+N/A $178.1 $166.1 $162.0 $172.1 $201.9
+
+
+Operating Inc. /
+Avg Assets
+
+
+N/A N/A -5.7% -9.9% -16.1% -1.6%
+
+
+1) Included in the 2016 operating losses for the US reportable segment is an $18.7 million loss accrual recorded on the Air Force Research Laboratory (“AFRL”) Low-Cost Attritable Strike UAS Demonstration (“LCASD”) 
+
+
+cost share contract awarded in July 2016. Included in the 2013, 2014, and 2015 operating losses for the US Segment are increased costs of $7.6 million, $3.1 million, and $5.7 million respectively, primarily related to 
+
+
+certain retrofits necessary to address product design changes as well as due to a contract conversion adjustment on certain of our aerial platforms
+
+
+2) 2014 assets revised down from $173.2m to $166.1m without explanation
+
+
+Kratos Unmanned Systems segment: consists of its unmanned aerial system and unmanned ground and seaborne system businesses. Kratos lists 
+
+
+properties in this segment in San Diego, Sacramento California, and Ft. Walton Beach, Florida
+
+
+Growth by Acquisitions, Business Failure Evident:  We believe the majority of the US segment reflect the acquisition of Composite Engineering Inc 
+
+
+(“CEI” acquired 2012) and the legacy Micro Systems Inc (acquired from Herley Industries in 2011. Note: Herley acquired Micro Systems in 2005). It was 
+
+
+reported that CEI had $94m of sales in 2011 and Micro Systems had $14m in 2004. Thus, baseline combined revenues should be ~$108m. When the 
+
+
+segment was formed in 2012, total revenues reported were $92.3m (-14.% lower)
+
+
+Red Flags: 1) CEI was touted as generating 25% organic growth in 2011 at acquisition, yet by the time Kratos reclassified its segments in Q4’14 to show 
+
+
+US segment performance, organic growth plummeted, 2) At least one CEI founder Amy Fournier has left the firm  3) According to Kratos pro forma filings, 
+
+
+CEI spent nothing on research and development costs in 2011, which appears at odds with CEI being touted as an “industry leading” drone manufacturer, 
+
+
+4) Recent reviews suggest CEI’s problems are indicative of a small company in over its head (a) “They have even been known to sell technology that has 
+
+
+not been invented yet” (b) “Sometimes programs are underbid and understaffed” (c) “We often find ourselves out of depth (agreeing to contracts with not 
+
+
+enough time or money to execute, planning, etc.).”  4) CEI settled with the Dept. of Justice (2015) on fraud allegations that it submitted inflated costs in 
+
+
+connection with a contract 
+
+
+Kratos US Segment Results
+
+
+
+http://www.kratosusd.com/about-kusd/locations-and-contact
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=671622
+
+http://www.kratos-msi.com/
+
+http://www.militaryaerospace.com/articles/2005/02/herley-acquires-micro-systems-inc.html
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925815000009/ktos2014form10-k.htm
+
+https://www.bizjournals.com/sacramento/print-edition/2012/12/28/leaders-of-the-year-amy-fournier.html
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465913056583/a13-17062_1ex99d2.htm
+
+https://www.glassdoor.com/Reviews/Composite-Engineering-Inc-Reviews-E257381.htm
+
+https://www.justice.gov/usao-edca/pr/sacramento-defense-contractor-agrees-pay-2-million-settle-allegations-inflating-costs
+25
+
+
+Kratos: A Fringe Player In Unmanned Systems
+
+
+Our research suggests that Kratos is a tiny player in the field of unmanned systems, with approximately 1% share of 
+
+
+industry revenues and contract awards as a percentage of the DoD budget for drone procurement, research, 
+
+
+development and construction. Investors are paying an all-time high premium valuation to bet on Kratos, a perennial 
+
+
+loser, that has been challenged to execute on many of its growth opportunities in nearly 20 years
+
+
+$ in billions Revenues Market Share
+
+
+General Atomics $4.0 44%
+
+
+Northrop Grumman $2.0 22%
+
+
+Textron $0.9 10%
+
+
+Boeing $0.6 7%
+
+
+AeroVironment $0.2 3%
+
+
+Kratos $0.1 1%
+
+
+Others $1.1 13%
+
+
+Total $9.0 100%
+
+
+$ in mm
+CEI
+(A)
+
+
+Micro 
+Systems
+
+
+(B)
+
+
+US Drone 
+Spending
+
+
+(C)
+
+
+KTOS  
+Share
+
+
+(A+B)/(C)
+
+
+2013 $45.3 $7.9 $5,629.2 0.9%
+
+
+2014 $10.3 $12.6 $4,551.2 0.5%
+
+
+2015 $28.1 $10.4 $5,091.8 0.8%
+
+
+2016 $24.2 $9.7 $6,693.2 0.5%
+
+
+2017 $64.2 $18.8 $5,746.1 1.4%
+
+
+Total $172.1 $59.4 $27,711.5 0.8%
+
+
+Sources: Budget data from Bard University’s report “Drones in the FY18 Defense Budget”
+
+
+CEI drone awards and Micro Systems information from USASpending.gov
+Source: Spruce Point and Wall St. Research
+
+
+Unmanned Systems Competitors Estimated Kratos Drone Awards As A % of DoD Budget
+
+
+
+https://docs.google.com/viewerng/viewer?url=http://dronecenter.bard.edu/files/2018/01/Drones-Defense-Budget-2018-Web.pdf&hl=en_US
+
+https://www.usaspending.gov/Pages/Default.aspx
+26
+
+
+Hyping Drone Contracts
+
+
+An acceleration of Kratos press releases hyping drone related contracts, with few details, should be a red flag, particularly in the 
+
+
+context of Kratos rapid issuance of stock in November 2016, March 2017 and September 2017 
+
+
+Date
+Contract 
+
+
+Value
+Description Tenor Bids Type
+
+
+3/1/18 $24.3
+modification to a previously awarded firm-fixed-price, cost-plus-fixed-fee contract to exercise an option for the 
+low rate initial production of the Subsonic Aerial Target BQM-177A and technical data
+
+
+2yr Firm Fixed / Cost plus
+
+
+2/20/18 $81.0 
+Related to unmanned drone systems and associated command, control, and communications. “Maximum 
+potential” value of $81m from an undisclosed gov’t agency
+
+
+5yr -- IDIQ
+
+
+1/8/18 $23.0 
+Production award for a new high performance, jet powered unmanned aerial drone system which has been under 
+development
+
+
+1yr
+--
+
+
+--
+
+
+1/3/18 $3.2 Unmanned aerial drone and other system product orders -- -- --
+
+
+1/2/18 $93.0 
+Procure adv. subscale aerial drone systems, an unmanned target aircraft with launchers and ground equipment 
+and spares
+
+
+4yr 1 Received Firm Fixed
+
+
+12/18/17 $27.0 N/A -- -- IDIQ
+12/14/17 $3.3 N/A -- -- --
+10/31/17 $14.5 Eight high performance, jet powered unmanned aerial drone systems -- -- --
+9/28/17 $6.2 Orders for specialized products in support of certain National Security Related Programs -- -- --
+
+
+9/26/17 $9.7
+For the production and delivery of multiple high performance unmanned aerial drone system aircraft and related 
+mission support, technical, development and other services
+
+
+-- -- --
+
+
+8/31/17 $2.2 High performance jet powered unmanned aerial drone aircraft and related services. 1yr -- --
+6/6/17 N/A Six High Performance Unmanned Aerial Drone System Aircraft -- -- --
+
+
+3/15/17 $1.6 New, in development, High Performance Jet Powered Unmanned Aerial Drone System -- -- --
+
+
+3/13/17 $22.3
+Received Lot 13 production option exercise, valued at $22.3 million, on the previously awarded Air Force Subscale 
+Aerial Target (AFSAT) Lots 11-13 production contract. CEi will provide an additional quantity of 25 AFSAT 
+production target aircraft
+
+
+-- -- --
+
+
+3/9/17 $5.6 High Performance Unmanned Aerial Target Drone Systems -- -- --
+
+
+11/30/16 N/A Multiple high performance jet powered unmanned aerial drone target systems -- -- --
+
+
+11/16/16 $18
+CEi will provide this international new customer with full operational capability for the BQM-167i high 
+performance unmanned aerial target drone system for two separate sites
+
+
+-- -- --
+
+
+10/17/16 $12.6 DIUx (experimental) for Sensor Integration into UTAP-22 Unmanned Combat Aerial System -- -- --
+8/30/16 $14 UAS and C5ISR Program related product and system orders -- -- --
+
+
+7/11/16 $40.8
+Low-Cost Attritable Strike Unmanned Aerial System (UAS) Demonstration (LCASD). Kratos will receive $7.3 million 
+in Government funding, and invest up to $33.5 million over the approximate 30 month period of performance
+
+
+30 months 7 competitors
+Single Award Cost 
+
+
+Share
+
+
+5/4/16 $3.8 DARPA award for Phase I Gremlins -- -- --
+
+
+2/23/16 $18.7
+(CEi), has received a $18,674,455 million award for the Lot 12 option on the previously awarded Air Force Subscale 
+Aerial Target (AFSAT) Lots 11-13 production contract.  CEi will provide an additional quantity of 21 AFSAT 
+production target aircraft plus the associated warranty
+
+
+-- -- --
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465916158926/a16-22124_18k.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465917014908/a17-7778_18k.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465917056753/a17-18529_48k.htm
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-243-million-unmanned-aerial-drone-system
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1057934
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-23-million-unmanned-aerial-drone-system
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-32-million-unmanned-aerial-drone-and-other
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1052989
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-27-million-single-award-idiq-unmanned-drone
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-33-million-unmanned-aerial-drone-and-electronic
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-145-million-unmanned-aerial-drone-system
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-unmanned-systems-division-receives-62-million-orders
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-97-million-contract-awards-multiple-high
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-22-million-contract-awards-high-performance-jet
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-high-performance-unmanned-aerial-drone-system
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-16-million-single-award-contract-new-development
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-lot-13-option-exercise-valued-223-million
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-56-million-high-performance-unmanned-aerial
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-high-performance-unmanned-aerial-drone-system-0
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-awarded-18-million-high-performance-unmanned-aerial
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-126-million-single-award-prime-contract-defense
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-14-million-unmanned-aerial-system-and-c5isr
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-low-cost-attritable-strike-unmanned-aerial
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-awarded-387-million-gremlins-phase-i-defense-advanced
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-awarded-187-million-award-provide-unmanned-aerial-target
+27
+
+
+$0
+
+
+$50
+
+
+$100
+
+
+$150
+
+
+$200
+
+
+$250
+
+
+$300
+
+
+$350
+
+
+$400
+
+
+Kratos Aerovironment Parrot
+
+
+R&D Capex
+
+
+Hyped Drone Opportunity: Signs of 
+Significant Capital Underinvestment
+
+
+Cumulative Capex and R&D Since 2013 Among 
+
+
+UAV / Drone Companies
+
+
+1) Includes Total Capex and R&D related to unmanned aerial systems. KTOS doesn’t disclose Capex or R&D spending by segment, but the Company has made the following statements 
+
+
+suggesting total investment of $63m since 2013
+
+
+a. Q3’16 CEO: “Kratos has made in the unmanned aerial systems area since 2013, which aggregate to over $50 million in internal research and development, contract design development 
+
+
+and capital expenditures”
+
+
+b. FY 2017 10-K “The 2017 capital expenditures included approximately $13.2 million related to investments we are making in our US segment to build Company-owned tactical aircraft and 
+
+
+related equipment related to the LCASD and UTAP-22 or Mako platforms”
+
+
+(1)
+
+
+$63.2m
+
+
+$255m
+
+
+$365m
+
+
+LTM R&D as % of Sales Among 
+
+
+UAV / Drone Companies
+
+
+There are limited pure-play drone companies except for AeroVironment and Parrot S.A. However, according to public 
+
+
+filings, each has spent $255 and $355m, respectively, of combined capex and research and development costs since 
+
+
+2013. During the same period, Kratos has spent approximately $63m. We believe much of the costs have circumvented 
+
+
+the income statement and been accounted for as capex spending. 
+
+
+2.4%
+
+
+9.4%
+
+
+24.9%
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+KTOS AVAV Parrot
+
+
+
+https://seekingalpha.com/article/4018574-kratos-ktos-ceo-eric-demarco-q3-2016-results-earnings-call-transcript
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925818000006/ktos20171231form10-k.htm
+28
+
+
+Kratos Portfolio of Speculative Projects
+
+
+Kratos management is quick to talk big revenue figures as market opportunities for projects that are speculative in nature, with a 
+
+
+low probability of receiving permanent funding. Management quickly issued equity in November 2016 after leading investors to 
+
+
+believe there were billions of dollars worth of revenue opportunities in Q3 2016. Major primes compete against Kratos too.
+
+
+Program
+Potential Market Opportunity 
+Hyped By Kratos Management 
+
+
+on Conference Call (1)
+Agency
+
+
+Cost Per Unit / 
+Lot Size
+
+
+Spruce Point 
+Assessment of Commercialization Chance
+
+
+Low-Cost Attritable Strike 
+Unmanned Aerial System 
+Demonstration (LCASD)
+
+
+“Several hundreds of millions of dollars”
+AFRL: Air Force 
+Research Lab
+
+
+$2-$3m / 100
+
+
+Kratos is having to fund $33m of this project, with the government 
+contributing just $7m. Kratos claims the structure allows it to 
+
+
+maintain the IP. In our view, it was more likely structured to push a 
+majority of the costs (and risk) to Kratos, giving AFRL an easy 
+
+
+abandonment option 
+ASSESSMENT: LOW
+
+
+UTAP-22 / MAKO 
+“tens of millions up to the hundreds of 
+
+
+millions of dollars”
+DIUx: Defense Innovation 
+
+
+Unit Experimental 
+$1-$3m / 20
+
+
+DIUx is a fairly new organization launched in 2015 focused on 
+accelerating commercial technologies to the US Military. On the Q1 
+
+
+2016 conference call, the CEO stopped providing information on 
+UTAP-22 “Due to competitive considerations which are increasing, I 
+will not be providing additional information related to Kratos' UTAP-
+
+
+22 at this time. However, we are making no significant additional 
+investment in the Tornado aircraft at this time.”
+
+
+ASSESSMENT: LOW
+
+
+Subsonic Aerial 
+Target System 
+
+
+(SSAT)
+
+
+“We believe that the potential market 
+opportunity for this platform to be an in 
+
+
+excess of $1 billion.”
+Navy N/A
+
+
+Just the next gen of drones replacing inventory. Program 
+continuation dependent on annual funding. Slippage of timing 
+evident: “should be coming online in 2016 ramping in 2017 and 
+
+
+2018” (Dec 2015, BofA Conf) and then “We currently expect the full 
+rate production phase of the SSAT program to begin in the first of 
+
+
+2019” (Q3 Results, July 2017)
+ASSESSMENT: MEDIUM
+
+
+Gremlins
+“high several hundreds of millions of 
+
+
+dollars up into billions of dollars”
+
+
+DARPA: Defense 
+Advanced Research 
+
+
+Projects Agency
+$700k / 1,000
+
+
+DARPA describes its projects as “high risk, high payoff”; programs 
+are finite in nature and many fail. Either way, Kratos is only a 
+
+
+subcontractor on this project, and as noted on the next slide, the 
+CEO is also providing no further information on the project
+
+
+ASSESSMENT: LOW
+
+
+1) Q3 2016 Earnings Call
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465916158926/a16-22124_18k.htm
+
+https://seekingalpha.com/article/3971457-kratos-defense-and-security-solutions-ktos-ceo-eric-demarco-q1-2016-results-earnings-call?part=single
+
+https://seekingalpha.com/article/4091688-kratos-defense-and-security-solutions-ktos-eric-demarco-q2-2017-results-earnings-call
+
+https://www.darpa.mil/our-research
+
+https://seekingalpha.com/article/4018574-kratos-ktos-ceo-eric-demarco-q3-2016-results-earnings-call-transcript
+29
+
+
+Gremlin Opportunity Hype
+
+
+CEO Hyping The Gremlin Opportunity:
+
+
+CEO Demarco Q3’16:  “A second new UAV contract that Kratos received is the Defense Advanced Research Project Agency or DARPA 
+Gremlins program, a prime Phase I contract award of $3.9 million, which we are currently performing on and we just submitted our
+Gremlins Phase II proposal last week. Phase I is currently scheduled to lead to a systems requirement review in the next few months, at 
+which time DARPA plans to down select the two teams issuing contracts of approximately $20 million each for Phase II preliminary
+system design. In mid-2018, DARPA is expected to hold the preliminary design review and one team will be selected for Phase III, an 
+estimated $40 million contract concluding with flight test in 2020. The government has indicated that the price point for the Gremlin 
+aircraft will be approximately $700,000 each for order quantity lots of 1,000 once in production which could be expected approximately 
+three years from now. At these estimated production levels, we believe the potential market opportunity for Gremlin type aircraft is in 
+the high several hundreds of millions of dollars up into billions of dollars”
+
+
+CEO Demarco Q4’16:  “However, as you know, we believe that a key reason Kratos was selected as one of the four Gremlin prime Phase 1 
+contract awardees was due to Kratos' industry leading position in designing, demonstrating, producing and fielding low cost high
+performance jet UAVs in a short timeframe. And today, I'm truly more confident than ever that Kratos will be producing a UAV for the 
+Gremlin's program.”
+
+
+Only To Go Silent On It Later:
+
+
+Sheila Kahyaoglu on Q2’17 Call : “And then last question, just on Gremlins, where are we there? Is it just in -- just the past days right now 
+with the 12 months or any update on that would be appropriate I guess.”
+
+
+CEO Eric DeMarco: “It is very competitive, I am sorry, I did not talk about it in the script and I am not talking about it anymore. It’s 
+focus time. So, I apologize.”
+
+
+Kratos has a history of touting great opportunities with large “potential” markets. This time around, it has been 
+
+
+promoting the Gremlin opportunity, which is still experimental in nature. Kratos is just the subcontractor on the 
+
+
+program to Dynetics, which is competing with General Atomics, ranked the 33rd largest federal contractor (1,2). 
+
+
+Who do you think wins? 
+
+
+1) General Atomics – DARPA contracts the company for Phase 2 of the Gremlins Program – March 2017
+
+
+2) GSA Top 100 Contractors, 2016 (note: Kratos did not make the top 100 list)
+
+
+
+https://seekingalpha.com/article/4018574-kratos-ktos-ceo-eric-demarco-q3-2016-results-earnings-call-transcript?part=single
+
+https://seekingalpha.com/article/4050257-kratos-defense-and-security-solutions-ktos-eric-demarco-q4-2016-results-earnings-call
+
+https://seekingalpha.com/article/4091688-kratos-defense-and-security-solutions-ktos-eric-demarco-q2-2017-results-earnings-call
+
+http://www.ga.com/ga-asi-continues-gremlins-phase-two-for-darpa
+
+https://www.fpds.gov/fpdsng_cms/index.php/en/reports/62-top-100-contractors-report
+Serious Management and 
+Governance Concerns
+31
+
+
+Background on Management
+
+
+Kratos’ CEO and CFO have questionable pasts while formerly at Titan Corporation. Furthermore, audit committee 
+
+
+member Jane Judd also served at Titan as VP/Controller. We question how “independent” her judgement may be given 
+
+
+her historical acquaintance with management (1)
+
+
+KTOS Executive Biography According To Company What It Fails To Mention
+
+
+Eric DeMarco / CEO
+
+
+Prior to Kratos, Mr. DeMarco was the President 
+and Chief Operating Officer of the Titan 
+Corporation, which was later acquired by L-3 
+(Source: Kratos Website)
+
+
+1. Lockheed Martin backed out of acquiring Titan Corp after a criminal and civil 
+investigation emerged regarding Titan’s oversees business dealings (Source)
+
+
+2. SEC issued a Wells Notice to Titan an SEC investigation commenced (Source)
+3. Titan paid a $28.5m fine to settle criminal and civil charges that it bribed the 
+
+
+president of Benin (Source)
+4. Shareholder litigation charges Titan with a scheme to inflate revenues and 
+
+
+book fictitious receivables. Titan’s use of “middlemen” and “private consulting 
+companies” with ties to government officials to secure business  (Source)
+
+
+5. The litigation says confidential witnesses claim DeMarco knew about the fraud 
+and DeMarco was responsible for transferring funds to Benin. He was 
+allegedly the source of the “percentage of completion accounting techniques 
+learned from the ‘Andersen school of accounting’ that allowed Titan to either 
+overstate or prematurely state revenues at the company”
+
+
+Deanna Lund / CFO
+
+
+Deanna Lund has served as Chief Financial 
+Officer for Kratos since April 2004. Prior to 
+joining Kratos, Ms. Lund most recently served 
+as Vice President and Corporate Controller for 
+the Titan Corporation. Ms. Lund is a graduate of 
+San Diego State University, where she received 
+her Bachelor of Science degree in Accounting, 
+magna cum laude, and is a certified public 
+accountant. (Source: Kratos Website)
+
+
+1. Mrs Lund was also named in the shareholder litigation at Titan Corp
+2. Her biography omits that she worked at Arthur Andersen LLP, the accounting 
+
+
+firm notorious for having audited Enron and its creative accounting that 
+favored booking cashless profits (see reference above to the Andersen school 
+of accounting)
+
+
+1) Kratos Board member Jane Judd sits on the audit committee. She is described as “independent” according to the proxy statement. However, we note that 
+
+
+Ms. Judd was Vice President and Corporate Controller of The Titan Corporation from April 1986 to May 1996. 
+
+
+
+http://www.kratosdefense.com/about-kratos/leadership/eric-demarco
+
+https://www.marketwatch.com/story/lockheed-cancels-titan-merger
+
+https://www.sec.gov/Archives/edgar/data/32258/000119312504099732/dex991.htm
+
+http://www.nytimes.com/2005/03/02/business/titan-corp-to-pay-285-million-in-fines-for-foreign-bribery.html
+
+http://securities.stanford.edu/filings-documents/1030/TTN04-01/2004917_r01c_04676.pdf
+
+http://www.kratosdefense.com/about-kratos/leadership/deanna-lund
+
+https://www.sec.gov/Archives/edgar/data/1069258/000104746917002639/a2231712zdef14a.htm
+32
+
+
+Kratos CEO DeMarco
+
+
+Litigation brought against CEO DeMarco while an executive at Titan Corp suggested that confidential witnesses knew he played 
+
+
+an active role in fraud and was the source of “the Andersen school of accounting” – a reference to the disgraced Arthur 
+
+
+Andersen firm where Kratos’ current CFO Lund worked (though she omits it from her biography).
+
+
+The shareholder litigation case was settled for $61.5m and Titan paid $28.5m in FCPA fines.
+
+
+Source: Titan Inc Securities Litigation and Settlement for $61.5m
+Source: Titan Pays $28.5m to settle Foreign Bribery 
+
+
+
+http://securities.stanford.edu/filings-documents/1030/TTN04-01/2004917_r01c_04676.pdf
+
+https://www.gilardi.com/pdf/tcrp1not.pdf
+
+http://www.nytimes.com/2005/03/02/business/titan-corp-to-pay-285-million-in-fines-for-foreign-bribery.html
+33
+
+
+Key Executive Departures
+
+
+Kratos is on its fourth Chief Accounting Officer / Corporate Controller in a decade, and third since 2013!
+
+
+Even worse, its newly appointed Chief Information Officer Rich Gary appointed in Jan 2016 abruptly left and was 
+
+
+replaced by Kevin Walden in December 2016.
+
+
+In addition, the president of its hyped unmanned aerial systems business suddenly “retired” in early 2017
+
+
+Date Executive
+
+
+Jan 2017
+
+
+Jerry Beaman retires. Mr. Beaman joined Kratos in 2013 as President of its Unmanned Combat Aerial Systems (UCAS) Division 
+and Senior Vice President of Strategic Programs, focused primarily on building Kratos’ UCAS business. In 2014, Mr. Beaman 
+was named President of KUSD, expanding his responsibility to all Kratos unmanned aerial, ground, seaborne drone and 
+combat system related programs and initiatives.
+
+
+Dec 2016 Kratos Appoints Kevin Walden as Chief Information Officer
+
+
+May 2016
+Richard Duckworth, Vice President, Corporate Controller and Principal Accounting Officer of Kratos Defense & Security 
+Solutions, Inc. (the "Company"), left the Company effective May 12, 2016.
+
+
+Jan 2016 Kratos Appoints Rich Gary as Chief Information Officer
+
+
+Sept 2015
+Deborah S. Butera, Senior Vice President, General Counsel/Registered In-House Counsel, Chief Compliance Officer and 
+Secretary of the Company, left Kratos Defense & Security Solutions, Inc. effective September 24, 2015.
+
+
+July 2013
+Laura L. Siegal resigned from her position as Vice President, Corporate Controller and Principal Accounting Officer of Kratos 
+
+
+Defense & Security Solutions, Inc. (the "Company") to pursue an opportunity outside of the Company.
+
+
+Dec 2005
+Carol Clay resigned as Controller and Principal Accounting Officer of Wireless Facilities, Inc. (the “Company”) for personal 
+reasons.  Ms. Clay’s resignation is effective January 6, 2006.
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000002/beamanpressrelease.htm
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1004048
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925816000074/departureofofficer.htm
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=948485
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925815000042/deborahbuteradeparture.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925813000031/form8kdepartureofofficers.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000110465905060752/a05-21763_18k.htm
+34
+
+
+1.4%
+
+
+1.1% 1.1% 1.1%
+1.2%
+
+
+1.8%
+
+
+1.2%
+
+
+0.0%
+
+
+0.2%
+
+
+0.4%
+
+
+0.6%
+
+
+0.8%
+
+
+1.0%
+
+
+1.2%
+
+
+1.4%
+
+
+1.6%
+
+
+1.8%
+
+
+2.0%
+
+
+2011 2012 2013 2014 2015 2016 2017
+
+
+Limited Insider Ownership 
+By Kratos Management
+
+
+Source:  KTOS proxy statements. Cash/Stock mix from 2017 proxy
+
+
+Management has virtually nothing at risk and limited alignment with shareholders. 
+
+
+The Compensation Committee and/or the Chief Executive Officer also 
+
+
+retain the right to exclude extraordinary charges or other special 
+
+
+circumstances in determining whether the objectives were met during any 
+
+
+particular fiscal year and may decide to grant 100% of the targeted cash 
+
+
+bonus award, even if the financial targets do not fall within the specified 
+
+
+range, based upon an evaluation of business conditions, industry trends, and 
+
+
+additional accomplishments achieved. Based on a 40/60 allocation of non-
+
+
+financial and strategic achievements versus financial achievements for corporate 
+
+
+executive officers, the Compensation Committee made the decision to grant 
+
+
+100% of the non-financial achievements (or 40% of the targeted cash bonus 
+
+
+award) and 66.7% of the financial achievements (or 40% of the targeted cash 
+
+
+bonus award), for an aggregate 80% of the total targeted cash bonus award.
+
+
+• In 2011, Kratos acquired Herley Industries for ~$270m (Source)
+
+
+• In 2015, Ultra electronics acquired the Electronics Products Division 
+
+
+(Herley business) from Kratos for ~$265m (Source)
+
+
+• Included Herley-CTI, EW Simulation Technology and Stapor 
+
+
+Research, Inc
+
+
+• Kratos’ President Richard Poirer received a $4m bonus for the 
+
+
+divestiture of these businesses (Source: Proxy)
+
+
+Insider Beneficial Ownership By Kratos 
+
+
+Management Executives Non-Existent
+
+
+Management Cash Bonuses Driven By 
+
+
+Subjective Criteria
+
+
+Willingness To Pay Management Large Bonuses 
+
+
+For Questionable Value Creation For Shareholders
+
+
+66%
+
+
+34%
+
+
+Total Cash Comp Total Stock Comp
+
+
+Total Executive Pay 
+
+
+Heavily Cash Oriented
+
+
+
+http://ir.kratosdefense.com/releasedetail.cfm?releaseid=548153
+
+https://www.ultra-electronics.com/media/press-releases/ultra-acquires-leading-rf-and-microwave-supplier
+
+https://www.sec.gov/Archives/edgar/data/1069258/000104746916011993/a2228087zdef14a.htm
+35
+
+
+Insiders Milking Company Cash Flow
+
+
+Management compensation is a significant percentage of EBITDA and has been immune to Kratos’ struggles 
+
+
+and poor performance. Among small cap aerospace and defense contracting peers, Kratos’ management is 
+
+
+excessively paid relative to EBITDA
+
+
+$ in mm 2014 2015 2016
+
+
+Kratos EBITDA $60.7 $44.6 $45.0 
+
+
+Total Insider 
+Compensation
+
+
+$5.6 $5.6 $5.8 
+
+
+Comp as % of EBITDA 9.3% 12.6% 12.9%
+
+
+EBITDA including EPD (1) $82.7 $66.6 --
+
+
+Compensation to 
+Ricard Poirier 
+
+
+(EPD President)
+$0.9 $5.0 --
+
+
+Total Adjusted Insider 
+Compensation
+
+
+$6.6 $10.6 --
+
+
+Adjusted Comp as
+% of EBITDA
+
+
+8.0% 15.9% --
+
+
+1) Assumes $22m of EBITDA from the divested Electronics Products Division (EPD)
+
+
+5.1%
+
+
+9.1%
+
+
+10.4%
+
+
+11.3% 11.3%
+
+
+12.9%
+
+
+0.0%
+
+
+2.0%
+
+
+4.0%
+
+
+6.0%
+
+
+8.0%
+
+
+10.0%
+
+
+12.0%
+
+
+14.0%
+
+
+VSE Corp Cubic Mercury Aerovironment AAR Kratos
+
+
+Total Executive Comp as a % of EBITDA vs. PeersKratos Executive Comp Trends as a % of EBITDA
+
+
+Source: Company proxy and financial statements
+Serious Financial Management and 
+Accounting Concerns
+37
+
+
+Management Terrible At Hitting Guidance
+
+
+Management has shown limited ability to forecast its business accurately in the past few years. This gives us little 
+
+
+confidence in trusting their longer term outlook. We note that management has proven terrible at forecasting its free 
+
+
+cash flow, with the biggest misses from initial guidance. 
+
+
+$ in mmm 2013 2014 2015 (1) 2016
+
+
+Revenues $950 - $1,000 $920 - $980 $670 - $690 “approximately the same as 2015”
+1st Revision $960 - $990 $920 - $960 $640 - $660 $659 (+$10m)
+2nd Revision $955 - $975 $870 - $890 -- $665.0 (+$4m)
+Actual Sales $844.1 $763.0 $657.1 $668.7
+
+
+Guidance Miss Relative To 
+Original Guidance
+
+
+-15.6% -14.2% -4.7% +1.6%
+
+
+EBITDA $115 - $125 $92-$106 $50 - $55 “approximately the same as 2015”
+
+
+1st Revision $110 - $120 $93 - $106 $40 - $45 $42 (+1.5m)
+
+
+2nd Revision $102 - $106 $93 - $100 -- --
+
+
+3rd Revision $79 - $82 -- --
+
+
+Actual EBITDA $100.3 $82.2 $44.6 $45.0
+
+
+Guidance Miss Relative To 
+Original Guidance
+
+
+-19.7% -22.4% -18.9% +0.9%
+
+
+Free Cash Flow $50 $25 - $40 NA “Greater than or better than 2015”
+
+
+1st Revision $40 - $50 -- -- --
+
+
+2nd Revision $5 - $15 -- -- --
+
+
+Actual Cash Flow $8.6 ($9.1) ($41.0) ($21.6)
+
+
+Guidance Miss Relative To 
+Original Guidance
+
+
+-82.8% -122% -- +50%
+
+
+1) Starting from the point of the divestiture of the US and UK operations in June 2015
+38
+
+
+Inability To Generate Free Cash Flow, 
+Now Selling Assets At Depressed Values
+
+
+Kratos raised 2017 revenue guidance twice, but could not increase its EBITDA forecast. In Q3’17 management significantly 
+
+
+increased its cash flow burn guidance. The explanation was related to certain milestones in the unmanned systems and public 
+
+
+safety business of $26-$28m expected to occur in Q1 and Q2 2018. Kratos touted its Q4 and full year results “exceeded” estimates, 
+
+
+but digging beneath the surface everything is not rosy. We find that Kratos dramatically curtailed Unmanned System capital 
+
+
+spending and unexpectedly sold its PSS division for $70m at a depressed valuation (0.5x  and 6.5x ‘18E Sales and EBITDA, 
+
+
+respecitively) to raise cash, but still says it will generate free cash flow of  $12-$19m in 2018. Something doesn’t add up!
+
+
+Date: Q3’16 Q4’16 Q1’17 Q2’17 Q3’17 2017A Pro Forma 2018
+
+
+Revenues $700 - $720 $700 - $720 $700 - $720 $720 - $740 $735 - $745 $751.9 $640 - $650 (2)
+
+
+EBITDA $52 - $54 $52 - $54 $52 - $54 $52 - $54 $52 - $54 $54.4 $55 - $59 (2)
+
+
+Total
+Capex
+
+
+-- $28 - $33 $28 - $33 $28 - $33 $26 - $30 $28.1 (3) $23 - $26
+
+
+Unmanned 
+System Capex
+
+
+-- $18 - $23 $18 - $23 $18 - $23 $18 - $23 (1) $13.2 $14 - $17
+
+
+Free Cash Flow 
+(Usage)
+
+
+-- ($26) to ($31) ($23) to ($28) ($23) to ($28) ($51) to ($58) ($53.5) $12 - $19
+
+
+1) Management said $17 - $22m on the Q3’17 conference call, but the 10-Q kept the guidance unchanged
+
+
+2) Per management guidance, adjusted for PSS divestiture which was forecast for 2018 to produce $140-$150m of sales and $9 - $12m of EBITDA. We note that Kratos’ EBITDA 
+
+
+guidance for 2018 was a disappointment vs. expectations of $58 to $61m
+
+
+3) Includes $1.6m of capex included in accounts payable and accrued expenses noted at the bottom of the cash flow statement
+
+
+
+https://seekingalpha.com/article/4018574-kratos-ktos-ceo-eric-demarco-q3-2016-results-earnings-call-transcript?part=single
+
+https://seekingalpha.com/article/4050257-kratos-defense-and-security-solutions-ktos-eric-demarco-q4-2016-results-earnings-call?part=single
+
+https://seekingalpha.com/article/4069501-kratos-defense-and-security-solutions-ktos-eric-demarco-q1-2017-results-earnings-call?part=single
+
+https://seekingalpha.com/article/4091688-kratos-defense-and-security-solutions-ktos-eric-demarco-q2-2017-results-earnings-call
+
+https://seekingalpha.com/article/4119943-kratos-ktos-ceo-eric-demarco-q3-2017-results-earnings-call-transcript?part=single
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1059141
+
+https://seekingalpha.com/article/4119943-kratos-ktos-ceo-eric-demarco-q3-2017-results-earnings-call-transcript?part=single
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925817000039/ktos2017100110-q.htm
+
+http://ir.kratosdefense.com/news-releases/news-release-details/kratos-fourth-quarter-and-fiscal-2017-financial-results-exceed
+39
+
+
+Warning From Rising Days Sales 
+Outstanding (DSOs)
+
+
+Elevated DSOs signal cash flow collection issues. The problem is also suggested by an accounts payable specialist 
+
+
+posting on the company review website Glassdoor. Kratos is now expanding discussion about DSO in its 10-K. 
+
+
+Jan 19, 2017 from Accounts Payable Specialist: “They [Kratos] could 
+never pay their bills during the time I was there. Terms were net 90 for 
+every vendor expect ones like SDG&E, etc. It was stressful because of this, 
+causing non stop credit holds, non stop emails from vendors wanting 
+payment, statements to review that had months of bills entered but not 
+paid. I couldn't wait to leave. The office supply area was completely bare 
+and empty. It was hard to order supplies. Many temps would buy their 
+own supplies and bring them in. Supplies such as inboxes, file folders, etc, 
+that should have ben provided by the company” Source: Glassdoor 
+Review
+
+
+Source: KTOS SEC filings and conference calls
+
+
+103
+104
+
+
+106
+
+
+115
+
+
+124
+
+
+111
+113
+
+
+115
+
+
+100
+
+
+105
+
+
+110
+
+
+115
+
+
+120
+
+
+125
+
+
+130
+
+
+2013 2014 2015 2016 Q1'17 Q1'17 Q1'17 Q4'17
+
+
+Kratos New Discussion in 2017 Annual Report: DSO rising “primarily 
+as a result of certain contractual billing milestones that have not yet been 
+attained, such as equipment shipments and deliveries on certain products, 
+and for certain flight requirements that must be fulfilled on certain aerial 
+target programs, or final billings which are not due until completion on 
+certain of our large critical infrastructure deployment projects and large 
+training systems deliveries, and therefore we are unable to contractually 
+bill for amounts outstanding related to those milestones at this time.” 
+Source: 10-K, p. 45
+
+
+Kratos DSO
+
+
+
+https://www.glassdoor.com/Reviews/Kratos-Defense-and-Security-Solutions-Reviews-E9734_P3.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000106925818000006/ktos20171231form10-k.htm
+40
+
+
+Questionable Accounting Could Enable 
+Segment Margin Misstatement
+
+
+Spruce Point has concerns about Kratos’ accounting methods. For example, the Company reports assets, but not 
+
+
+Capex, by business segment. However, when allocating depreciation and amortization it conveniently fails to attribute 
+
+
+any portion to corporate activities, its fastest growing segment. Management cannot be ignorant on this issue, as the 
+
+
+CEO and CFO came from Titan Corp, where they disclosed Capex and corporate depreciation and amortization (1). How 
+
+
+can any investor have confidence in Kratos’ segment margins, when costs are clearly not being allocated correctly.
+
+
+1) Source: Titan 2002 10-K, Note 6
+
+
+Why are “Corporate Activity” assets up 236% in 
+3yrs, the fastest growing segment without any 
+
+
+depreciation?
+
+
+?
+
+
+3yr CAGR
+
+
+-0.1%
+
+
++11.6%
+
+
++83.4%
+
+
+0.0%
+
+
+
+https://www.sec.gov/Archives/edgar/data/32258/000003225802000005/ttn10k_01.htm
+41
+
+
+($6.0)
+
+
+($4.0)
+
+
+($2.0)
+
+
+$0.0
+
+
+$2.0
+
+
+$4.0
+
+
+$6.0
+
+
+$8.0
+
+
+$10.0
+
+
+$12.0
+
+
+$14.0
+
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+
+
+Unused Office Space Charge Cumulative Charge
+
+
+Questionable Charges, 
+Aggressive EBITDA Presentation
+
+
+Spruce Point has evaluated thousands of financial statements over the years, but we have never seen an income 
+
+
+statement charge called “unused office space” which Kratos repeatedly discloses. It would like investors to ignore these 
+
+
+repeated charges and give it the benefit towards its EBITDA presentation. We are not buying what Kratos is selling
+
+
+Source: Kratos 2016 results
+
+
+Income Statement Charge
+
+
+Kratos Adds Back To EBITDA
+
+
+Annual and Cumulative Charges Labeled With 
+
+
+Unused Office Space By Kratos
+
+
+$ in mm
+
+
+Source: Kratos Financials
+
+
+Note: Negative charges to the income statement have been recorded as 
+
+
+benefits to operating income by Kratos
+
+
+
+http://ir.kratosdefense.com/releasedetail.cfm?ReleaseID=1014721
+Valuation and 40%-70% 
+Downside Price Target
+43
+
+
+Terrible Risk/Reward Owning KTOS: 
+Analysts See 29% Upside
+
+
+Analyst Recent Action Recommendation Price Target
+
+
+B. Riley Buy $16.00
+
+
+Noble Capital Buy $15.00
+
+
+Canaccord Buy $15.00
+
+
+Seaport Down from $15.00 Buy $14.00
+
+
+Drexel Hamilton Buy $14.00
+
+
+JP Morgan Initiation Dec 2017 Neutral $13.00
+
+
+Jefferies Price Cut from $13.00 Hold $12.50
+
+
+SunTrust Hold $12.00
+
+
+Goldman Sachs Down from $11.50 Neutral $10.75
+
+
+Average Price Target
+% Implied Upside (1)
+
+
+$13.58
++29%
+
+
+Kratos is covered by a roster of smaller brokers. 
+
+
+Not surprisingly, the majority are “Buy” on the stock. 
+
+
+We expect a substantial re-rating lower in the share price once investors critically analyze its financials.
+
+
+1) Upside based on $10.50 share price
+
+
+Smartest Guy 
+In The Room
+44
+
+
+This Time Is Different Right?
+
+
+Sell-side analysts have amnesia when it comes to Kratos and its ability to hit its financial targets. As we’ve noted 
+
+
+previously, the Company’s inability to consistently hit targets should give analysts skepticism not to take management’s 
+
+
+targets at face value. Furthermore, Kratos should not receive among the highest multiple in the industry. 
+
+
+Analyst blindly pencils in 
+
+
+KTOS’s ambitious 60% 
+
+
+increase in EBITDA, though we 
+
+
+have demonstrated its 
+
+
+repeatedly failures to hit targets
+
+
+So you award Kratos one of the 
+
+
+highest multiples in the defense 
+
+
+sector for below average 
+
+
+industry margins, and highest 
+
+
+risk revenue profile?
+
+
+Pie-in-the-sky math for 
+
+
+everything you cannot value to 
+
+
+engineer a higher price target to 
+
+
+say “Buy”
+
+
+Spruce Point Criticism
+
+
+Higher 2018E Multiple 
+
+
+on 2019E EBITDA?
+45
+
+
+Index Funds and ETFs Driving KTOS 
+Share Price, Not Fundamental Institutions
+
+
+Asset Manager
+Share Ownership / 
+
+
+% of Total
+General Ownership Trend 
+
+
+Past 2yrs
+Orientation
+
+
+Oak Mgmt 12.9M / 12.5% Venture Capital
+
+
+Blackrock 9.5M / 9.2% Index/Quant/ETF
+
+
+State Street 8.2M  / 7.9% Index/Quant/ETF
+
+
+Capital World 8.2M / 7.9% Fundamental
+
+
+Dimensional 3.5M / 3.5% Quant
+
+
+Spruce Point is concerned that long-time fundamental growth owners have either given up or rotated out 
+
+
+of Kratos, and have not returned despite the renewed optimism for Unmanned Systems. Instead, we find 
+
+
+the disturbing reality that Kratos’ share price has been driven by rules-based index and ETF buying
+
+
+Asset Manager
+Share Ownership / 
+
+
+% of Total
+Orientation
+
+
+Wellington 2.8M / 8.9% Fundamental
+
+
+T. Rowe Price 2.5M / 7.8% Fundamental
+
+
+Paradigm Capital 2.4M  / 7.6% Fundamental
+
+
+Blackrock 1.9M / 6.0% Index/Quant/ETF
+
+
+State of Wisconsin Investment Board 1.7M/ 5.3% Fundamental
+
+
+Kratos
+
+
+Shareholder 
+
+
+Base 
+
+
+Today
+
+
+Kratos
+
+
+Shareholder 
+
+
+Base 
+
+
+5 years 
+
+
+Ago
+
+
+In 2012
+
+
+Source: Kratos 2012 Proxy Statement
+
+
+
+https://www.sec.gov/Archives/edgar/data/1069258/000104746917002639/a2231712zdef14a.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000021545718004629/us50077b2079_013118.txt
+
+https://www.sec.gov/Archives/edgar/data/1069258/000142284918000069/edgktos.txt
+
+https://www.sec.gov/Archives/edgar/data/1069258/000142284918000069/edgktos.txt
+
+https://www.sec.gov/Archives/edgar/data/354204/000125889718001532/dfs676.htm
+
+https://www.sec.gov/Archives/edgar/data/1069258/000104746912004560/a2208857zdef14a.htm
+46
+
+
+Irrational Valuation Expansion
+
+
+Source:  KTOS Financial Statements
+
+
+Enterprise Value / Revenues Enterprise Value / Adj EBITDA Price / Book Value
+
+
+Current investors are paying a significant premium to the Company’s historical valuation.
+
+
+Spruce Point finds it difficult to justify Kratos’ valuation expansion in light of its history of disappointment, 
+
+
+unproven drone opportunities, questionable business practices, shrinking backlog, and rising cash burn. 
+
+
+0.0x
+
+
+0.5x
+
+
+1.0x
+
+
+1.5x
+
+
+2.0x
+
+
+2.5x
+
+
+2012 2013 2014 2015 2016 2017
+0.0x
+
+
+5.0x
+
+
+10.0x
+
+
+15.0x
+
+
+20.0x
+
+
+25.0x
+
+
+2012 2013 2014 2015 2016 2017
+
+
+0.0x
+
+
+0.5x
+
+
+1.0x
+
+
+1.5x
+
+
+2.0x
+
+
+2.5x
+
+
+2012 2013 2014 2015 2016 2017
+47
+
+
+KTOS Trading At An Unjustified 
+Premium To Its Peers 
+
+
+KTOS is trying to position itself as a play on drones to justify its valuation relative to a limited universe of pure-play 
+
+
+stocks such as AeroVironment, which Spruce Point previously profiled as a repeated loser. Wall Street is fixated on 
+
+
+Kratos’ earnings “potential” of >100% growth in the next few years and give KTOS a commanding 20x and 70x 
+
+
+EBITDA and P/E ratio.  Be warned: this growth is off a low EPS base, on highly adjusted figures, and will surely 
+
+
+disappoint given Kratos demonstrated ability to poorly execute.
+
+
+$ in millions except per share figures
+
+
+Source: Company filings, Wall St estimates. 
+
+
+1) Assumes 2.5% annual depreciation on $127m of corporate segment assets 
+
+
+Stock % of '18E-'19E Enterprise Value Net
+
+
+Price 52-wk Ent. Sales EPS P/E EBITDA Sales Price/ Debt/ Dividend
+
+
+Segment Name (Ticker) 3/15/2018 High Value Growth Growth 2018E 2019E 2018E 2019E 2018E 2019E Book 18E EBITDA Yield
+
+
+Tier 1 Lockheed Martin (LMT) $333.23 92% $106,037 4.7% 15.6% 21.5x 18.6x 13.3x 12.4x 2.1x 2.0x NM 1.4x 2.4%
+
+
+Tier 1 General Dynamics (GD) $222.60 67% $67,090 6.8% 10.2% 19.9x 18.0x 14.1x 12.8x 2.0x 1.9x 5.8x 0.2x 1.5%
+
+
+Tier 1 Northrop Grumman (NOC) $340.82 95% $63,383 7.7% 12.5% 22.1x 19.6x 15.4x 13.8x 2.3x 2.2x 8.4x 1.0x 1.2%
+
+
+Tier 1 L-3 Technologies (LLL) $203.75 93% $18,589 4.9% 12.6% 21.3x 18.9x 13.8x 12.7x 1.9x 1.8x 3.1x 2.0x 1.5%
+
+
+Tier 1 Orbital ATK (OA) $131.67 98% $8,888 5.5% 13.2% 19.3x 17.0x 11.5x 10.9x 1.8x 1.7x 3.7x 1.7x 1.0%
+
+
+Tier 1 SAIC (SAIC) $77.38 86% $4,215 2.7% 11.9% 21.5x 19.2x 14.0x 12.8x 1.0x 0.9x 10.3x 3.0x 1.7%
+
+
+Tier 2 Flir Systems (FLIR) $50.41 95% $6,969 5.1% 9.0% 24.0x 22.0x 15.5x 14.3x 4.0x 3.8x 3.7x 0.0x 1.2%
+
+
+Tier 2 CACI Int'l (CACI) $154.15 97% $4,886 3.5% 14.3% 19.6x 17.2x 12.3x 11.7x 1.1x 1.0x 1.9x 2.8x 0.4%
+
+
+Tier 2 ManTech (MANT) $53.90 87% $1,369 7.7% 11.5% 27.0x 24.2x 8.6x 8.0x 0.7x 0.7x 1.6x -0.1x 1.6%
+
+
+Tier 2 AAR Corp (AIR) $43.58 96% $1,649 9.6% 22.9% 18.5x 15.0x 10.1x 8.2x 0.8x 0.7x 1.6x 1.0x 0.7%
+
+
+Tier 2 VSE Corp (VSEC) $54.15 60% $777 NA NA 15.0x NA 9.7x NA 1.0x NA 2.0x 2.4x 0.5%
+
+
+Drone AeroVironment (AVAV) $48.58 82% $891 17.2% 20.0% 59.5x 49.6x 28.2x 21.0x 2.8x 2.4x 2.9x -8.3x 0.0%
+
+
+Drone Parrot SA (EPA: PARRO) $9.19 59% $106 17.0% NM NM NM NM 11.4x 0.6x 0.5x 0.8x NM 0.0%
+
+
+Max 17.2% 22.9% 59.5x 49.6x 28.2x 21.0x 4.0x 3.8x 10.3x 3.0x 2.4%
+
+
+Average 7.7% 14.0% 24.1x 21.8x 13.9x 12.5x 1.7x 1.6x 3.8x 0.6x 1.0%
+
+
+Min 2.7% 9.0% 15.0x 15.0x 8.6x 8.0x 0.6x 0.5x 0.8x -8.3x 0.0%
+
+
+Kratos Defense (KTOS) $10.50 75% $1,188 11.0% 117.3% 70.0x 32.2x 19.8x 18.3x 1.8x 1.7x 2.1x 1.7x 0.0%
+
+
+  Adjusted for corporate depreciation (1) 11.0% 135.2% 80.7x 34.3x 19.8x 18.3x 1.8x 1.7x 2.1x 1.7x 0.0%
+
+
+
+http://www.sprucepointcap.com/aerovironment-inc/
+48
+
+
+6.9% 7.2%
+7.8%
+
+
+8.4% 8.8%
+9.3%
+
+
+9.8%
+10.6%
+
+
+13.5%
+14.5%
+
+
+15.1%
+15.6% 15.8%
+
+
+25.7%
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+25.0%
+
+
+30.0%
+
+
+SAIC KTOS
+
+
+(2017)
+
+
+AAR MANT CACI KTOS
+
+
+(2018E)
+
+
+AVAV VSEC LLL GD NOC LMT OA FLIR
+
+
+Kratos = Worst of Breed, Not Deserving 
+A Premium Industry Valuation
+
+
+Source:  Company financials.
+
+
+Note: Excludes Parrot S.A. as a result of it being an extreme negative outlier
+
+
+2018E EBITDA Margin LTM Free Cash Flow Margin
+
+
+Revenues % From Fixed-Price Contracts
+
+
+Free Cash Flow defined as Operating Cash Flow – Gross Capital Expenditures
+
+
+19%
+24%
+
+
+27%
+33%
+
+
+45%
+
+
+63%
+68%
+
+
+79%
+83%
+
+
+88%
+
+
+0%
+
+
+10%
+
+
+20%
+
+
+30%
+
+
+40%
+
+
+50%
+
+
+60%
+
+
+70%
+
+
+80%
+
+
+90%
+
+
+100%
+
+
+MANT VSE SAIC CACI NOC LMT OA AVAV CUB KTOS
+
+
+• Kratos’ premium valuation of earnings and EBITDA does 
+
+
+not reconcile with its below average financial 
+
+
+performance and mix of revenue quality
+
+
+• The Company has the highest % of revenues from fixed-
+
+
+price contracts, which are the riskiest contracts that 
+
+
+expose Kratos to cost overruns. 
+
+
+• Not surprisingly, the Company has often failed to 
+
+
+generate cash flow and has below industry margins –
+
+
+reflective of its inability to execute
+
+
+• The Company and sell-side analysts have bought into 
+
+
+Kratos’ dream that it can expand EBITDA margins to 
+
+
+10%, but this remains entirely a “show me” story
+
+
+Average
+
+
+Average
+
+
+Average
+
+
+-7.1%
+
+
+-1.1%
+
+
+2.9%
+4.0%
+
+
+5.9% 6.5%
+6.9% 7.1% 7.5%
+
+
+8.7%
+10.3%
+
+
+11.0%
+
+
+14.8%
+
+
+-10.0%
+
+
+-5.0%
+
+
+0.0%
+
+
+5.0%
+
+
+10.0%
+
+
+15.0%
+
+
+20.0%
+
+
+KTOS AAR AVAV SAIC CACI NOC VSEC MANT OA LLL LMT GD FLIR
+49
+
+
+Spruce Point Estimates 40% – 70% Downside
+
+
+Valuation Low Price High Price Note
+
+
+EBITDA Multiple
+2018E EBITDA
+
+
+Enterprise Value
+Plus: Cash
+Less: Debt
+Dil. Shares
+
+
+Price Target
+% Downside
+
+
+10.0x
+$58.0
+
+
+$580.0
+$199.6
+
+
+($301.0)
+103.3
+
+
+$4.60/sh
+-56%
+
+
+12.0x
+$61.0
+
+
+$732.0
+$199.6
+
+
+($301.0)
+103.3
+
+
+$6.10/sh
+-42%
+
+
+Kratos’ current 2018E EBITDA multiple of 20x is 
+ridiculously higher than its peers at 12x. We don’t 
+trust management’s EBITDA figure to begin with 
+given our documented evidence of accounting 
+concerns (including not depreciating $126m of 
+
+
+corporate assets). We apply a discounted multiple of 
+10x – 12x EBITDA to reflect its below average margin 
+profile, low revenue quality, and poor management
+
+
+Price / Book Multiple
+Stated Book Value
+
+
+Price Target
+% Downside
+
+
+1.0x
+$4.94
+
+
+$4.94/sh
+-53%
+
+
+1.5x
+$4.94
+
+
+$7.40/sh
+-29%
+
+
+Kratos’ assets have historically traded between 0.7x 
+to 1.4x. We could argue that Kratos should trade 
+
+
+below book value because it continues to burn cash. 
+Even giving Kratos the benefit of the doubt it can 
+
+
+stop the cash bleed, and generate cash this year, we 
+apply a 1.0x – 1.5x range
+
+
+Multiple of Free Cash Flow
+KTOS Estimated Free Cash Flow
+
+
+Enterprise Value
+Plus: Cash
+Less: Debt
+Dil. Shares
+
+
+Price Target
+% Downside
+
+
+20.0x
+$12.0
+
+
+$240.0
+$199.6
+
+
+($301.0)
+103.3
+
+
+$1.35/sh
+-87%
+
+
+25.0x
+$19.0
+
+
+$475.0
+$199.6
+
+
+($301.0)
+103.3
+
+
+$3.60/sh
+-66%
+
+
+Kratos has offered 2018 free cash flow guidance of 
+$12 to $19m. Giving it the benefit of the doubt for 
+hitting this target, and applying a generous 20-25x 
+multiple (commensurate with peers that generate 
+consistent free cash flow, [Kratos does not]), we 
+
+
+estimate almost 70% – 90% downside
+
+
+$ in millions, except per share amounts
+
+
+There is no way to justify Kratos’ inflated valuation.
+
+
+Downside based on $10.50/share. Includes the impact of the PSS segment divesture which we assume sold for 1x book value
+
+
+Note: Analysis does not factor in federal tax loss carryforwards of $390.7 million and various state tax loss carryforwards of $348.7 million. The federal tax loss carryforwards will begin to 
+
+
+expire in 2020 and state tax loss carryforwards will begin to expire in 2018 in certain states

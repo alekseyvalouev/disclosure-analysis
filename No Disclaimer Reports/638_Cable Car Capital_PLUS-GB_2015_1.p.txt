@@ -1,757 +1,1257 @@
-Muddy Waters Capital LLC 
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
 
 
-info@muddywatersresearch.com 
-Director of Research: Carson C. Block, Esq. 
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 1/11
 
 
+Concentrated, hedged value investing
 
 
+Your Capital at Risk Part 1: Short Plus500 
+This entry was posted in All Ideas  and tagged PLUS short positions  on May 18, 2015.
 
-These Terms of Use govern current reports published by Muddy Waters Research and supersede any prior Terms of Use for older reports of Muddy Waters 
-Research, which you may download from the Muddy Waters Research’s website. 
 
+Disclosure: Short PLUS. This content is not directed toward persons with residence or place of
+business in the United Kingdom. By accessing, transmitting, or reviewing this material, you
+acknowledge that the author has represented his honest opinion and made statements of fact believed
+to be true at the time of publication. No content herein should be construed as a recommendation to
+take action with respect to any security.
 
- 
-The reports on this website have been prepared by Muddy Waters Capital LLC (“Muddy Waters Capital”).  We refer to Muddy Waters Research and Muddy Waters Capital collectively 
-as “Muddy Waters” and individually these entities are referred to as a “Muddy Waters Entity”.  You should assume that, as of the publication date of a Muddy Waters report, 
-Muddy Waters Related Persons (possibly along with or through its members, partners, affiliates, employees, and/or consultants), Muddy Waters Related Persons clients 
-and/or investors and/or their clients and/or investors have a short position in one or more of the securities of a Covered Issuer (and/or options, swaps, and other derivatives 
-related to one or more of these securities), and therefore stand to realize significant gains in the event that the prices of either equity or debt securities of a Covered Issuer 
-decline or appreciate. Muddy Waters Research, Muddy Waters Capital and/or the Muddy Waters Related Persons intend to continue transacting in the securities of Covered Issuers for 
-an indefinite period after an initial report on a Covered Person, and such person may be long, short, or neutral at any time hereafter regardless of their initial position and views as stated 
-in the research report published by Muddy Waters Research or Muddy Waters Capital. Neither Muddy Waters Research nor Muddy Waters Capital will update any report or 
-information on its website to reflect changes in positions that may be held by a Muddy Waters Related Person.  Each report specifies the publisher and owner of that report.  All reports 
-are for informational purposes only.  Under no circumstances should any of these reports or any information herein be construed as investment advice, or as an offer to sell or the 
-solicitation of an offer to buy any securities or other financial instruments. 
 
+Part 1: Short Plus500 
+Part 2: Bucket Shop 
+Part 3: Customer Lifetime Value 
+Part 4: Companies House Inconsistencies 
+Part 5: Audit Opinions 
+Part 6: Unlicensed Activity 
+Part 7: Whois Plus500? 
+Part 8: Scalping 
+Part 9: Worldwide Web 
+Part 10: Competition 
+Part 11: Unanswered Questions 
+Part 12: Legal Consequences
 
-Muddy Waters Research is an online research publication that produces due diligence-based reports on publicly traded securities, and Muddy Waters Capital LLC is an investment 
-adviser registered with the U.S. Securities and Exchange Commission.  The reports are the property of the applicable Muddy Waters Entity that published that report.    This website is 
-owned by Muddy Waters Research.  The opinions, information and reports set forth herein are solely attributable to the applicable Muddy Waters Entity and are not attributable to any 
-Muddy Waters Related Person (defined below) (other than the applicable Muddy Waters Entity). 
 
+Cable Car is short Plus500 with a price target of 76 pence (GBP 0.76),
+the stated amount of cash per share. Plus500 is an Israeli Contract for
+Difference (CFD) broker listed on the London Stock Exchange’s Alternative
+Investment Market under the symbol PLUS.
 
-By downloading from, or viewing material on this website, you agree to the following Terms of Use. You agree that use of the research on this website is at your own risk. You (or any 
-person you are acting as agent for) agree to hold harmless Muddy Waters Research, Muddy Waters Capital and its affiliates and related parties, including, but not limited to any 
-principals, officers, directors, employees, members, clients, investors, consultants and agents (collectively, the “Muddy Waters Related Persons”) for any direct or indirect losses 
-(including trading losses) attributable to any information on this website or in a research report. You further agree to do your own research and due diligence before making any 
-investment decision with respect to securities of the issuers covered herein (each, a “Covered Issuer”) or any other financial instruments that reference the Covered Issuer or any 
-securities issued by the Covered Issuer. You represent that you have sufficient investment sophistication to critically assess the information, analysis and opinion on this website. You 
-further agree that you will not communicate the contents of reports and other materials on this site to any other person unless that person has agreed to be bound by these Terms of Use. 
-If you access this website, download or receive the contents of reports or other materials on this website on your own behalf, you agree to and shall be bound by these Terms of Use. If 
-you access this website, download or receive the contents of reports or other materials on this website as an agent for any other person, you are binding your principal to these same 
-Terms of Use. 
 
+42
 
-This is not an offer to sell or a solicitation of an offer to buy any security. Neither Muddy Waters Research nor any Muddy Waters Related Person (including Muddy Waters Capital) 
-are offering, selling or buying any security to or from any person through this website or reports on this website. Muddy Waters Research is affiliated with Muddy Waters Capital. 
-Muddy Waters Capital is an investment adviser with the U.S. Securities and Exchange Commission and is not registered as investment adviser in any other jurisdiction. Muddy Waters 
-Capital does not render investment advice to anyone unless it has an investment adviser-client relationship with that person evidenced in writing. You understand and agree that Muddy 
-Waters Capital does not have any investment advisory relationship with you or does not owe fiduciary duties to you. Giving investment advice requires knowledge of your financial 
-situation, investment objectives, and risk tolerance, and Muddy Waters Capital has no such knowledge about you. 
 
+Click to expand menu
 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment professional falling within Article 19 of the Financial 
-Services and Markets Act 2000 (Financial Promotion) Order 2005 (the “FPO”); or (b) high net worth entity falling within Article 49 of the FPO (each a “Permitted Recipient”).  In 
-relation to the United Kingdom, the research and materials on this website are being issued only to, and are directed only at, persons who are Permitted Recipients and, without 
-prejudice to any other restrictions or warnings set out in these Terms of Use, persons who are not Permitted Recipients must not act or rely on the information contained in any of the 
-research or materials on this website.  
 
 
-The research and reports presented on this website express the opinion of the applicable Muddy Waters Entity only.  Reports are based on generally available information, field research, 
-inferences and deductions through the applicable Muddy Waters Entity’s due diligence and analytical process. To the best of the applicable Muddy Waters Entity’s ability and belief, 
-all information contained herein is accurate and reliable, and has been obtained from public sources that the applicable Muddy Waters Entity believe to be accurate and reliable, and 
-who are not insiders or connected persons of the Covered Issuers or who may otherwise owe a fiduciary duty, duty of confidentiality or any other duty to the Covered Issuer (directly or 
-indirectly). However, such information is presented “as is,” without warranty of any kind, whether express or implied.  With respect to their respective research reports, Muddy Waters 
-Research and Muddy Waters Capital makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to 
-be obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion. All expressions of opinion are subject to change without notice, and 
-neither Muddy Waters Research nor Muddy Waters Capital undertakes to update or supplement any reports or any of the information, analysis and opinion contained in them.  
+http://www.cablecarcapital.com/
 
+http://www.cablecarcapital.com/2015/05/18/
 
-In no event shall Muddy Waters Research, Muddy Waters Capital or any Muddy Waters Related Persons be liable for any claims, losses, costs or damages of any kind, including direct, 
-indirect, punitive, exemplary, incidental, special or, consequential damages, arising out of or in any way connected with any information on this website. This limitation of liability 
-applies regardless of any negligence or gross negligence of Muddy Waters Research, Muddy Waters Capital or any Muddy Waters Related Persons. You accept all risks in relying on 
-the information on this website. 
-
-
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the downloaded file, copies / images / reproductions, 
-or the link to these files) in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained research published by Muddy 
-Waters Research or Muddy Waters Capital in any manner other than by download from that link, you may not read such research without going to that link and agreeing to the Terms 
-of Use. You further agree that any dispute between you and Muddy Waters Research and its affiliates arising from or related to this report and / or the Muddy Waters Research website 
-or viewing the material hereon shall be governed by the laws of the State of California, without regard to any conflict of law provisions. You knowingly and independently agree to 
-submit to the personal and exclusive jurisdiction of the state and federal courts located in San Francisco, California and waive your right to any other jurisdiction or applicable law, 
-given that Muddy Waters Research and its affiliates are based in San Francisco, California. The failure of Muddy Waters Research or Muddy Waters Capital to exercise or enforce any 
-right or provision of these Terms of Use shall not constitute a waiver of this right or provision. You agree that each Muddy Waters Related Person is a third-party beneficiary to these 
-Terms of Use. If any provision of these Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give 
-effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Use remain in full force and effect, in particular as to this governing law 
-and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to this website or the material on this 
-website must be filed within one (1) year after the occurrence of the alleged harm that gave rise to such claim or cause of action, or such claim or cause of action be forever barred. 
-
-
-
-
-
-Page 1 of 17
-Muddy Waters Capital LLC (“Muddy Waters”) is an investment advisor to private funds.  Muddy Waters 
-has analyzed the U.K.-listed company IQE plc (“IQE”) and is hereby publishing the outcome and the 
-conclusions of our analysis, which is based on publicly available information.  Funds Muddy Waters 
-manages are short shares of IQE and for this reason there might be a conflict of interest. 
- 
-
+http://www.cablecarcapital.com/category/all/
 
- 
-Report Date: February 8, 2018 
- 
-Company:  
-IQE plc 
- 
-Ticker:  
-IQE (AIM: IQE) 
-
-
- 
-Industry: Semiconductors 
- 
-Stock Price: GBp 112.6 
- 
-Market Cap: £851.3 million 
- 
-Float: 90.5% 
- 
-Average Daily Volume (90-day): £15.1 million 
- 
-
-
-
-
-
-Muddy Waters is Short IQE plc (AIM: IQE LN) 
- 
-
-
-Muddy Waters Capital LLC is short IQE.  IQE is, in our opinion, an egregious accounting manipulator.   
- 
-In August 2015, IQE formed a 50/50 joint venture with Cardiff University called Compound 
-Semiconductor Centre Limited (“CSC”).  In our analysis, IQE received substantial, but unsustainable, 
-accounting benefits from CSC, at the cost of millions of pounds to the university.  We adjust downward 
-the company’s reported net income for 2015 and 2016, respectively, by 58.5% and 25.4%.  We believe it 
-is reasonable to adjust 1H 2017 net income down by approximately £5 million or 69% to account for 
-likely aggressive capitalization of expenses.   
- 
-On February 2nd, a firm called ShadowFall circulated a report criticizing IQE’s accounting for two joint 
-ventures.  IQE responded on February 5th, calling the contents of the report “without merit” and 
-“misleading”.  Our research has been independent of ShadowFall, and ShadowFall’s report does not 
-address the vast majority of the issues with IQE’s accounts we have identified.   
- 
-The 2015 and 2016 adjustments reflect our belief that IQE’s transactions with CSC are not substantive, 
-and the accounting is possibly designed to deceive investors.  We estimate that when IQE booked gains 
-on transferring PP&E to CSC, it transferred the PP&E at a valuation 4.6x carrying value.  This markup 
-strains credulity.  We call upon IQE to release the purportedly independent valuation report in full, and 
-we will publicly opine on it (even if it convincingly supports the valuation).  IQE was CSC’s only 
-customer through 2016, and CSC generated an abysmal negative -105.9% gross margin!  (It is almost 
-amazing anyone would claim that it “holds itself to the highest standards of corporate governance, 
-transparency, and integrity” with a straight face under these circumstances.1) 
- 
-
-
-																																																													
-1 Quote is from IQE response to ShadowFall. 
-
-
-Page 2 of 17
-We identify five previously unknown issues with the accounting for transactions between IQE and CSC.  
-Time and again, IQE seems to be employing “having one’s cake and eating it too” accounting.  We feel 
-that IQE dominates CSC, and CSC is therefore likely an alter ego for IQE.   
- 
-We believe IQE began aggressively capitalizing expenses in 1H 2017.  CSC’s funds were largely 
-exhausted by the end of 2016, and we suspect IQE was desperate for some more earnings magic.  We 
-note that insiders, who presciently purchased a substantial number of shares just before the JVs’ 
-accounting benefits began flowing to IQE, sold millions of pounds of stock around the end of 1H 2017.  
-These sales could be a sign that IQE’s ability to generate profits has hit the wall as the result of the 
-exhaustion of its financial engineering options.   
- 
- 
- 
-  
+http://www.cablecarcapital.com/category/all/ideas/
 
+http://www.cablecarcapital.com/tag/plus/
 
-Page 3 of 17
-Egregious Manipulation through CSC 
- 
-Companies House filings state that “CSC’s mission is to provide Europe’s first prototyping facility 
-dedicated to enabling businesses and academics to demonstrate new technologies based on compound 
-semiconductor materials that will be production ready…”  In addition, CSC is theoretically tasked to 
-“facilitate a wide range of training and skills development to support a growing demand…” for 
-technologies.  Cardiff University has invested £23.8 million cash in CSC, including a £2.0 million loan and 
-an additional £0.8 million investment in the first seven months of 2017.  In contrast, IQE invested zero cash 
-– it received its interest in exchange for contributing unspecified PP&E and intangible assets.  We estimate 
-the PP&E contribution was valued at 4.6x of its carrying value, which is one of several facts giving us 
-concern that IQE might have taken advantage of Cardiff University. 
- 
- 
-We adjust downward IQE’s 2015 and 2016 net income by 58.5% and 25.4%, respectively, to exclude gains 
-on transfers of assets to CSC, which we believe lack substance 
- 
-These adjustments also bring the gross margins in line with those of prior periods. 
- 
-To neutralize the effect of disposal and license transactions with CSC on IQE’s historical financials, we 
-make the following adjustments: 
- 
+http://www.cablecarcapital.com/tag/short-positions/
 
-
-
-
-
-• reverse IP licensing revenue of £7.07 million and £4.93 million in 2015 and 2016, respectively, 
-which carried a 100% operating margin, and 
-
-
-• reverse the realized £4.714 million gain on disposal of PP&E in 2015 
- 
-In 2015 and 2016, IQE booked gains from transferring PP&E and licensing IP to CSC.  In our opinion, 
-these gains are misleading as to the economic health of IQE, and we accordingly adjust IQE’s financials 
-to exclude them.  We have identified issues with both the PP&E and IP transactions and accounting. 
- 
-We estimate that the valuation given to the PP&E IQE transferred was 4.6x its book value, which is 
-suspicious on its face.  However, we have identified five accounting issues that solidify our doubts about 
-these gains, and which cause us to believe that IQE’s accounting is egregiously manipulated through 
-transactions with CSC.  IQE insiders’ significant sales in mid-2017 – just after CSC seemingly lost its 
-ability to boost IQE’s accounting profits – lend additional weight to our conviction that the transactions 
-with CSC are manipulative and should be disregarded. 
- 
-  
-
-
-GBPm
-As 
-
-
-reported
-As 
-
-
-adjusted Difference
-As 
-
-
-reported
-As 
-
-
-adjusted Difference
-Revenue 114.0       107.0       -6.2% 132.7      127.8      -3.7%
-Cost Of Goods Sold (83.4)       (83.4)       0.0% (98.0)      (98.0)      0.0%
-  Gross Profit 30.7         23.6         -23.1% 34.7        29.8        -14.2%
-Operating expenses (15.5)       (15.5)       0.0% (16.4)      (16.4)      0.0%
-   Operating Profit 15.2         8.1           -46.5% 18.4        13.4        -26.8%
-Gain (loss)  on Sales of Assets 5.2           0.5           -90.9% -         -         0.0%
-Others (1.0)         (1.0)         0.0% 0.7          0.7          0.0%
-   Profit before tax 19.4         7.6           -60.8% 19.0        14.1        -25.9%
-Income tax 0.8           0.8           0.0% 0.4          0.4          0.0%
-   Net Income 20.1         8.4           -58.5% 19.4        14.5        -25.4%
-
-
-2015 2016
-
-
-Page 4 of 17
-The five accounting issues that cast doubt on the substance of the gains from transacting with CSC are: 
- 
-
-
-• CSC’s accounting for the transactions is inconsistent with that of IQE, which is problematic given 
-the overlapping managers and directors between the companies.  The having one’s cake and 
-eating it too treatment suggests IQE is inappropriately accounting for these transactions. 
-
-
-• IQE has its cake and eats it too in yet another manner when accounting for transactions with CSC 
-by selling to it at purportedly market (i.e., arms-length) prices, yet buying from it at cash cost 
-(well below market / arms-length prices). 
-
-
-• IQE’s recognition of certain of these gains from these transactions in 2015 and 2016 is wholly 
-inconsistent, leading us to conclude that at best, there is a concerning amount of arbitrariness to 
-IQE’s accounting; and, at worst, its accounting is intended to deceive investors. 
-
-
-• CSC has lost prodigious amounts of money (and burned through substantially all the cash Cardiff 
-University invested through 2016), yet IQE’s income statement has been immunized against 
-recognizing its share of these losses through accounting we believe is highly aggressive.  Once 
-again, IQE is having its cake and eating it too by booking (highly questionable) material gains 
-from CSC without recognizing its losses.  (Note that we do not adjust IQE’s earnings downward 
-for its share of CSC’s losses, which would effectively be double counting.) 
-
-
-• Our diligence leads us to believe that CSC is likely non-substantive and effectively an alter ego of 
-IQE, supporting our view that IQE’s economic reality is more appropriately understood by 
-adjusting for the transactions with CSC. 
-
-
- 
- 
-We estimate IQE’s PP&E contribution to CSC was valued at 4.6x its carrying value, straining credulity 
- 
-In H2 2015, IQE realized a £4.7 million gain on the disposal of the contributed PP&E, which was 
-equivalent to 30.1% of its net income during the period.  IQE showed carrying value of all PP&E of 
-which it disposed during the period as £3.4 million, and disclosures specific to the PP&E contributed in 
-exchange for the £12.0 million equity stake imply IQE carried the PP&E at only £2.6 million.  (Note that 
-under IAS 28, IQE may not recognize a gain on the portion equal to the percentage owned by the 
-transferor, which in this case is 50%.  If we subtract £9.4 million (2 x £4.7 million) from £12.0 million, it 
-implies the carrying value of the PP&E valued at £12.0 million was only £2.6 million.)   
- 
-IQE noted in its response to ShadowFall that it engaged an “independent” valuation firm to determine the 
-“market value” of this PP&E.  Unlike audits, such valuation reports are not generally governed by 
-statutory duties to public companies or their shareholders.  In our past work, we have found numerous 
-third-party reports to be merely fig leaves to justify egregious accounting (e.g., Noble Group Ltd.).  We 
-generally take purportedly independent valuation reports with a grain of salt; therefore, we call upon IQE 
-to release the full valuation report used to support the £12.0 million figure.  Should IQE release the 
-report, we will publicly opine on it, even if we believe it convincingly supports the valuation (this is a 
-serious offer).   
- 
-IQE transferred intangible assets to CSC, which were valued at £20.0 million.  In the ShadowFall 
-response, IQE once again tells us that the valuation was supported by a third-party report.  It would be far 
-more difficult for us to sanity check this type of valuation report, but we certainly think that releasing it 
-would serve the public interest, given the government money invested.  Regardless, given the totality of 
-accounting issues we observe, we believe it prudent to disregard these gains. 
- 
-
-
-Page 5 of 17
-Accounting Issue 1 – CSC’s accounts call into question IQE’s revenue recognition and gross profit 
- 
-IQE recognized IP licensing revenue from CSC of £7.7 million and £4.9 million, respectively, in 2015 
-and 2016.  CSC’s accounts do not appear to support this treatment because CSC capitalized these 
-payments as investments in intangible assets, and amortizes them over seven years on a straight-line 
-basis.  This divergent accounting treatment benefitted IQE’s 2015 and 2016 reported revenue and gross 
-margins.  It simultaneously benefitted CSC by decreasing its reported loss through less aggressive 
-expensing (i.e., seven-year amortization).  Had IQE’s treatment reflected that of CSC, it would have 
-instead recognized gains on sale, which would not have improved top-line revenue and gross margin.  The 
-fact that such closely-connected entities are engaging in having one’s cake and eating it too accounting is 
-one reason we believe the gains are non-substantive and should be disregarded. 
- 
-
-
-CSC’s capitalizes the IP transactions as purchases of intangible assets – see CSC’s 2016 AR, p. 26: 
- 
-
-
- 
- 
-CSC’s financials expressly call the transactions purchases of intellectual property from IQE, rather than 
-licenses.  The below is from CSC’s 2016 AR, p. 32: 
- 
-
-
- 
- 
-There are reasons to be skeptical of this divergent accounting treatment – particularly IQE’s recognition 
-of licensing revenue.  We elaborate below on our view that IQE dominates CSC.  Suffice to say that we 
-expect that IQE’s top management, which sit on CSC’s board of directors, are aware of the divergent 
-accounting.   
- 
- 
-  
-
-
-Page 6 of 17
-Accounting Issue 2 – IQE has its cake and eats it too by selling to CSC at arms-length prices, but buying 
-from it at cash cost, which is anything but arms-length 
- 
-IQE’s response states that its purchases from the joint ventures are “at cash cost” (emphasis added).  This 
-also makes IQE’s financials misleading because cost is not reflective of an arms-length arrangement.  
-Cash cost is even less reflective of an arms-length transaction, as depreciation and amortization are 
-seemingly not included in cost.  Were IQE to be transacting with arms-length parties, it would 
-presumably pay more so that the counterparties could generate a profit (to say nothing of recovering 
-depreciation & amortization).  In this way, IQE seems to be claiming income that is based on arms-length 
-sales, but expenses without the counterparty earning a profit margin.  This increases our doubt about the 
-substance of the transactions between IQE and CSC. 
- 
- 
-Accounting Issue 3 – IQE recognized licensing revenue in an internally inconsistent manner between 
-2015 and 2016, giving rise to concerns that IQE intended to deceive investors 
- 
-Despite recording IP licensing revenue in 2015 on transactions with CSC, in our opinion, IQE’s 
-accounting was more consistent with a gain on disposal of assets than licensing revenue.  The issue is that 
-IQE booked an unrealized gain.  IAS 28 prohibits recognition of gains on disposals to associates and joint 
-ventures for the portion of the transferee owned by the transferor.  In other words, if one owns 50% of a 
-joint venture and disposes of assets to the JV at a £1 million gain, only £500,000 of the gain may be 
-realized by the transferor.  We believe that the unrealized gain in 2015 is consistent with a gain on 
-disposal (again, not top-line income), and is therefore inconsistent with booking license revenue.  Events 
-the following year increase our concerns. 
- 
-IQE’s 2016 accounting, in our view, resolved this inconsistency in the least conservative manner 
-available.  In 2016, there were no unrealized gains on IP transactions with CSC.  In contrast to the year 
-before, in 2016, IQE recognized all receipts as licensing revenue (versus only ~50% the year before).  
-IQE provided no justification in its AR for the change.  Below is IQE’s disclosure, without discussion, 
-related to the changed policy (emphasis added): 
- 
-
-
-“The profit arising from license income sales to joint ventures in 2015 represents revenue of 
-£15,310,000 offset by an elimination of unrealised profit of £7,286,000 relating to our retained 
-interest in the Compound Semiconductor Centre Limited joint venture.  No such elimination has 
-occurred in 2016.”  
-
-
- 
-This unexplained change in accounting policy raises significant questions about IQE’s accounting 
-practices, and historical margins.  Even if the transactions with CSC were properly booked as licensing 
-revenue, this unexplained change brings us to another reason to be skeptical of IQE’s accounting: The 
-inconsistency between the two years allows 2015 unrealized gains on PP&E and intangibles to add 
-exactly to £12.0 million.  This is a sign that IQE’s accounting might be intended to deceive investors. 
- 
-£12.0 million is the precise amount needed to zero out IQE’s equity investment in CSC.  If IQE were to 
-avoid recognizing its pro rata share of CSC’s loss, it needed to zero out its equity investment in CSC.  
-(We discuss this next.)  We therefore see this inconsistency as evidence that, at best, IQE’s accounting 
-can be arbitrary with respect to material items; and, at worst, is designed to deceive investors. 
- 
- 
-
-
-Page 7 of 17
-Accounting Issue 4 – IQE’s failure to recognize CSC losses is highly questionable 
- 
-Despite CSC having lost many millions of pounds since inception, IQE recognized no share of the loss in 
-its financials.  We believe the accounting IQE used to avoid recognizing any loss, and the resulting non-
-recognition, are highly aggressive.  IQE’s equity investment account was debited (i.e., increased by) 
-£12.0 million in exchange for the PP&E it contributed (at an estimated 4.6x premium to book value).  In 
-addition, IQE received preferred shares valued at £8.0 million as partial payment for the intangibles.  IQE 
-recognizes the preferred shares as a financial receivable.   
- 
-Under the equity accounting method, a 50% shareholder in CSC would normally recognize its pro rata 
-share of the loss at CSC.  IQE appears to have avoided recognizing any loss by creating in 2015 contra-
-accounts to its £12.0 million equity investment account.  The contra-accounts seem to have been the 
-unrealized gain on the disposal of the PP&E (£4.7million) and the aforementioned unrealized gain on sale 
-(or license as IQE states it) of intangible assets (£7.286 million).  By having contra-accounts that netted 
-the equity investment account down to zero, IQE avoided recognizing any CSC losses against its equity 
-investment.   
- 
-However, as we pointed out above, £7.286 million of the contra-account seems to have been unrealized 
-gains from licensing revenue (or as we argue, sales of intangible assets), which we believe should not be a 
-contra-account to an equity investment.  In our opinion, the unrealized gain should net off the £8.0 million 
-receivable that was booked when IQE received preferred shares in exchange for intangible assets.   
- 
-However, even if we agreed that IQE could zero out its equity investment account, we believe IQE should 
-still recognize CSC losses because of the preferred shares it owns.  IQE’s view apparently is that because 
-it has classified the preferred shares as a financial receivable, it no longer has an account reflecting an 
-equity investment in CSC.  We disagree, and believe that this interpretation of accounting standards 
-would be aggressive.  Our view is that, given CSC’s financial state, the receivable is unlikely to be 
-collected in the foreseeable future.  Thus, the substance of the receivable should be an investment.   
- 
-We did not adjust IQE’s results downward for its shares of CSC’s losses because it would be double 
-counting to a considerable extent.  Much of CSC’s losses are due to transactions for which we have 
-already adjusted IQE’s results.   
- 
- 
-Issue 5 – We see CSC as likely non-substantive and an alter ego of IQE 
- 
-We assume that IQE has a valid technical argument to avoid consolidating CSC, but we see this as a triumph 
-of form over substance.  In its response to ShadowFall, IQE stated that although it has significant influence 
-on its joint ventures, it “does not have control”.  “Control” under IFRS is a subjective concept, and in our 
-view, is prone to abuse.  As an example, we understand that a party might have absolute day-to-day direction 
-of the operations, but if a joint venture party has a veto over certain high-level decisions, a company could 
-likely convince its auditor to agree that consolidation is not required.  Because we think that from a 
-substantive perspective, IQE dominates CSC, we view the relationship and the resulting accounting benefits 
-to IQE with substantial suspicion. 
- 
-  
-
-
-Page 8 of 17
-We believe IQE dominates CSC, supporting our view that the transactions between them lack substance 
-largely because: 
- 
-
-
-• IQE was CSC’s only revenue source through 2016, 
-• IQE sells to CSC at purportedly arms-length / market valuations (e.g., PP&E transferred at 4.6x 
-
-
-estimated carrying value), but IQE buys from CSC at non arms-length / market prices – at cash 
-cost, with no profit margin or reimbursement for depreciation and amortization (note that CSC’s 
-2016 gross margin was negative -105.9%!),2  
-
-
-• CSC employees appear to largely believe they are IQE employees, the companies appear to be 
-advertising some of the same job openings, and CSC employee contracts are apparently “essentially 
-the same contract as all other IQE employees” 
-
-
-• The companies share the same physical address, and in our experience, CSC’s phone number is 
-answered “IQE”, 
-
-
-• IQE personnel appear to be exercising day-to-day control, 
- 
-Through 2016, IQE was CSC’s only revenue source:3 
- 
-
-
-
-
-
-
-
-
-																																																													
-2 In 2016, CSC’s revenues were £3.955 million and COS were £8.143 million. 
-3 CSC AR, pp. 32 and 13. 
+http://www.cablecarcapital.com/your-capital-at-risk-part-2/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-3/
 
-Page 9 of 17
-Indeed, although CSC claims a headcount of 74 people and reportedly spent £2.6 million on staff in 2016, 
-outside of CSC’s non-executive chairman, we can only find a single individual on LinkedIn who claims to 
-work (or to have worked) for CSC while not simultaneously working for IQE.  If we include people who 
-claim to work or have worked simultaneously at CSC and IQE, we find one more person.  However, IQE 
-has 321 employee profiles on LinkedIn.  If CSC is a high-tech research and development company, why 
-are there not far more professional CSC employees who have LinkedIn profiles?  The answer could be that 
-CSC employees see themselves as working for IQE, supporting our alter ego theory. 
- 
-From our and our researcher’s phone calls it appears that IQE employees serve as staff for CSC.  Our 
-researcher called the CSC contact number listed on CSC’s website to see if an employee might be able to 
-explain how CSC was separate/different from IQE.  He was greeted with, “Hello, IQE.”  He asked whether 
-he could apply for a technician role and was transferred to Beth Williams, a human resources employee at 
-IQE.  
- 
+http://www.cablecarcapital.com/your-capital-at-risk-part-4/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-5/
 
- 
-Source: LinkedIn 
+http://www.cablecarcapital.com/your-capital-at-risk-part-6/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-7/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-8/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-9/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-10/
 
-Page 10 of 17
-Even CSC’s About Us webpage includes a video with the face of Chris Meadows, Corporate Systems 
-Manager at IQE Europe.   
- 
+http://www.cablecarcapital.com/your-capital-at-risk-part-11/
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-12
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
 
- 
-Source: CSC about us Website 
-
-
-
-
-
- 
- 
-Furthermore, the jobs advertised on CSC’s jobs board appear to be at IQE (with the exception of jobs for 
-PhD studentships, which appear to be university-focused).  Applicants are directed by CSC’s jobs website 
-to email the human resources at IQE at personnel@iqep.com.  Indeed, IQE posts some of the same job 
-openings on its own website.  When our researcher inquired about the technician role listed on CSC’s 
-website, we he was told that although the technician role is with CSC, it is “essentially the same contract 
-as all other IQE employees.”  
- 
-
-
-Q: I spoke to your colleague about a technician role at CSC.  I was passed your details.  Would it 
-be possible to get a little more information about the role?  Is it with CSC or IQE?  Or is that 
-effectively the same thing? 
- 
-IQE HR: The role is CSC, which is a joint venture with IQE and Cardiff University.  Essentially 
-though it is the same contract as all other IQE employees and is based at our site in Cardiff.   
-
-
-Page 11 of 17
-Source: CSC jobs page 
-
-
- 
-On February 5th, the first business day after the ShadowFall report was released, we called CSC.  The phone 
-again was answered as “IQE”.  We expressly stated that we wanted to speak with someone from CSC and 
-not IQE, and we were connected to Robert Harper.  While his LinkedIn profile shows him as a program 
-director at CSC, it also shows that he is still employed by IQE (thus the one person with both companies 
-simultaneously on his LinkedIn profile): 
- 
-
-
-Page 12 of 17
-When we inquired with Mr. Harper about CSC, he suggested we call Wyn Meredith, who according to his 
-LinkedIn profile has worked exclusively for CSC since leaving IQE in 2015 (the one employee we found 
-on LinkedIn who lists CSC exclusive of IQE), or Chris Meadows (discussed above). 
- 
-All of this begs the question: Who are the 74 employees who worked at CSC as of 2016 and earned £2.6 
-million? 
- 
 
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 2/11
 
 
-
+On May 18, Plus500 declined 36% due to news of a significant number of UK accounts being frozen
+pending customer verification to comply with anti-money laundering (AML) rules. Shares have
+continued to decline this week, while most discussion has focused on the narrow impact of the
+account freeze. According to the company’s statement, the AML review is merely a temporary
+procedural setback affecting a subset of accounts representing no more than 50% of revenues. If so,
+the market would appear to have once again overreacted to a short-term scare about the sustainability
+of Plus500′s business model. Alternatively, this could represent the beginning of increased regulatory
+scrutiny that may ultimately impair the company’s ability to continue as a going concern.
 
 
+Irrespective of the effects of the AML review, Plus500 remains dramatically overvalued in my opinion.
+A host of red flags unrelated to the recent news leave me skeptical of the company’s claims about its
+business, including inconsistencies among public filings, an undisclosed subsidiary, evidence of
+extralegal behavior by predecessor and affiliated entities, and a material accounting discrepancy
+between Group and subsidiary accounts.
 
 
-Page 13 of 17
-IQE’s key managers all sit on CSC’s board.  
+In my preview post on Monday, I compared the 2013 and 2014 accounts of Plus500UK, the regulated
+subsidiary currently undergoing additional AML review. The 2014 accounts restated 2013 revenues,
+reducing them 80% from GBP 63.8 to GBP 12.8 million. Plus500 has yet to explain this restatement or
+reclassification of revenues in a regulatory filing. That omission alone leads me to believe trading
+in Plus500 shares should be suspended until the company clarifies its accounts.
 
-
-
-
-
- 
-Source: Company House Filings CSC 2016, IQE Website, Barclays Research 2018 
-
-
- 
-Colin Whitehouse is listed as the Chairman of CSC.  However, Mr. Whitehouse’s LinkedIn page indicates 
-that Mr. Whitehouse is a non-executive chairman of CSC and that he apparently does not even work at the 
-joint venture full-time.  Rather, Mr. Whitehouse lists his primary occupation is a “Science, Technology & 
-Innovation Consultant and Independent Advisor” in Worcester, England, over 100 KM from CSC’s 
-supposed center in Cardiff.   
- 
 
+In a departure from previous years, the 2014 audited Group accounts were prepared prior to the audit
+of Plus500UK being completed. The 2014 Group audit is dated 16 March 2015, while the 2014
+Plus500UK audit is dated 10 April 2015.
 
- 
-Source: LinkedIn 
 
+The turnover figures reported in the 2014 Plus500UK subsidiary accounts represent approximately
+17.5% of 2014 and 17.4% of 2013 Group reported revenues, down from 86.8% in 2013 as originally
+reported. Not only is this level of revenue for Plus500UK inconsistent with the ca. 50% referenced in
+the company’s May 18 statement, but the explanation provided in response to a journalist’s inquiry is
+inconsistent with past disclosures regarding the proportion of revenue generated by customers
+domiciled in the UK (16% in 2014 and 15% in 2013) as well as the inter-company agreement
+governing transfer payments (see section 15.6 of the Admission Document) to the Israeli parent. The
+new Plus500UK revenues for 2013 can only be reconciled with the reported revenue of the Group if
+the amount of revenue generated outside of the regulated UK entity, prior to the Cyprus license, were
+substantially higher than previously reported, or there was a material change to the inter-company
+agreement, which has not yet been disclosed by the company. Otherwise, Group revenues for 2013
+and 2014 appear to be overstated several times over.
 
- 
- 
-We are curious as to what exactly CSC sells IQE.  CSC is supposed to be a R&D company, but our 
-worldwide search for patent applications using the European Patent Office applicant database revealed zero 
-results for CSC.   
- 
 
+If you read only one other post in this series, let it be Part 4, in which I discuss this and other
+inconsistencies among the Plus500UK subsidiary reports and the Group filings.
 
-Page 14 of 17
-Source: European Patent Office 
 
 
- 
- 
-We are skeptical that CSC is operating at arm’s length from IQE.  There is ample evidence suggesting IQE 
-dominates it, which conceptually could make it an alter ego of IQE.  Therefore, these facts and opinions 
-reinforce our view that the transactions between IQE and CSC lack substance, and results should be adjusted 
-to exclude their impacts.   
- 
- 
-IQE’s 1H 2017 Capitalized Intangible Investments Blew Out, just as CSC’s Earnings Contributions 
-Collapsed 
- 
-We believe it is reasonable to adjust 1H 2017 net income down by approximately £5 million or 69% to 
-account for likely aggressive capitalization of expenses: 
- 
-
-
- 
- 
-By December 31, 2016, CSC had just £13,000 in cash left, meaning its utility to boost IQE’s earnings was 
-limited.  (In 2017, Cardiff University seems to have extended CSC another loan of £800,000, which pales 
-in comparison to the £23.0 million the university had previously invested.)  In 1H 2017, IQE’s capitalized 
-intangible investments exploded.  At the same time, IQE suddenly stopped disclosing detail that would be 
-helpful in understanding this spike.  Maybe this blowout is great news for the future – investment in highly 
-productive assets that will drive growing returns for years.  Or maybe IQE aggressively sought ways to 
-keep expenses off its income statement.  We personally lean toward the latter explanation given the 
-previously discussed accounting issues.  Therefore, an IQE sceptic might want to adjust 1H 2017 income 
-downward by approximately £5 million, which is the difference between 1H 2017 and 2H 2016 investment 
-levels. 
- 
-  
-
-
-GBPm
-As 
-
-
-reported
-As 
-
-
-adjusted Difference
-Revenue 70.4        70.4        0.0%
-Cost Of Goods Sold (53.7)      (53.7)      0.0%
-  Gross Profit 16.7        16.7        0.0%
-Operating expenses (8.9)        (13.9)      56.4%
-   Operating Profit 7.8          2.8          -64.4%
-Gain (loss)  on Sales of Assets (0.2)        (0.2)        0.0%
-Others (0.8)        (0.8)        0.0%
-   Profit before tax 6.8          1.7          -74.4%
-Income tax 0.6          0.6          0.0%
-   Net Income 7.3          2.3          -68.6%
-
-
-1H 2017
-
-
-Page 15 of 17
-IQE’s investments in intangibles spiked in 1H 2017: 
- 
-
-
- 
- 
- 
-IQE simultaneously became more opaque in its disclosures about these investments, strongly implying that 
-the increase is difficult to justify.  In the 1H 2016 interim report, and in every previous interim report, IQE 
-broke out two categories on its cash flow statement under investing activities.  The first was “capitalised 
-development expenditure” (£2,784k in 1H 2016), and the second was “investment in other intangible fixed 
-assets” (£755k in 1H 2016).  Yet in its 1H 2017 interim report, IQE combined these two categories into an 
-item labelled “investment in intangible fixed assets.”  These “investments” exceeded £9.6 million pounds 
-in 1H 2017, vs. only £3.5 million in 1H 2016.   
- 
-By comparing 2016 figures, it is clear that “investment in intangible fixed assets” is a catch all that includes 
-capitalized development costs.   
- 
-
-
-
-
-
-Source: IQE Company Filings 
- 
-We think this accounting treatment is problematic.  By removing a separate line item labelled “capitalized 
-development expenditure” in its 1H 2017 interim report, IQE has made it impossible for investors to 
-determine the amount of costs capitalized in that period.  Compare this with previous periods, in which IQE 
-broke out the figures.  
-
-
-Page 16 of 17
-Source: IQE Company Filings 
-
-
- 
-We note that while cash outflows for capitalized investments in intangible assets increased by 108.7% from 
-2H 2016 to 1H 2017, amortization of intangible only increased 12.5% from £2.4 million to £2.7 million.   
- 
-Insider Share Transactions Bookend JV Earnings Magic4 
- 
-From October through December 2014, IQE insiders Messrs. Nelson, Rasmussen, Williams, and Ainsworth 
-acquired a total of 20.5 million shares at a weighted average price of £0.13 (total £2.6 million).  This was 
-soon before IQE’s joint ventures started transacting with IQE.  Between May 2017 through July 2017, these 
-insiders sold £7.8 million of shares (7.18 million shares at an average price of £1.08).   
- 
-A sceptic might view the purchases not so much as prescient, but rather as insiders understanding of the 
-type of accounting gains IQE stood to make from the joint ventures.  A sceptic might also view the 
-monetization around the close of 1H 2017 – a period in which we suspect IQE could have been 
-unsustainably aggressive in its accounting – as signalling the company is unlikely to be able to continue to 
-produce such gains with CSC’s funding largely spent.  On the other hand, maybe this is all a coincidence.   
- 
-Conclusion 
- 
-We understand that Cardiff University, Wales, and the UK government see IQE as an important part of the 
-noble enterprise of creating highly skilled jobs in the region.  We genuinely wish them all the best in this 
-endeavour and hope it will be extremely successful.  None of those feelings, however, can alleviate our 
-concern that Cardiff University has not been shrewd enough in its dealings with IQE.   
- 
-IQE received significant accounting benefits from CSC.  These benefits came at a cost of millions of pounds 
-to the university.  IQE insiders have financially benefitted from recent sales of shares at prices significantly 
-higher than prior to CSC’s commencement.  The university should ask whether the benefits it is receiving 
-are worth the cost.  In the meantime, shareholders should ask whether IQE’s financial performance since 
-2015 can be sustained.   
-
-
-																																																													
-4 All share transaction data sourced from Bloomberg. 
-
-
-H1 14 H2 14 H1 15 H2 15 H1 16 H2 16 H1 17
-Development Costs (1.7) (3.2) (2.1) (2.9) (2.8) (3.5)
-Investment in 'other' intangibles (0.7) (0.6) (0.2) (1.0) (0.8) (1.0)
-Total intangible 'investments' (2.4) (3.9) (2.3) (3.9) (3.5) (4.6) (9.6)
-Dev't Costs/Total Intangibles 72.6% 83.5% 90.7% 74.5% 78.7% 77.2%
-
-
-Page 17 of 17
+http://plus500.g3dhosting.com/content/statement-regarding-recent-speculation
+
+http://www.cablecarcapital.com/preview-of-coming-attractions/
+
+http://www.cablecarcapital.com/Plus500/2013.pdf
+
+http://www.cablecarcapital.com/Plus500/2014.pdf
+
+http://cdn.plus500.com/media/Investors/Reports/Plus500_Annual_Report_14.pdf
+
+http://www.cablecarcapital.com/Plus500/2014.pdf
+
+http://ftalphaville.ft.com/2015/05/19/2129746/where-are-plus500s-customers/
+
+http://www.plus500.co.il/Docs/Plus500UK/AdmissionDocument.pdf
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-4
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 3/11
+
+
+My aim in this series of blog posts is not to duplicate the excellent work of Dan McCrum at the
+Financial Times, who has written a 12-part series on Plus500 that raises a number of important
+questions about the company’s promotion practices, churn, and business model. I agree with much of
+his assessment.
+
+
+In contrast to a typical short seller’s report, my purpose is also not to level allegations of wrongdoing at
+the company, its auditors, or management. My goal is instead to document the unanswered questions
+that have motivated my positioning. I have no way to verify how accurately the reported financials
+reflect the actual condition of the company. I have structured this report as a ten-part series of blog
+posts in order to discuss topics in free form and link to a variety of primary source documents from my
+research.
+
+
+Past short arguments and journalist reports have not discussed the full background of the company or
+documented the full extent of the discrepancies among public filings and management statements. I
+am operating under the presumption that the audited financial statements fairly and accurately present
+the financial position of the company, while also pointing out issues I have not been able to reconcile. I
+welcome constructive feedback and look forward to clarifications from the company.
+
+
+Plus500 advertisements contain a somewhat cheeky disclaimer reminding prospective customers that
+“Your Capital is at Risk.” This series of articles may perhaps serve as a reminder to shareholders and
+prospective investors that your capital is at risk too.
+
+
+
+
+
+On to Part 2: Plus500 is a Bucket Shop –>
+
+
+Thank you to FB and EM for feedback during the research process.
+
+
+✒ Leave a Comment
+Your email address will not be published. Required fields are marked *
+
+
+Name *
+
+
+Email *
+
+
+Website
+
+
+Comment
+
+
+
+http://ftalphaville.ft.com/2014/08/22/1927472/plus500-as-a-model-citizen/
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-7
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-2
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 4/11
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b>
+<blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+
+
+Post Comment
+
+
+ Join Cable Car's mailing list (ignored if you are already a member)
+
+
+ 42 thoughts on “Your Capital at Risk Part 1: Short
+Plus500”
+
+
+cablecarcapital
+May 22, 2015 at 12:44 AM
+
+
+I am short Plus500. Part 1 of a 10-part series: http://t.co/7YjTYwZAax #Plus500 £PLUS
+
+
+cablecarcapital
+May 22, 2015 at 12:51 AM
+
+
+. @GothamResearch @FT @FD a shoe… http://t.co/7YjTYwZAax
+
+
+GothamResearch
+May 22, 2015 at 12:58 AM
+
+
+It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+tradingpablo
+May 22, 2015 at 12:59 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+LuisBenguerel
+May 22, 2015 at 1:00 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+cablecarcapital
+May 22, 2015 at 1:03 AM
+
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1221#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1220#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1219#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1218#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1217#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1216#respond
+
+https://twitter.com/cablecarcapital
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/cablecarcapital
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/GothamResearch
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/tradingpablo
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/LuisBenguerel
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/cablecarcapital
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 5/11
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+forex88update
+May 22, 2015 at 1:05 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+mark_arm
+May 22, 2015 at 1:09 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+TopTradersADVFN
+May 22, 2015 at 1:44 AM
+
+
+76p PLUS ?? Ouch , carnage there today, again
+
+
+http://t.co/eG14k8RTzr
+
+
+dasvee
+May 22, 2015 at 2:08 AM
+
+
+@paulypilot I assume you’ve seen this but worth a read. http://t.co/ssvLPwZ05d
+
+
+inner_scorecard
+May 22, 2015 at 2:18 AM
+
+
+Love that this short thesis is presented as a series of thorough blog posts, not a PowerPoint/PDF:
+http://t.co/0m8gha7vDl
+
+
+spread_betting
+May 22, 2015 at 2:31 AM
+
+
+Shares in Plus500 suspended following another damning research report from Cable Car Capital
+http://t.co/wl6yPd1VGo
+
+
+Spread_Bet
+May 22, 2015 at 2:31 AM
+
+
+Shares in Plus500 suspended following another damning research report from
+Cable Car Capital http://t.co/hybjjLopTr
+
+
+Asturius101
+May 22, 2015 at 2:35 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+wheeliedealer
+May 22, 2015 at 2:37 AM
+
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1215#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1214#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1213#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1212#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1211#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1209#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1210#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1208#respond
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/forex88update
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/mark_arm
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/TopTradersADVFN
+
+http://t.co/eG14k8RTzr
+
+https://twitter.com/dasvee
+
+http://t.co/ssvLPwZ05d
+
+https://twitter.com/inner_scorecard
+
+http://t.co/0m8gha7vDl
+
+https://twitter.com/spread_betting
+
+http://t.co/wl6yPd1VGo
+
+https://twitter.com/Spread_Bet
+
+http://t.co/hybjjLopTr
+
+https://twitter.com/Asturius101
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/wheeliedealer
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 6/11
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500
+accounting irregularities: http://t.co/VWUCZUk1Kq
+
+
+MrJapen
+May 22, 2015 at 3:28 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+AlasdairPal
+May 22, 2015 at 3:28 AM
+
+
+For more on Plus500 this is well worth a read: http://t.co/NvGE0VA7Tj
+
+
+IshaqSiddiqi
+May 22, 2015 at 3:37 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+conkers3
+May 22, 2015 at 3:55 AM
+
+
+.@CompoundIncome @TheIdleInvestor @paulypilot @_samdb @wheeliedealer @GothamResearch
+#Plus500 accounting irregulariti http://t.co/EvkWBrkQ7T
+
+
+distressvalue
+May 22, 2015 at 3:56 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+9Xetra
+May 22, 2015 at 4:22 AM
+
+
+Shares in Plus500 dropped by another quarter. Price Target 76p
+http://t.co/P05x07QC3X http://t.co/7YYyple1Ff http://t.co/4BDAHWHHT9
+
+
+Reply ↓Gioa
+May 22, 2015 at 4:23 AM
+
+
+It is my firm opinion, based on a months long research, that there is more to this whole story. 
+
+
+Do not be surprised if and when it comes to surface that the former CEO “Dror Sordo” does
+
+
+not exist and is a product of imagination and invention. So far, according to research, and again this is my
+
+
+personal opinion (sue me), no person with that name and/or with a passport in this name, has ever set foot on
+
+
+British soil. 
+
+
+This would render all accounting of Plus500UK Ltd. moot. Plus500UK Ltd. was the only asset that Plus500 Ltd.
+
+
+had at the time of going public. 
+
+
+On top of everything, I’ve said this before: Plus500 Ltd., listed on the AIM, is NOT LICENSED to conduct any
+
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1207#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1232#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1231#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1230#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1229#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1228#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1227#respond
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/MrJapen
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/AlasdairPal
+
+http://t.co/NvGE0VA7Tj
+
+https://twitter.com/IshaqSiddiqi
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/conkers3
+
+http://t.co/EvkWBrkQ7T
+
+https://twitter.com/distressvalue
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/9Xetra
+
+http://t.co/P05x07QC3X
+
+http://t.co/7YYyple1Ff
+
+http://t.co/4BDAHWHHT9
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1224#respond
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 7/11
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+theredcorner66
+May 22, 2015 at 4:39 AM
+
+
+RT @cablecarcapital: I am short Plus500. Part 1 of a 10-part series: http://t.co/7YjTYwZAax #Plus500
+£PLUS
+
+
+kdrcampbell
+May 22, 2015 at 5:00 AM
+
+
+RT @cablecarcapital: I am short Plus500. Part 1 of a 10-part series: http://t.co/7YjTYwZAax #Plus500
+£PLUS
+
+
+marginalidea
+May 22, 2015 at 5:07 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+Y0ungMoneyBlog
+May 22, 2015 at 5:18 AM
+
+
+RT @cablecarcapital: I am short Plus500. Part 1 of a 10-part series: http://t.co/7YjTYwZAax #Plus500
+£PLUS
+
+
+JacobWolinsky
+
+
+financial business in the first place. A fact that authorities seem to neglect. 
+
+
+Bob Dylan once sang: In Jersey everything is legal as long as you don’t get caught. 
+
+
+This appears to apply to the AIM and the authorities because nobody is doing any catching anyway
+
+
+Reply ↓
+
+
+Pingback: Plus500 just suspended its shares after a brutal hedge fund attack | Appsoko – What You Missed
+
+
+Today
+
+
+Jacob Ma-Weaver Post author
+May 23, 2015 at 4:12 PM
+
+
+For the record, I do not consider this series to be a “brutal attack.”
+
+
+Pingback: Plus500 just suspended its shares after a brutal hedge fund attack » GeoFront Capital Group
+
+
+Pingback: Press Today » Plus500 just suspended its shares after a brutal hedge fund attack
+
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1226#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1240#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1239#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1238#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1237#respond
+
+https://twitter.com/theredcorner66
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/kdrcampbell
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/marginalidea
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/Y0ungMoneyBlog
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/JacobWolinsky
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1253#respond
+
+http://www.appsoko.com/plus500-just-suspended-its-shares-after-a-brutal-hedge-fund-attack/
+
+http://geofrontcapital.com/2015/05/22/plus500-just-suspended-its-shares-after-a-brutal-hedge-fund-attack/
+
+http://www.kemsat.com/press/plus500-just-suspended-its-shares-after-a-brutal-hedge-fund-attack/
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 8/11
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+Reply ↓
+
+
+May 22, 2015 at 5:19 AM
+
+
+RT @cablecarcapital: I am short Plus500. Part 1 of a 10-part series: http://t.co/7YjTYwZAax #Plus500
+£PLUS
+
+
+terrypeng
+May 22, 2015 at 7:01 AM
+
+
+RT @cablecarcapital: I am short Plus500. Part 1 of a 10-part series:
+http://t.co/7YjTYwZAax #Plus500 £PLUS
+
+
+BloodInTheStrs
+May 22, 2015 at 10:51 AM
+
+
+RT @inner_scorecard: Love that this short thesis is presented as a series of thorough blog posts, not
+a PowerPoint/PDF: http://t.co/0m8gha7…
+
+
+WillauerProsky
+May 22, 2015 at 2:11 PM
+
+
+Cable Car Capital #shortreport “Your Capital at Risk: Short Plus500
+http://t.co/dYtyJLeEja #activistshorts #shortseller” @WillauerProsky
+
+
+Kahina__Light
+May 23, 2015 at 12:22 PM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting
+irregularities: http://t.co/VWUCZUk1Kq
+
+
+IlanShiloah
+May 26, 2015 at 8:57 AM
+
+
+Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLCפרשת פלוס 500 האם היתה הונאה?
+http://t.co/ncSk4qB85D
+
+
+ghawinkels
+May 28, 2015 at 1:20 AM
+
+
+RT @GothamResearch: It seems we are not alone in observing Plus500 accounting irregularities:
+http://t.co/VWUCZUk1Kq
+
+
+Pingback: Plus500 just suspended its shares after a brutal hedge fund attack | First News Alert
+
+
+Pingback: Plus500 just suspended its shares after a brutal hedge fund attack | Daily Carnival - Business
+
+
+Pingback: In praise of soft activism - Smarter Investing
+
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1243#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1246#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1245#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1249#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1262#respond
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/?replytocom=1282#respond
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/terrypeng
+
+http://t.co/7YjTYwZAax
+
+https://twitter.com/BloodInTheStrs
+
+http://t.co/0m8gha7%E2%80%A6
+
+https://twitter.com/WillauerProsky
+
+http://t.co/dYtyJLeEja
+
+https://twitter.com/Kahina__Light
+
+http://t.co/VWUCZUk1Kq
+
+https://twitter.com/IlanShiloah
+
+http://t.co/ncSk4qB85D
+
+https://twitter.com/ghawinkels
+
+http://t.co/VWUCZUk1Kq
+
+http://firstnewsalert.com/plus500-just-suspended-its-shares-after-a-brutal-hedge-fund-attack/
+
+http://www.dailycarnival.com/business/2015/05/22/plus500-just-suspended-its-shares-after-a-brutal-hedge-fund-attack/
+
+http://investing.covestor.com/2015/07/praise-soft-activism
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 9/11
+
+
+â†� Preview of coming attractions Your Capital at Risk Part 2: Bucket Shop â†’
+
+
+Pingback: Plus500 and Cable Car - Analyzing the Aftermath | Finance Magnates
+
+
+Pingback: Plus500 & Playtech, Google Analytics and CMA | Revenue Engineers
+
+
+P o s t  n a v i g a t i o n
+
+
+Join mailing list
+
+
+First name
+
+
+Last name
+
+
+Email (required)
+
+
+Sign up!
+
+
+Recent Posts
+
+
+Archives
+
+
+ðŸ“£
+
+
+ Donâ€™t buy Bitcoin.â€º
+ FX Antitrust Litigation Settlementâ€º
+ Throwbackâ€º
+ Late 2017 Letterâ€º
+ Q1 2017 Letterâ€º
+
+
+î €
+
+
+December 2017â€º
+November 2017â€º
+October 2017â€º
+June 2017â€º
+February 2017â€º
+November 2016â€º
+October 2016â€º
+September 2016â€º
+May 2016â€º
+February 2016â€º
+January 2016â€º
+November 2015â€º
+
+
+
+http://www.cablecarcapital.com/preview-of-coming-attractions/
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-2/
+
+http://newprod.financemagnates.com/executives/insights/plus500-and-cable-car-analyzing-the-aftermath/
+
+https://revenueengineers.com/plus500-playtech-google-analytics-and-cma/
+
+http://www.cablecarcapital.com/dont-buy-bitcoin/
+
+http://www.cablecarcapital.com/fx-antitrust-litigation-settlement/
+
+http://www.cablecarcapital.com/throwback/
+
+http://www.cablecarcapital.com/cable-car-late-2017-letter/
+
+http://www.cablecarcapital.com/q1-2017-letter/
+
+http://www.cablecarcapital.com/2017/12/
+
+http://www.cablecarcapital.com/2017/11/
+
+http://www.cablecarcapital.com/2017/10/
+
+http://www.cablecarcapital.com/2017/06/
+
+http://www.cablecarcapital.com/2017/02/
+
+http://www.cablecarcapital.com/2016/11/
+
+http://www.cablecarcapital.com/2016/10/
+
+http://www.cablecarcapital.com/2016/09/
+
+http://www.cablecarcapital.com/2016/05/
+
+http://www.cablecarcapital.com/2016/02/
+
+http://www.cablecarcapital.com/2016/01/
+
+http://www.cablecarcapital.com/2015/11/
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 10/11
+
+
+Categories
+
+
+Tags
+
+
+777 about advertising advocacy AMBI arbitrage bankruptcy bitcoin business of investing
+business updates China covestor CVRs CYNK distressed debt EXAS FB fixed income FOIA Form ADV FSIC GCVRZ
+GLRI HCT HFT ISIG letters long positions MOMENT NYRT odd lots PLUS prime broker probability public
+comment returns sale discipline short positions short selling stock loan stock promotion
+SumZero tender offers write-ups WRLD
+
+
+October 2015â€º
+September 2015â€º
+August 2015â€º
+July 2015â€º
+May 2015â€º
+March 2015â€º
+February 2015â€º
+January 2015â€º
+December 2014â€º
+November 2014â€º
+October 2014â€º
+September 2014â€º
+August 2014â€º
+July 2014â€º
+June 2014â€º
+May 2014â€º
+April 2014â€º
+March 2014â€º
+February 2014â€º
+
+
+ðŸ“�
+
+
+Aboutâ€º
+Allâ€º
+Ideasâ€º
+Mechanicsâ€º
+Opinionâ€º
+
+
+ïŒ‚
+
+
+
+http://www.cablecarcapital.com/tag/777/
+
+http://www.cablecarcapital.com/tag/about-2/
+
+http://www.cablecarcapital.com/tag/advertising/
+
+http://www.cablecarcapital.com/tag/advocacy/
+
+http://www.cablecarcapital.com/tag/ambi/
+
+http://www.cablecarcapital.com/tag/arbitrage/
+
+http://www.cablecarcapital.com/tag/bankruptcy/
+
+http://www.cablecarcapital.com/tag/bitcoin/
+
+http://www.cablecarcapital.com/tag/business-of-investing/
+
+http://www.cablecarcapital.com/tag/business-updates/
+
+http://www.cablecarcapital.com/tag/china/
+
+http://www.cablecarcapital.com/tag/covestor/
+
+http://www.cablecarcapital.com/tag/cvrs/
+
+http://www.cablecarcapital.com/tag/cynk/
+
+http://www.cablecarcapital.com/tag/distressed-debt/
+
+http://www.cablecarcapital.com/tag/exas/
+
+http://www.cablecarcapital.com/tag/fb/
+
+http://www.cablecarcapital.com/tag/fixed-income/
+
+http://www.cablecarcapital.com/tag/foia/
+
+http://www.cablecarcapital.com/tag/form-adv/
+
+http://www.cablecarcapital.com/tag/fsic/
+
+http://www.cablecarcapital.com/tag/gcvrz/
+
+http://www.cablecarcapital.com/tag/glri/
+
+http://www.cablecarcapital.com/tag/hct/
+
+http://www.cablecarcapital.com/tag/hft/
+
+http://www.cablecarcapital.com/tag/isig/
+
+http://www.cablecarcapital.com/tag/letters/
+
+http://www.cablecarcapital.com/tag/long-positions/
+
+http://www.cablecarcapital.com/tag/moment/
+
+http://www.cablecarcapital.com/tag/nyrt/
+
+http://www.cablecarcapital.com/tag/odd-lots/
+
+http://www.cablecarcapital.com/tag/plus/
+
+http://www.cablecarcapital.com/tag/prime-broker/
+
+http://www.cablecarcapital.com/tag/probability/
+
+http://www.cablecarcapital.com/tag/public-comment/
+
+http://www.cablecarcapital.com/tag/returns/
+
+http://www.cablecarcapital.com/tag/sale-discipline/
+
+http://www.cablecarcapital.com/tag/short-positions/
+
+http://www.cablecarcapital.com/tag/short-selling/
+
+http://www.cablecarcapital.com/tag/stock-loan/
+
+http://www.cablecarcapital.com/tag/stock-promotion/
+
+http://www.cablecarcapital.com/tag/sumzero/
+
+http://www.cablecarcapital.com/tag/tender-offers/
+
+http://www.cablecarcapital.com/tag/write-ups/
+
+http://www.cablecarcapital.com/tag/wrld/
+
+http://www.cablecarcapital.com/2015/10/
+
+http://www.cablecarcapital.com/2015/09/
+
+http://www.cablecarcapital.com/2015/08/
+
+http://www.cablecarcapital.com/2015/07/
+
+http://www.cablecarcapital.com/2015/05/
+
+http://www.cablecarcapital.com/2015/03/
+
+http://www.cablecarcapital.com/2015/02/
+
+http://www.cablecarcapital.com/2015/01/
+
+http://www.cablecarcapital.com/2014/12/
+
+http://www.cablecarcapital.com/2014/11/
+
+http://www.cablecarcapital.com/2014/10/
+
+http://www.cablecarcapital.com/2014/09/
+
+http://www.cablecarcapital.com/2014/08/
+
+http://www.cablecarcapital.com/2014/07/
+
+http://www.cablecarcapital.com/2014/06/
+
+http://www.cablecarcapital.com/2014/05/
+
+http://www.cablecarcapital.com/2014/04/
+
+http://www.cablecarcapital.com/2014/03/
+
+http://www.cablecarcapital.com/2014/02/
+
+http://www.cablecarcapital.com/category/all/about/
+
+http://www.cablecarcapital.com/category/all/
+
+http://www.cablecarcapital.com/category/all/ideas/
+
+http://www.cablecarcapital.com/category/all/mechanics/
+
+http://www.cablecarcapital.com/category/all/opinion/
+5/19/2018 Your Capital at Risk Part 1: Short Plus500 | Cable Car Capital LLC
+
+
+http://www.cablecarcapital.com/your-capital-at-risk-part-1/ 11/11
+
+
+Back to top
+
+
+Cable Car Capital LLC ("Cable Car") is a limited liability company with principal place of business in San Francisco, California. Cable Car
+is registered as an investment adviser with the states of CA and TX and may be required to register in other jurisdictions where it does
+business in the future. Registration with the Securities and Exchange Commission or any state securities authority does not imply a
+certain level of skill or training. Cable Car is a member of the National Futures Association and is registered with the Commodity Futures
+Trading Commission as a Commodity Trading Advisor in connection with the accounts of qualified eligible persons. This website is
+intended only for persons in jurisdictions where Cable Car is authorized to provide investment advice, and no content should be
+construed as an offer to provide investment advisory services in any location where such offer would be unlawful. Moreover, provision of
+information about Cable Car's services does not constitute an offer to provide investment advisory services. Such offer can be made only
+by means of a written advisory agreement. No content herein should be viewed as advice regarding the value of any securities or
+commodity interests or the advisability of investing in, purchasing, or selling securities or commodity interests. In particular, Cable Car
+may from time to time publish research reports with the aim of receiving feedback from the broader investment community. Published
+material in written reports and on the blog is not intended to be investment advice and should under no circumstance be considered a
+recommendation to take action with respect to any security or commodity interest. Cable Car, its principals, and its clients may hold
+positions, long or short, in such securities or commodity interests, and Cable Car may trade without informing readers. Investing involves
+risks and may result in the loss of some or all of the principal invested. Before investing, prospective clients should consider their
+investment objectives and the costs and risks associated with Cable Car's investment program. Investments are not FDIC insured and
+may lose value. Past performance may not be indicative of future results. The material on this website should be read only in conjunction
+with the disclosures in Cable Car's Brochure on Form ADV.
+
+
+Please view Cable Car's disclosures:
+
+
+Brochure on Form ADV 
+Privacy Policy
+
+
+Cable Car Capital LLC
+
+
+San Francisco, California 
+info@cablecarcapital.com 
+
+
+(415) 857-1965
+
+
+· © 2018 Cable Car Capital LLC ·
+
+
+   
+
+
+
+http://www.cablecarcapital.com/brochure.pdf
+
+http://www.cablecarcapital.com/privacy.pdf
+
+mailto:info@cablecarcapital.com
+
+http://www.cablecarcapital.com/
+
+http://www.cablecarcapital.com/?feed=rss
+
+https://twitter.com/cablecarcapital
+
+https://www.facebook.com/CableCarCapital
+
+http://www.linkedin.com/company/cable-car-capital-llc

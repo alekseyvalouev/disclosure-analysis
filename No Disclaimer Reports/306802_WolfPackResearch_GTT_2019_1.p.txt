@@ -1,1303 +1,3455 @@
-!"#$%&"'()*
-!"#$%&$'())*$+,-#."$//01"$.#"#,.23$4"$,-$*%(.$%56$.4"78$$9%($"3%(:)$)%$*%(.$%56$.#"#,.23$,6)$)(#$)4:4;#62#$<#&%.#$=,746;$,6*$46>#"-=#6-$)#24"4%6$
-54-3$.#"?#2-$-%$"#2(.4-4#"$2%>#.#)$3#.#468$$9%($"3%(:)$,""(=#$-3,-$,"$%&$-3#$?(<:42,-4%6$),-#$%&$,6*$.#?%.-@$'())*$+,-#."@$//0$A?%""4<:*$,:%6;$54-3$%.$
--3.%(;3$%(.$=#=<#."@$?,.-6#."@$,&&4:4,-#"@$#=?:%*##"@$,6)B%.$2%6"(:-,6-"C$,:%6;$54-3$%(.$2:4#6-"$,6)B%.$46>#"-%."$3,"$,$"3%.-$?%"4-4%6$46$-3#$"-%27$A,6)B%.$
-%?-4%6"$%&$-3#$"-%27C$2%>#.#)$3#.#46@$,6)$-3#.#&%.#$"-,6)"$-%$.#,:4D#$"4;64&42,6-$;,46"$46$-3#$#>#6-$-3,-$-3#$?.42#$%&$"-%27$)#2:46#"8$$E%::%546;$?(<:42,-4%6$
-%&$,6*$.#?%.-@$5#$46-#6)$-%$2%6-46(#$-.,6",2-46;$46$-3#$"#2(.4-4#"$2%>#.#)$-3#.#46@$,6)$5#$=,*$<#$:%6;@$"3%.-@$%.$6#(-.,:$,-$,6*$-4=#$3#.#,&-#.$.#;,.):#""$
-%&$%(.$464-4,:$.#2%==#6),-4%68$$$F34"$4"$6%-$,6$%&&#.$-%$"#::$%.$,$"%:424-,-4%6$%&$,6$%&&#.$-%$<(*$,6*$"#2(.4-*@$6%.$"3,::$,6*$"#2(.4-*$<#$%&&#.#)$%.$"%:)$-%$,6*$
-?#."%6@$46$,6*$G(.4")42-4%6$46$53423$"(23$%&&#.$5%(:)$<#$(6:,5&(:$(6)#.$-3#$"#2(.4-4#"$:,5"$%&$"(23$G(.4")42-4%68$F%$-3#$<#"-$%&$%(.$,<4:4-*$,6)$<#:4#&@$,::$
-46&%.=,-4%6$2%6-,46#)$3#.#46$4"$,22(.,-#$,6)$.#:4,<:#@$,6)$3,"$<##6$%<-,46#)$&.%=$?(<:42$"%(.2#"$5#$<#:4#>#$-%$<#$,22(.,-#$,6)$.#:4,<:#@$,6)$53%$,.#$
-6%-$46"4)#."$%.$2%66#2-#)$?#."%6"$%&$-3#$"-%27$2%>#.#)$3#.#46$%.$53%$=,*$%-3#.54"#$%5#$,6*$&4)(24,.*$)(-*$%.$)(-*$%&$2%6&4)#6-4,:4-*$-%$-3#$4""(#.8$$$
-H%5#>#.@$"(23$46&%.=,-4%6$4"$?.#"#6-#)$I,"$4"@I$54-3%(-$5,..,6-*$%&$,6*$746)$J$53#-3#.$#K?.#""$%.$4=?:4#)8$$'())*$+,-#."@$//0$=,7#"$6%$.#?.#"#6-,L
--4%6@$#K?.#""$%.$4=?:4#)@$,"$-%$-3#$,22(.,2*@$-4=#:46#""@$%.$2%=?:#-#6#""$%&$,6*$"(23$46&%.=,-4%6$%.$54-3$.#;,.)$-%$-3#$.#"(:-"$-%$<#$%<-,46#)$&.%=$4-"$("#8$$
-M::$#K?.#""4%6"$%&$%?464%6$,.#$"(<G#2-$-%$23,6;#$54-3%(-$6%-42#@$,6)$'())*$+,-#."@$//0$)%#"$6%-$(6)#.-,7#$-%$(?),-#$%.$"(??:#=#6-$-34"$.#?%.-$%.$,6*$
-%&$-3#$46&%.=,-4%6$2%6-,46#)$3#.#468
+Report Date: June 6, 2019 
 
 
-!"#$%&'#(')(*$+$,#%-.(/,#+'0(/1(23'%45(6+71
+Company: GTT Communications, Inc. 
 
 
-!"##$%&'()*+,%--.
-88819:;;<8,&$#+#$+$,#%-1%'9
+Ticker: GTT US 
 
 
-"0)'=9:;;<8,&$#+#$+$,#%-
+Industry: Telecommunications   
 
 
-./01'2$3
+Stock Price (USD): $22.51 
 
 
-4)5/00)2#'(6/23
+Market Cap (USD, Millions): $1,256.6   
 
 
-72#"+(*$3
 
 
-4)1/*(%8'()3
 
 
-9*65)3
 
 
-!'*:)(%.'13
+Introduction 
 
 
->?1@(9"33"'0
+We are short GTT Communications, Inc. (GTT US) because we believe it is an over-levered, 
 
 
-;<=%>/?"0)3
+fundamentally broken business that uses non-GAAP metrics to conceal its lack of organic growth 
 
 
-/-"0,(A$;",(6BC#$++(D'3;"0E+(F//A6G
+and cash flow from investors. GTT lost -$71 million and -$243 million in 2017 and 2018, and by our 
 
 
-H&#'0E(H$33
+calculations, generated negative organic growth of -8.7% and -7.7% in 2017 and 2018. Despite these 
 
 
-I:&;''#(!"E"&,3(J;K$#&"+"0E
+awful metrics, senior management has received $37 million in bonuses because GTT’s compensation 
 
 
-A,#%-(@5(@?>>
+plan effectively incentivizes value destruction through indiscriminate acquisitions. 
 
 
-L>@1@M
+GTT’s management keeps this self-enriching process going by deliberately creating financial opacity 
 
 
-LN@?1M(9"33"'0
+in the following ways: 
 
 
-@?/'(3
+• GTT does not disclose its organic growth rate to investors. We calculated GTT’s organic 
 
 
-@1O(9"33"'0
+growth rate to be -8.7% and -7.7% in 2017 and 2018, respectively. With negative organic 
 
 
-A+(60'()#%>'?")3
-LP1QN
+growth, no more accounting levers to pull and nowhere near enough free cash flow to 
 
 
-A:;;<(R,&$#+5(SS/(-,+(,9,++$;("##$):&,T3$($K";$0%$(&-,&(
-//A6("+(,(+:T+&,0&",3()#,:;5(,0;(&-,&(9,0,E$9$0&("+(
-$0E,E"0E("0(,(%'K$#U:C(#$C3$&$(8"&-():#&-$#(;"++$9"0,&"'0(')(
-)#,:;:3$0&("0)'#9,&"'01((
+service its debt, we believe GTT is a fundamentally broken rollup. 
 
 
-R$(C#$+$0&(,(#$%'#;$;(&$3$C-'0$(%'0K$#+,&"'0(&-,&(%'0&,"0+(
-,0(,;9"++"'0(&-,&(//A6("+($0E,E"0E("0(+$%:#"&"$+()#,:;1((
+• GTT inflated its operating profit by almost $80 million in 2018 by significantly stretching its 
 
 
-R$(;'%:9$0&(&-,&("0(&-$(%':#+$(')(#$T:&&"0E(':#(*$C'#&5(
-/-,"#9,0(/-$0E(C#'K";$;(),T#"%,&$;("0)'#9,&"'01((
+depreciation and amortization periods and revaluing acquired assets. Had they not made 
 
 
-R$(C#$+$0&(&-$(+,3$+(C#$+$0&,&"'0(8$(#$%$"K$;("0(V,0:,#<(
-)#'9(&-$(,)'#$9$0&"'0$;(+,3$+C$#+'0(F&-$(WH,3$+(X#$+$0&,U
-&"'0YG(&-,&(+-'8+(//A6(-,+()$8$#(&-,0(-,3)(')(&-$(T:+$+("&(
-%3,"9+1((
+these adjustments, GTT would have reported an operating loss of almost $40 million last 
 
 
-R$(C#$+$0&(,(9"0"U;'%:9$0&,#<(')(&-$(3,#E$+&(C:#C'#&$;(
-'C$#,&'#(Z(H-,0E-,"(2,(H-"(Z(+C$%")"%,33<()'%:+"0E('0("&+(
-"0&$#U%"&<(T:+$+(,0;(;#"K$#+1([-$()"39(+-'8+(&-,&(//A6\+(
--,#;8,#$("+(0'&("0+&,33$;('0(&-$(T:+$+5(;$+C"&$(//A6\+(
-%3,"9(&'(-,K$(-,;(-,#;8,#$('0(&-$+$(T:+$+(+"0%$(,&(3$,+&(
-9";U@??O1((
-2 
-
-
-Muddy Waters, LLC has amassed irrefutable evidence that China MediaExpress Holdings, Inc. (“CCME”) is a substantial 
-fraud, and that management is engaging in a cover-up replete with further dissemination of fraudulent information.  In 
-light of the nature of the evidence, we believe that a de-listing from NASDAQ is not improbable; further, we believe that 
-management stands to lose additional credibility.  We therefore reduce our estimated value by one-third to $3.54. 
- 
-We present a recorded telephone conversation that contains an admission that CCME is engaging in securities fraud.  The 
-conversation took place on February 23rd between the CCME salesperson who provided us with the advertiser kit we cited 
-in our February 3, 2011 report (the “Report”) and one of our analysts.  The CCME salesperson initiated the conversation 
-without notice in response to investigative actions taken by CCME’s auditor, Deloitte Touche Tohmatsu (“Deloitte”).  
-During the conversation, the salesperson stated that: 
-
-
-• CCME has been doubling the number of buses on which it has installed equipment for purposes of its SEC filings; 
-and 
-
-
-• CCME replaced recently replaced the salesperson’s hard drive due to the increased scrutiny. 
- 
-The recording with subtitles is available at: http://www.youtube.com/watch?v=cLAm-dJh2fI 
- 
-We document that in the course of rebutting our Report, Chairman Cheng provided fabricated information.  In Chairman 
-Cheng’s February 7, 2011 letter (the “Chairman’s Letter”), Chairman Cheng challenged our assertion that CCME’s largest 
-purported contract does not exist.  His proof includes an “excerpt” of buses he claims are covered by the disputed 
-contract.  The excerpt contains license plate numbers of three buses.  We have official documentation (shown in Appendix 
-A) from the Shanghai Public Security Bureau Traffic Management Administrator (the “Traffic Administrator”) that shows 
-these three license plates numbers are fabricated. 
- 
-We present the sales presentation we received in January from the aforementioned salesperson (the “Sales Presentation”) 
-that shows CCME has fewer than half of the buses it claims.  The Sales Presentation (Appendix B), which shows CCME’s 
-buses by province and city, corroborates the following facts we presented in our earlier Report: 
-
+year.  
 
-• CCME has fewer than half of the buses it claims; and 
-• its largest purported contract (with Shanghai Ba Shi for 1,892 buses) does not exist.  The number of buses for 
 
+• GTT’s net debt has grown from $700 million at the end of 2016 to approximately $3.2 
 
-Shanghai-based operators in the presentation matches the number in the spreadsheet we received – 296. 
- 
-We present a mini-documentary of the largest purported operator – Shanghai Ba Shi – specifically focusing on its inter-
-city buses and drivers.  The film shows that CCME’s hardware is not installed on the buses, despite CCME’s claim to 
-have had hardware on these buses since at least mid-2008. 
- 
-The video is available at: http://www.youtube.com/watch?v=-COZ5l9ayzM 
- 
-If one questions whether it is Muddy Waters, LLC – and not CCME – that has fabricated information and documents, we 
-point out the following.  Our research director and sole member manager, Carson Block, is a United States citizen with 
-assets and family in, and significant ties to, the United States.  Although we do not know the extent of CCME 
-management’s ties to the United States, we venture to guess that they are significantly less than those of Mr. Block.
-3 
 
+billion as of March 31, 2019, bringing GTT’s debt-to-equity ratio up to 996%. GTT’s 
 
-II. CCME Sales Representative’s Admission of Securities Fraud 
- 
-Background 
- 
-In January 2011, we cold called CCME’s headquarters in Fuzhou.  We asked to speak with the sales department, and we 
-were transferred to a salesperson.  During the course of our conversation with the representative, we described ourselves 
-as a medium-sized company that was interested in advertising throughout China on CCME’s buses.  From that point on, 
-our dialogue with the salesperson mainly took place over instant messenger.  The salesperson sent the electronic version 
-of the advertiser kit via instant messenger – including the Excel spreadsheet we subsequently posted on our website in 
-PDF format, as well as the Sales Presentation shown in Appendix B.  During the course of the dialogue, the representative 
-and we discussed the fact that CCME is publicly traded in the Untied States. 
- 
-As has been well documented, we released our February 3, 2011 report during the lengthy Chinese New Year holiday.  
-Following the holiday, the sales representative followed up with us about buying the ads we had discussed.  At that time, 
-our analyst told the salesperson that he and his manager had left their jobs with the potential advertiser. 
- 
-On February 23rd at approximately 13:00 China time, we sent a detailed letter to various partners at Deloitte with 
-previously unreleased evidence supporting our allegations of fraud.  Around 19:00 the same evening, our analyst received 
-a phone call from the sales representative.  The purpose of her call was to ask our analyst whether someone inside his 
-“former employer” disseminated the Sales Presentation outside of the company.  She evidently had not considered it 
-likely that the person with whom she had been speaking represents Muddy Waters, LLC. 
- 
-Because our analyst was unprepared to receive the call, he was only able to begin recording it after approximately two 
-minutes.  He believes that substantially all information that had been discussed during the initial unrecorded period is 
-repeated in the recorded portion.   
- 
-The Conversation 
- 
-We encourage investors to listen to the recording with subtitles, available at: http://www.youtube.com/watch?v=cLAm-
-dJh2fI  However, we provide the following translated excerpts (emphasis in bold added) of the conversation – the 
-complete transcript is in Appendix C: 
 
+trailing 12-month cash conversion rate (OCF/Sales) is 5.1%. With management’s guidance 
 
-… 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
-
-
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
-
-
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
-
-
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example…
-4 
-
-
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
-
-
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of 
-vehicles we quoted you.  The number we reported is times two, or doubled.  Do you understand now? 
-
-
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
-
-
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
-
-
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
-
-
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve 
-claimed to the public is the total number, but the number we gave you is the vehicles installed with devices.  So 
-there are some conflicts. 
-
-
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number 
-
-
-we’ve reported to the market regulator.  What we’ve reported to the market regulator is the number under 
-contract.  The number I’ve given you is contracted with devices installed.  
-
-
-… 
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
-
-
-sent you before. 
-Analyst: Have you given the same proposal to other customers? 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
-
-
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
-
-
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been 
-
-
-replaced at that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s. 
-…
-5 
-
-
-Analysis 
- 
-The representative claimed that the discrepancy between the SEC filings and the buses quoted to us was because 
-approximately 50% of the buses have not yet had equipment installed; however, this explanation does not hold water.  As 
-we pointed out in our earlier report, one of the major discrepancies is in Shanghai.  As of July 2008, the company claimed 
-to have 2,127 buses belonging to Shanghai-based operators in the network,1 but the materials the sales representative sent 
-only show 296 Shanghai buses as of January 2011.   Thus, the overall discrepancy must be due to more than timing 
-differences between when CCME signs contracts and when it installs equipment. 
- 
-III. The License Plate Numbers in Chairman Cheng’s Rebuttal are Fabrications 
- 
-Background 
- 
-In the Report, we stated that CCME’s advertiser kit shows only 12,565 buses under contract as of January 2011, versus 
-over 27,200 that CCME claims to have for investor relation purposes.2  We also stated that the largest bus operator CCME 
-purports to have under contract, Shanghai Ba Shi3 (purportedly 1,892 buses), does not in fact have a contract with 
-CCME.4   
- 
-Chairman Cheng denied these assertions in the open Chairman’s Letter dated February 7, 2011 (Appendix D).  Ping Luo 
-(of Global Hunter Securities LLC) issued a report in support of Cheng’s rebuttal on February 17, 2011 (the “Luo 
-Report”).   
- 
-The Fabrications 
- 
-The Chairman’s Letter stated that CCME’s official advertiser kit includes 1,892 buses belonging to 上海巴士实业（集
-
-
-团）股份有限公司(“Ba Shi Industrial”).5  He then proceeded to show an “excerpt” from the purported kit that contains 
-details on three Ba Shi Industrial buses, including license plate numbers.  (The majority of the buses in the real advertiser 
-kit include license plate numbers.)  The license plate numbers the Chairman cited are: 沪 A65072, 沪 A65075, and 沪
-A83822.6 7   
- 
-The license plate numbers the Chairman provided are fabricated.  Two of the plates – A65072 and A65075 – were issued 
-for small passenger cars (a Santana and a Zheng Tian pickup truck), and not for buses.   
-
-
-                                                        
-1 http://www.ccme.tv/eng/pns/intercitybus.php, and 
-http://www.muddywatersresearch.com/wp-content/uploads/2011/02/intercitybus_02.pdf 
-2 See Report p. 5.   
-3 CCME sowed some confusion about the name of the Ba Shi entity that operates long distance buses.  We clarify the name issue 
-infra.   
-4 See Report p. 6. 
-5 See Chairman’s Letter pp. 4-5. 
-6 Id. 
-7 Note that “沪” (“Hu”) is the character for Shanghai.
-6 
-
-
-See below for representative pictures of the vehicles.  We were unable to contact the registered owners to see whether 
-they had CCME hardware installed in their cars. 
+
+of capex at 7% of revenue, it is mathematically impossible for GTT to generate positive free 
+
+
+cash flow.  
+
+
+• GTT’s executive compensation structure has, in our opinion, incentivized value destruction. 
+
+
+In the last two years, GTT has posted record losses of $71.2 million and $243.4 million 
+
+
+while GTT’s top three executives were awarded record compensation of $18.3 million and 
+
+
+$19.3 million in 2017 and 2018, respectively.  
+
+
+GTT’s executive compensation plans have caused management to deviate significantly from its 
+
+
+stated strategy of growth through small, strategic acquisitions. Instead, GTT has made massive 
+
+
+acquisitions of declining, unprofitable businesses in 2017 and 2018, regardless of their impact on the 
+
+
+company’s leverage and profitability.  
+
+
+GTT’s net debt-to-EBITDA is 10.9x – more than double the adjusted EBITDA-based leverage 
+
+
+metric that GTT highlights to its investors. We believe GTT’s unsustainable cash burn rate and debt 
+
+
+burden leaves GTT needing a large, dilutive equity raise – which would only buy more time, without 
+
+
+addressing the underlying problems.  
+
+
+The main problem is that GTT does not generate organic growth or enough free cash flow to service 
+
+
+its debt.
+Page 2 of 33 
  
 
 
+1. Organic Growth (or in this case, negative organic growth): 
+
+
+• GTT is reliant on acquisitions for growth, masking the company’s negative organic 
+
+
+growth. According to our calculations, GTT posted terrible organic growth of -8.7% 
+
+
+and -7.7% in 2017 and 2018, respectively. Unlike many of its competitors, GTT does 
+
+
+not disclose its organic growth rate to investors.  
+
+
+• GTT obfuscates its negative organic growth by tucking in the revenue from what it 
+
+
+characterizes as “immaterial acquisitions.” However, since GTT makes one or two of 
+
+
+these each quarter, in aggregate, they quickly become material, in our opinion. GTT 
+
+
+has paid $267.1 million (about 18% of its 2018 revenue) for these “immaterial 
+
+
+acquisitions” since the beginning of 2016.  
+
+
+• Because no financials were provided by GTT for these so-called “immaterial 
+
+
+acquisitions,” GTT is able to create the appearance of organic growth that simply 
+
+
+does not exist. We took it upon ourselves to pull filings from The Netherlands and the 
+
+
+National Stock Exchange of India to calculate GTT’s real organic growth.  
+
+
+
+
+
+2. Math is a Science; Accounting is an Art Form – Tools for Financial Engineering: 
+
+
+• GTT inflated its financial performance by $78.7 million in 2018 by significantly 
+revaluing the assets acquired from Interoute post-close and extending the depreciation 
+
+
+and amortization periods for these assets. By our calculation, GTT would have posted 
+
+
+an operating loss of nearly $40 million in 2018, compared to the company’s reported 
+
+
+operating profit of $39.7 million.  
+
+
+• These same accounting adjustments took GTT’s Q1 2019 operating income from a 
+
+
+mere $800,000 to the $38.7 million reported by the company. 
+
+
+• GTT marked up the carrying value of Interoute’s PP&E by $492 million upon 
+
+
+acquisition, then by an additional $422 million 6 months later, for a total markup of 
+
+
+$914 million, or 175%. Concurrent to marking up Interoute’s PP&E, GTT also 
+
+
+marked the carrying value of Interoute’s customer lists down by 70%, or $408.5 
+
+
+million, implying that 70% of Interoute’s customers churned in the first 6 months 
+
+
+post-acquisition.  
+
+
+• GTT can depreciate PP&E up to twice as long as it can amortize intangible assets like 
+
+
+customer lists, which, as it stands, will inflate GTT’s financial performance by as 
+
+
+much as $151.6 million in 2019. You can see our calculations in Appendix B of this 
+
+
+report. 
+
+
+• Between Q3 and Q4 2018, GTT extended the useful lives (or depreciation period) of 
+
+
+its fiber optic cable assets from “20 years” to “20 to 40 years.” We asked a C-Suite 
+
+
+executive from one of GTT’s competitors about this depreciation period for fiber and 
+
+
+he told us the following: “No one else in the industry uses a 40-year depreciation. 
+
+
+The industry standard for pretty much everyone from AT&T to Verizon to 
+
+
+CenturyLink to Cogent is generally 20 years. Sometimes 15 but most cases 20.”  
+
+
+• GTT extended its amortization period for acquired customer lists in three consecutive 
+
+
+years; from 3 to 7 years in 2016 to 3 to 10 years in 2017 to 3 to 20 years in 2018.
+Page 3 of 33 
  
-a “Zheng Tian”, similar to沪 A65072 
+
+
+
+
+
+3. Free Cash Flow and Debt Service: 
+
+
+• Net debt has grown from $700.9 million at the end of 2016 to $3.178 billion as of 
+
+
+March 31, 2019. Yet, only 5.1% of GTT’s revenue was converted into operating cash 
+
+
+flow (“OCF”) over the last 12 months, which ranks GTT second worst among its 12 
+
+
+closest competitors, whose weighted average cash flow conversion rate is 21.5%. 
+
+
+• With GTT’s poor trailing twelve-month cash conversion rate of 5.1%, and 
+
+
+management’s guidance for capex of 7% of revenue, it is mathematically impossible 
+
+
+for GTT to generate free cash flow unless it can significantly improve cash 
+
+
+conversion. (OCF – Capex = FCF) 
+
+
+• GTT ended Q1 2019 with only $50.7 million of cash on-hand, including an additional 
+
+
+$26 million drawn from its revolving credit facility – we believe GTT’s cash 
+
+
+conversion issues and $50 million of quarterly interest expense have created a 
+
+
+dangerous liquidity crunch for GTT. 
+
+
+
+
+
+4. Pro Forma Financials and Unrealized Synergies: 
+
+
+• GTT’s net debt to EBITDA is approximately 10.9x using standard EBITDA, or 
+
+
+approximately 7.8x using GTT’s definition of adjusted EBITDA. Both of these would 
+
+
+violate GTT’s 6.5x maximum leverage covenant, which drops to 6.25x at the end of 
+
+
+Q3 2019.  
+
+
+• Somehow, GTT was able lower its leverage ratio to 5.0x at the end of Q1 2019 using 
+
+
+“customized” synergies that are presented only in its “Private Lender Presentation,” 
+
+
+which is not available for GTT’s shareholders to review. 
+
+
+• GTT removed the pro forma revenue and adjusted EBITDA slides from its Q4 2018 
+
+
+investor presentation and, in doing so, further obfuscates the deterioration of its 
+
+
+financial performance from investors. 
+
+
+
+
+
+5. Executive Compensation – Incentivizing Value Destruction:  
+
+
+• GTT’s “performance-based” executive compensation plans incentivize acquisitions 
+
+
+which we believe destroy shareholder value and allow management to reap the 
+
+
+rewards of inorganic growth while ignoring the massive risks that come with it. 
+
+
+• In the last two years, GTT has posted record losses of $71.2 million and $243.4 
+
+
+million while GTT’s top three executives were awarded record compensation of 
+
+
+$18.3 million and $19.3 million in 2017 and 2018, respectively. 
+
+
+• Since the beginning of 2017, GTT’s top three executives have sold $13.1 million of 
+
+
+stock on the open market. These same executives have never made an open market 
+
+
+purchase of GTT stock, that we could find. These sales are detailed in Appendix E of 
+
+
+this report.
+Page 4 of 33 
+ 
+
+
+1. Organic Growth (or Lack Thereof) 
+
+
+GTT obfuscated its negative organic growth rates of -8.7% and -7.7% in 2017 and 2018, 
+
+
+respectively, by not providing financials for what it characterizes as “immaterial acquisitions” 
+
+
+and “asset purchases of certain customer contracts.” The revenue from these so called 
+
+
+“immaterial acquisitions” is simply tucked into the top line. In doing so, GTT deliberately 
+
+
+creates opacity with respect to its true organic growth rate. Since GTT makes one or two of these 
+
+
+“immaterial acquisitions” each quarter, in aggregate, they quickly become material, in our 
+
+
+opinion. GTT has paid $267.1 million (about 18% of GTT’s 2018 revenue) for “immaterial 
+
+
+acquisitions” and “purchases or certain customer contracts” since the beginning of 2016. In our 
+
+
+opinion, this is absolutely material. 
+
+
+
+
+
+Annual organic revenue analysis (USD, millions) 2017 2018 
+
+
+ Revenue  827.9 1,490.8 
+
+
+ Impact of:    
+ Acquisition revenue - current period  (260.4) (526.3) 
+
+
+ USF Fees and other surcharges  (17.4) (23.4) 
+
+
+ Asset purchase  (37.6) - 
+
+
+ Organic revenue  512.5 941.1 
+
+
+ Previous period organic revenue base  561.5 1,019.6 
+
+
+ Net change in organic revenue  (31.6) (78.5) 
+
+
+    
+ Reported revenue growth  57.0% 80.1% 
+
+
+ Organic revenue growth (not reported by GTT) -8.7% -7.7% 
+
+
+    
+ USF and other surcharge adjustments  (19.9) (43.5) 
+
+
+ Net installations  (11.7) (26.3) 
+
+
+
+
+
+
+
+
+The table above makes it clear to us that the last two years have been an absolute disaster for 
+
+
+GTT on the organic growth front. The stock fell more than 35% after posting a sequential 
+
+
+revenue decline of 1% in Q1 2019 – we can only imagine what would happen to the stock price 
+
+
+if GTT disclosed net installs of -$26.3 million, or its significant negative organic growth rates.  
+
+
+According to GTT’s management, the company considers its smaller acquisitions to be an 
+
+
+“organic activity” because GTT makes “immaterial acquisitions” so often and it is (apparently) 
+
+
+cheaper than true organic growth – possibly because transaction, integration, restructuring and 
+
+
+exit costs can be added back to adjusted EBITDA as well as adjusted unlevered free cash flow, 
+
+
+two of the key determinants of GTT’s “performance-based” executive compensation plans.
+Page 5 of 33 
+ 
+
+
+Below are a few statements from GTT’s executives regarding the company’s “organic growth” 
+
+
+strategy: 
+
+
+“As Rick said, we do sort of the ground game for us is those smaller acquisitions that we 
+
+
+do roughly one a quarter and we consider that more like an organic activity.” 
+
+
+- CFO Mike Sicoli, Q2 2018 earnings call 
+
+
+ “We add these smaller acquisitions and buying books of business which I call organic as 
+
+
+well because it's a lot less expensive sometimes to buy those books than to take six 
+
+
+months or nine months to build a sales organization to achieve that.” 
+
+
+- Executive Chairman H. Brian Thompson, Q4 2017 earnings call 
+
+
+“The organic part of our business is also the combination of small acquisitions.” 
+
+
+- CEO Rick Calder, Q3 2018 earnings call 
+
+
+We could not disagree more with these statements, since all acquisitions, regardless of their size, 
+
+
+are inorganic growth by definition.  
+
+
+In order to provide transparency into our organic growth calculations, we have provided the table 
+
+
+below, which lists all of GTT’s acquisitions and asset purchases since the beginning of 2015 as 
+
+
+well as the post-acquisition and annualized revenue numbers that we used in the organic growth 
+
+
+calculations presented above. 
+
+
+
+
+
+Year Period Company Revenue Post-Acq. Price Multiple 
+2015 Q2 MegaPath $130.87 $93.08 $152.30 1.2x 
+2015 Q4 One Source $74.60 $14.31 $175.20 2.3x 
+2016 Q1 Telnes Broadband $17.50 $16.04 $17.50 1.0x 
+2016 Q2 RealLinx $13.00 $6.50 $13.00 1.0x 
+2016 Q4 Yipes1 $39.80 $4.86 $28.90 0.7x 
+2017 Q1 Hibernia Networks $176.20 $176.20 $604.60 3.4x 
+2017 Q1 Mammoth $10.90 $10.08 $10.90 1.0x 
+2017 Q2 Giglinx $26.50 $19.80 $26.50 1.0x 
+2017 Q2 Perseus Telecom $32.19 $18.78 $37.50 1.2x 
+2017 Q3 Global Capacity $204.33 $59.60 $157.60 0.8x 
+2017 Q4 Transbeam2 $21.10 $5.28 $26.60 1.3x 
+2018 Q1 Custom Connect3 $18.25 $0.00 $28.90 1.6x 
+2018 Q2 Interoute $807.35 $403.67 $2,239.30 2.8x 
+2018 Q2 ACI $38.40 $29.17 $38.40 1.0x 
+2018 Q4 Access Point $40.90 $10.30 $40.90 1.0x 
+*Blue numbers indicate revenue multiples based on management guidance of 1.0x 
+**Bold numbers indicate revenue multiple from sources other than GTT’s SEC filings 
+
+
+***Asset purchases are listed in orange. 
+
+
+                                                           
+1 https://rcom.co.in/download/2016-sale-of-overseas-subsidiary-of-the-company/ 
+2 https://www.zoominfo.com/c/transbeam-inc/57720901 
+3 https://www.kvk.nl/handelsregister/TST-
+
+
+BIN/FP/TSWS010@?BUTT=390898630000&CHK1=J&kvknummer=390898630000&product=Be%E2%80%A6 
+
+
+
+https://rcom.co.in/download/2016-sale-of-overseas-subsidiary-of-the-company/
+
+https://www.zoominfo.com/c/transbeam-inc/57720901
+
+https://www.kvk.nl/handelsregister/TST-BIN/FP/TSWS010@?BUTT=390898630000&CHK1=J&kvknummer=390898630000&product=Be%E2%80%A6
+
+https://www.kvk.nl/handelsregister/TST-BIN/FP/TSWS010@?BUTT=390898630000&CHK1=J&kvknummer=390898630000&product=Be%E2%80%A6
+Page 6 of 33 
+ 
+
+
+For us to be as clear as possible about the length GTT goes to obscure its organic growth rate, we 
+
+
+have broken it down quarter by quarter since Q1 2017. You can see in depth quarter-by-quarter 
+
+
+calculations behind the numbers presented below in Appendix A of this report. 
+
+
+Organic vs. Reported Revenue Growth Organic Reported Rev. 
+
+
+Q1 2017 -1.0% 36.3% 
+
+
+Q2 2017 -3.3% 2.2% 
+
+
+Q3 2017 -1.3% 6.6% 
+
+
+Q4 2017 -0.5% 23.0% 
+
+
+Q1 2018 1.5% 4.6% 
+
+
+Q2 2018 -3.6% 25.4% 
+
+
+Q3 2018 -3.5% 37.3% 
+
+
+Q4 2018 -0.9% 1.4% 
+
+
+Q1 2019 -1.0% -1.0% 
+
+
+
+
+
+Q4 2017 is the most bizarre example of GTT’s efforts to obfuscate its organic growth 
+
+
+capabilities. GTT made a buzzer-beating acquisition of Custom Connect on the last day of the 
+
+
+year, which most of us refer to as New Year’s Eve (December 31, 2017 also happened to be a 
+
+
+Sunday).  
+
+
+GTT did not provide any financials for Custom Connect. However, after extensive digging 
+
+
+through European filings, we found Custom Connect’s 2015 - 2017 financials in a filing from its 
+
+
+domicile country, the Netherlands. This filing suggests that GTT paid 1.6x revenue for Custom 
+
+
+Connect – which, if true, is noticeably higher than management’s guidance of 0.8x to 1.2x for 
+
+
+these smaller acquisitions. We estimate that GTT paid 110.0x EBITDA for Custom Connect – 
+
+
+approximately 2,100% above management’s guidance of 5.0x. It would take an unbelievable 
+
+
+amount of synergies to make this EBITDA multiple “deleveraging” for GTT. You can see 
+
+
+Custom Connect’s deteriorating financials in its 2015 – 2017 income statements, which (unlike 
+
+
+GTT) we have provided in Appendix C of this report.  
+
+
+We gave GTT the benefit of the doubt and calculated organic growth using $0 for Custom 
+
+
+Connect’s revenue contribution to Q4 2017, although Custom Connect’s December 2017 billing 
+
+
+could theoretically have been deferred until December 31 as part of the negotiations for this 
+
+
+transaction. We found that GTT’s sequential organic revenue growth rate was -0.5%, as opposed 
+
+
+to the 23.0% sequential revenue growth rate reported by GTT. If GTT had recognized Custom 
+
+
+Connect’s December 2017 revenue, GTT’s sequential organic growth rate would have been         
+
+
+-1.1% in Q4 2017. 
+
+
+GTT does disclose and even at times boasts about its sequential revenue growth. With no 
+
+
+acquisitions or asset purchases in Q1 2019 to create the appearance of growth, GTT reported 
+
+
+revenue of $450.2 million, a decrease of -$4.6 million, or -1.0% from the previous quarter. This 
+
+
+was GTT’s first sequential revenue decline since Q1 2015, another indication to us that this is a 
+
+
+broken rollup story. GTT’s stock fell more than 35% in the 5 trading days following its earnings 
+
+
+report. GTT’s 2024 senior unsecured notes lost more than 9 cents on the dollar during that same 
+
+
+5-day period – sending the yield-to-maturity (“YTM”) to near 12% from around 9% prior to Q1 
+
+
+2019 earnings.
+Page 7 of 33 
+ 
+
+
+Net Installations – A Measure of Organic Growth 
+
+
+Net installations (“net installs”) is the only organic growth metric we have seen GTT report. The 
+
+
+company only reports this figure in its proxy statements because it is used for a portion of GTT’s 
+
+
+cash-based executive compensation plans. In 2017, GTT reported net installations of $6.1 
+
+
+million.  
+
+
+
+
+
+However, we calculated net installs of -$11.7 million for GTT in 2017 – leaving a $17.8 million 
+
+
+delta between GTT’s reported number and our calculation. The table below shows our 
+
+
+calculations for GTT’s net installs: 
+
+
+
+
+
+Net installations (USD, millions) 2017 2018 2019 
+
+
+Q1 (1.4) 3.7 (4.6) 
+
+
+Q2 (6.3) (9.5) - 
+
+
+Q3 (2.7) (16.5) - 
+
+
+Q4 (1.3) (4.0) - 
+
+
+Annual net installations (11.7) (26.3) (18.3) 
+
+
+GTT reported net installations 6.1 N/A N/A 
+
+
+Delta (17.8) - - 
+
+
+
+
+
+We believe the delta shown above is the result of GTT’s inclusion of approximately $17.8 
+
+
+million of revenue from “asset purchases” (i.e., inorganic growth) in its reported net installations 
+
+
+– a metric that GTT itself states is “a good measure of organic growth.”4 
+
+
+
+
+
+
+
+
+                                                           
+4 You can see the calculations behind the numbers presented above in Appendix A of this report.
+Page 8 of 33 
+ 
+
+
+In 2018, GTT set, and missed, a negative target of -$1.4 million for net installations. Unlike the 
+
+
+2017 proxy, GTT elected not to disclose its actual net installations performance for 2018, which 
+
+
+totaled -$26.3 million according to our calculations. It appears to us that the difference between 
+
+
+2017 and 2018 was the huge acquisition of Interoute and the absence of “asset purchases” in 
+
+
+2018. 
+
+
+
+
+
+GTT’s General Counsel and Executive Vice President Chris McKee made the following 
+
+
+statement about rep productivity post-Interoute during the Q&A session at Cowen & Company’s 
+
+
+Technology, Media and Telecom Conference, just after he and CFO Mike Sicoli were caught off 
+
+
+guard by the sudden announcement that the Interoute deal had closed: 
+
+
+“Yeah. One of the frustrating-but-sort-of-good news, good news, bad news aspect for us 
+
+
+is our rep productivity, the amount of the amount of new MRR that reps have sold has 
+
+
+actually been quite good. So, as we've scaled up the sales force, that's one of the things 
+
+
+that you worry about will just fall off a cliff.” 
+
+
+We think that “fall off a cliff” is the perfect way to describe GTT’s sales rep productivity in the 
+
+
+quarters that followed – our calculations show that GTT posted net installations of -$9.5 million, 
+
+
+-$16.5 million and -$4.0 million in Q2, Q3 and Q4 2018, respectively. At least one of GTT’s 
+
+
+executives foresaw the devastating effect that the Interoute acquisition would have on the 
+
+
+company’s organic growth – unfortunately for GTT’s investors, he waited until it was too late to 
+
+
+disclose this opinion publicly. 
+
+
+“Rep productivity” and “churn” are the two components that make up organic growth for GTT. 
+
+
+Creating further financial opacity, GTT does not disclose its rep productivity number to investors 
+
+
+– despite CEO Rick Calder’s statement on GTT’s Q3 2017 earnings call that,  
+
+
+“We see a lot of opportunity to continue to grow the scope and scale of the organization 
+
+
+and maintain productivity rates which we think are industry leading in some respects.”  
+
+
+If GTT’s rep productivity is truly “industry leading” why wouldn’t they disclose it? GTT’s rep 
+
+
+productivity may truly be industry leading “in some respects,” but apparently not in the right 
+
+
+direction, at net installations of  -$26.3 million in 2018.
+Page 9 of 33 
+ 
+
+
+As part of our due diligence, we spoke to a former GTT Regional VP. When asked about GTT’s 
+
+
+churn rate. He said that,  
+
+
+“They are having a big problem there, they can’t outsell their churn, and that was a 
+
+
+problem a year and half ago and they can’t provision right now to get things installed.”  
+
+
+His commentary on customer service was even more negative. In describing management’s 
+
+
+approach to attempting to reduce churn, he said,  
+
+
+“If you’re coming up on a contract, they are holding a gun to the head of their customer, 
+
+
+saying ‘look, you are either going to re-up with us and you will get a 10% or a 5% 
+
+
+discount on your contract or we are going to automatically increase your rates by 30%, I 
+
+
+don't care who you are.’ So, salespeople and service people are going in and they are 
+
+
+holding the gun to the client’s head and it's ostracizing their customers like crazy and as 
+
+
+a result, they are losing revenue and they are losing trust with customers and it’s a really 
+
+
+big issue.”  
+
+
+Judging by the comments above as well as management’s 70% markdown to the carrying value 
+
+
+of Interoute’s customer lists just months after the acquisition, it is clear to us that GTT’s sales 
+
+
+reps are fighting an uphill battle for organic growth. Interoute doubled the size of GTT 
+
+
+overnight, meaning that a 70% churn of Interoute’s customer lists implies a 35% churn of GTT’s 
+
+
+entire customer base. We believe that without growth from additional acquisitions (inorganic 
+
+
+growth), even flat sequential revenue is unlikely for GTT going forward. 
+
+
+GTT’s management has stated many times that the company needs to add 50 to 100 additional 
+
+
+productive sales reps to achieve mid-single-digit organic growth. The problem is that finding, 
+
+
+hiring, training and retaining 50 to 100 sales reps to productively sell telecommunications 
+
+
+services will be both difficult and expensive.  
+
+
+One of GTT’s largest competitors had this to say about the challenges of managing a salesforce 
+
+
+in their industry:  
+
+
+“[The hardest part of this business] is, by far and away, sales. It’s the ability to hire a 
+
+
+sales force, train them, retain them, motivate them, keep them focused, promote them, 
+
+
+give them a career path. It’s an awful job, it’s an outbound, tele-sales model, where 
+
+
+you’re making 100 cold calls per day to people that don’t want to talk to you. And that’s 
+
+
+a really hard thing to do.” 
+
+
+Since the acquisition of Interoute, GTT’s underlying business has continuously deteriorated. 
+
+
+GTT does not generate organic growth and without organic growth, we believe GTT will be 
+
+
+unable to cover its $200+ million of annual interest expense in 2019, much less fund any 
+
+
+acquisitions that are large enough to move the needle for GTT at its current scale.
+Page 10 of 33 
+ 
+
+
+2. Math is a Science; Accounting is an Art Form – Tools for Financial Engineering 
+
+
+GTT adjusted the purchase price allocation (“PPA”) and stretched the useful lives/amortization 
+
+
+periods of the assets acquired from Interoute in order to hide its abysmal financial results from 
+
+
+investors. These adjustments inflated GTT’s operating profit and net income by $78.7 million in 
+
+
+2018 and an increase of $37.9 million in Q1 2019 – which equates to an increase of more than 
+
+
+$150 million on an annualized basis for 2019. 
+
+
+The table below shows the impact of these accounting adjustments on GTT’s financial results for 
+
+
+2018 and 2019: 
+
+
+
+
+
+GTT Depreciation & Amortization 
+Adjustments 
+
+
+2018  
+as 
+
+
+reported 
+
+
+2018  
+expected 
+
+
+FY 2018  
+increase 
+
+
+1Q19  
+as reported 
+
+
+1Q19  
+expected 
+
+
+1Q19  
+increase 
+
+
+2019 
+annual, 
+
+
+reported 
+
+
+2019 
+annual, 
+
+
+expected 
+
+
+FY 2019  
+increase 
+
+
+Telecommunications services 1,490.8 1,490.8 
+ 450.2 450.2  1,800.8 1,800.8  
+
+
+Operating expenses: 
+         
+
+
+Cost of telecom services 819.4 819.4 
+ 241.8 241.8  967.2 967.2  
+
+
+Gross profit 671.4 671.4  208.4 208.4  833.6 833.6  
+
+
+SG&A 383.2 383.2 
+ 104.1 104.1  416.4 416.4  
+
+
+Severance, restructuring and other 
+exit costs 
+
+
+37.1 37.1  2.8 2.8  11.2 11.2  
+
+
+Depreciation and amortization 211.4 211.4 
+ 62.8 62.8  251.2 251.2  
+
+
+D&A Adjustment 
+ 78.7   37.9   151.6  
+
+
+Total operating expenses 631.7 710.4 
+ 169.7 207.6  678.8 830.4  
+
+
+Operating income 39.7 (39.0) $78.7 38.7 0.8 $37.9 154.8 3.2 $151.6 
+
+
+Interest expense, net (146.9) (146.9) 
+ (48.2) (48.2)  (192.8) (192.8)  
+
+
+Loss on debt extinguishment (13.8) (13.8) 
+ - -  - -  
+
+
+Other (expense) (127.9) (127.9) 
+ (16.0) (16.0)  (64.0) (64.0)  
+
+
+Total other expense (288.6) (288.6) 
+ (64.2) (64.2)  (256.8) (256.8)  
+
+
+(Loss) before income taxes (248.9) (327.6) 
+ (25.5) (63.4)  (102.0) (253.6)  
+
+
+(Benefit) provision for taxes (5.5) (5.5) 
+ 1.8 1.8  7.2 7.2  
+
+
+Net (loss) income (243.4) (322.1) $78.7 (27.3) (65.2) $37.9 (109.2) (260.8) $151.6 
+
+
+*"Expected" refers to the expected depreciation and amortization listed in the preliminary pro forma balance sheet/PPA for the Interoute acquisition, 
+included in the 8-K/A filed on 7/6/18 
+**2019 annual figures are based on 1Q19 actual results, presented on an annualized basis. 
+  
+  
+
+
+GTT’s aggressive accounting has two key components which, when combined, create the 
+
+
+operating expense reductions shown above – depreciation/amortization period extensions and 
+
+
+post-close purchase price allocation (“PPA”) adjustments.  
+
+
+
+
+
+Depreciation and Amortization Period Extensions 
+
+
+
+
+
+GTT has extended the amortization period of its “customer lists” intangible asset in each of the 
+
+
+past three years. In GTT’s 2016 10-K, it lists the amortization period of customer lists as 3 to 7 
+
+
+years. In the 2017 10-K, GTT extended this amortization period to 3 to 10 years. In the 2018 10-
+
+
+K, GTT listed the amortization period as 3 to 20 years despite stating an amortization period for 
+
+
+Interoute’s customer lists of only 8 to 10 years just 8 months earlier.
+Page 11 of 33 
+ 
+
+
+GTT provided no explanation for these extensions in its filings. We believe that the company 
+
+
+should have been required to provide investors an explanation for these extensions, as customer 
+
+
+lists make up a material 10.2% portion of GTT’s total assets.  
+
+
+
+
+
+Amortization Period of Intangibles 2015 2016 2017 2018 
+
+
+Customer Lists  3-7 years   3-7 years   3-10 years   3-20 years  
+
+
+Non-competes  3-5 years   3-5 years   3-5 years   3-5 years  
+
+
+FCC License fees  3 years   3 years   3 years   N/A  
+
+
+Intellectual Property  10 years   10 years   10 years   10 years  
+
+
+Trade Name  3 years   3 years   3 years   1-3 years  
+
+
+
+
+
+The effect of these adjustments is massive, as shown in the chart below: 
+
+
+
+
+
+
+
+
+GTT also extended the useful lives (or “depreciation periods”) of its PP&E in 2017 and 2018. In 
+
+
+2017, GTT extended the depreciation period for its “network equipment” from “5 years” to “3 to 
+
+
+15 years” without explanation. In 2018, GTT extended the depreciation period of its “fiber optic 
+
+
+cable” from “20 years” to “20 to 40 years” again with no explanation. This extension had a 
+
+
+material effect on GTT’s depreciation expense – especially considering that most of Interoute’s 
+
+
+PP&E is made up of fiber optic cable.  
+
+
+
+
+
+PP&E Useful Lives 2015 2016 2017 2018 
+Buildings                        -                           -     30 years   30 years  
+
+
+Furniture and Fixtures  7 years   7 years   7 years   7 years  
+
+
+Fiber Optic Cable                        -                           -     20 years   20-40 years  
+
+
+Network Equipment  5 years   5 years   3-15 years   3-15 years  
+
+
+Leasehold Improvements  up to 10 years   up to 10 years   up to 10 years   up to 10 years  
+
+
+Computer hardware/software  3-5 years   3-5 years   3-5 years   3-5 years  
+
+
+1.9%
+
+
+1.7%
+
+
+1.8% 1.8%
+
+
+0.9%
+
+
+1.0%
+1.0% 1.0%
+
+
+0.0%
+
+
+0.2%
+
+
+0.4%
+
+
+0.6%
+
+
+0.8%
+
+
+1.0%
+
+
+1.2%
+
+
+1.4%
+
+
+1.6%
+
+
+1.8%
+
+
+2.0%
+
+
+2Q17 3Q17 4Q17 1Q18 2Q18 3Q18 4Q18 1Q19
+
+
+GTT Amortization Expense as a % of Net Intangible Assets
+
+
+50% decrease post-Interoute
+Page 12 of 33 
+ 
+
+
+
+
+
+Once again, the effect of these adjustments is massive, as shown in the chart below:  
+
+
+
+
+
+
+
+
+As part of our due diligence, we asked one of GTT’s largest competitors about this depreciation 
+
+
+period. He told us that, while fiber can last 40 years: 
+
+
+
+
+
+“No one else in the industry uses a 40-year depreciation. The industry standard for pretty 
+
+
+much everyone, from AT&T to Verizon to CenturyLink to Cogent is generally 20 years. 
+
+
+Sometimes 15 but most cases 20.” 
+
+
+
+
+
+We believe GTT extended the depreciation period of its fiber assets and continued to extend the 
+
+
+amortization period for its acquired customer lists in 2018 in order to reduce its depreciation and 
+
+
+amortization expense.  
+
+
+
+
+
+
+
+
+
+
+
+Purchase Price Allocation Adjustments  
+
+
+
+
+
+GTT was already extremely aggressive in its initial valuations of Interoute’s assets.  
+
+
+
+
+
+Interoute showed $522 million in PP&E on its Q1 2018 balance sheet. Approximately two 
+
+
+months later, when GTT performed its initial fair value assessment of these same assets, GTT 
+
+
+marked up the value of Interoute’s PP&E by nearly 100%, to $1.014 billion. GTT also assigned 
+
+
+an initial carrying value of $580 million to Interoute’s customer lists – which appear on GTT’s 
+
+
+balance sheet as an intangible asset.  
+
+
+3.2% 3.2%
+
+
+3.7%
+
+
+4.0%
+
+
+2.1%
+
+
+1.9%
+
+
+2.3%
+
+
+1.8%
+
+
+0.0%
+
+
+0.5%
+
+
+1.0%
+
+
+1.5%
+
+
+2.0%
+
+
+2.5%
+
+
+3.0%
+
+
+3.5%
+
+
+4.0%
+
+
+4.5%
+
+
+2Q17 3Q17 4Q17 1Q18 2Q18 3Q18 4Q18 1Q19
+
+
+GTT Quarterly Depreciation as a % of Net PP&E
+
+
+~50% decrease post-Interoute
+Page 13 of 33 
+ 
+
+
+
+
+
+The PPA in GTT’s March 1, 2019 10-K is significantly different than the PPA provided by GTT 
+
+
+just under 8 months earlier. Here, GTT marked up the carrying value of Interoute’s PP&E by 
+
+
+another $422 million, bringing the total carrying value of Interoute’s PP&E to $1.436 billion. 
+
+
+This represents a total markup of $914 million, or 175%, from the carrying value of PP&E on 
+
+
+Interoute’s Q1 2018 balance sheet.  
+
+
+
+
+
+Adjustments to the PPA post-acquisition aren’t uncommon and are allowed for up to 12 months 
+
+
+post-close under ASC 805-10. However, these are enormous adjustments. We fail to understand 
+
+
+how a 175% markup to PP&E could possibly have been made in good faith by GTT. This is fiber 
+
+
+in the ground we are talking about here, not gold. At the same time, GTT marked down the 
+
+
+carrying value of the customer lists acquired from Interoute by -$408.5 million, or -70.4%, to 
+
+
+$171.5 million from GTT’s initial fair value assessment of $580 million, just 8 months earlier. In 
+
+
+fact, GTT adjusted the value of every single line item from the original PPA. Incredibly, GTT 
+
+
+revalued 6 of the 9 ‘asset’ line items by 40% or more.  
+
+
+ 
+Interoute PPA Analysis (USD, millions) 7/6/2018 8-K 3/1/2019 10-K % Change 
+
+
+Assets acquired:       
+
+
+Cash and equivalents 57.7 66.1 14.6% 
+
+
+Accounts receivable 166.2 86.6 -47.9% 
+
+
+Prepaid expenses/other current assets 87.4 51.3 -41.3% 
+
+
+Property and equipment 1,014.0 1,435.9 41.6% 
+
+
+Deferred tax assets 48.1 35.9 -25.4% 
+
+
+Other long-term assets 17.2 24.5 42.4% 
+
+
+Intangible assets - Customer lists 580.0 171.5 -70.4% 
+
+
+Intangible assets - other 44.8 17.5 -60.9% 
+
+
+Goodwill 1,104.6 1,040.6 -5.8% 
+
+
+Total assets acquired 3,120.0 2,929.9 -6.1% 
+
+
+Liabilities assumed:    
+Accounts payable 96.5 75.5 -21.8% 
+
+
+Accrued expenses and other liabilities 115.9 115.2 -0.6% 
+
+
+Capital leases  39.2 42.4 8.2% 
+
+
+Debt 32.3 27.7 -14.2% 
+
+
+Deferred revenue 337.5 243.0 -28.0% 
+
+
+Deferred tax liabilities 239.7 148.8 -37.9% 
+
+
+Other long-term liabilities 19.6 38.0 93.9% 
+
+
+Total liabilities assumed 880.7 690.6 -21.6% 
+
+
+Net assets acquired 2,239.3 2,239.3 0.0% 
+
+
+
+
+
+These adjustments had two significant effects on GTT’s financial results:  
+
+
+
+
+
+First, since GTT can depreciate PP&E over a period as long as 40 years, it was in GTT’s interest 
+
+
+to shift as much of the intangible asset value to PP&E as possible, since intangibles can only be 
+
+
+amortized over a period as long as 20 years. Simple math shows that $400 million of intangibles, 
+
+
+amortized over 20 years will result in annual amortization expense of $20 million. That same 
+
+
+$400 million, now classified as PP&E, can instead be depreciated over 40 years – resulting in 
+
+
+annual depreciation expense of only $10 million. This equates to a 50% decrease in annual 
+
+
+depreciation and amortization expense for GTT. 
+
+
+
+https://www.iasplus.com/en-us/standards/fasb/broad-transactions/asc805
+Page 14 of 33 
+ 
+
+
+
+
+
+Second, by marking down the value assigned to Interoute’s customer lists by 70%, we are asked 
+
+
+to believe that GTT either massively overvalued Interoute’s customer lists, which means that the 
+
+
+$1.1 billion that GTT already assigned to goodwill would have been $1.5 billion of the $2.2 
+
+
+billion total purchase price. Or, GTT churned 70% of Interoute’s clients within months of the 
+
+
+acquisition, which is effectively 35% of GTT’s entire customer base. However, we actually 
+
+
+believe GTT wrote down $408.5 million of its intangible assets on the PPA to avoid taking an 
+
+
+impairment charge.  
+
+
+
+
+
+GTT acquired three large, declining businesses in the last two years, all three of which 
+
+
+experienced continued churn post-acquisition. This is reflected in our organic growth 
+
+
+calculations as well as acknowledged by management on earnings calls. As a result, we believe 
+
+
+that GTT was facing a multi-hundred-million-dollar impairment charge which would have had a 
+
+
+significant negative impact on its already enormous net loss of $243 million in 2018. By marking 
+
+
+down the value of Interoute’s customer lists post-close, GTT effectively impaired a large portion 
+
+
+of all its intangible assets while also avoiding the scrutiny that comes with an impairment charge.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Free Cash Flow and Debt Service 
+ 
+
+
+We have already established that GTT does not grow organically. GTT relies on debt funded 
+
+
+acquisitions to keep its growth story alive. The problem is that GTT does not generate enough 
+
+
+cash to cover its nearly $200 million in annual interest expense, much less fund further 
+
+
+acquisitions.  
+
+
+
+
+
+GTT directs investors and analysts attention to non-GAAP metrics such as adjusted free cash 
+
+
+flow, which excludes severance, restructuring and other exit costs, and transaction and 
+
+
+integration costs from its actual free cash flow. GTT attempts to justify its use of this metric with 
+
+
+the following statement: 
+
+
+
+
+
+“We believe that the presentation of Adjusted Free Cash Flow is relevant and useful to 
+
+
+investors because it provides a measure of cash available to pay the principal on our 
+
+
+debt and pursue acquisitions of businesses or other strategic investments or uses of 
+
+
+capital.”5 
+
+
+
+
+
+This is simply not true. This cash would only be available to pay principal on debt and pursue 
+
+
+further acquisitions in an imaginary world where this cash had not already been spent on 
+
+
+severance, restructuring and other exit costs as well as transaction and integration costs, which 
+
+
+left them with only $4.3 million of real free cash flow in 2018 – enough to pay down a whopping 
+
+
+0.13% of the principal on GTT’s debt.  
+
+
+
+
+
+
+
+
+                                                           
+5 GTT Q1 2019 SEC Form 10-Q, p. 40
+Page 15 of 33 
+ 
+
+
+In reality, GTT generated negative free cash flow of -$16 million in Q1 2019 and only $4.3 
+
+
+million in all of 2018. The fact of the matter is that, following the acquisition of Interoute, which 
+
+
+deviated significantly from GTT’s “capex-light” strategy, it is mathematically impossible for 
+
+
+GTT to generate meaningful free cash flow without significantly improving its cash conversion 
+
+
+rate.  
+
+
+
+
+
+GTT’s trailing-twelve-month (“TTM”) cash conversion rate is only 5.1% - significantly worse 
+
+
+than most of its peers, whose weighted average cash conversion rate is 21.5%.  
+
+
+
+
+
+
+
+
+TTM Cash Conversion (USD, millions) 1Q19 OCF 1Q19 Sales OCF/Sales 
+
+
+Zayo Group (ZAYO) 977.8 2,585.0 37.8% 
+
+
+CyrusOne (CONE) 309.0 849.8 36.4% 
+
+
+Akamai Technologies (AKAM) 977.2 2,752.3 35.5% 
+
+
+F5 Networks (FFIV) 777.8 2,193.6 35.5% 
+
+
+j2 Global (JCOM) 414.3 1,226.6 33.8% 
+
+
+Cogent Communications (CCOI) 132.4 525.6 25.2% 
+
+
+ViaSat (VSAT) 290.7 1,950.7 14.9% 
+
+
+Endurance International Group (EIGI) 145.2 1,134.6 12.8% 
+
+
+RingCentral (RNG) 80.1 724.8 11.1% 
+
+
+Vonage (VG) 102.5 1,074.8 9.5% 
+
+
+Mitel Networks (MITL) 122.1 1,304.0 9.4% 
+
+
+GTT Communications (GTT) 85.6 1,680.4 5.1% 
+
+
+Unisys (UIS) 53.7 2,812.4 1.9% 
+
+
+Weighted Average   21.5% 
+
+
+
+
+
+
+
+
+
+
+
+With management’s guidance for capex to remain at 7% of revenue and a cash conversation rate 
+
+
+of only 5.1%, GTT cannot generate real positive free cash flow. Free cash flow is defined as 
+
+
+operating cash flow (“OCF”) less capex. If OCF is only 5.1% of revenue (and declining), while 
+
+
+capex remains at 7% of revenue, it is mathematically impossible for GTT to generate positive 
+
+
+free cash flow.  
+
+
+
+
+
+GTT’s abysmal cash conversion rate is a side effect of its aggressive accounting practices. 
+
+
+Creative accounting can synthetically grow the top line for a few quarters. However, it is 
+
+
+impossible for the accounting department to generate cash flow. GTT’s OCF/Sales ratio (cash 
+
+
+conversion rate) has been declining since Q3 2017, indicating that an increasing amount of 
+
+
+GTT’s reported growth has come from the accounting department.
+Page 16 of 33 
+ 
+
+
+
+
+
+4. Pro Forma Financials and Unrealized Synergies 
+
+
+Pro forma financials and expected synergies are paramount for GTT, whose maximum leverage 
+
+
+ratio covenant is based on pro forma adjusted EBITDA plus expected synergies. This affords 
+
+
+GTT an great deal amount of flexibility when calculating its leverage ratio. GTT’s net debt to 
+
+
+EBITDA is approximately 10.9x using standard EBITDA, or approximately 7.8x using GTT’s 
+
+
+definition of adjusted EBITDA. Both of these would violate GTT’s maximum leverage covenant 
+
+
+of 6.5x, which drops to 6.25x on the last day of Q3 2019. Somehow, GTT was able to customize 
+
+
+a leverage ratio of only 5.0x at the end of Q1 2019. We say somehow because this leverage 
+
+
+calculation is only presented in GTT’s “Private Lender Presentation,” which is not available for 
+
+
+GTT’s shareholders to review. 
+
+
+GTT used to present these pro forma financials in its investor presentations as well – until Q4 
+
+
+2018, when GTT removed the pro forma revenue and adjusted EBITDA slides from its investor 
+
+
+presentation as the numbers continued to deteriorate.  
+
+
+Before the acquisition of Interoute in Q2 2018, GTT’s quarterly investor presentation featured a 
+
+
+slide presenting GTT’s pro forma revenue and pro forma adjusted EBITDA numbers (without 
+
+
+expected synergies), along with the calculations for both. Below is an example from Q1 2018: 
+
+
+4.0%
+
+
+5.0%
+
+
+6.0%
+
+
+7.0%
+
+
+8.0%
+
+
+9.0%
+
+
+10.0%
+
+
+11.0%
+
+
+1Q17 2Q17 3Q17 4Q17 1Q18 2Q18 3Q18 4Q18 1Q19
+
+
+GTT TTM OCF/Sales Ratio, Q1 2017 - Q1 2019
+
+
+-50% since Q3 2017 
+
+
+Global 
+
+
+Capacity 
+
+
+Acquisition 
+
+
+Interoute 
+
+
+Acquisition
+Page 17 of 33 
+ 
+
+
+
+
+
+Source: GTT Q1 2018 Investor Presentation, slide 17 
+
+
+The reporting of GTT’s pro forma numbers became more creative after the Interoute deal closed 
+
+
+in Q2 2018. Note that in addition to Interoute, GTT now also includes five other acquisitions for 
+
+
+“synergies” in Q2 2018: 
+
+
+
+
+
+Source: GTT Q2 2018 Investor Presentation, slide 18
+Page 18 of 33 
+ 
+
+
+In Q3 2018, GTT again changes its presentation of pro forma adjusted EBITDA. GTT now 
+
+
+includes synergies from all acquisitions, as well as pre-close reported adjusted EBITDA for 
+
+
+Custom Connect and ACI. Despite all of these additions, pro forma adjusted EBITDA still 
+
+
+declined from $576.5 million to $568 million between Q2 and Q3 2018. As if that’s not bad 
+
+
+enough, $568 is an incorrect number – it’s actually $567. It appears that GTT thinks that 2+1 = 4 
+
+
+
+
+
+
+
+
+
+
+
+Source: GTT Q3 2018 Investor Presentation, slide 17 
+
+
+
+
+
+In Q4 2018, GTT removed the pro forma adjusted EBITDA slide altogether. Apparently, 
+
+
+even with “pre-close reported adjusted EBITDA” from its Q4 2018 acquisition of Access Point, 
+
+
+GTT still could not mask its decline. We view this as yet another example of GTT’s deliberate 
+
+
+efforts to hide its deteriorating financial condition from its investors. 
+
+
+
+
+
+5. Executive Compensation – Incentivizing Value Destruction:  
+
+
+GTT’s “performance-based” executive compensation plans are based on revenue growth, 
+
+
+“adjusted EBITDA” and “adjusted unlevered free cash flow,” which was added to the new plan 
+
+
+that GTT implemented in November 2018. These metrics incentivize large, expensive 
+
+
+acquisitions which, in our opinion, are destroying shareholder value.  
+
+
+Despite posting record net losses in 2017 and 2018, GTT’s executives received record 
+
+
+compensation of $37 million in the last two years.6 
+
+
+                                                           
+6 GTT 2017 and 2018 Proxy Statements (DEF 14A); Summary Compensation Tables 
+
+
+$567 
+
+
+2+1 = 4?
+Page 19 of 33 
+ 
+
+
+GTT’s definition of “adjusted” in adjusted EBITDA and adjusted unlevered free cash flow 
+
+
+metrics is completely ridiculous, in our opinion. For GTT, “adjusted” means “excluding 
+
+
+severance and other exit costs, transaction and integration costs and share-based compensation 
+
+
+expense.” The “unlevered” in adjusted unlevered free cash flow means that it also excludes 
+
+
+interest expense, which will cost GTT more than $200 million in 2019. 
+
+
+All of these adjustments are significant recurring costs for GTT, making these grossly misguided 
+
+
+metrics for determining executive compensation. GTT’s focus on top-line metrics allow 
+
+
+management to reap the rewards of inorganic growth while ignoring the massive risks that come 
+
+
+with it – the risks are pushed onto shareholders. 
+
+
+The charts below display the stark divergence between GTT’s financial performance and the 
+
+
+financial performance of its management team:  
+
+
+
+
+
+
+
+
+$1.4 $1.7 $0.1
+-$20.7
+
+
+-$43.7
+-$24.4 -$19.1
+
+
+-$90.6
+
+
+-$334.0
+
+
+$1.5 $3.1 $4.8 $7.3
+$15.8
+
+
+$29.5 $33.4
+$51.7
+
+
+$70.9
+
+
+-$400
+
+
+-$350
+
+
+-$300
+
+
+-$250
+
+
+-$200
+
+
+-$150
+
+
+-$100
+
+
+-$50
+
+
+$0
+
+
+$50
+
+
+$100
+
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+
+GTT Cumulative Earnings vs. Cumulative Compensation (USD, Millions)
+
+
+Cumulative Earnings Cumulative Compensation
+Page 20 of 33 
+ 
+
+
+
+
+
+
+
+
+GTT’s executives have taken home $70.9 million in total compensation since 2010, while 
+
+
+generating a cumulative net loss of nearly $340 million. We could not find a single measure that 
+
+
+justifies GTT’s level of executive compensation given the company’s financial condition. 
+
+
+This seemingly inverse relationship between profitability and performance-based compensation 
+
+
+begs the question: what is performance to GTT?  
+
+
+The answer appears to be very simple to us: grow the top line at any and all costs – collect a 
+
+
+bonus.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$0.6 $1.8 -$4.2 -$24.2
+-$32.1
+
+
+-$78.7
+
+
+-$222.0
+
+
+-$437.0
+
+
+$3.1 $4.8 $7.3
+$15.8
+
+
+$29.5 $33.4
+$51.7
+
+
+$70.9
+
+
+-$500
+
+
+-$400
+
+
+-$300
+
+
+-$200
+
+
+-$100
+
+
+$0
+
+
+$100
+
+
+2011 2012 2013 2014 2015 2016 2017 2018
+
+
+GTT Cumulative Economic Value Added vs. Cumulative Compensation - (USD, Millions) 
+
+
+Cumulative EVA Cumulative Compensation
+Page 21 of 33 
+ 
+
+
+Conclusion 
+
+
+We couldn’t think of a better way to conclude this report than with the following comment from 
+
+
+the CEO of one of GTT’s top competitors. When we asked the question, “do you think GTT will 
+
+
+be around in 5 years, or will other competitors with that type of framework potentially be 
+
+
+interested in acquiring them?” he said the following: 
+
+
+“So, if GTT continues to do acquisitions and the capital markets remain open, they'll be 
+
+
+fine. When the music stops and they actually perform, the value will collapse. The real 
+
+
+value of GTT is below the face value of the equity. What my experience has told me is 
+
+
+rarely do companies trade that level. So, chances are, it will not be an actionable 
+
+
+acquisition. I think they will just turn into what I would call a zombie. So just kind of sit 
+
+
+there, probably have a single-digit stock price. No real equity value, negative growth. 
+
+
+And they’ll just kind of bumble along. I mean, the markets do tolerate that type of 
+
+
+business. But when the capital markets do become discerning, then at that point, maybe a 
+
+
+distressed situation like a Frontier or a Windstream. And there may be an opportunity 
+
+
+there. But usually there's such a convoluted capital structure that outside of bankruptcy, 
+
+
+there's no way to actually action a deal.” 
+
+
+Needless to say, we agree – if GTT cannot find a way to grow organically, the future looks 
+
+
+bleak. We consider one or more of the following scenarios to be likely: 
+
+
+• Dilutive equity raises 
+
+
+• Refinancing of debt on onerous terms  
+
+
+• Reversal of the rollup strategy to an asset sale strategy 
+
+
+• Bankruptcy (Chapter 11 restructuring)
+Page 22 of 33 
+ 
+
+
+Appendix A – Quarterly Organic Growth Calculations 
+
+
+
+
+
+GTT Q1 2017 4Q16 1Q17 
+
+
+GTT Revenue as reported 136.5 186.0 
+
+
+Impact of:   
+   Yipes 4.9 - 
+
+
+   Hibernia - 44.1 
+
+
+   Mammoth  - 1.8 
+
+
+GTT organic revenue 131.6 140.2 
+
+
+Previous period organic revenue base* nm 141.6 
+
+
+Net installations - (1.4) 
+
+
+    
+Reported revenue growth nm 36.3% 
+
+
+Sequential organic growth % (not reported) nm -1.0% 
+
+
+Full quarter acquired revenue:   
+   Yipes 10.0 - 
+
+
+   Hibernia - 44.1 
+
+
+   Mammoth  - 2.8 
+
+
+Organic revenue base* 141.6 187.1 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter. 
+
+
+
+
+
+GTT Q2 2017 1Q17 2Q17 
+
+
+GTT Revenue as reported 186.0 190.1 
+
+
+Impact of:   
+   Hibernia  44.1 - 
+
+
+   Mammoth 1.8 - 
+
+
+   Perseus  - 2.6 
+
+
+   Giglinx  - 6.6 
+
+
+GTT organic revenue 140.2 180.9 
+
+
+Previous period organic revenue base* nm 187.1 
+
+
+Net installations - (6.2) 
+
+
+    
+Reported revenue growth nm 2.2% 
+
+
+Sequential organic growth % (not reported) nm -3.4% 
+
+
+Full quarter acquired revenue:   
+   Hibernia 44.1 - 
+
+
+   Mammoth 2.8 - 
+
+
+   Perseus - 8.1 
+
+
+   Giglinx - 6.6 
+
+
+Organic revenue base* 187.1 195.6 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter.
+Page 23 of 33 
+ 
+
+
+
+
+
+
+
+
+GTT Q3 2017 2Q17 3Q17 
+
+
+GTT Revenue as reported 190.1 202.6 
+
+
+Impact of:   
+   Perseus  2.6 - 
+
+
+   Giglinx  6.6 - 
+
+
+   Global Capacity - 8.5 
+
+
+GTT organic revenue 180.9 194.1 
+
+
+Previous period organic revenue base* nm 195.6 
+
+
+Net installations - (1.5) 
+
+
+    
+Reported revenue growth nm 6.6% 
+
+
+Sequential organic growth % (not reported) nm -0.7% 
+
+
+Full quarter acquired revenue:   
+   Perseus  8.1 - 
+
+
+   Giglinx  6.6 - 
+
+
+   Global Capacity - 51.1 
+
+
+Organic revenue base* 195.6 245.2 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter. 
+
+
+
+
+
+
+
+
+GTT Q4 2017 3Q17 4Q17 
+
+
+GTT Revenue as reported 202.6 249.2 
+
+
+Impact of:   
+   Global Capacity 8.5 - 
+
+
+   Transbeam - 5.3 
+
+
+   Custom Connect - - 
+
+
+GTT organic revenue 194.1 243.9 
+
+
+Previous period organic revenue base* nm 245.2 
+
+
+Net installations - (1.3) 
+
+
+    
+Reported revenue growth nm 23.0% 
+
+
+Sequential organic growth % (not reported) nm -0.5% 
+
+
+Full quarter acquired revenue:   
+   Global Capacity 51.1 - 
+
+
+   Transbeam - 5.3 
+
+
+   Custom Connect - 4.6 
+
+
+Organic revenue base* 245.2 253.8 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter.
+Page 24 of 33 
+ 
+
+
+
+
+
+
+
+
+
+
+
+GTT Q1 2018 4Q17 1Q18 
+
+
+GTT Revenue as reported 249.2 260.7 
+
+
+Impact of:   
+   Transbeam 5.3 - 
+
+
+   Custom Connect - - 
+
+
+   ACI - 3.2 
+
+
+GTT organic revenue 243.9 257.5 
+
+
+Previous period organic revenue base* nm 253.8 
+
+
+Net installations - 3.7 
+
+
+    
+Reported revenue growth nm 4.6% 
+
+
+Sequential organic growth % (not reported) nm 1.4% 
+
+
+Full quarter acquired revenue:   
+   Transbeam 5.3 - 
+
+
+   Custom Connect 4.6 - 
+
+
+   ACI - 9.6 
+
+
+Organic revenue base* 253.8 267.1 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter. 
+
+
+
+
+
+
+
+
+GTT Q2 2018 1Q18 2Q18 
+
+
+GTT Revenue as reported 260.7 326.8 
+
+
+Impact of:   
+   ACI 3.2 - 
+
+
+   Interoute - 69.2 
+
+
+GTT organic revenue 257.5 257.6 
+
+
+Previous period organic revenue base* nm 267.1 
+
+
+Net installations - (9.5) 
+
+
+    
+Reported revenue growth nm 25.4% 
+
+
+Sequential organic growth % (not reported) nm -3.7% 
+
+
+Full quarter acquired revenue:   
+   ACI 9.6 - 
+
+
+   Interoute - 207.5 
+
+
+Organic revenue base* 267.1 465.1 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter.
+Page 25 of 33 
+ 
+
+
+
+
+
+GTT Q3 2018 2Q18 3Q18 
+
+
+GTT Revenue as reported 326.8 448.6 
+
+
+Impact of:   
+   Interoute 69.2 - 
+
+
+GTT organic revenue 257.6 448.6 
+
+
+Previous period organic revenue base* nm 465.1 
+
+
+Net installations - (16.5) 
+
+
+    
+Reported revenue growth nm 37.3% 
+
+
+Sequential organic growth % (not reported) nm -3.7% 
+
+
+Full quarter acquired revenue:   
+   Interoute 207.5 - 
+
+
+Organic revenue base* 465.1 448.6 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter. 
+
+
+
+
+
+GTT Q4 2018 3Q18 4Q18 
+
+
+GTT Revenue as reported 448.6 454.8 
+
+
+Impact of:   
+   Access Point - 10.2 
+
+
+GTT organic revenue 448.6 444.6 
+
+
+Previous period organic revenue base* nm 448.6 
+
+
+Net installations - (4.0) 
+
+
+    
+Reported revenue growth nm 1.4% 
+
+
+Sequential organic growth % (not reported) nm -0.9% 
+
+
+Full quarter acquired revenue:   
+   Access Point - 10.2 
+
+
+Organic revenue base* 448.6 454.8 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter. 
+
+
+
+
+
+GTT Q1 2019 4Q18 1Q19 
+
+
+GTT Revenue as reported 454.8 450.2 
+
+
+Impact of:   
+   Access Point 10.2 - 
+
+
+GTT organic revenue 444.6 450.2 
+
+
+Previous period organic revenue base* nm 454.8 
+
+
+Net installations - (4.6) 
+
+
+    
+Reported revenue growth nm -1.0% 
+
+
+Sequential organic growth % (not reported) nm -1.0% 
+
+
+Full quarter acquired revenue:   
+   Access Point 10.2 - 
+
+
+Organic revenue base* 454.8 450.2 
+
+
+*Organic revenue base = organic revenue + full quarter revenue of acquisitions made during the quarter.
+Page 26 of 33 
+ 
+
+
+Appendix B – Depreciation and Amortization Adjustment Calculations 
+
+
+
+
+
+Depreciation & Amortization Value Note/Source 
+
+
+Interoute & GTT quarterly pro forma combined D&A 100.7 GTT 8-K/A filed July 6, 2018, exhibit 99.5, p. 7 
+
+
+Annualized pro forma D&A 402.8 Quarterly number above times 4 
+
+
+Pro rata from June 1 (1) 234.8 Annualized number above times 7/12 (58.3% of the year) 
+
+
+GTT estimated D&A pre-Interoute (2) 55.3 GTT 2017 reported D&A times 5/12 (41.7% of the year) 
+
+
+Expected D&A 2018 (3) 290.1 (1) + (2)  
+
+
+Reported D&A 2018 (4) 211.4 GTT's actual reported D&A from 2018 10-K, p. F-4 
+
+
+2018 Adjustment 78.7 (3) - (4) 
+
+
+Expected D&A 1Q19 (5) 100.7 Using quarterly pro forma combined D&A from line 1 
+
+
+Reported D&A 1Q19 (6) 62.8 GTT's actual reported D&A in Q1 2019 
+
+
+1Q19 Adjustment 37.9 (5) - (6) 
+
+
+2019 Annualized Adjustment 151.6 Q1 2019 adjustment times 4 
+
+
+
+
+
+
+
+
+Comparable Depreciation and Amortization Periods: 
+
+
+GTT Depreciation and 
+Amortization vs. comps  
+
+
+GTT 
+Communications 
+
+
+(GTT) 
+Zayo Group  
+
+
+(ZAYO) 
+Vonage Holdings 
+
+
+(VG) 
+
+
+Cogent 
+Communications 
+
+
+(CCOI) 
+
+
+Intangible Assets - Amortization Period (2018)       
+
+
+Customer lists 3 to 20 years 15 years 7 to 12 years N/A 
+
+
+Non-competes  3 to 5 years  N/A 3 years N/A 
+
+
+FCC license fees  N/A  N/A N/A N/A 
+
+
+Intellectual property  10 years  N/A 3 to 5 years N/A 
+
+
+Trade names  1 to 3 years  N/A 2 to 5 years N/A 
+
+
+Software N/A N/A 3 to 10 years N/A 
+
+
+Underlying rights/other N/A 20 years N/A N/A 
+
+
+
+
+
+PP&E - Useful Lives (2018)         
+
+
+Buildings 30 years 15 to 39 years Lease term 40 years 
+
+
+Furniture and fixtures 7 years 3 to 7 years 3 to 5 years 3 to 7 years 
+
+
+Fiber optic cable and duct 20 to 40 years 15 to 20 years N/A 3 to 8 years 
+
+
+Fiber optic network equipment  3 to 15 years 8 years N/A 5 to 10 years 
+
+
+Leasehold improvements up to 10 years N/A Lease term Lease term 
+
+
+Computer hardware and software 3 to 5 years 3 to 5 years 3 to 5 years 5 years 
+
+
+IRUs N/A N/A N/A 15 to 20 years 
+
+
+Circuit switch equipment N/A 10 years 3 years N/A 
+All numbers from respective company’s 2018 SEC Form 10-K
+Page 27 of 33 
+ 
+
+
+Appendix C – Custom Connect Income Statements, 2015 – 2017 (from Dutch filings) 
+
+
+
+
+
+Income Statement (USD) 2015 2016 2017 
+
+
+Conversion Rate (EURUSD) 1.09 1.045 1.2 
+
+
+Revenue $         16,394,179 $         15,996,150 - 
+
+
+Depreciation  241,948 256,675 - 
+
+
+Revenue net of depreciation 16,152,230 15,739,475 - 
+
+
+Salaries and benefits (12,219,010) (12,508,644) - 
+
+
+Other operating expenses (3,144,471) (3,011,280) - 
+
+
+Total operating income - - $         18,252,990 
+
+
+Total operating expenses - - 18,169,961 
+
+
+Operating profit 788,749 219,551 83,029 
+
+
+Interest and other income 27,733 14,055 - 
+
+
+Interest and other expense (152,799) (131,868) - 
+
+
+Total other income (expense) (125,067) (117,812) (80,074) 
+
+
+Earnings before taxes 663,682 101,739 2,956 
+
+
+Provision (benefit) for income tax 164,097 (43,835) - 
+
+
+Net Income $              499,585 $              145,574 $                  2,956 
+Only total operating income/expenses were presented in the 2017 Dutch filing, as reflected above. 
+Our EBITDA multiple calculation assumes depreciation of $260,000 for 2017 – in line with 2016’s actual number.
+Page 28 of 33 
+ 
+
+
+Appendix D – The Most Awkward Conference Call Transcript We’ve Ever Seen 
+
+
+
+
+
+To provide some context, CFO Mike Sicoli is in the middle of talking about the success of 
+
+
+GTT’s “capex-light” strategy and how a “really strong strategic fit” is key to GTT’s M&A 
+
+
+targets, when he is apparently informed in real-time that the Interoute deal has closed. Interoute 
+
+
+is anything but “capex-light.” Interoute owns a huge fiber optic cable network in Europe, 
+
+
+employing an entirely different strategy than GTT. It is incredible to us that the CFO could have 
+
+
+possibly been unaware that a $2.23 billion acquisition, which more than doubled the size of the 
+
+
+Company, was set to close that day.  
 
 
 
 
 
  
-a “Santana”, similar to沪 A65075 
-
-
-We question the economics of installing hard drives and LCD panels in privately owned passenger cars. 
- 
-In contrast, A83822 had actually once belonged to 上海交运巴士客运（集团）有限公司 (“JB”).8  However, the 上海市
-
-
-公安局交通警察总队车管所 (the “Traffic Administrator”) had previously canceled the license plate.  Thus, this license 
-plate is no longer in use.   
- 
-Appendix A provides the official documentation of these facts with seals from the Traffic Administrator. 
- 
-We became aware of the possibility that the license plate numbers were fabricated when we showed the purported 
-numbers to one of our operations contacts at JB.  He told us that the plate numbers could not be correct because JB had 
-retired all, perhaps save for “one or two”, license plates with a single letter “A” in the plate number; and, further that it 
-had sold the buses that formerly had such plates.  He stated that the retirement process had begun in 2006 or 2007. 
-Shanghai used to issue license plates in alphabetical sequence.  License plates with a single letter “A” – i.e., no additional 
-letters contained in the license plate number – are among the oldest plates issued in Shanghai.  Thus the operations contact 
-immediately knew that any buses with such a license plate number were too old to be in the current fleet. 
- 
-Chairman Cheng’s statements are false. 
+Source: “Cowen & Co. Technology, Media, and Telecom Conference 2018,” Accessed via Bloomberg LP
+Page 29 of 33 
  
 
 
-                                                        
-8 Infra FN 9.
-7 
+Appendix E – Insider Sales 
 
 
-IV.  CCME’s Largest Purported Operator Relationship Still Does Not Exist 
+
+
+
+CEO Rick Calder       
+
+
+Date Net Sales Net Buys Close Price Net Proceeds 
+
+
+1/3/17 -10,000 0 $27.75 $277,500.00 
+
+
+2/1/17 -10,000 0 $27.90 $279,000.00 
+
+
+3/1/17 -10,000 0 $28.20 $282,000.00 
+
+
+4/3/17 -10,000 0 $23.55 $235,500.00 
+
+
+5/1/17 -10,000 0 $28.00 $280,000.00 
+
+
+6/1/17 -10,000 0 $33.55 $335,500.00 
+
+
+7/3/17 -10,000 0 $31.20 $312,000.00 
+
+
+8/1/17 -10,000 0 $30.35 $303,500.00 
+
+
+9/1/17 -10,000 0 $31.60 $316,000.00 
+
+
+10/2/17 -10,000 0 $32.45 $324,500.00 
+
+
+11/1/17 -10,000 0 $36.30 $363,000.00 
+
+
+12/1/17 -10,000 0 $39.55 $395,500.00 
+
+
+1/12/18 -6,000 0 $43.60 $261,600.00 
+
+
+2/15/18 -6,000 0 $46.65 $279,900.00 
+
+
+3/15/18 -6,000 0 $60.10 $360,600.00 
+
+
+4/16/18 -6,000 0 $49.65 $297,900.00 
+
+
+5/15/18 -6,000 0 $50.10 $300,600.00 
+
+
+6/15/18 -6,000 0 $50.35 $302,100.00 
+
+
+7/16/18 -6,000 0 $46.45 $278,700.00 
+
+
+8/16/18 -2,206 0 $40.00 $88,240.00 
+
+
+2/4/19 -7,545 0 $26.95 $203,337.75 
+
+
+2/19/19 -1,200 0 $30.60 $36,720.00 
+
+
+2/21/19 -1,107 0 $31.05 $34,372.35 
+
+
+2/25/19 -3,234 0 $32.04 $103,617.36 
+
+
+4/10/19 -1,321 0 $40.00 $52,840.00 
+
+
+5/3/19 -4,860 0 $42.36 $205,869.60 
+
+
+5/20/19 -1,757 0 $25.75 $45,242.75 
+
+
+5/22/19 -1,533 0 $26.32 $40,348.56 
+
+
+5/28/19 -1,160 0 $25.22 $29,255.20 
+
+
+Totals -187,923 0 $35.26 $6,625,243.57
+Page 30 of 33 
  
-CCME had to fabricate the previously discussed Shanghai Ba Shi license plates because CCME does not actually have a 
-relationship with its largest purported inter-city bus operator, Shanghai Ba Shi.  The following items prove that the 
-Shanghai Ba Shi relationship does not exist: 
 
 
-• The Sales Presentation we received with the advertiser kit, which resulted in the recorded fraud admission by 
-CCME’s sales representative (discussed in Part II), shows only 296 buses in Shanghai.  This is far less than the 
-1,892 buses CCME claims to have under contract with Shanghai Ba Shi. 
 
 
-• We had approximately five hours of meetings with officials ranging from station level operations personnel, to 
-top company managers at headquarters, of the Shanghai Ba Shi entity that operates the group’s inter-city buses.  
-We received confirmation at each level that CCME has not placed its hardware on Shanghai Ba Shi inter-city 
-buses. 
+
+General Counsel & EVP Chris McKee 
 
 
-• We shot a mini documentary of Shanghai Ba Shi inter-city buses along with driver interviews that show CCME 
-has placed no content or hardware on Shanghai Ba Shi inter-city buses. 
+Date Net Sales Net Buys Close Price Net Proceeds 
 
 
+1/3/17 -7,000 0 $27.75 $194,250.00 
+
+
+2/1/17 -7,000 0 $27.90 $195,300.00 
+
+
+3/1/17 -7,000 0 $28.20 $197,400.00 
+
+
+4/3/17 -7,000 0 $23.55 $164,850.00 
+
+
+5/1/17 -7,000 0 $28.00 $196,000.00 
+
+
+6/1/17 -7,000 0 $33.55 $234,850.00 
+
+
+7/3/17 -7,000 0 $31.20 $218,400.00 
+
+
+8/1/17 -7,000 0 $30.35 $212,450.00 
+
+
+8/7/17 -830 0 $31.80 $26,394.00 
+
+
+9/1/17 -7,000 0 $31.60 $221,200.00 
+
+
+10/2/17 -7,000 0 $32.45 $227,150.00 
+
+
+11/1/17 -7,000 0 $36.30 $254,100.00 
+
+
+12/1/17 -7,000 0 $39.55 $276,850.00 
+
+
+1/12/18 -7,000 0 $43.60 $305,200.00 
+
+
+2/15/18 -7,000 0 $46.65 $326,550.00 
+
+
+3/15/18 -7,000 0 $60.10 $420,700.00 
+
+
+4/16/18 -7,000 0 $49.65 $347,550.00 
+
+
+5/15/18 -7,000 0 $50.10 $350,700.00 
+
+
+6/15/18 -7,000 0 $50.35 $352,450.00 
+
+
+7/16/18 -7,000 0 $46.45 $325,150.00 
+
+
+8/16/18 -2,211 0 $40.00 $88,440.00 
+
+
+9/20/18 -7,000 0 $45.15 $316,050.00 
+
+
+2/4/19 -4,401 0 $26.95 $118,606.95 
+
+
+2/19/19 -515 0 $30.60 $15,759.00 
+
+
+2/21/19 -667 0 $31.05 $20,710.35 
+
+
+2/25/19 -1,720 0 $32.04 $55,108.80 
+
+
+3/6/19 -5,204 0 $29.84 $155,287.36 
+
+
+4/10/19 -371 0 $40.00 $14,840.00 
+
+
+5/3/19 -2,642 0 $42.36 $111,915.12 
+
+
+5/20/19 -780 0 $25.75 $20,085.00 
+
+
+5/22/19 -954 0 $26.32 $25,109.28 
+
+
+5/28/19 -638 0 $25.22 $16,090.36 
+
+
+Totals -160,933 0 $37.32 $6,005,496.22
+Page 31 of 33 
  
-Background 
+
+
+
+
+
+CFO Mike Sicoli 
+
+
+Date Net Sales Net Buys Close Price Net Proceeds 
+
+
+2/4/19 -4,857 0 $26.95 $130,896.15 
+
+
+2/19/19 -570 0 $30.60 $17,442.00 
+
+
+2/21/19 -531 0 $31.05 $16,487.55 
+
+
+2/25/19 -1,902 0 $32.04 $60,940.08 
+
+
+4/15/19 -419 0 $41.71 $17,476.49 
+
+
+5/3/19 -2,778 0 $42.36 $117,676.08 
+
+
+5/20/19 -833 0 $25.75 $21,449.75 
+
+
+5/22/19 -727 0 $26.32 $19,134.64 
+
+
+5/28/19 -681 0 $25.22 $17,174.82 
+
+
+Totals -13,298 0 $31.48 $418,677.56
+Page 32 of 33 
  
-Whether as a result of confusion, or to cause it, neither CCME, Chairman Cheng, nor the Luo Report correctly refer to the 
-Shanghai Ba Shi entity that operates the group’s inter-city buses.9  The only entity10 that operates Shanghai Ba Shi inter-
-city buses is 上海交运巴士客运（集团）有限公司 (“Jaioyun Ba Shi” or “JB”). (More information on the entire Ba Shi 
-group, including JB, is available at the group’s website: www.84000.com.cn.  JB’s site, which links directly to the 
-aforementioned group site through the button that reads “Inter-city passenger transport” (“长途客运”), is 
-http://61.152.242.65/cygs/servlet/Srv?action_code=frontMenuToIndex&webSiteMemberId=1007.)  
+
+
+Financial Disclaimer  
+
+
+Please be advised that WPR,LLC, Wolfpack Research (WPR) is a research and publishing firm, of 
+
+
+general and regular circulation, which falls within the publisher’s exemption to the definition of an 
+
+
+“investment advisor” under Section 202(a)(11)(A) – (E) of the Securities Act (15 U.S.C. 77d(a)(6) (the 
+
+
+“Securities Act”).  WPR is not registered as an investment advisor under the Securities Act or under any 
+
+
+state laws.  None of our trading or investing information, including the Content, WPR Email, Research 
+
+
+Reports and/or content or communication (collectively, “Information”) provides individualized trading or 
+
+
+investment advice and should not be construed as such. Accordingly, please do not attempt to contact 
+
+
+WPR, its members, partners, affiliates, employees, consultants and/or hedge funds managed by partners 
+
+
+of WPR (collectively, the “WPR Parties”) to request personalized investment advice, which they cannot 
+
+
+provide.  The Information does not reflect the views or opinions of any other publication or newsletter. 
+
+
+We publish Information regarding certain stocks, options, futures, bonds, derivatives, commodities, 
+
+
+currencies and/or other securities (collectively, “Securities”) that we believe may interest our Users.  The 
+
+
+Information is provided for information purposes only, and WPR is not engaged in rendering investment 
+
+
+advice or providing investment-related recommendations, nor does WPR solicit the purchase of or sale of, 
+
+
+or offer any, Securities featured by and/or through the WPR Offerings and nothing we do and no element 
+
+
+of the WPR Offerings should be construed as such.  Without limiting the foregoing, the Information is not 
+
+
+intended to be construed as a recommendation to buy, hold or sell any specific Securities, or otherwise 
+
+
+invest in any specific Securities. Trading in Securities involves risk and volatility. Past results are not 
+
+
+necessarily indicative of future performance. 
+
+
+The Information represents an expression of our opinions, which we have based upon generally available 
+
+
+information, field research, inferences and deductions through our due diligence and analytical processes.  
+
+
+Due to the fact that opinions and market conditions change over time, opinions made available by and 
+
+
+through the WPR Offerings may differ from time-to-time, and varying opinions may also be included in 
+
+
+the WPR Offerings simultaneously.   To the best of our ability and belief, all Information is accurate and 
+
+
+reliable, and has been obtained from public sources that we believe to be accurate and reliable, and who 
+
+
+are not insiders or connected persons of the applicable Securities covered or who may otherwise owe any 
+
+
+fiduciary duty or duty of confidentiality to the issuer.  However, such Information is presented on an “as 
+
+
+is,” “as available” basis, without warranty of any kind, whether express or implied. WPR makes no 
+
+
+representation, express or implied, as to the accuracy, timeliness or completeness of any such Information 
+
+
+or with regard to the results to be obtained from its use. All expressions of opinion are subject to change 
+
+
+without notice, and WPR does not undertake to update or supplement any of the Information. 
+
+
+The Information may include, or may be based upon, “Forward-Looking” statements as defined in the 
+
+
+Securities Litigation Reform Act of 1995.  Forward-Looking statements may convey our expectations or 
+
+
+forecasts of future events, and you can identify such statements: (a) because they do not strictly relate to 
+
+
+historical or current facts; (b) because they use such words such as “anticipate,” “estimate,” “expect(s),” 
+
+
+“project,” “intend,” “plan,” “believe,” “may,” “will,” “should,” “anticipates” or the negative thereof or 
+
+
+other similar terms; or (c) because of language used in discussions, broadcasts or trade ideas that involve 
+
+
+risks and uncertainties, in connection with a description of potential earnings or financial performance. 
+
+
+There exists a variety of risks/uncertainties that may cause actual results to differ from the Forward-
+
+
+Looking statements. We do not assume any obligation to update any Forward-Looking statements 
+
+
+whether as a result of new information, future events or otherwise, and such statements are current only as 
+
+
+of the date they are made.
+Page 33 of 33 
  
 
 
-                                                        
-9 CCME’s CTR reports refer to the entity in question as “Shanghai Ba-Shi (Group) Industrial Co. Ltd.”  See 
-http://www.cCCME.tv/eng/pns/intercitybus_02.pdf.  Chairman Cheng’s letter refers to it as “上海巴士实业（集团）股份有限公司, 
-which appears to refer to the same entity, Shanghai Ba Shi (Group) Industrial Co. Ltd.  However, this entity is listed on the Shanghai 
-Stock Exchange (600741), and changed its name to Hua Yu Automotive Systems Co. Ltd.  Importantly, its business appears to be 
-automotive parts, and not operating transportation; however, it likely has an equity stake in JB.  The Luo Report calls the entity 
-Shanghai Ba-Shi Public Transportation Group Co. Ltd., which appears to refer to 上海巴士公交（集团）有限公司.  This entity only 
-operates intra-city buses. 
-10 For purposes of this discussion, “entity” includes JB’s subsidiaries.
-8 
+You acknowledge and agree that use of WPR Information is at your own risk. In no event will WPR or 
 
 
-Sales Presentation 
- 
-We received a Sales Presentation titled “China MediaExpress Pricing (Nationwide)” from the CCME sales representative.  
-The Sales Presentation shows the number of buses by province and certain cities, including Shanghai.  Below is the page 
-from the presentation that shows the number of buses CCME has in Shanghai.  It shows only 296 buses, which is far 
-fewer buses than the 1,892 CCME claims to have under its Shanghai Ba Shi relationship.  We include the complete 
-presentation as Appendix B.  
- 
+any affiliated party be liable for any direct or indirect trading losses caused by any Information featured 
 
 
- 
-The Sales Presentation shows 12,358 buses under contract nationwide – this is slightly fewer than what the spreadsheets 
-in the Report show.  Significantly, the Sales Presentation is the second version the salesperson sent us.  The first version 
-stated that there were approximately 1,600 buses under contract in Shanghai.  Upon receiving the first presentation, we 
-pointed out via instant messenger the inconsistency with the 296 buses in the spreadsheet.  (Most dialogue with the 
-salesperson took place through instant messenger.)  In response, the salesperson wrote: 
- 
+by and through the WPR Offerings.  You agree to do your own research and due diligence before making 
 
 
-“Sorry, there are 296 vehicles in Shanghai.  I made a mistake about the number.  I'll quote another price.”
-8 
+any investment decision with respect to Securities featured by and through the WPR Offerings. You 
 
 
-Following the above exchange, the salesperson sent over the presentation shown above and in Appendix B.  It shows only 
-296 buses in Shanghai.   
- 
-JB Meetings 
- 
-We had approximately five hours of meetings with JB officials ranging from station level operations personnel to top 
-company managers at its headquarters.  The following summarizes the information we received during our meetings: 
+represent to WPR that you have sufficient investment sophistication to critically assess the Information. If 
 
 
-• None of the four JB representatives had ever heard of CCME – not by the name of CCME’s operating company 
-nor its trade name.  Earlier in the discussions, another Ba Shi contact (not from JB) telephoned in our presence a 
-division manager of the advertising arm of the Ba Shi group (which is a different entity than JB).  The advertising 
-division manager also stated that he had never heard of the company nor its trade name.  Thus, none of four JB 
-people with extensive operations knowledge, nor the Ba Shi advertising division manager, were familiar in any 
-way with CCME. 
+you choose to engage in trading or investing that you do not fully understand, we may not advise you 
 
 
-• JB has only around 800 buses, all of which are inter-city.  The entire Shanghai Ba Shi group has approximately 
-2,000 buses, including intra-city, charter, and JB’s buses.  The above mentioned website for JB also states that it 
-has approximately 800 inter-city buses.  Assuming that a contract did exist, this number contradicts the 1,892 
-cited by CCME, Chairman Cheng, and the Luo Report. 
+regarding the applicable trade or investment.  We also may not directly discuss personal trading or 
 
 
-• JB only authorizes televisions produced by each bus’s manufacturer (e.g., King Long) and certain approved 
-aftermarket vendors, which does not include CCME, to be placed on its buses. 
+investing ideas with you. The Information made available by and through the WPR Offerings is not a 
 
 
- 
-Video 
- 
-We filmed a mini documentary of JB inter-city buses and drivers.  The video is available at: 
-http://www.youtube.com/watch?v=-COZ5l9ayzM  
- 
-The footage shows: 
+substitute for professional financial advice. You should always check with your professional financial, 
 
 
-• Prior to the Shanghai 2010 World Expo, the JB buses had standard DVD players for showing movies. 
-• The Shanghai government gave JB hard drive controllers for the Expo.  The controllers show Expo content and 
+legal and tax advisors to be sure that any Securities, investments, advice, products and/or services 
 
 
-Expo ads.  They do not show content or ads provided by CCME or other parties. 
-• The manufacturer of the hard drive controllers is Inspur, which is a different company than CCME’s exclusive 
+featured by and through the WPR Offerings, as well as any associated risks, are appropriate for you.   
 
 
-supplier, Zhejiang Yusong (which CCME’s filings erroneously refer to as Hangzhou Yusong).11 
-• The drivers can choose whether to turn on the controllers and TVs.  Because passengers like to sleep on the buses, 
+You further agree that you will not distribute, share or otherwise communicate any Information to any 
 
 
-at least one driver generally keeps the equipment off. 
-• Coca-Cola (one of CCME’s purported top advertisers) and similarly large companies have not shown ads on JB 
+third-party unless that party has agreed to be bound by the terms and conditions set forth in the 
 
 
-buses. 
-• The controllers are supposed to be removed, and replaced with DVD players. 
+Agreement including, without limitation, all disclaimers associated therewith.  If you obtain Information 
 
 
- 
-The below are recent still photographs of a JB inter-city bus. 
- 
-                                                        
-11 CCME December 31, 2009 Form 10-K, p. 18.
-10 
+as an agent for any third-party, you agree that you are binding that third-party to the terms and conditions 
 
 
- 
-JB inter-city bus. Note the “JB” logo, which is on the sides of the buses shown in the video. 
+set forth in the Agreement. 
 
 
- 
-King Long CRT television (the bus manufacturer) – not CCME / Yusong LCD.
-11 
+Unless otherwise noted and/or explicitly disclosed, you should assume that as of the publication date of 
 
 
+the applicable Information, WPR (along with or by and through any WPR Party(ies)), together with its 
 
 
+clients and/or investors, has an investment position in all Securities featured by and through the WPR 
 
- 
-No CCME controller. There is a media control box manufactured by Inspur in the dashboard. (For more information, see 
-http://www.inspur.com/Products/images_numeric/2010/6/12/56BA53E357CB41CB9AC8C83169492BC8.pdf).  CCME’s 
-exclusive hardware supplier is Zhejiang Yusong (supra p. 8).  The Shanghai government provided JB with the Inspur 
-controllers in order to show Expo-related content.
-Page  
 
+Offerings, and therefore stands to realize significant gains in the event that the price of such Securities 
 
-12 
 
+change in connection with the Information.  We intend to continue transacting in the Securities featured 
 
-Appendix A 
-Traffic Administrator documents
-Page  
 
+by and through the WPR Offerings for an indefinite period, and we may be long, short or neutral at any 
 
-13 
 
-
-Appendix B 
-Sales Presentation
-高速有多长 品牌就传多远
-
-
-中国高速频道城际巴士车载电视
-广告投放方案
-高速有多长 品牌就有多远高速有多长 品牌就有多远
-
-
-!   全国广告投放费用:
-
-
-投放
-
-
-城市
-
-
-广告
-
-
-规格
-
-
-发布
-
-
-车辆(部)
-
-
-广告
-
-
-时段
-
-
-刊例价
-万元/月
-
-
-车辆
-
-
-基数
-
-
-优惠
-
-
-折扣
-
-
-实收价格
-
-
-(元/ 月）
-
-
-四川 15秒 1039 A段 13.5 ／ 4.5折 60750元
-重庆 15秒 750 A段 14.5 0.7
-
-
-4.5折 45675元
-
-
-江苏 15秒 2901 A段 16.6 2
-4.5折 149400元
-
-
-福建 15秒 1564 A段 10.8 1.5
-4.5折 72900元
-
-
-广东 15秒 1532 A段 19.6 1.5
-4.5折 132300元
-
-
-湖北 15秒 1087 A段 13.5 ／ 4.5折 60750元
-
-
-青岛（山东
-省）
-
-
-15秒 750 A段 15.3 0.7
-4.5折 48195元
-
-
-合肥（安徽
-省）
-
-
-15秒 338 A段 12.8 0.3
-4.5折 18280元
-高速有多长 品牌就有多远高速有多长 品牌就有多远
-
-
-投放
-
-
-城市
-
-
-广告
-
-
-规格
-
-
-发布
-
-
-车辆(部)
-
-
-广告
-
-
-时段
-
-
-刊例价
-元/月
-
-
-车辆
-
-
-基数
-
-
-优惠
-
-
-折扣
-
-
-实收价格
-
-
-(元/ 月）
-
-
-浙江 15秒 127 A段 16.6 0.1 4.5折 7470元
-
-
-上海 15秒 296 A段 21.0 0.2
-4.5折
-
-
-18900元
-
-
-江西 15秒 182 A段 9.9 0.1
-4.5折
-
-
-4455元
-
-
-北京 15秒 548 A段 19.6 0.5
-4.5折
-
-
-44100元
-
-
-天津 15秒 760 A段 16.6 0.7
-4.5折
-
-
-52290元
-
-
-河北 15秒 321 A段 15.3 0.3
-4.5折
-
-
-20655元
-
-
-江西 15秒 163 A段 10.8 0.1
-4.5折
-
-
-4860元
-
-
-!  全国广告投放费用:
-高速有多长 品牌就传多远
-
-
-!  特别支持
-
-
-
-
-
-1、买一赠一”活动
-     ① 即买一个时段15秒赠送另一个时段15秒 实播两个时段。
-
-
-     ②即买一个月15秒赠送另一个月15秒 实做一个月送一个月。  
-          注: 单时段: 每车每小时播一次广告，
-
-
-               双时段：每车每小时播两次广告 
- 
-2、投播全国赠送：
-
-
-      转场冠名广形式为投放方式：如*****提醒您精彩稍后继续   （排在常规     
-广告前，增加品牌关注度）
-
-
-3、折上折：
-       投播全国地区的可在刊例折后的基础上再予以8折支持优惠。
-高速有多长 品牌就有多远高速有多长 品牌就有多远
-
-
-感谢您的关注,
-
-
-真诚希望能够与贵司携手开拓市场,
-
-
-实现共赢！
-
-
-                      并祝
-
-
-                          商祺!
-Page 
-14 
-
-
-Appendix C 
-Telephone call transcript
-Page  
-
-
-15 
-
-
-(The conversation has already been in progress for about two minutes before the recording started.  The parties had 
-discussed in prior QQ conversations that CCME is listed in the United States.) 
-… 
-
-
-Analyst: You want me to talk to my manager?  What do you want me to say?  What’s the situation? 
-CCME Rep: If you can, can you just tell him that the quoted proposal is for particular bus lines? 
-Analyst: Talk to my manager?  But the manager who worked on this project and I are no longer working for the 
-
-
-company.  Does it still make sense to talk with him? 
-CCME Rep: Oh, he also left this company? 
-Analyst: Yes. I could call him, but…  Sorry, I want to help you – I don’t want to cause you any trouble.  So could 
-
-
-you please explain the situation to me? 
-CCME Rep: The situation is just what I’ve told you.  Say for example we have 1,000 vehicles, 1,000 is the number 
-
-
-we quote to outsider.  But I have only quoted 500 vehicles to you, because these 500 vehicles are already signed with 
-contracts and installed with devices.  The other 500 vehicles don’t have devices installed, so the number I quoted to you is 
-the actual number, installed with devices, but our company has asked us to claim based on 1,000 vehicles. 
-
-
-Analyst: Ok, I see, but what’s the relationship to your quoted price? 
-CCME Rep: There are some conflicts.  For example… 
-Analyst: You’ve told me at the time that the base number is 1,000 vehicles to start – that’s to say 1,000 is the base 
-
-
-number.  It doesn’t matter if you need 500 vehicles, or 1,000 vehicles, or 100 vehicles.  They’re all based on the base 
-number of 1,000.  What’s that have to do with whether the devices are installed or not?   
-
-
-CCME Rep: When we reported the details to the stock market regulator, we didn’t report the number of vehicles we 
-quoted you.  The number we reported is multiplied by two, or doubled.  Do you understand now? 
-
-
-Analyst: What’s the relationship between the price you quoted me and the stock market regulator? I’m really 
-confused. 
-
-
-CCME Rep: You don’t understand, do you? 
-Analyst: No, I don’t understand. The proposal you provided to me isn’t some confidential business information.  
-
-
-What’s the relationship between your proposal and the stock market regulator? 
-CCME Rep: Because we’re a public company, we must meet the number of vehicles, and we’ve only installed 
-
-
-devices on some of the vehicles, and some vehicles aren’t installed with devices.  The number of vehicles we’ve claimed 
-to the public is the total number, but the number we gave you is the vehicles installed with devices.  So there are some 
-conflicts. 
-
-
-Analyst: Ok, I see. 
-CCME Rep: What really happened is that the number I told you is the actual number, and not the number we’ve 
-
-
-reported to the market regulator.  What we’ve reported to the market regulator is the number under contract.  The number 
-I’ve given you is contracted with devices installed.  
-
-
-Analyst: I see.  And what do you want me to do to help you? 
-CCME Rep: There’s nothing you can help me with right now. 
-Analyst: Does your company know that it’s you? 
-CCME Rep: I have one question.  Have you told your colleagues I’m the person you contacted? 
-Analyst: No.  I’m the only person communicating with you from my company.  In my company, the person initially 
-
-
-in charge of something is responsible until it finishes. When you wanted to meet with my manager, he asked me to 
-communicate with you and make sure everything is ok through the finish.  Therefore, I’d be your only contact the entire 
-time.
-Page  
-
-
-16 
-
-
-CCME Rep: That’s good.  If there are people checking with you about me, then just tell them you don’t know me. 
-Analyst: ok, and actually those who were working on this matter have already left the company with my boss. There 
-
-
-are only two or three still staying in that company.  I’m not sure if they’re the people who passed out the information.  But 
-they don’t know you, and I’ve never mentioned you. 
-
-
-CCME Rep: I was so surprised. The auditors who came to investigate are so sharp.  They have the same proposal I 
-sent you before. 
-
-
-Analyst: Have you given the same proposal to other customers？ 
-CCME Rep: Yes, we just…  
-Analyst: I mean, the proposal wasn’t necessarily from you.  Is it possible your colleague sent it out? 
-CCME Rep: Eh…I’m quite sure this proposal is mine because I know the proposal I made, and I can tell clearly. 
-Analyst: Ok. 
-CCME Rep: I’m afraid that the auditors might know some people from your company. They’re very good.  They’ll 
-
-
-keep on asking question until they get to the point. 
-Analyst: So you’ve been audited by the auditing firm? 
-CCME Rep: Yes, but of course I didn’t admit that I did this proposal.  But what happened is very serious in my 
-
-
-company.  They’re searching QQ.  I remember I’ve sent it to you on QQ.  I’m in trouble. 
-Analyst: Delete it from your QQ 
-CCME Rep: But I’m home now. There shouldn’t be anything on QQ because our hard drives have been replaced at 
-
-
-that time.  
-Analyst: You mean your company has replaced the hard drives? 
-CCME Rep: My computer’s.  
-Analyst: Oh, I see. Then you’ll be ok. 
-CCME Rep: The problem is that they may find it in the server.  I feel so bad…. 
-Analyst: I don’t think they’re able to investigate me.  Are they able to find out who I am? 
-CCME Rep: I don’t know. They might find your QQ, or they might talk with you.  Just tell them you don’t know 
-
-
-whom you’ve been in contacted with?  Anyway, anything about China MediaExpress, please just don’t mention me. 
-Analyst: Ok, don’t worry.  I won’t talk about you, and also I’ve left that company already. 
-CCME Rep: You say you’ve left that company, but you’re still working for the old boss? 
-Analyst: Yes, but the company that was going to hire you doesn’t exist anymore. 
-CCME Rep: You mean that the company doesn’t exist anymore? 
-Analyst: No, the company still exists, but the people who used to work on this matter don’t work there anymore.  So 
-
-
-if the auditing firm finds the company, there’s nobody there who knows what’s going on. 
-CCME Rep: Is it possible that any of your colleagues have passed on the proposals? 
-Analyst: All of them have this proposal because I sent it out to them before the meeting so they can prepare.  The 
-
-
-chance of leakage from my sources is very slight. 
-CCME Rep: Maybe not possible, but maybe they found out from the managers who were at the meeting. 
-Analyst: I don't know, maybe the computers in your company were hacked? 
-CCME Rep: Really? 
-Analyst: I don’t know, but anything’s possible. 
-CCME Rep: It’s lucky that I didn’t leave my number on the proposal. 
-Analyst: If someone calls me asking about you, I’ll definitely tell them I don’t know.  Don’t worry, the chances are 
-
-
-very low.
-Page  
-
-
-17 
-
-
-CCME Rep: Ok. 
-Analyst: If there’s something you need help with, you can always call me. 
-CCME Rep: Please tell the manager to not pass out this proposal to anyone else. 
-Analyst: Ok, actually the proposal isn’t useful to us now.  Just as I told you yesterday – this matter won’t move 
-
-
-forward.  So don’t worry, and I’ll tell them to delete it.  We don’t keep things that we’re not using.  
-CCME Rep: How many people were at the meeting? 
-Analyst: Maybe seven or eight, and not all of us have this proposal.  Each person on our team handles different 
-
-
-things.  Some focused on Bus Online, some are in charge of China MediaExpress, and some are in charge of other media 
-companies.  For example, my colleague got the proposal from Bus online.  He’ll email it to me, and of course I’ll email 
-your proposal to him as well.  And our company isn’t big, there are only a few who know about this. 
-
-
-CCME Rep: Maybe the auditing firm was asking around and found your company? 
-Analyst: Most people in my company don’t know about this. Even if the auditing company asks them, they’ll have no 
-
-
-idea. The people who were working on this case have left that company, and I’ll tell my colleagues and manager to keep 
-quiet. 
-
-
-CCME Rep: Tell them that the vehicles we quoted before are all for particular lines. That is yet. 
-Analyst: Ok.  
-CCME Rep: Well, thank you. 
-Analyst: Don’t worry, nothing will happen. 
-CCME Rep: Thanks, Bye
-Page  
-
-
-18 
-
-
-Appendix D 
-Chairman Cheng’s letter
-! ! ! ! ! ! ! ! ! ! ! ! !
-!
-"#!$%&!'()&*(#+,*&-!).,!/&0*.,-1!
-!
-
-
-"#!"$$"%&!'(!
-)*+,$!)-..-,)!$*"$!%"/)-0!1+."$2.-!)32#4)!2#!2$)!)$+%&!5,2%-6! ! 7"#"4-8-#$!"#0!9
-:+",0!+;!<2,-%$+,)!",-!&--#.(!"3",-!+;!$*-2,!,-)5+#)2'2.2$(!$+!5,+$-%$!+/,!2#1-)$+,)!
-;,+8!$*-)-!,-%&.-))!"#0!'")-.-))!"$$"%&)!"#0=!"%%+,02#4.(=!$*-!9+85"#(
-"/$*+,2>-0!$*-!-#4"4-8-#$!+;!+/$)20-!%+/#)-.!"#0!+$*-,!%+#)/.$"#$)!$+!"012)-!2$!
-32$*!,-4",0!$+!"55,+5,2"$-!%+/#$-,8-")/,-)6!
-!
-?+!".."(!$*-!%+#%-,#)!+;!$*+)-!)*",-*+.0-,)!3*+!*"1-!,-"0!$*-!'.+4!5+)$)!+;!$*-!
-)*+,$!)-..-,)!"#0!3+#0-,-0!2;!$*-,-!2)!"#(!'")2)!$+!$*-2,!)$"$-8-#$)=!8"#"4-8-#$!*")!
-5,+120-0!'-.+3!"!5,-.282#",(!,-12-3!+;!$*-!;"%$/".!2#"%%/,"%2-)!"#0!82).-"02#4!
-2##/-#0+!-85.+(-0!'(!$*-)-!'.+44-,)!;+,!$*-2,!)-.;@'-#-;2$6!
-!
-
-
-!
-!
-A#!B"#/",(!CD=!EFDD=!92$,+#!G-)-",%*!5/'.2)*-0!"!,-5+,$!-#$2$.-0! ?*-!9*2#"!G-1-,)-!
-7-,4-,!)$+ 6 ! A#!H-',/",(!D=!EFDD=!:,+#$-!9"52$".!
-
-
-6 ! ! A#!H-',/",(!C=!
-EFDD=!7/00(!I"$-,)!
-,-%+88-#0"$2+#6! ! J"%*!+;!$*-)-!,-5+,$)!8"&-)!%-,$"2#!"..-4"$2+#)!"'+/$!9*2#"!
-
-
-=!".$*+/4*!#+#-!+;!
-$*-! 32$*!8"#"4-8-#$!+;!997J!
-+,=!$+!+/,!&#+3.-04-=!5-,;+,8-0!"#(!8-"#2#4;/.!0/-!02.24-#%-!+#!$*-!9+85"#(!+,!
-)+/4*$!$+!0-1-.+5!"!,24+,+/)!;2#"#%2".!8+0-.!+;!2$)!'/)2#-))!2#!$*-!8"##-,!"#(!I"..!
-K$,--$!,-)-",%*!"#".()$!3+/.06! ! I-!*"1-!-1-,(!,-")+#!$+!'-.2-1-!$*"$!-"%*!+;!$*-)-!
-
-
-!"$!$*-!
--L5-#)-!+;!+/,!)$+%&*+.0-,)! !3*-#!$*-(!)/%%--0!2#!0,212#4!0+3#!$*-!5,2%-!+;!+/,!
-)$+%&6! ! ?*2)!%+#;.2%$!+;!2#$-,-)$!421-)!,2)-!$+!/#0-,)$"#0"'.-!0+/'$)!"'+/$!$*-2,!
-8+$21"$2+#!"#0!2#$-#$2+#)!"#0=!+;!%+/,)-=!$*-!+'M-%$212$(!"#0!.-42$28"%(!+;!$*-2,!
-,-5+,$)6 !
-!
-!
-?*-!8"##-,!2#!3*2%*!$*-!)*+,$!)-..-,)!)--8!$+!*"1-!$28-0!"#0!%++,02#"$-0!$*-2,!
-!"
-"
-
-
-#$$%&'(")*+,("-.'%"'/#-&"0*'-1+'#"('&+'#2,3" " 4,"0(-.2"'/#"+.%.,1-',"%$"'/#"-.'#&.#'"+.5"
-)06*-7-8-.2"+("1+.,"0.$%0.5#5"+**#2+'-%.("+("'/#,"7+."7&+$'9"'/#,"7+."1+:#"-'"*%%:"+("
--$"'/#&#"-("+"2&%0.5"(;#**"%$"7&-'-7-(1"+2+-.('"'/#"<%1)+.,";/#."-."&#+*-',"+**"'/#"
-7*+-1("#1#&2#"$&%1"+"(1+**"2&%0)"%$"(#*$=-.'#&#('#5")+&'-#(3" " >/#-&"0*'-1+'#")*+."-("
-.%'"+"7%1)*-7+'#5"%.#3" " ?("*%.2"+("'/#,"7+."5&-@#"5%;."'/#"('%7:")&-7#";/#."'/#"A3B3"
-1+&:#'("+&#"%)#."C#@#."-$"'/#&#"-("+"/%*-5+,"-."</-.+D"+.5"'/#."7%@#&"'/#-&"(/%&'"
-)%(-'-%."7/#+)*,"+.5"E0-7:*,9"'/#,"/+@#"+77%1)*-(/#5"'/#-&"2%+*3" " F'"5%#(".%'"'+:#"
-*%.2"$%&"'/#1"'%"1+:#"+")&%$-'"+'"'/#"#G)#.(#"%$"'/#"7%1)+.,"+.5"%'/#&"
-(/+&#/%*5#&(9")+&'-70*+&*,9"-$"+**#2+'-%.("+&#"1+5#";/-*#"60(-.#((#("-."</-.+"+&#"
-7*%(#53"
-"
->/#"<%1)+.,";-**"+7'-@#*,"&#(-('"'/#"#$$%&'("%$"'/#(#"(/%&'"(#**#&(3" " H-&('"+.5"
-$%&#1%('9"!"#$%&'()*+$%)!#,&-.%)//+$0#*.#1$!"#$)//#,)!.&*1$')0#$.*$
-!"#1#$(23/.%)!.&*14$ $ I#"+55&#(("6#*%;"'/#"1%('"(-2.-$-7+.'"7*+-1("1+5#"-."'/#(#"
-1+'#&-+*(" "+**"%$";/-7/"7%.'+-."*+&2#"$+7'0+*"#&&%&(3" " >%"'/#"#G'#.'"-'"-(".#7#((+&,9";#"
-;-**")&%@-5#"+"1%&#"7%1)&#/#.(-@#"&#()%.(#"+'"'/#"+))&%)&-+'#"'-1#3"
-"
-I#"+*(%".%'#"'/+'"'/#"+''+7:("+&#"7%.'-.0-.2"+.5";#"$0**,"#G)#7'"'%"7%.'-.0#"'%"/+@#"
-'%"'+:#"+))&%)&-+'#"7%0.'#&1#+(0&#(3"
-"
-
-
-$
-$
-)//#,)!.&*J">/#"<%1)+.,"-("+"$&+05"+.5"&#)%&'#5"&#@#.0#"-("#G+22#&+'#5"6,"'#.("%$"
-1-**-%.("%$"5%**+&(3"
-5)%!J">/#"<%1)+.,"-("('&%.2"+.5"5%-.2";#**3" " F'("&#@#.0#("+.5"7+(/")%(-'-%."/+@#"
-6##."+05-'#5"6,"&#)0'+6*#"+.5";#**=:.%;."+05-'%&(";/%"/+@#"7%.$-&1#5"6%'/3" " "
-$
-)//#,)!.&*
-<<KL"/+("*#(("'/+."/+*$"%$"'/#"60(#("0.5#&"7%.'&+7'"7%1)+&#5"'%"<<KL"
-&#)&#(#.'+'-%.(3"
-5)%!J"?("%$"'%5+,9"'/#"<%1)+.,"70&&#.'*,"/+("!M9!NN"60(#("0.5#&"7%.'&+7'9"+.5"-."
-+55-'-%."'%"%0&"&#20*+&"1%.'/*,"-.5#)#.5#.'"+05-'"+.5"@#&-$-7+'-%."6,"<>O"K+&:#'"
-O#(#+&7/" ";/-7/";#")#&$%&1"$%&"'/#"6#.#$-'"%$"%0&"+2#.'("+.5"70('%1#&("==";#";-**"
-#.2+2#"+")&%$#((-%.+*"'/-&5")+&',"'%"@#&-$,"'/+'"$+7'3" " ?*'/%02/"K055,"I+'#&("7*+-1("
-
-
-()&#+5"(/##'("'/+'"K055,"I+'#&("7*+-1("'%"7%1#"$&%1"%0&":-'9"'/+'"(-1)*,"-(".%'"'/#"
-7+(#3" " >/#"()&#+5"(/##'("%.";/-7/"K055,"I+'#&(")0&)%&'("'%"&#*,"C+D"5%".%'"*%%:"
-*-:#"%0&(9"C6D"+&#".%'"-."'/#"(+1#"$%&1+'"+("%0&(9"C7D"+))#+&"'%"/+@#"6##."+0'/%&#5"6,"
-!"
-"
-
-
-#$"%$&%'%&(#)"($*$+,$"-+"(."/0#.1&"+$"#"21'%1,"+3"-41"5&3"&+6(7
-.16-%+$8"-41"$#71"+3"-41"#(-4+2"&+1."$+-"#551#2"-+"01"#"$#71"+3"#$9"+3"+(2":4%$1.1"
-.-#33;8"#$&"7+.-"%75+2-#$-)9"/&;"&+"$+-"4#'1"-41".#71"%$3+27#-%+$"#."-41".521#&"
-.411-."-4#-"#21"%$6)(&1&"%$"+(2"#&'12-%.%$<"*%-=" " >1"+0'%+(.)9"&+"$+-"*$+,",4121"
-?(&&9">#-12.".+(261&"-4%."%$3+27#-%+$8"0(-",4#-",1"&+"*$+,"%."-4#-8"6+$-2#29"-+"
-,4#-"?(&&9">#-12.".#%&" %."$+-"-41".#71"#."+(2"
-#&'12-%.%$<"*%-=" "
-@41".521#&".411-.")%$*1&"-+"-41"?(&&9">#-12." 4#'1".%<$%3%6#$-"
-&%.6215#$6%1."32+7" 64#2-."
-%$&%6#-1A" " "
-"
-
-
-"
-"
-
-
-"
-+33%6%#)"#&'12-%.%$<"*%-"/.4+,%$<".+71"+3"-41".#71"
-
-
-0(.1.8",%-4".6211$"6+($-."#$&"1$-%21)9"&%33121$-".1B(1$6%$<;A"
-
-
-" "
-"
-?+21+'128"-41"$(7012."215+2-1&"09"?(&&9">#-12."#21"1$-%21)9"&%33121$-"32+7"-4+.1"
-#551#2%$<"%$"+(2"#&'12-%.%$<"*%-=" " >1"4#'1"-2%1&"-+"3%<(21"+(-"4+,"#$&",49"?(&&9"
->#-12."6+()&"4#'1"<+--1$"%-".+",2+$<8"0(-"+3"6+(2.1",1"&+"$+-"*$+,",4#-"-419"&%&=" "
->1"4#'1".+71"-41+2%1.8"0(-"-41"21#)%-9"%."-4#-"%-"%.",2+$<8"&2#7#-%6#))9".+="
-!"
-"
-
-
-
-
-
-"
-!""#$!%&'(
-#$%&'%&("
-)!*%)"*+,-"#./,0"1'.,'-"'%&,1'.2"$%"/%'#3$&/."'4,3'%#'("5%3'1"$61"#$%&1/#&-7"86-"
-$9'1/&$1-"/1'"%$&"/..$:'3"&$"1'0$4'"$61"9./2'1-"/%3"3,-9./2"#$%&'%&"%$&"91$4,3'3"82"
-$61"#$09/%2(" " ;61"0'3,/"9./2'1-"$9'1/&'"$%"/"+/13<31,4'"8/-'3"-2-&'0"&+/&",-"
-.$#='3(" " >'"+/4'"&/,.$1<0/3'"$61"0'3,/"9./2'1-"?:,&+"/"9/&'%&@"-$"&+/&",&",-"%'/1.2"
-,09$--,8.'"&$"9./2"#$%&'%&"$&+'1"&+/%"&+/&":+,#+":'"-699.2(" " *+'"#$%&'%&"$%"&+'"
-0'3,/"9./2'1-"#/%"$%.2"8'"693/&'3"82"AABC"$9'1/&$1-"/%3",-"&29,#/..2"693/&'3"$%"
-$61"#$%&1/#&'3"86-'-"&:,#'"/"0$%&+(" " D1,4'1-"/1'"%$&"/8.'"&$"-:,&#+"$EE"&+'"FAD"
--#1''%-"361,%G"&+'"&1,9(" " H%"E/#&7"&+'"-2-&'0"/6&$0/&,#/..2".$/3-"/%3"9./2-"&+'"
-#$%&'%&":+'%"&+'"86-"'%G,%'"-&/1&-"/%3"/6&$0/&,#/..2"-+6&-"3$:%":+'%"&+'"86-"
-'%G,%'",-"&61%'3"$EE(" " "
-"
-!""#$!%&'()"A*I"1'-'/1#+"1'9$1&-"/1'"
-0/%/G'0'%&(" " "
-)!*%)"A*I",-"/%",%3'9'%3'%&"/%3"4'12"1'96&/8.'"1'-'/1#+"91$4,3'1(" " J0$%G"$&+'1"
-&+,%G-7"A*I"6-'3"/"K6'-&,$%%/,1'"-614'2"&$"G/&+'1"8/-,#"3/&/"E1$0"86-"#$09/%,'-"
-/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"A$006%,#/&,$%(" " *+1$6G+"&+'"
-K6'-&,$%%/,1'7"A*I",-"/8.'"&$"K6/%&,E2"&+'"%608'1"$E"#$%&1/#&'3"4'+,#.'-7"FAD"
--#1''%-"/%3"0$%&+.2"-60"$E"9/--'%G'1-(" " H&"/.-$"$8&/,%'3"-&/&,-&,#/."3/&/"$E"
-/34'1&,-,%G",%",%&'1<#,&2"86-'-7"FAD"-#1''%-7"+/13"3,-="9./28/#="0$3'7"/%3"0$%&+.2"
--60"$E"9/--'%G'1-",%"&+'":+$.'"$E"A+,%/(" " J.."$E"&+,-"3/&/",-"91$4,3'3"82"&+,13"
-9/1&,'-" "&+'"86-"$9'1/&$1-"/%3"&+'"JL"A'%&'1"6%3'1"&+'"B,%,-&12"$E"
-A$006%,#/&,$%" "%$&"&+'"A$09/%2(" "
-"
-"
-!""#$!%&'( "/%3" "
-AABC"+/-"0,--&/&'3"&+'"%608'1"$E"86-'-",&"#$%&1/#&-":,&+"M',N,%G"J<'1<-+/"O/--'%G'1"
-
-
-<'1<-+/"O/--'%G'1"*1/%-9$1&/&,$%"
-"
-
-
-)!*% 7"P+/%G+/,"M6-"H%36-&1,/."Q1$69"A$(7"
-F&3(7!#$%&1/#&'3":,&+"6-",%"RSST"?/%3"%$:@"E$1"U7TVR"86-'-(" " >'"$84,$6-.2"#/%%$&"
-#$00'%&"$%":+2"B6332">/&'1-":$6.3"1'9$1&"$&+'1:,-'7"$&+'1"&+/%"/-"0'%&,$%'3"
-/8$4'"1'G/13,%G"&+'"6%=%$:%" "86&"&+'"#$%&1/#&"
-3$'-7",%"E/#&7"'W,-&"/%3"&+'2"/1'".,-&'3",%"$61"#611'%&"/34'1&,-'1"=,&("
-"
-!"
-"
-
-
-#$%&"'()"*+,,-"./')$0"$)1%$'2"
-"
-
-
-"
-"
-#$%&"%+$"%33454/6"/,7)$'40)$"84'"9%:6-"'()"34$0'"'($))";+0)0"%+'"%3"'()"<=>?@"'%'/6"/$)"
-0(%A:"4:"'()")B5)$1'C2"
-"
-
-
-"
-*+,,-"./')$0"/66)D)0"'(/'"4'"5%:'/5'),"$)1$)0):'/'47)0"%3"E60/"/:,"F4/:D"G%:D"E60/"
-'%"34:,"%+'"'(/'"'()-"%:6-"(/7)"@H";+0)0"/:,"IH";+0)0="$)01)5'47)6-J" " *+,,-"./')$0"
-
-
-"A);04')0"'%"0+11%$'"'(40"/66)D/'4%:J" "
-5'"A4'("/";+0"
-
-
-%1)$/'%$"%:";)(/63"%3"4'0)63"/:,"%'()$";+0"%1)$/'%$0J" " K3"5%+$0)"E60/"%$"F4/:D"G%:D"
-E60/"A%+6,":%'"&40$)1$)0):'"'%"'()"1+;645"'(/'"'()-"%1)$/')"&%$)";+0)0"'(/:"'()-",%="
-;+'":)4'()$"A%+6,"'()-"4:56+,)"/66"'()",)'/460"%3"'()4$"0+;5%:'$/5'4:D"/$$/:D)&):'0"
-$)D/$,4:D"/,7)$'404:D"&/'')$0"4:"'()4$"5%$1%$/')"A);04')J" " L(40"3/5'"/60%")B16/4:0"
-*+,,-"./')$0 ")B/DD)$/'),"5%:5)$:"%7)$"'()":+&;)$"%3"%1)$/'%$0"A)",%";+04:)00"
-A4'(" "4'"40"04&16-"'()"5/0)"'(/'"/'"/0"%3"M)5)&;)$"N<="@H<H"A)"(/,"04D:),"
-/D$))&):'0"A4'("%:6-"OH";+0"%1)$/'%$0";+'"'(/'"'(%0)"%1)$/'%$0"(/,"0+;5%:'$/5'4:D"
-/$$/:D)&):'0"A4'("&/:-"%'()$0"5%&1$404:D"'()"PP*Q":)'A%$8J!
-L()")B'$/%$,4:/$-",)3454):54)0"4:"*+,,-"./')$0 "4:56+,4:D"
-1$)0):'4:D"4:3%$&/'4%:"3%$"'()"A$%:D"5+0'%&)$="3/464:D"'%"4:7)0'4D/')"/:,"$)1%$'"
-1+;6456-"/7/46/;6)"4:3%$&/'4%:="/:,"3/464:D"'%"&/8)"3%66%AR+1"4:S+4$4)0"A4'("PP*Q" "
-:/'+$/66-"5/0'0",%+;'";%'("%:"'()4$"5/1/;464'4)0"/:,T%$"'()4$"%;U)5'474'-J" " "
-"
-"
-"##$%"&'() 4'%A"16/'3%$&J"
-*"+&2".)"04D:)," Q/,4:D"V$%+1="4:"
-M)5)&;)$"@H<HJ".)"):5%+$/D)"-%+="A():"4:"P(4:/="'%";+-"/:"4W/,"3$%&"'()&J" "
-"
-"##$%"&'() X+;V$)-(%+:,"M)&%D$/1(45 "
-*"+&2"K+$"'/$D)'"/+,4):5)"5%:040'0"%3"&)&;)$0"%3"(%+0)(%6,0"A4'("/;%7)R/7)$/D)"
-!"
-"
-
-
-#$%&'("&)"&*+",*-#($%("#.",/&*0"123"456778!5777"9(+"'&$0:;" " <:#."-('&=+,9:#%"#."
-
-
-,00+,%0#>("0&"0:(",->(+0#.(+."?#0:"?:&'"?(":,>("%&$0+,%0(-;" " @&'("&)"0:("=A&/,A"
-
-
-%&'9,$#(."0:,0",->(+0#.("&$"&*+"9A,0)&+'",+("B($&>&5"C:#$,"2&/#A(5"@#('($.5"<&D&0,"
-
-
-,$-"E(9.#;" "
-
-
-"
-
-
-!""#$!%&'()* ",$-"%(+0,#$"'(-#,"/*D(+."-&"$&0"F$&?"CC2G;*
-+!,%H"<:("%&'9,$#(."A#.0(-"#$"0:("2*--D"I,0(+."+(9&+0",+("$&0"#$"0:(".,'("#$-*.0+D"
-=+&*9",."CC2G;" " J2CK")&%*.(."&$"0:("%&''(+%#,A"+(,A"(.0,0(5"+(0,#A5"&*0-&&+"
-
-
-/#AA/&,+-5",$-"L$0(+$(0",->(+0#.#$="9A,0)&+'."#$"C:#$,;" " " M2CK"#."#$"0:(",#+9&+0",$-"
-
-
-,#+9A,$(".(='($0;" " NL@K",$-"3*."O$A#$(",+("#$"0:("#$0+,8%#0D"/*.".(='($0;"I(",+("
-
-
-0:("'(-#,"',+F(0"A(,-(+"#$"#$0(+%#0D",$-",#+9&+0"(P9+(.."/*.(."#$"C:#$,5",$-"0:(+(",+("
-
-
-$&"%&'9,+,/A("%&'9(0#0&+.5"(#0:(+"#$".#Q("&+"(P9(+#($%(;"
-
-
-" " "
-
-
-!""#$!%&'(H"<:("R77S"@MLC"+(>($*("-&(."$&0"',0%:"?#0:"&*+"@GC"+(9&+0(-")#$,$%#,A"
-+(.*A0.;"
-
-
-+!,%H" ?#0:"9(+0#$($0"@MLC"+*A(."
-,$-"9&A#%#(.;" " O*+"%&$.&A#-,0(-")#$,$%#,A"+(.*A0."+(9&+0(-"#$"0:("C&'9,$DT.",*-#0(-"
-
-
-)#$,$%#,A".0,0('($0.",+("9+(9,+(-"#$",%%&+-,$%("?#0:"U@"VMME;" " "
-
-
-"
-
-
-!""#$!%&'(H"CC2G":,."'#.A(-"#$>(.0&+."+(=,+-#$="=&>(+$'($0",99+&>,A"&)"#0."
-&9(+,0#&$." "
-
-
-"
-
-
-+!,%H"<:("/A&==(+.",+("9A,D#$="-#.#$=($*&*."?&+-"=,'(.;" " W&?(>(+"D&*"?,$0"0&"
-0+,$.A,0("0:("$,'("&)"0:(",99+&>,A5"0:("C&'9,$D":,."A*%+,0#>(",=+(('($0."
-
-
-0:+&*=:&*0"C:#$,"0:,0",+("9+&>#-#$=".0+&$="+(>($*(.")&+"0:("C&'9,$D",$-"#0."
-
-
-.:,+(:&A-(+.;" " <:#.",AA(=,0#&$"#.",$"(P,'9A("&)":&?"),+"0:("/A&==(+."?#AA"=&"0&"0+D"0&"
-
-
-%+(,0("0:("#AA*.#&$"0:,0"0:(+("#.".&'(0:#$="?+&$="?#0:"0:("C&'9,$D;" " CC2G":,."
-
-
--(9,+0'($0"*$-(+"0:("2#$#.0+D"&)"<+,$.9&+05"?:#%:":,."/#$-#$="())(%0"&$"0:("/*."
-
-
-&9(+,0&+.;" " I(":,>("',-(","%&9D"&)"0:#.",99+&>,A",>,#A,/A("&$"&*+"%&+9&+,0("
-
-
-?(/.#0(5"?:#%:"#$%A*-(."0:("+(A(>,$0"<<MNC"@(,A"X+(-".0,'9Y;" " I:,0"0:("/A&==(+."
-
-
-" "#."0:,0"0:#.",99+&>,A"#."$&0"A*%+,0#>(5"#'9&+0,$05"&+"
-
-
-($)&+%(,/A("&+"(>($"0:,0"0:#.",99+&>,A"-&(."$&0"=#>("0:("C&'9,$D"0:("(P%A*.#>("+#=:0"
-
-
-0&",%%(..",$-",->(+0#.("0&"0:("9,..($=(+."&$"0:(.("/*.(.;" " <:("9+&&)"&)"0:("9*--#$="
-
-
-<<MNC"?#0:"&9(+,0&+."#$"%#0#(."0:+&*=:&*0"C:#$,;"
-
-
-"
-
-
-Z" " " " " Z" " " " " Z" " " " " Z" " " " " Z"
-!"
-"
-
-
-"
-#$"%&'()"*+&,(-"&./"*+010'2"'&"/($3&%)"4&531('(12"'&"'6($("+1&77(/$"0$"1050'()").("'&"
-'6("860%($("9(:";(*/"6&10)*2$" *"<*4'"'6*'":("+(10(,(":*$"30,&'*1"'&"'6("'050%7"&<"
-'6("/(1(*$("&<"'6($(" $ #1'6&.76":("6&3("'6*'"'6("0%,($'0%7"3.+104":011"
-
-
-''*4=$"<&/":6*'"'6(2"*/(-"'&"'6("(>'(%'"'6*'"*"<./'6(/"*%)"
-5&/("4&53/(6(%$0,("/($3&%$("0$".$(<.1-":(":011"3/&,0)("<./'6(/"0%<&/5*'0&%"'&"'6("
-0%,($'0%7"3.+104"*<'(/"'6("860%($("9(:";(*/"'&"/($3&%)"'&"'6($(")(<*5*'&/2"
-*11(7*'0&%$?"
-"
-!"#$%&'()&#**+& & @"3*/'04.1*/12"6&3("'6*'"'6("'6&$("$6*/(6&1)(/$":6&"6*,("/(5*0%()"
-1&2*1"'&"88AB"*%)"$6*/("'6(",0$0&%"@"6*,("'&"/($3&%$0+12"1(,(/*7("&./" "
-)($07%*'0&%"*$"'6("(>41.$0,("0%'(/C40'2"+.$"DE"5()0*"+2"860%*F$"A0%0$'/2"&<"D/*%$3&/'"
-*%)"'6(/(+2"7/&:"&./"/(,(%.("*%)"3/&<0'*+010'2":011"*44(3'"52"$0%4(/("*%)"6.5+1("
-'6*%=$"<&/"'6(0/"'/.$'"*%)"$.33&/'?" " @"*5"*1$&"6(*/'(%()"+2"'6("<*4'"'6*'"5*%2"
-3(&31("6*,(-".%+0))(%-"3&$'()"/($3&%$($"'&"'6($("$4.//01&.$"*''*4=$"*%)"6*,("
-$'/&%712"$.33&/'()"'6("8&53*%2?" " D6(2"6*,(")&%("'60$"&%"'6(0/"&:%-"*%)"@"'6*%="
-'6(5"<&/"'6(0/"$.33&/'?" " G&/"'6("$'&4="5*/=('"$3(4.1*'&/$"0%'(/($'()"0%"(%/0460%7"
-'6(5$(1,($"'6/&.76" -"*11"*'"
-'6("(>3(%$("&<"&./"0%,($'&/$-"@"*5"4(/'*0%"'6*'"'6(0/"*4'0&%$":011".1'05*'(12"4*'46".3"
-:0'6"'6(5?"
-"
-H6(%7"86(%7"
-86*0/5*%-"8BI"*%)"J/($0)(%'"
-G(+/.*/2"!-"KLMM"
+time, regardless of any related Information that is published from time-to-time.

@@ -1,449 +1,432 @@
-Tutor Perini Corp
-Big Projects
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
 
-Bigger Ego
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 1/16
 
 
-No Cash Flow
+Qihoo 360 Fakes A Microsoft Security Patch
+Aug. 14, 2012 10:46 PM ET20 comments
+by: Matt Berry
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Disclaimer
-Muddy Waters Capital LLC (“Muddy Waters”) is an investment adviser to one or more funds that are in the business of buying and selling securities and 
+Qihoo 360 Technology Co. Ltd (NYSE:QIHU) has been in the news. Let's just dive right
+into the latest Qihoo scandal in China. News title:
 
 
-other financial instruments. Muddy Waters currently has a short position in the securities of the subject company covered herein (“Subject Company”).  
+"Qihoo 360 falsely reports loopholes in the Windows system to force the
+installation of their 360 browser."
 
 
-Muddy Waters will profit if the trading prices of Subject Company’s securities decline. Muddy Waters may change its views about or its investment 
+(The above was professionally translated and will be cited throughout this article as
+"Qihoo 360 Falsely Reports." Originals are here; you can read them in the Google
+translator, for example here. 8/1/2012)"
 
 
-positions in Subject Company at any time, for any reason or no reason. Muddy Waters may buy, sell, cover or otherwise change the form or substance 
+Here's what happened:
 
 
-of its Subject Company investment. Muddy Waters disclaims any obligation to notify the market of any such changes. The information and opinions 
+"There have been users who have posted screenshots online which show the 360
+Security Defender wrongly detecting holes in the Windows system and thereby
+recommending users to install an upgrade patch."
 
 
-expressed in this presentation (the “Presentation”) are based on publicly available information about Subject Company. Muddy Waters recognizes that 
+"After the upgrading is completed, only then do they realise the 'patch' is the 360
+browser. It is understood that the user patch from the 360 Security Defender,
+allegedly supposed to fix loopholes in the Windows system, immediately transforms
+itself into the 360 browser upon installation of the patch." (Qihoo 360 Falsely
+Reports)
 
 
-there may be non-public information in the possession of Subject Company or others that could lead Subject Company or others to disagree with 
+Now, here's a screenshot that accompanied one of the many articles (I added the Google
+translator and the orange lines to highlight the key points. By the way, of the screenshots I
+found, this was the one with the best resolution: you can find it here, click the image to
+enlarge it.)
 
 
-Muddy Waters's analyses, conclusions and opinions. This Presentation expresses our opinions, which we have based upon generally available 
 
+https://seekingalpha.com/symbol/QIHU
 
-information, field research, inferences and deductions through our due diligence and analytical process. To the best of our ability and belief, all 
+https://seekingalpha.com/instablog/582827-matt-berry/921211-qihoo-360-a-victim-of-a-smear-campaign-or-an-aggressor-caught-red-handed-or-both
 
+https://www.google.com/search?hl=en&safe=off&site=&source=hp&q=%22%E5%A5%87%E8%99%8E360%E8%B0%8E%E6%8A%A5Windows%E7%B3%BB%E7%BB%9F%E6%BC%8F%E6%B4%9E+%E5%BC%BA%E5%88%B6%E5%AE%89%E8%A3%85360%E6%B5%8F%E8%A7%88%E5%99%A8%22&oq=%22%E5%A5%87%E8%99%8E360%E8%B0%8E%E6%8A%A5Windows%E7%B3%BB%E7%BB%9F%E6%BC%8F%E6%B4%9E+%E5%BC%BA%E5%88%B6%E5%AE%89%E8%A3%85360%E6%B5%8F%E8%A7%88%E5%99%A8%22&gs_l=hp.3...934.4439.0.4729.3.3.0.0.0.0.40.112.3.3.0.les%3B..0.0...1c.AkEzv4a81tQ
 
-information contained herein and in any oral communication is accurate and reliable, and has been obtained from public sources we believe to be 
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.21xc.com%2FArticle%2FShowArticle.asp%3FArticleID%3D220722
 
+http://news.mydrivers.com/1/236/236409.htm
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-accurate and reliable, and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty 
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 2/16
 
-of confidentiality to the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy Waters 
 
+I've experienced the proof firsthand. Upon reading online blogs and articles, I found URLs
+to the patch(es) and was able to download them from Qihoo's official site. As of this writing
+I am still able to download them. I introduce them here, with the warning that the company
+has been accused of malware in the past. Here are the links.
 
-makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be 
 
+http://dlleak6.360safe.com/leak/ty/Windows-KB360018-v4-x86.exe
+http://dlleak.360safe.com/leak/ty/Windows-KB360018-v7-x86.exe
 
-obtained from its use. Further, this Presentation contains a very large measure of analysis and opinion and includes forward-looking statements, 
 
+It is possible that the files will be removed and/or the access blocked upon the publication
+of this article. Again, I'm not recommending the files. I only present them as evidence of
+the counterfeiting.
 
-estimates, projections and opinions prepared with respect to, among other things, Subject Company’s anticipated operating performance, access to 
 
+Take a quick look. Which files are from Microsoft Corp. (NASDAQ:MSFT) and which are
+from Qihoo 360 ?
 
-capital markets, market conditions, cash flow, assets and liabilities. Such statements, estimates, projections and opinions may prove to be substantially 
 
 
-inaccurate and are inherently subject to significant risks and uncertainties beyond Muddy Waters's control. All expressions of opinion are subject to 
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.rising.com.cn%2Fabout%2Fnews%2Frising%2F2010-02-02%2F6617.html
 
+http://dlleak6.360safe.com/leak/ty/Windows-KB360018-v4-x86.exe
 
-change without notice, and Muddy Waters does not undertake to update or supplement any reports or any of the information, analysis and opinion 
+http://dlleak.360safe.com/leak/ty/Windows-KB360018-v7-x86.exe
 
+https://seekingalpha.com/symbol/MSFT
 
-contained in them. The Presentation is not investment advice or a recommendation or solicitation to buy or sell any securities. Except where otherwise 
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449195737971458-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
 
-indicated, the Presentation speaks as of the date hereof, and Muddy Waters undertakes no obligation to correct, update or revise the Presentation or to 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 3/16
 
 
-otherwise provide any additional materials. Muddy Waters also undertakes no commitment to take or refrain from taking any action with respect to 
+All of them were downloaded from Qihoo's 360safe.com, AKA, 360.cn ‒ and all of them
+were made by Qihoo 360.
 
 
-Subject Company or any other company. As used herein, except to the extent the context otherwise requires, Muddy Waters includes its affiliates and 
+(To see this System Explorer page click here.)
 
 
-its and their respective partners, directors, officers and employees. 
+In the image below, you can see that the icon on the left is a short-cut to Qihoo's browser;
+the icon in the middle is a short-cut to Microsoft's browser; and the last icon is Qihoo's
+counterfeit Microsoft "security patch." Note how there is much more similarity to
+Microsoft's icon than to Qihoo's.
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-What Does TPC Do?
+Besides using Microsoft's Icon and color, Qihoo's fake patch also takes advantage of file
+naming convention.
 
 
-Engineering, Procurement, Construction
+"According to evidence from the users, the 360 browser upon downloading as a
+patch changes its name to 'Windows-KB360018-v7-x86.exe,' which is markedly
+similar to actual Microsoft patches in name. "(Qihoo 360 Falsely Reports)
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-TPC YTD
+Here's what they mean. Of the two filenames below the first is Qihoo's and the second is
+Microsoft's (found here):
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Can 9 Out of 10 Analysts be Wrong?
 
+http://systemexplorer.net/filereviews.php?fid=12521841&sei=1
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Here’s Why they Say “Buy”!
+http://www.microsoft.com/en-us/download/details.aspx?id=16
 
+https://static.seekingalpha.com/uploads/2012/8/14/582827-1344919829684722-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-FCF Has Always Been Achilles Heel
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 4/16
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-FCF Issues Due to Working Cap
 
+"Windows" of course refers to Microsoft's most famous product and "KB" stands for
+"Knowledge Base." A user is supposed to be able to go to Microsoft's Knowledge Base,
+access the reference number, and get more information.
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-The More Things Change, The 
 
+I invite the reader to try to find Windows KB360018. Now, if there is no KB360018 entry in
+Microsoft's knowledge base, then Qihoo 360 has no other reason for referencing
+"Windows" in the filename other than to further a user's natural expectation that the
+software comes from the trusted source, Microsoft.
 
-More They Stay the Same
 
+Let's go back to the Qihoo Security Guards screenshot. You may have noticed that there
+were other hotfixes listed. One had a KB reference number, 2728973. You can actually go
+to Microsoft's website and look that KB reference number up.
 
-(USD 000') 2010 2011 2012 2013 2014 2015
 
+I did just that. Now, either somebody on Qihoo's team has a great sense of humor or
+Qihoo's listed hotfixes have an ironic coincidence. The KB2728973 reference for the patch
+next to the fake one reads: "Microsoft Security Advisory: Unauthorized digital certificates
+could allow spoofing." A Microsoft warning about "spoofing" next to a fake Microsoft hotfix!
 
-Revenue $3,199,200 $3,716,300 $4,111,500 $4,175,700 $4,492,300 $4,920,500
 
+See illustration, or click here to go to Microsoft's Knowledge Base #2728973.
 
-Claims as a % of revenue 2.4% 3.1% 4.0% 5.3% 6.9% 8.3%
 
+OK then, with common sense certainty we know that Qihoo faked a Microsoft patch. And
+understandably, some users were confused. Here's a comment found on the official Qihoo
+360 BBS, run through the translator.
 
-Unapproved change orders as a % of revenue 1.6% 3.7% 3.4% 3.5% 3.6% 5.5%
 
 
-Other unbilled costs and profits as a % of revenue 0.4% 2.9% 3.8% 4.9% 5.6% 4.6%
+http://support.microsoft.com/kb/2728973
 
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449201514131026-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-Total as a % of revenue 4.4% 9.6% 11.3% 13.7% 16.2% 18.4%
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 5/16
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Pure Artistry
 
+(Original, here.)
 
-“Ron Tutor is the greatest change-order 
 
+Qihoo's tactics were exposed and spread through the blogosphere.
 
-artist that I've ever seen” 
 
+"Recently, Qihoo 360 has once again been exposed for malicious and deceptive
+fraud against users, and this has sparked widespread backlash in the blogging
+scene." (Qihoo 360 Falsely Reports)
 
-– Former L.A. Mayor Tom Bradley in 1992
 
+This next piece was found on Weibo's ultra-popular micro-blogging site (run through
+Google's translator):
 
-http://articles.latimes.com/1992-11-06/news/mn-1452_1_rail-transit/2
 
+These sorts of blogs are abundant, see some of them here. As you can see in the above
+Weibo "micro-blog," and in others, screen shots were popular. See a very popular series
+of screenshots, here. Many were also widely distributed in the press.
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Receivables / Sales 
 
+Someone even made a video of the "hotfix" installation process: here.
 
-Outsize Significance to TPC
 
 
-2010 2011 2012 2013 2014 2015
+http://bbs.360.cn/3229787/254610290.html
 
+http://s.weibo.com/weibo/360018?topnav=1%26wvr=3.6%26k=1
 
-Tutor Perini 32% 44% 41% 45% 49% 48%
+http://ww2.sinaimg.cn/large/7428daf6gw1dvg4xekw68j.jpg
 
+http://v.qq.com/boke/page/y/8/i/y010208ss8i.html
 
-Fluor Corporation 13% 14% 12% 11% 14% 14%
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449203724599452-Matt-Berry_origin.jpg
 
+https://static.seekingalpha.com/uploads/2012/8/14/582827-1344945076196494-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-Jacobs Engineering Group 17% 20% 22% 22% 23% 21%
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 6/16
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Until Q4 Call, When Management Said…
 
+I wonder how many novice users thought they not only installed a Microsoft patch but
+actually thought they also had a new upgraded Microsoft browser?!
 
-“We are focused on, and making significant 
 
+(Internet Explorer and Qihoo Browser Icons.)
 
-progress in, resolving numerous claims and 
 
+What does Microsoft think about all this? News reports in China said that Microsoft was
+investigating the matter, but did not have any comments at this time. (Originals, here;
+Google Translator, here) Here's a community response on answers.microsoft.com. The
+original was in Chinese, I had it professionally translated.
 
-unapproved change orders as well as billing and 
 
+"As you may have already heard from the news, the recently released update for the
+"360 Browser" has fraudulently been released in Microsoft's name by 360, and is not
+actually a patch from Microsoft. This matter is currently under investigation."
+(Original is here.)
 
-collecting other unbilled amounts, which will allow 
 
+Or perhaps there is a special arrangement between Qihoo and Microsoft for the transition
+from IE6?
 
-us to convert these unbilled costs to cash.”
 
+There is an interview online where someone named Huan Ren, said to be a Qihoo 360
+employee, was quoted as saying:
 
-- Gary Smalley, CFO Q4 2015 earnings call
 
+"… in particular Qihoo 360 has a partnership with Microsoft that upgrades the default
+browser on Windows XP from IE6 to IE8." (Already translated, here)
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-And They Delivered!
 
+But if so, why wouldn't the file properties and digital signature involve Microsoft's name
+alongside Qihoo's? And why would the icon look like a cheap screenshot?
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Just One Problem Though
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Are AR the Next Unbilled 
+http://www.baidu.com/s?ie=utf-8&bs=%E5%BE%AE%E8%BD%AF%E8%A1%A5%E4%B8%81%E5%A5%87%E8%99%8E%E8%B0%83%E6%9F%A5&f=8&rsv_bp=1&wd=360%E5%81%87%E5%86%92%E5%8F%91%E5%B8%83%E7%B3%BB%E7%BB%9F%E8%A1%A5%E4%B8%81%E5%BE%AE%E8%BD%AF%E5%AE%98%E6%96%B9%E6%88%96%E5%B0%86%E4
 
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26bs%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E8%25A1%25A5%25E4%25B8%2581%25E5%25A5%2587%25E8%2599%258E%25E8%25B0%2583%25E6%259F%25A5%26f%3D8%26rsv_bp%3D1%26wd%3D360%25E5%2581%2587%25E5%2586%2592%25E5%258F%2591%25E5%25B8%2583%25E7%25B3%25BB%25E7%25BB%259F%25E8%25A1%25A5%25E4%25B8%2581%25E5%25BE%25AE%25E8%25BD%25AF%25E5%25AE%2598%25E6%2596%25B9%25E6%2588%2596%25E5%25B0%2586%25E4
 
-Receivable Problem?
+http://answers.microsoft.com/zh-hans/windows/forum/windows_7-security/kb360018/6783d064-5ee9-42fe-9265-aa8aa013aa77
 
+https://www.google.com/search?hl=en&safe=off&site=&source=hp&q=huan+ren+qihoo+360&oq=huan+ren+qihoo+360&gs_l=hp.3...796.4823.0.5157.18.18.0.0.0.0.132.1437.14j4.18.0.les%3B..0.0...1c.h8iwyUygsL8
 
-“[TPC is] focusing heavily on collecting 
+http://www.w3.org/QA/2012/06/interview_huawei_maxthon_qihoo.html
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
 
-unbilled receivables.”
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 7/16
 
 
-- Michael Kershaw, CFO, Q2 2013 call
+The point we need to make here is that if a Hacker wanted to borrow the credibility of
+Microsoft to get his users to convert from the IE6 to his own browser, why not 1) copy the
+Microsoft icon and the 2) filename conventions (complete with Knowledge Base reference)
+and then take another important step: 3) scare the users. Tell them that they're in a high
+risk situation.
 
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Are AR the Next Unbilled 
+Here's an excerpt from an article published on Zdnet.com.cn. This one is translated by
+Google:
 
 
-Receivable Problem?
+"360 security guards to remind the user's computer a 'high-risk vulnerabilities need
+to install a named KB360018' IE6 kernel upgrade patch 'Special Note' Do not stop to
+repair. Users follow the prompts to upgrade, it will force the installation of the 360's
+security browser. " (Original, here; Google Translated, here.)
 
 
-“I don't think we're expecting working capital to continue to 
+A novice user wouldn't know the difference either way and a knowledgeable user would
+expect a Microsoft "patch" to contrast with Qihoo's look and feel ‒ which this one did. (Of
+course, reports tell us that this wasn't a patch at all but a conversion from Microsoft's to
+Qihoo's browser).
 
 
-grow. As we said, this quarter, we held unapproved 
+This next micro-blog appeared just before the scandal entered the mainstream media:
 
 
-changeovers and claims pretty flat over the year. And the 
+(Google translated.)
 
 
-increases that we've got in unbilled and in receivables are 
 
+http://security.zdnet.com.cn/security_zone/2012/0802/2104517.shtml
 
-purely timing differences as that volume of work starts to 
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fsecurity.zdnet.com.cn%2Fsecurity_zone%2F2012%2F0802%2F2104517.shtml
 
+https://static.seekingalpha.com/uploads/2012/8/14/582827-13449213624878082-Matt-Berry_origin.jpg
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-pick up.” 
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 8/16
 
-- Michael Kershaw, CFO, Q2 2014 call
 
+"Hooligan?" I think US investors are the last to learn. This kind of association with Qihoo is
+nothing new to the Chinese reader.
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-We Think Bullish Analysts are 
 
+"Previously, incidents where users were forced to install software which
+subsequently modified the registry such that it cannot be deleted were fairly
+common. A classic example would be Qihoo 360's predecessor, 3721, for which Mr
+Zhou Hong Yi has thereby been called the 'Father of rogue software'. (Qihoo 360
+Falsely Reports)
 
-Ignoring that this Business 
 
+In fact if you just do a raw search for "The father of rogue software" (That is, don't even
+mention Qihoo or the CEO) you come up with … the CEO of Qihoo. Search here. ("The
+father of rogue software" = "流氓软件之父". Check the translation here.)
 
-Does Not Generate Cash
 
+But faking a patch is nothing new to US readers either.
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Banks However…
 
+(here)
 
-Will Bank of America say “enough is enough”?
 
+As Microsoft warns us,
 
-• TPC is subject to recent additional covenants regarding its liquidity, including weekly 
 
+"Rogue security software might also attempt to spoof the Microsoft security update
+process." (here)
 
-minimum liquidity requirements (based on specified available cash balances and 
 
+Here's an article with another KB-fake:
 
-availability under the Revolver)
 
+"Have you received an email seemingly from Microsoft's security team telling you to
+"Update your Windows"? Have you been sent a file called KB453396-ENU.zip and
+told to run it on your Windows computer?" ~ Fake Microsoft security update spreads
+Autorun worm
 
-• Loan agreement has been amended 6 times in 5 years, ranging from readjusting the 
 
+As for forcing out rivals,
 
-leverage covenant higher, due to lower than expected EBITDA to higher fees and 
 
 
-moving the maturity ahead of the bonds and lowering additional borrowing capacity.   
+http://translate.google.com/translate?sl=zh-CN&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D%25C1%25F7%25C3%25A5%25C8%25ED%25BC%25FE%25D6%25AE%25B8%25B8%26rsv_bp%3D0%26rsv_spt%3D3%26rsv_n%3D2%26inputT%3D626
 
+http://translate.google.com/#en/zh-CN/The%20father%20of%20rogue%20software
 
-• We believe these kinds of changes are typical of a credit facility with distressed or 
+http://www.ibtimes.com/articles/161367/20110612/microsoft-security-sophos-anti-virus-firefox-zip.htm
 
+http://www.ibtimes.com/articles/161367/20110612/microsoft-security-sophos-anti-virus-firefox-zip.htm
 
-CCC rated credits. 
+http://www.microsoft.com/security/pc-security/antivirus-rogue.aspx
 
+http://nakedsecurity.sophos.com/2011/01/04/fake-microsoft-update-spreads-worm/
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-• The leverage covenant is currently calculated at 3.6x vs. the covenant stepping down 
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 9/16
 
-to 3.25x by 4Q.  
 
+"Previously installed browsers are rendered inactive instantly and the default
+browser is locked as the 360 browser, with the homepage fixed as hao.360.cn."
+(Qihoo 360 Falsely Reports)
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Liquidity Could be a Major Problem
 
+Of course, this was a little over the top. But in general this is the way it is… not just in
+China but in the browser business at large: bigger players trying to limit their smaller rivals
+with "innovation" and "security." As a consequence, I don't think Qihoo's number one
+revenue driver ‒ the advertisement laden default page to the browser‒ will survive the
+next technology cycle.
 
-• As of Q2, the company had $93.6 million of cash on the balance sheet.  
 
+It's the law of the jungle over there. Over here too. Here's Apple locking out major
+browsers with impunity, because, well, everybody likes 'em … that, and, oh yeah, they're
+really big.
 
-However, 79% of that cash is in JVs with access restrictions. TPC runs its 
 
+Now that Micrsoft, with its Office Suite, is set to enter this arena with its new tablets, the
+future of third-party browsers is being debated. Will Microsoft create so much friction for
+rival browsers that users just follow the path of least resistance … resulting in Microsoft's
+inevitable retrieval of browser market share? If they can copy Apple's strategy, you can bet
+they will. And I do believe that Qihoo will not be spared.
 
-unpredictable, negative free cash flow business (ex-JVs) on $19 million of 
 
+Here's what everyone is saying about the next browser war:
 
-cash on hand.
 
+Why Is Microsoft Trying to Hobble Firefox on Windows 8 Tablets - and Why Does It
+Matter?
 
-• With only $19 million of accessible cash on hand and $145.8 million of 
 
+"Microsoft is getting cut a lot of slack for its anticompetitive stance, because it is
+casting the anti-features for developers in the name of "protecting users from
+malware." It's OK if Microsoft cuts off competing applications at the knees, because
+it's trying to prevent malware."
 
-unused revolver capacity and relatively volatile cash flow, the looming $600 
 
+Whether one agrees with Microsoft here or not, one has to admit that Qihoo did not help
+the counter-argument with recent "events."
 
-million in maturities due in 2018 (includes full draw on revolver) could be an 
 
+Windows on ARM Users Need Browser Choice Too
+Google, Mozilla: Microsoft Planning Third-Party Browser Ban for Windows 8
+Microsoft Is Pulling A Silly, Apple-Like Move With Windows 8 Tablets
+Why Microsoft blocking third-party browsers is no cause for panic
+More articles, here.
 
-issue. 
 
 
-• Access to the revolver could be an issue after Bank of America’s numerous 
+http://www.readwriteweb.com/hack/2012/05/why-is-microsoft-trying-to-hobble-firefox-on-windows-8-tablets-and-why-does-it-matter.php
 
+http://blog.mozilla.org/blog/2012/05/09/windows-on-arm-users-need-browser-choice-too/
 
-amendments and restrictions on the facility. 
+http://www.dailytech.com/Google+Mozilla+Microsoft+Planning+ThirdParty+Browser+Ban+for+Windows+8/article24661.htm
 
+http://articles.businessinsider.com/2012-05-10/tech/31648964_1_mozilla-metro-interface-phones-and-tablets
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Upcoming Debt Maturities
+http://memeburn.com/2012/05/why-microsoft-blocking-third-party-browsers-is-no-cause-for-panic/
 
+https://www.google.com/search?hl=en&safe=off&q=third-party+browsers+microsoft+tablet&oq=third-party+browsers+microsoft+tablet&gs_l=serp.3...2226.2226.0.2551.1.1.0.0.0.0.53.53.1.1.0.les%3B..0.0...1c.9Tzj3jXiPLE
+5/21/2018 Qihoo 360 Fakes A Microsoft Security Patch - QIHOO 360 Technology Co. Ltd. (NYSE:QIHU) | Seeking Alpha
 
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Top Management Doesn’t Feel 
 
+https://seekingalpha.com/article/807811-qihoo-360-fakes-a-microsoft-security-patch 10/16
 
-Liquidity Pinch
 
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-TPC: 1 in 3,000
-
-
-• TPC’s shareholders have voted “no” in 
-
-
-their Say on Pay for six consecutive years
-
-
-• This is more than any other company in 
-
-
-the Russell 3000 index
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Even So He Had to Sell His Stock, 
-
-
-Which He Hated
-
-
-“I hated every sale of stock I've made, since my first one. I 
-
-
-have one more that I have to make over the next 30 days 
-
-
-to satisfy a final agreement. After that, I don't intend to sell 
-
-
-any stock at these ridiculous numbers. It's like cutting off 
-
-
-fingers every time I sell at these prices.”
-
-
-- Ronald Tutor, Q2 2011 Call
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Haters Gonna Hate, Hate, Hate, Hate, Hate
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Haters Gonna Hate, Hate, Hate, Hate, Hate
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Tutor Share Transactions
-
-
-• To be fair, he made open market purchases in 
-
-
-2015 of 200,000 shares in 2015 (approx. $4.5 
-
-
-million)
-
-
-– almost covered by his $3.75 million bonus for 
-
-
-(not yet) finding a successor
-
-
-• He has net sold estimated 13 million shares 
-
-
-since 2009.
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-That’s Not All He Sold
-
-
-Tutor even had to sell his B737…
-
-
-…to the Company
-
-
-(Tutor gets 150 hours per year of use)
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-At Least TPC Got a Nice Plane
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-But Don’t Worry – There’s a CFO (or Four) to Mind 
-
-
-the Store
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022
-Pulling It All Together
-
-
-• Business that can’t consistently generate cash
-
-
-• Projected earnings growth highly questionable
-
-
-• Lack of management credibility
-
-
-• Liquidity could become challenged
-
-
-Downloaded from www.hvst.com by W Z (id:277146) on 08/08/2022

@@ -1,882 +1,2381 @@
-Disclaimer:
-Use of Muddy Waters LLC’s research is at your own risk.  You should do your own research and due diligence before making any investment decision 
-with respect to securities covered herein.  You should assume that as of the publication date of any report, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors has a short position in the stock (and/or 
-options of the stock) covered herein, and therefore stands to realize significant gains in the event that the price of stock declines.  Following publication 
-of any report, we intend to continue transacting in the securities covered therein, and we may be long, short, or neutral at any time hereafter regardless 
-of our initial recommendation.   This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any 
-person, in any jurisdiction in which such offer would be unlawful under the securities laws of such jurisdiction. To the best of our ability and belief, all 
-information contained herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are 
-not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer.   
-However, such information is presented "as is," without warranty of any kind – whether express or implied.  Muddy Waters, LLC makes no representa-
-tion, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use.  
-All expressions of opinion are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement this report or any 
-of the information contained herein.
+NO: 
 
 
-Director of Research: Carson C. Block, Esq.
+IN THE UNITED STATES PATENT AND TRADEMARK OFFICE
+__________________
 
 
-Muddy Waters, LLC
-www.muddywatersresearch.com
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+__________________
 
 
-info@muddywatersresearch
+THE MANGROVE PARTNERS MASTER FUND, LTD.
+Petitioner,
 
 
-Company:
+v.
 
 
-Recommendation:
+VIRNETX INC.,
+Patent Owner.
 
 
-Industry:
+__________________
 
 
-Report Date:
+Case IPR2015-_____
+Patent U.S. 6,502,135
+__________________
 
 
-Price:
+PETITION FOR INTER PARTES REVIEW OF UNITED STATES 
+PATENT NO. 6,502,135 PURSUANT TO 35 U.S.C. §§ 311-319, 37 C.F.R. § 42
 
 
-Market Cap:
+Mail Stop Patent Board
+Patent Trial and Appeal Board
+U.S. Patent and Trademark Office
+P.O. Box 1450
+Alexandria, VA 22313-1450
+i
 
 
-10.3 million
+TABLE OF CONTENTS
 
 
-Avg Volume:
+I. MANDATORY NOTICES UNDER 37 C.F.R § 42.8(a)(1).................................... 1
+A. REAL PARTY-IN-INTEREST UNDER 37 C.F.R. § 42.8(B)(1) ..................... 1
+B. RELATED MATTERS UNDER 37 C.F.R. § 42.8(B)(2) .................................... 1
+C. LEAD AND BACK-UP COUNSEL UNDER 37 C.F.R. § 42.8(B)(3)............ 2
 
 
-Duoyuan Global Water Inc. (DGW)
+II. PAYMENT OF FEES – 37 C.F.R. § 42.103................................................................. 3
 
 
-Strong Sell
+III. REQUIREMENTS FOR IPR UNDER 37 C.F.R. § 42.104................................. 3
+A. GROUNDS FOR STANDING UNDER 37 C.F.R. § 42.104(A)....................... 3
+B. IDENTIFICATION OF CLAIMS BEING CHALLENGED (37 C.F.R. § 
+42.104(B)) ..................................................................................................................................... 3
 
 
-Water Treatment
+IV. Summary of the ‘135 Patent ........................................................................................... 5
+A. BRIEF DESCRIPTION ................................................................................................... 5
+B. ‘135 PATENT CLAIM CONSTRUCTION UNDER 37 C.F.R. §§ 
+42.104(B)(3)................................................................................................................................. 6
 
 
-April 4, 2011
+1. Virtual Private Network (VPN) (Claims 1 and 10)............................................. 7
+2. Domain Name (Claim 10) ........................................................................................ 13
+3. DNS Request (Claim 1) ............................................................................................ 14
+4. DNS Proxy Server (Claims 10, 8) ......................................................................... 14
+5. Client computer (Claims 1 and 10) ....................................................................... 15
+6. Automatically (Claim 1) ........................................................................................... 17
 
 
-$5.49
+V. MANNER OF APPLYING CITED PRIOR ART TO EVERY CLAIM FOR 
+WHICH AN IPR IS REQUESTED, THUS ESTABLISHING A REASONABLE 
+LIKELIHOOD THAT AT LEAST ONE CLAIM OF THE ‘135 PATENT IS 
+UNPATENTABLE ..................................................................................................................... 18
 
 
-135.11 million
+A. [GROUND 1] – CLAIMS 1, 3, 4, 7, 8, 10, AND 12 ARE ANTICIPATED 
+BY KIUCHI (EX. 1002) ....................................................................................................... 18
 
 
-Float:
+1. Kiuchi Anticipates Independent Claim 1 ............................................................ 26
+2. Kiuchi Anticipates Claim 3...................................................................................... 29
+3. Kiuchi Anticipates Claim 4...................................................................................... 30
+4. Kiuchi Anticipates Claim 7...................................................................................... 31
+5. Kiuchi Anticipates Claim 8...................................................................................... 32
+6. Kiuchi Anticipates Independent Claim 10 .......................................................... 33
+7. Kiuchi Anticipates Claim 12 ................................................................................... 35
 
 
-416,379
+B. [GROUND 2] – KIUCHI IN VIEW OF RFC 1034 RENDERS CLAIM 8 
+OBVIOUS.................................................................................................................................. 35
 
 
-Estimated Value:
-< $1.00
+VI. CONCLUSION................................................................................................................ 38
+ii
 
 
-We estimate DGW’s actual revenue is no greater than 
-US$800,000 annually, versus the US$154.4 million it 
-claims.  Our estimate is based on DGW’s PRC audit report, 
-which is highly reliable.  
+EXHIBITS
 
 
-Muddy Waters caught DGW red handed forging its PRC 
-audit report.  DGW’s actions validate the audit report’s 
-significance.  
+Ex. 1001 U.S. Patent No. 6,502,135 to Munger et al. (the "'135 Patent")
 
 
-Our extensive surveillance of DGW’s factory confirms our 
-revenue estimates.
+Ex. 1002
 
 
-We identified four errors in DGW’s US audit, which 
-indicates the auditor was sloppy.
+Takahiro Kiuchi and Shigekoto Kaihara, "C-HTTP - The 
+Development of a Secure, Closed HTTP-based Network on the 
+Internet," published by IEEE in the Proceedings of SNDSS 1996 
+("Kiuchi")
 
 
-DGW has much in common with its troubled sister 
-company, DYP.  We believe these commonalities further 
-DGW’s fraud.
+Ex. 1003 Declaration of Dr. Roch Guerin
+Ex. 1004 (Reserved)
 
 
-DGW engages in improper undisclosed related party 
-transactions that transfer money to its chairman.
-!
-
-
-!
-
-
-"!
-
-
-DGW: Clean Water, Dirty Money 
-DGW: 多元差得多远？  
- 
-Muddy Waters, LLC estimates that Duoyuan Global Water’s (“DGW”) value is less than $1.00 
-per share.  DGW is a massive fraud, overstating revenue by over one hundred times.  We 
-estimate DGW’s actual revenue is no greater than US$800,000 annually.  Our estimate is based 
-on DGW’s PRC audit report, which is highly reliable (the audit report is different than the 
-controversial SAIC financial statements).  Subsequent to our obtaining DGW’s PRC audit report 
-from its SAIC file, DGW replaced it with a forged audit report.  DGW’s actions validate the 
-audit report’s significance.  Our extensive surveillance of DGW’s factory confirms our revenue 
-estimates.  We identified four errors in DGW’s US audit that indicate the auditor was sloppy.  
-DGW has much in common with its troubled sister company, DYP.  We believe these 
-commonalities further DGW’s fraud.  DGW shows little evidence of using investor funds for 
-capital expenditures.  Its claimed distribution network is a sham.  DGW engages in improper 
-undisclosed related party transactions that transfer money to its chairman. 
- 
-DGW is a Massive Fraud, Overstating Revenue by Over One Hundred Times. 
- 
-DGW is overstating its revenue by over one hundred times.  It recently reported 2010 revenue of 
-RMB 1.0 billion (US$154.4 million), up from reported revenue of RMB 783.4 million 
-(US$114.8 million) in 2009.1  In reality, DGW’s 2009 revenue was RMB 3.3 million (US$0.3 
-million) to RMB 5.6 million (US$0.8 million).  Our research indicates that 2010 revenue did not 
-meaningfully grow.    
- 
-The above actual figures are largely based on the 2009 audit report performed on the DGW 
-subsidiary that manufactures all of DGW’s products, Duoyuan Water Treatment Equipment 
-Manufacturing (Langfang) Co. Ltd. (“DGW Langfang”).  The audit report is included in DGW 
-Langfang’s SAIC file per local practice.  The audit report should not be confused with the 
-standard SAIC financial statements – it carries the attestation of a licensed PRC auditor and anti-
-forgery seals.  Lest there be any doubt about the audit report’s significance, subsequent to our 
-first viewing of the SAIC file, DGW replaced the audit report with a forged one that shows 
-financials matching those it reports to investors.  We herein compare the genuine and forged 
-audit reports, both of which are available for download in full on the Muddy Waters website at:  
- 
-Genuine: www.muddywatersresearch.com/wp-content/uploads/2011/04/LangfangWater2009Original.pdf  
- 
-Forgery: www.muddywatersresearch.com/wp-content/uploads/2011/04/LangfangWater2009Fake.pdf  
- 
-Given the effort to which DGW went to cover up its 2009 audit report – specifically, forging 
-documents for its government file – investors should place significance on it.   
- 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-1 http://www.sec.gov/Archives/edgar/data/1465317/000095012311027953/0000950123-11-027953-index.htm
-!
-
-
-!
-
-
-#!
+Ex. 1005
+Mockapetris, P., RFC 1034, "Domain Names–Concepts and 
+Facilities," Nov. 1997
 
 
-Our extensive surveillance of DGW’s factory supports the RMB 2.3 million (US$0.3 million) 
-revenue figure.  As detailed in the next section, we saw no product shipments and very little 
-manufacturing activity during our tours and surveillance of the factory. 
- 
-Duoyuan Clean Water Technology Industries (China) Co. Ltd. (“DGW Beijing”) 2009 SAIC 
-financial statements showed revenue of RMB 3.3 million (US$0.5 million), and a loss of 30.5 
-million (US$4.5 million).  These numbers likely consolidate some – if not all – of DGW 
-Langfang’s results.  Thus DGW’s consolidated 2009 revenue ranges from RMB 3.3 million 
-(US$0.5 million) to RMB 5.6 million (US$0.8 million).   
- 
-Until October 2009, DGW’s corporate structure was simple – DGW Langfang produced all of 
-DGW’s products at its facility at 6 Xiangyundao Road.   It then sold the products to DGW 
-Beijing, which in turn sold them to DGW’s distributors.  (In Different Flowers from the Same 
-Garden: DGW and DYP, we discuss how DGW’s corporate structure became significantly more 
-complicated post-IPO in order to make it easier to drain investor funds.)  Historically DGW 
-booked approximately 75% of its consolidated revenue in Langfang and the balance in Beijing.  
-Because Langfang is the heart of DGW’s operation, we focused our research on it. 
- 
-Creating Value DGW Style: Forging PRC Audit Reports. 
- 
-Muddy Waters caught DGW red handed (and hopefully red faced, but we doubt that Chairman 
-Guo really cares).  It replaced the genuine 2009 audit report in its SAIC file with a forged 2009 
-audit report.  Again, audit reports are available for download on the Muddy Waters website (see 
-supra for links).   
- 
-We viewed and copied DGW Langfang’s SAIC file in February and March 2011.  Subsequent to 
-our obtaining the genuine DGW Langfang 2009 audit report in February, which shows that it 
-only generated 2009 revenue of US$0.3 million, DGW replaced the report with a forgery.  The 
-forged report shows DGW Langfang generated 2009 revenue of US$85.7 million.  DGW also 
-inserted a forged 2008 audit report that shows revenue of US$61.7 million.  DGW had clearly 
-become worried about being exposed as a fraud, and was taking countermeasures.  
- 
-We authenticated the original 2009 audit report, which was prepared and certified by Langfang 
-Zhongtianjian Certified Public Accountants Co. Ltd., as accurate and genuine by two means: 1) 
-we compared the documents with audit reports issued by the same auditor for other Langfang-
-based entities controlled by Chairman Guo, and 2) we had an experienced PRC auditor review all 
-of the reports.  The following describes some of the major telltale signs of forgery by comparing 
-the two 2009 audit reports:
-!
-
-
-!
-
-
-$!
-
-
-1(a) The genuine 2009 report, page three: Letter from the Auditor – the upper right corner 
-contains an anti-forgery seal. 
- 
-
-
- 
- 
- 
-1(b) The forged 2009 report, page two: Letter from the Auditor.  Note the differences, the seal 
-appears to have been photocopied, cut and glued.  The seal number is the same as the one on the 
-genuine report; however, the insignia lacks the clarity of that on the genuine report.  Note also 
-how the seal is out of alignment with the masthead.  Further, part of the masthead is obscured.
-!
-
-
-!
-
-
-%!
-
-
-2(a) The genuine 2009 audit report, page four: letter from auditor signature page.  The date of the 
-letter is March 3, 2010. 
- 
-
-
- 
- 
-2(b) The forged 2009 audit report, page three: letter from the auditor signature page.  The date is 
-clear to non-Chinese speakers because the forger did not use Chinese characters for the numbers.  
-The signatures below differ from those above, as do the accountants’ personal seals.  The audit 
-firm’s seal below may or may not be forged – if it is not forged, it would imply that DGW had 
-some cooperation from the audit firm in forging the report.
-!
-
-
-!
-
-
-&!
-
-
-3(a) The genuine 2009 audit report, page five: the 2009 income statement showing RMB 2.3 
-million revenue (US$0.3 million) and a loss of RMB 6.5 million (US$1.0 million).  Note the 
-auditor’s seal in the bottom right corner.  This seal is on every page of the genuine report.
-!
-
-
-!
-
-
-'!
-
-
-3(b) Now THAT’s creating value!  The forged 2009 audit report, page five: the 2009 income 
-statement showing RMB 585.1 million revenue (US$85.7 million) in 2009, and RMB 421.2 
-million (US$61.7 million) revenue in 2008.  The income statement shows profit of RMB 136.8 
-million (US$20.0 million) and RMB 85.7 million (US$12.6 million) in 2009 and 2008, 
-respectively.  Note that there is no auditor’s seal in the bottom right corner.  In stark contrast to 
-the genuine report, none of the pages in the forged report have an auditor’s seal in the bottom 
-right corner.
-!
-
-
-!
-
-
-(!
-
-
-In addition to the foregoing, the forged reports are approximately half the length of the genuine 
-report.  The main difference is that the notes to the financial statements in the forged reports are 
-abbreviated.  Forging the notes so that they correspond to the forged financial statements would 
-take more time.  We believe that DGW felt a sense of urgency about engaging in a cover up, 
-which caused it to hastily forge the reports. 
- 
-DGW Langfang: Less a Factory and More an Adult Daycare Center2 
- 
-We conducted extensive surveillance on DGW, during which we saw minimal production, no 
-shipments (in or out), and got the impression that the workforce was largely being paid to be 
-physically present. 
- 
-We conducted surveillance on DGW’s factory in Langfang, Hebei on five occasions between 
-January and April 2011, including constant surveillance for approximately 80 consecutive hours 
-in March 2011.  During this time, we witnessed no trucks entering or exiting the factory.  The 
-only delivery we noticed was a tuk tuk (a motorized rickshaw) that dropped off a small package.  
-This means that DGW neither shipped nor received product during this time.  At a minimum, we 
-would expect to see several trucks everyday delivering raw material, parts, and components.  We 
-would also expect to see several trucks everyday picking up finished product for delivery to 
-distributors and customers.  Nearby factories (none of which belong to companies that are public 
-in the US) showed such activity.  
- 
-Despite having two factory buildings each about 200,000 square feet (i.e., each close in size to 
-four football fields), there were few signs of human activity.  The only significant movements we 
-witnessed took place between 8:20 am and 8:40 am when approximately 240 workers arrived to 
-start their workdays, 5:30 pm when the same number of workers went home, and 10:00 am when 
-some workers headed to a breakfast cart in front of the factory.  The sole manufacturing facility 
-of a rapidly growing company selling one billion RMB of product annually should be a hive of 
-activity with production workers scurrying about, and a bustling shipping and receiving 
-department. 
- 
-There is a significant discrepancy between the number of workers DGW claims to have at 
-Langfang and the number it actually does have.  We spoke with several employees who stated 
-that DGW Langfang has approximately 200 employees.  We counted approximately 240 
-employees during our surveillance.3  In contrast, Chairman Guo claimed that there are 580 
-employees at the Langfang factory as of March 2011.4  (Note the 580 production employees is a 
-decrease from the 813 workers stated in DGW’s F-1.)5  Moreover, Chairman Guo claimed that 
-170 employees (of the 580) work the night shift.  We saw no workers come or go for a night 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2 Thanks to Roddy Boyd for coining this term in his description of China MediaExpress Holdings’ (NASDAQ: 
-CCME) corporate office, which also served a primary function of furthering stock fraud.  See 
-www.thefinancialinvestigator.com - CCME: Fiction’s End. 
-3 We are confident that most of DGW’s workers live outside of the factory.  Were they living at the factory, there 
-would be food deliveries made two to three times per day.  Our surveillance shows that this is not the case. 
-4 DGW March 23, 2011 conference call to discuss Q4 and fiscal 2010 results (Q&A portion). 
-5 DGW F-1, p. 102.
-!
-
-
-!
-
-
-)!
-
-
-shift, and the factory and its grounds were completely dark from 6 pm onward.  Unless the 170 
-workers wear night vision goggles, it would be very difficult for them to work.   
- 
-In conversations with DGW employees, we learned that most of the office workers are recent 
-college graduates.  They are apparently paid average wages for the area, but accepted the offer 
-from DGW because they had no alternatives.  It seems that many of the employees are searching 
-for jobs elsewhere. 
- 
-During our three tours of the factory, we witnessed minimal production activity.  There was 
-much work in progress laid out on display, but few workers and tools around it, and little noise 
-or material movement.  The production equipment we saw was not particularly sophisticated; 
-rather, it was typical of Chinese manufacturers, involving lower-end Chinese made equipment 
-and relying on labor-intensive (versus machine intensive) production practices.  More 
-importantly, results of the multi-million dollar capital investment projects and upgrades DGW 
-claims to have undertaken were conspicuously absent (see DGW Shows Little Evidence of Using 
-Investor Funds for Capital Expenditures).    
- 
-Beijing – Little to Nothing Doing 
- 
-We obtained the 2009 Annual Inspection report for Beijing, which shows that it generated 
-revenue of RMB 3.3 million in 2009.  The Annual Inspection report is derived from the SAIC 
-financials.  This number likely consolidates some – if not all – of DGW Langfang’s revenue.  
-We think it likely consolidates all of DGW Langfang’s revenue because if we assumed that 
-Beijing generates 25% of actual revenue (the same as its proportion of reported revenue), then its 
-2009 revenue would have been RMB 0.8 million (US$0.1 million), giving the Company a total 
-2009 revenue base of RMB 3.1 million (US$0.4 million). 
- 
-We visited DGW’s Beijing headquarters on two occasions – once to call on DGW as a potential 
-client, and once to inquire about renting office space.  DGW occupies a small portion of the 
-building, and had only four employees (and many empty desks) in the office when we visited.  
-Contrary to disclosures in DGW’s SEC filings, companies with no affiliation to the Duoyuan 
-Group rent the majority of the space in the building.  Despite DGW’s claim that its founder / 
-chairman / CEO, Wenhua Guo, devotes most of his time to running DGW,6 two Beijing office 
-employees stated that Chairman Guo is rarely in the office. 
- 
-There are Major Errors in DGW’s Audit, Showing Inattentiveness and Providing 
-Management the Opportunity to Perpetuate the Fraud. 
- 
-There are four clear indications that DGW’s auditor, Grant Thornton Hong Kong,7 was 
-inattentive during its audits of DGW.   
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-6 DGW 2009 20-F, p. 15. 
-7 Grant Thornton’s Hong Kong office merged with the Hong Kong office of BDO International in November 2010.  
-This follows the October 2009 disappearance of GT Hong Kong’s managing partner amid allegations that he stole 
-over $12 million from friends and clients.  (http://www.cfoinnovation.com/content/commentary-when-accountant-
-disappears)  These events raise serious questions about the culture of GT’s Hong Kong office, and may partly
-!
-
-
-!
-
-
-*+!
-
-
-• The auditor failed to detect that DGW is claiming to make rent payments to a landlord 
-when DGW actually owns the building in which it claims to lease space.  We question 
-where the purported rent payments really go.   
-
-
-• The auditor failed to see that DGW’s financial statements accounted for the purported 
-land transfer in a way that improperly boosted 2008 operating cash flow.   
-
-
-• The auditor also failed to see that the loan Chairman Guo repaid to DGW in 2008 also 
-improperly boosted 2008 operating cash flow.  These combined misclassifications 
-boosted operating cash flow by RMB 88.3 million (US$12.9million), or 57.6%.   
-
-
-• Our manufacturing experts believe that it is impossible for DGW to have zero work in 
-process inventory as of December 31, 2008 and 2009 while generating anything close to 
-the sales volumes and growth it claims.  We believe that an attentive auditor would have 
-found the lack of work in process to be a significant issue – in fact, the SEC’s Corporate 
-Finance division flagged it as a potential problem in September 2010.8 
-
-
- 
-The Property Swap that Wasn’t 
- 
-DGW claims that in 2008 it swapped its Beijing office building at 3 Jinyuan Road for a factory at 
-6 Xiangyundao Road in Langfang owned by a non-public entity controlled by Chairman Guo, 
-Duoyuan Information Terminal Manufacturing (Langfang) Co. Ltd. (“Terminal”).9,10  In reality, 
-Terminal was wound up by March 2008 – prior to DGW’s IPO – and merged into DGW 
-Langfang.  By virtue of the merger, the property that Terminal owned was also merged into 
-DGW Langfang.  However, DGW Beijing, which owned the office building that was purportedly 
-swapped for Terminal’s property, never transferred ownership of the building to Terminal (in 
-which case it would have reverted to DGW Langfang because of the merger).  Our attorney 
-viewed the current building ownership record, which show that DGW Beijing has remained the 
-owner. 
- 
-DGW’s SEC filings claim that the value of each property was approximately RMB 75 million at 
-the time of the swap (approximately $11 million).11  We believe that the values of both 
-properties were nowhere near that level – particularly Terminal’s factory.  Terminal’s factory 
-requires local government approval to be transferred because it was likely purchased with a 
-government subsidy.  Therefore, this land is inherently less valuable than freely alienable land.  
-Further our inquiries in Langfang indicate that Terminal was a troubled business by 2007, thus 
-Chairman Guo had nothing to lose by merging Terminal into DGW. 
- 
-It is difficult to say with certainty why DGW used the purported swap as a mechanism to transfer 
-in ownership of Terminal’s factory, and why it never completed the outbound transfer.   The best 
-explanation we have developed is that Chairman Guo wanted to inflate the size of DGW’s 
-balance sheet as much as possible in preparation for its 2009 IPO, and that he was able to do so 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-explain the deficiencies in DGW’s audits.  Following the merger, DGW has engaged BDO’s Hong Kong office as 
-its auditor. 
-8 http://www.sec.gov/Archives/edgar/data/1465317/000000000010057876/filename1.pdf 
-9 20-F, p. 42. 
-10 Note that DGW’s filings sometimes refer to this entity as Duoyuan Facsimile, which is incorrect. 
-11 DGW F-1 (filed January 11, 2010), p. 123.
-!
-
-
-!
-
-
-**!
-
-
-by “paying” in kind. We think that the reason Chairman Guo never transferred out the DGW 
-Beijing property is that the transfer taxes DGW would have to pay would show that the office 
-building (and therefore Terminal’s factory) were worth nowhere near their purported values. 
- 
-Auditor Sloppiness Regarding DGW’s Purported Rent Payments 
- 
-The auditor evidently has not detected any irregularities in the rent that DGW purports to pay to 
-Terminal, despite 1) Terminal having been wound up and merged into DGW in 2008, prior to 
-DGW’s IPO, and 2) DGW’s never having transferred to Terminal the office building that DGW 
-purports to lease.  This rent totaled RMB 1.1 million (US$160,000) in 2009.12 Had the auditor 
-realized that DGW is not actually paying rent to Terminal, it is likely that investors would have 
-asked a number of pointed questions of DGW sooner. 
- 
-DGW’s sister company, Duoyuan Printing, Inc. (“DYP”) also purports to have paid US$0.2 
-million in rent to Terminal in fiscal 200913 for space in the same building.  We question where 
-this money really goes (along with the rent that DGW pays).  Further, our fieldwork indicates 
-that the vast majority of the Beijing office building is rented out to parties unaffiliated with the 
-Duoyuan companies, which undermines DGW and DYP’s contentions that that they each rent 
-substantial portions of the building.  We estimate the rent that is collected on the building 
-annually to be approximately RMB seven million (US$1.0 million).    
- 
-Auditor Failing to Detect Incorrect Classification of the Purported Property Transfer on the 
-Cash Flow Statement 
- 
-DGW’s auditor was clearly inattentive in not seeing that DGW had misclassified property 
-deposits in the cash flow statement in a way that artificially boosted its pre-IPO year operating 
-cash flow.  DGW purports to have agreed to acquire Terminal’s property for RMB 75.6 million 
-cash, and having paid a deposit of RMB 44.5 million (US$6.5 million) in 2007 prior to engaging 
-in the swap.  DGW further purports that after agreeing to the swap with Terminal, Terminal 
-returned the deposit in 2008.14  Because these payments relate to the purchase of capital assets, 
-they should be classified on the cash flow statement as investing activities.  However, DGW 
-recorded them as operating cash flow items.15  The effect was to bump up 2008 operating cash 
-flow (the fiscal year prior to the IPO) by RMB 44.5 million.       
- 
-Auditor Failing to Detect Incorrect Classification on the Cash Flow Statement of the Loan 
-Chairman Guo Repaid in 2008 
- 
-DGW shows a related party loan repayment as a cash flow from operations, improperly boosting 
-2008 operating cash flow by RMB 43.8 million (US$6.4 million) in preparation for DGW’s IPO.  
-Chairman Guo repaid in 2008 RMB 43.8 million in loans DGW made to two entities Guo 
-controls entirely: Beijing Huiyuan Duoyuan Digital Printing Technology Institute (“Huiyuan”) 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-12 DGW 2009 20-F, p. F-25. 
-13 DYP Fiscal 2009 10-K, p. 28. 
-14 Supra FN 10. 
-15 See DGW 2009 20-F, p. 25 and F-1, p. F-15.
-!
-
-
-!
-
-
-*"!
-
-
-and Huanan Duoyuan Water Supply Co. Ltd.16  DGW shows the repayment of the loan as an 
-operating cash flow in its 2008 (again, the year before its IPO) financial statements. 
- 
-The proper classification of the loan repayment is a cash flow from financing activities, rather 
-than cash flow from operations.  Neither company is a supplier or customer of DGW, although as 
-we discuss infra in DGW Engages in Improper Undisclosed Related Party Transactions that 
-Transfer Money to Chairman Guo, the relationship between Huiyuan and DGW is improper and 
-most likely detrimental to DGW shareholders’ interests.  Because neither company is a customer 
-or supplier of DGW, then the repayment should not be classified as a cash flow from operations.  
- 
-Auditor Credulous of No Work in Process at Year End – We Are Not 
- 
-Grant Thornton has made an obvious error in its audit by not taking issue with DGW’s claims of 
-having no work in process as of December 31, 2008 and 2009.  Interestingly, the genuine 2009 
-PRC audit report for DGW Langfang facility shows work in process of RMB 3.3 million 
-(US$0.5 million) as of December 31, 2009.17   The forged audit report even shows work in 
-process of RMB 1.7 million (US$0.2 million) as of December 31, 2008 (it shows no work in 
-process as of December 31, 2009).  Muddy Waters’ manufacturing experts believe that it would 
-be impossible for DGW to have no work in process as of year-end 2008 and 2009 were it 
-generating anywhere close to the level of revenue and year-over-year growth it claims.  In a 
-manufacturing operation engaged in regular production of a variety of standard and custom 
-manufactured parts, work in process would typically range between 20% to 40% of current 
-orders.18  Further, DGW proudly states it utilizes an enterprise resource planning (“ERP”) 
-system.  One of the basic benefits of an ERP system for a manufacturer is that it allows for real-
-time monitoring of raw material, work in process, and inventory levels so that management can 
-monitor the business’s performance on an ongoing basis without a disruption or stopping 
-production.  We emailed DGW’s CFO to ask a) why the PRC audit report for Langfang 
-disagrees with the US GAAP audit with respect to work in process, and b) why the work 
-stoppage to facilitate the inventory count is necessary when DGW has an enterprise resource 
-planning system.  He responded that he would speak with the Company to clarify. 
- 
-The SEC flagged the lack of work in process as an issue in September 2010.19  DGW responded 
-to the SEC query by stating that starting in 2008, the Company “elected to complete production 
-of then existing work in process and suspend manufacturing of all further work in process prior 
-to the inventory count cutoff dates” in order to perform a complete physical inventory;20 
-however, this explanation does not hold water.  The negative impact from a major, long-term, 
-company-wide disruption in production and business would far outweigh the benefit of 
-facilitating an inventory count and valuation.  Again, the ERP system would make this entirely 
-unnecessary. 
- 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-16 DGW F-1, p. F-15. 
-17 Genuine 2009 DGW Langfang PRC Audit Report, Notes to Financial Statements p. 6. 
-18 Interviews with US and Chinese manufacturers, Feb and March 2011. 
-19 Supra FN 8. 
-20 http://www.sec.gov/Archives/edgar/data/1465317/000095012310097028/filename1.htm, p. 3.
-!
-
-
-!
-
-
-*#!
-
-
-Because DGW claims that it is experiencing consistently expanding sales revenues, it would be 
-impossible to stop all production on 90 products and take a count of completed products without 
-having any significant impact on company performance.  To do as DGW claims would mean to 
-halt all incoming orders, and slowly push out all current orders until 100% of all production is in 
-a completed state.  (Stopping new production in a factory generating revenue comparable to that 
-DGW claims may be possible in a situation where the company is only engaged in plastic 
-injection molding or making another short production cycle product.)  However, the production 
-cycle of most of DGW’s equipment and products should be approximately 30 days or more.21  If 
-DGW’s claims were true, it would be halting production on new orders sometime in late 
-November or early December in order to clear the schedule of existing production and prepare 
-for the year end count of all inventory.  With the timing of Chinese New year, at which time 
-most Chinese factories halt production, DGW would be planning for major, back to back 
-disruptive events, thus requiring it to either refuse new orders in November or force customers to 
-wait until sometime in late February (at the earliest) to receive their shipments.  In other words, 
-DGW would be delaying or refusing new orders for a period of approximately three months.  
-Based on our discussions with competitors, this would be atypical for the industry. 
- 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-21 Our interviews with DGW’s competitors indicate that the typical production cycle for DGW’s products is 30 to 60 
-days.
-!
-
-
-!
-
-
-*$!
-
-
-Nevertheless, to illustrate the improbability of having no work in progress at any time, Muddy 
-Waters photographed two competitors’ operations.  The below photographs show that the 
-accumulated work in process throughout the factories is extensive:
-!
-
-
-!
-
-
-*%!
-
-
-DGW claims to have an ERP system to manage its manufacturing processes.  The ERP system 
-supposedly tracks all materials and orders, and “integrate(s) all … data and processes into a 
-unified system and use a centralized database to store information.” 22  Such a system should be 
-able to rapidly calculate work in process without a significant disruption or even a temporary 
-stoppage of production. 
- 
-Different Flowers from the Same Garden: DGW and DYP. 
- 
-We express no opinion on DGW’s troubled sister company, DYP, other than to note we 
-uncovered that the land DYP claims to own actually belongs to a similarly-named entity 100% 
-owned by DGW / DYP Chairman Guo (by way of an intermediary entity).23  DGW has five 
-characteristics in common with DYP that we believe are important to DGW’s fraud. 
- 
-Both companies claim to sell through networks of independent distributors, which can make it 
-easier to control the customer verification process during the audit.  DYP claims to have over 85 
-distributors in 28 provinces of China.24  DGW claims to have over 80 distributors in 28 
-provinces of China.25  Book cookers tend to like purporting to sell to distributors more than to 
-end users because 1) it is easier to get confirmation of receivables and revenue (the response rate 
-tends to be high when selling through a largely invented distribution network), and 2) there is no 
-need to come up with new customers to support increasing sales.   
- 
-Both companies have (or had in the case of DYP) CFOs who had no China experience and who 
-do not speak Chinese.  DGW’s CFO, Stephen Park, is an American-born Korean.  DYP’s former 
-CFO, William Suh, is also an American-born Korean.  Both were hired from the United States, 
-and neither speaks Chinese.  Muddy Waters is inherently suspicious of companies that hire CFOs 
-without China experience or Chinese language skills.  In such situations, it is easy for the 
-chairman to wall off the CFO, then commit fraud and steal money without the CFO’s 
-knowledge.   
- 
-Both companies formed numerous subsidiaries after going public and raising money.  DGW and 
-DYP formed their subsidiaries in Beijing and Langfang, Hebei, which have been their bases of 
-operation; therefore, these subsidiaries have not served to expand the companies’ geographic 
-reaches.  While the ostensible purpose of forming the subsidiaries is to enter new lines of 
-business and increase existing production capacity, we are skeptical. 
- 
-On the other hand, forming numerous subsidiaries can make it easier to drain shareholders’ 
-money from the companies.  More subsidiaries creates greater complexity, particularly when 
-combined with the undisclosed related-party transactions in which DGW engages (see DGW 
-Engages in Improper Undisclosed Related Party Transactions that Transfer Money to Chairman 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-22 20-F, p. 35 
-23 The entity that owns the land is Langfang Duoyuan Digital Technology Co., Ltd. (廊坊多元数码技术有限公司), 
-which Chairman Guo likely intended to be confused with Duoyuan Digital Printing Technology Industry (China) 
-Co. Ltd. (多元数码印刷技术产业（中国）有限公司） 
-24 DYP 2009 10-K, p. 2. 
-25 20-F, p. 36.
-!
-
-
-!
-
-
-*&!
-
-
-Guo).  In other words, the complex structure enables the chairman to play a shell game with 
-money.  Further, companies with less capitalization receive less scrutiny in the PRC, which 
-makes it easier to fool the local regulators.  
- 
-Both companies announced aggressive capital expenditure programs after going public.  As we 
-state infra, we believe that much of DGW’s reported and planned capital expenditures are 
-illusory.  We cannot opine on those of DYP, but we invite readers to form their own inferences. 
- 
-Both companies misrepresent property transactions in their public filings.  Because property is a 
-high priced asset, it is at the center of much corporate malfeasance in China.  DGW 
-mischaracterizes how its Langfang subsidiary obtained a portion of its property.  As discussed 
-supra, DGW claims that it obtained the land via a swap with another company that Chairman 
-Guo owns; however, this is untrue.  DYP claims to own land underlying its factory that it does 
-not.  One of Chairman Guo’s own companies, Langfang Duoyuan Digital Technology Co., Ltd., 
-owns the land.  Note that the Chinese and English names for this company are quite similar to 
-those of a subsidiary of DYP.  We doubt that the similarity of the names is coincidental; we 
-believe that the names are intended to confuse. 
- 
-DGW Shows Little Evidence of Using Investor Funds for Capital Expenditures 
- 
-We are skeptical that funds raised have been used for their intended purposes – particularly with 
-respect to capital expenditures.  DGW has raised a net total of US$170.2 million from investors 
-since going public in June 2009.  As of December 31, 2009, DGW purported to be in the process 
-of capital investments (excluding land purchases and development) of US$18.0 million.  On our 
-three visits to the factory, we have seen little evidence of capital investment in machinery.  Many 
-of the processes we observed were performed manually, whereas in a well-managed and well-
-capitalized factory, we would have found automation instead.   
- 
-DGW has acquired land in Daxing as it has announced, and DGW is building on it.  However, 
-we are skeptical regarding how funds will actually be used for this project.  It is clear that DGW 
-has no need for additional capacity.  Therefore any such investment is likely to be a financial 
-black hole. 
- 
-DGW’s Claimed Distribution Network is a Sham. 
- 
-DGW claims to sell its product to over 80 distributors in 28 provinces26.  In reality, its 
-distribution network is barely existent at best.  As we discuss supra, many book cookers consider 
-claiming to use a distributor business model advantageous to committing fraud.  We posed as a 
-potential customer and met with DGW’s marketing manager.   He was unable or unwilling to 
-identify any distributors.  DGW’s SAIC files indicate that DGW created sales offices around the 
-country several years ago; however, we were unable to locate any at their previously advertised 
-addresses.  We believe that the sales offices no longer exist.  We received contact information for 
-one distributor from an investor who performed due diligence on DGW in 2009.  When we 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-26 Supra FN 25.
-!
-
-
-!
-
-
-*'!
-
-
-contacted this distributor, he expressed that DGW’s primary business is in the stock market, and 
-thus he does not sell DGW much product any more. 
- 
-We met with DGW marketing manager Liu Huanzhen attempting to buy water treatment 
-equipment.  He informed us that we would have to place orders through one of DGW’s 
-distributors.  He did state that DGW has 80 distributors.  We asked him for a referral to a 
-distributor, and he refused to provide any names or contact information.  In other words, it 
-appears to be impossible to become a DGW client.  In a separate inquiry we made to a DGW 
-sales employee, we specifically inquired as to whether there was a sales office or distributor in 
-the greater Shanghai with which we could work.  The employee told us that DGW had neither in 
-the Shanghai area.  This would be highly unusual for a company of appreciable scale in China, 
-and directly contradicts the map of DGW’s purported distribution contained in its 20-F27 and F-1 
-in which Shanghai and its neighboring provinces have 23 distributors. 
- 
-
-
- 
- 
- 
- 
- 
-Referring to the SAIC files, we searched online for DGW sales offices in various cities.  We 
-found websites and listings on B2B sites, including Alibaba, for purported DGW sales offices.  
-We then called ten of the offices we found through these sources.   The numbers either were 
-disconnected or the people answering the telephones had never heard of DGW.  We provide 
-screen shots of the 10 webpages with the contact information for the sales offices as a download 
-from our website at:  
- 
-www.muddywatersresearch.com/wp-content/uploads/2011/04/DGWSalesOffices.pdf  
- 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-27 Courtesy of DGW’s 2009 20-F, p. 36.
-!
-
-
-!
-
-
-*(!
-
-
-We have posted a video of our attempts to call DGW’s sales offices on You Tube at the 
-following URL:  
- 
-http://www.youtube.com/watch?v=uDSlymgaH_g  
- 
-We contacted one real distributor of DGW product.  The information came from an investor who 
-performed due diligence on DGW in 2009.  The distributor is based in northeast China.  His 
-comments were: 
- 
-
-
-• DGW’s prices are too high. 
-• Few customers request DGW’s product.  
-• DGW is not competitive, and does a poor job of marketing and promotion.  
-• DWG products make up a tiny portion of his sales. 
-• DGW’s main focus is on making money on stocks.  
-
-
- 
-To create and then dismantle a sales network, replacing it with a loosely controlled distribution 
-network upon which the Company becomes completely dependent defies conventional business 
-wisdom.  It only makes sense if the objective is to create opacity and obfuscate actual business 
-performance. 
- 
-DGW Engages in Improper Undisclosed Related Party Transactions that Transfer Money 
-to Chairman Guo. 
- 
-DGW Langfang’s audit report shows that it is transferring money in undisclosed transactions to a 
-company owned by Chairman Guo, Beijing Huiyuan Duoyuan Digital Printing Technology 
-Institute (“Huiyuan”).   
- 
-Huiyuan, a sole proprietorship, is a special type of legal entity that is particularly opaque, and 
-therefore well-suited for draining money from DGW.  Guo established Huiyuan in 2000 as a sole 
-proprietorship with registered capital of RMB 30,000 (approximately US$3,600 in 2000).  Sole 
-proprietorships do not pay enterprise income tax, are not audited, and thus receive less scrutiny 
-from the tax bureau and SAIC.  Shareholders of sole proprietorships are deemed to be the legal 
-owners of the proprietorships’ assets.28   
- 
-According to the genuine 2009 audit report for DGW Langfang, DGW Langfang had improper 
-payables owed to Huiyuan as of December 31, 2009.  (We show the page from the audit report 
-listing these payables in Appendix A.)  In the audit report, we see Chairman Guo attempting to 
-obscure this information.  The audit report lists different payables to Huiyuan using different 
-Chinese characters (but having the same pronunciation) for Huiyuan’s name.29  We have 
-searched for the alternate entity, but there is none.  Thus, both names refer to the same entity, 
-which Chairman Guo solely owns. 
- 
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-28 There is no limitation on liability for sole proprietorship shareholders. 
-29 Huiyuan was alternately written in the genuine 2009 audit report as 慧元研究所 and 惠元研究所.
-!
-
-
-!
-
-
-*)!
-
-
-The 2009 Annual Audit Report of DGW Langfang showed an account payable balance of RMB 
-26.2 million (US$3.8 million) to Huiyuan at year-end.  The payable grew 434% during 2009.  
-This payable is unusual because (among other reasons) the payable is far more than the revenue 
-DGW Langfang generates.  Further, Huiyuan is in the printing business (if it has a business other 
-than tunneling cash out of DGW) – we cannot conceive of a justification for DGW to be doing 
-business with Huiyuan.  Most importantly, DGW does not disclose these related party 
-transactions in its SEC filings.   
- 
-Despite Huiyuan’s equity capital being de minimus, and recording no revenue in 2009 according 
-to its SAIC file, it has managed to make investments totaling at least RMB 30.5 million (US$4.5 
-million) in other entities over the years.   
- 
-DGW’s Internal Review 
- 
-On September 28, 2010, DGW announced that its board of directors had engaged Skadden, Arps, 
-Slate, Meagher & Flom LLP to conduct a review of DGW’s internal controls.30  We understand 
-that the review has taken longer than originally expected.  Given our findings, Muddy Waters 
-expects the review to identify material deficiencies. 
- 
-Estimated Value 
- 
-We estimate DGW’s value at less than $1.00 per share.  Muddy Waters, LLC believes that DGW 
-is the biggest fraud we have encountered so far in terms of revenue overstatement.  We are 
-unable to determine how much cash is left in the Company, and we believe that the book values 
-of assets are overstated.  Unfortunately we believe that shareholders will ultimately be able to 
-recover very little of value from the Company.   
-  
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-30 http://www.sec.gov/Archives/edgar/data/1465317/000095012310089367/h04504e6vk.htm
-!
-
-
-!
-
-
-"+!
-
-
-
-
-
-Appendix A 
-Genuine 2009 DGW Langfang PRC Audit Report, Notes to 
-Financial Statements page 8 (showing Accounts Payable to 
-
-
-Huiyuan)
-Dilong Zhao
-
-
-
-
-
-Dilong Zhao
+Ex. 1006 (Reserved)
+Ex. 1007 Patent Owner's Preliminary Response, Paper 7, in IPR2014-00610
+
+
+Ex. 1008
+Excerpts from Webster’s Third New International Dictionary 
+(1971)
+
+
+Ex. 1009
+VirnetX's Reply Claim Construction Brief in VirnetX Inc. v. Cisco 
+Systems, Inc. et al., 6:10-cv-417 (Dec. 19, 2011) (E.D. Tex.)
+
+
+Ex. 1010
+Bradner, S., RFC 2026, “The Internet Standards Process –
+Revision 3,” Oct. 1996
+
+
+Ex. 1011
+Decision to Institute Inter Partes Review, Paper 9, in IPR2014-
+00610 (Oct. 15, 2014)
+
+
+Ex. 1012 (Reserved)
+Ex. 1013 (Reserved)
+
+
+Ex. 1014
+Berners-Lee et al., RFC 1945, "Hypertext Transfer Protocol --
+HTTP/1.0," May 1996
+
+
+Ex. 1015
+Patent Owner's Preliminary Response, Paper 10, in IPR2013-
+00348
+
+
+Ex. 1016
+Eastlake, D., RFC 2535, "Domain Name System Security 
+Extensions," Mar. 1999 
+
+
+Ex. 1017
+Patent Owner’s Comments in Response to Examiner’s 
+Determination in Inter Partes Reexamination 95/001,792 (March, 
+11, 2015)
+
+
+Ex. 1018
+VirnetX's Opening Claim Construction Brief in VirnetX Inc. v. 
+Cisco Systems, Inc. et al., 6:10-cv-417 (Dec. 19, 2011) (E.D. Tex.)
+
+
+Ex. 1019
+Memorandum Opinion and Order in VirnetX Inc. v. Cisco Systems, 
+Inc. et al., 6:10-cv-417 (April 25, 2012) (E.D. Tex.)
+
+
+Ex. 1020 Petition for Inter Partes Review in IPR2013-00349
+
+
+Ex. 1021
+Patent Owner's Preliminary Response, Paper 11, in IPR2014-
+00558
+iii
+
+
+Ex. 1022
+Decision to Institute Inter Partes Review, Paper 15, in IPR2014-
+00237
+
+
+Ex. 1023 "Glossary for the Linux FreeS/WAN project," (Feb. 21, 2002)
+Ex. 1024 (Reserved)
+Ex. 1025 Declaration of Dr. Roch Guerin in IPR2014-00401
+The Mangrove Partners Master Fund, Ltd. (“Petitioner” or “Mangrove”) 
+
+
+petitions for Inter Partes Review (“IPR”) under 35 U.S.C. §§ 311–319 and 37 
+
+
+C.F.R. § 42 of claims 1, 3, 4, 7, 8, 10, and 12 (“the Challenged Claims”) of U.S. 
+
+
+Patent No. 6,502,135 (“the ‘135 Patent”). As explained in this petition, there exists 
+
+
+a reasonable likelihood that Mangrove will prevail with respect to at least one of 
+
+
+the Challenged Claims.
+
+
+The Challenged Claims are unpatentable based on teachings set forth in at 
+
+
+least the references presented in this petition. Mangrove respectfully submits that 
+
+
+an IPR should be instituted, and that the Challenged Claims should be canceled as 
+
+
+unpatentable.
+
+
+I. MANDATORY NOTICES UNDER 37 C.F.R § 42.8(A)(1)
+
+
+A. REAL PARTY-IN-INTEREST UNDER 37 C.F.R. § 42.8(B)(1)
+
+
+Petitioner, The Mangrove Partners Master Fund, Ltd., is the real party-in-
+
+
+interest.
+
+
+B. RELATED MATTERS UNDER 37 C.F.R. § 42.8(B)(2)
+
+
+The ’135 Patent is the subject of a number of civil actions including: (i) Civ. 
+
+
+Act. No. 6:13-cv-00211-LED (E.D. Tex.), filed February 26, 2013; (ii) Civ. Act. 
+
+
+No. 6:12-cv-00855-LED (E.D. Tex.), filed November 6, 2012; and (iii) Civ. Act. 
+
+
+No. 6:10-cv-00417-LED (E.D. Tex.), filed August 11, 2010.
+
+
+The ’135 Patent was the subject of petitions for inter partes review filed by 
+
+
+RPX Corporation (IPR2014-00171 and IPR2014-00172), Apple, Inc. (IPR2013-
+2
+
+
+00348 and IPR2013-00349), and a petition filed by Microsoft (IPR2014-00558), 
+
+
+which were each found untimely by the PTAB and not instituted. Additionally, the 
+
+
+‘135 Patent was the subject of a petition for inter partes review filed by New Bay 
+
+
+Capital, LLC (IPR2013-00375), which was abandoned by petitioner prior to a 
+
+
+decision to institute.  The ’135 Patent is also the subject of inter partes
+
+
+reexamination nos. 95/001,679 and 95/001,682. In the formerly merged 
+
+
+proceedings, the Office issued a Non-Final Action rejecting all 18 claims of the 
+
+
+’135 Patent, including rejections based on, inter alia, Kiuchi (Ex. 1002), which is 
+
+
+one of the prior art references presented herein.1 The ’135 Patent also was subject 
+
+
+to reexamination no. 95/001,269, which concluded on June 7, 2011 – after the 
+
+
+petitioner in that proceeding (Microsoft) ceased participating -- with an inter partes
+
+
+reexamination certificate confirming all of the claims subject to the reexamination 
+
+
+and adding new claim 18.
+
+
+C. LEAD AND BACK-UP COUNSEL UNDER 37 C.F.R. § 42.8(B)(3)
+
+
+Mangrove provides the following designation of counsel.
+
+
+.LEAD COUNSEL BACKUP COUNSEL
+
+
+Abraham Kasdan, Reg. No. 32,997 James T. Bailey, Reg. No. 44,518
+
+
+                                                       
+1 In subsequent Office Actions in the severed proceedings relating to 95/001,679 , 
+
+
+the re-examination of claims 10-12 was terminated based on pre-AIA 35 U.S.C. 
+
+
+317(b), with the remaining rejections of claims 1-9 and 13-18 maintained.
+3
+
+
+Wiggin and Dana LLP
+450 Lexington Avenue
+New York, NY 10017
+T: 212-551-2841
+Email: akasdan@wiggin.com
+
+
+504 W. 136th St. #1B
+New York, NY 10031
+T:  917-626-1356
+Email:  jtb@jtbaileylaw.com
+
+
+D. Service Information
+
+
+Please address all correspondence and service to counsel at the address 
+
+
+provided in Section I(C). Mangrove also consents to electronic service by email at 
+
+
+IP@wiggin.com.
+
+
+II. PAYMENT OF FEES – 37 C.F.R. § 42.103
+
+
+Mangrove authorizes the Patent and Trademark Office to charge Deposit 
+
+
+Account No. 23-1665 for the fee set in 37 C.F.R. § 42.15(a) for this Petition and 
+
+
+further authorizes payment for any additional fees to be charged to this Deposit 
+
+
+Account.
+
+
+III. REQUIREMENTS FOR IPR UNDER 37 C.F.R. § 42.104
+
+
+A. GROUNDS FOR STANDING UNDER 37 C.F.R. § 42.104(A)
+
+
+Mangrove certifies that the ‘135 Patent is eligible for IPR. Mangrove is not 
+
+
+barred or estopped from requesting this review challenging the Challenged Claims 
+
+
+on the below-identified grounds.
+
+
+B. IDENTIFICATION OF CLAIMS BEING CHALLENGED (37 
+C.F.R. § 42.104(B))
+
+
+Petitioner requests an IPR of the Challenged Claims on the grounds set forth 
+
+
+in the table shown below, and requests that each of the Challenged Claims be
+4
+
+
+found unpatentable. An explanation of how these claims are unpatentable under the 
+
+
+statutory grounds identified below is provided in the form of a detailed description 
+
+
+that indicates where each element can be found in the cited prior art, and the 
+
+
+relevance of that prior art. Additional explanation and support for each ground of 
+
+
+rejection is set forth in Exhibit 1003, the Declaration of Dr. Roch Guerin (“Guerin 
+
+
+Declaration”), referenced throughout this Petition.
+
+
+Claims 1, 3, 4, 7, 8, 10, and 12 of the ’135 Patent are unpatentable as being 
+
+
+anticipated under 35 U.S.C. § 102 (b), and/or for being obvious over the prior art 
+
+
+under 35 U.S.C. § 103. Specifically:
+
+
+Ground ‘135 Patent 
+Claims
+
+
+Basis for Rejection
+
+
+Ground 1 1, 3, 4,7, 8, 10, 
+and 12
+
+
+Anticipated under § 102(b) by 
+Takahiro Kiuchi and Shigekoto 
+Kaihara, “C-HTTP - The Development 
+of a Secure, Closed HTTP-based 
+Network on the Internet,” the 
+Proceedings of SNDSS 1996 
+(“Kiuchi”) (Ex. 1002)
+
+
+Ground 2 8 Obvious under § 103 based upon 
+Kiuchi (Ex. 1002) in view of RFC 
+1034 (Ex. 1005)
+
+
+Kiuchi qualifies as prior art under 35 U.S.C § 102(b). Specifically, Kiuchi 
+
+
+(Ex. 1002) is a printed publication that was presented at the 1996 Symposium on 
+
+
+Network and Distributed Systems Security (SNDSS) on February 22 & 23, 1996, 
+
+
+and published by IEEE in the Proceedings of SNDSS 1996.
+5
+
+
+RFC 1034 likewise qualifies as prior art under 35 U.S.C § 102(b). 
+
+
+Specifically, RFC 1034 (Ex. 1005) was published in November 1987 by the 
+
+
+Internet Engineering Task Force (IETF).  RFC 1034 was publically distributed no 
+
+
+later than November 1987. Ex. 1005.
+
+
+Petitioner’s proposed construction of the contested claims, the evidence 
+
+
+relied upon, and the precise reasons why the claims are unpatentable are provided 
+
+
+in §§ IV and V, below.
+
+
+IV. SUMMARY OF THE ‘135 PATENT
+
+
+A. BRIEF DESCRIPTION
+
+
+The ‘135 Patent generally addresses secure communications over the 
+
+
+Internet.  As acknowledged in the ‘135 Patent, “[a] tremendous variety of methods 
+
+
+have been proposed and implemented to provide security and anonymity for 
+
+
+communications over the Internet.”  Ex. 1001 at 1:16-18.  The majority of the ‘135 
+
+
+specification is dedicated to describing one particular way of providing secure and 
+
+
+anonymous communications using an allegedly inventive protocol called the 
+
+
+“Tunneled Agile Routing Protocol (TARP).”  See, e.g., id. at 2:65-5:64.  The 
+
+
+challenged claims of the ‘135 Patent, however, are not limited to TARP and 
+
+
+instead all address one of five alleged “improvements” added by CIP application 
+
+
+serial number 09/504,783 filed on February 15, 2000.  See id. at 5:65-6:10.  
+
+
+The claims of the ‘135 Patent are directed to a system and method for
+6
+
+
+securely communicating over the Internet. See Ex. 1001 at 2:66. More specifically, 
+
+
+the claims all address “a DNS proxy server that transparently creates a virtual 
+
+
+private network in response to a domain name inquiry.”  Id. at 6:1-3.
+
+
+Claim 1 of the ‘135 Patent is reproduced below:
+
+
+A method of transparently creating a virtual private network (VPN) between 
+a client computer and a target computer, comprising the steps of: 
+
+
+(1) generating from the client computer a Domain Name Service (DNS) 
+request that requests an IP address corresponding to a domain name 
+associated with the target computer; 
+
+
+(2) determining whether the DNS request transmitted in step (1) is 
+requesting access to a secure web site; and 
+
+
+(3) in response to determining that the DNS request in step (2) is requesting 
+access to a secure target web site, automatically initiating the VPN between 
+the client computer and the target computer.
+
+
+B. ‘135 PATENT CLAIM CONSTRUCTION UNDER 37 C.F.R. §§ 
+42.104(B)(3)
+
+
+A claim subject to IPR is given its “broadest reasonable construction in light 
+
+
+of the specification of the patent in which it appears.” 37 C.F.R. § 42.100(b); see 
+
+
+also Patent Trial Practice Guide, 77 Fed. Reg. 48,756, 48,766 (Aug. 14, 2012). 
+
+
+Under the broadest reasonable standard, claim terms are given their ordinary and 
+
+
+customary meaning as would be understood by one of ordinary skill in the art in 
+
+
+the context of the entire disclosure. In re Translogic Tech., Inc., 504 F.3d 1249,
+7
+
+
+1257 (Fed. Cir. 2007). Any special definition for a claim term must be set forth in 
+
+
+the specification with reasonable clarity, deliberateness, and precision. In re 
+
+
+Paulsen, 30 F.3d 1475, 1480 (Fed. Cir. 1994). In this regard, however, care must 
+
+
+be taken not to read a particular embodiment appearing in the written description 
+
+
+into the claim if the claim language is broader than the embodiment. In re Van 
+
+
+Geuns, 988 F.2d 1181, 1184 (Fed. Cir. 1993).
+
+
+Petitioner submits constructions for the following terms. All remaining 
+
+
+terms should be given their plain meaning.
+
+
+1. VIRTUAL PRIVATE NETWORK (VPN) (CLAIMS 1 AND 10)
+
+
+Petitioner submits that the broadest reasonable interpretation of “virtual 
+
+
+private network” or “VPN” should be broad enough to encompass “a secure 
+
+
+network that includes portions of a public network.”
+
+
+Petitioner’s proposed interpretation was previously adopted by the PTAB in 
+
+
+IPR2014-00237 regarding related U.S. Patent No. 8,504,697.  Ex. 1022, pp. 11-12
+
+
+(Decision to Institute Inter Partes Review, Paper No. 15).  This interpretation is 
+
+
+consistent with both the specification and the common meaning of “VPN” for the 
+
+
+reasons addressed therein.  Id.
+
+
+In prior IPR proceedings regarding the ‘135 Patent, Patent Owner has 
+
+
+proposed an interpretation of “VPN” that differs in two main respects; namely, that 
+
+
+it requires (i) encryption, and (ii) computers in the VPN to directly communicate
+8
+
+
+with each other. Ex.1015, p. 22. Both positions are inconsistent with the broadest 
+
+
+reasonable interpretation of “VPN.”
+
+
+A VPN does not require encryption:
+
+
+The ’135 Patent does not explicitly define the term “VPN.” See Ex. 1003, ¶ 
+
+
+17. However, the ’135 Patent explains that one can provide data security using “IP 
+
+
+hopping” schemes, rather than solely by using encryption. As it states, “Data 
+
+
+security is usually tackled using some form of data encryption.” Ex. 1001 at 1:38-
+
+
+39 (emphasis added). The ’135 Patent also illustrates use of a quasi-random IP 
+
+
+hopping scheme to implement a VPN. See, e.g., id. at 23:10-14 (“In a second mode 
+
+
+referred to as ‘promiscuous per VPN’ mode, a small set of fixed hardware 
+
+
+addresses are used, with a fixed source/destination hardware address used for all 
+
+
+nodes communicating over a virtual private network.” (Emphasis added)). 
+
+
+Moreover, claims 6 and 11, which depend on independent claims 1 and 10
+
+
+respectively, rely on this particular embodiment.  For example, claim 6 specifies
+
+
+that step 3 of claim 1 “comprises the step of establishing the VPN by creating an 
+
+
+IP address hopping scheme between the client computer and the target computer.” 
+
+
+Id. at 47:53-55 (emphasis added).  Similarly, claim 11 requires that “the gateway 
+
+
+computer creates the VPN by establishing an IP address hopping regime that is 
+
+
+used to pseudorandomly change IP address in packets transmitted between the 
+
+
+client computer and the secure target computer.”  Id. at 48:20-24 (emphasis
+9
+
+
+added); see also id. at 2:25-36 (explaining use of anonymity techniques).  
+
+
+Accordingly, the specification envisions VPNs that do not require encryption.
+
+
+To support its contention that a VPN requires encryption, Patent Owner has 
+
+
+in prior proceedings pointed to the term “FreeS/WAN” in one passage of the ’135 
+
+
+Patent. Ex. 1015, p. 23 (citing Ex. 1001 at 37:50-62). That passage, however, does 
+
+
+not define what a VPN is, but simply explains that RFC 2535 (the “FreeS/WAN” 
+
+
+protocol) can be used to implement one type of a VPN. See id. Notably, Patent 
+
+
+Owner does not cite to any passage of RFC 2535 (Ex. 1016) – the publication 
+
+
+actually cited in the ’135 Patent – to support its assertions. This is because RFC 
+
+
+2535 does not even mention the terms “encryption” or “VPN,” much less state that 
+
+
+a VPN must use encryption.
+
+
+In the same IPR proceedings, Patent Owner also relied upon a “glossary” 
+
+
+related to “FreeS/WAN” that was purportedly cited in the prosecution history of 
+
+
+the ‘135 patent.  Ex. 1015, p. 23.  That glossary, which is internally dated February 
+
+
+21, 2002 (two years after the filing of the CIP application that matured as the ‘135 
+
+
+patent), states that a VPN is “a network that can safely be used as if it were private, 
+
+
+even though some of its communication uses insecure connections.  All traffic on 
+
+
+those connections is encrypted.”  Ex. 1023, p. 24.  This later-created document 
+
+
+further describing what is called out in the specification as “[o]ne implementation” 
+
+
+of “[o]ne conventional scheme” for creating a VPN, Ex. 1001 at 37:50-62, falls far
+10
+
+
+short of a definition of VPN and should not be read into the claims.  Notably, 
+
+
+however, the glossary’s definition by its use of “those connections” only envisions 
+
+
+the use of encryption over “insecure connections.” Ex. 1023, p. 24. In other words,
+
+
+encrypting while on the public network.  Id.  As described in further detail in §V.A 
+
+
+below, this is exactly what Kiuchi does – uses encryption on the public network 
+
+
+connecting the client-side and server-side proxies with the rest of the 
+
+
+communication paths made secure by the use of firewalls.  
+
+
+Patent Owner has also pointed to the constructions adopted by certain 
+
+
+District Courts that a VPN requires encryption.  Ex. 1015, pp. 23-24.  These
+
+
+constructions, however, are not the broadest reasonable interpretation, but reflect 
+
+
+the meaning of the term as used in district court litigation; it is not controlling in 
+
+
+this proceeding. In re Trans Texas Holdings Corp., 498 F.3d 1290, 1298-99 (Fed. 
+
+
+Cir. 2007);  
+
+
+Finally, the Patent Owner has contended that Petitioner’s expert, Dr. Roch 
+
+
+Guerin, has in other IPRs regarding related patents “supported” interpretations of 
+
+
+VPN requiring encryption and has “identif[ied] passages [in the specification] that 
+
+
+support defining a VPN to require encryption.”  Ex. 1021, p. 32.  However, Dr. 
+
+
+Guerin did not provide an opinion regarding the broadest reasonable interpretation
+
+
+of VPN.  Instead, he offered an opinion that the broadest reasonable interpretation 
+
+
+of VPN would be “broad enough” to cover a proposed interpretation that included
+11
+
+
+“encrypting traffic on insecure communication paths” because that interpretation 
+
+
+was “not inconsistent” with the specification of the related patent at issue.  Ex. 
+
+
+1025, ¶ 19.  Dr. Guerin also noted that the ‘180 patent at issue in that proceeding 
+
+
+described a VPN as including “a secure communication link” and that “some of the 
+
+
+VPNs” described in that patent “rely upon encryption” to achieve that security.  Id. 
+
+
+at ¶¶ 19-20.  Dr. Guerin’s prior opinions do not support reading a requirement of 
+
+
+encryption into the term VPN.  
+
+
+The broadest reasonable construction of “VPN” thus does not require 
+
+
+encryption, but can establish a “private network” using either encryption or other 
+
+
+methods, such as IP hopping, or both.
+
+
+A VPN does not require computers to directly communicate with each other:
+
+
+Patent Owner has also contended in prior proceedings that a “VPN” requires 
+
+
+computers in a VPN to “directly communicate with each other.” See e.g., Ex. 1009, 
+
+
+pp. 1-3 (emphasis added). But in the August 2010 litigation, the Court found that 
+
+
+Patent Owner had disclaimed VPNs that do not involve “direct communications” 
+
+
+between the involved computers. Ex. 1019, pp. 6-9. The Court relied on Patent 
+
+
+Owner’s statements to the Office during the ’269 reexamination proceeding 
+
+
+involving the ’135 Patent to make this determination; specifically, that the claims 
+
+
+of the ’135 Patent were not anticipated by the prior art “Aventail” because 
+
+
+“computers connected according to Aventail do not communicate directly with
+12
+
+
+each other.” Id (Emphasis added). The Court also observed that “…routers, 
+
+
+firewalls, and similar servers that participate in typical network communication do 
+
+
+not impede ‘direct’ communication between a client and target computer.” Ex. 
+
+
+1019, p. 8, n. 2. The Court’s finding that Patent Owner disclaimed a portion of the 
+
+
+literal scope of the ’135 Patent claims (i.e., that covering VPNs in which 
+
+
+computers do not “directly” communicate) means that the ’135 claims in their 
+
+
+broadest reasonable construction must still encompass this subject matter. Patent 
+
+
+Owner’s prosecution disclaimer is effective in a district court proceeding but not 
+
+
+here. E.g., M.P.E.P. § 2111; id. at § 2111.01(I) (“Although claims of issued patents 
+
+
+are interpreted in light of the specification, prosecution history, prior art and other 
+
+
+claims, this is not the mode of claim interpretation to be applied during 
+
+
+examination.”).
+
+
+Finally, in the context of IPR proceedings IPR 2014-00237 and -00238 
+
+
+concerning related U.S. Patent No. 8,504,697, the Board has in the past construed 
+
+
+the term “virtual private network” to mean “a ‘secure communication link’ with 
+
+
+the additional requirement that the link includes a portion of a public network.” 
+
+
+Again, there is no requirement that a VPN include encryption or direct 
+
+
+communication.
+
+
+For all these reasons, the broadest reasonable construction of “VPN” 
+
+
+therefore encompasses “a secure network that includes portions of a public
+13
+
+
+network.”
+
+
+2. DOMAIN NAME (CLAIM 10)
+
+
+The Patent Owner has asserted to the PTAB in proceedings regarding U.S. 
+
+
+Patent No. 7,490,151, a divisional of the ‘135 Patent having a common 
+
+
+specification, that a “domain name” means “a name corresponding to a network 
+
+
+address.”  Ex. 1007, p. 21.  
+
+
+In view of the Patent Owner’s own assertions, it is reasonable, for purposes 
+
+
+of this proceeding in which the broadest reasonable interpretation standard applies, 
+
+
+to consider the term “domain name” as encompassing “a name corresponding to a 
+
+
+network address.” This is consistent with its plain and ordinary meaning and usage 
+
+
+in the ‘135 Patent. Ex. 1001 at 37:22-39.
+
+
+In the earlier proceedings, Patent Owner has urged that no interpretation of 
+
+
+this term is needed, because it did not appear alone in the claims of that patent, but 
+
+
+rather only as part of a larger phrase.  Ex. 1007, p. 21.  That is not the case here. In 
+
+
+the ‘135 Patent, “domain name” is used as a free-standing term in the claims.  Ex. 
+
+
+1001 at 48:7.  In addition, the term “domain name” informs the meaning of other 
+
+
+claim terms such as “Domain Name Service (DNS) request” (claim 1) and “DNS 
+
+
+proxy server” (claim 8 and 10).  
+
+
+Accordingly the term “domain name” should be interpreted and it should be 
+
+
+interpreted to encompass “a name corresponding to a network address.”
+14
+
+
+3. DNS REQUEST (CLAIM 1)
+
+
+The Patent Owner has asserted to the PTAB in proceedings regarding U.S. 
+
+
+Patent No. 7,490,151, a divisional of the ‘135 Patent having a common 
+
+
+specification, that a “DNS request” means “a request for a resource corresponding 
+
+
+to a domain name.” Ex. 1007, p. 22. In IPR2014-00610 the PTAB agreed with and 
+
+
+adopted this interpretation.  Ex. 1011, p. 6.
+
+
+Petitioner generally agrees with this interpretation, but believes that the 
+
+
+agreed understanding of “domain name” should be incorporated into the 
+
+
+interpretation of “DNS request,” which should then be interpreted to mean “a 
+
+
+request for a resource corresponding to a network address.”
+
+
+4. DNS PROXY SERVER (CLAIMS 10, 8)
+
+
+Patent Owner has in prior proceedings regarding the ‘135 Patent asserted 
+
+
+that a “DNS proxy server” is “a computer or program that responds to a domain 
+
+
+name inquiry in place of a DNS.” See Ex. 1018, pp. 16-17 (Plaintiff’s Opening 
+
+
+Claim Construction Brief in case no. 6:10-cv-417 (E.D. Tex.)); Ex. 1015, pp. 32-33
+
+
+(IPR2013-00348, Paper No. 10).
+
+
+This is consistent with the embodiments disclosed in the specification of the 
+
+
+‘135 Patent.  See Ex. 1001 at 38:23-47. Accordingly, for the purposes of this 
+
+
+Petition, Mangrove adopts this construction. 
+
+
+Petitioner notes that Patent Owner has admitted that – and the above 
+
+
+construction allows for the fact that –the claimed DNS proxy server can be
+15
+
+
+distributed among different computers or processes, under the broadest reasonable 
+
+
+interpretation. See Ex. 1015, pp. 32-33.
+
+
+5. CLIENT COMPUTER (CLAIMS 1 AND 10)
+
+
+In a prior IPR proceeding (IPR2014-00558) involving the ‘135 Patent, 
+
+
+Patent Owner argued that the term “client computer” should be interpreted to mean 
+
+
+“user’s computer.”  Ex. 1021, pp. 37-39 (IPR2014-00558, Paper 11).  Patent 
+
+
+Owner’s proposed interpretation does not reflect the broadest reasonable 
+
+
+interpretation of the term and should be rejected.
+
+
+Patent Owner’s proposed construction transparently attempts to rewrite the 
+
+
+claim term to substitute “user’s” for “client.” This approach to claim construction, 
+
+
+in which limitations from preferred embodiments that are not present in the claims 
+
+
+are “read in” to the claims, has been rejected multiple times by the Patent Office 
+
+
+under the broadest reasonable interpretation standard.  For example, in IPR2014-
+
+
+00610 regarding a divisional of the ‘135 Patent (U.S. Patent No. 7,490,151) the 
+
+
+PTAB rejected Patent Owner’s attempt to give the term “client” the identical 
+
+
+interpretation Patent Owner has offered in the ‘135 Patent for “client computer.”  
+
+
+Ex. 1011, pp. 7-8.  Instead, the PTAB found that the broadest reasonable 
+
+
+interpretation of the term “client” in light of the same specification was “a device, 
+
+
+computer, system, or program from which a data request to a server is generated.”  
+
+
+Petitioner agrees with this interpretation and proposes that the same reasoning
+16
+
+
+should be applied here. As such, the term “client computer” should be interpreted 
+
+
+to mean “a computer from which a data request to a server is generated.”
+
+
+As used in ordinary technical usage and in the ‘135 Patent, a “client 
+
+
+computer” refers to the computer from which a data request to a server is 
+
+
+originated.  See Ex. 1001(‘135 Patent at 1:49-55 (“Proxy servers prevent 
+
+
+destination servers from determining the identities of the originating clients. This 
+
+
+system employs an intermediate server interposed between client and destination 
+
+
+server. The destination server sees only the Internet Protocol (IP) address of the 
+
+
+proxy server and not the originating client.”).  There is no requirement anywhere in 
+
+
+the intrinsic record that a client computer be a “user computer,” as Patent Owner 
+
+
+asserts.
+
+
+Finally, Petitioner’s proposed interpretation is also consistent with the 
+
+
+Office’s interpretation of the term “client computer” in another patent in the ‘135 
+
+
+family.  As the Patent Owner previously admitted, “[i]n reexamination control no. 
+
+
+95/001,792, which pertains to related U.S. Patent No. 7,188,180, the Board found 
+
+
+that the term ‘client computer’ may read on a proxy computer where no user 
+
+
+resides.”  Ex. 1021, p. 40, n. 10.2
+
+
+                                                       
+2 While the Patent Owner has stated its intent to reopen prosecution in that 
+
+
+reexamination, see Ex. 1021 at 40, n. 10, the examiner has to date maintained the 
+
+
+rejections based on the above interpretation of “client computer.”  See Ex. 1017, p.
+17
+
+
+6. AUTOMATICALLY (CLAIM 1)
+
+
+The Patent Owner has previously asserted to the PTAB that “automatically 
+
+
+initiating/creating an encrypted/ secure channel” means “initiating/creating the 
+
+
+encrypted/secure channel without involvement of a user.” Ex. 1007, pp. 24-25.   
+
+
+However, as the PTAB has previously pointed out, “the term ‘automatic’ has a 
+
+
+plain and ordinary meaning of ‘marked by action that . . . arises as a really or 
+
+
+apparently necessary reaction to or consequence of a given set of circumstances’ or 
+
+
+‘having a self-acting or self-regulating mechanism.’”  Ex. 1011, p. 7, quoting
+
+
+WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY 148 (1971) (Ex. 
+
+
+1008).  As the PTAB previously found, neither the plain meaning of 
+
+
+“automatically” nor the ‘151 specification support the Patent Owner’s proposed 
+
+
+added limitation that “automatically” means “without user involvement.”  Ex. 
+
+
+1011, pp. 6-7.  Accordingly, the word “automatically” should be interpreted under 
+
+
+its ordinary meaning as “marked by action that arises as a really or apparently 
+
+
+necessary reaction to or consequence of a given set of circumstances” or “having a 
+
+
+self-acting or self-regulating mechanism.”
+
+
+                                                                                                                                                                                  
+4 (Patent Owner’s Comments in Response to Examiner’s Determination (Mar. 11, 
+
+
+2015)).
+18
+
+
+V. MANNER OF APPLYING CITED PRIOR ART TO EVERY CLAIM 
+FOR WHICH AN IPR IS REQUESTED, THUS ESTABLISHING A 
+REASONABLE LIKELIHOOD THAT AT LEAST ONE CLAIM OF 
+THE ‘135 PATENT IS UNPATENTABLE
+
+
+A. [GROUND 1] – CLAIMS 1-4, 7, 8, 10, AND 12 ARE ANTICIPATED 
+BY KIUCHI (EX. 1002)
+
+
+Kiuchi is a printed publication that was presented at the 1996 Symposium on 
+
+
+Network and Distributed Systems Security (SNDSS) on February 22 & 23, 1996, 
+
+
+and published by IEEE in the Proceedings of SNDSS 1996. Kiuchi was distributed 
+
+
+publicly without restriction no later than February 1996. See Ex. 1002. Kiuchi is 
+
+
+prior art to the ’135 Patent at least under § 102(b). 
+
+
+Overview of Kiuchi
+
+
+Kiuchi describes a system and a protocol called “C-HTTP” that “provides 
+
+
+secure HTTP communication mechanisms within a closed group of institutions on 
+
+
+the Internet, where each member is protected by its own firewall.” Ex. 1002, p. 64, 
+
+
+Abstract. Kiuchi describes that C-HTTP can be used to create “a closed HTTP-
+
+
+based virtual network . . . for closed groups; for example, the headquarters and 
+
+
+branches of a given corporation.” Ex. 1002, p. 69, § 5. The following Diagram 1 
+
+
+illustrates relevant parts within the C-HTTP system described by Kiuchi, and will 
+
+
+be used to describe the C-HTTP system. See Ex. 1003, ¶ 18.
+19
+
+
+Leveraging these parts, Kiuchi describes a process by which a client-side 
+
+
+proxy establishes a secure connection with a server-side proxy using the C-HTTP 
+
+
+protocol over the Internet (i.e., a C-HTTP connection), thus establishing a closed 
+
+
+virtual network including a user agent and an origin server. See Ex. 1002, p. 64, § 
+
+
+2.1; p. 69, § 5; see also Ex. 1003, ¶ 19. Through the C-HTTP connection, a user 
+
+
+agent associated with the client-side proxy may request information stored on an
+
+
+origin server associated with the server-side proxy. See id. In order to establish a 
+
+
+C-HTTP connection, Kiuchi teaches discrete steps that will be described using the 
+
+
+following block diagram. See Ex. 1002, pp. 65-66, § 2.3; see also, Diagram 2, 
+
+
+where each step is numbered to indicate a temporal sequence of the steps taught by 
+
+
+Kiuchi (Ex. 1003, ¶ 20).
+20
+
+
+To enable initiation of this set of steps, the user agent displays HTML 
+
+
+documents to an end-user. See Ex. 1002, p. 65, § 2.3. Through interaction with the 
+
+
+user agent, the end user selects a hyperlink URL included within an HTML 
+
+
+document. See id. Kiuchi provides an example of the selected URL:
+
+
+“http://server.in.current.connection/sample.html=@=6zdDfldfcZLj8V!i”, where 
+
+
+“server.in.current.connection” is the hostname, “sample.html” is the name of the 
+
+
+resource being requested, and “6zdDfldfcZLj8V!i” is a connection ID. See Ex. 
+
+
+1002, p. 65, § 2.3; Ex. 1003, ¶ 21.
+
+
+Thereafter, as illustrated by Diagram 3, initial steps are performed by 
+
+
+Kiuchi’s system in response to user selection of the hyperlink. These steps include: 
+
+
+(1) a request being sent from the user agent to the client-side proxy for the selected 
+
+
+URL; (2) a request being sent from the client-side proxy to the C-HTTP name
+21
+
+
+server for an IP address corresponding to the hostname included in the selected 
+
+
+URL; and (3) a response being returned from the C-HTTP name server that either 
+
+
+includes the IP address associated with the server-side proxy or an error message. 
+
+
+Ex. 1003, ¶ 25. If the C-HTTP name server returns an error message (i.e., if the 
+
+
+hostname does not correspond to a secure server in the closed network, or the 
+
+
+connection is not permitted), then the client-side proxy performs a DNS lookup 
+
+
+using the standard/public DNS, as illustrated by the dashed line. See Ex. 1002, p. 
+
+
+65, § 2.3; see also Ex. 1003, ¶ 25.
+
+
+Analyzing these steps in further detail, when the end user selects the 
+
+
+hyperlink in the displayed HTML document, the user agent sends a request for the 
+
+
+URL to the client-side proxy, as illustrated by (1) in Diagram 3. See Ex. 1002, p.
+22
+
+
+65, § 2.3. When the client-side proxy receives the URL (including the hostname) 
+
+
+from the user agent, it determines whether the connection ID included in the URL 
+
+
+matches the IDs of any current connections being maintained by the client-side 
+
+
+proxy. See id. If the connection ID is not found in the current connection table in 
+
+
+the client-side proxy, the client-side proxy attempts to establish a new connection 
+
+
+with the host corresponding to the hostname included in the URL. See id.
+
+
+To establish a new connection with the corresponding host, as illustrated by 
+
+
+(2) in Diagram 3, the client-side proxy sends a request to ask the C-HTTP name 
+
+
+server whether the client-side proxy can communicate with the host associated 
+
+
+with the hostname and, if so, to resolve the hostname included in the URL such 
+
+
+that the corresponding IP address is returned by the C-HTTP name server to the 
+
+
+client-side proxy. See Ex. 1002, p. 65, § 2.3(2). In some instances, the hostname 
+
+
+corresponds to an origin server associated with a server-side proxy and is 
+
+
+associated with an IP address for the server-side proxy. See Ex. 1002, p. 65, § 2.3; 
+
+
+see also Ex. 1003, ¶¶ 21-23. In other instances, the hostname corresponds to a 
+
+
+server on the Internet outside the C-HTTP network. Ex. 1002, p. 65, § 2.3; Ex. 
+
+
+1003, ¶ 23.
+
+
+Upon receipt of the request, the C-HTTP name server first authenticates the 
+
+
+client-side proxy (and, by association, the user agent) to determine if the request is 
+
+
+legitimate. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶ 23. When the request is
+23
+
+
+legitimate, the C-HTTP name server determines whether a “server-side proxy 
+
+
+[associated with the hostname] is registered in the closed network.” See id. As 
+
+
+illustrated by (3) in Diagram 3, if a server-side proxy associated with the hostname 
+
+
+is not registered in the closed network, or the connection is not permitted, then the 
+
+
+C-HTTP name server returns an error message, in response to which the client-side 
+
+
+proxy performs a look-up with a standard/public DNS server, behaving like an 
+
+
+ordinary HTTP proxy. See id. The standard/public DNS server then returns an IP 
+
+
+address of the host corresponding to the hostname, which the client-side proxy uses 
+
+
+to connect to the host on behalf of the user agent. See id.
+
+
+On the other hand, if the server-side proxy is registered in the closed 
+
+
+network and is permitted to accept a connection from the client-side proxy, then 
+
+
+the C-HTTP name server sends a response to the client-side proxy’s request that 
+
+
+includes “the IP address and public key of the server-side proxy and both request 
+
+
+and response Nonce values,” as illustrated by (3) in Diagram 3. See Ex. 1002, p. 
+
+
+65, § 2.3; see also Ex. 1003, ¶ 23. Notably, the C-HTTP name server never 
+
+
+provides the IP address of the origin server to the client-side proxy. See Ex. 1002,
+
+
+p. 65, § 2.2; see also Ex. 1003, ¶ 28. Rather, when the C-HTTP name server 
+
+
+returns the IP address of the server-side proxy along with the server-side proxy’s 
+
+
+public key and the nonce values, the client-side proxy attempts to establish a C-
+
+
+HTTP connection with the server-side proxy using the IP address received from
+24
+
+
+the C-HTTP name server. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶ 26. The 
+
+
+steps for doing so are illustrated in Diagram 4. See Ex. 1003, ¶ 27.
+
+
+In particular, Kiuchi describes that the client-side proxy, in response to 
+
+
+receiving the IP address of the server-side proxy and other information from the C-
+
+
+HTTP name server, sends a “[r]equest for connection to the server-side proxy” (4), 
+
+
+the server-side proxy performs a “[l]ookup of client-side proxy information” with 
+
+
+the C-HTTP name server (5 and 6), and the server-side proxy sends confirmation 
+
+
+of the connection to the client-side proxy (7), if the server-side proxy is able to 
+
+
+properly authenticate the client-side proxy. See Ex. 1002, pp. 65-66, § 2.3, steps 3-
+
+
+5; see also Ex. 1003, ¶ 29-30.
+
+
+Considering these steps in further detail, the client-side proxy, in response to
+25
+
+
+receiving the IP address and associated information from the C-HTTP server, 
+
+
+sends a request for connection to the server-side proxy, as illustrated by (4) in 
+
+
+Diagram 4. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶ 29. The client-side 
+
+
+proxy encrypts the request for connection using the server-side proxy’s public key 
+
+
+and includes in the request “the client-side proxy's IP address, hostname, request 
+
+
+Nonce value and symmetric data exchange key for request encryption.” See Ex. 
+
+
+1002, p. 65, § 2.3; see also Ex. 1003, ¶ 30. After receiving the request, the server-
+
+
+side proxy “asks the C-HTTP name server whether the client-side proxy is an 
+
+
+appropriate member of the closed network,” as illustrated by (5) in Diagram 4, and, 
+
+
+in response, the C-HTTP name server “examines whether the client-side proxy is 
+
+
+permitted to access the server-side proxy.” Ex. 1002, pp. 65-66, § 2.3; see also Ex. 
+
+
+1003, ¶ 27. If the C-HTTP name server determines that “access is permitted, the C-
+
+
+HTTP name server sends [to the serverside proxy] the IP address and public key of 
+
+
+the client-side proxy and both request and response Nonce values,” as illustrated 
+
+
+by (6) in Diagram 4. Ex. 1002, p. 66, § 2.3; see also Ex. 1003, ¶ 67.
+
+
+After “the C-HTTP name server provides both client-side and server-side 
+
+
+proxies with each peer's public key,” the proxies establish a C-HTTP connection. 
+
+
+Ex. 1002 p. 66, § 2.3; see also Ex. 1003, ¶ 30. The C-HTTP connection “provides 
+
+
+[a] secure HTTP communication mechanisms” in which communications over the 
+
+
+C-HTTP connection are encrypted. Ex. 1002, pp. 64-66, abstract; see also Ex.
+26
+
+
+1003, ¶ 30.
+
+
+1. KIUCHI ANTICIPATES INDEPENDENT CLAIM 1
+
+
+Preamble
+
+
+Kiuchi shows “[a] method for transparently creating a virtual private 
+
+
+network (VPN) between a client computer and a target computer.” See Ex. 1003, ¶ 
+
+
+31. Kiuchi describes a method (termed “C-HTTP”) for constructing a closed 
+
+
+network over the Internet that allows a user agent (e.g., a web browser) running on 
+
+
+a computer in one private network to access private web pages (e.g., HTML pages) 
+
+
+stored on an origin server in a different private network. See Ex. 1002, pp. 64, 69. 
+
+
+The closed network is created over the Internet using a client-side proxy and a 
+
+
+server-side proxy that transparently perform specialized proxy functions for the 
+
+
+user agent and origin server. Id. at 64-65. The proxies are installed in firewalls
+
+
+between the user agent and the origin server, which are unaware of the proxies. Id. 
+
+
+The user agent, origin server, and proxies are HTTP/1.0 compatible devices. Id. 
+
+
+The proxies work in conjunction with a C-HTTP name server on the Internet. Id.
+
+
+Kiuchi describes systems and processes in which a secure connection 
+
+
+between a client-side proxy and a server-side proxy (and by extension between the 
+
+
+user agent and origin server, which are secured behind the firewalls containing the 
+
+
+proxies) automatically is established by the proxy servers and a C-HTTP name 
+
+
+server in response to a request specifying a destination in the closed network. See
+27
+
+
+Ex. 1003, ¶¶ 18-20, 31. The proxy servers automatically initiate the secure 
+
+
+connection to encrypt any traffic sent over the Internet between the user agent and 
+
+
+the origin server. Id.
+
+
+Step (1)
+
+
+Kiuchi also discloses a process that includes “generating from the client 
+
+
+computer a Domain Name Service (DNS) request that requests an IP address 
+
+
+corresponding to a domain name associated with the target computer.” See Ex. 
+
+
+1002, p. 65, § 2.3; see also Ex. 1003, ¶¶ 20-22. Kiuchi shows that a user agent 
+
+
+makes an HTTP request to connect to a host that is specified within a URL. See id. 
+
+
+The client-side proxy receives the request and sends a request to a C-HTTP name 
+
+
+server asking to resolve the hostname in the request into an IP address. See id.
+
+
+If the hostname in the URL corresponds to a secure destination and the C-
+
+
+HTTP name server determines the client-side proxy is authorized to make a 
+
+
+connection with the server-side proxy, the C-HTTP name server will return an IP 
+
+
+address corresponding to the hostname to the client-side proxy. See Ex. 1002, p. 
+
+
+65, § 2.3; see also Ex. 1003, ¶¶ 23-24.
+
+
+Step (2)
+
+
+Kiuchi describes processes that include the step of “determining whether the 
+
+
+DNS request transmitted in step (1) is requesting access to a secure web site.” See 
+
+
+Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶¶ 22-26. As described above, when the
+28
+
+
+client-side proxy receives the request from the user agent, it sends a request to a C-
+
+
+HTTP name server. See id. The C-HTTP name server evaluates the request to 
+
+
+determine if the hostname specifies a destination that is part of the closed network 
+
+
+and whether the connection between the user agent and the origin server is 
+
+
+permitted. See id. If the C-HTTP server determines the destination is not part of the 
+
+
+closed network, it returns an error code. See id. In response to the error code, the 
+
+
+client-side proxy concludes that the request specifies a non-secure destination and 
+
+
+performs a look-up to a conventional DNS server. See id.
+
+
+If the C-HTTP name server determines the hostname specifies a secure 
+
+
+destination and the connection is permitted, it will return an IP address associated 
+
+
+with the secure hostname along with other information. See id. The client-side 
+
+
+proxy uses the returned IP address to send a request to the server-side proxy to 
+
+
+make a connection. See id. Thus, the C-HTTP name server and client-side proxy 
+
+
+each determine whether the user agent is requesting to connect to a secure 
+
+
+destination. See Ex. 1003, ¶¶ 23-24.
+
+
+Step (3)
+
+
+Kiuchi also shows a process that includes “in response to a determination 
+
+
+that the DNS request is requesting access to a secure target web site, automatically 
+
+
+initiating the VPN between the client computer and the target computer.” See Ex. 
+
+
+1002, pp. 65-66, § 2.3; see also Ex. 1003, ¶¶ 24, 29-31. Kiuchi discloses that if a
+29
+
+
+connection is permitted, the C-HTTP name server initiates the connection by 
+
+
+returning an IP address and public key associate with the hostname. See Ex. 1002, 
+
+
+pp. 65-66, § 2.3; see also Ex. 1003, ¶¶ 23-24, 27. The client-side proxy sends an 
+
+
+encrypted connection request to the server-side proxy. See id. This is consistent 
+
+
+with the ’135 Patent, which shows an example of automatically initiating a VPN 
+
+
+by sending a message requesting to create a VPN. See Ex. 1001 at 38:30-33.
+
+
+If the server-side proxy accepts the connection, it sends to the client-side 
+
+
+proxy a message containing a data exchange key. See Ex. 1002, pp. 65-66, § 2.3; 
+
+
+see also Ex. 1003, ¶¶ 27-30. After the client-side proxy receives the message, a 
+
+
+connection is established. See id. Data is securely transmitted between the user 
+
+
+agent and origin server because the proxy servers automatically encrypt any traffic 
+
+
+sent between them. See Ex. 1002, p. 65, § 1; see also Ex. 1003, ¶ 26. The connect 
+
+
+message the client-side proxy sends to the server-side proxy and the response 
+
+
+message the server-side proxy sends to the client- side proxy (both of which are 
+
+
+sent without intervention from the user agent) act to initiate the connection. See Ex. 
+
+
+1002, pp. 65-66, § 2.3; see also Ex. 1003, ¶¶ 27-30.
+
+
+2. KIUCHI ANTICIPATES CLAIM 3
+
+
+Claim 3 depends from claim 1 and further requires the step of  “(4) in 
+
+
+response to determining that the DNS request in step (2) is not requesting access to 
+
+
+a secure target web site, resolving the IP address for the domain name and
+30
+
+
+returning the IP address to the client computer.”
+
+
+Kiuchi shows a process that includes this step. See Ex. 1002 p. 65, § 2.3; see 
+
+
+also Ex. 1003, ¶¶ 22-25. 
+
+
+Specifically, Kiuchi shows that when the client-side proxy receives an HTTP 
+
+
+request, it sends a request to a C-HTTP name server. See id. If the destination is 
+
+
+not part of the closed network, the C-HTTP name server returns an error code. See 
+
+
+id. If the client-side proxy receives an error code, it determines the URL specifies a 
+
+
+non-secure destination and it sends the hostname in the URL to a conventional 
+
+
+DNS server. See id. The DNS server will return an IP address, which the client-
+
+
+side proxy uses to establish an ordinary HTTP connection. See id.
+
+
+3. KIUCHI ANTICIPATES CLAIM 4
+
+
+Claim 4 depends from claim 1 and further requires the step of “prior to 
+
+
+automatically initiating the VPN between the client computer and the target 
+
+
+computer, determining whether the client computer is authorized to establish a 
+
+
+VPN with the target computer and, if not so authorized, returning an error from 
+
+
+the DNS request.” See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶¶ 22-25. Kiuchi 
+
+
+likewise discloses this step. 
+
+
+Specifically, Kiuchi shows that when the client-side proxy receives an HTTP 
+
+
+request from a user agent, it sends a request to a C-HTTP name server. See id. The 
+
+
+C-HTTP name server authenticates the request and then evaluates it to determine if
+31
+
+
+the connection is permitted. See Ex. 1003, ¶¶ 22-25; Ex. 1002, pp. 64-65 (“the 
+
+
+name server . . . examines whether the client-side proxy is permitted to access to 
+
+
+the server-side proxy.”). If the C-HTTP name server determines the connection is 
+
+
+not permitted, it returns an error code. See Ex. 1003, ¶¶ 22-25.
+
+
+4. KIUCHI ANTICIPATES CLAIM 7
+
+
+Claim 7 depends from claim 1 and further requires that “wherein step (3) 
+
+
+comprises the step of using a gatekeeper computer that allocates VPN resources 
+
+
+for communicating between the client computer and the target computer.” See Ex. 
+
+
+1003, ¶ 30. 
+
+
+Kiuchi discloses this step. Specifically, Kiuchi shows that the server-side 
+
+
+proxy acts as a gatekeeper computer that allocates resources. See Ex. 1003, ¶ 30. 
+
+
+When the client-side proxy receives the request from the user agent, it sends a 
+
+
+request to a C-HTTP name server. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶ 
+
+
+23. If the C-HTTP name server determines the connection is permitted, it will 
+
+
+return an IP address and public key corresponding to the hostname; otherwise it 
+
+
+will return an error code. See id. If an IP address and key are returned, the client-
+
+
+side proxy sends an encrypted request to the server-side proxy containing a data 
+
+
+exchange key; if an error message is returned the client-side proxy performs a 
+
+
+standard DNS lookup. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶¶ 27-30
+
+
+After the server-side proxy receives the request from the client-side proxy, it
+32
+
+
+sends a message to the C-HTTP name server to verify the client-side proxy is part 
+
+
+of the closed network. See id. If the server-side proxy determines it should accept 
+
+
+the connection, it sends a message to the client-side proxy containing a connection 
+
+
+identifier and a second data exchange key. See id. After the client-side proxy 
+
+
+receives the message from the server-side proxy, the connection is established. See 
+
+
+id. The server-side proxy acts as a gatekeeper by providing the client-side proxy 
+
+
+with the connection identifier and the second data exchange key. See Ex. 1003, ¶ 
+
+
+30. This is consistent with the ’135 Patent specification, which shows the 
+
+
+gatekeeper may receive a request from the DNS proxy requesting that a VPN be 
+
+
+created. See Ex.1001 at 38:30-33.
+
+
+5. KIUCHI ANTICIPATES CLAIM 8
+
+
+Claim 8 depends from claim 1 and requires “[t]he method of claim 1, 
+
+
+wherein step (2) is performed in a DNS proxy server that passes through the 
+
+
+request to a DNS server if it is determined in step (3) that access is not being 
+
+
+requested to a secure target web site.” See Ex. 1002, pp. 65, § 2.3; see also Ex. 
+
+
+1003, ¶¶ 23-27. This additional step is also disclosed in Kiuchi.
+
+
+Specifically, in Kiuchi the function of the DNS proxy is distributed among
+
+
+the client-side proxy and the C-HTTP name server . See Ex. 1003, ¶ 19-26, 34. 
+
+
+When the client-side proxy receives a request from a user agent, it determines 
+
+
+whether the requested hostname in the URL specifies a secure server by sending to
+33
+
+
+a C-HTTP name server a request to resolve the hostname. See Ex. 1002, pp. 65, §
+
+
+2.3; see also Ex. 1003, ¶¶ 23-26. If the C-HTTP name server returns an error code, 
+
+
+the client-side proxy determines the URL specifies a non-secure destination. See 
+
+
+id. The client-side proxy then sends the hostname to a conventional DNS server for 
+
+
+resolution. See id. This is the same as the ’135 Patent,  where a conventional DNS 
+
+
+lookup is performed when access is not being requested to a secure target web site.
+
+
+Ex. 1001 at 38:43-47, and is covered by the broadest reasonable interpretation.
+
+
+6. KIUCHI ANTICIPATES INDEPENDENT CLAIM 10
+
+
+Kiuchi shows a “system that transparently creates a virtual private network 
+
+
+(VPN) between a client computer and a secure target computer.” See Ex. 1003, ¶ 
+
+
+31. Kiuchi describes systems in which a VPN between a user agent and origin 
+
+
+server is automatically and transparently established by proxy servers and a C-
+
+
+HTTP name server. See § V.A.1, supra. Kiuchi shows that the C-HTTP name 
+
+
+server and proxy servers are part of a system of computers. See Ex. 1003, ¶¶ 18-19.
+
+
+Kiuchi shows a system including “a DNS proxy server that receives a 
+
+
+request from the client computer to look up an IP address for a domain name, 
+
+
+wherein the DNS proxy server returns the IP address for the requested domain if it 
+
+
+is determined that the access to a non-secure website has been requested, and 
+
+
+wherein the DNS proxy server generates a request to create the VPN between the 
+
+
+client computer and the secure target computer if it is determined that access to a
+34
+
+
+secure web site has been requested.” See Ex. 1003, ¶¶ 19, 21-25, 27. When the 
+
+
+client-side proxy receives from the user agent a request to retrieve a resource on an 
+
+
+origin server, it sends a request to a C-HTTP name server to resolve a
+
+
+corresponding domain name. See Ex. 1002, p. 65, § 2.3; see also Ex. 1003, ¶¶ 20-
+
+
+22. If the C-HTTP name server determines the destination is not part of the closed 
+
+
+network, it returns an error code. See id. If the client-side proxy receives an error 
+
+
+code, it concludes the hostname in the URL specifies a non-secure destination and 
+
+
+sends the hostname to a conventional DNS server. See id. If the C-HTTP name 
+
+
+server determines the hostname specifies a secure destination, it returns an IP 
+
+
+address and other information. See id. 
+
+
+Thus, where a user agent requests to connect to a destination in the closed 
+
+
+network, the C-HTTP name server and client-side proxy act as proxy servers, 
+
+
+acting in place of a conventional DNS server. See id. But where the user agent 
+
+
+requests to connect to a non-secure server, the hostname in the connection request 
+
+
+will be resolved by a conventional DNS server. See id.
+
+
+Kiuchi shows a “gatekeeper computer that allocates resources for the VPN 
+
+
+between the client computer and the secure web computer in response to the 
+
+
+request by the DNS proxy server” as specified in claim 10. As explained with 
+
+
+respect to claim 7 (see § V.A.4, supra), Kiuchi shows that the server-side proxy 
+
+
+acts as a gatekeeper that allocates VPN resources.
+35
+
+
+7. KIUCHI ANTICIPATES CLAIM 12
+
+
+Claim 12 depends from claim 10 and further requires “wherein the 
+
+
+gakekeeper computer determines whether the client computer has sufficient 
+
+
+security privileges to create the VPN, and, if the client computer lacks sufficient 
+
+
+security privileges, rejecting the request to create the VPN.” Kiuchi discloses this 
+
+
+process. See Ex. 1003, ¶ 30. Specifically, as explained above with respect to claim 
+
+
+7 (see § 4, supra), Kiuchi shows the server-side proxy acts as a gatekeeper that 
+
+
+allocates VPN resources. If the server-side proxy determines a requested 
+
+
+connection is not permitted, it does not accept the client-side proxy’s connection 
+
+
+request. See Ex. 1003, ¶¶ 27-28.
+
+
+B. [GROUND 2] – KIUCHI IN VIEW OF RFC 1034 RENDERS 
+CLAIM 8 OBVIOUS
+
+
+As explained above, claim 8 depends from claim 1 and further requires that 
+
+
+step (2) is performed in a DNS proxy server that passes through the request to a 
+
+
+DNS server if it is determined in step (3) that access is not being requested to a 
+
+
+secure target web site.” See Ex. 1002, pp. 65, § 2.3; see also Ex. 1003, ¶¶ 23-26.  
+
+
+“Step 2” refers to the step of claim 1 of “determining whether the DNS request 
+
+
+transmitted in step (1) is requesting access to a secure web site.”
+
+
+As explained above in §§ V.A.1 and V.A.5, supra, Kiuchi anticipates claim 
+
+
+8. However, Patent Owner may contend Kiuchi does not show that step (2) of 
+
+
+“determining whether the DNS request transmitted in step (1) is requesting access
+36
+
+
+to a secure web site” is not “performed in a DNS proxy server . . .” as required by 
+
+
+claim 8, because the function of the DNS proxy is distributed among the client-side 
+
+
+proxy and the C-HTTP name server.  As explained above, Petitioner submits that 
+
+
+under the proper claim construction of DNS proxy server, DNS proxy server can 
+
+
+be distributed among different computers or processes.
+
+
+However, even if a narrower claim construction were adopted, this would 
+
+
+not render claim 8 patentable. As described below, it would have been an obvious 
+
+
+modification of the Kiuchi C-HTTP system to configure the C-HTTP name server 
+
+
+to resolve non-secure addresses as well.
+
+
+Kiuchi explains that its systems enable users to securely access resources in 
+
+
+various private networks by establishing a closed network over the Internet. See 
+
+
+Ex. 1002, p. 64, § 21; See also Ex. 1003, ¶¶ 18-19. Kiuchi defines three specialized 
+
+
+parts for the system: the client-side proxy, server-side proxy, and C-HTTP name 
+
+
+server. See id. While Kiuchi describes that the client-side proxy makes a 
+
+
+conventional DNS lookup request, a person of ordinary skill would have 
+
+
+recognized that the DNS lookup step could be integrated into the C-HTTP name 
+
+
+server based on the guidance in RFC 1034 (Ex. 1005), which describes the 
+
+
+functional requirements of DNS name servers. See Ex. 1003, ¶¶ 34-35. Such a 
+
+
+change would have been an obvious design choice. Id.
+
+
+Notably, the C-HTTP name server already determines whether a DNS
+37
+
+
+request is requesting to access a secure web site. See Ex. 1002, 65, § 2.3(2); see 
+
+
+also Ex. 1003, ¶35. Rather than returning an error code to the client-side proxy 
+
+
+when the DNS request does not specify a secure web site, it would have been an 
+
+
+obvious design choice for the C-HTTP name server to pass the domain name to a 
+
+
+conventional DNS server for resolution, since the C-HTTP server already includes 
+
+
+name service functionality. See Ex. 1003, ¶ 35. Such a configuration, which places 
+
+
+a DNS proxy server function in a modified C-HTTP name server (similar to the 
+
+
+placement of the DNS proxy server of the ’135 Patent in the DNS server – see 
+
+
+Ex.1001 at FIG. 26), is merely a rearrangement of existing functions within the C-
+
+
+HTTP system. See Ex. 1003, ¶¶ 35-37. For example, a C-HTTP name service 
+
+
+response containing an IP address without a public key and nonce values (e.g., 
+
+
+using values of zero or other convention for those fields, or modifying the protocol 
+
+
+to use a flag in the response to indicate those values are not provided) could 
+
+
+indicate that the response specifies a conventional web site and hence that no VPN 
+
+
+is needed. See Ex. 1003, ¶¶ 37-38. The motivation for modifying Kiuchi in this 
+
+
+way would have been to streamline the system’s operation, e.g., instead of the C-
+
+
+HTTP name server sending an error code to the client-proxy which would then 
+
+
+initiate a DNS inquiry, the change simplifies the process by having the C-HTTP 
+
+
+name server initiate the request to the conventional DNS server. See Ex. 1003, ¶¶ 
+
+
+39-40.
+38
+
+
+VI. CONCLUSION
+
+
+The cited prior art references identified in this Petition contain pertinent 
+
+
+technological teachings, either explicitly or inherently disclosed, which were not 
+
+
+previously considered in the manner presented herein, or relied upon on the record 
+
+
+during original examination of the ‘135 Patent. 
+
+
+In sum, these references provide new, non-cumulative technological 
+
+
+teachings which indicate a reasonable likelihood of success as to Petitioner’s 
+
+
+assertion that the Challenged Claims of the ‘135 Patent are not patentable pursuant 
+
+
+to the grounds presented in this Petition. 
+
+
+Accordingly, Petitioner respectfully requests institution of an IPR for those 
+
+
+claims of the ‘135 Patent for each of the grounds presented herein.

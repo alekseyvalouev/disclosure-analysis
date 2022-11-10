@@ -1,392 +1,931 @@
-Muddy	
-  Waters,	
-  LLC	
-  
+Viceroy Research Group 1 viceroyresearch.org 
 
 
-www.muddywatersresearch.com	
-  
-  info@muddywatersresearch 
- 
+AMD confirms CTS vulnerabilities, downplaying to avoid the 
+financial implications. 
+Discoveries by CTS Labs’ research into AMD flaws eliminate AMD’s competitive advantage in enterprise server 
 
 
-Director	
-  of	
-  Research:	
-  	
-  Carson	
-  C.	
-  Block,	
-  Esq.	
-  
- 
+segments and the company’s price competitiveness in retail aspects can no longer be justified.  
 
 
+The company’s rhetoric is that this is a non-issue hinges on the non-argument that administrator access must 
 
 
+be established in order to exploit the vulnerabilities identified by CTS. This is short-sighted as the surrounding 
 
 
+statement that most hackers will not have the know-how to exploit these vulnerabilities.  
 
 
-Terms of Service: 
+As detailed by CTS1:  
 
 
-By downloading from, or viewing material on, this website you agree to the following Terms of Service.  You agree that use of Muddy 
-Waters LLC’s research is at your own risk. In no event will you hold Muddy Waters LLC or any affiliated party liable for any direct or indirect 
-trading losses caused by any information on this site. You further agree to do your own research and due diligence before making any 
-investment decision with respect to securities covered herein.  You represent to Muddy Waters that you have sufficient investment 
-sophistication to critically assess the information, analysis and opinion on this site.  You further agree that you will not communicate the 
-contents of this report to any other person unless that person has agreed to be bound by these same terms of service.  If you download or 
-receive the contents of this report as an agent for any other person, you are binding your principal to these same Terms of Service. 
- 
-You should assume that as of the publication date of our reports and research, Muddy Waters, LLC (possibly along with or 
-through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors and/or their 
-clients and/or investors has a short position in all stocks (and/or options, swaps, and other derivatives related to the stock) and 
-bonds covered herein, and therefore stands to realize significant gains in the event that the price of either declines. We intend to 
-continue transacting in the securities of issuers covered on this site for an indefinite period after our first report, and we may be 
-long, short, or neutral at any time hereafter regardless of our initial recommendation.  
- 
-This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to or from 
-any person through this site or reports on this site.  Muddy Waters, LLC is not registered as an investment advisor in any jurisdiction.  
- 
-If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of:  (a) an investment 
-professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "FPO"); or (b) 
-high net worth entity falling within Article 49 of the FPO. 
- 
-Our research and reports express our opinions, which we have based upon generally available information, field research, inferences and 
-deductions through our due diligence and analytical process.  To the best of our ability and belief, all information contained herein is 
-accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not insiders or 
-connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. 
-However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy Waters, LLC makes no 
-representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to 
-be obtained from its use. Further, any report on this site contains a very large measure of analysis and opinion.  All expressions of opinion 
-are subject to change without notice, and Muddy Waters, LLC does not undertake to update or supplement any reports or any of the 
-information, analysis and opinion contained in them. 
- 
-You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the 
-downloaded file, copies / images / reproductions, or the link to these files) in any manner other than by providing the following link: 
-http://www.muddywatersresearch.com/research/. If you have obtained Muddy Waters research in any manner other than by download from 
-that link, you may not read such research without going to that link and agreeing to the Terms of Service. You further agree that any dispute 
-arising from your use of this report and / or the Muddy Waters Research website or viewing the material hereon shall be governed by the 
-laws of the State of California, without regard to any conflict of law provisions. You knowingly and independently agree to submit to the 
-personal and exclusive jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction 
-or applicable law, given that Muddy Waters, LLC has offices in California. The failure of Muddy Waters, LLC to exercise or enforce any right 
-or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of these Terms of Service is 
-found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the 
-parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Service remain in full force and effect, in 
-particular as to this governing law and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or 
-cause of action arising out of or related to use of this website or the material herein must be filed within one (1) year after such claim or 
-cause of action arose or be forever barred. 
-  
+“Attackers think of machines not as individual nodes but as part of a network. Gaining local 
 
 
-Use of Muddy Waters reports is limited by the Terms of Service on its website, which are as 
-follows.  To be authorized to access such reports, you must agree to these terms, regardless of 
-whether you have downloaded its reports directly from this website or someone else has 
-supplied the report to you without authorization from Muddy Waters.   
-	
-  
+administrative access on a compromised computer inside an organization is easy for attackers. The 
 
 
-Page 1 of 5
-Muddy Waters, LLC 
-NQ: Maintaining Fraud Rating 
+challenge is moving laterally from there to other machines and maintaining access for the future. That 
 
 
-July 6, 2014 
- 
+is exactly what these vulnerabilities provide.” 
 
 
-NQ: Oops 
- 
-NQ’s July 3rd announcement vindicates short sellers, but was likely delayed in order to give 
-China side insiders a chance to illegally dump stock.  The announcement also puts lipstick on the 
-state of NQ’s doomed audit.  Only hours before the long July 4th holiday weekend began, NQ 
-announced that Ms. Ying Han, who was the chairwoman of its audit committee, had resigned 
-from the board.  NQ also announced that PwC Zhongtian (“PWC”), whose audit opinion was 
-already more than two months late, had requested a broader audit scope.  While both admissions 
-are hugely vindicating for short sellers of NQ, we strongly suspect that: 
- 
+CTS have recently released a video showing the exploitation of AMD’s vulnerabilities to completely circumvent 
 
 
-• NQ deliberately held back both admissions so that NQ China insiders and their proxies 
-could illegally dump more shares at existing shareholders’ expense, and 
+Windows Credential Guard and obtain decrypted passwords. AMD management specifically highlighted 
 
 
-• NQ is again misrepresenting the true state of its audit and relationship with PwC 
-Zhongtian (“PwC”).  NQ’s prior statements and actions make clear that it has understood 
-for some time that PwC will never issue an unqualified audit opinion for 2013.  The 
-language about PwC requesting a larger audit scope is a misrepresentation designed to 
-keep the passengers on the sinking NQ ship (so that NQ insiders can keep the lifeboats 
-for themselves).  
+Windows Credential Guard as a key obstacle to the execution of CTS Labs’ identified exploits. 
 
 
- 
-We believe that by June 25th a) Ms. Han had already informed NQ she was resigning, and b) NQ 
-had accepted that PwC will never issue an unqualified audit opinion.  In delaying the day of 
-reckoning by at least a week, NQ likely provided an opportunity for insiders to dump shares.  We 
-base our belief on the trading pattern that shows NQ stock dropping 5.3% on June 25th with no 
-news, followed by consecutive declines of 4.5% and 4.7% on each of the next two trading days.  
-Volume was substantially elevated during this period with the ADSes trading an average of 9.8 
-million shares per day, compared to 5.2 million shares per day on average prior to June 25, 
-2014.1  The table below shows the drastic selling that began on June 25th. 
- 
+The video can be viewed in full here: https://www.youtube.com/watch?v=8YQaWIWbzhI&feature=youtu.be  
 
 
- 
- 
-By delaying releasing this information, we believe NQ China side insiders were able to dump 
-significant amounts of stock before NQ made the announcement. 
- 
-  
+Viceroy believes the practice of giving AMD discretion as to when, if and how it reports its own vulnerabilities 
 
 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-1 90-day average. 
+facilitates poor corporate disclosure and keeps stakeholders in the dark. This is not how free financial markets 
 
 
-Page 2 of 5
-Ms. Han’s resignation lays bare the corrupt nature of the “independent” investigation NQ’s 
-directors conducted.  While NQ claims that Ms. Han resigned for “personal reasons”, it is 
-obvious she resigned because of problems with NQ itself.  To further illustrate that point, Ms. 
-Han still chairs the audit committee of Wuxi PharmaTech (NYSE: WX).  Just weeks earlier, Ms. 
-Han was one of four directors whose investigation, we were told, “did not find evidence” that 
-NQ is a fraud.  The investigation did, however, find widespread evidence tampering.  (We 
-warned investors about the frequent corruption of these investigations in our December 19, 2013 
-open letter to NQ’s independent committee.  In the letter, we cited eight other China companies 
-whose shareholders suffered significant losses after purportedly independent committees 
-exonerated their management friends of wrongdoing.)   
- 
-It has been clear for some time that PwC will never issue an unqualified audit opinion.  NQ’s 
-statement that PwC has requested a broader audit scope is a misrepresentation.  It simply does 
-not hold water to say that PwC requested a broader audit scope when NQ’s 20-F was already 64 
-days past due.  This timeline illustrates the events detailed below that support our conclusion. 
- 
+operate for a reason and is validated by the SEC's most recent statement2 relating to cybersecurity flaws: we 
+
+
+would similarly not give fraudulent companies the discretion as to if and when they inform their investors they 
+
+
+are a fraud.  
+
+
+▪ Ryzen and Epyc processors facilitate tremendous freedom of access to customer’s data –The identified 
+
+
+vulnerabilities in AMD’s EPYC and Ryzen processors give hackers the ability to entrench malware at the 
+
+
+hardware level, making them virtually undetectable and untouchable by security products. By abusing 
+
+
+these vulnerabilities at the Secure Processor level, malware characteristics can give hackers unlimited 
+
+
+control over entire networks. None of the vulnerabilities identified by CTS, both firmware and hardware, 
+
+
+require physical access to computers to be exploited. The continued sale of these processors puts customers 
+
+
+at significant risk.  
+
+
+▪ The security protocols that AMD have been promoting put customers at unacceptable risk to 
+
+
+vulnerabilities identified by CTS – We expect AMD cloud customers including Microsoft Azure, Baidu, 
+
+
+DellEMC and TenCent will flee in the short term given the serious nature of chip flaws. AMD is unlikely to 
+
+
+be trusted in this space again.  
+
+
+▪ One Ryzen chip could endanger an entire enterprise network – Vulnerabilities identified in the Ryzen chip 
+
+
+allow hackers to perform credential dumps on infected Ryzen workstations even if the latest security 
+
+
+mitigations are employed. Malware can quickly spread to other workstations throughout enterprise 
+
+
+networks, regardless of whether they use a Ryzen chip or Intel. No prudent CISO or CTO will risk their 
+
+
+network or their security by buying a Ryzen chip over more secure competitors. 
+
+
+This report expands on the financial impact of the CTS Labs vulnerabilities, specifically the impact of future 
+
+
+earnings and possible legal liabilities that Viceroy believes will arise against the company. Viceroy have 
+
+
+appointed lawyers to assess the reliability of the security claims made by AMD considering the basic level flaws 
+
+
+that have been identified.  
+
+
+                                                                 
+1 https://www.techpowerup.com/242386/cts-labs-responds-to-a-techpowerup-technical-questionnaire  
+2 https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21  
 
 
 
+https://www.youtube.com/watch?v=8YQaWIWbzhI&feature=youtu.be
+
+https://www.techpowerup.com/242386/cts-labs-responds-to-a-techpowerup-technical-questionnaire
+
+https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21
+Viceroy Research Group 2 viceroyresearch.org 
 
 
-• PwC would have planned for and requested an expanded audit scope months ago, rather 
-than bringing it up recently.  We published our initial report on October 24, 2013, which 
-was more than two months before PwC began the audit.  Were we to have published our 
-initial report when PwC was already well into the audit, it would be understandable if 
-PwC subsequently requested an increased scope and had to delay the audit opinion.  
-However, we released our initial report at a point that gave PwC ample time to adjust its 
-audit plan and procedures before it began the audit.  If PwC wanted to expand the scope 
-of the audit, that request would have been made a long time ago.  
+Important Disclaimer – Please read before continuing 
 
 
-• It was clear by mid-February that the audit was troubled.  In prior years, NQ announced 
-its date of Q4 earnings release in mid-February.2  In both prior years, the Q4 earnings 
-release date was March 6th.  NQ’s 2013 results would be a very different matter though.  
-The company did not announce the date of release until March 25th, more than one month 
-later than normal.  This year’s announcement of the date of release appeared to be a 
-reaction to a research report, rather than a well-planned announcement made with PwC’s 
-blessing.  Only hours before NQ’s announcement, J Capital Research published a report 
-titled “Time to Quit” that highlighted NQ’s failure to provide a date of earnings release as 
+This report has been prepared for educational purposes only and expresses our opinions. This report and any statements 
 
 
-	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-2 February 16, 2012 and February 20, 2013. 
+made in connection with it are the authors’ opinions, which have been based upon publicly available facts, field research, 
 
 
-Page 3 of 5
-an indication that something was going awry.  Ultimately, NQ released its Q4 earnings on 
-April 10, 2014.  NQ’s failure to announce a date of earnings release until it was 
-challenged by the J Capital report shows it did not have PwC’s buy-in to announce results 
-because the audit was troubled.  
+information, and analysis through our due diligence process, and are not statements of fact. All expressions of opinion are 
 
 
-• NQ’s June 4th release of the investigation results shows that by early June, NQ felt 
-strongly it would not ultimately receive an unqualified audit opinion.  NQ had stated on 
-April 10th, and reiterated on April 30th, that it was going to release the final results of the 
-independent committee’s investigation in the 20-F.  However, NQ ultimately did not wait 
-until the 20-F to release the results.  On June 4th, NQ issued a press release touting the 
-final results of the investigation.  This change of plan was a clear indicator that NQ felt 
-strongly that it would not receive an unqualified audit opinion.  (The positive release also 
-pushed the stock up 30.9% on the day, likely giving insiders another opportunity to dump 
-stock.) 
+subject to change without notice, and we do not undertake to update or supplement any reports or any of the information, 
+
+
+analysis and opinion contained in them. We believe that the publication of our opinions about public companies that we 
+
+
+research is in the public interest. We are entitled to our opinions and to the right to express such opinions in a public forum. 
+
+
+You can access any information or evidence cited in this report or that we relied on to write this report from information in 
+
+
+the public domain.  
+
+
+To the best of our ability and belief, all information contained herein is accurate and reliable, and has been obtained from 
+
+
+public sources we believe to be accurate and reliable, and who are not insiders or connected persons of the stock covered 
+
+
+herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. We have a good-faith belief in 
+
+
+everything we write; however, all such information is presented "as is," without warranty of any kind – whether express or 
+
+
+implied.  
+
+
+In no event will we be liable for any direct or indirect trading losses caused by any information available on this report. Think 
+
+
+critically about our opinions and do your own research and analysis before making any investment decisions. We are not 
+
+
+registered as an investment advisor in any jurisdiction. By downloading, reading or otherwise using this report, you agree to 
+
+
+do your own research and due diligence before making any investment decision with respect to securities discussed herein, 
+
+
+and by doing so, you represent to us that you have sufficient investment sophistication to critically assess the information, 
+
+
+analysis and opinions in this report. You should seek the advice of a security professional regarding your stock transactions.  
+
+
+This document or any information herein should not be interpreted as an offer, a solicitation of an offer, invitation, marketing 
+
+
+of services or products, advertisement, inducement, or representation of any kind, nor as investment advice or a 
+
+
+recommendation to buy or sell any investment products or to make any type of investment, or as an opinion on the merits 
+
+
+or otherwise of any particular investment or investment strategy. 
+
+
+Any examples or interpretations of investments and investment strategies or trade ideas are intended for illustrative and 
+
+
+educational purposes only and are not indicative of the historical or future performance or the chances of success of any 
+
+
+particular investment and/or strategy.  
+
+
+As of the publication date of this report, you should assume that the authors have a direct or indirect interest/position in all 
+
+
+stocks (and/or options, swaps, and other derivative securities related to the stock) and bonds covered herein, and therefore 
+
+
+stand to realize monetary gains in the event that the price of either declines.  
+
+
+The authors may continue transacting directly and/or indirectly in the securities of issuers covered on this report for an 
+
+
+indefinite period and may be long, short, or neutral at any time hereafter regardless of their initial recommendation.
+Viceroy Research Group 3 viceroyresearch.org 
+
+
+Contents 
+Projected loss of Revenues ..................................................................................................................................... 4 
+
+
+Revenues derived from Enterprise, Embedded and Semi-Custom segment ...................................................... 4 
+
+
+Revenues derived from Computing and Graphics .............................................................................................. 5 
+
+
+Liabilities arising from vulnerabilities ..................................................................................................................... 7 
+
+
+Vulnerabilities are difficult to patch if patching is possible at all. Product recalls are warranted ................. 8 
+
+
+Product liability ............................................................................................................................................... 8 
+
+
+Warranties ...................................................................................................................................................... 9 
+
+
+False claims ..................................................................................................................................................... 9 
+
+
+Regulatory issues may exacerbate problems for AMD ................................................................................... 9 
+
+
+AMD possible prior knowledge of issues ................................................................................................................ 9 
+
+
+Insider Sales – Chief Technology Officer insider sales of options after CTS Expose ............................................. 10
+Viceroy Research Group 4 viceroyresearch.org 
+
+
+Projected loss of Revenues 
+AMD has two reporting segments related to its products: Computer and Graphics; and Enterprise, Embedded 
+
+
+and Semi-Custom.  
 
 
  
-This latest deception is just another in a string of misrepresentations about the state of NQ’s 
-audit.  
+Figure 1 Extract of AMD 2017 Annual Report 
+
+
+AMD has been historically reluctant to provide further detail on revenues and growth of particular products or 
+
+
+product categories within these segments. As such Viceroy and other analysts have had to make educated 
+
+
+guesses of the composition and performance of particular products, for example, GPUs. 
+
+
+The product lines affected by the vulnerabilities of CTS labs are spread throughout these two operating 
+
+
+segments.  
+
+
+Revenues derived from Enterprise, Embedded and Semi-Custom segment 
+We believe that revenues from AMD’s Enterprise, Embedded and Semi-Custom segments will fall at least 88% 
+
+
+based on the heavy concentration of the segment’s sales on two customers.  
+
+
+The extent of the vulnerabilities and the difficulty and impracticality of patches we believe make the products 
+
+
+unpurchaseable at a commercial level. Any competent Chief Information Security Officer (CISO) or Chief 
+
+
+Technology Officer (CTO) would not willingly subject their businesses to unnecessary risk. That is their job.  
+
+
+The sellside currently value AMD on either a sale/EV or future earnings multiple basis. The loss of this service 
+
+
+line would make future earnings unattainable for the foreseeable future. 
+
+
+According to AMD’s 2017 annual report, the company’s two top customers made up 38% of revenue and 
+
+
+consisted of products in the Enterprise, Embedded and Semi-Custom segments.  
+
+
+ 
+Figure 2 Extract of AMD 2017 Annual Report 
+
+
+This figure amounts to roughly US$2.025B, and represents ~88% of the Enterprise, Embedded and Semi-Custom 
+
+
+segment’s revenue.
+Viceroy Research Group 5 viceroyresearch.org 
+
+
+ 
+Figure 3 Extract of AMD 2017 Annual Report 
+
+
+While further details are undisclosed, the nature of the Enterprise, Embedded and Semi-Custom segment 
+
+
+products suggests customers A and B are at a significant risk from the vulnerabilities disclosed by CTS Labs. 
+
+
+Accordingly we expect them to discontinue business with the company given the many alternatives available on 
+
+
+the market, resulting in the segment’s revenue falling by at least 88%.  
+
+
+On a Sales/EV multiple of 2.71 (based on sell side consensus target price per Bloomberg 
+
+
+Terminal), the loss of 88% of this segment line represents a 27% downside from the 
+
+
+current price. 
+
+
+Revenues derived from Computing and Graphics 
+We make a preliminary note that AMD’s Computing and Graphics segment reporting line acts as a “catch-all” 
+
+
+between products with very separate markets, making it extremely difficult for stakeholders to gauge actual 
+
+
+business unit performance of the segments affected by the CTS Labs vulnerabilities.  
+
+
+Sales in this segment include: 
+
+
+▪ GPUs - We expect flat/negative growth from GPU sales as cryptocurrency miners substantially transition 
+
+
+from GPUs to Application-Specific Integrated Circuits (ASICs), which are designed to mine far more 
+
+
+efficiently. Major ASIC players such as Bitmain are speculated to release Etherium ASIC hardware later this 
+
+
+year and Samsung has also confirmed its intention to enter the cryptocurrency mining space3.   
+
+
+Readers should note that AMD management have refused to corroborate or comment on analyst questions 
+
+
+regarding GPU sales as a percentage of the Computing and Graphics segment, in particular cryptocurrency 
+
+
+related GPU sales. 
+
+
+ 
+Figure 4 Extract from CNBC.com article “AMD shares to surge on its cloud computing chip share gains: Analyst”4 
+
+
+However, AMD CEO Lisa Su claimed in the company’s’ Q4 2017 earnings call that an estimated 33% of the 
+
+
+year’s growth in the Computing and Graphic segment was attributable to cryptocurrency gains.  
+
+
+                                                                 
+3 https://techcrunch.com/2018/01/31/samsung-confirms-asic-chips/  
+4 https://www.cnbc.com/2017/09/13/amd-shares-to-surge-on-its-cloud-computing-chip-share-gains-
+analyst.html?view=story&%24DEVICE%24=native-android-mobile  
+
+
+
+https://techcrunch.com/2018/01/31/samsung-confirms-asic-chips/
+
+https://www.cnbc.com/2017/09/13/amd-shares-to-surge-on-its-cloud-computing-chip-share-gains-analyst.html?view=story&%24DEVICE%24=native-android-mobile
+
+https://www.cnbc.com/2017/09/13/amd-shares-to-surge-on-its-cloud-computing-chip-share-gains-analyst.html?view=story&%24DEVICE%24=native-android-mobile
+Viceroy Research Group 6 viceroyresearch.org 
+
+
+ 
+Figure 5 Extract from SeekingAlpha.com transcript of AMD Q4 2017 Earnings Call 5 
+
+
+Susquehanna analyst Christopher Rolland claimed that the remaining GPU sales were being used 95% of the 
+
+
+time for cryptocurrency mining. 
+
+
+ 
+Figure 6 Extract of Barron’s article “AMD, Nvidia: Risk from ‘Gamers’ Who Are Really Coin Miners, Says Susquehanna”6 
+
+
+Conservative, we expect GPUs to consist of ~40% of AMD’s Computing and Graphics revenue and for GPU 
+
+
+revenue to remain flat as their prices stabilizes due to cryptocurrency miners transition into ASICs. 
+
+
+▪ Desktop and notebook processors and chipsets – We expect AMD’s inclusion in retail desktops and 
+
+
+notebooks to end imminently, notably with HP and Dell. We believe the flaws identified by CTS eliminate 
+
+
+any the benefit of price competitiveness as manufacturers will look to protect their interests. 
+
+
+Accordingly, we expect a combination of flat or declining GPU revenues and a complete end to desktop and 
+
+
+notebook processor revenues. We believe that a 60% short term decline in AMD’s Computing and Graphics 
+
+
+segment revenues is warranted. 
+
+
+
+
+
+Collectively, the loss of Enterprise, Embedded and Semi-Custom segment line and 60% 
+
+
+of Computing and Graphics revenues represents a 65% downside from the current price 
+
+
+on a Sales/EV multiple of 2.71 (based on sell side consensus target price per Bloomberg 
+
+
+Terminal). 
+
+
+At this stage, AMD would also be bleeding cash. 
+
+
+                                                                 
+5 https://seekingalpha.com/article/4141484-advanced-micro-devices-amd-ceo-dr-lisa-su-q4-2017-results-earnings-call-
+transcript?part=single  
+6 https://www.barrons.com/articles/amd-nvidia-beware-the-gamers-really-coin-miners-says-susquehanna-1516324763  
+
+
+Segment % of revenue % drop forecasted % of revenue lost
+
+
+Computer and Graphics 56.8% 60.0% 34.1%
+
+
+Enterprise, Embedded and Semi-Custom 43.2% 88.0% 38.0%
+
+
+Total 72.1%
+
+
+
+https://seekingalpha.com/article/4141484-advanced-micro-devices-amd-ceo-dr-lisa-su-q4-2017-results-earnings-call-transcript?part=single
+
+https://seekingalpha.com/article/4141484-advanced-micro-devices-amd-ceo-dr-lisa-su-q4-2017-results-earnings-call-transcript?part=single
+
+https://www.barrons.com/articles/amd-nvidia-beware-the-gamers-really-coin-miners-says-susquehanna-1516324763
+Viceroy Research Group 7 viceroyresearch.org 
+
+
+ 
+Figure 7 Viceroy AMD valuation analysis 
+
+
+Liabilities arising from vulnerabilities 
+We believe the financial liabilities detailed in the section below will arise as a result of the vulnerabilities CTS 
+
+
+exposed and erode AMD’s residual value.  
+
+
+AMD faces a raft of potential lawsuits, a reality of competitor Intel after the release of the Meltdown and Spectre 
+
+
+exploits. Reuters reported on February 17, 2018 that Intel was facing 32 lawsuits from both customers and 
+
+
+shareholders: the city of Providence allegedly filed a lawsuit for US$5B7.  
+
+
+Viceroy believes that in light of the vulnerabilities brought forward by CTS Labs, AMD will face a similar 
+
+
+predicament. While the speed and quality of the company’s response are mitigating factors, we believe that 
+
+
+previous events highlight how the company may not react quickly enough to appease customers. 
+
+
+AMD recently struggled to patch an fTPM flaw identified by google cloud security team member Cfir Cohen. 
+
+
+Despite the vulnerability being reported to AMD in September 2017, a spokesperson for AMD claimed that a 
+
+
+patch would only be available in January 2018, after the existence of the vulnerability was disclosed according 
+
+
+to a 90-day disclosure deadline. 
+
+
+ 
+Figure 8 Extract from seclists.org post “AMD-PSP: fTPM Remote Code Execution via crafted EK certificate”8  
+
+
+                                                                 
+7 https://www.reuters.com/article/us-cyber-intel-lawsuit/intel-hit-with-32-lawsuits-over-security-flaws-idUSKCN1G01KX  
+8 http://seclists.org/fulldisclosure/2018/Jan/12  
+
+
+AMD Valuation Analysis (US$m)
+
+
+Share Price 11.26         
+
+
+Shares Outstanding 969             
+
+
+Market Cap 10,911       
+
+
+Net Cash 210-             
+
+
+EV 11,121       
+
+
+Current EV/Sales 2.09            
+
+
+Sellside consensus PT 14.87         
+
+
+Consensus EV/Sales 2.74            
+
+
+Revenue 5,329         
+
+
+Less: Enterprise solutions (88%) 2,024-         
+
+
+Less: Computing and Graphics (60%) 1,817-         
+
+
+Adjusted revenues 1,488         
+
+
+Consensus EV/Sales 2.74            
+
+
+Adjusted Price 3.99            
+
+
+Downside 65%
+
+
+
+https://www.reuters.com/article/us-cyber-intel-lawsuit/intel-hit-with-32-lawsuits-over-security-flaws-idUSKCN1G01KX
+
+http://seclists.org/fulldisclosure/2018/Jan/12
+Viceroy Research Group 8 viceroyresearch.org 
+
+
+ 
+Figure 9 Extract from The Register article “Security hole in AMD CPUs' hidden secure processor code revealed ahead of 
+
+
+patches”9 
+
+
+As such we do not believe the company will react quickly enough to adequately limit associated liabilities. AMD 
+
+
+has not yet confirmed that the company was previously unaware of the vulnerabilities identified by CTS Labs.  
+
+
+Vulnerabilities are difficult to patch if patching is possible at all. Product recalls are warranted 
+CTS identified several vulnerabilities at the hardware level (“logic gates”10) which may be not addressable 
+
+
+through conventional patching.  
+
+
+From discussions with experts: in the most optimistic of scenario it will take AMD many months to patch 
+
+
+vulnerabilities on its devices. If AMD fails to find a workaround in the near term, we believe a full recall in the 
+
+
+interest of public safety would be necessary and enforced if need be, as the chips are mostly under 12 months 
+
+
+of age. 
+
+
+Voluntary recalls by semiconductor companies are not without precedent. Intel has recalled its Pentium FDIV in 
+
+
+1994 and Cougar Point in 201111 at significant cost (US$475M and US$700M respectively). While a deep analysis 
+
+
+of these two recalls is beyond the scope of this follow-up, the security flaws in AMD’s products are likely to far 
+
+
+exceed the defects identified in Intel’s processors which necessitated a recall. 
+
+
+We believe that AMD will likely have to recall its Ryzen chips given the scope and severity of the vulnerabilities, 
+
+
+the lengthy period to provide patches and work-arounds, and the prospect of more vulnerabilities being 
+
+
+discovered. 
+
+
+Product liability 
+A consumer’s cause of action is usually based on common law as no federal product liability law exists, except 
+
+
+for the False Claims Act. This cause of action revolves around three types of claims: 
+
+
+1. Breach of warranty: the ability to seek remedy when a product fails to satisfy express representations, is 
+
+
+not merchantable, or is unfit for its particular purpose.12 
+
+
+2. Negligence: the ability to seek remedy from the defendant for failing to use due care13 
+
+
+3. Strict liability: the ability to seek remedy for product defect regardless of steps the manufacturer has taken14 
+
+
+AMD passed on ASMedia’s flawed technology to customers with little in the way of due diligence or effective 
+
+
+security review15,16  
+
+
+                                                                 
+9 https://www.theregister.co.uk/2018/01/06/amd_cpu_psp_flaw/  
+10 https://www.coursera.org/learn/build-a-computer/lecture/Aqrh6/unit-1-3-logic-gates  
+11 http://www.tomshardware.com/reviews/cougar-point-recall-sata-6gbps,2896.html 
+12 https://www.law.cornell.edu/wex/breach_of_warranty  
+13 http://www.courts.state.ny.us/reporter/archives/macpherson_buick.htm  
+14 https://www.cozen.com/admin/files/publications/kiernan1954533.pdf?embed  
+15http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+
+And+The+Issues+Relevant+To+Foreign+Manufacturers 
+16 https://www.kreamlaw.com/Frequently-Asked-Questions-Products-Liability.shtml 
+
+
  
 
 
-• By releasing Q4 results and hosting a conference call, NQ was sending a strong signal 
-that an unqualified audit opinion was fait accompli.  It is highly unusual for a 
-company to release its full year results when there is even a reasonable doubt about 
-whether it will receive an unqualified opinion.   
+
+https://www.theregister.co.uk/2018/01/06/amd_cpu_psp_flaw/
+
+https://www.coursera.org/learn/build-a-computer/lecture/Aqrh6/unit-1-3-logic-gates
+
+http://www.tomshardware.com/reviews/cougar-point-recall-sata-6gbps,2896.html
+
+https://www.law.cornell.edu/wex/breach_of_warranty
+
+http://www.courts.state.ny.us/reporter/archives/macpherson_buick.htm
+
+https://www.cozen.com/admin/files/publications/kiernan1954533.pdf?embed
+
+http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+And+The+Issues+Relevant+To+Foreign+Manufacturers
+
+http://www.mondaq.com/unitedstates/x/89684/Product+Liability+Safety/Developments+In+US+Product+Liability+Law+And+The+Issues+Relevant+To+Foreign+Manufacturers
+
+https://www.kreamlaw.com/Frequently-Asked-Questions-Products-Liability.shtml
+Viceroy Research Group 9 viceroyresearch.org 
 
 
-• On the April 10th call, Mr. Khan twice stated that he expected NQ to file its 20-F on 
-or by April 30th.  To quote Mr. Khan “…based on the current [audit] schedule, the 
-fully integrated schedule that all the parties that are associated with the process are 
-working from, we're planning on – we're currently planning on meeting the statutory 
-deadline for the 20F which is April 30.” 
+Warranties17  
+Implied warranties are unspoken and unwritten promises created by state law between a seller or merchant, to 
 
 
-• After NQ missed the second filing deadline of May 15th, Matt Mathison privately 
-reassured investors that the audit opinion was “on the goal line”, and that PwC merely 
-needed to perform some more compliance procedures.   
+their customers. There are two types of implied warranties that occur in consumer product transactions; the 
+
+
+implied warranty of merchantability and the implied warranty of fitness for a particular purpose. 
+
+
+1. The implied warranty of merchantability is a merchant's basic promise that the goods sold will do what 
+
+
+they are supposed to do and that there is nothing significantly wrong with them. In other words, it is 
+
+
+an implied promise that the goods are fit to be sold.  
+
+
+2. The implied warranty of fitness for a particular purpose is a promise sellers make when their customers 
+
+
+rely on their advice that a product can be used for some specific purpose. 
+
+
+Based on the ease with which the vulnerabilities in AMD’s products are exploitable, we do not believe these 
+
+
+products conform with the basic promise of a safe, secure product fit for use, essentially the product claims 
+
+
+are likely to be making “false claims.” 
+
+
+False claims  
+Based on the ease with which the vulnerabilities in AMD’s products are exploitable, we do not believe AMD’s 
+
+
+products were sufficiently tested and audited to justify its promotional competitive advantage of superior 
+
+
+security. We believe AMD may be subject to legal action under the false claims act. 
+
+
+Regulatory issues may exacerbate problems for AMD  
+While cybersecurity regulation is still in its nascent stages, it is becoming an increasingly important issue for 
+
+
+company boards and management teams. This includes heightened scrutiny by the SEC, who recently released 
+
+
+guidelines on timely cybersecurity disclosure following Spectre and Meltdown issues. Do not forget the AMD’s 
+
+
+initial response was to deny any impact from Spectre and Meltdown. It was only after Intel highlighted the issues 
+
+
+for AMD and that they were working with them did AMD admit to the impact of such vulnerabilities.  
+
+
+Homeland security have recently outlined proposals to integrate vetting of cyber-risks to the Government supply 
+
+
+chains. We believe that AMD’s misleading representation of the security of its products have a wide host of 
+
+
+potential regulatory and legal repercussions, including but not limited to product liability issues, warranty 
+
+
+protections, and false advertising, which may all lead to various fines and lawsuits. 
+
+
+Viceroy believe legal liabilities that will arise for AMD due to discoveries by CTS Labs will 
+
+
+exceed any residual value of the company, and accordingly maintain that the Company 
+
+
+will file for Chapter 11 in the short term in order to more effectively deal with claims. 
+
+
+AMD possible prior knowledge of issues  
+Since the publication of our report, a number of sources close to AMD have reached out to Viceroy alleging that 
+
+
+all matters identified by CTS had been known to AMD since at least Q4 2017. While we are not able to evaluate 
+
+
+this data, AMD should clarify whether or not it was aware of these issues prior to communications by CTS and if 
+
+
+so, why the issues not disclosed as per the SEC Guidance1819 
+
+
+                                                                 
+17 https://www.ftc.gov/tips-advice/business-center/guidance/businesspersons-guide-federal-warranty-law 
+
+
+
+
+
+
+
+
+19 https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21  
+ 
+
+
+
+https://www.ftc.gov/tips-advice/business-center/guidance/businesspersons-guide-federal-warranty-law
+
+https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21
+Viceroy Research Group 10 viceroyresearch.org 
+
+
+The issues have also been relayed to Microsoft, US-CERT, Dell, HP, Cisco, Symantec, FireEye, and CrowdStrike. 
+
+
+CTS have advised it took CrowdStrike one day to have a good understanding of the issues, and Microsoft Security 
+
+
+only two days to be completely on top of the vulnerabilities identified20. 
+
+
+Given the time frame, this begs the question as to why AMD’s customers have not also dismissed claims.  
+
+
+In our opinion, it is irresponsible for AMD to request voting slips for executive remuneration (or hold the meeting 
+
+
+altogether) until these issues are addressed, especially given that significant portions of management 
+
+
+compensation are bound to top line sales, which we have discussed may bring substantial contingent liabilities. 
+
+
+Insider Sales – Chief Technology Officer insider sales of options after CTS Expose 
+It is concerning that AMD’s CTO has chosen to exercise and immediately sell 150,000 shares of AMD two days 
+
+
+after the publication of our report. We find it strange that despite serious flaws being highlighted, AMD’s Chief 
+
+
+Technology Officer (CTO) sold options during such a critical time.  
 
 
  
-What Now? 
+Figure 10 Extract of Form 4: Mark Papermaster dated March 15, 201821 
+
+
+Papermaster’s sale of a 150,000 shares is material, especially after the disclosures and concerns raised by CTS 
+
+
+Labs. The SEC guidance on the matter, applicable from February 18, 2018, is extremely clear: 
+
+
  
-We believe NQ’s misleading statement that PwC wants to expand the scope of the audit, and that 
-the board is reviewing the request, is merely to create a pretext for NQ to change auditors.  In 
-other words, NQ has likely already decided to fire PwC, or PwC has already informed NQ it is 
-resigning.  It is highly unlikely that another affiliate of a Big Four (or BDO for that matter) 
-would touch NQ with a 10-foot pole.  While the long-term game for NQ is to avoid becoming 
-another tombstone in the graveyard of China frauds, we expect that insiders will continue to 
-make more acquisitions in order to drain the company of value.   
+ Extract of SEC Statement and Guidance on Public Company Cybersecurity Disclosures22 
+
+
+                                                                 
+20 https://www.techpowerup.com/forums/threads/cts-labs-responds-to-a-techpowerup-technical-questionnaire.242386/  
+21https://www.cnbc.com/amp/2018/01/03/amd-rebukes-intel-says-flaw-poses-near-zero-risk-to-its-chips.html  
+22 https://www.sec.gov/rules/interp/2018/33-10459.pdf  
+
+
+
+https://www.techpowerup.com/forums/threads/cts-labs-responds-to-a-techpowerup-technical-questionnaire.242386/
+
+https://www.cnbc.com/amp/2018/01/03/amd-rebukes-intel-says-flaw-poses-near-zero-risk-to-its-chips.html
+
+https://www.sec.gov/rules/interp/2018/33-10459.pdf
+Viceroy Research Group 11 viceroyresearch.org 
+
+
+Similar questions were raised regarding Intel CEO Brian Krzanich’s  insider sales executed last year in the midst 
+
+
+of the Spectre fiasco: Krzanich’s sales have been alleged to be illegal. 
+
+
+Of concern is that the SEC Chairman Jay Clayton statement on the aforementioned guidance regarding the sale 
+
+
+of stock: a statement heavily applicable to Papermaster’s involvement with AMD’s attempt to downplay the 
+
+
+risks of the vulnerabilities: 
+
+
  
-At these stock price levels, we would not be surprised to see the consideration mix for 
-acquisitions go toward cash, given that there should be real cash in the company from the 
-October 2013 convertible bond offering.  At the same time, NQ will likely issue more bullish 
-press releases about “partnerships” with big names (and no disclosed economics), report more 
-terrific but fake financials, and enter into more (likely corrupt) partial sales of subsidiaries that 
+Figure 11 Extract of Release by SEC Chairman Jay Clayton February 21, 201823 
 
 
-Page 4 of 5
-make NQ’s market cap seem enticingly small.  If NQ does manage to pump its stock price up 
-again, we then expect more share issuances and illegal insider sales.   
- 
-We base these assumptions on NQ’s past reptilian pumping behavior, two recent examples of 
-which are below. 
- 
+AMD were aware of the CTS Labs vulnerabilities when Papermaster’s sales took place, similar to Intel’s CEO 
 
 
-• On April 30th, when it missed the 20-F filing deadline, NQ issued an uber-bullish 
-press release that touted unofficial “no evidence found” results of the independent 
-committee investigation, which pushed the stock up by 10.8% on the day to $12.36 
-(which is 2.7x NQ’s closing price this past Friday of $4.58).   
-
-
-• On May 30th, when the 20-F was one month overdue, NQ had the temerity to increase 
-Q1 guidance and issue Q2 revenue YoY growth guidance of over 100%.  On the same 
-day, it also announced (an almost certainly corrupt) sale of a minority interest in FL 
-Mobile that gave the subsidiary an implied valuation equal to NQ’s market 
-capitalization.  NQ did not even acknowledge its past due 20-F in either release.  
-These announcements pushed the stock up 11.8% to $7.59.   
+Krzanich. We expect the media to take a similarly dim view as to whether these sales could have been illegal.  
 
 
 
 
 
-Page 5 of 5
+
+
+
+                                                                 
+23 https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21  
+
+
+
+https://www.sec.gov/news/public-statement/statement-clayton-2018-02-21
