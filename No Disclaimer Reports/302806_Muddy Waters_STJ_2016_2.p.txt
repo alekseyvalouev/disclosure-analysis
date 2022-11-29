@@ -6,6 +6,189 @@ Director of Research: Carson C. Block, Esq.
 
 
 	
+that person has agreed to be bound by these same terms of service. If you download or receive this transcript as an agent for any 
+other person, you are binding your principal to these same Terms of Service. 
+ 
+You should assume that as of the publication date of our reports and research, Muddy Waters Capital LLC (possibly along 
+with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors 
+and/or their clients and/or investors, has a short position in all stocks (and/or options, swaps, and other derivatives related 
+to the stock) and bonds covered herein, and therefore stands to realize significant gains in the event that the price of either 
+declines. We intend to continue transacting in the securities of issuers covered on this site for an indefinite period of time, 
+and we may be long, short, or neutral at any time regardless of our initial position and views as stated in our research. 
+ 
+This is not an offer to sell or a solicitation of an offer to buy any security, nor shall Muddy Waters offer, sell or buy any security to 
+or from any person through this report or reports on the website. Muddy Waters Capital LLC is registered as an investment advisor 
+only in the United States, but it does not render investment advice to anyone unless it has an investment adviser-client relationship 
+evidenced in writing. 
+ 
+If you are in the United Kingdom, you confirm that you are accessing research and materials as or on behalf of: (a) an investment 
+professional falling within Article 19 of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the 
+"FPO"); or (b) high net worth entity falling within Article 49 of the FPO.  
+ 
+Our research and reports express our opinions, which we have based upon generally available information, field research, inferences 
+and deductions through our due diligence and analytical process. To the best of our ability and belief, all information contained 
+herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not 
+insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to 
+the issuer. However, such information is presented “as is,” without warranty of any kind, whether express or implied. Muddy 
+Waters Capital LLC makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such 
+information or with regard to the results to be obtained from its use. Further, any report on this site contains a very large measure of 
+analysis and opinion. All expressions of opinion are subject to change without notice, and Muddy Waters Capital LLC does not 
+undertake to update or supplement any reports or any of the information, analysis and opinion contained in them. 
+ 
+You agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) 
+in any manner other than by providing the following link: http://www.muddywatersresearch.com/research/. If you have obtained 
+Muddy Waters Capital research in any manner other than by download from that link, you may not read such research without 
+going to that link and agreeing to the Terms of Service. You further agree that any dispute arising from your viewing and use of any 
+reports or other materials on the Muddy Waters Research website shall be governed by the laws of the State of California, without 
+regard to any conflict of law provisions. You knowingly and independently agree to submit to the personal and exclusive 
+jurisdiction of the superior courts located within the State of California and waive your right to any other jurisdiction or applicable 
+law, given that Muddy Waters Capital LLC has offices in California. The failure of Muddy Waters Capital LLC to exercise or 
+enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of 
+these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court 
+should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms 
+of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless 
+of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material 
+herein must be filed within one (1) year after such claim or cause of action arose or be forever barred. 
+
+
+Page 1 of 6
+August 29, 2016 
+ 
+
+
+STJ: Still Non-Secure 
+ 
+ 
+This past Friday, STJ published a response to the report MWC issued the day before.  STJ’s 
+response contained very little substance, and actually included admissions to several key points.  
+There are no changes to MedSec or our conclusions about the lack of security in the STJ device 
+ecosystem, and our belief in the need for recall and remediation. 
+ 
+There were two components to STJ’s response: substance (~20%) and fluff (~80%).  We first 
+address the substance.1 
+ 
+ 
+1. STJ responded that users would have to be within seven feet of a Merlin@home in order to be 
+vulnerable to attacks, including the attacks that MedSec demonstrated.2  This struck us as a 
+bizarre statement because:  
+ 
+
+
+• It acknowledges that the hundreds of thousands of active Merlin@home users who sleep 
+near their Merlin@homes would obviously be vulnerable to a large-scale attack when 
+connected to the devices for a continuous time period.3 
+ 
+
+
+• It completely ignores our comments about broadcasting an attack through a software-
+defined radio (“SDR”), which can be paired with a significantly more powerful antenna.  
+(MedSec has already demonstrated though a proof of concept this is possible via a SDR.)  
+Because the security on the Merlin@home device is seemingly so poor, it would be 
+relatively easy for an attacker to develop software that runs on a laptop, communicates 
+with the implantable devices, and is broadcast from a more powerful antenna.  We 
+discussed SDRs twice in the report, referring to a “software defined radio”.4  
+
+
+ 
+2. STJ seems to want to give the impression that its software updates addressed “the majority” of 
+the vulnerabilities MedSec identified.  The below statement from STJ’s response seems to be an 
+admission that a) STJ is aware it distributed devices with serious vulnerabilities, and b) STJ 
+believes some vulnerabilities still exist on the device.  Moreover, it is not an explicit statement 
+that its updates have addressed these issues. 
+ 
+
+
+“Our analysis concluded that the majority of the observations in the report apply to older 
+versions of the Merlin@home™ devices (i.e., those that have not been updated through 
+the automated remote upgrade process).” 
+
+
+
+
+
+                                                             
+1 This report is written for investors, and is deliberately non-technical.  
+2 The crux of STJ’s argument seems to be that when an implantable device is inside a person, the range is greatly 
+shortened compared to laboratory range in which the device is not implanted.  
+3 As we stated in the August 25, 2016 report (the “Report”), it would be illegal to attempt to validate the theory that 
+these (and other) attacks against STJ devices could be executed on a large scale basis. 
+4 See Report, p. 15. 
+
+
+Page 2 of 6
+If STJ were to expressly state that its software updates addressed all of the findings, such a 
+statement would strike us as completely wrong.  STJ seems not to understand that many of the 
+issues identified by MedSec on the Merlin@home device cannot be addressed with software 
+updates alone, in part due to open UART, JTAG, and SPI interfaces; and, removable NAND.  
+The large number of available devices, combined with the seeming lack of protection makes the 
+job of an adversary much easier. 
+ 
+Finally, STJ did not address that it has produced programmers with removable, unencrypted hard 
+drives.   
+ 
+ 
+3.  STJ stated that MedSec’s claim that the ability to impersonate any device in the STJ 
+ecosystem is speculative.  MedSec is confident it is correct because the communications protocol 
+used between devices does not sufficiently authenticate the end points.  In other words, 
+authentication was not built in to the communications protocol used between devices.  
+ 
+ 
+4. STJ showed its poor understanding of security when it stated that Merlin@home encrypts 
+communications it sends.  This appeared to be an attempt to impress readers with a specific 
+purported security feature of the device. 
+ 
+
+
+“The data transferred by Merlin@home are fully encrypted and meet or exceed all 
+applicable national data privacy and security requirements in all countries where the 
+Merlin.net PCN is used.” 
+
+
+ 
+In actuality, STJ’s communications protocol uses a simple data mixing technique to address 
+performance, not data protection.  St. Jude Medical’s own supplier, Zarlink, refers to this as 
+"whitening" rather than encryption. In MedSec’s opinion, this method doesn’t even come close to 
+the most basic encryption protections expected to protect patient data.5 
+ 
+ 
+5. STJ disputes that its ICD was “crashed” by the attack.  We have posted a video of a crash 
+attack test on a pacemaker.6  We invite STJ to explain what is going on with its pacemaker.  The 
+video is available at https://vimeo.com/180593205 
+ 
+ 
+We now address the fluff.  We engaged a firm to do a credibility analysis of STJ’s response.  The 
+following analysis, prepared by a former Central Intelligence Agency behavioral analyst and 
+polygrapher, indicates deception throughout the response.  Many of these indicia are in the 
+portions of the response we label “fluff”.  The analysis is published as presented to Muddy 
+Waters Capital LLC, and redacted only to protect the identity of the former CIA officer. 
+
+
+ 
+Credibility Assessment: St. Jude Medical (STJ) 
+
+
+27 August, 2016 
+                                                             
+5 http://www.microsemi.com/document-portal/doc_view/127877-zl70101-1645-19-fullds   
+6 There was no video taken of the test with the particular ICD featured in the picture of the programmer. 
+
+
+Page 3 of 6
+This analysis of St. Jude Medical’s (STJ) 26 August, 2016 response to Muddy Waters Capitals’ 
+(MWC) report, released 25 August, 2016, reveals multiple indicators associated with deception. 
+Outlined below are the portions of their response which offer the clearest display of such 
+indicators. It is not uncommon for indicators to appear in clusters within a response-onset-
+window in a traditional question and answer exchange. In the case of a written response, such as 
+this, a more global assessment is made. As a general rule the greater the number of indicators 
+identified the higher the likelihood of deception. For the sake of length I have in some places 
+condensed, paraphrased, or summarized statements made by each party. In other places, where it 
+is more beneficial, I have included full transcription.  
+ 
+The conclusions reached in this analysis are the independent opinions of the behavioral analyst 
+and in no way or part constitute a buy or sell recommendation of the underlying security. Be 
+advised that the deception detection protocol is not foolproof and is somewhat dependent on the 
+size and quality of the data sample being analyzed.  Errors and omissions may be contained 
+herein.  
  
 Convincing Statements are used by deceptive persons in an attempt to manage the perception of 
 their accuser towards the positive. The underlying goal of this linguistic device is to convince the 

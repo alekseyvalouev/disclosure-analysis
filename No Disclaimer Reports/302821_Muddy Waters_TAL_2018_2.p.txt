@@ -6,6 +6,103 @@ Part III
 
 
 July 23, 2018
+See important disclaimer / terms of use at end of report
+Peiyou offline enrollments appear 
+to be declining YoY
+
+
+2
+Peiyou Q3 2018 Disclosures
+
+
+• Total enrollment YoY +91.7%
+• Total revenue YoY +62.4%
+• Online ASPs ~40% lower than offline in quarter
+• Offline ASPs experienced YoY “high single digit” 
+
+
+growth
+
+
+We use a common-size model to show how this data 
+implies YoY offline enrollment decreases
+
+
+3
+1. Common Size the Data
+
+
+Enrollment 100.0
+ASP 100.0
+
+
+Revenue (Enrollment x ASP) 10,000.0
+
+
+Enrollment 191.7
+ASP "high single digit" growth
+
+
+Revenue (Enrollment x ASP) 16,240.0
+
+
+FY2017 Q3
+Total Peiyou (All of Which Was Offline in FY2017 Q3)
+
+
+FY2018 Q3
+Total Peiyou (All of Which Was Offline in FY2017 Q3)
+
+
+4
+2. This Gives Us Two Equations
+
+
+e_off + e_on = 191.7
+e_off * (100 + g_offASP) + e_on * ((100 + g_offASP) * .6) = 16,240
+
+
+e_off  = Peiyou offline enrollment
+e_on  = Peiyou online enrollment
+g_offASP = Peiyou offline growth rate percentage
+
+
+5
+3. Insert a “High Single Digit” Offline 
+ASP Growth Rate and Solve for e_off
+• If g_offASP = 6.0%, then offline enrollment declined 4.5%
+
+
+• If g_offASP = 7.5%, then offline enrollment declined 9.9%
+
+
+• If g_offASP = 9.0%, then offline enrollment declined 15.1%
+
+
+6
+Why Didn’t TAL Disclose Online / 
+Offline ASP Ratio on the Q4 Call?
+• We think it’s because our analyst sent a similar 
+
+
+version of this model to TAL IR for comment prior to 
+the Q4 call 
+
+
+• We never received a response
+• Until that time, our and analyst and IR had been 
+
+
+actively dialoguing
+
+
+7
+Our next report will detail why we 
+believe TAL has fabricated Peiyou
+results
+
+
+8
 
 
 10
